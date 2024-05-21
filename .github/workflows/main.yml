@@ -1,0 +1,39 @@
+name: Get Trending Searches
+
+on:
+  schedule:
+    - cron: '0 */3 * * *'  # Runs every 3 hours
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Install Dependencies
+        run: pip install feedparser
+
+      - name: Run Python Script
+        run: |
+          mkdir -p output
+          python trend.py
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+          git add output/trend.json || echo "No changes to commit"
+          git commit -m "Update trend.json" || echo "No changes to commit"
+
+      - name: Push changes
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
