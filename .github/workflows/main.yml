@@ -3,6 +3,7 @@ name: Get Trending Searches
 on:
   schedule:
     - cron: '0 */3 * * *'  # Runs every 3 hours
+  workflow_dispatch:
 
 jobs:
   fetch:
