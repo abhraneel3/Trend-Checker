@@ -2,11 +2,11 @@ name: Get Trending Searches
 
 on:
   schedule:
-    - cron: '0 */3 * * *'  # Runs every 3 hours
+    - cron: '0 0 * * *'  # Runs at midnight every day
   workflow_dispatch:
 
 jobs:
-  fetch:
+  fetch_trends:
     runs-on: ubuntu-latest
 
     steps:
@@ -22,18 +22,16 @@ jobs:
         run: pip install feedparser
 
       - name: Run Python Script
-        run: |
-          mkdir -p output
-          python trend.py
+        run: python script.py
 
-      - name: Commit changes
+      - name: Commit Changes
         run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
           git add trend.json || echo "No changes to commit"
           git commit -m "Update trend.json" || echo "No changes to commit"
 
-      - name: Push changes
+      - name: Push Changes
         uses: ad-m/github-push-action@v0.6.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
