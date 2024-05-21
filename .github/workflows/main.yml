@@ -2,7 +2,7 @@ name: Get Trending Searches
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Runs at midnight every day
+    - cron: '* */3 * * *'  # Runs at after 3 hours every day
   workflow_dispatch:
 
 jobs:
