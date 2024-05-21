@@ -36,7 +36,7 @@ async def send_messages():
         item['pubDate'] = parse_and_format_date(item['pubDate'])
 
         # Define the message
-        message = f"""
+        caption = f"""
 🌍 Trending News From: {item['country']}\n
 📰 {item['title']}\n\n
 📝 {item['news_item_snippet']}\n
@@ -45,8 +45,9 @@ async def send_messages():
 🚀 Today's Traffic: {item['approx_traffic']}\n\n
 #️⃣ #trendingnews #news #trending #latestnews #todaynews #telegramnews #latesttrendingnews
 """
-        # Send the message to Telegram channel
-        await bot.send_message(chat_id='@today_trending_news', text=message)
+
+        # Send the message to Telegram channel with photo
+        await bot.send_photo(chat_id='@today_trending_news', photo=item['picture'], caption=caption, parse_mode='Markdown')
 
 # Run the asynchronous function
 import asyncio
