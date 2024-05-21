@@ -22,7 +22,7 @@ jobs:
         run: pip install feedparser
 
       - name: Run Python Script
-        run: python script.py
+        run: python trend.py
 
       - name: Commit Changes
         run: |
