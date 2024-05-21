@@ -30,7 +30,7 @@ jobs:
         run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
-          git add output/trend.json || echo "No changes to commit"
+          git add trend.json || echo "No changes to commit"
           git commit -m "Update trend.json" || echo "No changes to commit"
 
       - name: Push changes
