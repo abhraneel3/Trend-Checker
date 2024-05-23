@@ -1,6 +1,26 @@
 [
   {
     "country": "United States",
+    "title": "Timberwolves",
+    "pubDate": "Wed, 22 May 2024 12:00:00 -0700",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQiOfiQroVjj1felzlh4efBDm4l2sltoefci5iXkXK5FOeJJrVUb0FQRE25dVu3Onwd13vEZVU9",
+    "news_item_snippet": "The Dallas Mavericks face the Minnesota Timberwolves tonight for Game 1 of the NBA Western Conference finals.",
+    "news_item_url": "https://www.cbsnews.com/essentials/how-to-watch-the-dallas-mavericks-vs-minnesota-timberwolves-nba-playoffs-game-1/",
+    "picture_source": "Timberwolves.com",
+    "approx_traffic": "1,000,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Europa League",
+    "pubDate": "Wed, 22 May 2024 03:00:00 -0700",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTNvvH_A1xYFLneKp-HjgvZm5uE_C0nK9eCdqU26N8vuM8cgFDRYJ4qSlp_X2ouoePEGYqZuHcB",
+    "news_item_snippet": "Ademola Lookman wrecked Bayer Leverkusen&#39;s pursuit of a historic unbeaten treble by scoring a stunning hat trick to seal Europa League glory for Atalanta in&nbsp;...",
+    "news_item_url": "https://www.espn.com/soccer/story/_/id/40198608/bayer-leverkusen-unbeaten-season-end-europa-league-final-atalanta",
+    "picture_source": "NBC New York",
+    "approx_traffic": "500,000+"
+  },
+  {
+    "country": "United States",
     "title": "Nvidia stock",
     "pubDate": "Wed, 22 May 2024 10:00:00 -0700",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRrdSZtI-44-ZIw-3xviri4lAxpm39FhYShRuXaTS0PFDvmUfRmKB9hf-f1qESOwpmnlUbH9tiD",
@@ -10,53 +30,23 @@
     "approx_traffic": "500,000+"
   },
   {
-    "country": "United States",
-    "title": "Europa League",
-    "pubDate": "Wed, 22 May 2024 03:00:00 -0700",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTt_9XZpI0uTIKlXjykK0X8IGDkniEhiRojqX7a7kI6giKqj2ssvhQMf-q85_b-1SrJ8pdC4lsgeQ",
-    "news_item_snippet": "The Major League Soccer season is kicking off in February. Here are important dates for the 2024 campaign. Spoiler alert. Atalanta winger Ademola Lookman was&nbsp;...",
-    "news_item_url": "https://www.nbcnewyork.com/news/sports/soccer/atalanta-leverkusen-europa-league-final-score-result/5438446/",
-    "picture_source": "ESPN",
-    "approx_traffic": "500,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Timberwolves vs Mavericks",
-    "pubDate": "Wed, 22 May 2024 12:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQWme9rdsueae4TyEXLd5DjHus81xPUcd9AQBL_utRPE8bwF-VodXLKMjkZq9uL2m7cjPeNfohf",
-    "news_item_snippet": "If the Timberwolves keep playing like this, they&#39;ll bump their record up to 5-3 in no time. On the other hand, the Mavericks will have to make due with a 4-3&nbsp;...",
-    "news_item_url": "https://www.cbssports.com/nba/news/minnesota-timberwolves-vs-dallas-mavericks-how-to-watch-live-stream-tv-channel-nba-start-time-29379432/",
-    "picture_source": "CBS News",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Celtics",
-    "pubDate": "Tue, 21 May 2024 16:00:00 -0700",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQsZu_HH0JS69mvKF7mWUWo867xr7GN-GjmPzzKLvny82zANgHkEvItNrgKXQP_NwWEyPF1FB34",
-    "news_item_snippet": "Expert recap and game analysis of the Boston Celtics vs. Indiana Pacers NBA game from May 21, 2024 on ESPN.",
-    "news_item_url": "https://www.espn.com/nba/recap?gameId=401671998",
-    "picture_source": "CelticsBlog",
-    "approx_traffic": "1,000,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Greenfield, Iowa tornado",
-    "pubDate": "Tue, 21 May 2024 17:00:00 -0700",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSTgFVReTmj1pM5sOLb9jMCqXB46oaEpstzHMBaoqoe6Qz2Wmhd19Wde4WLuNKjwLR2oeW3Nady",
-    "news_item_snippet": "Drone video footage from Reed Timmer, a storm chaser and meteorologist, captured an Iowa tornado bringing a wind turbine to the ground.",
-    "news_item_url": "https://www.desmoinesregister.com/story/weather/2024/05/22/reed-timmer-drone-footage-wind-turbine-greenfield-iowa-tornado/73801918007/",
-    "picture_source": "ABC News",
-    "approx_traffic": "200,000+"
-  },
-  {
     "country": "India",
     "title": "Accordion",
     "pubDate": "Thu, 23 May 2024 00:30:00 +0530",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcS-k_JoMS7_UDePcXU9yPEa3YzOnBGaEFh179IcvHxOlCPrjkaS0mItU04KytQx_kbqf2hwSYTJ",
-    "news_item_snippet": "India News: Google celebrated the patent anniversary of the Accordion, a folk music instrument, with a Doodle, marking the invention in 1829.",
-    "news_item_url": "https://timesofindia.indiatimes.com/india/google-doodle-marks-patent-anniversary-of-musical-instrument-accordion/articleshow/110346901.cms",
+    "news_item_snippet": "Among free-reed instruments with bellows, the accordion was developed in the early 1800s alongside others like the concertina, bandoneon, and harmonium.",
+    "news_item_url": "https://www.hindustantimes.com/technology/google-doodle-celebrates-accordion-a-german-instrument-and-folk-musicians-main-squeeze-101716421719441.html",
     "picture_source": "NDTV",
+    "approx_traffic": "500,000+"
+  },
+  {
+    "country": "India",
+    "title": "Virat Kohli",
+    "pubDate": "Thu, 23 May 2024 09:30:00 +0530",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRU2LUeLeyxWB6tA3T7zoVR1EonGAu0B4zhZHJMVd--dh8JIO_so9YnpIfFbTyiPsN9pBFKeU-w",
+    "news_item_snippet": "Virat Kohli&#39;s disappointment was evident as RCB was knocked out of IPL 2024 by Rajasthan Royals. Despite hopes after entering the playoffs, their dreams&nbsp;...",
+    "news_item_url": "https://www.livemint.com/sports/cricket-news/virat-kohli-dislodges-bails-after-rcbs-exit-from-ipl-2024-season-netizens-call-it-heartbreaking-11716427298427.html",
+    "picture_source": "Samayam Telugu",
     "approx_traffic": "200,000+"
   },
   {
@@ -73,10 +63,10 @@
     "country": "India",
     "title": "Europa League",
     "pubDate": "Wed, 22 May 2024 10:30:00 +0530",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQbal0iYxaELKBnJ7iJvk_V8nuvDztbUoXK3WGiBf779vOrfmchiE1mse95Drf7K3Uc0eRugBH2",
-    "news_item_snippet": "Dublin: Ademola Lookman scored a stunning hat-trick as Atalanta beat Bayer Leverkusen 3-0 in the Europa League final on Wednesday to win just the second&nbsp;...",
-    "news_item_url": "https://www.deccanherald.com/sports/football/lookman-hattrick-makes-europa-league-history-as-atalanta-end-leverkusens-unbeaten-run-3035026",
-    "picture_source": "The Guardian",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTt_9XZpI0uTIKlXjykK0X8IGDkniEhiRojqX7a7kI6giKqj2ssvhQMf-q85_b-1SrJ8pdC4lsgeQ",
+    "news_item_snippet": "Atalanta&#39;s Europa League hat-trick hero Ademola Lookman admitted that he had to wait a while for success after years in and out of favour at different clubs&nbsp;...",
+    "news_item_url": "https://sportstar.thehindu.com/football/europa-league/ademola-lookman-atalanta-europa-league-final-2024-hattrick-leverkusen-football-news/article68206480.ece",
+    "picture_source": "ESPN India",
     "approx_traffic": "200,000+"
   },
   {
@@ -90,33 +80,13 @@
     "approx_traffic": "500,000+"
   },
   {
-    "country": "India",
-    "title": "England vs Pakistan",
-    "pubDate": "Tue, 21 May 2024 17:30:00 +0530",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTqBsvyYY7nDrRvcEgvQUBdF4YDcPtef4gCl0SsrTCGnLUVhgybMs2WTTAbN9nM-wCBxV1wm9R5",
-    "news_item_snippet": "ENG v PAK 1st T20I Highlights: Persistent rain saw the first T20I between England and Pakistan at Headingley on Wednesday abandoned without a ball being&nbsp;...",
-    "news_item_url": "https://sports.ndtv.com/cricket/england-vs-pakistan-1st-t20i-live-score-updates-5720685",
-    "picture_source": "Aljazeera.com",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "India",
-    "title": "Porsche",
-    "pubDate": "Tue, 21 May 2024 03:30:00 +0530",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSkw1fpAf9iJ9abVN-k8OWb6OXAg5CPB9NkPX_ggoTHR46FVoH-WwRin6gfvPtwRcpp0Xz08CWB",
-    "news_item_snippet": "Three days after bail was granted to the Pune teenager upon the condition that he write an essay on accidents, the Juvenile Justice Board has modified its order&nbsp;...",
-    "news_item_url": "https://www.ndtv.com/india-news/he-killed-my-son-mother-of-man-killed-in-pune-porsche-accident-breaks-down-in-tears-5723414",
-    "picture_source": "Business Today",
-    "approx_traffic": "200,000+"
-  },
-  {
     "country": "Brazil",
     "title": "Corinthians",
     "pubDate": "Wed, 22 May 2024 05:00:00 -0500",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTFQ-uiypdvjwYbg5Kd13ZKhy8rn9WzL4vtuIkeN7yPq15UpNv2rjnjGgjrsLAAapOnnVJqjwoG",
-    "news_item_snippet": "O Corinthians est\u00e1 classificado \u00e0s oitavas de final da Copa do Brasil. Nesta quarta-feira, o Tim\u00e3o derrotou o Am\u00e9rica-RN por 2 a 1, com um gol no.",
-    "news_item_url": "https://www.gazetaesportiva.com/campeonatos/copa-do-brasil/corinthians-vence-america-rn-com-gol-no-fim-e-se-classifica-as-oitavas-da-copa-do-brasil/",
-    "picture_source": "Gazeta Esportiva",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQxPCnEwxTadU1RiSu83_s3DuVld8quCf87LoDLYjUZrO1z-h-q6qPl-pjuN7Og96CKV8nl5pEp",
+    "news_item_snippet": "O primeiro tempo foi de dom\u00ednio corintiano, s\u00f3 que o gol demorou a sair. O Corinthians abriu o placar com um gol de Yuri Alberto aos 41 minutos de jogo, ap\u00f3s&nbsp;...",
+    "news_item_url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-brasil/corinthians-bate-o-america-rn-e-se-classifica-na-copa-do-brasil/",
+    "picture_source": "CNN Brasil",
     "approx_traffic": "1,000,000+"
   },
   {
@@ -134,8 +104,8 @@
     "title": "Ec Vit\u00f3ria x Botafogo",
     "pubDate": "Wed, 22 May 2024 15:00:00 -0500",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcT8CKLa1RxJlJSl2XSPGPQriszfcPXSxuWqI5-weUn2w4HkwLtoYh1dTFFni8hxy8tG5gftV_ZK",
-    "news_item_snippet": "Fim do Jogo, Vit\u00f3ria 1, Botafogo 2. 2\u00ba Tempo. 6&#39;&nbsp;...",
-    "news_item_url": "https://www.terra.com.br/esportes/futebol/copa-do-brasil/ao-vivo/vitoria-x-botafogo/84111/",
+    "news_item_snippet": "O Botafogo visita o Vit\u00f3ria nesta quarta-feira (22), pela partida de volta da terceira fase da Copa do Brasil. A bola rola a partir das 19h (de Bras\u00edlia),&nbsp;...",
+    "news_item_url": "https://www.terra.com.br/esportes/vitoria-x-botafogo-onde-assistir-ao-vivo-horario-e-escalacoes-do-jogo-da-copa-do-brasil,cbc8ca2523766d8795278fc944eaf5436dx5lltt.html",
     "picture_source": "UOL",
     "approx_traffic": "500,000+"
   },
@@ -154,8 +124,8 @@
     "title": "Severe thunderstorm watch",
     "pubDate": "Wed, 22 May 2024 15:00:00 -0400",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTKs4iAwhSGs0ZftD0I9fuA5gjBZR8PERMVlvnMq2PuoSDqSsvFVLo2TotKqsNiNZiB76bQTj_q",
-    "news_item_snippet": "A large part of southern Ontario is under a severe thunderstorm watch, with strong winds, hail and heavy rain possible on Wednesday.",
-    "news_item_url": "https://globalnews.ca/news/10517321/severe-thunderstorm-watch-southern-ontario-4/",
+    "news_item_snippet": "Following hot, muggy weather in Hamilton and surrounding areas earlier on Wednesday, Environment Canada issued a severe thunderstorm watch for the region.",
+    "news_item_url": "https://www.cbc.ca/news/canada/hamilton/thunderstorm-watch-may-22-1.7211249",
     "picture_source": "Current Students - Carleton University",
     "approx_traffic": "200,000+"
   },
@@ -164,8 +134,8 @@
     "title": "Europa League",
     "pubDate": "Wed, 22 May 2024 13:00:00 +0200",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTEqBUo_eN_qGAgcMGWpk7nxFPp-xrVgBPG-UbSVWozA3H36SHFDf8WpFsz5ksi-hisr0cr24U1",
-    "news_item_snippet": "Le club italien a \u00e9t\u00e9 sacr\u00e9 champion d&#39;Europe mercredi soir contre le champion d&#39;Allemagne, qui n&#39;avait jamais perdu cette saison (3-0).",
-    "news_item_url": "https://www.lindependant.fr/2024/05/22/football-europa-league-latalanta-bergame-sacree-en-faisant-tomber-le-bayer-leverkusen-11967754.php",
+    "news_item_snippet": "Tout savoir sur l&#39;Atalanta, vainqueur de l&#39;UEFA Europa League 2023/24.",
+    "news_item_url": "https://fr.uefa.com/uefaeuropaleague/news/0285-18e0577a81cc-238c0923b8b7-1000--uefa-europa-league-le-vainqueur/",
     "picture_source": "RTL.fr",
     "approx_traffic": "500,000+"
   },
@@ -173,19 +143,19 @@
     "country": "Germany",
     "title": "Leverkusen",
     "pubDate": "Tue, 21 May 2024 20:00:00 +0200",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQw7dPWpq0uS0cZaLdxlCGZQiJZguu8gQ8-1xxPhdEI5ntudSXDOygXSeKDS3EQvC73bf6KcRHo",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRLGG9wS7m4JtsGQtNWDxc5LY1nNFQyKdtPCVoUaosRKk42NEFH7IRKgMU2_-YpKxSZrbWDljiB",
     "news_item_snippet": "Bayer Leverkusen muss den Traum von einer ungeschlagenen Spielzeit und dem Triple begraben. Der deutsche Meister unterlag Atalanta Bergamo im Finale der&nbsp;...",
-    "news_item_url": "https://ga.de/sport/fussball/bayer-leverkusen-traum-vom-triple-zerplatzt-in-dublin_aid-113183269",
-    "picture_source": "tagesschau.de",
+    "news_item_url": "https://ga.de/sport/fussball/bayer-leverkusen-traum-vom-triple-zerplatzt-im-finale-in-dublin_aid-113183269",
+    "picture_source": "SPORT1",
     "approx_traffic": "1,000,000+"
   },
   {
     "country": "United Kingdom",
     "title": "Europa League",
     "pubDate": "Wed, 22 May 2024 11:00:00 +0100",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSdrPrT5Ow2JZ7qVGndFtojQyWFKRbcqq2Bbzpq8LtLEiAxcajKll9QtY7UANq2xqi5aHYxW5lY",
-    "news_item_snippet": "Atalanta triumphed in the Europa League final and ended Bayer Leverkusen&#39;s 51-game unbeaten streak. In a display nearing perfection Gian Piero Gasperini&#39;s&nbsp;...",
-    "news_item_url": "https://www.independent.co.uk/sport/football/europa-league-final-live-stream-score-result-b2549486.html",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRrKSeyKQKNP9KRS-BpBX3jv1pP5FXeafb-ITGSl2oaZOjoQhnHW2Ub28cNOcMXMS6dlzw9QmG8",
+    "news_item_snippet": "Ademola Lookman scored a brilliant hat-trick to secure Atalanta&#39;s first European trophy as they won 3-0 and inflicted Bayer Leverkusen&#39;s first defeat of the&nbsp;...",
+    "news_item_url": "https://www.theguardian.com/football/article/2024/may/22/atalanta-bayer-leverkusen-europa-league-final-match-report",
     "picture_source": "UEFA.com",
     "approx_traffic": "500,000+"
   },
