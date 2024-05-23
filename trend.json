@@ -1,12 +1,22 @@
 [
   {
     "country": "United States",
+    "title": "Nvidia stock",
+    "pubDate": "Wed, 22 May 2024 14:00:00 -0700",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRrdSZtI-44-ZIw-3xviri4lAxpm39FhYShRuXaTS0PFDvmUfRmKB9hf-f1qESOwpmnlUbH9tiD",
+    "news_item_snippet": "AI chip leader Nvidia topped even Wall Street&#39;s elevated &quot;whisper numbers&quot; with its fiscal Q1 results and guidance. Nvidia stock rose.",
+    "news_item_url": "https://www.investors.com/news/technology/nvidia-stock-breaks-out-on-q1-beat-and-raise-report/",
+    "picture_source": "NVIDIA Blog",
+    "approx_traffic": "500,000+"
+  },
+  {
+    "country": "United States",
     "title": "Timberwolves",
     "pubDate": "Wed, 22 May 2024 19:00:00 -0700",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRPxgjW3tGebh3y4RHkXmoZdbwVBU8rNkGLMPwvx7UJenbOoRe_zrBZ60w-SE5jZX0G4a5l4SDR",
-    "news_item_snippet": "The Mavericks&#39; star duo shines bright while the Timberwolves and Anthony Edwards lack energy coming out of grueling semifinals.",
-    "news_item_url": "https://www.nba.com/news/timberwolves-mavericks-takeaways-game-1-2024-nba-playoffs",
-    "picture_source": "ESPN",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQpwsrbKJ6ZAmvcWg17_QVl1cCGX6pwH_qIjoshB1ahXwaepy_aFXPKouNUu2psuBu4vtWHjyxc",
+    "news_item_snippet": "Our NBA insiders break down their biggest takeaways from Game 1 of the Western Conference finals in Minneapolis.",
+    "news_item_url": "https://www.espn.com/nba/story/_/id/40198754/2024-nba-playoffs-biggest-takeaways-mavericks-timberwolves-game-1-west-finals",
+    "picture_source": "NBA.com",
     "approx_traffic": "500,000+"
   },
   {
@@ -14,40 +24,10 @@
     "title": "Europa League",
     "pubDate": "Wed, 22 May 2024 03:00:00 -0700",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTNvvH_A1xYFLneKp-HjgvZm5uE_C0nK9eCdqU26N8vuM8cgFDRYJ4qSlp_X2ouoePEGYqZuHcB",
-    "news_item_snippet": "Ademola Lookman wrecked Bayer Leverkusen&#39;s pursuit of a historic unbeaten treble by scoring a stunning hat trick to seal Europa League glory for Atalanta in&nbsp;...",
-    "news_item_url": "https://www.espn.com/soccer/story/_/id/40198608/bayer-leverkusen-unbeaten-season-end-europa-league-final-atalanta",
+    "news_item_snippet": "Lookman&#39;s stunning hat-trick brings Atalanta their first trophy in 117 years and an end to &#39;Neverlusen&#39;s&#39; unbeaten run.",
+    "news_item_url": "https://www.aljazeera.com/sports/2024/5/23/europa-league-final-nigerias-lookman-the-hero-as-atalanta-stun-leverkusen",
     "picture_source": "NBC New York",
     "approx_traffic": "500,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Nvidia stock",
-    "pubDate": "Wed, 22 May 2024 10:00:00 -0700",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRrdSZtI-44-ZIw-3xviri4lAxpm39FhYShRuXaTS0PFDvmUfRmKB9hf-f1qESOwpmnlUbH9tiD",
-    "news_item_snippet": "AI chip leader Nvidia topped even Wall Street&#39;s elevated &quot;whisper numbers&quot; with its fiscal Q1 results and guidance. Nvidia stock rose.",
-    "news_item_url": "https://www.investors.com/news/technology/nvidia-stock-breaks-out-on-q1-beat-and-raise-report/",
-    "picture_source": "NVIDIA Blog",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Celtics",
-    "pubDate": "Tue, 21 May 2024 17:00:00 -0700",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRAYZi7iiYquCqa6qRoAOMULlWOPQMhFg9SKfvKxfsGSGt17lbrtf2NDxZV3p3djeKsSMFe9wWh",
-    "news_item_snippet": "Indiana had Game 1 in its grasp before letting it slip away in overtime with a handful of critical miscues.",
-    "news_item_url": "https://www.nba.com/news/pacers-celtics-game-2-preview-east-finals",
-    "picture_source": "CelticsBlog",
-    "approx_traffic": "1,000,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Greenfield, Iowa tornado",
-    "pubDate": "Tue, 21 May 2024 18:00:00 -0700",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQH89QoTEta311V9KezBg6HXMwdA6zi8jB8EhXgz0ozTm_rD-bJubJ3UG4hroruktPzWzYUVcjk",
-    "news_item_snippet": "An at-least-EF3 tornado in Greenfield, Iowa obliterated homes, crumpled cars and splintered trees, causing four fatalities and at least 35 injuries.",
-    "news_item_url": "https://abc30.com/post/greenfield-iowa-tornado-damage-leaves-work-community-after/14856507/",
-    "picture_source": "Local 5 - weareiowa.com",
-    "approx_traffic": "200,000+"
   },
   {
     "country": "India",
@@ -74,8 +54,8 @@
     "title": "RCB vs RR",
     "pubDate": "Wed, 22 May 2024 08:30:00 +0530",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQRsLw8ak1eRbxcmYEZDt-Yz1d5YfdnB_dy6_-K44ZA8I7NHSIN99rXaW2lDOEhf173xSKlHTiS",
-    "news_item_snippet": "\u0906\u0908\u092a\u0940\u090f\u0932 2024 \u0915\u0947 \u090f\u0932\u093f\u092e\u093f\u0928\u0947\u091f\u0930 \u092e\u0947\u0902 \u0930\u093e\u091c\u0938\u094d\u0925\u093e\u0928 \u0930\u0949\u092f\u0932\u094d\u0938 \u0928\u0947 \u0930\u0949\u092f\u0932 \u091a\u0948\u0932\u0947\u0902\u091c\u0930\u094d\u0938 \u092c\u0947\u0902\u0917\u0932\u0941\u0930\u0941 \u0915\u094b \u091a\u093e\u0930 \u0935\u093f\u0915\u0947\u091f \u0938\u0947 \u0939\u0930\u093e\u0915\u0930 \u091f\u0942\u0930\u094d\u0928\u093e\u092e\u0947\u0902\u091f \u0938\u0947 \u092c\u093e\u0939\u0930 \u0915\u0930 \u0926\u093f\u092f\u093e \u0939\u0948 \u0914\u0930 \u0909\u0928\u0915\u0947&nbsp;...",
-    "news_item_url": "https://www.amarujala.com/live/cricket/cricket-news/rr-vs-rcb-live-cricket-score-ipl-2024-eliminator-rajasthan-vs-bangalore-match-at-narendra-modi-stadium-2024-05-22",
+    "news_item_snippet": "Kohli, Patidar and Lomror hit 30s to give RCB 172, but it was never likely to be enough to stop RR despite their poor recent run.",
+    "news_item_url": "https://www.espncricinfo.com/series/indian-premier-league-2024-1410320/rajasthan-royals-vs-royal-challengers-bengaluru-eliminator-1426310/match-report",
     "picture_source": "myKhel Tamil",
     "approx_traffic": "5,000,000+"
   },
@@ -90,64 +70,34 @@
     "approx_traffic": "200,000+"
   },
   {
-    "country": "Australia",
-    "title": "Accordion",
-    "pubDate": "Thu, 23 May 2024 01:00:00 +1000",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcS6r8S5esARwouc3kU0fjo2zWfDrIRKNSWXrdnWetSHDw7C_gHMdobKX4h0VzZ4y94XNAcrs_IZ",
-    "news_item_snippet": "From birthdays of famous scientists and musicians to interactive games and international events, Google has been transforming its logo into fun designs, racking&nbsp;...",
-    "news_item_url": "https://inews.co.uk/light-relief/accordion-google-doodle-3070563",
-    "picture_source": "Deccan Herald",
-    "approx_traffic": "500,000+"
+    "country": "India",
+    "title": "Dinesh Karthik",
+    "pubDate": "Wed, 22 May 2024 21:30:00 +0530",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQM4GNj1pfjN1vee9BgvDP6SWgeM44GFfEmb44XoJSbWjYD2GNTAhBOhd-7NBdLigoNoKtcOdSG",
+    "news_item_snippet": "Dinesh Karthik&#39;s 20-year cricket career, marked by comebacks and contributions, ends with a swansong in the IPL.",
+    "news_item_url": "https://www.thehindu.com/sport/cricket/dinesh-karthik-man-of-comebacks-and-dhonis-understudy-calls-time-on-ipl-and-international-career/article68207863.ece",
+    "picture_source": "Hindustan \u0939\u093f\u0902\u0926\u0940",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "Brazil",
+    "title": "Consulta restitui\u00e7\u00e3o",
+    "pubDate": "Thu, 23 May 2024 06:00:00 -0500",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcT49_Em_jzhLY4NtPXdYYPtndLUg5kbqK9Hd4SXne94z3cFVPtJTTw4z3ItI2s39K5yES70vaaa",
+    "news_item_snippet": "A consulta pode ser feita na p\u00e1gina da Receita Federal na internet. Basta clicar em \u201cMeu Imposto de Renda\u201d e, em seguida, no bot\u00e3o \u201cConsultar a&nbsp;...",
+    "news_item_url": "https://agenciabrasil.ebc.com.br/economia/noticia/2024-05/comeca-nesta-quinta-feira-consulta-ao-lote-de-restituicao-do-ir-2023",
+    "picture_source": "Jornal O Globo",
+    "approx_traffic": "200,000+"
   },
   {
     "country": "Brazil",
     "title": "Corinthians",
     "pubDate": "Wed, 22 May 2024 05:00:00 -0500",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRKsFAvyJW1lUtT-NV9tzAsgcHdw7JMy2DYcqaA6UY2n1_7PN1fJbb6-yRrW2tpuI7gj-aYQEQ-",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQqg-8gosOyfwaxmH7_qew_n01JXcJo14N53_rLXrm2XZ7TgDCp8XGS5BmjOUzpLaQQtgFCOAJ1",
     "news_item_snippet": "S\u00e9rgio Moura deixou o cargo de superintendente de marketing do Corinthians. Ele pediu afastamento nesta quinta-feira (23). O clube alvinegro emitiu nota&nbsp;...",
     "news_item_url": "https://www.cnnbrasil.com.br/esportes/diretor-deixa-corinthians-apos-polemica-com-patrocinadora-veja/",
     "picture_source": "globoesporte.com",
     "approx_traffic": "1,000,000+"
-  },
-  {
-    "country": "Brazil",
-    "title": "Chilaquiles",
-    "pubDate": "Wed, 22 May 2024 22:00:00 -0500",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTqB0uNAS3DXodlG4c9mz7Ty2sI-eN5h0iJE5I6PSbKKpyheZIIS8tGXozTxhiQf24d6ttRX9hw",
-    "news_item_snippet": "No Doodle desta quinta-feira (23), o Google homenageia o chilaquiles, prato t\u00edpico mexicano que mistura tortilhas fritas com muita salsa.",
-    "news_item_url": "https://tecnologia.ig.com.br/parceiros/canaltech/2024-05-23/o-que-e-chilaquiles--conheca-o-prato-homenageado-no-doodle-desta-quinta-23.html",
-    "picture_source": "Olhar Digital",
-    "approx_traffic": "1,000,000+"
-  },
-  {
-    "country": "Brazil",
-    "title": "Sport Recife x Atl\u00e9tico-MG",
-    "pubDate": "Wed, 22 May 2024 17:00:00 -0500",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSdgIzXeO8v85fffppwbpi3Z7yvm5Bv27FJ0GcriHP6bZf6_xeUNJo3TpRmqRLIWCT8xF1uwFIx",
-    "news_item_snippet": "Veja tamb\u00e9m desfalques, arbitragem e outras informa\u00e7\u00f5es do jogo de volta da terceira fase da Copa do Brasil; sportv e Premiere transmitem a partida.",
-    "news_item_url": "https://ge.globo.com/pe/futebol/copa-do-brasil/noticia/2024/05/22/sport-x-atletico-mg-onde-assistir-ao-vivo-horario-e-escalacoes.ghtml",
-    "picture_source": "Sport Club do Recife",
-    "approx_traffic": "500,000+"
-  },
-  {
-    "country": "Brazil",
-    "title": "Ec Vit\u00f3ria x Botafogo",
-    "pubDate": "Wed, 22 May 2024 15:00:00 -0500",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcT8CKLa1RxJlJSl2XSPGPQriszfcPXSxuWqI5-weUn2w4HkwLtoYh1dTFFni8hxy8tG5gftV_ZK",
-    "news_item_snippet": "Fim do Jogo, Vit\u00f3ria 1, Botafogo 2. 2\u00ba Tempo. 6&#39;&nbsp;...",
-    "news_item_url": "https://www.terra.com.br/esportes/futebol/copa-do-brasil/ao-vivo/vitoria-x-botafogo/84111/",
-    "picture_source": "UOL",
-    "approx_traffic": "500,000+"
-  },
-  {
-    "country": "Brazil",
-    "title": "Fluminense",
-    "pubDate": "Wed, 22 May 2024 14:00:00 -0500",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRGcx5XYEB0hkHEMRVbgZOB2RqNjFPmKcuKTDcTm9M_UKbRbfBwP-u6dTIBd0ZEE3sOyz8Dw0lZ",
-    "news_item_snippet": "Camisa 9 marcou o segundo gol da vit\u00f3ria sobre o Sampaio Corr\u00eaa, na Copa do Brasil. Diniz e M\u00e1rio destacaram responsabilidade do jogador, apoio do clube e&nbsp;...",
-    "news_item_url": "https://ge.globo.com/futebol/times/fluminense/noticia/2024/05/23/fluminense-da-voto-de-confianca-a-john-kennedy-que-mira-sequencia-apos-afastamento.ghtml",
-    "picture_source": "globoesporte.com",
-    "approx_traffic": "200,000+"
   },
   {
     "country": "Canada",
@@ -170,33 +120,43 @@
     "approx_traffic": "200,000+"
   },
   {
-    "country": "France",
-    "title": "Leverkusen",
-    "pubDate": "Wed, 22 May 2024 13:00:00 +0200",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTtAFuPkpDvhc5EVUDXvSy6gDKHO2X1mfR2sjJ6AABviZlDQ1pP9i6YQjsjP-26u_Xk_FtBesEy",
-    "news_item_snippet": "Gr\u00e2ce \u00e0 un tripl\u00e9 de Lookman, les Bergamasques ont surclass\u00e9 (3-0) les hommes de Xabi Alonso pourtant invaincus depuis le d\u00e9but de la saison en finale de la&nbsp;...",
-    "news_item_url": "https://www.lorientlejour.com/article/1414834/latalanta-fait-tomber-leverkusen-grace-a-un-triple-de-lookman-et-remporte-la-ligue-europa-compte-rendu.html",
-    "picture_source": "Eurosport.fr",
+    "country": "Germany",
+    "title": "Bochum gegen D\u00fcsseldorf",
+    "pubDate": "Thu, 23 May 2024 15:00:00 +0200",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSFCsdzdgWq-eUU4LqoJf83FiFvfB20_rPuxnde8eYI1v_S7LVaxvjQcNjujQCqN0U91neND1dI",
+    "news_item_snippet": "Liveticker mit allen Spielereignissen, Toren und Statistiken zum Spiel VfL Bochum - Fortuna D\u00fcsseldorf.",
+    "news_item_url": "https://www.kicker.de/bochum-gegen-duesseldorf-2024-bundesliga-relegation-4910419/ticker",
+    "picture_source": "Westdeutsche Allgemeine Zeitung",
     "approx_traffic": "200,000+"
   },
   {
-    "country": "Germany",
-    "title": "Leverkusen",
-    "pubDate": "Tue, 21 May 2024 23:00:00 +0200",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcR0kZqY3-UrBaNk4JFUjai-gltogw1_vAPalasZz0mXNAmoZjwfyiKhV1Xc-Y5cTyQxUhp9Yo_f",
-    "news_item_snippet": "Nach 51 Spielen ohne Pleite verliert Bayer Leverkusen wieder - und das im Europa-League-Finale. Internationale Medien \u00fcber das 0:3 gegen Bergamo.",
-    "news_item_url": "https://www.waz.de/sport/article242398846/Leverkusen-demoliert-Pressestimmen-zur-Euro-League-Pleite.html",
-    "picture_source": "SPORT1",
-    "approx_traffic": "1,000,000+"
+    "country": "Italy",
+    "title": "Serie A",
+    "pubDate": "Thu, 23 May 2024 06:00:00 +0200",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRP7jv8oxH4zcbHO8sx4xX46eFMRtmAxLT5dJlIcN8UHkIXMDgShhVbVPzdqgCXAzTwdariIMOk",
+    "news_item_snippet": "GOL Cagliari-FIORENTINA 1-1 al 65&#39; DEIOLA Cross di Prati, inserimento del capitano che segna la sua prima rete in stagione! Dopo un breve check al Var,&nbsp;...",
+    "news_item_url": "https://www.ansa.it/sito/notizie/sport/calcio/2024/05/23/serie-a-in-campo-cagliari-fiorentina-0-1-diretta_3e7e3970-ac8a-4c25-84b5-cd4e6782edcb.html",
+    "picture_source": "Eurosport.it",
+    "approx_traffic": "200,000+"
   },
   {
-    "country": "Germany",
-    "title": "Europa-League-Finale",
-    "pubDate": "Tue, 21 May 2024 20:00:00 +0200",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQurZrES0OL9iJqubPs4_qQoZmM_VbuVfhejjJbS6-IFDawIV0QngHbCnhCfLpJM3XAvCjrYslr",
-    "news_item_snippet": "Drei Treffer, allesamt vom fr\u00fcheren Leipziger Lookman: Im Endspiel der Europa League unterlag Bayer Leverkusen torlos Atalanta Bergamo.",
-    "news_item_url": "https://www.tagesschau.de/sport/europa-league-finale-bergamo-leverkusen-100.html",
-    "picture_source": "Schw\u00e4bische",
+    "country": "Mexico",
+    "title": "America vs Cruz Azul",
+    "pubDate": "Wed, 22 May 2024 14:00:00 -0600",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQVZTyEoTu_gsEce7sb6L7wKRU3WrE7Dj1WJIFWCBOTovl9BAZQt8qY8qzLgBQ_W0apbyOk3o5e",
+    "news_item_snippet": "\u00bfD\u00f3nde va a jugar el Am\u00e9rica por la final? Cruz Azul recibe a las \u00c1guilas en el primero de los dos duelos para definir al campe\u00f3n del torneo Clausura 2024.",
+    "news_item_url": "https://www.elfinanciero.com.mx/deportes/2024/05/23/final-ida-clausura-2024-en-vivo-cruz-azul-vs-america-donde-ver-resultado-minuto-a-minuto/",
+    "picture_source": "CNN",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "Mexico",
+    "title": "Jorge \u00c1lvarez M\u00e1ynez",
+    "pubDate": "Wed, 22 May 2024 00:00:00 -0600",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcT4dlUkd-Swu7FzrPH0OFSCGLwZ5twV7yAm4dVJ1HJmWLlP_Mh58lArimgGN1BluP-4wT3NksBo",
+    "news_item_snippet": "El siniestro se produjo por las fuertes r\u00e1fagas de viento durante el mitin conjunto de \u00c1lvarez M\u00e1ynez y Lorenia Canavati, candidata de MC por la presidencia&nbsp;...",
+    "news_item_url": "https://elpais.com/mexico/elecciones-mexicanas/2024-05-23/el-accidente-en-el-evento-de-campana-de-movimiento-ciudadano-en-nuevo-leon-en-imagenes.html",
+    "picture_source": "Infobae.com",
     "approx_traffic": "200,000+"
   },
   {
@@ -207,15 +167,15 @@
     "news_item_snippet": "Cyrill Demian, an Armenian piano maker is credited with inventing the accordion. The name accordion is derived from the German word &quot;Physharmonikaz\u201d - a&nbsp;...",
     "news_item_url": "https://www.deccanherald.com/world/all-you-need-to-know-about-todays-accordion-google-doodle-3035233",
     "picture_source": "iNews",
-    "approx_traffic": "500,000+"
+    "approx_traffic": "1,000,000+"
   },
   {
     "country": "United Kingdom",
     "title": "Europa League",
     "pubDate": "Wed, 22 May 2024 11:00:00 +0100",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRrKSeyKQKNP9KRS-BpBX3jv1pP5FXeafb-ITGSl2oaZOjoQhnHW2Ub28cNOcMXMS6dlzw9QmG8",
-    "news_item_snippet": "Ademola Lookman scored a brilliant hat-trick to secure Atalanta&#39;s first European trophy as they won 3-0 and inflicted Bayer Leverkusen&#39;s first defeat of the&nbsp;...",
-    "news_item_url": "https://www.theguardian.com/football/article/2024/may/22/atalanta-bayer-leverkusen-europa-league-final-match-report",
+    "news_item_snippet": "Lookman&#39;s stunning hat-trick brings Atalanta their first trophy in 117 years and an end to &#39;Neverlusen&#39;s&#39; unbeaten run.",
+    "news_item_url": "https://www.aljazeera.com/sports/2024/5/23/europa-league-final-nigerias-lookman-the-hero-as-atalanta-stun-leverkusen",
     "picture_source": "UEFA.com",
     "approx_traffic": "500,000+"
   },
@@ -227,6 +187,6 @@
     "news_item_snippet": "General Election to be held on 4 July 2024. Yesterday, 22 May 2024, the Prime Minister has been granted permission from King Charles to dissolve Parliament&nbsp;...",
     "news_item_url": "https://www.elmbridge.gov.uk/news/2024/uk-general-election-2024-announced",
     "picture_source": "Preston City Council",
-    "approx_traffic": "500,000+"
+    "approx_traffic": "200,000+"
   }
 ]
