@@ -2,7 +2,7 @@
   {
     "country": "United States",
     "title": "Timberwolves",
-    "pubDate": "Wed, 22 May 2024 17:00:00 -0700",
+    "pubDate": "Wed, 22 May 2024 19:00:00 -0700",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRPxgjW3tGebh3y4RHkXmoZdbwVBU8rNkGLMPwvx7UJenbOoRe_zrBZ60w-SE5jZX0G4a5l4SDR",
     "news_item_snippet": "The Mavericks&#39; star duo shines bright while the Timberwolves and Anthony Edwards lack energy coming out of grueling semifinals.",
     "news_item_url": "https://www.nba.com/news/timberwolves-mavericks-takeaways-game-1-2024-nba-playoffs",
@@ -14,8 +14,8 @@
     "title": "Nvidia stock",
     "pubDate": "Wed, 22 May 2024 10:00:00 -0700",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRrdSZtI-44-ZIw-3xviri4lAxpm39FhYShRuXaTS0PFDvmUfRmKB9hf-f1qESOwpmnlUbH9tiD",
-    "news_item_snippet": "Artificial intelligence technology leader Nvidia (NVDA) late Wednesday beat Wall Street&#39;s targets for its fiscal first quarter and guided higher than views&nbsp;...",
-    "news_item_url": "https://www.investors.com/news/technology/nvidia-stock-nvda-fiscal-q1-2025-earnings/",
+    "news_item_snippet": "In fiscal Q1, the tech giant continued to experience powerful demand for its products and services that enable artificial intelligence (AI) capabilities.",
+    "news_item_url": "https://www.fool.com/investing/2024/05/23/nvda-stock-earnings-stock-split-ai-stocks/",
     "picture_source": "NVIDIA Blog",
     "approx_traffic": "500,000+"
   },
@@ -30,16 +30,6 @@
     "approx_traffic": "500,000+"
   },
   {
-    "country": "United States",
-    "title": "Celtics",
-    "pubDate": "Tue, 21 May 2024 16:00:00 -0700",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRAYZi7iiYquCqa6qRoAOMULlWOPQMhFg9SKfvKxfsGSGt17lbrtf2NDxZV3p3djeKsSMFe9wWh",
-    "news_item_snippet": "Indiana had Game 1 in its grasp before letting it slip away in overtime with a handful of critical miscues.",
-    "news_item_url": "https://www.nba.com/news/pacers-celtics-game-2-preview-east-finals",
-    "picture_source": "CelticsBlog",
-    "approx_traffic": "1,000,000+"
-  },
-  {
     "country": "India",
     "title": "Accordion",
     "pubDate": "Thu, 23 May 2024 00:30:00 +0530",
@@ -48,6 +38,16 @@
     "news_item_url": "https://www.ndtv.com/feature/google-doodle-celebrates-the-accordions-musical-legacy-5725416",
     "picture_source": "Jagran Josh",
     "approx_traffic": "2,000,000+"
+  },
+  {
+    "country": "India",
+    "title": "Buddha Purnima",
+    "pubDate": "Thu, 23 May 2024 09:30:00 +0530",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQnsysBUpxJgxbb1q2t8yxbwFFzkgVLn47oYJVNo5-G6kuK2JDoHcHgj8aHPS2f-oWMckZm6Yo-",
+    "news_item_snippet": "Buddha Purnima Wishes in Hindi 2024: \u092c\u0941\u0926\u094d\u0927 \u092a\u0942\u0930\u094d\u0923\u093f\u092e\u093e \u0915\u094b \u092c\u0941\u0926\u094d\u0927 \u091c\u092f\u0902\u0924\u0940 \u0915\u0947 \u0930\u0942\u092a \u092e\u0947\u0902 \u092d\u0940 \u091c\u093e\u0928\u093e \u091c\u093e\u0924\u093e \u0939\u0948 \u0914\u0930 \u092f\u0939 \u090f\u0915 \u0905\u0924\u094d\u092f\u0902\u0924 \u0936\u0941\u092d \u0926\u093f\u0928 \u0939\u0948, \u091c\u094b &#39;\u092a\u0942\u0930\u094d\u0923\u093f\u092e\u093e&#39; \u092f\u093e&nbsp;...",
+    "news_item_url": "https://www.jagranjosh.com/general-knowledge/buddha-purnima-wishes-and-messages-for-social-media-whatsapp-facebook-instagram-1716399645-2",
+    "picture_source": "NDTV",
+    "approx_traffic": "200,000+"
   },
   {
     "country": "India",
@@ -104,8 +104,8 @@
     "title": "Corinthians",
     "pubDate": "Wed, 22 May 2024 05:00:00 -0500",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRKsFAvyJW1lUtT-NV9tzAsgcHdw7JMy2DYcqaA6UY2n1_7PN1fJbb6-yRrW2tpuI7gj-aYQEQ-",
-    "news_item_snippet": "Apesar do susto, o Corinthians venceu o Am\u00e9rica-RN por 2 a 1 na quarta-feira (22) e confirmou vaga nas oitavas de final da Copa do Brasil.",
-    "news_item_url": "https://www.espn.com.br/futebol/corinthians/artigo/_/id/13695001/pergunta-tirou-antonio-oliveira-do-serio-classificacao-corinthians-isso-nao-e-jogar-playstation",
+    "news_item_snippet": "Fim do segundo tempo, Corinthians 2, Am\u00e9rica - RN 1. Raniele (Corinthians) sofre uma falta no campo advers\u00e1rio. Falta cometida por Wenderson (Am\u00e9rica - RN).",
+    "news_item_url": "https://www.terra.com.br/esportes/futebol/copa-do-brasil/ao-vivo/corinthians-x-america-rn/84114/",
     "picture_source": "globoesporte.com",
     "approx_traffic": "1,000,000+"
   },
@@ -121,22 +121,22 @@
   },
   {
     "country": "Brazil",
+    "title": "Chilaquiles",
+    "pubDate": "Wed, 22 May 2024 22:00:00 -0500",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTWOSKS54DUFy9EiFYTTncSuWz1hefq09wPIu4qBRhgZSh4zIfho2a_h9QE43N9tIICU9UaZhTa",
+    "news_item_snippet": "No Doodle desta quinta-feira (23), o Google homenageia o chilaquiles, prato t\u00edpico mexicano que mistura tortilhas fritas com muita salsa.",
+    "news_item_url": "https://tecnologia.ig.com.br/parceiros/canaltech/2024-05-23/o-que-e-chilaquiles--conheca-o-prato-homenageado-no-doodle-desta-quinta-23.html",
+    "picture_source": "Exame Not\u00edcias",
+    "approx_traffic": "500,000+"
+  },
+  {
+    "country": "Brazil",
     "title": "Ec Vit\u00f3ria x Botafogo",
     "pubDate": "Wed, 22 May 2024 15:00:00 -0500",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcT8CKLa1RxJlJSl2XSPGPQriszfcPXSxuWqI5-weUn2w4HkwLtoYh1dTFFni8hxy8tG5gftV_ZK",
     "news_item_snippet": "Fim do Jogo, Vit\u00f3ria 1, Botafogo 2. 2\u00ba Tempo. 6&#39;&nbsp;...",
     "news_item_url": "https://www.terra.com.br/esportes/futebol/copa-do-brasil/ao-vivo/vitoria-x-botafogo/84111/",
     "picture_source": "UOL",
-    "approx_traffic": "500,000+"
-  },
-  {
-    "country": "Brazil",
-    "title": "Chilaquiles",
-    "pubDate": "Wed, 22 May 2024 22:00:00 -0500",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRsZOqxWdxN7rvz4xPD55fNA6pkI46SQMX4wSpnbM9PPFNvY71c98Bs-vKT8KvpSYCcpTwbKwvj",
-    "news_item_snippet": "Nesta quinta-feira, 23, a homenagem do Doodle, do Google, vai a um prato muito querido entre os mexicanos: o chilaquiles; conhe\u00e7a!",
-    "news_item_url": "https://aventurasnahistoria.uol.com.br/noticias/historia-hoje/chilaquiles-o-que-e-o-prato-homenageado-pelo-doodle-do-google.phtml",
-    "picture_source": "iG Tecnologia",
     "approx_traffic": "500,000+"
   },
   {
@@ -150,14 +150,24 @@
     "approx_traffic": "200,000+"
   },
   {
-    "country": "France",
-    "title": "Accord\u00e9on",
-    "pubDate": "Thu, 23 May 2024 01:00:00 +0200",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTgXcDppViJZSieZ_Z5Q4FTNhyE3waqllkDolrdm9cuG5VsYvQR8JxGlRLEAxg55WWEjhM-cwsd",
-    "news_item_snippet": "\u00ab Le fan-club et les passionn\u00e9s ont suivi, la salle comble en t\u00e9moigne \u00bb, positive l&#39;organisateur. Christophe Demerson a ouvert et anim\u00e9 la premi\u00e8re partie du&nbsp;...",
-    "news_item_url": "https://www.lejdc.fr/bitry-58310/actualites/plein-succes-pour-le-gala-daccordeon_14505227/",
-    "picture_source": "Le Journal du Centre",
-    "approx_traffic": "500,000+"
+    "country": "Canada",
+    "title": "Accordion",
+    "pubDate": "Thu, 23 May 2024 01:00:00 -0400",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQGXW9-tDbfi2bp5X0P9UC6a_itT7GvVOt3cpmSqHUlXiWieCAN4cfV3PHnDA0n0Y_HNeF6VZCW",
+    "news_item_snippet": "A group of musicians have launched a jam session for women and gender-diverse people who love to wail on the accordion.",
+    "news_item_url": "https://www.cbc.ca/news/canada/newfoundland-labrador/newfoundland-accordion-jam-group-1.7210898",
+    "picture_source": "CBC.ca",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "Canada",
+    "title": "Severe thunderstorm watch",
+    "pubDate": "Wed, 22 May 2024 15:00:00 -0400",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTKs4iAwhSGs0ZftD0I9fuA5gjBZR8PERMVlvnMq2PuoSDqSsvFVLo2TotKqsNiNZiB76bQTj_q",
+    "news_item_snippet": "A large part of southern Ontario is under a severe thunderstorm watch, with strong winds, hail and heavy rain possible on Wednesday.",
+    "news_item_url": "https://globalnews.ca/news/10517321/severe-thunderstorm-watch-southern-ontario-4/",
+    "picture_source": "Current Students - Carleton University",
+    "approx_traffic": "200,000+"
   },
   {
     "country": "France",
