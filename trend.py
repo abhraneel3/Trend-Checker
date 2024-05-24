@@ -9,6 +9,10 @@ countries = {
     'Australia': 'AU',
     'Brazil': 'BR',
     'Canada': 'CA',
+    'Israel': 'IL',
+    'Russia': 'RU',
+    'South Korea': 'KR',
+    'Saudi Arabia': 'SA',
     'France': 'FR',
     'Germany': 'DE',
     'Italy': 'IT',
@@ -35,7 +39,7 @@ for country, geo_code in countries.items():
     # Iterate through entries in the feed for the current country
     for entry in feed.entries:
         # Check if 'ht:approx_traffic' is above 100,000
-        if int(entry.ht_approx_traffic.replace(',', '').replace('+', '')) > 100000:
+        if int(entry.ht_approx_traffic.replace(',', '').replace('+', '')) > 50000:
             item = {}
             item['country'] = country
             item['title'] = entry.title
