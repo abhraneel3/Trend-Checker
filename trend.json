@@ -1,16 +1,6 @@
 [
   {
     "country": "United States",
-    "title": "America vs Cruz Azul",
-    "pubDate": "Thu, 23 May 2024 10:00:00 -0700",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQQ8kXKBHwu8bumCE8pRB62JMwjbjaVi5zufVZx1co8y1iV0VTJA3A_aVQAX33ZKCZ6ifgpC8c-",
-    "news_item_snippet": "La M\u00e1quina de Cruz Azul y las \u00c1guilas del Am\u00e9rica definir\u00e1n al campe\u00f3n del Clausura 2024 el pr\u00f3ximo domingo 26 de mayo en el Estadio Azteca tras igualar en&nbsp;...",
-    "news_item_url": "https://www.tudn.com/futbol/liga-mx/cruz-azul-vs-america-en-vivo-final-ida-liga-mx-minuto-a-minuto-del-partido",
-    "picture_source": "ESPN Deportes",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "United States",
     "title": "Chilaquiles",
     "pubDate": "Thu, 23 May 2024 04:00:00 -0700",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRzTyynC8wmi46YpHewrzLkNdaxn8Yo89mV1EgG0fAmNe1_Fxjj4Zd2QR9Idw6mDs-TixD5g8Wj",
@@ -38,6 +28,16 @@
     "news_item_url": "https://www.ndtv.com/feature/google-doodle-celebrates-the-accordions-musical-legacy-5725416",
     "picture_source": "Jagran Josh",
     "approx_traffic": "2,000,000+"
+  },
+  {
+    "country": "India",
+    "title": "Virat Kohli",
+    "pubDate": "Thu, 23 May 2024 09:30:00 +0530",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQJRthcDtPDQcCpkpyJ2m8F91XYUi4XQBiECK0sBciTmnrFeHZ9ybJTHNphLbzyNOU0fUFrwm1m",
+    "news_item_snippet": "Cricket News: Virat Kohli reflects on RCB&#39;s loss to Rajasthan Royals in the IPL playoffs, expressing pride in the team&#39;s turnaround despite dashed title&nbsp;...",
+    "news_item_url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2024-for-virat-kohli-perfection-is-a-lonely-pursuit/articleshow/110377999.cms",
+    "picture_source": "\u0c38\u0c3e\u0c15\u0c4d\u0c37\u0c3f",
+    "approx_traffic": "200,000+"
   },
   {
     "country": "Brazil",
@@ -70,24 +70,14 @@
     "approx_traffic": "500,000+"
   },
   {
-    "country": "France",
-    "title": "Jordan Bardella",
-    "pubDate": "Wed, 22 May 2024 20:00:00 +0200",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQeTdjYSNUJoyQJXKHh2IHWU2hR3LHUStubMnt-gorZgRfzIKM9G_1Zh2UC-Y7n6gb8NFG5Y9dt",
-    "news_item_snippet": "Jeudi soir sur France 2, le Premier ministre et le Pr\u00e9sident du Rassemblement National se sont oppos\u00e9s. L&#39;Europe, l&#39;immigration\u2026",
-    "news_item_url": "https://www.ladepeche.fr/2024/05/24/decryptage-debat-gabriel-attal-jordan-bardella-un-debat-muscle-et-sans-concession-11970195.php",
-    "picture_source": "Le HuffPost",
-    "approx_traffic": "200,000+"
-  },
-  {
     "country": "Germany",
     "title": "Bochum gegen D\u00fcsseldorf",
-    "pubDate": "Thu, 23 May 2024 15:00:00 +0200",
+    "pubDate": "Thu, 23 May 2024 18:00:00 +0200",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTxUO8K207z0TnaxQkmy3mJw9UYqpaKc4ZxCJtYVhBu5CL-7bMUJZdjFZELZacMTuO0FmF2tSVI",
     "news_item_snippet": "Es geht um die Erstligazugeh\u00f6rigkeit: VfL Bochum und Fortuna D\u00fcsseldorf bestreiteten heute die Relegation. Wir erkl\u00e4ren, wie Sie das Spiel sehen.",
     "news_item_url": "https://www.waz.de/sport/fussball/vfl/article242383680/VfL-Bochum-gegen-Fortuna-Duesseldorf-live-im-TV-und-im-Stream.html",
     "picture_source": "General-Anzeiger Bonn",
-    "approx_traffic": "500,000+"
+    "approx_traffic": "200,000+"
   },
   {
     "country": "Germany",
@@ -111,22 +101,22 @@
   },
   {
     "country": "Italy",
-    "title": "Cagliari-Fiorentina",
-    "pubDate": "Thu, 23 May 2024 06:00:00 +0200",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSuOgkqJ_wSFTjOyjgnzytI7Ii6zhfAu_GDzmAF5JVQhzECatowKbV_AWvBTPHWEi_hvmHUxIvM",
-    "news_item_snippet": "Sblocca Bonaventura al 39&#39;, pareggia Deiola al 64&#39;, Mutandwa all&#39;85&#39; e poi Gonz\u00e1lez all&#39;89&#39;. Rigore concesso al 100&#39; ai viola: Arthur dal dischetto non&nbsp;...",
-    "news_item_url": "https://www.rainews.it/articoli/2024/05/calcio-serie-a-giornata-38-cagliari-fiorentina-unipol-domus-cagliari-cronaca-testuale-8e182625-f0e7-426a-9778-0c5483876446.html",
-    "picture_source": "Fiorentina.it",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "Italy",
     "title": "Serie A",
     "pubDate": "Thu, 23 May 2024 18:00:00 +0200",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTYBCVvEbrH-p_X2VQs2ex2eJI0X1MlNp361fcfP9YwzQu2J1drnr3n7J64m8B_eA4CzhmN6JzC",
     "news_item_snippet": "SERIE A - Bologna sempre privo di Zirkzee, mentre Osimhen prova a recuperare. Inter e Atalanta con abbondante turnover. Nella Juve sempre Chiesa e Vlahovic.",
     "news_item_url": "https://www.eurosport.it/calcio/serie-a/2023-2024/probabili-formazioni-38a-giornata-serie-a-fantacalcio-titolari-indisponibili-infortunati-chi-schiera_sto10158652/story.shtml",
     "picture_source": "Sky Tg24",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "Italy",
+    "title": "Cagliari-Fiorentina",
+    "pubDate": "Thu, 23 May 2024 06:00:00 +0200",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSuOgkqJ_wSFTjOyjgnzytI7Ii6zhfAu_GDzmAF5JVQhzECatowKbV_AWvBTPHWEi_hvmHUxIvM",
+    "news_item_snippet": "Sblocca Bonaventura al 39&#39;, pareggia Deiola al 64&#39;, Mutandwa all&#39;85&#39; e poi Gonz\u00e1lez all&#39;89&#39;. Rigore concesso al 100&#39; ai viola: Arthur dal dischetto non&nbsp;...",
+    "news_item_url": "https://www.rainews.it/articoli/2024/05/calcio-serie-a-giornata-38-cagliari-fiorentina-unipol-domus-cagliari-cronaca-testuale-8e182625-f0e7-426a-9778-0c5483876446.html",
+    "picture_source": "Fiorentina.it",
     "approx_traffic": "200,000+"
   }
 ]
