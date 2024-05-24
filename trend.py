@@ -39,7 +39,7 @@ for country, geo_code in countries.items():
     # Iterate through entries in the feed for the current country
     for entry in feed.entries:
         # Check if 'ht:approx_traffic' is above 100,000
-        if int(entry.ht_approx_traffic.replace(',', '').replace('+', '')) > 50000:
+        if int(entry.ht_approx_traffic.replace(',', '').replace('+', '')) > 10000:
             item = {}
             item['country'] = country
             item['title'] = entry.title
