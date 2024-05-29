@@ -1,12 +1,42 @@
 [
   {
     "country": "United States",
-    "title": "Dallas Stars",
-    "pubDate": "Tue, 28 May 2024 05:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRiqB_W1lZ63j7E6oq7ITQ-isS1LUHWiu3uJCa9RELJCnmYVT-GQWQjK_hTGXX16Hlavntv9p9c",
-    "news_item_snippet": "Stars center Roope Hintz returned to the lineup Monday night from injury and made an immediate impact in the Game 3 victory.",
-    "news_item_url": "https://www.dallasnews.com/sports/stars/2024/05/28/roope-hintzs-return-to-dallas-stars-lineup-brings-instant-boost-it-affects-everyone/",
-    "picture_source": "Oilers Nation",
+    "title": "Mavs",
+    "pubDate": "Tue, 28 May 2024 21:00:00 -0700",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRt22QvTzNn94MVBJDlO2Jow4LYN1W8KUDIPDlUL8QOeJ9ZU3b3LmcfhOgvenzqj_saZqQDdnWy",
+    "news_item_snippet": "Anthony Edwards scored 29 points, grabbed 10 rebounds and distributed nine assists in leading the Minnesota Timberwolves to a stunning 105-100 victory over&nbsp;...",
+    "news_item_url": "https://www.mavs.com/timberwolvesdefeatmavs/",
+    "picture_source": "Mavs.com",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Mavericks",
+    "pubDate": "Tue, 28 May 2024 21:00:00 -0700",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcR_QE4IuECzcwJ83b7iocn_T2jg6z8WsndAw8M-pO3CTzs_g2UkZDPoaGBN8kfFG865it4xF9cc",
+    "news_item_snippet": "But the core of the group that brought home the championship in 2011 hasn&#39;t forgotten what it&#39;s like. And they have been there to support Jason Kidd and this&nbsp;...",
+    "news_item_url": "https://www.mavs.com/support-from-2011/",
+    "picture_source": "Mavs.com",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Robert De Niro",
+    "pubDate": "Tue, 28 May 2024 10:00:00 -0700",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcR_WbtYtZree461NPUyP-_x2uWX0zEgfzMzRGEh-qHe-ZATtqje5x55OXuGkfHYAR7fklecpF_u",
+    "news_item_snippet": "President Joe Biden&#39;s campaign has shown up outside former President Donald Trump&#39;s New York City criminal hush money trial with actor Robert De Niro and a&nbsp;...",
+    "news_item_url": "https://apnews.com/article/trump-de-niro-biden-insurrection-hush-money-78a33c5083a243e18f9fbd63ce9e8ddd",
+    "picture_source": "CNN",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Nvidia stock",
+    "pubDate": "Tue, 28 May 2024 21:00:00 -0700",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTa0_POmLO0bxsQPi3jGqRbH9bpcZsMnVVcclFpn0E3BmxsRQdoARvRZu6pFRwo9INIopmD_DgJ",
+    "news_item_snippet": "Elon Musk unintentionally gave the chipmaker a boost. Shares of Nvidia (NVDA 6.98%) surged higher on Tuesday, jumping as much as 5.6%. As of 11:54&nbsp;...",
+    "news_item_url": "https://www.fool.com/investing/2024/05/28/why-nvidia-stock-popped-on-tuesday/",
+    "picture_source": "Investor's Business Daily",
     "approx_traffic": "100,000+"
   },
   {
@@ -14,9 +44,19 @@
     "title": "Trump verdict",
     "pubDate": "Tue, 28 May 2024 17:00:00 -0700",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQ75ZccuyUE7jqEKHnBWUztH3hji7xm2Qc7qV1NuwFqQ-uhTKxhYMr81Ml0wDpeEb_SwNXcBuH7",
-    "news_item_snippet": "A lawyer for Donald Trump urged jurors Tuesday to find the former president innocent in his criminal trial, blasting a key witness as the &quot;MVP of liars&quot; while a&nbsp;...",
-    "news_item_url": "https://www.nbcnews.com/politics/donald-trump/closing-arguments-trump-hush-money-trial-rcna153749",
+    "news_item_snippet": "NEW YORK \u2014 Lawyers gave their final arguments Tuesday in their effort to convict or acquit former President Donald Trump of 34 felony counts of falsified&nbsp;...",
+    "news_item_url": "https://www.npr.org/2024/05/28/nx-s1-4984121/trump-trial-closing-arguments-jury-new-york",
     "picture_source": "CNN",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Dallas weather",
+    "pubDate": "Tue, 28 May 2024 05:00:00 -0700",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTaEaiKbgZzljLPG1UrqTt0p9XoMKlLBGIwg8ky4a1FjbpEYpl78sJH326_RFxBIilpWcLy3O__",
+    "news_item_snippet": "We may not be done yet. Another round of storms is expected overnight and there are more chances to see severe weather later in the week. North Texas Storm&nbsp;...",
+    "news_item_url": "https://www.fox4news.com/weather/dallas-weather-severe-thunderstorm-warning-effectmay-28",
+    "picture_source": "dallascitynews.net",
     "approx_traffic": "50,000+"
   },
   {
@@ -41,7 +81,7 @@
   },
   {
     "country": "United States",
-    "title": "Houston Weather",
+    "title": "Houston weather",
     "pubDate": "Tue, 28 May 2024 12:00:00 -0700",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRnk1RD2rkz7GDIbEx61h3ZNKrvUM9M8LfDRORHBDy9DVaCaEBr46U5iHsTtNgai_h74UcY9yE_",
     "news_item_snippet": "A strong line of storms pushed through SE Texas bringing severe hail up to golf ball sized, damaging winds and heavy rainfall. Over three inches of rain&nbsp;...",
@@ -53,10 +93,10 @@
     "country": "United States",
     "title": "Nikki Haley",
     "pubDate": "Tue, 28 May 2024 16:00:00 -0700",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSbmrF7lx4mf7NAzVqpYRg4wVf_XE88Vx_Slcwtx8BF2oRNLUBXI8n4DUARRBzWJlNhzY9Kea2D",
-    "news_item_snippet": "Nikki Haley was photographed writing \u201cFinish them!\u201d on an Israeli bomb during a visit to the country.",
-    "news_item_url": "https://www.rollingstone.com/politics/politics-news/nikki-haley-finish-them-bomb-israel-gaza-1235028702/",
-    "picture_source": "NPR",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSYRPrx-GHNtfPWOo0-eU-3v3o12fJefbh7bA5kCgEzbJR5XoANW1edwjMkcd8tWfVjd43_MdHw",
+    "news_item_snippet": "After a speech where she pledged her support - and her vote - to former President Donald Trump, Nikki Haley heads to Israel where she can flex her foreign&nbsp;...",
+    "news_item_url": "https://www.npr.org/2024/05/28/g-s1-1298/nikki-haley-donald-trump-israel-hamas-gaza",
+    "picture_source": "FRANCE 24",
     "approx_traffic": "50,000+"
   },
   {
@@ -68,36 +108,6 @@
     "news_item_url": "https://golf.com/news/lexi-thompson-breaks-down-retirement-us-womens-open/",
     "picture_source": "LPGA",
     "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Bill Walton",
-    "pubDate": "Mon, 27 May 2024 11:00:00 -0700",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQfiUpcC_PyvcVKeSN9-ivUZLilxIVpgynpdOUJSJ6kusE1gX2AVuL-S3GPzM-8UHRo3pMWOMyw",
-    "news_item_snippet": "Dave Pasch, Mike Tirico, Kenny Mayne and more in the broadcasting world share their favorite memories of the one-of-a-kind Bill Walton.",
-    "news_item_url": "https://www.nytimes.com/athletic/5522387/2024/05/28/bill-walton-memories-broadcast-media-nba/",
-    "picture_source": "GoLocalProv",
-    "approx_traffic": "1,000,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Celtics",
-    "pubDate": "Mon, 27 May 2024 21:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTetsn8ighX903KMC_pCgIaJwNdG2bjlrd-7jA6PXANEWMx9iYnYKVRzM3LITUoVQJU5iA5EmoY",
-    "news_item_snippet": "I wasn&#39;t able to watch any of the first three games of this series live, so I had to trust this team to handle themselves without me.",
-    "news_item_url": "https://www.celticsblog.com/2024/5/27/24165021/boston-celtics-help-enjoy-berlin-indiana-pacers-eastern-conference-finals-jaylen-brown-jrue-holiday",
-    "picture_source": "Forbes",
-    "approx_traffic": "500,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Rafah",
-    "pubDate": "Mon, 27 May 2024 01:00:00 -0700",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRJ4BVv5LYehARXHKXfY8v9TQhlb3_5ltB3IvJ4rz4-bDLIGiHAarfag-p7DMgPOIEyImYr_aOf",
-    "news_item_snippet": "The image, which appears to be AI-generated, was shared more than 29 million times in less than 24 hours. Palestinians at the aftermath of an Israeli strike&nbsp;...",
-    "news_item_url": "https://www.nbcnews.com/tech/internet/-eyes-rafah-image-shared-millions-instagram-rcna154380",
-    "picture_source": "NPR",
-    "approx_traffic": "500,000+"
   },
   {
     "country": "India",
@@ -121,21 +131,11 @@
   },
   {
     "country": "India",
-    "title": "Saudi Pro League",
-    "pubDate": "Tue, 28 May 2024 00:30:00 +0530",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcR5IuCeYDmai18tTkPf8HVTC0Gs3J9GJeWYbOmsl3Vui1SIO-Uw61gONbzdYP_uPFueY3ttuPwF",
-    "news_item_snippet": "Cristiano Ronaldo broke the record for the most goals in a Saudi Pro League season when he struck for the 34th and 35th time in Al Nassr&#39;s final game of the&nbsp;...",
-    "news_item_url": "https://www.beinsports.com/en-mena/football/articles/ronaldo-breaks-saudi-pro-league-scoring-record-2024-05-28",
-    "picture_source": "Sportstar",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "India",
     "title": "Rahul Gandhi",
     "pubDate": "Tue, 28 May 2024 20:30:00 +0530",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRWKxhr9g6xgYFKd6d1Fxg7lAVKutlE9jg349Xy29_bjMLeq5fChd_Edltpm-4vZJGiRNflWORK",
-    "news_item_snippet": "Rashtriya Janata Dal&#39;s Tejashwi Yadav, whose fish meal video sparked a political storm ahead of Navratras, stirred the pot today with a video of a lunch&nbsp;...",
-    "news_item_url": "https://www.ndtv.com/india-news/at-lunch-with-rahul-gandhi-tejashwi-yadavs-fish-bone-jokes-5766328",
+    "news_item_snippet": "He suggested that there was zero credible visibility of Congress in the state. Kishor&#39;s comments came on the day Rahul Gandhi held, along with Tejashwi&nbsp;...",
+    "news_item_url": "https://www.businesstoday.in/india/story/congress-is-nowhere-in-bihar-prashant-kishor-after-rahul-gandhis-mega-rallies-ahead-of-final-phase-431179-2024-05-28",
     "picture_source": "Business Today",
     "approx_traffic": "50,000+"
   },
@@ -148,16 +148,6 @@
     "news_item_url": "https://www.aljazeera.com/news/2024/5/28/at-least-21-killed-dozens-wounded-in-israeli-attacks-on-gazas-rafah",
     "picture_source": "NDTV",
     "approx_traffic": "2,000,000+"
-  },
-  {
-    "country": "India",
-    "title": "Panchayat Season 3",
-    "pubDate": "Mon, 27 May 2024 23:30:00 +0530",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTS95-NYj-8hSAZGFLAnqdOu7hvIPA5_STvRP9xazV5ZZTn5DLGO0QRqXpNS_iPITefOxdmVpID",
-    "news_item_snippet": "The salary of the Panchayat Season 3 cast has been revealed. Jitendra Yadav is the highest-paid actor, followed by Neena Gupta.",
-    "news_item_url": "https://www.business-standard.com/entertainment/panchayat-3-cast-salary-revealed-here-s-how-much-jitendra-yadav-was-paid-124052801571_1.html",
-    "picture_source": "Livemint",
-    "approx_traffic": "200,000+"
   },
   {
     "country": "India",
@@ -203,9 +193,9 @@
     "country": "Argentina",
     "title": "Racing",
     "pubDate": "Tue, 28 May 2024 01:00:00 -0300",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSfm5bDkhcHQcJqgciufpbVfYuIytpBYyH-t0rm4TdFg-BitGjq_wG2D15Sv4oqY7Xt8B5vkjlH",
-    "news_item_snippet": "Tres equipos argentinos definen la fase de grupos de la Copa Sudamericana en la jornada de hoy. Racing logr\u00f3 el pase a los octavos de final del certamen&nbsp;...",
-    "news_item_url": "https://www.infobae.com/deportes/2024/05/28/racing-va-por-el-pase-a-octavos-de-la-copa-sudamericana-ante-sportivo-luqueno-hora-tv-y-formaciones/",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTzdGgGc8EdNDLqCEwovCsr4NHmUakAfDcbogiJoJmA39d6-AN1MXwp-AUqopsDgslnXV-R0jU-",
+    "news_item_snippet": "Racing Club se impuso por 3 a 0 con goles de Adri\u00e1n Emmanuel Mart\u00ednez, Maximiliano Nahuel Salas y Roger Berkeley Mart\u00ednez Tobinson.",
+    "news_item_url": "https://www.tycsports.com/racing-club/racing-club-vs-sportivo-luqueno-en-vivo-hora-donde-ver-y-formaciones-id587114.html",
     "picture_source": "Ol\u00e9",
     "approx_traffic": "200,000+"
   },
@@ -214,30 +204,10 @@
     "title": "Belgrano",
     "pubDate": "Tue, 28 May 2024 20:00:00 -0300",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRjivaiKh555TWUe7ZXhXMH7xMjwzZQ5SO4YeW-wB1fuK4d16VWFX035g2uoa0uVXYWG6PzvOPl",
-    "news_item_snippet": "Campa\u00f1a de donaci\u00f3n de alimentos para ollas populares ...",
-    "news_item_url": "https://www.belgranocordoba.com/noticia-belgrano/5262/",
+    "news_item_snippet": "El Pirata le dio vuelta un partidazo a Inter y se asegur\u00f3 el primer puesto en la Sudamericana. Chavarr\u00eda, el h\u00e9roe.",
+    "news_item_url": "https://www.ole.com.ar/futbol-internacional/sudamericana/belgrano_0_zgiGBeM5hL.html",
     "picture_source": "Revista El Gr\u00e1fico",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Argentina",
-    "title": "Argentinos jrs.  Nacional",
-    "pubDate": "Tue, 28 May 2024 19:00:00 -0300",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcT7TE9jomlO2XMHzCXouXFz0EchKRAhycuv_GGOILQgDQx78xGBkmkSz23nV-2nlthZoRkMVhGK",
-    "news_item_snippet": "19.00 Argentinos - Nacional \u00c1rbitro: Jos\u00e9 Cabrero (Chile) Asistente 1: Miguel Rocha (Chile) Asistente 2: Carlos Poblete (Chile)",
-    "news_item_url": "https://www.afa.com.ar/en/posts/argentinos-juniors-recibe-a-nacional-",
-    "picture_source": "TyC Sports",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Brazil",
-    "title": "Corinthians",
-    "pubDate": "Tue, 28 May 2024 07:00:00 -0500",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSBgBLVwJzpSa2cVryO01NBg93ebEkxs0gyD68w4V3VtpnIElx7yN4PV5rah4PMhKMz-6lkKYdd",
-    "news_item_snippet": "Nova dupla brilha com gola\u00e7os, Corinthians atropela Racing e avan\u00e7a em 1\u00ba &middot; Rodrigo Garro, Yuri Alberto e Igor Coronado marcaram na partida. &middot; O Alvinegro levou a&nbsp;...",
-    "news_item_url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2024/05/28/corinthians-x-racing-uru-6-rodada-sul-americana-como-foi-o-jogo.htm",
-    "picture_source": "CNN Brasil",
-    "approx_traffic": "1,000,000+"
+    "approx_traffic": "100,000+"
   },
   {
     "country": "Brazil",
@@ -257,7 +227,7 @@
     "news_item_snippet": "Com o Galo jogando com um homem a mais, o que se viu na Arena MRV foi um jogo de ataque contra defesa, com vit\u00f3ria mineira sobre o Caracas por 4 a 0.",
     "news_item_url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2024/05/28/atletico-mg-amassa-caracas-apos-expulsao-e-sonha-com-1-lugar-geral.htm",
     "picture_source": "Exame Not\u00edcias",
-    "approx_traffic": "500,000+"
+    "approx_traffic": "200,000+"
   },
   {
     "country": "Brazil",
@@ -271,31 +241,31 @@
   },
   {
     "country": "Brazil",
-    "title": "Bolivar",
-    "pubDate": "Tue, 28 May 2024 07:00:00 -0500",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTlRx5CbyRQwFtJZPzS5lLnCs5gwhSqQ3ohawIform2Xv9vKBpsn3iY11sCXysqA_P0SZJ-zPkA",
-    "news_item_snippet": "O Bol\u00edvar recebe o Palestino nesta ter\u00e7a-feira (28), \u00e0s 21h (de Bras\u00edlia), pela 6\u00aa rodada da fase de grupos da Libertadores. O confronto ser\u00e1 transmitido&nbsp;...",
-    "news_item_url": "https://www.terra.com.br/esportes/bolivar-x-palestino-onde-assistir-horario-e-escalacoes-do-jogo-pela-libertadores,05c5cdd1b76c327cdb63e22f3db27b6bwre4zayu.html",
-    "picture_source": "CNN Brasil",
+    "title": "Jogo do flamengo",
+    "pubDate": "Tue, 28 May 2024 18:00:00 -0500",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcS6xLfgg03leYRq6oz7ipJYfHXH0TCYfeRug26NLr-2Kk3ebF2z1g5IE1tr4d9tYFcO_DOjVWT8",
+    "news_item_snippet": "077058 reviews. 10,000,000+. Downloads. Free. dance flames &quot;Jogos de azar online de futebol na Tail\u00e2ndia - recomenda\u00e7\u00f5es e conselhos para jogadores na&nbsp;...",
+    "news_item_url": "http://www.propaae.uefs.br/casino=20240529plataforma%20bet%20casino.html",
+    "picture_source": "Pr\u00f3-Reitoria de Pol\u00edticas Afirmativas e Assuntos Estudantis",
     "approx_traffic": "100,000+"
   },
   {
     "country": "Brazil",
-    "title": "Amazonas F.C",
-    "pubDate": "Tue, 28 May 2024 12:00:00 -0500",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQaGlJ18laQPLcrPqnhQUUfYX7U1P8iYjN16SEtA0vgfu1WgW1-1Smq2Msb4vJvg_rQjcUFARKD",
-    "news_item_snippet": "O Amazonas FC venceu o Mirassol-SP por 1 a 0 em partida v\u00e1lida pela s\u00e9tima rodada do Campeonato Brasileiro da S\u00e9rie B 2024, na noite desta ter\u00e7a-feira (28),&nbsp;...",
-    "news_item_url": "https://emtempo.com.br/250146/esporte/jimenez-faz-golaco-e-amazonas-fc-vence-o-mirassol-sp-na-arena-da-amazonia/",
-    "picture_source": "globoesporte.com",
-    "approx_traffic": "50,000+"
+    "title": "Bolivar",
+    "pubDate": "Tue, 28 May 2024 07:00:00 -0500",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTlRx5CbyRQwFtJZPzS5lLnCs5gwhSqQ3ohawIform2Xv9vKBpsn3iY11sCXysqA_P0SZJ-zPkA",
+    "news_item_snippet": "Fim do Jogo, Bol\u00edvar 3, Palestino 1. 2\u00ba Tempo. 1&#39;&nbsp;...",
+    "news_item_url": "https://www.terra.com.br/esportes/futebol/libertadores/ao-vivo/bolivar-x-palestino/84222/",
+    "picture_source": "CNN Brasil",
+    "approx_traffic": "100,000+"
   },
   {
     "country": "South Korea",
     "title": "\ub300\ub0a8\uc804\ub2e8",
     "pubDate": "Wed, 29 May 2024 00:00:00 +0900",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSVAk925NA_xf5mFDpyKrXrGW-gtt3RzQrmm4RLF5pnsKVua82fBqu8kCfwNmAquYEiTEjJL7DH",
-    "news_item_snippet": "\ud569\ub3d9\ucc38\ubaa8\ubcf8\ubd80\ub294 \ubd81\ud55c\uc774 \uc0b4\ud3ec\ud55c &#39;\uc090\ub77c&#39;\ub85c \ucd94\uc815\ub418\ub294 \ubb3c\uccb4\uac00 \ubc1c\uacac\ub410\ub2e4\uace0 \ubc1d\ud614\uc2b5\ub2c8\ub2e4. \ud569\ucc38\uc740 &quot;\ubd81\ud55c\uc758 \ub300\ub0a8 \uc804\ub2e8 \ucd94\uc815 \ubbf8\uc0c1 \ubb3c\uccb4\uac00 \uacbd\uae30\u00b7\uac15\uc6d0 \uc811\uc801 \uc9c0\uc5ed \uc77c\ub300\uc5d0\uc11c \uc2dd\ubcc4\ub3fc \uad70&nbsp;...",
-    "news_item_url": "https://www.yonhapnewstv.co.kr/news/MYH20240529000200641",
+    "news_item_snippet": "\uc624\ubb3c \ud3ed\ud0c4 \ub300\ub0a8 \uc804\ub2e8 \uc804\uad6d\uc11c \ubc1c\uacac\ubc24\uc911 \uc7ac\ub09c \ubb38\uc790\uc5d0 \uc804\uc7c1\ub0ac\ub098 \ubd81\ud55c\uc774 \ub300\ub0a8\uc804\ub2e8 \uc0b4\ud3ec\ub97c \uc608\uace0\ud55c \uc9c0 \uc774\ud2c0 \ub9cc\uc5d0 \ub300\ub0a8 \uc804\ub2e8\uc73c\ub85c \ucd94\uc815\ub418\ub294 \ubb3c\uccb4\uac00 \uacbd\uae30\ub3c4\uc640 \uac15\uc6d0\ub3c4 \ub4f1 \uc811\uacbd&nbsp;...",
+    "news_item_url": "https://www.chosun.com/national/national_general/2024/05/29/AARFIFURANAB3IZFLXC6ZMORUQ/",
     "picture_source": "KBS\ub274\uc2a4",
     "approx_traffic": "100,000+"
   },
@@ -313,20 +283,10 @@
     "country": "Saudi Arabia",
     "title": "\u0627\u0644\u0647\u0644\u0627\u0644",
     "pubDate": "Mon, 27 May 2024 22:00:00 +0300",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTPPLGTndWmVvhQEPmYNQZP0rnNoTsnIs5A7t5lZWQIthZ9PJXF6W2FlOn7RwfJfXw-fouuaqa8",
-    "news_item_snippet": "\u0643\u0644 \u0645\u0627 \u062a\u0631\u064a\u062f \u0645\u0639\u0631\u0641\u062a\u0647 \u0639\u0646 \u0645\u0628\u0627\u0631\u0627\u0629 \u0627\u0644\u0647\u0644\u0627\u0644 \u0648\u0627\u0644\u0646\u0635\u0631 \u0628\u0646\u0647\u0627\u0626\u064a \u0643\u0623\u0633 \u062e\u0627\u062f\u0645 \u0627\u0644\u062d\u0631\u0645\u064a\u0646 \u0627\u0644\u0634\u0631\u064a\u0641\u064a\u0646 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062f\u0645 2023-2024.",
-    "news_item_url": "https://www.aljazeera.net/sport/2024/5/27/%D9%85%D9%88%D8%B9%D8%AF-%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9-%D8%A7%D9%84%D9%87%D9%84%D8%A7%D9%84-%D8%B6%D8%AF-%D8%A7%D9%84%D9%86%D8%B5%D8%B1-%D9%81%D9%8A-%D9%86%D9%87%D8%A7%D8%A6%D9%8A",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcS6DC1jvhDOteF15t7bNVls2Su3apO8YEHSOklwxzOL7w8ms6HvNCDGSeLrNnmyxm3GDEsPCPyc",
+    "news_item_snippet": "\u0627\u0633\u062a\u0637\u0627\u0639 \u0627\u0644\u0647\u0644\u0627\u0644 \u0627\u0644\u0633\u0639\u0648\u062f\u064a \u0627\u0644\u0628\u0637\u0644 \u0625\u0646\u0647\u0627\u0621 \u0645\u0648\u0633\u0645\u0647 \u0645\u0646 \u062f\u0648\u0646 \u062e\u0633\u0627\u0631\u0629 \u0628\u0641\u0648\u0632\u0647 \u0639\u0644\u0649 \u0645\u0636\u064a\u0641\u0647 \u0627\u0644\u0648\u062d\u062f\u0629 2-1 \u0627\u0644\u0625\u062b\u0646\u064a\u0646 \u0639\u0644\u0649 \u0645\u0644\u0639\u0628 \u0627\u0644\u0645\u0644\u0643 \u0639\u0628\u062f \u0627\u0644\u0639\u0632\u064a\u0632 \u0628\u0627\u0644\u0637\u0627\u0626\u0641 \u0641\u064a \u0627\u0644\u0645\u0631\u062d\u0644\u0629 \u0627\u0644\u0631\u0627\u0628\u0639\u0629 \u0648\u0627\u0644\u062b\u0644\u0627\u062b\u064a\u0646&nbsp;...",
+    "news_item_url": "https://www.france24.com/ar/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9/20240528-%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D9%8A-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A-%D8%A7%D9%84%D9%87%D9%84%D8%A7%D9%84-%D9%8A%D9%86%D9%87%D9%8A-%D8%A7%D9%84%D9%85%D9%88%D8%B3%D9%85-%D9%85%D9%86-%D8%AF%D9%88%D9%86-%D8%AE%D8%B3%D8%A7%D8%B1%D8%A9-%D9%84%D9%84%D9%85%D8%B1%D8%A9-%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A%D8%A9-%D8%A8%D8%B9%D8%AF-2011",
     "picture_source": "\u0627\u0644\u062c\u0632\u064a\u0631\u0629 \u0646\u062a",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "France",
-    "title": "Goffin",
-    "pubDate": "Tue, 28 May 2024 19:00:00 +0200",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSz5i9myDyFHGnTCukAtE4wXegTFS018lDKKWJ96B2O4DhTrmjnDn8hgUoBvXZvLVlu4wkhlsQo",
-    "news_item_snippet": "Giovanni Mpetshi Perricard a longtemps tenu t\u00eate \u00e0 David Goffin avant de c\u00e9der dans le cinqui\u00e8me set (4-6, 6-4, 6-3, 6-7 [4], 6-3), mardi, au premier tour&nbsp;...",
-    "news_item_url": "https://www.lequipe.fr/Tennis/Actualites/Giovanni-mpetshi-perricard-craque-face-a-david-goffin-au-premier-tour-de-roland-garros/1470795",
-    "picture_source": "Eurosport.fr",
     "approx_traffic": "50,000+"
   },
   {
@@ -360,13 +320,23 @@
     "approx_traffic": "50,000+"
   },
   {
+    "country": "France",
+    "title": "Goffin",
+    "pubDate": "Tue, 28 May 2024 19:00:00 +0200",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSz5i9myDyFHGnTCukAtE4wXegTFS018lDKKWJ96B2O4DhTrmjnDn8hgUoBvXZvLVlu4wkhlsQo",
+    "news_item_snippet": "Un dernier revers long pleine ligne et David Goffin pouvait lever les bras en signe de victoire. Le Belge venait de sortir vainqueur d&#39;un v\u00e9ritable bras de fer&nbsp;...",
+    "news_item_url": "https://www.lequipe.fr/Tennis/Actualites/Giovanni-mpetshi-perricard-craque-face-a-david-goffin-au-premier-tour-de-roland-garros/1470795",
+    "picture_source": "Eurosport.fr",
+    "approx_traffic": "50,000+"
+  },
+  {
     "country": "Germany",
     "title": "Jahn Regensburg",
     "pubDate": "Tue, 28 May 2024 11:00:00 +0200",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcT5g3oVYjE_Dp2FonDX9qLoDUwfBOjVtAQkhVRfMaa806wMl4RqpAYkK9X1lUr6Bw7IJtt5sMvN",
-    "news_item_snippet": "Petersen pfeift nach rund siebeneinhalb Minuten Nachspielzeit die Partie ab - der SSV Jahn Regensburg kehrt nach nur einem Jahr Absenz in die 2. Bundesliga&nbsp;...",
-    "news_item_url": "https://www.kicker.de/wiesbaden-gegen-regensburg-2024-bundesliga-relegation-4910422/ticker",
-    "picture_source": "hessenschau.de",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQb9D-EkntrUx_KY79YGSB-sQw41rPzqarlXGE8epZ_EfqyaQLh3LTSI6ApxUS1wCVmdeQdPgVI",
+    "news_item_snippet": "Der SV Wehen Wiesbaden muss kommende Saison wieder drittklassig gegen den Ball treten. In der Relegation verlieren die Hessen am Dienstag das R\u00fcckspiel&nbsp;...",
+    "news_item_url": "https://www.hessenschau.de/sport/fussball/wehen-wiesbaden/sv-wehen-wiesbaden-steigt-aus-2-liga-ab-niederlage-gegen-regensburg-in-relegation-v1,svww-regensburg-rueckspiel-100.html",
+    "picture_source": "Frankfurter Rundschau",
     "approx_traffic": "50,000+"
   },
   {
@@ -374,8 +344,8 @@
     "title": "Rafah",
     "pubDate": "Mon, 27 May 2024 21:00:00 +0200",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcR_Sf6YWS9CQPpKjqLOl9hwPJ8ZYND-xjWpAX_Zf-yGgSnt8VChm-ofcnIayMVxvmDd2W3yO4i7",
-    "news_item_snippet": "Der israelische Milit\u00e4rsprecher Daniel Hagari sagte am Dienstag, die Luftwaffe habe bei einem Angriff auf ranghohe Hamas-Mitglieder zwei kleine - jeweils 17&nbsp;...",
-    "news_item_url": "https://www.juedische-allgemeine.de/israel/israels-armee-sekundaere-explosion-moeglicher-grund-fuer-rafah-brand/",
+    "news_item_snippet": "Wann Israels Armee in Rafah die rote Linie von US-Pr\u00e4sident Biden \u00fcberschreitet. Wie das Rentenpaket der Regierung die Jungen belastet.",
+    "news_item_url": "https://www.spiegel.de/ausland/news-rafah-israel-gaza-joe-biden-cyril-ramaphosa-papst-franziskus-a-d6dc95c3-2985-4a98-a611-0881e8f1f9af",
     "picture_source": "tagesschau.de",
     "approx_traffic": "200,000+"
   },
@@ -410,32 +380,12 @@
     "approx_traffic": "100,000+"
   },
   {
-    "country": "Germany",
-    "title": "French Open",
-    "pubDate": "Sun, 26 May 2024 12:00:00 +0200",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTD2Y9cQi1pT7tpaQ4iPQ5s8K8y70HCDoz_2yaiWN7amxXumAFUBMG1pD34cH4c3-UEkOKhAFE6",
-    "news_item_snippet": "Alexander Zverev untermauert seine Titelambitionen mit einem verdienten Sieg gegen den Rekordchampion. Rafael Nadal verabschiedet sich so fr\u00fch wie nie in&nbsp;...",
-    "news_item_url": "https://ga.de/news/rafas-moment-zverev-besiegt-nadal-im-french-open-showdown_aid-113481457",
-    "picture_source": "NDR.de",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "Germany",
-    "title": "Kommunalwahl Th\u00fcringen",
-    "pubDate": "Sun, 26 May 2024 12:00:00 +0200",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSstgcx4TMCWQRmodUHu0XzUsfhxDcP30leenaC7ISD6At2vrcvvehIaoQFwqKCqbcp-lvLHn5J",
-    "news_item_snippet": "Bei den Th\u00fcringer Kommunalwahlen ist die AfD knapp hinter der CDU auf dem zweiten Platz gelandet. Was das Ergebnis bedeutet und ob es ein Sieg oder eine&nbsp;...",
-    "news_item_url": "https://www.mdr.de/nachrichten/thueringen/kommunalwahl-afd-ergebnis-bedeutung-gewinner-verlierer-100.html",
-    "picture_source": "Neue Westf\u00e4lische",
-    "approx_traffic": "50,000+"
-  },
-  {
     "country": "Italy",
     "title": "Pretty Woman",
     "pubDate": "Tue, 28 May 2024 20:00:00 +0200",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSABHxpbqcIqBebB77eIDEVgo7_G8Lg1Gfk2svF67TbS4r-7zHtSjtJ99uIzQX5pz91hj1xJcC-",
-    "news_item_snippet": "Tutti conosciamo Pretty Woman, il film con Julia Roberts che ha finito col diventare un nuovo classico del cinema, ma non tutti sanno che, all&#39;inizio,&nbsp;...",
-    "news_item_url": "https://www.ilgiornale.it/news/cinema/pretty-woman-doveva-essere-finale-tragico-film-2327258.html",
+    "news_item_snippet": "Et\u00e0 e film di Laura San Giacomo, che interpreta Kit De Luca, Julia Roberts e Richard Gere.",
+    "news_item_url": "https://www.esquire.com/it/cultura/film/a60926350/pretty-woman-attori-oggi/",
     "picture_source": "La Repubblica",
     "approx_traffic": "50,000+"
   },
@@ -444,8 +394,8 @@
     "title": "Giorgia Meloni De Luca",
     "pubDate": "Tue, 28 May 2024 16:00:00 +0200",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRJ3iEgVvnmfaoYW_I3UO-IcccFBfkCGwC_mopwkUFVJ3pfII3A19xyooRDDtE_zq0httRa6FEW",
-    "news_item_snippet": "Durante una visita istituzionale a Caivano, vicino a Napoli, la presidente del Consiglio Giorgia Meloni si \u00e8 presentata in maniera piuttosto insolita al&nbsp;...",
-    "news_item_url": "https://www.ilpost.it/flashes/giorgia-meloni-saluto-vincenzo-de-luca-stronza/",
+    "news_item_snippet": "Filmata dal capo ufficio stampa della premier Fabrizio Alfano. E rilanciata dal sito di Atreju con lo slogan \u00abGiorgia insegnaci a vivere\u00bb. La reazione \u00e8 una&nbsp;...",
+    "news_item_url": "https://www.open.online/2024/05/29/giorgia-meloni-de-luca-stronza-caivano-filmato/",
     "picture_source": "Corriere Roma",
     "approx_traffic": "50,000+"
   },
@@ -458,16 +408,6 @@
     "news_item_url": "https://www.corriere.it/sport/tennis/24_maggio_28/djokovic-herbert-roland-garros-risultato-4d4ddbec-501f-4119-9c0d-bbf345403xlk.shtml",
     "picture_source": "La Gazzetta dello Sport",
     "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Mexico",
-    "title": "Dia de la Hamburguesa",
-    "pubDate": "Mon, 27 May 2024 12:00:00 -0600",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSQGgxmanQ221Ag9LA117dskD2cpEg87fbbqZydcEu8Vq2b_0R9y4C87ka6HAIrKgZSfq8tDULx",
-    "news_item_snippet": "Algunas empresas de comida r\u00e1pida lanzaron distintas promociones para conmemorar la fecha; conoce de qu\u00e9 tratan.",
-    "news_item_url": "https://www.eluniversal.com.mx/tendencias/dia-de-la-hamburguesa-carls-jr-burger-king-y-mcdonalds-lanzan-promociones-para-celebrar-este-28-de-mayo/",
-    "picture_source": "Infobae.com",
-    "approx_traffic": "100,000+"
   },
   {
     "country": "Spain",
@@ -483,11 +423,11 @@
     "country": "United Kingdom",
     "title": "NatWest",
     "pubDate": "Tue, 28 May 2024 09:00:00 +0100",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRVZQ37LW42k6WL72DlWWK0clH8RGKqrLHs2yxz7GfXUDDYwUDNqfp7Sw56fABtfoBjLJhBBDkT",
-    "news_item_snippet": "NatWest Group PLC&#39;s (LSE:NWG) online banking app was down for several hours, hitting thousands of users who have reported various error messages when...",
-    "news_item_url": "https://www.proactiveinvestors.co.uk/companies/news/1048504/natwest-struggles-to-explain-mobile-app-outage-1048504.html",
-    "picture_source": "Proactive Investors UK",
-    "approx_traffic": "100,000+"
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTfypI7d5j_CUZTxJGgYXr8s5P-DkkgR_5bet8LKJ_QHNBE6Elb6znosXGQsFUqxSgpMhHPohPY",
+    "news_item_snippet": "Is NatWest app down? NatWest users have been reporting issues with online banking, the app and accessing their bank accounts.",
+    "news_item_url": "https://www.thetottenhamindependent.co.uk/news/national/uk-today/24348767.natwest-bank-responds-online-banking-issues/",
+    "picture_source": "Tottenham Independent",
+    "approx_traffic": "50,000+"
   },
   {
     "country": "United Kingdom",
