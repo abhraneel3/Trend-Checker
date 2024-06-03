@@ -1,32 +1,22 @@
 [
   {
     "country": "United States",
-    "title": "Earthquake",
-    "pubDate": "Sun, 02 Jun 2024 11:00:00 -0700",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQhueG3GW2Q9C-SSRwcwrD-yn3PuvHw4o-YOKxniZzRPfIyvmKl2p8ctPi_JyUT4Y2feg_PhOaT",
-    "news_item_snippet": "Earthquakes have again struck Japan&#39;s north-central region of Ishikawa that is still recovering from the destruction left by a powerful quake on Jan. 1.",
-    "news_item_url": "https://apnews.com/article/japan-earthquake-ishikawa-6980c18b070a6b63dd5f28dbac081c5e",
-    "picture_source": "FOX Weather",
-    "approx_traffic": "50,000+"
+    "title": "Mexico elections",
+    "pubDate": "Sun, 02 Jun 2024 16:00:00 -0700",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQPrc6dWum-WneECjalp87NdIZ841n3mOnJKHp6RpqU46EvsLtI550TU8f8HKbVHIuHZfZ0waz5",
+    "news_item_snippet": "2024 Mexico Presidential Election: Live Results ... Note: Vote counts and vote share percentages are preliminary. These numbers may differ from the final results&nbsp;...",
+    "news_item_url": "https://www.nytimes.com/interactive/2024/06/02/world/americas/results-mexico-presidential-election.html",
+    "picture_source": "ABC News",
+    "approx_traffic": "100,000+"
   },
   {
     "country": "United States",
     "title": "Rupert Murdoch",
     "pubDate": "Sun, 02 Jun 2024 15:00:00 -0700",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSUKq_oSY9VyZrWS4Ui6SaEQBdb7Ywqm7fUQ6D0cULzI4TX3YpZoD0QafmQjNNq7n42DlVPL1cc",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSkTBfrGHXeIEIfLZeDZ5SZ41qu2NGAgQOY7yRSJ3PG13vn55Awz5svb0lx8RERoFjaF8EjNIC5",
     "news_item_snippet": "Media magnate weds Russian-born retired molecular biologist at a ceremony in California. murdoch. Rupert Murdoch and Elena Zhukova got married on June 1 [News&nbsp;...",
     "news_item_url": "https://www.aljazeera.com/news/2024/6/3/rupert-murdoch-marries-for-fifth-time",
-    "picture_source": "ABC News",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Corral Fire",
-    "pubDate": "Sun, 02 Jun 2024 12:00:00 -0700",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQ0jnAqjt-TsabVMwod9_HLZStG894O3wALf6ez4Yhm-xohphHhiyHBtTNVFTlNUNgr_1MEEOhr",
-    "news_item_snippet": "California firefighters are working to contain the Corral Fire outside of Tracy, which exploded in size over the weekend, prompting officials to order&nbsp;...",
-    "news_item_url": "https://www.foxweather.com/extreme-weather/california-corral-fire",
-    "picture_source": "NBC Bay Area",
+    "picture_source": "NBC News",
     "approx_traffic": "50,000+"
   },
   {
@@ -41,6 +31,16 @@
   },
   {
     "country": "United States",
+    "title": "Corral Fire",
+    "pubDate": "Sun, 02 Jun 2024 12:00:00 -0700",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQ0jnAqjt-TsabVMwod9_HLZStG894O3wALf6ez4Yhm-xohphHhiyHBtTNVFTlNUNgr_1MEEOhr",
+    "news_item_snippet": "California firefighters are working to contain the Corral Fire outside of Tracy, which exploded in size over the weekend, prompting officials to order&nbsp;...",
+    "news_item_url": "https://www.foxweather.com/extreme-weather/california-corral-fire",
+    "picture_source": "NBC Bay Area",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
     "title": "Fever vs Liberty",
     "pubDate": "Sun, 02 Jun 2024 17:00:00 -0700",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRMoxlFktFdlzECqqoZLJ0csSVnnqNYaQg48uWYOlkV7AVKTqDihu7ItZ366CfnDT8wT1a_rlld",
@@ -51,11 +51,31 @@
   },
   {
     "country": "United States",
+    "title": "Earthquake Los Angeles",
+    "pubDate": "Sun, 02 Jun 2024 11:00:00 -0700",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQhueG3GW2Q9C-SSRwcwrD-yn3PuvHw4o-YOKxniZzRPfIyvmKl2p8ctPi_JyUT4Y2feg_PhOaT",
+    "news_item_snippet": "The earthquake occurred less than a mile from Alhambra, less than a mile from South Pasadena, one mile from Monterey Park and one mile from East Los&nbsp;...",
+    "news_item_url": "https://www.latimes.com/california/story/2024-06-02/earthquake-magnitude-3-5-quake-shakes-los-angeles-area",
+    "picture_source": "FOX Weather",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Akron shooting",
+    "pubDate": "Sun, 02 Jun 2024 11:00:00 -0700",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQzQnbgNAzNxaplT1z924_6Wcl3wVIFl8vgZ53-zNJlORnItUxKhh-ADlGmeA7m_0GLlT-cLbYA",
+    "news_item_snippet": "AKRON, Ohio (WOIO) -&nbsp;...",
+    "news_item_url": "https://www.cleveland19.com/2024/06/02/27-people-shot-akron-1-man-killed-multiple-victims-hospitalized/",
+    "picture_source": "News 5 Cleveland",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
     "title": "UFC",
     "pubDate": "Sat, 01 Jun 2024 13:00:00 -0700",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTAB2O0MWsYBbj2R5DH7iESaJcvE_hCTjm2HaajDyJTc5JfcpJi4Mn-dW6dgCVQCrcSKXN1kpej",
-    "news_item_snippet": "Islam Makhachev and Dustin Poirier delivered an instant classic at UFC 302, but what&#39;s next for the top stars on the card?",
-    "news_item_url": "https://www.espn.com/mma/story/_/id/40259914/ufc-302-takeaways-makhachev-eyes-double-champ-legacy-khabib",
+    "news_item_snippet": "See The Fight Results, Watch Post-Fight Interviews With The Prelims Winners And More From UFC 302: Makhachev vs Poirier, Live From Prudential Center In&nbsp;...",
+    "news_item_url": "https://www.ufc.com/news/prelim-results-highlights-winner-interviews-ufc-302-makhachev-vs-poirier?language_content_entity=en",
     "picture_source": "The Associated Press",
     "approx_traffic": "1,000,000+"
   },
@@ -81,29 +101,9 @@
   },
   {
     "country": "United States",
-    "title": "Dallas Stars",
-    "pubDate": "Sat, 01 Jun 2024 09:00:00 -0700",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcR2HyvJzDb6hlN64o6ghX4x80bezBX3zLHEfACp_X-KrHR8SQ8VAu9TEuX-QfsOTCEbDCkIJMdi",
-    "news_item_snippet": "While the main complaint and potential mental block for the Dallas Stars may be their offense, there are defensive tweaks that may help them win this series&nbsp;...",
-    "news_item_url": "https://blackoutdallas.com/posts/defensive-suggestions-to-unlock-the-dallas-stars-offense",
-    "picture_source": "Blackout Dallas",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Rangers",
-    "pubDate": "Sat, 01 Jun 2024 23:00:00 -0700",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcS0dRYEHd8EgML8v3GASSPHwx90IY8ARM_7nySMADWilPwuU4JSzeJAmd4vwDnqJR7lul07qSVf",
-    "news_item_snippet": "When it was over, Vincent Trocheck wrapped his arms around goaltender Igor Shesterkin. Mika Zibanejad took a knee along the boards, watching Florida&nbsp;...",
-    "news_item_url": "https://www.nbcnewyork.com/news/sports/rangers-lose-to-panthers/5468601/",
-    "picture_source": "NHL.com",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "United States",
     "title": "Chad Daybell",
     "pubDate": "Sat, 01 Jun 2024 18:00:00 -0700",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcS2kY1UqQwsRbvegNuL_RvCmC0gHAR7w1IAqOgTqae4UjxRbLsHBJ6Nawqi-rkRUQZ4UOhi0U4n",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRF246U5oG-Y-BL6sYHMOIXLMV_LirAqlMm_dHcysyryPhjmc1kHoS7mJfSuD1x7Kt5NEU4s4Ht",
     "news_item_snippet": "Jurors said they found Chad Daybell demonstrated &quot;utter disregard for human life&quot; and would be a continued threat to society.",
     "news_item_url": "https://www.usatoday.com/story/news/nation/2024/06/01/chad-daybell-sentenced-to-death-in-doomsday-murders-case/73938215007/",
     "picture_source": "KPLC",
@@ -113,31 +113,41 @@
     "country": "United States",
     "title": "Wilder vs Zhang",
     "pubDate": "Sat, 01 Jun 2024 15:00:00 -0700",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcT3dPSEm01cczytokkzp9jGLrBm-J2Epoowfk88PF5s7khPtWkqa5a11iyKBip7mD8yo_laEP2G",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSPm0Mog94PQVBy0kKsxen6STyyYJv1UTM7vWMeBFTf1Ue0ZYbcmzJ5y2eP64Ied2kW_jwIHjTL",
     "news_item_snippet": "Zhilei Zhang scored the biggest win of his career Saturday in Riyadh, Saudi Arabia, and might have effectively ended former heavyweight champion Deontay&nbsp;...",
     "news_item_url": "https://www.espn.com/boxing/story/_/id/40259110/zhilei-zhang-finishes-deontay-wilder-brutal-5th-round-tko",
     "picture_source": "CBSSports.com",
     "approx_traffic": "50,000+"
   },
   {
-    "country": "India",
-    "title": "Oman vs Namibia",
-    "pubDate": "Mon, 03 Jun 2024 06:30:00 +0530",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRFXmoFulCrznWqGU8QMYiSAxv087VjzDSWvfH6ZJCet9L_fkYCQBYK9bjR6_9mNMilX_KG_XwR",
-    "news_item_snippet": "Namibia vs Oman Live Score: Namibia at 47/2 after 10 overs, Gerhard Erasmus at 2 runs and Jan Frylinck at 20 runs | Crickit.",
-    "news_item_url": "https://www.hindustantimes.com/cricket/namibia-vs-oman-live-score-match-3-of-icc-mens-t20-world-cup-2024-final-updates-today-03-jun-2024-101717371311077.html",
-    "picture_source": "India Today",
+    "country": "United States",
+    "title": "Djokovic",
+    "pubDate": "Sat, 01 Jun 2024 17:00:00 -0700",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRDKeBX5Xn7YIf-Jys18mjn3s8Cvp8lArRvy_imRFS_qcLdSChs0p7AiSRVsj1DpkfzslFEnt83",
+    "news_item_snippet": "It is Djokovic&#39;s 369th win at a Grand Slam tournament, tying Roger Federer for the most in tennis history. Djokovic can break the mark on Monday, when he&#39;ll&nbsp;...",
+    "news_item_url": "https://apnews.com/article/djokovic-musetti-french-open-2024-7b6b381d6d287c181aa22820b4b22352",
+    "picture_source": "ESPN",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Simone Biles",
+    "pubDate": "Sat, 01 Jun 2024 14:00:00 -0700",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRkThPVGtV_pE69RZfnMhvSbkA0IURXt8j-awi7cnFN0XYgW0xoO1dBGBngOUeIAzDCUh6Y-1zf",
+    "news_item_snippet": "Biles finished with the highest two-day score on all four events \u2014 something she&#39;d done only once before at nationals (2018).",
+    "news_item_url": "https://www.nbcdfw.com/paris-2024-summer-olympics/simone-biles-9th-us-championships-title/3557323/",
+    "picture_source": "NBC 5 Dallas-Fort Worth",
     "approx_traffic": "50,000+"
   },
   {
     "country": "India",
-    "title": "Aaron Jones",
-    "pubDate": "Sun, 02 Jun 2024 00:30:00 +0530",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRlug4gQ89Pz8VYomY1XDYRZ6-Mhxz9WcYefYeyYEzyiz0n2z9y-ieN45jV41VF29HloTH8BXsv",
-    "news_item_snippet": "Aaron Jones had played with the likes of Jason Holder and Shai Hope, made his first-class debut in 2017 but moved to USA when he didn&#39;t get a long run in&nbsp;...",
-    "news_item_url": "https://indianexpress.com/article/sports/cricket/aaron-jomes-usa-perfect-start-vs-canada-t20-world-cup-9368211/",
-    "picture_source": "ESPNcricinfo.com",
-    "approx_traffic": "200,000+"
+    "title": "Nifty 50",
+    "pubDate": "Mon, 03 Jun 2024 06:30:00 +0530",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSoMkVtXQkMNho50qWOUElaR1sSpqruUr02J7mBE1Z25v2f00EuDyG1uRfnX0VGr53bJEgf-cEV",
+    "news_item_snippet": "Nifty 50 Share Price Live Updates: At 11:15 Nifty 50 was trading at 23143.55 (2.72%). Today Nifty 50 has been trading in the range of 23338.7 to 23062.3.",
+    "news_item_url": "https://www.livemint.com/market/stock-market-news/nifty-50-stock-price-live-updates-check-all-the-latest-updates-and-share-price-for-nifty-50-stock-on-03-jun-2024-11717383601476.html",
+    "picture_source": "Livemint",
+    "approx_traffic": "100,000+"
   },
   {
     "country": "India",
@@ -151,23 +161,43 @@
   },
   {
     "country": "India",
-    "title": "Sikkim Krantikari Morcha",
-    "pubDate": "Sun, 02 Jun 2024 01:30:00 +0530",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQfTWL7kK85fc6i-CBn_ev7MAqK5dut8ZPIwQKilY0xX3i0SRTxdX1S4OIbn9IR5kbISRv6-Y35",
-    "news_item_snippet": "Sikkim Assembly election 2024 updates: Stay informed with the latest updates, highlights on the 2024 Sikkim Assembly elections from The Hindu.",
-    "news_item_url": "https://www.thehindu.com/elections/sikkim-assembly/sikkim-assembly-election-results-live-updates-june-2-2024/article68239147.ece",
+    "title": "Oman vs Namibia",
+    "pubDate": "Sun, 02 Jun 2024 08:30:00 +0530",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRFXmoFulCrznWqGU8QMYiSAxv087VjzDSWvfH6ZJCet9L_fkYCQBYK9bjR6_9mNMilX_KG_XwR",
+    "news_item_snippet": "So far the two games in T20 World Cup have been won by sides batting second. Namibia: : Nikolaas Davin, Micahel van Lingen, Jan Frylinck, Gerhard Erasmus (capt)&nbsp;...",
+    "news_item_url": "https://www.icc-cricket.com/news/live-namibia-opt-to-field-in-oman-clash-from-barbados",
     "picture_source": "India Today",
-    "approx_traffic": "200,000+"
+    "approx_traffic": "100,000+"
   },
   {
     "country": "India",
     "title": "Raveena Tandon",
     "pubDate": "Sun, 02 Jun 2024 14:30:00 +0530",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSezmlwlPEq_XqMdU0s46Jn-lmWMkxvMNtp32srZJJNuXeCA1sZk4u4nO7M007q53tMb5G4uEtE",
-    "news_item_snippet": "The video of the incident is doing rounds across social media platforms in which Raveena Tandon can be seen struggling around the people pushing her and&nbsp;...",
-    "news_item_url": "https://www.livemint.com/news/india/mumbai-police-issues-statement-on-attack-on-raveena-tandon-says-both-parties-denied-11717340355005.html",
+    "news_item_snippet": "A viral video showed Bollywood actor Raveena Tandon being pushed outside her Bandra home. Khar police, led by Zonal DCP Raj Tilak Roushan, sent both p.",
+    "news_item_url": "https://timesofindia.indiatimes.com/city/mumbai/in-viral-clip-group-shoves-bollywood-actor-raveena-tandon-during-spat-with-driver/articleshow/110651257.cms",
     "picture_source": "NDTV",
     "approx_traffic": "50,000+"
+  },
+  {
+    "country": "India",
+    "title": "Venkatesh Iyer",
+    "pubDate": "Sun, 02 Jun 2024 15:30:00 +0530",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTtICtURtQgOTS9FcaqQ9PVwDkXeqBTTA2d1QZese-8ics3WVJ-ss_84aIfgjFoAvkT_icnCSHx",
+    "news_item_snippet": "Venkatesh Iyer : \u0c10\u0c2a\u0c40\u0c0e\u0c32\u0c4d \u0c35\u0c3f\u0c1c\u0c47\u0c24 \u0c35\u0c46\u0c02\u0c15\u200c\u0c1f\u0c47\u0c36\u0c4d \u0c05\u0c2f\u0c4d\u0c2f\u200c\u0c30\u0c4d (Venkatesh Iyer) \u0c2a\u0c46\u0c02\u0c21\u0c4d\u0c32\u0c3f \u0c1a\u0c47\u0c38\u0c41\u0c15\u0c41\u0c28\u0c4d\u0c28\u0c3e\u0c21\u0c41. \u0c15\u0c4b\u0c32\u0c4d\u200c\u0c15\u200c\u0c24\u0c3e \u0c28\u0c48\u0c1f\u0c4d \u0c30\u0c48\u0c21\u200c\u0c30\u0c4d\u0c38\u0c4d(KKR) \u0c06\u0c1f\u200c\u0c17\u0c3e\u0c21\u0c48\u0c28 \u0c05\u0c2f\u0c4d\u0c2f\u200c\u0c30\u0c4d \u0c24\u200c\u0c28\u200c&nbsp;...",
+    "news_item_url": "https://www.ntnews.com/sports/venkatesh-iyer-marries-fiancee-shruti-in-glittering-ceremony-1607458",
+    "picture_source": "TV9 Telugu",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "India",
+    "title": "T20 World Cup",
+    "pubDate": "Sat, 01 Jun 2024 21:30:00 +0530",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTe_A5LjiZVcXUTD8bgip6mxyI5iG4Lg-Moa1F2fRQa9p1RoC6G29lYJO-8WRivKcmonnoFkuCj",
+    "news_item_snippet": "NAM vs OMA, T20 World Cup: Namibia beat Oman by 11 runs in Super Over after both teams scored 109 each.",
+    "news_item_url": "https://sports.ndtv.com/t20-world-cup-2024/namibia-vs-oman-live-score-t20-world-cup-updates-live-streaming-5802571",
+    "picture_source": "ICC Cricket",
+    "approx_traffic": "2,000,000+"
   },
   {
     "country": "India",
@@ -181,22 +211,12 @@
   },
   {
     "country": "India",
-    "title": "WI vs PNG",
-    "pubDate": "Sat, 01 Jun 2024 21:30:00 +0530",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSAE-pxGUewGCxp-3Tj3_TCNPNTrGhQyczzgfyyI4tmlDtjOs2uLqdMRlHX81jmmzpbitKj6YFV",
-    "news_item_snippet": "West Indies 137 for 5 (Chase 42*, Vala 2-28) beat Papua New Guinea 136 for 8 (Bau 50, Russell 2-19) by five wickets. It was far from the confident start to&nbsp;...",
-    "news_item_url": "https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/west-indies-vs-papua-new-guinea-2nd-match-group-c-1415702/match-report",
-    "picture_source": "Business Standard",
-    "approx_traffic": "1,000,000+"
-  },
-  {
-    "country": "India",
-    "title": "Cricket",
-    "pubDate": "Sat, 01 Jun 2024 23:30:00 +0530",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTDc9-b8JVqhBYnYMYBTlhPV15Ywlj_qeUblvwJZlL6jxLGeW49gYIooD0-5Af3ia74AhrFGnIM",
-    "news_item_snippet": "Jones played the unexpected hero on the night with great flair, throwing the spotlight on himself and - the hope remains - on cricket in the USA.",
-    "news_item_url": "https://www.espncricinfo.com/story/t20-world-cup-2024-usa-vs-canada-aaron-jones-gets-the-american-cricket-party-started-1436204",
-    "picture_source": "Times of India",
+    "title": "Aaron Jones",
+    "pubDate": "Sat, 01 Jun 2024 22:30:00 +0530",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRlug4gQ89Pz8VYomY1XDYRZ6-Mhxz9WcYefYeyYEzyiz0n2z9y-ieN45jV41VF29HloTH8BXsv",
+    "news_item_snippet": "Aaron Jones had played with the likes of Jason Holder and Shai Hope, made his first-class debut in 2017 but moved to USA when he didn&#39;t get a long run in&nbsp;...",
+    "news_item_url": "https://indianexpress.com/article/sports/cricket/aaron-jomes-usa-perfect-start-vs-canada-t20-world-cup-9368211/",
+    "picture_source": "ESPNcricinfo.com",
     "approx_traffic": "500,000+"
   },
   {
@@ -210,13 +230,33 @@
     "approx_traffic": "500,000+"
   },
   {
+    "country": "India",
+    "title": "Cricket",
+    "pubDate": "Sat, 01 Jun 2024 23:30:00 +0530",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTDc9-b8JVqhBYnYMYBTlhPV15Ywlj_qeUblvwJZlL6jxLGeW49gYIooD0-5Af3ia74AhrFGnIM",
+    "news_item_snippet": "Cricket has been historically unsuccessful in winning over the United States, so how can the T20 World Cup help flip the script? USA Cricket Vice-Captain Aaron&nbsp;...",
+    "news_item_url": "https://www.aljazeera.com/sports/2024/6/1/icc-t20-world-cup-2024-will-cricket-finally-take-off-in-north-america-usa-vs-canada",
+    "picture_source": "Times of India",
+    "approx_traffic": "200,000+"
+  },
+  {
     "country": "Argentina",
     "title": "River",
     "pubDate": "Sun, 02 Jun 2024 13:00:00 -0300",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSjUqRp7zqqdfE_w1RjnEeA02Zp5VLCG-3wwJ4xmCLT6XR7Rd0keWcB6VaTdnKu-3u7v40bVLx7",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQiR-nDv6OYAZRcqHsP5PTtfRNvJQkzVKJ2W7R2beC6ADfB3G3irY-HylQ7gScLAcozUVfo5FyJ",
     "news_item_snippet": "El colombiano meti\u00f3 un hattrick para que el Millonario se recuperara r\u00e1pido de la derrota ante Tigre y consiga su tercera victoria en cuatro fechas.",
     "news_item_url": "https://www.tycsports.com/river-plate/river-vs-tigre-liga-profesional-formaciones-donde-ver-en-vivo-id588499.html",
     "picture_source": "Ol\u00e9",
+    "approx_traffic": "500,000+"
+  },
+  {
+    "country": "Argentina",
+    "title": "Boca",
+    "pubDate": "Sun, 02 Jun 2024 11:00:00 -0300",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQAWNZEHyH-DY7XXFYcxMVraUL48QkIiO0C_Yhb7qHDZq74poqepmAkgpkwIuuWJRvcSA9w_dwN",
+    "news_item_snippet": "Con gol de Pellegrino, el Calamar venci\u00f3 por la m\u00ednima al Xeneize, que jug\u00f3 con 10 gran parte del encuentro por la expulsi\u00f3n de Rojo.",
+    "news_item_url": "https://www.ole.com.ar/futbol-primera/platense-boca-hoy-vivo-liga-profesional-hora-ver-formaciones_0_OQ4qip9CA5.html",
+    "picture_source": "TyC Sports",
     "approx_traffic": "500,000+"
   },
   {
@@ -232,7 +272,7 @@
   {
     "country": "Argentina",
     "title": "Rosario Central  Lan\u00fas",
-    "pubDate": "Sun, 02 Jun 2024 13:00:00 -0300",
+    "pubDate": "Sun, 02 Jun 2024 15:00:00 -0300",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSDjuzp8Y9b8zMpCloPsxi2gvcJA8EElD2CURYRvSW6bzkc43A0qpSflRX_mpnk6vzcdxHNwJDw",
     "news_item_snippet": "El Canalla empat\u00f3 sobre la hora con gol de su hist\u00f3rico delantero; Felipe Pe\u00f1a Biafore hab\u00eda anotado para el Grana. Por Redacci\u00f3n EG \u00b7. 02 de junio de 2024.",
     "news_item_url": "https://www.elgrafico.com.ar/articulo/1038/77785/en-el-regreso-de-marco-ruben-rosario-central-igualo-con-lanus-en-arroyito",
@@ -243,7 +283,7 @@
     "country": "Australia",
     "title": "UFC",
     "pubDate": "Sun, 02 Jun 2024 08:00:00 +1000",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTu-tjSIuogwafu0Fq4MqVumUkMoeAW51WmUZ-cG1Q9zmEer29wJ4srL-0u6GDs2I0B5ChkARZd",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSPPAA82FsZ-bi9yDHYihlOG7YeK6laYUywbqOahq2PPKV_W3jK6cq2rMnRfxXaDarXZaaS8RuB",
     "news_item_snippet": "UFC legend out cold after brutal statement; reaction to &#39;criminal&#39; scorecard says it all.",
     "news_item_url": "https://www.foxsports.com.au/ufc/ufc-302-islam-makhachev-vs-dustin-poirier-live-updates-start-time-full-fight-card-results-blog-stream-sean-strickland-vs-paulo-costa/news-story/09f898d5a756a697f1c575c6c5d0fd34",
     "picture_source": "ESPN Australia",
@@ -251,13 +291,13 @@
   },
   {
     "country": "Brazil",
-    "title": "S\u00e3o Paulo x Cruzeiro",
-    "pubDate": "Sun, 02 Jun 2024 09:00:00 -0500",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQA-YB-F9UkiQQONmF2ettEjoG2uHy2A8O4rZrETgObU3uRrUEVNw7gRLBm9Vsm3PRiNMnBsAgp",
-    "news_item_snippet": "Com um gol no in\u00edcio de cada tempo e com um homem a mais desde a etapa inicial, o S\u00e3o Paulo venceu o Cruzeiro com autoridade, por 2 a 0, no MorumBis.",
-    "news_item_url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2024/06/02/sao-paulo-bate-cruzeiro-com-gols-relampagos-e-entra-no-g4-do-brasileirao.htm",
-    "picture_source": "Gizmodo Brasil",
-    "approx_traffic": "1,000,000+"
+    "title": "Atl\u00e9tico-MG x Bahia",
+    "pubDate": "Sun, 02 Jun 2024 07:00:00 -0500",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRzgoCMDjU7kH-NcytBaww_3h3hV6ft2UlL5f1IgfGZ9WgaQyrASrviETWPDOwNsGBOjkqt3ZJR",
+    "news_item_snippet": "FIM DE JOGO! Atl\u00e9tico-MG e Bahia termina empatado em Belo Horizonte pelo Campeonato Brasileiro. Na pr\u00f3xima rodada, o Galo visita o RB Bragantino e o&nbsp;...",
+    "news_item_url": "https://www.estadao.com.br/esportes/futebol/atletico-mg-x-bahia-brasileiro-serie-a-2024/",
+    "picture_source": "globoesporte.com",
+    "approx_traffic": "200,000+"
   },
   {
     "country": "Brazil",
@@ -271,52 +311,22 @@
   },
   {
     "country": "Brazil",
-    "title": "Atl\u00e9tico-MG x Bahia",
-    "pubDate": "Sun, 02 Jun 2024 14:00:00 -0500",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRzgoCMDjU7kH-NcytBaww_3h3hV6ft2UlL5f1IgfGZ9WgaQyrASrviETWPDOwNsGBOjkqt3ZJR",
-    "news_item_snippet": "FIM DE JOGO! Atl\u00e9tico-MG e Bahia termina empatado em Belo Horizonte pelo Campeonato Brasileiro. Na pr\u00f3xima rodada, o Galo visita o RB Bragantino e o&nbsp;...",
-    "news_item_url": "https://www.estadao.com.br/esportes/futebol/atletico-mg-x-bahia-brasileiro-serie-a-2024/",
-    "picture_source": "globoesporte.com",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "Brazil",
-    "title": "Jogo do flamengo",
-    "pubDate": "Sun, 02 Jun 2024 14:00:00 -0500",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcS6xLfgg03leYRq6oz7ipJYfHXH0TCYfeRug26NLr-2Kk3ebF2z1g5IE1tr4d9tYFcO_DOjVWT8",
-    "news_item_snippet": "ok google jogar &quot;Casinos online tailandeses: uma fonte inesgot\u00e1vel de divers\u00e3o.&quot; &middot; Jogos de cassino ao vivo: Mostre suas habilidades e ganhe dinheiro &middot; Share and&nbsp;...",
-    "news_item_url": "http://www.propaae.uefs.br/casino=20240603www%20blaze%20jogo.html",
-    "picture_source": "Pr\u00f3-Reitoria de Pol\u00edticas Afirmativas e Assuntos Estudantis",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "Brazil",
     "title": "Fortaleza x Athletico-PR",
-    "pubDate": "Sun, 02 Jun 2024 15:00:00 -0500",
+    "pubDate": "Sun, 02 Jun 2024 12:00:00 -0500",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRShN9bfz0ZLlHu1mUX1asGsSWtl_ZYhQwmVNhHMmTRipD_nqAZ089eOwFjWtuOLyUlEHlWIrag",
     "news_item_snippet": "Fim do Jogo, Fortaleza 1, Athletico Paranaense 0. 2\u00ba Tempo. 2&nbsp;...",
     "news_item_url": "https://www.terra.com.br/esportes/futebol/brasileiro-serie-a/ao-vivo/fortaleza-x-athletico-pr/84021/",
     "picture_source": "globoesporte.com",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "Brazil",
-    "title": "Jogo do palmeiras",
-    "pubDate": "Sun, 02 Jun 2024 06:00:00 -0500",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRXNmW2tLexR68_i230hHv5KXHJuYM_-Q9RAjb49JPBcKUNGDjJYcmkINdgqvwpZOCZdLn_GrPX",
-    "news_item_snippet": "657907 reviews. 10,000,000+. Downloads. Free. m.real bet &quot;Como jogar roleta online - Guia para jogar roleta em sites de cassino.&quot;.",
-    "news_item_url": "http://www.propaae.uefs.br/play=20240602o%20que%20%C3%83%C2%A9%20tiro%20livre.html",
-    "picture_source": "Pr\u00f3-Reitoria de Pol\u00edticas Afirmativas e Assuntos Estudantis",
-    "approx_traffic": "50,000+"
+    "approx_traffic": "200,000+"
   },
   {
     "country": "Canada",
     "title": "Florida Panthers",
     "pubDate": "Sun, 02 Jun 2024 01:00:00 -0400",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRcLrY8ufruFBtZQiD23znaUAwIOym7dZeXB2RLedcC5rZ3TehFWeD4rLgDxc0NhYpUwQrXqAK2",
-    "news_item_snippet": "The Panthers are heading back to the Stanley Cup Final, and this time they are not the scrappy, battered underdog. They belong. And they know it.",
-    "news_item_url": "https://www.sportsnet.ca/nhl/article/told-you-wed-be-back-florida-panthers-punch-ticket-to-stanley-cup-final/",
-    "picture_source": "Miami Herald",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTIlS4nYV6NQToi4UuLlb1dAy-ZOR1KZ5GZcaCmqgHQza24eIP8eKNRiZgNRenvcdVaRP3hgxUP",
+    "news_item_snippet": "The Florida Panthers play the Edmonton Oilers in the 2024 Stanley Cup Finals. Here&#39;s what to know about the matchup.",
+    "news_item_url": "https://www.miamiherald.com/sports/nhl/florida-panthers/article288952368.html",
+    "picture_source": "Forbes",
     "approx_traffic": "100,000+"
   },
   {
@@ -331,13 +341,33 @@
   },
   {
     "country": "France",
-    "title": "Metz \u2013 Saint-\u00c9tienne",
+    "title": "Metz Saint-Etienne",
     "pubDate": "Sun, 02 Jun 2024 13:00:00 +0200",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTdt8LxNu_Aj8GULnTF6Epkawcj45HfKYMJu9hRalb9JCcUVTGCRfBxKjnxyMSoeaECbAPFEKxy",
-    "news_item_snippet": "En marge du barrage retour Ligue 1/Ligue 2 entre Metz et Saint-Etienne, sept personnes ont \u00e9t\u00e9 arr\u00eat\u00e9es pour cause d&#39;\u00e9chauffour\u00e9es entre supporteurs avant&nbsp;...",
-    "news_item_url": "https://rmcsport.bfmtv.com/football/barrages-l1-l2/metz-saint-etienne-sept-interpellations-pour-des-affrontements-entre-supporteurs_AV-202406020380.html",
+    "news_item_snippet": "Saint-\u00c9tienne signe son retour en Ligue 1 suite \u00e0 son match nul (2-2) obtenu apr\u00e8s prolongation en barrage retour (1-2 \u00e0 l&#39;aller, jeudi), ce dimanche,&nbsp;...",
+    "news_item_url": "https://www.lequipe.fr/Football/Actualites/Saint-etienne-remonte-en-ligue-1-apres-son-match-nul-en-barrage-retour-a-metz/1471957",
     "picture_source": "FC Metz",
-    "approx_traffic": "500,000+"
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "France",
+    "title": "Monica Bellucci",
+    "pubDate": "Sun, 02 Jun 2024 21:00:00 +0200",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcR5uRe7B9oRv_OwxgjBdXO__OrFHklxdDZitgK379vr8OrDajCdb9pJYPUiDed4SLGuqQZs7HNC",
+    "news_item_snippet": "Ce dimanche 2 juin, en pleine promotion du film Paradis Paris, Monica Bellucci a \u00e9voqu\u00e9 son fort attachement \u00e0 la France, lors de son entretien ave...",
+    "news_item_url": "https://www.gala.fr/l_actu/news_de_stars/video-monica-bellucci-francaise-d-adoption-paris-est-dans-mon-coeur-comme-litalie_544680",
+    "picture_source": "Gala",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "France",
+    "title": "Serena Williams",
+    "pubDate": "Sun, 02 Jun 2024 19:00:00 +0200",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcT3iE5XMutC3RRVMfQ4Tyyo5GV9O6Zd8YxKyJNq32BJGDk6iMr4lbaqb9ad3dY9IZIry-m4Tosa",
+    "news_item_snippet": "Sept ans apr\u00e8s son dernier Roland-Garros, o\u00f9 elle a jou\u00e9 le tournoi \u00e0 20 reprises, la N\u00eemoise Virginie Razzano ouvre la bo\u00eete \u00e0 souvenirs entre victoire&nbsp;...",
+    "news_item_url": "https://www.midilibre.fr/2024/06/03/le-match-magique-contre-serena-williams-je-jouais-pour-mon-ex-compagnon-qui-malheureusement-etait-decede-quand-virginie-razzano-se-souvient-11988498.php",
+    "picture_source": "Midi Libre",
+    "approx_traffic": "50,000+"
   },
   {
     "country": "France",
@@ -363,10 +393,10 @@
     "country": "France",
     "title": "Ons Jabeur",
     "pubDate": "Sun, 02 Jun 2024 18:00:00 +0200",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQv657Hd0fEJh80mwhHcrhAGlme5HW2MeXyvG_roClKKbgn98OiWTNKEkRwA6GRD15w1YnORaWN",
-    "news_item_snippet": "La n\u00b0 9 mondiale, 29 ans, rejoindra au prochain tour l&#39;Am\u00e9ricaine Coco Gauff (3e), tombeuse plus t\u00f4t dans la journ\u00e9e de l&#39;Italienne Elisabetta Cocciaretto.",
-    "news_item_url": "https://www.ouest-france.fr/sport/tennis/roland-garros/roland-garros-jespere-faire-un-peu-de-magie-ons-jabeur-rejoint-coco-gauff-en-quart-de-finale-16609a66-20fe-11ef-b868-127b2923bc1b",
-    "picture_source": "L'\u00c9quipe.fr",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQ-zipiHNq_roNCM4cyR9Yz5hbykOFA1xoNU2o6IGqnMlm6Hrm7EYTI_xhVmSD1IRQqP2TFnQ4p",
+    "news_item_snippet": "La Tunisienne Ons Jabeur s&#39;est d\u00e9barrass\u00e9e de la Danoise Clara Tauson ce dimanche en huiti\u00e8mes de finale de Roland-Garros (6-4, 6-4).",
+    "news_item_url": "https://www.lequipe.fr/Tennis/Actualites/Ons-jabeur-rejoint-coco-gauff-en-quarts-de-finale-de-roland-garros/1471942",
+    "picture_source": "Roland-Garros",
     "approx_traffic": "50,000+"
   },
   {
@@ -381,13 +411,13 @@
   },
   {
     "country": "Germany",
-    "title": "Ruth Maria Kubitschek",
-    "pubDate": "Sun, 02 Jun 2024 11:00:00 +0200",
+    "title": "Kubitschek",
+    "pubDate": "Sun, 02 Jun 2024 12:00:00 +0200",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQbQJYp1clNBg_LnLqv9W4-Yp2XM8khltc3nuV7i4Ax4MUlyEc5DxuUczgICQZCEE1pHQkJ8exx",
-    "news_item_snippet": "Sie galt als Grande Dame des Deutschen Fernsehens. Nun ist Ruth Maria Kubitschek im Alter von 92 Jahren in der Schweiz gestorben. Bekannt wurde sie vor&nbsp;...",
-    "news_item_url": "https://www.tagesschau.de/inland/gesellschaft/kubitschek-gestorben-102.html",
+    "news_item_snippet": "Die Schauspielerin Ruth Maria Kubitschek ist tot. Der Kir Royal Star starb im Alter von 92 Jahren in der Schweiz. Kubitschek spielte in ihrer langen&nbsp;...",
+    "news_item_url": "https://www.brisant.de/stars/gestorben/ruth-maria-kubitschek-tot-104.html",
     "picture_source": "Schwarzw\u00e4lder Bote",
-    "approx_traffic": "200,000+"
+    "approx_traffic": "50,000+"
   },
   {
     "country": "Germany",
@@ -401,21 +431,11 @@
   },
   {
     "country": "Germany",
-    "title": "Bayern \u2013 \u00dcberschwemmungen",
-    "pubDate": "Sat, 01 Jun 2024 18:00:00 +0200",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcS5p1VMgWjonpKyCjNdCJFuxwspgbQnwO6Q6tq6dzEMucipeUPbYIFPD_AhMPIapLoK4jvc4-lv",
-    "news_item_snippet": "In Bayern hat es jetzt durch das Hochwasser und die \u00dcberschwemmungen einen Toten gegeben. Ein 42-j\u00e4hriger Feuerwehrmann ist bei einer Rettungsaktion in&nbsp;...",
-    "news_item_url": "https://www.dasding.de/newszone/unwetter-ueberschwemmung-bw-bayern-lage-100.html",
-    "picture_source": "MDR",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "Germany",
     "title": "Toni Kroos",
     "pubDate": "Sat, 01 Jun 2024 21:00:00 +0200",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQrOspjQNgDeez8vty5sewSUz-RqcwAiUufYR0tVFfPfzJVID9YOCS_tUldIbiSdmSFZ0EX0bpe",
-    "news_item_snippet": "Titelsammler Toni Kroos gelingt der perfekte Abschied von Real Madrid. Als letztes Highlight wartet nun die EM.",
-    "news_item_url": "https://www.spox.com/de/sport/fussball/championsleague/2406/News/toni-kroos-erwartet-bei-real-madrid-die-unsterblichkeit.html",
+    "news_item_snippet": "Er ist der erfolgreichste deutsche Fu\u00dfballer aller Zeiten: Nun beendet Toni Kroos seine Karriere \u2013 der Abschied von Real Madrid war auch f\u00fcr seine Tochter&nbsp;...",
+    "news_item_url": "https://www.fr.de/sport/fussball/real-madrid-video-toni-kroos-familie-privates-ehefrau-kinder-tochter-traenen-abschied-93104574.html",
     "picture_source": "Westdeutsche Allgemeine Zeitung",
     "approx_traffic": "200,000+"
   },
@@ -434,9 +454,19 @@
     "title": "Dortmund",
     "pubDate": "Sat, 01 Jun 2024 18:00:00 +0200",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTF8EykYUpFNXzDxbwRRpz8CXB5a1RqAbEt3McyKEDitD945J0CQnHpxpDrO98jsMFuiHYSdc29",
-    "news_item_snippet": "Beim Tr\u00f6delmarkt im Fredenbaumpark in Dortmund st\u00f6berten am Sonntag viele Menschen durch die Angebote der Tr\u00f6dler. Wir zeigen die sch\u00f6nsten Fotos.",
-    "news_item_url": "https://www.ruhrnachrichten.de/dortmund/troedelmarkt-in-dortmund-viele-fotos-aus-dem-fredenbaumpark-w888140-2001234123/",
+    "news_item_snippet": "Weniger Baugenehmigungen, weniger tats\u00e4chlich gebaute Wohnungen. F\u00fcr die Krise im Wohnungsbau gibt es f\u00fcr Dortmund neue dramatische Zahlen.",
+    "news_item_url": "https://www.ruhrnachrichten.de/dortmund/dickes-minus-bei-wohnungs-neubau-in-dortmund-jahresbilanz-zahlen-bestaetigen-krise-am-bau-w886872-2001228837/",
     "picture_source": "Ruhr Nachrichten",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Germany",
+    "title": "Hochwasser",
+    "pubDate": "Sat, 01 Jun 2024 22:00:00 +0200",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcS5p1VMgWjonpKyCjNdCJFuxwspgbQnwO6Q6tq6dzEMucipeUPbYIFPD_AhMPIapLoK4jvc4-lv",
+    "news_item_snippet": "In der Nacht waren die Retter in den Hochwassergebieten im Dauereinsatz. In Baden-W\u00fcrttemberg stehen Evakuierungen an, an der Donau gilt die h\u00f6chste&nbsp;...",
+    "news_item_url": "https://www.spiegel.de/panorama/hochwasserlage-spitzt-sich-zu-flutwelle-an-der-donau-befuerchtet-a-9ba3b14d-21e5-4682-b0a1-5a8af621944b",
+    "picture_source": "MDR",
     "approx_traffic": "50,000+"
   },
   {
@@ -472,7 +502,7 @@
   {
     "country": "Italy",
     "title": "Sinner oggi",
-    "pubDate": "Sun, 02 Jun 2024 21:00:00 +0200",
+    "pubDate": "Sun, 02 Jun 2024 19:00:00 +0200",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTPcJkVSbYStL1CIWWiVdJYWmtAgVJ_url1f4dl9u4TQRwVzybPn3VunnYY6cPlLG8jvHO359g6",
     "news_item_snippet": "Sorride Jannik Sinner dopo il settimo quarto di finale a livello Slam della carriera, il secondo a Parigi: &quot;E&#39; stata una partita difficile,&nbsp;...",
     "news_item_url": "https://sport.sky.it/tennis/2024/06/02/roland-garros-sinner-intervista",
@@ -483,20 +513,30 @@
     "country": "Italy",
     "title": "Atalanta-Fiorentina",
     "pubDate": "Sun, 02 Jun 2024 08:00:00 +0200",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcT1egDWw9FpUB1jWMWRECJeOoonO6GzffiCbE_IewIXokWVrBS0FOp9SKEpse5thsCDQTstCCTk",
-    "news_item_snippet": "La sfida tra la Dea e la Viola \u00e8 stata l&#39;ultima direzione arbitrale in Serie A per Daniele Orsato, festeggiato in campo, che dopo 290 partite \u201cappende gli&nbsp;...",
-    "news_item_url": "https://www.rainews.it/articoli/2024/05/calcio-serie-a-recupero-giornata-29-atalanta-fiorentina-gewiss-stadium-bergamo-diretta-testuale-la-partita-01ebb34b-16c1-4724-8a2c-379e1a7dca11.html",
-    "picture_source": "Fiorentina.it",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRE1-bqdjLT7kVu1_4JU7TghwfvjHBiSpoeQ4jvpabnoO9M6RFftYD3Ae1BgG1ckqbkNOPAKnfq",
+    "news_item_snippet": "Viola avanti con Belotti dopo 5&#39; che incorna in rete un cross perfetto di Castrovilli, pareggia Lookman in contropiede al 12&#39;. Al 20&#39; un gran goal di Nico&nbsp;...",
+    "news_item_url": "https://www.acffiorentina.com/it/news/tutte/prima-squadra-maschile/2024-06-02/live-atalanta-vs-fiorentina",
+    "picture_source": "Rai News",
     "approx_traffic": "200,000+"
   },
   {
     "country": "Italy",
-    "title": "Venezia-Cremonese",
+    "title": "Serie C",
     "pubDate": "Sun, 02 Jun 2024 11:00:00 +0200",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcT6mcIErD9gdwn9waPk5wiBy26EE0ons_k7w4RN0nPTC5c2z9epgj7y-BF5IPoynAYQQGTR0CnD",
-    "news_item_snippet": "Venezia Cremonese su Sky Sport: scopri tutti gli aggiornamenti sulla partita di Serie B in tempo reale.",
-    "news_item_url": "https://sport.sky.it/calcio/serie-b/partite/2023/finale-playoff/venezia-cremonese/risultato-gol",
-    "picture_source": "Sky Tg24",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRLZ1ExSKL5--s-1REkLMbZTrpZgmb5s5qvo7HErQaeLZTef0ez_6FuMhRgHauLpMg0rooY-btc",
+    "news_item_snippet": "Nella gara giocata in terra sannita hanno segnato al 18\u2032 Lanini e la 35\u2032 Talia per i padroni i casa e invece al 20\u2032 Finotto e al 66\u2032 Schiavi per gli apuani. La&nbsp;...",
+    "news_item_url": "https://www.radiobruno.it/serie-c-carrarese-in-finale-playoff-se-la-vedra-col-vicenza/",
+    "picture_source": "Lega Pro",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "Italy",
+    "title": "Venezia Cremonese",
+    "pubDate": "Sun, 02 Jun 2024 11:00:00 +0200",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQ6ahaeeqrYO9JDHw34unXwvRhzGeWWwsZXfbam7ychiG1DXBvdbang_hd3eMoWBmqQmRIkKEKl",
+    "news_item_snippet": "Leggi su Sky TG24 l&#39;articolo Serie B, finale playoff: Venezia-Cremonese 1-0. I Lagunari conquistano la A.",
+    "news_item_url": "https://tg24.sky.it/sport/2024/06/02/venezia-cremonese-finale-playoff-serie-b-video-highlights",
+    "picture_source": "Sky Sport",
     "approx_traffic": "100,000+"
   },
   {
@@ -511,32 +551,12 @@
   },
   {
     "country": "Italy",
-    "title": "Vicenza Avellino",
-    "pubDate": "Sun, 02 Jun 2024 11:00:00 +0200",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSipr4aG3BrM7uW81ar5PoGvrd4bhLQD01_aEHFyu2ZxX-Ep5stDwShak5CFO2QASMxGRV1SNHD",
-    "news_item_snippet": "Dopo lo 0-0 del Partenio-Lombardi, il Vicenza batte 2-1 l&#39;Avellino al Menti e conquista la finale playoff di Serie C dove affronter\u00e0 la sorpresa Carrarese.",
-    "news_item_url": "https://sport.sky.it/calcio/serie-c/2024/06/02/vicenza-avellino-gol-highlights",
-    "picture_source": "Orticalab",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "Italy",
     "title": "Rosignano",
     "pubDate": "Sun, 02 Jun 2024 16:00:00 +0200",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcThwIoldNZBOW5_MnWKyT5_Tj-Ze3TeGmye39-rehWqMkGH9qcM_Pp87SfO_ajbyG_8NnjDnb0c",
-    "news_item_snippet": "L&#39;auto della coppia tedesca \u00e8 piombata a tutta velocit\u00e0 sui veicoli fermi alla barriera autostradale, senza dar segni di frenata.",
-    "news_item_url": "https://www.lanazione.it/cronaca/incidente-casello-rosignano-bwkpjpyo",
+    "news_item_snippet": "Terribile incidente stradale: ieri intorno alle 13 un&#39;auto si \u00e8 schiantata distruggendo la struttura dell&#39;autostrada causando tre morti e sei feriti,&nbsp;...",
+    "news_item_url": "https://www.rainews.it/video/2024/06/lauto-a-folle-velocita-listante-dellimpatto-il-casello-di-rosignano-video-dello-schianto-lincidente-mortale-in-provincia-di-livorno-sulla-a12-1ef0c493-53ee-4700-afb7-9e48b268dc96.html",
     "picture_source": "Il Post",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Italy",
-    "title": "Natisone",
-    "pubDate": "Sun, 02 Jun 2024 02:00:00 +0200",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSbJvaBHjovZXoUOo6azYwYvegOKrF-wfPoUTucOyhUvSMYZkYaAI1h5vf0Toig9w3ZRD4oqxtf",
-    "news_item_snippet": "Si tratta di Patrizia Cormos e Bianca Doros, portate via dalla piena l&#39;altro ieri insieme all&#39;amico Cristian Casian Molnar, che risulta ancora disperso.",
-    "news_item_url": "https://tg24.sky.it/cronaca/2024/06/02/dispersi-fiume-natisone",
-    "picture_source": "Rai News",
     "approx_traffic": "50,000+"
   },
   {
@@ -551,11 +571,11 @@
   },
   {
     "country": "Mexico",
-    "title": "INE",
-    "pubDate": "Sun, 02 Jun 2024 07:00:00 -0600",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSb7vLL0OjgMPjZPOQGrozchMLHmpqz-0YDlCiNJfEE_19mtCIVUK-M2ectj-vdowJSZ5uK8KJH",
-    "news_item_snippet": "N\u00famero: 345. sin incidentes: Guadalupe Taddei. En el primer informe en cadena nacional sobre la apertura de casillas report\u00f3 la instalaci\u00f3n de 149 mil 059,&nbsp;...",
-    "news_item_url": "https://centralelectoral.ine.mx/2024/06/02/la-jornada-electoral-se-desarrolla-de-manera-ordenada-y-sin-incidentes-guadalupe-taddei/",
+    "title": "PREP",
+    "pubDate": "Sun, 02 Jun 2024 08:00:00 -0600",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcT6QTV9eeeJrffYWKdkvMSijMZcuf3WsGZawhwHlsmRaPi-WepGmA6PIkNZzhGCsjizX9Cxxray",
+    "news_item_snippet": "Es un mecanismo de informaci\u00f3n que recabar\u00e1 los resultados preliminares y NO DEFINITIVOS de la elecci\u00f3n de la Ciudad de M\u00e9xico de este 2 de junio.",
+    "news_item_url": "https://www.iecm.mx/www/sites/prep/",
     "picture_source": "Central Electoral",
     "approx_traffic": "2,000,000+"
   },
@@ -563,40 +583,40 @@
     "country": "Mexico",
     "title": "Claudia Sheinbaum",
     "pubDate": "Sun, 02 Jun 2024 10:00:00 -0600",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRSW66zLLecuqK7FJGfRL0zuU4HsWQ-HFk2RY4V2t_OukmEgBgA9Q1EZjdipWtb5aBkC6ycWZ91",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSxyY1DQMVNM2wUV4w1ipjLFQyA-SO5sSWtoEUKuXJhikE54ga06mc6ZilcCbe_102fAkUsgtWK",
     "news_item_snippet": "Aunque es la candidata apoyada por el presidente saliente L\u00f3pez Obrador, Claudia Sheinbaum tiene un perfil diferente al de su mentor. Sheinbaum creci\u00f3 en una&nbsp;...",
     "news_item_url": "https://legrandcontinent.eu/es/2024/06/03/quien-es-claudia-sheinbaum-geopolitica-de-la-nueva-mujer-fuerte-de-mexico/",
-    "picture_source": "El Economista",
+    "picture_source": "BBC Mundo",
     "approx_traffic": "200,000+"
   },
   {
     "country": "Mexico",
     "title": "Xochitl",
     "pubDate": "Sun, 02 Jun 2024 12:00:00 -0600",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRYsaSp0gap1LycOsWEjf5JR4kt0O3VXrlduq6gUS91zQz2IOJJcng8eeDt6nQu6YF7uI4BfPqI",
-    "news_item_snippet": "\u201cYa ganamos\u201d, asegur\u00f3 la candidata presidencial de la coalici\u00f3n Fuerza y Coraz\u00f3n por M\u00e9xico, X\u00f3chitl G\u00e1lvez Ru\u00edz, quien pidi\u00f3 esperar el conteo de votos del&nbsp;...",
-    "news_item_url": "https://www.elfinanciero.com.mx/elecciones-mexico-2024/2024/06/02/elecciones-presidenciales-2024-xochitl-galvez-pide-esperar-conteo-tras-cierre-de-casillas/",
-    "picture_source": "Infobae.com",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSxyY1DQMVNM2wUV4w1ipjLFQyA-SO5sSWtoEUKuXJhikE54ga06mc6ZilcCbe_102fAkUsgtWK",
+    "news_item_snippet": "La candidata presidencial de Fuerza y Coraz\u00f3n por M\u00e9xico recibi\u00f3 apoyo de comensales.",
+    "news_item_url": "https://www.infobae.com/mexico/2024/06/02/reciben-a-xochitl-galvez-al-grito-de-presidenta-en-un-restaurante/",
+    "picture_source": "BBC Mundo",
     "approx_traffic": "100,000+"
   },
   {
     "country": "Mexico",
     "title": "Promociones por votar",
-    "pubDate": "Sun, 02 Jun 2024 10:00:00 -0600",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQkTj9y3C-ZUCEBYMH7I7uqOYpKizoZQB7m7esqRiJW9M0sdfew1sCXvxi9R2EUxDMUhAxNiBV5",
-    "news_item_snippet": "Tambi\u00e9n te decimos cu\u00e1les son los sitios que han recibido buenas valoraciones durante estas Elecciones 2024.",
-    "news_item_url": "https://www.infobae.com/mexico/2024/06/02/ya-se-acabaron-las-promos-reportan-que-restaurantes-y-tiendas-no-estan-haciendo-validos-los-descuentos-por-votar/",
-    "picture_source": "Milenio.com",
-    "approx_traffic": "100,000+"
+    "pubDate": "Sun, 02 Jun 2024 11:00:00 -0600",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQiVo6tB--5eeutIKRUGW3jHxEUuUl-oU10G2iRwkEYdmyMFEys0IRRnfy7sCDciB4le4frgwCl",
+    "news_item_snippet": "\u00bfTe negaron promociones por votar? Esto es lo que puedes hacer. Conoce el procedimiento en caso de no recibir los productos gratuitos ofrecidos por votar.",
+    "news_item_url": "https://www.milenio.com/negocios/finanzas-personales/que-hacer-si-no-validan-promociones-por-votar-este-2-de-junio",
+    "picture_source": "Informador.mx",
+    "approx_traffic": "50,000+"
   },
   {
     "country": "Mexico",
     "title": "Como votar",
     "pubDate": "Sun, 02 Jun 2024 00:00:00 -0600",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSb7vLL0OjgMPjZPOQGrozchMLHmpqz-0YDlCiNJfEE_19mtCIVUK-M2ectj-vdowJSZ5uK8KJH",
-    "news_item_snippet": "Los 20 consulados en los que se puede votar en EU abrieron sus puertas en la ma\u00f1ana de hoy a la misma hora que lo hicieron en M\u00e9xico.",
-    "news_item_url": "https://www.forbes.com.mx/miles-de-mexicanos-en-eu-intentan-votar-entre-problemas-tecnicos-y-filas-interminables/",
-    "picture_source": "Central Electoral",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTXRF0ZK-JarfQjv4oTdJrvoObNXaIJ2G74bA-suEBnKhoJFs4gP_sMeUwn7u5QOs8ie-FYg0Cr",
+    "news_item_snippet": "N\u00famero: 346. M\u00f3dulos Receptores de Votaci\u00f3n reciben sufragios de personas que se registraron en la LNE en el Extranjero y mil 500 sin registro previo.",
+    "news_item_url": "https://centralelectoral.ine.mx/2024/06/02/el-ine-esta-preparado-para-recibir-el-voto-de-la-ciudadania-residente-en-el-extranjero-en-sedes-consulares/",
+    "picture_source": "Forbes Mexico",
     "approx_traffic": "50,000+"
   },
   {
@@ -607,16 +627,6 @@
     "news_item_snippet": "Florentino P\u00e9rez mostr\u00f3 su orgullo por los jugadores que han conquistado la decimoquinta Copa de Europa del equipo blanco, la sexta en los diez \u00faltimos a\u00f1os,&nbsp;...",
     "news_item_url": "https://www.telemadrid.es/deportes/Florentino-Perez-El-Real-Madrid-ha-vuelto-a-conquistar-el-corazon-de-millones-de-personas-0-2675432443--20240602074828.html",
     "picture_source": "Madridista Real",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Spain",
-    "title": "Uno de nosotros",
-    "pubDate": "Sun, 02 Jun 2024 14:00:00 +0200",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSxrkkuW_on4kzJb2ZeXj0pMHe2idOkrPTMYz8ZAOl6xSRbYSgBg8vzq1R-PbFBpnL5smvTUc2k",
-    "news_item_snippet": "Kevin Costner y Diane Lane protagonizan este &#39;thriller&#39;, basado en la novela de Larry Watson, que trata temas como el maltrato y la familia pol\u00edtica.",
-    "news_item_url": "https://www.rtve.es/television/20240601/uno-nosotros-curiosidades-pelicula-gratis-play-kevin-costner-diane-lane/16128717.shtml",
-    "picture_source": "RTVE",
     "approx_traffic": "50,000+"
   },
   {
@@ -633,20 +643,30 @@
     "country": "Spain",
     "title": "UFC",
     "pubDate": "Sun, 02 Jun 2024 00:00:00 +0200",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQGJnC5MGL2R6qq2UTOXxx6lTp6tVafHo4htjOFIHgV6TXe5HtVBt2X7rupbVLB02_ALwq22gWF",
-    "news_item_snippet": "Ya hab\u00eda avisado a todos en el pesaje: &quot;Os demostrar\u00e9 que es ser el mejor libra por libra&quot;. Y lo hizo. Islam Makhachev (26-1) derrot\u00f3 a Dustin Poirier&nbsp;...",
-    "news_item_url": "https://www.marca.com/combates-ufc/2024/06/02/665bc92bca4741f9158b456c.html",
-    "picture_source": "Eurosport.es",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTql3TdrLYb57VVbzYmWMEnP7oHOHunivHUVuPRT0jGXQYmULQJGH8m4bjR0RRJBQZqm2-PZl4o",
+    "news_item_snippet": "Islam Makhachev retiene el t\u00edtulo del peso ligero al vencer por sumisi\u00f3n a Dustin Poirier en el combate estelar de la UFC 302. El peleador ruso y el&nbsp;...",
+    "news_item_url": "https://www.eurosport.es/mma/ufc/2024/ufc-302-makhachev-sigue-siendo-el-rey-del-ligero-gana-abajo-tras-una-resistencia-espectacular-de-poirier_vid2153727/video.shtml",
+    "picture_source": "RELEVO",
     "approx_traffic": "50,000+"
   },
   {
     "country": "Spain",
     "title": "Mbappe",
     "pubDate": "Sun, 02 Jun 2024 14:00:00 +0200",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSnI6_g3LW5XD7y7Gl_1xvTH8yuWP2WDbz4mYJy7gg1WTZ4q5WXnfozxsvw_6jnMLkfwirOCr3K",
-    "news_item_snippet": "\u00bfCu\u00e1ntas Champions debe ganar el Real Madrid con Kylian Mbappe? Esto dicen en el Chiringuito (+video). El delantero har\u00e1 oficial su firma con los merengues la&nbsp;...",
-    "news_item_url": "https://meridiano.net/futbol/liga-de-campeones/cuantas-champions-debe-ganar-el-real-madrid-con-kylian-mbappe-esto-dicen-en-el-chiringuito-video--20246219550",
-    "picture_source": "La Raz\u00f3n",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQiDt5R1B6y14MWsyt4S-FSroCmptk-ltxLIPMn_czxAbhz10yTMZb6PRTTFA_0qEVsQe6LzkeF",
+    "news_item_snippet": "El Real Madrid gan\u00f3 la Champions contra el Borussia Dortmund y Pedrerol dio despu\u00e9s una importante informaci\u00f3n sobre el futuro.",
+    "news_item_url": "https://www.larazon.es/deportes/futbol/noticia-josep-pedrerol-chiringuito-kylian-mbappe-real-madrid_20240602665c50d6e73ed600014b158b.html",
+    "picture_source": "MARCA.com",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Spain",
+    "title": "Carlo Ancelotti",
+    "pubDate": "Sun, 02 Jun 2024 00:00:00 +0200",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSUNUkXH55qepuE1psIssQYex2Zxiru1_rQ9OMDngrPo_5wRp_4LOBt7EV76ZN1T8z7DLjZOvF3",
+    "news_item_snippet": "Descubre en DAZN las finales que ha perdido Carlo Ancelotti en sus m\u00e1s de 25 a\u00f1os como entrenador!",
+    "news_item_url": "https://www.dazn.com/es-ES/news/f%C3%BAtbol/cuantas-finales-ha-perdido-carlo-ancelotti/lrzkbetl41yt1odsvt3j3itq9",
+    "picture_source": "Madridista Real",
     "approx_traffic": "50,000+"
   },
   {
@@ -654,8 +674,8 @@
     "title": "Rob Burrow",
     "pubDate": "Sun, 02 Jun 2024 19:00:00 +0100",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQ1PU6RWv7L5RSr4e5A2pt1SSWdmlyVG9YnitjZBy0Czss9gXb_be5BVJF79G50JI3DwsVoayNE",
-    "news_item_snippet": "The following is a joint statement by the Lord Mayor, Councillor Abigail Marshall Katung, the Leader of Leeds City Council Leader, Councillor James Lewis,&nbsp;...",
-    "news_item_url": "https://news.leeds.gov.uk/news/rob-burrow-statement-on-behalf-of-leeds-city-council",
+    "news_item_snippet": "Rob inspired the entire country with his brave battle against Motor Neurone Disease (MND) since his diagnosis in December 2019. He passed away peacefully at&nbsp;...",
+    "news_item_url": "https://www.therhinos.co.uk/article/20426/rob-burrow-rip",
     "picture_source": "MND Association",
     "approx_traffic": "500,000+"
   },
@@ -666,16 +686,6 @@
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTnWopabog71pvfShscnIa3QZ2l1sXahBPA9cLys0SKU6-aZn65A4u5Sp3Rbv12xCtDn-mgf_oK",
     "news_item_snippet": "Daniel Dubois stopped Filip Hrgovic on cuts in Round 8 on Saturday to set up a big fight against former world heavyweight champion Anthony Joshua at&nbsp;...",
     "news_item_url": "https://www.espn.co.uk/boxing/story/_/id/40258756/daniel-dubois-stops-filip-hrgovic-anthony-joshua-fight-wembley",
-    "picture_source": "Sky Sports",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United Kingdom",
-    "title": "T20 World Cup",
-    "pubDate": "Sun, 02 Jun 2024 09:00:00 +0100",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcT8WqmVKN98eCl3nOxSuG-VKOoCzvEGP4GpHT9TGeqwr0xrhiJv-LEuxyrgaQlk49VuivamPm_d",
-    "news_item_snippet": "USA and West Indies are co-hosting the T20 World Cup, which runs from June 2-29 with every match live on Sky Sports; England are defending champions after&nbsp;...",
-    "news_item_url": "https://www.skysports.com/cricket/news/12123/13146707/t20-world-cup-usa-off-to-perfect-start-with-victory-over-canada",
     "picture_source": "Sky Sports",
     "approx_traffic": "50,000+"
   }
