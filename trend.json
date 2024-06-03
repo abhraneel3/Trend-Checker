@@ -3,21 +3,11 @@
     "country": "United States",
     "title": "Larry Allen",
     "pubDate": "Mon, 03 Jun 2024 10:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRdy93yNE_TPfk01u3FtuTlUONIMPSL1pWXca-GY8MEvGqyCRUyksyjyMmEFGu2dIaZT-eQx2g-",
-    "news_item_snippet": "The Cowboys have lost a legend in Larry Allen, who suddenly passed away on Sunday at the age of 52. Allen, a 10-time Pro Bowler, is considered one of the&nbsp;...",
-    "news_item_url": "https://www.dallascowboys.com/news/cowboys-legend-larry-allen-passes-away-at-52",
-    "picture_source": "KLTV",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTMEuiG31MuHn6c45P-1Pd5eGYy1sscnddFl7_nYfpvvb7Nd4dedSqGmTUlZmcpTakyrzG9hW36",
+    "news_item_snippet": "Former All-Pro&nbsp;...",
+    "news_item_url": "https://www.kltv.com/2024/06/03/dallas-cowboys-legend-larry-allen-passes-away-52/",
+    "picture_source": "DallasCowboys.com",
     "approx_traffic": "100,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Berkshire Hathaway",
-    "pubDate": "Mon, 03 Jun 2024 09:00:00 -0700",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRXEjJqh8q5I9wO0QXxPEdDgsQfZnv64Rlgu8nLyQfSAPP18zbxlWWWlT_YCCP12Xf7fbQ7_33-",
-    "news_item_snippet": "Berkshire Hathaway, the conglomerate helmed by billionaire Warren Buffett, did not in fact lose almost its entire $900 billion market capitalization.",
-    "news_item_url": "https://www.forbes.com/sites/dereksaul/2024/06/03/nyse-technical-issue-incorrectly-shows-berkshire-hathaway-stock-down-100/",
-    "picture_source": "Forbes",
-    "approx_traffic": "50,000+"
   },
   {
     "country": "United States",
@@ -41,12 +31,22 @@
   },
   {
     "country": "United States",
+    "title": "Berkshire Hathaway",
+    "pubDate": "Mon, 03 Jun 2024 09:00:00 -0700",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcThVGI7KXJyvm-Kd_d5HPDYNnFPvVbudqSUToplcFIJ8B2bOoJVweesO4sCdhGV-Dch4ia3y9__",
+    "news_item_snippet": "Normal trading resumed late Monday morning after the New York Stock Exchange said a technical issue had led to large fluctuations in the prices displayed&nbsp;...",
+    "news_item_url": "https://www.nbcnews.com/business/markets/new-york-stock-exchange-technical-issue-berkshire-hathaway-halted-rcna155182",
+    "picture_source": "NBC News",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
     "title": "Claudia Sheinbaum",
     "pubDate": "Sun, 02 Jun 2024 09:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQtWr20O0Mjdicx9lMjwQ0sUJIDW0yRG-a8FxD_gI9cE4SbOLs1LrjjxZPPc1mFN9AzEAGYhEEa",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRbrO5RbHiu1QhjvSS5JWbgbP8fnYdUXsaiK2PIci7Avb3yBL9ZWdGkquvCSVffXlNYnhGpZMuK",
     "news_item_snippet": "I congratulate Claudia Sheinbaum on her historic election as the first woman President of Mexico. I look forward to working closely with President-elect&nbsp;...",
     "news_item_url": "https://www.whitehouse.gov/briefing-room/statements-releases/2024/06/03/statement-from-president-joe-biden-congratulating-claudia-sheinbaum-as-president-elect-of-mexico/",
-    "picture_source": "CNN",
+    "picture_source": "Climate Home",
     "approx_traffic": "500,000+"
   },
   {
@@ -73,9 +73,9 @@
     "country": "United States",
     "title": "Oilers",
     "pubDate": "Sun, 02 Jun 2024 21:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQBPaDn7n4cCSs0GpMsG-NoxmdotKMb0vBh5B5EBUWnsf_v1vSf3oJ12u9CiR3lJjF1hP9qWeLp",
-    "news_item_snippet": "Matthew Tkachuk is about to renew some acquaintances. Connor McDavid is going back to where his NHL career started.",
-    "news_item_url": "https://kslsports.com/518218/florida-panthers-edmonton-oilers-stanley-cup-final/",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTT4UrE3WWpsOnqctq4y-22uwn4hQNQ0N4m8mYpqfvU9F0qtPZDESpYH4bTo826OCynPZoU6xhf",
+    "news_item_snippet": "The Edmonton Oilers advanced to the Stanley Cup Final for the first time since 2006 with a 2-1 win against the Dallas Stars in Game 6 of the Western&nbsp;...",
+    "news_item_url": "https://www.nhl.com/news/how-2024-western-conference-champion-edmonton-oilers-were-built",
     "picture_source": "NHL.com",
     "approx_traffic": "100,000+"
   },
@@ -83,30 +83,10 @@
     "country": "United States",
     "title": "Earthquake",
     "pubDate": "Sun, 02 Jun 2024 11:00:00 -0700",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQPpAp1dy6LNgwAIejgecDc3TgZlXnt1lLdENP6hxCRYcbLOuWoKyh0N_yWBsdwIxni8zX8WCiF",
-    "news_item_snippet": "Seismicity in the Alaska Peninsula region is produced by different tectonic features: (1) The Aleutian megathrust is the source of the strongest earthquakes in&nbsp;...",
-    "news_item_url": "https://earthquake.alaska.edu/event/02474gmmo3",
-    "picture_source": "Alaska Earthquake Center",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Rupert Murdoch",
-    "pubDate": "Sun, 02 Jun 2024 15:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcR_0o1vIAlBFMBhTJLSYsnyWy5fPFgfAMMLlJZOwoBbnnIoFWnckNuJ-2aMHuG3ts9oebvptvFy",
-    "news_item_snippet": "Rupert Murdoch has married his fifth wife Elena Zhukova at his Moraga vineyard in Bel Air. The couple announced their engagement in March.",
-    "news_item_url": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/rupert-murdoch-married-fifth-wife-elena-zhukova-1235913655/",
-    "picture_source": "KKCO-TV",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Fever vs Liberty",
-    "pubDate": "Sun, 02 Jun 2024 17:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRMoxlFktFdlzECqqoZLJ0csSVnnqNYaQg48uWYOlkV7AVKTqDihu7ItZ366CfnDT8wT1a_rlld",
-    "news_item_snippet": "Indiana Fever vs. New York Liberty Sunday, June 2. Barclays Center| 7 p.m. ET. Broadcast Information MeTV/NBA TV. Probable Starters. Indiana Fever (2-8).",
-    "news_item_url": "https://fever.wnba.com/news/game-preview-fever-at-liberty/",
-    "picture_source": "ESPN",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcToyHkd_FE59UDr3k1CgioiTrtluZ7Par1Duvf-P_Y4F8G-fAeGGu5X1vGCLaM1hVoEqbFubnnf",
+    "news_item_snippet": "South Pasadena: An earthquake occurred at 9:56 AM on Sunday, June 2, 2024. CalTech reported: The magnitude 3.5 event occurred 4 km (2 miles) SSW of South&nbsp;...",
+    "news_item_url": "https://southpasadenan.com/earthquake-sunday-morning-2-miles-south-southwest-of-south-pasadena/",
+    "picture_source": "The South Pasadenan",
     "approx_traffic": "50,000+"
   },
   {
@@ -133,21 +113,21 @@
     "country": "United States",
     "title": "Akron shooting",
     "pubDate": "Sun, 02 Jun 2024 11:00:00 -0700",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQzQnbgNAzNxaplT1z924_6Wcl3wVIFl8vgZ53-zNJlORnItUxKhh-ADlGmeA7m_0GLlT-cLbYA",
-    "news_item_snippet": "AKRON, Ohio (WOIO) -&nbsp;...",
-    "news_item_url": "https://www.cleveland19.com/2024/06/02/27-people-shot-akron-1-man-killed-multiple-victims-hospitalized/",
-    "picture_source": "News 5 Cleveland",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQ9Hz1YYT-zKhgn-ngUJKToQMnia4wl6BHf66HNKp2rR0ssE6Wvv3EURdVNsQcxlJbvgIAPEFDS",
+    "news_item_snippet": "The Akron Police Department is investigating an overnight shooting that left 25 people injured by gunfire, including a 27-year-old man who is dead.",
+    "news_item_url": "https://www.news5cleveland.com/news/local-news/dozens-hurt-1-killed-in-overnight-akron-shooting",
+    "picture_source": "Cleveland 19 News",
     "approx_traffic": "50,000+"
   },
   {
     "country": "India",
     "title": "Sri Lanka vs South Africa",
     "pubDate": "Mon, 03 Jun 2024 12:30:00 +0530",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTX3ukuHpy1q9Rwo9Me1JWcVSVcPxJCq-6ovwagTOcOE4SCIinBSemdqepaNhv2twNHwdNyoHPQ",
-    "news_item_snippet": "SL vs SA Highlights: South Africa beat Sri Lanka by six wickets in T20 World Cup Group D match in New York.",
-    "news_item_url": "https://sports.ndtv.com/t20-world-cup-2024/sl-vs-sa-live-score-icc-t20-world-cup-2024-sri-lanka-vs-south-africa-live-updates-5808327",
-    "picture_source": "Aljazeera.com",
-    "approx_traffic": "500,000+"
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQSvELOH52_FghXssG75x4GBNdYffCE8AFCcymZIkLXH7khUT76p_Vo4RFeImloyCaBCMH7B2kX",
+    "news_item_snippet": "Thank you for joining us for the live coverage of Sri Lanka vs South Africa. For now, it&#39;s a goodbye from me, Manasi Pathak, and my colleague Kevin Hand on&nbsp;...",
+    "news_item_url": "https://www.aljazeera.com/sports/liveblog/2024/6/3/live-sri-lanka-vs-south-africa-icc-t20-world-cup-2024",
+    "picture_source": "NDTVSports.com",
+    "approx_traffic": "1,000,000+"
   },
   {
     "country": "India",
@@ -161,22 +141,22 @@
   },
   {
     "country": "India",
-    "title": "SBI share price",
-    "pubDate": "Mon, 03 Jun 2024 13:30:00 +0530",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQKTKvkK19MkdJVshemm68kcy3QrNIHJOQXCeyFfyHfuLqnS74yxwUbFJZM7YElf9a8PCgLzAim",
-    "news_item_snippet": "SBI: \u0c17\u0c24 \u0c15\u0c4a\u0c02\u0c24 \u0c15\u0c3e\u0c32\u0c02\u0c17\u0c3e \u0c2a\u0c4d\u0c30\u0c2d\u0c41\u0c24\u0c4d\u0c35 \u0c30\u0c02\u0c17\u0c3e\u0c32\u0c15\u0c41 \u0c1a\u0c46\u0c02\u0c26\u0c3f\u0c28 \u0c15\u0c02\u0c2a\u0c46\u0c28\u0c40\u0c32 (PSU) \u0c38\u0c4d\u0c1f\u0c3e\u0c15\u0c4d\u0c38\u0c4d \u0c26\u0c41\u0c2e\u0c4d\u0c2e\u0c41\u0c30\u0c47\u0c2a\u0c41\u0c24\u0c41\u0c28\u0c4d\u0c28 \u0c38\u0c02\u0c17\u0c24\u0c3f \u0c24\u0c46\u0c32\u0c3f\u0c38\u0c3f\u0c02\u0c26\u0c47. \u0c2e\u0c41\u0c16\u0c4d\u0c2f\u0c02\u0c17\u0c3e \u0c07\u0c02\u0c26\u0c41\u0c32\u0c4b \u0c38\u0c4d\u0c1f\u0c47\u0c1f\u0c4d \u0c2c\u0c4d\u0c2f\u0c3e\u0c02\u0c15\u0c4d \u0c06\u0c2b\u0c4d \u0c07\u0c02\u0c21\u0c3f\u0c2f\u0c3e (SBI)&nbsp;...",
-    "news_item_url": "https://telugu.samayam.com/business/business-news/sbi-surges-to-become-seventh-company-with-rs-8-lakh-crore-market-capitalisation-stock-hits-10-percent-upper-circuit/articleshow/110660713.cms",
-    "picture_source": "Samayam Telugu",
-    "approx_traffic": "50,000+"
+    "title": "Oman vs Namibia",
+    "pubDate": "Mon, 03 Jun 2024 06:30:00 +0530",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcS5vbID8rd9yxrp8s9LomdYbfImbHbe9Dr0CWOP5R8GlLmBYQ3tciiemoapmn8nmmAPDwFG_Dzo",
+    "news_item_snippet": "Superhero Wiese aces Super Over for Namibia in thriller ... Oman mounted a dramatic comeback with the ball after being bundled out for 109 to take the match to a&nbsp;...",
+    "news_item_url": "https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/namibia-vs-oman-3rd-match-group-b-1415703/match-report",
+    "picture_source": "ICC Cricket",
+    "approx_traffic": "200,000+"
   },
   {
     "country": "India",
-    "title": "Adani Power Share",
+    "title": "Adani Power share",
     "pubDate": "Mon, 03 Jun 2024 10:30:00 +0530",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQmTsspwjTgI_1R4djZbrX2Ju43hJ2mwyhgfZySEGjeTtwSP3sJvM7zl_MQm1GIkPL2CLmLxYgE",
-    "news_item_snippet": "Adani stocks price updates 03 June 2024: Adani Group stocks surged on Monday&#39;s trade following predictions of a BJP-led NDA win in the Lok Sabha polls.",
-    "news_item_url": "https://www.thehindubusinessline.com/markets/stock-markets/adani-group-stocks-live-updates-stocks-soar-on-bjp-led-nda-win-predictions-several-hit-52-week-highs/article68245485.ece",
-    "picture_source": "Business Today",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRh3Jc0_aCJlnBD9xYEGV35FdJKmhT6LgMAgcD68gcjPD3ecdkl5_qHYCtK9AoC5t0HIuRkkwZP",
+    "news_item_snippet": "Power-related stocks surged in today&#39;s trade as market sentiment was boosted by expectations of the BJP-led NDA&#39;s victory. Exit polls predict a comfortable&nbsp;...",
+    "news_item_url": "https://www.livemint.com/market/stock-market-news/exit-polls-impact-7-bse-power-stocks-surge-to-record-highs-adani-power-ntpc-lead-with-gains-up-to-19-bjp-modi-11717405692891.html",
+    "picture_source": "The Hindu BusinessLine",
     "approx_traffic": "50,000+"
   },
   {
@@ -190,24 +170,64 @@
     "approx_traffic": "50,000+"
   },
   {
+    "country": "India",
+    "title": "WI vs PNG",
+    "pubDate": "Sun, 02 Jun 2024 12:30:00 +0530",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTX627EGlDvsTSee5-taDX3I5wB8-r285yV0kJCccaYlga_G-gzme1FOBf6dtSUM5Hg-kuUSWsX",
+    "news_item_snippet": "WI vs PNG head-to-head stats: West Indies and Papua New Guinea have never played against each other in a T20 International match.",
+    "news_item_url": "https://www.business-standard.com/cricket/icc-t20-world-cup/t20-world-cup-2024-today-s-match-wi-vs-png-playing-11-live-toss-telecast-124060200127_1.html",
+    "picture_source": "ESPNcricinfo.com",
+    "approx_traffic": "500,000+"
+  },
+  {
+    "country": "India",
+    "title": "Election Results 2024",
+    "pubDate": "Sun, 02 Jun 2024 08:30:00 +0530",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcS1FMZS4D4FT_ogX-D1M9Te8l0LSfiUSEPM9WerFQ2uTXTDbBpbIckqekMDvtFNQWnM8PrNZDJG",
+    "news_item_snippet": "Sikkim Assembly election 2024 updates: Stay informed with the latest updates, highlights on the 2024 Sikkim Assembly elections from The Hindu.",
+    "news_item_url": "https://www.thehindu.com/elections/sikkim-assembly/sikkim-assembly-election-results-live-updates-june-2-2024/article68239147.ece",
+    "picture_source": "Livemint",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "India",
+    "title": "Cricket",
+    "pubDate": "Sun, 02 Jun 2024 06:30:00 +0530",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTmrBo4e0_15Il641XtcMPAQ3OZbihVjlLJ84T1rJEvo60ww_RNgbtjO4bFWOrb7UwqT7WiJZ7o",
+    "news_item_snippet": "\u0c07\u0c02\u0c17\u0c4d\u0c32\u0c02\u0c21\u0c4d\u200c \u0c26\u0c47\u0c36\u0c35\u0c3e\u0c33\u0c3f \u0c15\u0c4d\u0c30\u0c3f\u0c15\u0c46\u0c1f\u0c4d\u200c\u0c32\u0c4b \u0c2d\u0c3e\u0c17\u0c02\u0c17\u0c3e \u0c1c\u0c30\u0c3f\u0c17\u0c47 \u0c35\u0c48\u0c1f\u0c3e\u0c32\u0c3f\u0c1f\u0c40 \u0c1f\u0c4020 \u0c2c\u0c4d\u0c32\u0c3e\u0c38\u0c4d\u0c1f\u0c4d\u200c \u0c32\u0c40\u0c17\u0c4d \u0c32\u0c4b \u0c12\u0c15 \u0c06\u0c38\u0c15\u0c4d\u0c24\u0c3f\u0c15\u0c30 \u0c38\u0c02\u0c18\u0c1f\u0c28 \u0c1a\u0c4b\u0c1f\u0c41 \u0c1a\u0c47\u0c38\u0c41\u0c15\u0c41\u0c02\u0c26\u0c3f. \u0c06\u0c26\u0c3f\u0c35\u0c3e\u0c30\u0c02 (\u0c1c\u0c42\u0c28\u0c4d 02) \u0c39\u0c3e\u0c02\u0c2a\u0c4d\u200c\u0c37\u0c48\u0c30\u0c4d\u200c,&nbsp;...",
+    "news_item_url": "https://tv9telugu.com/sports/cricket-news/chris-wood-displays-exemplary-sportsmanship-as-he-chooses-not-to-run-out-injured-batter-at-nonstrikers-end-watch-video-1270242.html",
+    "picture_source": "cricket.com.au",
+    "approx_traffic": "200,000+"
+  },
+  {
     "country": "Argentina",
     "title": "River",
-    "pubDate": "Sun, 02 Jun 2024 16:00:00 -0300",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRUeYU6tkHVL-ndTXbqdvxT-_oTO9UjOAZwWIJH5Skxo6W3x8jj5k5v_wVnHWMLhD6dnCOdGaxF",
-    "news_item_snippet": "El equipo de Demichelis sonr\u00ede gracias al gran presente de su goleador. \u00bfContra qui\u00e9n juega los octavos de la Copa?",
-    "news_item_url": "https://www.ole.com.ar/river-plate/river-plate-noticias-vivo-lunes-3-junio-demichelis-borja-rival-copa-libertadores-octavos_0_qAqN4UGN94.html",
+    "pubDate": "Sun, 02 Jun 2024 13:00:00 -0300",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQRyOWrYXQ7M7pwpeV5lp_gTU2grkGOISaykOVrFjEl94Sd8LRAu4_TVy4bS0qXq0WTxCr9zvA5",
+    "news_item_snippet": "Tigre perdi\u00f3 3 a 1 ante River Plate por la cuarta fecha del Torneo de la Liga Profesional de F\u00fatbol. Gonzalo Maroni anot\u00f3 el \u00fanico tanto del Matador,&nbsp;...",
+    "news_item_url": "https://catigre.com.ar/noticias/river-3-1-tigre/",
     "picture_source": "Ol\u00e9",
     "approx_traffic": "500,000+"
   },
   {
     "country": "Argentina",
+    "title": "Boca",
+    "pubDate": "Sun, 02 Jun 2024 11:00:00 -0300",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQAWNZEHyH-DY7XXFYcxMVraUL48QkIiO0C_Yhb7qHDZq74poqepmAkgpkwIuuWJRvcSA9w_dwN",
+    "news_item_snippet": "El Xeneize arranca una semana especial con varias bajas por las convocatorias a los distintos seleccionados.",
+    "news_item_url": "https://www.ole.com.ar/boca-juniors/boca-derrota-platense-merentiel-uruguay_0_Z8QS4ObncW.html",
+    "picture_source": "TyC Sports",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "Argentina",
     "title": "River Plate",
-    "pubDate": "Sun, 02 Jun 2024 13:00:00 -0300",
+    "pubDate": "Sun, 02 Jun 2024 16:00:00 -0300",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQ1jwMPP9rVOkP4i8KpTzfbCDXZghVvDgHppML_zzp6gimJFQNbUjr8cNRYMTbZF0TeXTYpllfH",
-    "news_item_snippet": "Qued\u00f3 mucho partido por delante y River no pudo aprovechar los numerosos contragolpes que tuvo como para ampliar la ventaja. Incluso, Borja tuvo una muy clara&nbsp;...",
-    "news_item_url": "https://www.tycsports.com/river-plate/river-vs-tigre-liga-profesional-formaciones-donde-ver-en-vivo-id588499.html",
+    "news_item_snippet": "Se llev\u00f3 a cabo el sorteo de los octavos de final de la Copa Libertadores y River ya conoce su pr\u00f3ximo rival: Talleres de C\u00f3rdoba.",
+    "news_item_url": "https://lapaginamillonaria.com/riverplate/sorteo-de-octavos-de-final-de-la-copa-libertadores-2024-en-vivo-el-rival-de-river-y-minuto-a-minuto",
     "picture_source": "Infobae.com",
-    "approx_traffic": "100,000+"
+    "approx_traffic": "200,000+"
   },
   {
     "country": "Argentina",
@@ -217,16 +237,26 @@
     "news_item_snippet": "El Canalla empat\u00f3 sobre la hora con gol de su hist\u00f3rico delantero; Felipe Pe\u00f1a Biafore hab\u00eda anotado para el Grana. Por Redacci\u00f3n EG \u00b7. 02 de junio de 2024.",
     "news_item_url": "https://www.elgrafico.com.ar/articulo/1038/77785/en-el-regreso-de-marco-ruben-rosario-central-igualo-con-lanus-en-arroyito",
     "picture_source": "TyC Sports",
-    "approx_traffic": "50,000+"
+    "approx_traffic": "100,000+"
   },
   {
     "country": "Argentina",
     "title": "Claudia Sheinbaum",
     "pubDate": "Sun, 02 Jun 2024 18:00:00 -0300",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSsp37D0RbmSWwuP5I_xhbmU5v78ltnrBt-l_9K0yDmh2juewcXmIJewFsD9JtXGKxY4Zw2JriA",
-    "news_item_snippet": "La candidata presidencial oficialistas Claudia Sheinbaum, muestra su pulgar con tinta despu\u00e9s de haber votado en las elecciones generales en Ciudad de&nbsp;...",
-    "news_item_url": "https://www.infobae.com/mexico/2024/06/03/presidentes-y-lideres-felicitan-a-claudia-sheinbaum-por-ser-la-virtual-presidenta-de-mexico/",
-    "picture_source": "LA NACION",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSLLeMHHUiXnbRVusPgyd2KAFG5sOX3BT_Tn6EncH3lCD51xBz_qE3GYdd1rpLjHreObhK7FKl-",
+    "news_item_snippet": "Seg\u00fan pudo saber \u00c1mbito, Canciller\u00eda emitir\u00e1 durante la jornada un comunicado protocolar, pero no est\u00e1 previsto que el Presidente la salude.",
+    "news_item_url": "https://www.ambito.com/politica/javier-milei-no-saludo-la-nueva-presidenta-mexico-claudia-sheinbaum-n6008860",
+    "picture_source": "Infobae.com",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Argentina",
+    "title": "Boca hoy",
+    "pubDate": "Sun, 02 Jun 2024 22:00:00 -0300",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSsgvItZIft1PRMCCMtHEQqdvkOBx3uV8I3wyjMhbDvDQ1kIipN7SaQ-gQYGtkrVjOEmOfIkFtw",
+    "news_item_snippet": "El Xeneize arranca una semana especial con varias bajas por las convocatorias a los distintos seleccionados.",
+    "news_item_url": "https://www.ole.com.ar/boca-juniors/boca-derrota-platense-merentiel-uruguay_0_Z8QS4ObncW.html",
+    "picture_source": "Ol\u00e9",
     "approx_traffic": "50,000+"
   },
   {
@@ -244,8 +274,8 @@
     "title": "Matildas",
     "pubDate": "Mon, 03 Jun 2024 00:00:00 +1000",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcR1hcwCzX5YOHFfkhUugPFs1LGmy4Ui0T8XtckieKVA24smbHfRVm6pE35GesQUNbY6M-R9bz6w",
-    "news_item_snippet": "This game was not a final trial for an Olympic spot, however. Gustavsson submitted his 18-strong squad list to the Australian Olympic Committee on Saturday,&nbsp;...",
-    "news_item_url": "https://www.abc.net.au/news/2024-06-03/matildas-face-china-second-friendly-sydney-olympic-squad/103927366",
+    "news_item_snippet": "Substitutes Clare Wheeler and Cortnee Vine had crucial impacts off the bench as the Matildas farewelled Australia before heading to the Paris Olympics with&nbsp;...",
+    "news_item_url": "https://www.foxsports.com.au/football/matildas/2024-paris-olympics-matildas-defeat-china-in-final-friendly-game-highlights-lydia-williams-tribute-video-reaction/news-story/02a1dc3ca839ae1e10f916b4b555e619",
     "picture_source": "Matildas",
     "approx_traffic": "100,000+"
   },
@@ -254,80 +284,10 @@
     "title": "UFC",
     "pubDate": "Sun, 02 Jun 2024 08:00:00 +1000",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSPPAA82FsZ-bi9yDHYihlOG7YeK6laYUywbqOahq2PPKV_W3jK6cq2rMnRfxXaDarXZaaS8RuB",
-    "news_item_snippet": "See The Fight Results, Watch Post-Fight Interviews With The Prelims Winners And More From UFC 302: Makhachev vs Poirier, Live From Prudential Center In&nbsp;...",
-    "news_item_url": "https://www.ufc.com/news/prelim-results-highlights-winner-interviews-ufc-302-makhachev-vs-poirier?language_content_entity=en",
+    "news_item_snippet": "UFC legend out cold after brutal statement; reaction to &#39;criminal&#39; scorecard says it all.",
+    "news_item_url": "https://www.foxsports.com.au/ufc/ufc-302-islam-makhachev-vs-dustin-poirier-live-updates-start-time-full-fight-card-results-blog-stream-sean-strickland-vs-paulo-costa/news-story/09f898d5a756a697f1c575c6c5d0fd34",
     "picture_source": "ESPN Australia",
     "approx_traffic": "200,000+"
-  },
-  {
-    "country": "Brazil",
-    "title": "Palmeiras",
-    "pubDate": "Sun, 02 Jun 2024 14:00:00 -0500",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTsmYWPfSXuv1kxBuSg0Z-S-drr9orIjabZL_Sg8aq2ookpc_pLg2WmpJ38OHqXX3VbIXsln_VL",
-    "news_item_snippet": "Craque Kevin De Bruyne, do Manchester City, ganhou camisa do Palmeiras de presente no final de semana.",
-    "news_item_url": "https://www.espn.com.br/futebol/palmeiras/artigo/_/id/13741837/por-que-de-bruyne-foi-presenteado-camisa-personalizada-palmeiras",
-    "picture_source": "ESPN.com.br",
-    "approx_traffic": "1,000,000+"
-  },
-  {
-    "country": "Brazil",
-    "title": "S\u00e3o Paulo x Cruzeiro",
-    "pubDate": "Sun, 02 Jun 2024 09:00:00 -0500",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQ13iaqgBtUGIe7Z9lKx0HSNdl5WsBhp5FYsFrDd-yeIOdoYN_yi_XYChP4RRg9hg01M9XyuhYz",
-    "news_item_snippet": "S\u00e3o Paulo e Cruzeiro se enfrentam pela 7\u00aa rodada do Campeonato Brasileiro. A partida est\u00e1 marcada para este domingo (2), \u00e0s 18h30, no est\u00e1dio do MorumBIS,&nbsp;...",
-    "news_item_url": "https://www.cnnbrasil.com.br/esportes/futebol/sao-paulo-x-cruzeiro-horario-e-onde-assistir-ao-jogo-do-brasileirao/",
-    "picture_source": "globoesporte.com",
-    "approx_traffic": "500,000+"
-  },
-  {
-    "country": "Brazil",
-    "title": "Atl\u00e9tico-MG x Bahia",
-    "pubDate": "Sun, 02 Jun 2024 02:00:00 -0500",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRzgoCMDjU7kH-NcytBaww_3h3hV6ft2UlL5f1IgfGZ9WgaQyrASrviETWPDOwNsGBOjkqt3ZJR",
-    "news_item_snippet": "O Atl\u00e9tico-MG encara o Bahia hoje (2), \u00e0s 16h (de Bras\u00edlia), na Arena MRV, pela 7\u00aa rodada do Campeonato Brasileiro. A transmiss\u00e3o ao vivo do jogo ser\u00e1 pela&nbsp;...",
-    "news_item_url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2024/06/02/transmissao-ao-vivo-de-atletico-mg-x-bahia-onde-assistir-com-imagens.htm",
-    "picture_source": "globoesporte.com",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "Brazil",
-    "title": "Luan Santana",
-    "pubDate": "Sun, 02 Jun 2024 09:00:00 -0500",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcS_rlVnmiFlUQpGMZvjwIv_kRYou_9RXFkxKZUQB-q50PlC3QD_Iek-DuC8sMKljdRJhc1X9ULJ",
-    "news_item_snippet": "Luan Santana deixou seus f\u00e3s preocupados neste \u00faltimo s\u00e1bado (1), quando acabou desmarcando um show que faria em Divin\u00f3polis, Minas Gerais. O motivo \u00e9 que o&nbsp;...",
-    "news_item_url": "https://oglobo.globo.com/cultura/noticia/2024/06/03/o-que-aconteceu-com-luan-santana-entenda-por-que-o-cantor-desmarcou-show-em-minas-neste-sabado.ghtml",
-    "picture_source": "gshow",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "Brazil",
-    "title": "Fortaleza x Athletico-PR",
-    "pubDate": "Sun, 02 Jun 2024 12:00:00 -0500",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRShN9bfz0ZLlHu1mUX1asGsSWtl_ZYhQwmVNhHMmTRipD_nqAZ089eOwFjWtuOLyUlEHlWIrag",
-    "news_item_snippet": "Fim do Jogo, Fortaleza 1, Athletico Paranaense 0. 2\u00ba Tempo. 2&nbsp;...",
-    "news_item_url": "https://www.terra.com.br/esportes/futebol/brasileiro-serie-a/ao-vivo/fortaleza-x-athletico-pr/84021/",
-    "picture_source": "globoesporte.com",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "Brazil",
-    "title": "Peter Gene Hernandez",
-    "pubDate": "Sun, 02 Jun 2024 14:00:00 -0500",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSGGplL3ohcfD_29D3a5Qs6oFsqTvvmTrJwqjlZlnPycRIOT9w_1kp0tsl-Lz2tPobX-fuV8Ijh",
-    "news_item_snippet": "Bruno Mars far\u00e1 14 apresenta\u00e7\u00f5es no Brasil a partir de outubro de 2024; veja quem \u00e9 Peter Gene Hernandez.",
-    "news_item_url": "https://www.acidadeon.com/tudoep/tudo-cult/viu-essa/quem-e-peter-gene-hernandez/",
-    "picture_source": "ACidade ON",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Brazil",
-    "title": "Copa america",
-    "pubDate": "Sun, 02 Jun 2024 11:00:00 -0500",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcToD0DxnrhjpxfHFti5etXjxlMRcTXg2RN6DDD7O3yZkpHG66tEkyO4l933bsU-bAlV0QPs5Vj8",
-    "news_item_snippet": "Novo cart\u00e3o tem fun\u00e7\u00e3o diferente dos outros, e faz sua estreia na competi\u00e7\u00e3o da CONMEBOL. Entenda para que serve.",
-    "news_item_url": "https://olympics.com/pt/noticias/copa-america-2024-como-funciona-cartao-rosa",
-    "picture_source": "Olympics",
-    "approx_traffic": "50,000+"
   },
   {
     "country": "Canada",
@@ -350,16 +310,6 @@
     "approx_traffic": "50,000+"
   },
   {
-    "country": "Canada",
-    "title": "GME stock",
-    "pubDate": "Sun, 02 Jun 2024 22:00:00 -0400",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTlG-h151L9nc_pAkP2-wCnYlV5JkJEfopOfTSfGKM2e8crpitCABIg_8Yi8L-Ip--wG20tnG-E",
-    "news_item_snippet": "Meme stocks rally again after Roaring Kitty Keith Gill reveals a $180 million position in GameStop stock and options.",
-    "news_item_url": "https://www.investors.com/news/gamestop-stock-keith-gill-roaring-kitty-meme-gme-position/",
-    "picture_source": "Forbes",
-    "approx_traffic": "50,000+"
-  },
-  {
     "country": "Saudi Arabia",
     "title": "\u0631\u064a\u0627\u0644 \u0645\u062f\u0631\u064a\u062f",
     "pubDate": "Sat, 01 Jun 2024 00:00:00 +0300",
@@ -371,8 +321,28 @@
   },
   {
     "country": "France",
+    "title": "Medvedev",
+    "pubDate": "Mon, 03 Jun 2024 15:00:00 +0200",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSf718Ro80CDg-tY7dyPOF2ter1De6VmKsrpTTCItXuGoHjLvm7LRpB3vVJ0nPKwplmQmjg10Gb",
+    "news_item_snippet": "Alex De Minaur est le premier qualifi\u00e9 pour les quarts de finale de Roland-Garros. L&#39;Australien a \u00e9limin\u00e9 Daniil Medvedev en 8e, lundi, 4-6, 6-2, 6-1, 6-3.",
+    "news_item_url": "https://www.eurosport.fr/tennis/roland-garros/2024/roland-garros-8e-de-finale-alex-de-minaur-sort-daniil-medvedev-en-4-sets-et-file-en-quart_sto10181048/story.shtml",
+    "picture_source": "L'\u00c9quipe.fr",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "France",
+    "title": "Sinner",
+    "pubDate": "Sun, 02 Jun 2024 19:00:00 +0200",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTNgFlpow3rpc9-A3xU0YBHBT3RsV0JoYIFbM7L8QNk206TATKb9F5UwfNh-lBVTj85iwVGvgtY",
+    "news_item_snippet": "Jannik Sinner et Carlos Alcaraz ne sont plus qu&#39;\u00e0 une victoire d&#39;un choc en demi-finale de Roland-Garros. Le premier a r\u00e9sist\u00e9 \u00e0 un set de retard contre le&nbsp;...",
+    "news_item_url": "https://www.europe1.fr/international/roland-garros-alcaraz-et-sinner-a-une-marche-dune-demi-finale-choc-4250621",
+    "picture_source": "Roland-Garros",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "France",
     "title": "Ligue 1",
-    "pubDate": "Sun, 02 Jun 2024 17:00:00 +0200",
+    "pubDate": "Sun, 02 Jun 2024 18:00:00 +0200",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSbtBjxIpFEwdqsreGZW5CBlZdHsVg7oWn6uRkE0lD_LlQ7zhyMG0ss7YecRPQ6_eEwRKwTlwGr",
     "news_item_snippet": "La nuit a \u00e9t\u00e9 courte pour les supporters de l&#39;AS Saint-\u00c9tienne, qui ont f\u00eat\u00e9 dans le centre-ville le retour de leur \u00e9quipe en Ligue 1 apr\u00e8s le barrage&nbsp;...",
     "news_item_url": "https://www.francetvinfo.fr/sports/foot/as-saint-etienne/football-la-folie-a-saint-etienne-apres-la-montee-en-ligue-1_6582318.html",
@@ -393,10 +363,10 @@
     "country": "France",
     "title": "Tsitsipas",
     "pubDate": "Sun, 02 Jun 2024 20:00:00 +0200",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSB6OOrRTzLppxkfxWhWLknAdp22jWx07Gd3pxKDLbHdEjVRPe2uNE-je7f6IanRBhoRXJMP66n",
-    "news_item_snippet": "Stefanos Tsitsipas a \u00e9t\u00e9 malmen\u00e9 dimanche par l&#39;Italien Matteo Arnaldi, mais le finaliste 2021 a d\u00e9croch\u00e9 son ticket pour les quarts de finale de&nbsp;...",
-    "news_item_url": "https://www.nrpyrenees.fr/2024/06/03/tsitsipas-et-alcaraz-ont-rendez-vous-en-quarts-11990997.php",
-    "picture_source": "Eurosport.fr",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTHnRPrjI6tik6_g1ruprn7iac42iHuH3pIXktabjbvxPBqJfVMTCgTDZwiYkCkTivhWJqa_ogWDQ",
+    "news_item_snippet": "Les deux premiers quarts de finale du tableau masculin se d\u00e9rouleront ce mardi \u00e0 Roland-Garros. Deux magnifiques affiches. Dans un premier temps,",
+    "news_item_url": "https://www.tennisactu.net/news-roland-garros-alcaraz-tsitsipas-sinner-dimitrov-le-programme-de-mardi-110015.html",
+    "picture_source": "Tennis Actu",
     "approx_traffic": "50,000+"
   },
   {
@@ -404,19 +374,9 @@
     "title": "Ons Jabeur",
     "pubDate": "Sun, 02 Jun 2024 18:00:00 +0200",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTJfU16i0ngaPC6HUt-uc59-8neXkkzC8vaWEcfO9yYeFdlOYXG1zNkCCUXJpoSG7VlPKjrmhdv",
-    "news_item_snippet": "T\u00eate de s\u00e9rie n\u00b08, Ons Jabeur est en quarts de Roland-Garros 2024. Sortie en quarts l&#39;an dernier, la Tunisienne a \u00e9gal\u00e9.",
-    "news_item_url": "https://www.tennisactu.net/news-roland-garros-ons-jabeur-a-un-voeu-portes-ouvertes-aux-tunisiens-109995.html",
+    "news_item_snippet": "Tour de l&#39;actualit\u00e9 sportive avec Lise-Laure Etia. Au menu notamment du tennis avec la victoire \u00e0 Roland Garros de la tunisienne Ons Jabeur.",
+    "news_item_url": "https://information.tv5monde.com/afrique/video/roland-garros-la-tunisienne-ons-jabeur-en-14-de-finale-2724437",
     "picture_source": "Blogs les Echos",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "France",
-    "title": "Saint-Etienne foot",
-    "pubDate": "Sun, 02 Jun 2024 18:00:00 +0200",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQJElm0sKFMzi46R0uQopsWEBFY6rAKLEDSyhiczWdGXB398bC2jBIIrsB6_iambqX94L9WvB00",
-    "news_item_snippet": "Le groupe canadien Kilmer Sports est d\u00e9sormais l&#39;unique actionnaire de l&#39;AS Saint-\u00c9tienne. Ivan Gazidis devient le nouveau pr\u00e9sident des Verts.",
-    "news_item_url": "https://www.lequipe.fr/Football/Actualites/La-vente-de-l-as-saint-etienne-a-kilmer-sports-officialisee/1472136",
-    "picture_source": "TV5MONDE Info",
     "approx_traffic": "50,000+"
   },
   {
@@ -441,22 +401,22 @@
   },
   {
     "country": "Germany",
+    "title": "Deutschland - Ukraine",
+    "pubDate": "Sun, 02 Jun 2024 17:00:00 +0200",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTEjRtIj3Iv6-Y5Tf-4dVSKyZr0nQ1F2J7QJe9vIIF7k_t4UUo1UyGMD1-hcl6K6VnSLGPNjKvG",
+    "news_item_snippet": "Die deutsche Nationalmannschaft startet in die unmittelbare EM-Vorbereitung! So verfolgt ihr die DFB-Auswahl gegen die Ukraine live im Free-TV,&nbsp;...",
+    "news_item_url": "https://www.ran.de/sports/fussball/europameisterschaft/news/deutschland-vs-ukraine-heute-live-dfb-laenderspiel-im-free-tv-und-im-kostenlosen-livestream-aufstellung-383124",
+    "picture_source": "SPORT1",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Germany",
     "title": "Schlag den Star",
     "pubDate": "Sun, 02 Jun 2024 20:00:00 +0200",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRfCc6gnRwJsyrEs_JqZHMsTBFClMPNA813Nc3Fma4xjwX7IWIKQG8-3wtlnlt7X1hn7cmeLVJK",
     "news_item_snippet": "Zwei echte Bayern-Legenden trafen am Sonntag bei \u201eSchlag den Star\u201c aufeinander: Mehmet Scholl und Markus Babbel. F\u00fcr Scholl endete das Duell nach Verletzung&nbsp;...",
     "news_item_url": "https://www.rnd.de/medien/schlag-den-star-mehmet-scholl-verletzt-sich-thomas-helmer-springt-ein-VYAMPFQEJJHUTCHIGBLG5LHSRQ.html",
     "picture_source": "DER SPIEGEL",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Germany",
-    "title": "Deutschland - Ukraine",
-    "pubDate": "Sun, 02 Jun 2024 17:00:00 +0200",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSjd9CXIKksYmFmgSNQl8GRXNF92BafQ6wWGdWxUkjEPaWG2o5Yo6KUp_lmhwFZI920xGI1PwyK",
-    "news_item_snippet": "Die deutsche Nationalmannschaft trifft im vorletzten Test vor Beginn der Heim-EM auf die Ukraine. Julian Nagelsmann muss ein paar Leute ersetzen.",
-    "news_item_url": "https://www.sport1.de/news/fussball/dfb-team/2024/06/em-test-deutschland-ukraine-heute-live-im-free-tv-stream-und-ticker",
-    "picture_source": "Westdeutsche Allgemeine Zeitung",
     "approx_traffic": "50,000+"
   },
   {
@@ -473,7 +433,7 @@
     "country": "Germany",
     "title": "Carlo Ancelotti",
     "pubDate": "Sat, 01 Jun 2024 21:00:00 +0200",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcR9ozzJPAGt5opg46sKjJ-Ntc3krsjSvtL3qLcZmQXAv_5kE2H5JIZ6zVwF6bNm1hf60S9B879W",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSAnG1kVfp29ZBfG415WxwlltYVxXzB7DPmPFP2mPeQOI1NbzvXHatihlZmnQJkASzt-1Ekn1JK",
     "news_item_snippet": "Carlo Ancelotti sorgt bei der n\u00e4chsten Titel-Party f\u00fcr einen besonderen Moment. Im Rampenlicht steht dabei ein Youngster.",
     "news_item_url": "https://www.sport1.de/news/internationaler-fussball/la-liga/2024/06/ruhrender-moment-fur-real-talent-arda-guler-ancelotti-sorgt-fur-party-highlight",
     "picture_source": "SPORT1",
@@ -510,32 +470,12 @@
     "approx_traffic": "50,000+"
   },
   {
-    "country": "Mexico",
-    "title": "PREP",
-    "pubDate": "Sun, 02 Jun 2024 01:00:00 -0600",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcT6QTV9eeeJrffYWKdkvMSijMZcuf3WsGZawhwHlsmRaPi-WepGmA6PIkNZzhGCsjizX9Cxxray",
-    "news_item_snippet": "Las elecciones presidenciales en M\u00e9xico se acercan. As\u00ed puedes ver el segundo debate con los. Foto: Cortes\u00eda | Google. \u00a1Hist\u00f3rico! La Presidencia de&nbsp;...",
-    "news_item_url": "https://mexico.as.com/actualidad/quien-va-ganando-la-presidencia-de-mexico-segun-el-prep-y-el-conteo-rapido-elecciones-2024-n/",
-    "picture_source": "Central Electoral",
-    "approx_traffic": "2,000,000+"
-  },
-  {
-    "country": "Mexico",
-    "title": "Taboada",
-    "pubDate": "Sun, 02 Jun 2024 10:00:00 -0600",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSMJ7Zi8kenudDQBCj-n2su09KiMEeqyAAH6iGLJicL_xpa_RH9fhml2dFTlZUL8SsutGzl4GKF",
-    "news_item_snippet": "El candidato del PAN envi\u00f3 sus mejores deseos a Clara Brugada, representante de Morena.",
-    "news_item_url": "https://www.infobae.com/mexico/2024/06/03/santiago-taboada-reconoce-derrota-en-cdmx-no-nos-alcanzo/",
-    "picture_source": "El Economista",
-    "approx_traffic": "200,000+"
-  },
-  {
     "country": "Spain",
     "title": "Blanca Fern\u00e1ndez Ochoa",
     "pubDate": "Mon, 03 Jun 2024 08:00:00 +0200",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTq9tkZYxoi87CXkaJ1t-fwRC924s3aJEfMckcEb2D52UPvcvrrYWjTp9rlUp7OkvwjzggPAU7-",
-    "news_item_snippet": "Volcada en concienciar sobre salud mental, la hermana de la deportista explica que la deportista no quiso pedir ayuda por verg\u00fcenza.",
-    "news_item_url": "https://www.hola.com/actualidad/20240603254923/lola-fernandez-ochoa-dura-confesion-tras-cinco-anyos-muerte-blanca-fernandez-ochoa/",
+    "news_item_snippet": "Los expertos recuerdan algunas de las se\u00f1ales de alerta a las que estar atento si tenemos familiares o amigos con problemas de salud mental.",
+    "news_item_url": "https://www.lavozdegalicia.es/noticia/lavozdelasalud/salud-mental/2024/06/03/confesion/00031717407890756413901.htm",
     "picture_source": "Uppers",
     "approx_traffic": "50,000+"
   },
@@ -543,10 +483,40 @@
     "country": "United Kingdom",
     "title": "Nigel Farage",
     "pubDate": "Mon, 03 Jun 2024 16:00:00 +0100",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSew_ECGxMGLGUpXarOZ9TAxDImWvvBApwHIOgAC84plj7EneABVKJ65rnAANHEFnEYjvTaTh3e",
-    "news_item_snippet": "The ex-Brexit Party leader says he has changed his mind and does not want to let his supporters down.",
-    "news_item_url": "https://www.bbc.co.uk/news/articles/c3gg66pm8ylo",
-    "picture_source": "The Guardian",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRdrdN8kZ8gx2ufuh8B0LpYtvWm6uIoGW7bQxLo6rcxzrSlDrZQ3HgAyOC0xy-aH_E2fteopzSq",
+    "news_item_snippet": "The former Ukip and Brexit party leader said he would stand in Clacton, Essex, after changing his mind while spending time on the campaign trail. He claimed&nbsp;...",
+    "news_item_url": "https://www.theguardian.com/politics/article/2024/jun/03/nigel-farage-to-stand-for-reform-uk-in-general-election-after-u-turn",
+    "picture_source": "BBC News",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United Kingdom",
+    "title": "Child Benefit",
+    "pubDate": "Mon, 03 Jun 2024 08:00:00 +0100",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcT3egpPJKMZArlcs6cLyWCIsP1uZ9O_83kbgy4YhLz8QsQjAbZFh_dYSmd0g-Xbl8vcqNd4lCHM",
+    "news_item_snippet": "Some say the delay has left them unable to pay for bills and being hit with late payment charges and/or overdraft fees. MoneySavingExpert.com (MSE) was&nbsp;...",
+    "news_item_url": "https://www.moneysavingexpert.com/news/2024/06/child-benefit-payments-delayed/",
+    "picture_source": "BBC News",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United Kingdom",
+    "title": "England",
+    "pubDate": "Mon, 03 Jun 2024 14:00:00 +0100",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQt_sybt4_HQXt3JgB8c5F66Aof5RR7z-4uXOhofaKda-yNLHYz3fbreb3kcmzSek5k4iTnRh-O",
+    "news_item_snippet": "It was another fine weekend for many of England&#39;s top amateur golfers, with Dominic Clemons and Charlotte Naughton enjoying memorable wins. alt text.",
+    "news_item_url": "https://www.englandgolf.org/news-detail?newsarticleid=792",
+    "picture_source": "Sky Sports",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United Kingdom",
+    "title": "LinkedIn",
+    "pubDate": "Mon, 03 Jun 2024 14:00:00 +0100",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQDU7lt710VhWvZtKNud9Ykq-yEEkUin6oyGW32GPW3MDMsflLaY70FUYK39rS1dS0O41dxX49H",
+    "news_item_snippet": "\u201cThe majority of marketers (70%) think LinkedIn delivers a positive ROI for their organization, according to an August 2023 Hootsuite survey,\u201d our analyst Minda&nbsp;...",
+    "news_item_url": "https://www.emarketer.com/content/4-reasons-marketers-should-thinking-about-linkedin-today",
+    "picture_source": "eMarketer",
     "approx_traffic": "50,000+"
   }
 ]
