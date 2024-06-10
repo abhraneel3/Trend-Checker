@@ -3,21 +3,11 @@
     "country": "United States",
     "title": "NBA",
     "pubDate": "Sun, 09 Jun 2024 18:00:00 -0700",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcT5dpfnM7_QvvsZ1dSbq5AHttm3KRdNrV51Zzu4BvOUZ5j_e6WLWGNY6A2DuyTJAHpa6ySd0qTm",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRp-4qayTxXxTQ9BgBFUcdDh3QBcB-j-uoe_2FddjqL7YehnY-s7iMUh0H8TFRtfYDDf4Fx1Rjb",
     "news_item_snippet": "Dominant 2-minute span in the 3rd quarter helps Celtics pull away from the Mavericks for a 2-0 lead in the Finals.",
     "news_item_url": "https://www.nba.com/news/celtics-mavericks-turning-point-game-2-2024-nba-finals",
-    "picture_source": "The Associated Press",
+    "picture_source": "NBC News",
     "approx_traffic": "2,000,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Mavericks vs Celtics",
-    "pubDate": "Sun, 09 Jun 2024 18:00:00 -0700",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRCONVJn_jf2Mzwl3NGDEPOcG-mJVPD1B37jUG_M5W1tIjCRTG18VKILg6SQHlr_EfKfxQNtora",
-    "news_item_snippet": "SportsLine&#39;s model simulated Game 2 of Dallas Mavericks vs. Boston Celtics in the NBA Finals 2024 on Sunday.",
-    "news_item_url": "https://www.cbssports.com/nba/news/celtics-vs-mavericks-odds-score-prediction-time-2024-nba-finals-picks-game-2-best-bets-from-proven-model/",
-    "picture_source": "Mavs Moneyball",
-    "approx_traffic": "1,000,000+"
   },
   {
     "country": "United States",
@@ -27,6 +17,16 @@
     "news_item_snippet": "The Dragon Boat Festival in Reno featured traditional dragon boat races, cultural performances and an Asian lunch.",
     "news_item_url": "https://www.2news.com/news/dragon-boat-festival/article_d61bd6fe-26b7-11ef-9863-87e156d0852e.html",
     "picture_source": "KTVN",
+    "approx_traffic": "500,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Mavericks vs Celtics",
+    "pubDate": "Sun, 09 Jun 2024 18:00:00 -0700",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRCONVJn_jf2Mzwl3NGDEPOcG-mJVPD1B37jUG_M5W1tIjCRTG18VKILg6SQHlr_EfKfxQNtora",
+    "news_item_snippet": "SportsLine&#39;s model simulated Game 2 of Dallas Mavericks vs. Boston Celtics in the NBA Finals 2024 on Sunday.",
+    "news_item_url": "https://www.cbssports.com/nba/news/celtics-vs-mavericks-odds-score-prediction-time-2024-nba-finals-picks-game-2-best-bets-from-proven-model/",
+    "picture_source": "Mavs Moneyball",
     "approx_traffic": "500,000+"
   },
   {
@@ -41,22 +41,22 @@
   },
   {
     "country": "United States",
+    "title": "Carlos Alcaraz",
+    "pubDate": "Sun, 09 Jun 2024 11:00:00 -0700",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSdjMi9md_217mXAZhOCojp77Jshpm7ZyYg1HHVYi9we26T9HVo7MQTVK11-mWwyV4NIbb0j9M6",
+    "news_item_snippet": "The new world No 2&#39;s third Grand Slam title saw him beat Jannik Sinner, Alexander Zverev \u2014 and himself.",
+    "news_item_url": "https://www.nytimes.com/athletic/5552349/2024/06/09/carlos-alcaraz-french-open-how-he-won/",
+    "picture_source": "NPR",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United States",
     "title": "Black Ops 6",
     "pubDate": "Sun, 09 Jun 2024 11:00:00 -0700",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRoqJfjuCPjd7T4NWypm8mK_hQMNqwnkkgBMr-0U5-CMXgNzY_bAU3W4SphBjlhT2fFGoXPzAbx",
     "news_item_snippet": "Developed by Treyarch and Raven Software, Black Ops 6 will include a new campaign, a multiplayer mode with 16 new maps at launch, and a new zombies experience.",
     "news_item_url": "https://www.theverge.com/2024/6/9/24173669/call-of-duty-black-ops-6-release-date-october-25th",
     "picture_source": "PC Gamer",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Luka Doncic",
-    "pubDate": "Sun, 09 Jun 2024 17:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSCWM0m11GeT_VBuAseg0EbfgcXdcnsd2TAb5rgkh889vTIefpZW-e9jROidQCzRDz4yG74OFtw",
-    "news_item_snippet": "The Mavericks&#39; Luka Doncic is available to play after being downgraded to questionable for Sunday&#39;s Game 2 of the NBA Finals.",
-    "news_item_url": "https://www.espn.com/nba/story/_/id/40313656/luka-doncic-downgraded-questionable-game-2-nba-finals",
-    "picture_source": "The Associated Press",
     "approx_traffic": "100,000+"
   },
   {
@@ -73,10 +73,10 @@
     "country": "United States",
     "title": "Kyrie Irving",
     "pubDate": "Sun, 09 Jun 2024 19:00:00 -0700",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSEW2OTS__CGLwDKelUighSgMTX64qxxE0yP4QpyhoXPNLjKY-m6AoXjwiqCu_k8z21lJYTfrF6",
-    "news_item_snippet": "Kyrie Irving has been underwhelming in the first two games of the NBA Finals, and he&#39;s running out of time to turn things around.",
-    "news_item_url": "https://www.foxsports.com/stories/nba/entering-pivotal-game-3-kyrie-irving-still-hasnt-shown-up-mavericks",
-    "picture_source": "Sports Illustrated",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTrm-4AQWSLD52DPmeDLJ7-s8kIMHgm_rmt8SxDf8DF7mrWiza-bChdcrHdndEG9D0tDjT4w48y",
+    "news_item_snippet": "On Sunday evening, the Dallas Mavericks lost Game 2 of the NBA Finals to the Boston Celtics by a score of 105-98 (in Massachusetts).",
+    "news_item_url": "https://www.si.com/fannation/nba/fastbreak/nba-champion-calls-out-kyrie-irving-kendrick-perkins-game-2-mavs-celtics-nba-finals",
+    "picture_source": "FOXSports.com",
     "approx_traffic": "100,000+"
   },
   {
@@ -121,53 +121,53 @@
   },
   {
     "country": "United States",
-    "title": "Alexander Zverev",
-    "pubDate": "Sun, 09 Jun 2024 13:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQXy3zRVEW8WHSjNr059l2_Nzm0hHhBDkGthhAFiLA20mVx3f-MybqU5FGp91KIf_rU4t1Y40u0",
-    "news_item_snippet": "Carlos Alcaraz has come back to defeat Alexander Zverev 6-3, 2-6, 5-7, 6-1, 6-2 to win the French Open for his third Grand Slam title.",
-    "news_item_url": "https://apnews.com/article/french-open-2024-men-final-alcaraz-zverev-84b987ef5a0bf17c2d188a5a9bbd2d28",
-    "picture_source": "CBS News",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Jaylen Brown",
+    "title": "Jayson Tatum",
     "pubDate": "Sun, 09 Jun 2024 19:00:00 -0700",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRmYq8ejqpVfje9Gi61r3HnaAwh8IfxxNDI0IDTZxftzg0LBsz63OwevcxGUMDoqC84aPV-C71N",
-    "news_item_snippet": "Jaylen Brown has been booed, called overpaid and framed as a villain in Boston. But the Celtics star has embraced it all, and used it to transform his game.",
-    "news_item_url": "https://www.foxsports.com/stories/nba/jaylen-brown-boston-celtics-against-world-criticism-made-me-who-i-am",
-    "picture_source": "Andscape",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTX2B3Z9fGngndiYzlxUZFFrc5KAFnfLHU1hFufLhDBs0t-lzkeZn2BEiU6JaMRLcBtV9ouvHKa",
+    "news_item_snippet": "Two years ago, Tatum and the Celtics coughed up the Finals by forcing the issue. Now they&#39;re letting the series come to them\u2014and picking the Mavericks apart&nbsp;...",
+    "news_item_url": "https://www.theringer.com/nba/2024/6/10/24175201/jayson-tatum-boston-celtics-luka-doncic-dallas-mavericks-nba-finals-2024",
+    "picture_source": "Yahoo Sports",
     "approx_traffic": "50,000+"
   },
   {
     "country": "United States",
     "title": "Macron",
     "pubDate": "Sun, 09 Jun 2024 18:00:00 -0700",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRuL0yMviuMMs21ODt4MT2sbJYO81qPiaFpOzIPqQRXI1LQQAJSc8PZB45bv3X3vWwPZFLRG2LJ",
-    "news_item_snippet": "Calling a snap election is a huge surprise for France, and a huge risk for President Macron.",
-    "news_item_url": "https://www.bbc.com/news/articles/c8009e2z4xlo",
-    "picture_source": "NPR",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSp8-DjOQWULo23eOsMUJzEGJJSz1nYyvvOQYW17Dc6i3_RinwA_ZYQTYcVHzf0nA1MKzTLeyN2",
+    "news_item_snippet": "The euro tumbled, while French bonds and stocks were hit hard on Monday, following French President Emmanuel Macron&#39;s decision to call a snap parliamentary&nbsp;...",
+    "news_item_url": "https://www.reuters.com/markets/currencies/euro-falls-warning-sign-markets-after-macron-calls-snap-france-vote-2024-06-09/",
+    "picture_source": "BBC News",
     "approx_traffic": "50,000+"
   },
   {
-    "country": "United States",
-    "title": "Formula 1",
-    "pubDate": "Sat, 08 Jun 2024 15:00:00 -0700",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcR1fYXEZWSIuRhMJA2EhRLvvS9ErQU0xpqO-qddLvBWfltbQ7DB4xnXCZoWvF8U9FrmTrdTgL9s",
-    "news_item_snippet": "The drivers and teams report back on all the action from the 2024 Canadian Grand Prix at the Circuit Gilles-Villeneuve in Montreal.",
-    "news_item_url": "https://www.formula1.com/en/latest/article/what-the-teams-said-race-day-in-canada-2024.65lUwD2f52B9EiXWlvn673",
-    "picture_source": "The Associated Press",
-    "approx_traffic": "100,000+"
+    "country": "India",
+    "title": "Chirag Paswan",
+    "pubDate": "Mon, 10 Jun 2024 10:30:00 +0530",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQoTLLu1hv3Dfc0x1A9LJi7vUUoGrj6RuUK9ii-FirBCDqlXjAvsdlqnEDebFO__BGtQNf5uKhT",
+    "news_item_snippet": "Chirag Paswan: \u091a\u093f\u0930\u093e\u0917 \u092a\u093e\u0938\u0935\u093e\u0928 \u0915\u0947 \u0935\u0928\u0935\u093e\u0938 \u0938\u0947 \u0915\u0948\u092c\u093f\u0928\u0947\u091f \u092e\u0902\u0924\u094d\u0930\u0940 \u092c\u0928\u0928\u0947 \u0915\u0940 \u0915\u0939\u093e\u0928\u0940, \u092a\u0930\u093f\u092a\u0915\u094d\u0935 \u0928\u0947\u0924\u093e \u0939\u094b\u0928\u0947 \u0915\u093e \u0938\u0941\u092c\u0942\u0924 \u0926\u093f\u092f\u093e Chirag Paswan story of becoming cabinet&nbsp;...",
+    "news_item_url": "https://www.amarujala.com/india-news/chirag-paswan-story-of-becoming-cabinet-minister-from-bihar-2024-06-10",
+    "picture_source": "India Today",
+    "approx_traffic": "500,000+"
   },
   {
     "country": "India",
     "title": "Sports",
     "pubDate": "Mon, 10 Jun 2024 02:30:00 +0530",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSob7ntrnIwC_fEXMSDGY23IwrZ_KKnybtRdKGQNtWxYEREAPpLscEVCws_rZCNGwizpge9XsXS",
-    "news_item_snippet": "Here are all the major updates, scores, and results of Indians in the world of sports on June 10.",
-    "news_item_url": "https://sportstar.thehindu.com/other-sports/india-sports-news-results-scores-june-10-schedule-latest-updates-highlights/article68272953.ece",
+    "news_item_snippet": "For 2024, a year celebrating sport and parasport, the Eiffel Tower is offering families visiting the monument a sports-themed circuit with physical&nbsp;...",
+    "news_item_url": "https://www.toureiffel.paris/en/news/visit/families-take-your-visit-next-level-sports-challenges",
     "picture_source": "ESPN India",
     "approx_traffic": "200,000+"
+  },
+  {
+    "country": "India",
+    "title": "Hardik Pandya",
+    "pubDate": "Mon, 10 Jun 2024 11:30:00 +0530",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTcajuKpoBmMFfTEbLsj75RvZwGbleqAWUPEgGtia83lWCWsRUdPUw88vbI66MsOZcgxKh1WsUN",
+    "news_item_snippet": "Hardik Pandya&#39;s reaction after taking the crucial wicket of Shadab Khan was gold but equally epic was Rohit Sharma&#39;s celebration. | Crickit.",
+    "news_item_url": "https://www.hindustantimes.com/cricket/hardik-pandyas-cold-shoulder-shrug-send-off-to-shadab-khan-rohit-sharmas-follow-up-act-ends-mumbai-indians-tension-101717964555768.html",
+    "picture_source": "NDTVSports.com",
+    "approx_traffic": "100,000+"
   },
   {
     "country": "India",
@@ -191,7 +191,17 @@
   },
   {
     "country": "India",
-    "title": "Cricket Live",
+    "title": "Noor Malabika",
+    "pubDate": "Mon, 10 Jun 2024 14:30:00 +0530",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTvgoOL-B-hQLNeR4hUaHghymkc3v4thqMCufDlhIhjv0aphgKGrY9uRybVMhAdLjSxfRXtDBhD",
+    "news_item_snippet": "Noor Malabika Das&#39; neighbours informed them after they noticed a foul smell coming from her Lokhandwala flat, police said on Monday. | Web Series.",
+    "news_item_url": "https://www.hindustantimes.com/entertainment/web-series/noor-malabika-das-kajol-costar-actor-found-dead-mumbai-home-police-suspect-suicide-101718006773117.html",
+    "picture_source": "NDTV",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "India",
+    "title": "Cricket live",
     "pubDate": "Sun, 09 Jun 2024 13:30:00 +0530",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSzCjw4DAQIbHt5CxWyKy808hUipaBS4WiRKElViIMChEq_iU-bNv_PUQTUrh5I3wwXR8znsubV",
     "news_item_snippet": "India vs Pakistan Live Score - Get latest news and live updates of T20 World Cup 2024 today&#39;s match being played between Ind vs Pak in New York at The&nbsp;...",
@@ -200,42 +210,12 @@
     "approx_traffic": "2,000,000+"
   },
   {
-    "country": "India",
-    "title": "Modi Cabinet 2024",
-    "pubDate": "Sun, 09 Jun 2024 10:30:00 +0530",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTB4UHLgraAQ6SUHyyWQGinN2j5W-2DzfroKiyfxblhquchR42AGZYZZpGvA-CdjqaZ8PHVLs9W",
-    "news_item_snippet": "Modi 3.0 Cabinet Ministers List of India 2024, Mantri Mandal List 2024, New Cabinet Minister List, \u0915\u0947\u0928\u094d\u0926\u094d\u0930\u0940\u092f \u092e\u0902\u0924\u094d\u0930\u093f\u092e\u0902\u0921\u0932 \u0938\u0942\u091a\u0940, \u092d\u093e\u0930\u0924 \u0915\u0947 \u0915\u0948\u092c\u093f\u0928\u0947\u091f \u092e\u0902\u0924\u094d\u0930\u0940&nbsp;...",
-    "news_item_url": "https://www.jansatta.com/national/cabinet-ministers-list-of-india-2024-live-updates-pm-narendra-modi-mantri-mandal-list/3414247/",
-    "picture_source": "\u0905\u092e\u0930 \u0909\u091c\u093e\u0932\u093e",
-    "approx_traffic": "500,000+"
-  },
-  {
-    "country": "India",
-    "title": "Cabinet ministers of india 2024",
-    "pubDate": "Sun, 09 Jun 2024 14:30:00 +0530",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTuRLw4RtVMe-_2e22y-tEmPHHXpLxalD7rxclFSmZE74QraKaCLUeZu-u8ZOIlyRHIfO9PZF3P",
-    "news_item_snippet": "Modi Cabinet Change: 71 Ministers took oath alongside Prime Minister Narendra Modi. However, the portfolios of the ministers have yet to be announced.",
-    "news_item_url": "https://indianexpress.com/article/india/modi-cabinet-2024-complete-list-of-2019-vs-2024-cabinet-ministers-in-nda-govt-9381347/",
-    "picture_source": "NDTV",
-    "approx_traffic": "500,000+"
-  },
-  {
-    "country": "India",
-    "title": "Nirmala Sitharaman",
-    "pubDate": "Sun, 09 Jun 2024 15:30:00 +0530",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQnV2ul5_y8sQXAh96EkwYCr9pzDh9W4sTWiBTOiLDLdVGefqnNIuvkdlSSmitSBOqTFUJ0NxgX",
-    "news_item_snippet": "Nirmala Sitharaman, who joined the likes of Arun Jaitley and Manmohan Singh by serving a full term as Finance Minister and is credited with carrying forward&nbsp;...",
-    "news_item_url": "https://www.business-standard.com/india-news/nirmala-sitharaman-feisty-defender-of-modi-govt-to-filling-big-shoes-124060900592_1.html",
-    "picture_source": "Business Today",
-    "approx_traffic": "200,000+"
-  },
-  {
     "country": "Argentina",
     "title": "NBA",
     "pubDate": "Sun, 09 Jun 2024 22:00:00 -0300",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRWdAfwaE5tESQcgZfyiL71GwNeH4Uqfd6Ndqx4vhl7CAkCnBLsx8LGFzPA0DFHfCq3i3bWl5Ds",
-    "news_item_snippet": "Jrue Holiday aport\u00f3 los puntos. Derrick White a\u00f1adi\u00f3 un tap\u00f3n en persecusi\u00f3n. Jayson Tatum y Jaylen Brown contribuyeron, tambi\u00e9n, con sus pases y su defensa&nbsp;...",
-    "news_item_url": "https://www.latimes.com/espanol/deportes/articulo/2024-06-09/los-celtics-vencen-a-los-mavericks-y-toman-ventaja-de-2-0-en-las-finales-de-la-nba",
+    "news_item_snippet": "Luka Doncic no puede m\u00e1s. El genio esloveno hizo una obra de arte, de 32 puntos (57% TC), 11 rebotes y 11 asistencias. Pero su gas se termina.",
+    "news_item_url": "https://www.marca.com/baloncesto/nba/playoffs/2024/06/10/666623ebe2704ee0868b459d.html",
     "picture_source": "TyC Sports",
     "approx_traffic": "50,000+"
   },
@@ -243,20 +223,20 @@
     "country": "Australia",
     "title": "Dragon Boat Festival",
     "pubDate": "Mon, 10 Jun 2024 01:00:00 +1000",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRKEBetFC0ZMsHRMjsXyWZ6gb7Xp6O8DlI3IrL7wVB2OzbnWX9cPcKXKlmaP5FSQlgfl0SpyBWu",
-    "news_item_snippet": "It&#39;s Dragon Boat Festival! See Google&#39;s special Doodle &amp; discover the meaning behind the races &amp; festivities.",
-    "news_item_url": "https://www.jagranjosh.com/general-knowledge/google-doodle-celebrates-dragon-boat-festival-1718005670-1",
-    "picture_source": "Jagran Josh",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcStPmCnxlIt1gapAu8lV5ax8clOutcz4d1VDW2q8xV3DiikB6UFnNFZITDxsbogPpD9HG1ZZFoD",
+    "news_item_snippet": "BEIJING, June 10 (Xinhua) -- Despite the sticky weather, teams on dragon-headed vessels in south Chi.",
+    "news_item_url": "http://en.people.cn/n3/2024/0610/c90000-20179685.html",
+    "picture_source": "Xinhua",
     "approx_traffic": "500,000+"
   },
   {
     "country": "Australia",
     "title": "NBA",
     "pubDate": "Mon, 10 Jun 2024 12:00:00 +1000",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQVi7VkBYK7mH_tsIVMnZ1jQoHoNa1UGKmcanKhTL3ciqNoKKy_xprUDXvWRLHtXjnjPvm9E-Ma",
-    "news_item_snippet": "Jrue Holiday had 26&nbsp;...",
-    "news_item_url": "https://www.kkco11news.com/2024/06/10/celtics-beat-mavericks-105-98-take-2-0-lead-nba-finals-series-heads-dallas/",
-    "picture_source": "The Guardian",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTAGOm60ISsfIyJMJObvRMDv_UnNqqHm_zM5TKUYgHgE5DCZbLd7KkQNqs9Ji7kc3TsvcWikkKt",
+    "news_item_snippet": "Minute-by-minute report: Dallas have a lot to do as the series heads to Texas after a dominant home performance from Boston on Sunday night.",
+    "news_item_url": "https://www.theguardian.com/sport/live/2024/jun/09/nba-finals-game-2-dallas-mavericks-boston-celtics-latest-score",
+    "picture_source": "ESPN Australia",
     "approx_traffic": "100,000+"
   },
   {
@@ -264,8 +244,8 @@
     "title": "CRB x Fortaleza",
     "pubDate": "Sun, 09 Jun 2024 10:00:00 -0500",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQlD4eYQzEinrZDc1B82vsGj70S6iHytZVDEy4HN5unUtVRGqENpKpnX8uiEKf1eHrNoi00xN9n",
-    "news_item_snippet": "CRB e Fortaleza se enfrentam neste domingo (9), \u00e0s 16h30 (hor\u00e1rio de Bras\u00edlia), pelo jogo de volta da final da Copa do Nordeste. A partida ser\u00e1 no Est\u00e1dio&nbsp;...",
-    "news_item_url": "https://www.cnnbrasil.com.br/esportes/futebol/crb-x-fortaleza-horario-e-onde-assistir-a-final-da-copa-do-nordeste/",
+    "news_item_snippet": "Decis\u00e3o deste domingo ter\u00e1 transmiss\u00e3o ao vivo pela ESPN no Star+.",
+    "news_item_url": "https://www.espn.com.br/futebol/artigo/_/id/13755776/crb-fortaleza-onde-assistir-ao-vivo-horario-palpites-provaveis-escalacoes",
     "picture_source": "globoesporte.com",
     "approx_traffic": "500,000+"
   },
@@ -274,20 +254,10 @@
     "title": "Nba",
     "pubDate": "Sun, 09 Jun 2024 21:00:00 -0500",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcR_o53QIq9ba9X8KMdCMe6Y2Hd4-6dnVJYIMFf7B7Ljt2THy2UFTq5KWpDxHzmKoSBst2FkRIQV",
-    "news_item_snippet": "qual o maior time da nba  \u3010BRAGBG.casino\u3011\u26c5\ufe0f is a traditional form of gambling that has been popular in the philippines for centuries. it is a game of&nbsp;...",
+    "news_item_snippet": "qual o maior time da <b>nba</b>  \u3010BRAGBG.casino\u3011\u2650\ufe0f is a traditional form of gambling that has been popular in the philippines for centuries. it is a game of chance that involves betting on the outcome of certain events, such as cockfights, horse races,&nbsp;...",
     "news_item_url": "https://ejef.tjmg.jus.br/games=20240610convite%20para%20bingo%20beneficente.htm",
     "picture_source": "Ejef",
     "approx_traffic": "200,000+"
-  },
-  {
-    "country": "Brazil",
-    "title": "Crici\u00fama x Cuiab\u00e1",
-    "pubDate": "Sun, 09 Jun 2024 14:00:00 -0500",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSmpqqjocF-h-9xQL2wn5dVtcj--RQnc5Nw6z24Vd4dak-uKfKGnqghX5rqZysoAWwFh9PtnRdE",
-    "news_item_snippet": "Fim de papo no Heriberto Hulse! Cuiab\u00e1 vence a primeira e sai da lanterna do Brasileir\u00e3o! 52&#39;. CART\u00c3O AMARELO!Andr\u00e9 Luis.",
-    "news_item_url": "https://www.estadao.com.br/esportes/futebol/criciuma-x-cuiaba-brasileiro-serie-a-2024/",
-    "picture_source": "CNN Brasil",
-    "approx_traffic": "100,000+"
   },
   {
     "country": "Brazil",
@@ -301,13 +271,13 @@
   },
   {
     "country": "Brazil",
-    "title": "Macron",
-    "pubDate": "Sun, 09 Jun 2024 13:00:00 -0500",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcR0PWCrqrAtZAVpWkdJXmsTrDUAF7G6PyfZrQcSUyvLOdiFzCk98v5SPR7FLKLH8ESGfyK9GY-0",
-    "news_item_snippet": "O presidente da Fran\u00e7a, Emmanuel Macron, dissolveu a assembleia nacional do pa\u00eds e marcou novas elei\u00e7\u00f5es para os dias 30 de junho e 7 de julho.",
-    "news_item_url": "https://www.brasildefato.com.br/2024/06/09/macron-dissolve-parlamento-frances-apos-partido-de-extrema-direita-vencer-eleicoes-da-ue",
-    "picture_source": "EBC",
-    "approx_traffic": "50,000+"
+    "title": "Crici\u00fama x Cuiab\u00e1",
+    "pubDate": "Sun, 09 Jun 2024 14:00:00 -0500",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSmpqqjocF-h-9xQL2wn5dVtcj--RQnc5Nw6z24Vd4dak-uKfKGnqghX5rqZysoAWwFh9PtnRdE",
+    "news_item_snippet": "Fim de papo no Heriberto Hulse! Cuiab\u00e1 vence a primeira e sai da lanterna do Brasileir\u00e3o! 52&#39;. CART\u00c3O AMARELO!Andr\u00e9 Luis.",
+    "news_item_url": "https://www.estadao.com.br/esportes/futebol/criciuma-x-cuiaba-brasileiro-serie-a-2024/",
+    "picture_source": "CNN Brasil",
+    "approx_traffic": "100,000+"
   },
   {
     "country": "Brazil",
@@ -331,6 +301,16 @@
   },
   {
     "country": "Brazil",
+    "title": "Macron",
+    "pubDate": "Sun, 09 Jun 2024 15:00:00 -0500",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcR0PWCrqrAtZAVpWkdJXmsTrDUAF7G6PyfZrQcSUyvLOdiFzCk98v5SPR7FLKLH8ESGfyK9GY-0",
+    "news_item_snippet": "O euro era negociado a US$ 1,073, em queda de 0,59% no dia. As a\u00e7\u00f5es francesas recuavam quase 2%, pressionadas por perdas acentuadas em bancos como o BNP&nbsp;...",
+    "news_item_url": "https://www.cnnbrasil.com.br/economia/mercado-frances-tem-dia-de-estresse-apos-macron-convocar-eleicoes/",
+    "picture_source": "EBC",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Brazil",
     "title": "Endrick",
     "pubDate": "Sun, 09 Jun 2024 04:00:00 -0500",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcS0NG0fgT-m3c_zfa0O3SxtVcDD_Q2xPMosqMYy4QXULIFzfwjKD-2LeiYJ6f7G5_lQ-pN7oYAm",
@@ -343,20 +323,30 @@
     "country": "Canada",
     "title": "F1",
     "pubDate": "Sun, 09 Jun 2024 04:00:00 -0400",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQhjrcI95Xx701PjPqXMEXX3M4UB2T98oMS5sN090GFw-Gl65xClPy1cXdZ1VhhkmFninV_28i1",
-    "news_item_snippet": "DRIVERS 1 \u2013 Max VERSTAPPEN (Red Bull Racing)2 \u2013 Lando NORRIS (McLaren)3 \u2013 George RUSSELL (Mercedes) TRACK INTERVIEWS(Conducted by Martin Brundle) Q: Max,&nbsp;...",
-    "news_item_url": "https://www.fia.com/news/f1-2024-canadian-grand-prix-post-race-press-conference-transcript",
-    "picture_source": "CTV Montreal",
-    "approx_traffic": "100,000+"
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQ38mqJI6xZmYLvBHtzyXo7EiC0RM7vC9Gyz6ZL6JBylNO7hRKp0YZ3yQCGGJnJx0bXvkXHzywQ",
+    "news_item_snippet": "F\u00e9lix Bourque, sans d\u00e9guisement, aux c\u00f4t\u00e9s de Charles Leclerc. &middot; Mathieu Guillemette et F\u00e9lix Bourque au American Airlines Center pendant le match des Stars de&nbsp;...",
+    "news_item_url": "https://www.journaldemontreal.com/2024/06/09/deguise-en-pilote-de-f1-un-quebecois-sinfiltre-au-grand-prix-de-miami",
+    "picture_source": "FIA",
+    "approx_traffic": "200,000+"
   },
   {
     "country": "Canada",
-    "title": "Mavericks vs Celtics",
+    "title": "NBA",
     "pubDate": "Sun, 09 Jun 2024 11:00:00 -0400",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTOmYxL97jEmwfB9dnLn9y2oARCM3_ubbcP62UHBc3vuReNKXanEuxfqolF-bJB0M6NlBeyKhjq",
-    "news_item_snippet": "Minute-by-minute report: Dallas have a lot to do as the series heads to Texas after a dominant home performance from Boston on Sunday night.",
-    "news_item_url": "https://www.theguardian.com/sport/live/2024/jun/09/nba-finals-game-2-dallas-mavericks-boston-celtics-latest-score",
-    "picture_source": "CBSSports.com",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTXgsfkZ-exFu1OEQ0y8uf2DkWtuqCGDu9geOcb-zQ5gCkmA9h2Pc-2bhx9m9HfGnOBrsdJNWaI",
+    "news_item_snippet": "Vincent Goodwill and Dan Devine get together after game 2 of the 2024 NBA Finals, with the Celtics taking a 2-0 lead over the Mavericks, to talk about what&nbsp;...",
+    "news_item_url": "https://sports.yahoo.com/nba-finals-game-2-reaction-boston-celtics-head-to-dallas-up-2-0--good-word-with-goodwill-073553440.html",
+    "picture_source": "Aljazeera.com",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "Saudi Arabia",
+    "title": "\u062d\u0633\u0627\u0628 \u0627\u0644\u0645\u0648\u0627\u0637\u0646",
+    "pubDate": "Sun, 09 Jun 2024 03:00:00 +0300",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcShpU7BXyCCH7U2zauv7La5z-QVN68ENLPo8KrTXfgWZDCmnzLi4jKK2Md1GnHr4YqW9oaRYp3Q",
+    "news_item_snippet": "\u0623\u0648\u062f\u0639 \u0627\u0644\u064a\u0648\u0645 \u0627\u0644\u0627\u062b\u0646\u064a\u0646 \u0628\u0631\u0646\u0627\u0645\u062c \u062d\u0633\u0627\u0628 \u0627\u0644\u0645\u0648\u0627\u0637\u0646 3.4 \u0645\u0644\u064a\u0627\u0631 \u0631\u064a\u0627\u0644 \u0645\u062e\u0635\u0635 \u062f\u0639\u0645 \u0634\u0647\u0631 \u064a\u0648\u0646\u064a\u0648 \u0644\u0644\u0645\u0633\u062a\u0641\u064a\u062f\u064a\u0646 \u0627\u0644\u0645\u0643\u062a\u0645\u0644\u0629 \u0637\u0644\u0628\u0627\u062a\u0647\u0645\u060c \u062d\u064a\u062b \u0628\u0644\u063a \u0639\u062f\u062f \u0627\u0644\u0645\u0633\u062a\u0641\u064a\u062f\u064a\u0646 \u0627\u0644\u0645\u0633\u062a\u0648\u0641\u064a\u0646 \u0644\u0645\u0639\u0627\u064a\u064a\u0631 \u0627\u0644\u0627\u0633\u062a\u062d\u0642\u0627\u0642 \u0641\u064a&nbsp;...",
+    "news_item_url": "https://maaal.com/archives/202406/%D8%AD%D8%B3%D8%A7%D8%A8-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%B7%D9%86-3-4-%D9%85%D9%84%D9%8A%D8%A7%D8%B1-%D8%B1%D9%8A%D8%A7%D9%84-%D9%84%D9%85%D8%B3%D8%AA%D9%81%D9%8A%D8%AF%D9%8A-%D8%AF%D9%81%D8%B9-5/",
+    "picture_source": "\u0627\u0644\u0639\u0631\u0628\u064a\u0629",
     "approx_traffic": "50,000+"
   },
   {
@@ -382,12 +372,22 @@
   {
     "country": "France",
     "title": "PPE",
-    "pubDate": "Sun, 09 Jun 2024 14:00:00 +0200",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTHcJdCc_xroDU0XIXOy-Ex3d3NNsF3pbvouiTQlsi2UtpFKWsdAopxSlMNtEUh6um6-rFea8K9",
-    "news_item_snippet": "Le Parti populaire europ\u00e9en est en t\u00eate avec 181 si\u00e8ges lors des \u00e9lections au Parlement europ\u00e9en, selon les r\u00e9sultats pr\u00e9liminaires de dimanche.",
-    "news_item_url": "https://www.zonebourse.com/actualite-bourse/Le-PPE-de-centre-droit-en-tete-des-sondages-les-socialistes-et-les-democrates-suivent-resultat-46935579/",
-    "picture_source": "Contrepoints",
+    "pubDate": "Sun, 09 Jun 2024 19:00:00 +0200",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTWdi6ticv4tgO2qrC63vg24W7wmk-9NU6SAbhwRJbOG4ivKmi2Z5nHRjuE88m9PbWinQrOmcTb",
+    "news_item_snippet": "Nous collectons et traitons vos informations dans les buts suivants : mesure de trafic et audience, lecture de vid\u00e9o, r\u00e9seaux sociaux. Accepter; Refuser; En&nbsp;...",
+    "news_item_url": "https://www.cre.fr/actualites/toute-lactualite/avis-sur-les-ppe-des-collectivites-de-saint-barthelemy-et-de-saint-martin.html",
+    "picture_source": "CRE",
     "approx_traffic": "500,000+"
+  },
+  {
+    "country": "France",
+    "title": "Procuration vote",
+    "pubDate": "Sun, 09 Jun 2024 13:00:00 +0200",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRhZWUrRiFNV8mtDupELKnyU7TqbR_U-Dp-zuA5_2QCCxThaSWCI_miIApbd_l3KzpZheb-yjyK",
+    "news_item_snippet": "Apr\u00e8s l&#39;annonce de la dissolution de l&#39;Assembl\u00e9e nationale par Emmanuel Macron ce dimanche 9 juin, des \u00e9lections l\u00e9gislatives anticip\u00e9es sont programm\u00e9es&nbsp;...",
+    "news_item_url": "https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/isere/grenoble/legislatives-2024-ou-et-comment-faire-votre-procuration-pour-les-elections-des-30-juin-et-7-juillet-2984099.html",
+    "picture_source": "Les \u00c9chos",
+    "approx_traffic": "100,000+"
   },
   {
     "country": "France",
@@ -411,16 +411,6 @@
   },
   {
     "country": "France",
-    "title": "Election legislative",
-    "pubDate": "Sun, 09 Jun 2024 21:00:00 +0200",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSoMlpTpUZJsX0224XmyVimtZmi4wEKCw7Echz3M6-89yIuVn6Ovz14650mkgR4af2t_FfWN1mN",
-    "news_item_snippet": "C&#39;est par un communiqu\u00e9 de presse, post\u00e9 \u00e9galement sur les r\u00e9seaux sociaux, qu&#39;Antoine Vermorel-Marques, le d\u00e9put\u00e9 LR de la 5e circonscription du Roannais, s&#39;&nbsp;...",
-    "news_item_url": "https://www.le-pays.fr/roanne-42300/actualites/je-suis-candidat-a-l-election-legislative-avec-toute-ma-force-et-toute-mon-energie-declare-antoine-vermorel-marques_14515061/",
-    "picture_source": "le-pays.fr",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "France",
     "title": "Rapha\u00ebl Glucksmann",
     "pubDate": "Sun, 09 Jun 2024 14:00:00 +0200",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRWCFe5npCCcPZaFdqfVxErwVqxyVaVjLS3xLpFRBns4nsYK9JQ_tb3Arx82asvF_S7ZXJ9M1_m",
@@ -431,53 +421,43 @@
   },
   {
     "country": "France",
-    "title": "Procuration",
-    "pubDate": "Sun, 09 Jun 2024 13:00:00 +0200",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRhZWUrRiFNV8mtDupELKnyU7TqbR_U-Dp-zuA5_2QCCxThaSWCI_miIApbd_l3KzpZheb-yjyK",
-    "news_item_snippet": "Apr\u00e8s l&#39;annonce de la dissolution de l&#39;Assembl\u00e9e nationale par Emmanuel Macron ce dimanche 9 juin, des \u00e9lections l\u00e9gislatives anticip\u00e9es sont programm\u00e9es&nbsp;...",
-    "news_item_url": "https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/isere/grenoble/legislatives-2024-ou-et-comment-faire-votre-procuration-pour-les-elections-des-30-juin-et-7-juillet-2984099.html",
-    "picture_source": "Les \u00c9chos",
+    "title": "Le Monde",
+    "pubDate": "Sun, 09 Jun 2024 22:00:00 +0200",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQ5zEEju5o-Z55nuywHhYn5n5Ped30ergj2zDeXu3GnS_z7JZugag69rxjYeIILoCcwwF96wKCI",
+    "news_item_snippet": "M\u00e9decin, dipl\u00f4m\u00e9 en sciences politiques, Jean-Fran\u00e7ois Corty est engag\u00e9 depuis plus de 20 ans dans l&#39;action humanitaire et m\u00e9dico-sociale en France et \u00e0 l&#39;&nbsp;...",
+    "news_item_url": "https://www.medecinsdumonde.org/actualite/dr-jean-francois-corty-elu-nouveau-president-de-medecins-du-monde/",
+    "picture_source": "M\u00e9decins du Monde",
     "approx_traffic": "100,000+"
+  },
+  {
+    "country": "France",
+    "title": "Election legislative",
+    "pubDate": "Sun, 09 Jun 2024 21:00:00 +0200",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSoMlpTpUZJsX0224XmyVimtZmi4wEKCw7Echz3M6-89yIuVn6Ovz14650mkgR4af2t_FfWN1mN",
+    "news_item_snippet": "C&#39;est par un communiqu\u00e9 de presse, post\u00e9 \u00e9galement sur les r\u00e9seaux sociaux, qu&#39;Antoine Vermorel-Marques, le d\u00e9put\u00e9 LR de la 5e circonscription du Roannais, s&#39;&nbsp;...",
+    "news_item_url": "https://www.le-pays.fr/roanne-42300/actualites/je-suis-candidat-a-l-election-legislative-avec-toute-ma-force-et-toute-mon-energie-declare-antoine-vermorel-marques_14515061/",
+    "picture_source": "le-pays.fr",
+    "approx_traffic": "50,000+"
   },
   {
     "country": "France",
     "title": "Marion Mar\u00e9chal",
     "pubDate": "Sun, 09 Jun 2024 16:00:00 +0200",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQ0VOKPZPi6OboE7OYNbz0eWcY6gv5mcOKxkk5prCapO8UNO6im3SkZwqRE60jezD9lzHu7RIva",
-    "news_item_snippet": "En recueillant 5,4 % des voix, le mouvement d&#39;\u00c9ric Zemmour envoie des eurod\u00e9put\u00e9s au Parlement europ\u00e9en.",
-    "news_item_url": "https://www.lefigaro.fr/elections/europeennes/europeennes-marion-marechal-et-reconquete-plonges-dans-l-incertitude-20240609",
-    "picture_source": "EURACTIV France",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "France",
-    "title": "Nelson Monfort",
-    "pubDate": "Sun, 09 Jun 2024 15:00:00 +0200",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTC34uiQA-mTxznm4LY0PgSxPC0nVf1hyVJ_JyDZe59BM1Iz6S2G7NL6T2og-NTp68k9WKAThzE",
-    "news_item_snippet": "Mais ce dimanche 9 juin 2024 est un jour particulier pour la figure des sports du service public : la finale masculine opposant Carlos Alcaraz \u00e0 Alexander&nbsp;...",
-    "news_item_url": "https://fr.news.yahoo.com/coup-dur-nelson-monfort-%C3%A0-205600378.html",
-    "picture_source": "Europe1",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "France",
-    "title": "Michael Mosley medecin",
-    "pubDate": "Sun, 09 Jun 2024 15:00:00 +0200",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTSeCmQLYkP2cVHvNrt4q0jGgmBzqtIJCMX4WD0BxSExb1pQAANJU5oFfFuywKVQ8AG3XwzlSEK",
-    "news_item_snippet": "Le m\u00e9decin Michael Mosley a \u00e9t\u00e9 retrouv\u00e9 mort sur l&#39;\u00eele grecque de Symi, en mer Eg\u00e9e, o\u00f9 il avait disparu jeudi, a annonc\u00e9 dimanche 9 juin un porte-parole de la&nbsp;...",
-    "news_item_url": "https://www.francetvinfo.fr/culture/tv/michael-mosley-medecin-star-de-la-television-britannique-retrouve-mort-en-grece_6594018.html",
-    "picture_source": "Paris Match",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSkfCdx4crHYfXyF6JJSWGI8ZMvrR-i3DGAWxUC56gPYLAd2rFN8TVjH_u8VznOMO-6kWRyi4vS",
+    "news_item_snippet": "La t\u00eate de liste de Reconqu\u00eate a d\u00e9clar\u00e9 ce dimanche \u00eatre dispos\u00e9e \u00e0 \u00ab rencontrer Marine Le Pen et Jordan Bardella \u00bb en vue des prochaines l\u00e9gislatives.",
+    "news_item_url": "https://www.lesechos.fr/elections/europeennes/dissolution-marion-marechal-tend-la-main-au-rn-2100268",
+    "picture_source": "Le Figaro",
     "approx_traffic": "50,000+"
   },
   {
     "country": "Germany",
-    "title": "Wahlergebnisse 2024",
-    "pubDate": "Sun, 09 Jun 2024 13:00:00 +0200",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTuouw98v3t3LedbH_NFfPeKNA145y7bfiRS8j09XtllM9Fhxz-EaW9ooWUkHueJv9c0TX51p5M",
-    "news_item_snippet": "Am Sonntag (9. Juni) finden die Wahlen zum EU-Parlament statt. Hier finden Sie am Wahlabend die Ergebnisse aus Gl\u00fcckstadt sowie Stimmen und Analysen.",
-    "news_item_url": "https://www.shz.de/lokales/glueckstadt/artikel/europawahl-2024-das-sind-die-wahlergebnisse-fuer-glueckstadt-47159686",
-    "picture_source": "shz.de",
-    "approx_traffic": "1,000,000+"
+    "title": "Europawahl 2024",
+    "pubDate": "Sun, 09 Jun 2024 08:00:00 +0200",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTlbqKBpo_EPMAQ_J8rLVdLN5qd1gzDJx0H_KFF8Q3ZqLYxCbNLBBJMvunfhvzz-FlK3djICkKy",
+    "news_item_snippet": "Trotz deutlicher Verluste hat B\u00fcndnis 90/Die Gr\u00fcnen in Charlottenburg-Wilmersdorf die meisten Stimmen bei der Europawahl erhalten, gefolgt von CDU und SPD. Die&nbsp;...",
+    "news_item_url": "https://www.rbb24.de/politik/wahl/Europawahl/wahlkreise-2024/ergebnisse-berlin/app-uebersicht.html",
+    "picture_source": "rbb24",
+    "approx_traffic": "2,000,000+"
   },
   {
     "country": "Germany",
@@ -491,23 +471,13 @@
   },
   {
     "country": "Germany",
-    "title": "Europawahl",
-    "pubDate": "Sun, 09 Jun 2024 08:00:00 +0200",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQjMUMNbtta-ZwjlTv1zGmQz1eRnxjpqJ_t8yp8tLiE3crIHlBkVNyywAgarzHltkMyyYAtN1nq",
-    "news_item_snippet": "Alle Wahlergebnisse zur Europawahl auf Basis von Prognose, Hochrechnungen und Ausz\u00e4hlungen nach Alter, Geschlecht, Bildung, T\u00e4tigkeit und Lebensstandard.",
-    "news_item_url": "https://www.rbb24.de/politik/wahl/Europawahl/2024/europawahl-alter-geschlecht-bildung-taetigkeit-berlin-brandenburg.html",
-    "picture_source": "rbb24",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "Germany",
-    "title": "Ergebnis Europawahl 2024",
-    "pubDate": "Sun, 09 Jun 2024 18:00:00 +0200",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTlbqKBpo_EPMAQ_J8rLVdLN5qd1gzDJx0H_KFF8Q3ZqLYxCbNLBBJMvunfhvzz-FlK3djICkKy",
-    "news_item_snippet": "Trotz deutlicher Verluste hat B\u00fcndnis 90/Die Gr\u00fcnen in Charlottenburg-Wilmersdorf die meisten Stimmen bei der Europawahl erhalten, gefolgt von CDU und SPD. Die&nbsp;...",
-    "news_item_url": "https://www.rbb24.de/politik/wahl/Europawahl/wahlkreise-2024/ergebnisse-berlin/app-uebersicht.html",
-    "picture_source": "rbb24",
-    "approx_traffic": "200,000+"
+    "title": "Wahlergebnisse 2024",
+    "pubDate": "Sun, 09 Jun 2024 13:00:00 +0200",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTuouw98v3t3LedbH_NFfPeKNA145y7bfiRS8j09XtllM9Fhxz-EaW9ooWUkHueJv9c0TX51p5M",
+    "news_item_snippet": "Am Sonntag (9. Juni) finden die Wahlen zum EU-Parlament statt. Hier finden Sie am Wahlabend die Ergebnisse aus Gl\u00fcckstadt sowie Stimmen und Analysen.",
+    "news_item_url": "https://www.shz.de/lokales/glueckstadt/artikel/europawahl-2024-das-sind-die-wahlergebnisse-fuer-glueckstadt-47159686",
+    "picture_source": "shz.de",
+    "approx_traffic": "500,000+"
   },
   {
     "country": "Germany",
@@ -534,8 +504,8 @@
     "title": "Macron",
     "pubDate": "Sun, 09 Jun 2024 08:00:00 +0200",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQl9Y2lDoPGtYXV3m1it0uvC1W1TeyB6Es3z38N0sq4VXMvjaMmSkvprkBXuzf71WgAJgRF6-1W",
-    "news_item_snippet": "In Frankreich w\u00e4hlten 32,3 Prozent der Bev\u00f6lkerung die rechtspopulitische Rassemblement National von Marine Le Pen. Macrons Liste Besoin d&#39;Europe kam mit 15,2&nbsp;...",
-    "news_item_url": "https://www.euractiv.de/section/europawahlen/news/frankreichs-macron-loest-nationalversammlung-auf-und-verkuendet-neuwahlen/",
+    "news_item_snippet": "Emmanuel Macron l\u00f6st die Nationalversammlung auf und beraumt Neuwahlen an. Das ist das zentrale Ergebnis der Europawahl. Nicht weniger als ein politisches&nbsp;...",
+    "news_item_url": "https://www.vorwaerts.de/international/neuwahlen-frankreich-warum-macron-alle-ueberrascht-hat",
     "picture_source": "manager-magazin.de",
     "approx_traffic": "100,000+"
   },
@@ -551,6 +521,16 @@
   },
   {
     "country": "Germany",
+    "title": "Wahlen Europa",
+    "pubDate": "Sun, 09 Jun 2024 18:00:00 +0200",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQ5i4qVhCvz6p8smh8QjuXG_U2A5rOHzt2S4rR57NfyhVuugc78dgwCaUukfwgIMfXbUk8NCzH4",
+    "news_item_snippet": "Am Sonntag, 9. Juni, gab es einiges zu entscheiden: Im Saalekreis fanden die Wahlen zum Europaparlament, Kreistagswahl, Stadt- und Gemeinderatswahlen,&nbsp;...",
+    "news_item_url": "https://www.mz.de/wahl/kommunalwahl-saalekreis/wahl-im-saalekreis-erste-ergebnisse-fur-kreistag-afd-bei-europawahl-weit-vorn-bsw-bei-13-prozent-3858650",
+    "picture_source": "Mitteldeutsche Zeitung",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Germany",
     "title": "FP\u00d6",
     "pubDate": "Sun, 09 Jun 2024 18:00:00 +0200",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTOyX8QaILEXaT1hlYbKu_3jcae1liulzhvqmRLAXiY4ctBUeMo7SYs21Uiuv-me8V54HmlYamk",
@@ -561,12 +541,22 @@
   },
   {
     "country": "Germany",
+    "title": "ARD",
+    "pubDate": "Sun, 09 Jun 2024 23:00:00 +0200",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSVuRDHxwAC6nsU2ZOxUTa__vr5Liv87uCoiUSXVdlCjG25FaL9GrLs3VmyAbx8soZ4t4blrke3",
+    "news_item_snippet": "Erstmals senden die vier ARD-Medienh\u00e4user BR, NDR, RBB und SWR gemeinsam w\u00e4hrend der Fu\u00dfball-Europameisterschaft EURO 2024 und der Olympischen Spiele&nbsp;...",
+    "news_item_url": "https://www.ndr.de/der_ndr/presse/mitteilungen/Mehr-Sport-beim-ersten-5G-Broadcast-Test-der-ARD-waehrend-der-Fussball-EM-und-der-Olympischen-Spiele-,pressemeldungndr24602.html",
+    "picture_source": "Golem.de",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Germany",
     "title": "Kommunalwahlen 2024",
     "pubDate": "Sun, 09 Jun 2024 10:00:00 +0200",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSCDqbhLGr_u4QphfMh3lOe6eNCcKApntcR6tEsj3oxThGHbjcu7OmfoRWEEivTUwJsvHoJMQLe",
-    "news_item_snippet": "Entgegen dem brandenburgweiten Trend hat in der Landeshauptstadt die SPD die Wahlen zur Stadtverordnetenversammlung gewonnen. Zweitst\u00e4rkste Kraft wurde die CDU&nbsp;...",
-    "news_item_url": "https://www.rbb24.de/politik/wahl/kommunalwahlen/wahlkreise-2024/app-uebersicht-landkreise-staedte-uebersicht-brandenburg.html",
-    "picture_source": "rbb24",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRrbVdc8m24m2PaohQVrqYqv_94gBSBxEhEibqgKwtMTc96FRAkejCmM0a463JYKuBIJzDnCO_m",
+    "news_item_snippet": "Kommunalwahl am 9. Juni 2024: Aktuelle Ergebnisse, Informationen, Hintergr\u00fcnde und gew\u00e4hlte Kandidaten aus Steinmauern. Ortsschild Steinmauern Landkreis Rastatt.",
+    "news_item_url": "https://bnn.de/mittelbaden/rastatt/steinmauern/kommunalwahl-steinmauern-2024-ergebnisse",
+    "picture_source": "BNN - Badische Neueste Nachrichten",
     "approx_traffic": "50,000+"
   },
   {
@@ -580,22 +570,12 @@
     "approx_traffic": "50,000+"
   },
   {
-    "country": "Germany",
-    "title": "Europa wahlen",
-    "pubDate": "Sun, 09 Jun 2024 12:00:00 +0200",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQ5i4qVhCvz6p8smh8QjuXG_U2A5rOHzt2S4rR57NfyhVuugc78dgwCaUukfwgIMfXbUk8NCzH4",
-    "news_item_snippet": "Am Sonntag, 9. Juni, gab es einiges zu entscheiden: Im Saalekreis fanden die Wahlen zum Europaparlament, Kreistagswahl, Stadt- und Gemeinderatswahlen,&nbsp;...",
-    "news_item_url": "https://www.mz.de/wahl/kommunalwahl-saalekreis/wahl-im-saalekreis-erste-ergebnisse-fur-kreistag-afd-bei-europawahl-weit-vorn-bsw-bei-13-prozent-3858650",
-    "picture_source": "Mitteldeutsche Zeitung",
-    "approx_traffic": "50,000+"
-  },
-  {
     "country": "Italy",
     "title": "ANSA",
     "pubDate": "Mon, 10 Jun 2024 11:00:00 +0200",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcT7MxtqYDs5bMvLIjN3dlA7UaCrVqe93GyjJEoT6a_jCohk_kgrdYlparIAaaARdjHyrwEc-pr5",
-    "news_item_snippet": "Le favorevoli condizioni climatiche hanno dato nuovo impulso agli sbarchi di migranti lungo le coste del sud Sardegna. Dal 6 giugno a ieri notte ne sono&nbsp;...",
-    "news_item_url": "https://www.ansa.it/sardegna/notizie/2024/06/10/soccorsa-barca-con-13-migranti-nel-sud-sardegna_ea058eff-dcfe-4d58-b53c-9e8716ffed50.html",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRyCT6B85b_AFxckxeV3YRiiCzvOAVkZPuEGAJSiIJFICC7bdAui4rji7SGnIyfWzyMUx05lN_f",
+    "news_item_snippet": "Prima vittoria in carriera nella Superlega araba di golf, per Carlos Ortiz. Negli Stati Uniti, il messicano ha fatto suo, con uno score di &quot;-15&quot; colpi,&nbsp;...",
+    "news_item_url": "https://www.ansa.it/golf/notizie/2024/06/10/superlega-araba-primo-successo-per-carlos-ortiz_12509d85-65bd-4d89-9458-34b27744d770.html",
     "picture_source": "Agenzia ANSA",
     "approx_traffic": "200,000+"
   },
@@ -612,11 +592,11 @@
   {
     "country": "Mexico",
     "title": "NBA",
-    "pubDate": "Sun, 09 Jun 2024 18:00:00 -0600",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTyPZvP1uDnpB2Vkva6aXThekYhoBSIhZvGowV3DSBLb7ZJup2xASFXNx_pYFjXMlm6x-wYTdHE",
-    "news_item_snippet": "Jrue Holiday soport\u00f3 la ofensiva de Celtics en la primera mitad y esper\u00f3 que Jaylen Brown y Jayson Tatum &#39;despertaran&#39; en la segunda para encaminar a los de&nbsp;...",
-    "news_item_url": "https://www.espn.com.mx/basquetbol/nota/_/id/13766848/nba-finales-de-la-nba-mavericks-celtics-juego-2",
-    "picture_source": "Los Angeles Times",
+    "pubDate": "Sun, 09 Jun 2024 11:00:00 -0600",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTdEkIjsqdV0yrEFPZALQdAYe7FkWEuaf3yp9Py2DeFiF-u1QFUCkxW65oC1nlF9K_I3QsqlMcz",
+    "news_item_snippet": "Jrue Holiday aport\u00f3 los puntos. Derrick White a\u00f1adi\u00f3 un tap\u00f3n en persecusi\u00f3n. Jayson Tatum y Jaylen Brown contribuyeron, tambi\u00e9n, con sus pases y su defensa&nbsp;...",
+    "news_item_url": "https://www.latimes.com/espanol/deportes/articulo/2024-06-09/los-celtics-vencen-a-los-mavericks-y-toman-ventaja-de-2-0-en-las-finales-de-la-nba",
+    "picture_source": "ESPN",
     "approx_traffic": "100,000+"
   },
   {
@@ -653,20 +633,30 @@
     "country": "Spain",
     "title": "ABC",
     "pubDate": "Mon, 10 Jun 2024 00:00:00 +0200",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTXlyywplrZ_7Xf7hcY9_vBl-42QxqSdre1u_7wpZJPNaiDuvQuMQwfF1jXBTpTekC-47hoqRJz",
-    "news_item_snippet": "A sus 22 a\u00f1os, el hijo de Manuel Campo Vidal y Mar\u00eda Rey ha recibido el Premio en Emprendimiento Satelital en un gala organizada por Hispasat.",
-    "news_item_url": "https://www.abc.es/gente/iago-campo-pueden-acusar-20240609161803-nt.html",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSezRMKoD9EcxSwYVJFkgR4fk0mViQJBZsUt8kDCasWOZKam6iFE23lTz_8bwEA1TSuPp8s1lnQ",
+    "news_item_snippet": "Los ingenieros industriales, mec\u00e1nicos y el\u00e9ctricos, as\u00ed como los programadores de rob\u00f3tica y mantenedores, son algunos de los perfiles m\u00e1s solicitados. Los&nbsp;...",
+    "news_item_url": "https://www.abc.es/economia/despegue-coche-electrico-topa-freno-sequia-talento-20240610053505-nt.html",
     "picture_source": "ABC.es",
     "approx_traffic": "100,000+"
+  },
+  {
+    "country": "Spain",
+    "title": "Argentina  Ecuador",
+    "pubDate": "Mon, 10 Jun 2024 01:00:00 +0200",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTnoq0x_7qVfgj2qRVsdBTthMevM0_UU7VYlvhictLjv1-zYzZJ4bo2H34UAXk4Qb6a3BJQLggU",
+    "news_item_snippet": "Previo al inicio de la Copa Am\u00e9rica 2024, Argentina derrot\u00f3 a Ecuador por 1 a 0 con un gol de \u00c1ngel Di Mar\u00eda en el estadio del Soldier Field,&nbsp;...",
+    "news_item_url": "https://www.mundodeportivo.com/us/futbol/futbol-copa-america/20240609/692188/argentina-vs-ecuador-vivo-hoy-formaciones-ultima-hora-amistoso-previo-copa-america.html",
+    "picture_source": "Motor Zeta",
+    "approx_traffic": "50,000+"
   },
   {
     "country": "United Kingdom",
     "title": "Soccer Aid",
     "pubDate": "Sun, 09 Jun 2024 16:00:00 +0100",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRWpcjvxOQh6WkY8DNbb0wLx07uLrGeIkIDHdyJattbmZLi9j8iXF7RMSd8OAFzyglf6XQjsE37",
-    "news_item_snippet": "The return of Eden Hazard was always going to capture the imagination of Blues fans and the Chelsea legend didn&#39;t disappoint as he added to his classy&nbsp;...",
-    "news_item_url": "https://www.chelseafc.com/en/news/article/soccer-aid-2024-eden-hazard-lights-up-the-bridge-once-more",
-    "picture_source": "Sky News",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcR-R2zVkx-Yma493VnBfrfHSVO-M7U3fLfO7CrdF0hzrfMOTrIlT7sVP2tcxJ-wnEGaiW0WzT6R",
+    "news_item_snippet": "The Children&#39;s Investment Fund Foundation doubled every donation made to this year&#39;s campaign up to \u00a34m, which will go to Unicef&#39;s Child Nutrition Fund. Soccer&nbsp;...",
+    "news_item_url": "https://www.civilsociety.co.uk/news/soccer-aid-for-unicef-reaches-100m-fundraising-milestone.html",
+    "picture_source": "CBBC Newsround",
     "approx_traffic": "500,000+"
   },
   {
@@ -674,8 +664,8 @@
     "title": "Alan Hansen",
     "pubDate": "Sun, 09 Jun 2024 16:00:00 +0100",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTYZmecavMCzC03Zq78g3OHoBucYLcEdOzcDi8_X-bgxU5lnZ4CaIDC72nnw6P9ICRWUUhB-3vy",
-    "news_item_snippet": "68-year-old&#39;s family being supported by Liverpool &middot; &#39;Jockey&#39; was one of the best defenders of his generation.",
-    "news_item_url": "https://www.theguardian.com/football/article/2024/jun/09/alan-hansen-liverpool-and-scotland-legend-seriously-ill-in-hospital",
+    "news_item_snippet": "Hansen, who won eight English league titles and three European Cups in an illustrious playing career at Anfield, was one of the most gifted players of his&nbsp;...",
+    "news_item_url": "https://www.nytimes.com/athletic/5553059/2024/06/09/alan-hansen-health-liverpool/",
     "picture_source": "Partick Thistle FC",
     "approx_traffic": "200,000+"
   },
@@ -683,10 +673,10 @@
     "country": "United Kingdom",
     "title": "India vs Pakistan",
     "pubDate": "Sun, 09 Jun 2024 11:00:00 +0100",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSCzw7iflsLfO_44RL6kmIhJHcHXR29aUh2RieuiarOzzyX0e3OIjqV38FHpK1EMPXqkyHFULwZ",
-    "news_item_snippet": "India captain Rohit Sharma applauded his bowlers&#39; match-winning performance against Pakistan in Sunday&#39;s T20 World Cup match, describing Jasprit Bumrah as a&nbsp;...",
-    "news_item_url": "https://www.forbes.com/sites/manasipathak-1/2024/06/10/india-vs-pakistan-bumrah-is-a-genius-with-the-ball-says-rohit/",
-    "picture_source": "Aljazeera.com",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRZzZJM9tU_A_XrzsuDd3AUhpjsDZNDtYLBtJBWd0XnoY712-I3y9uTJdJEBCOUtoOoNDZJiRhg",
+    "news_item_snippet": "A sellout crowd descended on New York&#39;s Eisenhower Park for the clash of cricketing archrivals India and Pakistan.",
+    "news_item_url": "https://www.aljazeera.com/gallery/2024/6/10/photos-india-vs-pakistan-cricket-fans-bring-the-party-to-the-usa-new-york-match",
+    "picture_source": "Forbes",
     "approx_traffic": "200,000+"
   },
   {
@@ -694,8 +684,8 @@
     "title": "F1",
     "pubDate": "Sun, 09 Jun 2024 19:00:00 +0100",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQ38mqJI6xZmYLvBHtzyXo7EiC0RM7vC9Gyz6ZL6JBylNO7hRKp0YZ3yQCGGJnJx0bXvkXHzywQ",
-    "news_item_snippet": "Who passed all the tests a wet-dry Canadian GP threw at them most convincingly, and who had a miserable time in Montreal? Edd Straw passes judgement with&nbsp;...",
-    "news_item_url": "https://www.the-race.com/formula-1/2024-f1-driver-rankings-canadian-grand-prix-edd-straw/",
+    "news_item_snippet": "Max Verstappen and Red Bull bounced back from their Monaco struggles as they returned to winning ways in an action-packed Canadian Grand Prix,&nbsp;...",
+    "news_item_url": "https://www.formula1.com/en/latest/article/verstappen-beats-norris-to-victory-in-thrilling-wet-dry-canadian-gp.6ytkbh7iDTWC3pJBwiaboI",
     "picture_source": "FIA",
     "approx_traffic": "100,000+"
   },
@@ -703,30 +693,20 @@
     "country": "United Kingdom",
     "title": "Dr Michael Mosley",
     "pubDate": "Sun, 09 Jun 2024 23:00:00 +0100",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcScNhDd6OB1ltlK4kO_IS4tDqlu1fv8AXPgDMN9QARA6kRWVNG_JgCYLN2M5mJXdiZ8cFEIH4P9",
-    "news_item_snippet": "Popular celebrity medic who offered health advice to millions through his TV and radio roles, most notably on calorie-reduction and fasting.",
-    "news_item_url": "https://www.theguardian.com/media/2024/jun/09/dr-michael-mosley-obituary",
-    "picture_source": "BBC News",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRi1Kq4eJ6h8wYL0s0c2818-5txPxyUKhZc4PUS6V8565KrRmHyh09vNp5-Xw9cOhQc04fdpdzN",
+    "news_item_snippet": "Greek police say initial tests found no injuries that could have caused the TV presenter&#39;s death.",
+    "news_item_url": "https://www.bbc.com/news/articles/c1dd7ekyrpyo",
+    "picture_source": "Sky News",
     "approx_traffic": "100,000+"
   },
   {
     "country": "United Kingdom",
     "title": "Pakistan vs India",
     "pubDate": "Sun, 09 Jun 2024 15:00:00 +0100",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRn1btiSXd7ttmHcDBolUlTv5GpiwEOYdGzOGKsvMP6NeLnyXDc2rtz1vvPWVZ2CpFIUy20Aou6",
-    "news_item_snippet": "The trend of low scores continued in New York as India&#39;s attack defended a total of 119 against Pakistan.",
-    "news_item_url": "https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/india-vs-pakistan-19th-match-group-a-1415719/match-report",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTWhtA5iizm2KwUdLw1g6cn9zc19Hl3Ze6FsIw-Vx152oukuhfAHDBBz3Li9ihyl8eZkjdmNBKi",
+    "news_item_snippet": "India captain Rohit Sharma applauded his bowlers&#39; match-winning performance against Pakistan in Sunday&#39;s T20 World Cup match, describing Jasprit Bumrah as a&nbsp;...",
+    "news_item_url": "https://www.forbes.com/sites/manasipathak-1/2024/06/10/india-vs-pakistan-bumrah-is-a-genius-with-the-ball-says-rohit/",
     "picture_source": "Aljazeera.com",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United Kingdom",
-    "title": "Steven Bartlett",
-    "pubDate": "Sun, 09 Jun 2024 22:00:00 +0100",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSygZGYzg3qAdSdj7zfWxX3E_74UBt6K_0AUPdUcmrI8IS179iaHd23_ng8KBWuVnL-tiWziHl_",
-    "news_item_snippet": "Britain&#39;s Got Talent boss Simon Cowell fought tears discussing the &#39;hardest thing that&#39;s ever happened&#39; to him in an emotional interview.",
-    "news_item_url": "https://metro.co.uk/2024/06/10/simon-cowell-tears-hardest-thing-ever-happened-21003563/",
-    "picture_source": "Prolific North",
     "approx_traffic": "50,000+"
   },
   {
