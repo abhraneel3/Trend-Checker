@@ -1,12 +1,12 @@
 [
   {
     "country": "United States",
-    "title": "Apple",
+    "title": "WWDC",
     "pubDate": "Mon, 10 Jun 2024 08:00:00 -0700",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSzgfNjQh1Q6dfY90rHHy6M1EW8XQJwE-vxHqpTsjll_0YJHkXPzBLTmFsJNCH5nve_2VQif7Nn",
-    "news_item_snippet": "Apple has announced a much-anticipated partnership with OpenAI, the maker of ChatGPT. The deal to bring AI features to iPhones and other devices is a major&nbsp;...",
-    "news_item_url": "https://www.npr.org/2024/06/10/nx-s1-4999051/apple-artificial-intelligence-partnership-openai-chatgpt-siri-iphone",
-    "picture_source": "Apple Newsroom",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQgxJtD0vjYksn8jdCDIMW3Ql7zE258ViPwluD_oMbYzn75jsI_p4U5lc375jZSwuQE7E6kF2ox",
+    "news_item_snippet": "The company&#39;s annual developer event was stacked with demonstrations that showed off the new artificial intelligence capabilities coming to iPhones, iPads,&nbsp;...",
+    "news_item_url": "https://www.wired.com/story/everything-apple-announced-wwdc-2024/",
+    "picture_source": "CNNMoney",
     "approx_traffic": "200,000+"
   },
   {
@@ -14,19 +14,9 @@
     "title": "Nvidia stock",
     "pubDate": "Mon, 10 Jun 2024 10:00:00 -0700",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTNm9GADKfQbMBOebhpN3VVWdxGeMBFV0Qx6mkEiBeZl9A9ejVAK9f3bSweLjsxvPr43vV71UeI",
-    "news_item_snippet": "Nvidia&#39;s 10-for-1 stock split aimed at luring retail investors has taken effect, sparking speculation over chances of the artificial intelligence&nbsp;...",
-    "news_item_url": "https://www.reuters.com/technology/nvidia-sparks-chatter-over-possible-dow-inclusion-after-stock-split-2024-06-10/",
+    "news_item_snippet": "By Emily Bary. It actually hasn&#39;t been that long since Nvidia shares last traded around $120 on a pre-split basis. Nvidia Corp.&#39;s stock is trading Monday&nbsp;...",
+    "news_item_url": "https://www.morningstar.com/news/marketwatch/2024061099/as-nvidias-stock-split-takes-effect-this-stat-shows-how-far-its-come",
     "picture_source": "Investor's Business Daily",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Dan Hurley",
-    "pubDate": "Mon, 10 Jun 2024 11:00:00 -0700",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQyw4SsHdB2EM4TBR4Tud3rLHbwVZyxblixQBaaA02ir6z21cDk8fdz-GWjS75Lp8MHraHVbpGM",
-    "news_item_snippet": "University of Connecticut men&#39;s basketball head coach Dan Hurley says he will remain with the Huskies. In a decision that has reverberated throughout the&nbsp;...",
-    "news_item_url": "https://www.nbclosangeles.com/news/sports/nba/dan-hurley-lakers-uconn-head-coach-decision-report/3432526/",
-    "picture_source": "NBC News",
     "approx_traffic": "100,000+"
   },
   {
@@ -37,6 +27,16 @@
     "news_item_snippet": "Dallas&#39; Scottie Scheffler is a winner again, and he never had to grind so hard. Scheffler held off Collin Morikawa and Adam Hadwin at the Memorial with his&nbsp;...",
     "news_item_url": "https://www.keranews.org/sports/2024-06-10/scottie-scheffler-holds-on-to-win-memorial-for-his-5th-pga-tour-title-of-the-year",
     "picture_source": "KERA News",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Practical Magic 2",
+    "pubDate": "Mon, 10 Jun 2024 10:00:00 -0700",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTsVM8sibcFsHXA04Kd5LPxknbSCmvCdGa5sBXzjNm6CVteuJN5Xf0k9La0dVkp4vuglNes0ahq",
+    "news_item_snippet": "A sequel to &#39;Practical Magic&#39; is in the works, with Nicole Kidman and Sandra Bullock in talks to potentially return as the Owens Sisters.",
+    "news_item_url": "https://www.rollingstone.com/tv-movies/tv-movie-news/practical-magic-2-sequel-1235037081/",
+    "picture_source": "Variety",
     "approx_traffic": "50,000+"
   },
   {
@@ -64,8 +64,8 @@
     "title": "NBA",
     "pubDate": "Sun, 09 Jun 2024 18:00:00 -0700",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSumEMf3S9axyropDZCs92qb6NS9nDPt-pDq5Qhrh-XB3eK_6iDBkwkWJFD5I74kdc8Nl66LLpJ",
-    "news_item_snippet": "According to Fitch, that puts the league debt at $6 billion, of which $4.3 billion is through Hardwood Funding and $1.7 billion is the revolving credit line&nbsp;...",
-    "news_item_url": "https://www.sportico.com/business/finance/2024/nba-debt-declines-fitch-ratings-note-1234783588/",
+    "news_item_snippet": "Jrue Holiday had 26 points and 11 rebounds, and Jayson Tatum made up for a rough shooting night with 12 assists and nine rebounds as the Boston Celtics beat&nbsp;...",
+    "news_item_url": "https://apnews.com/article/nba-finals-score-celtics-mavericks-5ae2a908914f016ee6d5a5eaa8e09afc",
     "picture_source": "NBA.com",
     "approx_traffic": "2,000,000+"
   },
@@ -74,8 +74,18 @@
     "title": "Luka Doncic",
     "pubDate": "Sun, 09 Jun 2024 17:00:00 -0700",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSCWM0m11GeT_VBuAseg0EbfgcXdcnsd2TAb5rgkh889vTIefpZW-e9jROidQCzRDz4yG74OFtw",
-    "news_item_snippet": "The Mavericks&#39; Luka Doncic is available to play after being downgraded to questionable for Sunday&#39;s Game 2 of the NBA Finals.",
-    "news_item_url": "https://www.espn.com/nba/story/_/id/40313656/luka-doncic-downgraded-questionable-game-2-nba-finals",
+    "news_item_snippet": "The Dallas Mavericks face a 2-0 series deficit against the Boston Celtics in the NBA Finals after losing Game 2. Luka Doncic shared his thoughts on what&#39;s&nbsp;...",
+    "news_item_url": "https://www.si.com/nba/mavericks/news/luka-doncic-lays-out-plan-dallas-mavericks-bounce-back-against-boston-celtics-nba-finals",
+    "picture_source": "The Associated Press",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Carlos Alcaraz",
+    "pubDate": "Sun, 09 Jun 2024 11:00:00 -0700",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRJFpjozMYFDZASJthPklPEaYyt1zVAh53h0tHmYWWXDoBJA7GWOKCW4Rr5ni4iXtx_Iv-DBPD5",
+    "news_item_snippet": "The Athletic&#39;s writers, Charlie Eccleshare and Matt Futterman, analyze the final and what it means for tennis. A fight for middle ground in the opening&nbsp;...",
+    "news_item_url": "https://www.nytimes.com/athletic/5551530/2024/06/09/carlos-alcaraz-alexander-zverev-french-open-final/",
     "picture_source": "The Associated Press",
     "approx_traffic": "100,000+"
   },
@@ -83,10 +93,10 @@
     "country": "United States",
     "title": "Black Ops 6",
     "pubDate": "Sun, 09 Jun 2024 11:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcR2ZbouRaTzS7C4oALE4aajaAQZ9Ers4Ck5M0XZqDFX-5pFhkfIG64RUT5Gu4YI2adUBSn9BWEp",
-    "news_item_snippet": "According to the post, the 300 GB download size included the full installations of several COD titles (Modern Warfare II, III, and Warzone), content packs, and&nbsp;...",
-    "news_item_url": "https://www.forbes.com/sites/brianmazique/2024/06/10/call-of-duty-black-ops-6-update-the-file-size-isnt-300gb/",
-    "picture_source": "IGN",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQt2YgpQNCtlZV8LArbOmgub-2dn5Lsek3lTN4VfhW-10wDKBFkpMdYLopuDu9GfzxlZsoSqJni",
+    "news_item_snippet": "That&#39;ll put a pretty big dent in the hard drive of most PlayStation 5 and Xbox Series X | S consoles, so players were, understandably, very concerned.",
+    "news_item_url": "https://www.ign.com/articles/call-of-duty-black-ops-6-isnt-300-gb-after-all",
+    "picture_source": "Forbes",
     "approx_traffic": "100,000+"
   },
   {
@@ -110,19 +120,29 @@
     "approx_traffic": "100,000+"
   },
   {
-    "country": "India",
-    "title": "Sports",
-    "pubDate": "Mon, 10 Jun 2024 02:30:00 +0530",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSob7ntrnIwC_fEXMSDGY23IwrZ_KKnybtRdKGQNtWxYEREAPpLscEVCws_rZCNGwizpge9XsXS",
-    "news_item_snippet": "Dr. Mansukh L. Mandaviya was appointed the Minister of Sports and Youth Affairs under the new cabinet of Prime Minister Narendra Modi, replacing Anurag&nbsp;...",
-    "news_item_url": "https://sportstar.thehindu.com/other-sports/mansukh-mandaviya-appointed-sports-minister-of-youth-affairs-replaces-anurag-thakur-before-paris-2024-games/article68269823.ece",
-    "picture_source": "ESPN India",
-    "approx_traffic": "200,000+"
+    "country": "United States",
+    "title": "Darren Waller",
+    "pubDate": "Sun, 09 Jun 2024 14:00:00 -0700",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRAR0SDeFB1fZBQk1LIIeSC6YsXBlWe1ORRFUwSWdCSQ-R2KcMMmqT7B-SMQd7FR4NB-fnv-W8G",
+    "news_item_snippet": "New York Giants tight end Darren Waller announced his retirement from playing football on Sunday, saying he \u201cfound a lot of joy\u201d in the sport, but \u201cthe&nbsp;...",
+    "news_item_url": "https://www.nbcnews.com/news/sports/giants-tight-end-darren-waller-retires-rcna156281",
+    "picture_source": "Giants.com",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Xbox Showcase 2024",
+    "pubDate": "Sun, 09 Jun 2024 08:00:00 -0700",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRdwQwy1fxSkljqESMSejbfHx0jRPfSA5Q80324cTyxrvDNj3_xyWNR30xR10CbEo-v5fQKO78N",
+    "news_item_snippet": "Xbox Games Showcase kicked off Sunday with the reveal &quot;Call of Duty: Black Ops 6&quot; will launch Oct. 25 and be available Day 1 via Game Pass sub.",
+    "news_item_url": "https://variety.com/2024/gaming/news/xbox-games-showcase-call-of-duty-doom-prequel-fallout-1236029975/",
+    "picture_source": "Gamasutra",
+    "approx_traffic": "50,000+"
   },
   {
     "country": "India",
     "title": "PM Kisan",
-    "pubDate": "Mon, 10 Jun 2024 15:30:00 +0530",
+    "pubDate": "Mon, 10 Jun 2024 16:30:00 +0530",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQS9i3-fyI42Yx5qekoJRj_95tRnszJQfRB8zK1zz2pjaHbrbYNGNmsxXzjdazyUyducUgX1coG",
     "news_item_snippet": "\u0910\u0938\u093e \u0915\u0930\u0915\u0947 \u0938\u093e\u0932\u093e\u0928\u093e 6 \u0939\u091c\u093e\u0930 \u0930\u0941\u092a\u092f\u0947 \u092a\u093e\u0924\u094d\u0930 \u0915\u093f\u0938\u093e\u0928\u094b\u0902 \u0915\u094b \u0926\u093f\u090f \u091c\u093e\u0924\u0947 \u0939\u0948\u0902\u0964 \u0907\u0938\u0940 \u0915\u094d\u0930\u092e \u092e\u0947\u0902 \u0905\u092c 17\u0935\u0940\u0902 \u0915\u093f\u0938\u094d\u0924 \u091c\u093e\u0930\u0940 \u0939\u094b\u0928\u0940 \u0939\u0948 \u091c\u093f\u0938\u0915\u094b \u0932\u0947\u0915\u0930 \u0906\u091c \u092a\u094d\u0930\u0927\u093e\u0928\u092e\u0902\u0924\u094d\u0930\u0940 \u0928\u0930\u0947\u0902\u0926\u094d\u0930 \u092e\u094b\u0926\u0940&nbsp;...",
     "news_item_url": "https://www.amarujala.com/photo-gallery/utility/pm-kisan-yojana-website-down-after-pm-modi-signs-17th-kist-file-2024-06-10",
@@ -133,20 +153,20 @@
     "country": "India",
     "title": "Arshdeep Singh",
     "pubDate": "Mon, 10 Jun 2024 00:30:00 +0530",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRgoYmTaRnhWH8PDQCdBLNNVa5Bh-UXSvj4j-gIV2WdLIlvKfiKpG86PXvL97ws3kf9d8MMC4VL",
-    "news_item_snippet": "Former Pakistan cricket team star Kamran Akmal has come under a lot of criticism for making a distasteful remark on India fast bowler Arshdeep Singh.",
-    "news_item_url": "https://sports.ndtv.com/t20-world-cup-2024/saved-your-mothers-harbhajan-singh-blasts-ex-pakistan-star-for-racist-sikh-joke-on-arshdeep-singh-5861618",
-    "picture_source": "Hindustan Times",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSfizoEHQcG9f_Wjx-qRyxGjd40D96-X3gLGezS5feh19GWJUtpHqV6wNcIeUFEKbRQHlReEhXx",
+    "news_item_snippet": "Kamran Akmal issued a public apology for his &#39;disrespectful&#39; remarks on Arshdeep Singh&#39;s religion during India vs Pakistan match.",
+    "news_item_url": "https://www.hindustantimes.com/cricket/kamran-akmals-public-apology-to-harbhajan-for-disrespecting-arshdeep-singhs-religion-during-india-vs-pakistan-match-101718069001538.html",
+    "picture_source": "NDTVSports.com",
     "approx_traffic": "100,000+"
   },
   {
     "country": "India",
-    "title": "Noor Malabika",
-    "pubDate": "Mon, 10 Jun 2024 14:30:00 +0530",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTvgoOL-B-hQLNeR4hUaHghymkc3v4thqMCufDlhIhjv0aphgKGrY9uRybVMhAdLjSxfRXtDBhD",
-    "news_item_snippet": "Mumbai, DHNS: Actor-model Noor Malabika Das was found dead in her flat in the Lokhandwala in the Oshiwara area of Andheri on Monday. ADVERTISEMENT.",
-    "news_item_url": "https://www.deccanherald.com/india/maharashtra/noor-malabika-das-kajols-the-trial-co-star-found-dead-in-flat-suicide-suspected-3059955",
-    "picture_source": "NDTV",
+    "title": "Rishabh Pant",
+    "pubDate": "Mon, 10 Jun 2024 03:30:00 +0530",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRLYNuFoDGrwEB3Vwd4WEe_0P8KTujBIpvkf9_nCiJVIDJJSWJSp84NkDFLvSRH6Dv45GAo3CVW",
+    "news_item_snippet": "On a surface where a total of 232 runs were scored over 40 overs, it goes without saying that batting wasn&#39;t the strongest suit for any of the two teams who&nbsp;...",
+    "news_item_url": "https://www.royalchallengers.com/rcb-cricket-news/news/rishabh-pants-brilliant-presence-in-new-york-dazzles-the-cricket-world",
+    "picture_source": "Deccan Herald",
     "approx_traffic": "100,000+"
   },
   {
@@ -154,8 +174,8 @@
     "title": "Reasi district",
     "pubDate": "Mon, 10 Jun 2024 10:30:00 +0530",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQ6DUHmcsPObCTa9UNktKDjkldNOckPZziBjK_rxjA_6cApDJiNjpA9iLkYBHhfDercvzQslwHx",
-    "news_item_snippet": "Reasi bus accident: Reasi SSP Mohita Sharma said due to the open firing by terrorists, the bus carrying pilgrims lost balance and fell into a gorge.",
-    "news_item_url": "https://www.business-standard.com/india-news/reasi-terror-attack-10-pilgrims-killed-pm-modi-acts-latest-updates-124061000144_1.html",
+    "news_item_snippet": "Four of a Jaipur family, 2 UP cousins were among the nine persons who died in a terror attack on a bus carrying pilgrims in Jammu and Kashmir.",
+    "news_item_url": "https://indianexpress.com/article/insurance/weve-been-ruined-among-victims-of-reasi-terror-attack-4-of-jaipur-family-including-2-year-old-boy-9384431/",
     "picture_source": "India Today",
     "approx_traffic": "50,000+"
   },
@@ -163,7 +183,7 @@
     "country": "India",
     "title": "Ixigo IPO GMP",
     "pubDate": "Mon, 10 Jun 2024 11:30:00 +0530",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcS_1BDvT2RhoGbsP-Qm0LAsT9ZOHILs7OVkU6-LhlD_ZQGwh9RDVk2icAIWlsMCqrPew9tBKAhJ",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRGmPWr2RWBe4gl-7QvPUDIZskiBI8wi8QDJYMT5-WtlHJ0J-gufxk37H1oEMX7eM8R4FhkAaux",
     "news_item_snippet": "The Ixigo IPO saw decent interest from investors as it was fully subscribed on the first day of its bidding.",
     "news_item_url": "https://www.indiatoday.in/business/story/ixigo-ipo-day-1-check-latest-subscription-gmp-2551439-2024-06-10",
     "picture_source": "Livemint",
@@ -201,7 +221,7 @@
   },
   {
     "country": "India",
-    "title": "Cabinet ministers of india 2024",
+    "title": "Cabinet Ministers of india 2024",
     "pubDate": "Sun, 09 Jun 2024 14:30:00 +0530",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSotnv3EMfvhkQiT2IBWFnV2E_dP-gEFypH-D4UADzEQunUqauHZCGqj3zusa4nb0x_oOEu0IFS",
     "news_item_snippet": "Cabinet Ministers 2024 Full List, Cabinet Ministers Portfolios: Modi started his day by paying homage to Mahatma Gandhi at Raj Ghat, former PM Atal Bihari&nbsp;...",
@@ -210,29 +230,19 @@
     "approx_traffic": "500,000+"
   },
   {
-    "country": "Argentina",
-    "title": "Partido Argentina",
-    "pubDate": "Sun, 09 Jun 2024 20:00:00 -0300",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRxWH3aZl_RLRbNtkH8tvUTKRTDnfD4iREtSaZwxPilsbaxI9bV8XKR26b_CcUYFtYnGO30BEDm",
-    "news_item_snippet": "La Scaloneta se volvi\u00f3 a lucir y se qued\u00f3 con la victoria gracias a un gran gol de \u00c1ngel Di Mar\u00eda, que fue el capit\u00e1n mientras Messi estuvo en el banco.",
-    "news_item_url": "https://www.ole.com.ar/seleccion/argentina-ecuador-hoy-vivo-amistoso-hora-ver-formaciones_0_uSGknB3jCD.html",
-    "picture_source": "canchallena.com",
-    "approx_traffic": "100,000+"
-  },
-  {
     "country": "Australia",
     "title": "Dragon Boat Festival",
     "pubDate": "Mon, 10 Jun 2024 01:00:00 +1000",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRXh7DA5vl1ef6dpg8R5H0QNGISsoabCVeriR6_RvpRvQkkInUV8-KCBJIlhvooRTkHMNbj4zGW",
-    "news_item_snippet": "Traditional cultural celebrations added a special touch to popular tourism destinations during the just-completed Dragon Boat Festival, the first Chinese&nbsp;...",
-    "news_item_url": "https://www.chinadaily.com.cn/a/202406/10/WS6666eeada31082fc043cbb52.html",
+    "news_item_snippet": "Dragon boat races are gaining momentum across the world during the celebration of the Dragon Boat Festival. The dragon boats embody not only the rich&nbsp;...",
+    "news_item_url": "https://www.globaltimes.cn/page/202406/1313859.shtml",
     "picture_source": "USA TODAY",
     "approx_traffic": "500,000+"
   },
   {
     "country": "Australia",
     "title": "NBA",
-    "pubDate": "Mon, 10 Jun 2024 12:00:00 +1000",
+    "pubDate": "Mon, 10 Jun 2024 13:00:00 +1000",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTAGOm60ISsfIyJMJObvRMDv_UnNqqHm_zM5TKUYgHgE5DCZbLd7KkQNqs9Ji7kc3TsvcWikkKt",
     "news_item_snippet": "Sunday&#39;s Game 2 averaged 12063000 viewers, peaking with 14106000 viewers at 10 ET. That&#39;s up 10% from Game 1.",
     "news_item_url": "https://www.nba.com/news/2024-nba-finals-game-2-most-watched-5-years-abc",
@@ -253,21 +263,11 @@
     "country": "Brazil",
     "title": "Sport",
     "pubDate": "Mon, 10 Jun 2024 17:00:00 -0500",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTBYY9xia6E_dOewX4iOUMeUtRyCnozaxSthjAIzr2Voqmk9KQi_4AvK0ubH8l2_vjUd2hTeffT",
-    "news_item_snippet": "Tem Le\u00e3o em a\u00e7\u00e3o nesta segunda-feira (10). E lugar de rubro-negro \u00e9 na Arena de Pernambuco. A partir das 21h30, o Sport encara o Paysandu, pela nona rodada&nbsp;...",
-    "news_item_url": "https://sportrecife.com.br/futebol/sport-x-paysandu-duelo-importante-para-seguir-na-luta-pelo-g4/",
-    "picture_source": "globoesporte.com",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTTXPHGbduH7YrzD4Co_urU88XyRQBwfGqzO_wHb5Ldk02KD_E1n1dTc02AQt_CFOvIyNuSyqOx",
+    "news_item_snippet": "O Sport encerrou a s\u00e9rie negativa de tr\u00eas derrotas consecutivas na S\u00e9rie B do Campeonato Brasileiro. Nesta segunda-feira, pela nona rodada,&nbsp;...",
+    "news_item_url": "https://www.uol.com.br/esporte/ultimas-noticias/agencia/2024/06/10/sport-quebra-sequencia-negativa-com-vitoria-sobre-paysandu-e-encosta-no-g-4-da-serie-b.htm",
+    "picture_source": "Sport Club do Recife",
     "approx_traffic": "100,000+"
-  },
-  {
-    "country": "Brazil",
-    "title": "Peeling de fenol",
-    "pubDate": "Mon, 10 Jun 2024 07:00:00 -0500",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRoEd3HYcFv24Sw70AVq8yUrinjeDXv1Xpw1cFceDb5iZfKRabGcfdHr4G7I4JuDZabfPd4MiX5",
-    "news_item_snippet": "Natalia Becker, como \u00e9 conhecida nas redes sociais, \u00e9 dona da cl\u00ednica onde um jovem morreu ap\u00f3s procedimento de peeling de fenol realizado por ela em S\u00e3o&nbsp;...",
-    "news_item_url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2024/06/10/influencer-morte-jovem-curso-sp.htm",
-    "picture_source": "CNN Brasil",
-    "approx_traffic": "50,000+"
   },
   {
     "country": "Canada",
@@ -280,13 +280,13 @@
     "approx_traffic": "50,000+"
   },
   {
-    "country": "Saudi Arabia",
-    "title": "\u062d\u0633\u0627\u0628 \u0627\u0644\u0645\u0648\u0627\u0637\u0646",
-    "pubDate": "Mon, 10 Jun 2024 01:00:00 +0300",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcShpU7BXyCCH7U2zauv7La5z-QVN68ENLPo8KrTXfgWZDCmnzLi4jKK2Md1GnHr4YqW9oaRYp3Q",
-    "news_item_snippet": "\u0623\u0648\u062f\u0639 \u0627\u0644\u064a\u0648\u0645 \u0627\u0644\u0627\u062b\u0646\u064a\u0646 \u0628\u0631\u0646\u0627\u0645\u062c \u062d\u0633\u0627\u0628 \u0627\u0644\u0645\u0648\u0627\u0637\u0646 3.4 \u0645\u0644\u064a\u0627\u0631 \u0631\u064a\u0627\u0644 \u0645\u062e\u0635\u0635 \u062f\u0639\u0645 \u0634\u0647\u0631 \u064a\u0648\u0646\u064a\u0648 \u0644\u0644\u0645\u0633\u062a\u0641\u064a\u062f\u064a\u0646 \u0627\u0644\u0645\u0643\u062a\u0645\u0644\u0629 \u0637\u0644\u0628\u0627\u062a\u0647\u0645\u060c \u062d\u064a\u062b \u0628\u0644\u063a \u0639\u062f\u062f \u0627\u0644\u0645\u0633\u062a\u0641\u064a\u062f\u064a\u0646 \u0627\u0644\u0645\u0633\u062a\u0648\u0641\u064a\u0646 \u0644\u0645\u0639\u0627\u064a\u064a\u0631 \u0627\u0644\u0627\u0633\u062a\u062d\u0642\u0627\u0642 \u0641\u064a&nbsp;...",
-    "news_item_url": "https://maaal.com/archives/202406/%D8%AD%D8%B3%D8%A7%D8%A8-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%B7%D9%86-3-4-%D9%85%D9%84%D9%8A%D8%A7%D8%B1-%D8%B1%D9%8A%D8%A7%D9%84-%D9%84%D9%85%D8%B3%D8%AA%D9%81%D9%8A%D8%AF%D9%8A-%D8%AF%D9%81%D8%B9-5/",
-    "picture_source": "\u0627\u0644\u0639\u0631\u0628\u064a\u0629",
+    "country": "Canada",
+    "title": "Oilers Game",
+    "pubDate": "Mon, 10 Jun 2024 23:00:00 -0400",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTO6QpcrCjyZvN2RouEuBV_lJF0Xif479ut0hzpezQ6w3Ch8ESHL1inM9KyrvezYpd67JyxbHSG",
+    "news_item_snippet": "Ekholm scores for Edmonton but Rodrigues tallies twice for Florida and Bobrovsky makes 18 saves to give the Eastern Conference champions a 2-0 series lead&nbsp;...",
+    "news_item_url": "https://www.nhl.com/oilers/news/game-recap-panthers-4-oilers-1-game-2-06-10-24",
+    "picture_source": "Edmonton Journal",
     "approx_traffic": "50,000+"
   },
   {
@@ -301,16 +301,6 @@
   },
   {
     "country": "France",
-    "title": "Laurent Berger",
-    "pubDate": "Mon, 10 Jun 2024 21:00:00 +0200",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTC9uvvmpMyWocsuTSk5nNgGaWGW9qy8BEFU3fYlTcfWUeGBDwC79639anri8hFH_pmWVuyzmqB",
-    "news_item_snippet": "Rapha\u00ebl Glucksmann, qui a obtenu 13,8% aux europ\u00e9ennes pour le Parti socialiste et Place publique, a propos\u00e9, au journal de 20H de France 2,&nbsp;...",
-    "news_item_url": "https://www.europe1.fr/politique/raphael-glucksmann-propose-laurent-berger-pour-le-poste-de-premier-ministre-4252045",
-    "picture_source": "L'Opinion",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "France",
     "title": "Actualit\u00e9s",
     "pubDate": "Mon, 10 Jun 2024 10:00:00 +0200",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRjeOu5pUdmbKH5OdctqtgevnmZZbNRnfg6Am_aD1jJ_I8sEwUedsHdWl2JVs9svDscLAL3yt1o",
@@ -318,6 +308,16 @@
     "news_item_url": "https://www.actuabd.com/+Les-actualites-immanquables-de-la-bande-dessinee-du-10-juin-2024+",
     "picture_source": "Actua BD",
     "approx_traffic": "100,000+"
+  },
+  {
+    "country": "France",
+    "title": "Inscription liste \u00e9lectorale 30 juin",
+    "pubDate": "Mon, 10 Jun 2024 10:00:00 +0200",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRe8BDz8CQp-rT5tVlAYQyfk_dmkZQgsKdoBMvYdNZ5I2ZhQ4o1gh2yEtngu4iAnEI7_neh3k75",
+    "news_item_snippet": "\u00c9lections l\u00e9gislatives anticip\u00e9es : peut-on encore s&#39;inscrire sur les listes \u00e9lectorales pour le scrutin du 30 juin ? &middot; Comment v\u00e9rifier mon inscription sur la&nbsp;...",
+    "news_item_url": "https://www.sudouest.fr/elections/legislatives/elections-legislatives-anticipees-peut-on-encore-s-inscrire-sur-les-listes-electorales-pour-le-scrutin-du-30-juin-20078023.php",
+    "picture_source": "France 3 R\u00e9gions",
+    "approx_traffic": "50,000+"
   },
   {
     "country": "France",
@@ -344,8 +344,8 @@
     "title": "Apple",
     "pubDate": "Mon, 10 Jun 2024 10:00:00 +0200",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQmqKNj6_DyLXf-nVg3Gclv82k4Ps8erLiUFux9gkoXdvHW8w4rNWlTsBdvV9kq8gYrWiGIqtJZ",
-    "news_item_snippet": "Zum Auftakt der WWDC 2024 hat Apple bei seiner Keynote alle Neuheiten rund um iOS 18, watchOS 11, macOS 15 und mehr vorgestellt. Im Mittelpunkt standen vor&nbsp;...",
-    "news_item_url": "https://www.connect.de/news/wwdc-2024-apple-event-live-ticker-ios-18-macos-tvos-watchos-3205766.html",
+    "news_item_snippet": "Fast w\u00e4re der Taschenrechner auf dem iPad die beste Nachricht des Abends geworden, doch zum Gl\u00fcck hat Apple noch etwas anderes dabei: ...",
+    "news_item_url": "https://t3n.de/news/wwdc-2024-analyse-1629390/",
     "picture_source": "Golem.de",
     "approx_traffic": "100,000+"
   },
@@ -361,6 +361,16 @@
   },
   {
     "country": "Germany",
+    "title": "Europawahl",
+    "pubDate": "Sun, 09 Jun 2024 08:00:00 +0200",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQjMUMNbtta-ZwjlTv1zGmQz1eRnxjpqJ_t8yp8tLiE3crIHlBkVNyywAgarzHltkMyyYAtN1nq",
+    "news_item_snippet": "Alle Wahlergebnisse zur Europawahl auf Basis von Prognose, Hochrechnungen und Ausz\u00e4hlungen nach Alter, Geschlecht, Bildung, T\u00e4tigkeit und Lebensstandard.",
+    "news_item_url": "https://www.rbb24.de/politik/wahl/Europawahl/2024/europawahl-alter-geschlecht-bildung-taetigkeit-berlin-brandenburg.html",
+    "picture_source": "rbb24",
+    "approx_traffic": "500,000+"
+  },
+  {
+    "country": "Germany",
     "title": "Hochrechnung Europawahl",
     "pubDate": "Sun, 09 Jun 2024 08:00:00 +0200",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcS3IkgfSyDONu4TZ6_HuRW2qvVuyuSNMLHoaI8Ei_OJJR024e5uzEHfJx6_KPCt0-SYJqTko6xa",
@@ -368,16 +378,6 @@
     "news_item_url": "https://www.rbb24.de/politik/wahl/Europawahl/2024/berlin-brandenburg-ergebnisse-wahlbeteiligung-eu-parlament-prognose-hochrechnungen.html",
     "picture_source": "hessenschau.de",
     "approx_traffic": "500,000+"
-  },
-  {
-    "country": "Germany",
-    "title": "Europawahl",
-    "pubDate": "Sun, 09 Jun 2024 08:00:00 +0200",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQjMUMNbtta-ZwjlTv1zGmQz1eRnxjpqJ_t8yp8tLiE3crIHlBkVNyywAgarzHltkMyyYAtN1nq",
-    "news_item_snippet": "Alle Wahlergebnisse zur Europawahl auf Basis von Prognose, Hochrechnungen und Ausz\u00e4hlungen nach Alter, Geschlecht, Bildung, T\u00e4tigkeit und Lebensstandard.",
-    "news_item_url": "https://www.rbb24.de/politik/wahl/Europawahl/2024/europawahl-alter-geschlecht-bildung-taetigkeit-berlin-brandenburg.html",
-    "picture_source": "rbb24",
-    "approx_traffic": "200,000+"
   },
   {
     "country": "Germany",
@@ -397,13 +397,13 @@
     "news_item_snippet": "Alexander Zverev verpasste zum zweiten Mal einen gro\u00dfen Titel. Der Hamburger Tennis-Star scheitert nicht nur an einem gro\u00dfen Gegner.",
     "news_item_url": "https://www.waz.de/sport/article242543242/Alexander-Zverev-Ganze-Generation-bedroht-Grand-Slam-Traum.html",
     "picture_source": "NDR.de",
-    "approx_traffic": "200,000+"
+    "approx_traffic": "100,000+"
   },
   {
     "country": "Germany",
     "title": "Volt",
     "pubDate": "Sun, 09 Jun 2024 10:00:00 +0200",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRzJz9yVtEIF1mD7Xnmi8b0pe3YNBCQSsfQGYbOBzlydURCJfNuIzh17DBYIHRzINIDtjtVpcOA",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTJEfOuX-BI0h1pHKV77v3l8hH30R_bCJJVy1Z0IEnR1rCKWpM3sWOfX7Ac1eV2JtUW0sykLrqw",
     "news_item_snippet": "Bei der Europawahl erzielt Volt 2,5 Prozent der Stimmen und sichert sich zwei Mandate. Besonders bei jungen W\u00e4hlern punktet die Partei.",
     "news_item_url": "https://www.schwarzwaelder-bote.de/inhalt.europawahl-jung-und-fuer-europa-das-steckt-hinter-volt.8aea151b-efa9-44e9-b351-c0acebd3cfe8.html",
     "picture_source": "BNN - Badische Neueste Nachrichten",
@@ -451,13 +451,13 @@
   },
   {
     "country": "Italy",
-    "title": "Ilaria Salis",
+    "title": "Salis",
     "pubDate": "Mon, 10 Jun 2024 00:00:00 +0200",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSjl6zrh2Clv0iq-9Jvjw9Tjtow6otCdbwlFHa3gHOtNPBpSPLKdmckR17I56xB0Lh3gCYIkxrZ",
-    "news_item_snippet": "Dovrebbe essere eletta al Parlamento Europeo con Alleanza Verdi e Sinistra, e ottenere quindi l&#39;immunit\u00e0: ma in caso ci vorr\u00e0 un po&#39;",
-    "news_item_url": "https://www.ilpost.it/2024/06/10/ilaria-salis-europarlamentare-immunita/",
-    "picture_source": "Rai News",
-    "approx_traffic": "200,000+"
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSq7GcKCxT-D-qVsF4vS3rdBGSb5H8EIoG2ikJO0qngEoF4SDsGVgbDNeEMwOAsQ_LjW0xD6DCs",
+    "news_item_snippet": "L&#39;alleanza Bonelli-Fratoianni al 6,7%. Sia Renzi che Calenda non superano lo sbarramento.",
+    "news_item_url": "https://www.ilsole24ore.com/art/avs-porta-ilaria-salis-parlamento-europeo-centristi-restano-fuori-AGXLPhU",
+    "picture_source": "Il Post",
+    "approx_traffic": "100,000+"
   },
   {
     "country": "Italy",
@@ -478,6 +478,16 @@
     "news_item_url": "https://www.gazzetta.it/attualita/10-06-2024/elezioni-regionali-in-piemonte-2024-cirio-rieletto-tutti-i-dati.shtml",
     "picture_source": "Sky Tg24",
     "approx_traffic": "100,000+"
+  },
+  {
+    "country": "Italy",
+    "title": "Elezioni Lecce",
+    "pubDate": "Mon, 10 Jun 2024 08:00:00 +0200",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSYfFiOaiLMiQ-kj767fzlDKH7pm_IC5dRkpZxyfXjjhVZVtrN509Vzvchl5qFdrqSjkCgbBOEf",
+    "news_item_snippet": "Quando sono state scrutinate 31 sezioni su 102, Adriana Poli Bortone, candidato del centrodestra, \u00e8 avanti col 50,3% dei voti, seguito da Carlo Maria Salvemini,&nbsp;...",
+    "news_item_url": "https://tg24.sky.it/politica/2024/06/10/risultati-elezioni-comunali-lecce",
+    "picture_source": "Leccenews24",
+    "approx_traffic": "50,000+"
   },
   {
     "country": "Italy",
@@ -514,8 +524,8 @@
     "title": "Pato Levy",
     "pubDate": "Mon, 10 Jun 2024 12:00:00 -0600",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQLA4T_BMZ_6nQnEAt_KyPg3pWl3E-B_jSoEZ0rpl0cAIv-KpjWVmYiPHmPYb2j_Ks72lECi2Jn",
-    "news_item_snippet": "El productor muri\u00f3 unas semanas antes del primer aniversario luctuoso de su mam\u00e1, la &#39;Dama del buen decir&#39;",
-    "news_item_url": "https://www.infobae.com/mexico/2024/06/10/de-que-murio-pato-levy-hijo-de-talina-fernandez/",
+    "news_item_snippet": "Indic\u00f3 que fue la novia de Pato, que se encontraba dormida junto a \u00e9l, quien se percat\u00f3 de que ya no ten\u00eda signos vitales.",
+    "news_item_url": "https://www.uniradiosonora.com/fama/su-hermano-tuvo-la-muerte-justos-dice-coco-levy-n752539",
     "picture_source": "El Financiero",
     "approx_traffic": "50,000+"
   },
@@ -548,16 +558,6 @@
     "news_item_url": "https://www.sport.es/es/noticias/futbol-internacional/argentina-sonrie-reaparicion-leo-messi-103574607",
     "picture_source": "Mundo Deportivo",
     "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United Kingdom",
-    "title": "Manga",
-    "pubDate": "Mon, 10 Jun 2024 06:00:00 +0100",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRzX8nqZNlpm51zMBohID5e3g6dkDWDzKZg5zT_U6td9McK05o7CtUplZoDrvRXa_g6vhjyvmS5",
-    "news_item_snippet": "Target&#39;s massive B1G1 50% off promotion includes a staggering number of popular novel series, comic book omnibuses, and manga collections.",
-    "news_item_url": "https://www.gamespot.com/articles/target-book-sale-june-2024-buy-one-get-one-50-percent-off/1100-6524101/",
-    "picture_source": "Polygon",
-    "approx_traffic": "100,000+"
   },
   {
     "country": "United Kingdom",
