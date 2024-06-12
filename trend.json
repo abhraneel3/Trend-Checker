@@ -4,7 +4,7 @@
     "title": "Apple",
     "pubDate": "Mon, 10 Jun 2024 10:00:00 -0700",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRQzqt34Zmf-DzugGUh0CJ0Rz4zYd38QHCEkZUCIgFpEDbVgCNdmX61uh6wxsACleF7imJ3wiTV",
-    "news_item_snippet": "MacBook Pro, iPad Pro, and iPhone 15 Pro show new Apple Intelligence features. Apple Intelligence \u2014 the personal intelligence system for iPhone, iPad, and Mac \u2014&nbsp;...",
+    "news_item_snippet": "Apple Intelligence is deeply integrated into iOS 18, iPadOS 18, and macOS Sequoia. It harnesses the power of Apple silicon to understand and create language and&nbsp;...",
     "news_item_url": "https://www.apple.com/newsroom/2024/06/introducing-apple-intelligence-for-iphone-ipad-and-mac/",
     "picture_source": "Apple Newsroom",
     "approx_traffic": "200,000+"
@@ -164,7 +164,7 @@
     "title": "iOS 18 release date",
     "pubDate": "Mon, 10 Jun 2024 02:30:00 +0530",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRQzqt34Zmf-DzugGUh0CJ0Rz4zYd38QHCEkZUCIgFpEDbVgCNdmX61uh6wxsACleF7imJ3wiTV",
-    "news_item_snippet": "According to Apple, iOS 18 will be available this fall as a free software update for iPhone Xs and later. It includes a slew of new features and enhancements,&nbsp;...",
+    "news_item_snippet": "Here&#39;s an overview of what&#39;s new in iOS 18, the next generation of Apple&#39;s operating system that powers iPhone smartphones.",
     "news_item_url": "https://variety.com/2024/digital/news/ios-18-whats-new-apple-iphone-release-1236033603/",
     "picture_source": "Apple Newsroom",
     "approx_traffic": "50,000+"
@@ -244,7 +244,7 @@
     "title": "Apple",
     "pubDate": "Mon, 10 Jun 2024 11:00:00 -0400",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRQzqt34Zmf-DzugGUh0CJ0Rz4zYd38QHCEkZUCIgFpEDbVgCNdmX61uh6wxsACleF7imJ3wiTV",
-    "news_item_snippet": "MacBook Pro, iPad Pro, and iPhone 15 Pro show new Apple Intelligence features. Apple Intelligence \u2014 the personal intelligence system for iPhone, iPad, and Mac \u2014&nbsp;...",
+    "news_item_snippet": "Apple Intelligence is deeply integrated into iOS 18, iPadOS 18, and macOS Sequoia. It harnesses the power of Apple silicon to understand and create language and&nbsp;...",
     "news_item_url": "https://www.apple.com/newsroom/2024/06/introducing-apple-intelligence-for-iphone-ipad-and-mac/",
     "picture_source": "Apple Newsroom",
     "approx_traffic": "50,000+"
@@ -302,7 +302,7 @@
   {
     "country": "France",
     "title": "Dissolution Assembl\u00e9e nationale",
-    "pubDate": "Sun, 09 Jun 2024 13:00:00 +0200",
+    "pubDate": "Sun, 09 Jun 2024 12:00:00 +0200",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQy9bBeCnGR9uIfEE_BAit5KSwt9tVsmW-NFArpIB_TdqiRhSsIBTZc1MRHB4ALOSWjfFcqKiQd",
     "news_item_snippet": "La dissolution de l&#39;Assembl\u00e9e nationale annonc\u00e9e par le pr\u00e9sident de la R\u00e9publique le 9 juin 2024 entraine l&#39;interruption de tous les travaux l\u00e9gislatifs en&nbsp;...",
     "news_item_url": "https://www.vie-publique.fr/en-bref/294560-dissolution-de-lassemblee-nationale-et-le-travail-parlementaire",
@@ -321,6 +321,16 @@
   },
   {
     "country": "France",
+    "title": "PPE",
+    "pubDate": "Sun, 09 Jun 2024 19:00:00 +0200",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTWdi6ticv4tgO2qrC63vg24W7wmk-9NU6SAbhwRJbOG4ivKmi2Z5nHRjuE88m9PbWinQrOmcTb",
+    "news_item_snippet": "\u00c0 l&#39;origine, la troisi\u00e8me Programmation pluriannuelle de l&#39;\u00e9nergie (PPE), comprenant les objectifs de puissance et de production pour les fili\u00e8res&nbsp;...",
+    "news_item_url": "https://www.interentreprises.com/ppe-2/",
+    "picture_source": "CRE",
+    "approx_traffic": "500,000+"
+  },
+  {
+    "country": "France",
     "title": "R\u00e9sultats des \u00e9lections \u00e0 Union europ\u00e9enne",
     "pubDate": "Sun, 09 Jun 2024 07:00:00 +0200",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRHtMC5V4xkbsDP9wxf-iJRjQnBCzYs-P_BlYnVru8Grvp6EmMnM3wYo6bE8rQ2Hj3RcExjzBs2",
@@ -328,16 +338,6 @@
     "news_item_url": "https://www.francetvinfo.fr/elections/carte-resultats-des-elections-europeennes-2024-quelle-liste-est-arrivee-en-tete-dans-chaque-pays-de-l-ue_6595302.html",
     "picture_source": "Touteleurope.eu",
     "approx_traffic": "200,000+"
-  },
-  {
-    "country": "France",
-    "title": "LFI",
-    "pubDate": "Sun, 09 Jun 2024 12:00:00 +0200",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcR-pMV6VMLlKnzljCuAtlm6DtCd6dnG3uKfuAy89al48BHBKLySNvimSquqAaR8TJXUlyFNe3k5",
-    "news_item_snippet": "Les Insoumis sont \u00e0 la recherche du candidat id\u00e9al pour unir la gauche, convaincre les \u00e9lecteurs de Dreux et Vernouillet et prendre la place du d\u00e9put\u00e9 LR,&nbsp;...",
-    "news_item_url": "https://www.lechorepublicain.fr/dreux-28100/actualites/legislatives-apres-la-dissolution-lfi-cherche-a-transformer-le-score-de-manon-aubry-en-victoire_14515549/",
-    "picture_source": "Echo R\u00e9publicain",
-    "approx_traffic": "100,000+"
   },
   {
     "country": "Germany",
@@ -371,22 +371,22 @@
   },
   {
     "country": "Germany",
+    "title": "Hochrechnung Europawahl",
+    "pubDate": "Sun, 09 Jun 2024 08:00:00 +0200",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcS3IkgfSyDONu4TZ6_HuRW2qvVuyuSNMLHoaI8Ei_OJJR024e5uzEHfJx6_KPCt0-SYJqTko6xa",
+    "news_item_snippet": "Bei der Europawahl erreichen CDU/CSU nach Ausz\u00e4hlung aller Stimmen \u00fcber 30 Prozent in Deutschland. Die AfD liegt insgesamt auf Platz zwei vor SPD und Gr\u00fcnen&nbsp;...",
+    "news_item_url": "https://www.rbb24.de/politik/wahl/Europawahl/2024/berlin-brandenburg-ergebnisse-wahlbeteiligung-eu-parlament-prognose-hochrechnungen.html",
+    "picture_source": "hessenschau.de",
+    "approx_traffic": "500,000+"
+  },
+  {
+    "country": "Germany",
     "title": "AfD",
     "pubDate": "Sun, 09 Jun 2024 13:00:00 +0200",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcS7Zqj8W0753_hN413F9WbS2rxgZfRKxYhqEVt7Whbj5S7EWFijj3uCPIdQtDrH9XDWCRJNohXh",
     "news_item_snippet": "In der Heimat des rechtsextremen Vereins &quot;Zukunft Heimat&quot; Gol\u00dfen ist die AfD normalerweise stark. Doch bei der B\u00fcrgermeisterwahl scheiterte der&nbsp;...",
     "news_item_url": "https://www.rbb24.de/politik/wahl/kommunalwahlen/2024/buergermeister-wahl-golssen-stichwahl-afd-kandidaten.html",
     "picture_source": "rbb24",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "Germany",
-    "title": "Europawahl Hochrechnung",
-    "pubDate": "Sun, 09 Jun 2024 08:00:00 +0200",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcS3IkgfSyDONu4TZ6_HuRW2qvVuyuSNMLHoaI8Ei_OJJR024e5uzEHfJx6_KPCt0-SYJqTko6xa",
-    "news_item_snippet": "Bei der Europawahl erreichen CDU/CSU nach Ausz\u00e4hlung aller Stimmen \u00fcber 30 Prozent in Deutschland. Die AfD liegt insgesamt auf Platz zwei vor SPD und Gr\u00fcnen&nbsp;...",
-    "news_item_url": "https://www.rbb24.de/politik/wahl/Europawahl/2024/berlin-brandenburg-ergebnisse-wahlbeteiligung-eu-parlament-prognose-hochrechnungen.html",
-    "picture_source": "hessenschau.de",
     "approx_traffic": "200,000+"
   },
   {
@@ -444,7 +444,7 @@
     "title": "Kommunalwahlen 2024",
     "pubDate": "Sun, 09 Jun 2024 10:00:00 +0200",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSy549TKCA0Ct2krgm1_EzU8ucSDfCnATNiPoGoCCR1dVfL3kOvpUpHgkvvYAnKwTe0nQWaEUzW",
-    "news_item_snippet": "Deutliche Verschiebungen gibt es in der Durmersheimer Kommunalpolitik. Die CDU hat bei der Kommunalwahl 2024 mit sechs Sitzen (29 Prozent) zwar nicht&nbsp;...",
+    "news_item_snippet": "Kommunalwahl am 9. Juni 2024: Aktuelle Ergebnisse, Informationen, Hintergr\u00fcnde und gew\u00e4hlte Kandidaten aus Durmersheim - BNN.",
     "news_item_url": "https://bnn.de/mittelbaden/rastatt/durmersheim/kommunalwahl-durmersheim-2024-ergebnisse",
     "picture_source": "BNN - Badische Neueste Nachrichten",
     "approx_traffic": "50,000+"
