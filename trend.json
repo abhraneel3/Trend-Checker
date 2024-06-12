@@ -302,7 +302,7 @@
   {
     "country": "France",
     "title": "Dissolution Assembl\u00e9e nationale",
-    "pubDate": "Sun, 09 Jun 2024 12:00:00 +0200",
+    "pubDate": "Sun, 09 Jun 2024 13:00:00 +0200",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQy9bBeCnGR9uIfEE_BAit5KSwt9tVsmW-NFArpIB_TdqiRhSsIBTZc1MRHB4ALOSWjfFcqKiQd",
     "news_item_snippet": "La dissolution de l&#39;Assembl\u00e9e nationale annonc\u00e9e par le pr\u00e9sident de la R\u00e9publique le 9 juin 2024 entraine l&#39;interruption de tous les travaux l\u00e9gislatifs en&nbsp;...",
     "news_item_url": "https://www.vie-publique.fr/en-bref/294560-dissolution-de-lassemblee-nationale-et-le-travail-parlementaire",
@@ -321,16 +321,6 @@
   },
   {
     "country": "France",
-    "title": "PPE",
-    "pubDate": "Sun, 09 Jun 2024 19:00:00 +0200",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTWdi6ticv4tgO2qrC63vg24W7wmk-9NU6SAbhwRJbOG4ivKmi2Z5nHRjuE88m9PbWinQrOmcTb",
-    "news_item_snippet": "\u00c0 l&#39;origine, la troisi\u00e8me Programmation pluriannuelle de l&#39;\u00e9nergie (PPE), comprenant les objectifs de puissance et de production pour les fili\u00e8res&nbsp;...",
-    "news_item_url": "https://www.interentreprises.com/ppe-2/",
-    "picture_source": "CRE",
-    "approx_traffic": "500,000+"
-  },
-  {
-    "country": "France",
     "title": "R\u00e9sultats des \u00e9lections \u00e0 Union europ\u00e9enne",
     "pubDate": "Sun, 09 Jun 2024 07:00:00 +0200",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRHtMC5V4xkbsDP9wxf-iJRjQnBCzYs-P_BlYnVru8Grvp6EmMnM3wYo6bE8rQ2Hj3RcExjzBs2",
@@ -338,6 +328,16 @@
     "news_item_url": "https://www.francetvinfo.fr/elections/carte-resultats-des-elections-europeennes-2024-quelle-liste-est-arrivee-en-tete-dans-chaque-pays-de-l-ue_6595302.html",
     "picture_source": "Touteleurope.eu",
     "approx_traffic": "200,000+"
+  },
+  {
+    "country": "France",
+    "title": "LFI",
+    "pubDate": "Sun, 09 Jun 2024 12:00:00 +0200",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcR-pMV6VMLlKnzljCuAtlm6DtCd6dnG3uKfuAy89al48BHBKLySNvimSquqAaR8TJXUlyFNe3k5",
+    "news_item_snippet": "Les Insoumis sont \u00e0 la recherche du candidat id\u00e9al pour unir la gauche, convaincre les \u00e9lecteurs de Dreux et Vernouillet et prendre la place du d\u00e9put\u00e9 LR,&nbsp;...",
+    "news_item_url": "https://www.lechorepublicain.fr/dreux-28100/actualites/legislatives-apres-la-dissolution-lfi-cherche-a-transformer-le-score-de-manon-aubry-en-victoire_14515549/",
+    "picture_source": "Echo R\u00e9publicain",
+    "approx_traffic": "100,000+"
   },
   {
     "country": "Germany",
@@ -404,7 +404,7 @@
     "title": "AfD Europawahl 2024",
     "pubDate": "Sun, 09 Jun 2024 08:00:00 +0200",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRvMb-3cfhd3ndIEFGS6apVN55R5080Jrp0iMy96z0-n1fSnTYUU-MFRG2l0XPanOBPfpu8lTaG",
-    "news_item_snippet": "Am Sonntag konnten W\u00e4hler bis 18 Uhr ihre Stimme f\u00fcr ein neues EU-Parlament abgeben. Jetzt wird ausgez\u00e4hlt: Mit unserem Ticker bleiben Sie informiert \u00fcber&nbsp;...",
+    "news_item_snippet": "Wie bereits bei der vergangenen Bundestags- und Landtagswahl ist das Interesse an der Briefwahl bei der <b>Europawahl 2024</b> hoch. Die Stadt Frankfurt teilte mit, bis zum 22. Mai seien rund 101.000 Briefwahl-Antr\u00e4ge eingegangen. Haben Sie die Briefwahl&nbsp;...",
     "news_item_url": "https://www.hessenschau.de/politik/europawahl/europawahl-2024-und-wahlen-in-hessen-im-ticker--gruene-abgestraft-afd-und-bsw-mit-starken-zuwaechsen,europawahl-2024-ticker-100.html",
     "picture_source": "rbb24",
     "approx_traffic": "50,000+"
