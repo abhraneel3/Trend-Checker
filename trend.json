@@ -1,16 +1,6 @@
 [
   {
     "country": "United States",
-    "title": "NBA",
-    "pubDate": "Thu, 13 Jun 2024 03:00:00 -0700",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRjVbecjHfYvcq_otdVsva2Qe4kEr232AKHt21PD4KPKDKw4O6y_ok_y-pJIP4VlharRvbMAnkF",
-    "news_item_snippet": "The greats of lacrosse and basketball employ similar approaches to their craft. It has been said that the National Lacrosse League \u201clooks like the NHL and.",
-    "news_item_url": "https://www.nll.com/news/looks-like-the-nhl-plays-like-the-nba/",
-    "picture_source": "USA TODAY",
-    "approx_traffic": "1,000,000+"
-  },
-  {
-    "country": "United States",
     "title": "Jerry West",
     "pubDate": "Thu, 13 Jun 2024 03:00:00 -0700",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQxeMpIpRmT7RIOdE_AmNqE9AnMi6P3rKlh1WJr_Cgk7CVVE3cS7JJMRjhwRpzImDQvlUupQtue",
@@ -21,12 +11,22 @@
   },
   {
     "country": "United States",
+    "title": "NBA",
+    "pubDate": "Thu, 13 Jun 2024 03:00:00 -0700",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRvwan9uOlvvBKbK7q1ZYfrxsTFtDgyut6pNOC2l2Y82O_tDiFmv-ii63Q_Aixh6MCKoIIQ2o7u",
+    "news_item_snippet": "The greats of lacrosse and basketball employ similar approaches to their craft. It has been said that the National Lacrosse League \u201clooks like the NHL and.",
+    "news_item_url": "https://www.nll.com/news/looks-like-the-nhl-plays-like-the-nba/",
+    "picture_source": "National Lacrosse League",
+    "approx_traffic": "500,000+"
+  },
+  {
+    "country": "United States",
     "title": "Celtics",
     "pubDate": "Thu, 13 Jun 2024 03:00:00 -0700",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSqeYLdsuUoQw5Eywt6WrBFWbWb7AbRcA63A2E-b0oHS-I7bhRodXSvTUY8VzzyonJnacZowOOd",
-    "news_item_snippet": "The Celtics halted a furious Mavericks rally Wednesday night to take a 3-0 lead in the NBA Finals and move one win away from a record 18th championship.",
-    "news_item_url": "https://www.espn.com.au/nba/story/_/id/40338942/celtics-beat-mavs-game-3-finals-move-one-win-title",
-    "picture_source": "ESPN Deportes",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSxtEFuPcY3Evqf05gQ0benQ0iwQ9SVCfGCPeFalENi6_W51dhmaeyVt3QxpV4yALf5dwZbjqvf",
+    "news_item_snippet": "Luka Doncic y Kyrie Irving fueron alguna vez Jayson Tatum y Jaylen Brown: no se trata de las figuras, sino del resto de las piezas que conforman una&nbsp;...",
+    "news_item_url": "https://espndeportes.espn.com/basquetbol/nota/_/id/13778408/superman-murio-rato-celtics-paso-del-titulo-nba-por-jugar-equipo-no-por-estrellas-mavericks",
+    "picture_source": "The Patriot Ledger",
     "approx_traffic": "500,000+"
   },
   {
@@ -41,7 +41,7 @@
   },
   {
     "country": "United States",
-    "title": "Bridgerton season 3 Part 2",
+    "title": "Bridgerton Season 3 part 2",
     "pubDate": "Thu, 13 Jun 2024 03:00:00 -0700",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSjuXeSTiuR7ooz0Zkio1dcirzjPF4OVxitJ5UgS2EYcSl83dUVUcnY--JdrOFQ34cWQxCIIPt-",
     "news_item_snippet": "Bridgerton Season 3 Part 2 brings the story of Penelope and Colin to a surprising, steamy and supremely satisfying conclusion.",
@@ -51,22 +51,52 @@
   },
   {
     "country": "United States",
+    "title": "Boston Celtics",
+    "pubDate": "Thu, 13 Jun 2024 03:00:00 -0700",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSxtEFuPcY3Evqf05gQ0benQ0iwQ9SVCfGCPeFalENi6_W51dhmaeyVt3QxpV4yALf5dwZbjqvf",
+    "news_item_snippet": "The Boston Celtics are on the brink of winning their 18th championship in history. Here&#39;s a look at some past championship rolling rallies in Boston.",
+    "news_item_url": "https://www.patriotledger.com/story/sports/nba/2024/06/13/celtics-parade-in-boston-prediction-if-they-win-nba-finals-championship/74084602007/",
+    "picture_source": "The Patriot Ledger",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Mavericks",
+    "pubDate": "Thu, 13 Jun 2024 03:00:00 -0700",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSyoUaYxYBYKzQTQdA2ErHL8J_xBhDr9Tc3-xIPgqas4_TlrhJZv_9Jc80RS5eDLc2Pn2nyZLOi",
+    "news_item_snippet": "Luka Doncic fouled at when the Dallas Mavericks were making a furious comeback attempt in Game 3 of the NBA Finals. With their superstar on the bench for&nbsp;...",
+    "news_item_url": "https://www.keranews.org/sports/2024-06-13/doncic-fouls-out-and-mavericks-fall-into-a-3-0-hole-after-losing-to-celtics-again-in-nba-finals",
+    "picture_source": "ESPN",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Mavs",
+    "pubDate": "Thu, 13 Jun 2024 03:00:00 -0700",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTIPBUNAfb-3LMq-VnhQVTIZvH1U06xoDkJhaNgXWcCtMp6J7Zi6bezoDTAuxNR2T2bpYpwl3Dv",
+    "news_item_snippet": "In today&#39;s edition: Scheffler&#39;s fame catches up to his game, the Mavs are in trouble, tasers in the outfield, ranking MLB&#39;s City Connect jerseys, and more.",
+    "news_item_url": "https://sports.yahoo.com/yahoo-sports-am-the-mavs-are-in-trouble-130932923.html",
+    "picture_source": "Yahoo Sports",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "United States",
     "title": "Pope Francis",
     "pubDate": "Thu, 13 Jun 2024 03:00:00 -0700",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQc-0Irv0DFsLbMGd0xiCu7m2AnIvRMC_Novc2jon17S0Kmq_3mCzVWwGXe4ZgjW4Njh0W1cAHd",
-    "news_item_snippet": "Pope Francis will meet with the leaders of the United States, Ukraine, France and India, among others, on the sidelines of the Group of 7 (G7) summit in&nbsp;...",
-    "news_item_url": "https://www.reuters.com/world/europe/pope-francis-meet-biden-zelenskiy-macron-modi-at-g7-summit-2024-06-13/",
+    "news_item_snippet": "For the first time, the Pope will participate in the G7 summit, held June 13 \u2013 15 in the Italian region of Apulia. He will speak on June 14, during a&nbsp;...",
+    "news_item_url": "https://international.la-croix.com/ethics/for-pope-francis-artificial-intelligence-is-a-social-issue",
     "picture_source": "National Catholic Reporter",
     "approx_traffic": "100,000+"
   },
   {
     "country": "United States",
-    "title": "Beetlejuice",
+    "title": "Presumed Innocent",
     "pubDate": "Thu, 13 Jun 2024 03:00:00 -0700",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRowZgatn2mgIGTpzfblEKePAo2Di36OHO-ZhXmNCOVAWAHs5Eq9R2QwNB3jde4BuTW1hRg1zjq",
-    "news_item_snippet": "It goes without saying that Tim Burton&#39;s cleverly stylized 1988 film, Beetlejuice, has legions of fans. Based on the crowd in the Tennessee Theatre lobby&nbsp;...",
-    "news_item_url": "https://artsknoxville.com/index.php/2024/06/13/review-broadways-beetlejuice-is-a-different-and-brash-wild-ride/",
-    "picture_source": "artsknoxville.com",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTOMLgJuMWdX6yxMAF8jpKjHte2qRd1mvgv0PEYqaDd8zrhvCDXBhju2Tks9owJU9DmX-_oaORSHw",
+    "news_item_snippet": "The twists are plentiful in this eight-part Apple TV+ remake of Scott Turow&#39;s 1987 bestseller, which stars Jake Gyllenhaal as a prosecutor accused of&nbsp;...",
+    "news_item_url": "https://www.iowapublicradio.org/2024-06-13/think-you-know-how-it-ends-david-kelleys-presumed-innocent-will-keep-you-guessing",
+    "picture_source": "NPR",
     "approx_traffic": "50,000+"
   },
   {
@@ -81,16 +111,6 @@
   },
   {
     "country": "United States",
-    "title": "Tom Brady",
-    "pubDate": "Thu, 13 Jun 2024 03:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTyROcO7hv3r7KvDODicr1g4Y1tUGnpdp-Tj8nQGV-jts6S6tblU_G6BgPc-29deuxp9MEdFb81",
-    "news_item_snippet": "And all Brady fans seem to recognize his dedication. Gillette Stadium was filled to the max with fans who wanted to pay tribute to the former quarterback.",
-    "news_item_url": "https://www.patriotledger.com/story/sports/nfl/2024/06/13/tom-brady-new-england-patriots-hall-of-fame-induction-retire-number-12-robert-kraft-bill-belichick/74068225007/",
-    "picture_source": "WBUR",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
     "title": "Tiger Woods",
     "pubDate": "Thu, 13 Jun 2024 07:00:00 -0700",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcR79qw6ZOzMcGw-YAKIMFC0RhpCsLI_hmMRdR-1xw2multjHFcYiGqQXkY-ZI-IRmX53QSC8yaA",
@@ -100,13 +120,23 @@
     "approx_traffic": "50,000+"
   },
   {
+    "country": "United States",
+    "title": "Tom Brady",
+    "pubDate": "Thu, 13 Jun 2024 03:00:00 -0700",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTyROcO7hv3r7KvDODicr1g4Y1tUGnpdp-Tj8nQGV-jts6S6tblU_G6BgPc-29deuxp9MEdFb81",
+    "news_item_snippet": "And all Brady fans seem to recognize his dedication. Gillette Stadium was filled to the max with fans who wanted to pay tribute to the former quarterback.",
+    "news_item_url": "https://www.patriotledger.com/story/sports/nfl/2024/06/13/tom-brady-new-england-patriots-hall-of-fame-induction-retire-number-12-robert-kraft-bill-belichick/74068225007/",
+    "picture_source": "WBUR",
+    "approx_traffic": "50,000+"
+  },
+  {
     "country": "India",
     "title": "Bangladesh vs Netherlands",
-    "pubDate": "Thu, 13 Jun 2024 17:30:00 +0530",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcT-yVRUjXr-NTZv8HXwiVM9HCWlmzLWYstwADWVCChFOoy0EZaGOp5bSoae_eIdS2s24AcvPYFR",
-    "news_item_snippet": "Bangladesh vs Netherlands Live Score, T20 World Cup 2024, BAN vs NED: The Netherlands won the toss and chose to bowl first against Bangladesh at the Arnos&nbsp;...",
-    "news_item_url": "https://www.hindustantimes.com/cricket/bangladesh-vs-netherlands-live-score-icc-mens-t20-world-cup-2024-match-27-ban-vs-ned-t20wc-scorecard-live-today-13-june-101718280835501.html",
-    "picture_source": "Aljazeera.com",
+    "pubDate": "Thu, 13 Jun 2024 15:30:00 +0530",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQlQPtTVgoA6H1Irs-4NTm79osVzotVww_4v3Be6RD0KWcU557zvsecKuaV1SAryKlurBrX7Z2v",
+    "news_item_snippet": "\u092e\u0939\u092e\u0942\u0926\u0941\u0932\u094d\u0932\u093e\u0939 \u0928\u0947 \u0936\u093e\u0928\u0926\u093e\u0930 \u092c\u0932\u094d\u0932\u0947\u092c\u093e\u091c\u0940 \u0915\u0930 \u0930\u0939\u0947 \u0935\u093f\u0915\u094d\u0930\u092e\u091c\u0940\u0924 \u0938\u093f\u0902\u0939 \u0915\u0940 \u092a\u093e\u0930\u0940 \u0915\u093e \u0905\u0902\u0924 \u0915\u0930 \u092c\u093e\u0902\u0917\u094d\u0932\u093e\u0926\u0947\u0936 \u0915\u094b \u0924\u0940\u0938\u0930\u0940 \u0938\u092b\u0932\u0924\u093e \u0926\u093f\u0932\u093e\u0908\u0964 \u0935\u093f\u0915\u094d\u0930\u092e\u091c\u0940\u0924 16 \u0917\u0947\u0902\u0926\u094b\u0902 \u092a\u0930 26 \u0930\u0928&nbsp;...",
+    "news_item_url": "https://www.amarujala.com/live/cricket/cricket-news/ban-vs-ned-live-cricket-score-t20-world-cup-2024-bangladesh-vs-netherlands-t20i-match-at-arnos-vale-stadium-2024-06-13",
+    "picture_source": "NDTVSports.com",
     "approx_traffic": "500,000+"
   },
   {
@@ -124,9 +154,19 @@
     "title": "The Boys",
     "pubDate": "Thu, 13 Jun 2024 15:30:00 +0530",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTVVW87blRPJP3HW1wjY0b0iTWMnzJ2-PLne2LcJOFEOaka-RxF3dJ1x6gmsjHRhWnCn01zRUSk",
-    "news_item_snippet": "The Boys is back for a fourth season, and the timing, during an election year, couldn&#39;t be more poignant. This upcoming installment also features a&nbsp;...",
-    "news_item_url": "https://www.elle.com/culture/movies-tv/a61088973/the-boys-season-4-episode-release-dates-times/",
+    "news_item_snippet": "In contrast to the noble tales of Marvel and DC superheroes, The Boys imagines a world where superheroes don&#39;t just use their powers to save the day but&nbsp;...",
+    "news_item_url": "https://theconversation.com/the-boys-season-four-gleefully-nasty-gory-and-dysfunctional-anti-superhero-show-is-back-232194",
     "picture_source": "The Hindu",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "India",
+    "title": "Tamilisai Soundararajan",
+    "pubDate": "Thu, 13 Jun 2024 15:30:00 +0530",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTW7v04OrSOyhNy6apPA84yrTfV-9_YtvRyQzTbVRRo2qSztMnPXABXMMGlp9lgrVz_tB9gJxYm",
+    "news_item_snippet": "India News: NEW DELHI: Former Telangana governor Tamilisai Soundararajan on Thursday shut down all speculation regarding any rift within the Tamil Nadu BJP,&nbsp;...",
+    "news_item_url": "https://timesofindia.indiatimes.com/india/former-telangana-governor-tamilisai-soundararajan-clarifies-speculations-about-rift-with-bjp/articleshow/110975283.cms",
+    "picture_source": "Business Today",
     "approx_traffic": "100,000+"
   },
   {
@@ -164,8 +204,8 @@
     "title": "Ley Bases",
     "pubDate": "Thu, 13 Jun 2024 07:00:00 -0300",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTjGjHXdwQ4fKUfyt7ch3Af3iS1C83WtAbg0Tc6ApSYauDIv_vbZkFP77Tn8g4NU85JBirENza_",
-    "news_item_snippet": "En el caso de las acciones argentinas que cotizan en la Bolsa de Nueva York (ADR), la rueda empez\u00f3 liderada por los papeles bancarios y energ\u00e9ticos, a pesar de&nbsp;...",
-    "news_item_url": "https://www.lanacion.com.ar/economia/dolar/se-disparan-bonos-y-acciones-argentinas-tras-la-aprobacion-de-la-ley-bases-en-el-senado-nid13062024/",
+    "news_item_snippet": "Antes de la votaci\u00f3n en el Senado se introdujeron modificaciones de toda clase. Continuar\u00e1 la moratoria previsional, se privatizar\u00e1n menos empresas y se&nbsp;...",
+    "news_item_url": "https://www.infobae.com/economia/2024/06/13/uno-por-uno-los-cambios-que-acepto-el-gobierno-para-conseguir-la-aprobacion-de-la-ley-bases/",
     "picture_source": "Chequeado",
     "approx_traffic": "500,000+"
   },
@@ -174,8 +214,8 @@
     "title": "Godoy Cruz  Rosario Central",
     "pubDate": "Thu, 13 Jun 2024 07:00:00 -0300",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQUFzAVv7Ts_gRAYUD5-NM_1xhtWq0oPfKjV3VqHSZq71BYmTFFau_CfycCNW4fPzLj_tuvMhTn",
-    "news_item_snippet": "Se trata de Mart\u00edn Luciano, de 20 a\u00f1os. Tuvo que ser rescatado por efectivos policiales y derivado al Hospital Ram\u00f3n Carrillo.",
-    "news_item_url": "https://www.ambito.com/deportes/un-jugador-godoy-cruz-volco-su-auto-san-luis-despues-el-partido-rosario-central-n6014958",
+    "news_item_snippet": "Mart\u00edn Luciano se dirig\u00eda desde Mendoza hacia Rosario cuando perdi\u00f3 el control y termin\u00f3 con el auto tumbado al costado de la ruta, en San Luis.",
+    "news_item_url": "https://www.infobae.com/deportes/2024/06/13/un-futbolista-de-godoy-cruz-sufrio-un-impactante-accidente-al-volcar-con-su-vehiculo-luego-del-partido-ante-rosario-central/",
     "picture_source": "Ol\u00e9",
     "approx_traffic": "50,000+"
   },
@@ -183,20 +223,30 @@
     "country": "Argentina",
     "title": "Independiente",
     "pubDate": "Thu, 13 Jun 2024 07:00:00 -0300",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRoje_8X_oR-4kOj9TMImJ9ZvK56ltn-0lbSerC_Emf3iyYOJzbsT4s2kVzjZuAsTxrrnCO4-iE",
-    "news_item_snippet": "Julio Vaccari llega a Independiente acompa\u00f1ado por Gast\u00f3n Mach\u00edn, Gino Navone y Gast\u00f3n Saccani como ayudantes de campo. Luego del receso por la Copa Am\u00e9rica, el&nbsp;...",
-    "news_item_url": "https://www.tycsports.com/independiente/julio-vaccari-asume-como-nuevo-dt-de-independiente-id590431.html",
-    "picture_source": "\u00e1mbito.com",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcR6sVMEOPdllaVABECXvkKks6lcbBbewR8OZd6M1oTAv_y77Dx1T3HduSvcGI9kUICVUFaT2Mti",
+    "news_item_snippet": "El Rojo lo confirm\u00f3 en sus redes sociales y ESPN.com repas\u00f3 algunas de las cualidades del flamante entrenador.",
+    "news_item_url": "https://espndeportes.espn.com/futbol/argentina/nota/_/id/13745455/julio-vaccari-quien-es-y-como-piensa-el-nuevo-dt-de-independiente",
+    "picture_source": "TyC Sports",
     "approx_traffic": "50,000+"
   },
   {
     "country": "Argentina",
     "title": "Independiente  Banfield",
     "pubDate": "Thu, 13 Jun 2024 07:00:00 -0300",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcThB7_76EwsKdyUlmAt8yhyMBr-LiwLHJdrhqBx0vwfNgdOni9AlLWSOVGnVrfxCd7FFt2Fw3uc",
-    "news_item_snippet": "En el \u00faltimo partido de Hugo Tocalli como entrenador interino, Independiente le gan\u00f3 por 2 a 1 Banfield, en un partido jugado esta noche en Avellaneda,&nbsp;...",
-    "news_item_url": "https://onefootball.com/es/noticias/independiente-le-gano-a-banfield-y-consiguio-su-primer-triunfo-en-la-liga-profesional-39620628",
-    "picture_source": "An\u00e1lisis Digital",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSoLNssKIq6stvIUYK0aYqfeE3W5D7ziTzs4GsQaQEouZfAxm2FC1zlTgK_5SAVUF-d5Q4ZJz-e",
+    "news_item_snippet": "Independiente le gan\u00f3 2 a 1 a Banfield, en Avellaneda, por la quinta fecha de la Liga Profesional de F\u00fatbol, en el \u00faltimo partido del Rojo con DT interino&nbsp;...",
+    "news_item_url": "https://www.analisisdigital.com.ar/deportes/2024/06/13/independiente-le-gano-banfield-en-la-previa-de-la-llegada-de-vaccari",
+    "picture_source": "InfoRegi\u00f3n",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Argentina",
+    "title": "Deportivo Riestra  River Plate",
+    "pubDate": "Thu, 13 Jun 2024 07:00:00 -0300",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRI1UZCkQv8LYxCgaaJFoG0KNLzzjWseGbuiXq_AQ9bfYLT4vkxmlY40sx1-DI6JkyV4Hmm-1sp",
+    "news_item_snippet": "El Millonario va al estadio Guillermo Laza con la intenci\u00f3n de cerrar el semestre con una victoria. Televisa TNT Sports.",
+    "news_item_url": "https://www.infobae.com/deportes/2024/06/13/river-plate-buscara-treparse-a-la-cima-de-la-liga-profesional-en-su-visita-a-deportivo-riestra-en-vivo-hora-tv-y-formaciones/",
+    "picture_source": "canchallena.com",
     "approx_traffic": "50,000+"
   },
   {
@@ -204,14 +254,24 @@
     "title": "Cadena 3",
     "pubDate": "Thu, 13 Jun 2024 07:00:00 -0300",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcReIJUJHO4A3s1CdANSoqj_RN0f1BQA_D8zUrygfNuJOKqXrdOs0jEHLtj6oJBCbAfRS-iES5Cz",
-    "news_item_snippet": "El senador destac\u00f3 los esfuerzos realizados para aprobar la Ley de Bases y apunt\u00f3 contra los manifestantes que causaron disturbios en los alrededores del&nbsp;...",
-    "news_item_url": "https://www.cadena3.com/noticia/radioinforme-3/luis-juez-el-laburante-no-rompe-una-vereda-ni-tira-baldosas-a-un-patrullero_389998",
+    "news_item_snippet": "En una entrevista radial, Orlando Morales relat\u00f3 c\u00f3mo un grupo de personas con la cara cubierta lo sacaron de su veh\u00edculo para darlo vuelta y prenderlo ...",
+    "news_item_url": "https://www.pagina12.com.ar/744400-el-periodista-de-cadena-3-aseguro-que-fue-atacado-por-gente-",
     "picture_source": "Cadena 3",
     "approx_traffic": "50,000+"
   },
   {
     "country": "Australia",
-    "title": "Bridgerton Season 3 part 2",
+    "title": "NBA",
+    "pubDate": "Thu, 13 Jun 2024 20:00:00 +1000",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRvwan9uOlvvBKbK7q1ZYfrxsTFtDgyut6pNOC2l2Y82O_tDiFmv-ii63Q_Aixh6MCKoIIQ2o7u",
+    "news_item_snippet": "The greats of lacrosse and basketball employ similar approaches to their craft. It has been said that the National Lacrosse League \u201clooks like the NHL and.",
+    "news_item_url": "https://www.nll.com/news/looks-like-the-nhl-plays-like-the-nba/",
+    "picture_source": "National Lacrosse League",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "Australia",
+    "title": "Bridgerton Season 3 Part 2",
     "pubDate": "Thu, 13 Jun 2024 20:00:00 +1000",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSjuXeSTiuR7ooz0Zkio1dcirzjPF4OVxitJ5UgS2EYcSl83dUVUcnY--JdrOFQ34cWQxCIIPt-",
     "news_item_snippet": "Bridgerton Season 3 Part 2 brings the story of Penelope and Colin to a surprising, steamy and supremely satisfying conclusion.",
@@ -221,11 +281,31 @@
   },
   {
     "country": "Brazil",
+    "title": "Sele\u00e7\u00e3o Brasileira",
+    "pubDate": "Thu, 13 Jun 2024 05:00:00 -0500",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTCMX5qSZKau9AMWA1R5cN-fjm5h2qapz_vRAKw032aWd7ZitMVfSAPnvmm-CbHjveu4gxxvy-f",
+    "news_item_snippet": "O jogo marcou o fim da etapa de amistosos antes da estreia da equipe na Copa Am\u00e9rica, dia 24, contra a Costa Rica, \u00e0s 22h., em Los Angeles, com gols de Rodrygo&nbsp;...",
+    "news_item_url": "https://abcreporter.com.br/2024/06/13/selecao-brasileira-fica-no-empate-com-os-estados-unidos/",
+    "picture_source": "Gazeta Esportiva",
+    "approx_traffic": "500,000+"
+  },
+  {
+    "country": "Brazil",
+    "title": "Brasil",
+    "pubDate": "Thu, 13 Jun 2024 05:00:00 -0500",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQwmzkoOV3wcsGRuTcRsk3Ss3QGA7_ZQQwW3ttzrerdSRb5j8SZgWgarDOXOElAsYs_IfiGrRqD",
+    "news_item_snippet": "Safra total de milho foi estimada em 114,14 milh\u00f5es de toneladas, um acr\u00e9scimo de 2,5 milh\u00f5es de toneladas em rela\u00e7\u00e3o ao previsto no m\u00eas passado;&nbsp;...",
+    "news_item_url": "https://www.infomoney.com.br/economia/conab-eleva-previsao-para-safra-e-exportacao-de-milho-do-brasil-em-2023-2024/",
+    "picture_source": "Ag\u00eancia Brasil",
+    "approx_traffic": "500,000+"
+  },
+  {
+    "country": "Brazil",
     "title": "Nahim",
     "pubDate": "Thu, 13 Jun 2024 06:00:00 -0500",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQk1tvMS2o_nQS39aDt6DhYP6ZVW3ATiBWe2jjQC9m4s1Svu6JQUcET-EjEKEASEYFgx76ceWZm",
-    "news_item_snippet": "O cantor Nahim Jorge Elias J\u00fanior foi encontrado morto nesta quinta-feira (13), em casa, na cidade de Tabo\u00e3o da Serra (SP). A informa\u00e7\u00e3o foi confirmada a&nbsp;...",
-    "news_item_url": "https://www.uol.com.br/splash/noticias/2024/06/13/cantor-nahim-sucesso-dos-anos-80-morre-aos-71-anos-em-sp.htm",
+    "news_item_snippet": "M\u00fasico foi encontrado morto em sua casa em Tabo\u00e3o da Serra, em S\u00e3o Paulo.",
+    "news_item_url": "https://gshow.globo.com/tudo-mais/tv-e-famosos/noticia/famosos-lamentam-morte-do-cantor-nahim-aos-71-anos.ghtml",
     "picture_source": "G1",
     "approx_traffic": "200,000+"
   },
@@ -273,10 +353,10 @@
     "country": "Brazil",
     "title": "Ilva Ni\u00f1o",
     "pubDate": "Thu, 13 Jun 2024 05:00:00 -0500",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRyI3Rei2jbiMhtk0eNvPI0SYVFQxNnipDLZLdBOya0fzibQdlwiQFcYkhY7ZZbEZhAG9QOWprl",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRWu3519G8-x6TH3KTSQ3aY52fbcPKplTpMnnCZwlNVQQNozDi7zMhFgYp50z5QvXUBFEiPW713",
     "news_item_snippet": "Os f\u00e3s da teledramaturgia brasileira ficaram arrasados com a not\u00edcia da morte de Ilva Ni\u00f1o, aos ...",
     "news_item_url": "https://www.terra.com.br/diversao/tv/personagem-de-ilva-nino-epifania-chegara-para-causar-com-chayene-em-cheias-de-charme,ced021f37ddba59f128ff7ae05aa349fyzhxviwu.html",
-    "picture_source": "Terra",
+    "picture_source": "Jornal Extra",
     "approx_traffic": "50,000+"
   },
   {
@@ -293,10 +373,10 @@
     "country": "France",
     "title": "Marion Mar\u00e9chal",
     "pubDate": "Thu, 13 Jun 2024 12:00:00 +0200",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQxEfYbBnTOki-k0BCe67ufqvvdH8ndq-QuYdJ5UGHwkJlRC66ZCJvh83yBSy5yQc4PTUFs_8sh",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRzTEh8-RWRdSIjoUJlrG0VzAt7sqfDeylwreJDBi-xDTlbYpyuOaprNE6hYQvV6RhTCN0vRQEJ",
     "news_item_snippet": "Marion Mar\u00e9chal a pris acte de son exclusion du parti Reconqu\u00eate, mercredi 12 juin. \u00c9ric Zemmour ne lui pardonne pas sa volont\u00e9 de s&#39;\u00eatre alli\u00e9e avec le&nbsp;...",
     "news_item_url": "https://www.francetvinfo.fr/elections/legislatives-anticipees-2024-marion-marechal-exclue-de-reconquete-par-eric-zemmour_6601935.html",
-    "picture_source": "L'Opinion",
+    "picture_source": "TV5MONDE Info",
     "approx_traffic": "100,000+"
   },
   {
@@ -308,6 +388,16 @@
     "news_item_url": "https://www.dasding.de/newszone/trainer-terzic-bvb-trennung-dortmund-100.html",
     "picture_source": "General-Anzeiger Bonn",
     "approx_traffic": "200,000+"
+  },
+  {
+    "country": "Germany",
+    "title": "Deutschland Schottland",
+    "pubDate": "Thu, 13 Jun 2024 20:00:00 +0200",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcR7KHqAgRZ76LNc5RmEILYR0PcUu5cwHm5JMrfuPxNoRjCkvzdzXInthD25u-DW3U5sta_Col0i",
+    "news_item_snippet": "Deutschland will mit einem Sieg gegen Schottland bei der EM 2024 direkt f\u00fcr Euphorie sorgen. Eine schottische Legende hat Zweifel.",
+    "news_item_url": "https://www.derwesten.de/sport/fussball/deutschland-schottland-em-2024-auftakt-paul-lambert-id300996897.html",
+    "picture_source": "Ruhr Nachrichten",
+    "approx_traffic": "50,000+"
   },
   {
     "country": "Germany",
@@ -340,39 +430,19 @@
     "approx_traffic": "100,000+"
   },
   {
-    "country": "Germany",
-    "title": "EVP",
-    "pubDate": "Sun, 09 Jun 2024 11:00:00 +0200",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRQOvhi6tspgmpYxiluT5C4uGSDFRtrJoR4zU9HUO9YQdQtzeykC35sCMdWsW7rh4_Y9Njoq0Sv",
-    "news_item_snippet": "Die EVP wird mit Abstand st\u00e4rkste Fraktion im neuen Europ\u00e4ischen Parlament. Fraktionschef Manfred Weber kann sich nun flexibel Mehrheiten suchen.",
-    "news_item_url": "https://www.faz.net/aktuell/politik/europawahl/an-der-evp-fuehrt-im-europaparlament-kein-weg-vorbei-19778544.html",
-    "picture_source": "manager-magazin.de",
-    "approx_traffic": "1,000,000+"
-  },
-  {
-    "country": "Germany",
-    "title": "Europawahl",
-    "pubDate": "Sun, 09 Jun 2024 08:00:00 +0200",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQjMUMNbtta-ZwjlTv1zGmQz1eRnxjpqJ_t8yp8tLiE3crIHlBkVNyywAgarzHltkMyyYAtN1nq",
-    "news_item_snippet": "Alle Wahlergebnisse zur Europawahl auf Basis von Prognose, Hochrechnungen und Ausz\u00e4hlungen nach Alter, Geschlecht, Bildung, T\u00e4tigkeit und Lebensstandard.",
-    "news_item_url": "https://www.rbb24.de/politik/wahl/Europawahl/2024/europawahl-alter-geschlecht-bildung-taetigkeit-berlin-brandenburg.html",
-    "picture_source": "rbb24",
-    "approx_traffic": "500,000+"
-  },
-  {
-    "country": "Germany",
-    "title": "AfD",
-    "pubDate": "Sun, 09 Jun 2024 13:00:00 +0200",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcS7Zqj8W0753_hN413F9WbS2rxgZfRKxYhqEVt7Whbj5S7EWFijj3uCPIdQtDrH9XDWCRJNohXh",
-    "news_item_snippet": "In der Heimat des rechtsextremen Vereins &quot;Zukunft Heimat&quot; Gol\u00dfen ist die AfD normalerweise stark. Doch bei der B\u00fcrgermeisterwahl scheiterte der&nbsp;...",
-    "news_item_url": "https://www.rbb24.de/politik/wahl/kommunalwahlen/2024/buergermeister-wahl-golssen-stichwahl-afd-kandidaten.html",
-    "picture_source": "rbb24",
-    "approx_traffic": "200,000+"
+    "country": "Italy",
+    "title": "Donno",
+    "pubDate": "Thu, 13 Jun 2024 12:00:00 +0200",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTSD9fkPHhdAB8XF1LAaK4GgBJAqLNe_FybLSFYLHaKyPZ1p2kcARYpKMwLf7Pj-igBK2wxQxKS",
+    "news_item_snippet": "Il deputato: &quot;Il mio era un gesto tranquillo, simbolico, pacifico, ci sono le immagini. Poi \u00e8 accaduto il finimondo, aggressione squadrista e violenza&nbsp;...",
+    "news_item_url": "https://www.sardegnalive.net/news/politica/523315/autonomia-e-rissa-alla-camera-donno-so-benissimo-chi-mi-ha-colpito",
+    "picture_source": "Rai News",
+    "approx_traffic": "100,000+"
   },
   {
     "country": "Italy",
     "title": "Borgo Egnazia",
-    "pubDate": "Thu, 13 Jun 2024 13:00:00 +0200",
+    "pubDate": "Thu, 13 Jun 2024 12:00:00 +0200",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQfxHxLItMMJDnjhyWnoiczaBAvC-AMNFtIfLG6I1mjuPpXqnDfUkM67DPcTtyKFX4ftNy7wiTU",
     "news_item_snippet": "Leggi su Sky TG24 l&#39;articolo G7 Puglia, Meloni a Borgo Egnazia: \u201cC&#39;\u00e8 consenso dei leader su conclusioni vertice\u201d. LIVE.",
     "news_item_url": "https://tg24.sky.it/mondo/2024/06/13/g7-puglia-borgo-egnazia-diretta",
@@ -391,16 +461,6 @@
   },
   {
     "country": "Italy",
-    "title": "Rissa Parlamento",
-    "pubDate": "Thu, 13 Jun 2024 12:00:00 +0200",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTSD9fkPHhdAB8XF1LAaK4GgBJAqLNe_FybLSFYLHaKyPZ1p2kcARYpKMwLf7Pj-igBK2wxQxKS",
-    "news_item_snippet": "Igor Iezzi torna sulla rissa scoppiata ieri alla Camera dei Deputati per lanciare un&#39;accusa al Leonardo Donno attraverso i suoi canali social.",
-    "news_item_url": "https://www.la7.it/intanto/video/rissa-alla-camera-iezzi-rincara-la-dose-e-accusa-donno-tramite-un-post-ecco-cosa-ha-scritto-13-06-2024-547529",
-    "picture_source": "Rai News",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Italy",
     "title": "Bridgerton",
     "pubDate": "Thu, 13 Jun 2024 12:00:00 +0200",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSLgRk8mDtDeGvpSrS8c-Yryuq_VVbp8BHbi-xs0LIwbKUf4FC09_7VaIe4PCQ1UmLuACsMfrRv",
@@ -411,12 +471,22 @@
   },
   {
     "country": "Italy",
-    "title": "4x100 Europei",
+    "title": "Sant'Antonio",
+    "pubDate": "Thu, 13 Jun 2024 20:00:00 +0200",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQ9lzylDbQ0LGhFNL2h_QrgSK-IKzMmqYGiAfMEk_3MkZzL8ke8ClH3vX-fMA7OfmyAjTJv2h1G",
+    "news_item_snippet": "Assegnazione dei posteggi temporanei per il commercio su aree pubbliche scoperte, in occasione dei festeggiamenti in onore di Sant&#39;Antonio per i giorni&nbsp;...",
+    "news_item_url": "https://www.comune.guspini.su.it/it/news/fetsa-di-sant-antonio-assegnazione-posteggi-vendita-1689555-1696272",
+    "picture_source": "Comune di Guspini",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Italy",
+    "title": "Staffetta 4x100",
     "pubDate": "Thu, 13 Jun 2024 12:00:00 +0200",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRI596kgsxC5SCtrGIlqPhJgtlpNcebdpJXj8HuYXGb9lDOY9OeUO_8q5tDaeLZY3-p4x6E5xh2",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTQM1z-0q1mmkTtyfbtVb10HvVvR8PtgzcS5txRhrx6LI9tWcnLgCCLG4yEwivF2oh-sxf0Wv2V",
     "news_item_snippet": "Le staffette (maschile e femminile) chiudono Roma 2024: il programma dettagliato delle finali.",
     "news_item_url": "https://www.corrieredellosport.it/news/altri-sport/atletica/roma-2024/2024/06/12-128872174/europei_atletica_staffetta_4x100_con_jacobs_orario_e_come_vederla_in_tv",
-    "picture_source": "Corriere TV",
+    "picture_source": "Prima Brescia",
     "approx_traffic": "50,000+"
   },
   {
@@ -431,22 +501,22 @@
   },
   {
     "country": "Mexico",
-    "title": "Mavericks  Celtics",
+    "title": "NBA",
     "pubDate": "Thu, 13 Jun 2024 04:00:00 -0600",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQYGrfwyjdohZgWVxF09-QeJCvbA03Z9tdEjheru1QCQzu1zUFA5gtqjTiFOayMEA0PVcQufK1a",
-    "news_item_snippet": "Staff / Agencia Reforma Dallas, Texas Los Celtics est\u00e1n a una victoria de su anhelado campeonato 18 de la NBA. Los Mavericks no lograron concretar el&nbsp;...",
-    "news_item_url": "https://suracapulco.mx/impreso/11/celtics-vence-106-99-a-mavericks-y-esta-a-un-juego-de-ser-el-campeon-de-la-nba/",
+    "news_item_snippet": "Boston Celtics buscar\u00e1 barrer a los Dallas Mavericks como visitantes y as\u00ed consagrarse como campeones de la NBA, consiguiendo su t\u00edtulo n\u00famero 18 en el&nbsp;...",
+    "news_item_url": "https://espnpressroom.com/latinamerica/press-releases/2024/06/espn-trae-a-star-el-juego-4-de-la-nba-finals-con-watch-party-del-kun-aguero-y-coscu/",
     "picture_source": "CNN",
-    "approx_traffic": "50,000+"
+    "approx_traffic": "100,000+"
   },
   {
     "country": "Spain",
     "title": "Victoria Abril",
     "pubDate": "Thu, 13 Jun 2024 12:00:00 +0200",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQuhPa-ZBOi9xSwRcSk9Wy-XgyOIqvKkEek-y66sGU8s80LpqwXwatT02aj3MVS7IeXYz4Psr1w",
-    "news_item_snippet": "El dramaturgo Guillem Clua ha dado una de las respuestas m\u00e1s potentes a la actriz Victoria Abril, que ha generado gran controversia en su visita a El&nbsp;...",
-    "news_item_url": "https://www.huffingtonpost.es/virales/victoria-abril-dice-hay-libertad-dramaturgo-guillem-clua-da-replica-mas-directa.html",
-    "picture_source": "El Mundo",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQ7wt14Q8-isujMTItcwSFEkE1sJukOmYy9LchUBv7U_D9bTOg98eqduNZ-Ekp40H7abfazk8S8",
+    "news_item_snippet": "Victoria Abril fue la invitada de El Hormiguero en la entrega emitida el 12 de junio en Antena 3. La actriz, que present\u00f3 su nueva obra de teatro, Medusa,&nbsp;...",
+    "news_item_url": "https://www.elmundo.es/television/2024/06/13/666a9a85e9cf4a0e6f8b4571.html",
+    "picture_source": "El HuffPost",
     "approx_traffic": "100,000+"
   },
   {
@@ -503,27 +573,17 @@
     "country": "United Kingdom",
     "title": "Rishi Sunak",
     "pubDate": "Thu, 13 Jun 2024 11:00:00 +0100",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQTVT9afoRaexOXaV2rKD5anLrgyXch9UM28uKJ-MfGr0fvAAhHWk1Z1PYO5ElCyEfLOMQ7Vc6y",
-    "news_item_snippet": "Minister condemns decision by election candidate Craig Williams to place bet days before snap poll announced.",
-    "news_item_url": "https://www.theguardian.com/politics/article/2024/jun/13/david-cameron-rishi-sunak-aide-craig-williams-bet-election-date-foolish",
-    "picture_source": "The Guardian",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United Kingdom",
-    "title": "Wayne Lineker",
-    "pubDate": "Thu, 13 Jun 2024 11:00:00 +0100",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTkZxA2jHa4SEtUrbLEOSQ43VpyzRAFMHkgZ6vFxgcx9TbFP2zzbutNK9YyVwx3B8w6bsEJZ3XK",
-    "news_item_snippet": "A SHAMELESS yob started a WWE-style count as Wayne Lineker lay unconscious after being thumped by a thug.Beach club owner Wayne, 62, was floored as he.",
-    "news_item_url": "https://www.thesun.co.uk/tvandshowbiz/28469684/wayne-lineker-attack-wwe-count/",
-    "picture_source": "Sky News",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSRjFTRrUTdiX8HvuU1ksS1YgNL8E91VjcVzVUfjGV2gPDFd1lxTtzLxJGW8wlBWQaGp7ZqM9Yx",
+    "news_item_snippet": "Lord David Cameron said Rishi Sunak is a &#39;very effective prime minister&#39; who wants to &#39;go on doing his job&#39;",
+    "news_item_url": "https://www.independent.co.uk/news/uk/politics/david-cameron-tory-government-rishi-sunak-b2561874.html",
+    "picture_source": "The Independent",
     "approx_traffic": "50,000+"
   },
   {
     "country": "United Kingdom",
     "title": "U.S. Open Golf",
     "pubDate": "Thu, 13 Jun 2024 14:00:00 +0100",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSLrm5vTcH_1OojX3DcvLU38TQAD_JQA804wh76wLrn-gLMoWCai4NycTCxeKAJr0YVJ54ICgQ9",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQ5GWkY7NKiJGEw7SI5rvUXYZub8WJTY_Shw6rJPm3XiI0VDmvi4Pv_RPkzb8WhkHArxh27JGI-",
     "news_item_snippet": "The U.S. Open Golf Championship is on today as Tiger Woods, Scottie Scheffler, Rory McIlroy and Jon Rahm compete.",
     "news_item_url": "https://www.cbsnews.com/essentials/how-to-watch-the-u-s-open-golf-championship-today/",
     "picture_source": "The Guardian",
