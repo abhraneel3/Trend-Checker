@@ -1,21 +1,31 @@
 [
   {
     "country": "United States",
-    "title": "WWDC 2024",
-    "pubDate": "Mon, 10 Jun 2024 10:00:00 -0700",
+    "title": "WWDC",
+    "pubDate": "Mon, 10 Jun 2024 08:00:00 -0700",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRwYYqiwSK6KZSz_hKClutLat2HThDuQuAChhrufQCWzBzZNYl79phGHKCVtJljeqZnvQryiK2N",
-    "news_item_snippet": "WWDC 2024: Apple Introduces AI, No, Not That &#39;AI&#39;. Apple wrapped up the Worldwide Developers Conference keynote on day one of the five-day conference and&nbsp;...",
+    "news_item_snippet": "Apple unveiled iOS 18, iPadOS 18, watchOS 11, visionOS 2, Apple Intelligence, a ChatGPT integration, and more at the WWDC 2024 keynote.",
     "news_item_url": "https://www.spiceworks.com/tech/tech-general/articles/apple-wwdc-2024-highlights/",
     "picture_source": "WIRED",
-    "approx_traffic": "100,000+"
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Nvidia stock",
+    "pubDate": "Mon, 10 Jun 2024 10:00:00 -0700",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQUdSvhSUPtt9_gDrR2CcZZw0vPD0VyQmPZVmdnLYDMitXSl0v_VlvkvHQEZ-t5ntC1Attm_FCd",
+    "news_item_snippet": "AI prodigy Nvidia (NASDAQ:NVDA) stock has risen colossally from $15 (split-adjusted) when I first wrote about it to almost $121 currently.",
+    "news_item_url": "https://finance.yahoo.com/news/nvidia-stock-nasdaq-nvda-cheaper-002007659.html",
+    "picture_source": "Investor's Business Daily",
+    "approx_traffic": "200,000+"
   },
   {
     "country": "United States",
     "title": "Florida Panthers",
     "pubDate": "Mon, 10 Jun 2024 22:00:00 -0700",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSorOxMuYQyRfpkTndHCWRJ8b0WIokcwhvQUJrBt_9C6tG8BvJQrH4qcKS-snUkJk2crXtrrSLp",
-    "news_item_snippet": "Follow along for score updates, analysis and commentary of Florida Panthers vs Edmonton Oilers Stanley Cup Final Game 2.",
-    "news_item_url": "https://www.miamiherald.com/sports/nhl/florida-panthers/article289153339.html",
+    "news_item_snippet": "The Edmonton Oilers face the Florida Panthers tonight for Game 2 of the 2024 NHL Stanley Cup final.",
+    "news_item_url": "https://www.cbsnews.com/essentials/how-to-watch-the-edmonton-oilers-vs-florida-panthers-nhl-stanley-cup-final-game-2-tonight/",
     "picture_source": "Palm Beach Post",
     "approx_traffic": "100,000+"
   },
@@ -31,13 +41,13 @@
   },
   {
     "country": "United States",
-    "title": "iOS 18 beta",
-    "pubDate": "Mon, 10 Jun 2024 15:00:00 -0700",
+    "title": "iOS 18",
+    "pubDate": "Mon, 10 Jun 2024 12:00:00 -0700",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRQzqt34Zmf-DzugGUh0CJ0Rz4zYd38QHCEkZUCIgFpEDbVgCNdmX61uh6wxsACleF7imJ3wiTV",
-    "news_item_snippet": "I normally steer clear of the first developer beta of a new iOS release. This year I thought I wouldn&#39;t be able to resist, as I was keen to play with the new AI&nbsp;...",
-    "news_item_url": "https://9to5mac.com/2024/06/11/ios-18-beta-1/",
+    "news_item_snippet": "I have questions about some features, but otherwise I&#39;m looking forward to the OS.",
+    "news_item_url": "https://www.cnet.com/tech/services-and-software/apples-wwdc-presentation-changed-my-mind-about-ios-18-heres-why/",
     "picture_source": "Apple Newsroom",
-    "approx_traffic": "50,000+"
+    "approx_traffic": "100,000+"
   },
   {
     "country": "United States",
@@ -121,6 +131,16 @@
   },
   {
     "country": "United States",
+    "title": "Belmont Stakes 2024",
+    "pubDate": "Sat, 08 Jun 2024 09:00:00 -0700",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQTOPPsRJsKIltKV4vNOURsciTvfjR_3r9gUnO4HQGT0o7Zkr3ddfQolAjl6KDaVQIEZ8zhrWEV",
+    "news_item_snippet": "Dornoch won the Belmont Stakes at Saratoga Race Course on Saturday, making it the sixth consecutive year a different horse won each of the three Triple&nbsp;...",
+    "news_item_url": "https://www.nbcphiladelphia.com/news/sports/dornoch-wins-belmont-stakes/3880650/",
+    "picture_source": "The New York Times",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "United States",
     "title": "Caitlin Clark",
     "pubDate": "Sat, 08 Jun 2024 11:00:00 -0700",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSQAIDwFJewS4qoz1Gt3hPyBzm7PXWCHsM33tEQKcTrBnZ84whGDljJiDp9RtPj5vfb-jYhIcDI",
@@ -131,33 +151,13 @@
   },
   {
     "country": "United States",
-    "title": "Noa Argamani",
-    "pubDate": "Sat, 08 Jun 2024 07:00:00 -0700",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQw4o95jthx7iecGVI9bshhUdosws2lkv1_vYi_2LcJb9YvdQr16TtTA_4UmXw-BeiLlTbqFj6-",
-    "news_item_snippet": "Hours after her extraction from Gaza in special ops raid with three other hostages, 26-year-old is transferred to Tel Hashomer hospital to be near her&nbsp;...",
-    "news_item_url": "https://www.timesofisrael.com/hamas-hostage-noa-argamani-rescued-in-time-to-see-her-terminally-ill-mother/",
-    "picture_source": "CNN",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Ryan Garcia",
+    "title": "Iga Swiatek",
     "pubDate": "Sat, 08 Jun 2024 14:00:00 -0700",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcT1wycE5BJdc3l6pds5I-AcgXY-7SCgs5jxH2cCFGeIRygk8BD3BDo-gbNLBn7bJ5CDkgzi23J9",
-    "news_item_snippet": "Boxer Ryan Garcia was arrested in Beverly Hills on Saturday and has been accused of causing damage to the Waldorf Astoria hotel, where he was staying as a&nbsp;...",
-    "news_item_url": "https://www.nbcnews.com/news/sports/boxer-ryan-garcia-arrested-beverly-hills-alleged-damage-hotel-police-s-rcna156244",
-    "picture_source": "NBC Southern California",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Scottie Scheffler",
-    "pubDate": "Sat, 08 Jun 2024 07:00:00 -0700",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQKhJr-MRTgj2Jdg0naZoZvFsvCwW4gdcXbg6Th8WzRETrjjdUU3ISo8b1oqCsDD0qV4585eStW",
-    "news_item_snippet": "DUBLIN, Ohio \u2013 Not long ago, Scottie Scheffler wasn&#39;t winning. Well, wasn&#39;t is harsh. He wasn&#39;t winning enough \u2013 not for someone lapping the field from tee&nbsp;...",
-    "news_item_url": "https://www.pgatour.com/article/news/latest/2024/06/09/scottie-scheffler-wins-the-memorial-presented-by-workday-muirfield-village-jack-nicklaus-fifth-win-signature-event",
-    "picture_source": "TexasSports.com",
-    "approx_traffic": "50,000+"
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRikClUdQIOTvxiJUbprKhubMVtJxHoMs_0JBNfPztusgo4XJZXfV-AR7Qckf0yzojnU-y8tUGX",
+    "news_item_snippet": "The 23-year-old Swiatek defeated Italian rising star Jasmine Paolini 6-2, 6-1 on Saturday.",
+    "news_item_url": "https://www.nbclosangeles.com/news/sports/tennis/iga-swiatek-wins-fourth-french-open-crown-surpassing-serena-williams-legacy/3431920/",
+    "picture_source": "The Associated Press",
+    "approx_traffic": "100,000+"
   },
   {
     "country": "India",
@@ -231,33 +231,13 @@
   },
   {
     "country": "India",
-    "title": "IND vs PAK",
-    "pubDate": "Sun, 09 Jun 2024 20:30:00 +0530",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcS3nERGZKvmGt_FxgQIWh46NvYyd1Iq36bEk5BAzWhlX6aX0ymm5mVXp91TEEQKJUF3DInybSup",
-    "news_item_snippet": "Rohit Sharma: \u0930\u094b\u0939\u093f\u0924 \u0936\u0930\u094d\u092e\u093e \u0928\u0947 \u091f\u094020 \u0935\u0930\u094d\u0932\u094d\u0921 \u0915\u092a 2024 \u092e\u0947\u0902 \u092a\u093e\u0915\u093f\u0938\u094d\u0924\u093e\u0928 \u0915\u0947 \u0916\u093f\u0932\u093e\u092b \u0936\u093e\u0928\u0926\u093e\u0930 \u0915\u092a\u094d\u0924\u093e\u0928\u0940 \u0915\u093e \u092e\u0941\u091c\u093c\u093e\u0939\u093f\u0930\u093e \u092a\u0947\u0936 \u0915\u093f\u092f\u093e. \u0909\u0928\u094d\u0939\u094b\u0902\u0928\u0947 \u0917\u0947\u0902\u0926\u092c\u093e\u091c\u093c\u094b\u0902 \u0915\u094b \u0935\u0915\u093c\u094d\u0924 \u0914\u0930&nbsp;...",
-    "news_item_url": "https://www.abplive.com/sports/cricket/ind-vs-pak-t20-world-cup-2024-india-captain-rohit-sharma-crucial-decisions-made-india-cricket-team-won-against-pakistan-2711789",
-    "picture_source": "NDTV India",
-    "approx_traffic": "2,000,000+"
-  },
-  {
-    "country": "India",
-    "title": "South Africa vs Bangladesh",
-    "pubDate": "Sun, 09 Jun 2024 21:30:00 +0530",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTBROAJcQJprgEhu786UUWZ8RLAlZ2z5V5b6-srBAozfEZ1tBaFzyFsYlPaf_EWzEAAQgYPll9y",
-    "news_item_snippet": "All our updates as South Africa are undefeated with three wins and top of their group as they seek their first title.",
-    "news_item_url": "https://www.aljazeera.com/sports/liveblog/2024/6/10/live-bangladesh-vs-south-africa-icc-t20-world-cup-2024-group-d-match",
-    "picture_source": "NDTVSports.com",
-    "approx_traffic": "2,000,000+"
-  },
-  {
-    "country": "India",
-    "title": "T20 World Cup 2024",
-    "pubDate": "Sun, 09 Jun 2024 15:30:00 +0530",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcS76Cc27fW3mZ9WFGs2FkO_GE28bBJyMPT2pP40iFUzzEviOWiiaTzj5c5xZof7cvzQ6q51AIlN",
-    "news_item_snippet": "All our updates as South Africa are undefeated with three wins and top of their group as they seek their first title.",
-    "news_item_url": "https://www.aljazeera.com/sports/liveblog/2024/6/10/live-bangladesh-vs-south-africa-icc-t20-world-cup-2024-group-d-match",
-    "picture_source": "NDTVSports.com",
-    "approx_traffic": "2,000,000+"
+    "title": "IND vs PAK match",
+    "pubDate": "Sun, 09 Jun 2024 00:30:00 +0530",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcT0iPgFYZTjqatCJd4GOoUg5J2NgYDlAKrbqKG_mCC9ixghX-cJmSi3g_weOInjRBVAmBA8uxOv",
+    "news_item_snippet": "\u091f\u094020 \u0935\u0930\u094d\u0932\u094d\u0921 \u0915\u092a 2024 \u0915\u0947 \u0917\u094d\u0930\u0941\u092a \u090f \u092e\u0947\u0902 \u092d\u093e\u0930\u0924\u0940\u092f \u091f\u0940\u092e 2 \u092e\u0947\u0902 \u0938\u0947 2 \u092e\u0948\u091a \u091c\u0940\u0924\u0915\u0930 \u0905\u0902\u0915 \u0924\u093e\u0932\u093f\u0915\u093e \u092e\u0947\u0902 \u092a\u0939\u0932\u0947 \u0928\u0902\u092c\u0930 \u092a\u0930 \u0939\u0948\u0964 \u092a\u093e\u0915\u093f\u0938\u094d\u0924\u093e\u0928 \u0915\u0940 \u091f\u0940\u092e \u0926\u094b\u0928\u094b\u0902 \u092e\u0948\u091a \u0939\u093e\u0930\u0915\u0930&nbsp;...",
+    "news_item_url": "https://www.jansatta.com/khel/cricket/ind-vs-pak-live-score-india-vs-pakistan-live-cricket-score-updates-nassau-stadium-cricket-ground/3413837/",
+    "picture_source": "The Athletic",
+    "approx_traffic": "1,000,000+"
   },
   {
     "country": "Brazil",
@@ -280,16 +260,6 @@
     "approx_traffic": "100,000+"
   },
   {
-    "country": "Brazil",
-    "title": "Peeling de fenol",
-    "pubDate": "Mon, 10 Jun 2024 07:00:00 -0500",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTAZEFnmP2R-B7ZI1qvBuB9d2Vr9BI56T7QpcoG57MV1QvSsPu4zVDiRvWYv0sv-9hl_eCxEBv5",
-    "news_item_snippet": "C\u00e2meras de seguran\u00e7a da cl\u00ednica de est\u00e9tica registraram desde a chegada da v\u00edtima at\u00e9 as tentivas de reanima\u00e7\u00e3o pelos socorristas ; veja a cronologia.",
-    "news_item_url": "https://www.cnnbrasil.com.br/nacional/novas-imagens-mostram-morte-de-homem-apos-peeling-de-fenol-assista/",
-    "picture_source": "G1",
-    "approx_traffic": "50,000+"
-  },
-  {
     "country": "Canada",
     "title": "Oilers",
     "pubDate": "Tue, 11 Jun 2024 00:00:00 -0400",
@@ -297,16 +267,6 @@
     "news_item_snippet": "According to a Cult of Hockey video review of his game, McDavid controlled the puck for 100 seconds at even strength and he got hacked or slashed 19 times by a&nbsp;...",
     "news_item_url": "https://edmontonjournal.com/sports/hockey/nhl/cult-of-hockey/edmonton-oilers-ace-connor-mcdavid-hacked-once-every-5-seconds-he-controlled-puck-in-game-2",
     "picture_source": "La Presse",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "Canada",
-    "title": "NHL",
-    "pubDate": "Tue, 11 Jun 2024 01:00:00 -0400",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQKwDXaYGiPaRbbuaIIMhEgA-RjKwUNPE_iNOyooWejuat_3WVVnA9ICpZgXiQG1KqCpzfK47l9",
-    "news_item_snippet": "Mikhail Yegorov&#39;s numbers this season with Omaha of the United States Hockey League is not what earned him the No. 1 spot in NHL Central Scouting&#39;s final&nbsp;...",
-    "news_item_url": "https://www.nhl.com/news/2024-nhl-draft-yegorov-george-vinni-among-projected-top-goalies",
-    "picture_source": "NHL.com",
     "approx_traffic": "100,000+"
   },
   {
@@ -382,7 +342,7 @@
   {
     "country": "France",
     "title": "Dissolution Assembl\u00e9e nationale",
-    "pubDate": "Sun, 09 Jun 2024 12:00:00 +0200",
+    "pubDate": "Sun, 09 Jun 2024 13:00:00 +0200",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQy9bBeCnGR9uIfEE_BAit5KSwt9tVsmW-NFArpIB_TdqiRhSsIBTZc1MRHB4ALOSWjfFcqKiQd",
     "news_item_snippet": "La dissolution de l&#39;Assembl\u00e9e nationale annonc\u00e9e par le pr\u00e9sident de la R\u00e9publique le 9 juin 2024 entraine l&#39;interruption de tous les travaux l\u00e9gislatifs en&nbsp;...",
     "news_item_url": "https://www.vie-publique.fr/en-bref/294560-dissolution-de-lassemblee-nationale-et-le-travail-parlementaire",
@@ -401,16 +361,6 @@
   },
   {
     "country": "France",
-    "title": "PPE",
-    "pubDate": "Sun, 09 Jun 2024 19:00:00 +0200",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTWdi6ticv4tgO2qrC63vg24W7wmk-9NU6SAbhwRJbOG4ivKmi2Z5nHRjuE88m9PbWinQrOmcTb",
-    "news_item_snippet": "\u00c0 l&#39;origine, la troisi\u00e8me Programmation pluriannuelle de l&#39;\u00e9nergie (PPE), comprenant les objectifs de puissance et de production pour les fili\u00e8res&nbsp;...",
-    "news_item_url": "https://www.interentreprises.com/ppe-2/",
-    "picture_source": "CRE",
-    "approx_traffic": "500,000+"
-  },
-  {
-    "country": "France",
     "title": "R\u00e9sultats des \u00e9lections \u00e0 Union europ\u00e9enne",
     "pubDate": "Sun, 09 Jun 2024 07:00:00 +0200",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRHtMC5V4xkbsDP9wxf-iJRjQnBCzYs-P_BlYnVru8Grvp6EmMnM3wYo6bE8rQ2Hj3RcExjzBs2",
@@ -421,13 +371,13 @@
   },
   {
     "country": "France",
-    "title": "France \u2013 Canada",
-    "pubDate": "Sun, 09 Jun 2024 21:00:00 +0200",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcS4xohrg6Fl7EflXixggvARUHudCreMwpnHmNg5TDZcEVjfSN5yoyM5i-lvey0ywtQcUJbkZXDj",
-    "news_item_snippet": "Alors que le pr\u00e9sident de la R\u00e9publique venait de dissoudre l&#39;Assembl\u00e9e nationale, le diffuseur du match de pr\u00e9paration \u00e0 l&#39;Euro-2024 n&#39;a pas h\u00e9sit\u00e9 \u00e0&nbsp;...",
-    "news_item_url": "https://www.ladepeche.fr/2024/06/10/france-canada-on-ne-va-pas-semmerder-lerreur-aurait-ete-de-ne-pas-le-faire-a-tf1-la-diffusion-en-differe-na-pas-fait-debat-12006160.php",
-    "picture_source": "Ouest-France",
-    "approx_traffic": "200,000+"
+    "title": "LFI",
+    "pubDate": "Sun, 09 Jun 2024 12:00:00 +0200",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcR-pMV6VMLlKnzljCuAtlm6DtCd6dnG3uKfuAy89al48BHBKLySNvimSquqAaR8TJXUlyFNe3k5",
+    "news_item_snippet": "Les Insoumis sont \u00e0 la recherche du candidat id\u00e9al pour unir la gauche, convaincre les \u00e9lecteurs de Dreux et Vernouillet et prendre la place du d\u00e9put\u00e9 LR,&nbsp;...",
+    "news_item_url": "https://www.lechorepublicain.fr/dreux-28100/actualites/legislatives-apres-la-dissolution-lfi-cherche-a-transformer-le-score-de-manon-aubry-en-victoire_14515549/",
+    "picture_source": "Echo R\u00e9publicain",
+    "approx_traffic": "100,000+"
   },
   {
     "country": "Germany",
@@ -461,22 +411,22 @@
   },
   {
     "country": "Germany",
+    "title": "Hochrechnung Europawahl",
+    "pubDate": "Sun, 09 Jun 2024 08:00:00 +0200",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcS3IkgfSyDONu4TZ6_HuRW2qvVuyuSNMLHoaI8Ei_OJJR024e5uzEHfJx6_KPCt0-SYJqTko6xa",
+    "news_item_snippet": "Bei der Europawahl erreichen CDU/CSU nach Ausz\u00e4hlung aller Stimmen \u00fcber 30 Prozent in Deutschland. Die AfD liegt insgesamt auf Platz zwei vor SPD und Gr\u00fcnen&nbsp;...",
+    "news_item_url": "https://www.rbb24.de/politik/wahl/Europawahl/2024/berlin-brandenburg-ergebnisse-wahlbeteiligung-eu-parlament-prognose-hochrechnungen.html",
+    "picture_source": "hessenschau.de",
+    "approx_traffic": "500,000+"
+  },
+  {
+    "country": "Germany",
     "title": "AfD",
     "pubDate": "Sun, 09 Jun 2024 13:00:00 +0200",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcS7Zqj8W0753_hN413F9WbS2rxgZfRKxYhqEVt7Whbj5S7EWFijj3uCPIdQtDrH9XDWCRJNohXh",
     "news_item_snippet": "In die Stichwahl um das Amt am 30. Juni m\u00fcssen Andrea Schulz und Daniela Maurer. Sie treten jeweils f\u00fcr unterschiedliche W\u00e4hlervereinigungen an. Schulz, die f\u00fcr&nbsp;...",
     "news_item_url": "https://www.rbb24.de/politik/wahl/kommunalwahlen/2024/buergermeister-wahl-golssen-stichwahl-afd-kandidaten.html",
     "picture_source": "rbb24",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "Germany",
-    "title": "Europawahl Hochrechnung",
-    "pubDate": "Sun, 09 Jun 2024 08:00:00 +0200",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcS3IkgfSyDONu4TZ6_HuRW2qvVuyuSNMLHoaI8Ei_OJJR024e5uzEHfJx6_KPCt0-SYJqTko6xa",
-    "news_item_snippet": "Bei der Europawahl erreichen CDU/CSU nach Ausz\u00e4hlung aller Stimmen \u00fcber 30 Prozent in Deutschland. Die AfD liegt insgesamt auf Platz zwei vor SPD und Gr\u00fcnen&nbsp;...",
-    "news_item_url": "https://www.rbb24.de/politik/wahl/Europawahl/2024/berlin-brandenburg-ergebnisse-wahlbeteiligung-eu-parlament-prognose-hochrechnungen.html",
-    "picture_source": "hessenschau.de",
     "approx_traffic": "200,000+"
   },
   {
@@ -610,26 +560,6 @@
     "approx_traffic": "50,000+"
   },
   {
-    "country": "Italy",
-    "title": "Elezioni Firenze",
-    "pubDate": "Mon, 10 Jun 2024 03:00:00 +0200",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSDmV49clqTyAIuM9emzX7vk9aVXTtSxHimz5zvH9PdFN5sEw-SK4kxZTYavPMoB9icQDxxYp1F",
-    "news_item_snippet": "La sfida per la poltrona di primo cittadino. Centrosinistra e centrodestra si sfideranno a San Giovanni. Delude Saccardi con Italia Viva, che non va oltre&nbsp;...",
-    "news_item_url": "https://www.lanazione.it/firenze/politica/ballottaggio-firenze-u485xuha",
-    "picture_source": "Il Reporter",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Mexico",
-    "title": "Festival del Barco del Drag\u00f3n",
-    "pubDate": "Mon, 10 Jun 2024 01:00:00 -0600",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQYVkCCh1nDPL1RFJ9kJIxW3AzCqll15OC1ohPXG23ey2VnA5AdKldySLYpW978RRcm2nN9psQ7",
-    "news_item_snippet": "Este patrimonio cultural inmaterial de la humanidad es celebrado por diversos grupos \u00e9tnicos en China y el resto del mundo.",
-    "news_item_url": "https://cnnespanol.cnn.com/video/festival-barco-dragon-china/",
-    "picture_source": "Expansi\u00f3n",
-    "approx_traffic": "1,000,000+"
-  },
-  {
     "country": "Mexico",
     "title": "Christian Nodal",
     "pubDate": "Mon, 10 Jun 2024 16:00:00 -0600",
@@ -647,7 +577,7 @@
     "news_item_snippet": "&quot;Pato&quot; es el segundo hijo que Talina Fern\u00e1ndez que fallece, la primera fue Mariana Levy, quien muri\u00f3 de un infarto al ser v\u00edctima de un intento de asalto en&nbsp;...",
     "news_item_url": "https://www.proceso.com.mx/cultura/2024/6/11/muere-hijo-de-talina-fernandez-pato-levy-330799.html",
     "picture_source": "AZCentral",
-    "approx_traffic": "100,000+"
+    "approx_traffic": "50,000+"
   },
   {
     "country": "Spain",
