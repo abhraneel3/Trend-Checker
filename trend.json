@@ -722,22 +722,12 @@
   {
     "country": "Germany",
     "title": "Apple",
-    "pubDate": "Mon, 10 Jun 2024 10:00:00 +0200",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRzdOR8jCVGeRAu1qTUY9FXIx_4ZFrya9NVvf2kPELPgGZPxs59x76-1rXHYl-XXqH1AvtNnr3K",
-    "news_item_snippet": "Durch die geschlossene Plattform und die M-Chips hat Apple schon zu Anfang einige Vorteile gegen\u00fcber der Konkurrenz. Die neue KI-Strategie ist clever.",
-    "news_item_url": "https://www.golem.de/news/apple-intelligence-der-apple-vorteil-2406-185946.html",
-    "picture_source": "Capital - Wirtschaft ist Gesellschaft",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "Germany",
-    "title": "EVP",
-    "pubDate": "Sun, 09 Jun 2024 11:00:00 +0200",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRQOvhi6tspgmpYxiluT5C4uGSDFRtrJoR4zU9HUO9YQdQtzeykC35sCMdWsW7rh4_Y9Njoq0Sv",
-    "news_item_snippet": "Die EVP wird mit Abstand st\u00e4rkste Fraktion im neuen Europ\u00e4ischen Parlament. Fraktionschef Manfred Weber kann sich nun flexibel Mehrheiten suchen.",
-    "news_item_url": "https://www.faz.net/aktuell/politik/europawahl/an-der-evp-fuehrt-im-europaparlament-kein-weg-vorbei-19778544.html",
-    "picture_source": "manager-magazin.de",
-    "approx_traffic": "1,000,000+"
+    "pubDate": "Mon, 10 Jun 2024 22:00:00 +0200",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSqFEWqnFlomX75cjT-rTlEgWjEiEofCfIy68bVkV4reewg47yKoqJcYWDa-Oy-zK_YSzHXLeXv",
+    "news_item_snippet": "Die Ank\u00fcndigungen der Entwicklerkonferenz begeistern den Markt zun\u00e4chst verhalten, doch dann legt die Aktie pl\u00f6tzlich zu \u2013 obwohl Elon Musk mit einem&nbsp;...",
+    "news_item_url": "https://www.capital.de/geld-versicherungen/apple-aktie--soll-man-sie-jetzt-nach-den-neuen-ki-plaenen-kaufen--34789896.html",
+    "picture_source": "Golem.de",
+    "approx_traffic": "50,000+"
   },
   {
     "country": "Germany",
@@ -747,7 +737,27 @@
     "news_item_snippet": "Alle Wahlergebnisse zur Europawahl auf Basis von Prognose, Hochrechnungen und Ausz\u00e4hlungen nach Alter, Geschlecht, Bildung, T\u00e4tigkeit und Lebensstandard.",
     "news_item_url": "https://www.rbb24.de/politik/wahl/Europawahl/2024/europawahl-alter-geschlecht-bildung-taetigkeit-berlin-brandenburg.html",
     "picture_source": "rbb24",
-    "approx_traffic": "500,000+"
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "Germany",
+    "title": "AfD",
+    "pubDate": "Sun, 09 Jun 2024 13:00:00 +0200",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcS7Zqj8W0753_hN413F9WbS2rxgZfRKxYhqEVt7Whbj5S7EWFijj3uCPIdQtDrH9XDWCRJNohXh",
+    "news_item_snippet": "In der Heimat des rechtsextremen Vereins &quot;Zukunft Heimat&quot; Gol\u00dfen ist die AfD normalerweise stark. Doch bei der B\u00fcrgermeisterwahl scheiterte der&nbsp;...",
+    "news_item_url": "https://www.rbb24.de/politik/wahl/kommunalwahlen/2024/buergermeister-wahl-golssen-stichwahl-afd-kandidaten.html",
+    "picture_source": "rbb24",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "Germany",
+    "title": "Volt",
+    "pubDate": "Sun, 09 Jun 2024 10:00:00 +0200",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTJEfOuX-BI0h1pHKV77v3l8hH30R_bCJJVy1Z0IEnR1rCKWpM3sWOfX7Ac1eV2JtUW0sykLrqw",
+    "news_item_snippet": "Bei der Europawahl erzielt Volt 2,5 Prozent der Stimmen und sichert sich zwei Mandate. Besonders bei jungen W\u00e4hlern punktet die Partei.",
+    "news_item_url": "https://www.schwarzwaelder-bote.de/inhalt.europawahl-jung-und-fuer-europa-das-steckt-hinter-volt.8aea151b-efa9-44e9-b351-c0acebd3cfe8.html",
+    "picture_source": "BNN - Badische Neueste Nachrichten",
+    "approx_traffic": "100,000+"
   },
   {
     "country": "Italy",
