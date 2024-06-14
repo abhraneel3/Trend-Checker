@@ -1,6 +1,26 @@
 [
   {
     "country": "United States",
+    "title": "NHL",
+    "pubDate": "Fri, 14 Jun 2024 08:00:00 -0700",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQaEclMrj-xHOqYXsTPkE-PSj8Q25hcZuz1VgRs1DoK0uIAbKrZDRQLGT7yf_REmY8t0aa8TLkQ",
+    "news_item_snippet": "Wotherspoon ended up playing 30 NHL games. Kucherov is a Stanley Cup champion and MVP, and remains one of the most dynamic players in the game today.",
+    "news_item_url": "https://www.nytimes.com/athletic/5546449/2024/06/14/nhl-draft-biggest-errors/",
+    "picture_source": "ESPN",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Euro 2024",
+    "pubDate": "Fri, 14 Jun 2024 08:00:00 -0700",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQsfFLcz5y7CqyJ6_9-CmATexw5I3_GiY2YUfUP9NoDunOVviSoiX40__7Zt2EsSlB1ao-nEMxx",
+    "news_item_snippet": "As EURO 2024 kicks off, we select Europe&#39;s 11 best tech entrepreneurs and start-ups, to highlight the brightest minds and most innovative companies on the&nbsp;...",
+    "news_item_url": "https://www.forbes.com/sites/kjartanrist/2024/06/14/euro-2024-line-up-for-entrepreneurs-who-makes-the-select-xi/",
+    "picture_source": "Aljazeera.com",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United States",
     "title": "Derek Jeter",
     "pubDate": "Fri, 14 Jun 2024 00:00:00 -0700",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQQ0dhHlnKJFS6NbMB1DWyjU7a5wdoUBugOQER8uEmWj-EyCMKE2dFHXKh8Voqdx_S514CQtDmI",
@@ -8,6 +28,16 @@
     "news_item_url": "https://westfaironline.com/latest-news/yankee-great-derek-jeter-sells-orange-county-castle/",
     "picture_source": "Westfair Online",
     "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Jerry West",
+    "pubDate": "Thu, 13 Jun 2024 03:00:00 -0700",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQw9oZRE2C8CdptXYwdbqvkukjwUEnf3Z9OsJiExiLPWcoOtwMIZEeO7Lfjj9Q0nl5JhPENTMvj",
+    "news_item_snippet": "MORGANTOWN, W.Va. \u2013 Yesterday began like any typical sunny, lazy day in the summertime.",
+    "news_item_url": "https://wvusports.com/news/2024/6/13/blog-there-will-never-be-another-jerry-west.aspx",
+    "picture_source": "The Washington Post",
+    "approx_traffic": "1,000,000+"
   },
   {
     "country": "United States",
@@ -61,16 +91,6 @@
   },
   {
     "country": "United States",
-    "title": "U.S. Open",
-    "pubDate": "Thu, 13 Jun 2024 06:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQUfNmtlhpEy6RS3xk-N1L2G5QPq_Al4fBPhP-NotOtje3mbnANRNjQkK7whJH8sS7M2G5WLNo",
-    "news_item_snippet": "Trophy Club Weekly Ticket Package. Experience the U.S. Open from this premium climate-controlled facility located adjacent to the iconic 3rd fairway. &middot; Gallery&nbsp;...",
-    "news_item_url": "https://www.usopen.com/2025/tickets.html",
-    "picture_source": "ESPN",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "United States",
     "title": "The Boys",
     "pubDate": "Thu, 13 Jun 2024 14:00:00 -0700",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQ8R7AbieQltwz2GRhWWU1bwj7sVW03wGFOeOAgkCC0mATXtqiru6x1TapgfrT85V2XGk2PhpiD",
@@ -102,11 +122,21 @@
   {
     "country": "United States",
     "title": "Conor McGregor",
-    "pubDate": "Thu, 13 Jun 2024 21:00:00 -0700",
+    "pubDate": "Thu, 13 Jun 2024 22:00:00 -0700",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRSIxgeXWU7W1O-0S2FxpWolbVKkHDRjPRfaYqn06yALNRvH5PMsx9p4kPpeOr9u04n6pC3O9hh",
     "news_item_snippet": "Conor McGregor will no longer fight Michael Chandler at UFC 303 due to injury. The new main event is a light heavyweight title fight between Alex Pereira&nbsp;...",
     "news_item_url": "https://www.espn.com/mma/story/_/id/40346917/dana-white-says-mcgregor-chandler-ufc-303-fight-now-off",
     "picture_source": "NBC News",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "United States",
+    "title": "U.S. Open leaderboard",
+    "pubDate": "Thu, 13 Jun 2024 09:00:00 -0700",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSuGyhsHjrHVNqm6l7SxhOvAUwUuxGY5iDJWORUmjfXhYdFpj666oqcvV2GtxsfCYJGuPt9uYl_",
+    "news_item_snippet": "The 124th U.S. Open heads to Pinehurst, North Carolina, with historic Pinehurst No. 2 hosting for the fourth time.",
+    "news_item_url": "https://www.pgatour.com/article/news/latest/2024/06/13/how-to-watch-us-open-golf-round-2-scores-leaderboard-live-stream-broadcast-tee-times-pinehurst-no-2-scheffler-woods-mcilroy-schauffele",
+    "picture_source": "Scores & Odds Hub",
     "approx_traffic": "100,000+"
   },
   {
@@ -114,8 +144,8 @@
     "title": "Miami Weather",
     "pubDate": "Thu, 13 Jun 2024 03:00:00 -0700",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTOOq8mQewDrdKrI-_97O7ORol_zYc08AlT8n7NYmqcheYeBsY5vRWyFduPe2x0tm1AH0spDVWu",
-    "news_item_snippet": "Flights are delayed and canceled at Miami International Airport and Fort Lauderdale airport. Latest delays listed. Check with your airline.",
-    "news_item_url": "https://www.miamiherald.com/news/weather-news/article289245900.html",
+    "news_item_snippet": "South Florida measured rainfall by the foot Wednesday afternoon as tropical downpours drenched Broward and Miami-Dade counties.",
+    "news_item_url": "https://www.nbcmiami.com/weather/stories-weather/live-radar-risk-for-flooding-continues-thursday-after-tropical-downpours-drench-south-florida/3336523/",
     "picture_source": "The Weather Channel",
     "approx_traffic": "100,000+"
   },
@@ -133,17 +163,17 @@
     "country": "United States",
     "title": "Pope Francis",
     "pubDate": "Thu, 13 Jun 2024 03:00:00 -0700",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRGFVib086EP1c2w6KSOcXkG-sa9L3sbAg5FZ08xpErHMsPaPffZcLrjOATNqgq_9xLFsVMvxoE",
-    "news_item_snippet": "Pope Francis has challenged leaders of the world&#39;s wealthy democracies to keep human dignity foremost in developing and using artificial intelligence.",
-    "news_item_url": "https://abcnews.go.com/International/wireStory/pope-francis-pontiff-address-g7-venue-raising-alarm-111115663",
-    "picture_source": "Forbes",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRKs4FD041IkvxtmWCJSzTcS2buwZe_ybDOAtfUnKU5PYHKvJtsqR28sl1QTrqDPVBBJu9baY5J",
+    "news_item_snippet": "Pope Francis is set to attend the G7 summit on Friday and is expected to urge world leaders to adopt AI regulations, a subject the Pope has spoken about&nbsp;...",
+    "news_item_url": "https://www.forbes.com/sites/ariannajohnson/2024/06/13/the-pope-heads-to-g7-for-first-time-to-talk-about-ai-after-balenciaga-pope-meme/",
+    "picture_source": "ABC News",
     "approx_traffic": "100,000+"
   },
   {
     "country": "United States",
     "title": "Indiana Fever",
     "pubDate": "Thu, 13 Jun 2024 19:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRE_IjTkNktzq3qe0Ooek3aIkfa85L_s_mQG6dmyc8tmGKHHZlLCQ5SrMFxqDA_oYlzPkVkVd7W",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcT0CuVdPwtJRG_wVQ1dzdibJzpQi8rRzJKXZ3q5DZN3AuwUahDl5f18pKLZxsgLGZ_b4mHrvtLR",
     "news_item_snippet": "On Monday, Christie Sides benched four starters for poor effort. On Thursday, the Fever got four straight defensive stops to earn win over Atlanta.",
     "news_item_url": "https://www.indystar.com/story/sports/basketball/wnba/fever/2024/06/14/indiana-fever-defense-steps-up-clutch-time-to-beat-atlanta-dream-aliyah-boston-christie-sides-wnba/74033525007/",
     "picture_source": "The Indianapolis Star",
@@ -157,36 +187,6 @@
     "news_item_snippet": "The actor and director turns his lens on himself and members of the eponymous &#39;80s cohort for the doc &#39;Brats,&#39; where Rob Lowe, Demi Moore and others unpack&nbsp;...",
     "news_item_url": "https://www.hollywoodreporter.com/movies/movie-news/brats-movie-andrew-mccarthy-brat-pack-1235921223/",
     "picture_source": "ABC News",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Beetlejuice",
-    "pubDate": "Thu, 13 Jun 2024 03:00:00 -0700",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRowZgatn2mgIGTpzfblEKePAo2Di36OHO-ZhXmNCOVAWAHs5Eq9R2QwNB3jde4BuTW1hRg1zjq",
-    "news_item_snippet": "Translating such a beloved cult classic to the Broadway stage is no small feat, yet the musical adaptation has managed to carve out its own niche, capturing&nbsp;...",
-    "news_item_url": "https://www.zeenewslive.in/hollywood/review-beetlejuice-on-broadway-is-a-bold-and-unpredictable-crazy-ride/3409/",
-    "picture_source": "artsknoxville.com",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Johnny Canales",
-    "pubDate": "Thu, 13 Jun 2024 10:00:00 -0700",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQG2WBWbdQsfl5OO-APxqyAGowzLMTggOQQDFz3DII5fHScmxnWL1USrScsHF0CHPuI6gofcWgw",
-    "news_item_snippet": "Nacido en General Trevi\u00f1o (Nuevo Le\u00f3n, M\u00e9xico), Canales debut\u00f3 en 1983 en la televisi\u00f3n tejana con su programa &#39;The Johnny Canales Show&#39;.",
-    "news_item_url": "https://www.sacbee.com/noticias-en-espanol/article289261265.html",
-    "picture_source": "KRIS Corpus Christi News",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Presumed Innocent",
-    "pubDate": "Thu, 13 Jun 2024 03:00:00 -0700",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTOMLgJuMWdX6yxMAF8jpKjHte2qRd1mvgv0PEYqaDd8zrhvCDXBhju2Tks9owJU9DmX-_oaORSHw",
-    "news_item_snippet": "Presumed Innocent was a blockbuster legal thriller as a novel, and then a hit movie starring Harrison Ford. Now, Apple TV+ brings back the story of the&nbsp;...",
-    "news_item_url": "https://www.npr.org/2024/06/13/1197965140/jake-gyllenhaals-presumed-innocent-updates-a-legal-thriller",
-    "picture_source": "NPR",
     "approx_traffic": "50,000+"
   },
   {
@@ -211,22 +211,32 @@
   },
   {
     "country": "India",
-    "title": "Euro 2024",
-    "pubDate": "Fri, 14 Jun 2024 15:30:00 +0530",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQsfFLcz5y7CqyJ6_9-CmATexw5I3_GiY2YUfUP9NoDunOVviSoiX40__7Zt2EsSlB1ao-nEMxx",
-    "news_item_snippet": "As EURO 2024 kicks off, we select Europe&#39;s 11 best tech entrepreneurs and start-ups, to highlight the brightest minds and most innovative companies on the&nbsp;...",
-    "news_item_url": "https://www.forbes.com/sites/kjartanrist/2024/06/14/euro-2024-line-up-for-entrepreneurs-who-makes-the-select-xi/",
-    "picture_source": "Aljazeera.com",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "India",
     "title": "UEFA Euro",
-    "pubDate": "Fri, 14 Jun 2024 10:30:00 +0530",
+    "pubDate": "Fri, 14 Jun 2024 08:30:00 +0530",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRW4KwsaWq0X__PGhd2HvUocUcshTfO4DQMbZ-jV0dxCWIbTPdxc7NoiRhLZZC7yNoB4xuTkYAS",
     "news_item_snippet": "UEFA Euro 2024 begins on June 15, with hosts Germany taking on Group A opponents Scotland in the tournament opener, in Munich. The group stage will run for&nbsp;...",
     "news_item_url": "https://www.hindustantimes.com/sports/football/uefa-euro-2024-live-streaming-when-and-where-to-watch-on-television-and-online-101718336004432.html",
     "picture_source": "NDTVSports.com",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "India",
+    "title": "Euro 2024",
+    "pubDate": "Fri, 14 Jun 2024 15:30:00 +0530",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRW4KwsaWq0X__PGhd2HvUocUcshTfO4DQMbZ-jV0dxCWIbTPdxc7NoiRhLZZC7yNoB4xuTkYAS",
+    "news_item_snippet": "As EURO 2024 kicks off, we select Europe&#39;s 11 best tech entrepreneurs and start-ups, to highlight the brightest minds and most innovative companies on the&nbsp;...",
+    "news_item_url": "https://www.forbes.com/sites/kjartanrist/2024/06/14/euro-2024-line-up-for-entrepreneurs-who-makes-the-select-xi/",
+    "picture_source": "NDTVSports.com",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "India",
+    "title": "Inside Out 2",
+    "pubDate": "Fri, 14 Jun 2024 15:30:00 +0530",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQTGgBlV4P_WJtTjWO1q5fgQwVhLqMjBfil0Q1OtHr_iKL1kdSlVevXnJBo6SgNnoH5uQiQnx2k",
+    "news_item_snippet": "The anticipated Disney and Pixar sequel, Inside Out 2, premieres in cinemas today. Planning to watch the new sequel in movie theaters?",
+    "news_item_url": "https://www.forbes.com/sites/monicamercuri/2024/06/14/does-inside-out-2-have-a-post-credit-scene-heres-why-you-should-stay-in-your-seats/",
+    "picture_source": "Social Samosa",
     "approx_traffic": "50,000+"
   },
   {
@@ -241,53 +251,13 @@
   },
   {
     "country": "India",
-    "title": "Sushant Singh Rajput",
-    "pubDate": "Thu, 13 Jun 2024 23:30:00 +0530",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTBmdhttUi7nZ1aAFtRimV_fkECPuh2vLOE6dA1jEjpiJOP98rpoNHH_ivtH1KTdEbi2yVj6OMM",
-    "news_item_snippet": "Sushant Singh Rajput\u2014that name still makes us smile, doesn&#39;t it? We list the actor&#39;s best work to remember him today.",
-    "news_item_url": "https://www.grazia.co.in/lifestyle/celebrating-sushant-singh-rajput-6-films-to-rekindle-the-joy-he-brought-us-12637.html",
-    "picture_source": "BollywoodShaadis Hindi",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "India",
-    "title": "Florida weather",
+    "title": "United States vs Ireland",
     "pubDate": "Thu, 13 Jun 2024 15:30:00 +0530",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQ_BJ9GnXbI6xS0TrYeLrnHHFHwOB8FB5aVVJkq3T5lQaP_FBrAPPl_ctx3Pu3p0BIkyIRpZ2vG",
-    "news_item_snippet": "There is a 50 per cent chance of rain in Florida on Saturday when India lock horns with Canada. The next set of Group A matches take place in Lauderhill,&nbsp;...",
-    "news_item_url": "https://www.india.com/sports/live-updates-florida-city-weather-forecast-india-vs-canada-t20-world-cup-2024-group-a-lauderhill-miami-rain-floods-emergency-washout-declared-delay-rohit-virat-bumrah-latest-pak-v-ire-usa-cricket-news-7013453/",
-    "picture_source": "Business Standard",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "India",
-    "title": "The Boys",
-    "pubDate": "Thu, 13 Jun 2024 15:30:00 +0530",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQ8R7AbieQltwz2GRhWWU1bwj7sVW03wGFOeOAgkCC0mATXtqiru6x1TapgfrT85V2XGk2PhpiD",
-    "news_item_snippet": "The Boys returns to Prime Video for its fourth season on Thursday, June 13. Here&#39;s how to watch the R-rated superhero series online.",
-    "news_item_url": "https://variety.com/2024/shopping/news/how-to-watch-the-boys-online-streaming-1236037797/",
-    "picture_source": "Vulture",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "India",
-    "title": "Chandu Champion",
-    "pubDate": "Thu, 13 Jun 2024 15:30:00 +0530",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTp-FrHJ769OSei75_t08v5K6twSOe5bs3u_n8MJweoNlM_J50Z38lSxvFSG9JTR5RFuG-BQ6gIMg",
-    "news_item_snippet": "Kabir Khan and Kartik Aaryan find the sweet spot between crunching sports film and full-bore melodrama.",
-    "news_item_url": "https://www.livemint.com/mint-lounge/art-and-culture/chandu-champion-review-film-kartik-aaryan-kabir-khan-sports-11718343931975.html",
-    "picture_source": "Moneycontrol.com",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "India",
-    "title": "JKBOSE 10th Result 2024",
-    "pubDate": "Thu, 13 Jun 2024 17:30:00 +0530",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRsZkNllemUW1p9xccSAB2J3a0NL4HD9c4ragp0hnzAj9tSrGPBoFoQSJHxwiQrJJVN8hsNzdpp",
-    "news_item_snippet": "News News: The Jammu and Kashmir Board of Secondary Education (JKBOSE) has announced the Class 10 Result 2024, available on their official website and via&nbsp;...",
-    "news_item_url": "https://timesofindia.indiatimes.com/education/news/jkbose-class-10-result-2024-announced-on-jkbose-nic-in-check-direct-link-here/articleshow/110971543.cms",
-    "picture_source": "Financial Express",
-    "approx_traffic": "100,000+"
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSW2dQTqbx5dZLByYxtTVl4Ulh5CNZHBOWPQZhWgmKJ80qY2vlPdSZGTgmOJmEQx7NaFnfu1Ozp",
+    "news_item_snippet": "\u0905\u092e\u0947\u0930\u093f\u0915\u093e-\u0906\u092f\u0930\u0932\u0948\u0902\u0921 \u092e\u0948\u091a \u092a\u0930 \u092a\u093e\u0915\u093f\u0938\u094d\u0924\u093e\u0928 \u0915\u0940 \u092d\u0940 \u0928\u093f\u0917\u093e\u0939\u0947\u0902 \u0939\u094b\u0902\u0917\u0940\u0964 \u0917\u094d\u0930\u0941\u092a-\u090f \u092e\u0947\u0902 \u092d\u093e\u0930\u0924 \u0915\u0940 \u091f\u0940\u092e \u0938\u0941\u092a\u0930-8 \u092e\u0947\u0902 \u092a\u0939\u0941\u0902\u091a \u0917\u0908 \u0939\u0948\u0964 \u0905\u092e\u0947\u0930\u093f\u0915\u093e 4 \u0905\u0902\u0915 \u0915\u0947 \u0938\u093e\u0925 \u0926\u0942\u0938\u0930\u0947 \u0928\u0902\u092c\u0930 \u092a\u0930&nbsp;...",
+    "news_item_url": "https://www.jansatta.com/khel/cricket/usa-vs-ire-live-cricket-score-t20-world-cup-2024-united-states-vs-ireland-live-cricket-score-updates-florida/3423786/",
+    "picture_source": "NDTVSports.com",
+    "approx_traffic": "500,000+"
   },
   {
     "country": "Argentina",
@@ -301,23 +271,13 @@
   },
   {
     "country": "Argentina",
-    "title": "Deportivo Riestra  River Plate",
+    "title": "River",
     "pubDate": "Thu, 13 Jun 2024 15:00:00 -0300",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQgUUdajJhmnJhm14FIekJbhP6QN8Sv2m9MzrBDuOkg2R6kW3jKIIIdlS_HI-Q3a43atCAR-ozC",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQ0ubBhhGgjISTnuNat98EMKqYf67obkze_oRzhF7D7uqGA7BLfEOVQrlWa5fYfVahG_AlSavd-",
     "news_item_snippet": "Cerr\u00f3 el semestre rodeado de incertidumbre ante un equipo de Fabbiani que se hizo el a\u00f1o. El ciclo Demichelis, en su punto m\u00e1s cr\u00edtico.",
     "news_item_url": "https://www.ole.com.ar/futbol-primera/riestra-river-hoy-vivo-liga-profesional-hora-ver-formaciones_0_dWetwbUvvp.html",
-    "picture_source": "Infobae.com",
-    "approx_traffic": "500,000+"
-  },
-  {
-    "country": "Argentina",
-    "title": "Racing",
-    "pubDate": "Thu, 13 Jun 2024 21:00:00 -0300",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRzOnyVrnbl6KdVs3guoSqI42PPSRlMPhUnRhEiv9y7FyZlA5dhyKGAaU5hmApvbdEJwB2EP102",
-    "news_item_snippet": "El resultado final no le hizo justicia a la superioridad granate. Goles de Carrera y Bou y partidazo de Marcelino Moreno. Lindo e improvisado homenaje a...",
-    "news_item_url": "https://www.pagina12.com.ar/744565-lanus-le-saco-el-invicto-a-racing-en-una-noche-de-baile-y-em",
-    "picture_source": "TyC Sports",
-    "approx_traffic": "100,000+"
+    "picture_source": "La P\u00e1gina Millonaria",
+    "approx_traffic": "200,000+"
   },
   {
     "country": "Argentina",
@@ -341,12 +301,32 @@
   },
   {
     "country": "Argentina",
+    "title": "Racing",
+    "pubDate": "Thu, 13 Jun 2024 21:00:00 -0300",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRzOnyVrnbl6KdVs3guoSqI42PPSRlMPhUnRhEiv9y7FyZlA5dhyKGAaU5hmApvbdEJwB2EP102",
+    "news_item_snippet": "El resultado final no le hizo justicia a la superioridad granate. Goles de Carrera y Bou y partidazo de Marcelino Moreno. Lindo e improvisado homenaje a...",
+    "news_item_url": "https://www.pagina12.com.ar/744565-lanus-le-saco-el-invicto-a-racing-en-una-noche-de-baile-y-em",
+    "picture_source": "TyC Sports",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Argentina",
     "title": "Independiente  Banfield",
     "pubDate": "Thu, 13 Jun 2024 07:00:00 -0300",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSoLNssKIq6stvIUYK0aYqfeE3W5D7ziTzs4GsQaQEouZfAxm2FC1zlTgK_5SAVUF-d5Q4ZJz-e",
     "news_item_snippet": "Independiente le gan\u00f3 2 a 1 a Banfield, en Avellaneda, por la quinta fecha de la Liga Profesional de F\u00fatbol, en el \u00faltimo partido del Rojo con DT interino&nbsp;...",
     "news_item_url": "https://www.analisisdigital.com.ar/deportes/2024/06/13/independiente-le-gano-banfield-en-la-previa-de-la-llegada-de-vaccari",
     "picture_source": "InfoRegi\u00f3n",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Argentina",
+    "title": "Sarmiento  Estudiantes",
+    "pubDate": "Thu, 13 Jun 2024 18:00:00 -0300",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRcr4dVTGeoocCVPEWvYGYRD_3T5zf9eGQ_P_5yArxV5Pynxr7uXLjpP0Xa2VyTrUE2EeI3nKhF",
+    "news_item_snippet": "El \u00faltimo campe\u00f3n del f\u00fatbol argentino cerr\u00f3 un gran semestre con una dura derrota ante el Verde, post eliminaci\u00f3n de la Libertadores.",
+    "news_item_url": "https://www.ole.com.ar/futbol-primera/estudiantes-sarmiento-liga-profesional_0_K5jzbE5SET.html",
+    "picture_source": "TyC Sports",
     "approx_traffic": "50,000+"
   },
   {
@@ -378,26 +358,6 @@
     "news_item_url": "https://westfaironline.com/latest-news/yankee-great-derek-jeter-sells-orange-county-castle/",
     "picture_source": "Westfair Online",
     "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Australia",
-    "title": "UFC",
-    "pubDate": "Fri, 14 Jun 2024 15:00:00 +1000",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcT1-Y0CLNSpbbKYY0NOeVJaVwdsDfDiBuUR94VQ5FQKiQ6mSIPC-CL7gzUjafFjdlLfTtCpmufU",
-    "news_item_snippet": "Conor McGregor vs Michael Chandler has been postponed indefinitely, 16 months after it was first announced. As Alex Pattle writes, fans&#39; disappointment&nbsp;...",
-    "news_item_url": "https://www.independent.co.uk/sport/ufc/conor-mcgregor-fight-cancelled-injury-chandler-303-b2562600.html",
-    "picture_source": "Bleacher Report",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Brazil",
-    "title": "Eurocopa",
-    "pubDate": "Fri, 14 Jun 2024 06:00:00 -0500",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRdZKjhnKg76cG8ElCw_oSthwEJlpq5lgDVmbdXc6UmBk6D1weNKypoiyzEK-vJT4I3Vv1UWs6c",
-    "news_item_snippet": "A equipe de transmiss\u00e3o da TV Globo ser\u00e1 a mesma em todos os cinco jogos, composta pelo narrador Gustavo Villani e os comentaristas Paulo Nunes e Caio Ribeiro.",
-    "news_item_url": "https://www.uol.com.br/esporte/colunas/allan-simon/2024/06/14/7-coisas-que-voce-precisa-saber-sobre-a-eurocopa-na-tv-em-2024.htm",
-    "picture_source": "Terra",
-    "approx_traffic": "100,000+"
   },
   {
     "country": "Brazil",
@@ -441,6 +401,16 @@
   },
   {
     "country": "Brazil",
+    "title": "Nahim",
+    "pubDate": "Thu, 13 Jun 2024 06:00:00 -0500",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQHkO_tZFIggagG-OrurJrfRrOO0YAjeYRkMgyr7kgCvlsEK_G3HPhh7Pc9CQ5J3QJpr4DFG205",
+    "news_item_snippet": "Artista foi encontrado morto em sua casa, em Tabu\u00e3o da Serra, S\u00e3o Paulo, na \u00faltima quinta-feira (13)",
+    "news_item_url": "https://extra.globo.com/entretenimento/musica/noticia/2024/06/nahim-o-que-se-sabe-sobre-a-morte-do-cantor-aos-71-anos.ghtml",
+    "picture_source": "G1",
+    "approx_traffic": "500,000+"
+  },
+  {
+    "country": "Brazil",
     "title": "Brasil",
     "pubDate": "Thu, 13 Jun 2024 05:00:00 -0500",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQ7CqYIi8saH1C0EIccrfAmCefFGwQzOb7cQe2nl9jCYSPR-qnFbXgilgoPHz_WDMgPyB1IXyvR",
@@ -470,36 +440,6 @@
     "approx_traffic": "500,000+"
   },
   {
-    "country": "Brazil",
-    "title": "NBA",
-    "pubDate": "Thu, 13 Jun 2024 05:00:00 -0500",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQjYAdxsb42gurcRwKnI0y-Xpgj_DNsunCMCk2v2xWge0KKyYRJb7zDaaRI3RlyHU4QbzZvV3q9rw",
-    "news_item_snippet": "Veja tudo o que rolou em mais um dia de Finais da NBA, por Rafa Prado.",
-    "news_item_url": "https://www.terra.com.br/esportes/basquete/nba/nba-os-clutchs-dos-celtics-e-os-ineditismos-dos-mavericks,f530bebea72e86f22aaa134eaa0f1309zdabr6i7.html",
-    "picture_source": "globoesporte.com",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "Brazil",
-    "title": "Jogo do Brasil",
-    "pubDate": "Thu, 13 Jun 2024 05:00:00 -0500",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQ4WVJ3VchBcSPYLRG2YP9FmiRgTK7IbuAcaXgtrnrRYPkArEjYumwfJyUJnIIiHgjpskp1OWkm",
-    "news_item_snippet": "Equipes se enfrentam na madrugada desta sexta-feira (14), \u00e0s 2h30 (hor\u00e1rio de Bras\u00edlia), em Hong Kong.",
-    "news_item_url": "https://www.cnnbrasil.com.br/esportes/volei/brasil-x-bulgaria-horario-e-onde-assistir-ao-jogo-da-liga-das-nacoes-feminina-de-volei/",
-    "picture_source": "Valor Econ\u00f4mico",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "Brazil",
-    "title": "Cantor Nahim",
-    "pubDate": "Thu, 13 Jun 2024 07:00:00 -0500",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQHkO_tZFIggagG-OrurJrfRrOO0YAjeYRkMgyr7kgCvlsEK_G3HPhh7Pc9CQ5J3QJpr4DFG205",
-    "news_item_snippet": "Artista foi encontrado morto em sua casa, em Tabu\u00e3o da Serra, S\u00e3o Paulo, na \u00faltima quinta-feira (13)",
-    "news_item_url": "https://extra.globo.com/entretenimento/musica/noticia/2024/06/nahim-o-que-se-sabe-sobre-a-morte-do-cantor-aos-71-anos.ghtml",
-    "picture_source": "G1",
-    "approx_traffic": "200,000+"
-  },
-  {
     "country": "Canada",
     "title": "UFC",
     "pubDate": "Fri, 14 Jun 2024 01:00:00 -0400",
@@ -512,12 +452,12 @@
   {
     "country": "Canada",
     "title": "Oilers",
-    "pubDate": "Thu, 13 Jun 2024 11:00:00 -0400",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRvmtJoy6HlGt0Dl9BTmd_DoKcZ0lalVNt0OK0BSdpYHhZy1c8evpuCXIH_L9x9bXeMjEZJfg_u",
-    "news_item_snippet": "Connor McDavid&#39;s dream of hoisting a Stanley Cup this spring is turning into a nightmare. Sergei Bobrovsky made 32 saves as the Florida Panthers held on to&nbsp;...",
-    "news_item_url": "https://edmonton.ctvnews.ca/panthers-hold-on-to-beat-oilers-4-3-and-take-3-0-lead-in-stanley-cup-final-1.6925735",
-    "picture_source": "Edmonton Journal",
-    "approx_traffic": "500,000+"
+    "pubDate": "Thu, 13 Jun 2024 06:00:00 -0400",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSHL-JGQb3pL38slC7DtpNDdlzdQpSPqjQchTf9P2yn0kbDFbx0l9EAZNZ9RHdkqFoOVE4KXbz9",
+    "news_item_snippet": "Edmonton Oilers face elimination after Bobrovsky stares them down again in 4-3 loss in Game 3: Cult of Hockey Player Grades &middot; Now? The Oilers face elimination in&nbsp;...",
+    "news_item_url": "https://edmontonjournal.com/sports/hockey/nhl/cult-of-hockey/edmonton-oilers-face-elimination-after-bobrovsky-stares-them-down-again-in-4-3-loss-in-game-3-cult-of-hockey-player-grades",
+    "picture_source": "CTV Edmonton",
+    "approx_traffic": "200,000+"
   },
   {
     "country": "Canada",
@@ -531,13 +471,23 @@
   },
   {
     "country": "Canada",
+    "title": "Edmonton Oilers",
+    "pubDate": "Thu, 13 Jun 2024 23:00:00 -0400",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQKY7IADs1VNehJmaDnUaMs4b_81OyCiHa4doTK3ClS0olXHv31oVw5-aZGhvwzRktfuDLd4zI0",
+    "news_item_snippet": "Edmonton Oilers face elimination after Bobrovsky stares them down again in 4-3 loss in Game 3: Cult of Hockey Player Grades &middot; Now? The Oilers face elimination in&nbsp;...",
+    "news_item_url": "https://edmontonjournal.com/sports/hockey/nhl/cult-of-hockey/edmonton-oilers-face-elimination-after-bobrovsky-stares-them-down-again-in-4-3-loss-in-game-3-cult-of-hockey-player-grades",
+    "picture_source": "Globalnews.ca",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "Canada",
     "title": "U.S. Open Golf",
     "pubDate": "Thu, 13 Jun 2024 10:00:00 -0400",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSuGyhsHjrHVNqm6l7SxhOvAUwUuxGY5iDJWORUmjfXhYdFpj666oqcvV2GtxsfCYJGuPt9uYl_",
-    "news_item_snippet": "The 2024 U.S. Open continues on Friday as the field of 156 will dwindle down to 60 players that will make the cut. Follow live for the updated leaderboard.",
-    "news_item_url": "https://www.usatoday.com/story/sports/golf/2024/06/14/us-open-2024-leaderboard-live-updates-golf-leaders-friday/74087173007/",
+    "news_item_snippet": "Trophy Club Weekly Ticket Package. Experience the U.S. Open from this premium climate-controlled facility located adjacent to the iconic 3rd fairway. &middot; Gallery&nbsp;...",
+    "news_item_url": "https://www.usopen.com/2025/tickets.html",
     "picture_source": "Scores & Odds Hub",
-    "approx_traffic": "100,000+"
+    "approx_traffic": "50,000+"
   },
   {
     "country": "Canada",
@@ -554,9 +504,19 @@
     "title": "Bridgerton",
     "pubDate": "Thu, 13 Jun 2024 06:00:00 -0400",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQevu3YDkuB-k-CK5QMmCPAJuzxchzZDIpO47vDGgr3vRrRzxyBQULyovmY_JB5tPKf_kTMjEEG",
-    "news_item_snippet": "Warning: Spoilers ahead for Bridgerton Season 3 and parts of &#39;When He Was Wicked.&#39; Bridgerton&#39;s John Stirling, the Earl of Kilmartin, is not one of many&nbsp;...",
-    "news_item_url": "https://www.forbes.com/sites/monicamercuri/2024/06/13/bridgerton-star-victor-alli-talks-part-two-francesca-and-johns-future-and-michaela-stirling/",
+    "news_item_snippet": "Nicola Coughlan&#39;s steamy start to the costume romp&#39;s third season is the show&#39;s most passionate yet \u2013 although it&#39;s not the worst TV episode you could&nbsp;...",
+    "news_item_url": "https://www.theguardian.com/tv-and-radio/article/2024/jun/14/bridgerton-longest-sex-scene-nicola-coughlan-luke-newton",
     "picture_source": "Forbes",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Saudi Arabia",
+    "title": "\u064a\u0648\u0645 \u0639\u0631\u0641\u0629",
+    "pubDate": "Thu, 13 Jun 2024 13:00:00 +0300",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRkTiZPyTBnbj3BWVGDGeSuoHibATPcjYsb2_4G9wKFfpTj-EFZFEKWejtwStpd6DL6okgJ8IGm",
+    "news_item_snippet": "\u064a\u062a\u0631\u0642\u0628 \u0639\u062f\u062f \u0643\u0628\u064a\u0631 \u0645\u0646 \u0627\u0644\u0645\u0633\u0644\u0645\u064a\u0646 \u0628\u0645\u062e\u062a\u0644\u0641 \u0623\u0646\u062d\u0627\u0621 \u0627\u0644\u0639\u0627\u0644\u0645\u060c \u0635\u064a\u0627\u0645 \u064a\u0648\u0645 \u0639\u0631\u0641\u0629 2024\u060c \u0644\u064a\u062a\u0645 \u0627\u063a\u062a\u0646\u0627\u0645\u0647 \u0628\u0634\u062a\u0649 \u0627\u0644\u0623\u0639\u0645\u0627\u0644 \u0627\u0644\u0635\u0627\u0644\u062d\u0629\u060c \u0648\u0645\u0646\u0647\u0627 \u0627\u0644\u0630\u0643\u0631 \u0648\u0627\u0644\u062a\u0643\u0628\u064a\u0631 \u0648\u0627\u0644\u062d\u0645\u062f \u0648\u0627\u0644\u062a\u0647\u0644\u064a\u0644\u060c \u0648\u0642\u0631\u0627\u0621\u0629 \u0627\u0644\u0642\u0631\u0622\u0646&nbsp;...",
+    "news_item_url": "https://www.almasryalyoum.com/news/details/3192935",
+    "picture_source": "\u0645\u0635\u0631\u0627\u0648\u064a",
     "approx_traffic": "50,000+"
   },
   {
@@ -573,20 +533,20 @@
     "country": "France",
     "title": "Sujet bac fran\u00e7ais 2024",
     "pubDate": "Thu, 13 Jun 2024 19:00:00 +0200",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTHl-cEAvITZmnNZG3oxJrPslTxcu_s1_kflNc2vBH76dyHvkCCE3T9wAsOLLoz4Fojbm84FYna",
-    "news_item_snippet": "Au programme : un commentaire de texte ou une dissertation, selon la pr\u00e9f\u00e9rence du candidat, autour d&#39;une \u0153uvre \u00e9tudi\u00e9e au programme. Mais sur quel sujet ont&nbsp;...",
-    "news_item_url": "https://diplomeo.com/actualite-sujets_bac_francais_2024",
-    "picture_source": "BFMTV",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRDkxIEL983MIUCMnObmTqIy0zTM9iCB1jVeRhoienelDBwm3aea7WtQCrl4sbCilkDyKZIwYmA",
+    "news_item_snippet": "Les \u00e9l\u00e8ves de premi\u00e8re ont planch\u00e9 sur leur copie pendant 4 heures. Prochaine \u00e9tape : l&#39;oral de fran\u00e7ais, qui se d\u00e9roule jusqu&#39;au 5 juillet.",
+    "news_item_url": "https://etudiant.lefigaro.fr/article/bac/en-direct-bac-de-francais-2024-les-eleves-de-premiere-s-appretent-a-passer-leur-epreuve-ecrite-20240614/",
+    "picture_source": "Diplomeo",
     "approx_traffic": "100,000+"
   },
   {
     "country": "France",
     "title": "Nouveau Front populaire",
     "pubDate": "Thu, 13 Jun 2024 21:00:00 +0200",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQgFQ71pddYIzLjCnCNKA7SwC71B1-3aVdhoFPas_lfgRyg1tcEPvcF2fGwdCWysTztLeCZNbLM",
-    "news_item_snippet": "Apr\u00e8s plusieurs jours de d\u00e9bats entre les cadres des partis de gauche, une alliance a \u00e9t\u00e9 trouv\u00e9e sous la banni\u00e8re Front Populaire entre les socialistes,&nbsp;...",
-    "news_item_url": "https://la1ere.francetvinfo.fr/legislatives-2024-le-programme-outre-mer-du-nouveau-front-populaire-1496900.html",
-    "picture_source": "FRANCE 24",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRZOgtdoXWCSSMJZDPvy-nxzRy4C89Z23zy9pTsK-SMFHNbzZ2nP90d8Pd4-fBZoZRv4gfpHyGQ",
+    "news_item_snippet": "Dans la soir\u00e9e de jeudi, le Parti socialiste, la France insoumise, le Parti communiste et les Ecologistes, ainsi que plusieurs autres petits partis de&nbsp;...",
+    "news_item_url": "https://www.publicsenat.fr/actualites/politique/nouveau-front-populaire-la-repartition-des-circonscriptions-est-bouclee-les-partis-designent-leurs-candidats",
+    "picture_source": "Alternatives \u00c9conomiques",
     "approx_traffic": "50,000+"
   },
   {
@@ -597,6 +557,16 @@
     "news_item_snippet": "L&#39;Italien se rapproche inexorablement de l&#39;OM. Apr\u00e8s avoir trouv\u00e9 un accord avec le coach transalpin, le club phoc\u00e9en est en passe d&#39;en faire de (.",
     "news_item_url": "https://www.footmercato.net/a5327541434633847236-accord-verbal-entre-lom-et-brighton-pour-roberto-de-zerbi",
     "picture_source": "Peuple Olympien",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "France",
+    "title": "Melenchon",
+    "pubDate": "Thu, 13 Jun 2024 18:00:00 +0200",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTu1BgbgwtXL_ZhQSGArTm1-rEf2vCIU99jMeXG8t85SGSzmXLrR4_t8q0YyAVOmC3-L77EApx1",
+    "news_item_snippet": "Paris - Mercredi, le leader insoumis avait dit se sentir \u00abcapable\u00bb d&#39;\u00eatre Premier ministre. \u00abJe ne le disqualifie pas, je dis juste que ce choix sera un&nbsp;...",
+    "news_item_url": "https://www.lopinion.fr/politique/legislatives-olivier-faure-ne-disqualifie-pas-jean-luc-melenchon-comme-premier-ministre",
+    "picture_source": "Public S\u00e9nat",
     "approx_traffic": "50,000+"
   },
   {
@@ -623,10 +593,10 @@
     "country": "Germany",
     "title": "Terzic",
     "pubDate": "Thu, 13 Jun 2024 14:00:00 +0200",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcS975pfhJxxWVejKOfOiqP1R3PwIjTdtcvUX2JPY6-yCBre5CgWiDB5wkiFfW_XMC04ngayj3xr",
-    "news_item_snippet": "Edin Terzi\u0107 hat verk\u00fcndet, dass er Borussia Dortmund sofort verlassen wird. \u00dcbernimmt jetzt Co-Trainer Nuri \u015eahin?",
-    "news_item_url": "https://www.dasding.de/newszone/trainer-terzic-bvb-trennung-dortmund-100.html",
-    "picture_source": "kicker",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQUvWTIK-razFhduyxs1ZZWWNxhV4SYDJ5qofgErJ763lNbUhIwjcxQrFjDzeBN5uJ52ArzfgM3",
+    "news_item_snippet": "Borussia Dortmund geht mit einem neuen Trainer in die kommende Saison. Edin Terzic verk\u00fcndete am Donnerstag seinen Abschied.",
+    "news_item_url": "https://www.kicker.de/terzic-nicht-mehr-trainer-des-bvb-wird-sahin-nachfolger-1031675/artikel",
+    "picture_source": "SPORT1",
     "approx_traffic": "200,000+"
   },
   {
@@ -644,8 +614,8 @@
     "title": "Schottland",
     "pubDate": "Thu, 13 Jun 2024 23:00:00 +0200",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcR7KHqAgRZ76LNc5RmEILYR0PcUu5cwHm5JMrfuPxNoRjCkvzdzXInthD25u-DW3U5sta_Col0i",
-    "news_item_snippet": "In der Quali schlugen die Schotten sogar Spanien. Dass danach ihr Selbstvertrauen schwand, kann ihnen nur helfen. Was Sie zum ersten deutschen EM-Gegner&nbsp;...",
-    "news_item_url": "https://www.zeit.de/sport/2024-06/schottland-fussball-nationalmannschaft-em",
+    "news_item_snippet": "F\u00fcr Deutschland geht es bei der Europameisterschaft 2024 im ersten Spiel am Freitag, 14. Juni, gegen Schottland. Trainer Julian Nagelsmann setzt im Tor voll&nbsp;...",
+    "news_item_url": "https://www.infranken.de/sport/fussball/deutschland-schottland-live-im-tv-und-stream-em-ard-zdf-rtl-magenta-art-5881879",
     "picture_source": "Ruhr Nachrichten",
     "approx_traffic": "50,000+"
   },
@@ -653,10 +623,10 @@
     "country": "Germany",
     "title": "Bridgerton",
     "pubDate": "Thu, 13 Jun 2024 20:00:00 +0200",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQdsinsC7M08SRhOhlGs9meZiO5fedxDfVn_qR_p7LoIdDCdb2RHS3btKwEMM_A-26UEWcX-U7e",
-    "news_item_snippet": "Wie geht es weiter mit Penelope und Colin? Drei Staffeln lang verfolgten Zuschauer:innen die Freundschaft zwischen Penelope Featherington (gespielt von Nicola&nbsp;...",
-    "news_item_url": "https://www.musikexpress.de/bridgerton-was-euch-im-zweiten-teil-der-dritten-staffel-erwartet-2709545/",
-    "picture_source": "www.myself.de",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRwG5xhl8ZHhCdQVYSNsHzDgELTXO5QcxMpjYVm65PNL7HMVaDrR9tUfhoTQsaVpHL_Oii8Y9JU",
+    "news_item_snippet": "In der Serie \u201eBridgerton\u201c sind einige Sportarten zu sehen. Doch fand das tats\u00e4chlich so im 19. Jahrhundert statt? FITBOOK kl\u00e4rt auf.",
+    "news_item_url": "https://www.fitbook.de/fitness/sport-entstehung",
+    "picture_source": "FITBOOK",
     "approx_traffic": "50,000+"
   },
   {
@@ -682,12 +652,12 @@
   {
     "country": "Germany",
     "title": "Apple",
-    "pubDate": "Mon, 10 Jun 2024 10:00:00 +0200",
+    "pubDate": "Mon, 10 Jun 2024 22:00:00 +0200",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRzdOR8jCVGeRAu1qTUY9FXIx_4ZFrya9NVvf2kPELPgGZPxs59x76-1rXHYl-XXqH1AvtNnr3K",
-    "news_item_snippet": "Durch die geschlossene Plattform und die M-Chips hat Apple schon zu Anfang einige Vorteile gegen\u00fcber der Konkurrenz. Die neue KI-Strategie ist clever.",
-    "news_item_url": "https://www.golem.de/news/apple-intelligence-der-apple-vorteil-2406-185946.html",
+    "news_item_snippet": "WWDC2024 Mit KI will Apple das Nutzererlebnis verbessern \u2013 und dabei Fortschritt und Datenschutz in Einklang bringen. Doch es gibt auch Nachteile.",
+    "news_item_url": "https://www.golem.de/news/apple-intelligence-apple-will-ki-und-datenschutz-vereinen-2406-185938.html",
     "picture_source": "Capital - Wirtschaft ist Gesellschaft",
-    "approx_traffic": "100,000+"
+    "approx_traffic": "50,000+"
   },
   {
     "country": "Italy",
@@ -698,16 +668,6 @@
     "news_item_url": "https://www.milanotoday.it/cronaca/andrea-piscina.html",
     "picture_source": "Sky Tg24",
     "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Mexico",
-    "title": "Eurocopa",
-    "pubDate": "Fri, 14 Jun 2024 01:00:00 -0600",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRetV-LNSZdW614ONCQJJ7425-65eQaBB4mebWrTPB_NcVd-g0Ks7Iyoak0_S0BBzYPtTfxo2Zf",
-    "news_item_snippet": "Parece que fue ayer cuando Inglaterra e Italia emocionaron a los fan\u00e1ticos con una final que lleg\u00f3 hasta los penales en el Estadio de Wembley,&nbsp;...",
-    "news_item_url": "https://www.elfinanciero.com.mx/deportes/2024/06/14/eurocopa-2024-en-vivo-alemania-vs-escocia-minuto-a-minuto-donde-ver-resultado-jornada-1/",
-    "picture_source": "CNN",
-    "approx_traffic": "100,000+"
   },
   {
     "country": "Mexico",
@@ -751,23 +711,33 @@
   },
   {
     "country": "Spain",
-    "title": "Eurocopa",
-    "pubDate": "Fri, 14 Jun 2024 00:00:00 +0200",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRZ4w3aNuUL6URANWShlQFi-I303Nz0sCt6mhrrt52Q0KRdZuDGh7ZVE061VII4uGkdfniKP_TL",
-    "news_item_snippet": "Alemania y Escocia inauguran oficialmente hoy, viernes 14 de junio, en M\u00fanich la Eurocopa 2024 con el primer partido oficial del campeonato.",
-    "news_item_url": "https://www.elmundo.es/como/2024/06/14/666befd6e9cf4ada308b4589.html",
-    "picture_source": "RTVC",
+    "title": "Verano Joven 2024",
+    "pubDate": "Fri, 14 Jun 2024 13:00:00 +0200",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTrcHHB5WE5FYHQybXQf6PpN5GkcWTHiMvmjXctpTJHKC19SCw-qx9mPtIuWe0xqO1YIckYm-ug",
+    "news_item_snippet": "El Gobierno renueva estos plan de descuentos para autobuses, trenes y pases de interrail.",
+    "news_item_url": "https://los40.com/2024/06/14/verano-joven-2024-requisitos-cuando-se-puede-solicitar-y-como-comprar-billetes-con-el-descuento-de-hasta-el-90/",
+    "picture_source": "ABC.es",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Spain",
+    "title": "RCD Espanyol  Sporting Gij\u00f3n",
+    "pubDate": "Thu, 13 Jun 2024 12:00:00 +0200",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRhBsAc1DDrOeLGjMjmZf1p4zrwwptBZWUtx_qEoObC5tasKC5NBpvr7ARZ90kBdOopnQfoEqYK",
+    "news_item_snippet": "El RCD Espanyol se enfrentar\u00e1 al Real Oviedo en la final por una plaza en LaLiga EA Sports 2024-2025. El partido de ida se disputar\u00e1 el domingo 16 de junio en&nbsp;...",
+    "news_item_url": "https://www.elconfidencial.com/deportes/2024-06-13/espanyol-sporting-gijon-playoff-ascenso-primera_3902628/",
+    "picture_source": "ABC.es",
     "approx_traffic": "200,000+"
   },
   {
     "country": "Spain",
-    "title": "Verano Joven 2024",
-    "pubDate": "Fri, 14 Jun 2024 13:00:00 +0200",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcR8iXOBrN4zH6pF8bhIQuR29m2_NUWMh34FZe-TY1QFdNP6Qx-DRaCbGjek1J2HPd6JYXJBwYme",
-    "news_item_snippet": "Este s\u00e1bado se habilita la web para poder solicitar los descuentos de hasta 90% en billetes de trenes de media distancia y autobuses de titularidad estatal.",
-    "news_item_url": "https://www.abc.es/sevilla/ciudad/bono-verano-joven-2024-destinos-puedes-euro-20240614134040-nts.html",
-    "picture_source": "LOS40",
-    "approx_traffic": "50,000+"
+    "title": "Victoria Abril",
+    "pubDate": "Thu, 13 Jun 2024 12:00:00 +0200",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQuhPa-ZBOi9xSwRcSk9Wy-XgyOIqvKkEek-y66sGU8s80LpqwXwatT02aj3MVS7IeXYz4Psr1w",
+    "news_item_snippet": "La actriz visit\u00f3 este mi\u00e9rcoles el programa de Pablo Motos y asegur\u00f3 estar muy desilusionada con el cine que se hace actualmente Victoria porque &quot;no hay&nbsp;...",
+    "news_item_url": "https://www.elconfidencial.com/television/programas-tv/2024-06-13/victoria-abril-el-hormiguero-censura-cine-libertad_3902192/",
+    "picture_source": "El Mundo",
+    "approx_traffic": "100,000+"
   },
   {
     "country": "United Kingdom",
@@ -778,6 +748,16 @@
     "news_item_url": "https://westfaironline.com/latest-news/yankee-great-derek-jeter-sells-orange-county-castle/",
     "picture_source": "Westfair Online",
     "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United Kingdom",
+    "title": "Reform UK",
+    "pubDate": "Fri, 14 Jun 2024 10:00:00 +0100",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTJiTqvFtv1A6K5BhMttCLYZIthz-fKThEMVIO8y6BApqh9V8kMNv89f0L71WXVuoLvibfmixJp",
+    "news_item_snippet": "On Thursday, a YouGov poll showed that Reform have overtaken the Conservatives for the first time.",
+    "news_item_url": "https://www.bristol247.com/news-and-features/news/who-are-reform-uk-candidates-bristol/",
+    "picture_source": "EURACTIV",
+    "approx_traffic": "50,000+"
   },
   {
     "country": "United Kingdom",
@@ -818,25 +798,5 @@
     "news_item_url": "https://www.usatoday.com/story/sports/golf/2024/06/14/us-open-2024-leaderboard-live-updates-golf-leaders-friday/74087173007/",
     "picture_source": "Scores & Odds Hub",
     "approx_traffic": "100,000+"
-  },
-  {
-    "country": "United Kingdom",
-    "title": "Scotland v Germany",
-    "pubDate": "Thu, 13 Jun 2024 21:00:00 +0100",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSQOjNQgyjb_-tmS2gVhij7V5cakHFBx2HA-p7tEtD6PBA-baausItx6xEk36mHPEc2lU308-rN",
-    "news_item_snippet": "Germany face Scotland in the Euro 2024 opener with kick-off at 20:00 BST at the Munich Football Arena &middot; Hosts enter tournament looking for a fourth European&nbsp;...",
-    "news_item_url": "https://www.independent.co.uk/sport/football/germany-scotland-live-stream-score-euro-2024-b2562252.html",
-    "picture_source": "Sky Sports",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "United Kingdom",
-    "title": "Rishi Sunak",
-    "pubDate": "Thu, 13 Jun 2024 11:00:00 +0100",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQTVT9afoRaexOXaV2rKD5anLrgyXch9UM28uKJ-MfGr0fvAAhHWk1Z1PYO5ElCyEfLOMQ7Vc6y",
-    "news_item_snippet": "Prime Minister Rishi Sunak has admitted he is &quot;disappointed&quot; by the fact his close aide Craig Williams placed a bet on a July election just days before it&nbsp;...",
-    "news_item_url": "https://news.sky.com/story/rishi-sunak-sunak-disappointed-after-huge-error-of-judgement-by-aide-who-bet-on-july-general-election-13152611",
-    "picture_source": "The Guardian",
-    "approx_traffic": "50,000+"
   }
 ]
