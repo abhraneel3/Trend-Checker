@@ -41,22 +41,22 @@
   },
   {
     "country": "United States",
+    "title": "Kendrick Lamar",
+    "pubDate": "Wed, 19 Jun 2024 20:00:00 -0700",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTavYZp1rRPGl5IRgAHycHOJBODBD9EtU7m2nC9zvvqLBDAbJEWSbp3bhQmm8veWRdqdAt4D525",
+    "news_item_snippet": "(AP) \u2014 Not content with merely taking a victory lap after winning his battle against fellow rap superstar Drake, Kendrick Lamar turned his Juneteenth \u201cPop Out\u201d&nbsp;...",
+    "news_item_url": "https://apnews.com/article/kendrick-lamar-pop-out-concert-977958e25837f56a73dd2379db43f916",
+    "picture_source": "BBC News",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United States",
     "title": "Germany vs Hungary",
     "pubDate": "Wed, 19 Jun 2024 10:00:00 -0700",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTtv4xd4EJUWg5c2DMpV-atyxxS7uIaho3iywFJu3GrDuzznzKzAcL6UO_ot4M6ARX1OXoT3NlV",
     "news_item_snippet": "Euro 2024 continued on Wednesday, as Germany beat Hungary in Group A, 2-0. Here are the top moments from the match!",
     "news_item_url": "https://www.foxsports.com/live-blog/soccer/germany-vs-hungary-live-updates-score-top-moments-from-euro-2024",
     "picture_source": "The Athletic",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Kendrick Lamar",
-    "pubDate": "Wed, 19 Jun 2024 20:00:00 -0700",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQB7o9qfxTIXmX-lTeCWdoBm0YmNq3UbilFRNK7r5hOscrr0UcjMoHJLb_B7hwL9xR6tkklkulT",
-    "news_item_snippet": "Lamar brought out a host of LA rap stars to join him on five consecutive renditions of Not Like Us.",
-    "news_item_url": "https://www.bbc.com/news/articles/c0dd3vyw4myo",
-    "picture_source": "The Associated Press",
     "approx_traffic": "100,000+"
   },
   {
@@ -71,22 +71,22 @@
   },
   {
     "country": "United States",
-    "title": "Croatia vs Albania",
-    "pubDate": "Wed, 19 Jun 2024 07:00:00 -0700",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcT8MiqW_Pt5-XbuZom_gdF6Y2M86dwv3hCBHF6jMaZ_X-gJ-MycD6MbHQiSfok4gic0O1ocHO2k",
-    "news_item_snippet": "Find out about our soccer betting expert&#39;s Croatia vs Albania betting tips and predictions for Wednesday&#39;s Euro 2024 Group B clash in Hamburg.",
-    "news_item_url": "https://www.goal.com/en-us/betting/croatia-vs-albania-predictions-tips-06-19/blt4b58400d45c6693b",
-    "picture_source": "The Athletic",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "United States",
     "title": "Ten Commandments",
     "pubDate": "Wed, 19 Jun 2024 19:00:00 -0700",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRdYDq2BJ_Qtdje1BUPtD_m0fap4o0NWcw6IBN7G_7HPDJcljkV-ydagJrqxuKtnBHDme5xy5lN",
     "news_item_snippet": "Four civil liberties groups will sue the state of Louisiana after Gov. Jeff Landry signed a law that calls for the Ten Commandments to be displayed in&nbsp;...",
     "news_item_url": "https://lailluminator.com/2024/06/19/ten-commandments-4/",
     "picture_source": "BBC News",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Croatia vs Albania",
+    "pubDate": "Wed, 19 Jun 2024 07:00:00 -0700",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcT8MiqW_Pt5-XbuZom_gdF6Y2M86dwv3hCBHF6jMaZ_X-gJ-MycD6MbHQiSfok4gic0O1ocHO2k",
+    "news_item_snippet": "Find out about our soccer betting expert&#39;s Croatia vs Albania betting tips and predictions for Wednesday&#39;s Euro 2024 Group B clash in Hamburg.",
+    "news_item_url": "https://www.goal.com/en-us/betting/croatia-vs-albania-predictions-tips-06-19/blt4b58400d45c6693b",
+    "picture_source": "The Athletic",
     "approx_traffic": "50,000+"
   },
   {
@@ -94,8 +94,8 @@
     "title": "CDK cyberattack",
     "pubDate": "Wed, 19 Jun 2024 13:00:00 -0700",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRVaIYA2N7jNFpzOMPxlUj6WAJgZRIimo0R7-ixA7OS3ubk3yPr0DGpIqy6-wvX_XZTcVgqzXTp",
-    "news_item_snippet": "That is effectively preventing about 15,000 car dealerships from making sales. General Motors dealerships rely on CDK&#39;s systems, as does Group 1 Automotive, an&nbsp;...",
-    "news_item_url": "https://www.cbsnews.com/news/cdk-cyber-attack-outage-auto-dealerships-cbs-news-explains/",
+    "news_item_snippet": "CDK Global, a major software provider to auto dealerships in the U.S., has been hacked, forcing the company to shut down temporarily.",
+    "news_item_url": "https://www.cbtnews.com/cdk-global-cyberattack-disrupts-operations-at-15000-dealerships/",
     "picture_source": "USA TODAY",
     "approx_traffic": "50,000+"
   },
@@ -104,9 +104,19 @@
     "title": "Stonehenge",
     "pubDate": "Wed, 19 Jun 2024 13:00:00 -0700",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcS9CeDJGJAAdCubORPZNa-vm0IDo77-nVY6TuW79B_TLpGgpu2d-qz575HZJCXB-mAyKvPoMlUr",
-    "news_item_snippet": "The group Just Stop Oil took credit for the Wednesday afternoon action, which they said was a call on the United Kingdom to stop the use of fossil fuels by&nbsp;...",
-    "news_item_url": "https://www.npr.org/2024/06/19/nx-s1-5012595/climate-activists-arrested-stonehenge",
+    "news_item_snippet": "English Heritage chief executive Dr Nick Merriman said there appeared to be &quot;no visible damage&quot;.",
+    "news_item_url": "https://www.bbc.com/news/articles/crgg0683e7po",
     "picture_source": "Art Newspaper",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Monty Williams",
+    "pubDate": "Wed, 19 Jun 2024 09:00:00 -0700",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTRCgi6cMjDO1JBoAR0iglrpuP2q1nHXWpRSFvai3TU4apeO5QNEqB3xyWrOJzmxkiwebB4jOX2",
+    "news_item_snippet": "With Trajan Langdon now running things in Detroit, the franchise needs one voice and one vision as it aspires for relevance.",
+    "news_item_url": "https://sports.yahoo.com/monty-williams-firing-will-hopefully-signify-a-legitimate-step-forward-for-the-pistons-190153380.html",
+    "picture_source": "NBA.com",
     "approx_traffic": "50,000+"
   },
   {
@@ -141,16 +151,6 @@
   },
   {
     "country": "India",
-    "title": "Rahul Gandhi",
-    "pubDate": "Thu, 20 Jun 2024 03:30:00 +0530",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSxNiTJYy595upFzJqzDqu4WT2C0WisxG377_qX7H60qw8Le-AgO2I82EqP3Tj94OjuPT3_ujub",
-    "news_item_snippet": "Telangana Pradesh Congress Committee celebrates Rahul Gandhi&#39;s birthday with grandeur, featuring blood donation camps and community service activities.",
-    "news_item_url": "https://www.thehindu.com/news/national/telangana/congress-celebrates-rahul-gandhis-birthday-across-telangana/article68308298.ece",
-    "picture_source": "India Today",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "India",
     "title": "David Johnson",
     "pubDate": "Thu, 20 Jun 2024 15:30:00 +0530",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRPMStRuzUaHFeywSfrizcFk0FA1uC7hMQlmrLxF8CDR2KWlLl9KlH5OcfgPbMiW4ySWvnbpcDY",
@@ -161,23 +161,23 @@
   },
   {
     "country": "India",
-    "title": "South Africa vs United States",
-    "pubDate": "Wed, 19 Jun 2024 20:30:00 +0530",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSZhaQKCrZ2p1oFZjRVRl4eFz9bm47x5yCEeqsgRg5idH20hmVcAHCyN8PSRNN0_J3VVQDckdEe",
-    "news_item_snippet": "USA vs SA, T20 World Cup 2024 Super 8 Highlights: South Africa staved off a late fightback from the United States. | Crickit.",
-    "news_item_url": "https://www.hindustantimes.com/cricket/south-africa-vs-united-states-live-score-icc-mens-t20-world-cup-2024-super-8-match-1-usa-vs-sa-wc-scorecard-live-today-101718792543061.html",
-    "picture_source": "Aljazeera.com",
-    "approx_traffic": "1,000,000+"
+    "title": "Rahul Gandhi",
+    "pubDate": "Thu, 20 Jun 2024 03:30:00 +0530",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSxNiTJYy595upFzJqzDqu4WT2C0WisxG377_qX7H60qw8Le-AgO2I82EqP3Tj94OjuPT3_ujub",
+    "news_item_snippet": "Telangana Pradesh Congress Committee celebrates Rahul Gandhi&#39;s birthday with grandeur, featuring blood donation camps and community service activities.",
+    "news_item_url": "https://www.thehindu.com/news/national/telangana/congress-celebrates-rahul-gandhis-birthday-across-telangana/article68308298.ece",
+    "picture_source": "India Today",
+    "approx_traffic": "50,000+"
   },
   {
     "country": "India",
-    "title": "IND vs AFG",
+    "title": "India vs Afghanistan",
     "pubDate": "Wed, 19 Jun 2024 08:30:00 +0530",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRBASKlUcivWx0zdZNoEEx3LPYs-qW8n8aYY0qmnxjAohfZAk5wonwpZ5FNFUfvF930DhkSF-p0",
-    "news_item_snippet": "India vs Afghanistan Playing 11: Kuldeep Yadav came into the Indian playing 11 in place of Mohammed Siraj aj as India expected Barbados to assist spin&nbsp;...",
-    "news_item_url": "https://www.business-standard.com/cricket/icc-t20-world-cup/t20-world-cup-2024-super-8-ind-vs-afg-playing-11-live-toss-time-telecast-124062000041_1.html",
-    "picture_source": "Sportstar",
-    "approx_traffic": "200,000+"
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRbxUz897Y9xSlfNvEgKfbH-qJ36hpNCdMFCwRJ0JG3AhVPoAA_ORJfu5AixD0wrmE7t--jcKpm",
+    "news_item_snippet": "IND vs AFG: Check the live score and updates from India vs Afghanistan T20 World Cup 2024 Super 8 match being played at the Kensington Oval in Barbados.",
+    "news_item_url": "https://sportstar.thehindu.com/cricket/india-vs-afghanistan-live-score-t20-world-cup-2024-super-8-ind-vs-afg-match-updates-streaming-info-highlights/article68311541.ece",
+    "picture_source": "Livemint",
+    "approx_traffic": "1,000,000+"
   },
   {
     "country": "India",
@@ -221,12 +221,12 @@
   },
   {
     "country": "India",
-    "title": "UGC NET 2024",
-    "pubDate": "Wed, 19 Jun 2024 23:30:00 +0530",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRfSqvXgkIZoSkVjmnTBlWfRhfSwG4_1Qvx4-857qppTlSnhtalog79SsGm3S6MfhG3AoZmMRnJ",
-    "news_item_snippet": "UGC NET EXAM 2024: 18 \u091c\u0942\u0942\u0928 \u0915\u094b \u0938\u0902\u092a\u0928\u094d\u0928 \u0939\u0941\u0908 \u092f\u0942\u091c\u0940\u0938\u0940 \u0928\u0947\u091f \u092a\u0930\u0940\u0915\u094d\u0937\u093e 2024 \u0915\u094b \u092a\u0947\u092a\u0930 \u0932\u0940\u0915 \u0915\u0947 \u0938\u093e\u090f \u092e\u0947\u0902 \u0930\u0926\u094d\u0926 \u0915\u0930\u0928\u0947 \u0915\u093e \u092b\u0948\u0938\u0932\u093e \u0932\u093f\u092f\u093e \u0917\u092f\u093e \u0939\u0948. NEET \u0915\u0940 \u0924\u0930\u0939 \u092f\u0942\u091c\u0940\u0938\u0940&nbsp;...",
-    "news_item_url": "https://mpcg.ndtv.in/india/ugc-net-2024-exam-cancelled-exam-was-held-on-18th-june-know-what-is-the-whole-matter-5926411",
-    "picture_source": "\u0905\u092e\u0930 \u0909\u091c\u093e\u0932\u093e",
+    "title": "USA vs SA Live Score",
+    "pubDate": "Wed, 19 Jun 2024 21:30:00 +0530",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRzM_-jyCy6cLZ-ncp3lTEx2pO9NzXUyTMI19nPtrCFCviFtcC_MMGX2iupDGuxR9gaj0wE1fWY",
+    "news_item_snippet": "USA vs SA: Catch the highlights from the T20 World Cup match between South Africa and USA played at the Sir Vivian Richards Stadium in Antigua.",
+    "news_item_url": "https://sportstar.thehindu.com/cricket/usa-vs-sa-live-score-t20-world-cup-2024-match-updates-super-8-usa-vs-south-africa-streaming-info-highlights/article68307436.ece",
+    "picture_source": "Hindustan Times",
     "approx_traffic": "100,000+"
   },
   {
@@ -240,34 +240,34 @@
     "approx_traffic": "100,000+"
   },
   {
-    "country": "Argentina",
-    "title": "Conmebol Copa Am\u00e9rica",
-    "pubDate": "Thu, 20 Jun 2024 01:00:00 -0300",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQuluS87m4NbbOeKtmbIx0utdVALkAEZm7jbu3wQRxEIaf77bbEAmTfE3BaJ7vUImErwjRXxDzl",
-    "news_item_snippet": "(CNN Espa\u00f1ol) -- El cantante colombiano Feid, tambi\u00e9n conocido como Ferxxo, ser\u00e1 el artista encargado de la ceremonia inaugural de la Copa Am\u00e9rica 2024,&nbsp;...",
-    "news_item_url": "https://cnnespanol.cnn.com/2024/06/19/feid-inauguracion-copa-america-2024-orix/",
-    "picture_source": "infobae Am\u00e9rica",
+    "country": "India",
+    "title": "UGC NET 2024",
+    "pubDate": "Wed, 19 Jun 2024 23:30:00 +0530",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRfSqvXgkIZoSkVjmnTBlWfRhfSwG4_1Qvx4-857qppTlSnhtalog79SsGm3S6MfhG3AoZmMRnJ",
+    "news_item_snippet": "UGC NET EXAM 2024: 18 \u091c\u0942\u0942\u0928 \u0915\u094b \u0938\u0902\u092a\u0928\u094d\u0928 \u0939\u0941\u0908 \u092f\u0942\u091c\u0940\u0938\u0940 \u0928\u0947\u091f \u092a\u0930\u0940\u0915\u094d\u0937\u093e 2024 \u0915\u094b \u092a\u0947\u092a\u0930 \u0932\u0940\u0915 \u0915\u0947 \u0938\u093e\u090f \u092e\u0947\u0902 \u0930\u0926\u094d\u0926 \u0915\u0930\u0928\u0947 \u0915\u093e \u092b\u0948\u0938\u0932\u093e \u0932\u093f\u092f\u093e \u0917\u092f\u093e \u0939\u0948. NEET \u0915\u0940 \u0924\u0930\u0939 \u092f\u0942\u091c\u0940\u0938\u0940&nbsp;...",
+    "news_item_url": "https://mpcg.ndtv.in/india/ugc-net-2024-exam-cancelled-exam-was-held-on-18th-june-know-what-is-the-whole-matter-5926411",
+    "picture_source": "\u0905\u092e\u0930 \u0909\u091c\u093e\u0932\u093e",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "India",
+    "title": "Nvidia",
+    "pubDate": "Wed, 19 Jun 2024 08:30:00 +0530",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTWo5RHkGNmJtgNyLZmGcKBBVUOrnC2-LMLCSkVdFWCe0girjRaOwsTL9bhoOubQegZTcVqvqvJ",
+    "news_item_snippet": "Nvidia shares rose 3.5% to $135.58, lifting its market capitalization by over $110 billion to $3.335 trillion, just days after overtaking iPhone maker Apple&nbsp;...",
+    "news_item_url": "https://www.livemint.com/market/stock-market-news/nvidia-surpasses-microsoft-to-become-world-s-most-valuable-company-11718766169484.html",
+    "picture_source": "BQ Prime Hindi",
     "approx_traffic": "50,000+"
   },
   {
     "country": "Argentina",
-    "title": "Futbol Libre",
-    "pubDate": "Wed, 19 Jun 2024 23:00:00 -0300",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTTGXNEWqa1L4Vmh63vVW9Xkg-xC08dk1257kxsZdnxC0zq7UdhOBhkwMRrVeELDIreLweeRJXa",
-    "news_item_snippet": "La entidad m\u00e1s antigua organizando torneos de f\u00fatbol de sal\u00f3n en la ciudad, La Asociaci\u00f3n de Deportes y F\u00fatbol Libre, tuvo fecha el fin de semana en la&nbsp;...",
-    "news_item_url": "https://www.elcordillerano.com.ar/noticias/2024/06/19/191134-impecable-fecha-del-futbol-libre",
-    "picture_source": "El Cordillerano",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "Argentina",
-    "title": "Argentina vs canada",
+    "title": "CONMEBOL Copa Am\u00e9rica",
     "pubDate": "Wed, 19 Jun 2024 14:00:00 -0300",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTPdKIP1QUiSmYgi45wRi1trSaPqX-Tv_xvelfSkfflUzu7twhbF3B5VS7BZaOxVCjgL9iP5uh3",
-    "news_item_snippet": "1 - Argentina iniciar\u00e1 la defensa del t\u00edtulo ante Canad\u00e1 en un duelo in\u00e9dito en la historia de la Copa Am\u00e9rica. Ser\u00e1 el rival n\u00famero 16 para la Albiceleste en&nbsp;...",
-    "news_item_url": "https://www.elgrafico.com.ar/articulo/1106/78401/10-datos-de-la-previa-de-argentina-vs-canada",
-    "picture_source": "TUDN",
-    "approx_traffic": "100,000+"
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSrITHUrPvxHxxEZkDpZ-VG7j_6uZEudkNt9AJk9TKTJYKcFBq07s36xsTQ4gBoAuuc7CUFGHtm",
+    "news_item_snippet": "El 20 de junio en el Mercedes-Benz Stadium, Argentina y Canad\u00e1 abren el Grupo A y tambi\u00e9n la CONMEBOL Copa Am\u00e9rica 2024\u2122.",
+    "news_item_url": "https://copaamerica.com/es/novedades/argentina-canada-grupos-cuando-donde-ver-alineaciones-copa-america-2024",
+    "picture_source": "Conmebol",
+    "approx_traffic": "200,000+"
   },
   {
     "country": "Argentina",
@@ -281,22 +281,22 @@
   },
   {
     "country": "Argentina",
+    "title": "Croacia",
+    "pubDate": "Wed, 19 Jun 2024 10:00:00 -0300",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcR4AhhqzJFQycR4TZgYAiEemZC8BLfopakHKz5kAfbeYNvXd1nXGbpZqQ-0LkbrPvzysu0LLOdF",
+    "news_item_snippet": "El equipo de Modric perd\u00eda y lo dio vuelta, pero Gjasula clav\u00f3 el 2-2 definitivo sobre la hora. Debe ganar y rezar en la \u00faltima fecha.",
+    "news_item_url": "https://www.ole.com.ar/futbol-internacional/partidazo-albania-empato-ultima-complico-croacia-eurocopa_0_rrWpSvGwIB.html",
+    "picture_source": "Manchester City FC",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Argentina",
     "title": "Inter Miami  Columbus Crew",
     "pubDate": "Wed, 19 Jun 2024 20:00:00 -0300",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSiBtSz1DmayM4c7Bd8XzSLTC1tZaGGCDlRGE92Qo9Wq4C0yFxZULrEJ-M89BssQObMoj5T_g-k",
     "news_item_snippet": "Bienvenidos a la previa y el minuto a minuto del segundo cotejo de Las Garzas sin Messi y Su\u00e1rez. El equipo de Martino quiere ganar en casa.",
     "news_item_url": "https://us.as.com/futbol/inter-miami-columbus-crew-en-vivo-semana-21-de-mls-2024-n/",
     "picture_source": "TyC Sports",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Argentina",
-    "title": "Furia",
-    "pubDate": "Wed, 19 Jun 2024 01:00:00 -0300",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcT1mbq3QAdTHYI9Pgvi2qtJbqQc64BGEKITPxL42cZRDv6j3AiZCoqWiOfHvsG0uD1rQAtuoylf",
-    "news_item_snippet": "La \u00faltima eliminada del reality de Telefe mantuvo un di\u00e1logo con Santiago del Moro y los panelistas del debate sobre su paso por la casa.",
-    "news_item_url": "https://www.infobae.com/teleshow/2024/06/20/el-analisis-de-furia-tras-su-eliminacion-de-gran-hermano-insultar-no-es-violencia/",
-    "picture_source": "LA NACION",
     "approx_traffic": "50,000+"
   },
   {
@@ -317,7 +317,7 @@
     "news_item_snippet": "Campe\u00e3o da Copinha, Tim\u00e3o n\u00e3o come\u00e7ou bem o Brasileiro da categoria e sofreu goleada de 6 a 0 para o Cruzeiro na \u00faltima rodada.",
     "news_item_url": "https://ge.globo.com/futebol/times/corinthians/noticia/2024/06/20/corinthians-demite-danilo-do-comando-do-time-sub-20.ghtml",
     "picture_source": "globoesporte.com",
-    "approx_traffic": "2,000,000+"
+    "approx_traffic": "1,000,000+"
   },
   {
     "country": "Brazil",
@@ -326,26 +326,6 @@
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRCDFZK0zWb4_2vitlwH4lahCwqK3KcoI4WPvNRnqwvkT2cXWiFSdDo4W0A7ah4jxpu2kJ86pJI",
     "news_item_snippet": "Participantes do concurso habilitados t\u00eam agora at\u00e9 10 de julho para a entrega das propostas com os estudos preliminares.",
     "news_item_url": "https://www.saopaulo.sp.gov.br/spnoticias/ultimas-noticias/concurso-arquitetonico-para-nova-sede-de-sp-tem-50-inscricoes-homologadas-2/",
-    "picture_source": "globoesporte.com",
-    "approx_traffic": "1,000,000+"
-  },
-  {
-    "country": "Brazil",
-    "title": "Vasco",
-    "pubDate": "Wed, 19 Jun 2024 16:00:00 -0500",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTDROTpwSd-9GyJuMw3hJxIWr6qXJh-9Om8FLmgPWRdY5YtWUrXb4vC9FZfWUrN68RwI-aTjraJ",
-    "news_item_snippet": "\u00c1lvaro Pacheco vai ter vida curta como treinador do Vasco. A diretoria do clube e da SAF prepara a demiss\u00e3o do t\u00e9cnico portugu\u00eas.",
-    "news_item_url": "https://ge.globo.com/futebol/times/vasco/noticia/2024/06/19/vasco-prepara-demissao-de-alvaro-pacheco-apos-quatro-jogos-e-tres-derrotas.ghtml",
-    "picture_source": "globoesporte.com",
-    "approx_traffic": "500,000+"
-  },
-  {
-    "country": "Brazil",
-    "title": "Cruzeiro",
-    "pubDate": "Wed, 19 Jun 2024 13:00:00 -0500",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcToewjmYg5oSyIHTTjz62jcsY09L3cfmi6DclpaTtzKu6h-Oi6CWXbvalhYNMne6cq9W5n1V5DJ",
-    "news_item_snippet": "O Cruzeiro venceu o Fluminense por 2 a 0 nesta quarta-feira (19) em duelo v\u00e1lido pela 10\u00aa rodada do Campeonato Brasileiro. O jogo aconteceu no Mineir\u00e3o.",
-    "news_item_url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2024/06/19/cruzeiro-x-fluminense-10-rodada-do-campeonato-brasileiro.htm",
     "picture_source": "globoesporte.com",
     "approx_traffic": "500,000+"
   },
@@ -361,16 +341,6 @@
   },
   {
     "country": "Brazil",
-    "title": "Santos",
-    "pubDate": "Wed, 19 Jun 2024 17:00:00 -0500",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcS5UxTMiK9LRr-1mXd5oG8MJxNrO2hxv9VZPIVcQhH2E8tBzkK4-e-4_nw_xgwHAdtH3DMFiWEN",
-    "news_item_snippet": "O Santos s\u00f3 respirou tranquilo no fim da partida contra o Goi\u00e1s, quando marcou os dois gols da vit\u00f3ria por 2 a 0, na Vila Belmiro, nesta quarta-feira (19)",
-    "news_item_url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2024/06/19/santos-x-goias---11-rodada-da-serie-b.htm",
-    "picture_source": "globoesporte.com",
-    "approx_traffic": "500,000+"
-  },
-  {
-    "country": "Brazil",
     "title": "Botafogo",
     "pubDate": "Wed, 19 Jun 2024 14:00:00 -0500",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQH12pBD53IWpZgv1ewzCZvbcrJFbHQUnUcgZMRARXOhZHRfeGQS0wNAdguEPgI6TtOAgzvH-K0",
@@ -381,12 +351,22 @@
   },
   {
     "country": "Brazil",
+    "title": "Vasco",
+    "pubDate": "Wed, 19 Jun 2024 17:00:00 -0500",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTDROTpwSd-9GyJuMw3hJxIWr6qXJh-9Om8FLmgPWRdY5YtWUrXb4vC9FZfWUrN68RwI-aTjraJ",
+    "news_item_snippet": "T\u00e9cnico portugu\u00eas participa normalmente da entrevista coletiva depois da derrota para o Juventude em Caxias do Sul, mas deve ser comunicado da sa\u00edda na&nbsp;...",
+    "news_item_url": "https://ge.globo.com/futebol/times/vasco/noticia/2024/06/19/vasco-prepara-demissao-de-alvaro-pacheco-apos-quatro-jogos-e-tres-derrotas.ghtml",
+    "picture_source": "globoesporte.com",
+    "approx_traffic": "500,000+"
+  },
+  {
+    "country": "Brazil",
     "title": "Gremio",
     "pubDate": "Wed, 19 Jun 2024 16:00:00 -0500",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTcC6b7G6LysdCtcpoWaeohj7qBpnF8ai3ayNQOCZTZGHHpNbJ-x4YGBPFjGmknhdTmx_fG_vUY",
-    "news_item_snippet": "Cearenses jogam a maior parte do tempo com um homem a mais na Arena Castel\u00e3o; time de Renato Ga\u00facho est\u00e1 na zona do rebaixamento.",
-    "news_item_url": "https://www.cnnbrasil.com.br/esportes/futebol/fortaleza/fortaleza-vence-o-gremio-se-recupera-de-goleada-e-afunda-rival-na-serie-a/",
-    "picture_source": "globoesporte.com",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRY-670iB8_n6hLYBmkiXYO8tDJOJn-3WW2mvoJ2XLFVW_Z0KdoSuibB9q6XB30BEjHMY4xbGZl",
+    "news_item_snippet": "A derrota do Gr\u00eamio para o Fortaleza manteve o time na zona de rebaixamento do Campeonato Brasileiro. Apesar disso, o t\u00e9cnico Renato Ga\u00facho elogiou o&nbsp;...",
+    "news_item_url": "https://ge.globo.com/rs/futebol/times/gremio/noticia/2024/06/19/renato-elogia-postura-do-gremio-apesar-de-derrota-e-minimiza-z-4-daqui-a-pouco-vai-decolar.ghtml",
+    "picture_source": "CNN Brasil",
     "approx_traffic": "500,000+"
   },
   {
@@ -398,6 +378,36 @@
     "news_item_url": "https://www.cnnbrasil.com.br/saude/o-que-e-rim-policistico-doenca-genetica-do-cantor-chrystian/",
     "picture_source": "G1",
     "approx_traffic": "500,000+"
+  },
+  {
+    "country": "Brazil",
+    "title": "Fluminense",
+    "pubDate": "Wed, 19 Jun 2024 13:00:00 -0500",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRPCESEV8NIUsAmJ0J1iCrnKRx9uZHJ1CKpdsl7s30mN_JuOYPu7MGWeo499ZPZ0yNVWAiusB9P",
+    "news_item_snippet": "Fernando Diniz concedeu entrevista coletiva depois da derrota do Fluminense no Mineir\u00e3o para o Cruzeiro.",
+    "news_item_url": "https://www.espn.com.br/futebol/fluminense/artigo/_/id/13805889/diniz-reage-pedidos-saida-torcida-fluminense-lamenta-lanterna-sentimento-horroroso",
+    "picture_source": "globoesporte.com",
+    "approx_traffic": "500,000+"
+  },
+  {
+    "country": "Brazil",
+    "title": "Santos",
+    "pubDate": "Wed, 19 Jun 2024 17:00:00 -0500",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcS5UxTMiK9LRr-1mXd5oG8MJxNrO2hxv9VZPIVcQhH2E8tBzkK4-e-4_nw_xgwHAdtH3DMFiWEN",
+    "news_item_snippet": "O Santos s\u00f3 respirou tranquilo no fim da partida contra o Goi\u00e1s, quando marcou os dois gols da vit\u00f3ria por 2 a 0, na Vila Belmiro, nesta quarta-feira (19)",
+    "news_item_url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2024/06/19/santos-x-goias---11-rodada-da-serie-b.htm",
+    "picture_source": "globoesporte.com",
+    "approx_traffic": "500,000+"
+  },
+  {
+    "country": "Brazil",
+    "title": "CONMEBOL Copa america",
+    "pubDate": "Wed, 19 Jun 2024 23:00:00 -0500",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRwkEV6CYqV7IuDbvVRwDWo5kS8mOWDT0ksxhDFw6q3ikZDXGgLnoyC9TO12edzA8bmURJTFuNs",
+    "news_item_snippet": "O sportv exibir\u00e1 todas as 32 partidas da Copa Am\u00e9rica. O Globoplay, respons\u00e1vel pela transmiss\u00e3o via streaming, oferecer\u00e1 gratuitamente os jogos da TV aberta no&nbsp;...",
+    "news_item_url": "https://ge.globo.com/futebol/futebol-internacional/copa-america/noticia/2024/06/20/onde-assistir-a-copa-america-2024-ao-vivo-veja-horarios.ghtml",
+    "picture_source": "TechTudo",
+    "approx_traffic": "200,000+"
   },
   {
     "country": "Brazil",
@@ -420,22 +430,12 @@
     "approx_traffic": "200,000+"
   },
   {
-    "country": "Brazil",
-    "title": "Conmebol Copa america",
-    "pubDate": "Wed, 19 Jun 2024 23:00:00 -0500",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTM2A3v5-j1aW59YnwWG8kSuXtDMwHg6KCcKz7a7BntOyBDy6x33y0uJHCt4gqLb8mXkQla7_z_",
-    "news_item_snippet": "A Copa Am\u00e9rica 2024, sediada no Estados Unidos come\u00e7a nessa quinta-feira, 20, com a partida entre Argentina x Canad\u00e1, as 21 horas (de Bras\u00edlia) trazendo a&nbsp;...",
-    "news_item_url": "https://oantagonista.com.br/esportes/vai-comecar-a-copa-america-2024-veja-guia-completo-do-torneio/",
-    "picture_source": "globoesporte.com",
-    "approx_traffic": "200,000+"
-  },
-  {
     "country": "Canada",
     "title": "NHL",
     "pubDate": "Wed, 19 Jun 2024 00:00:00 -0400",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRsSY3A2Hvwv8WySmKwhV7CgMWZV0mfrPHp8k8PU9QZpKXN5HQV4mwtXwla8u2gtksq31B5vyqS",
-    "news_item_snippet": "Maxim Masse of Chicoutimi of the Quebec Maritimes Junior Hockey League seems to have a knack for coming up big in the clutch. The most memorable of his 13 game-&nbsp;...",
-    "news_item_url": "https://www.nhl.com/news/maxim-masse-clutch-play-impressing-ahead-2024-nhl-draft",
+    "news_item_snippet": "Toughness is a common theme in most hockey discourse, particularly when it comes to Los Angeles of late. GM Rob Blake and company partially tried to address&nbsp;...",
+    "news_item_url": "https://mayorsmanor.com/2024/06/2024-nhl-draft-preview-forward-dean-letourneau-canada/",
     "picture_source": "NHL.com",
     "approx_traffic": "200,000+"
   },
@@ -454,8 +454,8 @@
     "title": "Summer solstice 2024",
     "pubDate": "Wed, 19 Jun 2024 18:00:00 -0400",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQy96bmtMhb6B2Ld2-ooy5Jl-nAX6sgY6xtkSvrsHR6A_DF9kjgvf7lkJjCn25RiYj22q7gBt6e",
-    "news_item_snippet": "The summer solstice, also known as the June solstice arrives June 20 at 4:51 p.m. EDT (2051 GMT), marking the longest day in the Northern Hemisphere.",
-    "news_item_url": "https://www.space.com/summer-solstice-2024-longest-day-of-the-year",
+    "news_item_snippet": "Summer officially begins in the Northern Hemisphere today 20 June, marking the longest day of the year. The summer solstice, which is when the Sun reaches&nbsp;...",
+    "news_item_url": "https://www.esa.int/ESA_Multimedia/Videos/2024/06/Summer_solstice_2024",
     "picture_source": "Aljazeera.com",
     "approx_traffic": "50,000+"
   },
@@ -511,6 +511,16 @@
   },
   {
     "country": "France",
+    "title": "Article 16 Constitution",
+    "pubDate": "Wed, 19 Jun 2024 10:00:00 +0200",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQKFppnBFzzEt2-P0tehM4LTM-bS8AWg6MYaoGLXi4IUWcFBmmjsTbwHtClNyyR5v1XvLjvqyAb",
+    "news_item_snippet": "Apr\u00e8s avoir pr\u00e9par\u00e9 le chaos, Emmanuel Macron pourrait activer l&#39;article 16 de la Constitution lui octroyant les pleins pouvoirs en cas de d\u00e9bordements apr\u00e8s le&nbsp;...",
+    "news_item_url": "https://vl-media.fr/pourquoi-macron-ne-peut-pas-utiliser-larticle-16-de-la-constitution-en-cas-de-cohabitation/",
+    "picture_source": "Europe1",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "France",
     "title": "Courbevoie",
     "pubDate": "Wed, 19 Jun 2024 00:00:00 +0200",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQz5or7pQH_CepnhissWnbZLw8-FDBfCwwI2p6FH0vtXqyK2A8RH3g0v-HzCeFBhqYqHDd1T-1Z",
@@ -524,29 +534,19 @@
     "title": "Serbien Slowenien",
     "pubDate": "Thu, 20 Jun 2024 07:00:00 +0200",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSOL_Qxqx_1pdKZa0gmFdpz7KJbRAPnbbQh6f3qHhoLOM-v3QY7MVrPtvNWRYQK99SX5no3r3Jm",
-    "news_item_snippet": "Die serbische Fu\u00dfball-Nationalmannschaft muss bei der EM weiter um die Teilnahme an der K.o.-Phase zittern. Das ambitionierte Team von Nationaltrainer&nbsp;...",
-    "news_item_url": "https://www.spox.com/de/sport/fussball/em2024/2406/Artikel/slowenien-vs-serbien-em-gruppenspiel-heute-im-liveticker.html",
+    "news_item_snippet": "Der zweite Spieltag der Gruppe C bei der Europameisterschaft steht an. Slowenien trifft in M\u00fcnchen auf Serbien. Beide Mannschaften k\u00e4mpfen um ihren ersten&nbsp;...",
+    "news_item_url": "https://www.welt.de/sport/fussball/em/article252119948/EM-2024-Tor-von-Karnicnik-Slowenien-fuehrt-1-0-gegen-Serbien.html",
     "picture_source": "Frankfurter Rundschau",
-    "approx_traffic": "100,000+"
+    "approx_traffic": "200,000+"
   },
   {
     "country": "Germany",
     "title": "G\u00fcndogan",
     "pubDate": "Wed, 19 Jun 2024 19:00:00 +0200",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTAdbWiNUXRyd0GPYiqfdctwBWIUHPEJuY754z_PKfBmeBlUbfROG2jgzxqjlzM-dFs0DiB-tg4",
-    "news_item_snippet": "Video: Ilkay G\u00fcndogan wehrt sich gegen die Kritik der Ungarn, die ein Foul des deutschen Kapit\u00e4ns vor dem 1:0 sahen - und erinnert an die Premier League.",
-    "news_item_url": "https://www.kicker.de/guendogan-kontert-orban-in-der-premier-league-haette-man-sich-kaputt-gelacht-1033146/video",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTJS-pH_TQ4Uirhi_ngPD6pwLErGF7mwHW1YA29ECxEuEEpPE_gQPqOOxfViakSS8mg6wMelbDG",
+    "news_item_snippet": "Ein energischer Zweikampf mit Ballgewinn bringt Deutschland gegen Ungarn auf die Siegerstra\u00dfe. Kapit\u00e4n G\u00fcndogan bewertet die Szene eindeutig - die Ungarn&nbsp;...",
+    "news_item_url": "https://www.mz.de/sport/fussball-em/gundogan-zum-zweikampf-mit-orban-in-england-kaputtgelacht-3866909",
     "picture_source": "Mitteldeutsche Zeitung",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "Germany",
-    "title": "Toni Kroos",
-    "pubDate": "Wed, 19 Jun 2024 19:00:00 +0200",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSMPbE6M0vtI5tDWwMa22fqMJsNedq4eB9Cav46chV9jUM3L8xZNl02WQtV1n7GGUW51VWWY7on",
-    "news_item_snippet": "Im &quot;RTL EM-Studio&quot; ist am Mittwoch Toni Kroos zugeschaltet. Elton nimmt kein Blatt vor den Mund.",
-    "news_item_url": "https://www.watson.de/unterhaltung/prominente/936953011-em-2024-elton-provoziert-toni-kroos-bei-rtl-nach-dfb-sieg",
-    "picture_source": "watson",
     "approx_traffic": "100,000+"
   },
   {
@@ -563,89 +563,39 @@
     "country": "Germany",
     "title": "Alexander Schweitzer",
     "pubDate": "Wed, 19 Jun 2024 11:00:00 +0200",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQwwyo9ABeRs90dJrCEtBAQj2tss52c61-14KIdXFOdE9Io_Gly0G7n54QcnlV5jpQ8D-Y0iWIp",
-    "news_item_snippet": "Wir haben Alexander Schweitzer gefragt, welche Akzente er als Nachfolger von Ministerpr\u00e4sidentin Malu Dreyer in RLP setzen will.",
-    "news_item_url": "https://www.swr.de/swr1/rp/programm/alexander-schweitzer-nachfolger-von-malu-dreyer-im-swr1-interview-102.html",
-    "picture_source": "nd - Journalismus von links",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSzebKSRaTCizN_LN4_34zDPQrT4Ff83sSV8WtoEdt9roUNlAsHtjRULI7oIyNyxnVNGSs4mWa2",
+    "news_item_snippet": "Der 50-j\u00e4hrige SPD-Politiker wird nach dem R\u00fccktritt von Malu Dreyer neuer Ministerpr\u00e4sident von Rheinland-Pfalz.",
+    "news_item_url": "https://www.nd-aktuell.de/artikel/1183098.spd-dreyer-nachfolge-wer-ist-eigentlich-alexander-schweitzer.html",
+    "picture_source": "SWR",
     "approx_traffic": "50,000+"
   },
   {
     "country": "Germany",
-    "title": "Deutschland Ungarn",
-    "pubDate": "Tue, 18 Jun 2024 22:00:00 +0200",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSfAiZSh48HpZDMcpqdB86GDbPM9nVP0W36xeFVVQuLY02qWML9hCbs7VcN88WpTI40p5vlEu5n",
-    "news_item_snippet": "Die Polizei Stuttgart zieht nach dem EM-Spiel ein positives Fazit. Insgesamt sei alles gut verlaufen - obwohl es zu einzelnen Vorf\u00e4llen kam.",
-    "news_item_url": "https://www.swr.de/swraktuell/baden-wuerttemberg/stuttgart/polizei-stuttgart-em-deutschland-ungarn-spiel-hooligans-hitlergruss-tunnel-schwanenplatztunnel-kabel-100.html",
-    "picture_source": "Ruhr Nachrichten",
-    "approx_traffic": "1,000,000+"
-  },
-  {
-    "country": "Italy",
-    "title": "Croazia-Albania",
-    "pubDate": "Wed, 19 Jun 2024 02:00:00 +0200",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQa1meYH-yZtfhDKqqJY_X4wnKON-g8lQT5JhWZHUPMo_uKcKIpHbc4l5_sM_Ko5GsnXF7OFPJM",
-    "news_item_snippet": "In attesa di Italia-Spagna, le altre due squadre del Girone B degli Europei si rendono protagoniste di un pirotecnico pareggio.",
-    "news_item_url": "https://www.agi.it/sport/news/2024-06-19/europei-croazia-albania-pareggio-cronaca-26841056/",
+    "title": "Nagelsmann",
+    "pubDate": "Wed, 19 Jun 2024 17:00:00 +0200",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTOcJNOV7EaH7N1gx3Lf9_QAmhIEIk5yLYqa_DnvdXTXFFd7YLKZCv6z5evYkkPKVkeamjIEruU",
+    "news_item_snippet": "Die Nationalelf qualifiziert sich vorzeitig f\u00fcr das Achtelfinale der EM. Beim Sieg gegen Ungarn w\u00fcnschen sich die Spieler im Stadion ein besonderes Lied.",
+    "news_item_url": "https://www.welt.de/sport/fussball/em/article252118448/EM-2024-Warum-Julian-Nagelsmann-den-Rapper-Kontra-K-feiert.html",
     "picture_source": "Sky Sport",
-    "approx_traffic": "200,000+"
+    "approx_traffic": "50,000+"
   },
   {
-    "country": "Italy",
-    "title": "Maturit\u00e0 2024",
-    "pubDate": "Wed, 19 Jun 2024 10:00:00 +0200",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQ2d-kF_Zn6fyNZjooX7E9HrJFTR56RCmIjQ_-SuLBLb8TOUs-sjnDQe-GxA2JXRi6I1AAZnnLl",
-    "news_item_snippet": "Il Ministero dell&#39;Istruzione e del Merito ha recentemente pubblicato un rapporto che rivela le preferenze degli studenti in merito alle tracce della prima&nbsp;...",
-    "news_item_url": "https://www.orizzontescuola.it/maturita-2024-il-piu-scelto-dai-maturandi-e-stato-camilito-pirandello-piu-scelto-rispetto-a-ungaretti-cabiddu-in-coda-tutti-i-dati/",
-    "picture_source": "Orizzonte Scuola",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "Italy",
-    "title": "Seconda prova maturit\u00e0 2024",
-    "pubDate": "Wed, 19 Jun 2024 10:00:00 +0200",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQ-Q3ycryGx9FwvWtIg4NmNeq-PGtac--ODuIA3CxSZVDjXqeIvLD5P7Ai8HQjHy4q35jSN8bYH",
-    "news_item_snippet": "Le prove dureranno dalle 6 alle 8 ore, fino a tre giorni per il liceo Artistico. Ieri sette le tracce, anche una riflessione sull&#39;atomica e sui selfie.",
-    "news_item_url": "https://www.rainews.it/maratona/2024/06/maturita-al-via-per-oltre-500mila-studenti-si-parte-oggi-con-la-prima-prova-tema-italiano-8a139e06-27e1-498c-8bd8-9879fd1bd304.html",
-    "picture_source": "Sky Tg24",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "Italy",
-    "title": "Italia-Spagna",
-    "pubDate": "Wed, 19 Jun 2024 22:00:00 +0200",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTbK_7msmmABWFaipP2rzC08Bp88MRmsXOc2rRIYTU__x0b8d1s4RRCffGCLeAHi0n4JUIiRTdB",
-    "news_item_snippet": "Dopo anni in cui ha costruito il suo gioco intorno al possesso palla, ora \u00e8 una squadra pi\u00f9 offensiva: ma \u00e8 cambiata anche l&#39;Italia.",
-    "news_item_url": "https://www.ilpost.it/2024/06/20/spagna-come-gioca-italia-europei-calcio/",
-    "picture_source": "Sky Sport",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "Italy",
-    "title": "Germania-Ungheria",
-    "pubDate": "Wed, 19 Jun 2024 13:00:00 +0200",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQqQ8wQjNxwHshmyPJplCpI_rBCAKxq5OW5Xyj4RBm9zvtlFiVHRbu6GHDDu4YwlBXi1eZp5zGI",
-    "news_item_snippet": "Le reti di Musiala e Gundogan assicurano ai tedeschi l&#39;accesso agli ottavi, i magiari restano ultimi nel girone a zero punti.",
-    "news_item_url": "https://www.agi.it/estero/news/2024-06-19/europei-germania-ungheria-cronaca-26842206/",
-    "picture_source": "Rai News",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "Italy",
-    "title": "Scozia Svizzera",
-    "pubDate": "Wed, 19 Jun 2024 18:00:00 +0200",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTwHlijufe1Q9R-jDOmgMCn2Z7yYg_qz_RnH25pego0atit2EaqjXRJEG-lnCYrAZC1Opqcjyl0",
-    "news_item_snippet": "Scozzesi in vantaggio con McTominay, pareggiano gli elvetici con un gol di Shaqiri all&#39;incrocio dei pali. Finisce 1-1, la squadra di Yakin ha un piede negli&nbsp;...",
-    "news_item_url": "https://www.ansa.it/europei_2024/notizie/2024/06/19/euro-2024-scozia-svizzera-finisce-1-1-cronaca-e-foto_3662b250-7cab-421b-bd86-85d37273044a.html",
-    "picture_source": "Rai News",
-    "approx_traffic": "100,000+"
+    "country": "Germany",
+    "title": "Fussball",
+    "pubDate": "Wed, 19 Jun 2024 20:00:00 +0200",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSI5K9nIWID4-kElF-ehW923-zHDTpsLxl8YlVf0yntq6TYp3_28JG6r6Il-WN_s3QY5B5KW7p5",
+    "news_item_snippet": "Die Nummer eins der Deutschen Nationalmannschaft ist seit mehreren Jahren als Investor unterwegs. 2021 investierte. \u00a9 Jan Huebner / IMAGO. Manuel Neuer.",
+    "news_item_url": "https://www.capital.de/wirtschaft-politik/fussball-em--in-diese-start-ups-sind-die-dfb-stars-investiert-34807476.html",
+    "picture_source": "BNN - Badische Neueste Nachrichten",
+    "approx_traffic": "50,000+"
   },
   {
     "country": "Mexico",
     "title": "Conmebol Copa Am\u00e9rica",
     "pubDate": "Thu, 20 Jun 2024 01:00:00 -0600",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSesqS6fEdw3GTkSse3DfNRZyaHjeCXW7N2P90HaGwq0uorvUrgB6bFVKJ7JzmK8CBMfxcmw8iC",
-    "news_item_snippet": "El torneo de 16 equipos comienza el 20 de junio en el estadio Mercedes-Benz de Atlanta, Georgia, cuando el campe\u00f3n defensor Argentina se enfrente a Canad\u00e1.",
-    "news_item_url": "https://copaamerica.com/es/novedades/copa-america-2024-guia-completo-espanol",
+    "news_item_snippet": "Todo listo para una nueva edici\u00f3n del torneo Conmebol, que tendr\u00e1 como partido de fondo el Argentina vs Canad\u00e1. Se abre el tel\u00f3n en la ciudad de Atlanta.",
+    "news_item_url": "https://www.infobae.com/peru/deportes/2024/06/20/a-que-hora-es-la-inauguracion-copa-america-2024-horarios-evento-estados-unidos/",
     "picture_source": "CNN",
     "approx_traffic": "100,000+"
   },
@@ -663,10 +613,10 @@
     "country": "Mexico",
     "title": "Inter Miami  Columbus Crew",
     "pubDate": "Wed, 19 Jun 2024 17:00:00 -0600",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRhpUR7vUZmFmghJNqorbu2IPKOIA24U1xsnQm7LQLljUneNFP4vAooBmyU7qt3nAIIVqn3UawF",
-    "news_item_snippet": "Bienvenidos a la previa y el minuto a minuto del segundo cotejo de Las Garzas sin Messi y Su\u00e1rez. El equipo de Martino quiere ganar en casa.",
-    "news_item_url": "https://us.as.com/futbol/inter-miami-columbus-crew-en-vivo-semana-21-de-mls-2024-n/",
-    "picture_source": "Medio Tiempo.com",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSn5kmvN6tNFvPIuQ9I9HA2HegAmeHL6-6WDVijogLtl6YGG50fRoHYThSGWu4O0voL8ducnzuT",
+    "news_item_snippet": "Pese a estar a unas horas del comienzo de la Copa Am\u00e9rica 2024, la MLS no para y este mi\u00e9rcoles 19 de junio comienza la semana 21 de la temporada 2024 con&nbsp;...",
+    "news_item_url": "https://www.mundodeportivo.com/us/futbol/mls/20240619/693059/alineaciones-inter-miami-vs-columbus-crew-formaciones-probables-partido-mls.html",
+    "picture_source": "AS Usa",
     "approx_traffic": "50,000+"
   },
   {
@@ -680,72 +630,22 @@
     "approx_traffic": "50,000+"
   },
   {
-    "country": "Spain",
-    "title": "Supervivientes",
-    "pubDate": "Wed, 19 Jun 2024 02:00:00 +0200",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcT5NiuPqwUpp723XWcIg2r1eqNjjEQteu-KuHyUj0_1EWV-FqXIHQ0hcgQVzIOe_gAnLw367VkL",
-    "news_item_snippet": "Hace unas horas era impensable que Pedro Garc\u00eda Aguado se proclamase ganador de Supervivientes 2024. Sin embargo, la realidad ha vuelto a superar a la&nbsp;...",
-    "news_item_url": "https://www.elmundo.es/television/momentvs/2024/06/19/66727271e85eceb21f8b4570.html",
-    "picture_source": "El Mundo",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "Spain",
-    "title": "Croacia  Albania",
-    "pubDate": "Wed, 19 Jun 2024 15:00:00 +0200",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQSHj8CKC4MN8EpUPqAf6QncYrHrp99ETyj3ABQrDZl_J1uyWz9s8hYEbIpe_sz-odmhbiqSgi-",
-    "news_item_snippet": "Disfruta del partido completo entre Croacia y Albania del Grupo B de la Eurocopa 2024. Vive la Eurocopa masculina de la UEFA en RTVE Play.",
-    "news_item_url": "https://www.rtve.es/television/20240618/croacia-albania-ver-partido-completo/16150321.shtml",
-    "picture_source": "castellonplaza.com",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "Spain",
-    "title": "Espa\u00f1a-Italia",
-    "pubDate": "Wed, 19 Jun 2024 20:00:00 +0200",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQeP1gf4V-KXvAAGVBze7WVTNtdHGcmzEduZNH4C1I65eCsO1YBxjf-VbRwjRYoBj44-seP0D9C",
-    "news_item_snippet": "El partido de hoy ser\u00e1 el und\u00e9cimo encuentro entre Espa\u00f1a e Italia en un gran torneo, entre Eurocopa (8) y Mundial (3), r\u00e9cord entre dos naciones europeas. Esta&nbsp;...",
-    "news_item_url": "https://as.com/futbol/seleccion/espana-italia-en-directo-ultima-hora-de-la-fase-de-grupos-de-la-eurocopa-2024-hoy-en-vivo-n/",
-    "picture_source": "ABC.es",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "Spain",
-    "title": "Alemania - Hungr\u00eda",
-    "pubDate": "Wed, 19 Jun 2024 18:00:00 +0200",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQs9ZFExdms0qqOs7y4zCHln7tqM1lCCeb66omLY_ZTxvD7txY8KlktdsjKWP9FBg49fuyL-Aab",
-    "news_item_snippet": "2 Goles 0 ; 7 Remates a puerta 4 ; 5 Remates fuera 4 ; 0 Remates al palo 0 ; 15 Asistencias 4.",
-    "news_item_url": "https://www.abc.es/deportes/futbol/eurocopa/alemania-hungria-estadisticas-partido-20240619134656-di.html",
-    "picture_source": "RTVE",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "Spain",
-    "title": "Carlo Costanzia",
-    "pubDate": "Wed, 19 Jun 2024 11:00:00 +0200",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQbcHBQcdGtfxJahnodeKk1xZFwp9KA96zuIAWoUNXj_AyigPznqdiZS2imul2vCOAkyVyCbuue",
-    "news_item_snippet": "La hija de Terelu Campos y el hijo de Mar Flores destapan la verdad de c\u00f3mo empezaron su relaci\u00f3n. La colaboradora de Telecinco y el actor tuvieron su&nbsp;...",
-    "news_item_url": "https://www.telecinco.es/outdoor/actualidad/20240620/alejandra-rubio-carlo-costanzia-cuentan-historia-real-como-conocieron_18_012810238.html",
-    "picture_source": "Divinity.es",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Spain",
-    "title": "Lorenzo Caprile",
-    "pubDate": "Wed, 19 Jun 2024 05:00:00 +0200",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQqvxJUWxgwIWZjOraqNgp5mfW9O4U3LLB4HCaiv8aewwDT6uHfLoQ5m3sv-JrtenKmY1OKFz-v",
-    "news_item_snippet": "Lorenzo Caprile (56) vivi\u00f3 el pasado 11 de abril uno de los d\u00edas m\u00e1s dif\u00edciles de su vida. Su hermana Paola falleci\u00f3 de forma repentina, ...",
-    "news_item_url": "https://www.eleconomista.es/informalia/famosos/noticias/12870255/06/24/el-apoyo-de-los-vips-a-lorenzo-caprile-en-el-funeral-de-su-hermana-de-las-infantas-elena-y-cristina-a-antonio-resines.html",
-    "picture_source": "El Mundo",
+    "country": "United Kingdom",
+    "title": "Slovenia vs Serbia",
+    "pubDate": "Thu, 20 Jun 2024 14:00:00 +0100",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTlbqrOiyuveMDvOR00ptqbKV_mNzLWe1QOTyWApRZDRsWge_zuQdvpRF1kBHH6cdHpCVvp3fee",
+    "news_item_snippet": "Follow live reaction to Serbia&#39;s dramatic 1-1 draw with Slovenia at Euro 2024.",
+    "news_item_url": "https://www.nytimes.com/athletic/live-blogs/slovenia-serbia-live-updates-euro-2024-score-result/DVFmAJHzcS1J/",
+    "picture_source": "Evening Standard",
     "approx_traffic": "50,000+"
   },
   {
     "country": "United Kingdom",
     "title": "England",
     "pubDate": "Thu, 20 Jun 2024 14:00:00 +0100",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcR-p7FVbtA6tU7W8Z-ZprNtL1V4AvWSd-XeLfn-XARFy8KuTghKUUv_QjkGwd9aPO3dm8jE-H8E",
-    "news_item_snippet": "Follow live text commentary, score updates and match stats from Denmark vs England in the UEFA Euro 2024.",
-    "news_item_url": "https://www.bbc.co.uk/sport/football/live/c5110ej8g31t",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQ_RqHY9WJKubWr3x5q-dEwAuCJDwqyx8EYgGn_dPudC1wd0owkV-sWwDIWUrb_AHVk6onkFBgR",
+    "news_item_snippet": "Euro 2024 live: Build-up to England&#39;s second group game with Denmark, plus reaction to Scotland&#39;s draw with Switzerland.",
+    "news_item_url": "https://www.bbc.co.uk/sport/football/live/c722yr988e1t",
     "picture_source": "BBC Sport",
     "approx_traffic": "50,000+"
   },
@@ -764,10 +664,20 @@
     "title": "Scotland vs Switzerland",
     "pubDate": "Wed, 19 Jun 2024 12:00:00 +0100",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQMGGG_aAQBPu9FSWhjw2brL_AVW8IXyk6uxQoiuMNjUAD200OT-2_kbpLxaHbd07O6KWy4DKJa",
-    "news_item_snippet": "Take a look at the major talking points from the Scotland vs Switzerland Euro 2024 Group A match played at the Cologne Stadium.",
-    "news_item_url": "https://sportstar.thehindu.com/football/scotland-vs-switzerland-euro-2024-updates-major-talking-points-stats-records-from-sco-v-sui-news/article68309396.ece",
+    "news_item_snippet": "Fans can enjoy coverage from right across the tournament, from live matches on TV and iPlayer, to TV highlights and digital clips on the BBC Sport website and&nbsp;...",
+    "news_item_url": "https://www.bbc.com/mediacentre/2024/9-million-scotland-switzerland-bbc-one",
     "picture_source": "The Athletic",
     "approx_traffic": "500,000+"
+  },
+  {
+    "country": "United Kingdom",
+    "title": "England football",
+    "pubDate": "Wed, 19 Jun 2024 20:00:00 +0100",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRVk5UBwXU8A_AZaBBjeUZLZaZUwnS35RujWYmXlw7fRicOIZILMIjxPS8j4O35wT5cR9-0_f61",
+    "news_item_snippet": "Will England get the win they need to secure a place in the last 16 or can Denmark get their revenge on their Euro 2020 semi-final defeat?",
+    "news_item_url": "https://www.independent.co.uk/sport/football/england-denmark-live-stream-score-result-euro-2024-b2565569.html",
+    "picture_source": "The Independent",
+    "approx_traffic": "200,000+"
   },
   {
     "country": "United Kingdom",
@@ -781,31 +691,21 @@
   },
   {
     "country": "United Kingdom",
-    "title": "England football",
-    "pubDate": "Wed, 19 Jun 2024 20:00:00 +0100",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcR-p7FVbtA6tU7W8Z-ZprNtL1V4AvWSd-XeLfn-XARFy8KuTghKUUv_QjkGwd9aPO3dm8jE-H8E",
-    "news_item_snippet": "Follow live text commentary, score updates and match stats from Denmark vs England in the UEFA Euro 2024.",
-    "news_item_url": "https://www.bbc.co.uk/sport/football/live/c5110ej8g31t",
-    "picture_source": "BBC Sport",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "United Kingdom",
     "title": "Croatia vs Albania",
     "pubDate": "Wed, 19 Jun 2024 14:00:00 +0100",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcR-6Ak_SkBeBatsyaLAflwRW5-_MT2CviSe56rdL79PL6uYXXUxJsIYCtnFXNsv-pC3zvaQ5GMq",
     "news_item_snippet": "Klaus Gjasula scored an equaliser in stoppage time for Albania to ruin Croatia&#39;s spirited second-half comeback.",
     "news_item_url": "https://www.theguardian.com/football/live/2024/jun/19/croatia-v-albania-euro-2024-live",
     "picture_source": "The Independent",
-    "approx_traffic": "200,000+"
+    "approx_traffic": "100,000+"
   },
   {
     "country": "United Kingdom",
     "title": "Summer solstice 2024",
     "pubDate": "Wed, 19 Jun 2024 21:00:00 +0100",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQy96bmtMhb6B2Ld2-ooy5Jl-nAX6sgY6xtkSvrsHR6A_DF9kjgvf7lkJjCn25RiYj22q7gBt6e",
-    "news_item_snippet": "The Earth spins on a tilt as it revolves around the sun. The summer solstice occurs for Earth&#39;s upper half when the Northern Hemisphere is tilted most closely&nbsp;...",
-    "news_item_url": "https://www.independent.co.uk/news/summer-solstice-2024-when-date-longest-day-b2565821.html",
+    "news_item_snippet": "While Thursday marks the longest day of the year in Northern Hemisphere, it will not necessarily be the hottest.",
+    "news_item_url": "https://www.aljazeera.com/news/2024/6/20/summer-solstice-2024-is-it-going-to-get-even-hotter-now",
     "picture_source": "Aljazeera.com",
     "approx_traffic": "100,000+"
   },
