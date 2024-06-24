@@ -3,11 +3,21 @@
     "country": "United States",
     "title": "Tamayo Perry",
     "pubDate": "Mon, 24 Jun 2024 04:00:00 -0700",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQc-l8iUqfrgO-DabSkrZNJxr9KcivOt_bb-GyXj5UVShkVhwDh-FSRuOYA99UwQvCk0BDeBvi-",
-    "news_item_snippet": "Friends and family flood social media with loving messages about one of the North Shore&#39;s great pillars \u2014 here are just a few of them.",
-    "news_item_url": "https://stabmag.com/elsewhere/how-should-we-remember-tamayo-perry/",
-    "picture_source": "CNN",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcS90Mjxt4UYHTZjSzA6trdilf-goZgL93wj6aoIFKPYxUIMMB5oeLiX6WngYV5pArazLSuqGXK4",
+    "news_item_snippet": "Oahu North Shore lifeguard and professional surfer Tamayo Perry was killed in a shark attack on Sunday, according to Honolulu Ocean Safety.",
+    "news_item_url": "https://www.foxweather.com/earth-space/tamayo-perry-death-shark-attack-hawaii",
+    "picture_source": "FOX Weather",
     "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Julio Foolio",
+    "pubDate": "Sun, 23 Jun 2024 08:00:00 -0700",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSXLnmlC0N2rMp2Pnv6BUdkzmAoy0OZdpTx3VCaH-lOLu6r5E6McIJhRMNS25W6bqNGlYINoJeb",
+    "news_item_snippet": "The musician was celebrating his 26th birthday when he was &quot;ambushed&quot; in a car park, a representative says.",
+    "news_item_url": "https://www.bbc.com/news/articles/cpwww66g1nyo",
+    "picture_source": "The New York Times",
+    "approx_traffic": "200,000+"
   },
   {
     "country": "United States",
@@ -27,7 +37,7 @@
     "news_item_snippet": "NHRA great John Force was said to be alert and talking after a fiery, 300-mph crash on Sunday in the Virginia Nationals.",
     "news_item_url": "https://www.fox10phoenix.com/news/john-force-nhra-race-virginia-motorsports-park-crash",
     "picture_source": "KPAX-TV",
-    "approx_traffic": "100,000+"
+    "approx_traffic": "200,000+"
   },
   {
     "country": "United States",
@@ -37,6 +47,16 @@
     "news_item_snippet": "SportsLine&#39;s women&#39;s basketball expert Calvin Wetzel has revealed his top picks for Caitlin Clark and the Indiana Fever vs. the Chicago Sky on Sunday.",
     "news_item_url": "https://www.cbssports.com/wnba/news/fever-vs-sky-odds-time-spread-2024-wnba-picks-caitlin-clark-predictions-for-june-23-by-proven-expert/",
     "picture_source": "CBSSports.com",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Travis Kelce",
+    "pubDate": "Sun, 23 Jun 2024 20:00:00 -0700",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTSOAWlS4Co5ucbqSPgQRTWP7aAzEx7KwOEJ0M5AtQ4RlGXyib2gWAH7rIpEqq88daFEv4fhx91",
+    "news_item_snippet": "Kelce joined Swift on stage as a dancer for I Can Do It With a Broken Heart.",
+    "news_item_url": "https://www.bbc.com/news/articles/c2999rpn6e5o",
+    "picture_source": "CNN",
     "approx_traffic": "100,000+"
   },
   {
@@ -51,22 +71,12 @@
   },
   {
     "country": "United States",
-    "title": "Travis Kelce",
-    "pubDate": "Sun, 23 Jun 2024 20:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRVL3kYLorriTaRV0QHDriu_4QWHRjHleqOWGwMXV6U3yck-0IeynpatAWsHK_FTOEZpMyLsNBl",
-    "news_item_snippet": "Kelce joined Swift on stage as a dancer for I Can Do It With a Broken Heart.",
-    "news_item_url": "https://www.bbc.com/news/articles/c2999rpn6e5o",
-    "picture_source": "CNN",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Breach",
-    "pubDate": "Sun, 23 Jun 2024 08:00:00 -0700",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSESrDy3nKGW7Xv6e5YznB1IWK8hD7QluyRuO1bHXk6GcipWdhvgpaRqlpP1kdh5gpvUr9eZpJL",
-    "news_item_snippet": "The charge against Apple is the first by the Commission under its landmark Digital Markets Act which seeks to rein in the power of Big Tech and ensure a&nbsp;...",
-    "news_item_url": "https://www.voanews.com/a/apple-s-app-store-rules-breach-eu-tech-rules-eu-regulators-say/7667644.html",
-    "picture_source": "BBC News",
+    "title": "Dallas Cowboys",
+    "pubDate": "Sun, 23 Jun 2024 12:00:00 -0700",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQEINbAn_FInC2-8SQd4qEuaKUYBxUvRiYQKrpGzV3OsMaz_y0yrbyNQqiS49njd2KRgiG7GDQk",
+    "news_item_snippet": "While Ezekiel Elliott may bring more experience from his time in the league, Royce Freeman&#39;s seasoned presence will help elevate the competition of an&nbsp;...",
+    "news_item_url": "https://www.dallascowboys.com/news/role-call-royce-freeman-adds-veteran-experience",
+    "picture_source": "DallasCowboys.com",
     "approx_traffic": "50,000+"
   },
   {
@@ -80,23 +90,43 @@
     "approx_traffic": "50,000+"
   },
   {
-    "country": "India",
-    "title": "Inter Supply Results 2024",
-    "pubDate": "Mon, 24 Jun 2024 10:30:00 +0530",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQYsc7shOY-64_IqqRJwz203E5Z7dw48Oq9xzjsBpm4ee0hFYeVDuYH5E2CMvRJXrOjHTRI2NRR",
-    "news_item_snippet": "The TS Inter 1st, 2nd year Supply results 2024 have been released on the official website tgbie.cgg.gov.in. Check important details below.",
-    "news_item_url": "https://www.hindustantimes.com/education/ts-inter-supply-results-2024-ipase-1st-2nd-year-scores-released-check-important-details-here-101719211949985.html",
-    "picture_source": "Times of India",
-    "approx_traffic": "100,000+"
+    "country": "United States",
+    "title": "Breach",
+    "pubDate": "Sun, 23 Jun 2024 08:00:00 -0700",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRkeheVR9qKWMxgUhTonYWfVaNzfqUVusAIMCIsyVtTpVlJzECnNTQxQBGf6izEieZoaEApvWfF",
+    "news_item_snippet": "There has been a fall in the number of reported healthcare data breaches for the second consecutive month to the lowest monthly total since October 2023.",
+    "news_item_url": "https://www.hipaajournal.com/may-2024-healthcare-data-breach-report/",
+    "picture_source": "HIPAA Journal",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Dave Grohl",
+    "pubDate": "Sun, 23 Jun 2024 23:00:00 -0700",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTgEwNSn7an9Kcr9xnTJlVvJKa2I0YcP3-ZAUChKSC9oAZZC_Ae07qbNpSIO2j4Tl5lcRB3gQtN",
+    "news_item_snippet": "Taylor Swift shared praise for her band on the Eras tour following pointed comments from Foo Fighters frontman Dave Grohl about performing live.",
+    "news_item_url": "https://www.rollingstone.com/music/music-news/taylor-swift-dave-grohl-comments-1235045362/",
+    "picture_source": "Forbes",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Noah Lyles",
+    "pubDate": "Sun, 23 Jun 2024 09:00:00 -0700",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSnkifuYXALiJHrrILa_8otby-2Rja4qQQH-uhAGp0EoGKeHcs1GaYn-xASEaba7Qkw-FU7XzU3",
+    "news_item_snippet": "Noah Lyles locked down the first major step in his quest for an Olympic sprint double Sunday, coming from behind to win the 100 meters at the U.S. track&nbsp;...",
+    "news_item_url": "https://www.espn.com/olympics/story/_/id/40418374/noah-lyles-wins-100-meters-us-trials-clinch-olympic-berth",
+    "picture_source": "ESPN",
+    "approx_traffic": "50,000+"
   },
   {
     "country": "India",
-    "title": "Messi",
-    "pubDate": "Mon, 24 Jun 2024 00:30:00 +0530",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRE9v3TBAEbv3IJPEGn5FpKsDQUFbCWOl1oza8thBJCGLt88kOGPY0CS1eY9b9qWry3sFA_HPhj",
-    "news_item_snippet": "As Messi turns 37, let us take a look at the struggles and hardships faced by the most decorated player in world football. Argentina&#39;s Lionel Messi&nbsp;...",
-    "news_item_url": "https://www.newindianexpress.com/web-only/2024/Jun/24/lionel-messi-an-ode-to-the-greatest-ever-to-grace-the-pitch",
-    "picture_source": "NDTVSports.com",
+    "title": "SA vs WI",
+    "pubDate": "Mon, 24 Jun 2024 06:30:00 +0530",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcS3gCEz8NtJWsIasZNEZLghKGxs_h4a0F-IHnHu90siJkPjTls9OUH1jhzLQyrUzzQopivYrRKn",
+    "news_item_snippet": "\u0938\u093e\u0909\u0925 \u0905\u092b\u094d\u0930\u0940\u0915\u093e \u0928\u0947 \u0935\u0947\u0938\u094d\u091f\u0907\u0902\u0921\u0940\u091c \u0915\u094b 3 \u0935\u093f\u0915\u0947\u091f \u0938\u0947 \u0939\u0930\u093e \u0926\u093f\u092f\u093e \u0914\u0930 \u091f\u094020 \u0935\u0930\u094d\u0932\u094d\u0921 \u0915\u092a 2024 \u0915\u0947 \u0938\u0947\u092e\u0940\u092b\u093e\u0907\u0928\u0932 \u092e\u0947\u0902 \u092a\u0939\u0941\u0902\u091a \u0917\u0908\u0964",
+    "news_item_url": "https://www.jansatta.com/khel/t20-world-cup-sa-vs-wi-south-africa-won-most-matches-in-a-t20-wc-edition-and-broke-sri-lanka-and-australia-record/3439056/",
+    "picture_source": "ABP News",
     "approx_traffic": "100,000+"
   },
   {
@@ -111,6 +141,46 @@
   },
   {
     "country": "India",
+    "title": "Inter Supply Results 2024",
+    "pubDate": "Mon, 24 Jun 2024 10:30:00 +0530",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTg2Ey7PFV64EWuDC8_53APCtoo7zURCMhi-l5kpwx7fOBGJGGpEo5Er0thptq94kkvvk-j7k1H",
+    "news_item_snippet": "Telangana Inter Supplementary Result 2024: The Telangana Board of Intermediate Education (TSBIE) has announced the TS Inter Supplementary results 2024 today&nbsp;...",
+    "news_item_url": "https://timesofindia.indiatimes.com/education/ts-inter-supply-results-2024-live-updates-where-how-to-check-telangana-manabadi-intermediate-1st-2nd-year-results-tgbie-cgg-gov-in/liveblog/111224237.cms",
+    "picture_source": "The Hindu",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "India",
+    "title": "Messi",
+    "pubDate": "Mon, 24 Jun 2024 00:30:00 +0530",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcT9qg9-wzDoP56GbMnQnfmrBq4tQwrjhulAyLNXbtbBxckrrUpU07VmpzxeylukX-8VZkfzmcUc",
+    "news_item_snippet": "The legendary Argentine footballer Lionel Messi, often called the &#39;greatest footballer of all time&#39;, celebrates his 37th birthday on Monday.",
+    "news_item_url": "https://sports.ndtv.com/football/lionel-messi-turns-37-staggering-records-accomplishments-of-argentinean-football-star-5956727",
+    "picture_source": "The New Indian Express",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "India",
+    "title": "India national cricket team vs australian men\u2019s cricket team match scorecard",
+    "pubDate": "Mon, 24 Jun 2024 20:30:00 +0530",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQZR4KCWFbGPCkAkwIDYXYA7k3VePTi-Mtuwta9zJKtMfPvb0xxwBDt2dZjGZPJ08roYUlA4eWE",
+    "news_item_snippet": "Follow our live cricket update for in-depth match coverage and exciting highlights from Australia vs India 51st Match, Super Eights, Group 1 in Gros Islet&nbsp;...",
+    "news_item_url": "https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/australia-vs-india-51st-match-super-eights-group-1-1415751/live-match-blog",
+    "picture_source": "ESPNcricinfo.com",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "India",
+    "title": "\u092d\u093e\u0930\u0924 \u092c\u0928\u093e\u092e \u0911\u0938\u094d\u091f\u094d\u0930\u0947\u0932\u093f\u092f\u093e",
+    "pubDate": "Mon, 24 Jun 2024 20:30:00 +0530",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQRdT4TP8RaA0cu8bVWBz_IXMPc9mGYTLY2dYh482D4N8FW9_QUliBBnAFkMa5QS2EphteB1Ayx",
+    "news_item_snippet": "\u0905\u092e\u0930 \u0909\u091c\u093e\u0932\u093e \u0915\u0947 \u0932\u093e\u0907\u0935 \u092c\u094d\u0932\u0949\u0917 \u092e\u0947\u0902 \u0906\u092a\u0915\u093e \u0938\u094d\u0935\u093e\u0917\u0924 \u0939\u0948\u0964 \u0906\u091c \u0938\u0941\u092a\u0930 \u0906\u0920 \u091a\u0930\u0923 \u0915\u0947 \u0917\u094d\u0930\u0941\u092a \u090f\u0915 \u0915\u093e \u0905\u0939\u092e \u092e\u0941\u0915\u093e\u092c\u0932\u093e \u092d\u093e\u0930\u0924 \u0914\u0930 \u0911\u0938\u094d\u091f\u094d\u0930\u0947\u0932\u093f\u092f\u093e \u0915\u0947 \u092c\u0940\u091a \u0939\u0948\u0964 \u092d\u093e\u0930\u0924\u0940\u092f&nbsp;...",
+    "news_item_url": "https://www.amarujala.com/live/cricket/cricket-news/ind-vs-aus-live-cricket-score-t20-world-cup-2024-super-8-india-vs-australia-t20i-match-updates-2024-06-24",
+    "picture_source": "Jansatta",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "India",
     "title": "Quant Mutual Fund",
     "pubDate": "Mon, 24 Jun 2024 00:30:00 +0530",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRXIOUVSr8ZRARkT4ZW6zZrtMsEtPOSMkz5j738cU6pkpXbLl3-uHuli1piTxZm9hwY7Ku1SmO8",
@@ -121,72 +191,42 @@
   },
   {
     "country": "Argentina",
+    "title": "Dolar hoy",
+    "pubDate": "Mon, 24 Jun 2024 01:00:00 -0300",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSww1WMut-zjrwQqiUw6hDho35lyaKrDgtO2te3odn-qzE1RbszIr0BcYkyy_vGzF3Cz690HOZk",
+    "news_item_snippet": "Mir\u00e1 a cu\u00e1nto cotizan el d\u00f3lar ahorro, el d\u00f3lar tarjeta y el d\u00f3lar turista en Argentina. Tambi\u00e9n conoc\u00e9 a cu\u00e1nto cotizan el d\u00f3lar billete en el Banco Naci\u00f3n&nbsp;...",
+    "news_item_url": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-opera-este-lunes-24-junio-n6019641",
+    "picture_source": "LA NACION",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "Argentina",
     "title": "Messi",
     "pubDate": "Mon, 24 Jun 2024 01:00:00 -0300",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcS0LHyI-O13pqmjCy-O7wz2SpJzYd293nFyOOwLQOPaAymTHOIznsj78Dp_vRITqjbqkxA-dJOo",
-    "news_item_snippet": "El capit\u00e1n de Argentina cumple 37 a\u00f1os y, por primera vez, repite ciudad vestido de Selecci\u00f3n. El detalle de cada cumplea\u00f1os con Argentina y el deseo que se&nbsp;...",
-    "news_item_url": "https://www.ole.com.ar/messi/messi-cumpleanos37_0_K8138IKDqU.html",
-    "picture_source": "\u00e1mbito.com",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQogGyyC9oGODv4_VmSo31dG_MAp-vqcP3O8GmjoTyp6cn7fe8352Gq_b38wsHQUMB4oztUE7E_",
+    "news_item_snippet": "En pleno desarrollo de la Copa Am\u00e9rica, y a horas de afrontar el segundo compromiso del certamen, el capit\u00e1n argentino celebra un nuevo a\u00f1o de vida&nbsp;...",
+    "news_item_url": "https://www.ambito.com/deportes/messi-cumple-37-anos-su-festejo-intimo-la-seleccion-la-espera-del-partido-chile-n6019742",
+    "picture_source": "P\u00e1gina 12",
     "approx_traffic": "50,000+"
   },
   {
     "country": "Argentina",
-    "title": "Gmail",
-    "pubDate": "Mon, 24 Jun 2024 12:00:00 -0300",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRM1XQtM2w6H5oBKk6zFWVqiQX4usex-D7bQxqL4i8WdiInnns7bvDztTNXEV-j1TrZ-gZUUHBb",
-    "news_item_snippet": "Google empezar\u00e1 a eliminar las cuentas de Gmail que no hayan tenido ninguna actividad en los \u00faltimos 24 meses a no ser que los propios usuarios lo eviten.",
-    "news_item_url": "https://computerhoy.com/google/google-prepara-eliminar-millones-cuentas-gmail-puedes-asegurarte-no-sera-ellas-1392393",
-    "picture_source": "ComputerHoy",
+    "title": "Canva",
+    "pubDate": "Mon, 24 Jun 2024 14:00:00 -0300",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSLB-YtTQN3oSqT0fRbM38JDpYzXJ0PS22EbrBtWnp0KWUWCHGlrIQkiWHmGbwr55amAW4bD65_",
+    "news_item_snippet": "El Espacio para la Creaci\u00f3n Joven de Llerena desarrolla un taller de creaci\u00f3n de contenidos con la herramienta Canva. Ser\u00e1 la primera semana del mes de&nbsp;...",
+    "news_item_url": "https://llerena.hoy.es/centro-joven-ofrece-taller-creacion-contenido-canva-20240624183531-nt.html",
+    "picture_source": "HOY Llerena",
     "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Brazil",
-    "title": "Palmeiras x Juventude",
-    "pubDate": "Sun, 23 Jun 2024 06:00:00 -0500",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSPPRdqiqHghSJ--R9QLs3eevQw6mPNIssjoGn4T4GY53oBS1JV9qcHueqVbOj_Jnnrw1JThNsY",
-    "news_item_snippet": "Veja tamb\u00e9m desfalques, arbitragem e outras informa\u00e7\u00f5es do jogo v\u00e1lido pela 11\u00aa rodada do Campeonato Brasileiro; Premiere transmite a partida ao vivo.",
-    "news_item_url": "https://ge.globo.com/sp/futebol/brasileirao-serie-a/noticia/2024/06/23/palmeiras-x-juventude-onde-assistir-ao-vivo-horario-e-escalacoes.ghtml",
-    "picture_source": "CNN Brasil",
-    "approx_traffic": "500,000+"
-  },
-  {
-    "country": "Brazil",
-    "title": "Bahia x Cruzeiro",
-    "pubDate": "Sun, 23 Jun 2024 10:00:00 -0500",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRoYJ9Y_M6pvuDq-xwiyksQCZvgGR_PBRMMevAzFV2LX1aOOAyqJ_1q3MIRbvRmuEaj-W8g8f9v",
-    "news_item_snippet": "Lateral tricolor foi atingido por jogador da Raposa, que acabou expulso em partida deste domingo.",
-    "news_item_url": "https://ge.globo.com/ba/futebol/brasileirao-serie-a/noticia/2024/06/23/gilberto-deixa-recado-para-marlon-apos-expulsao-em-bahia-x-cruzeiro-nao-teve-intencao-de-machucar.ghtml",
-    "picture_source": "globoesporte.com",
-    "approx_traffic": "500,000+"
-  },
-  {
-    "country": "Brazil",
-    "title": "Athletico-PR x Corinthians",
-    "pubDate": "Sun, 23 Jun 2024 13:00:00 -0500",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQ4ncvC5IyiYL3kBHw3_KnFbV3qYTzT6DOuKqFs2b1yzTwaSVvQjJ7Dv0jaYZCpABpOms4ciOZ_",
-    "news_item_snippet": "Confira as principais informa\u00e7\u00f5es do duelo v\u00e1lido pela 11\u00aa rodada do Campeonato Brasileiro.",
-    "news_item_url": "https://www.terra.com.br/esportes/athletico-pr-x-corinthians-onde-assistir-ao-vivo-horario-e-escalacoes-do-jogo-pelo-brasileirao,86d1f3cbbaecede8fc83e47327cfbf13c544t91a.html",
-    "picture_source": "Terra",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "Brazil",
-    "title": "Atl\u00e9tico-MG x Fortaleza",
-    "pubDate": "Sun, 23 Jun 2024 16:00:00 -0500",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRpbrbgVxYYNULMzxnv1Bv1I3G4KFTmTSqsv6Fcbo5QGsavmcmuen5CzE0mFYAgIaU6XkK39Knv",
-    "news_item_snippet": "A marca superou negativamente a do jogo diante do Fluminense, pelo Campeonato Brasileiro do ano passado. Na ocasi\u00e3o, 23.003 pessoas compareceram. Em 2024, o&nbsp;...",
-    "news_item_url": "https://ge.globo.com/futebol/times/atletico-mg/noticia/2024/06/23/atletico-mg-x-fortaleza-arena-mrv-registra-pior-publico-desde-a-inauguracao.ghtml",
-    "picture_source": "globoesporte.com",
-    "approx_traffic": "200,000+"
   },
   {
     "country": "South Korea",
     "title": "\ud654\uc131 \ubc30\ud130\ub9ac \uacf5\uc7a5",
     "pubDate": "Mon, 24 Jun 2024 14:00:00 +0900",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRBbpz0fL6iSwCwFtOuDFe9o_AddoCWnA0HwXWhTorZPF4yA1moy17logOT8H_INisovbTFZlio",
-    "news_item_snippet": "24\uc77c \uc624\uc804 \uacbd\uae30 \ud654\uc131\uc2dc \uc18c\uc7ac\uc758 \uc77c\ucc28\uc804\uc9c0 \uc81c\uc870 \uc5c5\uccb4 \uc544\ub9ac\uc140 \uacf5\uc7a5\uc5d0\uc11c \ud654\uc7ac\uac00 \ubc1c\uc0dd\ud574 \ucd5c\uc18c 22\uba85\uc758 \uc0ac\ub9dd\uc790\uac00 \ubc1c\uc0dd\ud588\ub2e4. \uc720\ud574\ud654\ud559\ubb3c\uc9c8\uc778 \ub9ac\ud2ac\uc744 \ucde8\uae09\ud558\ub294 \uacf3\uc774\uc5c8\ub358 \ub9cc\ud07c&nbsp;...",
-    "news_item_url": "https://www.bbc.com/korean/articles/ckvvvz59x83o",
-    "picture_source": "\ud55c\uaca8\ub808",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQdpRoBAjQdTOzllscoY8lFVsVgXjW_-QZXl5E9PXtMElrtG3ERzCf78WjEvnur37oxAfwE7aLR",
+    "news_item_snippet": "\uc18d\uc218\ubb34\ucc45\uc774\uc5c8\ub2e4. &#39;\ub9ac\ud2ac \ubc30\ud130\ub9ac \uacf5\uc7a5 \ud654\uc7ac&#39;\ub77c\ub294 \uc0c8\ub85c\uc6b4 \uc720\ud615\uc758 \uc7ac\ub09c \uc55e\uc5d0\uc11c \uc18c\ubc29\ub2f9\uad6d\uc740 &#39;2\ucc28 \ud655\uc0b0 \ubc29\uc9c0&#39;\uc640 &#39;\uc0ac\ud6c4 \uc218\uc2b5&#39; \ub9d0\uace0\ub294 \ubfb0\uc871\ud55c \ub300\uc751\ucc45\uc774 \uc5c6\uc5c8\ub2e4.",
+    "news_item_url": "https://www.hani.co.kr/arti/area/capital/1146279.html",
+    "picture_source": "BBC News \ucf54\ub9ac\uc544",
     "approx_traffic": "50,000+"
   },
   {
@@ -223,29 +263,19 @@
     "country": "France",
     "title": "Barnabas Varga",
     "pubDate": "Sun, 23 Jun 2024 21:00:00 +0200",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRY6I_GsRkEeV-p6d0xuiawBqysyox4uV2KJflpcWGXCF4u-1daadDKebQESykN83fCBUrjZ4nZ",
-    "news_item_snippet": "Victime d&#39;un violent choc au visage dimanche lors du match Hongrie-Ecosse (1-0), Barnabas Varga (29 ans) est un attaquant \u00e0 l&#39;\u00e9closion tr\u00e8s tardive mais&nbsp;...",
-    "news_item_url": "https://rmcsport.bfmtv.com/football/euro/euro-2024-qui-est-barnabas-varga-l-attaquant-hongrois-victime-d-un-violent-choc-au-visage_AV-202406240340.html",
-    "picture_source": "L'\u00c9quipe.fr",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTljevYzHxCSGvSGfe1y8tb59uk5T_L5sxK1Vpa1-3cpT8WV5w4p-oNfyinQgUeS8F8mruzJL3S",
+    "news_item_snippet": "Sorti gravement bless\u00e9 dimanche 23 juin, l&#39;attaquant de 29 ans souffrait de multiples fractures au visage. D&#39;apr\u00e8s des m\u00e9dias magyars, son intervention&nbsp;...",
+    "news_item_url": "https://www.ladepeche.fr/2024/06/24/euro-2024-le-hongrois-barnabas-varga-opere-avec-succes-apres-son-evacuation-sur-civiere-lors-du-match-face-a-lecosse-12037623.php",
+    "picture_source": "BFMTV.COM",
     "approx_traffic": "100,000+"
-  },
-  {
-    "country": "France",
-    "title": "Philippe Bouvard",
-    "pubDate": "Sun, 23 Jun 2024 10:00:00 +0200",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRkGfC94gxx3uteTHLff9faymBxlxdLwo1Eh2vIjD9EMD5H33iukEGWeMf6iUAhugKwm3PeHJsC",
-    "news_item_snippet": "Le journaliste Philippe Bouvard a annonc\u00e9 dimanche qu&#39;il mettrait un terme \u00e0 sa carri\u00e8re en janvier, \u00e0 l&#39;occasion de son soixanti\u00e8me anniversaire \u00e0&nbsp;...",
-    "news_item_url": "https://www.europe1.fr/medias-tele/philippe-bouvard-decide-de-mettre-fin-a-sa-carriere-a-lage-de-95-ans-4254446",
-    "picture_source": "VL.",
-    "approx_traffic": "50,000+"
   },
   {
     "country": "Germany",
     "title": "Deutschland Schweiz",
     "pubDate": "Sun, 23 Jun 2024 00:00:00 +0200",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSIOh_HGtqvHp33TtM5jq0-6MPIex4IvYH3Wwhv_rEK1rPz0SdBdkULPwdtz3gG2rHo_r44fIMk",
-    "news_item_snippet": "Im dritten Gruppenspiel der EM 2024 ist die Schweiz der Gegner von Deutschland. Wir zeigen, welche Sender die Partie live im TV und Stream \u00fcbertragen.",
-    "news_item_url": "https://www.ruhrnachrichten.de/service/schweiz-deutschland-live-tv-uebertragung-sender-ard-magentatv-stream-mediathek-w897835-2001256534/",
+    "news_item_snippet": "Das war knapp. Dank eines sp\u00e4ten Tores von Niclas F\u00fcllkrug schafft die deutsche Nationalmannschaft gegen die Schweiz noch den EM-Gruppensieg.",
+    "news_item_url": "https://www.welt.de/sport/fussball/em/article252171518/Deutschland-Schweiz-Einzelkritik-Dreimal-Note-5-fuer-die-deutsche-Nationalmannschaft.html",
     "picture_source": "DASDING.de",
     "approx_traffic": "2,000,000+"
   },
@@ -257,7 +287,7 @@
     "news_item_snippet": "Moderatorin Esther Sedlaczek muss eingreifen, als Schweinsteiger ahnungslos in seinen Kaffeebecher spricht \u2013 und nicht zu verstehen ist.",
     "news_item_url": "https://www.rundschau-online.de/sport/fussball-europameisterschaft/ard-bastian-schweinsteiger-verwechselt-mikro-mit-kaffeebecher-kurioser-moment-esther-sedlaczek-greift-ein-815812",
     "picture_source": "FOCUS Online",
-    "approx_traffic": "200,000+"
+    "approx_traffic": "100,000+"
   },
   {
     "country": "Germany",
@@ -274,8 +304,8 @@
     "title": "Deutschland",
     "pubDate": "Sun, 23 Jun 2024 22:00:00 +0200",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSYck9iv37_4ZEGOVApPRL3mjSVmSNdlQangnkTK6-FhzRwlZAEymd9Xui7pYNPXvBWgqykgbpP",
-    "news_item_snippet": "Bill Anderson (57), Vorstandschef des Pharma- und Chemiekonzerns Bayer: \u201eInsgesamt braucht es in Deutschland mehr Offenheit f\u00fcr neue Technologien und weniger&nbsp;...",
-    "news_item_url": "https://www.manager-magazin.de/unternehmen/wirtschaft-in-deutschland-bayer-ceo-bill-anderson-glaubt-das-deutschland-noch-immer-das-zeug-dazu-hat-ein-attraktiver-zukunftsfaehiger-und-innovativer-top-industriestandort-zu-sein-a-d254871d-6860-4f0e-ad54-1cbb85ab80d1",
+    "news_item_snippet": "Die Sorgen um den Gesundheitszustand des bekannten TV-Auswanderers rei\u00dfen nicht ab. Seit Dienstag (18.6.) liegt der gelernte Koch auf der Insel im&nbsp;...",
+    "news_item_url": "https://www.mallorcazeitung.es/boulevard/auswanderer/2024/06/24/goodbye-deutschland-thommy-schmelz-krampfanfall-104217098.html",
     "picture_source": "manager-magazin.de",
     "approx_traffic": "50,000+"
   },
@@ -291,43 +321,13 @@
   },
   {
     "country": "Germany",
-    "title": "Schottland Ungarn",
+    "title": "Schottland:Ungarn",
     "pubDate": "Sat, 22 Jun 2024 22:00:00 +0200",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQeVgvSdj3XiEJv5ORaWoKrlIIPEjD6dws4LtITbzIyQ5vdjZ-A_YVnf6YmTXBjHobTRKKLLcuk",
-    "news_item_snippet": "Ungarns sp\u00e4ter Erfolg gegen Schottland wird \u00fcberschattet von einer schweren Verletzung von Barnab\u00e1s Varga. Die Mitspieler des Ungarn widmen den Sieg ihrem&nbsp;...",
-    "news_item_url": "https://www.faz.net/aktuell/sport/fussball-em/barnabas-varga-schlimme-szene-ueberschattet-schottland-ungarn-spiel-19717672.html",
-    "picture_source": "Mitteldeutsche Zeitung",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQdnLNj0fswypLNIqXACO2h3iAHgcE7xzyTvjHYnZC_PTkV6_Hrrh4pZXg9DZ-2mdl-wk9qGSn3",
+    "news_item_snippet": "Ein Tor in der zehnten Minute der Nachspielzeit l\u00e4sst Ungarn aufs Achtelfinale hoffen \u2013 doch das war nach einem medizinischen Vorfall bei St\u00fcrmer Varga&nbsp;...",
+    "news_item_url": "https://bnn.de/sport/ungarn-1-0-gegen-schottland-bangen-um-varga",
+    "picture_source": "FAZ - Frankfurter Allgemeine Zeitung",
     "approx_traffic": "500,000+"
-  },
-  {
-    "country": "Germany",
-    "title": "Formel 1",
-    "pubDate": "Sat, 22 Jun 2024 11:00:00 +0200",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcR4D62J2hgtFf_MNzMjVsJ2RPRWxAmAP600TIotszpvxqmyGJ5bS1AAC1CyAqqRc44ais0zPZ8G",
-    "news_item_snippet": "Wie viele Fans den Spanien-Grand-Prix 2024 in Barcelona besucht haben und wie das zum Trend der aktuellen Formel-1-Saison passt.",
-    "news_item_url": "https://www.motorsport-total.com/formel-1/news/vor-ort-zuschauer-formel-1-2024-leichtes-plus-fuer-barcelona-24062405",
-    "picture_source": "Motorsport-Total.com",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Germany",
-    "title": "Schweinsteiger",
-    "pubDate": "Fri, 21 Jun 2024 23:00:00 +0200",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcS2F261qRBbiH5DKtcPVcKtLZn5rnsBOV2R69PAW02kZB0Ep9BI9afSKptx9GL-aalTahFiEXTa",
-    "news_item_snippet": "Auf wen trifft Deutschland im Achtelfinale? Noch ist die Entscheidung nicht gefallen. ARD-Experte Bastian Schweinsteiger hat so seine Bedenken bei einem&nbsp;...",
-    "news_item_url": "https://www.merkur.de/sport/fussball/bastian-schweinsteiger-ard-experte-ana-ivanovic-serbien-deutschland-achtelfinale-93147001.html",
-    "picture_source": "SPORT1",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Italy",
-    "title": "Partita Italia",
-    "pubDate": "Mon, 24 Jun 2024 11:00:00 +0200",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRvJL9_a08B23peZBDFJqnHFN9YtAzXTG3keDofiENXo41hs0zOlmsJWzO9IaIPKtZwIwU3BFsY",
-    "news_item_snippet": "Croazia e Italia una di fronte all&#39;altra in una sorta di scontro diretto per gli ottavi di Euro 2024: tutti gli aggiornamenti sulla partita.",
-    "news_item_url": "https://www.goal.com/it/liste/diretta-croazia-italia-live-aggiornamenti-tv-streaming-formazioni/blt07e563a432733dc4",
-    "picture_source": "Sky Sport",
-    "approx_traffic": "50,000+"
   },
   {
     "country": "Mexico",
@@ -343,7 +343,7 @@
     "country": "Mexico",
     "title": "Uruguay vs panama",
     "pubDate": "Sun, 23 Jun 2024 13:00:00 -0600",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSxHiEY9tJ8DY8PSLCqgRH1tQTLBc_DcanEXv-5YcyolnH1L2OvJ4NdKsKKR8BrwUDf31Az43fa",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTCwNOi8-LZue3hBiZko4IcDzbug4yr6JgxtYiiJf095gEN4rGhrK5oBXTvRpMHiC8p_VrANdc2",
     "news_item_snippet": "El combinado charr\u00faa inicia el camino para tratar de convertirse en la selecci\u00f3n m\u00e1s ganadora en la historia del torneo continental ante unos canaleros que&nbsp;...",
     "news_item_url": "https://www.tudn.com/futbol/copa-america-2024/partidos-en-vivo/uruguay-vs-panama/uruguay-vs-panama-horario-y-donde-ver-partido-copa-america-2024",
     "picture_source": "MARCA.com",
@@ -361,23 +361,13 @@
   },
   {
     "country": "Mexico",
-    "title": "Estados Unidos  Bolivia",
+    "title": "Estados Unidos - Bolivia",
     "pubDate": "Sun, 23 Jun 2024 11:00:00 -0600",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcST3xm5by7EfXCu-j65xJhsiA7IjkWZKNThLnQ-oP3r-N0IVpc1w3DQcGKh2s-8-71U3mLzt8-w",
-    "news_item_snippet": "La Selecci\u00f3n de F\u00fatbol de los Estados Unidos se impuso 2-0 a su similar de Bolivia en partido correspondiente a la actividad del Grupo C donde tambi\u00e9n se&nbsp;...",
-    "news_item_url": "https://www.marca.com/mx/futbol/copa-america/cronica/2024/06/24/6678b14b22601d033d8b456d.html",
+    "news_item_snippet": "Berhalter ha considerado la Copa Am\u00e9rica como un torneo &quot;crucial&quot; para el plantel por el calibre de equipos como la campeona del mundo Argentina,&nbsp;...",
+    "news_item_url": "https://www.eleconomista.com.mx/deportes/Estados-Unidos-vs.-Bolivia-Hora-y-donde-ver-los-partidos-de-este-domingo-de-la-Copa-America-2024-20240622-0038.html",
     "picture_source": "Univision",
     "approx_traffic": "100,000+"
-  },
-  {
-    "country": "Mexico",
-    "title": "America vs juarez",
-    "pubDate": "Sun, 23 Jun 2024 07:00:00 -0600",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSu_QSgRPU23_Om859i2lplSDLJ15BIG6_F9eEK7--mP_15HK9_kWd82UYZY6DkEJeYEGhR8Mpe",
-    "news_item_snippet": "La pretemporada hacia el Apertura 2024 ha comenzado, y los equipos de la Liga MX disputar\u00e1n varios encuentros amistosos en Estados Unidos para prepararse&nbsp;...",
-    "news_item_url": "https://www.mediotiempo.com/futbol/liga-mx/america-vs-juarez-a-que-hora-y-donde-ver-partido-amistoso-2024",
-    "picture_source": "ESPN",
-    "approx_traffic": "50,000+"
   },
   {
     "country": "Mexico",
@@ -390,23 +380,43 @@
     "approx_traffic": "50,000+"
   },
   {
+    "country": "Mexico",
+    "title": "Mexico FC",
+    "pubDate": "Sun, 23 Jun 2024 00:00:00 -0600",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQbdjtc95D8LIJsC1Ar0LmFKVik1r6ebbvetnBTOrGTIG-GFMXuvID3x68ViULA_guAjvx1Kj5K",
+    "news_item_snippet": "El &#39;Cocoliso&#39; milita en el futbol mexicano desde el a\u00f1o 2017 cuando lleg\u00f3 al Necaxa, despu\u00e9s sus goles le llevaron a Pumas de la Universidad, despu\u00e9s a los&nbsp;...",
+    "news_item_url": "https://mexico.as.com/futbol/futbol-mexicano/carlos-gonzalez-muy-cerca-de-fc-juarez-n/",
+    "picture_source": "AS Mexico",
+    "approx_traffic": "50,000+"
+  },
+  {
     "country": "United Kingdom",
     "title": "Tamayo Perry",
     "pubDate": "Mon, 24 Jun 2024 10:00:00 +0100",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTt35XMmLpB8KEIzIcatRisk-2CAKB4RLbPYybfF3Io44zl64GtEX4mGe_-c_78aTI4TvPMsiby",
-    "news_item_snippet": "Perry php was a lifeguard was pronounced dead at the scene by emergency services. They bevies he may have suffered multiple shark bites., externamergency&nbsp;...",
-    "news_item_url": "https://www.carvemag.com/2024/06/north-shore-legend-tamayo-perry-has-died-after-being-bitten-by-a-shark/",
+    "news_item_snippet": "The actor, who also appeared in Blue Crush and Hawaii Five-0, was a lifeguard and professional surfer, described as a &#39;legendary waterman&#39;",
+    "news_item_url": "https://www.theguardian.com/film/article/2024/jun/24/pirates-of-the-caribbean-actor-tamayo-perry-dies-in-shark-attack",
     "picture_source": "The Guardian",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United Kingdom",
+    "title": "India vs Australia",
+    "pubDate": "Mon, 24 Jun 2024 16:00:00 +0100",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQ1j3Pli-jET5jMN5LcmiSIRglAwfxWsg4zOfvJZo7Br-7tSt0Z9IMjGsswCKT0_pTb9NUBv4kP",
+    "news_item_snippet": "The Rohit Sharma-led Indian team aims to top their Super 8s group with a victory on Monday, which could also eliminate Australia and secure India&#39;s place in&nbsp;...",
+    "news_item_url": "https://www.businesstoday.in/sports/story/india-vs-australia-t20-world-cup-2024-ind-vs-aus-ind-vs-aus-overall-stats-most-runs-wickets-434530-2024-06-24",
+    "picture_source": "Aljazeera.com",
     "approx_traffic": "50,000+"
   },
   {
     "country": "United Kingdom",
     "title": "Scotland v Hungary",
     "pubDate": "Sun, 23 Jun 2024 09:00:00 +0100",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSjxXsljWfha_ZfsYgm5dYx2i3-z39ZBXcUKbpD2QXSVIJV5coaLGi1hZMsN7wwz2UtroAvnP0e",
-    "news_item_snippet": "RISHI Sunak has given his verdict on whether or not Scotland should have had a penalty during last night&#39;s crucial Euros match against Hungary.",
-    "news_item_url": "https://www.thenational.scot/news/24407020.scotland-v-hungary-rishi-sunak-gives-verdict-penalty-appeal/",
-    "picture_source": "The Independent",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRb9j4Vz3vkH96lZnKVRu7oj0rkLDlAbwuOr39nJS7DcMHZER1LKjWTFcf8ikbffdjJrkfO_P9y",
+    "news_item_snippet": "Kevin Csoboth&#39;s breakaway goal with the last kick of the match ensured Hungary finished third in Group A with three points while Scotland crashed out at the&nbsp;...",
+    "news_item_url": "https://www.independent.co.uk/sport/football/scotland-hungary-live-stream-score-result-euro-2024-b2567078.html",
+    "picture_source": "The National",
     "approx_traffic": "500,000+"
   },
   {
@@ -415,38 +425,28 @@
     "pubDate": "Sun, 23 Jun 2024 21:00:00 +0100",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSlQZlYbJYiIZYevtoAASrnqXEZ6tJjZnKAwzxm4XclWUuJoLon7-K0ulCzWgt_B0NrAO7RxqvF",
     "news_item_snippet": "Hungary forward Barnabas Varga is &quot;stable&quot; in hospital after a collision with Scotland goalkeeper Angus Gunn, which saw him stretchered off the pitch.",
-    "news_item_url": "https://www.eurosport.com/football/euro/2024/barnabas-varga-stable-in-hospital-following-incident-against-scotland-at-euro-2024-suffers-multiple-broken-bones_sto20012926/story.shtml",
+    "news_item_url": "https://www.eurosport.com/football/euro/2024/barnabas-varga-stable-in-hospital-after-being-stretchered-off-following-collision-against-scotland-at-euro-2024_sto20012926/story.shtml",
     "picture_source": "The Guardian",
     "approx_traffic": "200,000+"
-  },
-  {
-    "country": "United Kingdom",
-    "title": "Switzerland vs Germany",
-    "pubDate": "Sun, 23 Jun 2024 20:00:00 +0100",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTtp3iAz8e2Eh-UojBZTnwbmpheNewZ2pFYC2aQqp2nqdI5YNE9v54orJF2yefF8iikjgbm9E5W",
-    "news_item_snippet": "HOW TO WATCH FOOTBALL ON TNT SPORTS &amp; DISCOVERY+ - TV AND LIVE STREAM DETAILS. TNT Sports will bring you live coverage of every UEFA Champions League,&nbsp;...",
-    "news_item_url": "https://www.eurosport.com/football/euro/2024/live-switzerland-germany_mtc1426998/live-commentary.shtml",
-    "picture_source": "BBC Sport",
-    "approx_traffic": "100,000+"
   },
   {
     "country": "United Kingdom",
     "title": "Manchester airport",
     "pubDate": "Sun, 23 Jun 2024 08:00:00 +0100",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTl3upPrGY3lzG986C_fWukz9A5fznEF6yAPtC-KuwidFfCNjTnLpP-DNpiziDm4Dz7ke3QvZyX",
-    "news_item_snippet": "The airport issued a statement on Monday morning saying that operations were back up and running and urged passengers to &quot;prepare to travel as usual&quot;.",
-    "news_item_url": "https://news.sky.com/story/manchester-airport-disruption-remains-after-power-cut-grounded-flights-13157941",
+    "news_item_snippet": "Manchester airport power outage \u2013 what are your rights if you were disrupted? Exclusive: Thousands of airline passengers were affected by 140 flight&nbsp;...",
+    "news_item_url": "https://www.independent.co.uk/travel/news-and-advice/manchester-airport-flight-cancellations-compensation-b2567607.html",
     "picture_source": "BBC News",
     "approx_traffic": "100,000+"
   },
   {
     "country": "United Kingdom",
-    "title": "CALLUM Styles",
-    "pubDate": "Sun, 23 Jun 2024 21:00:00 +0100",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcR2i65h3IKb7vpzbETYPljnl5UeFHm6cUXTMRwQYX-M92ajgGiSiObRPM0JiHlJRG4RfvfdenPy",
-    "news_item_snippet": "CALLUM Styles made history on Sunday night after becoming the first ever footballer on the books at Barnsley FC to play... Local News Barnsley FC Barnsley&nbsp;...",
-    "news_item_url": "https://www.barnsleychronicle.com/article/28696/callum-styles-makes-barnsley-fc-history-at-european-championships",
-    "picture_source": "Barnsley Chronicle",
-    "approx_traffic": "50,000+"
+    "title": "Switzerland vs Germany",
+    "pubDate": "Sun, 23 Jun 2024 20:00:00 +0100",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTtp3iAz8e2Eh-UojBZTnwbmpheNewZ2pFYC2aQqp2nqdI5YNE9v54orJF2yefF8iikjgbm9E5W",
+    "news_item_snippet": "Germany boss Julian Nagelsmann don dismiss suggestions say im side no go wan beat Switzerland on Sunday so dat dem go avoid Spain for di Euro 2024&nbsp;...",
+    "news_item_url": "https://www.bbc.com/pidgin/articles/cjlll2gn9gzo",
+    "picture_source": "BBC Sport",
+    "approx_traffic": "100,000+"
   }
 ]
