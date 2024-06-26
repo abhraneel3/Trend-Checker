@@ -1,23 +1,13 @@
 [
   {
     "country": "United States",
-    "title": "Crazy Town",
+    "title": "Seth Binzer",
     "pubDate": "Tue, 25 Jun 2024 07:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTiWBjptW5Q_fQjB-to3whH27poOp6fTSb74nWpWekXsq2vAfDKvRYOvYCAqlwMUvow2gpQVwvM",
-    "news_item_snippet": "The band were best known for the rap-rock single Butterfly, which was a top 10 hit in 2001.",
-    "news_item_url": "https://www.bbc.com/news/articles/cpdd91d3lmko",
-    "picture_source": "The New York Times",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRpaIeeoOXU9JYQPSsbUWdyyyXYJpK7IphiN1BZMWGKdlWNCVDUno7aEoRaHLUuPiBwySEDJOiv",
+    "news_item_snippet": "Co-founded by Binzer in 1995, the Los Angeles band had a global hit with their 2000 single Butterfly.",
+    "news_item_url": "https://www.theguardian.com/music/article/2024/jun/25/seth-binzer-frontman-of-us-band-crazy-town-dies-aged-49",
+    "picture_source": "LA Daily News",
     "approx_traffic": "200,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Karen Read",
-    "pubDate": "Tue, 25 Jun 2024 09:00:00 -0700",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRLKUdHmxNX2CkuQgWcoHp8HK0RDO86lx9ZUmuM3FRcUCoWY5UmH361uaf4JXo-5hp-mU4q3kqc",
-    "news_item_snippet": "A defense lawyer is&nbsp;...",
-    "news_item_url": "https://www.westernmassnews.com/2024/06/25/with-closing-arguments-karen-read-trial-jurors-decide-deadly-romance-or-police-corruption/",
-    "picture_source": "The Patriot Ledger",
-    "approx_traffic": "100,000+"
   },
   {
     "country": "United States",
@@ -33,10 +23,40 @@
     "country": "United States",
     "title": "England vs Slovenia",
     "pubDate": "Tue, 25 Jun 2024 12:00:00 -0700",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRfo_bvbm2EMzS8mNmMvB50Q0WE4SrTSdbiE3ibdlHG9gezwu3m__9O5a_p8aNLbrof1acsRePX",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTzmYjGtrdf4R73aTwHjqEaw7zNKtCIO4sdEh6OUIjFn7DR5yyD2aB34tLjO-siJy4NJglMu1t7",
     "news_item_snippet": "So, England have won Group C. Gareth Southgate&#39;s team were underwhelming in their opening two games of Euro 2024 and there was little sign of a revolution&nbsp;...",
     "news_item_url": "https://www.nytimes.com/athletic/live-blogs/england-slovenia-live-updates-euro-2024-score-result/WMU09Z4cTpdh/",
-    "picture_source": "CBSSports.com",
+    "picture_source": "Aljazeera.com",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Karen Read",
+    "pubDate": "Tue, 25 Jun 2024 09:00:00 -0700",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRLKUdHmxNX2CkuQgWcoHp8HK0RDO86lx9ZUmuM3FRcUCoWY5UmH361uaf4JXo-5hp-mU4q3kqc",
+    "news_item_snippet": "The fate of Karen Read was handed Tuesday to jurors who must decide whether the Massachusetts woman ended a rocky romance by angrily striking her boyfriend&nbsp;...",
+    "news_item_url": "https://www.wbur.org/news/2024/06/25/karen-read-trial-jurors-police-massachusetts",
+    "picture_source": "The Patriot Ledger",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Rivian stock",
+    "pubDate": "Tue, 25 Jun 2024 15:00:00 -0700",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRC-4uUpIRHhloqA6U2EVVSrKtYFBS_91_YTHQKFvy3BKgxvvSlDOgDFmdia3BopVrjgbLF-zrG",
+    "news_item_snippet": "Volkswagen (VWAGY) disclosed Tuesday it would invest $1 billion in Irvine, Calif.-based electric vehicle maker Rivian (RIVN), with plans to ramp up to as&nbsp;...",
+    "news_item_url": "https://www.investors.com/news/rivian-stocks-soars-as-volkswagen-plans-3-billion-stake/",
+    "picture_source": "MarketWatch",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Argentina vs Chile",
+    "pubDate": "Tue, 25 Jun 2024 11:00:00 -0700",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcT6FdOKtnEHgpFHNyDD_OT3Y_kQ9cCkduEjyW5r_oAGJPKAheRqBmqjw53tU4GsN6O3wHFNeKHP",
+    "news_item_snippet": "Follow live coverage as Lionel Messi&#39;s Argentina look to maintain their perfect start to their Copa America defence.",
+    "news_item_url": "https://www.nytimes.com/athletic/live-blogs/argentina-chile-live-updates-2024-copa-america-lionel-messi-score-result/oCUC4vRmu9jL/",
+    "picture_source": "NorthJersey.com",
     "approx_traffic": "50,000+"
   },
   {
@@ -44,20 +64,20 @@
     "title": "Netherlands vs Austria",
     "pubDate": "Tue, 25 Jun 2024 10:00:00 -0700",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQD_dYNZtMcM4sHEUxAuCddB8AuX3fxVn9FPy2LKaT-e390zpShWt2nOxP18dit2UFrA30ylr3x",
-    "news_item_snippet": "The Dutch can finish as Group C winners with a win in Berlin.",
-    "news_item_url": "https://www.cnet.com/tech/services-and-software/how-to-watch-euro-2024-netherlands-vs-austria-livestream-soccer-from-anywhere/",
+    "news_item_snippet": "Euro 2024: Netherlands v Austria &middot; Netherlands face Austria in final game of Group D | 5pm BST on BBC Two &middot; 6&#39; GOAL - Donyell Malen turns Prass&#39; cross into his&nbsp;...",
+    "news_item_url": "https://sports.yahoo.com/netherlands-v-austria-live-line-115745414.html",
     "picture_source": "The Athletic",
     "approx_traffic": "50,000+"
   },
   {
     "country": "United States",
-    "title": "Stanley Cup finals",
-    "pubDate": "Mon, 24 Jun 2024 04:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQgWseEkLPrP1Zgv9IDbGn4Tf-xAPFJ0g_-SDxR7LQkB6FvjnpNN5d5xq5qX9_tb8xf5lUp__Sy",
-    "news_item_snippet": "McDavid led the playoffs with 42 points and set an NHL record previously held by Wayne Gretzky with 34 playoff assists. But the Panthers stifled McDavid and the&nbsp;...",
-    "news_item_url": "https://sports.yahoo.com/live/stanley-cup-final-panthers-win-game-7-thriller-over-oilers-to-secure-first-championship-in-franchise-history-025534039.html",
-    "picture_source": "NBC News",
-    "approx_traffic": "500,000+"
+    "title": "Michael Jackson",
+    "pubDate": "Tue, 25 Jun 2024 10:00:00 -0700",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRBhpFq9YMQk1Luz8fVYTxCknkMMwUxJ6cAv9M4JE76hcQwQJd7M0OjYkzvoSrpzyQvBdJQB4S_",
+    "news_item_snippet": "Maria Ochoa, Raquel G\u00f3mez, Penny Tong y Tomas Verastegui, integrantes de &quot;The Stringphonics&quot;, visitan las instalaciones de Noticias RGV para hablarnos sobre&nbsp;...",
+    "news_item_url": "https://www.krgv.com/news/the-stringphonics-realiza-concierto-tributo-a-michael-jackson-en-brownsville",
+    "picture_source": "Us Weekly",
+    "approx_traffic": "50,000+"
   },
   {
     "country": "United States",
@@ -73,68 +93,38 @@
     "country": "United States",
     "title": "NHL",
     "pubDate": "Mon, 24 Jun 2024 19:00:00 -0700",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTZJ3HE2uBj_MHbZMJx1qOZHMid2u1FwioAVK5En4xE3nBaaqu9UarUO6FK54A2gQksiCm5yvHt",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSt6Ua9Cx-mXFKsvecfiMG8gdg5VT0cUaE5NVjXAJzRTa093KqYem2nZoP09FRAOH9kpeBUbBQk",
     "news_item_snippet": "The NHL argues a lawsuit accusing it of illegally conspiring with the Canadian Hockey League to suppress junior hockey players&#39; earnings is meritless.",
     "news_item_url": "https://www.sportico.com/law/analysis/2024/nhl-motion-to-dismiss-chl-lawsuit-1234785513/",
-    "picture_source": "ESPN",
+    "picture_source": "Sportico.com",
     "approx_traffic": "500,000+"
   },
   {
     "country": "United States",
     "title": "Florida Panthers",
     "pubDate": "Mon, 24 Jun 2024 18:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRu47qlAgbwUanLxgH8BDcIpC7SUKCR7ob3JoeTGWVJs7_-eU9lB2yuupDK5mStYcI09vj2UkQW",
-    "news_item_snippet": "The Florida Panthers will rock the streets of Fort Lauderdale Beach this weekend when they host a Stanley Cup victory party!",
-    "news_item_url": "https://www.wptv.com/sports/hockey/panthers/ready-to-party-with-the-florida-panthers-heres-how-this-weekend",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRcSXnfDGjDWG2IKlw55gY6DPQCNMKJLtRQe1sIGSqXNvcTeVW1lZpOV7aZZPE3PH_srjVG8DAt",
+    "news_item_snippet": "Fans invited to celebrate and join parade route which begins at A1A and Riomar St. in Fort Lauderdale at 11 a.m..",
+    "news_item_url": "https://www.nhl.com/panthers/news/florida-panthers-to-host-championship-celebration-on-sunday-june-30-at-11-a-m",
+    "picture_source": "WPTV.com",
+    "approx_traffic": "500,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Oilers",
+    "pubDate": "Mon, 24 Jun 2024 04:00:00 -0700",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQaBDdOBD_S3ITY_MM-ulRwf6VMWd1_K0XNZPNAQPxijeSTkUj1MceUENE5NzhBeo4D_0oYScPj",
+    "news_item_snippet": "While the Stanley Cup is hockey&#39;s Porsche, the Conn Smythe Trophy is a Toyota Corolla if you&#39;re on the losing team in the final.",
+    "news_item_url": "https://edmontonjournal.com/sports/hockey/nhl/oilers-mcdavid-wins-conn-smythe-trophy",
     "picture_source": "NHL.com",
     "approx_traffic": "200,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Brazil vs Costa Rica",
-    "pubDate": "Mon, 24 Jun 2024 15:00:00 -0700",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTO79RMcsbOczfVKcz8aSoJBxp-jXc7pj42ceRUBEQZ7YX6lbvmCZHcsUBh1Kitu0KDTQlBWPkP",
-    "news_item_snippet": "Brazil were expected to cruise past Costa Rica with ease, but were held to a surprise goalless draw after failing to take their chances with a questionable&nbsp;...",
-    "news_item_url": "https://www.espn.com/soccer/story/_/id/40419245/copa-america-brazil-rue-tactical-caution-copa-america-opener-vs-costa-rica",
-    "picture_source": "The Athletic",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Julian Assange",
-    "pubDate": "Mon, 24 Jun 2024 18:00:00 -0700",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcT2E1M8znzBwV8HdD5Ea3y0bLC2u3NakkMwaoCTdgge31_EVx6j9fmFePnewdQ5I2NWQt77KP_e",
-    "news_item_snippet": "WikiLeaks founder Julian Assange will be reunited with his wife and their two young sons after his plea deal with the U.S. The children have only known him&nbsp;...",
-    "news_item_url": "https://abcnews.go.com/International/julian-assange-reunite-family-prison/story?id=111403571",
-    "picture_source": "The Associated Press",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Croatia vs Italy",
-    "pubDate": "Mon, 24 Jun 2024 13:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQHPP3dyZk8we_qlTD2v5UbPj6PgSBxtkz6OFFAUakQqkp5LEqs2OZYQYlAaeYpaAtFlLtLsiZo",
-    "news_item_snippet": "Mattia Zaccagni scored in the final minute of stoppage time as Italy broke Croatia&#39;s hearts at Euro 2024 on Monday.",
-    "news_item_url": "https://www.nytimes.com/athletic/live-blogs/croatia-italy-live-updates-euro-2024-score-result/LyUyRV8bPqzM/",
-    "picture_source": "Goal.com",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Connor McDavid",
-    "pubDate": "Mon, 24 Jun 2024 15:00:00 -0700",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRA48w-IQHr6X1FwMPEwnTbaUrpZKVdfyOUB8d2m1Ew82ZK8lxysbJV-jK5vVn4MkbFHxILfa94",
-    "news_item_snippet": "Oilers captain Connor McDavid won the Conn Smythe Trophy as playoff MVP on Monday night in Sunrise, Florida, despite Edmonton&#39;s Stanley Cup Final loss to&nbsp;...",
-    "news_item_url": "https://www.espn.com/nhl/story/_/id/40426690/in-defeat-oilers-connor-mcdavid-wins-conn-smythe-trophy",
-    "picture_source": "NHL.com",
-    "approx_traffic": "100,000+"
   },
   {
     "country": "India",
     "title": "England vs Slovenia",
     "pubDate": "Wed, 26 Jun 2024 00:30:00 +0530",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTkwRliVxyJ2BpDFrEHfr9TNC4tdLx1Wdvm4E_j97cXSayCPUwHRQqVI95kWIwzc7IrGfUWFSEN",
-    "news_item_snippet": "COLOGNE, GERMANY - JUNE 25: Bukayo Saka of England reacts after scoring a goal as it is disallowed following an offside decision during the UEFA EURO 2024&nbsp;...",
+    "news_item_snippet": "Follow the Group C match between England and Slovenia, being played at the Cologne Stadium in Germany, through real-time pictures from the venue.",
     "news_item_url": "https://sportstar.thehindu.com/football/england-vs-slovenia-euro-2024-live-pictures-eng-v-svn-real-time-updates-gallery/article68333544.ece",
     "picture_source": "NDTVSports.com",
     "approx_traffic": "50,000+"
@@ -151,21 +141,21 @@
   },
   {
     "country": "India",
-    "title": "AFG vs BAN",
-    "pubDate": "Tue, 25 Jun 2024 09:30:00 +0530",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSsvaukVDIqLl6JBYnKqW9Xx_grYc-cJXZAp71KYMgk_PcidjsgLplmZ5ssInSZvGtlJnKb2UQY",
+    "title": "Afg vs ban",
+    "pubDate": "Tue, 25 Jun 2024 20:30:00 +0530",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQHXfmIVmqPQVwqavdvMChtAW21Xb10H_P0YKiW-BoNXBkFajJSPm_AXMEehLgtKyVfMM3s8bwZ",
     "news_item_snippet": "\u0b95\u0bbf\u0b99\u0bcd\u0bb8\u0bcd\u0b9f\u0bb5\u0bc1\u0ba9\u0bcd: \u0bb5\u0b99\u0bcd\u0b95\u0ba4\u0bc7\u0b9a \u0b85\u0ba3\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0b8e\u0ba4\u0bbf\u0bb0\u0bbe\u0ba9 \u0b9a\u0bc2\u0baa\u0bcd\u0baa\u0bb0\u0bcd 8 \u0baa\u0bcb\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b86\u0baa\u0bcd\u0b95\u0bbe\u0ba9\u0bbf\u0bb8\u0bcd\u0ba4\u0bbe\u0ba9\u0bcd \u0b85\u0ba3\u0bbf \u0bb5\u0bc6\u0bb1\u0bcd\u0bb1\u0bbf \u0baa\u0bc6\u0bb1\u0bcd\u0bb1\u0bc1 2024 \u0b9f\u0bbf20 \u0b89\u0bb2\u0b95\u0b95\u0bcd \u0b95\u0bcb\u0baa\u0bcd\u0baa\u0bc8 \u0ba4\u0bca\u0b9f\u0bb0\u0bbf\u0ba9\u0bcd \u0b85\u0bb0\u0bc8 \u0b87\u0bb1\u0bc1\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bc1&nbsp;...",
     "news_item_url": "https://tamil.mykhel.com/cricket/t20-world-cup-2024-rashid-khan-throws-his-bat-at-karim-janat-064223.html",
-    "picture_source": "NDTV MPCG",
-    "approx_traffic": "1,000,000+"
+    "picture_source": "myKhel Tamil",
+    "approx_traffic": "500,000+"
   },
   {
     "country": "India",
     "title": "Sports",
     "pubDate": "Tue, 25 Jun 2024 14:30:00 +0530",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSJG_JaFITnMkN4ow0mGEZ-gPFxNSxsSJzF_7Q88HDdmBJGdBth0IFHjTY4mmtH9rbNtytjz6Tg",
-    "news_item_snippet": "The foundations of several companies, such as the Reliance Group, Tata Steel, JSW, Hindustan Zinc and SKF India, have been supporting sports as part of&nbsp;...",
-    "news_item_url": "https://m.economictimes.com/news/company/corporate-trends/india-incs-csr-spends-on-sports-likely-to-surge-in-next-few-years/articleshow/111267250.cms",
+    "news_item_snippet": "The event is presented annually by the National Center for Spectator Sports Safety and Security (NCS<sup>4</sup>) at The University of Southern Mississippi (USM). The&nbsp;...",
+    "news_item_url": "https://www.usm.edu/news/2024/release/national-sports-safety-and-security-conference.php",
     "picture_source": "The Hindu",
     "approx_traffic": "200,000+"
   },
@@ -177,6 +167,16 @@
     "news_item_snippet": "Follow live reaction to Brazil&#39;s goalless draw with Costa Rica in their opening match of the 2024 Copa America tournament.",
     "news_item_url": "https://www.nytimes.com/athletic/live-blogs/brazil-costa-rica-live-updates-2024-copa-america-score-result/Ye1P1Cs1y6uC/",
     "picture_source": "Sportstar",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "India",
+    "title": "Virat Kohli",
+    "pubDate": "Tue, 25 Jun 2024 11:30:00 +0530",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRf1K3aom_9KzTif5__xZa4U1nnUKHrhtxjUZLY2djj99imf7-aGep_dKw7TJQD9c9Zu58rG8rF",
+    "news_item_snippet": "In the world of cricket, few names hold as much weight as Virat Kohli&#39;s. With a career defined by remarkable achievements and an unyielding drive for&nbsp;...",
+    "news_item_url": "https://timesofindia.indiatimes.com/life-style/relationships/work/success-tips-to-learn-from-virat-kohli/photostory/111257966.cms",
+    "picture_source": "Times of India",
     "approx_traffic": "200,000+"
   },
   {
@@ -194,20 +194,10 @@
     "title": "France vs Poland",
     "pubDate": "Tue, 25 Jun 2024 21:30:00 +0530",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTZjG5TinMl0qFzqRG2_tF2hG7__J2i3nJpj5tEqb7boUp_U1g3lNWRozmQFBaRl5GMJ5TcojVJ",
-    "news_item_snippet": "Kylian Mbappe and Co defeated Austria 1-0 in their opening match before playing out a 0-0 draw with Netherlands. On the other hand, Poland lost both of their&nbsp;...",
+    "news_item_snippet": "France vs Poland Live Streaming Euro 2024 Live Telecast: France face Poland in a crucial Euro 2024 Group D encounter.",
     "news_item_url": "https://sports.ndtv.com/uefa-euro-2024/france-vs-poland-live-streaming-euro-2024-live-telecast-when-and-where-to-watch-5966250",
     "picture_source": "Sportstar",
     "approx_traffic": "100,000+"
-  },
-  {
-    "country": "India",
-    "title": "Semi-final World Cup 2024",
-    "pubDate": "Tue, 25 Jun 2024 13:30:00 +0530",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTSo6iWCgGL3WVFMMer4tSzgF99MO17KKbO0HIkxdx8yNJT_AkxHwO_C-3USDmKhelfRQlzOBXx",
-    "news_item_snippet": "Team India is yet to disappoint fans this T20 WorldCup. Fresh from its much awaited victory against Australia in the Super 8&#39;s match and Captain Rohit&nbsp;...",
-    "news_item_url": "https://www.livemint.com/sports/cricket-news/t20-world-cup-2024-semi-finals-who-is-india-playing-against-date-timings-venue-11719302195858.html",
-    "picture_source": "Jagran Josh",
-    "approx_traffic": "50,000+"
   },
   {
     "country": "India",
@@ -221,21 +211,11 @@
   },
   {
     "country": "India",
-    "title": "Netherlands vs Austria",
-    "pubDate": "Tue, 25 Jun 2024 21:30:00 +0530",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcR6T8vA-Rgj0umAm6jA4e6Kre-2AIaYG0Ba-3ww_xiJ6dobunYhT0YX-Swj-95unGxuhBvJv_YN",
-    "news_item_snippet": "Welcome to Sportstar&#39;s highlights of the Euro 2024 Group D match between Netherlands vs Austria played at the Olympiastadion Berlin.",
-    "news_item_url": "https://sportstar.thehindu.com/football/netherlands-vs-austria-live-score-euro-2024-updates-results-highlights-ned-v-aut-group-d-streaming-info-news/article68331976.ece",
-    "picture_source": "NDTVSports.com",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "India",
-    "title": "T20 World Cup schedule",
-    "pubDate": "Tue, 25 Jun 2024 17:30:00 +0530",
+    "title": "Semi-final World Cup 2024",
+    "pubDate": "Tue, 25 Jun 2024 13:30:00 +0530",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTSo6iWCgGL3WVFMMer4tSzgF99MO17KKbO0HIkxdx8yNJT_AkxHwO_C-3USDmKhelfRQlzOBXx",
-    "news_item_snippet": "In the other group, South Africa on all of their three matches against England, United States and West Indies to book their spot in the Top 4. England won their&nbsp;...",
-    "news_item_url": "https://sports.ndtv.com/t20-world-cup-2024/t20-world-cup-2024-semi-finals-full-schedule-teams-date-time-venues-and-more-5967112",
+    "news_item_snippet": "Team India is yet to disappoint fans this T20 WorldCup. Fresh from its much awaited victory against Australia in the Super 8&#39;s match and Captain Rohit&nbsp;...",
+    "news_item_url": "https://www.livemint.com/sports/cricket-news/t20-world-cup-2024-semi-finals-who-is-india-playing-against-date-timings-venue-11719302195858.html",
     "picture_source": "Jagran Josh",
     "approx_traffic": "50,000+"
   },
@@ -244,8 +224,8 @@
     "title": "Axar Patel",
     "pubDate": "Tue, 25 Jun 2024 01:30:00 +0530",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSbu3Cp8zhovsuFlsr3BfM9tNcSdckqTmKzL2VRBbhR15Augy76DmZY4l-_VKu3_x_R0u1HhvXP",
-    "news_item_snippet": "It was one moment of magic that changed the entire course of game with Axar Patel pulling off a one-handed stunner to dismiss Mitchell Marsh. | Crickit.",
-    "news_item_url": "https://www.hindustantimes.com/cricket/t20-world-cup-axar-patel-perfectly-timed-one-handed-blinder-changed-india-fortune-australia-super-8-clash-to-make-semis-101719277518167.html",
+    "news_item_snippet": "T20 World Cup 2024, India vs Australia, Super 8: Axar Patel became a contender for the best catch of the tournament when he took a stunner with his right&nbsp;...",
+    "news_item_url": "https://www.indiatoday.in/sports/cricket/story/t20-world-cup-india-vs-australia-axar-patel-catch-video-mitchell-marsh-st-lucia-2557543-2024-06-24",
     "picture_source": "ICC Cricket",
     "approx_traffic": "50,000+"
   },
@@ -253,9 +233,19 @@
     "country": "India",
     "title": "Australia",
     "pubDate": "Tue, 25 Jun 2024 11:30:00 +0530",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSPK4iAJulalQoWyXVmsU_ziLkz7KIzvn_rh4do68F2PW9OC-XC3oc8mg695sq06XZMojJInb4P",
-    "news_item_snippet": "Najibullah Zadran took a dig at Pat Cummins after Afghanistan knocked Australia out of T20 World Cup to enter the semi-finals of an ICC event for the first&nbsp;...",
-    "news_item_url": "https://www.hindustantimes.com/cricket/afghanistan-cricketers-brutal-dig-at-pat-cummins-after-knocking-australia-out-of-t20-world-cup-to-enter-semi-final-101719314698962.html",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcS2q8r-3oun6jf_Yb_s85hzQvkqH7VByCQHK7nXsXtB7VISTKfDUBmPUhmI_g-1etTECzLiqFmC",
+    "news_item_snippet": "Rohit Sharma scored 94 from 41 balls as India scored 205-5 at the Daren Sammy National Cricket Stadium in Gros Islet, Saint Lucia. Travis Head scored 76 from 43&nbsp;...",
+    "news_item_url": "https://www.aljazeera.com/sports/liveblog/2024/6/24/live-australia-vs-india-icc-t20-world-cup-2024-super-eight",
+    "picture_source": "Nagaland Post",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "India",
+    "title": "Semi-final World Cup 2024",
+    "pubDate": "Tue, 25 Jun 2024 14:30:00 +0530",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRkVMZCVjqT97xNfuM_QGh3g0inljnI-ZDo9u-DFQ5GSIyMue6LVjhwvF6t9kDyIh2q1vO2_OM_",
+    "news_item_snippet": "Discover the schedule, teams, match dates, times, and ticket information for the T20 World Cup 2024 semi-finals. Learn how to buy tickets for South Africa&nbsp;...",
+    "news_item_url": "https://www.jagranjosh.com/general-knowledge/t20-world-cup-2024-semi-final-schedule-match-date-teams-tickets-1719297790-1",
     "picture_source": "Aljazeera.com",
     "approx_traffic": "50,000+"
   },
@@ -271,52 +261,92 @@
   },
   {
     "country": "Argentina",
-    "title": "Pa\u00edses Bajos  Austria",
+    "title": "Per\u00fa  Canad\u00e1",
     "pubDate": "Tue, 25 Jun 2024 13:00:00 -0300",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRh1i5DqtP9OO4kBxJpyXawvGTyzSG9l14q7wnN2U8rKzk3sLDLDjYNla_WPm1rhKTEwGyrWI2T",
-    "news_item_snippet": "El equipo dio el batacazo y la Naranja de Koeman pas\u00f3 a octavos como tercero.",
-    "news_item_url": "https://www.ole.com.ar/futbol-internacional/paises-bajos-austria-eurocopa-fase-grupos_0_BiEd7He8gp.html",
-    "picture_source": "TyC Sports",
-    "approx_traffic": "50,000+"
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTtd_Qf1BupRLonRn_FIRagj6Qu1CFIlqyEyEJWWxvEMaXlYZhrk8Af5H8jZ5_JcBIoop799fRB",
+    "news_item_snippet": "Los de Fosatti jugaron mejor, pero la expulsi\u00f3n de Araujo fue determinante: deben ganarle a la Selecci\u00f3n para so\u00f1ar...",
+    "news_item_url": "https://www.ole.com.ar/copa-america/copa-america-peru-canada-fase-grupos-seleccion-argentina_0_Ie8JOTrhYS.html",
+    "picture_source": "infobae Am\u00e9rica",
+    "approx_traffic": "100,000+"
   },
   {
     "country": "Argentina",
     "title": "Francia - Polonia",
     "pubDate": "Tue, 25 Jun 2024 13:00:00 -0300",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRKjwojh4dDjf8BUJ26sWAtf106HTEoxcd74o0buEkyD0Bodt_EjAZYG1TeLqX6YIIwxAT5HBxT",
-    "news_item_snippet": "Este martes en Dortmund, por la fecha 3, el equipo galo no pudo quedarse con el liderazgo del Grupo D ante el seleccionado polaco que qued\u00f3 eliminado.",
-    "news_item_url": "https://www.tycsports.com/eurocopa/francia-vs-polonia-en-vivo-hora-donde-ver-y-formaciones-id592089.html",
-    "picture_source": "canchallena.com",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRfxLy8oMGcnA9CMJr6lFU7MCxQd_5gZSewV9RN1OEdhUTJEiotHmrGqNpa7Mnjn8o5YI2Rb0d3",
+    "news_item_snippet": "Para cerrar el Grupo D de la Eurocopa 2024 en Alemania, Francia se enfrenta a Polonia buscando quedarse con el primer puesto o de al menos clasificarse a&nbsp;...",
+    "news_item_url": "https://tntsports.com.ar/internacional/francia-polonia-eurocopa-minuto-a-minuto-tnt-sports-20240625-0009.html",
+    "picture_source": "TyC Sports",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "Argentina",
+    "title": "Pa\u00edses Bajos  austria",
+    "pubDate": "Tue, 25 Jun 2024 13:00:00 -0300",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRNLe--yP07aXjO0I_FVSlf58Wm4BZRCI1P4S56vpYD1xRbROHW5RH0IB-3bQt2pChZXYyf_aMh",
+    "news_item_snippet": "Termin\u00f3 el partido entre Pa\u00edses Bajos y Austria ... Austria se impuso por 3 a 2 con goles de Donyell Malen (en contra), Romano Schmid y Marcel Sabitzer. Los goles&nbsp;...",
+    "news_item_url": "https://www.tycsports.com/eurocopa/paises-bajos-vs-austria-en-vivo-hora-donde-ver-y-formaciones-id592088.html",
+    "picture_source": "ESPN",
     "approx_traffic": "50,000+"
   },
   {
     "country": "Australia",
     "title": "Julian Assange",
     "pubDate": "Tue, 25 Jun 2024 10:00:00 +1000",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSiIF3S59YDKcrc28ciafY6upRz7rOkpkolbVD-DEsvh71cvGN29ElPkzORcMwsVP54cW9Sy-mh",
-    "news_item_snippet": "A lawyer&#39;s offer, a judgment that foretold years of legal wrangling, and diplomatic pressure all played a part in the release of the WikiLeaks founder.",
-    "news_item_url": "https://www.theguardian.com/media/article/2024/jun/25/from-a-plea-deal-to-a-2am-prison-call-how-julian-assange-finally-gained-freedom",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQ7t2blvler9IV1vHna_EV763ODA0LEs0diGNqMUKZ4fCIjMKTq8sYkxJtSPdkTOFrQceJOKg5o",
+    "news_item_snippet": "Saipan: US government lawyer Matthew McKenzie has taken a while to read through the facts, laying out the publication by Assange (via WikiLeaks) of 75,000&nbsp;...",
+    "news_item_url": "https://www.smh.com.au/politics/federal/julian-assange-freed-live-updates-wikileaks-founder-set-to-return-to-australia-ahead-of-us-plea-deal-20240625-p5joqy.html",
     "picture_source": "ABC News",
-    "approx_traffic": "100,000+"
+    "approx_traffic": "200,000+"
   },
   {
     "country": "Australia",
-    "title": "Afghanistan vs Bangladesh",
-    "pubDate": "Tue, 25 Jun 2024 11:00:00 +1000",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRdhxBjtDaDRap7tVZCivlCz01wn_NHji7R_hOWfVua23ORhHsXV15KH3qkTbXOxG9enxnVY6rm",
-    "news_item_snippet": "Bangladesh were bowled out for 105 in 17.5 overs, as Rashid Khan and Naveenul Haq took four wickets each. Bangladesh put on a disciplined bowling display and&nbsp;...",
-    "news_item_url": "https://www.aljazeera.com/sports/liveblog/2024/6/24/live-afghanistan-vs-bangladesh-icc-t20-world-cup-2024-super-eights-match",
-    "picture_source": "The Guardian",
+    "title": "T20",
+    "pubDate": "Tue, 25 Jun 2024 15:00:00 +1000",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRG_apMRHjyMbUFqx0V2sdAXuKkOnuAH_JHLsCCt5VbZTYVATVq8ckJB1I2Vo-Z9JD5_oK4e6cc",
+    "news_item_snippet": "After losing to India, Australia missed the semi-finals when Bangladesh lost to Afghanistan in dramatic and controversial circumstances.",
+    "news_item_url": "https://www.smh.com.au/sport/cricket/australia-lose-to-india-but-can-still-make-t20-world-cup-semi-finals-20240625-p5joem.html",
+    "picture_source": "Nine",
     "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Australia",
+    "title": "NHL",
+    "pubDate": "Tue, 25 Jun 2024 11:00:00 +1000",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQFfl3lBn4o3kDhkpzk2Pu3cFtCiKG5abs762R4oZ3QPRsELfjI_g-89s6cDutKcrNreBWln5uX",
+    "news_item_snippet": "The NHL argues a lawsuit accusing it of illegally conspiring with the Canadian Hockey League to suppress junior hockey players&#39; earnings is meritless.",
+    "news_item_url": "https://www.sportico.com/law/analysis/2024/nhl-motion-to-dismiss-chl-lawsuit-1234785513/",
+    "picture_source": "ESPN Australia",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Brazil",
+    "title": "Mirassol x Santos",
+    "pubDate": "Tue, 25 Jun 2024 11:00:00 -0500",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSnrsisq0lEDbp-SWWCNUGGI4qJnblMFAeKW07qjHj7YnpOHeI3l0ve3n0USiO6IprC1JKNm7of",
+    "news_item_snippet": "O Mirassol recebe o Santos nesta ter\u00e7a-feira (25), \u00e0s 19h, no est\u00e1dio Jos\u00e9 Maria de Campos Maia, em partida v\u00e1lida pela 12\u00aa rodada do Brasileiro S\u00e9rie B&nbsp;...",
+    "news_item_url": "https://www.cnnbrasil.com.br/esportes/futebol/mirassol-x-santos-horario-e-onde-assistir-ao-jogo-da-serie-b/",
+    "picture_source": "globoesporte.com",
+    "approx_traffic": "200,000+"
   },
   {
     "country": "Brazil",
     "title": "Fran\u00e7a x Pol\u00f4nia",
     "pubDate": "Tue, 25 Jun 2024 11:00:00 -0500",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRgfv_1IfAzkyT0cmRVxA7XL2jwt92nv8uRCLTX7tvRYMdTbgbMDVs17jDUdZ1EhF-8nF29KI0t",
-    "news_item_snippet": "A Fran\u00e7a e Pol\u00f4nia se enfrentam nesta ter\u00e7a-feira, 25, \u00e0s 13h, no est\u00e1dio Stade de France, em Saint-Denis, Fran\u00e7a. A partida \u00e9 v\u00e1lida pela Eurocopa e ter\u00e1&nbsp;...",
-    "news_item_url": "https://exame.com/esporte/franca-x-polonia-onde-assistir-e-horario-pela-eurocopa/",
+    "news_item_snippet": "Fran\u00e7a x Pol\u00f4nia se enfrentam nesta ter\u00e7a-feira (25), \u00e0s 13h (de Bras\u00edlia), no SignalIduna Parl, em Dotmund, na Alemanha. O duelo \u00e9 v\u00e1lido pela 3\u00aa rodada do&nbsp;...",
+    "news_item_url": "https://oglobo.globo.com/esportes/noticia/2024/06/25/franca-x-polonia-onde-assistir-horario-e-provaveis-escalacoes-do-jogo-da-eurocopa-2024.ghtml",
     "picture_source": "Placar",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "Brazil",
+    "title": "Inglaterra x Eslov\u00eania",
+    "pubDate": "Tue, 25 Jun 2024 13:00:00 -0500",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTQuzQ9_-wj0oqxNkh2oMmk232IncISw5kkqAZqLkQNeX9VKQFI7fgg6AQYEDjuEIphujpEyEGJ",
+    "news_item_snippet": "Inglaterra e Eslov\u00eania se enfrentam nesta ter\u00e7a-feira (25), em jogo v\u00e1lido pela terceira rodada do grupo C da Eurocopa 2024. A bola rola a partir das 16h&nbsp;...",
+    "news_item_url": "https://www.terra.com.br/esportes/futebol/internacional/inglaterra-x-eslovenia-onde-assistir-ao-vivo-horario-e-escalacoes-do-jogo-pela-eurocopa,cbdaf1a310c6092acdd59c7143f1d13cie1guuz5.html",
+    "picture_source": "CNN Brasil",
     "approx_traffic": "100,000+"
   },
   {
@@ -331,12 +361,12 @@
   },
   {
     "country": "Brazil",
-    "title": "Inglaterra x Eslov\u00eania",
-    "pubDate": "Tue, 25 Jun 2024 14:00:00 -0500",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTQuzQ9_-wj0oqxNkh2oMmk232IncISw5kkqAZqLkQNeX9VKQFI7fgg6AQYEDjuEIphujpEyEGJ",
-    "news_item_snippet": "Inglaterra e Eslov\u00eania se enfrentam nesta ter\u00e7a-feira (25), em jogo v\u00e1lido pela terceira rodada do grupo C da Eurocopa 2024. A bola rola a partir das 16h&nbsp;...",
-    "news_item_url": "https://www.terra.com.br/esportes/futebol/internacional/inglaterra-x-eslovenia-onde-assistir-ao-vivo-horario-e-escalacoes-do-jogo-pela-eurocopa,cbdaf1a310c6092acdd59c7143f1d13cie1guuz5.html",
-    "picture_source": "CNN Brasil",
+    "title": "Argentina",
+    "pubDate": "Tue, 25 Jun 2024 02:00:00 -0500",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQrJqcRru35D4eN3joQGaQvxlezgNi0RaDha9VoH8d3oqduebh4162N1qweH3iYZsEufpQ7vW1E",
+    "news_item_snippet": "Entre 26 e 28 de junho, ser\u00e1 realizada a 54\u00aa Assembleia Geral do f\u00f3rum multilateral, onde se buscar\u00e1 a aprova\u00e7\u00e3o definitiva desses projetos sobre os quais a&nbsp;...",
+    "news_item_url": "https://www.cartacapital.com.br/mundo/anistia-alerta-sobre-retrocesso-da-argentina-em-questoes-de-genero-e-meio-ambiente-na-oea/",
+    "picture_source": "CartaCapital",
     "approx_traffic": "50,000+"
   },
   {
@@ -364,10 +394,20 @@
     "title": "Autriche Pays-Bas",
     "pubDate": "Tue, 25 Jun 2024 15:00:00 +0200",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSHY7cEqY8eWnbYeOGy2JxlFK-hZeJV_KgC-NDBfYbSd20yA74zlyrRuvAF0xkaRkzCAR5DDGcY",
-    "news_item_snippet": "Euro 2024 : actus, matchs en direct, calendrier et r\u00e9sultats des rencontres, classement des groupes, des buteurs et des passeurs.",
-    "news_item_url": "https://rmcsport.bfmtv.com/football/euro/direct-pays-bas-autriche-suivez-la-derniere-journee-du-groupe-d_LS-202406250633.html",
+    "news_item_snippet": "Les joueurs de Ralf Rangnick se sont impos\u00e9s 3-2 face aux Pays-Bas et ont pris la premi\u00e8re place du groupe D devant l&#39;Equipe de France.",
+    "news_item_url": "https://www.lefigaro.fr/sports/football/euro/euro-2024-l-autriche-cree-la-surprise-en-battant-les-pays-bas-et-passe-en-tete-du-groupe-devant-les-bleus-20240625",
     "picture_source": "L'\u00c9quipe.fr",
     "approx_traffic": "200,000+"
+  },
+  {
+    "country": "France",
+    "title": "Julian Assange",
+    "pubDate": "Tue, 25 Jun 2024 07:00:00 +0200",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRjBWqm0wlFbNBhaeLC_cgzPHVY6vFmuzRjufCOEpWeipn9_yfDY-5efs3aiNq4hLwpt2rmOpGX",
+    "news_item_snippet": "Le fondateur de WikiLeaks Julian Assange a comme pr\u00e9vu plaid\u00e9 coupable devant la justice am\u00e9ricaine, mercredi dans les \u00eeles Mariannes du Nord, territoire du&nbsp;...",
+    "news_item_url": "https://www.france24.com/fr/info-en-continu/20240625-%F0%9F%94%B4l-avion-transportant-le-fondateur-de-wikileaks-julian-assange-a-atterri-aux-%C3%AEles-mariannes-du-nord-en-territoire-am%C3%A9ricain",
+    "picture_source": "Actu juridique",
+    "approx_traffic": "100,000+"
   },
   {
     "country": "France",
@@ -381,42 +421,42 @@
   },
   {
     "country": "France",
-    "title": "Julian Assange",
-    "pubDate": "Tue, 25 Jun 2024 07:00:00 +0200",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSiiYRTrtZO9p-QmwAUfHk5a9DWk24HZSTeWnxqAYondf6I1r0zQjR6ewMvr-oqI5P3Mq39SUFF",
-    "news_item_snippet": "Julian Assange, le fondateur de Wikileaks qui \u00e9tait poursuivi par les autorit\u00e9s am\u00e9ricaines pour avoir divulgu\u00e9 des centaines de milliers de documents&nbsp;...",
-    "news_item_url": "https://www.francetvinfo.fr/faits-divers/affaire/assange/wikileaks-julian-assange-est-libre_6625443.html",
-    "picture_source": "Centre Presse",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "France",
     "title": "Coco",
     "pubDate": "Tue, 25 Jun 2024 14:00:00 +0200",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTlXKS_mZQbdW-z-1X8q289QAG2eypT94ZQZs_H_G_FBqx8qwT32Ds0r52xZLzC9kYlAHfTNDb5",
     "news_item_snippet": "Le parquet de Paris a annonc\u00e9 ce mardi 25 juin la fermeture de cette plateforme, qui \u00e9tait critiqu\u00e9e de longue date par des utilisateurs et des associations&nbsp;...",
     "news_item_url": "https://www.liberation.fr/societe/police-justice/cocogg-site-de-rencontres-utilise-pour-des-guets-apens-homophobes-ferme-par-la-justice-francaise-20240625_6EGZZ5ADIZADFOHMQJDZBIDVE4/",
     "picture_source": "Le Monde",
-    "approx_traffic": "100,000+"
+    "approx_traffic": "50,000+"
   },
   {
     "country": "France",
     "title": "Angleterre slovenie",
     "pubDate": "Tue, 25 Jun 2024 21:00:00 +0200",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTADcZ4tXFLpulry5VzlzkKSlL1IIn2zfhnCxOV-q_PC8nPcxxB4mIUNIGNq-sJvup4UWOGEuiO",
-    "news_item_snippet": "Toujours sans convaincre, l&#39;Angleterre a termin\u00e9 \u00e0 la premi\u00e8re place du groupe C de l&#39;Euro, ce mardi, suite \u00e0 son nul (0-0) face \u00e0 la Slov\u00e9nie,&nbsp;...",
-    "news_item_url": "https://www.leparisien.fr/sports/football/euro/direct-angleterre-slovenie-danemark-serbie-derriere-les-three-lions-la-lutte-pour-la-qualification-fait-rage-dans-le-groupe-c-25-06-2024-UHO5VMPJP5DOFHTNSJHD4573MA.php",
-    "picture_source": "BFMTV.COM",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQge2703rxyp4Y07x-MvLVqRVEYHJC9QYuE6taASVvYA7BuSbTqGZeoN2UIzxhGqjavbqEM9jZI",
+    "news_item_snippet": "Euro 2024 : actus, matchs en direct, calendrier et r\u00e9sultats des rencontres, classement des groupes, des buteurs et des passeurs.",
+    "news_item_url": "https://rmcsport.bfmtv.com/football/euro/direct-angleterre-slovenie-suivez-le-dernier-match-du-groupe-c-de-l-euro-2024_LS-202406250711.html",
+    "picture_source": "Le Figaro",
     "approx_traffic": "50,000+"
   },
   {
     "country": "Germany",
     "title": "Niederlande \u2013 \u00d6sterreich",
     "pubDate": "Tue, 25 Jun 2024 08:00:00 +0200",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcS_4kz1Uc-DBa0tk4ALSaskE9r28DnkX6J3trn-ZqguZRy5a4uGj93e6zIHHXNbCTYXRDrlF-bt",
-    "news_item_snippet": "Spektakul\u00e4re Wende in der EM-Gruppe D: \u00d6sterreich holt sich mit einem Sieg \u00fcber die Niederlande Platz 1 vor Frankreich. Auch Oranje ist weiter.",
-    "news_item_url": "https://www.zdf.de/nachrichten/sport/niederlande-oesterreich-letzter-spieltag-gruppe-d-fussball-em-2024-100.html",
-    "picture_source": "FAZ - Frankfurter Allgemeine Zeitung",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTDeUIksOajEK4VAjcRBceRMhlEVN4o0hpsoO401FBIhAB8YHIBH35d-myKnGKB-7xQtdvpeqad",
+    "news_item_snippet": "Frankreich? Niederlande? Nein, \u00d6sterreich gewinnt die Gruppe D! Gegen die Niederlande f\u00e4llt dem Rangnick-Team auf jeden R\u00fcckschlag eine Antwort ein.",
+    "news_item_url": "https://www.faz.net/aktuell/sport/fussball-em/oesterreichs-machtdemonstration-gegen-die-niederlande-bei-der-em-2024-19717682.html",
+    "picture_source": "Westdeutsche Allgemeine Zeitung",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "Germany",
+    "title": "England Slowenien",
+    "pubDate": "Tue, 25 Jun 2024 05:00:00 +0200",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTqiHKsSSs0SPkiufDHeR-BKwb1aVou9aX1fmTx-6k_ZlGkNvLTWP4ZVbQ82TprgixMysmcYCnG",
+    "news_item_snippet": "Um einem Duell mit Gastgeber Deutschland im Achtelfinale sicher aus dem Weg zu gehen, ben\u00f6tigte England eigentlich einen Sieg gegen Slowenien.",
+    "news_item_url": "https://www.welt.de/sport/fussball/em/article252206898/EM-2024-Gruppe-C-England-gegen-Slowenien-im-Liveticker.html",
+    "picture_source": "General-Anzeiger Bonn",
     "approx_traffic": "200,000+"
   },
   {
@@ -431,21 +471,11 @@
   },
   {
     "country": "Germany",
-    "title": "England Slowenien",
-    "pubDate": "Tue, 25 Jun 2024 05:00:00 +0200",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcS6UcbthYj9YOtlmM9FdvdBpwIAHzhC78X1GxWdh7p6Xuidx7XRAMRP_vKrWjU0Im73Hy9ABWTX",
-    "news_item_snippet": "Drittes Spiel, dritter schwacher Auftritt: England entt\u00e4uscht bei der EM weiter, entgeht vorerst aber einem Duell mit Deutschland.",
-    "news_item_url": "https://ga.de/sport/em2024/england-zittert-sich-zum-gruppensieg-auch-slowenien-weiter_aid-115083487",
-    "picture_source": "SPORT1",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "Germany",
     "title": "Julian Assange",
     "pubDate": "Tue, 25 Jun 2024 07:00:00 +0200",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQkGBW_qv9vqdp6hhAlzXELuMLUapO5104mSiRiS1wyKCxUiuRmXxG-OodfHzRf9jVUuJwhPTsi",
-    "news_item_snippet": "F\u00fcr die einen ist er ein Verr\u00e4ter und Spion, f\u00fcr die anderen eine Ikone der Pressefreiheit und der Demokratie. Die Ansichten zu Wikileaks-Gr\u00fcnder Julian&nbsp;...",
-    "news_item_url": "https://www.mz.de/deutschland-und-welt/politik/julian-assange-held-oder-schurke-3870089",
+    "news_item_snippet": "Julian Assange sa\u00df f\u00fcnf Jahre im Gef\u00e4ngnis in London. Er soll geheime Infos von US-Milit\u00e4reins\u00e4tzen ver\u00f6ffentlicht haben. Jetzt ist er frei.",
+    "news_item_url": "https://www.swr3.de/aktuell/nachrichten/julian-assange-wikileaks-frei-102.html",
     "picture_source": "Mitteldeutsche Zeitung",
     "approx_traffic": "100,000+"
   },
@@ -453,10 +483,10 @@
     "country": "Germany",
     "title": "D\u00e4nemark vs Serbien",
     "pubDate": "Tue, 25 Jun 2024 11:00:00 +0200",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRvcZrJcLUkkojlWKFPSc8b_uHIg98k1ZEQ26LsHEDdLTpw04nE9xOscLsxf3TKFpWHusZMJU9L",
-    "news_item_snippet": "K.o.-Runde auf kuriose Weise erreicht - und jetzt der Partycrasher f\u00fcr Gastgeber Deutschland? D\u00e4nemark trifft nach einem m\u00fchsamen 0:0 gegen Serbien im mit&nbsp;...",
-    "news_item_url": "https://www.spox.com/de/sport/fussball/em2024/2406/Artikel/daenemark-vs-serbien-em-gruppenspiel-heute-im-liveticker.html",
-    "picture_source": "DAZN",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSi6Ft_LEXERy2sQXWGRix61PB6dlzkuEtz3ml_9NmUa6atGK73lOL2yHZM-DBuyvj_lTDGGHJE",
+    "news_item_snippet": "D\u00e4nemark und Serbien haben das EM-Achtelfinale fest im Blick, gerade die Serben ben\u00f6tigen aber zwingend einen Sieg zum Weiterkommen. Am Dienstagabend (21:00 Uhr)&nbsp;...",
+    "news_item_url": "https://www.dazn.com/de-DE/news/fussball/livestream-daenemark-serbien-so-seht-ihr-die-em-2024/8v0ix54nhsl210f665fqvrlaz",
+    "picture_source": "Sportschau",
     "approx_traffic": "100,000+"
   },
   {
@@ -474,8 +504,8 @@
     "title": "Crazy Town",
     "pubDate": "Tue, 25 Jun 2024 13:00:00 +0200",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQgDEMIECsjarYVdluL6VrnhPmNPjw-S3WNI3NNY8jRfxWWOIoK-h9Jj44u6dvXu1E2d4wx2ps0",
-    "news_item_snippet": "Mit \u00bbButterfly\u00ab landete die Band um die Jahrtausendwende einen Welthit, danach machte S\u00e4nger Shifty Shellshock vor allem wegen seiner Drogensucht von sich&nbsp;...",
-    "news_item_url": "https://www.spiegel.de/kultur/musik/crazy-town-frontmann-shifty-shellshock-ist-tot-a-1905c4d0-2f72-453a-a4ac-f29de78fbc10",
+    "news_item_snippet": "&quot;Crazy Town&quot;-Frontmann Shifty Shellshock ist tot: Der &quot;Butterfly&quot;-S\u00e4nger wurde leblos in seinem Haus in Los Angeles aufgefunden. Er wurde 49 Jahre alt.",
+    "news_item_url": "https://www.weekend.at/promitalk/crazy-town-saenger-shifty-gestorben-drogen",
     "picture_source": "Musikexpress",
     "approx_traffic": "50,000+"
   },
@@ -483,7 +513,7 @@
     "country": "Germany",
     "title": "Modric",
     "pubDate": "Mon, 24 Jun 2024 22:00:00 +0200",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQnoor6XpI7tEWRNCYHWAx8KGfqMZcXk4jon0loNWBinYBJspTmPlSp6KqPu1ijkb46zHTzhQTF",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSnp4qUq0J-gJYd6E_-LlD9QzxnYToX9VfKVoH-UiCu-GnRHDFqPgxa8-0_4gnz9Vyr8Sb4sSIL",
     "news_item_snippet": "Luka Modri\u0107 denkt und lenkt das Spiel der Kroaten jahrelang. Aber nichts im Sport ist unendlich \u2013 und die Zeit ist nicht auf seiner Seite.",
     "news_item_url": "https://www.faz.net/aktuell/sport/fussball-em/luka-modri-bei-der-em-2024-sein-letztes-grosses-turnier-19813666.html",
     "picture_source": "Mitteldeutsche Zeitung",
@@ -530,62 +560,42 @@
     "approx_traffic": "100,000+"
   },
   {
-    "country": "Germany",
-    "title": "Deutschland",
-    "pubDate": "Sun, 23 Jun 2024 22:00:00 +0200",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQcF1nmW36Hl5JGmjGJVJtqwxZV2WQ-DItroG-fAevuIt4BRuolP6EviXWt7cJqOmx23J3x6Dbg",
-    "news_item_snippet": "Bill Anderson (57), Vorstandschef des Pharma- und Chemiekonzerns Bayer: \u201eInsgesamt braucht es in Deutschland mehr Offenheit f\u00fcr neue Technologien und weniger&nbsp;...",
-    "news_item_url": "https://www.manager-magazin.de/unternehmen/wirtschaft-in-deutschland-bayer-ceo-bill-anderson-glaubt-das-deutschland-noch-immer-das-zeug-dazu-hat-ein-attraktiver-zukunftsfaehiger-und-innovativer-top-industriestandort-zu-sein-a-d254871d-6860-4f0e-ad54-1cbb85ab80d1",
-    "picture_source": "Mallorca Zeitung",
+    "country": "Italy",
+    "title": "Brigitte Bardot",
+    "pubDate": "Wed, 26 Jun 2024 00:00:00 +0200",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTarsbwN74C9orlDYvP7twU2WLPsQqp3VSJ9LmQMECPk8Z50y7GLnl5_VFTuQaryhNEGzvJtyM_",
+    "news_item_snippet": "Louis e Anne-Marie, chi sono i genitori di Brigitte Bardot: l&#39;attrice era spesso in conflitto con suo padre per la rigidit\u00e0 dei suoi metodi educativi.",
+    "news_item_url": "https://www.ilsussidiario.net/news/chi-sono-louis-e-anne-marie-genitori-di-brigitte-bardot-il-rapporto-burrascoso-tra-amori-e-carriera/2723090/",
+    "picture_source": "Positanonews",
     "approx_traffic": "50,000+"
   },
   {
     "country": "Italy",
-    "title": "RaiPlay",
-    "pubDate": "Tue, 25 Jun 2024 01:00:00 +0200",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcS0zroWQksbY1N7epBGBFMzpB7j4woU4IDJfJYvfXNbWKGLJ7ga3feAA3MTdg3DxfZMl-j3K4VH",
-    "news_item_snippet": "Su Raiplay c&#39;\u00e8 un film molto coinvolgente con Alessandro Gassmann: tratto da una storia vera che sconvolse l&#39;Italia.",
-    "news_item_url": "https://larchitetto.it/2024/06/25/su-raiplay-ce-un-film-magistrale-con-alessandro-gassmann-storia-vera-che-colpi-litalia/",
-    "picture_source": "L'architetto",
+    "title": "Francia-Polonia",
+    "pubDate": "Tue, 25 Jun 2024 15:00:00 +0200",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcR6H7bmDj61vT_DmF3e_NWZThv0qin6QW_rirOkg3_SJtkqMU3OFIC2P6dcP4W_jgGlO1NwBsDD",
+    "news_item_snippet": "Pareggio amaro per la Francia, che chiude il Girone D con cinque punti e al secondo posto; passa invece come prima l&#39;Austria, che batte 3-2 l&#39;Olanda&nbsp;...",
+    "news_item_url": "https://www.repubblica.it/sport/dirette/calcio/euro-2024/diretta-francia-polonia-g2413160/",
+    "picture_source": "Sky Sport",
     "approx_traffic": "100,000+"
   },
   {
     "country": "Italy",
     "title": "Julian Assange",
     "pubDate": "Tue, 25 Jun 2024 07:00:00 +0200",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTuwBseqJY0Ef0DZ8hv60TWR6uC7t3PPxHcoufXNFuyDwh6un4f1jwj1pzL0lpk1ED2ev17WQRB",
-    "news_item_snippet": "La liberazione del fondatore di WikiLeaks \u00e8 una vittoria, ormai quasi insperata. Il caso legale che lo ha visto protagonista, per\u00f2, non sarebbe mai dovuto&nbsp;...",
-    "news_item_url": "https://www.wired.it/article/julian-assange-libero-caso-wikileaks-giornalismo/",
-    "picture_source": "La Voce di New York",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQUl3EaJmvzk27CUzjtUpbhoftsrP3czAp2Pm9RKZIcR5BBQMDh4AJbckR-sLqEFSh8OCbxZoAg",
+    "news_item_snippet": "Dopo 5 anni in prigione il fondatore di Wikileaks potr\u00e0 tornare in Australia (ANSA)",
+    "news_item_url": "https://www.ansa.it/sito/notizie/mondo/2024/06/25/julian-assange-arrivato-in-territorio-americano_56003d47-9065-4b94-88c2-321bc37f0c93.html",
+    "picture_source": "Avvenire.it",
     "approx_traffic": "100,000+"
   },
   {
     "country": "Italy",
-    "title": "Francia-Polonia",
-    "pubDate": "Tue, 25 Jun 2024 15:00:00 +0200",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTtBkINLoomCTRbMnVZj7vekFOCPXJTpwF7hDV3SIYQw-nPHWwv2S8zk1-kjD54lxSoq2LC_khf",
-    "news_item_snippet": "Il capitano mascherato si sblocca dal dischetto, ma un altro rigore - quello di Lewandowski - caccia i transalpini al secondo posto nel Gruppo D dietro...",
-    "news_item_url": "https://www.sportmediaset.mediaset.it/speciale/europei-germania-2024/euro-2024-francia-polonia-1-1-mbappe-si-sblocca-ma-deschamps-chiude-al-secondo-posto_83947226-202402k.shtml",
-    "picture_source": "Sky Sport",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "Italy",
-    "title": "Tabellone Europei",
-    "pubDate": "Tue, 25 Jun 2024 02:00:00 +0200",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSgNFV-q1rU4S30oNMnGuYv2vzkO1l89D8EYYzaKZ1DSuWNMlXx0uFSoNf_n1uyDRjSXbNiDZsk",
-    "news_item_snippet": "Manca sempre meno per avere il quadro definitivo degli ottavi di finale. Da questi si potranno anche ipotizzare i probabili quarti e le semifinali.",
-    "news_item_url": "https://www.corriere.it/sport/calcio/europei/24_giugno_25/ottavi-di-finale-europei-2024-tabellone-partite-4cb703cc-a2a9-4a49-9744-49b2947dcxlk.shtml",
-    "picture_source": "La Gazzetta dello Sport",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "Italy",
-    "title": "Europei 2024 classifica",
-    "pubDate": "Tue, 25 Jun 2024 00:00:00 +0200",
+    "title": "Inghilterra Slovenia",
+    "pubDate": "Tue, 25 Jun 2024 18:00:00 +0200",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQzQSDIYaaiDyGXshW8PkKqJ-fFJ5Agbi1v8deql1jNTc6sTHpeJuG3H1q9C-708PSOu-6YlPXq",
-    "news_item_snippet": "La nazionale di Kane passa da prima del girone C davanti a Danimarca e alla squadra di Ilicic, che debutta agli Europei.",
-    "news_item_url": "https://www.corrieredellosport.it/news/calcio/euro-2024/2024/06/25-129523206/inghilterra-slovenia_diretta_segui_la_partita_di_euro_2024_live",
+    "news_item_snippet": "EURO 2024 - L&#39;Inghilterra chiude in maniera deludente il Gruppo C, con uno 0-0 poco convincente contro la Slovenia. Gli sloveni esultano e accedono per la&nbsp;...",
+    "news_item_url": "https://www.eurosport.it/calcio/campionati-europei/2024/inghilterra-slovenia-0-0-kane-e-soci-non-convincono-ma-vincono-il-girone.-passano-anche-gli-sloveni-_sto10210690/story.shtml",
     "picture_source": "Rai News",
     "approx_traffic": "100,000+"
   },
@@ -611,12 +621,12 @@
   },
   {
     "country": "Mexico",
-    "title": "Pa\u00edses Bajos - Austria",
+    "title": "Pa\u00edses Bajos  Austria",
     "pubDate": "Tue, 25 Jun 2024 10:00:00 -0600",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQoviJc8hWjlDe28gmb8_MIFH82xC1399AlL5H7OCa25c98y3uCHyuBIGq9KgE3dPMY-m3XoSuk",
-    "news_item_snippet": "Sigue en directo el Pa\u00edses Bajos - Austria, partido correspondiente a la 3\u00aa jornada del Grupo D de la Eurocopa que se disputa hoy, 25 de junio.",
-    "news_item_url": "https://as.com/futbol/eurocopa/paises-bajos-austria-en-directo-fase-de-grupos-de-la-eurocopa-hoy-en-vivo-n/",
-    "picture_source": "Univision",
+    "news_item_snippet": "Pa\u00edses Bajos y Austria se juegan la vida en la Eurocopa 2024 en el Olympiastadion de Berl\u00edn, ambas selecciones desean el boleto a Octavos de Final del&nbsp;...",
+    "news_item_url": "https://www.tudn.com/futbol/eurocopa-2024/partidos-en-vivo/paises-bajos-vs-austria/paises-bajos-vs-austria-horario-y-donde-ver-partido-eurocopa-2024",
+    "picture_source": "TUDN",
     "approx_traffic": "50,000+"
   },
   {
@@ -624,9 +634,29 @@
     "title": "Inglaterra - Eslovenia",
     "pubDate": "Tue, 25 Jun 2024 13:00:00 -0600",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSpcmaYMZKgf8a00mvfLo_rpkih97hSK854n3EsrlRxPRzzUDQ83xWfJ2csWvHUVfP2eMJSJZQq",
-    "news_item_snippet": "Lo de Gareth Southgate tiene (de)m\u00e9rito. Tiene en sus filas a Kane, Bellingham, Foden, Saka, Rice, Palmer... y ha conseguido que ninguno juegue bien. Realmente,&nbsp;...",
-    "news_item_url": "https://www.marca.com/futbol/eurocopa/inglaterra-eslovenia/2024/06/25/01_0118_20240625_114_365-directo.html",
+    "news_item_snippet": "La selecci\u00f3n de los Tres Leones se qued\u00f3 con el liderato del Grupo C de la Eurocopa Alemania 2024, si logra volver a ganar en la tercera jornada del torneo,&nbsp;...",
+    "news_item_url": "https://www.tudn.com/futbol/eurocopa-2024/partidos-en-vivo/inglaterra-vs-eslovenia/inglaterra-vs-eslovenia-en-vivo-euro-2024-minuto-a-minuto-del-partido",
+    "picture_source": "TUDN",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Mexico",
+    "title": "Per\u00fa - Canad\u00e1",
+    "pubDate": "Tue, 25 Jun 2024 12:00:00 -0600",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTwo20K98JRHXO-ePF3ODTJC_rh7tNvzwbyzZ4ld5Lnnz8Zl0KlxL75mOxKAlsQ8HlNXWFjYFzu",
+    "news_item_snippet": "Este partido es crucial para las aspiraciones de ambas selecciones en la Copa Am\u00e9rica 2024. Los t\u00e9cnicos Jesse Marsch y Juan Reynoso deber\u00e1n hacer ajustes&nbsp;...",
+    "news_item_url": "https://www.infobae.com/mexico/deportes/2024/06/25/canada-vs-peru-a-que-hora-y-donde-ver-en-vivo-desde-mexico-el-juego-de-la-copa-america-2024/",
     "picture_source": "Univision",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Mexico",
+    "title": "Argentina vs",
+    "pubDate": "Tue, 25 Jun 2024 07:00:00 -0600",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQHdkbKcdFdiLqPOM_-YTHtCuB15pkVcN9NaPtm7wWn5sTmh8dXCn4i6ilSpns7vMn7fI2kHpoW",
+    "news_item_snippet": "Argentina y Chile vuelven a medirse en una Copa Am\u00e9rica en partido correspondiente a la segunda jornada de la fase de grupos de la Copa Am\u00e9rica 2024 desde&nbsp;...",
+    "news_item_url": "https://www.foxsports.com.mx/2024/06/25/chile-vs-argentina-en-vivo-donde-ver-hoy-en-tv-online-y-hora-la-copa-america-2024/",
+    "picture_source": "TUDN",
     "approx_traffic": "50,000+"
   },
   {
@@ -634,8 +664,8 @@
     "title": "Francia - Polonia",
     "pubDate": "Tue, 25 Jun 2024 18:00:00 +0200",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQnUqk4Vv5hzkCokiyeTrLXzgUVDuT1mNd9tTHjof8QOwNapV_SvO07G8NXj_RSS7NUzm0J2VPZ",
-    "news_item_snippet": "La selecci\u00f3n francesa empata ante la polaca y pasa a octavos como segunda de grupo | Mbapp\u00e9 adelant\u00f3 al combinado galo de penalti en la segunda mitad,&nbsp;...",
-    "news_item_url": "https://elpais.com/deportes/eurocopa-futbol/2024-06-25/francia-polonia-en-directo-el-partido-de-la-eurocopa-en-vivo.html",
+    "news_item_snippet": "Falta de Eduardo Camavinga (Francia). Icono 90&#39;+6&#39;. Robert Lewandowski (Polonia) ha recibido una falta en la zona defensiva&nbsp;...",
+    "news_item_url": "https://www.elcorreo.com/deportes/futbol/eurocopa/francia-polonia-directo-eurocopa-20240625114247-dirc.html",
     "picture_source": "RTVE",
     "approx_traffic": "50,000+"
   },
@@ -644,19 +674,29 @@
     "title": "Julian Assange",
     "pubDate": "Tue, 25 Jun 2024 09:00:00 +0200",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTT_18aGLn7-pPOpcBrh5t5jTHiSkrgEpBv6WLku_hX7r3iU0RuKuwRn-yX4tV9GHu4zn7UZ6wJ",
-    "news_item_snippet": "El Foro Social tendr\u00e1 cinco sesiones. Todas de acceso libre, hasta completar aforo, y en el Teatre Municipal de Benic\u00e0ssim como escenario. Se celebrar\u00e1n del 17&nbsp;...",
-    "news_item_url": "https://castellonplaza.com/clima-inmigracion-ia-entre-temas-tratar-foro-social-rototom-benicassim",
+    "news_item_snippet": "Las cinco principales filtraciones que hizo Julian Assange. El fundador de WikiLeaks ha quedado en libertad tras alcanzar un acuerdo.",
+    "news_item_url": "https://www.lamarea.com/2024/06/25/que-filtraciones-de-wikileaks-provocaron-la-persecucion-de-julian-assange-durante-12-anos/",
     "picture_source": "castellonplaza.com",
     "approx_traffic": "50,000+"
   },
   {
     "country": "Spain",
-    "title": "Pa\u00edses Bajos  Austria",
+    "title": "Eslovenia",
+    "pubDate": "Tue, 25 Jun 2024 21:00:00 +0200",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSlatZXFoax1QOt0YYCYcyczR8zKSwU5YnvKnIUeFWq4zjLzGjFwPftFdLg_VvS-H7aVUci7SXQ",
+    "news_item_snippet": "Remate fallado por Trent Alexander-Arnold (Inglaterra) remate con la derecha desde fuera del \u00e1rea que se le va demasiado alto. Asistencia de Anthony Gordon.",
+    "news_item_url": "https://www.diariosur.es/deportes/futbol/eurocopa/inglaterra-eslovenia-directo-eurocopa-20240625115926-dirc.html",
+    "picture_source": "El Peri\u00f3dico",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Spain",
+    "title": "Pa\u00edses Bajos - Austria",
     "pubDate": "Tue, 25 Jun 2024 18:00:00 +0200",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTiXHypZ9wBbVxJRgjmKZmuCD9We4I5p4dKpwaN0pPJjKA1uXF-_wmApBggXMwqVFJGv19W7aqD",
-    "news_item_snippet": "Austria consigui\u00f3 un trabajado triunfo en su \u00faltimo partido de la fase de grupos de la UEFA EURO 2024 imponi\u00e9ndose a Pa\u00edses Bajos por 2-3. Los goles de Malen en&nbsp;...",
-    "news_item_url": "https://es.uefa.com/euro2024/news/028e-1b37e24343e1-d600565c8226-1000--cronica-del-paises-bajos-austria-2-3-hazana-austriaca-en-b/",
-    "picture_source": "AS",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTducktuE9_M6nAn77u6qCKRy3kT4vImusXjD99YPViRQZ0BlvkVHo1VxAFoHDbAX_TPSTR4AmJ",
+    "news_item_snippet": "Sigue en directo el Pa\u00edses Bajos - Austria, partido correspondiente a la 3\u00aa jornada del Grupo D de la Eurocopa que se disputa hoy, 25 de junio.",
+    "news_item_url": "https://as.com/futbol/eurocopa/paises-bajos-austria-en-directo-fase-de-grupos-de-la-eurocopa-hoy-en-vivo-n/",
+    "picture_source": "El Correo",
     "approx_traffic": "50,000+"
   },
   {
@@ -664,18 +704,28 @@
     "title": "Brasil  Costa Rica",
     "pubDate": "Tue, 25 Jun 2024 03:00:00 +0200",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTas14pEvOTiE737pd2bK-H-CW3o7OfoQKxi-ZwxXKL3y_UQ_AkwbNp9KwBBbhUTluzCCmgupja",
-    "news_item_snippet": "En un duelo con mucha pol\u00e9mica y dirigido arbitralmente por el central mexicano C\u00e9sar Ramos, se presentaron en la Copa Am\u00e9rica 2024 Brasil y Costa Rica,&nbsp;...",
-    "news_item_url": "https://www.marca.com/mx/futbol/copa-america/cronica/2024/06/25/667a31e1e2704e45538b45be.html",
+    "news_item_snippet": "Brasil y Costa Rica se enfrentan este 24 de junio de 2024 en el SoFi en el partido correspondiente al Grupo D de la Copa Am\u00e9rica de USA 2024 de CONMEBOL.",
+    "news_item_url": "https://www.marca.com/futbol/copa-america/2024/06/24/667984cc22601deb578b45d1.html",
     "picture_source": "MARCA",
     "approx_traffic": "50,000+"
   },
   {
     "country": "United Kingdom",
+    "title": "Denmark vs Serbia",
+    "pubDate": "Tue, 25 Jun 2024 20:00:00 +0100",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRtQxbYcMu5tXjVI1noqPNy7c5NppHSXp6TihvR2F2KlnmQ3Ih7kGCH60fXp1bb2WfEtRT-YNRm",
+    "news_item_snippet": "Serbia failed to put up a fight as they were knocked out of Euro 2024 following a draw which saw Denmark progress.",
+    "news_item_url": "https://www.bbc.com/sport/football/live/c977792vyznt",
+    "picture_source": "Evening Standard",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United Kingdom",
     "title": "Julian Assange",
     "pubDate": "Tue, 25 Jun 2024 06:00:00 +0100",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQLsypfp32eFF-Jvsjd_EaG0-gZw_rdRKB-e4sXDY9SE6jFB09_YLN-2pfviwbi2MzKq36WPtHZ",
-    "news_item_snippet": "The Wikileaks founder has agreed to plead guilty to one charge, in return for walking free.",
-    "news_item_url": "https://www.bbc.co.uk/news/articles/crgggyvp0j9o",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTyAIGN2PgyGnd05elYnrgxq9eIVva0AMoGghFH3Mca_mbwS2C9bMofQe-Zl66Nxj8U2txtW7GA",
+    "news_item_snippet": "Mr Assange was first arrested in December 2010, on a warrant issued by the Swedish prosecutor. Westminster Magistrates&#39; Court then ordered his extradition in&nbsp;...",
+    "news_item_url": "https://www.cps.gov.uk/cps/news/uk-julian-assange-extradition-case-concludes",
     "picture_source": "BBC News",
     "approx_traffic": "100,000+"
   },
@@ -684,19 +734,9 @@
     "title": "France vs Poland",
     "pubDate": "Tue, 25 Jun 2024 17:00:00 +0100",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRz_dh_1rv3zvRpzcJZyX4v5xm7K5PVGKGxlsxvCd-A_gOgey7zopRYXpTrMnUkEgnP0jXPBlzk",
-    "news_item_snippet": "Kylian Mbappe scored a penalty but France conceded a spot kick to Robert Lewandowski in a 1-1 draw with Poland, which saw Les Bleus finish second in Group D.",
-    "news_item_url": "https://www.standard.co.uk/sport/football/france-vs-poland-live-stream-euro-2024-latest-score-result-watch-tv-team-news-b1166617.html",
+    "news_item_snippet": "France were forced to settle for second place in Euro 2024 Group D despite Kylian Mbappe scoring his first goal at a European Championship in a 1-1 draw with&nbsp;...",
+    "news_item_url": "https://www.tntsports.co.uk/football/euro/2024/live-france-poland_mtc1427015/live-commentary.shtml",
     "picture_source": "Morocco World News",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "United Kingdom",
-    "title": "Denmark vs Serbia",
-    "pubDate": "Tue, 25 Jun 2024 20:00:00 +0100",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRtQxbYcMu5tXjVI1noqPNy7c5NppHSXp6TihvR2F2KlnmQ3Ih7kGCH60fXp1bb2WfEtRT-YNRm",
-    "news_item_snippet": "Find out about our soccer betting expert&#39;s Denmark vs Serbia predictions and betting tips ahead of their huge Euro 2024 clash on Tuesday.",
-    "news_item_url": "https://www.goal.com/en-us/betting/denmark-vs-serbia-predictions-tips-06-25/bltf5f02efef221acc3",
-    "picture_source": "Evening Standard",
     "approx_traffic": "100,000+"
   },
   {
@@ -707,16 +747,16 @@
     "news_item_snippet": "Netherlands 2-3 Austria: Ralf Rangnick&#39;s side grab first spot in Group D after an exhilarating encounter in Berlin.",
     "news_item_url": "https://www.independent.co.uk/sport/football/netherlands-austria-live-stream-score-result-euro-2024-b2567976.html",
     "picture_source": "The Guardian",
-    "approx_traffic": "50,000+"
+    "approx_traffic": "100,000+"
   },
   {
     "country": "United Kingdom",
     "title": "ITV",
     "pubDate": "Tue, 25 Jun 2024 22:00:00 +0100",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTvy2tP_6iOoTLyrcq_jHneTD_j_TZY-gyNombRSvtd4kHUMM8p_0QTnQn43E0VpLyVWQw4vZZj",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSk9bAHgK3s5Iiy_hoNDyNkLULnIaqGiFjSkxPtR_u-OZ6ZwqxKbKytN1Hms0wwqYYgrHPoCl2O",
     "news_item_snippet": "In a segment which aired yesterday at 6pm, political correspondent Simon Harris visited the Warner Bros. Studios Leavesden, West Herts College and interviewed&nbsp;...",
     "news_item_url": "https://www.watfordobserver.co.uk/news/24410080.west-herts-colleges-leavesden-studios-itv-news/",
-    "picture_source": "Watford Observer",
+    "picture_source": "ITV News",
     "approx_traffic": "50,000+"
   }
 ]
