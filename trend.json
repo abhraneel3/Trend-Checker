@@ -1,13 +1,23 @@
 [
   {
     "country": "United States",
-    "title": "USA vs Panama",
-    "pubDate": "Thu, 27 Jun 2024 14:00:00 -0700",
+    "title": "Presidential debate",
+    "pubDate": "Thu, 27 Jun 2024 08:00:00 -0700",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcT9CFajZuTbBTcuSeX6rh--P7OxGopGWs_yCNd5COB1k0ZV_HAHVZcy3SFRUUO7uN7__4dUpcd5",
+    "news_item_snippet": "A scene from Saturday Night Live&#39;s sketch on the 2016 presidential debate between Hillary Clinton and Donald Trump. Tonight&#39;s debate on CNN has brought back&nbsp;...",
+    "news_item_url": "https://www.montereycountynow.com/opinion/mcnow_intro/tonight-s-presidential-debate-stirs-memories-of-saturday-night-live-s-famous-sketches/article_16238c10-34d7-11ef-a3a9-53ded1dd827c.html",
+    "picture_source": "Aljazeera.com",
+    "approx_traffic": "5,000,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Panama vs USA",
+    "pubDate": "Thu, 27 Jun 2024 15:00:00 -0700",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTTLWK0LEb_wr2U6yOigv2mTqTibhqjk6uy00YE71qtWPMou5F13v0yrpqNuczDMPNmjO-GIcIY",
-    "news_item_snippet": "The USMNT had goals from Christian Pulisic and Folarin Balogun against Bolivia in a 2-0 victory. They were able to score early and take off some of the pressure&nbsp;...",
-    "news_item_url": "https://www.starsandstripesfc.com/copa-america/2024/6/27/24185993/usa-usmnt-panama-2024-copa-america-time-tv-schedule-streaming-lineups-match-thread-discussion",
+    "news_item_snippet": "Christian Pulisic and the United States faced Panama in a physical, drama-filled contest on Thursday. Follow the action here!",
+    "news_item_url": "https://www.foxsports.com/live-blog/soccer/panama-vs-united-states-live-updates-score-top-plays-from-copa-america-2024",
     "picture_source": "U.S. Soccer",
-    "approx_traffic": "500,000+"
+    "approx_traffic": "200,000+"
   },
   {
     "country": "United States",
@@ -17,16 +27,6 @@
     "news_item_snippet": "Rohit Sharma&#39;s unbeaten India take on an inconsistent England side in the second semifinal of the 2024 T20 World Cup. The Men in Blue have been the standout&nbsp;...",
     "news_item_url": "https://www.cnet.com/tech/services-and-software/t20-cricket-world-cup-livestream-how-to-watch-india-vs-england-from-anywhere/",
     "picture_source": "Aljazeera.com",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Kyle Filipowski",
-    "pubDate": "Thu, 27 Jun 2024 03:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSCLFoOQXy_GID53DiFAr6CUFZ_F0Cc0PNtxXyHXoLgyMbyfzf22VZchWx0vdcmcm6UErWDV-Hu",
-    "news_item_snippet": "It took an extra day, but Duke big man Kyle Filipowski finally heard his name called as part of the 2024 NBA draft.",
-    "news_item_url": "https://www.espn.com/nba/story/_/id/40446987/2024-nba-draft-day-2-roundup-duke-kyle-filipowski-selected-utah-jazz",
-    "picture_source": "Deseret News",
     "approx_traffic": "100,000+"
   },
   {
@@ -44,19 +44,9 @@
     "title": "RFK Jr",
     "pubDate": "Thu, 27 Jun 2024 20:00:00 -0700",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQ5L9lNpHJrsJG4JpI62Pr-i0shhXMhgqPadGVw6SH8zEd9-iSyOaaDoEtZli3BBQZa32JIW3bj",
-    "news_item_snippet": "Independent candidate Robert F. Kennedy Jr. didn&#39;t qualify for CNN&#39;s Trump-Biden debate.",
-    "news_item_url": "https://www.cbsnews.com/news/rfk-jr-holding-own-debate-not-invited-to-trump-biden/",
+    "news_item_snippet": "Biden and Trump are squaring off in the first of two presidential debates. Challenger Robert F. Kennedy Jr. is responding to the questions on X.",
+    "news_item_url": "https://www.newsnationnow.com/politics/debates/takeways-from-trump-biden-debate-rfk-jr-response/",
     "picture_source": "The Associated Press",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Jalen McDaniels",
-    "pubDate": "Thu, 27 Jun 2024 14:00:00 -0700",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQcXW_JqcpyU9Az0g0LpzKxuptbSF9IQMpAm1wxQ9bPAQdiwpLnCsZnkR3H_aqmMdRqRdfyLTS_",
-    "news_item_snippet": "Sacramento is dealing Davion Mitchell, its former lottery pick, to Toronto for defensive-minded forward Jalen McDaniels.",
-    "news_item_url": "https://www.nba.com/news/raptors-kings-jalen-mcdaniels-davion-mitchell-trade-2024-nba-draft",
-    "picture_source": "Sacramento Bee",
     "approx_traffic": "50,000+"
   },
   {
@@ -71,11 +61,21 @@
   },
   {
     "country": "United States",
+    "title": "Jalen McDaniels",
+    "pubDate": "Thu, 27 Jun 2024 14:00:00 -0700",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQcXW_JqcpyU9Az0g0LpzKxuptbSF9IQMpAm1wxQ9bPAQdiwpLnCsZnkR3H_aqmMdRqRdfyLTS_",
+    "news_item_snippet": "Sacramento is dealing Davion Mitchell, its former lottery pick, to Toronto for defensive-minded forward Jalen McDaniels.",
+    "news_item_url": "https://www.nba.com/news/raptors-kings-jalen-mcdaniels-davion-mitchell-trade-2024-nba-draft",
+    "picture_source": "Sacramento Bee",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
     "title": "Uruguay",
     "pubDate": "Thu, 27 Jun 2024 19:00:00 -0700",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcT_PM93U1oiD7A9FYAUnyE7n76R0C0lz9VrqNExmzqG--unlhuNzhonUbJ6hQSzL8YwzwWrh7Lc",
-    "news_item_snippet": "EAST RUTHERFORD, Nueva Jersey, EE.UU. (AP) \u2014 Como una apisonadora, Uruguay liquid\u00f3 temprano el tr\u00e1mite al destrozar el jueves 5-0 a Bolivia y qued\u00f3 con un&nbsp;...",
-    "news_item_url": "https://lancasteronline.com/lavoz/deportes/uruguay-destroza-a-bolivia-5-0-y-pone-un-pie-en-cuartos-de-copa-am/article_29c5265e-ad49-5984-87f5-fd8cfa8723d6.html",
+    "news_item_snippet": "Darwin N\u00fa\u00f1ez scored in his seventh straight international match, and Uruguay routed Bolivia 5-0 on Thursday night to move to verge of a quarterfinal berth&nbsp;...",
+    "news_item_url": "https://apnews.com/article/copa-america-bolivia-uruguay-score-3fd3e71590a560c84d66805ac87ba992",
     "picture_source": "NorthJersey.com",
     "approx_traffic": "50,000+"
   },
@@ -83,10 +83,10 @@
     "country": "United States",
     "title": "Trump VP",
     "pubDate": "Thu, 27 Jun 2024 20:00:00 -0700",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQ8kX40Cm53voSLj3cfiWC4dbHstl4HJrpkpR4vD1NaoBulsuDhbfOAuwprrldEcIGkuH8PpoLn",
-    "news_item_snippet": "Sens. J.D. Vance, Marco Rubio and North Dakota Gov. Doug Burgum will be on hand.",
-    "news_item_url": "https://abcnews.go.com/Politics/potential-trump-vp-contenders-atlanta-debate-spin-performance/story?id=111478197",
-    "picture_source": "The New York Times",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcT24nVTfBfckO6CJuyzaTO7NvptidLi3pR1vIXIaQSA3_8kmWnVs0uNBVhb6FEIYsKZGUPLcMbk",
+    "news_item_snippet": "Even as Donald Trump has narrowed his list of top choices, he and his advisers are stoking speculation about others and suggesting that an announcement is&nbsp;...",
+    "news_item_url": "https://www.nytimes.com/2024/06/27/us/politics/trump-vp-pick.html",
+    "picture_source": "ABC News",
     "approx_traffic": "50,000+"
   },
   {
@@ -111,16 +111,6 @@
   },
   {
     "country": "United States",
-    "title": "Kinky Friedman",
-    "pubDate": "Thu, 27 Jun 2024 12:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRVUjnelPh2qifKPCEnOiRFK8MNSqJb9K3xstqYmTp_qsAiN4i3NwCYVq1i18cwDfWNU3Lc1prt",
-    "news_item_snippet": "The iconic humorist, who called himself one of the \u201cthree kings of the one-liner,\u201d may have been the most quotable Texan ever.",
-    "news_item_url": "https://www.texasmonthly.com/being-texan/kinky-friedman-quotes/",
-    "picture_source": "Texas Tribune",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
     "title": "Quiet Place: Day One",
     "pubDate": "Thu, 27 Jun 2024 22:00:00 -0700",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQQqeYs_ZB1W-ZuFQZapoY-NLkbATaIJ_V_CWknUiZJKsYm8zF0pN54nS0y1zoIX3j7Bwue-DAc",
@@ -132,11 +122,11 @@
   {
     "country": "India",
     "title": "India Women vs South Africa Women",
-    "pubDate": "Fri, 28 Jun 2024 04:30:00 +0530",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQAT6PbQNdDxW7mvv20qYgKdCrPNgeqfWrBmzOf57p26mV-Le13iGYkdAsSLDzsVDy4bjrf-ccw",
-    "news_item_snippet": "Welcome to Sportstar&#39;s live coverage of Day 1 of the one-off Test between India women and South Africa Women at the M.A. Chidambaram Stadium in Chennai.",
-    "news_item_url": "https://sportstar.thehindu.com/cricket/womens-cricket/india-vs-south-africa-live-score-women-test-match-2024-chennai-ind-vs-sa-updates-streaming-info-highlights/article68343191.ece",
-    "picture_source": "Hindustan Times",
+    "pubDate": "Fri, 28 Jun 2024 09:30:00 +0530",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQ1HhL0s7anHPbRLjOROJXv79_qdOO4EkF8WSHUsV6cyF8AaDzfrSm1nUm4tWSPhfSHb1lLEvcq",
+    "news_item_snippet": "India Women vs South Africa Women Live Score: Welcome to the live coverage of One-off Test (Day 1) of South Africa Women tour of India, 2024.",
+    "news_item_url": "https://www.hindustantimes.com/cricket/india-women-vs-south-africa-women-live-score-one-off-test-day-1-of-south-africa-women-tour-of-india-2024-final-updates-today-28-jun-2024-101719543667924.html",
+    "picture_source": "Sportstar",
     "approx_traffic": "200,000+"
   },
   {
@@ -152,7 +142,7 @@
   {
     "country": "India",
     "title": "India vs England",
-    "pubDate": "Thu, 27 Jun 2024 06:30:00 +0530",
+    "pubDate": "Thu, 27 Jun 2024 03:30:00 +0530",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRqENfFCXRd7UNLyKFuR0GhewOnaWVWEOrllwjjYkLBJkK0AtZo35OIlI4C0F1xwNJJ8BSieqTv",
     "news_item_snippet": "Looking at the stats, India and England have played 23 T20I matches, out of which India have won 12 while England remained unbeaten in 11 matches. In T20 World&nbsp;...",
     "news_item_url": "https://www.livemint.com/sports/cricket-news/india-vs-england-live-score-updates-match-today-t20-world-cup-2024-semi-final-ind-vs-eng-scorecard-27-june-kohli-rohit-11719478011115.html",
@@ -184,8 +174,8 @@
     "title": "Portugal",
     "pubDate": "Thu, 27 Jun 2024 11:30:00 +0530",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQODce_5HJ5czCc4JdRAGMfIB699l5GOI6iYjPd980-c8_RVwYBFS0d2WVd9LcVFIMmf_Wt-Fr_",
-    "news_item_snippet": "Cascais Digital Golf Passport intends to make booking easier and more efficient for seven courses as the region vies to attract golfers from the Algarve.",
-    "news_item_url": "https://www.forbes.com/sites/michaellore/2024/06/27/cascais-golf-courses-link-up-to-promote-portugals-atlantic-coast/",
+    "news_item_snippet": "Recently, the Agency for Integration, Migration and Asylum (AIMA) revealed that there are a total of 410,000 pending immigrant cases in Portugal. Portugal&#39;s&nbsp;...",
+    "news_item_url": "https://schengen.news/portugal-extends-validity-of-immigrant-documents-visas-until-june-30-2025/",
     "picture_source": "SchengenVisaInfo.com",
     "approx_traffic": "50,000+"
   },
@@ -217,16 +207,16 @@
     "news_item_snippet": "Sigue todas las acciones del duelo entre centro y norteamericanos dentro del campeonato m\u00e1s antiguo del f\u00fatbol internacional.",
     "news_item_url": "https://www.infobae.com/mexico/deportes/2024/06/27/panama-vs-estados-unidos-en-vivo-sigue-el-minuto-a-minuto-de-la-segunda-jornada-del-grupo-c-de-la-copa-america-2024/",
     "picture_source": "TyC Sports",
-    "approx_traffic": "100,000+"
+    "approx_traffic": "50,000+"
   },
   {
     "country": "Australia",
     "title": "Presidential debate",
     "pubDate": "Thu, 27 Jun 2024 11:00:00 +1000",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTIDRrNcV7IL_6K3v5XFF9QxM2Wo54HCgWidPTnd_g9YTV-Ga8hSvCp8XES6oQwj0s7PKcbd9ip",
-    "news_item_snippet": "President Joe Biden and Donald Trump have squared off in the first debate of the 2024 United States presidential race, seeking to pull ahead in a match-up&nbsp;...",
-    "news_item_url": "https://www.aljazeera.com/news/2024/6/28/biden-falls-flat-against-trump-in-first-2024-us-presidential-debate",
-    "picture_source": "Monterey County Weekly",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcT9CFajZuTbBTcuSeX6rh--P7OxGopGWs_yCNd5COB1k0ZV_HAHVZcy3SFRUUO7uN7__4dUpcd5",
+    "news_item_snippet": "The first general election debate of the 2024 season kicked off with US President Joe Biden and his Republican rival Donald Trump squaring off.",
+    "news_item_url": "https://www.smh.com.au/world/north-america/trump-v-biden-live-updates-first-presidential-debate-to-get-under-way-ahead-of-us-election-20240627-p5jp83.html",
+    "picture_source": "Aljazeera.com",
     "approx_traffic": "100,000+"
   },
   {
@@ -267,16 +257,6 @@
     "news_item_snippet": "Anima\u00e7\u00e3o da Disney que est\u00e1 em cartaz nos cinemas deve demorar a ser disponibilizada no streaming; veja detalhes sobre o filme e previs\u00e3o de lan\u00e7amento.",
     "news_item_url": "https://www.techtudo.com.br/guia/2024/06/quando-divertida-mente-2-sai-no-disney-veja-previsao-de-estreia-streaming.ghtml",
     "picture_source": "Terra",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Saudi Arabia",
-    "title": "\u0627\u0644\u0636\u0645\u0627\u0646 \u0627\u0644\u0627\u062c\u062a\u0645\u0627\u0639\u064a \u0627\u0644\u0645\u0637\u0648\u0631",
-    "pubDate": "Thu, 27 Jun 2024 00:00:00 +0300",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSPB_h0BYBUVhdRuFld3vz9fOr8XDiEuj0xLvXYE5hP3W7dju9U8DnCDVtpcMbzauqwCOHnO3Xf",
-    "news_item_snippet": "\u062a\u0639\u0644\u0646 \u0648\u0632\u0627\u0631\u0629 \u0627\u0644\u0645\u0648\u0627\u0631\u062f \u0627\u0644\u0628\u0634\u0631\u064a\u0629 \u0648\u0627\u0644\u062a\u0646\u0645\u064a\u0629 \u0627\u0644\u0627\u062c\u062a\u0645\u0627\u0639\u064a\u0629 \u0628\u0627\u0644\u0645\u0645\u0644\u0643\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629 \u0639\u0646 \u0641\u062a\u062d \u0628\u0627\u0628 \u0627\u0644\u062a\u0642\u062f\u064a\u0645 \u0644\u0628\u0631\u0646\u0627\u0645\u062c &quot;\u0627\u0644\u0636\u0645\u0627\u0646 \u0627\u0644\u0627\u062c\u062a\u0645\u0627\u0639\u064a \u0627\u0644\u0645\u0637\u0648\u0631&quot; \u0644\u0639\u0627\u0645 2024\u060c \u0648\u0630\u0644\u0643 \u0641\u064a \u0625\u0637\u0627\u0631 \u062d\u0631\u0635&nbsp;...",
-    "news_item_url": "https://alsaudiaweb.net/news2368487.html",
-    "picture_source": "\u062e\u0628\u0631\u0646\u0627",
     "approx_traffic": "50,000+"
   },
   {
@@ -380,6 +360,16 @@
     "approx_traffic": "50,000+"
   },
   {
+    "country": "Germany",
+    "title": "BYD",
+    "pubDate": "Sun, 23 Jun 2024 23:00:00 +0200",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSe32kKX15ub_zTg04gBR-m93XeDN17n6sOvbKGOrgunLoYO_vsm2amLaE4GVkHong9iJdo7d6g",
+    "news_item_snippet": "BYD baut eine neue Fabrik in Mexiko. Mit der sollen 10.000 Arbeitspl\u00e4tze geschaffen werden. Die Pl\u00e4ne des Konkurrenten Tesla dagegen stocken.",
+    "news_item_url": "https://www.heise.de/news/BYD-Chinesischer-Elektroautobauer-plant-ein-Werk-in-Mexiko-9776592.html",
+    "picture_source": "www.electrive.net",
+    "approx_traffic": "50,000+"
+  },
+  {
     "country": "Italy",
     "title": "Temptation Island",
     "pubDate": "Thu, 27 Jun 2024 12:00:00 +0200",
@@ -423,10 +413,10 @@
     "country": "Spain",
     "title": "Anuel",
     "pubDate": "Thu, 27 Jun 2024 23:00:00 +0200",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcR3JJROqQmVg2fWQGHKXmkQh2W_7Tt-qwka2Kxo1cEnbXKiU1KvaSEN2oKLCdgfn1dOJGhOeg8F",
-    "news_item_snippet": "Anuel AA es un popular cantante de reguet\u00f3n y trap latino de 31 a\u00f1os con una convulsa vida personal y sentimental. Su nombre real es Emmanuel Gazmey Santiago y&nbsp;...",
-    "news_item_url": "https://www.europafm.com/noticias/famosos/quien-anuel-cuantos-anos-estuvo-carcel-que-significan-sus-tatuajes-sus-hijos-actual-pareja_20240627667d5b8b888bcf0001a5421e.html",
-    "picture_source": "Antena 3",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQZflkqguFQMTHr1G4Vop6hmAaiDW3pfdsIgTC1uE_DMctyHwmvrmJ2TZQEipekMW6ynFAlr3Nx",
+    "news_item_snippet": "Como el artista es un amante de la joyer\u00eda, Pablo Motos ha querido preguntarle por la experiencia de hacerse un pendiente en una zona delicada.",
+    "news_item_url": "https://www.antena3.com/programas/el-hormiguero/entrevista/punalada-bicho-anuel-nos-habla-piercing-mas-intimo_20240627667dcc23901ca90001c0e89d.html",
+    "picture_source": "Europa FM",
     "approx_traffic": "50,000+"
   },
   {
@@ -438,6 +428,26 @@
     "news_item_url": "https://www.independent.co.uk/sport/cricket/india-vs-england-t20-world-cup-semi-final-result-b2569886.html",
     "picture_source": "Aljazeera.com",
     "approx_traffic": "200,000+"
+  },
+  {
+    "country": "United Kingdom",
+    "title": "CNN",
+    "pubDate": "Thu, 27 Jun 2024 20:00:00 +0100",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRSAdotbMQ3K2zqBgpQLqJZ7gHTwU5I4WqkdxQiK8fk1kEd0s0gLfKlU_uHX7VPN7hiQnINvAJb",
+    "news_item_snippet": "Read CNN&#39;s analysis and commentary of the first 2024 presidential debate between President Joe Biden and former President Donald Trump in Atlanta.",
+    "news_item_url": "https://www.cnn.com/election/2024/analysis-commentary-cnn-debate",
+    "picture_source": "Variety",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United Kingdom",
+    "title": "NBA Draft",
+    "pubDate": "Thu, 27 Jun 2024 03:00:00 +0100",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQizi-pjM0VykikFHcuDgEN8KOfZZOlFEGRYOGQwAowa9aheJnu5mZkMvKx1wfhjEjXpm7mJyez",
+    "news_item_snippet": "The 2003 draft class has collectively won 27 NBA championships. Here&#39;s a look at the draft classes with the most championships since 2003.",
+    "news_item_url": "https://www.espn.co.uk/nba/story/_/id/40446035/which-nba-draft-class-most-championships-2003",
+    "picture_source": "ESPN.co.uk",
+    "approx_traffic": "50,000+"
   },
   {
     "country": "United Kingdom",
