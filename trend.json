@@ -1,22 +1,22 @@
 [
   {
     "country": "United States",
-    "title": "Supreme Court",
-    "pubDate": "Mon, 01 Jul 2024 08:00:00 -0700",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQgPdvfgmVGMTvgbZ59sfEmWFpeU_pj-N1j-JRMWez2E-CtuA8GmJYEskv9zZlY9u9MTpfNEK7-",
-    "news_item_snippet": "The decision likely ensures that the case against Trump won&#39;t be tried before the election, and then only if he is not reelected.",
-    "news_item_url": "https://www.npr.org/2024/07/01/nx-s1-5002157/supreme-court-trump-immunity",
-    "picture_source": "NPR",
-    "approx_traffic": "500,000+"
-  },
-  {
-    "country": "United States",
     "title": "Portugal vs Slovenia",
     "pubDate": "Mon, 01 Jul 2024 12:00:00 -0700",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTyRzXTDHP1BN-milX-IeMbuKZB8l8R_ZvMIKA2Zt4ezJ-yylcNM5jjEoek_-tzePEwaRiLDp4-",
     "news_item_snippet": "All the updates as Portugal beat Slovenia 3-0 in a penalty shootout to set up a quarterfinal against France.",
     "news_item_url": "https://www.aljazeera.com/sports/liveblog/2024/7/1/live-portugal-vs-slovenia-uefa-euro-2024-round-of-16",
     "picture_source": "FOXSports.com",
+    "approx_traffic": "500,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Klay Thompson",
+    "pubDate": "Mon, 01 Jul 2024 12:00:00 -0700",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcR_2Q0NAxd4Ri_c7G4bS_5flW9zckiUuFlA6OX_8M6qSJeCwIDylwUNMb7FsA1WI9nwTjXSjj4P",
+    "news_item_snippet": "Mavericks to send Josh Green to Charlotte in three-team deal; Thompson&#39;s contract reportedly will be three years for $50 million.",
+    "news_item_url": "https://www.elpasotimes.com/story/sports/basketball/nba/2024/07/01/klay-thompson-deal-what-is-dallas-getting-in-4-time-champion-player/74273192007/",
+    "picture_source": "ESPN",
     "approx_traffic": "500,000+"
   },
   {
@@ -37,13 +37,13 @@
     "news_item_snippet": "Backed by the Heritage Foundation, the initiative seeks to undermine longstanding safeguards against abuses of executive power.",
     "news_item_url": "https://www.bostonreview.net/articles/inside-project-2025s-plan-to-reprogram-the-government/",
     "picture_source": "Forbes",
-    "approx_traffic": "100,000+"
+    "approx_traffic": "200,000+"
   },
   {
     "country": "United States",
     "title": "France vs Belgium",
     "pubDate": "Mon, 01 Jul 2024 09:00:00 -0700",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcR8eCLpcmlhfmwhHtzQ23HobenbWli5uZZGdzccpwUX9kgBn2WEEe1oOnpL2dqRRDWvUf5dt0Ii",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTLufomJ3w05Ctpe7xq2th1fNjVm25l8t5uoQxWqIMpITZrxRT5WfVPudZeA-PkuV26gMsbzUkv",
     "news_item_snippet": "Follow live reaction to France&#39;s scrappy 1-0 Euro 2024 victory, which sent them into the next round against Portugal.",
     "news_item_url": "https://www.nytimes.com/athletic/live-blogs/france-belgium-live-updates-euro-2024-score-result/B6sviLva8LqZ/",
     "picture_source": "FOXSports.com",
@@ -57,16 +57,6 @@
     "news_item_snippet": "Coco Gauff, Novak Djokovic, Carlos Alcaraz, Iga Swiatek are set to compete at Wimbledon. Find out how to watch.",
     "news_item_url": "https://www.cbsnews.com/essentials/how-to-watch-wimbledon-2024-today/",
     "picture_source": "The Associated Press",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Canada Day",
-    "pubDate": "Mon, 01 Jul 2024 07:00:00 -0700",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQGQxJARgDukRJQIItauBWG0GutKAkkd6wQOGHAcgHXdFpzMmFf6SknZxK7ZFF5U3a40LErswdm",
-    "news_item_snippet": "Many of us Canadians celebrate this annual July 1 holiday much the same way Americans approach Independence Day. We fly that gorgeous red maple leaf proudly and&nbsp;...",
-    "news_item_url": "https://www.cnn.com/travel/what-is-canada-day-history-celebrations/index.html",
-    "picture_source": "Prime Minister of Canada",
     "approx_traffic": "100,000+"
   },
   {
@@ -91,12 +81,52 @@
   },
   {
     "country": "United States",
+    "title": "Steven Stamkos",
+    "pubDate": "Mon, 01 Jul 2024 10:00:00 -0700",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSUp1IONDdHOSdqMUzZmEydbpjFwWGdWTPZGnKaycL4jtxSehoQT08nZ7jOiVJYj9scNIdeSmVV",
+    "news_item_snippet": "The longtime Lightning captain, who had only ever played in Tampa Bay, is moving on to Nashville.",
+    "news_item_url": "https://www.tampabay.com/sports/lightning/2024/07/01/end-an-era-steven-stamkos-leaves-lightning-signs-with-predators/",
+    "picture_source": "NHL.com",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Canada Day",
+    "pubDate": "Mon, 01 Jul 2024 07:00:00 -0700",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQGQxJARgDukRJQIItauBWG0GutKAkkd6wQOGHAcgHXdFpzMmFf6SknZxK7ZFF5U3a40LErswdm",
+    "news_item_snippet": "Many of us Canadians celebrate this annual July 1 holiday much the same way Americans approach Independence Day. We fly that gorgeous red maple leaf proudly and&nbsp;...",
+    "news_item_url": "https://www.cnn.com/travel/what-is-canada-day-history-celebrations/index.html",
+    "picture_source": "Prime Minister of Canada",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Cristiano Ronaldo",
+    "pubDate": "Mon, 01 Jul 2024 14:00:00 -0700",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRVrOmvGJsikJRCwd03M4IITSCuiqCDE--SMiYqFwTF5LIF7GmgIePatCHnlTBHrDpbypsPNNOY",
+    "news_item_snippet": "Ronaldo&#39;s extra-time spot kick in the 114th minute is saved by Slovenia goalkeeper Jan Oblak, but he converts in the shootout and teammate Diogo Costa saves&nbsp;...",
+    "news_item_url": "https://www.ocregister.com/2024/07/01/euro-2024-portugals-cristiano-ronaldo-turns-missed-pk-tears-into-shootout-joy/",
+    "picture_source": "ESPN",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
     "title": "Tobias Harris",
     "pubDate": "Mon, 01 Jul 2024 08:00:00 -0700",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRf4bPkRWAjdLJniPyIMa2lYPfCtJkAKA7HFWsRreIBF0Bs6wF99jMlXc0vrexj729F6Z98e1PM",
     "news_item_snippet": "Free agent forward Tobias Harris reportedly has agreed to a 2-year, $52 million deal with the Detroit Pistons, according to multiple reports. Free agent Tobias&nbsp;...",
     "news_item_url": "https://www.nba.com/news/tobias-harris-2024-free-agency",
     "picture_source": "Liberty Ballers",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Rick Ross",
+    "pubDate": "Mon, 01 Jul 2024 11:00:00 -0700",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQf0ZISTSASbAGKfhxvZISeXQNGZS1EVJGW5XQLFnStVwwEH7xdaeGVd8wiMXpmAFAWZWkdMjRz",
+    "news_item_snippet": "Fans of Drake attacked rapper Rick Ross in Vancouver in the wake of the Drake/Kendrick Lamar beef.",
+    "news_item_url": "https://www.newsweek.com/rick-ross-attack-drake-not-like-us-1919552",
+    "picture_source": "Billboard",
     "approx_traffic": "50,000+"
   },
   {
@@ -143,10 +173,10 @@
     "country": "India",
     "title": "Wimbledon",
     "pubDate": "Mon, 01 Jul 2024 15:30:00 +0530",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQdrsPd_SoYNkBl8TUfhQmYbdiv3savrhxtnv9okcMHxbmWmyF3cUQ_r_yQiDTc5NYtHE7JQ-vn",
-    "news_item_snippet": "Emma Raducanu got her Wimbledon campaign off to an encouraging start as she beat Renata Zarazua 7-6 (0), 6-3 in the first round on Monday.",
-    "news_item_url": "https://www.espn.in/tennis/story/_/id/40473240/wimbledon-2024-emma-raducanu-andy-murray",
-    "picture_source": "Hindustan Times",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTL3tpwdE1M2OvicUx2yIOPfrAmkM110UQGb_-oIUPzU4ZWiAxQ5sLa_6NM50W1y7LZFrUMS0Qt",
+    "news_item_snippet": "Third seed Aryna Sabalenka was scheduled to play Emina Bektas of the United States in the first round on Day 1 of the Wimbledon 2024. | Tennis News.",
+    "news_item_url": "https://www.hindustantimes.com/sports/tennis/aryna-sabalenka-withdraws-from-wimbledon-2024-with-shoulder-injury-russian-lucky-loser-erika-andreeva-enters-draw-101719835901320.html",
+    "picture_source": "BBC News",
     "approx_traffic": "50,000+"
   },
   {
@@ -158,16 +188,6 @@
     "news_item_url": "https://www.hindustantimes.com/cricket/what-next-for-virat-kohli-and-rohit-sharma-following-their-retirement-from-t20-internationals-101719804824670.html",
     "picture_source": "ICC Cricket",
     "approx_traffic": "2,000,000+"
-  },
-  {
-    "country": "India",
-    "title": "IND vs SA Final",
-    "pubDate": "Sun, 30 Jun 2024 00:30:00 +0530",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSPdlkBSn3Ms_liqtpBI1NTcX2Wk4vILuTsW4JiRPKNnd9m_UV-km1gEB86UHUdcxr-R6lkp1wU",
-    "news_item_snippet": "\u091f\u094020 \u0935\u0930\u094d\u0932\u094d\u0921 \u0915\u092a 2024 \u0915\u0947 \u092b\u093e\u0907\u0928\u0932 \u092e\u0947\u0902 \u092d\u093e\u0930\u0924 \u0928\u0947 \u0938\u093e\u0909\u0925 \u0905\u092b\u094d\u0930\u0940\u0915\u093e \u0915\u0947 \u0916\u093f\u0932\u093e\u092b \u091f\u0949\u0938 \u091c\u0940\u0924\u0915\u0930 \u092c\u0932\u094d\u0932\u0947\u092c\u093e\u091c\u0940 \u0915\u093e \u092b\u0948\u0938\u0932\u093e \u0915\u093f\u092f\u093e\u0964 \u092d\u093e\u0930\u0924 \u0928\u0947 20 \u0913\u0935\u0930 \u092e\u0947\u0902 7 \u0935\u093f\u0915\u0947\u091f \u092a\u0930&nbsp;...",
-    "news_item_url": "https://www.jansatta.com/khel/cricket/ind-vs-sa-live-cricket-score-india-vs-south-africa-t20-world-cup-2024-final-barbados-kensington-oval-updates/3446594/",
-    "picture_source": "\u0905\u092e\u0930 \u0909\u091c\u093e\u0932\u093e",
-    "approx_traffic": "500,000+"
   },
   {
     "country": "Argentina",
@@ -203,10 +223,10 @@
     "country": "Brazil",
     "title": "Santos",
     "pubDate": "Mon, 01 Jul 2024 17:00:00 -0500",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcR5h7u1hrqO_6YIMdRhnkZBqLAA85Iws0TjiYOEDIk50PoVe9nUZEzRPFNMRVwVHr1VhLvEcDRW",
-    "news_item_snippet": "Veja tamb\u00e9m desfalques, arbitragem e outras informa\u00e7\u00f5es do jogo da 13\u00aa rodada da S\u00e9rie B do Brasileiro; o Premiere transmite o confronto ao vivo.",
-    "news_item_url": "https://ge.globo.com/sp/santos-e-regiao/futebol/brasileirao-serie-b/noticia/2024/07/01/santos-x-chapecoense-onde-assistir-ao-vivo-horario-e-escalacoes.ghtml",
-    "picture_source": "globoesporte.com",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQkcK4CN8wuJaGpa_3vmZjuLQaUvQwztSVEAtCDoLCBZF1bLHlBSz-P34tcKRZF9uwfgjjIISLO",
+    "news_item_snippet": "O Santos sofreu, mas conseguiu voltar ao G4 da S\u00e9rie B do Campeonato Brasileiro. Na noite desta segunda-feira, o Peixe venceu a Chapecoense por 1 a 0, na.",
+    "news_item_url": "https://www.gazetaesportiva.com/times/santos/santos-marca-nos-acrescimos-bate-a-chapecoense-na-vila-e-sobe-para-a-vice-lideranca-da-serie-b/",
+    "picture_source": "UOL",
     "approx_traffic": "200,000+"
   },
   {
@@ -224,8 +244,8 @@
     "title": "Wimbledon",
     "pubDate": "Mon, 01 Jul 2024 08:00:00 -0500",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTx3SKrUQOVSAY7oHxklsEIMAIXnIurRTKQa_JiuIEQ7PdGnXfvXQ-6fcConNhGmBtIskPI9Ydx",
-    "news_item_snippet": "A bielorrussa confirmou nesta segunda-feira (1\u00ba) que est\u00e1 fora do Grand Slam devido a uma les\u00e3o no ombro, deixando o torneio feminino sem uma das principais&nbsp;...",
-    "news_item_url": "https://www.espn.com.br/tenis/artigo/_/id/13853769/sabalenka-anuncia-desistencia-de-wimbledon-por-lesao-no-ombro",
+    "news_item_snippet": "Entre os dias 1 e 14 de julho, acontece o torneio de Wimbledon 2024 ; Atuais l\u00edderes do ranking, Jannik Sinner ; Novak Djokovic ; Entre os brasileiros, Bia Haddad&nbsp;...",
+    "news_item_url": "https://olympics.com/pt/noticias/wimbledon-2024-programacao-dia",
     "picture_source": "globoesporte.com",
     "approx_traffic": "50,000+"
   },
@@ -241,6 +261,16 @@
   },
   {
     "country": "Canada",
+    "title": "France vs Belgium",
+    "pubDate": "Mon, 01 Jul 2024 12:00:00 -0400",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcS3_3acmqpyX3MTa-lgPxXuqSkh-ctl-IMRMJdoIYqXSLyOFdCqBl4IpjRAj1MfHe5zktfaPN3f",
+    "news_item_snippet": "Report from Euro 2024 as France leave it late to book their spot in the quarter-finals; Randal Kolo Muanis strike deflects off Jan Vertonghen to beat Koen&nbsp;...",
+    "news_item_url": "https://www.skysports.com/football/france-vs-belgium/report/500421",
+    "picture_source": "Aljazeera.com",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Canada",
     "title": "Happy Canada Day!",
     "pubDate": "Mon, 01 Jul 2024 00:00:00 -0400",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQGQxJARgDukRJQIItauBWG0GutKAkkd6wQOGHAcgHXdFpzMmFf6SknZxK7ZFF5U3a40LErswdm",
@@ -250,22 +280,12 @@
     "approx_traffic": "50,000+"
   },
   {
-    "country": "Canada",
-    "title": "Wimbledon",
-    "pubDate": "Mon, 01 Jul 2024 09:00:00 -0400",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQvr6DVxiL3RBRDGy-NHQb853ZEyOQ73JAzp6UC3x7GFiFBvpK8WatxBZt97v2UohOP-KQxUaye",
-    "news_item_snippet": "Bianca Andreescu powered into the second round at Wimbledon on Monday while fellow Canadian Denis Shapovalov produced one of the first upsets at the&nbsp;...",
-    "news_item_url": "https://www.cbc.ca/sports/tennis/wimbledon-roundup-july1-1.7251481",
-    "picture_source": "tenniscanada.com",
-    "approx_traffic": "50,000+"
-  },
-  {
     "country": "South Korea",
     "title": "\uc2dc\uccad\uc5ed \uc0ac\uace0",
     "pubDate": "Mon, 01 Jul 2024 23:00:00 +0900",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRwBX5QxnG1HJcM8MvSDgGGXlFfrKXH8gxBlYv_vadsKqPnyn7-cH3cZVGm_RfLcxY2DqPp2Ss",
-    "news_item_snippet": "\uc11c\uc6b8 \ub3c4\uc2ec\uc5d0\uc11c \uad50\ud1b5\uc0ac\uace0\ub85c \ub300\ub7c9 \uc778\uba85\ud53c\ud574\uac00 \ub0ac\ub2e4. \uc11c\uc6b8 \ub0a8\ub300\ubb38\uacbd\ucc30\uc11c\ub294 1\uc77c \ubc24 9\uc2dc27\ubd84\uacbd \uc2dc\uccad\uc5ed \uad50\ucc28\ub85c\uc5d0\uc11c \ucc28\ub7c9\uc774 \uc778\ub3c4\ub85c \ub3cc\uc9c4\ud558\ub294 \uad50\ud1b5\uc0ac\uace0\ub85c 9\uba85\uc774 \uc228\uc9c0\uace0 4\uba85\uc774&nbsp;...",
-    "news_item_url": "https://www.hani.co.kr/arti/society/society_general/1147293.html",
+    "news_item_snippet": "\uc5b4\uc81c(1\uc77c) \ubc24 \uc11c\uc6b8 \uc2dc\uccad\uc5ed \uad50\ucc28\ub85c \ubd80\uadfc\uc5d0\uc11c \uc2b9\uc6a9\ucc28\uac00 \uc778\ub3c4\ub97c \ub36e\uce58\uba74\uc11c 9\uba85\uc774 \uc228\uc9c0\uace0 4\uba85\uc774 \ub2e4\ucce4\ub294\ub370\uc694. \uc774\ub978 \uc544\uce68 \ucd9c\uadfc\uae38\uc5d0\uc11c\ub3c4 \uc5b4\uc81c\uc758 \ucda9\uaca9\uc774 \uac00\uc2dc\uc9c0 \uc54a\uc740 \ubaa8\uc2b5\uc785\ub2c8\ub2e4.",
+    "news_item_url": "https://m.yonhapnewstv.co.kr/news/MYH20240702003300641",
     "picture_source": "\uc870\uc120\uc77c\ubcf4",
     "approx_traffic": "50,000+"
   },
@@ -273,29 +293,29 @@
     "country": "Saudi Arabia",
     "title": "\u0627\u0644\u0628\u0631\u062a\u063a\u0627\u0644 \u0636\u062f \u0633\u0644\u0648\u0641\u064a\u0646\u064a\u0627",
     "pubDate": "Sun, 30 Jun 2024 23:00:00 +0300",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTxwQcm7ilr17aAVRnW9WLrLMQMB52fGW5HtSBMjbeKx3bYkiN80j8dGdKzsXNrr8Ft-MEhPvLK",
-    "news_item_snippet": "\u0648\u0641\u064a \u0627\u0644\u0645\u0642\u0627\u0628\u0644\u060c \u0635\u0639\u062f \u0645\u0646\u062a\u062e\u0628 \u0633\u0644\u0648\u0641\u064a\u0646\u064a\u0627 \u0625\u0644\u064a \u062b\u0645\u0646 \u0646\u0647\u0627\u0626\u064a \u064a\u0648\u0631\u0648 2024\u060c \u0628\u0639\u062f \u0623\u062f\u0627\u0621 \u0645\u0641\u0627\u062c\u0626 \u0641\u064a \u062f\u0648\u0631 \u0627\u0644\u0645\u062c\u0645\u0648\u0639\u0627\u062a \u0628\u062a\u062d\u0642\u064a\u0642 3 \u062a\u0639\u0627\u062f\u0644\u0627\u062a \u0648\u0627\u0644\u062a\u0623\u0647\u0644 \u0636\u0645\u0646 \u0623\u0641\u0636\u0644 \u062b\u0648\u0627\u0644\u062b. \u0648\u0644\u0646 \u064a\u0643\u0648\u0646 \u0645\u0646\u062a\u062e\u0628 \u0633\u0644\u0648\u0641\u064a\u0646\u064a\u0627 \u0635\u064a\u062f\u0627\u064b&nbsp;...",
-    "news_item_url": "https://www.youm7.com/story/2024/7/1/%D9%83%D8%B1%D9%8A%D8%B3%D8%AA%D9%8A%D8%A7%D9%86%D9%88-%D8%B1%D9%88%D9%86%D8%A7%D9%84%D8%AF%D9%88-%D9%8A%D9%82%D9%88%D8%AF-%D9%87%D8%AC%D9%88%D9%85%D8%A7-%D9%86%D8%A7%D8%B1%D9%8A%D8%A7-%D9%84%D9%85%D9%86%D8%AA%D8%AE%D8%A8-%D8%A7%D9%84%D8%A8%D8%B1%D8%AA%D8%BA%D8%A7%D9%84-%D8%B6%D8%AF-%D8%B3%D9%84%D9%88%D9%81%D9%8A%D9%86%D9%8A%D8%A7-%D9%81%D9%89/6625354",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTqzvKAyCNXr0xtf1c9i2n0bvkHShmdmA7yIUbJ_IiTBNVRlnuTSqoS8nkEPjUpkQNiqQeM2HMy",
+    "news_item_snippet": "\u0648\u064a\u0645\u062a\u0644\u0643 \u0645\u0646\u062a\u062e\u0628 \u0627\u0644\u0628\u0631\u062a\u063a\u0627\u0644 \u0645\u062c\u0645\u0648\u0639\u0629 \u0645\u0646 \u0623\u0628\u0631\u0632 \u0627\u0644\u0639\u0646\u0627\u0635\u0631 \u0639\u0644\u0649 \u0631\u0623\u0633\u0647\u0627 \u0643\u0631\u064a\u0633\u062a\u064a\u0627\u0646\u0648 \u0631\u0648\u0646\u0627\u0644\u062f\u0648\u060c \u0628\u0631\u0648\u0646\u0648 \u0641\u064a\u0631\u0646\u0627\u0646\u062f\u064a\u0632\u060c \u0631\u0627\u0641\u0627\u0626\u064a\u0644 \u0644\u064a\u0627\u0648\u060c \u0628\u064a\u0631\u0646\u0627\u0631\u062f\u0648 \u0633\u064a\u0644\u0641\u0627\u060c \u0643\u0648\u0646\u0633\u064a\u0633\u0627\u0648\u060c \u062f\u064a\u0648\u062c\u0648 \u062c\u0648\u062a\u0627\u060c \u0631\u0648\u0628\u0646 \u062f\u064a\u0627\u0632. \u0648\u0641\u064a&nbsp;...",
+    "news_item_url": "https://www.youm7.com/story/2024/7/2/%D9%85%D9%84%D8%AE%D8%B5-%D9%88%D8%A3%D9%87%D8%AF%D8%A7%D9%81-%D8%B1%D9%83%D9%84%D8%A7%D8%AA-%D8%AC%D8%B2%D8%A7%D8%A1-%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9-%D8%A7%D9%84%D8%A8%D8%B1%D8%AA%D8%BA%D8%A7%D9%84-%D8%B6%D8%AF-%D8%B3%D9%84%D9%88%D9%81%D9%8A%D9%86%D9%8A%D8%A7-%D9%81%D9%89-%D9%8A%D9%88%D8%B1%D9%88/6625357",
     "picture_source": "\u0627\u0644\u062c\u0632\u064a\u0631\u0629 \u0646\u062a",
     "approx_traffic": "100,000+"
   },
   {
     "country": "France",
-    "title": "France Belgique",
+    "title": "France-Belgique",
     "pubDate": "Mon, 01 Jul 2024 00:00:00 +0200",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSUxaM72YAW4EoKn7cKNlAvsQEQbybshTEvDHiZNGJv_jlSScte359vEwbW7rJt9bbXaFILvuYS",
-    "news_item_snippet": "L&#39;\u00e9quipe de France a arrach\u00e9 sa qualification en quart de finale de l&#39;Euro 2024 face \u00e0 la Belgique, ce lundi \u00e0 D\u00fcsseldorf (1-0). Le r\u00e9sultat l&#39;emporte sur&nbsp;...",
-    "news_item_url": "https://www.ouest-france.fr/sport/football/equipe-de-france/entretien-france-belgique-on-joue-mal-mais-on-est-si-solide-le-match-vu-par-edouard-cisse-f6513312-37d6-11ef-beb3-b5dffeb610b0",
-    "picture_source": "RTL.fr",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRDbBbbNN6Kj8UYl_YhZ6Ma16UlVnzfj2octfsucXdqLld8DiMilNUMQH1YGYD08u55Ap1KUle1",
+    "news_item_snippet": "La France a \u00e9limin\u00e9 la Belgique ce lundi en huiti\u00e8me de finale de l&#39;Euro 2024 (1-0). Apr\u00e8s la rencontre, la presse belge a soulign\u00e9 le pragmatisme des&nbsp;...",
+    "news_item_url": "https://rmcsport.bfmtv.com/football/euro/france-belgique-cynisme-francais-parodie-de-football-la-presse-belge-entre-amertume-et-fatalisme-apres-la-victoire-des-bleus_AV-202407010847.html",
+    "picture_source": "Ouest-France",
     "approx_traffic": "2,000,000+"
   },
   {
     "country": "France",
     "title": "Portugal Slov\u00e9nie",
-    "pubDate": "Mon, 01 Jul 2024 18:00:00 +0200",
+    "pubDate": "Mon, 01 Jul 2024 14:00:00 +0200",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQfshaz8yHE7Sq8RUhsJoRIiqNncoPnLa_bxJSEAa3eqUb-7rclj_mJAaNio5aNyPBCJFjaiGPr",
-    "news_item_snippet": "Euro 2024 : actus, matchs en direct, calendrier et r\u00e9sultats des rencontres, classement des groupes, des buteurs et des passeurs.",
-    "news_item_url": "https://rmcsport.bfmtv.com/football/euro/direct-portugal-slovenie-suivez-le-huitieme-de-finale-de-l-euro-2024_LS-202407010646.html",
+    "news_item_snippet": "Malgr\u00e9 une \u00e9norme occasion de Sesko en fin de prolongation ou le penalty de Cristiano Ronaldo arr\u00eat\u00e9 par Oblak, les deux \u00e9quipes vont en passer par une s\u00e9ance&nbsp;...",
+    "news_item_url": "https://www.lequipe.fr/Football/match-direct/euro/2024/portugal-slovenie-live/616912",
     "picture_source": "Le Figaro",
     "approx_traffic": "500,000+"
   },
@@ -323,9 +343,9 @@
     "country": "France",
     "title": "Wimbledon",
     "pubDate": "Mon, 01 Jul 2024 15:00:00 +0200",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQpZXImwMSTOWbNNL3C9nNi2hZIF8MQMVC7pEeuXYYcBmAH940-CUAwi3m5f-cuQhRqnH8xmp9u",
-    "news_item_snippet": "Ga\u00ebl Monfils est sorti vainqueur d&#39;Adrian Mannarino lundi lors du choc franco-fran\u00e7ais du premier tour de Wimbledon, o\u00f9 Ugo Humbert a bataill\u00e9 face au&nbsp;...",
-    "news_item_url": "https://www.la-croix.com/wimbledon-monfils-humbert-et-cazaux-au-mental-20240701",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQZ3Cy6oQztY2yDH1os69GAc1X4QJe6ZlPS7QYxQfY_4yKBgtKTBx8djUsSd1jKkvlNKy5R9JeU",
+    "news_item_snippet": "La premi\u00e8re journ\u00e9e a \u00e9t\u00e9 marqu\u00e9e dans le tableau f\u00e9minin par le forfait de la N.3 mondiale et demi-finaliste sortante Aryna Sabalenka, bless\u00e9e \u00e0 une \u00e9paule, et&nbsp;...",
+    "news_item_url": "https://information.tv5monde.com/sport/wimbledon-sinner-et-alcaraz-au-tout-petit-train-2728226",
     "picture_source": "Eurosport.fr",
     "approx_traffic": "50,000+"
   },
@@ -343,30 +363,30 @@
     "country": "Germany",
     "title": "Wimbledon",
     "pubDate": "Mon, 01 Jul 2024 12:00:00 +0200",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRf6sYB4NhHOIP_2t7UB01wKP3W8mi_2oWadXYezhGut2cRFrrkkGwhgp-j8Q6bD5-EaoEqTdrZ",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQqNsOwGwAscq5R1SJg_ZzY858sgxV1IFWjMJzp35dWpvFnYAlZ7NSNOK1e3IszrP6nKh95Lutx",
     "news_item_snippet": "Die Chinesin Shuai Zhang kann nicht mehr gewinnen. Durch eine deutliche Pleite in Wimbledon bricht sie nun sogar einen Negativrekord.",
     "news_item_url": "https://www.sport1.de/news/tennis/grand-slams/2024/07/wimbledon-unfassbar-tennis-star-historisch-schlecht",
-    "picture_source": "Main-Post",
+    "picture_source": "BNN - Badische Neueste Nachrichten",
     "approx_traffic": "50,000+"
   },
   {
     "country": "Germany",
     "title": "Portugal Slowenien",
     "pubDate": "Sun, 30 Jun 2024 19:00:00 +0200",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRraNdsnUhN5WfzHUbLuLoNlrnxoexFTJjyTdxOCq216g5UMuB-307rdVNWGTfsImfl_M_lwgux",
-    "news_item_snippet": "Auch Portugal gegen Slowenien erf\u00fcllt die Gem\u00fcter der Zuschauer nicht mit Freude. Ihnen rei\u00dft der Geduldsfaden.",
-    "news_item_url": "https://www.derwesten.de/sport/fussball/portugal-slowenien-achtelfinale-ronaldo-langeweile-id301032623.html",
-    "picture_source": "SPORT1",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRwYwtyiOls7cFe-WsY9JMgccc4cAd4PPsmHWyPyq3etxEQaUz7TzxoTVYMM3TgW5oHbfve5JCi",
+    "news_item_snippet": "Die Zusammenfassung: So verlief das EM-Achtelfinale zwischen Portugal und Slowenien. Kommentatorin: Christina Graf. Enth\u00e4lt virtuelle Werbung.",
+    "news_item_url": "https://www.sportschau.de/fussball/uefa-euro-2024/portugal-gegen-slowenien-die-highlights,video-em-2024-portugal-gegen-slowenien-zusammenfassung-100.html",
+    "picture_source": "DASDING.de",
     "approx_traffic": "1,000,000+"
   },
   {
     "country": "Germany",
     "title": "Frankreich Belgien",
     "pubDate": "Sun, 30 Jun 2024 20:00:00 +0200",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSX3n2u1OCknUCXrkETA3-6xgwb-wnYVOgeLFLt7NbxjS9e_Jt217zCtEhzqkGmukHaC44vg6X5",
-    "news_item_snippet": "In einem chancenarmen Spiel zwischen Frankreich und Belgien entscheidet ein abgef\u00e4lschter Schuss von Randal Kolo Muani kurz vor Spielende die Partie.",
-    "news_item_url": "https://www.kicker.de/frankreich-gegen-belgien-2024-europameisterschaft-4772137/spielbericht",
-    "picture_source": "ZEIT ONLINE",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcS7C3aCbTJr7eaqcwNLN0wjcas1tomAYdm4tBmiq9uHvLFs2li1_9pF6qK2cbxDFdhKhziMkcdS",
+    "news_item_snippet": "Mit Minimalismus ins Viertelfinale: Frankreich m\u00fcht sich gegen Belgien und profitiert am Ende von einem sp\u00e4ten Eigentor.",
+    "news_item_url": "https://www.stern.de/sport/fussball/em-2024/frankreich---belgien--highlights-im-video---em-2024-34844562.html",
+    "picture_source": "Sportschau",
     "approx_traffic": "200,000+"
   },
   {
@@ -381,16 +401,6 @@
   },
   {
     "country": "Germany",
-    "title": "Spanien \u2013 Georgien",
-    "pubDate": "Sun, 30 Jun 2024 15:00:00 +0200",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTKj5WnXQDM-MvT1rvA1wkAyNjUimSZ0B3IPz9ZuBM9qnfRKeh7Bf9753TquYIdkVd0ODI92SZa",
-    "news_item_snippet": "Schweiz gegen Italien und Deutschland gegen D\u00e4nemark hei\u00dfen die ersten EM-Achtelfinal-Begegnungen. Hier gibt es alle EM-Spiele im Live-Ticker.",
-    "news_item_url": "https://home.1und1.de/magazine/sport/fussball/em/em-2024-live-ticker-spanien-georgien-39740348",
-    "picture_source": "STERN.de",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "Germany",
     "title": "Bellingham",
     "pubDate": "Sun, 30 Jun 2024 18:00:00 +0200",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQRWvyCA_3hFIFc3Y5ANChiNJVVd0xEAo_A-Vmsdr-GJq6HaZlrXYYI6dEmT11UpL8A6CwD5Yha",
@@ -398,6 +408,26 @@
     "news_item_url": "https://www.mz.de/sport/fussball-em/bellingham-erklart-obszone-geste-nach-traumtor-3873368",
     "picture_source": "noz.de - Neue Osnabr\u00fccker Zeitung",
     "approx_traffic": "100,000+"
+  },
+  {
+    "country": "Germany",
+    "title": "Spanien",
+    "pubDate": "Sun, 30 Jun 2024 15:00:00 +0200",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSbMXNbzMnh5wjxMkvm6pJGlcuXy-QcVsID1Gr3atjNrIRf5pLhCHU0zlwQl1SL_K_yUKAAB-k3",
+    "news_item_snippet": "Das w\u00e4re auch ein tolles Endspiel gewesen. Doch schon im Viertelfinale geht es f\u00fcr Deutschland gegen Spanien. Da werden Erinnerungen wach \u2013 bis zur\u00fcck zu einem&nbsp;...",
+    "news_item_url": "https://bnn.de/sport/voeller-als-spanien-faktor-loews-langes-leiden",
+    "picture_source": "noz.de - Neue Osnabr\u00fccker Zeitung",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Germany",
+    "title": "Norovirus",
+    "pubDate": "Sun, 30 Jun 2024 18:00:00 +0200",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcS8_vkdwE9oeobSbPyajI6hzMgU3-fYOxTbcx9q01gmsJN3d6e5DJciNQe69NgojhjXJchklCRm",
+    "news_item_snippet": "Die Gemeinde Torri del Benaco liegt malerisch am Gardasee - jetzt allerdings grassiert dort das Norovirus. M\u00f6glicherweise hat der Ausbruch damit zu tun,&nbsp;...",
+    "news_item_url": "https://ga.de/news/panorama/norovirus-am-gardasee-hunderte-menschen-im-krankenhaus_aid-115412819",
+    "picture_source": "tagesschau.de",
+    "approx_traffic": "50,000+"
   },
   {
     "country": "Germany",
@@ -424,8 +454,8 @@
     "title": "Portogallo Slovenia",
     "pubDate": "Mon, 01 Jul 2024 06:00:00 +0200",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSOIBd2i5gKXG_irEJDoDOmOswVK4G9uSQqJodSM7KRV8cFahHhr3SrymNhiajpLuNnLZrOA3LO",
-    "news_item_snippet": "EURO 2024 - Il Portogallo \u00e8 ai quarti di finale. I portoghesi soffrono terribilmente contro l&#39;organizzatissima Slovenia e al 105&#39; Cristiano Ronaldo si vede&nbsp;...",
-    "news_item_url": "https://www.eurosport.it/calcio/campionati-europei/2024/portogallo-slovenia-3-0-d.c.r.-diogo-costa-eroe-con-tre-rigori-parati.-cristiano-ronaldo-e-compagni-_sto10218018/story.shtml",
+    "news_item_snippet": "Portogallo Slovenia su Sky Sport: scopri tutti gli aggiornamenti sulla partita di Europei in tempo reale.",
+    "news_item_url": "https://sport.sky.it/calcio/europei/partite/2024/ottavi/portogallo-slovenia/risultato-gol",
     "picture_source": "Rai News",
     "approx_traffic": "500,000+"
   },
@@ -452,9 +482,9 @@
   {
     "country": "Mexico",
     "title": "Dia del Ingeniero",
-    "pubDate": "Mon, 01 Jul 2024 08:00:00 -0600",
+    "pubDate": "Mon, 01 Jul 2024 07:00:00 -0600",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSSXSzK1HZGu9Jxh1zne-eTNZ76w_bCBkIOkXHaLpyRz5HGIn3WtmCkeh2e9NFyXa7tieeqJsu6",
-    "news_item_snippet": "Conoce cu\u00e1ndo es d\u00eda del ingeniero en M\u00e9xico y si en esta fecha tambi\u00e9n se celebra a las mujeres que tienen esta profesi\u00f3n. lun 01 julio 2024 11:22 AM.",
+    "news_item_snippet": "Los ingenieros juegan un papel fundamental en las aplicaciones de la tecnolog\u00eda y el c\u00e1lculo de diferentes industrias, desde la construcci\u00f3n, la farmac\u00e9utica y&nbsp;...",
     "news_item_url": "https://expansion.mx/carrera/2024/07/01/cuando-es-dia-del-ingeniero-mexico",
     "picture_source": "Universidad An\u00e1huac M\u00e9xico",
     "approx_traffic": "100,000+"
@@ -471,11 +501,21 @@
   },
   {
     "country": "Spain",
+    "title": "CaixaBank",
+    "pubDate": "Mon, 01 Jul 2024 14:00:00 +0200",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRF5z34jSrDWrc8-RAf_IPomwbx9GNmL0aLqnBDfPxVSBwVDCuD_bbBOvrJfEUYagwE_65rnjVQ",
+    "news_item_snippet": "La banca online ING, por su parte, experimentaba diversos problemas desde el inicio de la ma\u00f1ana. Seg\u00fan registraba el portal Downdetector.es, que monitoriza en&nbsp;...",
+    "news_item_url": "https://www.lasexta.com/noticias/ciencia-tecnologia/caixabank-ing-caida-banca-online_202407016682ae88855de9000167ba9d.html",
+    "picture_source": "elEconomista",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "Spain",
     "title": "La Caixa",
     "pubDate": "Mon, 01 Jul 2024 14:00:00 +0200",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRlKEhFtQarFaoiT6eGkCSK_rPTLYicXxu15XE8PXJrASTgCrCIIR79sdqPFd_vSmY0RskInY3a",
-    "news_item_snippet": "Durante d\u00e9cadas, la compra de obras de arte por parte de bancos se asoci\u00f3 a piezas de corte cl\u00e1sico para decorar sus principales sedes corporativas.",
-    "news_item_url": "https://www.expansion.com/directivos/estilo-vida/cultura/2024/07/01/6683010ae5fdea3b5b8b4598.html",
+    "news_item_snippet": "Caixa Ontinyent ha aprobado las cuentas del a\u00f1o 2023 tras la celebraci\u00f3n de su Asamblea General ordinaria, a la que han asistido 41 de los 46 miembros que&nbsp;...",
+    "news_item_url": "https://pagina66.com/art/130260/caixa-ontinyent-aprueba-las-cuentas-de-2023",
     "picture_source": "CaixaBank",
     "approx_traffic": "100,000+"
   },
@@ -494,9 +534,19 @@
     "title": "Wimbledon",
     "pubDate": "Mon, 01 Jul 2024 11:00:00 +0100",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTL3tpwdE1M2OvicUx2yIOPfrAmkM110UQGb_-oIUPzU4ZWiAxQ5sLa_6NM50W1y7LZFrUMS0Qt",
-    "news_item_snippet": "Former champion has yet to confirm whether he will play after having surgery to remove spinal cyst.",
-    "news_item_url": "https://www.theguardian.com/uk-news/article/2024/jul/01/fans-camp-tickets-andy-murray-wimbledon",
+    "news_item_snippet": "Emma Raducanu makes a winning return to Wimbledon, but fellow Britons Heather Watson, Charles Broom, Liam Broady and Arthur Fery lose on day one.",
+    "news_item_url": "https://www.bbc.com/sport/tennis/articles/c97dl3j9w7no",
     "picture_source": "BBC News",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United Kingdom",
+    "title": "Raducanu",
+    "pubDate": "Mon, 01 Jul 2024 13:00:00 +0100",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcT8pDNCGLcNL9D9ONmNV1h7tXazVtcc9APqYsLUOEunY0EcEf_nWCtF6wiHI0kNwtI2mlZu_ma2",
+    "news_item_snippet": "\u201cIt was an incredibly difficult match,\u201d said Raducanu. \u201cI don&#39;t think I&#39;ve played a defender, who has literally landed the ball on the baseline,&nbsp;...",
+    "news_item_url": "https://www.wimbledon.com/en_GB/news/articles/2024-07-01/raducanu_secures_win_on_wimbledon_return.html",
+    "picture_source": "ESPN.co.uk",
     "approx_traffic": "100,000+"
   },
   {
@@ -507,16 +557,6 @@
     "news_item_snippet": "Emma Raducanu makes a winning return to Wimbledon, but fellow Britons Heather Watson, Charles Broom, Liam Broady and Arthur Fery lose on day one.",
     "news_item_url": "https://www.bbc.com/sport/tennis/articles/c97dl3j9w7no",
     "picture_source": "BBC News",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "United Kingdom",
-    "title": "Raducanu",
-    "pubDate": "Mon, 01 Jul 2024 13:00:00 +0100",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTl6M6xc5UTt0mLcy59GAcG5lVLDJOA3SUZcFJopsBmm-AGrjrwcjO0Ur8wFYM6niFGg1_bJaYK",
-    "news_item_snippet": "Emma Raducanu said that she took inspiration from England&#39;s Euro 2024 victory over Slovakia after she won on her return to Wimbledon on Monday.",
-    "news_item_url": "https://www.espn.co.uk/tennis/story/_/id/40475151/wimbledon-emma-raducanu-reveals-england-euros-inspiration",
-    "picture_source": "The Guardian",
     "approx_traffic": "100,000+"
   },
   {
