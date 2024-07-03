@@ -1,11 +1,21 @@
 [
   {
     "country": "United States",
+    "title": "Brazil vs Colombia",
+    "pubDate": "Tue, 02 Jul 2024 08:00:00 -0700",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRjR-zwu335tMwi6p-fHeFEXeRxuxCCFvQpF4roQ_uoeUPsFTPQ87BFxzS1mpHsok4ckHs2J15_",
+    "news_item_snippet": "Follow live action today with Brazil level 1-1 with Colombia at 2024 Copa America.",
+    "news_item_url": "https://www.nytimes.com/athletic/live-blogs/brazil-colombia-live-updates-2024-copa-america-score-result/1ZdaxfZ1vRyf/",
+    "picture_source": "The Athletic",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "United States",
     "title": "Xbox",
     "pubDate": "Tue, 02 Jul 2024 14:00:00 -0700",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSvjzIafx9ayESpJHZJUb-CE8lZzXBcVXuqmwZR47qv10dcAWPBhkefp5Y_4MA5x5_01eqYtsXm",
-    "news_item_snippet": "Microsoft reported sign-in issues with its Xbox Live gaming service on Tuesday, essentially blocking gamers from signing in to and playing PC and Xbox&nbsp;...",
-    "news_item_url": "https://www.pcworld.com/article/2384381/xbox-live-games-are-down-due-to-sign-in-problems.html",
+    "news_item_snippet": "Microsoft has fixed a global Xbox Live outage that cut off multiplayer, game downloading, and other internet services for hours.",
+    "news_item_url": "https://www.theverge.com/2024/7/2/24191012/xbox-live-down-outage-xbox-series-x-s-online-sign-failed",
     "picture_source": "Variety",
     "approx_traffic": "200,000+"
   },
@@ -23,17 +33,17 @@
     "country": "United States",
     "title": "The First Descendant",
     "pubDate": "Tue, 02 Jul 2024 04:00:00 -0700",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTE0i72_PELnBRvXPoX0j-8V1kUuofhDfrRjwQDaMntIMETtzkreiaOrT_R3IIjtp1jvXZumEKx",
-    "news_item_snippet": "Despite blowing up the Steam player charts, The First Descendant is having problems with reviews with them almost hitting \u201cMostly Negative\u201d.",
-    "news_item_url": "https://www.pcgamesn.com/the-first-descendant/steam-review-struggle",
-    "picture_source": "GameSpot",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRo6f1eFnnAyQGlsNHrcLbG4jnnTETk_Kx5Zaqi-2fBltwVMeZ4LdF0WhXcvHVhXpPdZwlWJ9fp",
+    "news_item_snippet": "In The First Descendant, a looter shooter from Nexon, players will need to explore multiple outposts that have a couple of different missions to complete,&nbsp;...",
+    "news_item_url": "https://gamerant.com/the-first-descendant-kingston-battlefields-unlock-fallen-theater-grand-square/",
+    "picture_source": "Game Rant",
     "approx_traffic": "100,000+"
   },
   {
     "country": "United States",
     "title": "Romania vs Netherlands",
     "pubDate": "Tue, 02 Jul 2024 10:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQU901PaHmsaX8n7JWqfWMYFmEdgA7HupZyZ0aS9LhRUw1iI2Nz08j1y4XYQPS9DaNsX-1oegWE",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRaI5N0QrLWe9L20vMvdnRmWUK50niOXuqIAh1uXGBau4DbYotVoN0UmVueD6I62Fpk8U0V-JCF",
     "news_item_snippet": "Follow live reaction as the impressive Netherlands beat Romania 3-0 to progress to the quarter-finals of Euro 2024.",
     "news_item_url": "https://www.nytimes.com/athletic/live-blogs/romania-netherlands-live-updates-euro-2024-score-result/qNYcJoudcRPa/",
     "picture_source": "FOXSports.com",
@@ -41,92 +51,82 @@
   },
   {
     "country": "United States",
+    "title": "Savings Bank",
+    "pubDate": "Tue, 02 Jul 2024 02:00:00 -0700",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQ5vV7SirioPO8SL7hOhCH1fOvAZNVkUpT-j0-_d4tklod-iLqJkGySPpR44RHpRuPatOE7Brjk",
+    "news_item_snippet": "Monson Savings Bank has donated $2500 to the Martin Luther King, Jr. Community Presbyterian Church Fire Fund, continuing its commitment to supporting the&nbsp;...",
+    "news_item_url": "https://www.wwlp.com/news/top-stories/monson-savings-bank-donated-2500-to-mlk-community-church-fire-fund/",
+    "picture_source": "WWLP.com",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Brasil  Colombia",
+    "pubDate": "Tue, 02 Jul 2024 18:00:00 -0700",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQEEFW5bPCaryp6ptld3j4OfWVEv1Y85kPKSQvGkep09G9kqb5yrndQnQg5nbWuUZ4OrlI6DXZg",
+    "news_item_snippet": "Copa Am\u00e9rica action continues Monday with Brazil taking on Colombia at Levi&#39;s Stadium in California. Here are the highlights!",
+    "news_item_url": "https://www.foxsports.com/live-blog/soccer/brazil-vs-colombia-live-updates-score-top-moments-from-copa-america",
+    "picture_source": "Conmebol",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
     "title": "Tesla stock",
     "pubDate": "Tue, 02 Jul 2024 10:00:00 -0700",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTAdi15OTC9Tu4_R26nmtr2EBesZwNkCI54WnyVSFh8vIp0ikiO0fYeqh31B0B2fDGHff2LvLiR",
-    "news_item_snippet": "Tesla shares jumped Tuesday after the electric-vehicle maker said quarterly deliveries fell less than expected. The stock finished the day up 10% at $231.26&nbsp;...",
-    "news_item_url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp500-nasdaq-live-07-02-2024/card/tesla-stock-jumps-after-deliveries-drop-less-than-expected-iJgM9MuNmLIP9xh93HHd?mod=lctimeline_finance",
-    "picture_source": "The Wall Street Journal",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTspyStf148YWtoriDjRWiaNHqBHj1ZkMRTyCHDZq7M1TPIsspH34RVns4RGgG2HAKtFAKhb68u",
+    "news_item_snippet": "Tesla shares jumped Tuesday as the electric vehicle maker reported second-quarter deliveries above analysts&#39; estimates.",
+    "news_item_url": "https://www.investopedia.com/tesla-stock-surges-as-q2-deliveries-beat-estimates-8672563",
+    "picture_source": "MarketWatch",
     "approx_traffic": "50,000+"
   },
   {
     "country": "United States",
+    "title": "Kemba Walker",
+    "pubDate": "Tue, 02 Jul 2024 14:00:00 -0700",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSfUycgqiK31MVfZLgDP0k3hrJToNpap9wgu4lzAdpicT-dEaWTcG6_HSDM3PyQAj_UW7peFpY3",
+    "news_item_snippet": "Kemba Walker, who won a championship at UConn and was a 4-time All-Star in the NBA, announced his retirement Tuesday.",
+    "news_item_url": "https://www.espn.com/nba/story/_/id/40483309/uconn-great-four-nba-all-star-kemba-walker-retires",
+    "picture_source": "NBA.com",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Arcade",
+    "pubDate": "Tue, 02 Jul 2024 07:00:00 -0700",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQF7MJXXuc26FvWCyIf6Mr7hllvvNC58NK8mvIFNtTBUw2e73vFBOO4DJb8RWN7ABLN3_zJtYbU",
+    "news_item_snippet": "The Dayton Arcade is hosting a new program \u201cdesigned to foster holistic well-being through a fusion of art and wellness initiatives.&quot;",
+    "news_item_url": "https://www.daytondailynews.com/local/dayton-arcade-to-host-free-weekly-arts-and-wellness-sessions/LKVMAA2A2JAB3KQ24EDOBMNHWI/",
+    "picture_source": "Dayton Daily News",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "India",
+    "title": "Austria vs t\u00fcrkiye",
+    "pubDate": "Wed, 03 Jul 2024 00:30:00 +0530",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRPgioBB6Cp0UB5gU3JTjqeDf2wbWO5NZ_T7YJF2Lurrw-RmWJEjwj1sPTN-daVxZ2kvR4BsckO",
+    "news_item_snippet": "UEFA European Championship &middot; Turkey beat Austria 2-1 in the round of 16 at the UEFA European Football Championship. &middot; Turkey took the lead in the first minute&nbsp;...",
+    "news_item_url": "https://www.aljazeera.com/sports/liveblog/2024/7/2/live-austria-vs-turkey-uefa-euro-2024-round-of-16",
+    "picture_source": "Sportstar",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "India",
     "title": "Brazil vs Colombia",
-    "pubDate": "Tue, 02 Jul 2024 09:00:00 -0700",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRwninNttal8BSQQGZ7B-W2sI8nmxF4tAIRkraxDRMlku2rDVUOekqMkAYWJpL08Ij-WLpV3nAz",
-    "news_item_snippet": "Martin Green has locked in his picks, predictions, and best bets for Colombia vs. Brazil in Copa America 2024 on Tuesday.",
-    "news_item_url": "https://www.cbssports.com/soccer/news/brazil-vs-colombia-prediction-odds-start-time-2024-copa-america-picks-july-2-bets-from-soccer-expert/",
-    "picture_source": "The Athletic",
+    "pubDate": "Wed, 03 Jul 2024 06:30:00 +0530",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQbnLhKpSr9Ca1Q6OddfdKzXQF6YuxhxM47Es3sQxn_1Kj4haHgAxSCa0qLfuOPJ-Bxt7BNstkw",
+    "news_item_snippet": "Copa Am\u00e9rica action continues Monday with Brazil taking on Colombia at Levi&#39;s Stadium in California. Here are the highlights!",
+    "news_item_url": "https://www.foxsports.com/live-blog/soccer/brazil-vs-colombia-live-updates-score-top-moments-from-copa-america",
+    "picture_source": "Sportstar",
     "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Supreme Court",
-    "pubDate": "Mon, 01 Jul 2024 08:00:00 -0700",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRXlXq4M0dmDuT1fM27YzcTI9wQlv1r6RBxDrf32nbCN2MA0nNulMuVEh5rTWatQO0Yl1qcKSN3",
-    "news_item_snippet": "In a shocking and lawless opinion, the Supreme Court granted presidents broad protections from criminal prosecution for \u201cofficial acts\u201d they undertake while&nbsp;...",
-    "news_item_url": "https://www.brennancenter.org/our-work/analysis-opinion/supreme-courts-radical-immunity-ruling-shields-lawbreaking-presidents-and",
-    "picture_source": "brennancenter.org",
-    "approx_traffic": "500,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Portugal vs Slovenia",
-    "pubDate": "Mon, 01 Jul 2024 12:00:00 -0700",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTyRzXTDHP1BN-milX-IeMbuKZB8l8R_ZvMIKA2Zt4ezJ-yylcNM5jjEoek_-tzePEwaRiLDp4-",
-    "news_item_snippet": "All the updates as Portugal beat Slovenia 3-0 in a penalty shootout to set up a quarterfinal against France.",
-    "news_item_url": "https://www.aljazeera.com/sports/liveblog/2024/7/1/live-portugal-vs-slovenia-uefa-euro-2024-round-of-16",
-    "picture_source": "FOXSports.com",
-    "approx_traffic": "500,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Klay Thompson",
-    "pubDate": "Mon, 01 Jul 2024 12:00:00 -0700",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQuvqSWVZaQlBZHEcCiyvKfvf-j_zG_2Mx9hepXkKCsXGF82GJ9vU9ljrrogGSk6jwy49jl4JsN",
-    "news_item_snippet": "Thompson is heading to the Mavericks in free agency after 13 years and four titles in Golden State.",
-    "news_item_url": "https://www.cbssports.com/nba/news/stephen-curry-reacts-to-klay-thompsons-warriors-departure-team-plans-to-retire-no-11-jersey/",
-    "picture_source": "ESPN",
-    "approx_traffic": "500,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Vox",
-    "pubDate": "Mon, 01 Jul 2024 23:00:00 -0700",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTOkhPhwMoeCG2X6aDcHEF8heSit3ovTxP5yqZ5737PthiINU3hakSSlTWODxrV9wE-McrZkZ0E",
-    "news_item_snippet": "Hurricane Beryl and other superstorms would be much more dangerous without these iconic ocean animals.",
-    "news_item_url": "https://www.vox.com/down-to-earth/358329/down-to-earth-coral-reefs-hurricane-defense",
-    "picture_source": "Vox",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "United States",
-    "title": "USMNT",
-    "pubDate": "Mon, 01 Jul 2024 18:00:00 -0700",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTdAm6Swf1KbpbzlF0srouZRtpfFoFyLFn_LYUI24pbzZ4tptz9X66z3n114IdqCskkJChKVmZp",
-    "news_item_snippet": "Gregg Berhalter&#39;s job is in question once again after an early Copa America exit. The U.S. men&#39;s national team should look at these five managers instead.",
-    "news_item_url": "https://www.nbcchicago.com/news/sports/soccer/gregg-berhalter-replacements-usmnt/3479776/",
-    "picture_source": "U.S. Soccer",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Karen Read",
-    "pubDate": "Mon, 01 Jul 2024 11:00:00 -0700",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSavluFG8c6W8L3gUu-05qfpaL-Ty_9aU0ZrytaTZ9v7ElPX0Hmw_ZoINSQ8GtX1G3U3jeu9rR6",
-    "news_item_snippet": "A mistrial was declared in the Karen Read murder trial on Monday. The Norfolk County District Attorney&#39;s Office says it intends on re-trying the case&nbsp;...",
-    "news_item_url": "https://www.nbcboston.com/news/local/karen-read-murder-trial-2/3416241/",
-    "picture_source": "NBC News",
-    "approx_traffic": "200,000+"
   },
   {
     "country": "India",
     "title": "Hathras",
     "pubDate": "Tue, 02 Jul 2024 18:30:00 +0530",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQSmlXHFXsxa0J0jmSzih9RZmhjKGHsAb3ZSqb0vzIMhveZEh0pIs_xMvfqldDqZdbyUPY1bqcM",
-    "news_item_snippet": "\u0939\u093e\u0925\u0930\u0938 \u0915\u0940 \u0926\u0941\u0930\u094d\u0918\u091f\u0928\u093e \u092a\u0930 \u092e\u0941\u0916\u094d\u092f\u092e\u0902\u0924\u094d\u0930\u0940 \u0928\u0947 \u0926\u0941\u0903\u0916 \u091c\u0924\u093e\u092f\u093e \u0939\u0948 \u0914\u0930 \u0917\u0939\u0928 \u091c\u093e\u0902\u091a \u0915\u0947 \u0928\u093f\u0930\u094d\u0926\u0947\u0936 \u0926\u093f\u090f \u0939\u0948\u0902\u0964 \u0909\u0928\u094d\u0939\u094b\u0902\u0928\u0947 \u092e\u0943\u0924\u0915\u094b\u0902 \u0915\u0947 \u092a\u0930\u093f\u091c\u0928\u094b\u0902 \u0915\u094b 2-2 \u0932\u093e\u0916 \u0924\u0925\u093e \u0918\u093e\u092f\u0932\u094b\u0902 \u0915\u094b&nbsp;...",
-    "news_item_url": "https://www.jagran.com/uttar-pradesh/hathras-hathras-stampede-list-of-people-who-lost-their-lives-in-hathras-stampede-cm-yogi-adityanath-announced-compensation-23751134.html",
-    "picture_source": "India Today",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQoVa4ukCsoUiHpA1DWtIsoVoIgskPYjdR3N_KW-_W8Ji92dq5IScDdK6-WggSP4F_SeFrq7Jm2",
+    "news_item_snippet": "The satsang was held in Hathras. As the event concluded, a stampede ensued, resulting in the death of 116 people, including women and children.",
+    "news_item_url": "https://www.indiatoday.in/india/story/uttar-pradesh-hathras-stampede-religious-event-death-injured-2561211-2024-07-02",
+    "picture_source": "\u0926\u0948\u0928\u093f\u0915 \u091c\u093e\u0917\u0930\u0923",
     "approx_traffic": "200,000+"
   },
   {
@@ -134,20 +134,10 @@
     "title": "Rahul Gandhi",
     "pubDate": "Tue, 02 Jul 2024 11:30:00 +0530",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTExnHy2RgVZ6ulgYo5p1pQAwbpA_JVxoLi8rogTyRwDJNwBF45li_IKOcC2qjZeXam1zFlQNgH",
-    "news_item_snippet": "\u0930\u093e\u0939\u0941\u0932 \u0917\u093e\u0902\u0927\u0940 \u0928\u0947 \u092d\u093e\u091c\u092a\u093e \u092a\u0930 \u0928\u093f\u0936\u093e\u0928\u093e \u0938\u093e\u0927\u0924\u0947 \u0939\u0941\u090f \u0915\u0939\u093e \u0915\u093f &#39;\u091c\u094b \u0932\u094b\u0917 \u0905\u092a\u0928\u0947 \u0906\u092a \u0915\u094b \u0939\u093f\u0902\u0926\u0942 \u0915\u0939\u0924\u0947 \u0939\u0948\u0902, \u0935\u0939 24 \u0918\u0902\u091f\u0947 \u0939\u093f\u0902\u0938\u093e, \u0928\u092b\u0930\u0924 \u0914\u0930 \u091d\u0942\u0920 \u092c\u094b\u0932\u0924\u0947 \u0930\u0939\u0924\u0947 \u0939\u0948\u0902\u0964",
-    "news_item_url": "https://www.amarujala.com/india-news/rahul-gandhi-lok-sabha-speech-several-portions-have-been-expunged-remarks-on-hindus-pm-modi-rss-2024-07-02",
+    "news_item_snippet": "Complaint filed against Rahul Gandhi for remarks on Hindus in Lok Sabha, court accepts case, next hearing on July 15.",
+    "news_item_url": "https://www.thehindu.com/news/national/bihar/in-bihar-court-rahul-gandhi-booked-over-remarks-in-parliament-on-hindus/article68359946.ece",
     "picture_source": "Livemint",
     "approx_traffic": "100,000+"
-  },
-  {
-    "country": "India",
-    "title": "David Miller",
-    "pubDate": "Tue, 02 Jul 2024 20:30:00 +0530",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQ8xyS9_4b2R9AeEGmYkvOjU63rSkCjO_xhWEx7_kxaY1V91DrC5D3MPa4LfdQ7WfrABSbQkDqv",
-    "news_item_snippet": "Miller&#39;s dismissal by Hardik Pandya, courtesy of a stunning catch from Suryakumar Yadav, was the final nail in the coffin for the Proteas in their&nbsp;...",
-    "news_item_url": "https://indianexpress.com/article/sports/cricket/david-miller-catch-suryakumar-yadav-india-vs-south-africa-loss-t20-world-cup-final-9428812/",
-    "picture_source": "ABP News",
-    "approx_traffic": "50,000+"
   },
   {
     "country": "India",
@@ -157,6 +147,16 @@
     "news_item_snippet": "The Round of 16 at Euro 2024 continued on Tuesday, as the Netherlands beat Romania, 3-0, advancing to the quarterfinals. Here are the top moments from the&nbsp;...",
     "news_item_url": "https://www.foxsports.com/live-blog/soccer/romania-vs-netherlands-live-updates-score-top-moments-from-euro-2024",
     "picture_source": "NDTVSports.com",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "India",
+    "title": "David Miller",
+    "pubDate": "Tue, 02 Jul 2024 20:30:00 +0530",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTcXt0Dvk87oFnSkE_j-T49lfpA5UpEpbyG0L5_4znO9jNzctvUZFOczDdHRxw0kHakpBWKaM2d",
+    "news_item_snippet": "David Miller Retirement: \u0926\u0915\u094d\u0937\u093f\u0923 \u0905\u092b\u094d\u0930\u0940\u0915\u093e \u0915\u0947 \u0916\u093f\u0932\u093e\u0921\u093c\u0940 \u0921\u0947\u0935\u093f\u0921 \u092e\u093f\u0932\u0930 \u0928\u0947 \u0905\u0902\u0924\u0930\u094d\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u091f\u094020 \u0915\u094d\u0930\u093f\u0915\u0947\u091f \u0938\u0947 \u0938\u0902\u0928\u094d\u092f\u093e\u0938 \u0932\u0947\u0928\u0947 \u0915\u0940 \u0905\u092b\u0935\u093e\u0939\u094b\u0902 \u092a\u0930 \u091a\u0941\u092a\u094d\u092a\u0940 \u0924\u094b\u0921\u093c\u0940 \u0939\u0948.",
+    "news_item_url": "https://www.abplive.com/sports/cricket/south-african-cricketer-david-miller-breaks-silence-on-t20i-retirement-rumors-says-he-has-not-retired-at-all-2728568",
+    "picture_source": "\u0906\u091c \u0924\u0915",
     "approx_traffic": "50,000+"
   },
   {
@@ -200,6 +200,26 @@
     "approx_traffic": "100,000+"
   },
   {
+    "country": "Argentina",
+    "title": "Pedro Brieger",
+    "pubDate": "Tue, 02 Jul 2024 16:00:00 -0300",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTZwWt1XVqiEcnfQyxoLNrEKB6440-2pHLVXP7BsCSdOqigcjQUqMuXpQtTMxMoI5SrkcTkzhJU",
+    "news_item_snippet": "Las mujeres recogieron testimonios que se replicaron durante 30 a\u00f1os; \u201cEra nuestro profesor, nuestro compa\u00f1ero de trabajo, nuestro jefe de c\u00e1tedra,&nbsp;...",
+    "news_item_url": "https://www.lanacion.com.ar/espectaculos/periodistas-argentinas-denunciaron-a-pedro-brieger-por-19-casos-de-acoso-sexual-nid02072024/",
+    "picture_source": "Infobae.com",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "Argentina",
+    "title": "Costa Rica - Paraguay",
+    "pubDate": "Tue, 02 Jul 2024 18:00:00 -0300",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTKL_mnD9dRtofWHMa8uMAE3Nc7F74lQAfdrqQzocaEMsiwZ7warKl6xyacvHSB9tTNJX8EI1Cs",
+    "news_item_snippet": "Falta de Ram\u00f3n Sosa (Paraguay). Anthony Contreras (Costa Rica) ha recibido una falta en la zona defensiva. Remate rechazado de Julio Enciso (Paraguay)",
+    "news_item_url": "https://www.marca.com/mx/futbol/copa-america/costa-rica-paraguay/2024/07/03/01_0119_20240703_838_835-directo.html",
+    "picture_source": "infobae Am\u00e9rica",
+    "approx_traffic": "50,000+"
+  },
+  {
     "country": "Australia",
     "title": "Portugal vs Slovenia",
     "pubDate": "Tue, 02 Jul 2024 05:00:00 +1000",
@@ -208,16 +228,6 @@
     "news_item_url": "https://www.foxsports.com/live-blog/soccer/portugal-vs-slovenia-live-updates-top-moments-from-euro-2024",
     "picture_source": "PortuGOAL.net",
     "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Brazil",
-    "title": "Corinthians x Palmeiras",
-    "pubDate": "Tue, 02 Jul 2024 15:00:00 -0500",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQVW5lECuIHfMDlD1nOLb2p7ZMPgm73htKw4Dl7k_Z42szOsEFYQSLJvzqF5nWEG373lSMrm8TM",
-    "news_item_snippet": "Em 13 cl\u00e1ssicos, Corinthians levou gol do rival em 12 deles e em 7 jogos diferentes levou gols em jogadas de escanteio do time de Abel Ferreira.",
-    "news_item_url": "https://placar.com.br/coluna/blog-do-rodolfo-rodrigues/corinthians-sofreu-8-gols-apos-escanteios-contra-o-palmeiras-de-abel-ferreira/",
-    "picture_source": "Placar",
-    "approx_traffic": "100,000+"
   },
   {
     "country": "Brazil",
@@ -237,16 +247,26 @@
     "news_item_snippet": "Rom\u00eania e Holanda se enfrentam nesta ter\u00e7a-feira (2), \u00e0s 13h (hor\u00e1rio de Bras\u00edlia), na Allianz Arena, em Munique (ALE), em jogo v\u00e1lido pelas oitavas de&nbsp;...",
     "news_item_url": "https://www.lance.com.br/futebol-internacional/romenia-x-holanda-onde-assistir-ao-vivo-horario-e-provaveis-escalacoes-do-jogo-pela-eurocopa.html",
     "picture_source": "CNN Brasil",
-    "approx_traffic": "100,000+"
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Brazil",
+    "title": "Xbox",
+    "pubDate": "Tue, 02 Jul 2024 17:00:00 -0500",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTvOBFxV17ODF24lnREJc8t1IbUK8xyEKj0PNaT3bKlxn1MMcFnYHFSXo7h_-UN65WJ_pTErXed",
+    "news_item_snippet": "No X, antigo Twitter, empresa confirmou que investiga o que aconteceu. Segundo o site DownDetector, eram mais de 1,2 mil notifica\u00e7\u00f5es \u00e0s 16h30min.",
+    "news_item_url": "https://gauchazh.clicrbs.com.br/tecnologia/noticia/2024/07/xbox-live-fora-do-ar-sistema-apresenta-instabilidade-nesta-terca-feira-cly4tgfo300s0013o3uh4luqh.html",
+    "picture_source": "G1",
+    "approx_traffic": "50,000+"
   },
   {
     "country": "South Korea",
     "title": "\uc2dc\uccad\uc5ed \uc0ac\uace0",
     "pubDate": "Mon, 01 Jul 2024 23:00:00 +0900",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRV8fBbN1UsuN7G9bux8Js24FeEQPonlWE0dvZ0rRVLRwu8qe8MH6QtWaiVGi7h2bn0OLCeb5ux",
-    "news_item_snippet": "\uc11c\uc6b8 \uc2dc\uccad\uc5ed \ucc28\ub7c9 \ub3cc\uc9c4 \uc0ac\uace0 \uac00\ud574\uc790\ub294 60\ub300 \ubc84\uc2a4 \uae30\uc0ac\uc778 \uac78\ub85c \ub4dc\ub7ec\ub0ac\uc2b5\ub2c8\ub2e4. \ud53c\uc758\uc790 \uce21\uc774 \uae09\ubc1c\uc9c4 \uc8fc\uc7a5\uc744 \ud558\ub294 \uac83\uc73c\ub85c \uc54c\ub824\uc9c4 \uac00\uc6b4\ub370 \uacbd\ucc30\uc740 \ucc28\ub7c9\uc774 \uc5ed\uc8fc\ud589\uc744 \ud558\uac8c \ub41c \uc6d0\uc778&nbsp;...",
-    "news_item_url": "https://m.yonhapnewstv.co.kr/news/MYH20240702022600641",
-    "picture_source": "\uc5f0\ud569\ub274\uc2a4",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcS6j_8F_yEzivOFRiBV1AUQvS3UGwBHznsAf6b96gZpO8MGS3JBbLhDop-2TjpRvExxenSsky7M",
+    "news_item_snippet": "\ud398\ub2ec \ube14\ub799\ubc15\uc2a4, \uc815\uc0c1 \uc0ac\uc6a9 \uc720\uc77c\ud55c \uc99d\uac70&quot; &quot;\uac00\ud574 \uc6b4\uc804\uc790\ub294 \ucd5c\ub300 5\ub144 \uc774\ud558 \uae08\uace0\ud615 \uc608\uc0c1&quot;. \uc0ac\uc9c4=\uc720\ud29c\ube0c \ucc44\ub110 &#39;\ud55c\ubb38\ucca0TV&#39; \uc601\uc0c1 \ucea1\ucc98 \uad50\ud1b5\uc0ac\uace0 \uc804\ubb38\uac00 \ud55c\ubb38\ucca0 \ubcc0\ud638\uc0ac\uac00 \uc11c\uc6b8&nbsp;...",
+    "news_item_url": "https://www.hankyung.com/article/2024070276477",
+    "picture_source": "\ud55c\uaca8\ub808",
     "approx_traffic": "200,000+"
   },
   {
@@ -290,16 +310,6 @@
     "approx_traffic": "50,000+"
   },
   {
-    "country": "France",
-    "title": "Pogacar",
-    "pubDate": "Tue, 02 Jul 2024 15:00:00 +0200",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQ93KZcNrG3bdzAESAcc0ur1ifrN3pxZwc3lOvHlQcH-AMbg_GeGKjxD9t_TvpHkOPZ2drcjr5e",
-    "news_item_snippet": "Tadej Pogacar a remport\u00e9 la premi\u00e8re \u00e9tape de montagne, mardi, et r\u00e9cup\u00e9r\u00e9 le Maillot Jaune en l\u00e2chant notamment un Jonas Vingegaard rassurant dans le&nbsp;...",
-    "news_item_url": "https://www.lequipe.fr/Cyclisme-sur-route/Actualites/Le-barometre-des-favoris-du-tour-de-france-pogacar-tranchant-vingegaard-rassure-mais-esseule/1479531",
-    "picture_source": "Eurosport.fr",
-    "approx_traffic": "50,000+"
-  },
-  {
     "country": "Germany",
     "title": "T\u00fcrkei \u00d6sterreich",
     "pubDate": "Tue, 02 Jul 2024 00:00:00 +0200",
@@ -311,21 +321,11 @@
   },
   {
     "country": "Germany",
-    "title": "Rum\u00e4nien Niederlande",
-    "pubDate": "Tue, 02 Jul 2024 01:00:00 +0200",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcR7FsprexfY2oxukje88pcy-zPIFkBlW5yGC1jNGvYGVAWZ6ICqE2-bBrOl5-zEq9A2sfL3sym_",
-    "news_item_snippet": "Die Niederlande stehen im EM-Viertelfinale. Im Achtelfinale gegen Rum\u00e4nien l\u00e4sst der Favorit viele Chancen liegen, siegt aber am Ende klar 3:0.",
-    "news_item_url": "https://www.zdf.de/nachrichten/sport/fussball-em-2024-achtelfinale-niederlande-rumaenien-100.html",
-    "picture_source": "ZEIT ONLINE",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "Germany",
     "title": "Christian D\u00fcren",
     "pubDate": "Tue, 02 Jul 2024 14:00:00 +0200",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRjdXXrbIzRMxWllvQff-3W-P9uXGSDsxYiLYdXmW5eMqVn-bcw-Tfe2ZneULkT4R9kxlEH_t5F",
-    "news_item_snippet": "Amira Pocher und Christian D\u00fcren machen ihre Liebe \u00f6ffentlich: Die beiden Moderator:innen zeigten sich auf der Berlin Fashion Show zum ersten Mal als Paar.",
-    "news_item_url": "https://www.gala.de/stars/news/amira-pocher---christian-dueren--liebevoller-moment-beim-paerchen-debuet-24127086.html",
+    "news_item_snippet": "Schon seit Anfang des Jahres gibt es Ger\u00fcchte \u00fcber eine Beziehung zwischen Amira Pocher und dem Moderator Christian D\u00fcren. Bei der Fashion Week zeigen sich&nbsp;...",
+    "news_item_url": "https://www.n-tv.de/leute/Amira-Pocher-und-Christian-Dueren-machen-es-offiziell-article25058755.html",
     "picture_source": "ProSieben",
     "approx_traffic": "50,000+"
   },
@@ -334,8 +334,8 @@
     "title": "Melis Sekmen",
     "pubDate": "Tue, 02 Jul 2024 00:00:00 +0200",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRlps9MJrVg5_5ErKA0mSzu_7KpgdHvWkTPknlwF56Vk7HSnR5fA7a8bHCFoBVU9QhjPaLXKgEK",
-    "news_item_snippet": "Paukenschlag im Parlament: Die Mannheimer Abgeordnete Melis Sekmen d\u00fcpiert mit ihrem Wechsel zur Union ihre bisherige Fraktion. Aufhorchen l\u00e4sst vor allem&nbsp;...",
-    "news_item_url": "https://www.zdf.de/nachrichten/politik/deutschland/gruene-abgeordnete-sekmen-wechsel-cdu-100.html",
+    "news_item_snippet": "Auch in ihrem Speckg\u00fcrtel Baden-W\u00fcrttemberg sacken die Gr\u00fcnen massiv ab: Im Vergleich zum Bundestagswahljahr 2021 sind die Umfragewerte f\u00fcr die Partei um&nbsp;...",
+    "news_item_url": "https://www.nd-aktuell.de/artikel/1183424.melis-sekmen-start-up-mit-neuer-farbe.html",
     "picture_source": "manager-magazin.de",
     "approx_traffic": "50,000+"
   },
@@ -394,8 +394,8 @@
     "title": "Austria-Turchia",
     "pubDate": "Tue, 02 Jul 2024 13:00:00 +0200",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQ_H9OL-h29j_FnlxJh03EkvIvBlMZIsg2JhQ7RdF20ugcEhA8VQWKxMIPSmmmbqia2r_9MAuoo",
-    "news_item_snippet": "EURO 2024 - Montella elimina Rangnick. Decide la doppietta di Demiral (entrambe le reti da corner), inutile la rete di Gregoritsch.",
-    "news_item_url": "https://www.eurosport.it/calcio/campionati-europei/2024/austria-turchia-1-2-doppietta-di-demiral-la-squadra-di-montella-ai-quarti-di-finale_sto10218970/story.shtml",
+    "news_item_snippet": "A Lipsia, una doppietta del difensore ha eliminato Rangnick nella sfida valida per gli ottavi di finale. Inutile il gol di Gregoritsch.",
+    "news_item_url": "https://www.corrieredellosport.it/news/calcio/euro-2024/2024/07/02-129828883/austria-turchia_diretta_euro_2024_segui_la_partita_di_oggi_live",
     "picture_source": "Rai News",
     "approx_traffic": "200,000+"
   },
@@ -430,32 +430,22 @@
     "approx_traffic": "50,000+"
   },
   {
-    "country": "Mexico",
-    "title": "Estados Unidos - Uruguay",
-    "pubDate": "Mon, 01 Jul 2024 10:00:00 -0600",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRPUlPpJM64ulCkTc0CtnzRIXVZSuqP8iOcQJKQO4g4EJbqTmbTYhdMiVgn75eO2k1hdRaTow0W",
-    "news_item_snippet": "El USMNT de Gregg Berhalter necesita vencer a la Celeste de Marcelo Bielsa para calificar a los Cuartos de Final de la Copa Am\u00e9rica 2024 este lunes 1 de&nbsp;...",
-    "news_item_url": "https://www.tudn.com/futbol/copa-america-2024/partidos-en-vivo/estados-unidos-vs-uruguay/estados-unidos-vs-uruguay-horario-donde-ver-partido-copa-america-2024",
-    "picture_source": "Univision",
-    "approx_traffic": "200,000+"
-  },
-  {
     "country": "Spain",
     "title": "Austria turquia",
     "pubDate": "Tue, 02 Jul 2024 22:00:00 +0200",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTRYpgK8iw4TLlwMWiDMCRMpfl-OQvMbXLWBF4ZOhvphFj61tY1bcJ603Ue9nwLb_0g2lFt9e9R",
-    "news_item_snippet": "Turqu\u00eda ha superado a Austria (1-2) este martes en Leipzig y se abre paso hacia los cuartos de final de la Eurocopa. Merih Demiral fue la figura de la noche&nbsp;...",
-    "news_item_url": "https://elpais.com/deportes/eurocopa-futbol/2024-07-02/austria-turquia-en-directo-el-partido-de-octavos-de-la-eurocopa-en-vivo.html",
+    "news_item_snippet": "Berl\u00edn, 2 Jul. (EUROPA PRESS) \u2013 La selecci\u00f3n de f\u00fatbol de Turqu\u00eda ha vencido este martes por 1-2 a la de Austria, con un doblete del defensa Merih Demiral a&nbsp;...",
+    "news_item_url": "https://www.elpais.cr/2024/07/02/cronica-del-austria-turquia-1-2/",
     "picture_source": "eldiasegovia.es",
     "approx_traffic": "100,000+"
   },
   {
     "country": "Spain",
-    "title": "Rumania  Pa\u00edses Bajos",
+    "title": "Rumania Pa\u00edses Bajos",
     "pubDate": "Tue, 02 Jul 2024 18:00:00 +0200",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcS7FDksJ_RCji9nP9R40cGekijWO27kSJORKpYKzyhGN7wtrL7D9aDDN28ksqSfHOy9TMAWyci3",
-    "news_item_snippet": "Pa\u00edses Bajos se ha impuesto a Rumania (0-3) y se clasifica para los cuartos de final de la Eurocopa. Cody Gakpo abri\u00f3 el marcador con un gran disparo de&nbsp;...",
-    "news_item_url": "https://elpais.com/deportes/eurocopa-futbol/2024-07-02/rumania-paises-bajos-en-directo-los-octavos-de-final-de-la-eurocopa-en-directo.html",
+    "news_item_snippet": "Disfruta del partido completo entre Ruman\u00eda y Pa\u00edses Bajos de Octavos de final de la Eurocopa 2024. Vive la Eurocopa masculina de la UEFA en RTVE Play.",
+    "news_item_url": "https://www.rtve.es/television/20240701/rumania-paises-bajos-ver-partido-completo/16168839.shtml",
     "picture_source": "eldiasegovia.es",
     "approx_traffic": "100,000+"
   },
@@ -473,29 +463,29 @@
     "country": "United Kingdom",
     "title": "Austria vs Turkey",
     "pubDate": "Tue, 02 Jul 2024 20:00:00 +0100",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRB7Tfcr0YXBrifOPr8-HEYbGKyin_hE4LE_UBJDau3gTP2GseGMuI-N6B2uWXon7ucc-h1jGRy",
-    "news_item_snippet": "Follow live text commentary, score updates and match stats from Austria vs Turkey in the UEFA Euro 2024.",
-    "news_item_url": "https://www.bbc.com/sport/football/live/cpv35e6dypet",
-    "picture_source": "The Independent",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRq86jFV6k1B3Kyb6uVG6XD9ieeM6-PZUTo8o9lEY2ko-lln6YXH2lRuSJ5alXaT9v6MJ8lFWan",
+    "news_item_snippet": "Two goals by Merih Demiral ensured a surprise win for Turkey as Austria crashed out of Euro 2024.",
+    "news_item_url": "https://www.independent.co.uk/sport/football/austria-turkey-live-stream-score-result-euro-2024-b2572563.html",
+    "picture_source": "BBC News",
     "approx_traffic": "200,000+"
+  },
+  {
+    "country": "United Kingdom",
+    "title": "Romania vs Netherlands",
+    "pubDate": "Tue, 02 Jul 2024 17:00:00 +0100",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSBms9upWAXpmZzh-zJpAygSgNwz2fy-vvh6kD4UOHdRioVahWtlY0s9mQk3aukx1nUY5mhzOga",
+    "news_item_snippet": "Report from Euro 2024 as a goal from Cody Gakpo and two from Donyell Malen send Ronald Koemans Netherlands into quarter-finals of tournament; the Dutch will&nbsp;...",
+    "news_item_url": "https://www.skysports.com/football/romania-vs-netherlands/report/500424",
+    "picture_source": "The Independent",
+    "approx_traffic": "100,000+"
   },
   {
     "country": "United Kingdom",
     "title": "Jack Draper",
     "pubDate": "Tue, 02 Jul 2024 13:00:00 +0100",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRmQ57pN4SqMnrn-BNvzKrvBR-OKbxaKAzPjMvug46j9nGLQLYWIZ1sQXxwHBI0lOEtNqZ5bKix",
-    "news_item_snippet": "The king is dead. Long live the ki \u2026 well, not entirely. Not yet. But on the day that Andy Murray waved a pained goodbye to his singles career at Wimbledon,&nbsp;...",
-    "news_item_url": "https://www.theguardian.com/sport/article/2024/jul/02/jack-draper-blows-hot-and-cold-in-wimbledon-epic-to-set-up-norrie-clash",
-    "picture_source": "The Independent",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "United Kingdom",
-    "title": "Romania vs Netherlands",
-    "pubDate": "Tue, 02 Jul 2024 17:00:00 +0100",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcS5JACc7SGTmh-T6zWxUpVcNyaWZj747WX8sx-DJ8jaMtAvUXNHiJUZZfGwBfOHRN_n715VTfNQ",
-    "news_item_snippet": "Substitute Donyell Malen scored twice and Cody Gakpo got his third goal of Euro 2024 to help the Netherlands see off a spirited Romania and reach the&nbsp;...",
-    "news_item_url": "https://www.bbc.co.uk/sport/football/live/c7204xy3zg1t",
+    "news_item_snippet": "In total, 11 Brits took to the courts at the All England Club, with the the 22-year-old Draper, who is ranked first among the nation&#39;s men&#39;s players, regarded&nbsp;...",
+    "news_item_url": "https://www.espn.co.uk/tennis/story/_/id/40480903/wimbledon-2024-andy-murray-katie-boulter-jack-draper",
     "picture_source": "The Independent",
     "approx_traffic": "100,000+"
   },
@@ -514,8 +504,8 @@
     "title": "Boulter",
     "pubDate": "Tue, 02 Jul 2024 19:00:00 +0100",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQJFl9c1Vr-rkoOj6gQDWGVcli79CqOag7DLzyBYdYVXxOmp7lhO9vTsjGT4YlQXqM0tOxMIleG",
-    "news_item_snippet": "British number one Katie Boulter battles past Tatjana Maria to set up a second-round meeting with compatriot Harriet Dart.",
-    "news_item_url": "https://www.bbc.com/sport/tennis/articles/c8978pq4np4o",
+    "news_item_snippet": "The British No 1 was made to work hard but set up a tantalising encounter against British No 2 Harriet Dart.",
+    "news_item_url": "https://www.independent.co.uk/sport/tennis/wimbledon-katie-boulter-harriet-dart-b2572821.html",
     "picture_source": "Lawn Tennis Association",
     "approx_traffic": "50,000+"
   },
@@ -544,8 +534,8 @@
     "title": "Tubi",
     "pubDate": "Tue, 02 Jul 2024 11:00:00 +0100",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTch992-0OL3FbULxMgQRgltLu2lyCg1f9SqheNsjhiQFrymnszlp79uACml-VhWxLmOc-npBjy",
-    "news_item_snippet": "Service offers more than 20000 films and TV shows on-demand to compete with popular streaming platforms.",
-    "news_item_url": "https://www.theguardian.com/tv-and-radio/article/2024/jul/02/rupert-murdoch-fox-corp-launches-netflix-rival-tubi-in-uk",
+    "news_item_snippet": "Fox-owned ad-supported streaming platform Tubi is to launch in the UK bringing a 20,000-title content library to viewers. The service commands around 80&nbsp;...",
+    "news_item_url": "https://www.screendaily.com/news/foxs-free-streaming-service-tubi-expands-to-the-uk-with-20000-films-and-tv-series/5195094.article",
     "picture_source": "Advanced Television",
     "approx_traffic": "50,000+"
   }
