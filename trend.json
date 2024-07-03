@@ -4,8 +4,8 @@
     "title": "Xbox",
     "pubDate": "Tue, 02 Jul 2024 14:00:00 -0700",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSvjzIafx9ayESpJHZJUb-CE8lZzXBcVXuqmwZR47qv10dcAWPBhkefp5Y_4MA5x5_01eqYtsXm",
-    "news_item_snippet": "Microsoft says it&#39;s investigating a global Xbox Live outage that&#39;s cut off multiplayer, game downloading, and other internet services while showing \u201cError&nbsp;...",
-    "news_item_url": "https://www.theverge.com/2024/7/2/24191012/xbox-live-down-outage-xbox-series-x-s-online-sign-failed",
+    "news_item_snippet": "Microsoft reported sign-in issues with its Xbox Live gaming service on Tuesday, essentially blocking gamers from signing in to and playing PC and Xbox&nbsp;...",
+    "news_item_url": "https://www.pcworld.com/article/2384381/xbox-live-games-are-down-due-to-sign-in-problems.html",
     "picture_source": "Variety",
     "approx_traffic": "200,000+"
   },
@@ -21,11 +21,21 @@
   },
   {
     "country": "United States",
+    "title": "The First Descendant",
+    "pubDate": "Tue, 02 Jul 2024 04:00:00 -0700",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTE0i72_PELnBRvXPoX0j-8V1kUuofhDfrRjwQDaMntIMETtzkreiaOrT_R3IIjtp1jvXZumEKx",
+    "news_item_snippet": "Despite blowing up the Steam player charts, The First Descendant is having problems with reviews with them almost hitting \u201cMostly Negative\u201d.",
+    "news_item_url": "https://www.pcgamesn.com/the-first-descendant/steam-review-struggle",
+    "picture_source": "GameSpot",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United States",
     "title": "Romania vs Netherlands",
     "pubDate": "Tue, 02 Jul 2024 10:00:00 -0700",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQU901PaHmsaX8n7JWqfWMYFmEdgA7HupZyZ0aS9LhRUw1iI2Nz08j1y4XYQPS9DaNsX-1oegWE",
-    "news_item_snippet": "Expert recap and game analysis of the Netherlands vs. Romania Uefa European Championship game from July 2, 2024 on ESPN.",
-    "news_item_url": "https://www.espn.com/soccer/report/_/gameId/703937",
+    "news_item_snippet": "Follow live reaction as the impressive Netherlands beat Romania 3-0 to progress to the quarter-finals of Euro 2024.",
+    "news_item_url": "https://www.nytimes.com/athletic/live-blogs/romania-netherlands-live-updates-euro-2024-score-result/qNYcJoudcRPa/",
     "picture_source": "FOXSports.com",
     "approx_traffic": "50,000+"
   },
@@ -33,10 +43,20 @@
     "country": "United States",
     "title": "Tesla stock",
     "pubDate": "Tue, 02 Jul 2024 10:00:00 -0700",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQ6APSFKe51uA-2fuYYUeFGlFNK6bxgJATeNWHq38RpTIPBwo9DyS6QFWITou_vnyG8pFBlHFNS",
-    "news_item_snippet": "Shares of Tesla Inc. rose more than 10% Tuesday after the electric-vehicle giant surprised investors by reporting second-quarter deliveries that beat&nbsp;...",
-    "news_item_url": "https://www.marketwatch.com/story/teslas-stock-set-to-snap-win-streak-as-investors-brace-for-deliveries-data-55434381",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTAdi15OTC9Tu4_R26nmtr2EBesZwNkCI54WnyVSFh8vIp0ikiO0fYeqh31B0B2fDGHff2LvLiR",
+    "news_item_snippet": "Tesla shares jumped Tuesday after the electric-vehicle maker said quarterly deliveries fell less than expected. The stock finished the day up 10% at $231.26&nbsp;...",
+    "news_item_url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp500-nasdaq-live-07-02-2024/card/tesla-stock-jumps-after-deliveries-drop-less-than-expected-iJgM9MuNmLIP9xh93HHd?mod=lctimeline_finance",
     "picture_source": "The Wall Street Journal",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Brazil vs Colombia",
+    "pubDate": "Tue, 02 Jul 2024 09:00:00 -0700",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRwninNttal8BSQQGZ7B-W2sI8nmxF4tAIRkraxDRMlku2rDVUOekqMkAYWJpL08Ij-WLpV3nAz",
+    "news_item_snippet": "Martin Green has locked in his picks, predictions, and best bets for Colombia vs. Brazil in Copa America 2024 on Tuesday.",
+    "news_item_url": "https://www.cbssports.com/soccer/news/brazil-vs-colombia-prediction-odds-start-time-2024-copa-america-picks-july-2-bets-from-soccer-expert/",
+    "picture_source": "The Athletic",
     "approx_traffic": "50,000+"
   },
   {
@@ -54,8 +74,8 @@
     "title": "Portugal vs Slovenia",
     "pubDate": "Mon, 01 Jul 2024 12:00:00 -0700",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTyRzXTDHP1BN-milX-IeMbuKZB8l8R_ZvMIKA2Zt4ezJ-yylcNM5jjEoek_-tzePEwaRiLDp4-",
-    "news_item_snippet": "Ultimately Portugal were the better side, but no doubt some good fortune was required in the end as a penalty shootout determinded the final scene. We sift&nbsp;...",
-    "news_item_url": "https://portugoal.net/selecao/3969-portugal-vs-slovenia-player-ratings",
+    "news_item_snippet": "All the updates as Portugal beat Slovenia 3-0 in a penalty shootout to set up a quarterfinal against France.",
+    "news_item_url": "https://www.aljazeera.com/sports/liveblog/2024/7/1/live-portugal-vs-slovenia-uefa-euro-2024-round-of-16",
     "picture_source": "FOXSports.com",
     "approx_traffic": "500,000+"
   },
@@ -94,8 +114,8 @@
     "title": "Karen Read",
     "pubDate": "Mon, 01 Jul 2024 11:00:00 -0700",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSavluFG8c6W8L3gUu-05qfpaL-Ty_9aU0ZrytaTZ9v7ElPX0Hmw_ZoINSQ8GtX1G3U3jeu9rR6",
-    "news_item_snippet": "Trooper Michael Proctor admitted in court to vulgar texts about Read during court proceedings. His removal was announced just hours after the high-profile&nbsp;...",
-    "news_item_url": "https://www.wgbh.org/news/local/2024-07-02/lead-investigator-in-karen-read-case-relieved-of-duties-following-vulgar-texts",
+    "news_item_snippet": "A mistrial was declared in the Karen Read murder trial on Monday. The Norfolk County District Attorney&#39;s Office says it intends on re-trying the case&nbsp;...",
+    "news_item_url": "https://www.nbcboston.com/news/local/karen-read-murder-trial-2/3416241/",
     "picture_source": "NBC News",
     "approx_traffic": "200,000+"
   },
@@ -103,10 +123,10 @@
     "country": "India",
     "title": "Hathras",
     "pubDate": "Tue, 02 Jul 2024 18:30:00 +0530",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQoVa4ukCsoUiHpA1DWtIsoVoIgskPYjdR3N_KW-_W8Ji92dq5IScDdK6-WggSP4F_SeFrq7Jm2",
-    "news_item_snippet": "The satsang was held in Hathras. As the event concluded, a stampede ensued, resulting in the death of 116 people, including women and children.",
-    "news_item_url": "https://www.indiatoday.in/india/story/uttar-pradesh-hathras-stampede-religious-event-death-injured-2561211-2024-07-02",
-    "picture_source": "\u0926\u0948\u0928\u093f\u0915 \u091c\u093e\u0917\u0930\u0923",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQSmlXHFXsxa0J0jmSzih9RZmhjKGHsAb3ZSqb0vzIMhveZEh0pIs_xMvfqldDqZdbyUPY1bqcM",
+    "news_item_snippet": "\u0939\u093e\u0925\u0930\u0938 \u0915\u0940 \u0926\u0941\u0930\u094d\u0918\u091f\u0928\u093e \u092a\u0930 \u092e\u0941\u0916\u094d\u092f\u092e\u0902\u0924\u094d\u0930\u0940 \u0928\u0947 \u0926\u0941\u0903\u0916 \u091c\u0924\u093e\u092f\u093e \u0939\u0948 \u0914\u0930 \u0917\u0939\u0928 \u091c\u093e\u0902\u091a \u0915\u0947 \u0928\u093f\u0930\u094d\u0926\u0947\u0936 \u0926\u093f\u090f \u0939\u0948\u0902\u0964 \u0909\u0928\u094d\u0939\u094b\u0902\u0928\u0947 \u092e\u0943\u0924\u0915\u094b\u0902 \u0915\u0947 \u092a\u0930\u093f\u091c\u0928\u094b\u0902 \u0915\u094b 2-2 \u0932\u093e\u0916 \u0924\u0925\u093e \u0918\u093e\u092f\u0932\u094b\u0902 \u0915\u094b&nbsp;...",
+    "news_item_url": "https://www.jagran.com/uttar-pradesh/hathras-hathras-stampede-list-of-people-who-lost-their-lives-in-hathras-stampede-cm-yogi-adityanath-announced-compensation-23751134.html",
+    "picture_source": "India Today",
     "approx_traffic": "200,000+"
   },
   {
@@ -134,19 +154,9 @@
     "title": "Romania vs Netherlands",
     "pubDate": "Tue, 02 Jul 2024 21:30:00 +0530",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTpmlTKkanjOO9as89qmI6cmY0Quo6L2MeC_X8F3HvJVG6Rn_wY0tRhA-eG98l0MrrLHHSOZ9LX",
-    "news_item_snippet": "Take a look at all the major talking points from the Romania and Netherlands, high profile Euro 2024 round of 16 match played at the Allianz Arena in&nbsp;...",
-    "news_item_url": "https://sportstar.thehindu.com/football/romania-vs-netherlands-live-euro-2024-updates-major-talking-points-top-moments-stats-records-round-of-16-rom-v-ned-news/article68360511.ece",
+    "news_item_snippet": "The Round of 16 at Euro 2024 continued on Tuesday, as the Netherlands beat Romania, 3-0, advancing to the quarterfinals. Here are the top moments from the&nbsp;...",
+    "news_item_url": "https://www.foxsports.com/live-blog/soccer/romania-vs-netherlands-live-updates-score-top-moments-from-euro-2024",
     "picture_source": "NDTVSports.com",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "India",
-    "title": "Austria vs t\u00fcrkiye",
-    "pubDate": "Tue, 02 Jul 2024 14:30:00 +0530",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRPgioBB6Cp0UB5gU3JTjqeDf2wbWO5NZ_T7YJF2Lurrw-RmWJEjwj1sPTN-daVxZ2kvR4BsckO",
-    "news_item_snippet": "Romania topped Group E, boosted by a 3-0 win over Ukraine in their opening match. They will be hoping to reignite their goalscoring form, having only scored a&nbsp;...",
-    "news_item_url": "https://sports.ndtv.com/uefa-euro-2024/austria-vs-turkey-live-streaming-euro-2024-round-of-16-live-telecast-when-and-where-to-watch-6018230",
-    "picture_source": "Sportstar",
     "approx_traffic": "50,000+"
   },
   {
@@ -171,16 +181,6 @@
   },
   {
     "country": "India",
-    "title": "UPSC Prelims Result 2024",
-    "pubDate": "Mon, 01 Jul 2024 13:30:00 +0530",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTh1BSULNxvOp4hZwo2By_-AKk4DAIcTbcBp5fOIf-T29aF337qVdGCIik5X9OITEuKCqkK7K-4",
-    "news_item_snippet": "\u0938\u0902\u0918 \u0932\u094b\u0915 \u0938\u0947\u0935\u093e \u0906\u092f\u094b\u0917 \u092f\u093e\u0928\u0940 \u092f\u0942\u092a\u0940\u090f\u0938\u0938\u0940 \u0928\u0947 \u0906\u091c 1 \u091c\u0941\u0932\u093e\u0908 2024 \u0915\u094b \u0938\u093f\u0935\u093f\u0932 \u0938\u0947\u0935\u093e (\u092a\u094d\u0930\u093e\u0930\u0902\u092d\u093f\u0915) \u092a\u0930\u0940\u0915\u094d\u0937\u093e 2024 \u0915\u0947 \u092a\u0930\u093f\u0923\u093e\u092e \u091c\u093e\u0930\u0940 \u0915\u0930 \u0926\u093f\u090f \u0939\u0948\u0902\u0964",
-    "news_item_url": "https://www.jansatta.com/education/upsc-prelims-result-2024-out-live-civil-services-prelims-result-declared-at-upsc-govin-heres-direct-link-to-check/3450414/",
-    "picture_source": "Hindustan \u0939\u093f\u0902\u0926\u0940",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "India",
     "title": "Wimbledon",
     "pubDate": "Mon, 01 Jul 2024 00:30:00 +0530",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcR3BtyyxhxR0EtOT5NEogkvX3770IqgH6oKh-hQI_7-UPOwgs_DXhrexQb7PdHxZDofn86xGUMb",
@@ -190,23 +190,13 @@
     "approx_traffic": "100,000+"
   },
   {
-    "country": "Argentina",
-    "title": "Uruguay vs Estados Unidos",
-    "pubDate": "Mon, 01 Jul 2024 12:00:00 -0300",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcT5VZUHfuUGsbcnNT_wjoP9qQmhZUVybUXmBBeFWeYUru3BeI7jlqk5jfuP6LmqgEF-Ce_NpZst",
-    "news_item_snippet": "Por el Grupo A, fue victoria 1-0 de los uruguayos con un gol de Santiago Ostolaza en el estadio Bellavista de Ambato. Adem\u00e1s, igualaron en los \u00faltimos 2 duelos&nbsp;...",
-    "news_item_url": "https://www.elgrafico.com.ar/articulo/copa-america/78799/10-datos-de-la-previa-de-uruguay-vs-estados-unidos",
-    "picture_source": "TNT Sports",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "Argentina",
-    "title": "Bolivia  Panam\u00e1",
-    "pubDate": "Mon, 01 Jul 2024 22:00:00 -0300",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTOzEeOySVj0YpVWNqUHT_SL00g9N0udcFGc15XBBuooiBPKqdZ9z0R4UAASEjtfv6Ijv_gv6Zb",
-    "news_item_snippet": "Con goles de Fajardo, Guerrero y Yanis, los paname\u00f1os dejaron fuera de competencia a Estados Unidos, que decepcion\u00f3 y no cumpli\u00f3 el objetivo.",
-    "news_item_url": "https://www.espn.com.ar/futbol/copa-america/nota/_/id/13857410/panama-gano-a-bolivia-hizo-historia-clasifico-primera-vez-cuartos-de-final",
-    "picture_source": "TyC Sports",
+    "country": "India",
+    "title": "UPSC Prelims Result 2024",
+    "pubDate": "Mon, 01 Jul 2024 13:30:00 +0530",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTh1BSULNxvOp4hZwo2By_-AKk4DAIcTbcBp5fOIf-T29aF337qVdGCIik5X9OITEuKCqkK7K-4",
+    "news_item_snippet": "\u0938\u0902\u0918 \u0932\u094b\u0915 \u0938\u0947\u0935\u093e \u0906\u092f\u094b\u0917 \u092f\u093e\u0928\u0940 \u092f\u0942\u092a\u0940\u090f\u0938\u0938\u0940 \u0928\u0947 \u0906\u091c 1 \u091c\u0941\u0932\u093e\u0908 2024 \u0915\u094b \u0938\u093f\u0935\u093f\u0932 \u0938\u0947\u0935\u093e (\u092a\u094d\u0930\u093e\u0930\u0902\u092d\u093f\u0915) \u092a\u0930\u0940\u0915\u094d\u0937\u093e 2024 \u0915\u0947 \u092a\u0930\u093f\u0923\u093e\u092e \u091c\u093e\u0930\u0940 \u0915\u0930 \u0926\u093f\u090f \u0939\u0948\u0902\u0964",
+    "news_item_url": "https://www.jansatta.com/education/upsc-prelims-result-2024-out-live-civil-services-prelims-result-declared-at-upsc-govin-heres-direct-link-to-check/3450414/",
+    "picture_source": "Hindustan \u0939\u093f\u0902\u0926\u0940",
     "approx_traffic": "100,000+"
   },
   {
@@ -231,23 +221,23 @@
   },
   {
     "country": "Brazil",
-    "title": "Rom\u00eania x Holanda",
-    "pubDate": "Tue, 02 Jul 2024 11:00:00 -0500",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRTWkbS5qSJO0OLKb85BRWN8U1zc91okO-hnlCH9iZcfTQ367kHUkwjgLn4E9u8ihffxHBbOMMk",
-    "news_item_snippet": "Rom\u00eania e Holanda se enfrentam nesta ter\u00e7a-feira (2), \u00e0s 13h (hor\u00e1rio de Bras\u00edlia), na Allianz Arena, em Munique (ALE), em jogo v\u00e1lido pelas oitavas de&nbsp;...",
-    "news_item_url": "https://www.lance.com.br/futebol-internacional/romenia-x-holanda-onde-assistir-ao-vivo-horario-e-provaveis-escalacoes-do-jogo-pela-eurocopa.html",
-    "picture_source": "CNN Brasil",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Brazil",
     "title": "Goi\u00e1s x Am\u00e9rica-MG",
     "pubDate": "Tue, 02 Jul 2024 14:00:00 -0500",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQ7Nfkk0wh0Gp4EPub0CkZ9V2aagq3Y8QqUds7X7Wc1Jhrg5vZbf2u37gf8w9SKQJaswXJTYpOx",
     "news_item_snippet": "Dieguinho bate falta da intermedi\u00e1ria al\u00e7ando na entrada da \u00e1rea pela esquerda e Fl\u00e1vio tira de cabe\u00e7a. 35&#39;. Edson Felipe domina pressionado perto do meio&nbsp;...",
     "news_item_url": "https://www.estadao.com.br/esportes/futebol/goias-x-america-mg-brasileiro-serie-b-2024/",
     "picture_source": "globoesporte.com",
-    "approx_traffic": "50,000+"
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "Brazil",
+    "title": "Rom\u00eania x Holanda",
+    "pubDate": "Tue, 02 Jul 2024 11:00:00 -0500",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRTWkbS5qSJO0OLKb85BRWN8U1zc91okO-hnlCH9iZcfTQ367kHUkwjgLn4E9u8ihffxHBbOMMk",
+    "news_item_snippet": "Rom\u00eania e Holanda se enfrentam nesta ter\u00e7a-feira (2), \u00e0s 13h (hor\u00e1rio de Bras\u00edlia), na Allianz Arena, em Munique (ALE), em jogo v\u00e1lido pelas oitavas de&nbsp;...",
+    "news_item_url": "https://www.lance.com.br/futebol-internacional/romenia-x-holanda-onde-assistir-ao-vivo-horario-e-provaveis-escalacoes-do-jogo-pela-eurocopa.html",
+    "picture_source": "CNN Brasil",
+    "approx_traffic": "100,000+"
   },
   {
     "country": "South Korea",
@@ -271,11 +261,11 @@
   },
   {
     "country": "France",
-    "title": "Autriche-Turquie",
+    "title": "Autriche Turquie",
     "pubDate": "Tue, 02 Jul 2024 13:00:00 +0200",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSY1zS28KuOe03GC9gbfBAt3IXcTKsliMTRMY02_FpP_SMWWj5U7uHFMIrYyWG6PaZf-VDoe-j8",
-    "news_item_snippet": "Autrichiens et Turcs se retrouvent pour ce qui est, peut-\u00eatre, le huiti\u00e8me de finale le plus ouvert de cet euro 2024. Des retrouvailles qui interviennent un&nbsp;...",
-    "news_item_url": "https://www.ladepeche.fr/2024/07/02/direct-autriche-turquie-qui-ira-chercher-le-dernier-ticket-pour-les-quarts-de-finale-suivez-le-match-en-direct-12055957.php",
+    "news_item_snippet": "[VID\u00c9O] \u25b6\ufe0f \u00c9trill\u00e9e 6-1 par l&#39;Autriche en mars dernier, la Turquie s&#39;est veng\u00e9e (1-2), mardi 2 juillet, en arrachant sa qualification pour les quarts de&nbsp;...",
+    "news_item_url": "https://www.tf1info.fr/euro/football-euro-2024-autriche-turquie-en-direct-avant-match-composition-coulisses-qui-sera-la-surprise-des-quarts-de-finale-2306605.html",
     "picture_source": "L'\u00c9quipe.fr",
     "approx_traffic": "200,000+"
   },
@@ -304,8 +294,8 @@
     "title": "Pogacar",
     "pubDate": "Tue, 02 Jul 2024 15:00:00 +0200",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQ93KZcNrG3bdzAESAcc0ur1ifrN3pxZwc3lOvHlQcH-AMbg_GeGKjxD9t_TvpHkOPZ2drcjr5e",
-    "news_item_snippet": "Le m\u00e9nage est fait. Tadej Pogacar, escort\u00e9 par une impressionnante \u00e9quipe UAE, a repris le maillot jaune du Tour de France en s&#39;imposant en solitaire mardi&nbsp;...",
-    "news_item_url": "https://information.tv5monde.com/sport/tour-de-france-pogacar-fait-le-menage-dans-le-galibier-2728230",
+    "news_item_snippet": "Tadej Pogacar a remport\u00e9 la premi\u00e8re \u00e9tape de montagne, mardi, et r\u00e9cup\u00e9r\u00e9 le Maillot Jaune en l\u00e2chant notamment un Jonas Vingegaard rassurant dans le&nbsp;...",
+    "news_item_url": "https://www.lequipe.fr/Cyclisme-sur-route/Actualites/Le-barometre-des-favoris-du-tour-de-france-pogacar-tranchant-vingegaard-rassure-mais-esseule/1479531",
     "picture_source": "Eurosport.fr",
     "approx_traffic": "50,000+"
   },
@@ -323,10 +313,10 @@
     "country": "Germany",
     "title": "Rum\u00e4nien Niederlande",
     "pubDate": "Tue, 02 Jul 2024 01:00:00 +0200",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcS5jmXL1mo9GtxNzzaj_6OvXOmBuSr1YPL3Ure87or0_NUMmh7YRaL5H7WSyBWc3G1M140MG3sF",
-    "news_item_snippet": "Die Zusammenfassung: So verlief das Achtelfinale zwischen Rum\u00e4nien und der Niederlande. Kommentator: Gerd Gottlob. Enth\u00e4lt virtuelle Werbung.",
-    "news_item_url": "https://www.sportschau.de/fussball/uefa-euro-2024/rumaenien-gegen-die-niederlande-die-highlights,video-em-2024-rumaenien-niederlande-zusammenfassung-100.html",
-    "picture_source": "ZDFheute",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcR7FsprexfY2oxukje88pcy-zPIFkBlW5yGC1jNGvYGVAWZ6ICqE2-bBrOl5-zEq9A2sfL3sym_",
+    "news_item_snippet": "Die Niederlande stehen im EM-Viertelfinale. Im Achtelfinale gegen Rum\u00e4nien l\u00e4sst der Favorit viele Chancen liegen, siegt aber am Ende klar 3:0.",
+    "news_item_url": "https://www.zdf.de/nachrichten/sport/fussball-em-2024-achtelfinale-niederlande-rumaenien-100.html",
+    "picture_source": "ZEIT ONLINE",
     "approx_traffic": "200,000+"
   },
   {
@@ -404,8 +394,8 @@
     "title": "Austria-Turchia",
     "pubDate": "Tue, 02 Jul 2024 13:00:00 +0200",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQ_H9OL-h29j_FnlxJh03EkvIvBlMZIsg2JhQ7RdF20ugcEhA8VQWKxMIPSmmmbqia2r_9MAuoo",
-    "news_item_snippet": "Austria Turchia su Sky Sport: scopri tutti gli aggiornamenti sulla partita di Europei in tempo reale.",
-    "news_item_url": "https://sport.sky.it/calcio/europei/partite/2024/ottavi/austria-turchia/risultato-gol",
+    "news_item_snippet": "EURO 2024 - Montella elimina Rangnick. Decide la doppietta di Demiral (entrambe le reti da corner), inutile la rete di Gregoritsch.",
+    "news_item_url": "https://www.eurosport.it/calcio/campionati-europei/2024/austria-turchia-1-2-doppietta-di-demiral-la-squadra-di-montella-ai-quarti-di-finale_sto10218970/story.shtml",
     "picture_source": "Rai News",
     "approx_traffic": "200,000+"
   },
@@ -450,46 +440,6 @@
     "approx_traffic": "200,000+"
   },
   {
-    "country": "Mexico",
-    "title": "Dia del Ingeniero",
-    "pubDate": "Mon, 01 Jul 2024 08:00:00 -0600",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSSXSzK1HZGu9Jxh1zne-eTNZ76w_bCBkIOkXHaLpyRz5HGIn3WtmCkeh2e9NFyXa7tieeqJsu6",
-    "news_item_snippet": "Conoce cu\u00e1ndo es d\u00eda del ingeniero en M\u00e9xico y si en esta fecha tambi\u00e9n se celebra a las mujeres que tienen esta profesi\u00f3n. lun 01 julio 2024 11:22 AM.",
-    "news_item_url": "https://expansion.mx/carrera/2024/07/01/cuando-es-dia-del-ingeniero-mexico",
-    "picture_source": "Universidad An\u00e1huac M\u00e9xico",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "Mexico",
-    "title": "Bolivia  Panam\u00e1",
-    "pubDate": "Mon, 01 Jul 2024 17:00:00 -0600",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTonYbXqD9uJz5xiyOQPDknOpJajSECaYcgyrnFwz4adiuQNDgSx-NL2H5dZ0vNCfmWiqvdgtBE",
-    "news_item_snippet": "Los canaleros est\u00e1n obligados al triunfo para clasificar a los Cuartos de Final de la Copa Am\u00e9rica 2024; los bolivianos intentar\u00e1n despedirse de la manera&nbsp;...",
-    "news_item_url": "https://www.tudn.com/futbol/copa-america-2024/partidos-en-vivo/bolivia-vs-panama/bolivia-vs-panama-horario-y-donde-ver-partido-copa-america-2024",
-    "picture_source": "Univision",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Mexico",
-    "title": "Austria - Turqu\u00eda",
-    "pubDate": "Mon, 01 Jul 2024 23:00:00 -0600",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTZPhorITJyE91KOKK6gzI7AZLHGWwCr7wnskCHYTJJ7fWiA4TpYdE5z_cKDDb4pjzHJk8jJIcK",
-    "news_item_snippet": "Con dos goles de Merih Demiral, los turcos siguen como el conjunto revelaci\u00f3n en esta Eurocopa tras imponerse en Leipzig y citarse con la Oranje en la&nbsp;...",
-    "news_item_url": "https://www.tudn.com/futbol/eurocopa-2024/partidos-en-vivo/austria-vs-turquia/euro-2024-turquia-elimina-austria-jugara-ante-paises-bajos-cuartos-de-final",
-    "picture_source": "MARCA",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Mexico",
-    "title": "Tormenta tropical Chris",
-    "pubDate": "Mon, 01 Jul 2024 01:00:00 -0600",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQxXPf_L8RVIAXsejbUMnuYFSnA1oTDGejeXYYXlWjwGH1mG_5uopE1_XL5_TzcwG_iPMYBAkbA",
-    "news_item_snippet": "Pese a que los mexicanos agradecieron por el cese del calor, la Tormenta Tropical Chris pas\u00f3 por varios poblados del pa\u00eds y dej\u00f3 varios estados afectados, aqu\u00ed&nbsp;...",
-    "news_item_url": "https://www.infobae.com/mexico/2024/07/02/estos-son-los-estados-que-resultaron-mas-afectados-por-la-tormenta-tropical-chris-en-mexico/",
-    "picture_source": "New York Times en Espa\u00f1ol",
-    "approx_traffic": "50,000+"
-  },
-  {
     "country": "Spain",
     "title": "Austria turquia",
     "pubDate": "Tue, 02 Jul 2024 22:00:00 +0200",
@@ -510,12 +460,22 @@
     "approx_traffic": "100,000+"
   },
   {
+    "country": "Spain",
+    "title": "Eslovenia",
+    "pubDate": "Tue, 02 Jul 2024 19:00:00 +0200",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSjSYO8ZlNS2gAAD8YbSEodmbPiMuuwpOOjSCDdsfQhoYORyatvq3vLZB9dmN9UkYWLdsM_v3q3",
+    "news_item_snippet": "Croacia ha superado con claridad a Eslovenia en el primer partido del Preol\u00edmpico con una hist\u00f3rica actuaci\u00f3n de Dario Saric.",
+    "news_item_url": "https://www.gigantes.com/jjoo-2024-baloncesto/croacia-eslovenia-preolimpico-primer-partido/",
+    "picture_source": "Mundo Deportivo",
+    "approx_traffic": "50,000+"
+  },
+  {
     "country": "United Kingdom",
     "title": "Austria vs Turkey",
     "pubDate": "Tue, 02 Jul 2024 20:00:00 +0100",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRB7Tfcr0YXBrifOPr8-HEYbGKyin_hE4LE_UBJDau3gTP2GseGMuI-N6B2uWXon7ucc-h1jGRy",
-    "news_item_snippet": "UEFA European Championship &middot; Turkey beat Austria 2-1 in the round of 16 at the UEFA European Football Championship. &middot; Turkey took the lead in the first minute&nbsp;...",
-    "news_item_url": "https://www.aljazeera.com/sports/liveblog/2024/7/2/live-austria-vs-turkey-uefa-euro-2024-round-of-16",
+    "news_item_snippet": "Follow live text commentary, score updates and match stats from Austria vs Turkey in the UEFA Euro 2024.",
+    "news_item_url": "https://www.bbc.com/sport/football/live/cpv35e6dypet",
     "picture_source": "The Independent",
     "approx_traffic": "200,000+"
   },
@@ -533,10 +493,10 @@
     "country": "United Kingdom",
     "title": "Romania vs Netherlands",
     "pubDate": "Tue, 02 Jul 2024 17:00:00 +0100",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSqAPwAD7rDUAJCNW_VQ1kifnRr-cNU-6gnmqjX5yg6s-X1kxX7nsvq1EUhuv7qDxegFe59GGcY",
-    "news_item_snippet": "For the first time in 16 years, Netherlands have made it through to a European Championship quarter-final. For a nation which has won the Euros before it has&nbsp;...",
-    "news_item_url": "https://www.independent.co.uk/sport/football/romania-netherlands-live-stream-score-result-2024-b2572390.html",
-    "picture_source": "BBC Sport",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcS5JACc7SGTmh-T6zWxUpVcNyaWZj747WX8sx-DJ8jaMtAvUXNHiJUZZfGwBfOHRN_n715VTfNQ",
+    "news_item_snippet": "Substitute Donyell Malen scored twice and Cody Gakpo got his third goal of Euro 2024 to help the Netherlands see off a spirited Romania and reach the&nbsp;...",
+    "news_item_url": "https://www.bbc.co.uk/sport/football/live/c7204xy3zg1t",
+    "picture_source": "The Independent",
     "approx_traffic": "100,000+"
   },
   {
