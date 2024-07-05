@@ -1,11 +1,21 @@
 [
   {
     "country": "United States",
+    "title": "Spain vs Germany",
+    "pubDate": "Fri, 05 Jul 2024 06:00:00 -0700",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQ1I0raLElSw57pu6bUeOVhzaJESdieTs-TzW56X_tREQcFbovwYQuic3oAbtHOvhyPs_RsUHCO",
+    "news_item_snippet": "Follow our build-up and text commentary as favourites Spain face host Germany for a Euro 2024 semifinal place.",
+    "news_item_url": "https://www.aljazeera.com/sports/liveblog/2024/7/5/live-spain-vs-germany-uefa-euro-2024-quarterfinal-match",
+    "picture_source": "FOXSports.com",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "United States",
     "title": "Keir Starmer",
     "pubDate": "Thu, 04 Jul 2024 09:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRYLrWBTWJyUjDEK7heCrYKCE6PrmyHVWGh5edBIRfZHNsjl6MydKIDFMqAGQN_ENm9YBIQ9CZF",
-    "news_item_snippet": "With the U.K. Labour Party returning to power after 14 years of Conservative rule, the main appeal of the man taking power may be his dullness.",
-    "news_item_url": "https://www.cbsnews.com/news/uk-election-2024-results-who-is-keir-starmer/",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQJSEmTS_gH11tdDlTnB7vcG_1e0YdwRehnWKOsIj-VpBFJlWDbTEaGU9LObiQi0ShZSg59aBcf",
+    "news_item_snippet": "For someone often derided as dull, Keir Starmer has delivered a sensational election result. Starmer has led Britain&#39;s Labour Party to a landslide election&nbsp;...",
+    "news_item_url": "https://apnews.com/article/uk-election-keir-starmer-profile-labour-e98d16e0810273f6041b61747e084aae",
     "picture_source": "ABC News",
     "approx_traffic": "500,000+"
   },
@@ -23,20 +33,10 @@
     "country": "United States",
     "title": "Kendrick Lamar",
     "pubDate": "Thu, 04 Jul 2024 22:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTVU2j_t0BcAyHp85KkZW330DI-b0jaryH25zyhPZZUeQAV7WaFWBbmWO2J223EAqh0IF4rLgVh",
-    "news_item_snippet": "Kendrick Lamar drops the highly anticipated video for his Billboard Hot 100-topping diss track.",
-    "news_item_url": "https://www.billboard.com/music/rb-hip-hop/kendrick-lamar-not-like-us-video-1235725069/",
-    "picture_source": "Variety",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Beverly Hills Cop: Axel Foley",
-    "pubDate": "Thu, 04 Jul 2024 07:00:00 -0700",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSY--xo5v7Luf5Rzvv8g6C9JAOc0AadHAWWnPmCYD2TOJ7mjGsnW0YNWiuL5mVJ64DX672zC-GQ",
-    "news_item_snippet": "Eddie Murphy dubbed the original movie the first Black blockbuster, but its significance in the industry is way more complicated\u2014as the new Netflix sequel&nbsp;...",
-    "news_item_url": "https://www.thedailybeast.com/obsessed/the-beverly-hills-cop-legacy-is-more-problematic-than-you-remember",
-    "picture_source": "TheWrap",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRq72TtcuH1LQQWF4LM_606ZcMHKuw-aKMmJcsTly9Qj1qzwTAMXnqRY7lwffs5h3M6pADjlI2k",
+    "news_item_snippet": "Kendrick Lamar turned the visual of his Drake diss track into a family affair.",
+    "news_item_url": "https://abc7.com/post/kendrick-lamar-drops-not-like-us-video-showcasing/15032324/",
+    "picture_source": "NBC News",
     "approx_traffic": "100,000+"
   },
   {
@@ -51,13 +51,23 @@
   },
   {
     "country": "United States",
-    "title": "Ryan Garcia",
-    "pubDate": "Thu, 04 Jul 2024 20:00:00 -0700",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSCXfWA-uSe8L6JQQocDTNZ0mqIUUdR94OSndBc-FZ4hpMACQynKUk8A2F7iBeWlGKg4LmuA-OM",
-    "news_item_snippet": "Ryan Garcia repeatedly used racial slurs against Black people and disparaged Muslims in comments livestreamed on social media Thursday.",
-    "news_item_url": "https://www.nbcnewyork.com/news/sports/ryan-garcia-expelled-wbc-racial-slurs/5567861/",
-    "picture_source": "CNN",
+    "title": "Beverly Hills Cop: Axel Foley",
+    "pubDate": "Thu, 04 Jul 2024 07:00:00 -0700",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSY--xo5v7Luf5Rzvv8g6C9JAOc0AadHAWWnPmCYD2TOJ7mjGsnW0YNWiuL5mVJ64DX672zC-GQ",
+    "news_item_snippet": "Review by Brian Lowry, CNN. (CNN) \u2014 \u201cBeverly Hills Cop\u201d spawned a trio of movies, but more significantly, the 1984 film capped off a string of hits (after&nbsp;...",
+    "news_item_url": "https://seattlemedium.com/axel-f-beverly-hills-cop-review/",
+    "picture_source": "TheWrap",
     "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Portugal vs France",
+    "pubDate": "Thu, 04 Jul 2024 21:00:00 -0700",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSpNRT6n1NQyeHz4HUTlY1cp1qpV7ODBtuL0OQ_1CfsWaW0jmyuvHds4P23GpEm2VNp3Hd_uLyn",
+    "news_item_snippet": "Jon Eimer has locked in his best bets for Friday&#39;s Portugal vs. France matchup in the Euro 2024 quarterfinals.",
+    "news_item_url": "https://www.cbssports.com/soccer/news/france-vs-portugal-prediction-odds-start-time-uefa-euro-2024-quarterfinal-picks-from-proven-soccer-expert/",
+    "picture_source": "Aljazeera.com",
+    "approx_traffic": "50,000+"
   },
   {
     "country": "United States",
@@ -71,12 +81,12 @@
   },
   {
     "country": "United States",
-    "title": "Vanessa Hudgens",
+    "title": "Saks Fifth Avenue Neiman Marcus",
     "pubDate": "Thu, 04 Jul 2024 07:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTuKHpDiqfVBVW1fGV0D2Sst1S3B40nbvH-dlo8Qe_0u-uGBOuVkpGst3PVy9C3P4fzmIuGcn0Y",
-    "news_item_snippet": "Vanessa Hudgens and husband MLB shortstop Cole Tucker welcomed their first child together this week, with Hudgens saying all are well.",
-    "news_item_url": "https://www.billboard.com/music/music-news/vanessa-hudgens-husband-cole-tucker-welcome-first-baby-1235725153/",
-    "picture_source": "NBC News",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSbqFCfrWBrQ01wSoDWEiEDsZGIQwC7Hnrmg0Bc2eX0pl_Ptcnslps03d7-jAoQgj1LyabtsJEK",
+    "news_item_snippet": "Saks Fifth Avenue and Neiman Marcus plan to create a luxury department store empire. And Amazon wants to help.",
+    "news_item_url": "https://www.cnn.com/2024/07/05/business/saks-fifth-avenue-neiman-marcus-amazon/index.html",
+    "picture_source": "KFDA",
     "approx_traffic": "50,000+"
   },
   {
@@ -90,33 +100,33 @@
     "approx_traffic": "1,000,000+"
   },
   {
-    "country": "United States",
-    "title": "Joey Chestnut",
-    "pubDate": "Wed, 03 Jul 2024 19:00:00 -0700",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQyUP0el5Gw_DceDNMYypivKnDeNS7jis39E9tY6J2f3GVAa3q23Tg8idl8Oe4aaZ6ui3kW1hmx",
-    "news_item_snippet": "The El Paso crowd&#39;s enthusiasm fueled Chestnut&#39;s performance, and he expressed his gratitude for their support.",
-    "news_item_url": "https://www.elpasotimes.com/story/news/2024/07/05/joey-chestnut-claims-victory-at-fort-bliss-devours-57-hot-dogs/74307994007/",
-    "picture_source": "USA TODAY",
-    "approx_traffic": "200,000+"
-  },
-  {
     "country": "India",
     "title": "South Africa Women vs India Women",
     "pubDate": "Fri, 05 Jul 2024 19:30:00 +0530",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRjcPDIDD3sPqCnKYQDVW2I7N3V_gHNJmgzXaDNQgIOgAe8ZIQUN_WOGQWi0UAHxOv2IVGi_1Ro",
-    "news_item_snippet": "IND v SA [W] 2024, IND Women vs SA Women Match Report: India opt for a three-pronged spin attack, with no place for Patil in the XI.",
-    "news_item_url": "https://www.espncricinfo.com/series/india-women-vs-south-africa-women-2024-1434282/india-women-vs-south-africa-women-1st-t20i-1434291/match-report",
+    "news_item_snippet": "India Women vs South Africa Women Live Score: South Africa Women beat India Women by 12 runs | Crickit.",
+    "news_item_url": "https://www.hindustantimes.com/cricket/india-women-vs-south-africa-women-live-score-1st-t20i-of-south-africa-women-tour-of-india-2024-final-updates-today-05-jul-2024-101720183156574.html",
     "picture_source": "Sportstar",
-    "approx_traffic": "200,000+"
+    "approx_traffic": "500,000+"
   },
   {
     "country": "India",
     "title": "Portugal vs France",
     "pubDate": "Fri, 05 Jul 2024 11:30:00 +0530",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSyrm_Rc6HUYYSxlbVGUj4014GDnhghrhhB0AH1PrrR5Xsgs40TLuD9Exb8Lue0tEFEZOLYslTl",
-    "news_item_snippet": "The forward lines of France and Portugal need to fire up again for their quarterfinal meeting at the European Championship on Friday, where every little&nbsp;...",
-    "news_item_url": "https://sportstar.thehindu.com/football/portugal-vs-france-euro-2024-key-stats-numbers-ronaldo-mbappe-goals-por-v-fra-quarterfinal-analysis/article68369707.ece",
+    "news_item_snippet": "Both France and Portugal have dominated matches in the majority of the tournament, with Portugal&#39;s 3-0 win against Turkey being the only bright spot in an&nbsp;...",
+    "news_item_url": "https://sportstar.thehindu.com/football/portugal-vs-france-euro-2024-quarterfinal-tactical-preview-strategy-players-formation-tactics-mbappe-ronaldo/article68371093.ece",
     "picture_source": "Business Standard",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "India",
+    "title": "Bumrah",
+    "pubDate": "Fri, 05 Jul 2024 13:30:00 +0530",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQDs0AiW2TXMjKii-saxu2erh-jSqGR9pYs3vYkVNPBUm8quV5OrqQwALm6Uwhd_AWJOBxycHXT",
+    "news_item_snippet": "Jasprit Bumrah, praised by Ravi Shastri, impressed in 2019 with 13 wickets against the West Indies. Known for his unique release and hard length deliv.",
+    "news_item_url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/new-ball-in-our-era-ravi-shastri-reveals-the-ultimate-compliment-for-jasprit-bumrah/articleshow/111507311.cms",
+    "picture_source": "CNBCTV18",
     "approx_traffic": "50,000+"
   },
   {
@@ -134,8 +144,8 @@
     "title": "Mirzapur Season 3",
     "pubDate": "Thu, 04 Jul 2024 23:30:00 +0530",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTymlhkz3zyrJDTiqxI6DXbI0LPtYM0PTf6LEq7ZBTNYe-F5rSoZNtlZdCqY2dddXEiYVvZfopK",
-    "news_item_snippet": "\u0c24\u0c3e\u0c30\u0c3e\u0c17\u0c23\u0c02: \u0c2a\u0c02\u0c15\u0c1c\u0c4d \u0c24\u0c4d\u0c30\u0c3f\u0c2a\u0c3e\u0c20\u0c3f, \u0c05\u0c32\u0c40 \u0c2b\u0c1c\u0c32\u0c4d, \u0c36\u0c4d\u0c35\u0c47\u0c24\u0c3e \u0c24\u0c4d\u0c30\u0c3f\u0c2a\u0c3e\u0c20\u0c3f \u0c36\u0c30\u0c4d\u0c2e, \u0c30\u0c38\u0c3f\u0c15 \u0c26\u0c41\u0c17\u0c32\u0c4d, \u0c35\u0c3f\u0c1c\u0c2f\u0c4d \u0c35\u0c30\u0c4d\u0c2e, \u0c07\u0c37\u0c3e \u0c24\u0c32\u0c4d\u0c35\u0c3e\u0c30\u0c4d, \u0c05\u0c02\u0c1c\u0c41\u0c2e\u0c4d \u0c36\u0c30\u0c4d\u0c2e, \u0c2a\u0c4d\u0c30\u0c3f\u0c2f\u0c3e\u0c02\u0c37\u0c41 \u0c2a\u0c48\u0c28\u0c4d\u0c2f\u0c41\u0c32\u0c3f,&nbsp;...",
-    "news_item_url": "https://telugu.filmibeat.com/reviews/mirzapur-season-3-review-and-rating-140813.html",
+    "news_item_snippet": "The much-anticipated return of Mirzapur hits Prime Video on July 5 at 12:00 a.m. Over three years since the dramatic finale of Season 2, in which Kaleen Bhaiya&nbsp;...",
+    "news_item_url": "https://www.socialsamosa.com/indian-social-media-case-studies/movie-marketing/mirzapur-season-3-marketing-4795514",
     "picture_source": "Amazon India Blog",
     "approx_traffic": "500,000+"
   },
@@ -144,19 +154,29 @@
     "title": "Rishi Sunak",
     "pubDate": "Thu, 04 Jul 2024 15:30:00 +0530",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRa8_Cd1UlpjjGL23JH0t2NqVGmfzhxIChInLpeXiqhOAGwEam0162GJ7uOCAd2AXSNTcuMILBd",
-    "news_item_snippet": "India News: NEW DELHI: Prime Minister Narendra Modi on Friday thanked outgoing British Prime Minister Rishi Sunak for deepening ties between the two&nbsp;...",
-    "news_item_url": "https://timesofindia.indiatimes.com/india/thank-you-for-pm-modi-wishes-outgoing-british-pm-rishi-sunak-the-best/articleshow/111510825.cms",
+    "news_item_snippet": "PM Modi extended congratulations to Keir Starmer on his historic victory in the UK general election. He also thanked outgoing Prime Minister Rishi Sunak for&nbsp;...",
+    "news_item_url": "https://www.indiatoday.in/india/story/pm-modi-congratulates-keir-starmer-on-massive-uk-win-praises-rishi-sunak-2562789-2024-07-05",
     "picture_source": "Business Today",
     "approx_traffic": "500,000+"
   },
   {
     "country": "India",
-    "title": "CTET",
-    "pubDate": "Thu, 04 Jul 2024 18:30:00 +0530",
+    "title": "CTET Admit Card",
+    "pubDate": "Thu, 04 Jul 2024 15:30:00 +0530",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRUV4DnNAbeNb-0eUWUFy7u_T0uWf2syiqlJK6TbJ0Olc5iXjMRnnECgar3pUuBZIyuJwcRB2Rw",
-    "news_item_snippet": "\u0c38\u0c46\u0c02\u0c1f\u0c4d\u0c30\u0c32\u0c4d\u200c \u0c1f\u0c40\u0c1a\u0c30\u0c4d\u0c38\u0c4d\u200c \u0c0e\u0c32\u0c3f\u0c1c\u0c3f\u0c2c\u0c3f\u0c32\u0c3f\u0c1f\u0c40 \u0c1f\u0c46\u0c38\u0c4d\u0c1f\u0c4d\u200c (\u0c38\u0c40\u0c1f\u0c46\u0c1f\u0c4d) \u0c1c\u0c41\u0c32\u0c48 2024 \u0c05\u0c21\u0c4d\u0c2e\u0c3f\u0c1f\u0c4d\u200c \u0c15\u0c3e\u0c30\u0c4d\u0c21\u0c41\u0c32\u0c28\u0c41 \u0c38\u0c46\u0c02\u0c1f\u0c4d\u0c30\u0c32\u0c4d\u200c \u0c2c\u0c4b\u0c30\u0c4d\u0c21\u0c4d\u200c \u0c06\u0c2b\u0c4d\u200c \u0c38\u0c46\u0c15\u0c02\u0c21\u0c30\u0c40 \u0c0e\u0c21\u0c4d\u0c2f\u0c41\u0c15\u0c47\u0c37\u0c28\u0c4d\u200c (\u0c38\u0c40\u0c2c\u0c40\u0c0e\u0c38\u0c4d\u200c\u0c08) \u0c35\u0c3f\u0c21\u0c41\u0c26\u0c32&nbsp;...",
-    "news_item_url": "https://tv9telugu.com/career-jobs/ctet-admit-card-2024-ctet-hall-ticket-for-july-session-released-heres-the-direct-link-to-download-1296017.html",
+    "news_item_snippet": "The Central Board of Secondary Education, CBSE, has released the hall tickets for the Central Teacher Eligibility Test (CTET) 2024 on July 5, 2024. Candidates&nbsp;...",
+    "news_item_url": "https://www.hindustantimes.com/education/competitive-exams/cbse-ctet-admit-card-2024-released-at-ctet-nic-in-direct-link-to-download-hall-ticket-and-other-details-here-101720155617262.html",
     "picture_source": "Hindustan \u0939\u093f\u0902\u0926\u0940",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "India",
+    "title": "Spain vs Germany",
+    "pubDate": "Thu, 04 Jul 2024 18:30:00 +0530",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRpN_3oYfsTAGYv8EQsMRCrS05-VvFGLSBAXCkKI8DdexGthWjUBWMcKn_9MOI5C2st5c-BQvo7",
+    "news_item_snippet": "Euro 2024 Quarterfinal, Spain vs Germany LIVE Updates: Spain are 1-0 ahead against Germany in the second half in the Euro 2024 quarterfinals on Friday.",
+    "news_item_url": "https://sports.ndtv.com/uefa-euro-2024/uefa-euro-2024-quarterfinal-spain-vs-germany-live-score-football-match-today-esp-vs-ger-live-updates-6040881",
+    "picture_source": "Business Standard",
     "approx_traffic": "200,000+"
   },
   {
@@ -164,8 +184,8 @@
     "title": "Hardik Pandya",
     "pubDate": "Thu, 04 Jul 2024 16:30:00 +0530",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRVrcXp5MuWLJpNk_aX9KH4jJL6jQ935pJs_8S9D0KAnSQERKl3Ob8YwnjRB-0OmH2a8FAE__0g",
-    "news_item_snippet": "Hardik Pandya posted a bunch of pictures from his reunion with son but his wife Natasa Stankovic was suspiciously missing. | Bollywood.",
-    "news_item_url": "https://www.hindustantimes.com/entertainment/bollywood/natasa-stankovic-missing-from-pics-as-hardik-pandya-celebrates-world-cup-win-with-son-101720186135089.html",
+    "news_item_snippet": "Team India Victory Parade: \u091f\u094020 \u0935\u0930\u094d\u0932\u094d\u0921 \u0915\u092a 2024 \u0915\u0940 \u091f\u094d\u0930\u0949\u092b\u0940 \u091c\u0940\u0924\u0928\u0947 \u0915\u0947 \u092c\u093e\u0926 \u092e\u0941\u0902\u092c\u0908 \u092e\u0947\u0902 \u092d\u0935\u094d\u092f \u091c\u0936\u094d\u0928 \u0915\u093e \u0906\u092f\u094b\u091c\u0928 \u0915\u093f\u092f\u093e \u0917\u092f\u093e, \u091c\u0939\u093e\u0902 \u091a\u0948\u0902\u092a\u093f\u092f\u0928 \u091f\u0940\u092e \u0907\u0902\u0921\u093f\u092f\u093e \u0915\u093e&nbsp;...",
+    "news_item_url": "https://www.abplive.com/sports/cricket/team-india-victory-parade-hardik-pandya-wankhede-grand-welcome-turned-his-haters-into-fans-2730302",
     "picture_source": "NDTVSports.com",
     "approx_traffic": "100,000+"
   },
@@ -173,41 +193,21 @@
     "country": "India",
     "title": "ZIM vs IND",
     "pubDate": "Thu, 04 Jul 2024 10:30:00 +0530",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcT45mPUn9dGcwX_i4YE-sk3-H6rou9yz5KLIBFbeFVj341P5s2zWIv_OOM4JrazIHDvwzc-gYHn",
-    "news_item_snippet": "Shubman Gill understands how tough it is to replicate the imposing feats of Rohit Sharma and Virat Kohli, but the young batting star wants to ease himself&nbsp;...",
-    "news_item_url": "https://sportstar.thehindu.com/cricket/shubman-gill-india-vs-zimbabwe-t20i-opener-rohit-kohli-opening-spot-zim-v-ind/article68371895.ece",
-    "picture_source": "Olympics",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRHyMqRQfMKG1dfrai40T0vvwkwVS5Xho9Bg05KEXY4VA4iRsOuiCMyeqyPYbqfe4JkP1eWxkSX",
+    "news_item_snippet": "\u091f\u094020 \u0935\u0930\u094d\u0932\u094d\u0921 \u0915\u092a 2024 \u091c\u0940\u0924\u0928\u0947 \u0915\u0947 \u092c\u093e\u0926 \u0938\u0940\u0928\u093f\u092f\u0930 \u092d\u093e\u0930\u0924\u0940\u092f \u091f\u0940\u092e \u0935\u093e\u092a\u0938 \u0907\u0902\u0921\u093f\u092f\u093e \u0932\u094c\u091f \u0906\u0908 \u0939\u0948\u0964 \u0935\u0939\u0940\u0902 \u0926\u0942\u0938\u0930\u0940 \u0924\u0930\u092b \u092f\u0902\u0917 \u0916\u093f\u0932\u093e\u0921\u093c\u093f\u092f\u094b\u0902 \u0938\u0947 \u0938\u091c\u0940 \u092d\u093e\u0930\u0924\u0940\u092f \u091f\u0940\u092e \u091c\u093f\u092e\u094d\u092c\u093e\u092c\u094d\u0935\u0947&nbsp;...",
+    "news_item_url": "https://www.jagran.com/cricket/headlines-ind-vs-zim-1st-t20i-pitch-report-harare-sports-club-23752845.html",
+    "picture_source": "India Today",
     "approx_traffic": "50,000+"
   },
   {
-    "country": "Argentina",
-    "title": "Argentina vs Ecuador",
-    "pubDate": "Thu, 04 Jul 2024 11:00:00 -0300",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQNNPkZimEbKnSjDKqmOCl05wGhbIOyiZDxMoV7mZog1wlDmeF8kmz-tZaqE2Z_0LqRaDwYuEIr",
-    "news_item_snippet": "Las redes sociales explotaron por el gol del central y las atajadas del arquero en la tanda de penales. Scaloni, Cuti Romero, Messi y Garnacho.",
-    "news_item_url": "https://www.pagina12.com.ar/749842-los-mejores-memes-de-argentina-vs-ecuador-con-dibu-y-lisandr",
-    "picture_source": "canchallena.com",
-    "approx_traffic": "2,000,000+"
-  },
-  {
-    "country": "Argentina",
-    "title": "A que hora juega Argentina",
-    "pubDate": "Thu, 04 Jul 2024 09:00:00 -0300",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQ2zaO8FJVZxWv4zskwwAdPLBImO7usRqu4GhprOj4stq-TOOHCoxRA_grnjwdcKJpIy_rCQO03",
-    "news_item_snippet": "Tras eliminar a Ecuador, el equipo dirigido por Lionel Scaloni espera por Venezuela o Canad\u00e1; es el primer clasificado a la llave de los cuatro mejores - LA&nbsp;...",
-    "news_item_url": "https://www.lanacion.com.ar/deportes/futbol/argentina-por-las-semifinales-de-la-copa-america-2024-cuando-se-juega-el-partido-nid05072024/",
-    "picture_source": "Ol\u00e9",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "Argentina",
-    "title": "Telefe",
-    "pubDate": "Thu, 04 Jul 2024 22:00:00 -0300",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRISbUiSKZS0_FOlZ9Kgl4K7mjzL4Hbjvw7qBrAmi7eSueCw6oFw6StiPhJHsJHOOUBIPYEtCxm",
-    "news_item_snippet": "En LAM, Yanina Latorre mand\u00f3 al frente a la exparticipante de Gran Hermano 2023. |Ciudad Magazine.",
-    "news_item_url": "https://www.ciudad.com.ar/espectaculos/2024/07/05/filtraron-que-furia-pidio-una-fortuna-para-ser-exclusiva-de-telefe-esta-subida-al-pony/",
-    "picture_source": "La Voz del Interior",
-    "approx_traffic": "100,000+"
+    "country": "India",
+    "title": "Justin Bieber",
+    "pubDate": "Thu, 04 Jul 2024 16:30:00 +0530",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTf5TXNy5BfMihIW8cwGuiuCxUDRMwtcNqP48sxIrBYhoHA3mnWOWZGfbYnnSP9RV_-7KqckAHL",
+    "news_item_snippet": "Anant Ambani and Radhika Merchant sangeet: Justin Bieber has arrived in Mumbai and will be performing to the Ambanis and their guests.",
+    "news_item_url": "https://www.hindustantimes.com/entertainment/music/justin-bieber-lands-in-mumbai-for-radhika-merchant-anant-ambanis-sangeet-tonight-watch-video-101720150015175.html",
+    "picture_source": "Emirates Woman",
+    "approx_traffic": "50,000+"
   },
   {
     "country": "Australia",
@@ -233,9 +233,9 @@
     "country": "Brazil",
     "title": "Corinthians",
     "pubDate": "Thu, 04 Jul 2024 20:00:00 -0500",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQZF17MQeipc3klpYdnLhE9wOH0ypE2_2DaZAj45c4Bb11L9sPUanTZT8j4aPnrHMLDZHtxj5ZR",
-    "news_item_snippet": "Atacante Arthur Sousa pede rescis\u00e3o de seu contrato com o Corinthians na Justi\u00e7a por atrasos no pagamento de FGTS.",
-    "news_item_url": "https://www.espn.com.br/futebol/corinthians/artigo/_/id/13871931/processo-arthur-sousa-corinthians-devedor-contumaz",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTYEkpKvmedtUTzd1xB-z1j9gIcQUQmh44-ugpeWu-Dzvlh4oovJDfTawbzYWwaAskBExPbI6hc",
+    "news_item_snippet": "Dire\u00e7\u00e3o quer confirmar novo comandante nos pr\u00f3ximos dias; t\u00e9cnico do Santos e argentino ex-Vasco seguem como favoritos.",
+    "news_item_url": "https://ge.globo.com/futebol/times/corinthians/noticia/2024/07/05/carille-ramon-diaz-corinthians-quer-evitar-novela-e-tenta-acelerar-definicao-de-novo-tecnico.ghtml",
     "picture_source": "globoesporte.com",
     "approx_traffic": "1,000,000+"
   },
@@ -243,7 +243,7 @@
     "country": "Brazil",
     "title": "Corinthians x",
     "pubDate": "Thu, 04 Jul 2024 15:00:00 -0500",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQpvEh-pRF5bxm7YZlpp96453nHbJbKTcGWLSUT8Yjg_FK62dZ4tq_GShg9XKr6QVmX06aSHxAC",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTYEkpKvmedtUTzd1xB-z1j9gIcQUQmh44-ugpeWu-Dzvlh4oovJDfTawbzYWwaAskBExPbI6hc",
     "news_item_snippet": "O jogo acontecer\u00e1 nesta quinta-feira (04), \u00e0s 20h (de Bras\u00edlia), e ser\u00e1 v\u00e1lido pela 14\u00ba rodada do Brasileir\u00e3o.",
     "news_item_url": "https://oglobo.globo.com/esportes/noticia/2024/07/04/corinthians-x-vitoria-onde-assistir-ao-vivo-ao-jogo-do-campeonato-brasileiro.ghtml",
     "picture_source": "globoesporte.com",
@@ -261,43 +261,33 @@
   },
   {
     "country": "Brazil",
-    "title": "Bahia x Juventude",
-    "pubDate": "Thu, 04 Jul 2024 09:00:00 -0500",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQ5Lg0gJh-oNrsq8NAXLw-YFEA9TWl3flD3oqNHy-8hMfG3oicCmn9mvyOWiMNyd_gamKCg4XS4",
-    "news_item_snippet": "Taliari \u00e9 acionado na ponta esquerda, toca para tr\u00e1s e Gabriel Xavier afasta. 48&#39;.",
-    "news_item_url": "https://www.estadao.com.br/esportes/futebol/bahia-x-juventude-brasileiro-serie-a-2024/",
-    "picture_source": "CNN Brasil",
-    "approx_traffic": "500,000+"
-  },
-  {
-    "country": "Brazil",
     "title": "Argentina",
     "pubDate": "Thu, 04 Jul 2024 13:00:00 -0500",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQu_NCxFoW4wUU_qH9k1qmXZ7OjlwcmyP89ZVoWQxbtlvfA2wdMg0ep8Msw5GwzNjzgYjJML97M",
     "news_item_snippet": "Presidente da Argentina vir\u00e1 para Santa Catarina para participar de f\u00f3rum conservador neste fim de semana. Milei recusou ajuda do MRE e contar\u00e1 com suporte&nbsp;...",
     "news_item_url": "https://g1.globo.com/politica/noticia/2024/07/04/argentina-comunica-itamaraty-sobre-vinda-de-milei-agenda-nao-preve-encontro-com-lula.ghtml",
     "picture_source": "Gazeta Esportiva",
+    "approx_traffic": "500,000+"
+  },
+  {
+    "country": "Brazil",
+    "title": "Bahia x Juventude",
+    "pubDate": "Thu, 04 Jul 2024 09:00:00 -0500",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQ5Lg0gJh-oNrsq8NAXLw-YFEA9TWl3flD3oqNHy-8hMfG3oicCmn9mvyOWiMNyd_gamKCg4XS4",
+    "news_item_snippet": "Taliari \u00e9 acionado na ponta esquerda, toca para tr\u00e1s e Gabriel Xavier afasta. 48&#39;.",
+    "news_item_url": "https://www.estadao.com.br/esportes/futebol/bahia-x-juventude-brasileiro-serie-a-2024/",
+    "picture_source": "CNN Brasil",
     "approx_traffic": "200,000+"
   },
   {
     "country": "Brazil",
-    "title": "Portugal",
-    "pubDate": "Thu, 04 Jul 2024 21:00:00 -0500",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcS9k1yT1PupwhZJ2yrWg95N7WjdiusVtN0zI6V1Jeh3ReoTU11cs4ijxoFHbO6tIXXTreCaL_iu",
-    "news_item_snippet": "Portugal e Fran\u00e7a se enfrentam pelas quartas de final da Euro 2024. O duelo acontecer\u00e1 nesta sexta-feira (05), \u00e0s 16:00 (hor\u00e1rio de Bras\u00edlia), em Hamburgo,&nbsp;...",
-    "news_item_url": "https://www.gazetaesportiva.com/apostas/prognosticos/futebol/portugal-x-franca-05-07-2024",
-    "picture_source": "Gizmodo Brasil",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "Brazil",
-    "title": "Mega-Sena 2745",
-    "pubDate": "Thu, 04 Jul 2024 07:00:00 -0500",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcT_peSxxVzkqOoKVDRclvCYSr3oTJapueUNYCqDp-eUV1Fv5NzNRuYOZ-0vZesyI3_AH23auCX4",
-    "news_item_snippet": "Uma aposta do RJ e duas do RS acertaram as dezenas do concurso 2749 da Mega-Sena e ganharam R$ 54,2 milh\u00f5es cada uma; confira os n\u00fameros sorteados.",
-    "news_item_url": "https://noticias.uol.com.br/ultimas-noticias/2024/07/04/mega-sena-concurso-2745-sorteio-04-de-julho.htm",
-    "picture_source": "CNN Brasil",
-    "approx_traffic": "50,000+"
+    "title": "Bahia",
+    "pubDate": "Thu, 04 Jul 2024 22:00:00 -0500",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRWdvYm0QCIfLokCssMUw2HORB2HiO2aGBq1O8RYqz6rGhwC1kifFUtxQBUD1me1U5g4igmvBp8",
+    "news_item_snippet": "P\u00fablico-alvo dos cursos s\u00e3o jovens entre 16 e 29 anos de comunidades tradicionais, como quilombolas, assentados, ind\u00edgenas e ciganos.",
+    "news_item_url": "https://agenciagov.ebc.com.br/noticias/202407/bahia-vai-formar-mil-agentes-de-turismo-cultural-e-criativo",
+    "picture_source": "Secom GOVBA",
+    "approx_traffic": "200,000+"
   },
   {
     "country": "Canada",
@@ -320,54 +310,54 @@
     "approx_traffic": "50,000+"
   },
   {
+    "country": "Saudi Arabia",
+    "title": "\u0627\u0644\u0627\u0631\u062c\u0646\u062a\u064a\u0646",
+    "pubDate": "Fri, 05 Jul 2024 04:00:00 +0300",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSYEXcgHzxhT6kFKKiptGpnzTn-7hK84DjapT2Icy_BYx7c9gsy6Pgth1bV0I3G4GdhyYzI8qux",
+    "news_item_snippet": "\u0627\u062d\u062a\u0627\u062c\u062a \u0627\u0644\u0623\u0631\u062c\u0646\u062a\u064a\u0646 \u0628\u0637\u0644\u0629 \u0627\u0644\u0639\u0627\u0644\u0645\u060c \u0625\u0644\u0649 \u0631\u0643\u0644\u0627\u062a \u0627\u0644\u062a\u0631\u062c\u064a\u062d \u0644\u0628\u0644\u0648\u063a \u0646\u0635\u0641 \u0646\u0647\u0627\u0626\u064a \u0628\u0637\u0648\u0644\u0629 \u0643\u0648\u0628\u0627 \u0623\u0645\u064a\u0631\u0643\u0627 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062f\u0645\u060c \u0628\u0641\u0648\u0632\u0647\u0627 \u0639\u0644\u0649 \u0627\u0644\u0625\u0643\u0648\u0627\u062f\u0648\u0631 \u0628\u0631\u0643\u0644\u0627\u062a \u0627\u0644\u062a\u0631\u062c\u064a\u062d 4-2 \u0628\u0639\u062f \u062a\u0639\u0627\u062f\u0644\u0647\u0645\u0627 1-",
+    "news_item_url": "https://www.alhurra.com/sport/2024/07/05/%D8%A7%D9%84%D8%A3%D8%B1%D8%AC%D9%86%D8%AA%D9%8A%D9%86-%D8%AA%D8%AA%D8%A3%D9%87%D9%84-%D9%86%D8%B5%D9%81-%D9%86%D9%87%D8%A7%D8%A6%D9%8A-%D9%83%D9%88%D8%A8%D8%A7-%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D8%A7-%D8%A8%D9%81%D8%B6%D9%84-%D8%B1%D9%83%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%AD%D8%B8",
+    "picture_source": "\u0627\u0644\u062c\u0632\u064a\u0631\u0629 \u0646\u062a",
+    "approx_traffic": "50,000+"
+  },
+  {
     "country": "France",
     "title": "France Portugal",
     "pubDate": "Fri, 05 Jul 2024 08:00:00 +0200",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQ4-w4GWHlByjE09AJje2nwYqEN6LfweGCJmRHH9I16hJ7aoI_YmNvfvJPE9QKesyemVjENZs_M",
-    "news_item_snippet": "Euro 2024 : actus, matchs en direct, calendrier et r\u00e9sultats des rencontres, classement des groupes, des buteurs et des passeurs.",
-    "news_item_url": "https://rmcsport.bfmtv.com/football/euro/direct-france-portugal-suivez-le-quart-de-finale-des-bleus-a-l-euro-2024-en-direct-live_LS-202407050218.html",
+    "news_item_snippet": "Ce vendredi soir \u00e0 21 heures se tient la rencontre entre le Portugal et la France en quarts de finale de l&#39;Euro 2024. O\u00f9 voir le match \u00e0 Toulouse avec des&nbsp;...",
+    "news_item_url": "https://www.ladepeche.fr/2024/07/05/france-portugal-a-leuro-2024-ou-voir-le-match-a-toulouse-avec-des-supporters-portugais-12060905.php",
     "picture_source": "Cryptonaute",
     "approx_traffic": "200,000+"
   },
   {
     "country": "France",
-    "title": "Espagne-Allemagne",
+    "title": "Espagne - Allemagne",
     "pubDate": "Fri, 05 Jul 2024 08:00:00 +0200",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQ1XnZVwnilbt2UgAsuxAmIVVT6IjUDjsA9gbBt928o4W10RDD7FdROAg6RCSmHqbb_zUQI8OvB",
-    "news_item_snippet": "Euro 2024 : actus, matchs en direct, calendrier et r\u00e9sultats des rencontres, classement des groupes, des buteurs et des passeurs.",
-    "news_item_url": "https://rmcsport.bfmtv.com/football/euro/direct-espagne-allemagne-suivez-le-quart-de-finale-de-l-euro-2024-en-live_LS-202407050278.html",
-    "picture_source": "TF1 INFO",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "France",
-    "title": "Ruffin",
-    "pubDate": "Thu, 04 Jul 2024 14:00:00 +0200",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSKkMeBUjOcn50yUFQ6PqeFpkgj4vxEALQ2rvbLndQ_B19d4xqXqUn_frMHGRs30VwyL1uS3dFB",
-    "news_item_snippet": "Arriv\u00e9 deuxi\u00e8me derri\u00e8re la candidate du Rassemblement national au premier tour des \u00e9lections, le d\u00e9put\u00e9 sortant acte sa rupture avec Jean-Luc M\u00e9lenchon.",
-    "news_item_url": "https://www.lemonde.fr/politique/article/2024/07/05/francois-ruffin-au-combat-dans-la-somme-dites-bien-que-c-est-fini-avec-lfi-dites-le-a-tout-le-monde_6246984_823448.html",
-    "picture_source": "TAHITI INFOS",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "France",
-    "title": "Keir Starmer",
-    "pubDate": "Thu, 04 Jul 2024 12:00:00 +0200",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQF0vZdRzu4D4Gq2HXGU4vM2-lQFWBu7PGDzKYKaZ4sN8Iyy_V5724Hu0nwl_GxTV-mCr_ra2ay",
-    "news_item_snippet": "Le chef des travaillistes britanniques Keir Starmer a \u00e9t\u00e9 nomm\u00e9 vendredi Premier ministre par le roi Charles III apr\u00e8s la victoire \u00e9crasante de son parti&nbsp;...",
-    "news_item_url": "https://www.france24.com/fr/europe/20240705-l%C3%A9gislatives-britanniques-le-futur-premier-ministre-travailliste-keir-starmer-promet-le-changement",
-    "picture_source": "Les \u00c9chos",
-    "approx_traffic": "50,000+"
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTKmVcijTXN2RHU4Gi5EElLI3-V1koQxDkc7bRTQYQGd0MOGwsh9eJB2HfK7ME3mwzX0ffyBIGM",
+    "news_item_snippet": "A domicile, les Allemands devront renverser l&#39;Espagne, vendredi, pour atteindre les demi-finales de leur comp\u00e9tition.",
+    "news_item_url": "https://www.francetvinfo.fr/euro/directs/direct-allemagne-espagne-un-choc-en-ouverture-des-quarts-de-finale-de-l-euro_6637746.html",
+    "picture_source": "L'\u00c9quipe.fr",
+    "approx_traffic": "200,000+"
   },
   {
     "country": "Germany",
     "title": "Deutschland Spanien",
-    "pubDate": "Fri, 05 Jul 2024 10:00:00 +0200",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTe9D4V40y1AqwGjxFcoD3WlFwH5T0ghIsWhVX0eiYu6jdIr-7SH9_79uW-pVVXA9neUxqrs7se",
-    "news_item_snippet": "Alle fiebern den Viertelfinals entgegen: Wer Fu\u00dfball guckt, macht das oft gern in Gesellschaft. Die GA-Redaktion hat ihre Favoriten zusammengetragen,&nbsp;...",
-    "news_item_url": "https://ga.de/bonn/stadt-bonn/em-2024-deutschland-gegen-spanien-wo-das-spiel-schauen_aid-115489367",
-    "picture_source": "SAT.1",
-    "approx_traffic": "200,000+"
+    "pubDate": "Fri, 05 Jul 2024 09:00:00 +0200",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTflQE5I-rrfEbdVDUsEmSC-GrPsQ6kVH9kNqoJw_A-U2RGalwU9sTWBE2nDd9P7G1uvdWV2MJm",
+    "news_item_snippet": "Viertelfinale bei der EM 2024: Hier siehst Du das Viertelfinale Deutschland gegen Spanien heute im kostenlosen Livestream.",
+    "news_item_url": "https://www.sat1.de/themen/allgemein/news/em-viertelfinale-im-livestream-spanien-deutschland-heute-hier-kostenlos-streamen-ard-ohne-anmeldung-398929",
+    "picture_source": "SPORT1",
+    "approx_traffic": "1,000,000+"
+  },
+  {
+    "country": "Germany",
+    "title": "ARD",
+    "pubDate": "Fri, 05 Jul 2024 18:00:00 +0200",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQDF8mP5ODnmDSZhH1yU-QyUWzw_aQ5jF4w8ARewgHa8ZM0Vbzegy3HYAy-XXR29fVPt0RJSbgX",
+    "news_item_snippet": "Eine 3600 Jahre alte Himmelsscheibe steht im Zentrum eines ARD-Krimis, der gerade gedreht wird.",
+    "news_item_url": "https://www.noz.de/deutschland-welt/panorama/artikel/himmelsscheibe-von-nebra-ist-jetzt-stoff-fuer-ard-krimi-47371283",
+    "picture_source": "noz.de - Neue Osnabr\u00fccker Zeitung",
+    "approx_traffic": "100,000+"
   },
   {
     "country": "Germany",
@@ -391,16 +381,6 @@
   },
   {
     "country": "Germany",
-    "title": "Joe Biden",
-    "pubDate": "Wed, 03 Jul 2024 20:00:00 +0200",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSvVM0sNEocgqdGCkUHAVXhY2OQYaiIG4vK1fvPCUnnT4MeiMemkoCMbqHRsAA_oGCPhz-d6m2K",
-    "news_item_snippet": "Nach dem TV-Debakel gegen Herausforderer Trump muss US-Pr\u00e4sident Biden seine erneute Kandidatur zunehmend verteidigen. Bei einer Ansprache zum&nbsp;...",
-    "news_item_url": "https://www.tagesschau.de/ausland/amerika/biden-zukunft-100.html",
-    "picture_source": "noz.de - Neue Osnabr\u00fccker Zeitung",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "Germany",
     "title": "Wolfsgru\u00df",
     "pubDate": "Wed, 03 Jul 2024 02:00:00 +0200",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcT30_psCLNQvEY6vnqb7e_5khfgEgKCTDWXL4vii-TGvXz3A0UuMAGuT6Ff-Wqh_XhbVma685tT",
@@ -413,31 +393,11 @@
     "country": "Germany",
     "title": "Demiral",
     "pubDate": "Wed, 03 Jul 2024 21:00:00 +0200",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSeCNRvfH_wQa5Br9T1mHZ8veFCXmjHR0i7gFYu9hCyx-VCmNFPWzaWf3voL01x1XQtMcx_dq_g",
-    "news_item_snippet": "Der t\u00fcrkische Verband will sich einem Medienbericht zufolge gegen die Zwei-Spiele-Sperre f\u00fcr Merih Demiral nach dessen Wolfsgru\u00df wehren.",
-    "news_item_url": "https://www.mz.de/sport/fussball-em/medien-turkei-zieht-gegen-demiral-sperre-vor-cas-3876161",
-    "picture_source": "tagesschau.de",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Germany",
-    "title": "T\u00fcrkei \u00d6sterreich",
-    "pubDate": "Tue, 02 Jul 2024 00:00:00 +0200",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSTzeGlNm68HXHHRKJeKICi2rfBeKJpxWdEw9FhsVBVzNSoltdTNfCWLLmuXm9t5-9b8lA2ozeF",
-    "news_item_snippet": "Die Partie ist das Exklusivspiel von MagentaTV, urspr\u00fcnglich war eine kostenpflichtige Anmeldung beim Streamingdienst der Telekom notwendig. Durch etliche&nbsp;...",
-    "news_item_url": "https://www.rbb24.de/sport/beitrag/2024/07/fussball-em-oesterreich-tuerkei-magenta-youtube.html",
-    "picture_source": "ZDFheute",
-    "approx_traffic": "1,000,000+"
-  },
-  {
-    "country": "Germany",
-    "title": "Amira Pocher",
-    "pubDate": "Tue, 02 Jul 2024 14:00:00 +0200",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQx5e6fMXWaO-rffwbYA6pE5kSbBFUGCuDFgQ4GX6XvBYwwdkeE3BzJFKEx4Ft5Lwbx_x1aDEM6",
-    "news_item_snippet": "Gefunkt hatte es schon Anfang des Jahres. Jetzt ist die Beziehung offiziell, am Dienstagabend haben sich Amira Pocher und \u201etaff\u201c-Moderator Christian D\u00fcren&nbsp;...",
-    "news_item_url": "https://www.faz.net/aktuell/gesellschaft/smalltalk/amira-pocher-und-christian-dueren-machen-beziehung-oeffentlich-19829790.html",
-    "picture_source": "watson",
-    "approx_traffic": "50,000+"
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRwcB6CWrkB1ay4x6aFwD46kDWBpsHlBQNPhOYimqrJDaL4lZStt_7kERQy-uvTgzROYmx6uoIM",
+    "news_item_snippet": "Zwei EM-Spiele Sperre f\u00fcr Merih Demiral: Damit bestraft UEFA den t\u00fcrkischen Nationalspieler nach dem umstrittenen Wolfsgru\u00df.",
+    "news_item_url": "https://www.noz.de/sport/fussball/em-2024/artikel/uefa-sperrt-demiral-fuer-zwei-em-spiele-nach-wolfsgruss-47368999",
+    "picture_source": "noz.de - Neue Osnabr\u00fccker Zeitung",
+    "approx_traffic": "100,000+"
   },
   {
     "country": "Italy",
@@ -461,13 +421,23 @@
   },
   {
     "country": "Mexico",
+    "title": "Espa\u00f1a vs Alemania",
+    "pubDate": "Thu, 04 Jul 2024 16:00:00 -0600",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTw8XSl3DHRyHyGvlurrXisSZ2ayVh9ixQ4NL0sKQtgiBFYIShxdx_VWUoTUUqkP2ZLgQ-GRTuo",
+    "news_item_snippet": "La Final adelantada! Sigue todas las incidencias del duelo cumbre entre ib\u00e9ricos y el anfitri\u00f3n de la Eurocopa desde Stuggart | TUDN Espa\u00f1a vs Alemania&nbsp;...",
+    "news_item_url": "https://www.tudn.com/futbol/eurocopa-2024/partidos-en-vivo/espana-vs-alemania/espana-vs-alemania-en-vivo-cuartos-de-final-euro-2024-minuto-a-minuto-partido",
+    "picture_source": "El Financiero",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "Mexico",
     "title": "Portugal vs Francia",
     "pubDate": "Thu, 04 Jul 2024 22:00:00 -0600",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSXJ_qt2cAb3jIRfYLvB-iGr80BOHoXMeWZKc6KIabV7p54Mmv_QvpeBHyTNa5d0ySzD2RsghOF",
     "news_item_snippet": "Choque de poder a poder entre los portugueses liderados por Cristiano Ronaldo y la favorita selecci\u00f3n francesa encabezada por Kylian Mbapp\u00e9, con el boleto a&nbsp;...",
     "news_item_url": "https://www.tudn.com/futbol/eurocopa-2024/partidos-en-vivo/portugal-vs-francia/portugal-vs-francia-horario-y-donde-ver-partido-cuartos-de-final-euro-2024",
     "picture_source": "ESPN Deportes",
-    "approx_traffic": "50,000+"
+    "approx_traffic": "100,000+"
   },
   {
     "country": "Mexico",
@@ -484,30 +454,20 @@
     "title": "Mario Delgado",
     "pubDate": "Thu, 04 Jul 2024 12:00:00 -0600",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcS5q0jzElJsGFABjI6WZJUhmjNfxl9z0ttYmMy_FLjVlwMHRGvsNM5KARLSw7S1MPRFpGNFnYUc",
-    "news_item_snippet": "Activistas criticaron la designaci\u00f3n de Mario Delgado como titular de SEP, pues es contrario a perfiles t\u00e9cnicos que han llegado a Gabinete.",
-    "news_item_url": "https://www.reforma.com/desentona-en-sep-mario-delgado/ar2835905",
+    "news_item_snippet": "El actual dirigente de MORENA cuenta con un grado m\u00e1ximo de estudios de Maestr\u00eda con especialidad en Econometr\u00eda que curs\u00f3 en el extranjero.",
+    "news_item_url": "https://www.infobae.com/mexico/2024/07/04/en-que-universidad-estudio-mario-delgado-el-proximo-titular-de-la-sep-y-de-que-fue-su-tesis/",
     "picture_source": "CNN",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Mexico",
-    "title": "Espa\u00f1a vs Alemania",
-    "pubDate": "Thu, 04 Jul 2024 16:00:00 -0600",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQ19TRBoJVoUABQQ-3ihdpowf97wRe8oZg-7WbBA8KGvOaMe5L_u7qKadf1_YSjiZmfShsdHB0o",
-    "news_item_snippet": "Las favoritas Espa\u00f1a y Alemania se miden en cuartos de final de la Euro 2024, una final anticipada por ser las de mejor actuaci\u00f3n hasta ahora.",
-    "news_item_url": "https://espndeportes.espn.com/futbol/euro/nota/_/id/13872079/espana-vs-alemania-alineaciones-euro-2024-cuartos",
-    "picture_source": "ESPN Deportes",
     "approx_traffic": "50,000+"
   },
   {
     "country": "Spain",
     "title": "Espa\u00f1a - Alemania",
     "pubDate": "Fri, 05 Jul 2024 09:00:00 +0200",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSp_oj_T65yH-Y70QLTYobd4_LEzfjOS3qvSEMm2GX31MgXllOBTZ8vG4o7HeR426rARLTGb4OM",
-    "news_item_snippet": "Comienza el partido en el Stuttgart Arena! La Roja busca las semifinales de la EURO.",
-    "news_item_url": "https://cadenaser.com/nacional/2024/07/05/espana-alemania-en-directo-cuartos-de-final-de-la-eurocopa-2024-hoy-en-vivo-cadena-ser/",
-    "picture_source": "MARCA",
-    "approx_traffic": "200,000+"
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcStenGuMEquD4f0C8eL1EoycJiDQklBL6P23h7uzmRoaHshLtEjvC3c8a3qy8mBqQErLkukyO4a",
+    "news_item_snippet": "RTVE est\u00e1 exprimiendo al m\u00e1ximo la Eurocopa de f\u00fatbol. El ente p\u00fablico est\u00e1 cosechando buenos datos de audiencia con la emisi\u00f3n del torneo.",
+    "news_item_url": "https://www.elmundo.es/television/2024/07/05/6687de1be9cf4a28108b4596.html",
+    "picture_source": "Cadena SER",
+    "approx_traffic": "1,000,000+"
   },
   {
     "country": "United Kingdom",
@@ -521,11 +481,31 @@
   },
   {
     "country": "United Kingdom",
-    "title": "News",
-    "pubDate": "Fri, 05 Jul 2024 06:00:00 +0100",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcS1Rh6p3wgpmwwTvvkKL4ZVNbHpNpvXkNgcVEF7JDf0NOBKXf81zdsEBJEfXUoQ2E3QuaIMaosK",
-    "news_item_snippet": "A Texas start-up is developing cargo gliders that would be towed behind a jet.",
-    "news_item_url": "https://www.bbc.co.uk/news/articles/c0kk4lxe702o",
+    "title": "Spain vs Germany",
+    "pubDate": "Fri, 05 Jul 2024 11:00:00 +0100",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRcb68lVH1sgQzpSBGKcRrgnFU-6sL25CjuJWDomKh3gCiM8QA-G7FkqsFMv6tmOl5YXI9f4gt5",
+    "news_item_snippet": "New tournament favourites take on the hosts in heavyweight quarter-final tie in Stuttgart.",
+    "news_item_url": "https://www.standard.co.uk/sport/football/spain-vs-germany-live-stream-euro-2024-latest-score-result-watch-tv-team-news-b1169014.html",
+    "picture_source": "Aljazeera.com",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United Kingdom",
+    "title": "Tiafoe",
+    "pubDate": "Fri, 05 Jul 2024 15:00:00 +0100",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcS7mZcd9AL-s-QZ7F_wiyav1abYmVajxrwMpNNExUQjLh-qZcHnzasQeyc5FUJ0lhtUAsE-IK8J",
+    "news_item_snippet": "Frances Tiafoe is one set away from stunning defending champion Carlos Alcaraz at Wimbledon on Friday.",
+    "news_item_url": "https://www.atptour.com/en/news/alcaraz-tiafoe-wimbledon-2024-friday",
+    "picture_source": "The Independent",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United Kingdom",
+    "title": "Victoria Starmer",
+    "pubDate": "Fri, 05 Jul 2024 07:00:00 +0100",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcR_S2wUsg65CjYXm2Iuap1Oqy4fPFQKOyUtU5P1u-jjOUCMdMQNwOjnvLO4YW4Xow6BFkHR6Gcn",
+    "news_item_snippet": "The British public has elected a new government, and with that a new family will be moving into 10 Downing Street.",
+    "news_item_url": "https://www.cnn.com/2024/07/05/uk/victoria-starmer-profile-gbr-scli-intl/index.html",
     "picture_source": "BBC News",
     "approx_traffic": "100,000+"
   },
@@ -543,20 +523,10 @@
     "country": "United Kingdom",
     "title": "Jeremy Hunt",
     "pubDate": "Fri, 05 Jul 2024 01:00:00 +0100",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcT_Tijj6hxMY1JdLzBr2USCuiHgOaY6v4-Wt88b2lFNgFaSfO5AmxCBzIjz798pHehqPeBOu_uV",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSuAUBAhyT62nm4bwxRNNhKXr_lEJGxKO2b4_osmSbP5W0Jtvt7aEwT6CIV84N_EWIYI_-VXFje",
     "news_item_snippet": "Jeremy Hunt has clung on to his Surrey seat as scores of former cabinet members including Jacob Rees-Mogg and Grant Shapps were ousted.",
     "news_item_url": "https://www.cityam.com/election-2024-jeremy-hunt-clings-on-in-bloodbath-of-tory-big-beasts/",
     "picture_source": "Free Radio",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United Kingdom",
-    "title": "Victoria Starmer",
-    "pubDate": "Fri, 05 Jul 2024 07:00:00 +0100",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcR_S2wUsg65CjYXm2Iuap1Oqy4fPFQKOyUtU5P1u-jjOUCMdMQNwOjnvLO4YW4Xow6BFkHR6Gcn",
-    "news_item_snippet": "Keir Starmer and his wife Victoria clap for health workers during the pandemic outside their home in north London. They will now be moving to the Prime&nbsp;...",
-    "news_item_url": "https://www.cnn.com/2024/07/05/uk/victoria-starmer-profile-gbr-scli-intl/index.html",
-    "picture_source": "BBC News",
     "approx_traffic": "50,000+"
   },
   {
@@ -591,12 +561,12 @@
   },
   {
     "country": "United Kingdom",
-    "title": "Rishi Sunak constituency",
+    "title": "ITV",
     "pubDate": "Fri, 05 Jul 2024 00:00:00 +0100",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTu9ETEyq65syZ7QUKlJ89MvGvDaLQsV_TXEbAM-svN67ZdExOAcg1RTzeTgz0Gt6YqeVHZXJi2",
-    "news_item_snippet": "Gospel singers, gastro pubs and Rishi&#39;s political opponent; Tatler has everything you need to know about what election night was like on Sunak&#39;s doorstep.",
-    "news_item_url": "https://www.tatler.com/article/rishi-sunak-constituency-richmond-northallerton",
-    "picture_source": "Tatler",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQl-aIFdW6hWXbC1cPpAcaeyKvHv9tPW1C35aXxBA_OfCdBkbB2LeyDbwfNRXVRCoD6OWEtYChj",
+    "news_item_snippet": "Emma Murphy, well known to North West viewers, from her years as a reporter at Granada Reports, has been named International Editor at ITV News.",
+    "news_item_url": "https://www.prolificnorth.co.uk/news/itv-news-appoints-emma-murphy-as-international-editor/",
+    "picture_source": "Prolific North",
     "approx_traffic": "50,000+"
   },
   {
@@ -611,12 +581,62 @@
   },
   {
     "country": "United Kingdom",
+    "title": "Rishi Sunak constituency",
+    "pubDate": "Fri, 05 Jul 2024 00:00:00 +0100",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTu9ETEyq65syZ7QUKlJ89MvGvDaLQsV_TXEbAM-svN67ZdExOAcg1RTzeTgz0Gt6YqeVHZXJi2",
+    "news_item_snippet": "Gospel singers, gastro pubs and Rishi&#39;s political opponent; Tatler has everything you need to know about what election night was like on Sunak&#39;s doorstep.",
+    "news_item_url": "https://www.tatler.com/article/rishi-sunak-constituency-richmond-northallerton",
+    "picture_source": "Tatler",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United Kingdom",
+    "title": "Wes Streeting",
+    "pubDate": "Fri, 05 Jul 2024 00:00:00 +0100",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcT-cjH86tAuC5xeiGNOAtBwdjRDCRGO3iSmW5qeYurArBb4D7nINr2tKXOC_ph6ONG2fyNlwK3r",
+    "news_item_snippet": "His appointment by Sir Keir Starmer, the new prime minister, means he succeeds the Conservative Party&#39;s Victoria Atkins in the role. Mr Streeting has been&nbsp;...",
+    "news_item_url": "https://www.nursingtimes.net/news/policies-and-guidance/wes-streeting-named-new-health-and-social-care-secretary-05-07-2024/",
+    "picture_source": "Pulse",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United Kingdom",
     "title": "Kemi Badenoch",
     "pubDate": "Fri, 05 Jul 2024 08:00:00 +0100",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRelkexOnUZCQVfan_yriaCpe07GTKV6kBUnrUrDcFwotzMMrPdczusAOGni7vTpIhNdgdRDi2Y",
     "news_item_snippet": "After a catastrophic defeat the party is now set for another election - for their new leader &middot; Kemi Badenoch &middot; Priti Patel &middot; Suella Braverman &middot; Robert Jenrick.",
     "news_item_url": "https://www.independent.co.uk/news/uk/politics/tory-leader-sunak-conservative-race-braverman-badenoch-b2574561.html",
     "picture_source": "Bishop's Stortford Independent",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United Kingdom",
+    "title": "Jacob Fearnley",
+    "pubDate": "Fri, 05 Jul 2024 08:00:00 +0100",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQX8tg2wudHN-Z8QtMzWFV3tK1QMLcYMyN-VpI4CLHRA4M0zUu1mv6MKoT1ZkawaPwHOzpTrhcr",
+    "news_item_snippet": "The British wildcard thrilled Centre Court with a spirited fightback but was beaten by the seven-time champion 6-3 6-4 5-7 7-5.",
+    "news_item_url": "https://www.independent.co.uk/sport/tennis/jacob-fearnley-novak-djokovic-wimbledon-result-b2574027.html",
+    "picture_source": "Lawn Tennis Association",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United Kingdom",
+    "title": "FTSE 100",
+    "pubDate": "Fri, 05 Jul 2024 11:00:00 +0100",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQrlm5E0JPeKeE6dRlxRO5pk4DgX4oa_MESVU_qcUpfoHURur2o17uWuQWlKkuzI88HHx00kV2u",
+    "news_item_snippet": "With a significant majority already having been priced into financial markets, there was a muted reaction to the election result as investors looked to the new&nbsp;...",
+    "news_item_url": "https://www.independent.co.uk/business/pound-ftse-100-labour-win-b2574596.html",
+    "picture_source": "Morningstar",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United Kingdom",
+    "title": "Yvette Cooper",
+    "pubDate": "Fri, 05 Jul 2024 05:00:00 +0100",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcR8vU70zGgTsZNowDsSksFb3B1RKg9Oia_eu9w8zAKvztHPK9Tx4LQlgy6xdAz56lnPOQc2GkHd",
+    "news_item_snippet": "Lord Herbert and Chief Constable Sir Andy Marsh write to Rt. Hon Yvette Cooper MP.",
+    "news_item_url": "https://www.college.police.uk/article/college-welcomes-new-home-secretary",
+    "picture_source": "Evening Standard",
     "approx_traffic": "50,000+"
   },
   {
