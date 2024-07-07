@@ -1,12 +1,22 @@
 [
   {
     "country": "United States",
+    "title": "Lewis Hamilton",
+    "pubDate": "Sun, 07 Jul 2024 09:00:00 -0700",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSXQKnfbpD2Age0dnvfF8KFXFmYVm1E4v2mnvIhVXUsw5m7W0tNtzSNsWzJ7nydR596GYvuDVvt",
+    "news_item_snippet": "Lewis Hamilton won the British Grand Prix breaking the record of the most wins at a single circuit as he celebrates his ninth win at Silverstone.",
+    "news_item_url": "https://www.si.com/fannation/racing/f1briefings/news/british-gp-results-lewis-hamilton-breaks-record-after-insane-silverstone-victory-01j26qn9dd00",
+    "picture_source": "NPR",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
     "title": "Khyree Jackson",
     "pubDate": "Sat, 06 Jul 2024 09:00:00 -0700",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRGd8vsNm1oXPyK4gjx96wbkmWcalepVSSIh3hVocsgWxqnnfN7SWdeswm8znzC9L346rJr0XmV",
-    "news_item_snippet": "Jackson was one of three men killed in a car crash early Saturday morning. The cornerback was chosen by the Vikings in the fourth round of the NFL draft&nbsp;...",
-    "news_item_url": "https://www.mprnews.org/story/2024/07/06/vikings-player-khyree-jackson-24-killed-in-maryland-crash",
-    "picture_source": "OPB News",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTOJbEE3EVI_9gUEt8-CSe1khrPM69EF5zt1ok5DsH0Q5IdlMPhmN5idbEID3RxEDM8tTa2pW_h",
+    "news_item_snippet": "Minnesota Vikings rookie cornerback Khyree Jackson was killed Saturday morning in a car crash in Maryland, police and the team said. THANKS TO OUR SPONSOR:.",
+    "news_item_url": "https://www.opb.org/article/2024/07/06/vikings-khyree-jackson-2-former-college-football-players-killed-in-car-crash-in-maryland/",
+    "picture_source": "NBC News",
     "approx_traffic": "500,000+"
   },
   {
@@ -21,26 +31,6 @@
   },
   {
     "country": "United States",
-    "title": "England vs Switzerland",
-    "pubDate": "Sat, 06 Jul 2024 07:00:00 -0700",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTTDHOiUevhbmALTFYDPCC68yPlUeLYmTMRHjVnQxepEcpTysYh6FVxBB6qwhBBY6wisK3bEy00",
-    "news_item_snippet": "England beating Switzerland on penalties was no fluke - all the little details show their deep level of preparation under Gareth Southgate.",
-    "news_item_url": "https://www.nytimes.com/athletic/5620945/2024/07/07/england-vs-switzerland-penalties-analysed-pickford/",
-    "picture_source": "FOXSports.com",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Lakers",
-    "pubDate": "Sat, 06 Jul 2024 15:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRyyo9CNvFN2HmocBFfjod5PqKoTaMu6lb-kzuWLOMCRMjmwV_JPQHTCqEpQXmyRDgiVJu3l1HO",
-    "news_item_snippet": "The NBA&#39;s all-time leading scorer and first ever to eclipse 40,000 career points, James will enter his 22nd NBA season in 2024-25. The upcoming campaign will&nbsp;...",
-    "news_item_url": "https://www.nba.com/lakers/news/los-angeles-lakers-re-sign-lebron-james-70624",
-    "picture_source": "ESPN",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "United States",
     "title": "Shakur Stevenson",
     "pubDate": "Sat, 06 Jul 2024 09:00:00 -0700",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSuEZLc9i5WY_VWPse0kLHbBg_aW6RAxmM0aL7SKflKwkngca-qpKOr09DqWHc3Bv5dALIML7f7",
@@ -51,13 +41,13 @@
   },
   {
     "country": "United States",
-    "title": "Netherlands vs Turkey",
+    "title": "Indiana Fever",
     "pubDate": "Sat, 06 Jul 2024 13:00:00 -0700",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRldCnVCdDsfbDHGymNe9x0Vz7Cv5R0cM5msr_7ZNXP1GlX0_vTkYFvfUuH016ndPMklVuZhTaG",
-    "news_item_snippet": "All the updates from the UEFA Euro 2024 quarterfinal between Netherlands and Turkey at Olympiastadion on July 6.",
-    "news_item_url": "https://www.aljazeera.com/sports/liveblog/2024/7/6/live-netherlands-vs-turkey-uefa-euro-2024-quarterfinal-match",
-    "picture_source": "FOXSports.com",
-    "approx_traffic": "100,000+"
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQxS4jJSlQfHT-KGpqjFhXrT8F6c_VH88MaYaosTVX67uJ1Cb3qeW7HVfXtoSQdeXLNzB80VOFS",
+    "news_item_snippet": "Caitlin Clark recorded the first-ever triple-double game by a WNBA rookie in an Indiana Fever win Saturday, rallying past the New York Liberty.",
+    "news_item_url": "https://abc30.com/post/caitlin-clark-records-triple-double-wnba-rookie-indiana/15037187/",
+    "picture_source": "KFSN-TV",
+    "approx_traffic": "200,000+"
   },
   {
     "country": "United States",
@@ -71,12 +61,12 @@
   },
   {
     "country": "United States",
-    "title": "Indiana Fever",
-    "pubDate": "Sat, 06 Jul 2024 13:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQxS4jJSlQfHT-KGpqjFhXrT8F6c_VH88MaYaosTVX67uJ1Cb3qeW7HVfXtoSQdeXLNzB80VOFS",
-    "news_item_snippet": "Caitlin Clark recorded the first-ever triple-double game by a WNBA rookie in an Indiana Fever win Saturday, rallying past the New York Liberty.",
-    "news_item_url": "https://abc30.com/post/caitlin-clark-records-triple-double-wnba-rookie-indiana/15037187/",
-    "picture_source": "KFSN-TV",
+    "title": "Lakers",
+    "pubDate": "Sat, 06 Jul 2024 16:00:00 -0700",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRyyo9CNvFN2HmocBFfjod5PqKoTaMu6lb-kzuWLOMCRMjmwV_JPQHTCqEpQXmyRDgiVJu3l1HO",
+    "news_item_snippet": "The NBA&#39;s all-time leading scorer and first ever to eclipse 40,000 career points, James will enter his 22nd NBA season in 2024-25. The upcoming campaign will&nbsp;...",
+    "news_item_url": "https://www.nba.com/lakers/news/los-angeles-lakers-re-sign-lebron-james-70624",
+    "picture_source": "ESPN",
     "approx_traffic": "100,000+"
   },
   {
@@ -91,22 +81,32 @@
   },
   {
     "country": "United States",
-    "title": "Jon Landau",
-    "pubDate": "Sat, 06 Jul 2024 17:00:00 -0700",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQMaUBJCTTVGT3ZPo96Mud9oUSHDIWn3NXEnQgUp8lPC_yfqQYlGGsZO6h9CfBHJXNKg1QX5BpN",
-    "news_item_snippet": "In a decades-long collaboration with the director James Cameron, he produced three of the highest-grossing films of all time.",
-    "news_item_url": "https://www.nytimes.com/2024/07/07/arts/jon-landau-dead.html",
-    "picture_source": "NPR",
+    "title": "Netherlands",
+    "pubDate": "Sat, 06 Jul 2024 13:00:00 -0700",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRpTlATEovTehhWqYL8Z9Qf1JiZ79S3NCfWA2M2HCV7VE4B0B9dWoYZIYYHXpOB_-fxMl7bgicu",
+    "news_item_snippet": "An own goal from Mert Muldur in the 76th minute, only six after Stefan De Vrij canceled Samet Akaydin&#39;s first-half header for Turkey, was enough for the Dutch&nbsp;...",
+    "news_item_url": "https://apnews.com/article/turkey-netherlands-euro-52cc87e5696c6581a2b37bcff8fa7123",
+    "picture_source": "NBC News",
     "approx_traffic": "50,000+"
   },
   {
     "country": "United States",
-    "title": "Beverly Hills Cop: Axel Foley",
-    "pubDate": "Sat, 06 Jul 2024 20:00:00 -0700",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQ_40vhTZlCFnB3S3qyE4W-eZlBZK26JlKIAsxLfOvs__1qq0i0qGLj9r9TaOjVPtx3_R6r9BYy",
-    "news_item_snippet": "Reprising his role as lovable undercover cop Axel Foley, the actor \u2013 and some full-on car-chase carnage \u2013 can&#39;t disguise a plot several decades past its&nbsp;...",
-    "news_item_url": "https://www.theguardian.com/film/article/2024/jul/07/beverly-hills-cop-axel-f-review-eddie-murphys-megawatt-charisma-lights-up-creaking-sequel",
-    "picture_source": "Variety",
+    "title": "England",
+    "pubDate": "Sat, 06 Jul 2024 11:00:00 -0700",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQTV0wCPe1NUh92bnuljyPDbCTycpnldFfP_crUDaUX2G2imHwCNSPggl_l-Z5V5lYm5XiT_WLf",
+    "news_item_snippet": "Maybe not anymore. England coach Gareth Southgate, who has his own special chapter in the country&#39;s spot-kick heartache, has worked hard behind the scenes to&nbsp;...",
+    "news_item_url": "https://apnews.com/article/england-penalties-shootout-euro-2024-f2ad08afbe418976d5c07d1c47aec34a",
+    "picture_source": "ESPN",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Jon Landau",
+    "pubDate": "Sat, 06 Jul 2024 17:00:00 -0700",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcToH7maNVm1K72l-MS8balFq4wONfhv5aMaKZVv23rSYFp8wY0iIi4QvQuRMwL_p7nwIsQpG63a",
+    "news_item_snippet": "Landau, an Oscar-winning producer who worked closely with director James Cameron on \u201cTitanic&quot; and the \u201cAvatar\u201d series, has died. Chris Pizzello/Invision / AP.",
+    "news_item_url": "https://www.opb.org/article/2024/07/07/jon-landau-the-oscar-winning-titanic-and-avatar-producer-dies-at-63/",
+    "picture_source": "The New York Times",
     "approx_traffic": "50,000+"
   },
   {
@@ -121,12 +121,12 @@
   },
   {
     "country": "United States",
-    "title": "Caleb Martin",
-    "pubDate": "Sat, 06 Jul 2024 10:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQC24sS8JgaWnB56veOQFnH_JD8byhqERi2DiP9Ujzug00zGBIbmKCynjhV40Jrs_wV5IO6y55q",
-    "news_item_snippet": "The Philadelphia 76ers signed Caleb Martin to a multiyear deal. Learn more about Martin and his NBA career!",
-    "news_item_url": "https://www.nba.com/sixers/news/philadelphia-76ers-sign-caleb-martin",
-    "picture_source": "ESPN",
+    "title": "Beverly Hills Cop: Axel Foley",
+    "pubDate": "Sat, 06 Jul 2024 20:00:00 -0700",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQ_40vhTZlCFnB3S3qyE4W-eZlBZK26JlKIAsxLfOvs__1qq0i0qGLj9r9TaOjVPtx3_R6r9BYy",
+    "news_item_snippet": "Reprising his role as lovable undercover cop Axel Foley, the actor \u2013 and some full-on car-chase carnage \u2013 can&#39;t disguise a plot several decades past its&nbsp;...",
+    "news_item_url": "https://www.theguardian.com/film/article/2024/jul/07/beverly-hills-cop-axel-f-review-eddie-murphys-megawatt-charisma-lights-up-creaking-sequel",
+    "picture_source": "Variety",
     "approx_traffic": "50,000+"
   },
   {
@@ -150,6 +150,16 @@
     "approx_traffic": "200,000+"
   },
   {
+    "country": "United States",
+    "title": "Money in the Bank 2024",
+    "pubDate": "Fri, 05 Jul 2024 15:00:00 -0700",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRdeCaKRiBSQiUo5nI7RhlOu0AifRHP8pfJxOhqaIWh-QzB3VgvZ1xtSCfQj1jlS8Glb1LNRTGZ",
+    "news_item_snippet": "Two exhilarating MITB ladder matches. A failed cash-in that was wild and chaotic. Rivalries taken to another level. A WWE legend with a huge announcement. And a&nbsp;...",
+    "news_item_url": "https://www.jsonline.com/story/sports/2024/07/06/wwe-money-in-the-bank-results-highlights-live-updates-winners-ladder-matches/74315700007/",
+    "picture_source": "Forbes",
+    "approx_traffic": "200,000+"
+  },
+  {
     "country": "India",
     "title": "South Africa Women vs India Women",
     "pubDate": "Sun, 07 Jul 2024 21:30:00 +0530",
@@ -158,16 +168,6 @@
     "news_item_url": "https://www.hindustantimes.com/cricket/india-women-vs-south-africa-women-live-score-2nd-t20i-of-south-africa-women-tour-of-india-2024-final-updates-today-07-jul-2024-101720355960733.html",
     "picture_source": "Sportstar",
     "approx_traffic": "200,000+"
-  },
-  {
-    "country": "India",
-    "title": "Jagannath Puri",
-    "pubDate": "Sun, 07 Jul 2024 01:30:00 +0530",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSmoEbqISn4B6ji5bdd2KY1Xl4FeknMezVe1zSvbv4GRlWFwmAtch3SrQlDqUVEDRz9wGBtUYz9",
-    "news_item_snippet": "28 Mins ago Puri Maharaja sweeps chariots as part of rituals &middot; 1 Hr ago Mamata Banerjee offers prayers in Kolkata &middot; 1 Hr 33 Mins ago President Droupadi Murmu&nbsp;...",
-    "news_item_url": "https://www.hindustantimes.com/india-news/jagannath-rath-yatra-2024-news-live-odisha-celebrates-2-day-festival-amid-tight-security-in-puri-101720316542038.html",
-    "picture_source": "The Hindu",
-    "approx_traffic": "50,000+"
   },
   {
     "country": "India",
@@ -181,11 +181,21 @@
   },
   {
     "country": "India",
+    "title": "Jagannath Puri",
+    "pubDate": "Sun, 07 Jul 2024 01:30:00 +0530",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcT30ZI0xnl1fWnRw5BvBIZP2bMQ5j3xbYfMex3Z1PQxV4iqukiu2_BR7k-KCp9hGd3c9b5O2tp5",
+    "news_item_snippet": "Thousands of devotees in Puri pulled giant chariots towards Gundicha temple, marking the beginning of the annual festival. The President and other&nbsp;...",
+    "news_item_url": "https://m.economictimes.com/news/india/jagannath-rath-yatra-chariot-pulling-begins-in-puri/articleshow/111558569.cms",
+    "picture_source": "The Hindu",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "India",
     "title": "Arvind Kejriwal",
     "pubDate": "Sun, 07 Jul 2024 02:30:00 +0530",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQTOdKofIzd1IECzU9t83BHQHXKu3T0acbYkkrT6yBt2OM6pmFjFpZ_H7tdRmuLnfC81iCaHnTs",
-    "news_item_snippet": "Sunita Kejriwal claims her husband, Delhi CM Arvind Kejriwal, was arrested by the ED on the basis of a false statement from TDP MP Magunta Srinivasulu Reddy&nbsp;...",
-    "news_item_url": "https://www.livemint.com/politics/news/ed-arrested-arvind-kejriwal-on-basis-of-false-statement-delhi-cms-wife-sunita-alleges-political-conspiracy-11720272229639.html",
+    "news_item_snippet": "In the video clip, Sunita Kejriwal stated that her husband was arrested by the central probe agency based on the statement of TDP MP Magunta Srinivasulu&nbsp;...",
+    "news_item_url": "https://www.indiatoday.in/india/story/sunita-kejriwal-nda-aap-arvind-kejriwal-arrest-ed-false-testimonies-tdp-2563264-2024-07-06",
     "picture_source": "Times of India",
     "approx_traffic": "50,000+"
   },
@@ -223,19 +233,9 @@
     "country": "India",
     "title": "MS Dhoni",
     "pubDate": "Sat, 06 Jul 2024 18:30:00 +0530",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQwh63As_X9Rc0XTdLbPhn9xVHO_dYYtPSNtV1ySyVDRpQylKICZf1Czoa4y96bdZvpErbSgC5h",
-    "news_item_snippet": "A video of Dhoni cutting his birthday cake in the early hours of July 7 went viral, where Salman Khan is seen standing alongside him and his wife Sakshi.",
-    "news_item_url": "https://sports.ndtv.com/cricket/ms-dhoni-celebrates-43rd-birthday-with-salman-khan-receives-video-call-wish-from-csk-captain-6052452",
-    "picture_source": "TV9 Telugu",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "India",
-    "title": "Hardik Pandya",
-    "pubDate": "Sat, 06 Jul 2024 19:30:00 +0530",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSQw8j3cm0Vl4KsxKvXpIJBTIpgFyOmZBMSCYk1Hyw_crEXN9I2grHee14iuLaeAbYgVuiqydc5",
-    "news_item_snippet": "Krunal Pandya shared an emotional Instagram post about his brother, Hardik Pandya. Now, Natasa Stankovic has reacted to it.",
-    "news_item_url": "https://www.livemint.com/news/trends/amid-divorce-rumours-hardik-pandya-s-wife-natasa-stankovic-reacts-to-krunal-s-emotional-instagram-post-about-brother-11720257577718.html",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQNkBisSeERoP_LZyvXtmoAwAaGk56iKVzNUg6Fcc9Vmn6bOX5fnBz8amyIbhyH0dW3LkXt035V",
+    "news_item_snippet": "\u0c05\u0c2f\u0c3f\u0c24\u0c47 7 \u0c05\u0c28\u0c3f \u0c30\u0c3e\u0c38\u0c3f \u0c09\u0c28\u0c4d\u0c28 \u0c15\u0c47\u0c15\u0c4d\u200c\u0c28\u0c41 \u0c2e\u0c41\u0c02\u0c26\u0c41\u0c17\u0c3e \u0c27\u0c4b\u0c28\u0c40 \u0c15\u0c1f\u0c4d \u0c1a\u0c47\u0c36\u0c3e\u0c21\u0c41. \u0c15\u0c47\u0c15\u0c4d \u0c15\u0c1f\u0c4d \u0c1a\u0c47\u0c38\u0c3f\u0c28 \u0c05\u0c28\u0c02\u0c24\u0c30\u0c02 \u0c2e\u0c41\u0c02\u0c26\u0c41\u0c17\u0c3e \u0c24\u0c28 \u0c38\u0c24\u0c40\u0c2e\u0c23\u0c3f \u0c38\u0c3e\u0c15\u0c4d\u0c37\u0c3f\u0c15\u0c3f \u0c24\u0c3f\u0c28\u0c3f\u0c2a\u0c3f\u0c02\u0c1a\u0c3e\u0c21\u0c41. \u0c26\u0c40\u0c28\u0c3f \u0c24\u0c30\u0c4d\u0c35\u0c3e\u0c24 \u0c38\u0c32\u0c4d\u0c2e\u0c3e\u0c28\u0c4d \u0c16\u0c3e\u0c28\u0c4d&nbsp;...",
+    "news_item_url": "https://tv9telugu.com/sports/cricket-news/ms-dhoni-43rd-birthday-celebrations-with-salman-khan-and-wife-sakshi-watch-video-1297234.html",
     "picture_source": "NDTVSports.com",
     "approx_traffic": "200,000+"
   },
@@ -260,6 +260,16 @@
     "approx_traffic": "200,000+"
   },
   {
+    "country": "India",
+    "title": "Sikandar Raza",
+    "pubDate": "Sat, 06 Jul 2024 17:30:00 +0530",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQDvkc3wrQNvzLmDUIYlqFhCNjspCYdz_WoLGjDTe8wfj-DWgmSxQsaH1UEZC0-N6dEN8NmgbYh",
+    "news_item_snippet": "Zimbabwe Captain Sikandar Raza History in T20 Cricket: \u0c1c\u0c3f\u0c02\u0c2c\u0c3e\u0c2c\u0c4d\u0c35\u0c47 \u0c15\u0c46\u0c2a\u0c4d\u0c1f\u0c46\u0c28\u0c4d \u0c38\u0c3f\u0c15\u0c3f\u0c02\u0c26\u0c30\u0c4d \u0c30\u0c1c\u0c3e \u0c1a\u0c30\u0c3f\u0c24\u0c4d\u0c30 \u0c38\u0c43\u0c37\u0c4d\u0c1f\u0c3f\u0c02\u0c1a\u0c3e\u0c21\u0c41. \u0c05\u0c02\u0c24\u0c30\u0c4d\u0c1c\u0c3e\u0c24\u0c40\u0c2f \u0c1f\u0c4020\u0c32\u0c4d\u0c32\u0c4b \u0c05\u0c24\u0c4d\u0c2f\u0c27\u0c3f\u0c15 &#39;\u0c2a\u0c4d\u0c32\u0c47\u0c2f\u0c30\u0c4d \u0c06\u0c2b\u0c4d&nbsp;...",
+    "news_item_url": "https://ntvtelugu.com/news/ind-vs-zim-zimbabwe-captain-sikandar-raza-equals-suryakumar-yadav-potm-rcord-630827.html",
+    "picture_source": "NTV Telugu",
+    "approx_traffic": "100,000+"
+  },
+  {
     "country": "Argentina",
     "title": "Colombia vs panama",
     "pubDate": "Sat, 06 Jul 2024 16:00:00 -0300",
@@ -274,9 +284,29 @@
     "title": "Paises Bajos",
     "pubDate": "Sat, 06 Jul 2024 16:00:00 -0300",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSBixxbGYNbd99VP9luKnqHnU35ggzar3Zq29KXcPI8sF0vzbkWY5-_OHLGnPBJ4VsdnqCGjBaJ",
-    "news_item_snippet": "El partido que cierra los cuartos de final del torneo se puede ver por televisi\u00f3n y streaming; Espa\u00f1a y Francia ya est\u00e1n en semifinales - LA NACION.",
-    "news_item_url": "https://www.lanacion.com.ar/deportes/futbol/en-que-canal-pasan-paises-bajos-vs-turquia-por-la-eurocopa-2024-hoy-nid06072024/",
+    "news_item_snippet": "Sigue en vivo y en directo el Pa\u00edses Bajos - Turqu\u00eda, partido de cuartos de final de la Eurocopa de 2024, que se disputa hoy, 6 de julio, a las 21:00 horas.",
+    "news_item_url": "https://as.com/futbol/eurocopa/paises-bajos-turquia-en-directo-cuartos-de-la-eurocopa-2024-hoy-en-vivo-n/",
     "picture_source": "Infobae.com",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "Argentina",
+    "title": "Argentina vs canada",
+    "pubDate": "Sat, 06 Jul 2024 01:00:00 -0300",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSu5yqP6Lbw-MpR3gLzPVb6gw4h2cxYWfFRej1bzlJyKyGpLuC6qwBhbXH0rFci_wf4tXWaXkDt5w",
+    "news_item_snippet": "La primer cruce de la etapa entre la albiceleste y los canadienses se disputar\u00e1 el pr\u00f3ximo martes en Nueva Jersey - LA NACION.",
+    "news_item_url": "https://www.lanacion.com.ar/deportes/futbol/argentina-vs-canada-por-las-semifinales-de-la-copa-america-2024-dia-horario-tv-y-como-ver-online-nid07072024/",
+    "picture_source": "ESPN",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Brazil",
+    "title": "Coritiba x Paysandu",
+    "pubDate": "Sun, 07 Jul 2024 09:00:00 -0500",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcS-JCSDT7VSFSQIFuHoa4AnBQG-nqHl7e-UHpXB_-8rp7I-GsBI0Gx8KWuZASJ6t3-dZ9rXxKKc",
+    "news_item_snippet": "Equipes entram em campo neste domingo (7), no Est\u00e1dio Couto Pereira; confira a transmiss\u00e3o e outras informa\u00e7\u00f5es do jogo.",
+    "news_item_url": "https://www.goal.com/br/not%C3%ADcias/onde-assistir-coritiba-paysandu-ao-vivo-internet-tv-escalacoes-serie-b-2024/blt65b28fd428ea37dd",
+    "picture_source": "Terra",
     "approx_traffic": "100,000+"
   },
   {
@@ -284,8 +314,8 @@
     "title": "S\u00e3o Paulo x Bragantino",
     "pubDate": "Sat, 06 Jul 2024 17:00:00 -0500",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcR-GFl3Lz95t6ZfrPPkpCp6Gf_IK5caCjIFqi4B_LtnjuIfAtlBkrd9xVHMNtEusZKJMF92wHd8",
-    "news_item_snippet": "RB Bragantino &middot; Pr\u00e9-Jogo &middot; Boa noite! Acompanhe os lances de S\u00e3o Paulo e Red Bull Bragantino, jogo v\u00e1lido pela 15\u00aa rodada da S\u00e9rie-A do Campeonato Brasileiro 2024&nbsp;...",
-    "news_item_url": "https://placar.com.br/brasileirao/ao-vivo-sao-paulo-x-bragantino-pela-15a-rodada-do-brasileirao/",
+    "news_item_snippet": "Neste s\u00e1bado (6), o S\u00e3o Paulo venceu o Red Bull Bragantino por 2 a 0, no MorumBIS, pela 15\u00aa rodada do Brasileir\u00e3o. Os gols do Tricolor foram marcados por&nbsp;...",
+    "news_item_url": "https://www.saopaulofc.net/no-morumbis-sao-paulo-vence-o-red-bull-bragantino-pelo-brasileirao/",
     "picture_source": "globoesporte.com",
     "approx_traffic": "1,000,000+"
   },
@@ -297,6 +327,16 @@
     "news_item_snippet": "O que \u00e9 Tanabata Matsuri? Google Doodle de hoje celebra a famosa &quot;festa das estrelas&quot;; conhe\u00e7a a origem do evento e saiba seu significado para a cultura&nbsp;...",
     "news_item_url": "https://www.techtudo.com.br/noticias/2024/07/tanabata-2024-google-doodle-celebra-festival-da-cultura-japonesa-edsoftwares.ghtml",
     "picture_source": "Aventuras na Hist\u00f3ria",
+    "approx_traffic": "500,000+"
+  },
+  {
+    "country": "Brazil",
+    "title": "Sele\u00e7\u00e3o Brasileira",
+    "pubDate": "Sat, 06 Jul 2024 22:00:00 -0500",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQUNty8W6F66FBfzHsPMohmbtyuIQJoVcwl2SefnGvFDXhsKgh4uBSBY1vkaGSEwKfh5zysvpLW",
+    "news_item_snippet": "Pel\u00e9 vestiu a amarelinha pela primeira vez em 1957, contra a Argentina. Por g1 Santos. 07/07/2024 10h20 Atualizado em&nbsp;...",
+    "news_item_url": "https://g1.globo.com/sp/santos-regiao/noticia/2024/07/07/ha-67-anos-o-rei-do-futebol-estreava-pela-selecao-brasileira.ghtml",
+    "picture_source": "G1",
     "approx_traffic": "500,000+"
   },
   {
@@ -363,20 +403,10 @@
     "country": "Canada",
     "title": "Heat warning",
     "pubDate": "Sat, 06 Jul 2024 17:00:00 -0400",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSGuFAwPB-s-f1C-fio0VpI_ZkeXiziyMdtoSMVQW_G8vDuYKnJHzadQK_7LXhkkLWLbY9eib5D",
-    "news_item_snippet": "The heat wave continues in Whistler, with temperatures expected to climb to 31 C on Sunday and a scorching 34 C on Monday and Tuesday.",
-    "news_item_url": "https://www.piquenewsmagazine.com/local-news/heat-warning-in-effect-for-whistler-9187106",
-    "picture_source": "rdnewsnow.com",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Canada",
-    "title": "India vs Zimbabwe",
-    "pubDate": "Sat, 06 Jul 2024 06:00:00 -0400",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRbgPu-vDfNFYgLwZcMYCG0ffn2WGaFU-LR8W3KM0uvTfd-7RjU2yIjchToyqnBW2e6ZN62cIp8",
-    "news_item_snippet": "India vs Zimbabwe 2nd T20I Highlights: Abhishek Sharma&#39;s 100 off 47 helped India register a 100-run victory over Zimbabwe on Sunday.",
-    "news_item_url": "https://sports.ndtv.com/cricket/india-vs-zimbabwe-live-score-2nd-t20-match-7-july-ind-vs-zim-latest-scorecard-shubman-gill-sikandar-raza-6052501",
-    "picture_source": "Livemint",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTv5fsTQJ2WKzY0M6rAZAMTLAc5fkUQLjjAlbwvMLIbXPo98JNsEU3bOwSSOF9SabvdmITz8pqy",
+    "news_item_snippet": "Extreme heat is quickly on the way for all of Alberta. On Saturday afternoon, Environment and Climate Change C...",
+    "news_item_url": "https://rdnewsnow.com/2024/07/06/heat-warning-issued-for-red-deer-and-central-alberta/",
+    "picture_source": "Island Health",
     "approx_traffic": "50,000+"
   },
   {
@@ -393,10 +423,10 @@
     "country": "France",
     "title": "Resultat legislative 2024",
     "pubDate": "Sun, 07 Jul 2024 11:00:00 +0200",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRjpX-iTcjJ-ZHSkfO2avXCcy95GoN0f4qRfjhKm7W0MHGRM_eN_OXTpQC7YAR9jjG5kQGAJg5-",
-    "news_item_snippet": "Les sortants divers gauche Christian Baptiste (72,38 %) et Max Mathiasin (69,15 %) ont battu deux candidats RN. Le d\u00e9put\u00e9 Liot sortant Olivier Serva, candidat divers gauche, l&#39;a emport\u00e9 avec 77,59 % des voix et Elie Califer (PS) avec 71,09 %.",
-    "news_item_url": "https://fr.news.yahoo.com/live/resultats-legislatives-2024-retrouvez-les-premieres-estimations-a-20h-suivez-notre-direct-145115199.html",
-    "picture_source": "France Bleu",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSRy5GFr-qQxmLIOUxvKnQWCFpPQ7YHvwWhFTWNfUlfEq6yyAzUEKuQAP3BMUtDvcp773af4UHx",
+    "news_item_snippet": "La France insoumise reste majoritaire au sein du bloc de gauche, avec 68 \u00e0 74 si\u00e8ges, mais d\u00e9sormais talonn\u00e9e par le Parti socialiste, qui devrait r\u00e9cup\u00e9rer&nbsp;...",
+    "news_item_url": "https://www.publicsenat.fr/actualites/politique/resultat-des-legislatives-2024-le-nouveau-front-populaire-en-tete-suivi-par-le-camp-presidentiel-le-rn-trebuche",
+    "picture_source": "Minist\u00e8re de l'Int\u00e9rieur",
     "approx_traffic": "200,000+"
   },
   {
@@ -407,7 +437,17 @@
     "news_item_snippet": "Euro 2024 : actus, matchs en direct, calendrier et r\u00e9sultats des rencontres, classement des groupes, des buteurs et des passeurs.",
     "news_item_url": "https://rmcsport.bfmtv.com/football/euro/direct-pays-bas-turquie-suivez-le-dernier-quart-de-finale-de-l-euro-2024-en-live_LS-202407060241.html",
     "picture_source": "TF1 INFO",
-    "approx_traffic": "200,000+"
+    "approx_traffic": "500,000+"
+  },
+  {
+    "country": "Germany",
+    "title": "T\u00fcrkei",
+    "pubDate": "Sat, 06 Jul 2024 22:00:00 +0200",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRtbOND453X243sb9kalUZYvLszERWwNgSiRzN0eQRXSlNOF9uCly3BoYnwUZZ26MWMvZr3eeDA",
+    "news_item_snippet": "Neben Pr\u00e4sident Erdogan ist auch Mesut \u00d6zil nach Berlin gereist, um die T\u00fcrkei bei der Fu\u00dfball-EM zu unterst\u00fctzen. Seine Posts auf Instagram sorgen f\u00fcr&nbsp;...",
+    "news_item_url": "https://www.schwaebische.de/sport/auch-oezil-beim-em-spiel-der-tuerkei-gegen-die-niederlande-2678589",
+    "picture_source": "rbb24",
+    "approx_traffic": "100,000+"
   },
   {
     "country": "Germany",
@@ -480,23 +520,13 @@
     "approx_traffic": "50,000+"
   },
   {
-    "country": "Germany",
-    "title": "Fu\u00dfball",
-    "pubDate": "Fri, 05 Jul 2024 19:00:00 +0200",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTwxUz1IMjC0Ara4m-VPSeX5sJYDhmnQU4YLKZroOY4cpKclA9-LrNwM6cnqO1oaVG7SuqlqFHe",
-    "news_item_snippet": "Fu\u00dfball-Oberligist FC N\u00f6ttingen startete in der vergangenen Saison eine furiose Aufholjagd. Im Sommer folgt ein Umbruch. Trainer Dirk Rohde will an der&nbsp;...",
-    "news_item_url": "https://bnn.de/pforzheim/enzkreis/remchingen/trotz-umbruch-ist-dem-fussball-oberligisten-fc-noettingen-vor-der-saison-nicht-bange",
-    "picture_source": "BNN - Badische Neueste Nachrichten",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Germany",
-    "title": "England Schweiz EM",
-    "pubDate": "Fri, 05 Jul 2024 22:00:00 +0200",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRGQ9yVdOZ2bYHwEjSfdLs1e8MUTy8vHid4EiRw5XpcwiXEyK50hPrFQGd1zMSS0xfUPvhtJ9_n",
-    "news_item_snippet": "England hat das Halbfinale der EM erreicht. Gegen die Schweiz setzten sich die Engl\u00e4nder im Elfmeterschie\u00dfen durch - und profitierten dabei auch von der&nbsp;...",
-    "news_item_url": "https://www.sportschau.de/fussball/uefa-euro-2024/drama-aus-elf-metern-england-wirft-die-schweiz-raus,viertelfinale-england-schweiz-100.html",
-    "picture_source": "BNN - Badische Neueste Nachrichten",
+    "country": "Mexico",
+    "title": "Pumas",
+    "pubDate": "Sun, 07 Jul 2024 11:00:00 -0600",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcS-BGHfBqfhaUV79sWlvOh7EMocczSId3dcP9sPa9maSDEI1KBvKMCKvDpsMqUpiclOYY0pIkx-",
+    "news_item_snippet": "Los dirigidos por Gustavo Lema abren tel\u00f3n en el nuevo semestre del futbol mexicano en el Estadio Ol\u00edmpico de C.U. frente a unos Esmeraldas con fichaje&nbsp;...",
+    "news_item_url": "https://www.tudn.com/futbol/liga-mx/pumas-vs-leon-horario-donde-ver-partido-jornada-liga-mx-apertura-2024",
+    "picture_source": "AS Mexico",
     "approx_traffic": "50,000+"
   },
   {
@@ -511,16 +541,6 @@
   },
   {
     "country": "Mexico",
-    "title": "Cruz Azul  Mazatl\u00e1n",
-    "pubDate": "Sat, 06 Jul 2024 12:00:00 -0600",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQ7kdH8eVgKessqrTZQF3gvCRNGEpGoO31wObuj_Pei_1EHq9cFdcYzHGp7hWSCnD82EV1Z42EG",
-    "news_item_snippet": "El torneo de Apertura 2024 ha iniciado y present\u00f3 el debut del Cruz Azul de Mart\u00edn Anselmi, enfrentando al Mazatl\u00e1n de V\u00edctor Manuel Vucetich.",
-    "news_item_url": "https://www.goal.com/es-mx/listados/cruz-azul-vs-mazatlan-en-vivo-por-el-apertura-2024-de-la-liga-mx-resultado-alineaciones-resumen-y-videos/blte62d9c1350c928dc",
-    "picture_source": "AS Mexico",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "Mexico",
     "title": "Pa\u00edses Bajos  Turqu\u00eda",
     "pubDate": "Sat, 06 Jul 2024 12:00:00 -0600",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTwyXdKKLYizXDuDKtjbvWQ0uizTU4TQjDkH-XTZQoO0rgAXeQ5qRA_lbzFcsYa25zpIM4XE4RW",
@@ -531,32 +551,62 @@
   },
   {
     "country": "Mexico",
+    "title": "Cruz Azul",
+    "pubDate": "Sat, 06 Jul 2024 12:00:00 -0600",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQg5K2zw1b81wghZoYnmZnG6Ju-z5IqLUe9PuSQBILX-S86SbeuvDQYofKxNajZvD1VTQnfKuI8",
+    "news_item_snippet": "Cruz Azul derrot\u00f3 1-0 a Mazatl\u00e1n con gol de Bryan Gamboa en la jornada 1 del Apertura 2024, en encuentro disputado en el Estadio Ciudad de los Deportes.",
+    "news_item_url": "https://www.tudn.com/futbol/liga-mx/cruz-azul-vencio-1-0-mazatlan-fecha-1-apertura-2024",
+    "picture_source": "ESPN",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "Mexico",
     "title": "Tigres  Necaxa",
-    "pubDate": "Sat, 06 Jul 2024 13:00:00 -0600",
+    "pubDate": "Sat, 06 Jul 2024 15:00:00 -0600",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTxGOSxAu54TEg5IX2zYF2FyTcir8l7lPuAfwTC_Z6YoDCvNA8aAo3MZz64ABFSL22zL3OP1j4U",
     "news_item_snippet": "Sigue todas las acciones en directo minuto a minuto del Tigres vs Necaxa, partido correspondiente a la Jornada 1 del Apertura 2024 este s\u00e1bado 6 de julio&nbsp;...",
     "news_item_url": "https://mexico.as.com/futbol/futbol-mexicano/tigres-vs-necaxa-en-vivo-liga-mx-apertura-2024-hoy-en-directo-n/",
     "picture_source": "TUDN",
-    "approx_traffic": "200,000+"
+    "approx_traffic": "100,000+"
   },
   {
     "country": "United Kingdom",
     "title": "Lewis Hamilton",
     "pubDate": "Sun, 07 Jul 2024 01:00:00 +0100",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRojZNW6gjuZUwm6LbTOk5ygBJldmeGE3-9GeYIMQA7YVeRE_l3r85J2pm0meb7BB59wen3OjSw",
-    "news_item_snippet": "Mercedes driver thrilled the home crowd at Silverstone with his first grand prix victory since December 2021, while championship leader Max Verstappen&nbsp;...",
-    "news_item_url": "https://www.theguardian.com/sport/article/2024/jul/07/lewis-hamilton-wins-british-f1-gp-ninth-time-mercedes",
+    "news_item_snippet": "Lewis Hamilton won the British Grand Prix, the 12th round of the 2024 Formula 1 World Championship, at Silverstone for Mercedes.",
+    "news_item_url": "https://www.autosport.com/f1/news/f1-british-gp-results-lewis-hamilton-scores-record-breaking-win/10632741/",
     "picture_source": "Motorsport UK",
     "approx_traffic": "100,000+"
   },
   {
     "country": "United Kingdom",
-    "title": "Carlos Alcaraz",
+    "title": "Alcaraz",
     "pubDate": "Sun, 07 Jul 2024 15:00:00 +0100",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcROR-_e_yN3gElpqJcJCmvVJLCy_YYOHjZrdVFDipP-W98czbUuTp0BUiSosvO1flb7WQmUgoZ8",
-    "news_item_snippet": "Following on from a five-set win over Frances Tiafoe in the fourth round, defending champion Carlos Alcaraz was again made to sweat before beating 16th seed&nbsp;...",
-    "news_item_url": "https://www.skysports.com/tennis/news/32498/13174605/wimbledon-carlos-alcaraz-through-to-quarter-finals-after-hard-fought-four-set-win-over-ugo-humbert",
+    "news_item_snippet": "Alcaraz spent exactly three hours on Centre Court before he downed Ugo Humbert 6-3 6-4 1-6 7-5.",
+    "news_item_url": "https://www.independent.co.uk/sport/tennis/carlos-alcaraz-ugo-humbert-centre-court-frances-tiafoe-novak-djokovic-b2575600.html",
     "picture_source": "The Guardian",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United Kingdom",
+    "title": "Madison Keys",
+    "pubDate": "Sun, 07 Jul 2024 14:00:00 +0100",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQnXT3iIZB9GpH3EsQwc0E7fRzEwNYeWJCchr-nZHfXaTDkWwX_1u2cpHyZxclElpOqDyuZjW5Y",
+    "news_item_snippet": "Madison Keys sought her third Wimbledon quarterfinals appearance before she was forced to retire from a fourth-round match due to a leg injury.",
+    "news_item_url": "https://www.usatoday.com/story/sports/tennis/wimb/2024/07/07/madison-keys-withdraws-wimbledon-injury/74320673007/",
+    "picture_source": "iNews",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United Kingdom",
+    "title": "British grand prix",
+    "pubDate": "Sun, 07 Jul 2024 01:00:00 +0100",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQcyXAiHvb51Qk7XjpuxL2qYK7zuHCeDaVzACWWK18_MKUxgidkoSCIzH1W1Arl7dHIYGsk6g9Z",
+    "news_item_snippet": "Sven Smeets, Alex Albon &amp; Logan Sargeant react after the race.",
+    "news_item_url": "https://www.williamsf1.com/posts/d3c15e70-b9f3-45be-94c8-d4fe91d8267f/2024-british-grand-prix",
+    "picture_source": "Williams Racing",
     "approx_traffic": "50,000+"
   },
   {
@@ -568,5 +618,15 @@
     "news_item_url": "https://www.bbc.co.uk/news/articles/c51ygx2l4rxo",
     "picture_source": "Sky News",
     "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United Kingdom",
+    "title": "Netherlands vs Turkey",
+    "pubDate": "Sat, 06 Jul 2024 20:00:00 +0100",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQF5ODmusi2NG1rXIGst2LVwMuP0rjZ8Dv7var_yWgec_xKR2sksJnKTycpLBPNcCWrHjrxM8A3",
+    "news_item_snippet": "All the updates from the UEFA Euro 2024 quarterfinal between Netherlands and Turkey at Olympiastadion on July 6.",
+    "news_item_url": "https://www.aljazeera.com/sports/liveblog/2024/7/6/live-netherlands-vs-turkey-uefa-euro-2024-quarterfinal-match",
+    "picture_source": "BBC Sport",
+    "approx_traffic": "200,000+"
   }
 ]
