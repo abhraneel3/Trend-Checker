@@ -1,23 +1,33 @@
 [
   {
     "country": "United States",
+    "title": "Houston weather",
+    "pubDate": "Mon, 08 Jul 2024 07:00:00 -0700",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTUVxjqFp03IuFhjK4Dq5-3Kh-aNgrMuWc3VVagyOaLWHgqSv2yx6cp3XY1XmibJch6MJeUr72x",
+    "news_item_snippet": "Independent living facilities for seniors do not face the same stringent oversight like nursing homes or assisted living centers.",
+    "news_item_url": "https://www.houstonpublicmedia.org/articles/news/weather/2024/07/08/492752/seniors-left-to-swelter-as-wild-weather-tests-houstons-independent-senior-living-facilities/",
+    "picture_source": "Houston Public Media",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United States",
     "title": "French elections",
     "pubDate": "Sun, 07 Jul 2024 13:00:00 -0700",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcScGUMlv3olJ8Hf4x42BkTVbGGckR4Ii5lMWepFuJHduaf7NLJ7C48X_YNFCuS9AbRtIFnZRJBn",
-    "news_item_snippet": "Analysis of France&#39;s 2024 parliamentary election results, implications for Macron&#39;s presidency, and the emerging political landscape.",
-    "news_item_url": "https://www.forbes.com/sites/benjaminlaker/2024/07/08/french-elections-2024-and-their-impact-on-macron-and-beyond/",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTU1tdV6t-kVeloLjhNGdgwTg6r0p-Oe0ZnhQCoga0Wnqz6lMzBHEos8lWrewjy-odxGTjFn6hp",
+    "news_item_snippet": "French President Emmanuel Macron has refused the resignation of the country&#39;s prime minister, asking him to remain temporarily as the head of the government&nbsp;...",
+    "news_item_url": "https://abcnews.go.com/International/wireStory/french-vote-splits-left-center-majority-political-paralysis-111737247",
     "picture_source": "CNN",
     "approx_traffic": "200,000+"
   },
   {
     "country": "United States",
-    "title": "Houston Weather",
+    "title": "Hurricane Houston",
     "pubDate": "Sun, 07 Jul 2024 04:00:00 -0700",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRP_dNdR24gLA4b6F-bl0rZMxHqY41iIuood6JWb1z7RsH9I2jFx551uAdly7FyuM_EPuTJwO5a",
-    "news_item_snippet": "Independent living facilities for seniors do not face the same stringent oversight like nursing homes or assisted living centers.",
-    "news_item_url": "https://www.houstonpublicmedia.org/articles/news/weather/2024/07/08/492752/seniors-left-to-swelter-as-wild-weather-tests-houstons-independent-senior-living-facilities/",
-    "picture_source": "fox26houston.com",
-    "approx_traffic": "200,000+"
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTsOaRicpg3pTNHRRphkMmApzHQO3woZPGZvgJrT3LUj2j-5eB2NC4x1tuiQ45vqJz2DrTr32mF",
+    "news_item_snippet": "Hurricane Beryl tracker including the latest update on path, location, a tracking map, hurricane watch, expected landfall and how it may impact Texas and&nbsp;...",
+    "news_item_url": "https://www.fox26houston.com/weather/tropical-storm-beryl-tracker-update-texas-houston-landfall-path-sunday",
+    "picture_source": "Houston Public Media",
+    "approx_traffic": "100,000+"
   },
   {
     "country": "United States",
@@ -31,11 +41,21 @@
   },
   {
     "country": "United States",
+    "title": "Coco Gauff",
+    "pubDate": "Sun, 07 Jul 2024 16:00:00 -0700",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRATZFfP8z52v7IRNT2xjDIvRBmK9ToKjZKV5pH-nMRHjEBFBgYSBfcMiZ6dG6irqKPwNoeoYBi",
+    "news_item_snippet": "Coco Gauff lost in the fourth round at Wimbledon to Emma Navarro. Navarro won 6-4, 6-3. The second-seeded Gauff has never made it past the fourth round at&nbsp;...",
+    "news_item_url": "https://apnews.com/article/wimbledon-2024-coco-gauff-emma-navarro-6eda4d1a5ad0c0e254a0a97f7ba23a1b",
+    "picture_source": "NPR",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United States",
     "title": "Lewis Hamilton",
     "pubDate": "Sun, 07 Jul 2024 09:00:00 -0700",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSXQKnfbpD2Age0dnvfF8KFXFmYVm1E4v2mnvIhVXUsw5m7W0tNtzSNsWzJ7nydR596GYvuDVvt",
-    "news_item_snippet": "Lewis Hamilton&#39;s three-year wait to win an F1 race ended on home soil on Sunday, and that drought made his 104th victory the most special of all.",
-    "news_item_url": "https://www.espn.com/racing/story/_/id/40515930/lewis-hamilton-ending-945-day-f1-victory-drought-silverstone-makes-most-special-win",
+    "news_item_snippet": "Lewis Hamilton cut an emotional figure after spectacularly claiming his first Formula 1 victory since the 2021 season during Sunday&#39;s dramatic,&nbsp;...",
+    "news_item_url": "https://www.formula1.com/en/latest/article/i-cant-stop-crying-hamilton-admits-there-were-days-he-didnt-feel-good-enough.wEUg8BHFp8JHOrUieCIF3",
     "picture_source": "NPR",
     "approx_traffic": "50,000+"
   },
@@ -51,22 +71,42 @@
   },
   {
     "country": "United States",
-    "title": "Emma Raducanu",
+    "title": "Davis Thompson",
     "pubDate": "Sun, 07 Jul 2024 12:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSJKlxvoQwlwTTd4-R_OXQdp4Lc6CuNze9yiVx9z2mhA47xKycXxtvstgWHRLwIzLRTcGepTVMk",
-    "news_item_snippet": "Raducanu was scheduled to play with Murray, a former Wimbledon champion, on Saturday, but opted to pull out of the tie due to a stiff wrist.",
-    "news_item_url": "https://www.japantimes.co.jp/sports/2024/07/08/tennis/emma-raducanu-mixed-doubles-withdraw/",
-    "picture_source": "Eurosport.com",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQpU9iRddO1oieUjn39n85Zb_NaTsCJPKQSMgdy2zWjklq1Pc4FlC6OeLrznwP8vr7Cd26SKfMK",
+    "news_item_snippet": "Just a lot of things off&nbsp;...",
+    "news_item_url": "https://www.kwqc.com/2024/07/08/davis-thompson-celebrates-jdc-victory-with-his-wife/",
+    "picture_source": "pgatour.com",
     "approx_traffic": "50,000+"
   },
   {
     "country": "United States",
-    "title": "Alcaraz",
-    "pubDate": "Sun, 07 Jul 2024 13:00:00 -0700",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcT2rpFCaClUC0kYGEoy7VF1FXeo6xUfyga-WpIxmUAR4GD1TIKgglNohfNKiFY7lhRuV6cGAXWF",
-    "news_item_snippet": "Defending champion Carlos Alcaraz and top-ranked Jannik Sinner are one win each away from meeting in the Wimbledon semifinals.",
-    "news_item_url": "https://apnews.com/article/wimbledon-7-7-2024-results-be7008b8be878d108e125619f3a03153",
-    "picture_source": "ESPN",
+    "title": "Emma Raducanu",
+    "pubDate": "Sun, 07 Jul 2024 12:00:00 -0700",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTQGYwFCF7HvbhwV-f-Y79bIDVt5cIFAY6GUMBXaJoUxOWcRWMKgJxrODI0ywB9sSci9XX5Of8w",
+    "news_item_snippet": "Emma Raducanu defended her decision to withdraw from a dream mixed doubles partnership with Andy Murray after falling to defeat against qualifier Lulu Sun.",
+    "news_item_url": "https://www.eurosport.com/tennis/wimbledon/2024/have-to-prioritise-myself-emma-raducanu-defends-no-brainer-withdrawal-from-andy-murray-doubles-match-at-wimbledon_sto20016279/story.shtml",
+    "picture_source": "The Japan Times",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Carlos Alcaraz",
+    "pubDate": "Sun, 07 Jul 2024 12:00:00 -0700",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSW_BDOzaTSoDo6JLH0fjeCdv4YnCwAP_M3mbbdFtsQKXkvQWNwngyrhTFF5MDOuluo9owbtw9S",
+    "news_item_snippet": "Defending champion Carlos Alcaraz and top-ranked Jannik Sinner are one match away from another high-stakes meeting in the Wimbledon semifinals.",
+    "news_item_url": "https://www.latimes.com/sports/story/2024-07-07/carlos-alcaraz-and-jannik-sinner-advance-to-wimbledon-quarterfinals",
+    "picture_source": "The Associated Press",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Alice Munro",
+    "pubDate": "Sun, 07 Jul 2024 18:00:00 -0700",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcR45kVYgQIEfppNw5ygLHBQKBM_3HFWseYK7IPkyBr28d4FAxib6FF19u2D6zalfVV-zuoic3TB",
+    "news_item_snippet": "Andrea Robin Skinner revealed how her mother, celebrated late writer Alice Munro, turned a blind eye to her sexual abuse by Munro&#39;s husband.",
+    "news_item_url": "https://time.com/6995658/alice-munro-legacy-daughter-andrea-skinner-abuse-fremlin-silence-complicity/",
+    "picture_source": "The New York Times",
     "approx_traffic": "50,000+"
   },
   {
@@ -84,40 +124,10 @@
     "title": "Khyree Jackson",
     "pubDate": "Sat, 06 Jul 2024 09:00:00 -0700",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSpZ_F8BAA7Opsti0CxOtLEaX92JceggbdTvWJDVGR9TXbevopFk8NyId7RWFrKuee4URBTzZ5p",
-    "news_item_snippet": "Jackson was one of three men killed in a car crash early Saturday morning. The cornerback was chosen by the Vikings in the fourth round of the NFL draft&nbsp;...",
-    "news_item_url": "https://www.mprnews.org/story/2024/07/06/vikings-player-khyree-jackson-24-killed-in-maryland-crash",
+    "news_item_snippet": "Vikings rookie cornerback Khyree Jackson was killed in a car crash Saturday morning, the team announced.",
+    "news_item_url": "https://www.nfl.com/news/vikings-rookie-cb-khyree-jackson-dies-in-car-crash-at-age-24",
     "picture_source": "Vikings.com",
     "approx_traffic": "500,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Nate Diaz vs Masvidal",
-    "pubDate": "Sat, 06 Jul 2024 09:00:00 -0700",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRL6InwT0UJfYBqIhHOt1j_-DphBmpCztcv_GYEy3TAb4piR0dS0IBhErkMi2kWzvC0-W0nQgpm",
-    "news_item_snippet": "\u201cIt feels good to get the job done for sure,&#39;&#39; Diaz said. \u201cMission accomplished.\u201d The 39-year-old fighters pummeled each other through the fight and maintained&nbsp;...",
-    "news_item_url": "https://www.usatoday.com/story/sports/boxing/2024/07/06/nate-diaz-jorge-masvidal-fight-live-updates-highlights/74294548007/",
-    "picture_source": "ESPN",
-    "approx_traffic": "500,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Lakers",
-    "pubDate": "Sat, 06 Jul 2024 13:00:00 -0700",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRTx1UXjNul_O_CbMKrLu5HlUbWJADoIPqXzwEtHtfCH0Q6L0aMN-C7s3mZ2tBYpY5X4m179bsu",
-    "news_item_snippet": "While Bronny James was held out of Sunday&#39;s summer league game because of knee swelling, the Lakers are hopeful the rookie can play Wednesday.",
-    "news_item_url": "https://www.espn.com/nba/story/_/id/40515203/bronny-james-knee-misses-lakers-california-classic-game",
-    "picture_source": "NBA.com",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Shakur Stevenson",
-    "pubDate": "Sat, 06 Jul 2024 09:00:00 -0700",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSuEZLc9i5WY_VWPse0kLHbBg_aW6RAxmM0aL7SKflKwkngca-qpKOr09DqWHc3Bv5dALIML7f7",
-    "news_item_snippet": "Harutyunan falls to 12-2. Shakur Stevenson vs. Artem Harutyunyan fight: Round 11. More boos. What we&#39;ve seen here are back-to-back&nbsp;...",
-    "news_item_url": "https://www.tennessean.com/story/sports/2024/07/06/shakur-stevenson-artem-harutyunyan-fight-live-updates-watch-results/74236079007/",
-    "picture_source": "ESPN",
-    "approx_traffic": "200,000+"
   },
   {
     "country": "United States",
@@ -131,42 +141,32 @@
   },
   {
     "country": "United States",
-    "title": "John Cena",
-    "pubDate": "Sat, 06 Jul 2024 18:00:00 -0700",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTUi5adarZCu749wWmY2n21dCwJkBc9uCJXxyIq0NhEEt2VuGIdiJrUiNr_p8_D0eHUtUN5-aU6",
-    "news_item_snippet": "John Cena has announced his retirement from professional wrestling after two decades in the ring. ByThe Associated Press. July 7, 2024, 2:01 PM.",
-    "news_item_url": "https://abcnews.go.com/US/wireStory/john-cena-announces-retirement-professional-wrestling-after-2025-111731397",
-    "picture_source": "WBRC",
+    "title": "Nate Diaz",
+    "pubDate": "Sat, 06 Jul 2024 13:00:00 -0700",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRL6InwT0UJfYBqIhHOt1j_-DphBmpCztcv_GYEy3TAb4piR0dS0IBhErkMi2kWzvC0-W0nQgpm",
+    "news_item_snippet": "The former UFC fighters will meet in the boxing ring during the &quot;Last Man Standing&quot; pay per view.",
+    "news_item_url": "https://www.cincinnati.com/story/sports/2024/07/06/nate-diaz-vs-jorge-masvidal-boxing-time-streaming-ppv-information-how-to-watch-prediction-odds/74316567007/",
+    "picture_source": "ESPN",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Shakur Stevenson",
+    "pubDate": "Sat, 06 Jul 2024 09:00:00 -0700",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSuEZLc9i5WY_VWPse0kLHbBg_aW6RAxmM0aL7SKflKwkngca-qpKOr09DqWHc3Bv5dALIML7f7",
+    "news_item_snippet": "Harutyunan falls to 12-2. Shakur Stevenson vs. Artem Harutyunyan fight: Round 11. More boos. What we&#39;ve seen here are back-to-back&nbsp;...",
+    "news_item_url": "https://www.tennessean.com/story/sports/2024/07/06/shakur-stevenson-artem-harutyunyan-fight-live-updates-watch-results/74236079007/",
+    "picture_source": "ESPN",
     "approx_traffic": "100,000+"
   },
   {
     "country": "United States",
-    "title": "Ben Rice",
-    "pubDate": "Sat, 06 Jul 2024 13:00:00 -0700",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRaiNPC-ryhHKo05AD0uVc2lzMnHtpVN4rvgpXweOu-MzXk1ougc3tAFwr_R9q4UHACGTlSfwUHjg",
-    "news_item_snippet": "Rookie Ben Rice had a day to remember as he hit three home runs in the New York Yankees&#39; huge 14-4 win against the Boston Red Sox on Saturday.",
-    "news_item_url": "https://www.albanyherald.com/sports/a-day-to-remember-yankees-rookie-ben-rice-hits-three-homers/article_805a2028-3cc3-11ef-ac52-63330fa0fd55.html",
-    "picture_source": "CBS News",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Jon Landau",
-    "pubDate": "Sat, 06 Jul 2024 17:00:00 -0700",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSdJdqHS6QzF_RASPOnYv17aLPwHn8jt4g_ouuQLt34X99VF-PqPNq9bM8a72Lz3axR2pGlU9p5",
-    "news_item_snippet": "Leonardo DiCaprio, Kate Winslet, and James Cameron have paid tribute to producer Jon Landau, who died on Friday at age 63.",
-    "news_item_url": "https://www.rollingstone.com/tv-movies/tv-movie-news/leonardo-dicaprio-kate-winslet-james-cameron-jon-landau-tributes-1235054583/",
-    "picture_source": "OPB News",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "India",
-    "title": "Mumbai Rains",
-    "pubDate": "Mon, 08 Jul 2024 09:30:00 +0530",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQbh3zl7OcSbxgqsSg_NWOIxTrig5UtXx1sR378aQ-WOT7ka97BUn51JM2rcG8ZzRnjCCUVdvSH",
-    "news_item_snippet": "Mumbai rains LIVE Updates: Heavy rainfall in Mumbai and other parts of Maharashtra disrupted normal life as roads are waterlogged, train services are&nbsp;...",
-    "news_item_url": "https://www.livemint.com/news/india/mumbai-rains-live-updates-maharashtra-local-train-flights-city-waterlogged-imd-weather-update-latest-news-july-8-11720401464062.html",
-    "picture_source": "The Hindu",
+    "title": "Lakers",
+    "pubDate": "Sat, 06 Jul 2024 16:00:00 -0700",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQo0hXp62a6jC9v_EHvY0il7T6Sn_Wv5UZqYY0grjNDBzDc-reXZ23w-831Z6GzqC468PaBOJjZ",
+    "news_item_snippet": "Los Angeles Lakers star LeBron James signed an extension to remain with the franchise, officials confirmed on X Sunday, leading to a potential NBA first of&nbsp;...",
+    "news_item_url": "https://www.nbcnews.com/news/sports/lebron-james-signs-deal-lakers-rcna160179",
+    "picture_source": "ESPN",
     "approx_traffic": "100,000+"
   },
   {
@@ -191,6 +191,26 @@
   },
   {
     "country": "India",
+    "title": "Mumbai Rains",
+    "pubDate": "Mon, 08 Jul 2024 09:30:00 +0530",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQbh3zl7OcSbxgqsSg_NWOIxTrig5UtXx1sR378aQ-WOT7ka97BUn51JM2rcG8ZzRnjCCUVdvSH",
+    "news_item_snippet": "Mumbai rains LIVE Updates: Heavy rainfall in Mumbai and other parts of Maharashtra disrupted normal life as roads are waterlogged, train services are&nbsp;...",
+    "news_item_url": "https://www.livemint.com/news/india/mumbai-rains-live-updates-maharashtra-local-train-flights-city-waterlogged-imd-weather-update-latest-news-july-8-11720401464062.html",
+    "picture_source": "The Hindu",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "India",
+    "title": "France Election",
+    "pubDate": "Mon, 08 Jul 2024 11:30:00 +0530",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTzw10Q8Kcaa5UAzhlEXeFvidkyTbG6Zyz2Xq9tQNOMQv_2tZqm-AqQEn_8wvuJ8-O35lmmPf2W",
+    "news_item_snippet": "French election night turned turbulent as results showed a left-wing coalition poised to claim the majority of parliamentary seats.",
+    "news_item_url": "https://www.business-standard.com/world-news/violence-breaks-out-in-france-as-left-wing-coalition-leads-snap-election-124070800064_1.html",
+    "picture_source": "India Today",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "India",
     "title": "MS Dhoni",
     "pubDate": "Sun, 07 Jul 2024 00:30:00 +0530",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQNkBisSeERoP_LZyvXtmoAwAaGk56iKVzNUg6Fcc9Vmn6bOX5fnBz8amyIbhyH0dW3LkXt035V",
@@ -200,23 +220,13 @@
     "approx_traffic": "200,000+"
   },
   {
-    "country": "India",
-    "title": "Jagannath Puri",
-    "pubDate": "Sun, 07 Jul 2024 01:30:00 +0530",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSSZl21VgDeK-h_MGUaNQ8YQ6vjaWBFeJTWwlMsZFiM6RyNZxfzJd2sU2u5SiTZln5Y3IxDd_wJ",
-    "news_item_snippet": "Thousands of devotees in Puri pulled giant chariots towards Gundicha temple, marking the beginning of the annual festival. The President and other&nbsp;...",
-    "news_item_url": "https://m.economictimes.com/news/india/jagannath-rath-yatra-chariot-pulling-begins-in-puri/articleshow/111558569.cms",
-    "picture_source": "The Hindu",
-    "approx_traffic": "50,000+"
-  },
-  {
     "country": "Argentina",
     "title": "Gran Hermano",
     "pubDate": "Sun, 07 Jul 2024 21:00:00 -0300",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQVpKdwZDY88sYiJv2FYrNKJm2GNS0_7JqT3XJy29taosFNHFeAYXTYNq9Y8BgkSVQFJNALTWrc",
-    "news_item_snippet": "Bautista Mascia se coron\u00f3 como el ganador del certamen, en una gala que se extendi\u00f3 por m\u00e1s de tres horas y fue conducida por Santiago del Moro. En cuanto a los&nbsp;...",
-    "news_item_url": "https://www.infobae.com/teleshow/2024/07/08/el-rating-de-la-final-de-gran-hermano-cuanto-midio-la-gala-que-consagro-a-bautista-como-el-ganador/",
-    "picture_source": "LA NACION",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQq0ki5tVRkCVMJjlFD446s-OFACv0eHZ4cIfsL9JseJo0tY2J0YXN3DcPCKN7HWtuNxPVUvM2P",
+    "news_item_snippet": "Bautista Mascia se consagr\u00f3 ganador del reality tras vencer a Emmanuel Vich en la final; el reencuentro con su pareja dentro de la casa y el gesto&nbsp;...",
+    "news_item_url": "https://www.lanacion.com.ar/espectaculos/television/lo-que-no-se-vio-de-la-final-de-gran-hermano-el-beso-de-denisse-a-bautista-y-la-polemica-reaccion-de-nid08072024/",
+    "picture_source": "Infobae.com",
     "approx_traffic": "100,000+"
   },
   {
@@ -234,8 +244,8 @@
     "title": "French elections",
     "pubDate": "Sun, 07 Jul 2024 23:00:00 +1000",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTEBMF0aNlLMaqod8CbmPUExGFfCFv0WmD8AjPWMlSmPRq3wpdgQ3BTo87b_G0wwSepKyshURAX",
-    "news_item_snippet": "But in the second round, the party simply could not break through the so-called \u201crepublican front\u201d, the practice of candidates withdrawing to avoid splitting&nbsp;...",
-    "news_item_url": "https://theconversation.com/french-election-far-right-government-blocked-as-le-pens-alliance-pushed-into-third-place-says-exit-poll-234000",
+    "news_item_snippet": "PARIS \u2014 France is headed for weeks or even months of political turmoil following a second-round vote on Sunday that left no single party or alliance in a&nbsp;...",
+    "news_item_url": "https://www.politico.eu/article/https-www-politico-eu-article-france-legislative-election-2024-live-updates-national-rally-marine-le-pen-new-popular-front-emmanuel-macron/",
     "picture_source": "SBS",
     "approx_traffic": "50,000+"
   },
@@ -257,6 +267,16 @@
     "news_item_snippet": "CAM &middot; 31 Matheus Mendes &middot; 3 Bruno Fuchs &middot; 16 Igor Rabello &middot; 21 Rodrigo Battaglia &middot; 5 Otavio &middot; 6 Gustavo Scarpa &middot; 23 Alan Franco &middot; 42 Cadu&nbsp;...",
     "news_item_url": "https://www.terra.com.br/esportes/futebol/brasileiro-serie-a/ao-vivo/botafogo-x-atletico-mg/84854/",
     "picture_source": "Jornal O Globo",
+    "approx_traffic": "500,000+"
+  },
+  {
+    "country": "Brazil",
+    "title": "Corinthians",
+    "pubDate": "Sun, 07 Jul 2024 16:00:00 -0500",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTYPyvVAkzVD9l4UMZccQcmyeDXNDj1hP_SMGG6AyR3uUnRv1g38JhZjX7xstPbjdl59aeVO8Ea",
+    "news_item_snippet": "Imagens do circuito interno do Mineir\u00e3o mostram que houve um &#39;&#39;contato&#39;&#39; de Augusto Melo, presidente do Corinthians, com um torcedor do Cruzeiro,&nbsp;...",
+    "news_item_url": "https://www.espn.com.br/futebol/brasileirao/artigo/_/id/13884005/delegado-confirma-contato-presidente-corinthians-torcedor-cruzeiro-da-detalhes-sobre-caso",
+    "picture_source": "globoesporte.com",
     "approx_traffic": "500,000+"
   },
   {
@@ -284,8 +304,8 @@
     "title": "Juventude x Gr\u00eamio",
     "pubDate": "Sun, 07 Jul 2024 14:00:00 -0500",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQGGlZo5lJNrrTmPF-VtoQGRUGlSWDd3MxBDnF18yy38ioErB8eb5ccv2xJkSlx5hXaY6leRnNF",
-    "news_item_snippet": "O Juventude recebe o Gr\u00eamio neste domingo (7), no est\u00e1dio Alfredo Jaconi, em duelo v\u00e1lido pela 15\u00aa rodada do Campeonato Brasileiro.",
-    "news_item_url": "https://gizmodo.uol.com.br/onde-assistir-juventude-gremio-campeonato-brasileiro/",
+    "news_item_snippet": "Juventude e Gr\u00eamio se enfrentaram em jogo pela 15\u00aa rodada do Campeonato Brasileiro. A partida aconteceu no Alfredo Jaconi.",
+    "news_item_url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2024/07/07/juventude-x-gremio---15-rodada-do-brasileirao.htm",
     "picture_source": "globoesporte.com",
     "approx_traffic": "200,000+"
   },
@@ -344,8 +364,8 @@
     "title": "Antonio Banderas",
     "pubDate": "Sun, 07 Jul 2024 14:00:00 -0500",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTOAHruf3ZBrgjVWonUJpMoxrUPmOPDWwbBIRwjAeKKMjDIdXcQDMM5MSTTy573oRX5naidu42j",
-    "news_item_snippet": "Apresentadora entrevistou o ator para o &#39;Doming\u00e3o com Huck&#39; do \u00faltimo domingo (7)",
-    "news_item_url": "https://extra.globo.com/entretenimento/tv/noticia/2024/07/fatima-bernardes-mostra-bastidores-de-papo-com-antonio-banderas-meu-espanhol-nao-e-grande-coisa.ghtml",
+    "news_item_snippet": "Luciano Huck havia prometido participa\u00e7\u00e3o especial do ator espanhol na final da Dan\u00e7a dos Famosos, mas exibiu apenas publicidade.",
+    "news_item_url": "https://veja.abril.com.br/coluna/tela-plana/o-motivo-verdadeiro-que-levou-antonio-banderas-ao-domingao-com-huck",
     "picture_source": "gshow",
     "approx_traffic": "50,000+"
   },
@@ -353,7 +373,7 @@
     "country": "Canada",
     "title": "France election",
     "pubDate": "Sun, 07 Jul 2024 11:00:00 -0400",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTaoCAc-wdNg0kHdlrcWnuugF0Dkfz3GAActfP0LTJsCMXaIdwfK9VydYgopqrc2fXAhBw3LKxK",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRh5NMFagU1T-niygzbDotIbteARLKaTMW9SHiWqKJcshH9ifDf7WoPr7amFw2YYwOiIjHHhPi8",
     "news_item_snippet": "France faced potential political deadlock after elections on Sunday threw up a hung parliament, with a leftist alliance unexpectedly taking the top spot&nbsp;...",
     "news_item_url": "https://www.cbc.ca/news/world/france-parliamentary-election-second-round-1.7256711",
     "picture_source": "CTV News",
@@ -364,15 +384,15 @@
     "title": "Resultat bac 2024",
     "pubDate": "Mon, 08 Jul 2024 00:00:00 +0200",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSjLuwuyqAkInO6wWhFFoVd7W0SfZXUA8KGiKBlSqUNqbYoy_OKZS7cekmkskPV4IQe1x6HdKdJ",
-    "news_item_snippet": "D\u00e9couvrez si vous \u00eates re\u00e7u au baccalaur\u00e9at sur le site du Figaro \u00c9tudiant ce lundi 8 juillet.",
-    "news_item_url": "https://etudiant.lefigaro.fr/article/bac/les-resultats-du-bac-2024-des-academies-de-paris-creteil-et-versailles-sont-sortis-20240708/",
+    "news_item_snippet": "Retrouvez les r\u00e9sultats du BAC 2024, quelles que soient la fili\u00e8re et les sp\u00e9cialit\u00e9s, ce lundi 8 juillet d\u00e9s 09h30 pour l&#39;acad\u00e9mie de Bordeaux,&nbsp;...",
+    "news_item_url": "https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/gironde/bordeaux/resultats-du-bac-2024-retrouvez-tous-les-resultats-de-l-academie-de-bordeaux-sur-notre-moteur-de-recherche-2992184.html",
     "picture_source": "Franceinfo",
-    "approx_traffic": "500,000+"
+    "approx_traffic": "1,000,000+"
   },
   {
     "country": "France",
     "title": "Attal demission",
-    "pubDate": "Mon, 08 Jul 2024 11:00:00 +0200",
+    "pubDate": "Mon, 08 Jul 2024 12:00:00 +0200",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSKcUhVpZW6f9sH0IdRc8VuO9_znHjAsBpdR9EDqHMLnbRqbJ2gLiaOIq5iVigG3r1WKLEXeE11",
     "news_item_snippet": "Plut\u00f4t que d&#39;exp\u00e9dier les \u00ab affaires courantes \u00bb, dont aucune d\u00e9finition n&#39;est donn\u00e9e par la Constitution de la Cinqui\u00e8me R\u00e9publique, le pr\u00e9sident de la&nbsp;...",
     "news_item_url": "https://legrandcontinent.eu/fr/2024/07/08/emmanuel-macron-refuse-la-demission-de-gabriel-attal-qui-reste-premier-ministre-que-va-t-il-se-passer-maintenant/",
@@ -394,39 +414,19 @@
     "title": "Melvyn Jaminet",
     "pubDate": "Sun, 07 Jul 2024 22:00:00 +0200",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSTA4clouQ2i_roSMAq2AF5rddiRTPLgzxT93Ug91JjMtlbbm9gsbL1dWMDHuTOOlfEc9r2mWJ1",
-    "news_item_snippet": "Apr\u00e8s la diffusion sur les r\u00e9seaux sociaux d&#39;une vid\u00e9o o\u00f9 l&#39;arri\u00e8re de Toulon dit vouloir s&#39;en prendre &quot;aux Arabes&quot;, le XV de France a annonc\u00e9 dimanche sa&nbsp;...",
-    "news_item_url": "https://www.francetvinfo.fr/sports/rugby/xv-de-france/xv-de-france-melvyn-jaminet-mis-a-l-ecart-du-groupe-france-apres-ses-propos-racistes-diffuses-sur-instagram_6652236.html",
+    "news_item_snippet": "L&#39;arri\u00e8re a publi\u00e9 dans la nuit de samedi \u00e0 dimanche sur Instagram une vid\u00e9o dans laquelle il assurait vouloir mettre \u00ab un coup de casque \u00bb au \u00ab premier&nbsp;...",
+    "news_item_url": "https://www.lemonde.fr/sport/article/2024/07/07/melvyn-jaminet-mis-a-l-ecart-par-la-federation-francaise-de-rugby-apres-des-propos-racistes_6247584_3242.html",
     "picture_source": "FRANCE 24",
     "approx_traffic": "200,000+"
-  },
-  {
-    "country": "France",
-    "title": "Raphael Arnault",
-    "pubDate": "Sun, 07 Jul 2024 21:00:00 +0200",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcR6JEX3VPLg2J79x74dL30WBwHbwauHS_wwLVLitrlHSqmMxOWHkE5CoON4VbdJYysUImhqH7gM",
-    "news_item_snippet": "Le porte-parole de La Jeune Garde antifasciste, vertement critiqu\u00e9 pendant la campagne, a \u00e9t\u00e9 \u00e9lu face aux Rassemblement national (RN) dans la 1ere&nbsp;...",
-    "news_item_url": "https://www.marianne.net/societe/police-et-justice/legislatives-raphael-arnault-lantifa-de-jean-luc-melenchon-elu-depute-face-au-rn",
-    "picture_source": "BFMTV",
-    "approx_traffic": "100,000+"
   },
   {
     "country": "France",
     "title": "Melenchon",
     "pubDate": "Sun, 07 Jul 2024 21:00:00 +0200",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQ9_qPD1AB0fzOKoXyAiXJQdOvhbwuMQmvMKTQv_316w3Fla8Z5zFDuYHxrIATPnNOS9oneekhp",
-    "news_item_snippet": "Si Gabriel Attal reste \u00e0 son poste pour \u00abassurer la stabilit\u00e9 du pays\u00bb, Emmanuel Macron n&#39;a d&#39;autre choix que de penser \u00e0 la succession du Premier ministre&nbsp;...",
-    "news_item_url": "https://www.capital.fr/economie-politique/melenchon-tondelier-autain-qui-pourrait-succeder-a-gabriel-attal-au-poste-de-premier-ministre-1499377",
+    "news_item_snippet": "Apr\u00e8s le second tour des \u00e9lections l\u00e9gislatives, l&#39;Insoumise a assur\u00e9 que la gauche proposera \u00abun premier ministre et un gouvernement cette semaine\u00bb.",
+    "news_item_url": "https://www.lefigaro.fr/elections/legislatives/legislatives-2024-jean-luc-melenchon-n-est-absolument-pas-disqualifie-pour-matignon-juge-mathilde-panot-20240708",
     "picture_source": "BFMTV",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "France",
-    "title": "Meyer Habib",
-    "pubDate": "Sun, 07 Jul 2024 23:00:00 +0200",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcT9wwH3smeDN6b0F-tU8utKyE27OUWqnd2dADhF9goiri3wZk-MC4QQSlTgWOmMK2JZGNqD3181",
-    "news_item_snippet": "Dans la 8\u1d49 circonscription, qui regroupe plusieurs pays du pourtour m\u00e9diterran\u00e9en, dont Isra\u00ebl, l&#39;Italie, la Gr\u00e8ce et la Turquie, le candidat sortant&nbsp;...",
-    "news_item_url": "https://www.lemonde.fr/politique/article/2024/07/08/meyer-habib-battu-dans-la-8-circonscription-des-francais-de-l-etranger_6247728_823448.html",
-    "picture_source": "Lib\u00e9ration",
     "approx_traffic": "100,000+"
   },
   {
@@ -457,6 +457,16 @@
     "news_item_snippet": "Coup de tonnerre en Essonne, Nicolas Dupont-Aignan battu par l&#39;union de la gauche. Naufrage du camp pr\u00e9sidentiel.",
     "news_item_url": "https://www.francebleu.fr/infos/elections/legislatives-en-essonne-nicolas-dupont-aignan-battu-la-gauche-ecrase-le-camp-presidentiel-1785620",
     "picture_source": "Le Monde",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "France",
+    "title": "Cyril Hanouna",
+    "pubDate": "Sun, 07 Jul 2024 22:00:00 +0200",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTECwAqrm0tv9ZwiuQRSGiNX-poq05al9lNL_4_Z5a4yUltxJReSdScQ5hsNuBoTddXd4w9iQ0E",
+    "news_item_snippet": "Le 12 juin 2024, l&#39;animateur Cyril Hanouna avait annonc\u00e9 dans son \u00e9mission \u00ab Touche pas \u00e0 mon poste ! \u00bb qu&#39;il quitterait la France si LFI arrivait au&nbsp;...",
+    "news_item_url": "https://www.ouest-france.fr/elections/legislatives/hanouna-degage-les-electeurs-de-gauche-invitent-lanimateur-a-honorer-sa-promesse-3bcd8322-3cfb-11ef-a94b-3d33d29d1a10",
+    "picture_source": "RTL.fr",
     "approx_traffic": "50,000+"
   },
   {
@@ -530,36 +540,6 @@
     "approx_traffic": "50,000+"
   },
   {
-    "country": "Italy",
-    "title": "Sinner oggi",
-    "pubDate": "Sun, 07 Jul 2024 15:00:00 +0200",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQ3TSf7tmXQ1z2XmOIsUtspkCOGErIytyQ4HV6Ewv22o6HhrYNa5f0aIXevKSyXO87dklagKLi1",
-    "news_item_snippet": "Il fenomeno azzurro, numero uno del mondo, affronter\u00e0 lo statunitense Ben Shelton: in palio un posto nei quarti di finale.",
-    "news_item_url": "https://www.corrieredellosport.it/news/tennis/sinner/2024/07/07-129949084/sinner-shelton_ottavi_wimbledon_orario_dove_vederla_in_tv_e_quando_si_gioca",
-    "picture_source": "Rai News",
-    "approx_traffic": "500,000+"
-  },
-  {
-    "country": "Italy",
-    "title": "Elezioni Francia",
-    "pubDate": "Sun, 07 Jul 2024 21:00:00 +0200",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTh3zedk1suRoWwJ63WS9sBmBgRFNn5PA82zfXLNxmAhoRloz_DfJX4r4GrstxjSY9yL_v4agvM",
-    "news_item_snippet": "Marine Le Pen ha perso, Macron non ha vinto. A sinistra si appanna la stella di M\u00e9lenchon.",
-    "news_item_url": "https://www.ilsole24ore.com/art/chi-ha-vinto-e-chi-ha-perso-elezioni-francesi-AFlKGZdC",
-    "picture_source": "Pagella Politica",
-    "approx_traffic": "500,000+"
-  },
-  {
-    "country": "Italy",
-    "title": "Keys Tennis",
-    "pubDate": "Sun, 07 Jul 2024 15:00:00 +0200",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSnVut0l5zBvgCmePougmKX1Yp3TU1VPNrOolnATB-VlDZrgCzLhDZ_hMdcsVol71B7RdRAP8q_",
-    "news_item_snippet": "L&#39;attuale numero 7 del ranking Wta, arrivata agli ottavi di finale per il terzo Slam consecutivo, prosegue il suo percorso. La 29enne di Rock Island si \u00e8&nbsp;...",
-    "news_item_url": "https://www.rainews.it/articoli/2024/07/tennis-wimbledon-ottavi-di-finale-jasmine-paolini-keys-sfida-per-quarti-risultati-tempo-reale-rai-ca40ed65-c164-44a1-9b18-81fea10925e7.html",
-    "picture_source": "Sport Mediaset",
-    "approx_traffic": "100,000+"
-  },
-  {
     "country": "Mexico",
     "title": "Pumas",
     "pubDate": "Sun, 07 Jul 2024 11:00:00 -0600",
@@ -574,8 +554,8 @@
     "title": "Pachuca  Monterrey",
     "pubDate": "Sun, 07 Jul 2024 18:00:00 -0600",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQyF_6cy4sakY9U-R_UXMIB0ePmkJ6eO5xRWU9madj3R0gPfTJkw7ehel5LBK4CV3zLouLZwzqN",
-    "news_item_snippet": "Juego Pachuca - Monterrey En Vivo Online: minuto a minuto del partido del Pachuca hoy contra los Rayados de Monterrey, desde el Estadio Hidalgo.",
-    "news_item_url": "https://www.marca.com/mx/futbol/liga-mx/pachuca-monterrey/2024/07/08/01_0159_20240708_1295_741-directo.html",
+    "news_item_snippet": "El jugador espa\u00f1ol cubre &#39;oso&#39; monumental de Tecatito y el Pachuca sufre golpe fuerte como local en el debut dentro del Apertura 2024 | TUDN Liga MX | TUDN.",
+    "news_item_url": "https://www.tudn.com/futbol/liga-mx/pachuca-vs-monterrey-goles-video-resultado-partido-apertura-2024-liga-mx",
     "picture_source": "Diario Deportivo Record",
     "approx_traffic": "100,000+"
   },
@@ -584,8 +564,8 @@
     "title": "Espa\u00f1a Francia",
     "pubDate": "Mon, 08 Jul 2024 10:00:00 +0200",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSPc8_InyDFx7kAzYimUObgvaPAkGEr0h2giX-4KQStmDi96XJfrIGT28bxhK7eILigMqON5b8l",
-    "news_item_snippet": "UEFA.com analiza c\u00f3mo se podr\u00eda decidir la primera semifinal de la EURO 2024 entre Espa\u00f1a y Francia.",
-    "news_item_url": "https://es.uefa.com/euro2024/news/028f-1b5148afc6a2-9e3f4bc4542d-1000--espana-francia-las-claves-tacticas/",
+    "news_item_snippet": "Espa\u00f1a afronta el pen\u00faltimo asalto de la Eurocopa 2024. Enfrente como rival de semifinales, la temible Francia y su firmamento de estrellas.",
+    "news_item_url": "https://www.elmundo.es/como/2024/07/08/668bbcf4e4d4d83c5c8b456d.html",
     "picture_source": "El Mundo",
     "approx_traffic": "50,000+"
   },
@@ -611,7 +591,7 @@
   },
   {
     "country": "Spain",
-    "title": "Encierro Sanfermin 2024",
+    "title": "Encierro San fermin 2024",
     "pubDate": "Sun, 07 Jul 2024 10:00:00 +0200",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTbzzzEo0GA6MBApeyH7lk4YwdhW3Shu1ryVkQN7tw4I0tbIgGPYc1ikoenr2SFzpShfI1bISYN",
     "news_item_snippet": "Sigue en vivo y en directo el segundo encierro de los Sanfermines, que se celebra hoy 8 de julio por las calles de Pamplona con los toros de Cebada Gago.",
@@ -634,8 +614,8 @@
     "title": "Lewis Hamilton",
     "pubDate": "Sun, 07 Jul 2024 01:00:00 +0100",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRojZNW6gjuZUwm6LbTOk5ygBJldmeGE3-9GeYIMQA7YVeRE_l3r85J2pm0meb7BB59wen3OjSw",
-    "news_item_snippet": "Mercedes driver thrilled the home crowd at Silverstone with his first grand prix victory since December 2021, while championship leader Max Verstappen&nbsp;...",
-    "news_item_url": "https://www.theguardian.com/sport/article/2024/jul/07/lewis-hamilton-wins-british-f1-gp-ninth-time-mercedes",
+    "news_item_snippet": "The British GP winner also talks about the mental health challenges he faced during Mercedes fall from the F1 summit, while his team boss Toto Wolff says&nbsp;...",
+    "news_item_url": "https://www.skysports.com/f1/news/12433/13175012/lewis-hamilton-says-heartache-of-abu-dhabi-2021-taken-long-time-to-heal-after-winning-british-gp",
     "picture_source": "Motorsport UK",
     "approx_traffic": "200,000+"
   },
@@ -643,10 +623,10 @@
     "country": "United Kingdom",
     "title": "French elections",
     "pubDate": "Sun, 07 Jul 2024 17:00:00 +0100",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTnObyBWSffM-uf48pkXo7WKS854tMWQZlgj8qG333hU1AsAS8WBTt0gkjzXC-R4tGFvXwHbNty",
-    "news_item_snippet": "The leftist Nouveau Front Populaire bloc won the most seats in the high-stakes snap election, dealing a severe blow to Le Pen&#39;s Rassemblement National party,&nbsp;...",
-    "news_item_url": "https://www.ft.com/content/7f23bd87-ced0-4f7a-9167-c470beeb3c1a",
-    "picture_source": "EURACTIV",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcR3vwXDetHVY6ed0TmDfGfPnsiHOo0pOyEpzHLX8FLwL_ZBg6Wea2SaQuwxca8IN9XF6EtEdljv",
+    "news_item_snippet": "Defying all expectations, the loose left coalition Nouveau Front Populaire came out on top of the second and final round of France&#39;s snap elections on&nbsp;...",
+    "news_item_url": "https://www.euractiv.com/section/elections/news/french-elections-major-surprise-as-left-coalition-on-course-to-beat-far-right/",
+    "picture_source": "POLITICO.eu",
     "approx_traffic": "200,000+"
   },
   {
@@ -687,15 +667,15 @@
     "news_item_snippet": "This is the first time Navarro has reached the quarterfinals at one of the tennis majors, while Gauff&#39;s loss was the latest in a string of exits by&nbsp;...",
     "news_item_url": "https://www.ctpublic.org/2024-07-08/emma-navarro-has-defeated-coco-gauff-in-a-wimbledon-upset",
     "picture_source": "The Guardian",
-    "approx_traffic": "100,000+"
+    "approx_traffic": "50,000+"
   },
   {
     "country": "United Kingdom",
     "title": "Jay Slater missing Tenerife",
     "pubDate": "Sun, 07 Jul 2024 17:00:00 +0100",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTlXgWNp8XVvO1aP6gDyNX8irpfVPJPVJC9iXdKWVZYfZT99yxefPaerQot0-QkjkOH5mDhOjDK",
-    "news_item_snippet": "Jay was holidaying with friends Lucy Law, 18, and Brad Hargreaves, 19, and had been partying at the Papagayo nightclub in Playa de las Americas the night before&nbsp;...",
-    "news_item_url": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/missing-jay-slater-tenerife-live-29493715",
+    "news_item_snippet": "The 19 year old, from Oswaldtwistle in Lancashire, disappeared on the Spanish island on June 17. The search for him has been ongoing for nearly three weeks.",
+    "news_item_url": "https://www.nottinghampost.com/news/uk-world-news/missing-jay-slater-search-tenerife-9395188",
     "picture_source": "Sky News",
     "approx_traffic": "50,000+"
   },
@@ -704,19 +684,9 @@
     "title": "Madison Keys",
     "pubDate": "Sun, 07 Jul 2024 15:00:00 +0100",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQnXT3iIZB9GpH3EsQwc0E7fRzEwNYeWJCchr-nZHfXaTDkWwX_1u2cpHyZxclElpOqDyuZjW5Y",
-    "news_item_snippet": "Madison Keys was up 5-2 in the third set on Sunday afternoon, so close to a quarterfinals berth, when her leg injury hit.",
-    "news_item_url": "https://sports.yahoo.com/wimbledon-madison-keys-walks-off-in-tears-after-retiring-due-to-leg-injury-late-against-jasmine-paolini-200740253.html",
+    "news_item_snippet": "Jasmine Paolini advanced to her first Wimbledon quarterfinal after Madison Keys was forced to retire due to a left thigh injury at 5-5 in the third set.",
+    "news_item_url": "https://www.wtatennis.com/news/4053182/paolini-advances-to-wimbledon-quarterfinals-after-keys-retires-in-third-set",
     "picture_source": "iNews",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United Kingdom",
-    "title": "Richard Madeley",
-    "pubDate": "Sun, 07 Jul 2024 20:00:00 +0100",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQWs5MX0_58ItNxr-mbVAqum63-_6wwgCMuJe4BlB1NmPeFatlJmB8SKGwA-UIeBrEr1ER3iYhh",
-    "news_item_snippet": "Richard Madeley and Judy Finnigan have relived the mortifying moment Judy had a wardrobe malfunction while collecting their National Television Award in&nbsp;...",
-    "news_item_url": "https://www.express.co.uk/showbiz/tv-radio/1920180/richard-madeley-judy-finnigan-ntas-wardrobe-malfunction",
-    "picture_source": "Telegraph.co.uk",
     "approx_traffic": "50,000+"
   }
 ]
