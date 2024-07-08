@@ -31,26 +31,6 @@
   },
   {
     "country": "United States",
-    "title": "Raducanu",
-    "pubDate": "Sun, 07 Jul 2024 12:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSJKlxvoQwlwTTd4-R_OXQdp4Lc6CuNze9yiVx9z2mhA47xKycXxtvstgWHRLwIzLRTcGepTVMk",
-    "news_item_snippet": "Emma Raducanu has been knocked out of Wimbledon after suffering a three-set defeat to New Zealander Lulu Sun on Centre Court on Sunday.",
-    "news_item_url": "https://africa.espn.com/tennis/story/_/id/40514380/wimbledon-2024-emma-raducanu-knocked-fourth-round",
-    "picture_source": "Eurosport.com",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Shark Week 2024",
-    "pubDate": "Sun, 07 Jul 2024 15:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQLFCTeBcAt7g0NXLGKV2Jjg4dBnpxSn9_O5cXhCzccLvqcHmULi95GogGK-g5V3s0b0x1X8Yx0",
-    "news_item_snippet": "Shark Week, the annual week-long Discovery Channel celebration, features various shark-related programming.",
-    "news_item_url": "https://www.usmagazine.com/entertainment/news/when-does-shark-week-2024-start/",
-    "picture_source": "Billboard",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
     "title": "Lewis Hamilton",
     "pubDate": "Sun, 07 Jul 2024 09:00:00 -0700",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSXQKnfbpD2Age0dnvfF8KFXFmYVm1E4v2mnvIhVXUsw5m7W0tNtzSNsWzJ7nydR596GYvuDVvt",
@@ -73,20 +53,30 @@
     "country": "United States",
     "title": "Hurricane Houston",
     "pubDate": "Sun, 07 Jul 2024 04:00:00 -0700",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQg8qqZkQaV6yThW8RqAI4H5CxXMlWFKC18M1x5g6AC2gpHAPGgyhq-rsHvfRur42zn0R8S7GUD",
-    "news_item_snippet": "Before landfall, the outer bands of Beryl were already moving inland and parts of the Houston area were seeing on-and-off rain on Sunday.",
-    "news_item_url": "https://www.houstonpublicmedia.org/articles/news/weather/2024/07/07/492766/houston-beryl-rain-flooding-tropical-storm-force-winds-likely/",
-    "picture_source": "Houston Public Media",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTHyE6gtZP4GihA4qNJf5B74wp0oxdRC3yJW19ca4kdiuOujfSMdR5eTHcug_m6w4eSwjK6hFYe",
+    "news_item_snippet": "Hurricane Beryl tracker including the latest update on path, location, a tracking map, hurricane watch, expected landfall and how it may impact Texas and&nbsp;...",
+    "news_item_url": "https://www.fox26houston.com/weather/tropical-storm-beryl-tracker-update-texas-houston-landfall-path-sunday",
+    "picture_source": "CNN",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Emma Raducanu",
+    "pubDate": "Sun, 07 Jul 2024 12:00:00 -0700",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSJKlxvoQwlwTTd4-R_OXQdp4Lc6CuNze9yiVx9z2mhA47xKycXxtvstgWHRLwIzLRTcGepTVMk",
+    "news_item_snippet": "Raducanu was scheduled to play with Murray, a former Wimbledon champion, on Saturday, but opted to pull out of the tie due to a stiff wrist.",
+    "news_item_url": "https://www.japantimes.co.jp/sports/2024/07/08/tennis/emma-raducanu-mixed-doubles-withdraw/",
+    "picture_source": "Eurosport.com",
     "approx_traffic": "50,000+"
   },
   {
     "country": "United States",
     "title": "California heat wave temperatures",
     "pubDate": "Sun, 07 Jul 2024 09:00:00 -0700",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcS2FcwFJDS3wxyDc_8NdhMLeb2II1gNNL8Pc1UiNS5OnJSlJ4UljLSyUVZrtwHia9LIgx4T8aGT",
-    "news_item_snippet": "36 million people under excessive heat warnings coming from heat dome centered over California &middot; Arizona, Washington and Oregon expected to meet or exceed record&nbsp;...",
-    "news_item_url": "https://www.reuters.com/world/us/record-temperatures-scorch-us-west-americans-sweat-through-extreme-heat-2024-07-07/",
-    "picture_source": "Axios",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcR3FXUiimynHBSiVhOcPG7BpGbt-y6fk4si9MLUS3qPnoC9UFUvXGw5FcCjhx7Uqi2UPGW8rC1n",
+    "news_item_snippet": "An excessive heat warning \u2014 the National Weather Service&#39;s highest alert \u2014 was in effect for about 36 million people, or about 10% of the population.",
+    "news_item_url": "https://www.nbcnews.com/news/weather/persistent-heat-wave-us-expected-shatter-new-records-bakes-west-swelte-rcna160609",
+    "picture_source": "Reuters",
     "approx_traffic": "50,000+"
   },
   {
@@ -94,8 +84,8 @@
     "title": "Khyree Jackson",
     "pubDate": "Sat, 06 Jul 2024 09:00:00 -0700",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTB7LFZHg2klDQLNHEvFmJ4DzI8oqcntbT0y7tHj79OGQiz3oHvOQ4TGwrLroSgLlmAjDG-orP-",
-    "news_item_snippet": "An expert said the full investigation could take months. No one has been charged in the crash, though authorities have said alcohol is believed to be a&nbsp;...",
-    "news_item_url": "https://www.washingtonpost.com/dc-md-va/2024/07/07/khyree-jackson-crash-evidence-review/",
+    "news_item_snippet": "There&#39;s no good way to open a Mailbag that follows such a tragic weekend. Vikings rookie cornerback Khyree Jackson and two of his former high school teammates&nbsp;...",
+    "news_item_url": "https://www.vikings.com/news/khyree-jackson-tragic-passing",
     "picture_source": "Minnesota Public Radio News",
     "approx_traffic": "500,000+"
   },
@@ -131,22 +121,12 @@
   },
   {
     "country": "United States",
-    "title": "John Cena",
-    "pubDate": "Sat, 06 Jul 2024 18:00:00 -0700",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTUi5adarZCu749wWmY2n21dCwJkBc9uCJXxyIq0NhEEt2VuGIdiJrUiNr_p8_D0eHUtUN5-aU6",
-    "news_item_snippet": "John Cena has announced his retirement from professional wrestling after two decades in the ring. ByThe Associated Press. July 7, 2024, 2:01 PM.",
-    "news_item_url": "https://abcnews.go.com/US/wireStory/john-cena-announces-retirement-professional-wrestling-after-2025-111731397",
-    "picture_source": "WBRC",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "United States",
     "title": "Lakers",
     "pubDate": "Sat, 06 Jul 2024 16:00:00 -0700",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRTx1UXjNul_O_CbMKrLu5HlUbWJADoIPqXzwEtHtfCH0Q6L0aMN-C7s3mZ2tBYpY5X4m179bsu",
-    "news_item_snippet": "While Bronny James was held out of Sunday&#39;s summer league game because of knee swelling, the Lakers are hopeful the rookie can play Wednesday.",
-    "news_item_url": "https://www.espn.com/nba/story/_/id/40515203/bronny-james-knee-misses-lakers-california-classic-game",
-    "picture_source": "NBA.com",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQo0hXp62a6jC9v_EHvY0il7T6Sn_Wv5UZqYY0grjNDBzDc-reXZ23w-831Z6GzqC468PaBOJjZ",
+    "news_item_snippet": "Los Angeles Lakers star LeBron James signed an extension to remain with the franchise, officials confirmed on X Sunday, leading to a potential NBA first of&nbsp;...",
+    "news_item_url": "https://www.nbcnews.com/news/sports/lebron-james-signs-deal-lakers-rcna160179",
+    "picture_source": "ESPN",
     "approx_traffic": "100,000+"
   },
   {
@@ -155,7 +135,7 @@
     "pubDate": "Sat, 06 Jul 2024 13:00:00 -0700",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRaiNPC-ryhHKo05AD0uVc2lzMnHtpVN4rvgpXweOu-MzXk1ougc3tAFwr_R9q4UHACGTlSfwUHjg",
     "news_item_snippet": "Rookie Ben Rice had a day to remember as he hit three home runs in the New York Yankees&#39; huge 14-4 win against the Boston Red Sox on Saturday.",
-    "news_item_url": "https://www.albanyherald.com/sports/a-day-to-remember-yankees-rookie-ben-rice-hits-three-homers/article_805a2028-3cc3-11ef-ac52-63330fa0fd55.html",
+    "news_item_url": "https://www.cnn.com/2024/07/07/sport/ben-rice-yankee-rookie-history-spt-intl/index.html",
     "picture_source": "CBS News",
     "approx_traffic": "50,000+"
   },
@@ -164,10 +144,50 @@
     "title": "Jon Landau",
     "pubDate": "Sat, 06 Jul 2024 17:00:00 -0700",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSdJdqHS6QzF_RASPOnYv17aLPwHn8jt4g_ouuQLt34X99VF-PqPNq9bM8a72Lz3axR2pGlU9p5",
-    "news_item_snippet": "Jon Landau, an Oscar-&nbsp;...",
-    "news_item_url": "https://www.kolotv.com/2024/07/06/jon-landau-oscar-winning-titanic-avatar-producer-dies-63/",
+    "news_item_snippet": "In a decades-long collaboration with the director James Cameron, he produced three of the highest-grossing films of all time.",
+    "news_item_url": "https://www.nytimes.com/2024/07/07/arts/jon-landau-dead.html",
     "picture_source": "OPB News",
     "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Caleb Martin",
+    "pubDate": "Sat, 06 Jul 2024 10:00:00 -0700",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRbWcGj5CjPZymDFjg7whhspiYW59z9Ba3PNqW6BHhzXi2Pm9fJCrbt5O6WwPQWKt_gZxLQATqo",
+    "news_item_snippet": "Caleb Martin has agreed on a four-year deal guaranteed for more than $32 million with the 76ers, sources told ESPN, where he is expected to start on a&nbsp;...",
+    "news_item_url": "https://www.espn.com/nba/story/_/id/40506623/sources-caleb-martin-joining-76ers-likely-slots-starter",
+    "picture_source": "Sixers.com",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "India",
+    "title": "RVNL share price",
+    "pubDate": "Mon, 08 Jul 2024 10:30:00 +0530",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcR_i5NB5Dti_PVHhF02tpLtF0XuCcYGGf8k4Ogi67AlGjoFTPK9zQjTPrOqJktF3QuVF3UcE2ap",
+    "news_item_snippet": "Stock market today: RVNL, Ircon International and IRFC share price touched a new peak during early morning deals on Monday.",
+    "news_item_url": "https://www.livemint.com/market/stock-market-news/irctc-rvnl-ircon-to-irfc-why-railway-stocks-are-skyrocketing-in-stock-market-today-explained-11720413921903.html",
+    "picture_source": "Business Today",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "India",
+    "title": "Mumbai Rains",
+    "pubDate": "Mon, 08 Jul 2024 09:30:00 +0530",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSIVLMocMVaNvjXBiIav8cuowRozaEh-YJoS1pO613tnjzA_Roe5ZCba_JLbzJz_y5QJjM_na9R",
+    "news_item_snippet": "Heavy rains in Mumbai lead to waterlogging and train delays. Videos show widespread flooding in the city. Central Railway&#39;s suburban network impacted.",
+    "news_item_url": "https://m.economictimes.com/news/india/mumbai-rains-waterlogging-reported-in-many-parts-following-heavy-rains-train-services-suspended/articleshow/111564028.cms",
+    "picture_source": "The Hindu",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "India",
+    "title": "South Africa Women vs India Women",
+    "pubDate": "Sun, 07 Jul 2024 21:30:00 +0530",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTRhufgvS1YIp9vOpGiRM_-wKe27cEg1fzsRygaubJhulnzBHc-TqtSR8KNbHru1jmnhnDHTGEX",
+    "news_item_snippet": "Though it was a no-result because of rain, Indian bowlers did better in the middle overs compared to the first game.",
+    "news_item_url": "https://indianexpress.com/article/sports/cricket/indw-vs-saw-india-improve-middle-over-bowling-as-deepti-sharma-steps-up-to-deliver-9439302/",
+    "picture_source": "Sportstar",
+    "approx_traffic": "200,000+"
   },
   {
     "country": "India",
@@ -181,22 +201,12 @@
   },
   {
     "country": "India",
-    "title": "Paytm Vijay Shekhar Sharma",
-    "pubDate": "Sun, 07 Jul 2024 09:30:00 +0530",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSE48Ty5Ttmg0equAtVapmACrdoEHHy1Aol6PxH4JlEmzhvoWdk2D4WTazVcOQylNzxCrZFDU2l",
-    "news_item_snippet": "Vijay Shekhar Sharma, while discussing the potential of Paytm at the 7th JIIF Foundation Day in Gurugram, said the company is poised for sharp growth&nbsp;...",
-    "news_item_url": "https://upstox.com/news/market-news/stocks/paytm-shares-jump-9-after-vijay-shekhar-sharma-says-target-is-to-create-100-billion-company/article-100247/",
-    "picture_source": "The Economic Times",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "India",
-    "title": "Jon Landau producer",
-    "pubDate": "Sun, 07 Jul 2024 16:30:00 +0530",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRb88mRmsMe_Dh8kvkXCJUD4kAeKOfFuxk8UAE2likxp7u9MF8cHMdUDvx_j6LPLoNLY0RKglea",
-    "news_item_snippet": "Titanic star Leonardo DiCaprio recalled the kindness of his &#39;Titanic&#39; producer Jon Landau, who died at age 63.",
-    "news_item_url": "https://deadline.com/2024/07/leonardo-dicaprio-jon-landau-death-1236002871/",
-    "picture_source": "Rolling Stone",
+    "title": "Jagannath Puri",
+    "pubDate": "Sun, 07 Jul 2024 01:30:00 +0530",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSmoEbqISn4B6ji5bdd2KY1Xl4FeknMezVe1zSvbv4GRlWFwmAtch3SrQlDqUVEDRz9wGBtUYz9",
+    "news_item_snippet": "Thousands of devotees in Puri pulled giant chariots towards Gundicha temple, marking the beginning of the annual festival. The President and other&nbsp;...",
+    "news_item_url": "https://m.economictimes.com/news/india/jagannath-rath-yatra-chariot-pulling-begins-in-puri/articleshow/111558569.cms",
+    "picture_source": "The Hindu",
     "approx_traffic": "50,000+"
   },
   {
@@ -208,16 +218,6 @@
     "news_item_url": "https://m.economictimes.com/news/india/delhi-hc-seeks-tihar-reply-to-arvind-kejriwals-plea-for-additional-meetings-with-lawyers/articleshow/111570402.cms",
     "picture_source": "Live Law",
     "approx_traffic": "50,000+"
-  },
-  {
-    "country": "India",
-    "title": "India vs Zimbabwe",
-    "pubDate": "Sat, 06 Jul 2024 00:30:00 +0530",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRbgPu-vDfNFYgLwZcMYCG0ffn2WGaFU-LR8W3KM0uvTfd-7RjU2yIjchToyqnBW2e6ZN62cIp8",
-    "news_item_snippet": "India vs Zimbabwe 2nd T20I Highlights: Abhishek Sharma&#39;s 100 off 47 helped India register a 100-run victory over Zimbabwe on Sunday.",
-    "news_item_url": "https://sports.ndtv.com/cricket/india-vs-zimbabwe-live-score-2nd-t20-match-7-july-ind-vs-zim-latest-scorecard-shubman-gill-sikandar-raza-6052501",
-    "picture_source": "Livemint",
-    "approx_traffic": "10,000,000+"
   },
   {
     "country": "Argentina",
@@ -234,8 +234,8 @@
     "title": "Tom Ackerley",
     "pubDate": "Mon, 08 Jul 2024 06:00:00 +1000",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQEFoW-SLWaEDiHrComAMs7MHSmv-wuGUJ8kCZnFmvumsOcupqa3ZyuTshiY3-0wDFmx4TLvPIX",
-    "news_item_snippet": "Margot Robbie and husband Tom Ackerley are expecting their first baby together. See how the &#39;Barbie&#39; actress debuted her pregnancy.",
-    "news_item_url": "https://www.nbcwashington.com/entertainment/entertainment-news/margot-robbie-is-pregnant-expecting-first-baby-with-tom-ackerley/3658366/",
+    "news_item_snippet": "According to US publication People, multiple sources have confirmed the Hollywood megastar is expecting. Robbie&#39;s representatives are yet to respond to People&#39;s&nbsp;...",
+    "news_item_url": "https://7news.com.au/sunrise/margot-robbie-reportedly-pregnant-with-first-child-with-husband-tom-ackerley--c-15276974",
     "picture_source": "Marie Claire",
     "approx_traffic": "50,000+"
   },
@@ -335,7 +335,7 @@
     "pubDate": "Sun, 07 Jul 2024 14:00:00 -0500",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTOAHruf3ZBrgjVWonUJpMoxrUPmOPDWwbBIRwjAeKKMjDIdXcQDMM5MSTTy573oRX5naidu42j",
     "news_item_snippet": "Luciano Huck havia prometido participa\u00e7\u00e3o especial do ator espanhol na final da Dan\u00e7a dos Famosos, mas exibiu apenas publicidade.",
-    "news_item_url": "https://veja.abril.com.br/coluna/tela-plana/o-motivo-verdadeiro-que-levou-antonio-banderas-ao-domingao-com-huck/",
+    "news_item_url": "https://veja.abril.com.br/coluna/tela-plana/o-motivo-verdadeiro-que-levou-antonio-banderas-ao-domingao-com-huck",
     "picture_source": "gshow",
     "approx_traffic": "50,000+"
   },
@@ -344,8 +344,8 @@
     "title": "France election",
     "pubDate": "Sun, 07 Jul 2024 11:00:00 -0400",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcS-JAvpHH4bnlKPUNa0-PL6vl8nW7rno1CbFSViFAXmcGKY_akzth1foBmR_3RlgaTXQ6vVu0x0",
-    "news_item_snippet": "France faced potential political deadlock after elections on Sunday threw up a hung parliament, with a leftist alliance unexpectedly taking the top spot&nbsp;...",
-    "news_item_url": "https://www.cbc.ca/news/world/france-parliamentary-election-second-round-1.7256711",
+    "news_item_snippet": "French Prime Minister Gabriel Attal has arrived at the Elysee Presidential Palace to offer his resignation to President Emmanuel Macron, television pictures&nbsp;...",
+    "news_item_url": "https://www.cnn.com/world/live-news/france-election-runoff-results-07-07-24-intl/index.html",
     "picture_source": "CTV News",
     "approx_traffic": "100,000+"
   },
@@ -354,19 +354,19 @@
     "title": "Resultat BAC 2024",
     "pubDate": "Mon, 08 Jul 2024 00:00:00 +0200",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTjLcFftaQ6cBcRSqJlNCL8Vzxr9vUOfh-QVop0IZnOHhg5l4JXju2QV-5CbNLghbLO6WQMPzps",
-    "news_item_snippet": "Les r\u00e9sultats du bac sont d\u00e9voil\u00e9s ce lundi 8 juillet \u00e0 partir de 14 heures. Vous avez pass\u00e9 l&#39;examen en Franche-Comt\u00e9 dans l&#39;acad\u00e9mie de Besan\u00e7on ou&nbsp;...",
-    "news_item_url": "https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/doubs/resultats-du-bac-2024-dans-l-academie-de-besancon-recherchez-votre-nom-decouvrez-votre-mention-2990045.html",
+    "news_item_snippet": "Les r\u00e9sultats du baccalaur\u00e9at, g\u00e9n\u00e9ral, professionnel et technologique, sont publi\u00e9s ce lundi 8 juillet, \u00e0 partir de 15 heures pour l&#39;Acad\u00e9mie de Limoges.",
+    "news_item_url": "https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/haute-vienne/limoges/resultats-du-bac-2024-retrouvez-tous-les-resultats-de-l-academie-de-limoges-sur-notre-moteur-de-recherche-2998289.html",
     "picture_source": "Le Figaro",
-    "approx_traffic": "100,000+"
+    "approx_traffic": "200,000+"
   },
   {
     "country": "France",
     "title": "Resultat legislative 2024",
     "pubDate": "Sun, 07 Jul 2024 11:00:00 +0200",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcT8bU30DGu41LC3GoEL66mHqqQzQig1qViLKyiiAUTJ9EjqJL5dJbQBtoJuGiS_L39ke3PDIUeK",
-    "news_item_snippet": "Dans cette nouvelle Assembl\u00e9e nationale, les partis de gauche, unis pour les l\u00e9gislatives sous la banni\u00e8re Nouveau Front populaire (La France insoumise, Parti&nbsp;...",
-    "news_item_url": "https://www.touteleurope.eu/vie-politique-des-etats-membres/resultats-des-elections-legislatives-2024-le-rassemblement-national-en-echec-l-assemblee-nationale-partagee-en-trois-blocs/",
-    "picture_source": "Touteleurope.eu",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRt6c5jp4LZgVvRJFZpF_ROLk6NyO1ZDwTspNPvhzWmcmvTVIUXqZ6ikCOZfM3VJxGGq0OSEf8b",
+    "news_item_snippet": "Les scores des candidats n&#39;\u00e9taient pas disponibles avant la fermeture des derniers bureaux de vote \u00e0 20 heures et se sont affich\u00e9s progressivement sur la carte&nbsp;...",
+    "news_item_url": "https://www.lemonde.fr/les-decodeurs/article/2024/07/08/la-carte-des-resultats-des-legislatives-2024-au-second-tour-l-hemicycle-et-le-tableau-des-candidats-elus_6247510_4355771.html",
+    "picture_source": "Le Monde",
     "approx_traffic": "2,000,000+"
   },
   {
@@ -381,9 +381,19 @@
   },
   {
     "country": "France",
+    "title": "Marine Tondelier",
+    "pubDate": "Sun, 07 Jul 2024 21:00:00 +0200",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSIPsXWKlhDXaAKkfeSKFH0RsXGDqQs4TQpAHfl-i0ISREHIOgVMldRRLOGs1yvq2IL9FTETtVh",
+    "news_item_snippet": "VID\u00c9O - Les Fran\u00e7ais \u00e9taient appel\u00e9s aux urnes pour le second tour des \u00e9lections l\u00e9gislatives ce dimanche, un mois apr\u00e8s la d\u00e9cision d&#39;Emmanuel Macron de&nbsp;...",
+    "news_item_url": "https://www.bfmtv.com/politique/elections/legislatives/marine-tondelier-les-ecologistes-sur-le-choix-du-premier-ministre-les-decisions-au-sein-du-nouveau-front-populaire-se-feront-de-maniere-calme-apaisee-et-determinee_VN-202407070505.html",
+    "picture_source": "La Tribune",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "France",
     "title": "Raphael Arnault",
     "pubDate": "Sun, 07 Jul 2024 21:00:00 +0200",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcR6JEX3VPLg2J79x74dL30WBwHbwauHS_wwLVLitrlHSqmMxOWHkE5CoON4VbdJYysUImhqH7gM",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSbUy8lU2ohg7EMQf6qS7MkaLdlhGMyykJsp3fXWOj4lhK5KynS09iHPDyUt-JUoeEilfKix4A9",
     "news_item_snippet": "Le porte-parole de La Jeune Garde antifasciste, vertement critiqu\u00e9 pendant la campagne, a \u00e9t\u00e9 \u00e9lu face aux Rassemblement national (RN) dans la 1ere&nbsp;...",
     "news_item_url": "https://www.marianne.net/societe/police-et-justice/legislatives-raphael-arnault-lantifa-de-jean-luc-melenchon-elu-depute-face-au-rn",
     "picture_source": "BFMTV",
@@ -391,23 +401,13 @@
   },
   {
     "country": "France",
-    "title": "Marine Tondelier",
-    "pubDate": "Sun, 07 Jul 2024 21:00:00 +0200",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSIPsXWKlhDXaAKkfeSKFH0RsXGDqQs4TQpAHfl-i0ISREHIOgVMldRRLOGs1yvq2IL9FTETtVh",
-    "news_item_snippet": "(\u2026) Le Nouveau Front populaire appliquera son programme, tout son programme. Nous refusons d&#39;entrer dans des n\u00e9gociations avec son parti pour faire des&nbsp;...",
-    "news_item_url": "https://gomet.net/legislatives-2024-nous-allons-gouverner-marie-tondelier-eelv/",
-    "picture_source": "La Tribune",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "France",
-    "title": "Meyer Habib",
+    "title": "Melenchon",
     "pubDate": "Sun, 07 Jul 2024 23:00:00 +0200",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRc4Bzt2WXP0JLKwVRnvN5gVf8jqCKTjF1IHeEQ3fNNemdnSx6Nj7pUlLMxAG0CMQC0s_0V_AJC",
-    "news_item_snippet": "Apr\u00e8s des mois de propos pol\u00e9miques, le d\u00e9put\u00e9 sortant de la huiti\u00e8me circonscription des Fran\u00e7ais de l&#39;\u00e9tranger est battu par Caroline Yadan (Renaissance),&nbsp;...",
-    "news_item_url": "https://www.liberation.fr/politique/elections/resultats-des-legislatives-2024-meyer-habib-ejecte-de-lassemblee-nationale-par-caroline-yadan-20240708_BFZUWH7BQNDTBLGN5JQ3NPUVVM/",
-    "picture_source": "Le Monde",
-    "approx_traffic": "100,000+"
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQ9_qPD1AB0fzOKoXyAiXJQdOvhbwuMQmvMKTQv_316w3Fla8Z5zFDuYHxrIATPnNOS9oneekhp",
+    "news_item_snippet": "Apr\u00e8s le second tour des \u00e9lections l\u00e9gislatives, l&#39;Insoumise a assur\u00e9 que la gauche proposera \u00abun premier ministre et un gouvernement cette semaine\u00bb.",
+    "news_item_url": "https://www.lefigaro.fr/elections/legislatives/legislatives-2024-jean-luc-melenchon-n-est-absolument-pas-disqualifie-pour-matignon-juge-mathilde-panot-20240708",
+    "picture_source": "BFMTV",
+    "approx_traffic": "50,000+"
   },
   {
     "country": "France",
@@ -423,30 +423,20 @@
     "country": "France",
     "title": "Hanouna",
     "pubDate": "Sun, 07 Jul 2024 22:00:00 +0200",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTb8-4v8iT-Iralgo5W-0AIuH90OvhKjFGfOeiSgZQDFcW5BBCLNlnGT70ZFVo83dxUTyFCWBq3",
-    "news_item_snippet": "L&#39;animateur vedette de C8 Cyril Hanouna avait d\u00e9clar\u00e9 mi-juin qu&#39;il quitterait le pays si la France Insoumise arrivait au pouvoir.",
-    "news_item_url": "https://www.20minutes.fr/societe/4100145-20240708-resultats-legislatives-2024-hanouna-casse-manifestants-paris-rappellent-animateur-promesse",
-    "picture_source": "Le HuffPost",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcS8lzqDj1UvDOX_SHKX1BbeWxI86rw5AWkTtXZ3uLc1ftKAUZDAmIgfQ7Fw1FoICzHiQuy_3dQh",
+    "news_item_snippet": "Le 12 juin 2024, l&#39;animateur Cyril Hanouna avait annonc\u00e9 dans son \u00e9mission \u00ab Touche pas \u00e0 mon poste ! \u00bb qu&#39;il quitterait la France si LFI arrivait au&nbsp;...",
+    "news_item_url": "https://www.ouest-france.fr/elections/legislatives/hanouna-degage-les-electeurs-de-gauche-invitent-lanimateur-a-honorer-sa-promesse-3bcd8322-3cfb-11ef-a94b-3d33d29d1a10",
+    "picture_source": "20minutes.fr",
     "approx_traffic": "50,000+"
   },
   {
     "country": "France",
-    "title": "Ciotti",
+    "title": "Fran\u00e7ois Ruffin",
     "pubDate": "Sun, 07 Jul 2024 21:00:00 +0200",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcS65odopRFaNygIH9pHbFD9DgHQ8XLjjFUElTNkmLYALpOnVX9c4sXVewR7LyIlJHf5vavtNb7p",
-    "news_item_snippet": "Arriv\u00e9 en troisi\u00e8me position avec le RN, Eric Ciotti d\u00e9nonce une \u00ab tambouille politicienne \u00bb apr\u00e8s le second tour.",
-    "news_item_url": "https://www.publicsenat.fr/actualites/politique/resultat-des-elections-legislatives-eric-ciotti-denonce-un-veritable-coup-detat-institutionnel-et-politique",
-    "picture_source": "Le Figaro",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Germany",
-    "title": "Alexander Zverev",
-    "pubDate": "Sat, 06 Jul 2024 22:00:00 +0200",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQs0eiKj9tmSzryG3y3nbMlUSp7zkyoMhEJn49rUlEKe2EuRHLzgUWn6QA2-KDb5r2eVvTmtsz5",
-    "news_item_snippet": "Alexander Zverev will gegen den US-Amerikaner Taylor Fritz seinen bislang gr\u00f6\u00dften Erfolg in Wimbledon erreichen. Und die deutsche Nummer eins hofft,&nbsp;...",
-    "news_item_url": "https://sport.sky.de/tennis/artikel/alexander-zverev-gibt-knie-update-vor-viertelfinale-gegen-taylor-fritz/13174843/34276",
-    "picture_source": "Sportbuzzer",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRJq79qRLJuQByx6l1IRx4CYDRY3JjayvOnM_D1zG-jXEgheMpKC9er1AJKGrLfdG_WacGKQT29",
+    "news_item_snippet": "A Flixecourt, o\u00f9 l&#39;\u00e9quipe de campagne du candidat du Nouveau Front populaire tenait sa soir\u00e9e \u00e9lectorale, les militants ont craint jusqu&#39;au bout une&nbsp;...",
+    "news_item_url": "https://www.lemonde.fr/politique/article/2024/07/08/l-avertissement-de-francois-ruffin-reelu-depute-dans-la-somme-a-l-issue-d-une-semaine-d-angoisse-les-electeurs-nous-laissent-une-derniere-chance_6247719_823448.html",
+    "picture_source": "Public S\u00e9nat",
     "approx_traffic": "50,000+"
   },
   {
@@ -537,7 +527,7 @@
     "news_item_snippet": "Leggi su Sky TG24 l&#39;articolo Elezioni in Francia, risultati secondo turno: vince il Fronte Popolare, Le Pen solo terza.",
     "news_item_url": "https://tg24.sky.it/mondo/2024/07/08/risultati-elezioni-francia-2024-secondo-turno",
     "picture_source": "ISPIonline",
-    "approx_traffic": "200,000+"
+    "approx_traffic": "500,000+"
   },
   {
     "country": "Italy",
@@ -553,10 +543,10 @@
     "country": "Italy",
     "title": "Medvedev",
     "pubDate": "Sun, 07 Jul 2024 20:00:00 +0200",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcT1aSfCuIa8gPPd90RxUCatKjtoCeuuILK71Hp1EpIzZh1glvsksuNA9LngNIq9JqJJICBiUaYK",
-    "news_item_snippet": "Daniil Medvedev sar\u00e0 l&#39;avversario di Jannik Sinner ai quarti di finale di Wimbledon 2024. Il tennista russo ha usufruito del ritiro di Grigor Dimitrov&nbsp;...",
-    "news_item_url": "https://www.corrieredellosport.it/news/tennis/wimbledon/2024/07/07-130029426/sinner_sfidera_un_medvedev_riposato_cosa_e_successo_a_dimitrov",
-    "picture_source": "Eurosport.it",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSmnjjyLsM5GBSwl1yvhZ7zfxOwDofPurhvG-1Skkges1NZx0WqbAxoupXrgz6WDv9kDFD1n1Jj",
+    "news_item_snippet": "WIMBLEDON - Il numero 1 al mondo torna in campo marted\u00ec 9 luglio: sfider\u00e0 Daniil Medvedev ai quarti di finale, n\u00b0 5 nella classifica ATP.",
+    "news_item_url": "https://www.eurosport.it/tennis/wimbledon/2024/quando-gioca-jannik-sinner-ai-quarti-di-finale-di-wimbledon-contro-medvedev-data-orari-dove-vederla-_sto10226448/story.shtml",
+    "picture_source": "Corriere dello Sport.it",
     "approx_traffic": "50,000+"
   },
   {
@@ -572,7 +562,7 @@
   {
     "country": "Mexico",
     "title": "Pachuca  Monterrey",
-    "pubDate": "Sun, 07 Jul 2024 18:00:00 -0600",
+    "pubDate": "Sun, 07 Jul 2024 14:00:00 -0600",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQyF_6cy4sakY9U-R_UXMIB0ePmkJ6eO5xRWU9madj3R0gPfTJkw7ehel5LBK4CV3zLouLZwzqN",
     "news_item_snippet": "Juego Pachuca - Monterrey En Vivo Online: minuto a minuto del partido del Pachuca hoy contra los Rayados de Monterrey, desde el Estadio Hidalgo.",
     "news_item_url": "https://www.marca.com/mx/futbol/liga-mx/pachuca-monterrey/2024/07/08/01_0159_20240708_1295_741-directo.html",
@@ -583,7 +573,7 @@
     "country": "Spain",
     "title": "Elecciones Francia 2024",
     "pubDate": "Sun, 07 Jul 2024 21:00:00 +0200",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQ8x7nmV0NAHVGfSJM1EViJq5cyOA4ikM_Arw3kIF5x8HsDq-bvXYz8BSczU3JhLiEjKfYlh8Te",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSX6EiyVL_lWwrebeRR0Hlq07lkj2l7V6HcJ77GJcjLT_aozTuk2zkfg0XA12zOvhpPKOs6ij5o",
     "news_item_snippet": "Contra todo pron\u00f3stico, el Nuevo Frente Popular ha ganado la segunda vuelta de las elecciones en Francia. Le Pen ha asumido la derrota y el primer ministro&nbsp;...",
     "news_item_url": "https://www.eldiario.es/internacional/mapa-resultados-segunda-vuelta-elecciones-francia-circunscripcion-circunscripcion_1_11506719.html",
     "picture_source": "La Vanguardia",
@@ -634,8 +624,8 @@
     "title": "French elections",
     "pubDate": "Sun, 07 Jul 2024 17:00:00 +0100",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTnObyBWSffM-uf48pkXo7WKS854tMWQZlgj8qG333hU1AsAS8WBTt0gkjzXC-R4tGFvXwHbNty",
-    "news_item_snippet": "Markets reverse early losses after Marine Le Pen&#39;s RN falls well short of expected gains in parliament.",
-    "news_item_url": "https://www.ft.com/content/7f23bd87-ced0-4f7a-9167-c470beeb3c1a",
+    "news_item_snippet": "France faces months of instability after none of the three major parties were able to achieve a majority at the second round of elections.",
+    "news_item_url": "https://www.independent.co.uk/news/world/europe/french-election-2024-results-second-round-latest-b2575453.html",
     "picture_source": "EURACTIV",
     "approx_traffic": "100,000+"
   },
@@ -653,10 +643,10 @@
     "country": "United Kingdom",
     "title": "Tom Ackerley",
     "pubDate": "Sun, 07 Jul 2024 18:00:00 +0100",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRbAwVb9BRsGRXfT84xbCnivmwQIdXwywAzOla8jSUFUO1fNJ6_kUgmJMIvZANE3n-Ah3YJW5lU",
-    "news_item_snippet": "The 34-year-old Barbie actor and her husband, actor and film producer Tom Ackerley, 34, are expecting their first child together, multiple sources told People.",
-    "news_item_url": "https://www.independent.co.uk/life-style/margot-robbie-pregnant-tom-ackerley-b2575663.html",
-    "picture_source": "NBC4 Washington",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQatdkb0Z5tTy4CxwAWTOMzxaxZTlYEh6N4PXCaSI7-0-iZkmn7JvOpV8G8PBMz4JJLNyLsvgaX",
+    "news_item_snippet": "Margot Robbie and husband Tom Ackerley are expecting their first baby together. See how the &#39;Barbie&#39; actress debuted her pregnancy.",
+    "news_item_url": "https://www.nbcwashington.com/entertainment/entertainment-news/margot-robbie-is-pregnant-expecting-first-baby-with-tom-ackerley/3658366/",
+    "picture_source": "The Independent",
     "approx_traffic": "100,000+"
   },
   {
@@ -674,8 +664,8 @@
     "title": "Jay Slater missing Tenerife",
     "pubDate": "Sun, 07 Jul 2024 17:00:00 +0100",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTlXgWNp8XVvO1aP6gDyNX8irpfVPJPVJC9iXdKWVZYfZT99yxefPaerQot0-QkjkOH5mDhOjDK",
-    "news_item_snippet": "His family has been left heartbroken, as they frantically continue the search for the 19-year-old from Lancashire \u2013 carrying on after the Spanish police called&nbsp;...",
-    "news_item_url": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/theories-missing-jay-slater-tenerife-29492928",
+    "news_item_snippet": "The 19 year old, from Oswaldtwistle in Lancashire, disappeared on the Spanish island on June 17. The search for him has been ongoing for nearly three weeks.",
+    "news_item_url": "https://www.nottinghampost.com/news/uk-world-news/missing-jay-slater-search-tenerife-9395188",
     "picture_source": "Sky News",
     "approx_traffic": "50,000+"
   },
