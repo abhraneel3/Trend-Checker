@@ -2,7 +2,7 @@
   {
     "country": "United States",
     "title": "Houston Weather",
-    "pubDate": "Mon, 08 Jul 2024 03:00:00 -0700",
+    "pubDate": "Mon, 08 Jul 2024 06:00:00 -0700",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTUVxjqFp03IuFhjK4Dq5-3Kh-aNgrMuWc3VVagyOaLWHgqSv2yx6cp3XY1XmibJch6MJeUr72x",
     "news_item_snippet": "Beryl brought heavy rain and strong winds to the Houston area Monday morning while causing widespread power outages and at least three deaths, according to&nbsp;...",
     "news_item_url": "https://www.houstonpublicmedia.org/articles/news/hurricane/2024/07/08/492798/beryl-houston-updates-hurricane-landfall-monday-wind-outwges/",
@@ -11,12 +11,22 @@
   },
   {
     "country": "United States",
+    "title": "CenterPoint outage",
+    "pubDate": "Mon, 08 Jul 2024 03:00:00 -0700",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRcf3lfmwu7IC9Gjvomq-U2BcSLQOs096J4gBgz8eLxNc21ipo2SQOe_eqBolflGU2didYD3yU5",
+    "news_item_snippet": "Tropical Storm Beryl \u201cmore heavily impacted\u201d Houston&#39;s electric infrastructure than originally anticipated. The Cat 1 hurricane led to widespread power&nbsp;...",
+    "news_item_url": "https://houstonlanding.org/centerpoint-says-infrastructure-more-heavily-impacted-by-hurricane-beryl-than-anticipated/",
+    "picture_source": "Houston Public Media",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United States",
     "title": "Novak Djokovic",
     "pubDate": "Mon, 08 Jul 2024 15:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQ_iE6tcsGxoftEyKeyaTVfW99NwusEtR5I_QHR_E_VGrS4ARb88-lZhGKu2IcTZ6oTdqwqQaeY",
-    "news_item_snippet": "Maybe the Centre Court spectators were saluting Novak Djokovic&#39;s opponent by saying his name. Maybe they were booing Djokovic, trying to rattle him.",
-    "news_item_url": "https://apnews.com/article/wimbledon-novak-djokovic-fans-rune-a8eb8438e4acdd0183184652a297f0dc",
-    "picture_source": "CNN",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcS6JhbcfJQVCqG-uDrTZe239kZobB-UnhdC00vvKsuS7ZScmDNwXKmS9PTaestlDTy610Yp_6Ko",
+    "news_item_snippet": "Novak Djokovic produced an impressive performance at Wimbledon to cruise into the quarterfinals, but the 24-time grand slam champion was far from happy&nbsp;...",
+    "news_item_url": "https://www.cnn.com/2024/07/09/sport/novak-djokovic-wimbledon-crowd-quarterfinals-spt-intl/index.html",
+    "picture_source": "The Associated Press",
     "approx_traffic": "50,000+"
   },
   {
@@ -24,19 +34,9 @@
     "title": "Longlegs",
     "pubDate": "Mon, 08 Jul 2024 17:00:00 -0700",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTD2fdyNxhMYWPfUhZ9lZh1eQWb9zMpt9lvIfzSXraxJXwG8CS86l-uQFNxihEZR1HDFjgCF7ivKg",
-    "news_item_snippet": "A Satanic Nicolas Cage will haunt your nightmares in Oz Perkins&#39; breathlessly atmospheric new horror film.",
-    "news_item_url": "https://www.indiewire.com/criticism/movies/longlegs-horror-movie-review-nicolas-cage-satan-1235023600/",
+    "news_item_snippet": "It&#39;s a grim, thankless task. The hunt for that elusive, &#39;genuinely scary&#39; new horror movie is like picking through a wasteland of desiccated bones with&nbsp;...",
+    "news_item_url": "https://www.standard.co.uk/culture/film/longlegs-review-nicolas-cage-b1169536.html",
     "picture_source": "Jordan Ruimy",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Bachelorette 2024",
-    "pubDate": "Mon, 08 Jul 2024 15:00:00 -0700",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRD_cM7W-p7QGT79GwRqnb1-fMSJNA_pYhxuhEN5qsA65sRa0I1t5ZPBUKA_ePAZN4MUy7zrXds",
-    "news_item_snippet": "Each week on ABC&#39;s &quot;The Bachelorette,&quot; men will be eliminated until Jenn Tran gives out her final rose. Here&#39;s who went home this week.",
-    "news_item_url": "https://www.forbes.com/sites/monicamercuri/2024/07/08/who-went-home-on-the-bachelorette-this-week-see-the-elimination-list-so-far/",
-    "picture_source": "The Indianapolis Star",
     "approx_traffic": "50,000+"
   },
   {
@@ -44,19 +44,9 @@
     "title": "Jay Johnston",
     "pubDate": "Mon, 08 Jul 2024 15:00:00 -0700",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQRrtUmDqMbzfpIqA0BL61vE26zoW7jDRxfoqosiBnRBZovzzWkN44so_zd1LUYRD9j9jOUaI12",
-    "news_item_snippet": "Former &#39;Bob&#39;s Burgers&#39; voice actor Jay Johnston has agreed to plead guilty to federal charges stemming from his role in the January 6 attack on the U.S.&nbsp;...",
-    "news_item_url": "https://deadline.com/2024/07/donald-trump-bobs-burgers-actor-jay-johnston-arrested-jan-6-capitol-attack-fbi-doj-1235411063/",
+    "news_item_snippet": "Johnston, 54, faces up to five years in prison after pleading guilty to felony count of civil disorder from January 6 riot.",
+    "news_item_url": "https://www.theguardian.com/us-news/article/2024/jul/08/bobs-burgers-jay-johnston-guilty",
     "picture_source": "NBC News",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Entergy",
-    "pubDate": "Mon, 08 Jul 2024 16:00:00 -0700",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQL53BcD_QHo91GVxQbHWhrZN7D3BE_j1P2cy-wD9QgP94A1ZEKhFCA8_FO4NpNtqceIPigdH1D",
-    "news_item_snippet": "Entergy Texas crews are safely restoring power after heavy rain, strong wind gusts and lightning from Hurricane Beryl caused widespread outages Monday.",
-    "news_item_url": "https://www.woodlandsonline.com/npps/story.cfm?nppage=79051",
-    "picture_source": "entergynewsroom.com",
     "approx_traffic": "50,000+"
   },
   {
@@ -112,11 +102,11 @@
   {
     "country": "India",
     "title": "Redmi 13 5G",
-    "pubDate": "Tue, 09 Jul 2024 14:30:00 +0530",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcS2J7stxBhslqW5lDxGqDQ0pDz41jyfhEz-BYfyJqOU6WAWVwZTWIOpq2DTwNcAEA_P1dXDlC0J",
+    "pubDate": "Tue, 09 Jul 2024 13:30:00 +0530",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSmZJCzOH2KLx-_fCe4UgST2U_7JFbuUlbB1_EGVZRqwgEXt4CjeNeGzrh6GaEe_IZQrpBnXMkj",
     "news_item_snippet": "Xiaomi marks its 10th anniversary with the launch of Redmi 13 in India, starting at Rs 12999. The phone will be available for sale from July 12 at noon.",
     "news_item_url": "https://www.businesstoday.in/technology/news/story/redmi-13-launched-in-india-at-rs-12999-check-specifications-other-details-436417-2024-07-09",
-    "picture_source": "The Hindu",
+    "picture_source": "Business Standard",
     "approx_traffic": "100,000+"
   },
   {
@@ -181,21 +171,21 @@
   },
   {
     "country": "Argentina",
-    "title": "9 de julio",
+    "title": "D\u00eda de la Independencia de Argentina",
     "pubDate": "Mon, 08 Jul 2024 01:00:00 -0300",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSxpN-qTEjFUmi-RikwtBhjzN7O3v-nxThr4j7UTbXDgrMBuLml78GWFsBsoojeroQutteyr_Fy",
-    "news_item_snippet": "Esta jornada de asueto es conocido como el D\u00eda de la Independencia, ya que conmemora el d\u00eda en que las emancipadas Provincias Unidas del R\u00edo de la plata&nbsp;...",
-    "news_item_url": "https://www.lanacion.com.ar/sociedad/por-que-es-feriado-el-9-de-julio-en-la-argentina-nid08072024/",
+    "news_item_snippet": "Es uno de los hechos hist\u00f3ricos que dieron el inicio a la Naci\u00f3n; se trata de una fecha que este martes se celebra en un feriado nacional - LA NACION.",
+    "news_item_url": "https://www.lanacion.com.ar/sociedad/dia-de-la-independencia-que-se-celebra-hoy-en-la-argentina-nid09072024/",
     "picture_source": "Argentina.gob.ar Presidencia de la Naci\u00f3n",
     "approx_traffic": "50,000+"
   },
   {
     "country": "Argentina",
-    "title": "D\u00eda de la Independencia de Argentina",
-    "pubDate": "Mon, 08 Jul 2024 11:00:00 -0300",
+    "title": "9 de julio",
+    "pubDate": "Mon, 08 Jul 2024 09:00:00 -0300",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSxpN-qTEjFUmi-RikwtBhjzN7O3v-nxThr4j7UTbXDgrMBuLml78GWFsBsoojeroQutteyr_Fy",
-    "news_item_snippet": "Es uno de los hechos hist\u00f3ricos que dieron el inicio a la Naci\u00f3n; se trata de una fecha que este martes se celebra en un feriado nacional - LA NACION.",
-    "news_item_url": "https://www.lanacion.com.ar/sociedad/dia-de-la-independencia-que-se-celebra-hoy-en-la-argentina-nid09072024/",
+    "news_item_snippet": "La fecha patria se va a festejar con una procesi\u00f3n de las Fuerzas Armadas y Fuerzas de Seguridad federales por la Avenida del Libertador; cu\u00e1ndo inicia el&nbsp;...",
+    "news_item_url": "https://www.lanacion.com.ar/sociedad/a-que-hora-es-el-desfile-militar-este-martes-9-de-julio-por-el-dia-de-la-independencia-nid08072024/",
     "picture_source": "Argentina.gob.ar Presidencia de la Naci\u00f3n",
     "approx_traffic": "50,000+"
   },
@@ -211,22 +201,12 @@
   },
   {
     "country": "Australia",
-    "title": "Alex de Minaur",
-    "pubDate": "Tue, 09 Jul 2024 08:00:00 +1000",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcS_zjeTiCOJThCMHWv06zETxdqEp0g-bI_DCftxVTXqdslrh3NKeMU7it_SZ8XBJM2C1dRl9aot",
-    "news_item_snippet": "Australian No 1 beats France&#39;s Arthur Fils 6-2 6-4 4-6 6-3 and banishes memory of losing two-set lead in 2022 \u2013 but now faces Novak Djokovic.",
-    "news_item_url": "https://www.theguardian.com/sport/article/2024/jul/08/alex-de-minaur-lays-wimbledon-ghosts-to-rest-to-reach-last-eight-for-first-time",
-    "picture_source": "ABC News",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Australia",
     "title": "Margot Robbie",
     "pubDate": "Mon, 08 Jul 2024 06:00:00 +1000",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTFE0BtDEB5W9Rkle7Em_OwLSWIKRuWp5FMIWM2305aQPpNQ0-t8UQCl5jB5E7bHLXWSCwyglYX",
-    "news_item_snippet": "The 34-year-old actress and producer was spotted in Lake Como with husband Tom Ackerley.",
-    "news_item_url": "https://www.smh.com.au/culture/celebrity/margot-robbie-expecting-first-child-according-to-reports-20240708-p5jrsz.html",
-    "picture_source": "KBTX",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQMyF8EiXafO5d7B8tm3grCcWROcy8HOLGtFis1P9j-gbKSGhi69jwTYJ7n53MWT4o2vCZVx94c",
+    "news_item_snippet": "(TMX) \u2013 Margot Robbie&nbsp;...",
+    "news_item_url": "https://www.kbtx.com/2024/07/08/margot-robbie-is-pregnant-with-her-first-child/",
+    "picture_source": "The Sydney Morning Herald",
     "approx_traffic": "50,000+"
   },
   {
@@ -234,8 +214,8 @@
     "title": "Feriado 9 de julho",
     "pubDate": "Mon, 08 Jul 2024 08:00:00 -0500",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRcmmXaU1JbbcsEbJCZswiufRpzJMnJvGt_fli6_2R-LzMRnpf4usnYkaGsr4DhZ3H2N_ZfcEpi",
-    "news_item_snippet": "A data de 9 de julho n\u00e3o \u00e9 feriado nacional. O dia \u00e9 feriado estadual apenas em S\u00e3o Paulo e celebra a Revolu\u00e7\u00e3o Constitucionalista de 1932,&nbsp;...",
-    "news_item_url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2024/07/08/feriado-de-9-de-julho-e-nacional-saiba-onde-trabalhador-pode-folgar-amanha.htm",
+    "news_item_snippet": "Data \u00e9 celebrada apenas no estado de S\u00e3o Paulo e tem origem no in\u00edcio de embate entre paulistas e o governo de Get\u00falio Vargas.",
+    "news_item_url": "https://oglobo.globo.com/brasil/noticia/2024/07/09/por-que-hoje-e-feriado-em-sp-entenda-origem-do-9-de-julho.ghtml",
     "picture_source": "G1",
     "approx_traffic": "200,000+"
   },
@@ -243,31 +223,11 @@
     "country": "Brazil",
     "title": "Atletico",
     "pubDate": "Mon, 08 Jul 2024 11:00:00 -0500",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQM8KHrYXpOcnwMEEbwAFGSdYWzGHPv3vf0bit6erSci6ODiSf28iq6Ul1NsAk4Sz5RXjHvQsfL",
-    "news_item_snippet": "O elenco profissional do Galo se reapresentou na manh\u00e3 desta segunda-feira (8/7) no CT para iniciar os trabalhos visando ao jogo diante do S\u00e3o Paulo,&nbsp;...",
-    "news_item_url": "https://atletico.com.br/informacoes-do-treino-do-galo-desta-segunda-feira-8-7/",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTo7j0nr8C0xLzoafOhgMtSp6m7A2T4OEa5jdBTK7rhEn63X1TlPDa7QqNws_WMktz2BfL1U9fa",
+    "news_item_snippet": "Clube ter\u00e1 voltas importantes na quinta-feira, na Arena MRV, pelo Brasileiro.",
+    "news_item_url": "https://ge.globo.com/futebol/times/atletico-mg/noticia/2024/07/08/escalacao-do-atletico-mg-romulo-retorna-e-saravia-inicia-transicao-antes-de-jogo-contra-sao-paulo.ghtml",
     "picture_source": "globoesporte.com",
     "approx_traffic": "100,000+"
-  },
-  {
-    "country": "Brazil",
-    "title": "Amazonas FC",
-    "pubDate": "Mon, 08 Jul 2024 15:00:00 -0500",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTyqlTyjnplKPHEgnWsgq7xFQ-CtnlZtEsani8I9ZIsd-9xHUMYXASeaP0M9neua8psjMCKWN3g",
-    "news_item_snippet": "Amazonas e Vila Nova jogam pela S\u00e9rie B do Campeonato Brasileiro hoje; veja onde assistir ao vivo e o hor\u00e1rio.",
-    "news_item_url": "https://www.oliberal.com/esportes/futebol/amazonas-fc-x-vila-nova-onde-assistir-ao-vivo-e-as-escalacoes-do-jogo-de-hoje-08-07-pela-serie-b-1.834674",
-    "picture_source": "globoesporte.com",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Brazil",
-    "title": "Atletico MG",
-    "pubDate": "Mon, 08 Jul 2024 12:00:00 -0500",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcR9bxxMgkKtyQWTsXz3a6buPVcIxoU2ITZ1pvbHm078GqrnS3uhT1IfvREnvAP5hS_pwdEPkWrj",
-    "news_item_snippet": "O elenco tricolor se representa na manh\u00e3 desta segunda-feira (8) ap\u00f3s ganhar o domingo de folga. Na \u00faltima rodada, no s\u00e1bado \u00e0 noite, os comandados de Lu\u00eds&nbsp;...",
-    "news_item_url": "https://www.terra.com.br/esportes/sao-paulo/sao-paulo-deve-ter-reforcos-para-enfrentar-o-atletico-mg-pelo-brasileirao,7bab9b1fe9d433193981ce19ac3d573agp4lxqwb.html",
-    "picture_source": "Terra",
-    "approx_traffic": "50,000+"
   },
   {
     "country": "Brazil",
@@ -283,10 +243,10 @@
     "country": "Brazil",
     "title": "Vinho Pera Manca",
     "pubDate": "Mon, 08 Jul 2024 14:00:00 -0500",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRxp4TKtDzjREMNH4HqeZSq12SuOfHUHHvmQSCtJvXIZdBw_rpE3abUnbZJnmVYlcTj1mtAmsHQ",
-    "news_item_snippet": "O desespero do grupo de amigos ao descobrir o valor da conta foi documentado no Tik Tok. Eles tomaram duas garrafas.",
-    "news_item_url": "https://www.correiobraziliense.com.br/brasil/2024/07/6894294-amigos-bebem-vinhos-de-rs1650-pensando-que-custava-rs165-veja-video.html",
-    "picture_source": "Pequenas Empresas e Grandes Neg\u00f3cios",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcT7N9s2inzdl7rDzx2OgmeOk3LtWyrtsG1U11zIqctpG9UalaN6xXSO0ZQVlo9oOOSLg797Aij5",
+    "news_item_snippet": "Sob o texto: &quot;Quando a conta chega e o vinho custa R$ 1.650 ao inv\u00e9s de R$ 165&quot;, \u00e9 poss\u00edvel ver o recibo do restaurante. Constam uma burrata, ceviche, camar\u00f5es&nbsp;...",
+    "news_item_url": "https://revistapegn.globo.com/redes-sociais/noticia/2024/07/amigos-incredulos-com-valor-de-jantar-viralizam-quando-a-conta-chega-e-o-vinho-custa-r-1650-ao-inves-de-r-165.ghtml",
+    "picture_source": "Correio Braziliense",
     "approx_traffic": "50,000+"
   },
   {
@@ -301,21 +261,21 @@
   },
   {
     "country": "France",
-    "title": "Hugo Auradou",
+    "title": "Oscar Jegou",
     "pubDate": "Tue, 09 Jul 2024 08:00:00 +0200",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTdN0RkrtN-C2Z8bkCAF3VS8HIkNPCLBcwmRodGtLLS8Xzgaxxt1S-U5juibnKlj8uaLvWHeQX1",
-    "news_item_snippet": "Deux joueurs du XV de France de rugby ont \u00e9t\u00e9 arr\u00eat\u00e9s ce lundi en Argentine, alors que les Bleus sont en tourn\u00e9e en Am\u00e9rique du Sud.",
-    "news_item_url": "https://www.francebleu.fr/infos/faits-divers-justice/en-pleine-tournee-du-xv-de-france-le-palois-hugo-auradou-arrete-en-argentine-apres-une-plainte-pour-agression-sexuelle-9690146",
+    "news_item_snippet": "D\u00e9j\u00e0 \u00e9branl\u00e9e par sa suspension pour prise de coca\u00efne, la carri\u00e8re naissante du Rochelais Oscar Jegou est de nouveau menac\u00e9e. Il est accus\u00e9 d&#39;agression&nbsp;...",
+    "news_item_url": "https://actu.fr/sports/rugby/xv-de-france/suspendu-pour-prise-de-cocaine-accuse-d-agression-sexuelle-oscar-jegou-vers-un-immense-gachis_61328830.html",
     "picture_source": "France 3 R\u00e9gions",
-    "approx_traffic": "50,000+"
+    "approx_traffic": "200,000+"
   },
   {
     "country": "France",
     "title": "Resultat bac 2024",
     "pubDate": "Mon, 08 Jul 2024 00:00:00 +0200",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRR_QshheDVsRBPxhlYlv2ypUPB3jZNm4WGBPfRerYR_lpSQGHYNBGuznHTu_27yZze-5UJtmAP",
-    "news_item_snippet": "Les r\u00e9sultats du bac sont en tr\u00e8s l\u00e9g\u00e8re am\u00e9lioration et s&#39;\u00e9l\u00e8vent \u00e0 66,6% dans l&#39;acad\u00e9mie de Guyane avant les \u00e9preuves de rattrapage.",
-    "news_item_url": "https://la1ere.francetvinfo.fr/guyane/resultats-bac-2024-en-guyane-66-6-de-reussite-avant-la-sequence-de-rattrapage-1504322.html",
+    "news_item_snippet": "Les r\u00e9sultats du baccalaur\u00e9at 2024 sont tomb\u00e9s en Polyn\u00e9sie, lundi 08 juillet. Le fenua enregistre 77,1 % de r\u00e9ussite contre 85,5% au national (chiffres&nbsp;...",
+    "news_item_url": "https://la1ere.francetvinfo.fr/polynesie/tahiti/polynesie-francaise/resultats-du-bac-2024-en-polynesie-taux-de-reussite-en-baisse-tehani-jagline-obtient-la-meilleure-note-1504421.html",
     "picture_source": "Le Figaro",
     "approx_traffic": "1,000,000+"
   },
@@ -344,8 +304,8 @@
     "title": "France Espagne",
     "pubDate": "Mon, 08 Jul 2024 18:00:00 +0200",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcR2LGG2TGWsGWYUp_OgkONLx60tvAbNCAPQuYMMEnO_gcxGOgps3mtzSLUCnqtxOx4eLu3O8On8",
-    "news_item_snippet": "\u00c0 l&#39;occasion des demi-finales de l&#39;Euro 2024, plusieurs municipalit\u00e9s ont pr\u00e9vu d&#39;installer des fan zones pour suivre le match entre la France et l&#39;Espagne,&nbsp;...",
-    "news_item_url": "https://www.ouest-france.fr/euro/france-espagne-nantes-le-mans-lyon-nancy-ou-seront-les-fan-zones-pour-la-demi-finale-fc68fafc-3db0-11ef-9243-d35e291a41fd",
+    "news_item_snippet": "Euro 2024 : actus, matchs en direct, calendrier et r\u00e9sultats des rencontres, classement des groupes, des buteurs et des passeurs.",
+    "news_item_url": "https://rmcsport.bfmtv.com/football/euro/direct-france-espagne-suivez-la-demi-finale-choc-de-l-euro-2024-en-live_LS-202407090210.html",
     "picture_source": "Equinox Magazine",
     "approx_traffic": "200,000+"
   },
@@ -357,6 +317,16 @@
     "news_item_snippet": "Kenza Benchrif a \u00e9t\u00e9 interpell\u00e9e ce jeudi 4 juillet et plac\u00e9e en d\u00e9tention provisoire, en raison notamment d&#39;un risque de fuite vers l&#39;\u00e9tranger.",
     "news_item_url": "https://www.bfmtv.com/police-justice/poupette-kenza-ce-que-l-on-sait-de-la-mise-en-examen-de-l-influenceuse-pour-tentative-d-extorsion-en-bande-organisee_AV-202407090315.html",
     "picture_source": "RTL.fr",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "France",
+    "title": "Cl\u00e9mentine Autain",
+    "pubDate": "Mon, 08 Jul 2024 11:00:00 +0200",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQj0RTGI9nZpPR2bhWXrBYKx_-FeRPKsQSO5rS5tG9KDRadERf9aHbenCgBt_kGrjMYeJIJ2yOX",
+    "news_item_snippet": "D\u00e9sireuse de s&#39;\u00e9loigner des \u00ab guerres fratricides \u00bb faisant rage au sein des Insoumis, la d\u00e9put\u00e9e de Seine-Saint-Denis abandonne l&#39;\u00e9tiquette LFI.",
+    "news_item_url": "https://www.lejdd.fr/politique/legislatives-clementine-autain-rompt-avec-lfi-et-rejoint-le-groupe-des-purges-147303",
+    "picture_source": "Mediapart",
     "approx_traffic": "50,000+"
   },
   {
@@ -462,10 +432,10 @@
   {
     "country": "Italy",
     "title": "Djokovic",
-    "pubDate": "Mon, 08 Jul 2024 22:00:00 +0200",
+    "pubDate": "Mon, 08 Jul 2024 18:00:00 +0200",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcR_0SjXu0a79RQhcCoFCEnjfbi_cxeQi4_jJB6nH3XHuaZc_NiiV5qEqJIW73l1T5Urt8eJ6kFs",
-    "news_item_snippet": "Il serbo si \u00e8 tolto qualche sassolino dalla scarpa per il comportamento del pubblico al termine del match vinto contro Holger Rune agli ottavi di finale di&nbsp;...",
-    "news_item_url": "https://www.corrieredellosport.it/news/tennis/wimbledon/2024/07/08-130061532/furia_djokovic_a_wimbledon_batte_rune_e_attacca_il_pubblico_portate_rispetto_",
+    "news_item_snippet": "Il campione serbo infuriato con il pubblico per le urla di sostegno al giocatore danese che assomigliavano a &quot;buuu&quot; di disappunto.",
+    "news_item_url": "https://www.rainews.it/video/2024/07/novak-djokovic-batte-rune-e-si-infuria-col-pubblico-mi-avete-mancato-di-rispetto-d19f6b88-214c-45f0-8902-165899811a3d.html",
     "picture_source": "Il Post",
     "approx_traffic": "100,000+"
   },
@@ -490,23 +460,23 @@
     "approx_traffic": "50,000+"
   },
   {
-    "country": "Mexico",
-    "title": "Karla Souza",
-    "pubDate": "Mon, 08 Jul 2024 18:00:00 -0600",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcT5zUUJcYom1bdwhAgKiyjJRrx2BZJf2a91pGGSQA8Vmpm65QfPgs4JTTx5Pl3Rg2GBhR0Jv7aU",
-    "news_item_snippet": "Adri\u00e1n Olivares fue el \u00fanico integrante de origen mexicano de la ic\u00f3nica banda de los 80 y 90.",
-    "news_item_url": "https://www.hola.com/us-es/celebrities/20240709705024/adrian-olivares-karla-souza-menudo-hermano-fallecimiento/",
-    "picture_source": "Qui\u00e9n",
+    "country": "Italy",
+    "title": "Zverev",
+    "pubDate": "Mon, 08 Jul 2024 19:00:00 +0200",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSuz1eUG8aA2RE5FO9EbdFkf5MU5DxojD0G1ADloteexxGeyIOiAwgI2B-jxqhdBqc0FuaeJwPj",
+    "news_item_snippet": "Il match degli ottavi di finale del torneo di Wimbledon vinto da Taylor Fritz su Alexander Zverev ha avuto una coda velenosa a sorpresa: il tedesco si.",
+    "news_item_url": "https://www.fanpage.it/sport/tennis/zverev-dice-qualcosa-a-fritz-dopo-la-sconfitta-centra-la-fidanzata-dellamericano/",
+    "picture_source": "Tuttosport",
     "approx_traffic": "50,000+"
   },
   {
     "country": "Mexico",
     "title": "Video Metro CDMX",
     "pubDate": "Mon, 08 Jul 2024 09:00:00 -0600",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcS0vFKDO683UPEF2n9JAglj6eyrjZzTNF3_EmvbGZScZ3eyz3ob7pgkGMrHTmJUagN4_WA7rLIb",
-    "news_item_snippet": "La influencer gener\u00f3 una nueva controversia al grabar un video sexual en un vag\u00f3n de la L\u00ednea 1 del STC Metro de la Ciudad de M\u00e9xico.",
-    "news_item_url": "https://www.infobae.com/mexico/2024/07/09/que-pasara-con-luna-bella-metro-de-la-cdmx-respondio-asi-al-polemico-video-de-la-estrella-de-onlyfans-usuarios-enfurecen/",
-    "picture_source": "ADNPol\u00edtico",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTJsu1mcGSoOmDGeHf274dH7yfg_2WNaR0y0vW6jRspc8tBbqXcDSOGn17ifzLFSasMrwIjEV3p",
+    "news_item_snippet": "La autoridad competente tiene la facultad de determinar la sanci\u00f3n espec\u00edfica, teniendo en cuenta el contexto y las particularidades del caso.",
+    "news_item_url": "https://www.informador.mx/mexico/Luna-Bella-seria-sancionada-por-grabar-video-explicito-en-el-Metro-de-CDMX-20240708-0079.html",
+    "picture_source": "Infobae.com",
     "approx_traffic": "50,000+"
   },
   {
@@ -514,19 +484,19 @@
     "title": "Espa\u00f1a Francia",
     "pubDate": "Mon, 08 Jul 2024 10:00:00 +0200",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSNARDZE-iiBbSIAttoKiyAaL-Ld_uqSIohnXxlKVoWHYMsB3BBQde0lnLCC6JlMyrXHDMi4pJb",
-    "news_item_snippet": "La selecci\u00f3n espa\u00f1ola busca este martes tumbar a otra favorita como la rocosa y poderosa Francia y jugar la final de la Eurocopa.",
-    "news_item_url": "https://www.ondacero.es/deportes/futbol/eurocopa/espana-francia-paso-final_20240709668ce2c5301df70001faed7f.html",
+    "news_item_snippet": "Espa\u00f1a busca un billete para la gran final del pr\u00f3ximo domingo 14 de julio. En frente tendr\u00e1 a la selecci\u00f3n francesa, con Kylian Mbapp\u00e9 como principal&nbsp;...",
+    "news_item_url": "https://prnoticias.com/2024/07/09/espana-francia-horario-y-donde-verlo/",
     "picture_source": "RTVE",
-    "approx_traffic": "100,000+"
+    "approx_traffic": "200,000+"
   },
   {
     "country": "Spain",
     "title": "Bembibre",
     "pubDate": "Mon, 08 Jul 2024 22:00:00 +0200",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQ31vK0BKPWJSjj-ShpaOQ1Ue75sOvtmulgKbSJK4WeXmCGRx5kyxpTAMNzj5vspcxZ64BIY2DZ",
-    "news_item_snippet": "El Ayuntamiento de Bembibre organiza un a\u00f1o m\u00e1s el tradicional Mercado del Ajo, que reunir\u00e1 a productores de toda la zona este domingo, 14 de julio, en la.",
-    "news_item_url": "https://www.elbierzodigital.com/bembibre-mercado-ajos-2024/",
-    "picture_source": "Infobierzo.com",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTUZN2bZiXm41lFgey42Q2BtPDyYmBhsEWmtUaKLl6HtOHiesquSLrcf5EsWiUhcZ94wPDqlWm0",
+    "news_item_snippet": "Ahora tendr\u00e1n que seguir acumulando puntos para ganar posiciones en la clasificaci\u00f3n global. Bembibre disfruta&nbsp;...",
+    "news_item_url": "https://www.infobierzo.com/bierzo/bembibre-gana-estreno-grand-prix-caidas_1013931_102.html",
+    "picture_source": "LOS40",
     "approx_traffic": "50,000+"
   },
   {
@@ -544,8 +514,8 @@
     "title": "Djokovic",
     "pubDate": "Mon, 08 Jul 2024 20:00:00 +0100",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRe_Uop4sXvQanc2AGu26lQZ-Ztjmt9FoU39Lt2cm7PCqTZk1fManbRRW_0hHeaska_iRJwG9ZR",
-    "news_item_snippet": "Novak Djokovic hit out at disrespectful chants against him after easing to a 6-3, 6-4, 6-2 victory against Holger Rune to reach the Wimbledon&nbsp;...",
-    "news_item_url": "https://www.theguardian.com/sport/article/2024/jul/08/novak-djokovic-holger-rune-wimbledon-tennis",
+    "news_item_snippet": "Djokovic expressed his frustration at chants for his beaten opponent Holger Rune.",
+    "news_item_url": "https://www.independent.co.uk/sport/tennis/novak-djokovic-wimbledon-holger-rune-petra-kvitova-centre-court-b2576287.html",
     "picture_source": "Sky News",
     "approx_traffic": "100,000+"
   },
@@ -554,8 +524,8 @@
     "title": "Taylor Fritz",
     "pubDate": "Mon, 08 Jul 2024 17:00:00 +0100",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTsaw2EwXg4p7o7VtU7dlEr_cKFh6he5P7mmnTkrPD_OwvWVOHbIVmf0ODCBaLKh0IcTSrEfOSU",
-    "news_item_snippet": "Taylor Fritz has come back after dropping the opening two sets to defeat two-time Grand Slam finalist Alexander Zverev 4-6, 6-7 (4), 6-4, 7-6 (3),&nbsp;...",
-    "news_item_url": "https://www.thedailytimes.com/ap/sports/taylor-fritz-comes-back-from-two-sets-down-to-beat-alexander-zverev-at-wimbledon/article_93766b0f-a820-5670-8a4f-3fbe3f784d4d.html",
+    "news_item_snippet": "Morgan Riddle, a social media influencer, posted an image of Centre Court earlier in the day captioned &#39;cheer loud ladies&#39;",
+    "news_item_url": "https://www.telegraph.co.uk/tennis/2024/07/08/taylor-fritz-girlfriend-jibe-alexander-zverev-wimbledon/",
     "picture_source": "The Independent",
     "approx_traffic": "100,000+"
   },
@@ -563,10 +533,10 @@
     "country": "United Kingdom",
     "title": "Love Island",
     "pubDate": "Mon, 08 Jul 2024 17:00:00 +0100",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcR24vl8slxRxKynabvi4gajeumJDF260oJjHqQQSCRk0JbfDnPnLQ_t9tXAGIUHjV_MSq41FrB3",
-    "news_item_snippet": "Love Island star QUITS villa after shock dumping ... She followed her partner out the door! ... If you don&#39;t want any spoilers about the upcoming episodes of Love&nbsp;...",
-    "news_item_url": "https://hellorayo.co.uk/hits-radio/entertainment/television/love-island-uma-jammeh-quits/",
-    "picture_source": "Press and Journal",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSKHdi7EiddRsdXGTDNX1fL1F78nMAca4Bto6gzIXyd-kc35PHwSqcHbMZ6tfaPgQgFwV9kjt6I",
+    "news_item_snippet": "Ex-Blue Toon striker Joshua Oyinsan appeared on the reality dating show last night as one of two male bombshells. The Nigerian-born footballer will be&nbsp;...",
+    "news_item_url": "https://www.pressandjournal.co.uk/fp/entertainment/tv-film/6530756/joshua-oyinsan-love-island-peterhead/",
+    "picture_source": "The Independent",
     "approx_traffic": "50,000+"
   },
   {
