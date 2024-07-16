@@ -1,33 +1,33 @@
 [
   {
     "country": "United States",
-    "title": "J.D. Vance",
-    "pubDate": "Mon, 15 Jul 2024 10:00:00 -0700",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRa_XRxDMSS4XZW3geMY1mxieRFcrin6DGctOl4NLXksWsqB1rm950YKOphOCqrypOnUBbBPj80",
-    "news_item_snippet": "The junior senator from Ohio shot to fame writing about his hard upbringing and morphed from a &#39;never-Trumper&#39; into a Maga champion.",
-    "news_item_url": "https://www.bbc.com/news/articles/cn07dv4mrg2o",
-    "picture_source": "BBC News",
-    "approx_traffic": "2,000,000+"
-  },
-  {
-    "country": "United States",
     "title": "USA Basketball",
     "pubDate": "Mon, 15 Jul 2024 11:00:00 -0700",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcScOtMhvzxj3BNDDy11u7GbQHfMahLBL22tDJoH936jVvd0F33lI3aVbWtX41LLQ5cRyrWA0_vW",
-    "news_item_snippet": "It&#39;s the United States vs. Australia in the USA Basketball Showcase exhibition ahead of the 2024 Paris Olympics at 11 a.m. CT Monday in Abu Dhabi,&nbsp;...",
-    "news_item_url": "https://www.oklahoman.com/story/sports/olympics/2024/07/15/us-australia-live-updates-score-highlights-usa-basketball-showcase/74403187007/",
+    "news_item_snippet": "Team USA defeated Australia 98-92 in Abu Dhabi in its second exhibition contest ahead of the 2024 Paris Olympics.",
+    "news_item_url": "https://www.nbclosangeles.com/paris-2024-summer-olympics/usa-basketball-australia-exhibition-abu-dhabi/3459898/",
     "picture_source": "UCLA Newsroom",
     "approx_traffic": "200,000+"
   },
   {
     "country": "United States",
-    "title": "Amazon Prime Day",
+    "title": "Prime Day",
     "pubDate": "Mon, 15 Jul 2024 06:00:00 -0700",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQrUK-xL5JA-02sdta8domFP2cukA3mbwyvWDzwPSsHWInRmE5zpJ41h6b3sP8jdMZjBRfbODiS",
-    "news_item_snippet": "CBS Essentials is created independently of the CBS News editorial staff. We may receive commissions from some links to products on this page. Promotions are&nbsp;...",
-    "news_item_url": "https://www.cbsnews.com/essentials/amazon-invite-only-prime-day-deals-2024/",
+    "news_item_snippet": "Breakout patch &middot; Qustere Star Pimple Patches &middot; Skin refining cream &middot; BeautyStat Universal C Skin Refiner &middot; Face cleanser &middot; FOREO LUNA Mini 3 Bundle &middot; Retinol serum.",
+    "news_item_url": "https://abc7ny.com/post/best-amazon-prime-day-deals-beauty-essentials/15049566/",
     "picture_source": "KFSN-TV",
-    "approx_traffic": "100,000+"
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Morning Joe",
+    "pubDate": "Mon, 15 Jul 2024 08:00:00 -0700",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRaYt0YmgbgEpLrMVTAw5idlEIWD6GvXLRTMeKTZGPsvqbUm0VGEiQw8h43z4f48iR7vMxlVn6R",
+    "news_item_snippet": "&quot;Morning Joe,&quot; MSNBC&#39;s show hosted by Joe Scarborough and Mika Brzezinski, wasn&#39;t on the air Monday. MSNBC denied CNN reporting about why.",
+    "news_item_url": "https://www.azcentral.com/story/entertainment/media/2024/07/15/where-was-morning-joe/74409248007/",
+    "picture_source": "The New York Times",
+    "approx_traffic": "50,000+"
   },
   {
     "country": "United States",
@@ -43,11 +43,21 @@
     "country": "United States",
     "title": "Bella Brave",
     "pubDate": "Mon, 15 Jul 2024 08:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRaizdRf49KCo9XtbN-iBn1JdjvVrui34M8ekRdngQvfAxTHcZUVbu4Kz7jrd_b-QzYXe_dCgVs",
-    "news_item_snippet": "During the early morning hours of July 15, Bella Brave&#39;s mom shared the heartbreaking news; her beloved 10-year-old daughter had passed away.",
-    "news_item_url": "https://www.miamiherald.com/news/nation-world/national/article290073774.html",
-    "picture_source": "Today.com",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTFP5xGvFABh6fXjgPab7UcLfF4KXVO5vuTo3yg1xj2WUGptPxuaN7zpZooBUfI5ArpiSjMZBxf",
+    "news_item_snippet": "Bella, born Isabella Thomson, had more than 7 million followers on the app. Her mother, Kyla Thomson, confirmed Bella&#39;s death on social media July 15. &quot;Our&nbsp;...",
+    "news_item_url": "https://www.today.com/parents/bella-brave-dies-rcna161901",
+    "picture_source": "Miami Herald",
     "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
+    "title": "J.D. Vance",
+    "pubDate": "Sun, 14 Jul 2024 09:00:00 -0700",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQyJDz1QN4ulmxOaVLs_65tVzsmyV4a_gAW8PPNTfurpCew8zlWclUDwHssjJ_D-eBykGL2bYkh",
+    "news_item_snippet": "US Sen. JD Vance, a venture capitalist and the author of the best-selling memoir \u201cHillbilly Elegy,\u201d was elected to the Senate in 2022.",
+    "news_item_url": "https://www.cnn.com/2024/07/15/politics/trump-vp-pick-jd-vance/index.html",
+    "picture_source": "CNN",
+    "approx_traffic": "5,000,000+"
   },
   {
     "country": "United States",
@@ -73,9 +83,9 @@
     "country": "United States",
     "title": "Copa America",
     "pubDate": "Sun, 14 Jul 2024 20:00:00 -0700",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRZT_9S9SxwDYRRZs0eCVKXa1Yz2RZl6Y5zvHFcasSXOFMM3RgDpIXZnQwXlBXi3MBiuqIWZZCm",
-    "news_item_snippet": "El torneo de la Conmebol dej\u00f3 m\u00faltiples dudas de organizaci\u00f3n en el principal anfitri\u00f3n de la pr\u00f3xima Copa del Mundo.",
-    "news_item_url": "https://espndeportes.espn.com/futbol/copa-america/nota/_/id/13913461/copa-america-estados-unidos-deja-dudas-para-mundial-2026",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSRPVfya158EKLL27EEJJ1-iej7-3JW2XIUFFRAWlcwhkMo2qqUQU1rdLBCBqdRmOX7yxiCkjSZ7g",
+    "news_item_snippet": "In Doral, Colombian fans hoping for their first title since 2001 spoke about their pride despite mourning a tough loss.",
+    "news_item_url": "https://www.wlrn.org/sports/2024-07-15/colombia-copa-america-final-argentina-miami",
     "picture_source": "NBC News",
     "approx_traffic": "1,000,000+"
   },
@@ -84,9 +94,9 @@
     "title": "Jacoby Jones",
     "pubDate": "Sun, 14 Jul 2024 08:00:00 -0700",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcREU4co0Q9boR86MFyGGJJESYittaYMLQoUqWFY-jn5wC3aR_yxMj3wrA-CfRiMehBORODPavVU",
-    "news_item_snippet": "The Baltimore community is still mourning the death of former Ravens receiver Jacoby Jones.",
-    "news_item_url": "https://www.cbsnews.com/baltimore/news/calvert-hall-head-football-coach-recollects-time-coaching-alongside-jacoby-jones-he-was-a-light/",
-    "picture_source": "WDBJ7",
+    "news_item_snippet": "Former Alabama State wide receivers coach and NFL champion Jacoby Jones died on Sunday afternoon. Jones was 40. According to the Baltimore Banner, the cause&nbsp;...",
+    "news_item_url": "https://www.montgomeryadvertiser.com/story/sports/college/alabama-state/2024/07/15/alabama-state-football-jacoby-jones-death-hbcu-nfl-baltimore-ravens/74407974007/",
+    "picture_source": "WCAX",
     "approx_traffic": "1,000,000+"
   },
   {
@@ -100,46 +110,6 @@
     "approx_traffic": "200,000+"
   },
   {
-    "country": "United States",
-    "title": "Shakira Copa America",
-    "pubDate": "Sun, 14 Jul 2024 18:00:00 -0700",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcT-XoPrd04TgflEQwBHw9gpg1cB8oZicwolxuOKies7N5Qz5D9VDF1Y50A9P6Sr5Y75jDbAj1ML",
-    "news_item_snippet": "Colombia may have lost the Copa Am\u00e9rica, but at least they could celebrate Shakira&#39;s halftime show. The only soccer fan who couldn&#39;t was probably her ex,&nbsp;...",
-    "news_item_url": "https://www.vulture.com/article/shakira-copa-america-halftime-performance.html",
-    "picture_source": "Billboard",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Fever vs Lynx",
-    "pubDate": "Sun, 14 Jul 2024 14:00:00 -0700",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcT_3A_POMMK83s9GO7CbkuD_MypmPzMX8tQX6EvITOtBOkrBUH6y7ixoO0m8O6vO7hyQ2or0hgT",
-    "news_item_snippet": "SportsLine&#39;s women&#39;s basketball expert Calvin Wetzel has revealed his top picks for Caitlin Clark and the Indiana Fever vs. Minnesota Lynx on Sunday.",
-    "news_item_url": "https://www.cbssports.com/wnba/news/fever-vs-lynx-odds-time-spread-2024-wnba-picks-caitlin-clark-predictions-for-july-14-from-top-expert/",
-    "picture_source": "CBSSports.com",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Home Run Derby 2024",
-    "pubDate": "Sun, 14 Jul 2024 18:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcR5XaO-f0kKsxY2lri7WDHVLVmLe43ONZDRlVk0YxnLewJ8863TEhF0mp6BwKPImN5d4zY8e7BZ",
-    "news_item_snippet": "When is the 2024 MLB Home Run Derby? The Home Run Derby 2024 is on Monday, July 15, at 8 p.m. ET.",
-    "news_item_url": "https://www.cbssports.com/mlb/news/home-run-derby-2024-odds-picks-predictions-participants-start-time-top-mlb-expert-locks-in-best-bet/",
-    "picture_source": "CBS News",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "United States",
-    "title": "FOX Sports",
-    "pubDate": "Sun, 14 Jul 2024 14:00:00 -0700",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcT7xRJPLq8yNQ-tFDY40FLCqqxz8qan0JHMlmnPw_Zw04j-fXlRT6jiqIZ8ycTYvCaL6rOu4cjO",
-    "news_item_snippet": "Two college hoops vets are tied at the top of the betting board to win next season&#39;s Wooden Award. Check out the early odds, plus thoughts from John Fanta.",
-    "news_item_url": "https://www.foxsports.com/stories/college-basketball/2024-25-wooden-award-odds",
-    "picture_source": "FOXSports.com",
-    "approx_traffic": "100,000+"
-  },
-  {
     "country": "India",
     "title": "Euro Cup",
     "pubDate": "Mon, 15 Jul 2024 01:30:00 +0530",
@@ -151,12 +121,12 @@
   },
   {
     "country": "India",
-    "title": "Lamine Yamal",
-    "pubDate": "Mon, 15 Jul 2024 12:30:00 +0530",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQdtofKgRLbmUspa8eRyCDYu14tJu6Ma3EK71xjjA0i1vyMjf80pEiuviKMeX_zd7BI-Ni7ERL8",
-    "news_item_snippet": "17-year-old Lamine Yamal was awarded the Young Player of the Tournament at Euro 2024 after contributing one goal and four assists for Spain.",
-    "news_item_url": "https://sports.ndtv.com/uefa-euro-2024/lamine-yamal-the-spain-wonderkid-poised-to-fill-lionel-messis-shoes-at-barcelona-after-euro-2024-win-6111227",
-    "picture_source": "Sportstar",
+    "title": "Arvind Kejriwal",
+    "pubDate": "Mon, 15 Jul 2024 23:30:00 +0530",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQ0Q7kp3zzrZZ3Ms0_luJKNOoeVg42qYo5pRRTITjrme5v1K_JuIGIcwJMyKaUZSBTcpjlym3TY",
+    "news_item_snippet": "Delhi minister and Aam Aadmi Party leader Atishi said that if Chief Minister Arvind Kejriwal&#39;s sugar level keeps dropping like this, he could slip into a&nbsp;...",
+    "news_item_url": "https://www.indiatoday.in/india/story/arvind-kejriwal-tihar-jail-blood-sugar-level-diabetes-ed-cbi-delhi-liquor-policy-aap-atishi-2567296-2024-07-15",
+    "picture_source": "The Hindu",
     "approx_traffic": "50,000+"
   },
   {
@@ -164,8 +134,8 @@
     "title": "Copa America",
     "pubDate": "Sun, 14 Jul 2024 18:30:00 +0530",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQpFRDQGFeuw2EsJBb0i7cCj0CEjq_fb-bu8_ZLtvPSVfpn8_q1kaCLQc2bvBdFP4daccLOZkRM",
-    "news_item_snippet": "Both teams failed to score during regulation time and stoppages. The match went into extra time, where Martinez found the back of the net in the 112th&nbsp;...",
-    "news_item_url": "https://www.business-standard.com/sports/football-news/copa-america-2024-arg-vs-col-highlights-argentina-bag-record-16th-title-124071500180_1.html",
+    "news_item_snippet": "Argentina won a record 16th Copa America title by beating Colombia 1-0 thanks to an extra-time goal from Lautaro Martinez on Sunday after the final was&nbsp;...",
+    "news_item_url": "https://www.reuters.com/sports/soccer/argentina-clinch-record-copa-america-with-1-0-extra-time-victory-over-colombia-2024-07-15/",
     "picture_source": "Aljazeera.com",
     "approx_traffic": "2,000,000+"
   },
@@ -181,22 +151,22 @@
   },
   {
     "country": "India",
-    "title": "Donald Trump",
-    "pubDate": "Sun, 14 Jul 2024 06:30:00 +0530",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSkPjzwdj6xzBzX5Wzeycv5d_gmE2y3PUw3Ax9KWKDrrfDuyfJhOe64AG2nAxAT7eZWYsOhXCKy",
-    "news_item_snippet": "Thomas Matthew Crooks&#39;s motivation to shoot at US president Donald Trump remains elusive. Here&#39;s what we know about him.",
-    "news_item_url": "https://indianexpress.com/article/who-is/who-is-thomas-matthew-crooks-donald-trump-assassination-9453819/",
-    "picture_source": "Business Today",
-    "approx_traffic": "500,000+"
-  },
-  {
-    "country": "India",
     "title": "Wimbledon",
     "pubDate": "Sun, 14 Jul 2024 23:30:00 +0530",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSAAtS-LSWRDvOyDujx7EByFHGn3UfQ0B0YoxgDUfrwW49-JOVyyvu5F5DuMvexEJrPQbujVAGa",
     "news_item_snippet": "Novak Djokovic&#39;s loss in straight sets in the Wimbledon final on Sunday, which ensured that all three Slams in 2024 so far have been won by Jannik Sinner&nbsp;...",
     "news_item_url": "https://sportstar.thehindu.com/tennis/wimbledon-2024-alcaraz-sinner-winning-grand-slams-a-trend-beyond-djokovic-nadal-federer/article68407846.ece",
     "picture_source": "Sportstar",
+    "approx_traffic": "500,000+"
+  },
+  {
+    "country": "India",
+    "title": "Donald Trump",
+    "pubDate": "Sun, 14 Jul 2024 06:30:00 +0530",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSkPjzwdj6xzBzX5Wzeycv5d_gmE2y3PUw3Ax9KWKDrrfDuyfJhOe64AG2nAxAT7eZWYsOhXCKy",
+    "news_item_snippet": "Thomas Matthew Crooks&#39;s motivation to shoot at US president Donald Trump remains elusive. Here&#39;s what we know about him.",
+    "news_item_url": "https://indianexpress.com/article/who-is/who-is-thomas-matthew-crooks-donald-trump-assassination-9453819/",
+    "picture_source": "Business Today",
     "approx_traffic": "500,000+"
   },
   {
@@ -253,20 +223,20 @@
     "country": "Canada",
     "title": "Severe thunderstorm warning",
     "pubDate": "Mon, 15 Jul 2024 10:00:00 -0400",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTgxiYTRkbgPiUjJ1JERdLI7qRkF9-YEpiT-_GQTP_SQQKwjm3MinSVdV2urc2AtVQ7eLp4nMms",
-    "news_item_snippet": "\u201cSeek shelter inside a well-built structure and stay away from windows,\u201d NWS warned. &quot;This storm is capable of producing damaging winds and large hail.\u201d Gusts&nbsp;...",
-    "news_item_url": "https://www.savannahnow.com/story/weather/severe/2024/07/15/chatham-county-under-severe-thunderstorm-warning-until-445-p-m/74414961007/",
-    "picture_source": "Do Savannah",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcT9QRjTEOcHTNvY-i79l31zyiyDpihwVxfjfcCH2bCev4ASvc-7LvNuYvkAgHl5s1H4jasaVGUX",
+    "news_item_snippet": "Expect strong winds gusts up to 90 km/h and nickel to toonie size hail There is also the risk that a tornado may occur this afternoon and early this evening&nbsp;...",
+    "news_item_url": "https://www.baytoday.ca/local-news/severe-thunderstorm-warning-in-effect-9222197",
+    "picture_source": "Thorold News",
     "approx_traffic": "50,000+"
   },
   {
     "country": "South Korea",
     "title": "\ucf54\ud30c \uc544\uba54\ub9ac\uce74",
     "pubDate": "Mon, 15 Jul 2024 10:00:00 +0900",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRpAtIg2Ptn1P8P5VC7I6XLinwYah8oIyD4Q7h1IdcAztXnMkSD_RIEJg5638iolYPryEhnxn_i",
-    "news_item_snippet": "\ub9e8\uccb4\uc2a4\ud130 \uc2dc\ud2f0(\ub9e8\uc2dc\ud2f0) \uacf5\uaca9\uc218 \ud6cc\ub9ac\uc548 \uc54c\ubc14\ub808\uc2a4\uac00 \uc544\ub974\ud5e8\ud2f0\ub098 \ub300\ud45c\ud300\uacfc \ub0a8\ubbf8\ucd95\uad6c\uc5f0\ub9f9(CONMEBOL) \ucf54\ud30c \uc544\uba54\ub9ac\uce74 2024 \uc6b0\uc2b9\uc744 \ucc28\uc9c0\ud588\ub2e4. \uc774\uc5d0 \uc55e\uc11c \ub9e8\uc2dc\ud2f0 \ubbf8\ub4dc\ud544\ub354&nbsp;...",
-    "news_item_url": "https://kr.mancity.com/news/mens/julian-alvarez-copa-america-win-63856619",
-    "picture_source": "\ud55c\uaca8\ub808",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSp4Ushg6qJnbXl006Eg7cMLSzYJy8QmEmdwj-7s2zVDJ7qnBU2xU4N7erGNkrWu5kdlWGd_Sg7",
+    "news_item_snippet": "15\uc77c(\ud55c\uad6d \uc2dc\uac01) \ubbf8\uad6d \ud50c\ub85c\ub9ac\ub2e4\uc8fc \ub9c8\uc774\uc560\ubbf8 \ud558\ub4dc\ub85d \uc2a4\ud0c0\ub514\uc6c0\uc5d0\uc11c \uc5f4\ub9b0 \uc544\ub974\ud5e8\ud2f0\ub098\uc640 \ucf5c\ub86c\ube44\uc544\uc758 2024 \ucf54\ud30c \uc544\uba54\ub9ac\uce74(\ub0a8\ubbf8\ucd95\uad6c\uc120\uc218\uad8c) \uacb0\uc2b9. \uc544\ub974\ud5e8\ud2f0\ub098\uc758 \ucd95\uad6c \uc2a4\ud0c0&nbsp;...",
+    "news_item_url": "https://www.chosun.com/sports/world-football/2024/07/15/6ARST2GM6FB5XA4C7NQKHBH3AE/",
+    "picture_source": "\ub9e8\uccb4\uc2a4\ud130 \uc2dc\ud2f0",
     "approx_traffic": "50,000+"
   },
   {
@@ -278,16 +248,6 @@
     "news_item_url": "https://www.bbc.com/korean/articles/c6p2ln6dngyo",
     "picture_source": "\ud55c\uaca8\ub808",
     "approx_traffic": "100,000+"
-  },
-  {
-    "country": "Saudi Arabia",
-    "title": "\u0627\u0644\u0627\u0631\u062c\u0646\u062a\u064a\u0646",
-    "pubDate": "Sun, 14 Jul 2024 03:00:00 +0300",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQNb2MQAh-yVCn26z-iTZQTBiCsoPlMYniQYjCEOsbQx24u-_DSidyDhWK4eXu1dxTgAiSd5zUU6Q",
-    "news_item_snippet": "\u0646\u062c\u062d\u062a \u0627\u0644\u0623\u0631\u062c\u0646\u062a\u064a\u0646 \u0641\u064a \u0627\u0642\u062a\u0646\u0627\u0635 \u0643\u0623\u0633 \u0643\u0648\u0628\u0627 \u0623\u0645\u064a\u0631\u0643\u0627 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062f\u0645\u060c \u0627\u0644\u0625\u062b\u0646\u064a\u0646\u060c \u0628\u0641\u0648\u0632\u0647\u0627 \u0639\u0644\u0649 \u0643\u0648\u0644\u0648\u0645\u0628\u064a\u0627 1-\u0635\u0641\u0631 \u0628\u0641\u0636\u0644 \u0647\u062f\u0641 \u0645\u062a\u0623\u062e\u0631 \u0641\u064a \u0627\u0644\u0648\u0642\u062a \u0627\u0644\u0625\u0636\u0627\u0641\u064a \u0644\u0644\u0628\u062f\u064a\u0644 \u0644\u0627\u0648\u062a\u0627\u0631\u0648 \u0645\u0627\u0631\u062a\u064a\u0646\u064a\u0632\u060c \u0645\u0633\u062c\u0644\u0629 \u0631\u0642\u0645\u0627&nbsp;...",
-    "news_item_url": "https://www.alhurra.com/sport/2024/07/15/%D8%A7%D9%84%D8%A3%D8%B1%D8%AC%D9%86%D8%AA%D9%8A%D9%86-%D8%AA%D9%82%D8%AA%D9%86%D8%B5-%D9%83%D8%A3%D8%B3-%D9%83%D9%88%D8%A8%D8%A7-%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D8%A7-%D9%88%D8%AA%D8%B3%D8%AC%D9%84-%D8%B1%D9%82%D9%85%D8%A7-%D9%82%D9%8A%D8%A7%D8%B3%D9%8A%D8%A7",
-    "picture_source": "Anadolu Agency | \u0627\u0644\u0639\u0631\u0628\u064a\u0629",
-    "approx_traffic": "200,000+"
   },
   {
     "country": "Saudi Arabia",
@@ -320,26 +280,6 @@
     "approx_traffic": "50,000+"
   },
   {
-    "country": "France",
-    "title": "Espagne Angleterre",
-    "pubDate": "Sun, 14 Jul 2024 10:00:00 +0200",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSnEou53SCRZOZjyYdcud3VOKYSSTgfPfJ8y6UZeFZXIbOGnqyLsXPuDUDZA4lyBr0Ux8b1IKpA",
-    "news_item_snippet": "Le s\u00e9lectionneur anglais, d\u00e9fait dimanche soir en finale de l&#39;Euro 2024 (2-1), a reconnu la sup\u00e9riorit\u00e9 de la Roja.",
-    "news_item_url": "https://www.lefigaro.fr/sports/football/euro/espagne-angleterre-southgate-admet-avoir-perdu-contre-la-meilleure-equipe-du-tournoi-20240715",
-    "picture_source": "Le Parisien",
-    "approx_traffic": "1,000,000+"
-  },
-  {
-    "country": "France",
-    "title": "Charmed",
-    "pubDate": "Sun, 14 Jul 2024 15:00:00 +0200",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTva_uZYl5lhuqMb5sSzoN4Zh1Skx1eN9MKZurSKowe-10pZ0VGKWz0J2ndOZLz4ASESrz2as1f",
-    "news_item_snippet": "L&#39;actrice de 53 ans vient de d\u00e9c\u00e9der des suites d&#39;un long cancer. Mais pour se consoler de la disparition de Shannen Doherty, l&#39;int\u00e9grale des 8 saisons de&nbsp;...",
-    "news_item_url": "https://www.numerama.com/pop-culture/1775638-shannen-doherty-sorcieres-charmed-voir-serie-streaming.html",
-    "picture_source": "Ouest-France",
-    "approx_traffic": "1,000,000+"
-  },
-  {
     "country": "Germany",
     "title": "Em",
     "pubDate": "Mon, 15 Jul 2024 01:00:00 +0200",
@@ -353,10 +293,10 @@
     "country": "Germany",
     "title": "Trump",
     "pubDate": "Sun, 14 Jul 2024 01:00:00 +0200",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTCSkUifd6m1YeP2ZSinoTRt-cf2nwpTWuQ0a2aRhzsI58HlN3Lx1TLxaC1df3Dz-4CepEyrB29",
-    "news_item_snippet": "Ein Mordanschlag ist ein Albtraum f\u00fcr jeden Menschen. F\u00fcr Donald Trump, den Medien-Meister, ist das Attentat, so zynisch das klingt, aber auch ein&nbsp;...",
-    "news_item_url": "https://www.capital.de/wirtschaft-politik/trump-attentat--joe-biden-hat-keine-chance-mehr-34881812.html",
-    "picture_source": "tagesschau.de",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSQTsfFWOYuvzqzp6t8eMpQC1Bv12snFsFg9jMUWO1WjsWu1UBY1e86ccQlrIAMthnuAwi6k-LV",
+    "news_item_snippet": "Schon kurze Zeit nach dem Attentat auf Ex-Pr\u00e4sident Trump kursierten in den sozialen Netzwerken falsche Anschuldigungen und Verschw\u00f6rungserz\u00e4hlungen - oft&nbsp;...",
+    "news_item_url": "https://www.tagesschau.de/faktenfinder/attentat-trump-fakes-100.html",
+    "picture_source": "Capital - Wirtschaft ist Gesellschaft",
     "approx_traffic": "1,000,000+"
   },
   {
@@ -381,16 +321,6 @@
   },
   {
     "country": "Germany",
-    "title": "England Spanien",
-    "pubDate": "Sun, 14 Jul 2024 13:00:00 +0200",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRHNGRwkb1ox5Tpw9RMAay7eaXOVFAxy_0Eb-gu9zqmibPeHhzoteleVHlRgikVJPZ27Oxgj8EZ",
-    "news_item_snippet": "Spanien ist der neue Fu\u00dfball-Europameister. Im Berliner Olympiastadion setzte sich die Mannschaft von Luis de la Fuente verdient gegen England durch.",
-    "news_item_url": "https://www.rbb24.de/sport/beitrag/2024/07/fussball-berlin-europameisterschaft-em-liveticker-audiostream.html",
-    "picture_source": "katholisch.de",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "Germany",
     "title": "Lamine Yamal",
     "pubDate": "Sun, 14 Jul 2024 22:00:00 +0200",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRSt6JgSAC3iQFkBxTpT5jwHc6Q4gjFz1MGks-tEeyzqR8lJBox5J-A3eoGoM79_asW06oZsm5q",
@@ -401,13 +331,23 @@
   },
   {
     "country": "Germany",
+    "title": "Lautlingen",
+    "pubDate": "Sun, 14 Jul 2024 15:00:00 +0200",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTfpDh4Yrr4b_AFPWxMBt9uD7JJTz4HiSY2XcyM3AU4CPf_4gIapvItRvYfGRJwhhXJAON9vYEH",
+    "news_item_snippet": "Ein Mann hat in Albstadt-Lautlingen mehrere Familienmitglieder und sich selbst erschossen. Die Polizei ermittelt zum Motiv.",
+    "news_item_url": "https://www.swr.de/swraktuell/baden-wuerttemberg/tuebingen/nach-toedlichen-schuessen-in-albstadt-lautlingen-100.html",
+    "picture_source": "Schw\u00e4bische",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "Germany",
     "title": "J.D. Vance",
     "pubDate": "Sun, 14 Jul 2024 11:00:00 +0200",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTsf-SXhzeTcsZYi2h2Q7M_fep_vTy3erE1nuljfCrSe9FVDWTvYCHlCt73NYjK4-952bP8e-9w",
-    "news_item_snippet": "J.D. Vance war einst Gegner Trumps, nun soll er an seiner Seite den Wahlkampf anf\u00fchren. Er werde Trumps &quot;extreme&quot; Pl\u00e4ne r\u00fccksichtslos vorantreiben,&nbsp;...",
-    "news_item_url": "https://www.zeit.de/politik/ausland/2024-07/donald-trump-nominiert-senator-j-d-vance-als-seinen-vizekandidaten",
+    "news_item_snippet": "Der Republikaner Donald Trump hat den Senator J.D. Vance als Vizekandidaten f\u00fcr die US-Pr\u00e4sidentschaftswahl im November auserkoren. Das verk\u00fcndete Trump am&nbsp;...",
+    "news_item_url": "https://www.schwaebische.de/politik/trump-waehlt-jd-vance-als-vizepraesidentschaftskandidat-aus-2705515",
     "picture_source": "tagesschau.de",
-    "approx_traffic": "50,000+"
+    "approx_traffic": "100,000+"
   },
   {
     "country": "Germany",
@@ -417,6 +357,16 @@
     "news_item_snippet": "Welchen ZDF-F\u00fchrungsposten die bisherige Amtsinhaberin Susanne Biedenkopf-K\u00fcrten \u00fcbernimmt. kress.de ist der Mediendienst mit tagesaktuellen&nbsp;...",
     "news_item_url": "https://kress.de/news/beitrag/147697-eckart-gaddum-steigt-beim-zdf-zum-leiter-der-hauptredaktion-wirtschaft-recht-service-soziales-und-umwelt-auf.html",
     "picture_source": "kress.de",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Germany",
+    "title": "Spanien",
+    "pubDate": "Sun, 14 Jul 2024 22:00:00 +0200",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRHNGRwkb1ox5Tpw9RMAay7eaXOVFAxy_0Eb-gu9zqmibPeHhzoteleVHlRgikVJPZ27Oxgj8EZ",
+    "news_item_snippet": "Spanien ist der neue Fu\u00dfball-Europameister. Im Berliner Olympiastadion setzte sich die Mannschaft von Luis de la Fuente verdient gegen England durch.",
+    "news_item_url": "https://www.rbb24.de/sport/beitrag/2024/07/fussball-berlin-europameisterschaft-em-liveticker-audiostream.html",
+    "picture_source": "katholisch.de",
     "approx_traffic": "50,000+"
   },
   {
@@ -454,8 +404,8 @@
     "title": "Isabel aaiun",
     "pubDate": "Mon, 15 Jul 2024 18:00:00 +0200",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTWa7ti0haJzFQyoiIyVhKjiqE9NeLb3IyrQrbWfy0Y4Vjx475WqxAY9IGw1_jWmgnj3u23DVb4",
-    "news_item_snippet": "La cantante sorprend\u00eda con su actuaci\u00f3n en la IV Velada del A\u00f1o de Ibai Llanos en el Santiago Bernab\u00e9u.",
-    "news_item_url": "https://www.elcorreo.com/culturas/musica/isabel-aaiun-autora-potra-salvaje-cancion-verano-20240715095725-nt.html",
+    "news_item_snippet": "La cantante actuar\u00e1 a \u00faltima hora de la noche en presencia de los miles de aficionados que a esta hora inundan Madrid para agradecer a los jugadores haber&nbsp;...",
+    "news_item_url": "https://www.telemadrid.es/noticias/sociedad/Isabel-Aaiun-autora-de-Potra-Salvaje-Para-mi-es-un-sueno-hecho-realidad-2-2688351168--20240715091914.html",
     "picture_source": "AS",
     "approx_traffic": "50,000+"
   },
@@ -470,33 +420,53 @@
     "approx_traffic": "50,000+"
   },
   {
+    "country": "Spain",
+    "title": "Alex Padilla",
+    "pubDate": "Mon, 15 Jul 2024 13:00:00 +0200",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRZj7Qz70N7SeRTiTjFUCVaUOeL95b9lPWIU69Md31dW2-l64ImNinxjjp1eK0QMiCHL_dpmejj",
+    "news_item_snippet": "Lamine Yamal est\u00e1 en boca de todos. La joven promesa del f\u00fatbol se encuentra todav\u00eda en una nube tras su golazo contra Francia en semifinales y la victoria&nbsp;...",
+    "news_item_url": "https://www.elcorreo.com/gente-estilo/alex-padilla-misteriosa-novia-lamine-yamal-celebro-20240715135046-nt.html",
+    "picture_source": "La Raz\u00f3n",
+    "approx_traffic": "50,000+"
+  },
+  {
     "country": "United Kingdom",
     "title": "Rosenborg vs Man United",
     "pubDate": "Mon, 15 Jul 2024 17:00:00 +0100",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQV28sn-Albi4BQSUSNWCB8C8TOHHbi702ToKvNVcqa_tLgUGnUT3KV23zo38HES82Tve3vmZE0",
-    "news_item_snippet": "Manchester United&#39;s players got some minutes in the legs in our opening pre-season game, against Rosenborg in Trondheim. The friendly seemed destined to end&nbsp;...",
-    "news_item_url": "https://www.manutd.com/en/news/detail/talking-points-from-rosenborg-v-man-utd-15-july",
-    "picture_source": "Sky Sports",
-    "approx_traffic": "200,000+"
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSqG2JUb-48nWX1lzU2qofYwTCOJECsZEAJHjXPuOz83l4FBZf_O9SItR5ZuUiJrNWsYXmOnNDL",
+    "news_item_snippet": "Manchester United were beaten 1-0 by Norwegian side Rosenborg in their first pre-season friendly; United conceded 22 shots and were saved by the woodwork&nbsp;...",
+    "news_item_url": "https://www.skysports.com/football/rosenborg-vs-man-utd/report/504190",
+    "picture_source": "Manchester United",
+    "approx_traffic": "100,000+"
   },
   {
     "country": "United Kingdom",
     "title": "JD Vance",
     "pubDate": "Mon, 15 Jul 2024 20:00:00 +0100",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQ07UoXnU090fDYUFdRzqTLseRPuXxZfbO8Z65rqp5d5qBw0Nt4zEIWQIXKeFZH3Ql5rsGPHYVO",
-    "news_item_snippet": "Former US marine and author of &#39;Hillbilly Elegy&#39; once described ex-president as an &#39;idiot&#39;",
-    "news_item_url": "https://www.ft.com/content/aef1a7cf-13ee-4c8a-9509-e7218aa2429a",
+    "news_item_snippet": "Mr Vance, who will become vice president if Mr Trump wins the election in November, was criticised over the weekend after blaming Saturday&#39;s assassination&nbsp;...",
+    "news_item_url": "https://news.sky.com/story/trump-reveals-jd-vance-as-running-mate-for-us-election-13177636",
     "picture_source": "BBC News",
-    "approx_traffic": "50,000+"
+    "approx_traffic": "100,000+"
   },
   {
     "country": "United Kingdom",
     "title": "The Jetty",
     "pubDate": "Mon, 15 Jul 2024 19:00:00 +0100",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSdFsmcncam9tuf2b4IyUhKYLdM7KLlnwW3a-sjGcNTGhM3gw6SAkCRb9YO5Ql6JdKsBEm-aMh7",
-    "news_item_snippet": "Television review: While The Jetty functions as a commentary on gaslighting and victimisation of vulnerable teenagers, as a thriller it is let down by a&nbsp;...",
-    "news_item_url": "https://www.irishtimes.com/culture/tv-radio/2024/07/15/the-jetty-review-serial-killer-drama-exploring-grooming-of-young-women-misses-the-mark/",
+    "news_item_snippet": "It&#39;s not perfect, but there is far more good stuff in &#39;The Jetty&#39; than in your average &#39;defective detective&#39; drama.",
+    "news_item_url": "https://www.independent.co.uk/arts-entertainment/tv/reviews/the-jetty-bbc-jenna-coleman-b2579915.html",
     "picture_source": "The Guardian",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United Kingdom",
+    "title": "Jay Slater found",
+    "pubDate": "Mon, 15 Jul 2024 15:00:00 +0100",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSFChclM8uCsi3bLgLF2uxqkaubWxqGifQz2wy7k2IQBS1kZOdexW48VpOgk4z0Sd4C-Rb6XEkm",
+    "news_item_snippet": "Jay Slater vanished in a remote part of northern Tenerife on 17 June after travelling to the island for a music festival.",
+    "news_item_url": "https://www.independent.co.uk/news/uk/home-news/jay-slater-search-police-body-tenerife-family-b2579978.html",
+    "picture_source": "BBC News",
     "approx_traffic": "50,000+"
   },
   {
