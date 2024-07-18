@@ -1,23 +1,53 @@
 [
   {
     "country": "United States",
+    "title": "The Open 2024",
+    "pubDate": "Thu, 18 Jul 2024 06:00:00 -0700",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcS9TyKP4HL4WuFp2P_bTrPq9Ya6mGnwzY5wWG2zrlA6zsSpDFsLer4J916tNeZieWQ-uPhCww0o",
+    "news_item_snippet": "Golf&#39;s final major gets underway from Royal Troon in Scotland with Scottie Scheffler, Xander Schauffele, Bryson DeChambeau and Tiger Woods in action.",
+    "news_item_url": "https://www.usatoday.com/story/sports/golf/2024/07/18/british-open-live-updates-leaderboard-tee-times-first-round/74406678007/",
+    "picture_source": "CBSSports.com",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
     "title": "Biden",
     "pubDate": "Wed, 17 Jul 2024 16:00:00 -0700",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSO9045YN5xZnkmcuz-VScgRPRdpf_lZSAtQZEJ9UIk8dBE79nbzTPkXakII8WH5qzSCNcxh3hk",
-    "news_item_snippet": "Senate Majority Leader Chuck Schumer responds to ABC reporting that he made a forceful case for President Biden to end his 2024 campaign.",
-    "news_item_url": "https://www.cnn.com/2024/07/17/politics/video/schumer-biden-private-meeting-digvid",
+    "news_item_snippet": "Today, my Administration is canceling student debt for 35,000 people through Public Service Loan Forgiveness, bringing the total number of Americans who&nbsp;...",
+    "news_item_url": "https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/18/statement-from-president-joe-biden-on-1-2-billion-in-student-debt-cancellation-for-35000-borrowers/",
     "picture_source": "BBC News",
     "approx_traffic": "500,000+"
   },
   {
     "country": "United States",
-    "title": "Donald Trump Jr",
+    "title": "Kai Trump",
     "pubDate": "Wed, 17 Jul 2024 14:00:00 -0700",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQbLiPIjmTyhR9gxgwmfbwMqrV73QWLaiZvM1uaiCLXyDIwSGjmdDvL-oJkTGaLuRU2gTxfowGX",
-    "news_item_snippet": "Son of the former US president has outmanoeuvred establishment titans to elevate JD Vance to running mate.",
-    "news_item_url": "https://www.ft.com/content/8e529f88-084d-4929-af1f-0ed3b01fe83b",
+    "news_item_snippet": "Kai Trump, daughter of Donald Trump Jr. and granddaughter of former President Donald Trump, speaks at the Republican National Convention.",
+    "news_item_url": "https://www.cnn.com/2024/07/18/politics/video/trump-granddaughter-rnc-speech-digvid",
     "picture_source": "NPR",
-    "approx_traffic": "500,000+"
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Peter Navarro",
+    "pubDate": "Wed, 17 Jul 2024 17:00:00 -0700",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSWNB_0zfIq1uHaVyChwI9ccN157PpOvWYoj0njKzM-v6LErkbUAlVAMI1niilg_ccgw8lk5zoH",
+    "news_item_snippet": "The former Trump White House trade advisor, who peddled phony election fraud claims in late 2020, in fact went to prison for contempt of Congress. Subpoenaed by&nbsp;...",
+    "news_item_url": "https://www.motherjones.com/politics/2024/07/peter-navarro-rnc-prison-speech-trump-guo-wengui/",
+    "picture_source": "CNN",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Amazon Prime Day",
+    "pubDate": "Wed, 17 Jul 2024 06:00:00 -0700",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSqtJ5JSwhNiXVPN1yIus9sP6KXIjzjdcgM__q4Yj9yXdCR0OT6ZRTyj_YoFjjRqJUwiBsvIb5E",
+    "news_item_snippet": "We&#39;ve searched high and low for the best Amazon Prime Day deals with savings of over 50% on tech, home goods, lawn and garden, kitchenware, vacuums,&nbsp;...",
+    "news_item_url": "https://www.usnews.com/360-reviews/prime-day/best-amazon-prime-day-deals",
+    "picture_source": "CBS News",
+    "approx_traffic": "200,000+"
   },
   {
     "country": "United States",
@@ -27,16 +57,6 @@
     "news_item_snippet": "Stephen Curry scored 24 points, Bam Adebayo added 17 and the U.S. beat Serbia 105-79 to improve to 3-0 in its five-game slate of exhibitions before the&nbsp;...",
     "news_item_url": "https://www.foxsports.com/stories/nba/stephen-curry-strong-in-us-mens-basketball-teams-10579-win-over-serbia-in-olympic-warmup",
     "picture_source": "USA Basketball",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Peter Navarro",
-    "pubDate": "Wed, 17 Jul 2024 17:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTNSZ2DzDYK7H_RDtbiPLeK1ugVn2fTx9IqvLOynWlDXjH8FOWbiT_G3_BuV-DJj5HGHG02rRM_",
-    "news_item_snippet": "Former Trump White House official Peter Navarro condemned the Biden administration for what he called the \u201cweaponization\u201d of the justice system.",
-    "news_item_url": "https://apnews.com/article/peter-navarro-prison-republican-national-committee-2b443fdbf14164fed4650332aaf6d0c9",
-    "picture_source": "CNN",
     "approx_traffic": "200,000+"
   },
   {
@@ -61,12 +81,12 @@
   },
   {
     "country": "United States",
-    "title": "Deadpool Xbox controller",
-    "pubDate": "Wed, 17 Jul 2024 15:00:00 -0700",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTd9xE5Sfs80PorAeKiQMMHv-Uu5utHsLuuKYiTH18yP1eH3_ZEY8nKxCUEoacsbC045ZJh0pgX",
-    "news_item_snippet": "Today, Xbox announced it partnered with Marvel Entertainment&#39;s resident Merc with a Mouth for an all-new wireless controller pegged to the release of Deadpool&nbsp;...",
-    "news_item_url": "https://www.adweek.com/brand-marketing/xbox-deadpool-controller/",
-    "picture_source": "Forbes",
+    "title": "Glen Powell",
+    "pubDate": "Wed, 17 Jul 2024 16:00:00 -0700",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSrq4Uf3sxBoZxhZHEnkLrpAD0bWKeGyGPqqND4hax_wsNqrr018COf_9Rx4rc9PMWWLDchC8Xo",
+    "news_item_snippet": "The Twister actor stopped by TODAY and was treated to a makeover from John Stamos himself. By Chris Phelan Jul 17, 2024, 4:50 PM ET. Video thumbnail.",
+    "news_item_url": "https://www.nbc.com/nbc-insider/glen-powell-john-stamos-makeup-video",
+    "picture_source": "BBC News",
     "approx_traffic": "50,000+"
   },
   {
@@ -83,10 +103,10 @@
     "country": "United States",
     "title": "Matt Gaetz",
     "pubDate": "Wed, 17 Jul 2024 04:00:00 -0700",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTFR2zL_FE4OsPmSYDerc8fzikk2jWyYEAMXVifBZlVR7fGXEkmh1GqXxh7nB1FduY1zRF3IdMI",
-    "news_item_snippet": "Rep. Derrick Van Orden (R-Wis.) appeared to call Rep. Matt Gaetz (R-Fla.) a \u201clittle b\u2011\u2011\u2011\u2011&quot; after an awkward exchange with former Rep.",
-    "news_item_url": "https://thehill.com/homenews/house/4777705-gop-rep-calls-gaetz-little-b-after-mccarthy-exchange/",
-    "picture_source": "Milwaukee Journal Sentinel",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSSPDD3T1sBuExhFdmi0Cr7W_kI8b4EZRROz3R4tR_XfNvft4xu4fBHDY-6YZXa0EMcUri5Fhz8",
+    "news_item_snippet": "The Republicans at the 2024 RNC have been trying to spread the theme of unity. Matt Gaetz didn&#39;t get the memo.",
+    "news_item_url": "https://www.jsonline.com/story/news/politics/elections/2024/07/17/matt-gaetz-taunts-nemesis-kevin-mccarthy-at-2024-rnc-milwaukee-gets-called-out/74445579007/",
+    "picture_source": "Newsweek",
     "approx_traffic": "50,000+"
   },
   {
@@ -100,42 +120,22 @@
     "approx_traffic": "50,000+"
   },
   {
-    "country": "United States",
-    "title": "Amazon Prime Day",
-    "pubDate": "Tue, 16 Jul 2024 21:00:00 -0700",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQOGtcvdi4IuIuDbFhNatqMxXeA8tzTLxj3n4icSp_cQW-vB6LMuX633_iNnDp5b8ByBxUcaeR7",
-    "news_item_snippet": "This is your last chance to score all of the best Amazon Prime Day tech deals on Apple, Samsung, Google and more.",
-    "news_item_url": "https://www.cbsnews.com/essentials/best-amazon-prime-day-2024-tech-deals/",
-    "picture_source": "U.S. News & World Report",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Bob Menendez",
-    "pubDate": "Tue, 16 Jul 2024 11:00:00 -0700",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRjIRlCwmAurj0Q75Rz3WOlBMsru1Qpz28GH__xhu2ZqDfXtzjUMWZUQw9H6GqpWMd7t1Tmk8L-",
-    "news_item_snippet": "The day Menendez was convicted on all charges in his federal bribery trial, residents of this Hudson County town said he got what he deserved.",
-    "news_item_url": "https://newjerseymonitor.com/2024/07/17/in-bob-menendezs-hometown-of-union-city-little-love-for-now-convicted-senator/",
-    "picture_source": "NBC News",
-    "approx_traffic": "200,000+"
+    "country": "India",
+    "title": "England vs West Indies",
+    "pubDate": "Thu, 18 Jul 2024 15:30:00 +0530",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSjCojA0POfJb4XM8BCc687VlD-UsXO6a1cegE2U1b5uX4YYmD0l4pLykQzGap7iQe4o5RyzXjd",
+    "news_item_snippet": "England vs West Indies Live Streaming 2nd Test Live Telecast:England, after winning the first game of the three-match series, will be aiming to achieve an&nbsp;...",
+    "news_item_url": "https://sports.ndtv.com/cricket/england-vs-west-indies-live-streaming-2nd-test-live-telecast-where-to-watch-match-live-6132726",
+    "picture_source": "ESPNcricinfo.com",
+    "approx_traffic": "500,000+"
   },
   {
     "country": "India",
     "title": "Aanvi Kamdar",
     "pubDate": "Thu, 18 Jul 2024 00:30:00 +0530",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTMxVv2sk2joNIMzobBVj4QCZMT9cOPEHOecKxdcbcVeeo-zXO1gyytHQTRBHzX15CyVkuBX0Wx",
-    "news_item_snippet": "Aanvi Kamdar was a chartered accountant by profession and had worked with the IT consulting company Deloitte. Kamdar gained fame because of her reels and&nbsp;...",
-    "news_item_url": "https://www.businesstoday.in/trending/story/aanvi-kamdar-27-year-old-social-media-influencer-falls-off-gorge-report-437599-2024-07-18",
-    "picture_source": "The Hindu",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "India",
-    "title": "Ajit Pawar",
-    "pubDate": "Wed, 17 Jul 2024 15:30:00 +0530",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSqmE09CdBdSrSMZ8mZSAfRfs1w591KZbrkFVZ8RcHNxAwbFcUVRHOQ_lENVMy12UjlQahRhJF2",
-    "news_item_snippet": "The NCP suffered a major jolt after 25 leaders, including Pimpri-Chinchwad unit chief Ajit Gavhane, quit the party and joined the NCP(SP) on Wednesday.",
-    "news_item_url": "https://www.hindustantimes.com/india-news/ajit-pawar-meets-pune-ncp-leaders-amid-mass-defection-to-sharad-pawar-camp-101721280278055.html",
+    "news_item_snippet": "The 27-year-old Mumbai-based social media influencer was on a monsoon outing with seven friends. She fell into the deep gorge near the Kumbhe waterfall at&nbsp;...",
+    "news_item_url": "https://www.business-standard.com/india-news/travel-influencer-aanvi-kamdar-dies-after-falling-into-300-ft-gorge-124071800503_1.html",
     "picture_source": "The Hindu",
     "approx_traffic": "100,000+"
   },
@@ -153,40 +153,20 @@
     "country": "India",
     "title": "Sheikha Mahra",
     "pubDate": "Wed, 17 Jul 2024 15:30:00 +0530",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSqEOawH4udDvrF3PyUNaYaXHB35xZ5962JH6A4agA9UelV4NODrvCUN6HM8At9GTsjNdmmW2e7",
-    "news_item_snippet": "Shaikha Mahra, daughter of Dubai ruler, announces divorce from husband Sheikh Mana Bin Mohammed Bin Rashid bin Mana Al Maktoum on Instagram two months after&nbsp;...",
-    "news_item_url": "https://www.livemint.com/news/trends/instadivorce-dubai-princess-shaikha-mahra-announces-separation-on-instagram-dear-husband-take-care-11721210398341.html",
-    "picture_source": "Business Standard",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRbPBiF5hPbHp9zNEHzDeOsyZvE04fS3_AEIgGBL48PTnfSYP4DK7jLFidfLWs81IdoAeE6EFZsFg",
+    "news_item_snippet": "Dubai: Emirati Princess Sheikha Mahra revealed her husband&#39;s alleged infidelity, a little over a year after their marriage.",
+    "news_item_url": "https://www.business-standard.com/world-news/i-divorce-you-dubai-princess-sheikha-mahra-dumps-husband-on-insta-story-124071700690_1.html",
+    "picture_source": "Hindustan Times",
     "approx_traffic": "50,000+"
   },
   {
     "country": "India",
     "title": "Royal Enfield Guerrilla 450",
     "pubDate": "Wed, 17 Jul 2024 09:30:00 +0530",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSVf93MPH8wmWR4Bhn2M87BV4NxsHhH2keOdQIOa8pucHPXhTsM4BUerrjV_6KJzY5ZaVrNt6uU",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRd99DVS-KeRsJle5sstgeLJAR3TrKWg52e8ruI5GB4snnG4rP-FK3yXwuJALevOQPMOgpntPCT",
     "news_item_snippet": "Speaking about the Guerrilla 450, Siddhartha Lal, Managing Director - Eicher Motors said, The Guerrilla 450 is our take on modern roasters, and we are super&nbsp;...",
     "news_item_url": "https://www.business-standard.com/markets/capital-market-news/royal-enfield-launches-all-new-royal-enfield-guerrilla-450-124071700283_1.html",
     "picture_source": "CarandBike",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "India",
-    "title": "JD Vance",
-    "pubDate": "Tue, 16 Jul 2024 03:30:00 +0530",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSVQYJg17OOvHkM_EpSBe5Cn9zFcjPNIvTDOTprwA7q785USnIdOcXR302O58vlaE7J2CVSNiLO",
-    "news_item_snippet": "Usha Vance and JD Vance first crossed paths at Yale Law School and tied the knot in Kentucky in 2014, with a Hindu priest officiating a separate ceremony.",
-    "news_item_url": "https://www.businesstoday.in/world/us/story/who-is-usha-chilukuri-vance-indian-origin-wife-of-jd-vance-donald-trumps-vice-president-pick-usa-america-unite-states-437287-2024-07-16",
-    "picture_source": "Times of India",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "India",
-    "title": "Gujarat Chandipura virus",
-    "pubDate": "Tue, 16 Jul 2024 12:30:00 +0530",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcS1-2mzLCsogjfjbnkcC0Kgc1DgKau744AtqyNQk_9qUutZGYVPA360shSjzzrV3kXUa71IZkp8",
-    "news_item_snippet": "When contacted, a senior health officer in Gandhinagar said that the suspected deaths due to the virus has reached up to 14 out of 29 cases. The death includes&nbsp;...",
-    "news_item_url": "https://www.deccanherald.com/india/gujarat/niv-confirms-first-death-due-to-chandipura-virus-in-gujarat-suspected-death-toll-rises-to-14-3109778",
-    "picture_source": "The Hindu",
     "approx_traffic": "50,000+"
   },
   {
@@ -194,10 +174,20 @@
     "title": "Estudiantes",
     "pubDate": "Wed, 17 Jul 2024 02:00:00 -0300",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcR3YFM73FCQfYnBfE3NIG7fMAgvh87VYjQK-6YwFQ5YeLrkQgewgc5K6oEw75HtlEENMSnD7B-j",
-    "news_item_snippet": "Estudiantes perdi\u00f3 2-1 ante Central C\u00f3rdoba en el Estadio Julio C\u00e9sar Villagra y se despidi\u00f3 de la edici\u00f3n 2024 de la Copa Argentina.",
-    "news_item_url": "https://estudiantesdelaplata.com/eliminacion-en-cordoba/",
+    "news_item_snippet": "En el estadio de Belgrano, el equipo santiague\u00f1o venci\u00f3 por 2-1 y se clasific\u00f3 para los octavos de final - LA NACION.",
+    "news_item_url": "https://www.lanacion.com.ar/deportes/futbol/copa-argentina-el-campeon-estudiantes-se-despidio-tras-una-sorpresiva-derrota-ante-central-cordoba-nid17072024/",
     "picture_source": "TyC Sports",
     "approx_traffic": "100,000+"
+  },
+  {
+    "country": "Australia",
+    "title": "The Open",
+    "pubDate": "Thu, 18 Jul 2024 10:00:00 +1000",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQQ_QY4XCbJRTCNFDwfzs6stHAQVaWznPLW8C0pxqt6eNDsYjhWDZaCySIkhMbmEuKa5H5O-Zx5",
+    "news_item_snippet": "The oldest major in golf is set for its 152nd edition, as the best players in the world descend on Scotland for one of the toughest tests in the game.",
+    "news_item_url": "https://www.abc.net.au/news/2024-07-18/open-championship-royal-troon-cameron-smith-australia/104081478",
+    "picture_source": "Golf Australia Magazine",
+    "approx_traffic": "50,000+"
   },
   {
     "country": "Brazil",
@@ -214,8 +204,8 @@
     "title": "Nubank",
     "pubDate": "Wed, 17 Jul 2024 11:00:00 -0500",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTl5UsTiqWTQorNkKdB7FOhWY1pduR-p2qFZu48yeUHLZAy9FXKrRQT6fL_Dlx46DtzSiNh6Ivg",
-    "news_item_snippet": "Nesta quarta-feira (17), usu\u00e1rios est\u00e3o se queixando de problemas para acessar o aplicativo do Nubank. Clique e saiba mais.",
-    "news_item_url": "https://www.suno.com.br/noticias/nubank-roxo34-fora-do-ar-dinheiro-sumiu-gss/",
+    "news_item_snippet": "O aplicativo do Nubank enfrenta instabilidades nesta quarta-feira, 17, de acordo com ferramentas que compilam relatos de clientes.",
+    "news_item_url": "https://economia.uol.com.br/noticias/estadao-conteudo/2024/07/17/nubank-apresenta-instabilidade-nesta-quarta-feira-de-acordo-com-relatos-de-clientes.htm",
     "picture_source": "G1",
     "approx_traffic": "100,000+"
   },
@@ -241,6 +231,16 @@
   },
   {
     "country": "Brazil",
+    "title": "Spfc",
+    "pubDate": "Wed, 17 Jul 2024 20:00:00 -0500",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTbIa_bndki2yEPa9Wu9ai44BWyah-oc1fTmrugU-2cJGdmkwcZ0yaRys_PhdzgV4ENMOprPIH-",
+    "news_item_snippet": "ultimas noticias sobre o time do spfcFlowerbomb, Euphoria, J&#39;adore... Confira os melhores perfumes femininos. H\u00e1 op\u00e7\u00f5es cl\u00e1ssicas e lan\u00e7amentos de sucesso.",
+    "news_item_url": "https://www.educacao.df.gov.br/down/p%C3%A2nico-620240718.html",
+    "picture_source": "Secretaria de Educa\u00e7\u00e3o do DF",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Brazil",
     "title": "Oper\u00e1rio x Goi\u00e1s",
     "pubDate": "Wed, 17 Jul 2024 17:00:00 -0500",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcR_d4d6-citHFpefbcQzMGfQwB2NjkclM8UlhzpdXwfrzpQtneboRUkkB4oBBUI5jldAVPxVx96",
@@ -251,12 +251,12 @@
   },
   {
     "country": "Brazil",
-    "title": "Spfc",
-    "pubDate": "Wed, 17 Jul 2024 20:00:00 -0500",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTbIa_bndki2yEPa9Wu9ai44BWyah-oc1fTmrugU-2cJGdmkwcZ0yaRys_PhdzgV4ENMOprPIH-",
-    "news_item_snippet": "ultimas noticias sobre o time do spfcFlowerbomb, Euphoria, J&#39;adore... Confira os melhores perfumes femininos. H\u00e1 op\u00e7\u00f5es cl\u00e1ssicas e lan\u00e7amentos de sucesso.",
-    "news_item_url": "https://www.educacao.df.gov.br/down/p%C3%A2nico-620240718.html",
-    "picture_source": "Secretaria de Educa\u00e7\u00e3o do DF",
+    "title": "Inter Miami x Toronto",
+    "pubDate": "Wed, 17 Jul 2024 10:00:00 -0500",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQbKzkCOOrN8MD9yknKK8zP-RMcHKAXKZEoM4sk-6-1EC98gUpl0Fy4mKWD7eiDWgrniMHBsCEA",
+    "news_item_snippet": "Vice-l\u00edder da confer\u00eancia leste, o time de Lionel Messi pode voltar \u00e0 ponta da tabela caso ven\u00e7a este jogo e o Cincinnati seja derrotado pelo Chicago Fire.",
+    "news_item_url": "https://www.goal.com/br/not%C3%ADcias/onde-assistir-inter-miami-toronto-vivo-internet-tv-escalacao-horario-time-messi-mls-2024/blt2fa8e82e88a95380",
+    "picture_source": "CNN Brasil",
     "approx_traffic": "50,000+"
   },
   {
@@ -264,8 +264,8 @@
     "title": "L'abb\u00e9 Pierre",
     "pubDate": "Wed, 17 Jul 2024 15:00:00 +0200",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRgQJoAFVEln-fRyO1IidIDebcIXu8m_7J-DAiTQIRxYDqlObwG4mOY3PAfpnNbpVTifnWThiIz",
-    "news_item_snippet": "Un rapport, command\u00e9 par Emma\u00fcs France, Emma\u00fcs International et la Fondation Abb\u00e9 Pierre, \u00e9voque des violences commises de la fin des ann\u00e9es 1970 \u00e0 2005.",
-    "news_item_url": "https://www.lemonde.fr/societe/article/2024/07/17/l-abbe-pierre-accuse-d-agressions-sexuelles-ce-que-disent-les-temoignages-de-sept-femmes_6251820_3224.html",
+    "news_item_snippet": "Un rapport command\u00e9 par Emma\u00fcs International identifie au moins une dizaine de femmes, dont une alors mineure, victimes d&#39;agressions sexuelles ou de&nbsp;...",
+    "news_item_url": "https://www.lavie.fr/christianisme/eglise/revelations-sur-des-agressions-sexuelles-commises-par-labbe-pierre-95489.php",
     "picture_source": "Le Quotidien.lu",
     "approx_traffic": "200,000+"
   },
@@ -273,20 +273,30 @@
     "country": "France",
     "title": "Anne Hidalgo",
     "pubDate": "Wed, 17 Jul 2024 10:00:00 +0200",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcT1qpQGTw4MzqTtfKqXhIsC1Ew0_lRs-ofdo60T6k8kVKVYKiD-HxncmTNxLy_l5Y3WVCQcPuYY",
-    "news_item_snippet": "La maire de Paris, Anne Hidalgo, s&#39;est baign\u00e9e dans la Seine mercredi apr\u00e8s avoir repouss\u00e9 l&#39;\u00e9ch\u00e9ance \u00e0 plusieurs reprises.",
-    "news_item_url": "https://www.francetvinfo.fr/les-jeux-olympiques/paris-2024-anne-hidalgo-nage-dans-la-seine_6671901.html",
-    "picture_source": "Creapills",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQr8Y6stMA0ZNZMk2h_h7lxcs2OuLYNpIdiu8mNAWve76fI4RGABnXS64ryeonIXl-pYDVm4M9D",
+    "news_item_snippet": "La maire de Paris, Anne Hidalgo, s&#39;est officiellement baign\u00e9e dans la Seine \u00e0 seulement quelques jours du d\u00e9but des Jeux Olympiques et Paralympiques de Paris&nbsp;...",
+    "news_item_url": "https://creapills.com/meilleurs-tweets-baignade-anne-hidalgo-seine-20240717",
+    "picture_source": "Franceinfo",
     "approx_traffic": "100,000+"
   },
   {
     "country": "France",
     "title": "Andr\u00e9 Chassaigne",
     "pubDate": "Wed, 17 Jul 2024 19:00:00 +0200",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTYXBBsaXF_SUM1HbIaJ6Kb6H8SkFBFtKktdxw1P-NLEX9E3L7n8HLAKe2c3ZisyL2mwJQu_YDQ",
-    "news_item_snippet": "R\u00c9CIT - Engag\u00e9 \u00e0 proposer un seul candidat pour le perchoir, le Nouveau Front populaire, fort de ses 190 d\u00e9put\u00e9s, esp\u00e8re encore l&#39;emporter lors du vote de&nbsp;...",
-    "news_item_url": "https://www.lefigaro.fr/politique/presidence-de-l-assemblee-la-gauche-s-accorde-sur-la-candidature-du-communiste-andre-chassaigne-20240717",
-    "picture_source": "Europe1",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRHSzZN9peiVGsMwaMYuf8tdgNbGFJTipmLa6UJDLOtFTk2vTKkJIv9afcnXj1qR66ANxa8rfXc",
+    "news_item_snippet": "[VID\u00c9O] \u25b6\ufe0f La gauche s&#39;est entendue sur le nom d&#39;Andr\u00e9 Chassaigne pour la pr\u00e9sidence de l&#39;Assembl\u00e9e nationale. \u00c9lu depuis 2002, le d\u00e9put\u00e9 communiste&nbsp;...",
+    "news_item_url": "https://www.tf1info.fr/elections/politique-biographie-portrait-qui-est-andre-chassaigne-communiste-pcf-candidat-du-nouveau-front-populaire-au-perchoir-de-l-assemblee-nationale-2309241.html",
+    "picture_source": "Reporterre",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "France",
+    "title": "Nonce Paolini",
+    "pubDate": "Wed, 17 Jul 2024 21:00:00 +0200",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSaTt0ZIT1xxtEwFpcmNeI_Jz5J69gjpk8e0P71Q1kn5XX5AY_3VWhMmiEt8npEGsGowbEnb6L7",
+    "news_item_snippet": "L&#39;ancien patron de TF1, Nonce Paolini est d\u00e9cid\u00e9 des suites d&#39;un cancer mercredi 17 juillet. Ce proche du propri\u00e9taire de la cha\u00eene, Martin Bouygues,&nbsp;...",
+    "news_item_url": "https://www.la-croix.com/nonce-paolini-l-ancien-patron-de-tf1-est-mort-20240717",
+    "picture_source": "Corporate - Bouygues Telecom",
     "approx_traffic": "50,000+"
   },
   {
@@ -303,10 +313,10 @@
     "country": "Germany",
     "title": "Amazon Prime Day",
     "pubDate": "Wed, 17 Jul 2024 10:00:00 +0200",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSy8LQXHwBS_jZLbN07uLH6O7UvDPyTXTek-pTvQtNScg7tSKISLW-0C81TexWl2JzKgTKJuZTM",
-    "news_item_snippet": "Am 16. und 17. Juli 2024 ist Amazon Prime Day. FITBOOK stellt die besten Angebote f\u00fcr Fitness-Fans vor und wie viel Sie sparen k\u00f6nnen.",
-    "news_item_url": "https://www.fitbook.de/fitness/amazon-prime-day-fitness",
-    "picture_source": "Golem.de",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTFsP0IF3kjYXOKptnUhbv4f9gdX2P5fHIV4NS6hGn9GnkJhsmjK8u6KgRjKmU1LpOV239QJ1BT",
+    "news_item_snippet": "Die Deals sind h\u00f6chstens bis zum Ablauf des Prime Days um kurz vor Mitternacht erh\u00e4ltlich, manche Artikel sind hingegen auch schon vor Ablauf des Sales-Events&nbsp;...",
+    "news_item_url": "https://www.golem.de/news/anzeige-amazon-prime-day-2024-bis-mitternacht-beste-deals-sichern-2407-187149.html",
+    "picture_source": "FITBOOK",
     "approx_traffic": "50,000+"
   },
   {
@@ -341,12 +351,22 @@
   },
   {
     "country": "Italy",
+    "title": "Biden",
+    "pubDate": "Thu, 18 Jul 2024 08:00:00 +0200",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcStMsIryq7wCHU1dlT7rBSckqh1ZTVZTTTQuL9786EPMbLyWSTPthlHx5xlsMzCF48sF5RP_ITh",
+    "news_item_snippet": "Risultato positivo al covid-19, il presidente americano Joe Biden ha assicurato di stare \u201cbene\u201d, ma la notizia rischia di alimentare preoccupazioni sulla&nbsp;...",
+    "news_item_url": "https://www.internazionale.it/ultime-notizie/2024/07/18/joe-biden-positivo-covid",
+    "picture_source": "Avvenire.it",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Italy",
     "title": "Cabal",
     "pubDate": "Wed, 17 Jul 2024 18:00:00 +0200",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRpzaC7kEAfGV_CcopEDdfR-mSudX_yqY8IfQvewjnlk93AbOko9JAPUkT5FkxyOFY867wDg_po",
-    "news_item_snippet": "Le caratteristiche e i segreti dell&#39;acquisto bianconero per il quale \u00e8 stata battuta la concorrenza dell&#39;Inter: la duttilit\u00e0 che piace a Thiago Motta e il&nbsp;...",
-    "news_item_url": "https://www.tuttosport.com/news/calcio/calciomercato/2024/07/18-130391347/un_nuovo_cabal_per_la_juve_chi_e_i_numeri_alla_danilo_e_il_doppio_ruolo",
-    "picture_source": "Napoli Fanpage",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSWiKIxwsSfDhqLw6xiOy5zGiuL_dwNozcZ8a5jIN3Qp2LNflmkLyg40UMCl0sdTnQ0Pyq_0gpzXA",
+    "news_item_snippet": "Juan Cabal \u00e8 l&#39;ultimo colpo di mercato della Juventus che lo ha strappato all&#39;Inter con una trattativa lampo per un&#39;operazione da 12 milioni.",
+    "news_item_url": "https://www.fanpage.it/sport/calcio/perche-juventus-e-inter-si-sono-fatte-guerra-serrata-per-cabal-cosa-centra-calafiori/",
+    "picture_source": "Tuttosport",
     "approx_traffic": "50,000+"
   },
   {
@@ -354,8 +374,8 @@
     "title": "Necaxa  Monterrey",
     "pubDate": "Wed, 17 Jul 2024 13:00:00 -0600",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTG6fFUbcr-arjrExUGte_0pzRR2KRG5yGCb1Kqr_1AoEp1Y99q_v83Dzg6j6ARj29bror1tSoE",
-    "news_item_snippet": "El conjunto hidroc\u00e1lido enfrenta a Rayados de Monterrey en casa, partido correspondiente a la Jornada 3 del Apertura 2024 | TUDN Liga MX | TUDN.",
-    "news_item_url": "https://www.tudn.com/futbol/liga-mx/necaxa-vs-monterrey-horario-y-donde-ver-el-partido-de-la-jornada-3-liga-mx",
+    "news_item_snippet": "El cuadro de Monterrey se sacudi\u00f3 de la goleada en la fecha anterior al sacar los tres puntos en la cancha del estadio Victoria. | TUDN Liga MX | TUDN.",
+    "news_item_url": "https://www.tudn.com/futbol/liga-mx/necaxa-vs-monterrey-goles-video-resultado-partido-liga-mx",
     "picture_source": "AS Mexico",
     "approx_traffic": "100,000+"
   },
@@ -383,11 +403,11 @@
     "country": "United Kingdom",
     "title": "The Open",
     "pubDate": "Thu, 18 Jul 2024 09:00:00 +0100",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTXhEfjjeDdz-E9fyBzTwte9WmaN1iqYphssc8Hbg_iG08IS-LROQRZfoYt6vPQxzXahg2OVoj1",
-    "news_item_snippet": "The final major of the year has begun with the running of the 152nd Open Championship. The tournament is being held at Royal Troon in Scotland,&nbsp;...",
-    "news_item_url": "https://www.independent.co.uk/sport/golf/the-open-live-2024-leaderboard-scores-rory-mcilroy-b2581192.html",
-    "picture_source": "The Guardian",
-    "approx_traffic": "50,000+"
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRP8F8WrogeRbjcfgUXhe_8D1_ES5WBkaNwDanwqqzN7dxdJfxk0A1ImbVC6XhGvInEh8InnTsj",
+    "news_item_snippet": "Join our writers for live updates from the first day of the Championship at Royal Troon.",
+    "news_item_url": "https://www.theguardian.com/sport/live/2024/jul/18/the-open-2024-golf-first-round-updates-live-score-updates",
+    "picture_source": "The Independent",
+    "approx_traffic": "100,000+"
   },
   {
     "country": "United Kingdom",
@@ -397,7 +417,7 @@
     "news_item_snippet": "Ange Postecoglou made a successful return to Scotland to begin Spurs&#39; pre-season schedule.",
     "news_item_url": "https://www.standard.co.uk/sport/football/hearts-vs-tottenham-live-stream-pre-season-friendly-2024-latest-score-result-watch-tv-team-news-b1171310.html",
     "picture_source": "Evening Standard",
-    "approx_traffic": "100,000+"
+    "approx_traffic": "50,000+"
   },
   {
     "country": "United Kingdom",
@@ -427,6 +447,16 @@
     "news_item_snippet": "The rapper and Love Island presenter say they have &quot;decided to call it quits&quot; but &quot;are still friends&quot;.",
     "news_item_url": "https://www.bbc.com/news/articles/c1dm3mynz4go",
     "picture_source": "Sky News",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United Kingdom",
+    "title": "Flying ants",
+    "pubDate": "Wed, 17 Jul 2024 18:00:00 +0100",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSyO7f4807-yKUvF3dNRypxoxu-TNcGXoFYJvZDmGV9jR_ZUuOs8a-kiYQO6_EmRClDLFfYzFcj",
+    "news_item_snippet": "Summertime in the UK can sometimes see swarms of flying ants emerge, but why does this actually happen? This unpleasant phenomenon often follows incredibly&nbsp;...",
+    "news_item_url": "https://www.romfordrecorder.co.uk/news/24460120.many-flying-ants-year-know/",
+    "picture_source": "The Independent",
     "approx_traffic": "50,000+"
   }
 ]
