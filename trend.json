@@ -1,6 +1,16 @@
 [
   {
     "country": "United States",
+    "title": "Amazon Prime Day",
+    "pubDate": "Wed, 17 Jul 2024 06:00:00 -0700",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcS7sy43bJDokuGv97OosYP4fZVp2UIlXu_YWOWisgFPkC2ge25XQlwp87IdXEb_sr8tLJs2mu9l",
+    "news_item_snippet": "This is your last chance to score all of the best Amazon Prime Day tech deals on Apple, Samsung, Google and more.",
+    "news_item_url": "https://www.cbsnews.com/essentials/best-amazon-prime-day-2024-tech-deals/",
+    "picture_source": "NBC News",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "United States",
     "title": "USA Basketball",
     "pubDate": "Wed, 17 Jul 2024 11:00:00 -0700",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSTDqXgO9UfYTCn6R6mnbCCjuuEZPtCxF36L3W0un9UpE-Q59FI50dsSEqwmrLrFtktNCx3Kwij",
@@ -8,6 +18,26 @@
     "news_item_url": "https://www.oklahoman.com/story/sports/olympics/2024/07/17/us-serbia-live-updates-score-highlights-usa-basketball-showcase/74412498007/",
     "picture_source": "FOXSports.com",
     "approx_traffic": "200,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Peter Navarro",
+    "pubDate": "Wed, 17 Jul 2024 17:00:00 -0700",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRNRZv3p7-Ve0bxZSlGcXdP0rKFv4nst0iEZTYmeqrBNAoPqnUMtLvU0U5x0JzV8esjh0wTp7tQ",
+    "news_item_snippet": "Peter Navarro, 75, was released from federal prison in Miami on Wednesday after serving a four-month sentence.",
+    "news_item_url": "https://www.cbsnews.com/news/peter-navarro-releasd-prison-trump-trade-adviser/",
+    "picture_source": "The Associated Press",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Joe Biden Covid",
+    "pubDate": "Wed, 17 Jul 2024 16:00:00 -0700",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSvJUeWs5Bm6kd9utwZXYkOBV07G7EpI7rCnf2qDxrjV70_o63j3btK1zpYtEnP4_R-Gp4YYgrv",
+    "news_item_snippet": "President Joe Biden tested positive for Covid-19 on Wednesday while in Las Vegas for a series of events. It&#39;s not the first time Biden has had the&nbsp;...",
+    "news_item_url": "https://www.nbcnews.com/politics/joe-biden/president-joe-biden-tests-positive-covid-19-rcna162435",
+    "picture_source": "CNN",
+    "approx_traffic": "100,000+"
   },
   {
     "country": "United States",
@@ -24,40 +54,10 @@
     "title": "Adam Schiff",
     "pubDate": "Wed, 17 Jul 2024 08:00:00 -0700",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSvJUeWs5Bm6kd9utwZXYkOBV07G7EpI7rCnf2qDxrjV70_o63j3btK1zpYtEnP4_R-Gp4YYgrv",
-    "news_item_snippet": "Rep. Adam Schiff, a prominent Democrat and leading candidate for Senate in California, urged President Joe Biden on Wednesday to &quot;pass the torch&quot; and exit&nbsp;...",
-    "news_item_url": "https://www.nbcnews.com/politics/2024-election/schiff-calls-biden-withdraw-presidential-race-rcna162364",
+    "news_item_snippet": "California Democratic Rep. Adam Schiff, is calling for President Biden to step aside from his bid for re-election, according to a statement obtained by NPR.",
+    "news_item_url": "https://www.npr.org/2024/07/17/nx-s1-5042492/schiff-biden-step-aside",
     "picture_source": "CNN",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Biden Covid",
-    "pubDate": "Wed, 17 Jul 2024 16:00:00 -0700",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRJoyw-K1K58UMet2lh3xQjbJXJJwFVTrHJyVG8vwdHwrh1HGev3-_ubzpNfd5ZksMtZ0bKJUiI",
-    "news_item_snippet": "President Joe Biden tested positive for Covid-19 on Wednesday, disrupting a key campaign event meant to shore up Latino voters at a critical juncture in the&nbsp;...",
-    "news_item_url": "https://www.cnn.com/2024/07/17/politics/joe-biden-tests-positive-covid-19/index.html",
-    "picture_source": "NBC News",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Glen Powell",
-    "pubDate": "Wed, 17 Jul 2024 16:00:00 -0700",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQRmrec1E281VktwWfAC2hL1MlHwnfN5xYDiz_dJlNKvD9_8FQ8cbRx2Uw6a0KdUjA3hsE5mfPc",
-    "news_item_snippet": "TODAY show fourth hour co-hosts Hoda Kotb and Jenna Bush Hager reflect with Glen Powell on helping him land his role in the &quot;Twisters&quot; movie and Jenna DMing&nbsp;...",
-    "news_item_url": "https://www.today.com/popculture/movies/glen-powell-twisters-movie-today-show-hoda-kotb-jenna-bush-hager-rcna162324",
-    "picture_source": "KOLO",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Amazon Prime Day",
-    "pubDate": "Tue, 16 Jul 2024 21:00:00 -0700",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcS7sy43bJDokuGv97OosYP4fZVp2UIlXu_YWOWisgFPkC2ge25XQlwp87IdXEb_sr8tLJs2mu9l",
-    "news_item_snippet": "This is your last chance to score all of the best Amazon Prime Day tech deals on Apple, Samsung, Google and more.",
-    "news_item_url": "https://www.cbsnews.com/essentials/best-amazon-prime-day-2024-tech-deals/",
-    "picture_source": "NBC News",
-    "approx_traffic": "200,000+"
+    "approx_traffic": "100,000+"
   },
   {
     "country": "United States",
@@ -73,10 +73,10 @@
     "country": "United States",
     "title": "Joe Bryant",
     "pubDate": "Tue, 16 Jul 2024 09:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRtMyj7rjnq9X25FZuBqcpRPUeU6BB1M5zhrrIHEH5XyW6ByCFRKfdZiqA5ddtzqwTEBAH8gnRt",
-    "news_item_snippet": "Joe Bryant, a&nbsp;...",
-    "news_item_url": "https://www.wifr.com/2024/07/16/joe-bryant-kobe-bryants-father-dies-age-69/",
-    "picture_source": "La Salle University Athletics",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRkUoDiaw8Ap7lOoBh8HLR0PoW7Ip6XKGhmoqIRBNswqDQ_8oE2oGRn0bj8SvFWtqQ0Q8dW4TeJ",
+    "news_item_snippet": "La Salle University Athletics is saddened by the loss of men&#39;s basketball legend Joe &quot;Jellybean&quot; Bryant, who passed away on Monday morning.",
+    "news_item_url": "https://goexplorers.com/news/2024/7/16/la-salle-mourns-the-passing-of-former-mens-basketball-star-joe-bryant.aspx",
+    "picture_source": "www.kkco11news.com",
     "approx_traffic": "200,000+"
   },
   {
@@ -91,12 +91,22 @@
   },
   {
     "country": "United States",
-    "title": "Dave Portnoy",
-    "pubDate": "Tue, 16 Jul 2024 17:00:00 -0700",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSyW7QvuO_NU2i33cUlm1RvrXu75mcQbiHYLsglxpnPGstSzvpTA2xswubJiwtZs3g6mbI7qOAl",
-    "news_item_snippet": "Barstool Sports founder Dave Portnoy says he&#39;s lucky to be alive after he found himself in his boat adrift with no power off Nantucket on Monday.",
-    "news_item_url": "https://www.nbcboston.com/news/local/dave-portnoy-describes-boat-ordeal-it-was-like-tom-hanks-in-castaway/3428860/",
-    "picture_source": "KKCO-TV",
+    "title": "Trump speech",
+    "pubDate": "Tue, 16 Jul 2024 06:00:00 -0700",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSbDZkuH7_PZtRsBWsd2LKEm5dLmdbMOIVlfab8c8EeHGAaZxIkqpx26HQxaEX_L5NjwNaMx2hG",
+    "news_item_snippet": "The issue is central to former President Donald Trump&#39;s political brand that helped endear him to the GOP base when he began his first campaign in 2015.",
+    "news_item_url": "https://apnews.com/article/trump-republican-national-convention-immigration-d832fedbbd0df0a4fa68f941474c0209",
+    "picture_source": "CNN",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Paul Skenes",
+    "pubDate": "Tue, 16 Jul 2024 18:00:00 -0700",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTUo37tu1ET3nNuP7EtI2VX3j6TjO7l4SpcPBQB7FIDDYHshgsX1_zF-ivNrnJff-BPh18sSohl",
+    "news_item_snippet": "Just 11 starts into his career, Skenes is among the best in MLB. This week, he showed he&#39;s ready for that spotlight.",
+    "news_item_url": "https://www.espn.com/mlb/story/_/id/40578811/mlb-2024-all-star-game-paul-skenes-start",
+    "picture_source": "The Associated Press",
     "approx_traffic": "100,000+"
   },
   {
@@ -131,12 +141,22 @@
   },
   {
     "country": "India",
+    "title": "Karnataka",
+    "pubDate": "Wed, 17 Jul 2024 19:30:00 +0530",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRNlYIwXseCFlj6iLs4WStBf186x_CrcnlFJLacDqZXqGuUAXo0EBZIK35HvhordKct2RALIe-J",
+    "news_item_snippet": "Karnataka state&#39;s move to require companies to give 50%-70% of jobs to locals is still in the preparation stage, Chief Minister Siddaramaiah said on&nbsp;...",
+    "news_item_url": "https://www.reuters.com/world/india/india-tech-hub-state-karnataka-approves-bill-reserve-jobs-locals-2024-07-17/",
+    "picture_source": "Economic Times",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "India",
     "title": "Hardik Pandya",
     "pubDate": "Tue, 16 Jul 2024 22:30:00 +0530",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTP4-bO5EplRCcVLSYvrGXk1lnEOHnaICzNBb5PHZfoiSGJnKHCbEffIt5YsaXxKBJrv3XcqiKA",
-    "news_item_snippet": "Cricket News: As the cricket fraternity eagerly awaits the official announcement of India&#39;s squad for the tour of Sri Lanka, the debate surrounding the&nbsp;...",
-    "news_item_url": "https://timesofindia.indiatimes.com/sports/cricket/news/does-hardik-pandyas-t20-captaincy-experience-make-him-a-better-choice-than-suryakumar-yadav-as-indias-t20i-skipper/articleshow/111807327.cms",
-    "picture_source": "India Today",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRpS6w6dXep2XZHU6YLLCugWgjOBFGqOJvv3CMDwyHmJeGy5oKCnap9WdlrEGpeBRfiKMucx0sC",
+    "news_item_snippet": "Just when things were poised for Hardik Pandya to take over as the captain of the Indian team, reports that came out of the Indian media suggested that the&nbsp;...",
+    "news_item_url": "https://www.indiatoday.in/sports/cricket/story/suryakumar-hardik-pandya-india-tour-of-sri-lanka-squad-gautam-gambhir-2568306-2024-07-17",
+    "picture_source": "Hindustan Times",
     "approx_traffic": "200,000+"
   },
   {
@@ -152,12 +172,12 @@
   {
     "country": "India",
     "title": "OnePlus Nord 4",
-    "pubDate": "Tue, 16 Jul 2024 21:30:00 +0530",
+    "pubDate": "Tue, 16 Jul 2024 22:30:00 +0530",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSC8uP5jvZ54B9FWjPFy_SLjjafmYSZACkTuQP_5X4rD2cTScE3FbYa3EWC5cFu4Xw53ItMTm65",
-    "news_item_snippet": "MOBILES &amp; TABLETS News: OnePlus has unveiled the Nord 4 in Italy, featuring a premium design, high-end display, powerful hardware, and impressive camera&nbsp;...",
-    "news_item_url": "https://timesofindia.indiatimes.com/technology/mobiles-tabs/oneplus-nord-4-first-impressions/articleshow/111780404.cms",
+    "news_item_snippet": "OnePlus Nord 4 boasts several segment first features, including a metallic unibody design for durability and AI tools for media editing, audio transcription&nbsp;...",
+    "news_item_url": "https://www.business-standard.com/technology/gadgets/oneplus-nord-4-with-metallic-body-ai-features-launched-price-specs-more-124071601107_1.html",
     "picture_source": "Livemint",
-    "approx_traffic": "100,000+"
+    "approx_traffic": "50,000+"
   },
   {
     "country": "India",
@@ -173,7 +193,7 @@
     "country": "India",
     "title": "Gujarat Chandipura virus",
     "pubDate": "Tue, 16 Jul 2024 12:30:00 +0530",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTaeD_YZXfvxASUrBuvzvU7Ah51YRUesL6KWRPVgDDyjA4R-vHkkiRZ58yxoBYmBOAhT_RFxAMX",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcR-3lTTZ3FzqUSitp95fm75ZWMY6JrQi5QcgoFY3aC7V8ezgu9wrTm4W0hB3sqGFPiXM_SC_GKX",
     "news_item_snippet": "Six children have died in Gujarat&#39;s Aaravalli district due to the suspected Chandipura virus. It causes high fever and severe headaches.",
     "news_item_url": "https://www.indiatoday.in/health/story/chandipura-virus-outbreak-gujarat-symptoms-causes-prevention-treatment-the-deadly-infection-2567916-2024-07-17",
     "picture_source": "Deccan Herald",
@@ -183,29 +203,19 @@
     "country": "Argentina",
     "title": "Estudiantes",
     "pubDate": "Wed, 17 Jul 2024 02:00:00 -0300",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSkcd66Ywu2cAO4EeXQJY09o2rIIRvpog8nmglD8B446FeivrtRPZNuwccHXTwFtfTHoQAvtB_L",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTca1bB35ZQMgPKdKmmdOpLlDccClNpq72HfZpoSnipHmhu4D79snQTN7FL_W87Bck6ItkU8jpK",
     "news_item_snippet": "Estudiantes perdi\u00f3 2-1 ante Central C\u00f3rdoba en el Estadio Julio C\u00e9sar Villagra y se despidi\u00f3 de la edici\u00f3n 2024 de la Copa Argentina.",
     "news_item_url": "https://estudiantesdelaplata.com/eliminacion-en-cordoba/",
-    "picture_source": "TyC Sports",
+    "picture_source": "canchallena.com",
     "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Argentina",
-    "title": "Rosario Central  Internacional",
-    "pubDate": "Tue, 16 Jul 2024 20:00:00 -0300",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQTJHI9YaHH9SxIX8ViX-OF8LkIBrRgOuXJV-Gci3x2gLmzBWQ-VOaYcWPS1LPRcbffIEDuJ9c4",
-    "news_item_snippet": "Con gol de Campaz, el Canalla derrot\u00f3 a los brasile\u00f1os en Rosario. La revancha ser\u00e1 dentro de una semana en Porto Alegre.",
-    "news_item_url": "https://www.ole.com.ar/futbol-internacional/sudamericana/rosario-central-inter-porto-alegre-sudamericana_0_UjdjNWZU7d.html",
-    "picture_source": "TyC Sports",
-    "approx_traffic": "100,000+"
   },
   {
     "country": "Australia",
     "title": "State of Origin Game 3",
     "pubDate": "Wed, 17 Jul 2024 10:00:00 +1000",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTUW2aoAv7zaLr0YKLJTF2kZ513M0lC4oDD0DV6t1w1r-FoHHXVP-xkddon-M2bW1dKy_vR8aLZ",
-    "news_item_snippet": "Curse broken: Suncorp silenced as Madge&#39;s Blues seal series in decider for the ages.",
-    "news_item_url": "https://www.foxsports.com.au/nrl/state-of-origin/state-of-origin-2024-game-three-live-updates-score-nsw-vs-qld-start-time-result-video-teams-news/news-story/d2853b7d9f3741ee24031e758e09ea48",
+    "news_item_snippet": "New South Wales wins its first State of Origin series since 2021 in an intense battle at Brisbane&#39;s Lang Park, becoming just the third Blues outfit in&nbsp;...",
+    "news_item_url": "https://www.abc.net.au/news/2024-07-17/state-of-origin-iii-decider-qld-maroons-nsw-blues/104102366",
     "picture_source": "The Guardian",
     "approx_traffic": "500,000+"
   },
@@ -224,28 +234,28 @@
     "title": "S\u00e3o Paulo x Gr\u00eamio",
     "pubDate": "Wed, 17 Jul 2024 13:00:00 -0500",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcT4U3aUS5otCvU08CMRLFLcUh4d_pcR4o8Rybl6YtTj-qmUI5uPY8D027ZyCb3tEKTRSWnViMbr",
-    "news_item_snippet": "S\u00e3o Paulo e Gr\u00eamio se enfrentam nesta quarta-feira, 17, no MorumBis, pela 17\u00aa rodada do Campeonato Brasileiro; acompanhe lance a lance.",
-    "news_item_url": "https://placar.com.br/brasileirao/ao-vivo-sao-paulo-x-gremio-pelo-brasileirao/",
+    "news_item_snippet": "Escanteio, Gr\u00eamio. Cedido por Robert Arboleda. Finaliza\u00e7\u00e3o bloqueada, Rodrigo Ely (Gr\u00eamio) de cabe\u00e7a do meio da \u00e1rea. Assist\u00eancia&nbsp;...",
+    "news_item_url": "https://www.terra.com.br/esportes/futebol/brasileiro-serie-a/ao-vivo/sao-paulo-x-gremio/84952/",
     "picture_source": "globoesporte.com",
-    "approx_traffic": "100,000+"
+    "approx_traffic": "500,000+"
   },
   {
     "country": "Brazil",
     "title": "Nubank",
     "pubDate": "Wed, 17 Jul 2024 11:00:00 -0500",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSKSIq8w2vatCC2upkFKcJxVviaz7UX548d0Em1TNzCEM3wsXLSMcnvvwdwLduCZv1LM564hsST",
-    "news_item_snippet": "Segundo o site Downdetector, mais de 700 reclama\u00e7\u00f5es j\u00e1 tinham sido feitas perto das 11h. Aos clientes, banco diz que aplicativo passa por uma &#39;oscila\u00e7\u00e3o&#39;.",
-    "news_item_url": "https://g1.globo.com/economia/noticia/2024/07/17/nubank-fora-do-ar.ghtml",
-    "picture_source": "UOL Economia",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTl5UsTiqWTQorNkKdB7FOhWY1pduR-p2qFZu48yeUHLZAy9FXKrRQT6fL_Dlx46DtzSiNh6Ivg",
+    "news_item_snippet": "O aplicativo do Nubank enfrenta instabilidades nesta quarta-feira, 17, de acordo com ferramentas que compilam relatos de clientes.",
+    "news_item_url": "https://economia.uol.com.br/noticias/estadao-conteudo/2024/07/17/nubank-apresenta-instabilidade-nesta-quarta-feira-de-acordo-com-relatos-de-clientes.htm",
+    "picture_source": "G1",
     "approx_traffic": "100,000+"
   },
   {
     "country": "Brazil",
     "title": "Fortaleza",
     "pubDate": "Wed, 17 Jul 2024 11:00:00 -0500",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcT_GI4V8jNtA_8Y97Tj8ZBtbmn6DqoGUNgLWeuLyjTOWUEvXhVm9vilqlVoNzExXd4TB0b38ebQ",
-    "news_item_snippet": "Vojvoda apoiou o jogador, inclusive utilizando tamb\u00e9m na zaga. Em 2024, s\u00e3o 27 jogos, com uma assist\u00eancia. Em abril deste ano, Vojvoda comentou sobre Pedro&nbsp;...",
-    "news_item_url": "https://ge.globo.com/ce/futebol/times/fortaleza/noticia/2024/07/17/fortaleza-quer-seguir-com-pedro-augusto-ate-fim-de-2025.ghtml",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQiIyQ9NguwKeVYPWq2wFvnsD_ClJeWJ0yXZaGBxlUp_aXQKBIlOQkF0f2NmSBWbb8T90ubphD2",
+    "news_item_snippet": "Fortaleza e Vit\u00f3ria se enfrentam em partida v\u00e1lida pela 17\u00aa rodada do Brasileir\u00e3o 2024. O duelo acontecer\u00e1 nesta quarta-feira (17), \u00e0s 21:30 (hor\u00e1rio de&nbsp;...",
+    "news_item_url": "https://www.gazetaesportiva.com/apostas/prognosticos/futebol/fortaleza-x-vitoria-17-07-2024",
     "picture_source": "globoesporte.com",
     "approx_traffic": "50,000+"
   },
@@ -253,25 +263,15 @@
     "country": "Canada",
     "title": "Toronto flooding",
     "pubDate": "Tue, 16 Jul 2024 13:00:00 -0400",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQZ85f5NYX6mB3FGkG_Em6a7dhRJmoFn7KQEg7TyDcR41yT25yVoVRvP6KGHMkFO9nRZN7-iuiW",
-    "news_item_snippet": "Toronto was pounded by torrential rain Tuesday afternoon and pictures and video are showing the extent of the flooding in the city&#39;s downtown core and&nbsp;...",
-    "news_item_url": "https://toronto.ctvnews.ca/toronto-flooding-pictures-videos-show-heavy-rainfall-in-downtown-core-1.6965779",
-    "picture_source": "CP24 Toronto's Breaking News",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcT_FG30SKZpQonm0FP-TYcKJQcHLHxmtN31fycN6rFljNCI0BIMCC2efVNrPf-SkmuwPkEpx0Ee",
+    "news_item_snippet": "The storm, which knocked out power for tens of thousands of people, flooded a major highway and a key transit hub in Toronto on Tuesday.",
+    "news_item_url": "https://globalnews.ca/news/10629154/toronto-flooding-trudeau-significant-event/",
+    "picture_source": "CBC.ca",
     "approx_traffic": "200,000+"
   },
   {
-    "country": "Canada",
-    "title": "Amazon Prime",
-    "pubDate": "Tue, 16 Jul 2024 00:00:00 -0400",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQADOTRFrKw7qhaQD6sljO0yvwsRMogm-6b7U8O-ujyewY0wKlaT48FMASYwTasdM41RvWtsPN-",
-    "news_item_snippet": "It&#39;s Prime Day \u2014 the two-day deal event where Amazon slashes thousands of its prices. Just like products, not all deals are created equally. We&#39;ve done the&nbsp;...",
-    "news_item_url": "https://nationalpost.com/shopping-essentials/best-amazon-prime-day-deals-in-canada-2024",
-    "picture_source": "National Post",
-    "approx_traffic": "100,000+"
-  },
-  {
     "country": "France",
-    "title": "l'Abb\u00e9 Pierre",
+    "title": "L'Abb\u00e9 Pierre",
     "pubDate": "Wed, 17 Jul 2024 15:00:00 +0200",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcS3uqQZqUE93WHbqvTK2mH5Tr65LiuH3WdE57cy0lyq7XEQw3_c2WYf4hfOetHQQ3NHlq66_MWT",
     "news_item_snippet": "Paris, France | AFP | mercredi 17/07/2024 - Figure iconique en France, l&#39;Abb\u00e9 Pierre est accus\u00e9 par plusieurs femmes d&#39;agressions sexuelles commises entre&nbsp;...",
@@ -284,8 +284,8 @@
     "title": "Anne Hidalgo",
     "pubDate": "Wed, 17 Jul 2024 10:00:00 +0200",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcT1qpQGTw4MzqTtfKqXhIsC1Ew0_lRs-ofdo60T6k8kVKVYKiD-HxncmTNxLy_l5Y3WVCQcPuYY",
-    "news_item_snippet": "La maire de Paris avait promis de nager dans le fleuve parisien pour attester du fait qu&#39;il est d\u00e9sormais possible de s&#39;y baigner. Plusieurs fois repouss\u00e9e&nbsp;...",
-    "news_item_url": "https://www.francetvinfo.fr/les-jeux-olympiques/paris-2024/video-paris-2024-anne-hidalgo-tient-sa-promesse-et-plonge-dans-la-seine-en-compagnie-de-tony-estanguet_6671082.html",
+    "news_item_snippet": "A quelques jours des \u00e9preuves de nage en eau libre pour les Jeux olympiques la maire de Paris Anne Hidalgo s&#39;est baign\u00e9e dans la Seine mercredi 17 juillet.",
+    "news_item_url": "https://www.publicsenat.fr/actualites/societe/apres-le-bain-danne-hidalgo-la-baignade-dans-la-seine-bientot-autorisee-pour-tous",
     "picture_source": "Creapills",
     "approx_traffic": "100,000+"
   },
@@ -300,6 +300,16 @@
     "approx_traffic": "50,000+"
   },
   {
+    "country": "France",
+    "title": "Nonce Paolini",
+    "pubDate": "Wed, 17 Jul 2024 21:00:00 +0200",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQRR415zA4B98ppcYnKYpeycSqONQG-_pdejREOQt4alwx39ayY0dzRUS5bIy2kY-N37RVY1ENm",
+    "news_item_snippet": "\u00ab Les \u00e9quipes du groupe TF1 rendent hommage \u00e0 un dirigeant qui aura laiss\u00e9 son empreinte sur notre groupe et sur l&#39;audiovisuel fran\u00e7ais \u00bb, indique TF1 dans son&nbsp;...",
+    "news_item_url": "https://www.lesechos.fr/tech-medias/medias/disparition-de-nonce-paolini-ancien-patron-emblematique-de-tf1-2108523",
+    "picture_source": "Lib\u00e9ration",
+    "approx_traffic": "50,000+"
+  },
+  {
     "country": "Germany",
     "title": "Taylor Swift",
     "pubDate": "Wed, 17 Jul 2024 01:00:00 +0200",
@@ -307,7 +317,7 @@
     "news_item_snippet": "Unter dem Jubel von 60.000 Menschen hat Taylor Swift ihr erstes Deutschland-Konzert der aktuellen Tournee gestartet - und ihre Fans auf besondere Weise&nbsp;...",
     "news_item_url": "https://www.schwarzwaelder-bote.de/inhalt.the-eras-tour-taylor-swift-gruesst-ihre-fans-auf-deutsch.85601639-e9d3-4863-81b0-721c5b990048.html",
     "picture_source": "noz.de - Neue Osnabr\u00fccker Zeitung",
-    "approx_traffic": "200,000+"
+    "approx_traffic": "100,000+"
   },
   {
     "country": "Germany",
@@ -341,16 +351,6 @@
   },
   {
     "country": "Germany",
-    "title": "Elon Musk",
-    "pubDate": "Tue, 16 Jul 2024 22:00:00 +0200",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcS2LexOKKjPZQVVQQitLiFY70Gm3Uhg9pvX3KYSHij6wwzZyGHCpPmol5XP6x65G1XND9cSI-4h",
-    "news_item_snippet": "Wegen seiner \u00c4u\u00dferungen zum Trump-Attentat hat der RBB die Zusammenarbeit mit Sebastian Hotz beendet. Nun behauptet eine rechte Aktivistin, dass der&nbsp;...",
-    "news_item_url": "https://www.spiegel.de/netzwelt/netzpolitik/donald-trump-elon-musk-mischt-sich-in-die-debatte-ueber-el-hotzo-ein-a-7b8f8e41-ceef-4d42-a70b-5cf03dce289f",
-    "picture_source": "Golem.de",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Germany",
     "title": "Amazon Prime Day",
     "pubDate": "Mon, 15 Jul 2024 10:00:00 +0200",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQ2AtYBV4ndECEHvSjyeaMG2npIMwKnaG4vfCG-3aCNPmBPgU_CvKLyYFZBFFCjbwLJS0vrdjhx",
@@ -380,90 +380,40 @@
     "approx_traffic": "500,000+"
   },
   {
+    "country": "Germany",
+    "title": "Ralf Schumacher",
+    "pubDate": "Sun, 14 Jul 2024 21:00:00 +0200",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRCK-NlzXQBSZuzDr0UtrZ40nCcDCUzgKfhf-2eTBfH-PREKUUKUWbF-gkxp_xmHOwSpCPAIW0P",
+    "news_item_snippet": "Ralf Schumacher zeigt sich mit seinem Partner \u00c9tienne auf Instagram. Beide sind \u00fcberw\u00e4ltigt von den \u201evielen tollen, weltweiten R\u00fcckmeldungen\u201c.",
+    "news_item_url": "https://www.schwaebische.de/panorama/ralf-schumacher-ueberwaeltigt-von-tollen-rueckmeldungen-2705190",
+    "picture_source": "Schw\u00e4bische",
+    "approx_traffic": "500,000+"
+  },
+  {
     "country": "Italy",
     "title": "Cabal",
     "pubDate": "Wed, 17 Jul 2024 18:00:00 +0200",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQ1007b1ffPPmmjAPWudX8sdvuNc0IDCFZNrbfMxWkPpjjrKxMGD_mPKeiXIqHQ0Dwadae0ZByg",
-    "news_item_snippet": "I bianconeri hanno superato l&#39;Inter nella corsa al calciatore del Verona: ecco perch\u00e9 il club di Thiago Motta ha deciso di puntare sul classe 2001.",
-    "news_item_url": "https://www.goal.com/it/liste/perche-la-juventus-ha-deciso-di-prendere-cabal-piani-thiago-motta-caratteristiche/blt7dea69759d75b560",
+    "news_item_snippet": "Il terzino colombiano in bianconero 10 milioni di euro pi\u00f9 di 2 di bonus. Intanto Miretti prolunga fino a giugno 2028.",
+    "news_item_url": "https://www.rainews.it/tgr/piemonte/articoli/2024/07/juve-accordo-con-il-verona-per-cabal-b043e9a5-41b4-451d-a1e2-79c3efbb7bf2.html",
     "picture_source": "La Gazzetta dello Sport",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Mexico",
-    "title": "Liga MX",
-    "pubDate": "Tue, 16 Jul 2024 19:00:00 -0600",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRBLfzHqloJ3HNljDECjU8udSv5t5fzL_QEZOmfvujjJgtXoi-cE_8kz8XaaiaW8EE8jwgj56Ks",
-    "news_item_snippet": "Sigue todas las emociones en directo minuto a minuto del FC Ju\u00e1rez vs Pumas, partido correspondiente a la Jornada 3 este mi\u00e9rcoles 17 de julio en punto de&nbsp;...",
-    "news_item_url": "https://mexico.as.com/futbol/futbol-mexicano/fc-juarez-vs-pumas-en-vivo-liga-mx-apertura-2024-hoy-en-directo-n/",
-    "picture_source": "El Financiero",
-    "approx_traffic": "500,000+"
-  },
-  {
-    "country": "Mexico",
-    "title": "Cruz Azul  Tijuana",
-    "pubDate": "Tue, 16 Jul 2024 09:00:00 -0600",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSnddEjFoqiVzsdMVy-q1NAdJV3c_jXiOZ_Om3sw3W0LWBah8FkB3xDQsAIflFdeFUmZos_ruaR",
-    "news_item_snippet": "El delantero griego vive una gran noche y lleva a Cruz Azul a su tercera victoria en el Apertura 2024, ante una gran entrada en el Estadio Ciudad de los&nbsp;...",
-    "news_item_url": "https://www.espn.com.mx/futbol/mexico/nota/_/id/13919706/cruz-azul-vs-tijuana-doblete-giorgos-giakoumakis",
-    "picture_source": "TUDN",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "Mexico",
-    "title": "Quer\u00e9taro-Guadalajara",
-    "pubDate": "Tue, 16 Jul 2024 19:00:00 -0600",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTC_We2FpdlChVyBvyrcR0Kl_DXqBeO2NJqsN1N4s5JgdZIuPSGvtm5phVK2s290OPmbZbHh8qN",
-    "news_item_snippet": "Los Gallos Blancos de Quer\u00e9taro y las Chivas Rayadas de Guadalajara necesitan ganar, ya que vienen de duras derrotas, y se ubican en el fondo de la tabla en&nbsp;...",
-    "news_item_url": "https://www.tudn.com/futbol/liga-mx/queretaro-vs-chivas-horario-y-donde-ver-partido-jornada-3-apertura-2024",
-    "picture_source": "Real Estate Market & Lifestyle",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "Mexico",
-    "title": "Atlas - Santos",
-    "pubDate": "Tue, 16 Jul 2024 14:00:00 -0600",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRJJXu2F2MgnjGwq_ms-5yr6zWbZMez9MOBEChNVA56gGRzs6bs5AJ27_SMtAZe6Quer8Ez4zTm",
-    "news_item_snippet": "La solitaria anotaci\u00f3n de Jeremy M\u00e1rquez le basta a los Zorros para conseguir tres puntos en la cancha del Jalisco.",
-    "news_item_url": "https://www.espn.com.mx/futbol/mexico/nota/_/id/13919392/atlas-vs-santos-tercera-jornada-goles-resultado",
-    "picture_source": "Diario Deportivo Record",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "Mexico",
-    "title": "Chivas vs queretaro",
-    "pubDate": "Tue, 16 Jul 2024 07:00:00 -0600",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcToPCZ9i6i39EDu3T90kQlrXWdQBTEXGXIWRVw1YbPf0B1ufEs8S3Z9Aes2iGjaQD9oBgc3Xrh4",
-    "news_item_snippet": "Apenas se va a jugar la Jornada 3 del Apertura 2024, y los Gallos Blancos son el \u00faltimo equipo en esta clasificaci\u00f3n ya que no ha sido capaz de sumar puntos&nbsp;...",
-    "news_item_url": "https://mexico.as.com/futbol/futbol-mexicano/queretaro-vs-chivas-en-vivo-liga-mx-apertura-2024-hoy-en-directo-n/",
-    "picture_source": "W Deportes",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "Spain",
-    "title": "IlloJuan",
-    "pubDate": "Wed, 17 Jul 2024 18:00:00 +0200",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSKKz1eX78yjDDP_JPjskanDOgTrsts0it6fJHkT1_vu-HEfAzCXh055dS7xySk4jHwxaOsOp4t",
-    "news_item_snippet": "\u00abChavales, pap\u00e1 y mam\u00e1 se han separado\u00bb, dice Juan Alberto Garc\u00eda, m\u00e1s conocido como IlloJuan, al comienzo de su \u00faltimo v\u00eddeo en Youtube.",
-    "news_item_url": "https://www.diariosur.es/gente-estilo/gente-malaga/masi-illojuan-roto-relacion-20240717185125-nt.html",
-    "picture_source": "La Vanguardia",
     "approx_traffic": "50,000+"
   },
   {
     "country": "United Kingdom",
     "title": "Hearts vs Tottenham",
     "pubDate": "Wed, 17 Jul 2024 19:00:00 +0100",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTQ5vzS_M7kt_kJc4eDA02pBLnnn9Kbnki7y_vksKzbzO1pRW2Mw_hQ9p5lWXGlsXr3sDD7IyxN",
-    "news_item_snippet": "Ange Postecoglou made a successful return to Scotland to begin Spurs&#39; pre-season schedule.",
-    "news_item_url": "https://www.standard.co.uk/sport/football/hearts-vs-tottenham-live-stream-pre-season-friendly-2024-latest-score-result-watch-tv-team-news-b1171310.html",
-    "picture_source": "Evening Standard",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTZOL9D4l6Mv8LV-I-v_QoxBXNxDthi0-upV5L8JuCvpnE_fD7zpXQUdL1nSHQAA98MRczDOrOv",
+    "news_item_snippet": "Tottenham Hotspur travel to Edinburgh to take on Heart of Midlothian in their first official friendly match of the pre-season campaign.",
+    "news_item_url": "https://www.football.london/tottenham-hotspur-fc/fixtures-results/hearts-vs-tottenham-live-kick-29560511",
+    "picture_source": "Football.London",
     "approx_traffic": "100,000+"
   },
   {
     "country": "United Kingdom",
     "title": "Leny Yoro",
     "pubDate": "Wed, 17 Jul 2024 16:00:00 +0100",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRFDEaorw4FR-d2RoXlI0KmzMvryuCg08auppl2SrYkE5OAHEGLuSYks_7YSKmKBPHxwiKRM75h",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSr2fKJq02HAYSBMPYrxwKq6eBx13jblAuioUuU984u86f6lCK_qCFxnbFqOf7lpFBUo2oEdort",
     "news_item_snippet": "Lille&#39;s teenage defender Leny Yoro is set to have a medical and finalise terms for a proposed \u20ac62m (\u00a352m) transfer to Manchester United.",
     "news_item_url": "https://www.theguardian.com/football/article/2024/jul/17/manchester-united-leny-yoro-medical-transfer-battle-real-madrid-lille",
     "picture_source": "Sky Sports",
@@ -498,5 +448,25 @@
     "news_item_url": "https://www.cnn.com/2024/07/17/world/video/tenacious-d-jack-black-kyle-gass-ldn-digvid",
     "picture_source": "BBC News",
     "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United Kingdom",
+    "title": "Zara McDermott",
+    "pubDate": "Tue, 16 Jul 2024 12:00:00 +0100",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQnwtXw5nY4KmBUBhEQMFRa3EODIwYx01FVZGKajQYGEdHelLCOWLUClP4_oub7G0UaFLK0k9qF",
+    "news_item_snippet": "The Strictly Come Dancing professional was axed from the show last week after allegations he had &#39;hit and kicked&#39; the Love Island star during rehearsals.",
+    "news_item_url": "https://www.birminghammail.co.uk/news/showbiz-tv/graziano-di-primas-wife-responds-29561097",
+    "picture_source": "BBC News",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United Kingdom",
+    "title": "Enzo Fernandez",
+    "pubDate": "Tue, 16 Jul 2024 22:00:00 +0100",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcR1nb8ckfy7cCU588GJ301XYmZmejmTwIlBDB28LupdJIUV9aw_KPvqrrjs40D1_35By1tElKOU",
+    "news_item_snippet": "One of Enzo Fernandez&#39;s Chelsea teammates has already condemned the post. The France Football Federation said it will launch a legal complaint.",
+    "news_item_url": "https://news.sky.com/story/chelsea-to-investigate-racist-video-posted-by-enzo-fernandez-taunting-france-players-13179146",
+    "picture_source": "The Guardian",
+    "approx_traffic": "50,000+"
   }
 ]
