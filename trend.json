@@ -1,13 +1,13 @@
 [
   {
     "country": "United States",
-    "title": "CrowdStrike",
+    "title": "Microsoft outage",
     "pubDate": "Fri, 19 Jul 2024 01:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQRUCYkrvXfBgfBxfBkg79Wp-0PBUpnyexZ_36aKxRmR5w_KxywbeU7jPBHxky6VUHLov_1RouA",
-    "news_item_snippet": "Also banks, McDonald&#39;s stores and the London Stock Exchange.",
-    "news_item_url": "https://fortune.com/2024/07/19/microsoft-crowdstrike-disruptions-ground-planes-mcdonalds-london-stock-exchange/",
-    "picture_source": "CNN",
-    "approx_traffic": "200,000+"
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcT2ISosg4NksIqXXk-qJ4HnTq76brHRkuYJUNB-6cYhscu4s1sYkWensuHLIQtzYtwL90KzwwlG",
+    "news_item_snippet": "A major internet outage affecting Microsoft is disrupting flights, banks, media outlets and companies across the world, with problems continuing hours after&nbsp;...",
+    "news_item_url": "https://www.wgbh.org/news/local/2024-07-19/major-microsoft-outage-disrupts-flights-and-banking-around-the-world",
+    "picture_source": "The New York Times",
+    "approx_traffic": "500,000+"
   },
   {
     "country": "United States",
@@ -18,6 +18,16 @@
     "news_item_url": "https://variety.com/2024/tv/news/bob-newhart-dead-comedian-1236077300/",
     "picture_source": "The Associated Press",
     "approx_traffic": "1,000,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Lou Dobbs",
+    "pubDate": "Thu, 18 Jul 2024 14:00:00 -0700",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRUah-gWDJTrf4a2bzUSNcCC7ykhvnIc7zK5R8-yORahMmYMKdcvwPFbDepoS6gPf3nqQf5PtgP",
+    "news_item_snippet": "Donald Trump pays tribute to a &quot;truly incredible&quot; journalist whom he describes as a &quot;friend&quot;.",
+    "news_item_url": "https://www.bbc.com/news/articles/cjjwy5dxdy2o",
+    "picture_source": "CNN",
+    "approx_traffic": "500,000+"
   },
   {
     "country": "United States",
@@ -34,8 +44,8 @@
     "title": "Trump speech TODAY",
     "pubDate": "Thu, 18 Jul 2024 17:00:00 -0700",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQAoDxS-7xvMJcjAyWknggTOR7tycWWWggqYN_uKC5kkptzaqoTQx8xXp1100GJY7bDQ65w-fXT",
-    "news_item_snippet": "Donald Trump, somber and bandaged, has accepted his party&#39;s presidential nomination at the Republican National Convention.",
-    "news_item_url": "https://apnews.com/article/trump-republican-national-convention-nomination-assassination-attempt-5f1f337ac39477e9d1c53d3e027edda3",
+    "news_item_snippet": "Trump&#39;s RNC acceptance speech was supposed to be about unity. Instead, it turned into a rambling series of the usual lies. How the media covered it.",
+    "news_item_url": "https://www.azcentral.com/story/entertainment/media/2024/07/18/donald-trump-rnc-speech/74449342007/",
     "picture_source": "BBC News",
     "approx_traffic": "200,000+"
   },
@@ -43,10 +53,20 @@
     "country": "United States",
     "title": "The Open",
     "pubDate": "Thu, 18 Jul 2024 01:00:00 -0700",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSWV2rd5ZkR__kCIq54G_2RNWcMEneX8szwHOA9_D4X8n50mRoofLz9o_HAJotKBB2pJgHaT1QF",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRydholxZs_UHOQLiugzC-pUTvlAnQnZLzJ6VH4tPE_HXKRcvL1Jz6qoiZSIktanTPTCRSMQ42v",
     "news_item_snippet": "Who is Daniel Brown, the eighth-year pro who leads heading into Friday at The 152nd Open Championship at Royal Troon in his first major championship start?",
     "news_item_url": "https://www.pgatour.com/article/news/needtoknow/2024/07/18/five-things-to-know-about-the-british-open-championship-royal-troon-leader-daniel-brown",
     "picture_source": "The Open",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Dana White",
+    "pubDate": "Thu, 18 Jul 2024 16:00:00 -0700",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRmbGblAomZTFZnmYlk1dGHN_gSDaCXCXansBXvcecGbWpvS1jO4ue4aUWjCOZCEjF6bHW1ydOe",
+    "news_item_snippet": "White has been a longtime supporter of Trump for over two decades, endorsing the Republican nominee in two previous presidential races.",
+    "news_item_url": "https://www.norwichbulletin.com/story/news/politics/2024/07/18/who-is-dana-white-connecticut-rnc-2024-trump/74433721007/",
+    "picture_source": "Axios",
     "approx_traffic": "200,000+"
   },
   {
@@ -131,12 +151,42 @@
   },
   {
     "country": "United States",
+    "title": "Fandango",
+    "pubDate": "Thu, 18 Jul 2024 10:00:00 -0700",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQTdsFoTG9kqAzsdkluxz0ZkA4MVweuJ7y-t-GFQVNUpgDDJE4dUhU6KIPxqzECXVPz6ZzKmZ6p",
+    "news_item_snippet": "The founder of the movie ticket company Fandango died after he fell from a New York City luxury hotel in an apparent suicide Tuesday, authorities say.",
+    "news_item_url": "https://www.nbcnews.com/news/us-news/fandango-founder-j-michael-cline-dies-apparent-suicide-new-york-city-l-rcna162538",
+    "picture_source": "La Voce di New York",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
     "title": "Rory McIlroy",
     "pubDate": "Thu, 18 Jul 2024 08:00:00 -0700",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcS_tpONn6eM2XiTm-kZdtZ43PlqVifSsAPXWPzGtRg5hFqEhkv-S5v0McZ7W7i53NVo7OHUACVz",
     "news_item_snippet": "But in the opening round of The Open at Royal Troon Golf Club, they struggled to defeat Mother Nature -- and themselves -- in what was a Thursday morning to&nbsp;...",
     "news_item_url": "https://www.espn.com/golf/story/_/id/40589608/bryson-dechambeau-rory-mcilroy-struggle-open-championship",
     "picture_source": "pgatour.com",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
+    "title": "The Open leaderboard",
+    "pubDate": "Thu, 18 Jul 2024 11:00:00 -0700",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRa2WgDmwdQNXLgCmzkcoFPfTGfUJo2Jae78cgc82S-dyWTf9ulW2jfyaWUOImIkPlEQrKbsb-W",
+    "news_item_snippet": "Daniel Brown heads into the second round with the outright lead after a methodical first round that led to a 6-under par. Follow for live updates.",
+    "news_item_url": "https://www.usatoday.com/story/sports/golf/2024/07/19/british-open-live-updates-leaderboard-second-round/74438315007/",
+    "picture_source": "Yahoo Sports",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Tucker Carlson",
+    "pubDate": "Thu, 18 Jul 2024 19:00:00 -0700",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTTBDWKWVQVLHQLEim9Dxg57vDJeG92xq85pdJ1ksIx1vzpLHKLXe2c12sgOZhLEqsrO4RWw6hh",
+    "news_item_snippet": "Throughout the week, Republican elected officials, party leaders, celebrities and voters have taken the stage to speak in support of Trump and his running&nbsp;...",
+    "news_item_url": "https://www.pbs.org/newshour/politics/watch-tucker-carlson-speaks-at-2024-republican-national-convention",
+    "picture_source": "ABC News",
     "approx_traffic": "50,000+"
   },
   {
@@ -150,43 +200,13 @@
     "approx_traffic": "50,000+"
   },
   {
-    "country": "United States",
-    "title": "Fandango",
-    "pubDate": "Thu, 18 Jul 2024 10:00:00 -0700",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQTdsFoTG9kqAzsdkluxz0ZkA4MVweuJ7y-t-GFQVNUpgDDJE4dUhU6KIPxqzECXVPz6ZzKmZ6p",
-    "news_item_snippet": "The founder of the movie ticket company Fandango died after he fell from a New York City luxury hotel in an apparent suicide Tuesday, authorities say.",
-    "news_item_url": "https://www.nbcnews.com/news/us-news/fandango-founder-j-michael-cline-dies-apparent-suicide-new-york-city-l-rcna162538",
-    "picture_source": "La Voce di New York",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
-    "title": "My Spy: The Eternal City",
-    "pubDate": "Thu, 18 Jul 2024 19:00:00 -0700",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcT2ITpdeYZov3NtDZkEE_X3AXfe2I760Ges-wzDkQtJHdzeePC1_eNyWcGbqboaKXf3YdlykAEl",
-    "news_item_snippet": "Propulsive sequel to 1990s hit features frightening storm scenes. Like 1996&#39;s \u201cTwister,\u201d this sequel is a disaster film about storm chasers.",
-    "news_item_url": "https://www.washingtonpost.com/dc-md-va/2024/07/19/common-sense-media-twisters-my-spy/",
-    "picture_source": "The Washington Post",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Donald Glover",
-    "pubDate": "Thu, 18 Jul 2024 15:00:00 -0700",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSkG1yRNssUBd3mg_3kjkAlalFFdCo12J16bWCL9Gz6txHuVSoTWERSukh1xOtXP4ZvFCElfIKa",
-    "news_item_snippet": "Donald Glover appeared on &#39;Hot Ones&#39; ahead of Childish Gambino&#39;s final album and compared the wings to doing ayahuasca.",
-    "news_item_url": "https://www.billboard.com/music/rb-hip-hop/donald-glover-childish-gambino-hot-ones-ayahuasca-1235734102/",
-    "picture_source": "Hollywood Reporter",
-    "approx_traffic": "50,000+"
-  },
-  {
     "country": "India",
     "title": "CrowdStrike",
     "pubDate": "Fri, 19 Jul 2024 12:30:00 +0530",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQPrNdx0F4qjQZQZoO4S-pUsU0Jixq39ZbW9tEHrbtW0raLW5c5CH7Cs5fdyKBwn6cxL7sk1Pyh",
-    "news_item_snippet": "Cybersecurity firm CrowdStrike said Friday that an issue that has caused major disruptions to companies worldwide is not a security incident or cyberattack.",
-    "news_item_url": "https://m.economictimes.com/tech/technology/crowdstrike-says-widespread-disruptions-were-not-the-result-of-security-incident-or-cyberattack/articleshow/111861496.cms",
-    "picture_source": "Business Today",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQa8M4ZGq5TcMfKPffKGeh658mQ0HMLU18BHTsxEq-7QEpq3zPvxsDHzhsjufQkY7qCRgPbfpW-",
+    "news_item_snippet": "Microsoft Windows users worldwide including India, Australia, Germany, the United States, the UK and more are seeing a blue screen issue on their laptops.",
+    "news_item_url": "https://www.businesstoday.in/technology/news/story/microsoft-outage-what-is-crowdstrike-the-service-causing-blue-screen-of-death-worldwide-437805-2024-07-19",
+    "picture_source": "Business Standard",
     "approx_traffic": "500,000+"
   },
   {
@@ -204,8 +224,8 @@
     "title": "South Korea",
     "pubDate": "Fri, 19 Jul 2024 08:30:00 +0530",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSbPJM6KQEtRUv8GOEv6nYEuDOnz7ByyYHh4LfagBGwzP6KH7lWOnvoYZRtQxQagE0CWb9slS0C",
-    "news_item_snippet": "South Korea: The country&#39;s highest court ruled that denying a same-sex couple dependent coverage solely based on their gender constitutes serious&nbsp;...",
-    "news_item_url": "https://www.business-standard.com/world-news/south-korean-supreme-court-grants-same-sex-couples-a-health-insurance-break-124071900514_1.html",
+    "news_item_snippet": "Through this partnership, South Korean startups can extend their reach to Thales&#39; global innovation network, including its digital acceleration programmes and&nbsp;...",
+    "news_item_url": "https://www.thalesgroup.com/en/worldwide/group/press_release/south-korea-institute-startup-entrepreneurship-development-kised-and",
     "picture_source": "The Hindu",
     "approx_traffic": "50,000+"
   },
@@ -234,10 +254,20 @@
     "title": "Infosys share price",
     "pubDate": "Thu, 18 Jul 2024 18:30:00 +0530",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRBFwHom-Tg8sX9ZQN7k3uXORc_fPvs2NTY6MvOnD4TIyqf1lpX3wX5Nl7yjHgCJ6R8A-ur5374",
-    "news_item_snippet": "Infosys share price has seen a healthy gain this year, slightly outperforming the equity benchmark Sensex. Till July 18, Infosys shares had gained about 14&nbsp;...",
-    "news_item_url": "https://www.livemint.com/market/stock-market-news/infosys-share-price-jumps-5-to-hit-a-fresh-52-week-high-on-q1-boost-should-you-buy-sell-or-hold-11721359857414.html",
+    "news_item_snippet": "Infosys ADRs ended 8.38% at $22.50 during the normal trading hours on NYSE. It gained 0.22% in the after market hours trade and closed at $22.30.",
+    "news_item_url": "https://www.livemint.com/market/stock-market-news/infosys-share-price-in-focus-as-adr-jumps-over-8-after-q1-results-beat-estimates-11721350321179.html",
     "picture_source": "Business Today",
     "approx_traffic": "100,000+"
+  },
+  {
+    "country": "India",
+    "title": "Stree 2",
+    "pubDate": "Thu, 18 Jul 2024 18:30:00 +0530",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTXhqmfWDfRuYXcAsLNj9xV_4LeWR9gEKOfFLasjBJ3sw7lT0S20lGdUYsIfv8soiLn7StycnLA",
+    "news_item_snippet": "\u0b85\u0bae\u0bb0\u0bcd \u0b95\u0bb5\u0bc1\u0bb7\u0bbf\u0b95\u0bcd \u0b87\u0baf\u0b95\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0bb0\u0bbe\u0b9c\u0bcd\u0b95\u0bc1\u0bae\u0bbe\u0bb0\u0bcd \u0bb0\u0bbe\u0bb5\u0bcd, \u0bb7\u0bcd\u0bb0\u0ba4\u0bcd\u0ba4\u0bbe \u0b95\u0baa\u0bc2\u0bb0\u0bcd, \u0baa\u0b99\u0bcd\u0b95\u0b9c\u0bcd \u0ba4\u0bbf\u0bb0\u0bbf\u0baa\u0bbe\u0ba4\u0bbf \u0ba8\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3 &#39;\u0bb8\u0bcd\u0b9f\u0bcd\u0bb0\u0bc0 2&#39; \u0baa\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0b9f\u0bcd\u0bb0\u0bc6\u0baf\u0bcd\u0bb2\u0bb0\u0bcd \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbe\u0b95\u0bbf\u0baf\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1.",
+    "news_item_url": "https://www.hindutamil.in/news/cinema/bollywood/1281842-stree-2-trailer-analysis.html",
+    "picture_source": "Hindu Tamil",
+    "approx_traffic": "50,000+"
   },
   {
     "country": "India",
@@ -247,16 +277,6 @@
     "news_item_snippet": "The death toll in the Chandigarh-Dibrugarh Express derailment in Uttar Pradesh&#39;s Gonda has risen to four, while 31 people were injured in the incident,&nbsp;...",
     "news_item_url": "https://www.business-standard.com/india-news/gonda-train-accident-death-toll-rises-to-4-number-of-injured-at-32-124071900393_1.html",
     "picture_source": "The Hindu",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "India",
-    "title": "Train accident. Today",
-    "pubDate": "Thu, 18 Jul 2024 19:30:00 +0530",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcS-AzagTCS7gLj5MuHh4du-m1LfYzaFFw2Gw3_TzpkK4U5k5pXNQJjKk-HBP-ICaUKpa7shaYMS",
-    "news_item_snippet": "The situation remains grim in UP&#39;s Gonda where Chandigarh Dibrugarh Express derailed on Thursday. The tragic incident left shockwaves among the passengers&nbsp;...",
-    "news_item_url": "https://indianexpress.com/article/india/coaches-overturn-as-train-derails-in-ups-gonda-9461179/",
-    "picture_source": "The Economic Times",
     "approx_traffic": "50,000+"
   },
   {
@@ -291,23 +311,23 @@
   },
   {
     "country": "Brazil",
-    "title": "Copa do Brasil",
-    "pubDate": "Thu, 18 Jul 2024 13:00:00 -0500",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSmMXwJYN10DNb6lZBw_xkKuJsIzDDJyB-mhIJkFOTJJAs1LItZt2JmbAWF0a3GsZYNnGkPg2Tq",
-    "news_item_snippet": "O duelo de grande destaque ficou por conta de Flamengo x Palmeiras, os dois principais times do futebol brasileiro h\u00e1 quase uma d\u00e9cada. Os jogos desta fase&nbsp;...",
-    "news_item_url": "https://oglobo.globo.com/esportes/noticia/2024/07/18/copa-do-brasil-veja-os-jogos-das-oitavas-de-final.ghtml",
-    "picture_source": "globoesporte.com",
-    "approx_traffic": "500,000+"
+    "title": "CrowdStrike",
+    "pubDate": "Fri, 19 Jul 2024 06:00:00 -0500",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTGNZe74ArqblDQsJDITmTAcXjbwQsejKysmdGz1ItYsmHxap3175icuSUfkVNJy8XuhTY0PdPf",
+    "news_item_snippet": "Pane afetou voos nos EUA, prejudicou transmiss\u00e3o de TV no Reino Unido e impactou telecomunica\u00e7\u00f5es na Austr\u00e1lia.",
+    "news_item_url": "https://oglobo.globo.com/economia/noticia/2024/07/19/crowdstrike-o-que-e-sistema-suspeito-de-gerar-apagao-global.ghtml",
+    "picture_source": "G1",
+    "approx_traffic": "50,000+"
   },
   {
     "country": "Brazil",
     "title": "Vila Nova x Santos",
-    "pubDate": "Thu, 18 Jul 2024 10:00:00 -0500",
+    "pubDate": "Thu, 18 Jul 2024 09:00:00 -0500",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTEyV0PBZtYfyD81oAkQonse9nTErnNHSWn6kViNoNnwUO9CMxFMjSnSOq660elv6l5dhW4lpfQ",
     "news_item_snippet": "Fim do Jogo, Vila Nova 1, Santos 1. 2\u00ba Tempo. 10&nbsp;...",
     "news_item_url": "https://www.terra.com.br/esportes/futebol/brasileiro-serie-b/ao-vivo/vila-nova-x-santos/84969/",
     "picture_source": "globoesporte.com",
-    "approx_traffic": "200,000+"
+    "approx_traffic": "500,000+"
   },
   {
     "country": "Brazil",
@@ -327,7 +347,7 @@
     "news_item_snippet": "Equipes duelam no Chile nesta quinta-feira (18), \u00e0s 19h, pelo jogo de ida dos playoffs da Conmebol Sul-Americana.",
     "news_item_url": "https://www.espn.com.br/futebol/sul-americana/artigo/_/id/13917449/palestino-cuiaba-onde-assistir-ao-vivo-horario-palpites-provaveis-escalacoes",
     "picture_source": "globoesporte.com",
-    "approx_traffic": "200,000+"
+    "approx_traffic": "100,000+"
   },
   {
     "country": "Brazil",
@@ -341,6 +361,16 @@
   },
   {
     "country": "Brazil",
+    "title": "Cobra Kai",
+    "pubDate": "Thu, 18 Jul 2024 02:00:00 -0500",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTLMBAB01gCyy1gKxmr4pXRkisRfnRzy6VLRaJOQryI16F5qQfKxClQG3tTLVmCRaQPznuo3o0d",
+    "news_item_snippet": "A nova temporada ir\u00e1 focar na elimina\u00e7\u00e3o do dojo Cobra Kai e as decis\u00f5es que precisaram ser tomadas pelos senseis e alunos na participa\u00e7\u00e3o do Sekai Taikai,&nbsp;...",
+    "news_item_url": "https://www.cnnbrasil.com.br/entretenimento/cobra-kai-primeiros-episodios-da-6a-temporada-chegam-a-netflix/",
+    "picture_source": "Omelete",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Brazil",
     "title": "Novorizontino",
     "pubDate": "Thu, 18 Jul 2024 12:00:00 -0500",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTNF7s9Db6nWzUjcNyewdsEFIvsfL7LmR9SUyzCZ9Vnv74L673Yh59ypAe8iZa6zDSOGi2MXVW8",
@@ -350,13 +380,13 @@
     "approx_traffic": "50,000+"
   },
   {
-    "country": "Brazil",
-    "title": "Cobra Kai",
-    "pubDate": "Thu, 18 Jul 2024 02:00:00 -0500",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTaKj110UeQpdQOPxpvg-6tHRHf765gnfVsUKxltjgcX9H6fAUNoM62gzmnOefX5-G3rsfmIOFu",
-    "news_item_snippet": "Nesta 6\u00aa temporada, ele est\u00e1 de volta como uma grande amea\u00e7a para Johnny Lawrence e Daniel LaRusso, formando uma alian\u00e7a com Kim Da-Eun para competir no Sekai&nbsp;...",
-    "news_item_url": "https://www.adorocinema.com/noticias/series/noticia-1000093035/",
-    "picture_source": "CNN Brasil",
+    "country": "Canada",
+    "title": "CrowdStrike",
+    "pubDate": "Fri, 19 Jul 2024 04:00:00 -0400",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSs4GnuqK5ByVAVOBRKkLrYU7urx_cekKEbn5cNHf1QK3Qc4FsnBFW-_vgZBHPl6JuY2e-PA0Qy",
+    "news_item_snippet": "Avions clou\u00e9s au sol, files d&#39;attente dans les a\u00e9roports, diffusion interrompue de la cha\u00eene Sky News, Bourse de Londres perturb\u00e9e : une panne informatique&nbsp;...",
+    "news_item_url": "https://www.lapresse.ca/affaires/2024-07-19/l-antivirus-crowdstrike-en-cause/une-panne-informatique-geante-paralyse-de-nombreuses-entreprises.php",
+    "picture_source": "CTV News",
     "approx_traffic": "50,000+"
   },
   {
@@ -371,6 +401,16 @@
   },
   {
     "country": "Canada",
+    "title": "The Open",
+    "pubDate": "Thu, 18 Jul 2024 06:00:00 -0400",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRfST3SB1P2RqZLmHduT0ooa1H15VDvEfHTUaY1UEgLKu6czoGjubmWqMAWVnemcUiephY7WCoQ",
+    "news_item_snippet": "Who is Daniel Brown, the eighth-year pro who leads heading into Friday at The 152nd Open Championship at Royal Troon in his first major championship start?",
+    "news_item_url": "https://www.pgatour.com/article/news/needtoknow/2024/07/18/five-things-to-know-about-the-british-open-championship-royal-troon-leader-daniel-brown",
+    "picture_source": "CBC.ca",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Canada",
     "title": "Severe thunderstorm warning",
     "pubDate": "Thu, 18 Jul 2024 11:00:00 -0400",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRpRJIajV7DkfDqjUE23-IBzAiNkZiNygmaC1riqyH3ZhPqBlkD7djO321hSolQu27vFaV5muXf",
@@ -380,22 +420,12 @@
     "approx_traffic": "50,000+"
   },
   {
-    "country": "Canada",
-    "title": "The Open",
-    "pubDate": "Thu, 18 Jul 2024 03:00:00 -0400",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRfST3SB1P2RqZLmHduT0ooa1H15VDvEfHTUaY1UEgLKu6czoGjubmWqMAWVnemcUiephY7WCoQ",
-    "news_item_snippet": "After teeing off one behind overnight leader Daniel Brown, 2019 Champion Golfer Lowry birdied the 1st, 4th and 8th on Friday - either side of a dropped shot on&nbsp;...",
-    "news_item_url": "https://www.theopen.com/latest/who-is-leading-the-open",
-    "picture_source": "CBC.ca",
-    "approx_traffic": "50,000+"
-  },
-  {
     "country": "France",
     "title": "Microsoft",
     "pubDate": "Fri, 19 Jul 2024 10:00:00 +0200",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSiG5AbsXUhASIeKcoyEpXgs4RHQ-aJswD0eRj2VI7HPe22f6m40nsvmRgDpgcFxuciDXK3abk2",
-    "news_item_snippet": "Entreprises, administrations, a\u00e9roports et h\u00f4pitaux du monde entier rencontrent depuis vendredi matin des difficult\u00e9s informatiques majeures li\u00e9es \u00e0 une&nbsp;...",
-    "news_item_url": "https://www.lefigaro.fr/secteur/high-tech/microsoft-signale-une-panne-de-service-majeure-affectant-les-utilisateurs-du-monde-entier-20240719",
+    "news_item_snippet": "Le patron de CrowdStrike annonce qu&#39;un correctif est en train d&#39;\u00eatre d\u00e9ploy\u00e9, pour r\u00e9soudre la panne qui affecte Microsoft et ses clients professionnels.",
+    "news_item_url": "https://www.lefigaro.fr/secteur/high-tech/en-direct-microsoft-panne-mondiale-20240719",
     "picture_source": "Air-Journal",
     "approx_traffic": "200,000+"
   },
@@ -413,39 +443,19 @@
     "country": "France",
     "title": "Incendie Nice",
     "pubDate": "Thu, 18 Jul 2024 09:00:00 +0200",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRvig26xOz1WnNgmlYFssrAYoDe67v6iuLN0auFvcGcxRVyWURu0-cp4o6N8z3llhwETL03fN-j",
-    "news_item_snippet": "Sept personnes sont mortes apr\u00e8s l&#39;incendie d&#39;un appartement dans la nuit de mercredi 17 \u00e0 jeudi 18 juillet \u00e0 Nice. Une personne a \u00e9t\u00e9 interpell\u00e9e.",
-    "news_item_url": "https://www.bfmtv.com/cote-d-azur/info-bfmtv-incendie-meurtrier-de-nice-une-personne-placee-en-garde-a-vue_AN-202407190314.html",
-    "picture_source": "Le Journal du dimanche",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSZr_DfROtB5tYDWFgwBjclu2wRv1bOP9pnUOC2z9yYnhLMF7BmqsgLeA9qHbMc60xG0yvoWkRr",
+    "news_item_snippet": "Un incendie vraisemblablement d&#39;origine criminelle a tu\u00e9 sept personnes, dont trois enfants, dans un immeuble d&#39;habitations du quartier des Moulins \u00e0 Nice.",
+    "news_item_url": "https://www.lejdd.fr/societe/incendie-meurtrier-nice-un-individu-interpelle-et-place-en-garde-vue-147685",
+    "picture_source": "Le Monde",
     "approx_traffic": "50,000+"
-  },
-  {
-    "country": "France",
-    "title": "Yael Braun-Pivet",
-    "pubDate": "Wed, 17 Jul 2024 19:00:00 +0200",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRrb3eVCwOSnbRqJUlnvDUFhqOkVmsyEqTTlGTmzc8nF5dOKOiG8ZFBlmIUP6NJjdxmPr0xjDOg",
-    "news_item_snippet": "La pr\u00e9sidente sortante de l&#39;Assembl\u00e9e a \u00e9t\u00e9 r\u00e9\u00e9lue au troisi\u00e8me tour avec 220 voix contre le candidat de la gauche qui a obtenu 207 voix, jeudi.",
-    "news_item_url": "https://www.francetvinfo.fr/politique/parlement-francais/assemblee-nationale/les-republicains-ont-vote-pour-yael-braun-pivet-en-echange-de-postes-de-responsabilite-accuse-andre-chassaigne_6674907.html",
-    "picture_source": "TAHITI INFOS",
-    "approx_traffic": "500,000+"
-  },
-  {
-    "country": "France",
-    "title": "L'abb\u00e9 Pierre",
-    "pubDate": "Wed, 17 Jul 2024 15:00:00 +0200",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRgQJoAFVEln-fRyO1IidIDebcIXu8m_7J-DAiTQIRxYDqlObwG4mOY3PAfpnNbpVTifnWThiIz",
-    "news_item_snippet": "ABB\u00c9 PIERRE - S\u0153ur V\u00e9ronique Margron, pr\u00e9sidente \u00e9lue de la conf\u00e9rence des religieuses et religieux en France, est l&#39;invit\u00e9e de RTL Bonsoir du 18 juillet&nbsp;...",
-    "news_item_url": "https://www.rtl.fr/actu/justice-faits-divers/invitee-rtl-l-abbe-pierre-je-ne-peux-pas-croire-qu-aucun-proche-n-ait-rien-vu-estime-une-religieuse-7900403791",
-    "picture_source": "Le Quotidien.lu",
-    "approx_traffic": "200,000+"
   },
   {
     "country": "Germany",
     "title": "Crowdstrike",
     "pubDate": "Fri, 19 Jul 2024 09:00:00 +0200",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRFrFjTlH1wAWJOMfCwU_-daE9YCx23hpwfy7ijn1thLLiUl82BqrhYfUeFmJ-wftl3h4bgQie-",
-    "news_item_snippet": "Ein fehlerhaftes Update f\u00fchrt weltweit zu massiven IT-Ausf\u00e4llen. Betroffen sind zahllose Organisationen wie Banken, Krankenh\u00e4user, Superm\u00e4rkte und&nbsp;...",
-    "news_item_url": "https://www.golem.de/news/update-panne-bei-crowdstrike-unzaehlige-windows-pcs-koennen-nicht-mehr-booten-2407-187236.html",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRRhdzr67tqfjZevFo_xPmoqKoXuiOEZy8NjeNxIZ_fIMwYlPoLMd8DbFqWILDDlqy4cplsDtKq",
+    "news_item_snippet": "Windows-PCs zahlloser Organisationen wie Banken, Krankenh\u00e4user und Fluggesellschaften k\u00f6nnen nicht mehr booten. Experten sprechen von der gr\u00f6\u00dften IT-Panne&nbsp;...",
+    "news_item_url": "https://www.golem.de/news/massive-update-panne-crowdstrike-aeussert-sich-zu-weltweiten-it-ausfaellen-2407-187246.html",
     "picture_source": "manager-magazin.de",
     "approx_traffic": "200,000+"
   },
@@ -454,8 +464,8 @@
     "title": "Von der Leyen",
     "pubDate": "Thu, 18 Jul 2024 17:00:00 +0200",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTYPOhjMlq-uHuITu-2bGkmt6b2NiPs9MsVBUw_5DjHdu0Ng_oXDK8W37DCdVfujQM8Inakxr2w",
-    "news_item_snippet": "Ursula von der Leyen k\u00e4mpft um eine zweite Amtszeit als EU-Kommissionspr\u00e4sidentin \u2013 und macht vor der Wahl im EU-Parlament ein Versprechen: Ausnahmen f\u00fcr&nbsp;...",
-    "news_item_url": "https://www.manager-magazin.de/politik/europa/von-der-leyen-verspricht-e-fuel-ausnahmen-a-e590c5be-0713-439f-90bb-89656633a152",
+    "news_item_snippet": "Zwei tschechische Abgeordnete der rechtskonservativen EKR-Fraktion best\u00e4tigten Euractiv Czechia, dass sie im EU-Parlament f\u00fcr Ursula von der Leyen gestimmt&nbsp;...",
+    "news_item_url": "https://www.euractiv.de/section/europa-kompakt/news/tschechische-ekr-europaabgeordnete-unterstuetzen-von-der-leyen-schweren-herzens/",
     "picture_source": "Bundeskanzleramt",
     "approx_traffic": "50,000+"
   },
@@ -504,8 +514,8 @@
     "title": "CrowdStrike",
     "pubDate": "Fri, 19 Jul 2024 10:00:00 +0200",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSp9zU1nJKwIMitZvIZy5jyTVcSgDmBwp_HuHr6GlOzovBCRUTPYcsd050i9k6JHbJBe3xx6Pmc",
-    "news_item_snippet": "Tantissimi utenti in tutto il mondo hanno avuto problemi ad utilizzare il proprio pc Windows: le macchine all&#39;accensione segnalano il problema &quot;Blue Screen&nbsp;...",
-    "news_item_url": "https://tg24.sky.it/tecnologia/2024/07/19/crowdstrike-microsoft-azure-cosa-e",
+    "news_item_snippet": "[Articolo in aggiornamento]. In questo momento un guasto del sistema di Microsoft starebbe causando numerosi problemi a varie aziende a livello globale.",
+    "news_item_url": "https://www.wired.it/article/crowdstrike-bug-pc-windows-bloccati/",
     "picture_source": "Startmag Web magazine",
     "approx_traffic": "100,000+"
   },
@@ -524,8 +534,8 @@
     "title": "Von der Leyen",
     "pubDate": "Thu, 18 Jul 2024 16:00:00 +0200",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTYy-vbI9W4gnkpvTCyv_69kiKzH976SjXJcqZ2xOvCr0apGjb8ouqGZW0IiMu-HVjba6QkqT3Y",
-    "news_item_snippet": "La segretaria Schlein in piazza a Genova con le altre opposizioni: &quot;Cosa aspetta Meloni a chiedere le dimissioni di Toti?&quot;",
-    "news_item_url": "https://partitodemocratico.it/la-divisione-del-governo-italiano-su-von-der-leyen-mostra-la-sua-totale-irrilevanza/",
+    "news_item_snippet": "Dopo mesi di corteggiamento reciproco, Giorgia Meloni ha votato contro la rielezione di Ursula von der Leyen a presidente della Commissione europea,&nbsp;...",
+    "news_item_url": "https://euractiv.it/section/capitali/news/il-voto-della-meloni-contro-von-der-leyen-rischia-di-ritorcersi-contro-di-lei/",
     "picture_source": "Tempi.it",
     "approx_traffic": "50,000+"
   },
@@ -537,6 +547,16 @@
     "news_item_snippet": "Nelle ultime 24 ore sono circolate voci secondo cui l&#39;ex Speaker della Camera abbia un ruolo chiave nella campagna di pressione per convincere il Presidente&nbsp;...",
     "news_item_url": "https://www.rainews.it/articoli/2024/07/pelosi-biden-potrebbe-essere-presto-convinto-a-lasciare-sondaggio-cbs-trump-allunga-su-biden-3e87ca08-c21f-4e87-9ad1-4fc262d06987.html",
     "picture_source": "La Voce di New York",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Italy",
+    "title": "Paolo Borsellino",
+    "pubDate": "Thu, 18 Jul 2024 22:00:00 +0200",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQ-Wm3Hj6-cioePPJK3k4qIFZ9xY26dDm8ZM3MlSc9trkYRL42zeaJ_xrmaxcrrU0Jii0U4dJPT",
+    "news_item_snippet": "Il 19 luglio 1992 moriva Paolo Borsellino, un grande uomo e un immenso magistrato italiano che si \u00e8 battuto con coraggio nella lotta contro la mafia.",
+    "news_item_url": "https://www.comune.desio.mb.it/it/news/19-luglio-anche-desio-ricorda-paolo-borsellino",
+    "picture_source": "Orizzonte Scuola",
     "approx_traffic": "50,000+"
   },
   {
@@ -553,10 +573,10 @@
     "country": "Spain",
     "title": "Microsoft",
     "pubDate": "Fri, 19 Jul 2024 09:00:00 +0200",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTDyeeFZHw2UNR9yOGLWyCrtp9_wT2drBUdKHw3QXvbWBuAWfYi4p8ayrUshNwddODvpf1jvo3m",
-    "news_item_snippet": "Desde Microsoft Azure, la plataforma de computaci\u00f3n en la nube, han confirmado que estaban investigando y trabajando en su resoluci\u00f3n.",
-    "news_item_url": "https://www.lasexta.com/noticias/economia/fallo-microsoft-provoca-incidencias-nivel-global-aerolineas-bancos-medios_20240719669a16a7a54861000157a461.html",
-    "picture_source": "IT User",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTujX4ArElSNK7cQPCruC0tTQobN6bdgOXhXHrP4S8vKDOeweZtjwb_vNFj81UAxWwMhWIXg0gF",
+    "news_item_snippet": "ACTUALIZACI\u00d3N. INCIBE ha implementado un protocolo de atenci\u00f3n especial con la informaci\u00f3n correspondiente a ciudadanos y empresas a trav\u00e9s de su serv...",
+    "news_item_url": "https://www.ituser.es/actualidad/2024/07/la-caida-a-nivel-mundial-de-un-sistema-de-microsoft-afecta-a-miles-de-empresas-en-espana",
+    "picture_source": "mallorcadiario.com",
     "approx_traffic": "100,000+"
   },
   {
@@ -571,11 +591,11 @@
   },
   {
     "country": "United Kingdom",
-    "title": "CrowdStrike",
+    "title": "Crowdstrike",
     "pubDate": "Fri, 19 Jul 2024 09:00:00 +0100",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQihS7sAbKm4Iu5EYAoZtWiUM6mT1lXbCnFE9xwJWnqmcEMs_5H15QiIHmjSpcOUqaNsZHkQvej",
-    "news_item_snippet": "CrowdStrike CEO George Kurtz said the issue is &quot;not a security incident or cyberattack&quot; but is a &quot;defect&quot; in a &quot;single content update for Windows hosts&quot;.",
-    "news_item_url": "https://news.sky.com/story/crowdstrike-says-source-of-it-outage-identified-and-fix-deployed-13180897",
+    "news_item_snippet": "A CrowdStrike update is breaking computers running Windows, causing them to crash and display the Blue Screen of Death. Companies around the world have been&nbsp;...",
+    "news_item_url": "https://www.forbes.com/sites/kateoflahertyuk/2024/07/19/crowdstrike-windows-outage-what-happened-and-what-to-do-next/",
     "picture_source": "BBC News",
     "approx_traffic": "500,000+"
   },
@@ -591,6 +611,16 @@
   },
   {
     "country": "United Kingdom",
+    "title": "The Open",
+    "pubDate": "Thu, 18 Jul 2024 09:00:00 +0100",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRydholxZs_UHOQLiugzC-pUTvlAnQnZLzJ6VH4tPE_HXKRcvL1Jz6qoiZSIktanTPTCRSMQ42v",
+    "news_item_snippet": "The 152nd Open Championship continues at Royal Troon in Ayrshire.",
+    "news_item_url": "https://www.independent.co.uk/sport/golf/the-open-live-2024-leaderboard-scores-lowry-mcilroy-b2582147.html",
+    "picture_source": "The Open",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "United Kingdom",
     "title": "Bob Newhart",
     "pubDate": "Thu, 18 Jul 2024 22:00:00 +0100",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQQqIzkzEK2rjuo7YamBWs29a6y01AJ3VptjnDU5gdLVa4CZc6ZMPvUKu2gxRRjy_DqMyLxtro5",
@@ -601,18 +631,18 @@
   },
   {
     "country": "United Kingdom",
-    "title": "The Open",
-    "pubDate": "Thu, 18 Jul 2024 09:00:00 +0100",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSWV2rd5ZkR__kCIq54G_2RNWcMEneX8szwHOA9_D4X8n50mRoofLz9o_HAJotKBB2pJgHaT1QF",
-    "news_item_snippet": "The 152nd Open Championship continues at Royal Troon in Ayrshire.",
-    "news_item_url": "https://www.independent.co.uk/sport/golf/the-open-live-2024-leaderboard-scores-lowry-mcilroy-b2582147.html",
-    "picture_source": "The Open",
-    "approx_traffic": "100,000+"
+    "title": "England vs West Indies",
+    "pubDate": "Thu, 18 Jul 2024 12:00:00 +0100",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcS7_C7eh2HTNuTxucEZlYx1xli52g1IxSiXzBmpnPFeR2QLAs-4i4AIdGcpf1lmWU0QvFtTmN14",
+    "news_item_snippet": "ENG v WI 2024, England vs West Indies Match Report: Ben Duckett had set things off with a 59-ball 71 as West Indies rue missed chances.",
+    "news_item_url": "https://www.espncricinfo.com/series/west-indies-in-england-2024-1385669/england-vs-west-indies-2nd-test-1385692/match-report",
+    "picture_source": "Telegraph.co.uk",
+    "approx_traffic": "50,000+"
   },
   {
     "country": "United Kingdom",
     "title": "Biden",
-    "pubDate": "Thu, 18 Jul 2024 15:00:00 +0100",
+    "pubDate": "Thu, 18 Jul 2024 17:00:00 +0100",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRQrmJifKrwxt7FKuQz0-s5uqrWsqRJ978mubuGnZUlvyYvUX6QTrho8sB1DJeaFs0XJK_hld_d",
     "news_item_snippet": "Party insiders say pressure for president to quit the 2024 presidential race is now &#39;insurmountable&#39;",
     "news_item_url": "https://www.ft.com/content/674a8d02-00d0-43a1-9c67-9f14aab3b850",
@@ -621,12 +651,12 @@
   },
   {
     "country": "United Kingdom",
-    "title": "England vs West Indies",
-    "pubDate": "Thu, 18 Jul 2024 12:00:00 +0100",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQL19wvDgdokRdrKLVoVktLJP1HkoBK80LwtxOYkO2HDkLf5wNa9YLGEbYI3BaRIUcCptiQKp7P",
-    "news_item_snippet": "ENG v WI 2024, England vs West Indies Match Report: Ben Duckett had set things off with a 59-ball 71 as West Indies rue missed chances.",
-    "news_item_url": "https://www.espncricinfo.com/series/west-indies-in-england-2024-1385669/england-vs-west-indies-2nd-test-1385692/match-report",
-    "picture_source": "Telegraph.co.uk",
+    "title": "Ugarte",
+    "pubDate": "Thu, 18 Jul 2024 23:00:00 +0100",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTArBXRzWujRK1fcdq_Rx_IxRoz4Xzz8ZmwPrUK43PWVZqeaVEQDRIXi3_ncjNn6UylHXd0Gj-w",
+    "news_item_snippet": "Man United &#39;agree personal terms with Manuel Ugarte&#39; - and Uruguayan shares agent with \u00a352m signing Leny Yoro - but PSG are holding out for \u00a359m amid interest&nbsp;...",
+    "news_item_url": "https://www.dailymail.co.uk/sport/football/article-13649499/Man-United-agree-personal-terms-Manuel-Ugarte-Uruguayan-midfielder-sharing-agent-52m-signing-Leny-Yoro-PSG-holding-59m.html",
+    "picture_source": "Metro",
     "approx_traffic": "50,000+"
   }
 ]
