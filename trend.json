@@ -3,10 +3,10 @@
     "country": "United States",
     "title": "Tesla stock",
     "pubDate": "Wed, 24 Jul 2024 06:00:00 -0700",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSt6QKoO9Dp21KeXJTCsNVhwAX-QnXlEYf62F1VjClUTZv1G2O4wUjcnCoa0J90Lk79rxwVkqcj",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcR9lNjyvEXC-Yq-unrU3njXLmRQ9NjDymOWv0A9TXvW39QaUgdo5IKF2nRBMr78Z3ieJFtcqbqY",
     "news_item_snippet": "Tesla stock got several price target cuts and a downgrade after the EV giant&#39;s earnings miss. Tesla is not a &quot;Trump trade,&quot; an analyst noted.",
     "news_item_url": "https://www.investors.com/news/tesla-stock-dives-analysts-trump-trade/",
-    "picture_source": "CNNMoney",
+    "picture_source": "ABC News",
     "approx_traffic": "100,000+"
   },
   {
@@ -14,8 +14,8 @@
     "title": "Yellowstone",
     "pubDate": "Tue, 23 Jul 2024 14:00:00 -0700",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSPmadKKj4Q4yVstcm7KXnnD3d1fdmxFUCuce4nI1sEQBbglgfsi_tqYNbK-Sm1nhsDcdYhYi3j",
-    "news_item_snippet": "A hydrothermal explosion of rock and debris erupted near Old Faithful at Yellowstone National Park.",
-    "news_item_url": "https://www.bbc.com/news/articles/cz9x25gl4pno",
+    "news_item_snippet": "Yellowstone National Park visitors were sent running and screaming Tuesday when a hydrothermal explosion spewed boiling hot water and rocks into the air.",
+    "news_item_url": "https://www.cbsnews.com/news/yellowstone-hydrothermal-explosion-national-park-what-caused-meteorologist-explains/",
     "picture_source": "Washington State Standard",
     "approx_traffic": "500,000+"
   },
@@ -23,10 +23,20 @@
     "country": "United States",
     "title": "Jimmy Carter",
     "pubDate": "Tue, 23 Jul 2024 22:00:00 -0700",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQ4d8XCh2ZBvI2yJBn9gPPF3kYsbJ6h_qHyE9xWIKu-YBmcgXl2SLmOOJ3TNLi6rltoevftHFfw",
-    "news_item_snippet": "U.S. Sen. Mike Lee fell for an online hoax on Tuesday, extending his &quot;thoughts and prayers&quot; to Jimmy Carter&#39;s family on his passing.",
-    "news_item_url": "https://www.sltrib.com/news/politics/2024/07/23/jimmy-carter-mike-lee-falls-fake/",
-    "picture_source": "Reuters",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcT2KjV8xVrRF1nv0ERqbWEc6GTL2ClNub2AAL8h6qy0g7hm0vGvp3HqddeMfhP6qLzxt1kcfyVk",
+    "news_item_snippet": "A letter claiming President Jimmy Carter died is a hoax. It began spreading on social media on Tuesday.",
+    "news_item_url": "https://www.news5cleveland.com/us-news/carter-center-says-reports-of-jimmy-carters-death-are-untrue",
+    "picture_source": "Salt Lake Tribune",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "United States",
+    "title": "DEI",
+    "pubDate": "Tue, 23 Jul 2024 06:00:00 -0700",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTSuB_tphouiH8eHWQjiRaKiU4vE_HGn6TAfUYMRlR2Mk92NrN7tVSuzYHi_Gos4Of_LT3cuYsG",
+    "news_item_snippet": "Three of the biggest universities in Alabama will be closing their offices dedicated to diversity, equity and inclusion, more popularly known as DEI,&nbsp;...",
+    "news_item_url": "https://www.cbs42.com/news/local/dei-offices-closed-at-university-of-alabama-uab-uah-following-passage-of-law/",
+    "picture_source": "ABC News",
     "approx_traffic": "200,000+"
   },
   {
@@ -47,16 +57,6 @@
     "news_item_snippet": "Logically, Dylan Travis should not be sporting Team USA across his basketball jersey this summer in Paris. Then again, this 31-year-old special education&nbsp;...",
     "news_item_url": "https://www.ncaa.org/news/2024/7/23/olympics-usa-3x3-basketballs-dylan-travis-the-no-name-that-made-it.aspx",
     "picture_source": "NCAA.org",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "United States",
-    "title": "DEI",
-    "pubDate": "Tue, 23 Jul 2024 08:00:00 -0700",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTSuB_tphouiH8eHWQjiRaKiU4vE_HGn6TAfUYMRlR2Mk92NrN7tVSuzYHi_Gos4Of_LT3cuYsG",
-    "news_item_snippet": "Three of the biggest universities in Alabama will be closing their offices dedicated to diversity, equity and inclusion, more popularly known as DEI,&nbsp;...",
-    "news_item_url": "https://www.cbs42.com/news/local/dei-offices-closed-at-university-of-alabama-uab-uah-following-passage-of-law/",
-    "picture_source": "ABC News",
     "approx_traffic": "100,000+"
   },
   {
@@ -101,42 +101,32 @@
   },
   {
     "country": "United States",
-    "title": "Deep ocean dark oxygen",
-    "pubDate": "Tue, 23 Jul 2024 05:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRE5pGZSF-E6MD0Vw3dZ_wFUnCIL-OU4rW0Vx2JF8dIxwS_34EamYjvu0yUM_hzMp8UYu-SD5D-",
-    "news_item_snippet": "It has long been understood that photosynthesis creates oxygen, but researchers believe they&#39;ve found oxygen being created in parts of the ocean with no&nbsp;...",
-    "news_item_url": "https://www.npr.org/2024/07/24/nx-s1-5049587/scientists-dark-oxygen-without-photosynthesis",
-    "picture_source": "Aljazeera.com",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Tim Walz",
-    "pubDate": "Tue, 23 Jul 2024 13:00:00 -0700",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcT40CPCCH7nUsIb0A7GB04gADO_uetCoXaDKhyPJewYYQubrK1nYj1siU9Oz4tIPQ5o-VKM8Txb",
-    "news_item_snippet": "Minnesota Gov. Tim Walz is among those being vetted as a possible running mate for the Democratic ticket. Walz joined Amna Nawaz to discuss his support for&nbsp;...",
-    "news_item_url": "https://www.pbs.org/newshour/show/minnesota-gov-walz-says-gop-playing-with-fire-by-demonizing-harris",
-    "picture_source": "Axios",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
     "title": "Michael Gallup",
     "pubDate": "Tue, 23 Jul 2024 20:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTsHT6xyjARh1sP3gQUs7ETuY4Y5phCZzSmwd_vtnJ8QodIjpdH-MTkFo6xspBWv0Z3U_RyYUCr",
-    "news_item_snippet": "The Las Vegas Raiders announced Tuesday night they had placed wide receiver Michael Gallup on the reserve/retired list.",
-    "news_item_url": "https://www.nfl.com/news/raiders-place-wr-michael-gallup-on-reserve-retired-list",
-    "picture_source": "Raiders.com",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTSOHRBMsrwznsOi0eEO02PhOn8wWQG0MYaBOn-u-rp8ZILp5DB_qxkj0l8OCSIGJbtUII4ldDGMA",
+    "news_item_snippet": "Download our official Raiders + Allegiant Stadium app for team &amp; stadium modes, content, alerts and manage your tickets.",
+    "news_item_url": "https://www.raiders.com/news/raiders-place-5-players-on-pup-list-michael-gallup-on-reserve-retired-list",
+    "picture_source": "ESPN",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Netanyahu",
+    "pubDate": "Tue, 23 Jul 2024 00:00:00 -0700",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQM0Vbt9tUjCnC2yk2NfIG8cCsIkYSZNdLCQMf8SOfJwPSTEeX5YHE49jkz-dB-u_UGe5pQVqH8",
+    "news_item_snippet": "The trip is the first time Israeli Prime Minister Benjamin Netanyahu has traveled abroad since the war broke out on Oct. 7.",
+    "news_item_url": "https://apnews.com/article/netanyahu-congress-biden-israel-hamas-gaza-6d8deabff2701273ea77bf634ba1949b",
+    "picture_source": "The Associated Press",
     "approx_traffic": "50,000+"
   },
   {
     "country": "United States",
     "title": "Red Lobster new owner",
     "pubDate": "Tue, 23 Jul 2024 11:00:00 -0700",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSrvbwZWO76fU3HikfJLw3M8lffx2Zk80Fp27rQpEmYSpXbIfA4gftNKVFO8tHMLmwu0gae-7r4",
-    "news_item_snippet": "(WJET/WFXP) \u2014 Two months after Red Lobster had filed for Chapter 11 bankruptcy, they now have a new owner. Contrary to the largely spread idea that the&nbsp;...",
-    "news_item_url": "https://www.yourerie.com/news/national-news/meet-red-lobsters-new-owner/",
-    "picture_source": "USA TODAY",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQw0Lh-cv_5wTLUivDsX4JA2ma1qUP-x3SK_xAi7ARcgzRXCZPPuO-G8oBTFmO6NZQXGMA1wi08",
+    "news_item_snippet": "Red Lobster has filed paperwork in a Florida federal court revealing that restaurant chain&#39;s new owner is RL Purchaser LLC, a stalking horse bidder consisting&nbsp;...",
+    "news_item_url": "https://www.usatoday.com/story/money/restaurants/2024/07/23/red-lobster-new-buyer/74512688007/",
+    "picture_source": "YourErie",
     "approx_traffic": "50,000+"
   },
   {
@@ -151,12 +141,42 @@
   },
   {
     "country": "India",
+    "title": "Nepal plane crash",
+    "pubDate": "Wed, 24 Jul 2024 14:30:00 +0530",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRQm4lg01fEAL15YDftvV72e4R-3vU6N3w44Vx8v47AYrhsCZBstMSFEkmecAU2nk_de-2RQ4QN",
+    "news_item_snippet": "One pilot survives crash of domestic plane just after takeoff. Plane crash at Nepal&#39;s Kathmandu airport kills 18 people. This Saurya Airlines plane crashed and&nbsp;...",
+    "news_item_url": "https://www.aljazeera.com/gallery/2024/7/24/photos-18-people-killed-in-a-plane-crash-at-nepals-kathmandu-airport",
+    "picture_source": "BBC News",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "India",
     "title": "Dhruv Rathee",
     "pubDate": "Wed, 24 Jul 2024 18:30:00 +0530",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTGiV-Z7V7OeZ-_pwwtFHFPOgLxN8HEwS88AKf0fCawgDsekjgCSVtpjd5RQ9wfvkDHy3vFN0xf",
     "news_item_snippet": "Plaintiff Suresh Karamshi Nakhua stated that Dhruv Rathee claimed that Prime Minister Modi had hosted violent and abusive trolls like Ankit Jain,&nbsp;...",
     "news_item_url": "https://m.economictimes.com/news/india/delhi-court-issues-summon-to-youtuber-dhruv-rathee-others-on-mumbai-bjp-leaders-defamation-suit/articleshow/111983253.cms",
     "picture_source": "The Hindu",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "India",
+    "title": "Olympics 2024",
+    "pubDate": "Wed, 24 Jul 2024 21:30:00 +0530",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTCr3V2h2emso8rf-j1QcovvM88XjJc1vxTfJy_pY1D6EwyKTTTewnCVcCaYPglGnsKhkSft7tN",
+    "news_item_snippet": "Get ready for the Paris 2024 Olympics with India&#39;s schedule, athletes, and key events in this comprehensive guide.",
+    "news_item_url": "https://sportstar.thehindu.com/olympics/paris-2024/news/paris-2024-olympics-indians-in-action-today-july-25-thursday-ist-time-fixtures-venues-timings-archery/article68441476.ece",
+    "picture_source": "NDTVSports.com",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "India",
+    "title": "Argentina vs Morocco",
+    "pubDate": "Wed, 24 Jul 2024 20:30:00 +0530",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTnjodQLLZfmriE6rDXdfiQC_2mv9r6KICXULkuq5afYmiGQA4JLoJdx8Qd-aga0fAASYs_jZVP",
+    "news_item_snippet": "Olympics 2024: The game proved to be an exciting encounter between two teams that have been producing some decent results for themselves in recent times.",
+    "news_item_url": "https://www.business-standard.com/sports/olympics/olympics-2024-argentina-rescue-2-2-draw-vs-morocco-to-keep-qf-hopes-alive-124072401334_1.html",
+    "picture_source": "Aljazeera.com",
     "approx_traffic": "50,000+"
   },
   {
@@ -172,7 +192,7 @@
   {
     "country": "India",
     "title": "Budget 2024",
-    "pubDate": "Tue, 23 Jul 2024 07:30:00 +0530",
+    "pubDate": "Tue, 23 Jul 2024 14:30:00 +0530",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQBHibAOSh5FARoHuLRWE_OyC8dpZOWWf55wFbUY6PSUF5Gty9ofBbZcO7WB4UraC7nQucFqjp6",
     "news_item_snippet": "Budget 2024025 is a distinct attempt to tell India&#39;s voters that it has heard the angst-ridden message from the country&#39;s unemployed youth loud and clear.",
     "news_item_url": "https://www.thehindu.com/opinion/editorial/shuffling-the-deck-on-the-union-budget-2024-25/article68438556.ece",
@@ -181,13 +201,13 @@
   },
   {
     "country": "India",
-    "title": "Budget 2024 Highlights",
+    "title": "Budget highlights",
     "pubDate": "Tue, 23 Jul 2024 11:30:00 +0530",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSHpQvo7Ol4tibVxuddVWO3G5dtTM8bsH-csBM9bHf6y4Qr0mvxH5jPpAC-PmDNIW7luG185bDQ",
     "news_item_snippet": "Budget 2024 Highlights: Finance Minister Nirmala Sitharaman presented the Union Budget 2024 in Parliament, highlighting support for the underprivileged,&nbsp;...",
     "news_item_url": "https://m.economictimes.com/news/economy/policy/budget-2024-highlights-india-nirmala-sitharaman-capex-fiscal-deficit-tax-slab-key-announcement-in-union-budget-2024-25/articleshow/111942707.cms",
     "picture_source": "Livemint",
-    "approx_traffic": "500,000+"
+    "approx_traffic": "1,000,000+"
   },
   {
     "country": "India",
@@ -196,6 +216,16 @@
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSCWtjONVhKoLQ7Qx3IeeYgOui9bvL4zSLKo0_RvaUg92ur8fwVWq4ttHnWRCDfLsjP92CylEOL",
     "news_item_snippet": "All you need to know before the market opens today: Q1 results, post Budget reactions to guide trading sentiment for the Sensex and Nifty as global markets&nbsp;...",
     "news_item_url": "https://www.business-standard.com/markets/news/market-outlook-july-24-gift-nifty-hints-tepid-start-post-budget-volatility-124072400084_1.html",
+    "picture_source": "Livemint",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "India",
+    "title": "Gold Price Today",
+    "pubDate": "Tue, 23 Jul 2024 15:30:00 +0530",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQraHaGRbznnZOGPaBM6zOoF5D83Vc7Kroxn5OpBOO0qUfWpSSwJWRMwcXMErkTHAPlT6yUJRHZ",
+    "news_item_snippet": "Sona-Chandi ka Rate, ibjarates.com: \u0907\u0902\u0921\u093f\u092f\u093e \u092c\u0941\u0932\u093f\u092f\u0928 \u090f\u0902\u0921 \u091c\u094d\u0935\u0948\u0932\u0930\u094d\u0938 \u090f\u0938\u094b\u0938\u093f\u090f\u0936\u0928 (India Bullion And Jewellers Association) \u0915\u0947 \u092e\u0941\u0924\u093e\u092c\u093f\u0915, \u092e\u0902\u0917\u0932\u0935\u093e\u0930 (23&nbsp;...",
+    "news_item_url": "https://www.aajtak.in/business/news/story/gold-silver-price-down-today-24-july-2024-after-custom-duty-cut-in-budget-sona-chandi-sasta-ibjarates-gold-purity-rate-all-cities-10-gm-22-carat-gold-in-hindi-ahlbsb-1991312-2024-07-24",
     "picture_source": "Livemint",
     "approx_traffic": "200,000+"
   },
@@ -214,8 +244,8 @@
     "title": "Gold Price",
     "pubDate": "Tue, 23 Jul 2024 14:30:00 +0530",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcS1DU7XBXZdrcv8L7H7NdsVPlWXSstBpotSFOwZVFQvFg5uPWSoJiTf264byd3lkW5IhxhOTf3o",
-    "news_item_snippet": "Gold rate today is in $2400 to $2450 per ounce range. Bullish or bearish trend can be assumed on the breakage of either side of this range, say experts.",
-    "news_item_url": "https://www.livemint.com/market/commodities/gold-rate-today-tanks-rs-4-000-per-10-gm-after-budget-2024-opportunity-to-buy-11721728887108.html",
+    "news_item_snippet": "In the budget on Tuesday, customs duty on gold has been reduced, bringing the total duty from 15% to 6%. Previously, gold and silver carried a 15% duty,&nbsp;...",
+    "news_item_url": "https://www.businesstoday.in/union-budget/story/budget-2024-sharp-dip-in-gold-prices-leaves-sovereign-gold-bond-investors-high-and-dry-438543-2024-07-24",
     "picture_source": "\u0906\u091c \u0924\u0915",
     "approx_traffic": "100,000+"
   },
@@ -227,7 +257,7 @@
     "news_item_snippet": "Angel tax (income tax at the rate of over 30 per cent) refers to the income tax that the government imposes on funding raised by unlisted companies, or startups&nbsp;...",
     "news_item_url": "https://www.business-standard.com/budget/news/angel-tax-was-on-investments-such-inflows-should-not-be-taxed-dpiit-secy-124072400393_1.html",
     "picture_source": "Livemint",
-    "approx_traffic": "50,000+"
+    "approx_traffic": "100,000+"
   },
   {
     "country": "India",
@@ -250,14 +280,34 @@
     "approx_traffic": "50,000+"
   },
   {
-    "country": "Brazil",
-    "title": "Argentina",
-    "pubDate": "Wed, 24 Jul 2024 10:00:00 -0500",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRMnDXyKf1dn2c6J9-lxDv9hh6e233bEboTMGPxOOCaTv6w3jLfswSP1Faf5mrFQr-DvTpm09sa",
-    "news_item_snippet": "Jogadores da sele\u00e7\u00e3o principal do pa\u00eds haviam cantado m\u00fasica racista contra franceses depois do t\u00edtulo da Copa Am\u00e9rica.",
-    "news_item_url": "https://www.brasildefato.com.br/2024/07/24/apos-caso-de-racismo-hino-da-argentina-e-vaiado-na-franca-em-jogo-que-termina-em-confusao",
-    "picture_source": "CNN Brasil",
+    "country": "Argentina",
+    "title": "Ole",
+    "pubDate": "Wed, 24 Jul 2024 15:00:00 -0300",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSUxPZRGuZOJS1ZJM5iRA0tocpR6LCqbK6hxjBZfRODchSoLWjkXc3DQsbSVqxpHdDUmzCx7Vwu",
+    "news_item_snippet": "Edison Carcel\u00e9n fue operado del peron\u00e9 y deber\u00e1 estar inmovilizado de seis a ocho semanas.",
+    "news_item_url": "https://www.ole.com.ar/ecuador/liga-pro/tecnico-universitario-dura-fractura-perone-edison-carcelen-operado-exito_0_GaQHc3Oiok.html",
+    "picture_source": "Ol\u00e9",
     "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Brazil",
+    "title": "Argentina x Marrocos",
+    "pubDate": "Wed, 24 Jul 2024 08:00:00 -0500",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRuaG7JvOsFlsS1weqAWz3gCeczg6bGLDWSorVSPFZ6lDpY4hNjRelRAWharRQ5cukZstilvrBF",
+    "news_item_snippet": "Principal astro da Sele\u00e7\u00e3o Argentina principal, Lionel Messi foi \u00e0s redes sociais se expressar sobre a confus\u00e3o no duelo dos argentinos com o Marrocos,&nbsp;...",
+    "news_item_url": "https://www.cnnbrasil.com.br/esportes/olimpiadas/messi-reage-a-confusao-em-argentina-x-marrocos-na-olimpiada-veja/",
+    "picture_source": "globoesporte.com",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "Brazil",
+    "title": "Olimpiadas 2024",
+    "pubDate": "Wed, 24 Jul 2024 10:00:00 -0500",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcToukn68gFvOMQ7Yd-1NRdrZb1jb7AZ5_UVCSSDFJTQ5P6r3K6yIHL7zLYaES66TE7N6Dm9aQEg",
+    "news_item_snippet": "TV Globo ser\u00e1 a principal emissora da televis\u00e3o aberta a transmitir os Jogos Ol\u00edmpicos.",
+    "news_item_url": "https://valor.globo.com/olimpiada-2024/noticia/2024/07/24/onde-assistir-as-olimpiadas-2024.ghtml",
+    "picture_source": "globoesporte.com",
+    "approx_traffic": "100,000+"
   },
   {
     "country": "Brazil",
@@ -268,6 +318,16 @@
     "news_item_url": "https://oglobo.globo.com/economia/imposto-de-renda/noticia/2024/07/24/que-horas-abre-a-consulta-ao-3o-lote-da-restituicao-do-imposto-de-renda-2024-veja-horario.ghtml",
     "picture_source": "Ag\u00eancia Brasil",
     "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Canada",
+    "title": "Severe thunderstorm watch",
+    "pubDate": "Wed, 24 Jul 2024 13:00:00 -0400",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRBGc0mSaLMMG-8BzLby48Cmg7aCUKWsEiYfugy3YdE0mfuSM-C76HBhkDOGuO00T8KE0ctUi0k",
+    "news_item_snippet": "Environment and Climate Change Canada (ECCC) has issued a severe thunderstorm watch for much of southwestern Quebec.",
+    "news_item_url": "https://montreal.ctvnews.ca/severe-thunderstorm-watch-in-effect-for-greater-montreal-risk-of-tornado-1.6975649",
+    "picture_source": "Globalnews.ca",
+    "approx_traffic": "100,000+"
   },
   {
     "country": "Canada",
@@ -284,8 +344,8 @@
     "title": "\uc704\uba54\ud504",
     "pubDate": "Tue, 23 Jul 2024 18:00:00 +0900",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRfQFONK8ZKpt4nQbCdmutwy4V4gFDqmY1nWzOx5OkqofrZXhmzVSIMcvX7jDbNyWO-FUOhDo5g",
-    "news_item_snippet": "\uae00\ub85c\ubc8c \uc804\uc790\uc0c1\uac70\ub798(\uc774\ucee4\uba38\uc2a4) \uae30\uc5c5 \ud050\ud150\uc774 \uc6b4\uc601\ud558\ub294 \ud50c\ub7ab\ud3fc \ud2f0\ubaac\uacfc \uc704\uba54\ud504\uc758 \ud310\ub9e4\ub300\uae08 \uc815\uc0b0 \uc9c0\uc5f0 \uc0ac\ud0dc\uac00 \uc774\uc5b4\uc9c0\ub294 \uac00\uc6b4\ub370, \uacb0\uc81c\u00b7\ucde8\uc18c \ub4f1 \uc2e0\uc6a9\uce74\ub4dc \uac70\ub798\uac00 \ub9c9\ud788\uace0,&nbsp;...",
-    "news_item_url": "https://www.hani.co.kr/arti/economy/consumer/1150504.html",
+    "news_item_snippet": "\uc18c\ube44\uc790\ub4e4\uc740 \ud658\ubd88\ub3c4 \ubc1b\uc9c0 \ubabb\ud558\ub294 \ub9c9\ub9c9\ud55c \uc0c1\ud669\uc774\uace0, \ud310\ub9e4\uc790\ub4e4\uc740 \uae30\uc57d \uc5c6\uc774 \uc815\uc0b0\uae08 \uc9c0\uae09\ub9cc \uae30\ub2e4\ub9b4 \uc218\ubc16\uc5d0 \uc5c6\ub294 \uc0c1\ud669\uc785\ub2c8\ub2e4. \uad00\ub828 \ub0b4\uc6a9 \uad8c\ud601\uc911 \uacbd\uc81c\ud3c9\ub860\uac00\uc640 \uc9da\uc5b4\ubcf4\uaca0\uc2b5\ub2c8\ub2e4.",
+    "news_item_url": "https://www.yonhapnewstv.co.kr/news/MYH20240724021700641",
     "picture_source": "MBC\ub274\uc2a4",
     "approx_traffic": "50,000+"
   },
@@ -294,68 +354,68 @@
     "title": "C8",
     "pubDate": "Wed, 24 Jul 2024 12:00:00 +0200",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSnjOpqyg9Ba_npfkwiNtjoxcBRMvE85rV5hibcMhlBrALAxv-oiiOVDKPdKQ1p6WnGNRyzn4OZ",
-    "news_item_snippet": "A l&#39;inverse, la cha\u00eene d&#39;information CNews, r\u00e9guli\u00e8rement rappel\u00e9e \u00e0 l&#39;ordre par l&#39;Arcom et propri\u00e9t\u00e9, comme C8, du groupe Canal+, dans le giron du&nbsp;...",
-    "news_item_url": "https://www.publicsenat.fr/actualites/politique/frequence-tv-c8-et-nrj12-ne-seront-plus-sur-la-tnt",
+    "news_item_snippet": "L&#39;ARCOM (ex-CSA) a d\u00e9cid\u00e9 de ne pas renouveler les fr\u00e9quences TNT de C8 et de NRJ12. \u00ab C&#39;est un message fort envoy\u00e9 aux acteurs de l&#39;audiovisuel \u00bb r\u00e9agit le&nbsp;...",
+    "news_item_url": "https://www.publicsenat.fr/actualites/economie/non-renouvellement-de-c8-sur-la-tnt-la-decision-de-larcom-jugee-responsable-et-coherente-par-laurent-lafon",
     "picture_source": "Le Quotidien.lu",
     "approx_traffic": "200,000+"
   },
   {
     "country": "France",
-    "title": "Programme JO 2024",
-    "pubDate": "Wed, 24 Jul 2024 09:00:00 +0200",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQjvGHdywlrxzFh7Y0EhPmDtFYH_Oa0-IAdYLWjCWEIbwmgcgpa9X-cNWTyF85qBhjdFKjLFg84",
-    "news_item_snippet": "A deux jours de la c\u00e9r\u00e9monie d&#39;ouverture des Jeux olympiques de Paris 2024, \u00abLib\u00e9\u00bb vous donne toutes les cl\u00e9s pour suivre cet \u00e9v\u00e8nement attendu, entre ce&nbsp;...",
-    "news_item_url": "https://www.liberation.fr/sports/jeux-olympiques/jo-de-paris-2024-horaires-chaines-programme-surprises-ce-quil-faut-savoir-avant-la-ceremonie-douverture-20240724_2IFZ2AHCFJC3ZNG7FR563M4GSE/",
-    "picture_source": "Franceinfo",
-    "approx_traffic": "100,000+"
+    "title": "Maroc Argentine",
+    "pubDate": "Wed, 24 Jul 2024 11:00:00 +0200",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSURH0xfbQcTF3HsvHoUZhXYOiszZ9FvrdFleepjbV001L4QcEdLCZVAoO7mJ8Y1qSGblXCueuR",
+    "news_item_snippet": "1 min. Le Maroc commence par une victoire aux Jeux Olympiques @Maxppp. Contre toute attente, le match entre le Maroc et l&#39;&nbsp;...",
+    "news_item_url": "https://www.footmercato.net/a3827090446032891403-jo-le-maroc-simpose-finalement-face-a-largentine-dans-une-incomprehension-totale",
+    "picture_source": "RFI",
+    "approx_traffic": "200,000+"
   },
   {
     "country": "France",
-    "title": "Maroc Argentine",
-    "pubDate": "Wed, 24 Jul 2024 11:00:00 +0200",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQC3yRF3HK2iyYKrK89MnoJj0uh-Vz8b6zprZEiYI-RuRvKerVWtT_diRztJEpn70LyXMGIMwG4",
-    "news_item_snippet": "Tandis que tous les joueurs sont rentr\u00e9s aux vestiaires et que l&#39;arbitre a siffl\u00e9 la fin de la rencontre, le match Argentine-Maroc ne serait appa (.",
-    "news_item_url": "https://www.footmercato.net/a3826488456319012111-jo-2024-argentine-maroc-nest-pas-termine",
-    "picture_source": "L'\u00c9quipe.fr",
+    "title": "Rugby a 7",
+    "pubDate": "Wed, 24 Jul 2024 09:00:00 +0200",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTHyNqCCoPkPRjjY_g153jdSZrQ43mwndkW2v03kVAPSZUY8OBFMj9Pkh67aYat_TKPiIZJmuDO",
+    "news_item_snippet": "Le premier match des Jeux olympiques de Paris se d\u00e9roule ce 24 juillet, avec l&#39;\u00e9preuve de rugby \u00e0 VII. Reportage.",
+    "news_item_url": "https://www.francetvinfo.fr/les-jeux-olympiques/jo-2024-coup-d-envoi-avec-le-rugby-a-7_6684108.html",
+    "picture_source": "Ouest-France",
     "approx_traffic": "100,000+"
   },
   {
     "country": "France",
     "title": "Nadine Morano",
     "pubDate": "Wed, 24 Jul 2024 01:00:00 +0200",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTDS-6cMC-Ye9kzndwgckluFkGXU5VoCn80nRH2w9mioT63llis7QIaAaA1WD1Au3x9WswLcI-2",
-    "news_item_snippet": "Gr\u00e9goire Morano, l&#39;un des enfants de la d\u00e9put\u00e9e europ\u00e9enne Nadine Morano, a \u00e9t\u00e9 retrouv\u00e9 sans vie \u00e0 son domicile nanc\u00e9ien ce mardi 23 juillet.",
-    "news_item_url": "https://www.ladepeche.fr/2024/07/24/nadine-morano-son-fils-gregoire-retrouve-mort-a-son-domicile-a-33-ans-12100203.php",
-    "picture_source": "actu.fr",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQyWg9YkVvomhcAL42MI_xi98A2rZ1AuotoEsoheS3Z8aYdNIRaaNdml9L_pC4e-ZgQeyGdMGUT",
+    "news_item_snippet": "Gr\u00e9goire Morano, fils de la femme politique Nadine Morano, a \u00e9t\u00e9 retrouv\u00e9 mort \u00e0 son domicile situ\u00e9 \u00e0 Nancy mardi 23 juillet 2024. Il \u00e9tait \u00e2g\u00e9 de 33 ans.",
+    "news_item_url": "https://actu.fr/grand-est/nancy_54395/gregoire-morano-fils-de-nadine-morano-retrouve-mort-a-nancy-a-l-age-de-33-ans-ce-que-l-on-sait_61395597.html",
+    "picture_source": "ladepeche.fr",
     "approx_traffic": "100,000+"
   },
   {
     "country": "France",
-    "title": "Lucie Castets Wikip\u00e9dia",
-    "pubDate": "Tue, 23 Jul 2024 12:00:00 +0200",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQ7SnvrdYwL3HlJ7rM88k4HIlClk0c_LUfqfVD3B2MLEWbrJBpq1E4xyGoozuNx14w1N5Zj4do7",
-    "news_item_snippet": "Mise \u00e0 jour 11:48 : \u00e0 9h52, nous publiions une version de cet article pour expliquer l&#39;absence de page Wikip\u00e9dia francophone pour Lucie Castets.",
-    "news_item_url": "https://next.ink/brief_article/pourquoi-la-premiere-ministrable-du-nfp-lucie-castets-na-pas-de-page-wikipedia/",
-    "picture_source": "20minutes.fr",
-    "approx_traffic": "500,000+"
+    "title": "JO rugby a 7",
+    "pubDate": "Wed, 24 Jul 2024 16:00:00 +0200",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRjRtaK5DxAZfk2oo21ZqgB0Sid6lFI9OwNGwcW7Gr-08ZOfP2T05ME4_HJR5O2WLxnIQLSoXgv",
+    "news_item_snippet": "Plusieurs incidents ont \u00e9maill\u00e9 ce premier match du tournoi olympique de football masculin. Il a \u00e9t\u00e9 marqu\u00e9 par l&#39;envahissement du terrain du stade de Geoffroy-&nbsp;...",
+    "news_item_url": "https://www.la-croix.com/sport/jo-2024-j-2-coup-d-envoi-pour-le-football-et-le-rugby-la-france-obtient-les-jo-dhiver-2030-20240724",
+    "picture_source": "Franceinfo",
+    "approx_traffic": "50,000+"
   },
   {
     "country": "France",
-    "title": "Macron",
-    "pubDate": "Tue, 23 Jul 2024 21:00:00 +0200",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRHxsDvSPbCz9sk93uYnB-NLLKdKyqMdVqpYcjHYB8FFJtmtuBpxfn-QoEs-hwJeeMONfzwB-KK",
-    "news_item_snippet": "Au terme de 15 jours de n\u00e9gociation, le Nouveau Front Populaire est finalement parvenu, mardi 23 juillet dans la soir\u00e9e, \u00e0 un accord sur un nom pour&nbsp;...",
-    "news_item_url": "https://lcp.fr/actualites/le-nfp-propose-lucie-castets-pour-matignon-macron-dit-non-304512",
-    "picture_source": "Public S\u00e9nat",
-    "approx_traffic": "50,000+"
+    "title": "Lucie Castets parti politique",
+    "pubDate": "Tue, 23 Jul 2024 12:00:00 +0200",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQ628kl9mhpzcWXkl2nCDFTlSXKswH-Y0t154aPcZdN-SnOo2njsOJwNKqr-p8CFHFJO28eGkf-",
+    "news_item_snippet": "Le Nouveau Front populaire a propos\u00e9 mardi soir au pr\u00e9sident de la R\u00e9publique le nom de Lucie Castets pour le poste de Premi\u00e8re ministre. \u00c2g\u00e9e de 37 ans,&nbsp;...",
+    "news_item_url": "https://www.francebleu.fr/infos/politique/premiere-ministre-qui-est-lucie-castets-candidate-de-la-gauche-pour-matignon-2106469",
+    "picture_source": "Linternaute.com",
+    "approx_traffic": "500,000+"
   },
   {
     "country": "Germany",
     "title": "Taylor Swift Hamburg",
     "pubDate": "Tue, 23 Jul 2024 02:00:00 +0200",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcT-V3rBK4l3nt9v6msderRpMeSrJAOaJfJRcd1p8-d4fMITkZSyvvxY7GT97q7v_v4NqgTw0wmq",
-    "news_item_snippet": "So laut wird es selten im Hamburger Volksparkstadion. Taylor Swift hat am Dienstagabend das Zuhause des HSV gerockt und 50.000 Fans gl\u00fccklich gemacht.",
-    "news_item_url": "https://ga.de/news/panorama/taylor-swift-liebt-den-regen-in-hamburg_aid-116734507",
+    "news_item_snippet": "Auf Konzerten und bei Fu\u00dfballspielen bringen Fans beim Feiern schon mal die Erde zum Beben. Ein Forscherteam misst die Vibrationen bei den aktuellen&nbsp;...",
+    "news_item_url": "https://www.spiegel.de/wissenschaft/technik/taylor-swift-in-hamburg-was-steckt-hinter-swift-quakes-a-0a98ad93-3bad-43c5-9748-1cea7569a9cf",
     "picture_source": "WESER-KURIER",
     "approx_traffic": "50,000+"
   },
@@ -391,12 +451,22 @@
   },
   {
     "country": "Italy",
-    "title": "Sinner oggi",
+    "title": "Sinner Olimpiadi",
     "pubDate": "Wed, 24 Jul 2024 18:00:00 +0200",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSJ-gkUYjTUOz3rNxqS_lsjwtoCY8kh_-WOuFNyMeLLpeeM3tT3S_SY4WIPkYZHRCb9Zx6Y4dTp",
-    "news_item_snippet": "Il tennista italiano salta i Giochi Olimpici: il suo messaggio spiega le motivazioni del doloroso forfait. di F. Q. | 24 Luglio 2024. Commenti.",
-    "news_item_url": "https://www.ilfattoquotidiano.it/2024/07/24/jannik-sinner-non-ci-sara-alle-olimpiadi-di-parigi-il-motivo/7635287/",
-    "picture_source": "Rai News",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQT4-HyoYUf9XBJy18KSOq-y3KmR5ewG2zpZfMzm7pPIdAWKgHuKI-aKrj0aV_-gLRPubvZWuQP",
+    "news_item_snippet": "OLIMPIADI PARIGI 2024, TENNIS - A due giorni esatti dalla partenza di Parigi 2024, l&#39;Italia perde una delle sue stelle pi\u00f9 attese: Jannik Sinner,&nbsp;...",
+    "news_item_url": "https://www.eurosport.it/tennis/olimpiadi-parigi-2024/2024/clamoroso-jannik-sinner-salta-le-olimpiadi-lannuncio-sui-social-e-i-motivi-del-forfait-del-n1-del-mondo_sto20020610/story.shtml",
+    "picture_source": "Sky Tg24",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Mexico",
+    "title": "Argentina vs Marruecos",
+    "pubDate": "Wed, 24 Jul 2024 09:00:00 -0600",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQkg3F7tTbE3QmVw8fVSikl5xR3xyeqlCvlbIx3GxTQrdEWCsn5i-fKvB4dCGRjQ95LtwU2808W",
+    "news_item_snippet": "Los Juegos Ol\u00edmpicos Par\u00eds 2024 se iniciaron con el torneo de f\u00fatbol masculino, que disputan 16 selecciones Sub 23 en busca de la medalla de oro.",
+    "news_item_url": "https://www.goal.com/es-mx/listados/argentina-vs-marruecos-alineaciones-videos-y-goles-del-partido-de-fase-de-grupos-de-los-juegos-olimpicos-paris-2024/blt5506068d3fc9cb82",
+    "picture_source": "MARCA.com",
     "approx_traffic": "50,000+"
   },
   {
@@ -404,20 +474,10 @@
     "title": "Manchester City  Celtic FC",
     "pubDate": "Tue, 23 Jul 2024 11:00:00 -0600",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQFZ0b8Iu5PEjML-II4pBTxYk7JRuL97E9DSHqOMUb4hm_DRLTFww3ZGrdmTHOUBQ_1NzkapilG",
-    "news_item_snippet": "Este martes 23 de julio, el Manchester City del espa\u00f1ol Pep Guardiola se medir\u00e1 ante el Celtic del norirland\u00e9s Brendan Rodgers por el encuentro&nbsp;...",
-    "news_item_url": "https://www.mundodeportivo.com/us/futbol/20240723/695689/juega-haaland-alineaciones-manchester-city-vs-celtic-formaciones-probables.html",
+    "news_item_snippet": "Los Citizens dejaron atr\u00e1s las vacaciones para comenzar con la pretemporada y ya tuvieron su primer prueba ante el equipo escoc\u00e9s.",
+    "news_item_url": "https://www.ole.com.ar/usa/futbol-internacional/manchester-city-vs-celtic-partido-amistoso-hora-ver-mirar-vivo-online-live-alineacion_0_phCWAGU9ae.html",
     "picture_source": "Manchester City FC",
     "approx_traffic": "100,000+"
-  },
-  {
-    "country": "Mexico",
-    "title": "Mazda",
-    "pubDate": "Tue, 23 Jul 2024 10:00:00 -0600",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSd4eKDBOEaP3hJdbwq4rBD3UgxEniFFWebXw6JukQZfwJ0fZ-eMJDgyKX3mRsRix-LT2Om3rFc",
-    "news_item_snippet": "En su video, Leonardo coloc\u00f3 un mensaje que dice: \u201cespero que se me respete el precio Mazda M\u00e9xico\u201d.",
-    "news_item_url": "https://www.proceso.com.mx/nacional/estados/2024/7/23/joven-se-vuelve-viral-por-pedir-mazda-respetar-precio-de-520-pesos-de-un-mx-5-2024-333467.html",
-    "picture_source": "El Universal",
-    "approx_traffic": "50,000+"
   },
   {
     "country": "Mexico",
@@ -427,6 +487,16 @@
     "news_item_snippet": "El esperado All-Star Game 2024 reunir\u00e1 a las estrellas de la Liga MX y la Major League Soccer en un emocionante partido el 24 de julio en Columbus, Ohio.",
     "news_item_url": "https://www.infobae.com/mexico/deportes/2024/07/23/liga-mx-vs-mls-a-que-hora-y-donde-ver-el-partido-del-all-star-game-2024/",
     "picture_source": "El Financiero",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Mexico",
+    "title": "Mazda",
+    "pubDate": "Tue, 23 Jul 2024 10:00:00 -0600",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSd4eKDBOEaP3hJdbwq4rBD3UgxEniFFWebXw6JukQZfwJ0fZ-eMJDgyKX3mRsRix-LT2Om3rFc",
+    "news_item_snippet": "En su video, Leonardo coloc\u00f3 un mensaje que dice: \u201cespero que se me respete el precio Mazda M\u00e9xico\u201d.",
+    "news_item_url": "https://www.proceso.com.mx/nacional/estados/2024/7/23/joven-se-vuelve-viral-por-pedir-mazda-respetar-precio-de-520-pesos-de-un-mx-5-2024-333467.html",
+    "picture_source": "El Universal",
     "approx_traffic": "50,000+"
   },
   {
@@ -447,16 +517,16 @@
     "news_item_snippet": "Par\u00eds encendi\u00f3 con el f\u00fatbol la competici\u00f3n ol\u00edmpica a dos d\u00edas de la ceremonia de inauguraci\u00f3n, pero la selecci\u00f3n de Santi Denia apenas pudo prender una&nbsp;...",
     "news_item_url": "https://elpais.com/deportes/juegos-olimpicos/2024-07-24/victoria-casi-a-oscuras-de-espana-contra-uzbekistan.html",
     "picture_source": "La Tribuna de Albacete",
-    "approx_traffic": "200,000+"
+    "approx_traffic": "100,000+"
   },
   {
     "country": "Spain",
     "title": "Juegos olimpicos 2024",
     "pubDate": "Wed, 24 Jul 2024 16:00:00 +0200",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQ0nGGqjXt3MPAtVmfauDdS9rvz23c9M-3ZBQIKkGuXMBKtr9qiCOi-gwtUOpgtqTG0Q_vrjP6p",
-    "news_item_snippet": "Consulta la hora, el recorrido, los abanderados y el canal para ver en TV gratis la ceremonia de inauguraci\u00f3n de los Juegos Ol\u00edmpicos de Par\u00eds 2024.",
-    "news_item_url": "https://www.rtve.es/television/20240724/ceremonia-inauguracion-juegos-olimpicos-paris-2024-hora-donde-ver-abanderados-recorrido/16191940.shtml",
-    "picture_source": "EL PA\u00cdS",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcR72mrLU3FnoHtDg5qs3L2I_gTYoVmqPweTgk1kQq2KC_ELEdaFs7mpIG7SPbMEdwvltS3Lfj95",
+    "news_item_snippet": "Ya en la pista, Uruguay y Francia, para disputar el segundo partido del d\u00eda. as.com Publicado a las: 20:02 CEST 24/07/2024.",
+    "news_item_url": "https://as.com/juegos_olimpicos/juegos-olimpicos-en-directo-ultima-hora-y-novedades-de-los-jjoo-de-paris-2024-hoy-en-vivo-n/",
+    "picture_source": "RTVE",
     "approx_traffic": "50,000+"
   },
   {
@@ -467,6 +537,16 @@
     "news_item_snippet": "Este martes 23 de julio, el Manchester City del espa\u00f1ol Pep Guardiola se medir\u00e1 ante el Celtic del norirland\u00e9s Brendan Rodgers por el encuentro&nbsp;...",
     "news_item_url": "https://www.mundodeportivo.com/us/futbol/20240723/695689/juega-haaland-alineaciones-manchester-city-vs-celtic-formaciones-probables.html",
     "picture_source": "Manchester City FC",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Spain",
+    "title": "Marruecos vs Argentina",
+    "pubDate": "Wed, 24 Jul 2024 16:00:00 +0200",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQkg3F7tTbE3QmVw8fVSikl5xR3xyeqlCvlbIx3GxTQrdEWCsn5i-fKvB4dCGRjQ95LtwU2808W",
+    "news_item_snippet": "Un gol de Medina en el 106\u2032 empataba el doblete de Rahimi. En la celebraci\u00f3n hubo petardos y se interrumpi\u00f3 a falta de revisi\u00f3n del VAR.",
+    "news_item_url": "https://as.com/juegos_olimpicos/escandalo-en-el-argentina-marruecos-n/",
+    "picture_source": "MARCA.com",
     "approx_traffic": "50,000+"
   },
   {
@@ -507,6 +587,16 @@
     "news_item_snippet": "Here&#39;s how to get Sabrina Carpenter tickets for the UK leg of her epic Short n&#39; Sweet world tour in March 2025.",
     "news_item_url": "https://www.glamourmagazine.co.uk/article/sabrina-carpenter-uk-tour-tickets",
     "picture_source": "BBC News",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United Kingdom",
+    "title": "Sonya Massey",
+    "pubDate": "Tue, 23 Jul 2024 13:00:00 +0100",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSBzT24MamBvW1grEVA6x6Pb94PLg8q6hXpQi1tBzjiqW9xd3WGcwKumZ2uZZMDX09OJfqmitsC",
+    "news_item_snippet": "Audio obtained by the Guardian reveals police dispatcher was told Black woman&#39;s fatal wound was &#39;self-inflicted&#39;",
+    "news_item_url": "https://www.theguardian.com/us-news/article/2024/jul/23/sonya-massey-killing-police-cover-up",
+    "picture_source": "Illinois Newsroom",
     "approx_traffic": "50,000+"
   }
 ]
