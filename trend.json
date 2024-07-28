@@ -1,6 +1,26 @@
 [
   {
     "country": "United States",
+    "title": "UFC",
+    "pubDate": "Sat, 27 Jul 2024 07:00:00 -0700",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSj0lhneR7CpZzuBgURYiahtlHKvsQjoP7d3l7NgGImZ64XsnW7m9XP30548qtg6Uj9nkSDrjs_",
+    "news_item_snippet": "An entertaining night of action in Manchester wrapped with the packed house at Co-op Live left in stunned silence, as Belal Muhammad closed out the show by&nbsp;...",
+    "news_item_url": "https://www.ufc.com/news/official-judges-scorecards-ufc-304-edwards-vs-muhammad-2",
+    "picture_source": "ESPN",
+    "approx_traffic": "1,000,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Dr Doom",
+    "pubDate": "Sat, 27 Jul 2024 20:00:00 -0700",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRFVbxH3WCzHTXjfWVmd-V-t26LkR0IAeff5jWzTiEBn02sulv6KXd-xJ9rZkJ_CLBvtRClXbM4",
+    "news_item_snippet": "MCU fans are shocked after Kevin Feige announced that Robert Downey Jr. will return to the MCU as Doctor Doom, not Iron Man.",
+    "news_item_url": "https://www.forbes.com/sites/danidiplacido/2024/07/28/robert-downey-jrs-casting-as-doctor-doom-sparks-backlash-from-fans/",
+    "picture_source": "Variety",
+    "approx_traffic": "500,000+"
+  },
+  {
+    "country": "United States",
     "title": "Olympic medal count",
     "pubDate": "Sat, 27 Jul 2024 06:00:00 -0700",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTs_w9_bh-FiJfcdkMuDhIS8sUUkB5NG3nqnTqjFYcLa7eN0eecSeEmZX6JaUvgV5VcLmo7j32J",
@@ -11,38 +31,18 @@
   },
   {
     "country": "United States",
-    "title": "Dr Doom",
-    "pubDate": "Sat, 27 Jul 2024 20:00:00 -0700",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRFVbxH3WCzHTXjfWVmd-V-t26LkR0IAeff5jWzTiEBn02sulv6KXd-xJ9rZkJ_CLBvtRClXbM4",
-    "news_item_snippet": "The actor is due to appear in his new role in 2026, seven years after his last Marvel appearance.",
-    "news_item_url": "https://www.bbc.com/news/articles/ckrgd7eek09o",
-    "picture_source": "Variety",
-    "approx_traffic": "500,000+"
-  },
-  {
-    "country": "United States",
-    "title": "UFC",
-    "pubDate": "Sat, 27 Jul 2024 17:00:00 -0700",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSj0lhneR7CpZzuBgURYiahtlHKvsQjoP7d3l7NgGImZ64XsnW7m9XP30548qtg6Uj9nkSDrjs_",
-    "news_item_snippet": "An entertaining night of action in Manchester wrapped with the packed house at Co-op Live left in stunned silence, as Belal Muhammad closed out the show by&nbsp;...",
-    "news_item_url": "https://www.ufc.com/news/official-judges-scorecards-ufc-304-edwards-vs-muhammad-2",
-    "picture_source": "ESPN",
-    "approx_traffic": "500,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Kevin Durant",
+    "title": "USA vs Serbia",
     "pubDate": "Sat, 27 Jul 2024 09:00:00 -0700",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQ9nZOpbnI4-zlZTSDoxtfu7P_LSPGNI4m9tSmp6wCtJ38Fi2QjrH753_GpjFgXwLX1fudThloH",
-    "news_item_snippet": "It&#39;s hard to overstate the impact Durant&#39;s return would have on a U.S. team shooting for a historic fifth straight gold medal in Paris. KD has his fingerprints&nbsp;...",
-    "news_item_url": "https://www.nbcolympics.com/news/kevin-durant-cleared-play-us-opener-vs-serbia",
-    "picture_source": "ESPN",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSAc-qxdXPTHZqRu7HSaXJJ6_E9PDPSUFLtSiAbCpWaWAGHVaLAf1-ZnCZFE1c2pG0dCjpx915P8A",
+    "news_item_snippet": "Team USA is laying more than 12 points in its Olympic opener against Nikola Jokic and Serbia on Sunday morning.",
+    "news_item_url": "https://www.newsweek.com/team-usa-vs-serbia-betting-preview-americans-heavily-favored-1931095",
+    "picture_source": "CBSSports.com",
     "approx_traffic": "200,000+"
   },
   {
     "country": "United States",
     "title": "United States 2024 Olympics",
-    "pubDate": "Sat, 27 Jul 2024 13:00:00 -0700",
+    "pubDate": "Sat, 27 Jul 2024 11:00:00 -0700",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSDBE0r6QpB-7QiKypJZBZGJ_ioIb4aczCLDaDESXZ7mM_A96VGAsG-jRG9elyCfyWJN-Nd7Rnj",
     "news_item_snippet": "Katie Ledecky won bronze in the women&#39;s 400-meter freestyle, while Team USA won silver in the women&#39;s 4x100-meter freestyle.",
     "news_item_url": "https://www.cbsnews.com/news/team-usa-swimming-gold-silver-bronze-freestyle-paris-olympics-2024/",
@@ -53,10 +53,10 @@
     "country": "United States",
     "title": "Nelons plane crash",
     "pubDate": "Sat, 27 Jul 2024 07:00:00 -0700",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTjPvNU0Nz7Ientmm5yuHcC2C1081rEXzANnDeuB2YOm9cqpjvoim3oQ2IOxknwiOexfDiPqqE1",
-    "news_item_snippet": "Three members of the Nelons were among seven people killed in a plane crash in Wyoming, according to Autumn Nelon Streetman.",
-    "news_item_url": "https://abc11.com/post/nelons-plane-crash-3-members-gospel-music-hall/15110467/",
-    "picture_source": "NBC News",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSSTf8BkDffTgb1rOJp7zgW1euXdwivqzEhQ2leEQ6CTS_wmUWoBLCC-frxRNWObUWg5dYudmSO",
+    "news_item_snippet": "Kelly Nelon Clark, her husband, Jason Clark, and their daughter Amber Nelon Kistler were headed to the Gaither Homecoming Cruise to Alaska.",
+    "news_item_url": "https://www.nbcnews.com/news/us-news/three-members-family-gospel-group-nelons-killed-plane-crash-rcna163931",
+    "picture_source": "WLS-TV",
     "approx_traffic": "100,000+"
   },
   {
@@ -81,6 +81,16 @@
   },
   {
     "country": "United States",
+    "title": "Arsenal",
+    "pubDate": "Sat, 27 Jul 2024 18:00:00 -0700",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRUxGM0rRJWciRsTNMepROMx5uWnNwKJrOYZhSznat1Jsn0_m-a-fl1vwyEF_1VgB122WpUbq-j",
+    "news_item_snippet": "Rasmus Hojlund had a lively \u2014 if brief \u2014 role in the game, putting United in front early on but soon being taken off injured. Arsenal battled back to win thanks&nbsp;...",
+    "news_item_url": "https://www.nytimes.com/athletic/5663259/2024/07/27/man-united-arsenal-friendly-analysis/",
+    "picture_source": "ESPN",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
     "title": "Manchester City  Milan",
     "pubDate": "Sat, 27 Jul 2024 17:00:00 -0700",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTiNNlBufnfVwusnxOQ1bVT0tEAwO8xj2FGas865X5w2btShxar6VAKUpQE2lCXkzmyuSn5cihu",
@@ -91,32 +101,22 @@
   },
   {
     "country": "United States",
-    "title": "Fiji",
-    "pubDate": "Sat, 27 Jul 2024 11:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTR9k44kkAlYa-0Ng8n7-qtWXrpy1XhWuOXhEoQCvIrNenpUloBl8Tjag7X2QMxDDythIq-LWYx",
-    "news_item_snippet": "After three exciting days of competition, medals are going to be awarded. Action kicks off with Argentina and the United States in the 7th-8th place match.",
-    "news_item_url": "https://www.nbcolympics.com/news/mens-rugby-medal-matches-fiji-and-france-face-gold",
-    "picture_source": "ESPN",
+    "title": "Hezbollah",
+    "pubDate": "Sat, 27 Jul 2024 21:00:00 -0700",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRWwFUMmTOLNC7rWscFqnzQhdriBAN4HeSKg_la3_1eJZxOnjBBFJSITJSqaENyc8zMLtIGpYce",
+    "news_item_snippet": "July 28 (Reuters) - A deadly rocket strike in the Israeli-occupied Golan Heights has added to concerns that Israel and the Iran-backed Lebanese group&nbsp;...",
+    "news_item_url": "https://www.reuters.com/world/middle-east/is-hezbollah-israel-conflict-about-spiral-2024-07-28/",
+    "picture_source": "CNN",
     "approx_traffic": "50,000+"
   },
   {
     "country": "United States",
-    "title": "Olympic tennis",
-    "pubDate": "Sat, 27 Jul 2024 14:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRONKGZbLjiV0_oFUYceS2DtSarZX19GkHJDfktgmKNZm4G4KmwO9G3JMxbi4hA6kcC1cj5pzef",
-    "news_item_snippet": "This Olympic tennis tournament will certainly be one to watch, with Rafael Nadal playing his last Olympic matches alongside his presumed successor as the King&nbsp;...",
-    "news_item_url": "https://sports.yahoo.com/2024-paris-olympics-how-to-watch-tennis-full-events-schedule-and-more-221558424.html",
+    "title": "Olympics 2024 medals",
+    "pubDate": "Sat, 27 Jul 2024 10:00:00 -0700",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTsYoFssdra726f6y1nZafCCICHV8t9Pk7Px5SbXwGpHZSMyObXxkvMsc_pMpI84NZWomtEkVdm",
+    "news_item_snippet": "Which country is leading in medals after Day 1 of the Paris Olympics? Here is a look at the medal count.",
+    "news_item_url": "https://www.nbcnewyork.com/paris-2024-summer-olympics/olympic-medal-count-country-leaderboard/5638334/",
     "picture_source": "The Associated Press",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Rafael Nadal",
-    "pubDate": "Sat, 27 Jul 2024 13:00:00 -0700",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRUo7VkiP0ppX_S_oQjLszD93KEzwsds5ewc1ZfvbnFeSnxjUX-p8fBSkdt3LTH1uUOWBkm8z2z",
-    "news_item_snippet": "Spain&#39;s old-and-new pairing of tennis superstars started off their run at gold with a win over Argentina&#39;s Maximo Gonzalez and Andres Molteni.",
-    "news_item_url": "https://www.nbcnewyork.com/paris-2024-summer-olympics/rafael-nadal-carlos-alcaraz-doubles-win-over-argentina/5638714/",
-    "picture_source": "NBC New York",
     "approx_traffic": "50,000+"
   },
   {
@@ -161,16 +161,6 @@
   },
   {
     "country": "India",
-    "title": "Chamari Athapaththu",
-    "pubDate": "Sun, 28 Jul 2024 22:30:00 +0530",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQYAPWy5wq3sr9pCmrEsVwu-1Qb2oZtqU8wPioSZaetym4W3DUaEBooREr1UNCxR1MRp1u-9q4e",
-    "news_item_snippet": "The dates for next year&#39;s World Cup have not yet been confirmed, but India will host the tournament. This means that Athapaththu will be around for the next two&nbsp;...",
-    "news_item_url": "https://www.espncricinfo.com/story/womens-asia-cup-chamari-athapaththu-to-play-for-sri-lanka-till-2025-odi-world-cup-1445272",
-    "picture_source": "ESPNcricinfo.com",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "India",
     "title": "India vs Sri Lanka",
     "pubDate": "Sat, 27 Jul 2024 10:30:00 +0530",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRYgLkVqdTRUH6jYvUI0qDQMVgc7U20J0qXWOZHEVsfSVje8hnZ0bhIISVRNbkTIrbv2k7EMNz-",
@@ -178,16 +168,6 @@
     "news_item_url": "https://www.business-standard.com/cricket/news/india-vs-sri-lanka-2nd-t20-playing-11-india-vs-sri-lanka-2nd-t20-playing-11-live-match-time-streaming-telecast-live-match-time-streaming-telecast-124072800170_1.html",
     "picture_source": "Livemint",
     "approx_traffic": "10,000,000+"
-  },
-  {
-    "country": "India",
-    "title": "Skateboarding olympics",
-    "pubDate": "Sat, 27 Jul 2024 00:30:00 +0530",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSiU5RowZWfrzLDyKODhc4oDpwbC0eBQhiGtLOMGm3etMtA2G-QYdfBMKWemqga9a5GqPzeU96R",
-    "news_item_snippet": "Find out more about Olympian Brittany Broben&#39;s special role in supporting Chloe Covell through the Paris 2024 Olympics.",
-    "news_item_url": "https://olympics.com/en/news/chloe-covell-exclusive-big-sister-brittany-broben-interview-paris-olympics",
-    "picture_source": "Olympics",
-    "approx_traffic": "2,000,000+"
   },
   {
     "country": "India",
@@ -201,6 +181,16 @@
   },
   {
     "country": "India",
+    "title": "Skateboarding olympics",
+    "pubDate": "Sat, 27 Jul 2024 00:30:00 +0530",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSiU5RowZWfrzLDyKODhc4oDpwbC0eBQhiGtLOMGm3etMtA2G-QYdfBMKWemqga9a5GqPzeU96R",
+    "news_item_snippet": "Find out more about Olympian Brittany Broben&#39;s special role in supporting Chloe Covell through the Paris 2024 Olympics.",
+    "news_item_url": "https://olympics.com/en/news/chloe-covell-exclusive-big-sister-brittany-broben-interview-paris-olympics",
+    "picture_source": "Olympics",
+    "approx_traffic": "2,000,000+"
+  },
+  {
+    "country": "India",
     "title": "Ind vs SL Women",
     "pubDate": "Sat, 27 Jul 2024 13:30:00 +0530",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQR-ey0A7PXKWgqmI_I9qnLDeYWxaKWd8IOcFaZknq-J8BaulySx990ohX_4bzdKnFfi4vco2kO",
@@ -208,6 +198,16 @@
     "news_item_url": "https://www.indiatoday.in/sports/cricket/story/womens-asia-cup-t20-2024-india-vs-sri-lanka-final-live-smriti-mandhana-chamari-athapaththu-2572891-2024-07-28",
     "picture_source": "Sportstar",
     "approx_traffic": "1,000,000+"
+  },
+  {
+    "country": "Argentina",
+    "title": "Doctor Doom",
+    "pubDate": "Sun, 28 Jul 2024 00:00:00 -0300",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRM9N696VZkBd5GSUQHJ1-7GtfStN9_nnX_fnl3KYxX3pgl7MdITIoNflu1z5YAgPPBXoOweA5N",
+    "news_item_snippet": "El actor sorprendi\u00f3 a los presentes de la Comic-Con de San Diego al revelar el villano que que interpretar\u00e1.&quot;Nueva m\u00e1scara, misma tarea&quot;,&nbsp;...",
+    "news_item_url": "https://www.clarin.com/espectaculos/cine/robert-downey-jr-regresara-marvel-doctor-doom-nueva-pelicula-avengers_0_xbbydRw3Bn.html",
+    "picture_source": "Infobae.com",
+    "approx_traffic": "50,000+"
   },
   {
     "country": "Argentina",
@@ -224,19 +224,19 @@
     "title": "F\u00fatbol ol\u00edmpico",
     "pubDate": "Sat, 27 Jul 2024 17:00:00 -0300",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRV-YB1V_7076pU0mKKKYgcrAmdzsWmqIwdmvq3M1EC6y3K5Bdhw0gtOxqKblpXwznEFtBejEBs",
-    "news_item_snippet": "Con ese panorama las canadienses, ahora dirigidas por el entrenador asistente Andy Spence durante el resto de los Juegos Ol\u00edmpicos Par\u00eds 2024, se preparan para&nbsp;...",
-    "news_item_url": "https://www.infobae.com/colombia/deportes/2024/07/27/dura-sancion-a-la-seleccion-de-futbol-femenina-de-canada-en-los-juegos-olimpicos-2024-asi-favorece-a-colombia/",
+    "news_item_snippet": "Una investigaci\u00f3n por provocaci\u00f3n al odio racial agravado se abri\u00f3 despu\u00e9s de que personas presentes el s\u00e1bado en el partido de f\u00fatbol Israel-Paraguay,&nbsp;...",
+    "news_item_url": "https://www.swissinfo.ch/spa/abren-investigaci%C3%B3n-por-antisemitismo-en-israel-paraguay-de-f%C3%BAtbol-ol%C3%ADmpico/85273065",
     "picture_source": "BBC Mundo",
     "approx_traffic": "100,000+"
   },
   {
     "country": "Argentina",
-    "title": "Rosario Central  Hurac\u00e1n",
-    "pubDate": "Sat, 27 Jul 2024 19:00:00 -0300",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRtXrxEuTZRhSOcYVoZKndn1Duv6ZcsLF6Lf_eCAPsmHfsyoSUvo_Yw9gT_aCwsGtGr8d6hKOVW",
-    "news_item_snippet": "Con gol de Walter Mazzantti, el Globo se impuso en el Gigante de Arroyito. En el turno previo, el Cicl\u00f3n igual\u00f3 1-1 contra Newell&#39;s.",
-    "news_item_url": "https://www.infobae.com/deportes/2024/07/27/liga-profesional-san-lorenzo-recibira-a-newells-y-huracan-defendera-la-punta-en-rosario-ante-central/",
-    "picture_source": "TyC Sports",
+    "title": "Argentina Juegos olimpicos",
+    "pubDate": "Sat, 27 Jul 2024 10:00:00 -0300",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSKcDj4lPO4UlY_CLfswSs_rJKb129HFrfkXozwW56kekB7g5dnpy1E1KoVUBM2DT1pXtGYJGHW",
+    "news_item_snippet": "Despu\u00e9s de un s\u00e1bado agitado, se viene un domingo con mucha actividad albiceleste. Seguila al pie de la letra en Ol\u00e9.",
+    "news_item_url": "https://www.ole.com.ar/juegos-olimpicos/juegos-olimpicos-paris-2024-hoy-vivo-hora-horario-resultados-argentinos-argentina-tenis_0_qk4CWQ3mF9.html",
+    "picture_source": "canchallena.com",
     "approx_traffic": "50,000+"
   },
   {
@@ -244,9 +244,9 @@
     "title": "Demichelis",
     "pubDate": "Sat, 27 Jul 2024 20:00:00 -0300",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRTyNsW5_mt0dmPpcI9SFEIp9J3Ut5sRCb3H8ntWFf2YfgwDa6l7KUkF_xXHXcWpiaRgDwZA9X0",
-    "news_item_snippet": "La esposa del entrenador de River se mostr\u00f3 golpeada por el desenlace de Mart\u00edn en el Millo.",
-    "news_item_url": "https://www.ole.com.ar/river-plate/posteo-evangelina-anderson-despues-salida-demichelis_0_21WKHmWeLm.html",
-    "picture_source": "canchallena.com",
+    "news_item_snippet": "A horas de dirigir su \u00faltimo partido en la instituci\u00f3n, el t\u00e9cnico fue reconocido con unas sentidas im\u00e1genes. Mir\u00e1...",
+    "news_item_url": "https://www.ole.com.ar/river-plate/river-martin-demichelis-video-despedida_0_UAXbBqg9do.html",
+    "picture_source": "LA NACION",
     "approx_traffic": "50,000+"
   },
   {
@@ -257,16 +257,6 @@
     "news_item_snippet": "El equipo de Romagnoli lo perd\u00eda desde los cinco minutos, pero consigui\u00f3 un punto clave con el ingreso de Sebasti\u00e1n Blanco.",
     "news_item_url": "https://www.ole.com.ar/futbol-primera/san-lorenzo-newells-liga-profesional-fecha-8_0_AZnGnwfuCe.html",
     "picture_source": "TyC Sports",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Argentina",
-    "title": "Nadal",
-    "pubDate": "Sat, 27 Jul 2024 12:00:00 -0300",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcR4oxJxpTiEQkBBjRbIacveenzhL42MrF6JsiqX2zwApssSriD9mzoCIofgnVqRSbyYrh7nyTFN",
-    "news_item_snippet": "El tenista espa\u00f1ol sufri\u00f3 para imponerse a Marton Fucsovics, pero avanza a la siguiende ronda, donde se medir\u00e1 a Nole.",
-    "news_item_url": "https://olympics.com/es/noticias/rafa-nadal-debuta-victoria-individuales-paris-2024-novak-djokovic-rival-segunda-ronda",
-    "picture_source": "Ol\u00e9",
     "approx_traffic": "50,000+"
   },
   {
@@ -331,12 +321,12 @@
   },
   {
     "country": "Brazil",
-    "title": "Volei Masculino olimpiadas",
-    "pubDate": "Sun, 28 Jul 2024 07:00:00 -0500",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcS6XJF1kTj48i3_S3qs5DTeedHKv1LJmqIV0A8jfNoD1ZLBWa4F3kr-z-Z24KHAbq4ImXTXm5sb",
-    "news_item_snippet": "Saiba tudo sobre a partida entre Fran\u00e7a x S\u00e9rvia no V\u00f4lei Masculino das Olimp\u00edadas 2024 hoje 28/07. Confira nosso palpite, saiba o hor\u00e1rio e onde vai passar&nbsp;...",
-    "news_item_url": "https://www.gazetaesportiva.com/apostas/prognosticos/volei/franca-x-servia-28-07-2024",
-    "picture_source": "Gazeta Esportiva",
+    "title": "Quadro de medalhas",
+    "pubDate": "Sun, 28 Jul 2024 13:00:00 -0500",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRso3iIxlaHYDwFm0YNIhNdEe7i2zNYmJFoIMpxjgAp4nA0jg0nhYr1QFp4iSfcodscEVBW1KBi",
+    "news_item_snippet": "O Brasil mandou a Paris um grupo de representantes do jogo do tigrinho para pressionar o Comit\u00ea Ol\u00edmpico Internacional a transformar a atividade em esporte&nbsp;...",
+    "news_item_url": "https://oglobo.globo.com/blogs/humor/sensacionalista/post/2024/07/para-subir-no-quadro-de-medalhas-brasil-faz-lobby-para-jogo-do-tigrinho-virar-esporte-olimpico.ghtml",
+    "picture_source": "Jornal O Globo",
     "approx_traffic": "50,000+"
   },
   {
@@ -347,6 +337,16 @@
     "news_item_snippet": "A atleta do Esporte Clube Pinheiros, segundo a Confedera\u00e7\u00e3o Brasileira de Desportos Aqu\u00e1ticos (CBDA), j\u00e1 conquistou 147 ouros, 97 pratas e 48 bronzes em toda&nbsp;...",
     "news_item_url": "https://oglobo.globo.com/esportes/olimpiadas/noticia/2024/07/28/quem-e-ana-carolina-vieira-atleta-da-natacao-que-foi-excluida-dos-jogos-de-paris-2024.ghtml",
     "picture_source": "globoesporte.com",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Brazil",
+    "title": "Volei Masculino olimpiadas",
+    "pubDate": "Sun, 28 Jul 2024 07:00:00 -0500",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcS6XJF1kTj48i3_S3qs5DTeedHKv1LJmqIV0A8jfNoD1ZLBWa4F3kr-z-Z24KHAbq4ImXTXm5sb",
+    "news_item_snippet": "Saiba tudo sobre a partida entre Fran\u00e7a x S\u00e9rvia no V\u00f4lei Masculino das Olimp\u00edadas 2024 hoje 28/07. Confira nosso palpite, saiba o hor\u00e1rio e onde vai passar&nbsp;...",
+    "news_item_url": "https://www.gazetaesportiva.com/apostas/prognosticos/volei/franca-x-servia-28-07-2024",
+    "picture_source": "Gazeta Esportiva",
     "approx_traffic": "50,000+"
   },
   {
@@ -377,87 +377,77 @@
     "news_item_snippet": "Track the Paris Olympic medal counts country by country and see who won gold, silver or bronze in each event.",
     "news_item_url": "https://www.washingtonpost.com/sports/olympics/interactive/2024/paris-olympics-medal-count-tracker/",
     "picture_source": "NBC New York",
-    "approx_traffic": "50,000+"
+    "approx_traffic": "100,000+"
   },
   {
     "country": "Canada",
     "title": "Dr Doom",
     "pubDate": "Sat, 27 Jul 2024 23:00:00 -0400",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSXi1NLrH18wIG_ozqftS9p0XUkcQE4j3lfS9PXu05qZjwoFexEd7-yhIFhz1W9Pawy7whShg7L",
-    "news_item_snippet": "Robert Downey Jr. is set to return for two &quot;Avengers&quot; movies as Doctor Doom, not Iron Man. Here&#39;s what fans are saying about the shocking news and what it&nbsp;...",
-    "news_item_url": "https://www.forbes.com/sites/monicamercuri/2024/07/28/robert-downey-jr-to-officially-return-to-the-mcu-as-dr-doom/",
+    "news_item_snippet": "Why is Marvel bringing Robert Downey Jr. back as Victor von Doom, of all people? There are two possible explanations at this point.",
+    "news_item_url": "https://www.forbes.com/sites/paultassi/2024/07/28/robert-downey-jr-as-the-mcus-doctor-doom-theres-two-explanations/",
     "picture_source": "BBC News",
     "approx_traffic": "50,000+"
   },
   {
     "country": "Canada",
-    "title": "Canada basketball",
-    "pubDate": "Sat, 27 Jul 2024 16:00:00 -0400",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRpPhyj2VyxfpAouVCUSaljn8AnbcH9VI_A7uVZlm7AYHGWI2UYvWBPofz7SiShZO3pR-_gu3aZ",
-    "news_item_snippet": "The Canadian men&#39;s basketball team&#39;s quest for Olympic gold started off on a high note. Canada (1-0) picked up an 86-79 win over Greece (0-1), escaping with&nbsp;...",
-    "news_item_url": "https://www.sportsnet.ca/olympics/article/live-updates-canada-takes-on-greece-to-start-mens-basketball-campaign/",
-    "picture_source": "Canadian Olympic Committee",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Saudi Arabia",
-    "title": "\u0627\u0644\u0636\u0645\u0627\u0646 \u0627\u0644\u0627\u062c\u062a\u0645\u0627\u0639\u064a",
-    "pubDate": "Sat, 27 Jul 2024 13:00:00 +0300",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTMvh9tLF2acmwh1bnK7CLOKQEiCr5JFY_Myby74Ix2or1_YRHavSgs2MhpJT5RXeCLdpgD3f2c",
-    "news_item_snippet": "\u064a\u062c\u0628 \u0639\u0644\u0649 \u062c\u0645\u064a\u0639 \u0627\u0644\u0645\u0633\u062a\u0641\u064a\u062f\u064a\u0646 \u0645\u0646 \u062f\u0639\u0645 \u0627\u0644\u0636\u0645\u0627\u0646 \u0627\u0644\u0627\u062c\u062a\u0645\u0627\u0639\u064a \u0627\u0644\u0645\u0637\u0648\u0631 \u0641\u064a \u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629 \u0623\u0646 \u064a\u0642\u0648\u0645\u0648\u0627 \u0628\u062a\u062d\u062f\u064a\u062b \u0627\u0644\u0628\u064a\u0627\u0646\u0627\u062a \u0627\u0644\u062e\u0627\u0635\u0629 \u0628\u0647\u0645 \u0628\u0634\u0643\u0644 \u0645\u0633\u062a\u0645\u0631 \u0644\u0636\u0645\u0627\u0646 \u0627\u0644\u062d\u0635\u0648\u0644 \u0639\u0644\u0649 \u0627\u0644\u062f\u0639\u0645.",
-    "news_item_url": "https://sky-saudia.com/news4116281.html",
-    "picture_source": "\u062e\u0628\u0631\u0646\u0627",
+    "title": "Olympic basketball",
+    "pubDate": "Sat, 27 Jul 2024 10:00:00 -0400",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTA7xqNaW7zqSJdlAdnWlxvCLw2RGur3X9ulbVsxxuge4Ro33ze5sa-kVGrW8avgIiuOyiv0ltX",
+    "news_item_snippet": "The Canadian men&#39;s basketball team defeated Greece 86-79 at Pierre Mauroy Stadium in Lille to open the 2024 Paris Olympic tournament on Saturday.",
+    "news_item_url": "https://www.timescolonist.com/sports/its-24-years-in-the-making-as-canada-opens-mens-olympic-basketball-with-win-over-greece-9279136",
+    "picture_source": "Times Colonist",
     "approx_traffic": "50,000+"
   },
   {
     "country": "France",
-    "title": "Buchard",
+    "title": "Effondrement terrasse mariage Cantal",
+    "pubDate": "Sun, 28 Jul 2024 08:00:00 +0200",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTWGEX_AkcOhjteSes6-Lq9fdSZnY-SYSN2QT5VE3aiIL2w42DSUT_v2WsvK9UVP0KaLNxUphdP",
+    "news_item_snippet": "Une personne est morte et quatre autres ont \u00e9t\u00e9 prises en charge en urgence absolue samedi 27 juillet \u00e0 Saint-Pierre (Cantal). La terrasse de la salle du&nbsp;...",
+    "news_item_url": "https://www.liberation.fr/societe/police-justice/cantal-leffondrement-de-la-terrasse-dune-salle-polyvalente-fait-un-mort-et-quatre-blesses-20240728_R6YM6PXWNRDK5JI4V536GJNVTA/",
+    "picture_source": "Le Monde",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "France",
+    "title": "Amandine Buchard",
     "pubDate": "Sun, 28 Jul 2024 12:00:00 +0200",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQxy7n7jlZqPZhucXgySTgyyQxwVC2jMgoH5UFayq2B9CQ3lZf-z95qCen6-EGz31eQnYRwcAgf",
-    "news_item_snippet": "Ce dimanche 28 juillet, les tournois f\u00e9minin et masculin de judo se poursuivent \u00e0 l&#39;Arena Champ-de-Mars. Dans la cat\u00e9gorie des -52 kg, Amandine Buchard a&nbsp;...",
-    "news_item_url": "https://www.ouest-france.fr/jeux-olympiques/direct/direct-judo-amandine-buchard-walide-khyar-en-lice-aux-jo-2024-suivez-la-journee-en-live-32d7cc17-31d5-4ced-b664-171cd4649a78",
-    "picture_source": "TV5MONDE Info",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQInAbOzlXupHRKxJx4gd14MXxDfQzbUTDX_8Tj2xdM_8gBgRKtIT3okRWYMXBmiqnP3EJE09JB",
+    "news_item_snippet": "Battue en demi-finale dans sa qu\u00eate d&#39;or olympique, la Fran\u00e7aise Amandine Buchard a su r\u00e9agir pour s&#39;offrir le bronze, sa deuxi\u00e8me m\u00e9daille olympique apr\u00e8s&nbsp;...",
+    "news_item_url": "https://www.challenges.fr/sport/judo-amandine-buchard-medaillee-et-consolee_900858",
+    "picture_source": "Le Journal du dimanche",
     "approx_traffic": "50,000+"
   },
   {
     "country": "France",
-    "title": "Skateboard Jeux olympiques",
-    "pubDate": "Sat, 27 Jul 2024 01:00:00 +0200",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcS_u7K8fEGdjBE4o-_eLEg8sO3559s6uIvNV5yCCnafntGdXYjvmCNTcSKOwff4YOVCvo3oxs_h",
-    "news_item_snippet": "La premi\u00e8re \u00e9preuve de skateboard des Jeux olympiques, pr\u00e9vue ce samedi 27 juillet, a \u00e9t\u00e9 report\u00e9e \u00e0 lundi \u00e0 cause de la pluie.",
-    "news_item_url": "https://www.liberation.fr/sports/jeux-olympiques/jo-de-paris-2024-lepreuve-de-skateboard-reportee-a-lundi-en-raison-de-la-pluie-20240727_JM5HXX4NLZFNFEUCJVBRXMJDEE/",
-    "picture_source": "BFMTV.COM",
-    "approx_traffic": "500,000+"
-  },
-  {
-    "country": "France",
-    "title": "Rugby a 7 JO",
+    "title": "Antoine Dupont",
     "pubDate": "Sat, 27 Jul 2024 15:00:00 +0200",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSW8M8U2PyTh_y9Fw-XJH0ggVsti81aLbEXF95cMAQ5QOofSoPzUTg6obQSQkmbgUAlQoTRkAXX",
-    "news_item_snippet": "Les Bleus du rugby \u00e0 7 ont f\u00eat\u00e9 leur victoire au Club France, \u00e0 Paris, apr\u00e8s avoir remport\u00e9 leur titre de champions olympiques samedi 27 juillet C&#39;\u00e9tait la&nbsp;...",
-    "news_item_url": "https://www.sudouest.fr/sport/jeux-olympiques/video-jo-2024-la-danse-de-la-joie-des-bleus-du-rugby-a-7-20729622.php",
-    "picture_source": "Ouest-France",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRaR7BEgKSTYEien4DSMk20tP5mH4R4R0Fczxgp7gxfDMxO60I8sCpfzQ3T6z2U_l8qr7x37GhM",
+    "news_item_snippet": "Apr\u00e8s avoir men\u00e9 l&#39;\u00e9quipe de France de rugby \u00e0 7 \u00e0 l&#39;or olympique, Antoine Dupont a reconnu humblement : \u00ab quand je suis arriv\u00e9 le premier jour \u00e0 Marcoussis&nbsp;...",
+    "news_item_url": "https://www.humanite.fr/sports/jeux-olympiques-paris-2024/je-me-suis-demande-ce-que-je-faisais-la-antoine-dupont-star-du-rugby-a-vii-un-gars-decidement-en-or",
+    "picture_source": "La Croix",
     "approx_traffic": "500,000+"
   },
   {
     "country": "France",
     "title": "Pauline Ferrand prevot",
     "pubDate": "Sat, 27 Jul 2024 13:00:00 +0200",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRL47cjSGI1wyLcBot0rKpzsVQ6u4yfEfLmDh9ifcWj7ZT57ryQ4__8vBttzvEQpeMsCtYTusXX",
-    "news_item_snippet": "La cycliste tout-terrain de 32 ans a ajout\u00e9 dimanche une nouvelle ligne \u00e0 son palmar\u00e8s hors-norme : une m\u00e9daille olympique en VTT qui lui \u00e9chappe depuis&nbsp;...",
-    "news_item_url": "https://www.france24.com/fr/sports/20240728-jo-2024-vtt-cyclisme-medaille-or-pauline-ferrand-prevot-compl%C3%A8te-l%C3%A9gende",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRo0ftkd0CM7_q5hjoBOiJnJg1qWQc1nDb-3avsd7eWSQZKsjRtI9f5ZpXGhSZhSGCWgO-LxTQ7",
+    "news_item_snippet": "Pauline Ferrand-Pr\u00e9vot (VTT cross country) a apport\u00e9 dimanche une deuxi\u00e8me m\u00e9daille d&#39;or dans la corbeille fran\u00e7aise, en attendant le prodige de la natation&nbsp;...",
+    "news_item_url": "https://www.la-croix.com/entree-reussie-pour-marchand-le-cauchemar-continue-pour-thibus-20240728",
     "picture_source": "Vojo Magazine",
     "approx_traffic": "200,000+"
   },
   {
-    "country": "Germany",
-    "title": "Fu\u00dfball Olympia",
-    "pubDate": "Sun, 28 Jul 2024 01:00:00 +0200",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcR99L9v97Egh-ooPxXSr4HMiFOi1ZgyC0d50Uqb4aK7h3z-yIcYdimAwvnsNuwx6Q8gjEAXYRvw",
-    "news_item_snippet": "Die Spanierinnen treffen auf Nigeria. Kann das spanische Starensemble auch im zweiten Spiel den zweiten Sieg einfahren? Dieser Livestream ist unkommentiert.",
-    "news_item_url": "https://www.sportschau.de/olympia/live/fussball-spanien-nigeria-f,livestream-olympia-fussball-148.html",
-    "picture_source": "Sportschau",
-    "approx_traffic": "500,000+"
+    "country": "France",
+    "title": "Thomas Jolly",
+    "pubDate": "Sat, 27 Jul 2024 14:00:00 +0200",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTbwSjLQj577isM9EkFg3kNofDlE2c9RFclOod3YV0DcPsoFJO5wFIFTffcP9sUZLaFbAcNseBL",
+    "news_item_snippet": "Apr\u00e8s les vives critiques sur certaines libert\u00e9s prises durant la c\u00e9r\u00e9monie d&#39;ouverture, Thomas Jolly, metteur en sc\u00e8ne, assure ne pas avoir voulu heurter&nbsp;...",
+    "news_item_url": "https://www.lejdd.fr/societe/jo-paris-2024-thomas-jolly-affirme-ne-pas-avoir-cherche-se-moquer-ou-choquer-avec-sa-ceremonie-douverture-147956",
+    "picture_source": "Ouest-France",
+    "approx_traffic": "200,000+"
   },
   {
     "country": "Germany",
@@ -501,23 +491,43 @@
   },
   {
     "country": "Germany",
-    "title": "Olympia",
-    "pubDate": "Fri, 26 Jul 2024 23:00:00 +0200",
+    "title": "Olympia live",
+    "pubDate": "Sat, 27 Jul 2024 01:00:00 +0200",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQ6XWAEx7QSMb2XWSa7KeKEWup1-wILy_0GSDm-9nFEInorNbQk6BXHZ41RWatMV5jpJwwVRywm",
     "news_item_snippet": "In der ersten Runde trifft Dominik Koepfer auf Milos Raonic. Die derzeitge Nummer 62 aus Deutschland geht heute als Favorit ins Match.",
     "news_item_url": "https://www.sportschau.de/olympia/live/tennis-einzel-raonic-koepfer-m,livestream-olympia-tennis-112.html",
     "picture_source": "Sportschau",
-    "approx_traffic": "1,000,000+"
+    "approx_traffic": "50,000+"
   },
   {
-    "country": "Italy",
-    "title": "Calcio Olimpiadi",
-    "pubDate": "Sun, 28 Jul 2024 01:00:00 +0200",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQwVdB-4Lv3TWRN8pnXHb9P_q3O8JOMpAa-nhJp0rSjdCpQNW6olnsG4N0J7YU4N0T-wtNczNu2",
-    "news_item_snippet": "La nazionale di calcio femminile del Canada \u00e8 stata penalizzata di 6 punti dalla Fifa dopo il caso dello spionaggio con un drone sul campo di allenamento&nbsp;...",
-    "news_item_url": "https://sport.sky.it/olimpiadi/2024/07/27/olimpiadi-2024-calcio-femminile-drone-spia-canada-penalizzazione",
-    "picture_source": "Corriere della Sera",
-    "approx_traffic": "500,000+"
+    "country": "Germany",
+    "title": "Olympische Sommerspiele",
+    "pubDate": "Thu, 25 Jul 2024 04:00:00 +0200",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTJyas26xsaxJk_HSrO3Bg0BVVraqz_C8mkb3k_Y4W4MQYVBwkKvBdCEP7k8wT-q33NGVCmBKCm",
+    "news_item_snippet": "Die olympische Er\u00f6ffnungsfeier in Paris sollte das zuletzt ein wenig ermattete Genre neu beleben. Ein Teil ihrer Imposanz fiel jedoch den Naturgewalten zum&nbsp;...",
+    "news_item_url": "https://www.zeit.de/sport/2024-07/olympische-spiele-paris-eroeffnungsfeier-naturgewalten",
+    "picture_source": "tagesschau.de",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Germany",
+    "title": "Olympische Sommerspiele",
+    "pubDate": "Thu, 25 Jul 2024 23:00:00 +0200",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRqmDxz7158bESMlst5LkknAzKlKjhCG0lUr-I5XqZjOxbznbxz666cSedB_OltVjErBazF-dZr",
+    "news_item_snippet": "Die Allianz l\u00e4uft erstmals gro\u00df bei den Olympischen Sommerspielen auf. Mit einem eigenen Team, einer Kampagne und vielen Aktivit\u00e4ten. Eike B\u00fcrgel kennt die&nbsp;...",
+    "news_item_url": "https://www.horizont.net/marketing/nachrichten/olympische-sommerspiele-2024-die-olympische-bewegung-ist-mehr-als-die-spiele-und-der-sportliche-wettkampf-221547",
+    "picture_source": "Horizont.net",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Germany",
+    "title": "Olympia",
+    "pubDate": "Wed, 24 Jul 2024 23:00:00 +0200",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQ3G8dw2LP_Getfs8RautTAYJi7H7Vl0Zc9dmnGJSskIb2s8qZz13x8IJc-RXppAe_Of6rLzGr_",
+    "news_item_snippet": "Marie-Jos\u00e9 P\u00e9rec und Teddy Riner entz\u00fcnden das olympische Feuer. Frankreich kann Kulturnation. Und C\u00e9line Dion ist wieder da, am Eiffelturm!",
+    "news_item_url": "https://www.zeit.de/sport/2024-07/olympia-eroeffnungsfeier-paris-2024-live",
+    "picture_source": "hessenschau.de",
+    "approx_traffic": "1,000,000+"
   },
   {
     "country": "Italy",
@@ -531,22 +541,22 @@
   },
   {
     "country": "Italy",
+    "title": "Milan",
+    "pubDate": "Sun, 28 Jul 2024 20:00:00 +0200",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQtUoUjrnAwInrwhW2qce93NPO281p-PVR4r-8DYvwFwaA5lK5Iq01PzcE34kjfqwXnU840-CJ5",
+    "news_item_snippet": "Ma, in compenso, anche una cattiva notizia, che tiene in apprensione il clan milanista. Alessandro Florenzi, dopo un duro contrasto con Haaland \u00e8 stato infatti&nbsp;...",
+    "news_item_url": "https://sport.sky.it/calcio/serie-a/2024/07/28/milan-florenzi-infortunio-news",
+    "picture_source": "AGI - Agenzia Giornalistica Italia",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Italy",
     "title": "Simone Biles",
     "pubDate": "Sun, 28 Jul 2024 12:00:00 +0200",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQSTe5gwEgN7H9FsSu4OKfxtcgRh6uYNSQbKq2XvWt87jqTfrCxkfXB6rt9lJIYZcYrEx4A54Rg",
     "news_item_snippet": "La stella della ginnastica americana Simone Biles sembra aver subito un infortunio alla gamba alle qualificazioni di ginnastica alle Olimpiadi di Parigi&nbsp;...",
     "news_item_url": "https://www.adnkronos.com/sport/simone-biles-infortunio-olimpiadi-parigi-news_7koEO5JTUSAutTWyD084Wr",
     "picture_source": "Il Fatto Quotidiano",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Italy",
-    "title": "Italia Repubblica Dominicana",
-    "pubDate": "Sun, 28 Jul 2024 10:00:00 +0200",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQ3rPnMMkWolBUqFdfCZaz_-9cDGGrluPAgnwNhFS_vupT-E-X1aJDZ0S_Wyc4wedzJ-ls2pBAW",
-    "news_item_snippet": "\u00c8 iniziata con una vittoria per 3-1 l&#39;avventura Olimpica dell&#39;Italia di pallavolo femminile. Battuta la Repubblica Dominicana al debutto.",
-    "news_item_url": "https://olympics.com/it/notizie/pallavolo-femminile-italia-repubblica-dominicana-risultato-olimpiadi-parigi-2024",
-    "picture_source": "Eurosport.it",
     "approx_traffic": "50,000+"
   },
   {
@@ -623,11 +633,11 @@
     "country": "Spain",
     "title": "Venezuela",
     "pubDate": "Sun, 28 Jul 2024 02:00:00 +0200",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSdkjqy9sZmj779U8JQE9vny8ReOGJgdoIscEi6zQl-bR5SZ7hTt_cMZDmwdK6ByN37EQ4J8sRx",
-    "news_item_snippet": "El actual presidente, Nicol\u00e1s Maduro, en el poder desde 1999, busca la reelecci\u00f3n por otros seis a\u00f1os, aunque las encuestas no le dan la victoria.",
-    "news_item_url": "https://www.cartv.es/aragonnoticias/noticias/venezuela-elige-entre-seguir-o-no-bajo-el-chavismo-en-las-presidenciales-de-este-domingo-26718",
-    "picture_source": "EL PA\u00cdS",
-    "approx_traffic": "100,000+"
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQhDKsXqaLql4n9Bkz7iQtGDSjHs70kewN9aAVlTKgNouk024DDcnrZJO1lQ0jCsO0P0OmtzUCy",
+    "news_item_snippet": "No se ha llegado hasta aqu\u00ed por un terremoto pol\u00edtico, sino m\u00e1s bien por la gota de agua insistente que cae sobre la piedra. Elecciones Venezuela&nbsp;...",
+    "news_item_url": "https://elpais.com/america/2024-07-28/vertigo-en-venezuela.html",
+    "picture_source": "El Mundo",
+    "approx_traffic": "200,000+"
   },
   {
     "country": "Spain",
@@ -647,6 +657,16 @@
     "news_item_snippet": "Juego Manchester City - Milan En Vivo Online: minuto a minuto del partido de la Soccer Champions Tour hoy: hora, canal, alineaciones y m\u00e1s, desde el Yankee&nbsp;...",
     "news_item_url": "https://www.marca.com/mx/futbol/m-city-milan/2024/07/28/01_0111_20240727_43_120-directo.html",
     "picture_source": "Motor Zeta",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Spain",
+    "title": "Sara Sorribes",
+    "pubDate": "Sun, 28 Jul 2024 13:00:00 +0200",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSlppnxE9NTdN8cDfFv9gdPalgB62h2fv32F5JO0VlcBPHLMuuZ39SIC_4XIEF0TxmBol_7lBj1",
+    "news_item_snippet": "La tenista espa\u00f1ola gan\u00f3 el primer set, pero la vigente campeona de Wimbledon reaccion\u00f3 y se llev\u00f3 el gato al agua en el tie break de la tercera manga (6-4,&nbsp;...",
+    "news_item_url": "https://www.elespanol.com/deportes/juegos-olimpicos/20240728/sara-sorribes-sucumbe-krejcikova-despide-cuadro-individual-juegos-primera-ronda/873912666_0.html",
+    "picture_source": "AS",
     "approx_traffic": "50,000+"
   },
   {
@@ -674,8 +694,8 @@
     "title": "Dr Doom",
     "pubDate": "Sun, 28 Jul 2024 08:00:00 +0100",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSXi1NLrH18wIG_ozqftS9p0XUkcQE4j3lfS9PXu05qZjwoFexEd7-yhIFhz1W9Pawy7whShg7L",
-    "news_item_snippet": "MCU fans are shocked after Kevin Feige announced that Robert Downey Jr. will return to the MCU as Doctor Doom, not Iron Man.",
-    "news_item_url": "https://www.forbes.com/sites/danidiplacido/2024/07/28/robert-downey-jrs-casting-as-doctor-doom-sparks-backlash-from-fans/",
+    "news_item_snippet": "Why is Marvel bringing Robert Downey Jr. back as Victor von Doom, of all people? There are two possible explanations at this point.",
+    "news_item_url": "https://www.forbes.com/sites/paultassi/2024/07/28/robert-downey-jr-as-the-mcus-doctor-doom-theres-two-explanations/",
     "picture_source": "BBC News",
     "approx_traffic": "100,000+"
   },
@@ -687,7 +707,7 @@
     "news_item_snippet": "American gymnast Simone Biles dazzles on her Olympics return and shows she is back to her best three years after suffering the &quot;twisties&quot;.",
     "news_item_url": "https://www.bbc.co.uk/sport/olympics/articles/cd1j029mzgyo",
     "picture_source": "The Independent",
-    "approx_traffic": "50,000+"
+    "approx_traffic": "100,000+"
   },
   {
     "country": "United Kingdom",
@@ -701,22 +721,12 @@
   },
   {
     "country": "United Kingdom",
-    "title": "Skateboarding olympics",
-    "pubDate": "Sat, 27 Jul 2024 01:00:00 +0100",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSiU5RowZWfrzLDyKODhc4oDpwbC0eBQhiGtLOMGm3etMtA2G-QYdfBMKWemqga9a5GqPzeU96R",
-    "news_item_snippet": "Find out more about Olympian Brittany Broben&#39;s special role in supporting Chloe Covell through the Paris 2024 Olympics.",
-    "news_item_url": "https://olympics.com/en/news/chloe-covell-exclusive-big-sister-brittany-broben-interview-paris-olympics",
-    "picture_source": "Olympics",
-    "approx_traffic": "1,000,000+"
-  },
-  {
-    "country": "United Kingdom",
-    "title": "UFC",
-    "pubDate": "Sat, 27 Jul 2024 18:00:00 +0100",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTrERboSO-wIO--RXrfhpW8ITO1bZx5nRkZERQFJUNUaR3qhuPXQ-ryAUbCf6TRqXgtc6cqCQr2",
-    "news_item_snippet": "See The Fight Results, Watch Post-Fight Interviews With The Main Card Winners And More From UFC 304: Edwards vs Muhammad 2, Live From Co-op Live In&nbsp;...",
-    "news_item_url": "https://www.ufc.com/news/main-card-results-highlights-winner-interviews-ufc-304-edwards-vs-muhammad-2",
-    "picture_source": "BBC News",
-    "approx_traffic": "500,000+"
+    "title": "George Russell",
+    "pubDate": "Sun, 28 Jul 2024 13:00:00 +0100",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRZneZKIjnpAl8dIG6gMqvUM4jBZ9_ECqjOJ-VeHyEYiCkxeoteZZvbbwnKqF25zYQcd6PWdZ4X",
+    "news_item_snippet": "In an initial post-race check, Russell&#39;s Mercedes car was found to be 1.5 kg under the weight permitted in the regulations following the obligatory drainage of&nbsp;...",
+    "news_item_url": "https://www.independent.co.uk/f1/george-russell-disqualified-belgian-gp-mercedes-f1-b2587297.html",
+    "picture_source": "The Independent",
+    "approx_traffic": "50,000+"
   }
 ]
