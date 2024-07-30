@@ -1,11 +1,31 @@
 [
   {
     "country": "United States",
+    "title": "Buffalo Wild Wings",
+    "pubDate": "Tue, 30 Jul 2024 00:00:00 -0700",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcToH72nWxJ15vWwFXskPRidiUXj3Zz8w0pKRnkHDvhBJpArHLf1870DIov14tDoGJv334X6jiQe",
+    "news_item_snippet": "The restaurant will host a grand opening event Aug. 1, with promos, giveaways and a chance to get free wings for a year. The first 100 diners who show&nbsp;...",
+    "news_item_url": "https://patch.com/illinois/downersgrove/buffalo-wild-wings-go-set-open-downers-grove",
+    "picture_source": "FOX 32 Chicago",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Women's rugby Olympics",
+    "pubDate": "Tue, 30 Jul 2024 09:00:00 -0700",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSzoVlWAKrqgoc6moqYEmu8nuYhpHPs0NUhvjREUr7ITBXX8xT6R6e-mTbDZFkaHRxLF5nm-6j6",
+    "news_item_snippet": "The U.S. will now play the loser of the Canada-Australia semifinal in the bronze medal match at 1 p.m. ET/10 a.m. PT. Paris 2024 Summer Olympics. Watch all the&nbsp;...",
+    "news_item_url": "https://www.nbcconnecticut.com/paris-2024-summer-olympics/team-usa-new-zealand-womens-rugby-semifinal/3348454/",
+    "picture_source": "NBC Connecticut",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
     "title": "Donald Trump",
     "pubDate": "Mon, 29 Jul 2024 14:00:00 -0700",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRrSQnpG0QWekrg2pQg5LwtcLuCyFeX1jGonrJleeiA00SLbyi2RoNE3QIcrRzkwsxPWN4i2uOd",
-    "news_item_snippet": "Donald Trump will attend the NABJ convention 2024 at 720 South Michigan Avenue in South Loop, Chicago this week, his campaign said.",
-    "news_item_url": "https://abc7chicago.com/post/donald-trump-chicago-former-president-attend-nabj-2024/15119113/",
+    "news_item_snippet": "Donald Trump on Monday&nbsp;...",
+    "news_item_url": "https://www.ksla.com/2024/07/30/donald-trump-says-he-probably-will-debate-kamala-harris-can-also-make-case-not/",
     "picture_source": "The Associated Press",
     "approx_traffic": "500,000+"
   },
@@ -13,10 +33,10 @@
     "country": "United States",
     "title": "Erica Ash death",
     "pubDate": "Mon, 29 Jul 2024 10:00:00 -0700",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRLoitNa412pWpFwWklRs5eP06QjNWw22ZyDUDMv3BrBVhGKWHsNCm6svmijSIMwJuoyKnfjWAv",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQJF2-1x-A7q4vHrw09sxp6Jhl1LtghZhtVx08LjjKYbugT2rk7zr6HAJxS8T_MUiJQnPTrfEeO",
     "news_item_snippet": "Erica Ash, an actress and comedian known for her roles on \u201cMADtv,\u201d \u201cReal Husbands of Hollywood,\u201d and &#39;Survivor&#39;s Remorse,&#39; has died. She was 46.",
     "news_item_url": "https://www.wsbtv.com/news/local/dekalb-county/madtv-real-husbands-hollywood-actress-erica-ash-dies-46/SP7ANTOZCBHQDLGJBQIEMZO3AA/",
-    "picture_source": "The Associated Press",
+    "picture_source": "Los Angeles Times",
     "approx_traffic": "500,000+"
   },
   {
@@ -33,10 +53,10 @@
     "country": "United States",
     "title": "Southport",
     "pubDate": "Mon, 29 Jul 2024 14:00:00 -0700",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTVMoZEJHAPndF5I8jMhbuXxfHc2jmAZ61q5wkDC54nvDaTkxvxh3jQ6jn-RgQe1w5yStaQ45xh",
-    "news_item_snippet": "A 17-year-old suspect is in police custody after a UK knife attack kills three children and injures 10.",
-    "news_item_url": "https://www.aljazeera.com/news/2024/7/30/southport-stabbing-what-we-know-about-the-victims-and-suspect",
-    "picture_source": "BBC News",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRK5K5luGB86H8kQ92AUUbb4ngA2-C7Bnov03gbzAIg9ZIhcGIZQSx9YSA7l5KXVQspc44g5Q5o",
+    "news_item_snippet": "The United Kingdom was left shaken after two children were stabbed to death and nine others were injured in a knife attack in Southport, in one of the worst&nbsp;...",
+    "news_item_url": "https://www.cnn.com/2024/07/30/uk/southport-stabbing-attack-explainer/index.html",
+    "picture_source": "NorthJersey.com",
     "approx_traffic": "200,000+"
   },
   {
@@ -44,9 +64,19 @@
     "title": "Earthquake",
     "pubDate": "Mon, 29 Jul 2024 14:00:00 -0700",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQERGqZgz4PJVeidkzef4g99thULpv-n3npozVZi-vBZLvHKIQC6nzHZ6xo12njyLvhsjPiRo3H",
-    "news_item_snippet": "The USGS initially measured the quake as a 5.1 magnitude but quickly downgraded it to 4.9. It was followed by several significant aftershocks measuring 3.5 and&nbsp;...",
-    "news_item_url": "https://ktla.com/news/california/powerful-earthquake-rattles-southern-california/",
+    "news_item_snippet": "The temblor happened at 1 p.m. Pacific time about 14 miles northeast of Barstow, Calif., data from the agency shows. As seismologists review available data,&nbsp;...",
+    "news_item_url": "https://www.nytimes.com/interactive/2024/07/29/us/quake-tracker-california-barstow.html",
     "picture_source": "NBC Southern California",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Brody Malone",
+    "pubDate": "Mon, 29 Jul 2024 19:00:00 -0700",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcT1DAtyAeTGD6bGwoMX7A3n4ZsUUwt-bjggt3N4svvHFEqE8cohb5H_rBSOzrUPB30uL6xt4084",
+    "news_item_snippet": "Brody Malone called qualifying the worst meet of his life, but he turned in huge performance in the Olympic team final to boost USA to a bronze medal.",
+    "news_item_url": "https://www.usatoday.com/story/sports/olympics/2024/07/29/brody-malone-us-gymnastics-olympic-bronze/74595257007/",
+    "picture_source": "Today.com",
     "approx_traffic": "100,000+"
   },
   {
@@ -63,7 +93,7 @@
     "country": "United States",
     "title": "Michael Kopech",
     "pubDate": "Mon, 29 Jul 2024 12:00:00 -0700",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQro4lifIrdZ5YuURaVDnxGYmgWyOElbHgl3GuPPFPcknNOpmyLlO1-HRz6e-wVq0-8ZbP0TgfN",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRwZaSACjH-NFI5HtJpdOAAQ8UOlYcsJDseaEXaa1I-k7ksOZ5lR_gAQIAlcbjR3m6ryduXt1qt",
     "news_item_snippet": "The Dodgers acquired infielder Tommy Edman from the Cardinals and relief pitcher Michael Kopech from the White Sox Monday as part of a three-team deal.",
     "news_item_url": "https://www.nbclosangeles.com/news/sports/dodgers-trade-tommy-edman-michael-kopech-miguel-vargas/3472205/",
     "picture_source": "MLB.com",
@@ -71,21 +101,11 @@
   },
   {
     "country": "United States",
-    "title": "Frederick Richard",
-    "pubDate": "Mon, 29 Jul 2024 19:00:00 -0700",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcREaW2ioOEc6NDAg6wRgI2PrCrIOq36css4ILaB0sQ3AlqKmY9RPPBePqjZ9ZvgQ0PY1abk7VaQ",
-    "news_item_snippet": "Frederick Richard went into the Olympics wanted to inspire people to get into gymnastics. This routine likely did that.",
-    "news_item_url": "https://www.enterprisenews.com/story/sports/2024/07/29/frederick-richards-high-bar-olympics-paris-2014-bronze/74590745007/",
-    "picture_source": "wgbh.org",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "United States",
     "title": "Chino XL",
     "pubDate": "Mon, 29 Jul 2024 19:00:00 -0700",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTvH-hXiKsl118Ez-eBlAOvGTWsJEO0kz7nkGLDUgNSWZeznLEuiebL6yk_ehOYNGDoh0J2AEvA",
-    "news_item_snippet": "Rap star Chino XL is dead at age 50, just days after he joined Rakim on &#39;Pendulum Swing,&#39; which dropped last week.",
-    "news_item_url": "https://www.rollingstone.com/music/music-news/chino-xl-rapper-dead-obituary-1235070387/",
+    "news_item_snippet": "Chino XL&#39;s friends, family, and collaborators are paying tribute to the rap veteran who died at his home on Sunday morning at the age of 50.",
+    "news_item_url": "https://www.rollingstone.com/music/music-news/chino-xl-tributes-1235070630/",
     "picture_source": "Variety",
     "approx_traffic": "100,000+"
   },
@@ -121,21 +141,11 @@
   },
   {
     "country": "United States",
-    "title": "Alexander Mountain Fire",
-    "pubDate": "Mon, 29 Jul 2024 19:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTiuYbxKuUjh1x6p5QPrvGGACT4_zW882CF7q6BGRb0gnLF4b43uGWaOETPd1Ji87rFV1btmUSw",
-    "news_item_snippet": "GRAND JUNCTION, Colo.&nbsp;...",
-    "news_item_url": "https://www.kkco11news.com/2024/07/30/alexander-mountain-fire-near-loveland-continues-grow/",
-    "picture_source": "KKCO-TV",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
     "title": "MLB trade deadline",
     "pubDate": "Mon, 29 Jul 2024 19:00:00 -0700",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRl9Ar6cCuzavJmicPM2G_iLoaRCD5exnj2zpfkTVCwRCMA5RU6jEJb9tZIKqdo-vs2iAbczFqP",
-    "news_item_snippet": "It&#39;s the final countdown. No, we&#39;re not talking about the finale of a Europe concert, but rather the time ticking away toward today&#39;s 6 p.m. ET Major League&nbsp;...",
-    "news_item_url": "https://www.mlb.com/news/2024-mlb-trade-deadline-biggest-storylines-left",
+    "news_item_snippet": "It&#39;s MLB trade deadline day. Here&#39;s a look at all the deals, trades and more made for the Yankees, Mets and throughout baseball.",
+    "news_item_url": "https://www.northjersey.com/story/sports/mlb/2024/07/30/when-is-mlb-trade-deadline-2024-updates-rumors-yankees-mets-mlb-news-blake-snell/74529658007/",
     "picture_source": "bleedcubbieblue.com",
     "approx_traffic": "50,000+"
   },
@@ -154,29 +164,19 @@
     "title": "Dollywood flooding",
     "pubDate": "Mon, 29 Jul 2024 08:00:00 -0700",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRqHxkm3yHjQZjHmAMaKx2pziwt0jKAxb2aPksbkd9d3wbx4PpT0TvYZvzONuzD0R9MU-dZaYh-",
-    "news_item_snippet": "Flash flooding at Dollywood on Sunday shuts down park as crews clean up. Here&#39;s what happened.",
-    "news_item_url": "https://www.knoxnews.com/story/news/2024/07/29/dollywood-flooding-video-photos-of-flash-floods-theme-park-east-tennessee/74584705007/",
+    "news_item_snippet": "Strong thunderstorms brought flash flooding to Dolly Parton&#39;s Dollywood in east Tennessee. Park officials say workers and the Pigeon Forge police and fire&nbsp;...",
+    "news_item_url": "https://apnews.com/article/dollywood-tennessee-flooding-33d1d54a0c8dc5d25bcaa68ab3519854",
     "picture_source": "FOX Weather",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Yankees vs Phillies",
-    "pubDate": "Mon, 29 Jul 2024 18:00:00 -0700",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcT6DvKeSsfH-EfU1XEWl89jGTeR_w7MhyzHa8Sz0Ldlq-sdD_TjvLlSjvLNEuOg3tgRDIX1r3xZ",
-    "news_item_snippet": "The Philadelphia Phillies host New York Yankees on Monday, July 29, 2024 (7/29/24) at Citizens Bank Park in Philadelphia, Pennsylvania.",
-    "news_item_url": "https://www.nj.com/yankees/2024/07/what-time-is-the-new-york-yankees-vs-philadelphia-phillies-game-today-72924-free-live-stream-time-tv-channel-for-yankees-vs-phillies-game.html",
-    "picture_source": "NBC Sports",
     "approx_traffic": "50,000+"
   },
   {
     "country": "India",
     "title": "Wayanad",
     "pubDate": "Tue, 30 Jul 2024 09:30:00 +0530",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQ9iX2HUE00cwOCRIkmomVexAHPA2P9N4cD4qvPPbgwtmanEw--TbR7aPqR2aLrmZDb8zHGR5yG",
-    "news_item_snippet": "Wayanad Landslide \u0915\u0947\u0930\u0932 \u0915\u0947 \u0935\u093e\u092f\u0928\u093e\u0921 \u091c\u093f\u0932\u0947 \u092e\u0947\u0902 \u092d\u093e\u0930\u0940 \u092c\u093e\u0930\u093f\u0936 \u0915\u0947 \u092c\u093e\u0926 \u0939\u0941\u090f \u092d\u092f\u093e\u0928\u0915 \u092d\u0942\u0938\u094d\u0916\u0932\u0928 \u0938\u0947 \u0930\u093e\u091c\u094d\u092f \u092e\u0947\u0902 \u0924\u092c\u093e\u0939\u0940 \u092e\u091a\u0940 \u0939\u0941\u0908 \u0939\u0948\u0964 \u0907\u0938 \u0939\u093e\u0926\u0938\u0947 \u092e\u0947\u0902 \u0905\u092c\u0924\u0915 93 \u0932\u094b\u0917\u094b\u0902&nbsp;...",
-    "news_item_url": "https://www.jagran.com/news/national-why-did-the-landslide-happen-in-wayanad-kerala-climate-scientists-gave-the-reason-23768836.html",
-    "picture_source": "BBC News",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQrkyxit77O42fPfXJdrsd6wvSD7uDZpRksKKMNZURaAmnhWv3kTNQhKV4F7tWnC0G6XIexmRd6",
+    "news_item_snippet": "Heavy rain caused the disaster, which struck early in the morning as most residents were asleep.",
+    "news_item_url": "https://www.bbc.com/news/articles/c51y7k2y7v1o",
+    "picture_source": "Business Today",
     "approx_traffic": "200,000+"
   },
   {
@@ -184,9 +184,19 @@
     "title": "Friendship Day",
     "pubDate": "Tue, 30 Jul 2024 08:30:00 +0530",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTmvCLCt8y_ghu0d-_3TDUAFoNw30pWDmX1n2HavMkW1DPScneRmp0tnlyJpLoL0DzbrE9getLD",
-    "news_item_snippet": "\u0915\u0908 \u0938\u093e\u0930\u0947 \u0926\u0947\u0936\u094b\u0902 \u092e\u0947\u0902 30 \u091c\u0941\u0932\u093e\u0908 \u0915\u094b \u092b\u094d\u0930\u0947\u0902\u0921\u0936\u093f\u092a \u0921\u0947 (International Friendship Day) \u092e\u0928\u093e\u092f\u093e \u091c\u093e\u0924\u093e \u0939\u0948\u0964 \u091c\u093f\u0938\u0915\u0940 \u0938\u093e\u0932 2011 \u092e\u0947\u0902 \u0936\u0941\u0930\u0941\u0906\u0924 \u0939\u0941\u0908 \u0925\u0940\u0964",
-    "news_item_url": "https://www.jagran.com/lifestyle/festivals-international-friendship-day-2024-wishes-messages-quotes-photos-whatsapp-stickers-facebook-status-23768402.html",
+    "news_item_snippet": "Friendship Day, proposed by Hallmark founder Joyce Hall, is celebrated on different dates worldwide. The UN recognized it on July 30, 2011.",
+    "news_item_url": "https://m.economictimes.com/news/new-updates/friendship-day-2024-on-july-30-or-august-4-here-is-history-images-wishes-quotes-to-celebrate-friendship/articleshow/112130616.cms",
     "picture_source": "Business Standard",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "India",
+    "title": "Wayanad Landslide",
+    "pubDate": "Tue, 30 Jul 2024 11:30:00 +0530",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQ9iX2HUE00cwOCRIkmomVexAHPA2P9N4cD4qvPPbgwtmanEw--TbR7aPqR2aLrmZDb8zHGR5yG",
+    "news_item_snippet": "Kerala Government seeks assistance from the Indian Army for rescue operations in the wake of the devastating landslides in Wayanad ... Rescue&nbsp;...",
+    "news_item_url": "https://www.thehindu.com/news/national/kerala/wayanad-landslides-live-updates-july-30/article68462900.ece",
+    "picture_source": "BBC News",
     "approx_traffic": "100,000+"
   },
   {
@@ -194,8 +204,8 @@
     "title": "Arvind Kejriwal",
     "pubDate": "Tue, 30 Jul 2024 00:30:00 +0530",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRI3Hyjs3u3iOPJ0Ow_eDfxpVBgZ2RxNROuRABK35WKVdZq6mO46YTCJS-sKaEjDwZjtiziaGlj",
-    "news_item_snippet": "Leaders from the INDIA bloc gathered at Jantar Mantar to protest against the BJP-led Centre, demanding the release of Delhi Chief Minister Arvind Kejriwal,&nbsp;...",
-    "news_item_url": "https://m.economictimes.com/news/politics-and-nation/india-bloc-leaders-gather-at-jantar-mantar-demand-release-of-delhi-cm-arvind-kejriwal/articleshow/112135845.cms",
+    "news_item_snippet": "INDIA bloc protest in Jantar Mantar, Delhi: Opposition parties blame Centre for obstructing Delhi government; demand the release of Delhi CM Arvind&nbsp;...",
+    "news_item_url": "https://www.thehindu.com/news/national/india-bloc-protest-at-jantar-mantar-opposition-demands-release-of-delhi-cm-kejriwal/article68464154.ece",
     "picture_source": "Times of India",
     "approx_traffic": "50,000+"
   },
@@ -203,10 +213,10 @@
     "country": "India",
     "title": "Sarabjot Singh",
     "pubDate": "Tue, 30 Jul 2024 07:30:00 +0530",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQyg_Gm7TtsQ6H3nDrBv_PujtXf86PTxk4W1Z8k7iTgiOCf4OeUZjGD_TPYpB-Wqr3um89ifnbe",
-    "news_item_snippet": "This victory came just days after Singh faced disappointment in his Olympic debut, where he narrowly missed the final in the men&#39;s 10m pistol event on July&nbsp;...",
-    "news_item_url": "https://www.businesstoday.in/india/story/who-is-sarabjot-singh-shooter-who-clinched-bronze-at-paris-olympics-2024-with-manu-bhaker-439447-2024-07-30",
-    "picture_source": "Olympics",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRIHWm4mz4Y7c9xZpuCSCiSup7Vk5F_2Dr8LDnWgkqaH8XdJfLBU93f3fAVnL4vL1ZRZMuN97D2",
+    "news_item_snippet": "Indian shooters Manu Bhaker and Sarabjot Singh won the bronze medal in the 10m air pistol shooting event at the Paris 2024 Olympics.",
+    "news_item_url": "https://olympics.com/en/news/paris-2024-olympics-shooting-mixed-team-10m-air-pistol-bronze-medal",
+    "picture_source": "India Today",
     "approx_traffic": "50,000+"
   },
   {
@@ -244,8 +254,18 @@
     "title": "Southport",
     "pubDate": "Tue, 30 Jul 2024 07:00:00 +1000",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTR1a90nMtItyf1FlNpbtDyeBYJYDHvRKo27wieV2GWy_sB2qIpipaIV6LmGA9_LpQv799XNQo-",
-    "news_item_snippet": "A boy, 17, was arrested after at least eight people were injured in a &quot;horror movie&quot; knife attack in Southport.",
-    "news_item_url": "https://www.bbc.com/news/articles/cy68z9dw9e7o",
+    "news_item_snippet": "The United Kingdom was left shaken after two children were stabbed to death and nine others were injured in a knife attack in Southport, in one of the worst&nbsp;...",
+    "news_item_url": "https://www.cnn.com/2024/07/30/uk/southport-stabbing-attack-explainer/index.html",
+    "picture_source": "ABC News",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Australia",
+    "title": "Boomers",
+    "pubDate": "Tue, 30 Jul 2024 21:00:00 +1000",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQr0F3tWR28YOXS45CNU4uFAY2_3IDlPKd3Bq5jjgSqn2P_oxHlLV0J-H7hDhD5tlcDRIAPETSd",
+    "news_item_snippet": "The Boomers have suffered their first loss at the Olympics as Canada&#39;s star-studded squad flexed their muscles in a 93-83 comeback win.",
+    "news_item_url": "https://www.nine.com.au/sport/olympics/paris-2024-basketball-news-australia-boomers-canada-result-highlights-report-video-20240730-p5jxrl.html",
     "picture_source": "ABC News",
     "approx_traffic": "50,000+"
   },
@@ -261,31 +281,21 @@
   },
   {
     "country": "Brazil",
-    "title": "Gremio",
-    "pubDate": "Mon, 29 Jul 2024 12:00:00 -0500",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTzLry6lv3vfmC9Oj90Syv-mgDbannPFyDe2xXXGvDxraVKtfuzjIbrsDwkLEdvrqKffGjgyRPS",
-    "news_item_snippet": "Os zagueiros Pedro Geromel e Gustavo Martins e o volante Carballo se juntaram ao grupo gremista nesta segunda-feira (29). Para melhorar sua log\u00edstica e&nbsp;...",
-    "news_item_url": "https://www.cnnbrasil.com.br/esportes/futebol/gremio/gremio-tera-tres-reforcos-para-enfrentar-o-corinthians-pela-copa-do-brasil/",
-    "picture_source": "globoesporte.com",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "Brazil",
     "title": "Elei\u00e7\u00f5es Venezuela",
     "pubDate": "Mon, 29 Jul 2024 09:00:00 -0500",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSUwg9GnO2-KpGTTRRPBgfgKf1kMvDiKK-VcvHT5sMLnamlimBRaEway6yTJ56zZFEU-o3oSo82",
-    "news_item_snippet": "A l\u00edder da oposi\u00e7\u00e3o venezuelana, Mar\u00eda Corina Machado, rejeitou a vit\u00f3ria de Nicol\u00e1s Maduro nas elei\u00e7\u00f5es presidenciais anunciadas pelo Conselho Nacional&nbsp;...",
-    "news_item_url": "https://www.bbc.com/portuguese/articles/ceqdjq6gyp5o",
-    "picture_source": "CNN Brasil",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcR4hifIXsil5l_qGQyrW7vLZOlHKbSKgW9IfyfHqnCrzi3McypKt9VViHto9EegtgiqyWn9X7tj",
+    "news_item_snippet": "Legendas de oposi\u00e7\u00e3o alegam falta de transpar\u00eancia nas elei\u00e7\u00f5es; das siglas aliadas ao presidente da Venezuela, apenas o PT se manifestou.",
+    "news_item_url": "https://www.cnnbrasil.com.br/politica/eleicao-na-venezuela-partidos-brasileiros-reagem-ao-anuncio-de-vitoria-de-maduro/",
+    "picture_source": "EBC",
     "approx_traffic": "200,000+"
   },
   {
     "country": "Brazil",
-    "title": "Atletico MG",
-    "pubDate": "Mon, 29 Jul 2024 15:00:00 -0500",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTkP8IDWAMGmPa0HFi7w7guFvavcsaiRlwMlzi_NbyQJGJhc_ncmaB7PiylrRPQ6Gnwg6tCW4At",
-    "news_item_snippet": "A poss\u00edvel ida do zagueiro Mauricio Lemos do Atl\u00e9tico-MG para o S\u00e3o Paulo est\u00e1 estacionada neste momento. De acordo com apura\u00e7\u00e3o da ESPN, os dois clubes&nbsp;...",
-    "news_item_url": "https://www.espn.com.br/futebol/brasileirao/artigo/_/id/13969667/atletico-mg-e-sao-paulo-divergem-sobre-situacao-de-mauricio-lemos-e-deixam-negociacao-estacionada",
+    "title": "Paysandu x Novorizontino",
+    "pubDate": "Mon, 29 Jul 2024 16:00:00 -0500",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRThw5CFGXinYle3Cpaj63NEeMonzWglk_l2RN0RpBetzPOWz4N5ENZOeUOAM5yN-x7l_khg5mh",
+    "news_item_snippet": "flipboard. O Paysandu recebe o Novorizontino nesta segunda-feira (29), \u00e0s 18h30, em partida v\u00e1lida pela 18\u00aa rodada da Brasileiro S\u00e9rie B 2024. O confronto&nbsp;...",
+    "news_item_url": "https://www.cnnbrasil.com.br/esportes/brasileirao/paysandu-x-novorizontino-horario-e-onde-assistir-ao-jogo-da-serie-b/",
     "picture_source": "globoesporte.com",
     "approx_traffic": "100,000+"
   },
@@ -293,7 +303,7 @@
     "country": "Canada",
     "title": "Artistic gymnastics Olympics",
     "pubDate": "Mon, 29 Jul 2024 01:00:00 -0400",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQ9zqqulxNQ43zudaOyY0uHDY2x6BcB5gNAcl_lTBtUQNxd05xLgWbW6tSIxJ-SCp2ujaHZ6Li6",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQQ3k8cXQXf6y4kgDdKtTtWqamAFp36paYvW_cZqN6DROqdmww304Ucw5MAPUPI2Z735EAhgpQ1",
     "news_item_snippet": "Live news updates as Team USA competes in the Olympic gymnastics women&#39;s team final. Follow the latest as Simone Biles, Jordan Chiles, Suni Lee and others&nbsp;...",
     "news_item_url": "https://www.nbcnews.com/sports/olympics/live-blog/gymnastics-women-team-final-olympics-live-updates-rcna163576",
     "picture_source": "Aljazeera.com",
@@ -314,8 +324,8 @@
     "title": "Southport",
     "pubDate": "Mon, 29 Jul 2024 15:00:00 -0400",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSseLJEeqX7v2EpM7P-bCYtkifOQf9hQomwrfKt7dfPphidLMKZdwAM_FpBQTZb8J78vzpOSx7o",
-    "news_item_snippet": "A boy, 17, was arrested after at least eight people were injured in a &quot;horror movie&quot; knife attack in Southport.",
-    "news_item_url": "https://www.bbc.com/news/articles/cy68z9dw9e7o",
+    "news_item_snippet": "Sadly we can confirm that a third child has passed away as a result of injuries sustained in a knife attack in Southport yesterday morning, Monday 29 July.",
+    "news_item_url": "https://www.merseyside.police.uk/news/merseyside/news/2024/july/update-on-major-incident-in-southport/",
     "picture_source": "CTV News",
     "approx_traffic": "50,000+"
   },
@@ -324,8 +334,8 @@
     "title": "Judo",
     "pubDate": "Mon, 29 Jul 2024 12:00:00 -0400",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQpNTamh2rJ3FjGGnc3nd5Po2Of2KfERZEt3328FT2qT4Dxs6POtLeppGMrA54CqX3VGf7iDtkT",
-    "news_item_snippet": "Les parcours vers une m\u00e9daille des deux Qu\u00e9b\u00e9cois en action au tournoi de judo des Jeux olympiques de Paris, mardi, devront passer par les rep\u00eachages.",
-    "news_item_url": "https://www.lapresse.ca/sports/jeux-olympiques/2024-07-30/judo/beauchemin-pinard-et-gauthier-drapeau-devront-passer-par-le-repechage.php",
+    "news_item_snippet": "Catherine Beauchemin-Pinard et Fran\u00e7ois Gauthier-Drapeau ont termin\u00e9 au septi\u00e8me rang de leur cat\u00e9gorie respective au judo.",
+    "news_item_url": "https://www.tvasports.ca/2024/07/30/judo--lelimination-avant-les-medailles-pour-deux-quebecois",
     "picture_source": "Comit\u00e9 olympique canadien",
     "approx_traffic": "50,000+"
   },
@@ -351,23 +361,33 @@
   },
   {
     "country": "France",
+    "title": "Basket JO 2024",
+    "pubDate": "Tue, 30 Jul 2024 18:00:00 +0200",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQKe9bKr49_xQmceC_O7Ipv6eOkiZqbujalfce5xOxR6bTGazdXiohVrm5h-lElOMLTtUDTpqsm",
+    "news_item_snippet": "Le joueur des Los Angeles Lakers porte les espoirs du Japon dans ces Jeux olympiques. Il sera le danger n\u00b0 1 des Nippons face \u00e0 la France,&nbsp;...",
+    "news_item_url": "https://www.ouest-france.fr/sport/basket/equipe-de-france/jo-2024-basket-rui-hachimura-larme-du-japon-face-aux-bleus-2f31d7de-4e63-11ef-b169-5a3a31fb9518",
+    "picture_source": "Franceinfo",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "France",
     "title": "Yannik Mazzilli",
     "pubDate": "Tue, 30 Jul 2024 10:00:00 +0200",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTcg4B9cAArX1ZaWA-12tJw7gfFRnIr2nZcD6Uqd8O9ihK2EEG4q0EjwchDHGABj9HDidjregat",
-    "news_item_snippet": "Yannik Mazzilli, qui incarnait depuis 2012 Herv\u00e9, le fr\u00e8re d&#39;Emma, dans \u00abSc\u00e8nes de m\u00e9nages \u00bb, est d\u00e9c\u00e9d\u00e9 dans la nuit du lundi 29 au mardi 30 juillet.",
-    "news_item_url": "https://www.lepoint.fr/culture/deces-du-comedien-vu-dans-scenes-de-menages-yannik-mazzilli-30-07-2024-2566829_3.php",
+    "news_item_snippet": "L&#39;acteur qui incarnait depuis 2012 le r\u00f4le r\u00e9current de Herv\u00e9, le fr\u00e8re d&#39;Emma, dans la s\u00e9rie de M6 est mort ce lundi 29 juillet.",
+    "news_item_url": "https://www.bfmtv.com/people/cinema/mort-de-l-acteur-yannik-mazzilli-vu-dans-scenes-de-menages_AN-202407300616.html",
     "picture_source": "Ouest-France",
-    "approx_traffic": "50,000+"
+    "approx_traffic": "100,000+"
   },
   {
     "country": "France",
     "title": "Lina",
     "pubDate": "Tue, 30 Jul 2024 12:00:00 +0200",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQMrRK3mooZ8wjVTQhUMQTxx0UX3nUAFYM_xndPGOaXMrQrckHnjNjHJASf4JQlVLIzuT4lzk3L",
-    "news_item_snippet": "L&#39;enqu\u00eate pour tenter de retrouver Lina, disparue depuis septembre dernier en Alsace, conna\u00eet une brusque acc\u00e9l\u00e9ration, avec des fouilles qui ont d\u00e9marr\u00e9&nbsp;...",
-    "news_item_url": "https://information.tv5monde.com/societe/des-fouilles-demarrent-dans-la-zone-des-vosges-pour-retrouver-lina-2734335",
+    "news_item_snippet": "Une vaste op\u00e9ration de gendarmerie est en cours ce mardi 30 juillet pour retrouver Lina, l&#39;adolescente de 15 ans port\u00e9e disparue depuis le 23 septembre 2023&nbsp;...",
+    "news_item_url": "https://www.ladepeche.fr/2024/07/30/disparition-de-lina-une-vaste-operation-de-gendarmerie-menee-ce-mardi-un-suspect-sest-suicide-apres-la-saisie-dun-vehicule-12112661.php",
     "picture_source": "Alouette",
-    "approx_traffic": "50,000+"
+    "approx_traffic": "100,000+"
   },
   {
     "country": "France",
@@ -388,26 +408,6 @@
     "news_item_url": "https://www.lemonde.fr/sport/article/2024/07/30/manon-apithy-brunet-et-sara-balzer-deux-sabreuses-sur-le-toit-du-grand-palais_6261406_3242.html",
     "picture_source": "Ouest-France",
     "approx_traffic": "200,000+"
-  },
-  {
-    "country": "France",
-    "title": "Clarisse Agbegnenou",
-    "pubDate": "Mon, 29 Jul 2024 18:00:00 +0200",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRgMF-hvOQ6-usmQWcaAmqWeaUfJSTNcVEdeZu-FpA7lqEsWMv_egZZz1iNY5SD7ooQbfVafpt8",
-    "news_item_snippet": "Un dernier mot sur ce tournoi f\u00e9minin en moins de 63 kg pour vous dire que la Slov\u00e8ne Andreja Leski a \u00e9t\u00e9 sacr\u00e9e championne olympique.",
-    "news_item_url": "https://www.francetvinfo.fr/les-jeux-olympiques/judo/direct-judo-aux-jo-de-paris-2024-clarisse-agbegnenou-parviendra-t-elle-a-conserver-son-titre-olympique-en-moins-de-63-kg-suivez-sa-journee-avec-nous_6667692.html",
-    "picture_source": "Le Journal du dimanche",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "France",
-    "title": "Nicolas Gestin",
-    "pubDate": "Mon, 29 Jul 2024 17:00:00 +0200",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcT-sR4n7XkBsBkBuFvgYo_DLrgnVUoV-8XNxt9tTI0kftPiNY2yBdlT3Rzof7ivVISsAOU6Vc0x",
-    "news_item_snippet": "publi\u00e9 le 29/07/2024 \u00e0 18h03 Disponible jusqu&#39;au 31/12/2024. Plus de cinq secondes d&#39;avance pour Nicolas Gestin sur son concurrent britannique !",
-    "news_item_url": "https://www.france.tv/sport/les-jeux-olympiques/6341195-canoe-slalom-h-nicolas-gestin-remporte-l-or-apres-avoir-survole-la-finale.html",
-    "picture_source": "Ouest-France",
-    "approx_traffic": "50,000+"
   },
   {
     "country": "Germany",
@@ -462,31 +462,31 @@
   {
     "country": "Mexico",
     "title": "Prisca Awiti",
-    "pubDate": "Tue, 30 Jul 2024 03:00:00 -0600",
+    "pubDate": "Mon, 29 Jul 2024 14:00:00 -0600",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRfeQKTv6KAaGzedr2XQoVvnRulkfUcDLlXFEZxNeQ1jyjr6XLNJ5za4m8BbR_geIXEbBz0DXM4",
-    "news_item_snippet": "El recorrido de la mexicana Prisca Awiti la ha llevado a la final de judo femenil en Par\u00eds 2024, a disputarse este 30 de julio. Sigue en vivo la&nbsp;...",
-    "news_item_url": "https://www.elfinanciero.com.mx/deportes/2024/07/30/medalla-para-mexico-en-juegos-olimpicos-pisca-awiti-en-finales-de-judo-resultados/",
+    "news_item_snippet": "Descubre c\u00f3mo la judoca mexicana Prisca Awiti se convirti\u00f3 en la primera medallista ol\u00edmpica de esta naci\u00f3n en judo.",
+    "news_item_url": "https://olympics.com/es/noticias/prisca-awiti-judo-mexico-medalla-de-plata-juegos-olimpicos-paris-2024",
     "picture_source": "ESPN",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "Mexico",
-    "title": "Alan Cleland",
-    "pubDate": "Mon, 29 Jul 2024 00:00:00 -0600",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQFpo7tocIqnepe-xTnsevYrm-U9XE8Cy7GW0R_9n75bZ8GLs67JmQP2NcQy4ncVzzeqNMUE5Si",
-    "news_item_snippet": "El surfista mexicano Alan Cleland Qui\u00f1onez se despidi\u00f3 de los Juegos Ol\u00edmpicos Par\u00eds 2024, luego de caer en la ronda 3 con un puntaje de 15.17, ante Joan&nbsp;...",
-    "news_item_url": "https://www.gob.mx/conade/es/articulos/alan-cleland-concluye-historica-participacion-en-el-surf-de-juegos-olimpicos-372243",
-    "picture_source": "El Economista",
-    "approx_traffic": "100,000+"
+    "approx_traffic": "200,000+"
   },
   {
     "country": "Spain",
-    "title": "Espa\u00f1a baloncesto",
+    "title": "Espa\u00f1a - Grecia baloncesto",
     "pubDate": "Tue, 30 Jul 2024 12:00:00 +0200",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQUwUuYbJfrPRYbhtEdTOmVn52O3NW6aWPMf71aXX_sHCkVKkA0VP11Oa7I4Jh-GwcmHQIZS4qU",
-    "news_item_snippet": "Un gran primer tiempo de Espa\u00f1a no evit\u00f3 la reacci\u00f3n de Grecia, que lleg\u00f3 a empatar; Gran partido de Aldama, Rudy y Llull. 30.07.2024 | actualizaci\u00f3n 13:11&nbsp;...",
-    "news_item_url": "https://www.rtve.es/deportes/20240730/juegos-olimpicos-paris-2024-directo-resumen-baloncesto-espana-grecia-masculino/16199092.shtml",
+    "news_item_snippet": "Disfruta completamente gratis del partido de baloncesto entre las selecciones masculina de Espa\u00f1a y Grecia en los Juegos Ol\u00edmpicos de Par\u00eds 2024.",
+    "news_item_url": "https://www.rtve.es/television/20240729/espana-grecia-hora-donde-ver-juegos-olimpicos-paris-2024/16200631.shtml",
     "picture_source": "AS Baloncesto",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United Kingdom",
+    "title": "Sky News",
+    "pubDate": "Tue, 30 Jul 2024 11:00:00 +0100",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSAjZEokgRyREVW5te3obTzgZ77CmqBOlWkURjkgPPP9JsqzQPKH1C30USwGPRxZll56MJxPwKW",
+    "news_item_snippet": "The international media&#39;s coverage of the Hezbollah rocket attack that killed 12 children playing soccer in a predominantly Druze town in northern Israel.",
+    "news_item_url": "https://honestreporting.com/sky-news-journalist-alex-crawford-doubles-down-on-revenge-lust-libel-on-social-media/",
+    "picture_source": "Jewish Chronicle",
     "approx_traffic": "100,000+"
   },
   {
@@ -498,35 +498,5 @@
     "news_item_url": "https://www.theguardian.com/australia-news/article/2024/jul/30/guardian-essential-poll-australians-more-favourable-to-trump-and-less-sure-about-aukus",
     "picture_source": "The Guardian",
     "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United Kingdom",
-    "title": "Southport",
-    "pubDate": "Mon, 29 Jul 2024 14:00:00 +0100",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRT86_Tx8aEE6F7hfnF6ZUbU-4oWFjblwycMtwC7rOEjG-acXRFjzrzx2Dfkh58sliSyJm7HPz6",
-    "news_item_snippet": "A boy, 17, was arrested after at least eight people were injured in a &quot;horror movie&quot; knife attack in Southport.",
-    "news_item_url": "https://www.bbc.com/news/articles/cy68z9dw9e7o",
-    "picture_source": "Merseyside Police",
-    "approx_traffic": "1,000,000+"
-  },
-  {
-    "country": "United Kingdom",
-    "title": "Artistic gymnastics Olympics",
-    "pubDate": "Mon, 29 Jul 2024 01:00:00 +0100",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQ9zqqulxNQ43zudaOyY0uHDY2x6BcB5gNAcl_lTBtUQNxd05xLgWbW6tSIxJ-SCp2ujaHZ6Li6",
-    "news_item_snippet": "Here&#39;s when and where to watch Max Whitlock, Becky Downie compete for a place on the podium at the men and women&#39;s 2024 Olympics artistic gymnastics finals.",
-    "news_item_url": "https://www.timeout.com/uk/news/artistic-gymnastics-olympic-schedule-how-to-watch-team-gb-men-and-womens-team-finals-072924",
-    "picture_source": "Aljazeera.com",
-    "approx_traffic": "1,000,000+"
-  },
-  {
-    "country": "United Kingdom",
-    "title": "Tom Daley",
-    "pubDate": "Mon, 29 Jul 2024 09:00:00 +0100",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTMyqZ5IzWRjfnpje3lwQmQDVT-P6w7NkduvSXXre7WRslMedt_mfkxSSroo4T6HczeR8OPgvKA",
-    "news_item_snippet": "British diver Tom Daley is balancing his sport with his family live, making the run to the 2024 Paris Olympic games his happiest time yet.",
-    "news_item_url": "https://www.nbcnews.com/nbc-out/out-news/tom-daley-paris-olympics-british-diver-silver-medal-rcna164240",
-    "picture_source": "Sky News",
-    "approx_traffic": "200,000+"
   }
 ]
