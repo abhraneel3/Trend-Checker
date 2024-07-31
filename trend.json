@@ -1,6 +1,16 @@
 [
   {
     "country": "United States",
+    "title": "Barcelona vs Man City",
+    "pubDate": "Tue, 30 Jul 2024 14:00:00 -0700",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQJEwsxhm9kC8v2_MjN0Y0hRcJKRMqKao5NQbszuwSYdDFuEPctvTRBT3NBRPqRHPdk_rBdBag3",
+    "news_item_snippet": "Barcelona face Manchester City in a Club Friendly on Tuesday, July 30, 2024 (7/30/24) at Camping World Stadium in Orlando, Florida.",
+    "news_item_url": "https://www.nj.com/sports/2024/07/barcelona-vs-manchester-city-free-live-stream-73024-time-tv-channel-for-club-friendly.html",
+    "picture_source": "Goal.com",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "United States",
     "title": "Coco Gauff",
     "pubDate": "Tue, 30 Jul 2024 12:00:00 -0700",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSD6mnY2v7yJWTX2UsRXEw73DVXI2nQ6E1CP9l73wda6S7K2jN_LMlAf7h9JBkf3V3aBhAVZL3g",
@@ -8,16 +18,6 @@
     "news_item_url": "https://apnews.com/article/olympics-2024-tennis-coco-gauff-donna-vekics-44e87a7e6d03da7a6848199c8c644408",
     "picture_source": "The Associated Press",
     "approx_traffic": "100,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Barcelona vs Man City",
-    "pubDate": "Tue, 30 Jul 2024 16:00:00 -0700",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTuGUhxl_X8gTa0es_6sDLOOXZxGILmRPRl4ZhGCRGp1DhqTj1c7bS6GkMbMxNJ8kcIEHemwDkR",
-    "news_item_snippet": "The much-anticipated game between City and Pep Guardiola&#39;s former club at the Camping World Stadium in Orlando, Florida, was delayed after a weather warning&nbsp;...",
-    "news_item_url": "https://www.goal.com/en-us/lists/explained-why-man-city-pre-season-friendly-vs-barcelona-delayed/blt43f75a1f0ba43ee6",
-    "picture_source": "Manchester City FC",
-    "approx_traffic": "50,000+"
   },
   {
     "country": "United States",
@@ -31,12 +31,12 @@
   },
   {
     "country": "United States",
-    "title": "Brittney Griner",
-    "pubDate": "Tue, 30 Jul 2024 09:00:00 -0700",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQauJ_nyEYHDC5Zxq6ETFuF18VXWMTroJ16Gz_XjJxGklKZ4aRTvQCv3Z9pNEOSpew2dTwdRsRP",
-    "news_item_snippet": "Before Brittney Griner was winning WNBA scoring championships, she was making her mark in the NCAA. The 10-time WNBA All-Star played four seasons at Baylor&nbsp;...",
-    "news_item_url": "https://www.ncaa.org/news/2024/7/30/olympics-team-usa-x-ncaa-fast-facts-brittney-griner.aspx",
-    "picture_source": "NCAA.org",
+    "title": "Jonathan Owens",
+    "pubDate": "Tue, 30 Jul 2024 19:00:00 -0700",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSbHJY8A1l7KOK2ZQeRpAbaGQb9U0Cr7oUQ8dfU5v95K44xcUd0Cv7_83QZtDR-8gAwqr1na0pi",
+    "news_item_snippet": "Chicago Bears safety Jonathan Ownes had a day he&#39;ll never forget Tuesday as he was able to get to Paris and watch his wife, the legendary Simone Biles,&nbsp;...",
+    "news_item_url": "https://www.si.com/olympics/jonathan-owens-simone-biles-gold-medal-win",
+    "picture_source": "USA TODAY",
     "approx_traffic": "50,000+"
   },
   {
@@ -61,12 +61,32 @@
   },
   {
     "country": "United States",
+    "title": "Brittney Griner",
+    "pubDate": "Tue, 30 Jul 2024 09:00:00 -0700",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQauJ_nyEYHDC5Zxq6ETFuF18VXWMTroJ16Gz_XjJxGklKZ4aRTvQCv3Z9pNEOSpew2dTwdRsRP",
+    "news_item_snippet": "Before Brittney Griner was winning WNBA scoring championships, she was making her mark in the NCAA. The 10-time WNBA All-Star played four seasons at Baylor&nbsp;...",
+    "news_item_url": "https://www.ncaa.org/news/2024/7/30/olympics-team-usa-x-ncaa-fast-facts-brittney-griner.aspx",
+    "picture_source": "NCAA.org",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
     "title": "AMD stock",
     "pubDate": "Tue, 30 Jul 2024 14:00:00 -0700",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSE6pXO_wJw1n1LkHH6EeME3Gx3M1tOVd3QuRlgan3UGcpJAQIDtGrcNJeF2O90NFAdy61mdZH_",
-    "news_item_snippet": "Shares of AMD rose in after-market trading after the company beat Wall Street&#39;s earnings estimates on better-than-anticipated AI chip sales.",
-    "news_item_url": "https://finance.yahoo.com/news/amd-stock-jumps-on-earnings-beat-driven-by-ai-chip-sales-202426077.html",
+    "news_item_snippet": "Advanced Micro Devices reported second-quarter sales that beat analysts&#39; expectations, driven by record revenue from its data center segment as AI demand&nbsp;...",
+    "news_item_url": "https://www.investopedia.com/amd-stock-surges-on-record-data-center-revenue-8686412",
     "picture_source": "Investor's Business Daily",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "India",
+    "title": "Barcelona vs Man City",
+    "pubDate": "Wed, 31 Jul 2024 04:30:00 +0530",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQ5x1FlCIr9-DpBEDiEz-94J4lPEKiLrEGl_vKljf83gs4RH01AiBUFXp2Qr2VRpDrNsF3I2lzm",
+    "news_item_snippet": "Manchester City&#39;s pre-season friendly against Barcelona was postponed due to severe weather in Orlando.",
+    "news_item_url": "https://www.goal.com/en-in/lists/explained-why-man-city-pre-season-friendly-vs-barcelona-delayed/blt43f75a1f0ba43ee6",
+    "picture_source": "Economic Times",
     "approx_traffic": "50,000+"
   },
   {
@@ -81,6 +101,16 @@
   },
   {
     "country": "India",
+    "title": "\u092d\u093e\u0930\u0924 \u092c\u0928\u093e\u092e \u0936\u094d\u0930\u0940\u0932\u0902\u0915\u093e",
+    "pubDate": "Tue, 30 Jul 2024 21:30:00 +0530",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSwGYxnmzDNV5---FY8MxyEUZ-rw-0k7ckM0UpKXggm9Z8Z4jS6smSd-8rOueCvUk2WkG1bTx3T",
+    "news_item_snippet": "\u0907\u0938 \u092e\u0941\u0915\u093e\u092c\u0932\u0947 \u092e\u0947\u0902 \u0936\u094d\u0930\u0940\u0932\u0902\u0915\u093e \u0928\u0947 \u091f\u0949\u0938 \u091c\u0940\u0924\u0915\u0930 \u092d\u093e\u0930\u0924 \u0915\u094b \u092a\u0939\u0932\u0947 \u092c\u0932\u094d\u0932\u0947\u092c\u093e\u091c\u0940 \u0915\u093e \u0928\u094d\u092f\u094b\u0924\u093e \u0926\u093f\u092f\u093e\u0964 \u092d\u093e\u0930\u0924\u0940\u092f \u091f\u0940\u092e \u0928\u0947 20 \u0913\u0935\u0930 \u092e\u0947\u0902 \u0928\u094c \u0935\u093f\u0915\u0947\u091f \u092a\u0930 137 \u0930\u0928 \u092c\u0928\u093e\u090f\u0964",
+    "news_item_url": "https://www.amarujala.com/cricket/cricket-news/ind-vs-sl-3rd-t20-2024-innings-analysis-india-vs-sri-lanka-key-highlights-and-turning-points-news-in-hindi-2024-07-31",
+    "picture_source": "Jansatta",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "India",
     "title": "Friendship Day",
     "pubDate": "Tue, 30 Jul 2024 08:30:00 +0530",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTmvCLCt8y_ghu0d-_3TDUAFoNw30pWDmX1n2HavMkW1DPScneRmp0tnlyJpLoL0DzbrE9getLD",
@@ -91,32 +121,22 @@
   },
   {
     "country": "India",
-    "title": "\u092d\u093e\u0930\u0924 \u092c\u0928\u093e\u092e \u0936\u094d\u0930\u0940\u0932\u0902\u0915\u093e",
-    "pubDate": "Tue, 30 Jul 2024 21:30:00 +0530",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQeZQ2A3Yj5u5-N_9IeEjfu8jxIIObELhhwy29nRJUyyIwxOnVwxDmXihmqk7uMO_Y7FrZd4pNs",
-    "news_item_snippet": "\u0907\u0938 \u092e\u0941\u0915\u093e\u092c\u0932\u0947 \u092e\u0947\u0902 \u0936\u094d\u0930\u0940\u0932\u0902\u0915\u093e \u0928\u0947 \u091f\u0949\u0938 \u091c\u0940\u0924\u0915\u0930 \u092a\u0939\u0932\u0947 \u0917\u0947\u0902\u0926\u092c\u093e\u091c\u0940 \u0915\u0930\u0928\u0947 \u0915\u093e \u092b\u0948\u0938\u0932\u093e \u0915\u093f\u092f\u093e \u0914\u0930 \u092d\u093e\u0930\u0924 \u0928\u0947 \u092a\u0939\u0932\u0947 \u0916\u0947\u0932\u0924\u0947 \u0939\u0941\u090f \u0928\u093f\u0930\u094d\u0927\u093e\u0930\u093f\u0924 20 \u0913\u0935\u0930 \u092e\u0947\u0902 9 \u0935\u093f\u0915\u0947\u091f \u092a\u0930 137&nbsp;...",
-    "news_item_url": "https://www.jansatta.com/khel/cricket/ind-vs-sl-3rd-t20i-live-score-india-vs-sri-lanka-live-cricket-score-updates-pallekele-international-cricket-stadium/3498592/",
-    "picture_source": "\u0905\u092e\u0930 \u0909\u091c\u093e\u0932\u093e",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "India",
     "title": "India at the Olympics medals",
     "pubDate": "Tue, 30 Jul 2024 21:30:00 +0530",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcR9-RWc7Uc8FhxnbtOKpCJYc7dS4IiLfKGuE-fGdKdxtJ8HNQCEPmHSIBhFdc4cULP6Dr4wbuPB",
-    "news_item_snippet": "Paris 2024 Olympics Highlights: Catch the score and updates from all the events taking place at the Paris Olympics on Day 4, Tuesday, July 30.",
-    "news_item_url": "https://sportstar.thehindu.com/olympics/paris-2024/news/paris-2024-olympics-live-score-updates-day-4-results-july-30-highlights-medals-shooting-archery-hockey/article68463063.ece",
-    "picture_source": "NDTVSports.com",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQjFpf4Oyc51hZ6XdkW-c9l-Y2EK-ubLyeemmv3i9TTdn_lAJbjn67B2pHte4mgpD2nD3Aq4xMv",
+    "news_item_snippet": "Indian shooters Manu Bhaker and Sarabjot Singh won the bronze medal in the 10m air pistol shooting event at the Paris 2024 Olympics.",
+    "news_item_url": "https://olympics.com/en/news/paris-2024-olympics-shooting-mixed-team-10m-air-pistol-bronze-medal",
+    "picture_source": "Sportstar",
     "approx_traffic": "100,000+"
   },
   {
     "country": "India",
     "title": "Wayanad Landslide",
     "pubDate": "Tue, 30 Jul 2024 11:30:00 +0530",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQ9iX2HUE00cwOCRIkmomVexAHPA2P9N4cD4qvPPbgwtmanEw--TbR7aPqR2aLrmZDb8zHGR5yG",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRtcOVUTFxec1IFpnLwLAMneQw49S8CAFPS0u8tnZgDm05oMoGEqNYr0vH3WE0yd4-VN8woE1jO",
     "news_item_snippet": "Kerala Government seeks assistance from the Indian Army for rescue operations in the wake of the devastating landslides in Wayanad ... Rescue&nbsp;...",
     "news_item_url": "https://www.thehindu.com/news/national/kerala/wayanad-landslides-live-updates-july-30/article68462900.ece",
-    "picture_source": "BBC News",
+    "picture_source": "ReliefWeb",
     "approx_traffic": "100,000+"
   },
   {
@@ -143,9 +163,9 @@
     "country": "India",
     "title": "ITR filing last date",
     "pubDate": "Tue, 30 Jul 2024 15:30:00 +0530",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTVIXhusGCLxqdbUTmVT0OYpUa01VClX5ZqQgDcAm-IzuUC7QrnJrHvLf9t5zleXpVMkAigkFQI",
-    "news_item_snippet": "However, individuals and entities whose accounts necessitate an audit are permitted to submit their Income Tax Return (ITR) until October 31, 2024.",
-    "news_item_url": "https://www.businesstoday.in/personal-finance/tax/story/itr-filing-2024-deadline-who-can-file-income-tax-return-after-july-31-check-details-439420-2024-07-30",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRO-ZmxSLxr9WC8WdB22PcJNhSxtOEq0seyqp54ViENAlRdQ_S8-nHQ5DurraCToAG-6_wrnwRC",
+    "news_item_snippet": "ITR Filing FY 2023-24 Last Date: The deadline to file your income tax return (ITR) for the financial year (FY) 2023-24 is July 31, 2024.",
+    "news_item_url": "https://www.livemint.com/money/personal-finance/itr-filing-due-date-why-income-taxpayers-are-expecting-deadline-extension-beyond-july-31-11722309455806.html",
     "picture_source": "Economic Times",
     "approx_traffic": "50,000+"
   },
@@ -173,19 +193,19 @@
     "country": "Argentina",
     "title": "Barcelona  Manchester City",
     "pubDate": "Tue, 30 Jul 2024 17:00:00 -0300",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRCvZl4QMpwnmex5tsOX8hcU09bHnjeYZULVbR6oJmFE31XptwHfDWWyTYxPfZp83XHLjcsxSK1",
-    "news_item_snippet": "El entrenador Hans Flick dispuso una formaci\u00f3n 4-5-1 con I\u00f1aki Pe\u00f1a defendiendo el arco; H\u00e9ctor Fort, Cl\u00e9ment Lenglet, Sergi Dom\u00ednguez y Gerard Mart\u00edn como&nbsp;...",
-    "news_item_url": "https://www.ambito.com/deportes/ya-rueda-el-balon-barcelona-y-manchester-city-el-camping-world-stadium-n6041658",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcS1C9oSzzV1B-KJ2GrMCG9uMAG_9zIge6C0gHUI72nfaUEGuJHiw-wFTCtp2UaVrGExLjOmZ9xp",
+    "news_item_snippet": "Los Citizens y los Cul\u00e9s se miden por un encuentro de preparaci\u00f3n rumbo a la nueva temporada que iniciar\u00e1 en el f\u00fatbol europeo. Segu\u00ed el minuto a minuto.",
+    "news_item_url": "https://www.tycsports.com/futbol-internacional/manchester-city-vs-barcelona-amistoso-hora-formaciones-y-donde-ver-en-vivo-id598689.html",
     "picture_source": "ESPN",
-    "approx_traffic": "50,000+"
+    "approx_traffic": "100,000+"
   },
   {
     "country": "Australia",
     "title": "Southport",
     "pubDate": "Tue, 30 Jul 2024 07:00:00 +1000",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRLjmlS0HJ7sOWtzCvIZaA9agioHl2JK5RT0CjARvN1BlTSb7ji2CN2o7QiS9BDKytDG3nKWcdTkQ",
-    "news_item_snippet": "Two children have been killed and nine more injured during a stabbing attack in England&#39;s north-west that one witness likens to a &quot;horror movie&quot;.",
-    "news_item_url": "https://www.abc.net.au/news/2024-07-30/two-children-dead-nine-injured-in-uk-stabbing-attack/104157502",
+    "news_item_snippet": "The protest came just hours after people in Southport held a vigil for Monday&#39;s knife attack victims.",
+    "news_item_url": "https://www.bbc.com/news/articles/cv2gyv882nvo",
     "picture_source": "CNN",
     "approx_traffic": "50,000+"
   },
@@ -201,33 +221,23 @@
   },
   {
     "country": "Brazil",
-    "title": "S\u00e3o Paulo x Goi\u00e1s",
-    "pubDate": "Tue, 30 Jul 2024 07:00:00 -0500",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSTULjFlI8Rbqn3BdAGCevQdL3kizEJt6eox6ocGfVIV4JT3ut1xkWp4go4krIydtADN9GxWqnV",
-    "news_item_snippet": "A equipe aposta na for\u00e7a da torcida para se recuperar, e largar bem nesse duelo decisivo pela Copa do Brasil. O time vem de 5 jogos invicto como mandante, com 4&nbsp;...",
-    "news_item_url": "https://www.gazetaesportiva.com/apostas/prognosticos/futebol/sao-paulo-x-goias-30-07-2024",
-    "picture_source": "globoesporte.com",
-    "approx_traffic": "1,000,000+"
-  },
-  {
-    "country": "Brazil",
     "title": "Copa do Brasil",
-    "pubDate": "Tue, 30 Jul 2024 06:00:00 -0500",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSxzxZS1tM8D8aghOtLZAQ9G85sNHg6mSOrXAkeGt4vwd5kd2lKIyVD0kaibRTmObFUmoiasrdj",
+    "pubDate": "Tue, 30 Jul 2024 10:00:00 -0500",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTrF9VdR3ClA2TLU22Ni2UQAVaXcTWle1b4yaYOeXwWMzuc3uRJDf9f-c9KwpzYZyK44AokD6Pm",
     "news_item_snippet": "Equipes come\u00e7am briga por vaga nas quartas de final nesta quarta-feira (31)",
-    "news_item_url": "https://www.cnnbrasil.com.br/esportes/futebol/corinthians-x-gremio-raio-x-do-duelo-na-copa-do-brasil/",
-    "picture_source": "CNN Brasil",
+    "news_item_url": "https://www.cnnbrasil.com.br/esportes/futebol/flamengo-x-palmeiras-raio-x-do-duelo-na-copa-do-brasil/",
+    "picture_source": "globoesporte.com",
     "approx_traffic": "500,000+"
   },
   {
     "country": "Brazil",
-    "title": "Botafogo",
+    "title": "Botafogo x Bahia",
     "pubDate": "Tue, 30 Jul 2024 05:00:00 -0500",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcShQlVCT2uOTdz9zZCcCm_DW3zE2ShRxTqLwEXu4nEfwLZTghZBGhao67IRuJkQ_nj9n1XaQara",
-    "news_item_snippet": "O time do Botafogo costuma oscilar jogando como mandante, com 10 vit\u00f3rias, 9 empates e 7 derrotas em 26 duelos realizados. Os dois times se enfrentaram em&nbsp;...",
-    "news_item_url": "https://www.gazetaesportiva.com/apostas/prognosticos/futebol/botafogo-x-bahia-30-07-2024",
-    "picture_source": "ESPN.com.br",
-    "approx_traffic": "200,000+"
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQ3KCF9rKRa6_4C7fhlLpIj8N-K87J_b6KzoS1t2eA8TTxEZ_JSepcm0XC48wJ7anEUnzLtkGhE",
+    "news_item_snippet": "Fim do Jogo, Botafogo 1, Bahia 1. 2\u00ba Tempo. 24&#39;.",
+    "news_item_url": "https://www.terra.com.br/esportes/futebol/copa-do-brasil/ao-vivo/botafogo-x-bahia/85112/",
+    "picture_source": "Gazeta Esportiva",
+    "approx_traffic": "500,000+"
   },
   {
     "country": "Brazil",
@@ -237,27 +247,17 @@
     "news_item_snippet": "Equipes se enfrentam nesta ter\u00e7a-feira (30), na Fl\u00f3rida, pela pr\u00e9-temporada, com transmiss\u00e3o da TNT e da Max.",
     "news_item_url": "https://tntsports.com.br/melhorfuteboldomundo/Barcelona-x-Manchester-City-inicio-do-jogo-e-adiado-por-alerta-de-tempestade-nos-EUA-20240730-0022.html",
     "picture_source": "ESPN.com.br",
-    "approx_traffic": "100,000+"
+    "approx_traffic": "500,000+"
   },
   {
     "country": "Brazil",
     "title": "Flavia Saraiva",
     "pubDate": "Tue, 30 Jul 2024 16:00:00 -0500",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRYAweK66bLMYSMEN7m_I29WdD-WYl7kur1zZun-K-JOYOndDvh-4oHuTJPJmVv0SnUcjcpiZmX",
-    "news_item_snippet": "A ginasta brasileira Fl\u00e1via Saraiva se machucou durante o aquecimento da final por equipes na Olimp\u00edada de Paris 2024. A atleta do Flamengo aquecia nas&nbsp;...",
-    "news_item_url": "https://www.cnnbrasil.com.br/esportes/olimpiadas/paris-2024-flavia-saraiva-se-machuca-apos-queda-durante-aquecimento/",
-    "picture_source": "globoesporte.com",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcT5Vx2h8gkb66gqF_jSg5QLPPcim8KFnlAFEF0godRrD9NKb5RCRyM3Bt7WOLkZ7siZ85o61x6T",
+    "news_item_snippet": "Pouco antes de garantir a hist\u00f3rica medalha de bronze por equipes, ginasta brasileira Fl\u00e1via Saraiva sofreu um corte na sobrancelha durante o aquecimento&nbsp;...",
+    "news_item_url": "https://ge.globo.com/olimpiadas/noticia/2024/07/30/flavia-saraiva-se-machuca-durante-aquecimento-na-final-da-ginastica.ghtml",
+    "picture_source": "CNN Brasil",
     "approx_traffic": "100,000+"
-  },
-  {
-    "country": "Brazil",
-    "title": "Barcelona",
-    "pubDate": "Tue, 30 Jul 2024 16:00:00 -0500",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSkPSBWtUVE4i6HrOG2p_xPbCTy99wD6gdnsvKPwdogOfepbjypkMNsDVPl_2zIDxFzlDfBOXqu",
-    "news_item_snippet": "Confronto acontece nesta ter\u00e7a-feira (30), em Orlando, nos Estados Unidos, \u00e0s 20h.",
-    "news_item_url": "https://www.espn.com.br/futebol/artigo/_/id/13968229/barcelona-manchester-city-onde-assistir-ao-vivo-horario-palpites-provaveis-escalacoes-amistoso",
-    "picture_source": "TNT Sports Brasil",
-    "approx_traffic": "50,000+"
   },
   {
     "country": "Brazil",
@@ -271,11 +271,21 @@
   },
   {
     "country": "Brazil",
+    "title": "Avai",
+    "pubDate": "Tue, 30 Jul 2024 12:00:00 -0500",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcS_bDxL7yuXc8WcnyDhP8rfLdpQrEG9jtM5m7EEyTDoh7AGwa2lPOEOoA0GDF_TRPEARYDJuiOG",
+    "news_item_snippet": "Times se enfrentam no Est\u00e1dio da Ressacada, em Florian\u00f3polis, \u00e0s 21h desta ter\u00e7a-feira. Saiba como assistir aos jogos da S\u00e9rie B na TV Brasil.",
+    "news_item_url": "https://agenciabrasil.ebc.com.br/geral/noticia/2024-07/tv-brasil-acompanha-avai-x-botafogo-sp-pela-serie-b-do-brasileirao",
+    "picture_source": "EBC",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Brazil",
     "title": "Julia Soares",
     "pubDate": "Tue, 30 Jul 2024 18:00:00 -0500",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQkvsqXAQ0HFy8Ii4lmRKmIW6YTAvdHTzFUjHlZB1UB4xC12uEm5sINKvhDkhUu-pOO04S2kyDE",
-    "news_item_snippet": "Com apenas 18 anos, atleta conquistou o p\u00fablico em sua estreia na Olimp\u00edada e se classificou para final ao lado de gigantes ... J\u00falia Soares retorna \u00e0 Arena Bercy&nbsp;...",
-    "news_item_url": "https://forbes.com.br/forbes-mulher/2024/07/quem-e-julia-soares-conheca-a-nova-promessa-da-ginastica/",
+    "news_item_snippet": "Estreante nas Olimp\u00edadas, a atleta fez hist\u00f3ria ao garantir a vit\u00f3ria por equipes na gin\u00e1stica art\u00edstica.",
+    "news_item_url": "https://valor.globo.com/olimpiada-2024/noticia/2024/07/30/ginasta-que-conquistou-bronze-hoje-julia-soares-bate-a-marca-de-1-milhao-de-seguidores-nas-redes-sociais.ghtml",
     "picture_source": "CNN Brasil",
     "approx_traffic": "50,000+"
   },
@@ -293,20 +303,10 @@
     "country": "France",
     "title": "Basket JO 2024",
     "pubDate": "Tue, 30 Jul 2024 18:00:00 +0200",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTVkPcjbw0F4afj-7fg6m8o79AT2jq3I9Xg2W08YWp-q8g9-Ztn5oScwh0jnhArPWyWnXPwUzW6",
-    "news_item_snippet": "Apr\u00e8s leur victoire inaugurale face au Br\u00e9sil, les co\u00e9quipiers de Matthew Strazel, auteur du panier de la prolongation, ont arrach\u00e9 la victoire face au&nbsp;...",
-    "news_item_url": "https://www.francetvinfo.fr/les-jeux-olympiques/basketball/basket-aux-jo-2024-l-equipe-de-france-de-wembanyama-miraculee-face-au-japon_6696036.html",
-    "picture_source": "Ouest-France",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "France",
-    "title": "Yannik Mazzilli",
-    "pubDate": "Tue, 30 Jul 2024 10:00:00 +0200",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSathoKUgBq5p58PFoxjollozheVBUwHaDBnwKuZ5etDkJH5ba6mEtHW1b4ZelVvvv5x01vygSW",
-    "news_item_snippet": "L&#39;acteur, qui \u00e9tait un second r\u00f4le r\u00e9current dans la s\u00e9rie \u00ab Sc\u00e8nes de m\u00e9nages \u00bb sur M6, s&#39;est \u00e9teint lundi 29 juillet, a appris ce mardi 30 juillet 2024&nbsp;...",
-    "news_item_url": "https://www.ouest-france.fr/medias/television/le-comedien-yannik-mazzilli-herve-dans-scenes-de-menages-sur-m6-est-decede-e574e71a-4e8c-11ef-a7c4-aadce4c8cac1",
-    "picture_source": "RTL.fr",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQKe9bKr49_xQmceC_O7Ipv6eOkiZqbujalfce5xOxR6bTGazdXiohVrm5h-lElOMLTtUDTpqsm",
+    "news_item_snippet": "Qui a brill\u00e9, qui s&#39;est rat\u00e9 ? Les notes des basketteurs fran\u00e7ais apr\u00e8s leur victoire pour le moins poussive et arrach\u00e9e face au Japon, mardi,&nbsp;...",
+    "news_item_url": "https://www.lefigaro.fr/sports/jeux-olympiques/jo-2024-basket-strazel-en-sauveur-wembanyama-en-clair-obscur-les-notes-des-bleus-apres-japon-france-20240730",
+    "picture_source": "Franceinfo",
     "approx_traffic": "200,000+"
   },
   {
@@ -324,8 +324,8 @@
     "title": "Lina",
     "pubDate": "Tue, 30 Jul 2024 12:00:00 +0200",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTTliAGap6j-GIzeyhQGR9mTryzXfOPhxuFuxYKsTbq66uyZxSXYanaCOzuci39VnSAmIU915nf",
-    "news_item_snippet": "Des fouilles ont d\u00e9marr\u00e9 dans le Grand Est pour retrouver le corps Lina, jeune adolescente disparue en septembre 2023 en Alsace. Ces fouilles interviennent&nbsp;...",
-    "news_item_url": "https://www.europe1.fr/Police-Justice/disparition-de-lina-des-fouilles-ont-demarre-dans-le-grand-est-pour-retrouver-le-corps-de-ladolescente-4260383",
+    "news_item_snippet": "Des recherches sont en cours ce mardi 30 juillet pour retrouver le corps de Lina, une adolescente de 15 ans port\u00e9e disparue depuis septembre 2023 en Alsace.",
+    "news_item_url": "https://www.bfmtv.com/alsace/direct-disparition-de-lina-des-recherches-pour-retrouver-le-corps-de-l-adolescente-en-cours-dans-le-bas-rhin_LN-202407300226.html",
     "picture_source": "Franceinfo",
     "approx_traffic": "50,000+"
   },
@@ -341,33 +341,33 @@
   },
   {
     "country": "Germany",
+    "title": "Michael Jung",
+    "pubDate": "Tue, 30 Jul 2024 14:00:00 +0200",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTF1p_N_mSuMLBu7AcTDyEKkyJ--x7w__xc826NWghFsijHo-ddrZmYdEVJROw2cq3iGj5WHkXC",
+    "news_item_snippet": "Der erfolgreichste Vielseitigkeitsreiter jemals ist nach seiner Goldmedaille im Einzel derzeit auf der Heimreise. Mit der ganzen Familie feierte Michael&nbsp;...",
+    "news_item_url": "https://www.schwarzwaelder-bote.de/inhalt.olympiasieger-michael-jung-an-urlaub-ist-beim-koenig-der-vielseitigkeitsreiter-nicht-zu-denken.2d624313-63e9-4b4d-bd12-190789b41307.html",
+    "picture_source": "BNN - Badische Neueste Nachrichten",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "Germany",
     "title": "Simone Biles",
     "pubDate": "Tue, 30 Jul 2024 23:00:00 +0200",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTlPyIzaQAQMTPEGGxrKLe5c35pJWEXIPtEkYfmcVoy1UsYOOuK1--Hy8pvfTJ_Boo4H8bx4MAi",
-    "news_item_snippet": "Nach dem Drama von Tokio f\u00fchrt Simone Biles die Amerikanerinnen in Paris zu Team-Gold im Kunstturnen. Die 27-j\u00e4hrige Wunderathletin wirkt trotz riesigem&nbsp;...",
-    "news_item_url": "https://www.nzz.ch/sport/olympische-spiele/olympia-2024-simone-biles-kehrt-grandios-zurueck-gold-fuer-die-usa-ld.1841813",
+    "news_item_snippet": "Simone Biles und ihr US-Team \u00fcberstrahlen die erste Pariser Entscheidung bei den Frauen. Wieder geben sich zahlreiche Promis die Ehre und sehen den f\u00fcnften&nbsp;...",
+    "news_item_url": "https://www.welt.de/sport/olympia/article252771574/Olympia-2024-Gold-Simone-Biles-beweist-dass-man-ueber-das-Schicksal-triumphieren-kann.html",
     "picture_source": "Sportschau",
     "approx_traffic": "50,000+"
   },
   {
     "country": "Germany",
-    "title": "Kerber",
-    "pubDate": "Tue, 30 Jul 2024 00:00:00 +0200",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQmHcpG_isXACWr7istpbStkGBrYzQ5KVVfAfEBJh3SeonhwQx5BQARBmOambBoJ1TGhte3qZ2X",
-    "news_item_snippet": "Die Kielerin gewann gegen Leylah Fernandez aus Kanada. Im Doppel trifft sie mit Laura Siegemund auf die Britinnen Katie Boulter und Heather Watson.",
-    "news_item_url": "https://www.ndr.de/nachrichten/schleswig-holstein/Olympia-Tennisspielerin-Kerber-zieht-ins-Viertelfinale-ein,regionkielnews994.html",
-    "picture_source": "General-Anzeiger Bonn",
+    "title": "Southport",
+    "pubDate": "Mon, 29 Jul 2024 21:00:00 +0200",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRf5ra09wCpMshzmMiOOn-YFmGseibmW--yLEcY2P4etRqimczIzEg5YQnOZ_YKHTpKEZXKOJAG",
+    "news_item_snippet": "Bei einem Tanzevent wurden drei M\u00e4dchen erstochen und weitere Kinder schwer verletzt. Die britische Stadt Southport trauert. Doch offenbar versuchen rechte&nbsp;...",
+    "news_item_url": "https://www.tagesschau.de/ausland/europa/messerangriff-southport-102.html",
+    "picture_source": "DER SPIEGEL",
     "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Germany",
-    "title": "Michael Jung",
-    "pubDate": "Mon, 29 Jul 2024 23:00:00 +0200",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQ3qDHQ-bqlZWJMcGbU54tK9uCUHNVwvOmPm6aSDk6sXF1ayHtgctPqEMH2WJhcpNKacEtsOUMW",
-    "news_item_snippet": "Der erfolgreichste Olympia-Vielseitigkeitsreiter aller Zeiten war bei der Gro\u00dfen Woche 2016 dabei. Davor kannte er die Sandbahn vor allem von Trainings.",
-    "news_item_url": "https://bnn.de/mittelbaden/rastatt/iffezheim/ein-hauch-paris-olympiasieger-michael-jung-der-erfolgreichste-vielseitigkeitsreiter-aller-zeiten-ritt-auch-schon-in-i",
-    "picture_source": "Schwarzw\u00e4lder Bote",
-    "approx_traffic": "100,000+"
   },
   {
     "country": "Germany",
@@ -402,7 +402,7 @@
   {
     "country": "Italy",
     "title": "Alberta Santuccio",
-    "pubDate": "Tue, 30 Jul 2024 17:00:00 +0200",
+    "pubDate": "Tue, 30 Jul 2024 15:00:00 +0200",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSwqClFSvGBI1GmknKx5UtrTTmedwST3KWmg_EDLexXJwCyqS94_epcAs8E6Df0GTaCHlRW0emz",
     "news_item_snippet": "Le quattro schermitrici italiane hanno ottenuoto l&#39;oro nelle Olimpiadi francesi battendo in finale proprio la squadra transalpina.",
     "news_item_url": "https://www.goal.com/it/liste/chi-sono-santuccio-fiamingo-rizzi-navarria-oro-spada-olimpiadi-medaglia-eta-medaglie-fidanzato/blt4523561fc1f6454c",
@@ -423,10 +423,10 @@
     "country": "Italy",
     "title": "Locorotondo",
     "pubDate": "Tue, 30 Jul 2024 17:00:00 +0200",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSmyOHCc7XqM9hhsm86R12I_eF4PYhjJjw3YNF3I0sc5utHFwDV7gUOMRd0FdoxGmIfqdY23926",
-    "news_item_snippet": "Portato in ospedale per accertamenti perch\u00e8 ha qualche escoriazione al volto. Il piccolo era in una strada a qualche km dalla casa della sua famiglia.",
-    "news_item_url": "https://www.agi.it/cronaca/news/2024-07-30/ritrovato-bimbo-scomparso-a-locorotondo-sta-bene-27303332/",
-    "picture_source": "Rai News",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSOpcQd4aU-G9sQgcAQhuL6dGW5ycHgRxhXjsPiHhF0nQpGJ_6gIE-j6Lvp4vhfMMFfo5EHAjwQ",
+    "news_item_snippet": "Il bimbo sta bene ed \u00e8 stato portato in ospedale per accertamenti. Secondo quanto ha riferito sindaco di Locorotondo, Antonio Bufano, \u00e8 stato ritrovato a pochi&nbsp;...",
+    "news_item_url": "https://www.rainews.it/articoli/2024/07/bimbo-di-2-anni-scomparso-a-locorotondo-provincia-di-bari-97725a3e-40a3-425f-aa1e-a47f9e33d6c7.html",
+    "picture_source": "Radionorba",
     "approx_traffic": "50,000+"
   },
   {
@@ -443,30 +443,60 @@
     "country": "Mexico",
     "title": "Barcelona  Manchester City",
     "pubDate": "Tue, 30 Jul 2024 01:00:00 -0600",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRqPgso0TtB39zBtDmmO83AN9GneFGMOd5XT7JgLxtwtfVtnxB-B4uNowsszvt8wojYL4VMIla7",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRCvZl4QMpwnmex5tsOX8hcU09bHnjeYZULVbR6oJmFE31XptwHfDWWyTYxPfZp83XHLjcsxSK1",
     "news_item_snippet": "El Bar\u00e7a vs Manchester City de Orlando sufri\u00f3 un primer atraso por tormenta el\u00e9ctrica cuando ya se conoc\u00edan las alineaciones de ambos equipos.",
     "news_item_url": "https://espndeportes.espn.com/futbol/clubes/nota/_/id/13974881/amistoso-barcelona-city-alineaciones-confirmadas-partido-retrasado",
-    "picture_source": "ESPN Deportes",
-    "approx_traffic": "100,000+"
+    "picture_source": "ESPN",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "Mexico",
+    "title": "Monterrey  Austin FC",
+    "pubDate": "Tue, 30 Jul 2024 18:00:00 -0600",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTQfMx0nPbW0oYFrf5s2AtEksre3U9plmcGih6TUUBPwLXfHeIcylviCCKvtz5FZAgYw8X2I_Ql",
+    "news_item_snippet": "Los Rayados de Monterrey debutan este martes en la Leagues Cup con una visita a tierras vecinas cuando el equipo mexicano enfrente al Austin FC del estado&nbsp;...",
+    "news_item_url": "https://www.marca.com/mx/futbol/leagues-cup/2024/07/30/66a9137cca474128528b459b.html",
+    "picture_source": "Goal.com",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Mexico",
+    "title": "Pachuca - New York RB",
+    "pubDate": "Tue, 30 Jul 2024 18:00:00 -0600",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRuiVj90FQlUYjH2N3nP3B3B6xlYAPxus1WLk8pXwukpOFXw5eO5tlTaD3T2VaVqqDkogHAmtcM",
+    "news_item_snippet": "La escuadra neoyorquina es uno de los mejores equipos de la Conferencia Oeste de la MLS, por lo que ser\u00e1 un rival dif\u00edcil de roer e incluso podr\u00eda ser un&nbsp;...",
+    "news_item_url": "https://www.milenio.com/deportes/futbol-internacional/pachuca-vs-new-york-rb-ver-en-vivo-leagues-cup-jornada-2",
+    "picture_source": "MARCA.com",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Mexico",
+    "title": "Vicente Fox",
+    "pubDate": "Tue, 30 Jul 2024 11:00:00 -0600",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSY6PpLSpEjaWaN3qKVHEyF_JqyBM8sD3uMy5PVjzXX_k1ax1ShYYcIHh4gJnGt1-pDg_gZwEkj",
+    "news_item_snippet": "Asimismo critic\u00f3 a los expresidentes Vicente Fox y Felipe Calder\u00f3n por haber intentado llegar a esa naci\u00f3n como \u201cobservadores electorales\u201d, cuando en 2006 se&nbsp;...",
+    "news_item_url": "https://eldemocrata.com/lopez-obrador-critica-a-vicente-fox-y-calderon-por-buscar-ingresar-a-venezuela-como-observadores-electorales/",
+    "picture_source": "Polem\u00f3n",
+    "approx_traffic": "50,000+"
   },
   {
     "country": "Spain",
-    "title": "Barcelona  Manchester City",
+    "title": "Barcelona - Manchester City",
     "pubDate": "Wed, 31 Jul 2024 01:00:00 +0200",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQ9gqrZjFeDpQvAaA0ll1Uzu0IKokB60eji0Cds4mi5zcN555xL7hV63pNu0JqRBAv68piSr5gA",
     "news_item_snippet": "Barcelona y Manchester City se citan en Orlando (Estados Unidos) en un partido amistoso que supone el primer partido de pretemporada de Hansi Flick como&nbsp;...",
     "news_item_url": "https://www.elmundo.es/como/2024/07/30/66a8c162e9cf4a88038b458f.html",
     "picture_source": "MARCA.com",
-    "approx_traffic": "100,000+"
+    "approx_traffic": "200,000+"
   },
   {
     "country": "Spain",
     "title": "Simone Biles",
     "pubDate": "Wed, 31 Jul 2024 00:00:00 +0200",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTXkJ7sZyzhg6HizIwBmLHkmSsiAH4svMMCo8VdUXKLQMmkQ6m8dHmpoARmpmMxwZo-tX0r-gIf",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSUzoAVSk1goe6u92AHJu8dHtVAT7vQZtgeuASMaYl_0NnoPzL3Yv3rh4AJNEts5SjHLJ4ZRizh",
     "news_item_snippet": "El rendimiento impecable del equipo de gimnasia estadounidense ha permitido a Estados Unidos llevarse la victoria en el Estadio Bercy de Par\u00eds con 171296&nbsp;...",
     "news_item_url": "https://www.publico.es/sociedad/simone-biles-obtiene-medalla-oro-al-equipo-eeuu-regreso-juegos-olimpicos.html",
-    "picture_source": "EL PA\u00cdS",
+    "picture_source": "El Mundo",
     "approx_traffic": "100,000+"
   },
   {
@@ -491,12 +521,22 @@
   },
   {
     "country": "Spain",
-    "title": "Espa\u00f1a baloncesto",
-    "pubDate": "Tue, 30 Jul 2024 14:00:00 +0200",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQOvgwVozWjeHes1dmuT-m94QogfTyb1VKyOMgk4wpBW8SYXjX_q5srEKT8YDe4yVaJMUY1KFyX",
-    "news_item_snippet": "Luis Hidalgo; 30/07/2024; JJOO 2024 Baloncesto. Espa\u00f1a ha mejorado notablemente sus opciones de alcanzar los cuartos de final de los Juegos Ol\u00edmpicos&nbsp;...",
-    "news_item_url": "https://www.gigantes.com/jjoo-2024-baloncesto/cuentas-espana-juegos-olimpicos/",
-    "picture_source": "AS Baloncesto",
+    "title": "FC Barcelona",
+    "pubDate": "Tue, 30 Jul 2024 22:00:00 +0200",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQNbA381Ht96f5kKx9GqjM4Ov6oOYZuGLaWbs4DyNDkvtQwnup5LQ-MfaDnJV1BvVFrKAPaWO-B",
+    "news_item_snippet": "Hansi Flick, flamante entrenador del FC Barcelona, se estrena este martes 30 de julio en el banco de suplentes del Cul\u00e9 ni m\u00e1s ni menos que ante Manchester&nbsp;...",
+    "news_item_url": "https://www.mundodeportivo.com/us/futbol/20240730/696298/alineaciones-fc-barcelona-vs-manchester-city-amistoso-internacional.html",
+    "picture_source": "Mundo Deportivo",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Spain",
+    "title": "Espa\u00f1a Egipto",
+    "pubDate": "Tue, 30 Jul 2024 16:00:00 +0200",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQ3BjM9mDhxPKKNkxRbS-Lc6iXvZgV62zMhT8DSqipkfRy_JCnW6t5r5YcsQpsjZ7ZSSRVlguSI",
+    "news_item_snippet": "Jap\u00f3n, con la que ya se midi\u00f3 en semifinales de Tokio 2021, espera en cuartos. Los de Santi Denia perdieron contra Egipto en un mal partido, jugado bajo el&nbsp;...",
+    "news_item_url": "https://elpais.com/deportes/juegos-olimpicos/2024-07-30/a-espana-no-le-sienta-bien-el-plan-b-derrota-ante-egipto-en-futbol-masculino-1-2-y-queda-segunda-de-grupo.html",
+    "picture_source": "AS",
     "approx_traffic": "50,000+"
   },
   {
@@ -514,8 +554,8 @@
     "title": "Simone Biles",
     "pubDate": "Tue, 30 Jul 2024 22:00:00 +0100",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQnt45Yf5V4xXRqgcFK3Q_8itsdP2RGIb_-6ph4SwYiIOE6dzhSB5CN1bfI9k52qXvT87lKsqfl",
-    "news_item_snippet": "Simone Biles and Suni Lee led the US women&#39;s gymnastics team to gold after the men&#39;s team took home their first medals since 2008.",
-    "news_item_url": "https://www.independent.co.uk/sport/olympics/olympics-paris-2024-live-updates-simone-biles-b2588273.html",
+    "news_item_snippet": "Simone Biles has won her fifth Olympic gold medal as she anchored the US to team gold in the women&#39;s gymnastics on Tuesday in Paris.",
+    "news_item_url": "https://www.theguardian.com/sport/article/2024/jul/30/simone-biles-usa-gymnastics-womens-team-final-olympics-paris-2024-result",
     "picture_source": "Financial Times",
     "approx_traffic": "100,000+"
   },
@@ -534,8 +574,8 @@
     "title": "Daniel Wiffen",
     "pubDate": "Tue, 30 Jul 2024 21:00:00 +0100",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSli5-MTNpBBAeFn9zGZqDCtUZZ3BPOkw0nfK8E_AAgDJZhm34DoJCNaDimnYC4NTPM7SxTMHpl",
-    "news_item_snippet": "Bobby Finke of the USA and Italy&#39;ps Gregorio Paltrinieri join the Irish athlete on the medal podium.",
-    "news_item_url": "https://olympics.com/en/news/paris-2024-swimming-ireland-wiffen-gold-800m-freestyle",
+    "news_item_snippet": "Daniel Wiffen won gold in the men&#39;s 800 freestyle on Tuesday night at the Paris Olympics, holding off the trademark charge of Bobby Finke.",
+    "news_item_url": "https://www.swimmingworldmagazine.com/news/paris-olympics-night-4-daniel-wiffen-makes-more-history-for-ireland-with-800-free-gold/",
     "picture_source": "Swimming World Magazine",
     "approx_traffic": "50,000+"
   },
@@ -544,8 +584,8 @@
     "title": "Donald Trump",
     "pubDate": "Tue, 30 Jul 2024 08:00:00 +0100",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQglUJDml09sggkMokvNJMrS52lQaRI4HpscuDeD1l1OMdYQlrA5C43wpkrCkPGehT5pHYXqU6V",
-    "news_item_snippet": "Trump&#39;s current running mate said some of the his supporters voted for him in 2016 &#39;for racist reasons&#39;",
-    "news_item_url": "https://www.theguardian.com/us-news/article/2024/jul/30/jd-vance-trump-supporters-racist",
+    "news_item_snippet": "Like the former US president, Australia&#39;s opposition leader has honed his skills by exploiting identity politics.",
+    "news_item_url": "https://www.theguardian.com/australia-news/commentisfree/article/2024/jul/30/australia-support-donald-trump-peter-dutton-election",
     "picture_source": "The Guardian",
     "approx_traffic": "50,000+"
   },
@@ -553,20 +593,10 @@
     "country": "United Kingdom",
     "title": "Katie Price",
     "pubDate": "Tue, 30 Jul 2024 13:00:00 +0100",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQs7px7y_0p8r-ME00w6ziGihrRY4xzk6aDQyGJ5SGXEanUiURUVdMZJFTh_4f2Sfa6Q1pGXpEK",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTLNSGDuZD3lazMaoDrbjmxLqfvh4p8D3VPsvxQ6_9j4QefVAkOKSA1NgNqhiNOxvSfR5SYT5xH",
     "news_item_snippet": "The former glamour model was declared bankrupt in November 2019 and again in March over an unpaid tax bill worth more than \u00a3750000.",
     "news_item_url": "https://news.sky.com/story/arrest-warrant-issued-for-katie-price-after-she-failed-to-attend-bankruptcy-court-hearing-13187205",
     "picture_source": "BBC News",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United Kingdom",
-    "title": "Tom Dean",
-    "pubDate": "Tue, 30 Jul 2024 22:00:00 +0100",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQg5ODzmymVhnEoJHxb4fPlWFqcwr4Cv1JweL2_1yszJ_UG2uFp0UKdd1IMXiEPwuWkYV0xr6FO",
-    "news_item_snippet": "James Guy, Tom Dean, Matt Richards and Duncan Scott retained their men&#39;s 4\u00d7200 metres freestyle relay title to give Team GB their first Olympic\u2026",
-    "news_item_url": "https://www.sloughobserver.co.uk/news/24487173.berkshires-tom-dean-wins-olympic-gold-mens-relay-team-paris/",
-    "picture_source": "Team Bath",
     "approx_traffic": "50,000+"
   }
 ]
