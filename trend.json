@@ -1,13 +1,33 @@
 [
   {
     "country": "United States",
+    "title": "USA vs Puerto Rico",
+    "pubDate": "Sat, 03 Aug 2024 09:00:00 -0700",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQKyr31oudkb-G48LMmn4_wargsdjuxDguTtx8SvOeZ4z2E7rn1i1UpjlOK5fAdoWtt_sRB91_t",
+    "news_item_snippet": "The United States earned a 104-83 win over Puerto Rico on Saturday in its final group game of the 2024 Paris Olympics.",
+    "news_item_url": "https://www.oklahoman.com/story/sports/olympics/2024/08/03/us-puerto-rico-live-updates-score-highlights-2024-paris-olympics-team-usa-basketball/74648239007/",
+    "picture_source": "CBSSports.com",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Shelly-Ann Fraser",
+    "pubDate": "Sat, 03 Aug 2024 12:00:00 -0700",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQQRPuDHmQ66FBby4YFx3R4AeP36690BUN-OVtTrH1xPMKvspyQyYc91LFhhxEMfWT7KWUvtrAg",
+    "news_item_snippet": "The 37-year-old Jamaican, the Olympic champion in the event at Beijing 2008 and London 2012, withdrew prior to her semi-final on Saturday night (3 August) at&nbsp;...",
+    "news_item_url": "https://olympics.com/en/news/shelly-ann-fraser-pryce-withdraws-100m-semi-final-ending-individual-media-fifth-olympics",
+    "picture_source": "NBC News",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United States",
     "title": "US women's soccer Olympics",
     "pubDate": "Sat, 03 Aug 2024 08:00:00 -0700",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcS9XQTuqPi3rkNpAwps7cFvYhLMvpBwB3Fjkx02gAbZ2n8u1veYl6RHG1eiCi2cQFTkHelzDSHY",
     "news_item_snippet": "The U.S. went into their first knockout march undefeated and outscoring opponents 9-2 at the Paris Games.",
     "news_item_url": "https://www.cbsnews.com/news/us-women-soccer-japan-olympics-quarterfinals/",
     "picture_source": "U.S. Soccer",
-    "approx_traffic": "200,000+"
+    "approx_traffic": "100,000+"
   },
   {
     "country": "United States",
@@ -31,32 +51,12 @@
   },
   {
     "country": "United States",
-    "title": "USA vs Puerto Rico",
-    "pubDate": "Sat, 03 Aug 2024 09:00:00 -0700",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQKyr31oudkb-G48LMmn4_wargsdjuxDguTtx8SvOeZ4z2E7rn1i1UpjlOK5fAdoWtt_sRB91_t",
-    "news_item_snippet": "The United States earned a 104-83 win over Puerto Rico on Saturday in its final group game of the 2024 Paris Olympics.",
-    "news_item_url": "https://www.oklahoman.com/story/sports/olympics/2024/08/03/us-puerto-rico-live-updates-score-highlights-2024-paris-olympics-team-usa-basketball/74648239007/",
-    "picture_source": "CBSSports.com",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Shelly-Ann Fraser-Pryce",
-    "pubDate": "Sat, 03 Aug 2024 12:00:00 -0700",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQQRPuDHmQ66FBby4YFx3R4AeP36690BUN-OVtTrH1xPMKvspyQyYc91LFhhxEMfWT7KWUvtrAg",
-    "news_item_snippet": "A shocking bit of news came just minutes before the second section of the women&#39;s 100 meter semifinals, with medal contender Fraser-Pryce scratching.",
-    "news_item_url": "https://www.flotrack.org/articles/12762317-jamaicas-shelly-ann-fraser-pryce-withdraws-from-100m-semifinals",
-    "picture_source": "NBC News",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
     "title": "Ryan Crouser",
     "pubDate": "Sat, 03 Aug 2024 11:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcS9guMQjXA682kYjF3HQ1RQDvLV-VaDohs5Lj9Dihb_e8C3setK-_22chGIhHm-geigJL5kxSkK",
-    "news_item_snippet": "The win broke the consecutive-gold tie he held with shot putters Ralph Rose (1904, 1908), Parry O&#39;Brien (1952, 1956) and Tomasz Majewski (2008, 2012).",
-    "news_item_url": "https://www.nbcnews.com/news/sports/ryan-crouser-shot-put-olympics-rcna164889",
-    "picture_source": "NBC News",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTx64z31FfYUy49-FnZUAqOz_ZnghzztRaHghKQOrynCVdeBQ_wj3NtK1nvhn_UMO0Bl_dWNq1H",
+    "news_item_snippet": "When American shot-putter Ryan Crouser throws the 16-pound ball, his signature style is a bit different than his other competitors. That technique to his&nbsp;...",
+    "news_item_url": "https://www.opb.org/article/2024/08/03/in-a-league-of-his-own-shot-putter-ryan-crouser-wins-u-s-3rd-olympic-gold-in-a-row/",
+    "picture_source": "OPB News",
     "approx_traffic": "50,000+"
   },
   {
@@ -64,8 +64,8 @@
     "title": "Iran",
     "pubDate": "Sat, 03 Aug 2024 08:00:00 -0700",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcScLzhV_Ucc3Nn33kiX6sw5ccbD4tn6bji7KfL1Pl-EDQcva8Ks6QjW6f1WAUkBImxsNUwM4B7l",
-    "news_item_snippet": "Iran&#39;s Revolutionary Guard says a short-range projectile was behind the killing of Hamas political chief Ismail Haniyeh.",
-    "news_item_url": "https://apnews.com/article/irsael-iran-haniyeh-short-range-projectile-hamas-9043aff344655cd253c3562c16622332",
+    "news_item_snippet": "DUBAI, Aug 3 (Reuters) - Iran&#39;s Revolutionary Guards said on Saturday that Palestinian militant group Hamas&#39; leader Ismail Haniyeh was slain in Tehran by a&nbsp;...",
+    "news_item_url": "https://www.reuters.com/world/middle-east/iran-says-hamas-leader-haniyeh-was-killed-by-short-range-projectile-2024-08-03/",
     "picture_source": "BBC News",
     "approx_traffic": "50,000+"
   },
@@ -73,11 +73,11 @@
     "country": "United States",
     "title": "Sha'Carri Richardson",
     "pubDate": "Fri, 02 Aug 2024 07:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTDfAauESQJVVby8pu3vpGbf43ktCANW16gNY8VamUhmRJ-VhTyzg17yEY1AiqZ-vpEQnoXevYJ",
-    "news_item_snippet": "Joyner-Kersee says she believes Richardson is the favourite for gold in the women&#39;s 100m.",
-    "news_item_url": "https://olympics.com/en/news/jackie-joyner-kersee-exclusive-sha-carri-richardson-track-field-flojo",
-    "picture_source": "NBC New York",
-    "approx_traffic": "200,000+"
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTzP_4VFl5LP5RgvZjZp81PJU0UlvslIieCeJ46vXtbUTPIWtyIXCM048id4AyGyZPzePm1OEPl",
+    "news_item_snippet": "Sha&#39;Carri Richardson claimed silver against fierce competition, several of whom are her training partners.",
+    "news_item_url": "https://www.nbcnewyork.com/paris-2024-summer-olympics/shacarri-richardson-silver-medal-race/5665866/",
+    "picture_source": "NPR",
+    "approx_traffic": "500,000+"
   },
   {
     "country": "United States",
@@ -91,52 +91,32 @@
   },
   {
     "country": "United States",
-    "title": "Stock Market Today",
-    "pubDate": "Fri, 02 Aug 2024 09:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQwuuOPltX1EevH2O_Xl3e4N-HFaGMi7d8OWrHRJvPKX8kF53HWV5kOrBP0bqpmuLla4Jfjk90b",
-    "news_item_snippet": "A weak July jobs report sent stocks tumbling on worries the Fed is behind the curve on rate cuts.",
-    "news_item_url": "https://www.kiplinger.com/investing/stocks/stock-market-today-dow-sinks-611-points-on-rising-recession-fears",
-    "picture_source": "The Associated Press",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Caeleb Dressel",
-    "pubDate": "Fri, 02 Aug 2024 13:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcT_hamnVGYDqNk-oFq-gJWS9TCx0VTVQUa8zCxaiPW2A9iG5MS7MT6fQ_M0P5GRrxl-gX1C4nBe",
-    "news_item_snippet": "Caeleb Dressel was favored to clinch the top spot on the podium at the Paris Games after nabbing gold in both events in the 2020 Tokyo Olympics.",
-    "news_item_url": "https://www.cbsnews.com/news/swimmer-caeleb-dressel-paris-olympics-fails-to-defend-his-gold-medals/",
-    "picture_source": "NBC New York",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "United States",
     "title": "Aerosmith",
     "pubDate": "Fri, 02 Aug 2024 17:00:00 -0700",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQwU-jU3Cgv01p7ZQHtfSJbMGIvrm1C-fsyVnydHhMV41X6CYWnB0EUtFun9f90EnuMJot0m6qC",
     "news_item_snippet": "The band was formed by&nbsp;...",
     "news_item_url": "https://www.wifr.com/2024/08/02/aerosmith-is-retiring-touring-due-steven-tylers-vocal-injury-band-announces/",
     "picture_source": "NBC News",
-    "approx_traffic": "100,000+"
+    "approx_traffic": "200,000+"
   },
   {
     "country": "India",
-    "title": "Happy Friendship Day",
-    "pubDate": "Sat, 03 Aug 2024 12:30:00 +0530",
+    "title": "Friendship Day 2024",
+    "pubDate": "Sat, 03 Aug 2024 23:30:00 +0530",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQevENHPGjDVG8ZG1wOJvSnDi2diBDljiZoWnoScOwZmIdG_5jKF0pw4dCdzlKyfZZrtHaHgwah",
-    "news_item_snippet": "Happy Friendship Day 2024 Images: Friendship Day, celebrated on August 4, 2024, in India, is a time to appreciate friends. Globally, this special day is&nbsp;...",
-    "news_item_url": "https://m.economictimes.com/news/new-updates/friendship-day-2024-images-wishes-messages-and-photos-for-celebrating-friendship/articleshow/112239058.cms",
+    "news_item_snippet": "Happy Friendship Day 2024: \u092d\u093e\u0930\u0924 \u0938\u092e\u0947\u0924 \u0915\u0908 \u0926\u0947\u0936\u094b\u0902 \u092e\u0947\u0902 \u0905\u0917\u0938\u094d\u0924 \u0915\u0947 \u092a\u0939\u0932\u0947 \u0930\u0935\u093f\u0935\u093e\u0930 \u0915\u094b \u092b\u094d\u0930\u0947\u0902\u0921\u0936\u093f\u092a \u0921\u0947 \u0938\u0947\u0932\u093f\u092c\u094d\u0930\u0947\u091f \u0915\u093f\u092f\u093e \u091c\u093e\u0924\u093e \u0939\u0948.",
+    "news_item_url": "https://www.aajtak.in/india/news/story/friendship-day-2024-date-whatsapp-facebook-quotes-messages-to-wish-your-friends-ahlbs-1999447-2024-08-03",
     "picture_source": "Livemint",
-    "approx_traffic": "50,000+"
+    "approx_traffic": "200,000+"
   },
   {
     "country": "India",
     "title": "Nishant Dev",
     "pubDate": "Sat, 03 Aug 2024 17:30:00 +0530",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTWj68E7TtzpnVpQolkbEAaImCUiXvAjJDx_06sEtsVShXKyuPqgjUoysVLns7O9XxaS5CVNUTk",
-    "news_item_snippet": "Debutant Nishant Dev (71kg) bowed out of the Olympic Games following a heartbreaking defeat to Mexico&#39;s Marco Verde Alvarez in the men&#39;s 71kg quarterfinal.",
-    "news_item_url": "https://www.thehindu.com/sport/olympics/nishant-dev-bows-out-after-quarterfinal-loss/article68482868.ece",
-    "picture_source": "Times of India",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRY-RujLiD2uyaZ77QzrIwtp5GWfuxGx-Jywt3YDkGTuq2JpaIIu6Yuu0ECR-Ej_cObfnSuJEy8",
+    "news_item_snippet": "Paris Olympics 2024 News: Debutant Nishant Dev (71kg) bowed out of the Paris Olympics following a heartbreaking defeat to Mexico&#39;s Marco Verde Alvarez in&nbsp;...",
+    "news_item_url": "https://timesofindia.indiatimes.com/sports/paris-olympics-2024/indiaparis/boxer-nishant-dev-bows-out-of-paris-olympics-after-quarterfinal-loss/articleshow/112253176.cms",
+    "picture_source": "Sportstar",
     "approx_traffic": "50,000+"
   },
   {
@@ -154,28 +134,28 @@
     "title": "IND vs SL",
     "pubDate": "Fri, 02 Aug 2024 14:30:00 +0530",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSx_tM5g-V3N_IqfYKtiLlh5U26kujfbG2aRsclUelni0IT4TUWszryHqOMaiOQIJM1TPK0toX2",
-    "news_item_snippet": "India vs Sri Lanka 2024, IND vs SL 2nd ODI Live Streaming: The Indian Express gives all the livestreaming details of India vs Sri Lanka second ODI.",
-    "news_item_url": "https://indianexpress.com/article/sports/cricket/ind-vs-sl-2024-2nd-odi-live-streaming-when-and-where-to-watch-india-vs-sri-lanka-live-9492872/",
+    "news_item_snippet": "\u0b85\u0bb0\u0bcd\u0bb7\u0bcd\u0ba4\u0bc0\u0baa\u0bcd \u0b9a\u0bbf\u0b99\u0bcd \u0baa\u0ba8\u0bcd\u0ba4\u0bc8 \u0ba4\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1 \u0b86\u0b9f\u0bbe\u0bae\u0bb2\u0bcd \u0bb7\u0bbe\u0b9f\u0bcd \u0b85\u0b9f\u0bbf\u0b95\u0bcd\u0b95 \u0bae\u0bc1\u0baf\u0ba9\u0bcd\u0bb1\u0ba4\u0bbe\u0bb2\u0bcd \u0b95\u0b9f\u0bc8\u0b9a\u0bbf \u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bcd\u0b9f\u0bbe\u0b95 \u0b86\u0b9f\u0bcd\u0b9f\u0bae\u0bcd \u0b87\u0bb4\u0ba8\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd. \u0b87\u0ba8\u0bcd\u0ba4 \u0baa\u0bcb\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bbf\u0bb2\u0bcd 15 \u0baa\u0ba8\u0bcd\u0ba4\u0bc1\u0b95\u0bb3\u0bcd \u0bae\u0bc0\u0ba4\u0bae\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4&nbsp;...",
+    "news_item_url": "https://tamil.mykhel.com/cricket/ind-vs-sl-arshdeep-singh-followed-shannon-gabriel-while-the-team-needs-him-067485.html",
     "picture_source": "\u0926\u0948\u0928\u093f\u0915 \u091c\u093e\u0917\u0930\u0923",
     "approx_traffic": "2,000,000+"
+  },
+  {
+    "country": "India",
+    "title": "Lakshya Sen",
+    "pubDate": "Fri, 02 Aug 2024 23:30:00 +0530",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQkbE5HVZpF6nNpN7hSK62oS5IDDHX-5xeVBTcLok_XmDSSGK44vlwmki_H92lmsRh0kMiPH3Z-",
+    "news_item_snippet": "Paris Olympics: Indian fans at Paris want Lakshya Sen to spring a surprise against defending champion Viktor Axelsen. Axelsen and Lakshya know each other&nbsp;...",
+    "news_item_url": "https://www.indiatoday.in/sports/olympics/video/paris-olympics-lakshya-sen-vs-viktor-axelsen-india-fans-want-shuttler-to-spring-surprise-2576468-2024-08-03",
+    "picture_source": "Business Today",
+    "approx_traffic": "500,000+"
   },
   {
     "country": "India",
     "title": "Manu Bhaker",
     "pubDate": "Fri, 02 Aug 2024 21:30:00 +0530",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSnQwWlIcdHYnsd6_w5eMJXO-MXcvmzrhKjkSIqpwSWw5D1emv8Cxv6sCtdLGRk0yclMLEqDMBB",
-    "news_item_snippet": "Manu Bhaker, who made history by winning two medals in shooting events, is the only Indian in the history of the Olympics to qualify for three shooting&nbsp;...",
-    "news_item_url": "https://www.business-standard.com/sports/olympics/manu-bhaker-india-s-double-winner-misses-a-third-medal-at-olympics-124080300351_1.html",
-    "picture_source": "Business Today",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "India",
-    "title": "Viktor Axelsen",
-    "pubDate": "Fri, 02 Aug 2024 23:30:00 +0530",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQkbE5HVZpF6nNpN7hSK62oS5IDDHX-5xeVBTcLok_XmDSSGK44vlwmki_H92lmsRh0kMiPH3Z-",
-    "news_item_snippet": "It won&#39;t be easy for Lakshya. Axelsen is pretty much the gold standard in the current era of men&#39;s singles.",
-    "news_item_url": "https://www.espn.in/olympics/story/_/id/40713852/lakshya-sen-viktor-axelsen-india-paris-olympics-2024-medal-semifinal",
+    "news_item_snippet": "Manu Bhaker reflects on her Paris Olympics experience, aiming for improvement and success in future competitions.",
+    "news_item_url": "https://www.thehindu.com/sport/olympics/manu-bhaker-there-was-no-pressure-on-winning-third-medal-will-try-to-overcome-this-in-next-cycle/article68481171.ece",
     "picture_source": "Business Today",
     "approx_traffic": "200,000+"
   },
@@ -211,32 +191,52 @@
   },
   {
     "country": "Argentina",
+    "title": "Talleres",
+    "pubDate": "Sat, 03 Aug 2024 16:00:00 -0300",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTef_-21tIT673DX4-6m9SJyqwcscQ0YRMEYZ3w7IGtNuZ3JTnGPYjsU57-X8HkV1Yv1De05JOp",
+    "news_item_snippet": "Este s\u00e1bado en el Estadio Mario Alberto Kempes, el Matador recibe a la Gloria en un duelo que adem\u00e1s de ser un cl\u00e1sico, tiene el condimento adicional que&nbsp;...",
+    "news_item_url": "https://www.tycsports.com/liga-profesional-de-futbol/talleres-vs-instituto-en-vivo-hora-donde-ver-y-formaciones-id599579.html",
+    "picture_source": "Club Atl\u00e9tico Talleres",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Argentina",
     "title": "Argentina Juegos olimpicos",
     "pubDate": "Fri, 02 Aug 2024 17:00:00 -0300",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQTqAc-W6qjnhx3APQjijm4vM5BzvgK8Jsp0lURUsNM-1UPJEcGcs2XbatE6u5pjeGH6rnPbN1X",
-    "news_item_snippet": "Marruecos gole\u00f3 4-0 a Estados Unidos y se enfrentar\u00e1 a Espa\u00f1a, que se impuso por 3-0 sobre Jap\u00f3n. Egipto elimin\u00f3 por penales a Paraguay y espera por&nbsp;...",
-    "news_item_url": "https://www.infobae.com/deportes/2024/08/02/a-la-espera-de-argentina-francia-asi-esta-el-cuadro-de-semifinales-y-el-camino-hacia-la-sonada-dorada-de-los-juegos-olimpicos/",
-    "picture_source": "TyC Sports",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTlnabn6Mk_lTfIF7zWtIPBGOqSSOxnC0ktx5GjB1iGAgu-mUAXhtYAZKP03Oorq15FBPK3EyLD",
+    "news_item_snippet": "Un gol tempranero de Jean-Philippe Mateta le dio el golpe letal al elenco dirigido por Javier Mascherano y lo dej\u00f3 fuera en los cuartos de final de Par\u00eds&nbsp;...",
+    "news_item_url": "https://www.tycsports.com/polideportivo/por-que-francia-le-gano-a-argentina-en-los-juegos-olimpicos-2024-id599816.html",
+    "picture_source": "Infobae.com",
     "approx_traffic": "100,000+"
   },
   {
     "country": "Argentina",
-    "title": "Argentina",
-    "pubDate": "Fri, 02 Aug 2024 17:00:00 -0300",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSWTwAFvmd-_6xSU-hNTvmDldCESNl77JBJHozk3EgYbXnNdNZKQlLuvtpTBwGNNO3Q6T2Laoii",
-    "news_item_snippet": "Con la mayor comunidad italiana fuera de las fronteras de ese pa\u00eds, la Argentina es un territorio muy importante para la diplomacia de Roma.",
-    "news_item_url": "https://www.infobae.com/def/2024/08/03/fabrizio-lucentini-embajador-italiano-en-argentina-hay-una-nueva-sintonia-entre-ambos-paises/",
-    "picture_source": "LA NACION",
+    "title": "Newell's  Estudiantes",
+    "pubDate": "Fri, 02 Aug 2024 19:00:00 -0300",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTD-7b9pP3IpZc1xFwOQIkULOi9PEuBb0wbkUvi9WS_9GNQuV34yaI-h4j3ZEa0HUw9ojU6GiUF",
+    "news_item_snippet": "En el Coloso Marcelo Bielsa, el Pincha logr\u00f3 extender su buen momento luego del triunfo ante Gimnasia y venci\u00f3 4-1 a la Lepra, que llega golpeado al cl\u00e1sico&nbsp;...",
+    "news_item_url": "https://www.tycsports.com/liga-profesional-de-futbol/newells-vs-estudiantes-en-vivo-hora-donde-ver-y-formaciones-id599389.html",
+    "picture_source": "Ol\u00e9",
     "approx_traffic": "50,000+"
   },
   {
     "country": "Argentina",
     "title": "Loan",
     "pubDate": "Fri, 02 Aug 2024 20:00:00 -0300",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcS9FPfdUcdWMK0gDvDdfbLkWq4wR35VXE56K_2nvbvrzQ2zRT6yBN2hQop0uprlm_dx9A1wY1KD",
-    "news_item_snippet": "La Justicia Federal acept\u00f3 el pedido del abogado de la mam\u00e1 del chico desaparecido y orden\u00f3 que se investigue la imagen.",
-    "news_item_url": "https://www.infobae.com/sociedad/2024/08/03/burlando-y-la-mama-de-loan-hablaron-sobre-la-supuesta-foto-del-nene-en-colombia-es-el-tiene-la-misma-cicatriz/",
-    "picture_source": "\u00e1mbito.com",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQRNL41sRvk-RPMZwetlqLNslQuIhZQVyIDhxul1LNJjdY_jaR3ERoh1GP6IfjbLKHQVsOTmBwI",
+    "news_item_snippet": "Jos\u00e9 Pe\u00f1a se mostr\u00f3 esperanzado por el parecido del menor de la imagen con su hijo. La fotograf\u00eda fue tomada en un shopping de Barranquilla.",
+    "news_item_url": "https://www.ambito.com/informacion-general/el-papa-loan-hablo-la-foto-del-nino-colombia-nos-parece-que-es-el-n6043439",
+    "picture_source": "Clar\u00edn.com",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Argentina",
+    "title": "Argentina",
+    "pubDate": "Fri, 02 Aug 2024 17:00:00 -0300",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQ0COLNbd2sna7U4jJiXGQr7B8oPm0zZLU3jtsmg46fJDNajJigyaFVMDA5j88NERw1VhRff1_3",
+    "news_item_snippet": "A corto plazo el contexto internacional no parece ser el m\u00e1s atractivo para el pa\u00eds, pero hay algunas oportunidades que pueden aprovecharse si se hacen las&nbsp;...",
+    "news_item_url": "https://www.lanacion.com.ar/economia/un-escenario-global-desafiante-para-la-argentina-nid02082024/",
+    "picture_source": "Argentina.gob.ar Presidencia de la Naci\u00f3n",
     "approx_traffic": "50,000+"
   },
   {
@@ -252,11 +252,11 @@
   {
     "country": "Australia",
     "title": "Sakakibara Saya",
-    "pubDate": "Sat, 03 Aug 2024 09:00:00 +1000",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQlC-jqchHMaHr71tVOpAEOPg2oCY6IR1pm2dmZgBG7nK8Rdypf3DriL-kXKKSKw3gSdWQwSj56",
-    "news_item_snippet": "It was a golden evening for Australia&#39;s Saya Sakakibara, who won the final in women&#39;s BMX racing ahead of Manon Veenstra and Zoe Claessens.",
-    "news_item_url": "https://olympics.com/en/news/paris-2024-cycling-team-australia-s-saya-sakakibara-pumps-and-jumps-to-gold-in-women-s-bmx-racing",
-    "picture_source": "ABC News",
+    "pubDate": "Sat, 03 Aug 2024 08:00:00 +1000",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQl7o0s4kncBtwSgpoQwDRyHiF-K36-_ikbVMbWB3kybmoL0SOhPSPlcO8CQXqCMkqWBmlyzoBD",
+    "news_item_snippet": "After her historic BMX gold medal, Saya Sakakibara pays tribute to her family and reveals she had COVID earlier in the week.",
+    "news_item_url": "https://www.abc.net.au/news/2024-08-03/paris-olympics-saya-sakakibara-bmx-gold-covid/104179260",
+    "picture_source": "Olympics",
     "approx_traffic": "100,000+"
   },
   {
@@ -271,23 +271,13 @@
   },
   {
     "country": "Brazil",
-    "title": "Futebol feminino olimpiadas",
-    "pubDate": "Sat, 03 Aug 2024 08:00:00 -0500",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQj_gV1vNO_-pSLi6O4ccTPE7uukuwoDoIfOZqJB-CWtBMcBetBRICICDFZWnQRstFdlQ9PFIkw",
-    "news_item_snippet": "Suspensa devido a uma expuls\u00e3o no \u00faltimo jogo da primeira fase, Rainha sofre durante marca\u00e7\u00e3o de penalidade defendida por Lorena.",
-    "news_item_url": "https://ge.globo.com/olimpiadas/noticia/2024/08/03/franca-x-brasil-marta-e-rayssa-leal-atacam-de-torcedoras-assista.ghtml",
+    "title": "Vitoria",
+    "pubDate": "Sat, 03 Aug 2024 15:00:00 -0500",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQ_Rp6DzfrwrR8ooZSabv2yXEXsEWSCuU8nrFnaDD80TF1s-e4s1q9xuIemp84Qgi2prfsPQy4t",
+    "news_item_snippet": "FIM DE JOGO! O Vit\u00f3ria vence o Cuiab\u00e1 no Barrad\u00e3o por 1 a 0. 50&#39;. Matheuzinho domina a bola no meio do campo de defesa e sofre falta de Derik Lacerda.",
+    "news_item_url": "https://www.estadao.com.br/esportes/futebol/vitoria-x-cuiaba-brasileiro-serie-a-2024/",
     "picture_source": "globoesporte.com",
     "approx_traffic": "100,000+"
-  },
-  {
-    "country": "Brazil",
-    "title": "Brasil feminino",
-    "pubDate": "Sat, 03 Aug 2024 08:00:00 -0500",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSHhjA_pVCBrO-sf-7JWpmnqSQqRTl2-EkCME3uLLT9UWPD6i_Lodo-seVNIfLAOSovzV8xQ5EH",
-    "news_item_snippet": "O Brasil est\u00e1 classificado para as quartas de final do handebol feminino. Neste s\u00e1bado (3), a Sele\u00e7\u00e3o se imp\u00f4s e venceu o duelo decisivo contra Angola pela&nbsp;...",
-    "news_item_url": "https://www.cnnbrasil.com.br/esportes/olimpiadas/brasil-goleia-angola-e-se-classifica-para-quartas-de-final-do-handebol-feminino/",
-    "picture_source": "globoesporte.com",
-    "approx_traffic": "50,000+"
   },
   {
     "country": "Brazil",
@@ -303,59 +293,19 @@
     "country": "Brazil",
     "title": "Santos x Sport Recife",
     "pubDate": "Fri, 02 Aug 2024 17:00:00 -0500",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQWb3kixwSj7XDFBSp52b0gJSNRnV6GgibWlT-rjSR_nK_sWI8gRGs7jhXtCYdnncvQWEdaCgwB",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTm9MDJgdBIz4YZAIksCi20KLb0dxFQldzPxzS7QbRDAIUISMD5SD7mx88eFoP4W25FoOMM1lsW",
     "news_item_snippet": "Guilherme abriu o placar para o Santos, aos 28 minutos do primeiro tempo. O gol saiu em um lance de contra-ataque, a principal aposta santista na partida.",
     "news_item_url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2024/08/02/sport-busca-empate-na-vila-e-impede-titulo-simbolico-do-santos-do-1-turno.htm",
     "picture_source": "globoesporte.com",
-    "approx_traffic": "500,000+"
-  },
-  {
-    "country": "Brazil",
-    "title": "Fluminense",
-    "pubDate": "Fri, 02 Aug 2024 03:00:00 -0500",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQonUU7bh7HXdf1H8qakC6Ad8cp3QNRw8Jc8OIGNnGiH65WMk8mcO1bMNkGP0O8S1WkOJPhPxia",
-    "news_item_snippet": "Tricolor encara o Bahia no domingo, \u00e0s 16h, pela 21\u00aa rodada do Brasileir\u00e3o; treinador poupou Thiago Silva contra o Juventude, em derrota na Copa do Brasil.",
-    "news_item_url": "https://ge.globo.com/futebol/times/fluminense/noticia/2024/08/02/escalacao-do-fluminense-mano-deve-ter-retorno-de-titulares-mas-vai-definir-time-no-sabado.ghtml",
-    "picture_source": "globoesporte.com",
     "approx_traffic": "200,000+"
-  },
-  {
-    "country": "Brazil",
-    "title": "Hugo Calderano",
-    "pubDate": "Fri, 02 Aug 2024 09:00:00 -0500",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQwuNtMgul0BzMlFptNDPVEA6ESyz_Hn3zn_RABFA5XFYzi3nr_8yPloLfW9ntxRdCwSODpN5ea",
-    "news_item_snippet": "&#39;Tive v\u00e1rias chances e n\u00e3o consegui aproveitar. O sueco fez uma partida muito boa, ele jogou em um n\u00edvel realmente muito alto&#39;, afirma o brasileiro.",
-    "news_item_url": "https://g1.globo.com/jornal-nacional/noticia/2024/08/02/hugo-calderano-perde-no-tenis-de-mesa-e-vai-disputar-o-bronze-nas-olimpiadas-de-paris.ghtml",
-    "picture_source": "CNN Brasil",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "Brazil",
-    "title": "Basquete olimpiadas",
-    "pubDate": "Fri, 02 Aug 2024 08:00:00 -0500",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTgPNHtNdWLk78vo3E3082u4irv8jURzEGHhI-br95potfiqtdjw7xV_Z-fVTrGyIokev3s1KeE",
-    "news_item_snippet": "Duelo foi definido neste s\u00e1bado ap\u00f3s americanos encerrarem fase de grupos com vit\u00f3ria por 104 a 83 sobre Porto Rico.",
-    "news_item_url": "https://www.terra.com.br/esportes/jogos-olimpicos/olimpiadas-2024-brasil-encara-dream-team-dos-eua-no-basquete-veja-datas-das-quartas,950033be453c625441e63944591c7896b3tbpo8t.html",
-    "picture_source": "globoesporte.com",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "Brazil",
-    "title": "Futebol masculino olimpiadas",
-    "pubDate": "Fri, 02 Aug 2024 14:00:00 -0500",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTn94zare7UTq5idc68VJ5mRSip0nwVrJOsDBofg5ysLwaf4NiNDuEWL9-W4Zcer8M-2hsXjQ0K",
-    "news_item_snippet": "Os franceses, donos da casa, v\u00e3o encarar os eg\u00edpcios na segunda-feira (05), \u00e0s 16h (de Bras\u00edlia). O confronto ter\u00e1 um &#39;representante&#39; brasileiro: Rog\u00e9rio Micale&nbsp;...",
-    "news_item_url": "https://www.espn.com.br/olimpiadas/artigo/_/id/13989699/futebol-masculino-olimpiadas-semifinais-terao-franca-contra-brasileiro-veja-jogos",
-    "picture_source": "globoesporte.com",
-    "approx_traffic": "100,000+"
   },
   {
     "country": "Canada",
     "title": "Canada vs Germany soccer",
     "pubDate": "Sat, 03 Aug 2024 14:00:00 -0400",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSIkMTP7U7jbbjU3T-_7_jdHtV2ut4AhgP58U_hz7wwAUtPzl0rKndvqXHpzo_Kkm1dAK6ttB6U",
-    "news_item_snippet": "There are eight teams left in the competition: The USA, Japan, Spain, Colombia, Canada, Germany, France and Brazil have made it past the group stage. Next up,&nbsp;...",
-    "news_item_url": "https://sports.yahoo.com/2024-paris-olympics-soccer-how-to-watch-the-canada-vs-germany-game-today-132531365.html",
+    "news_item_snippet": "MARSEILLE, France (AP) \u2014 Germany and defending champion Canada played to a scoreless draw before going to extra time in the quarterfinals of the Olympic&nbsp;...",
+    "news_item_url": "https://www.ourmidland.com/sports/article/canada-vs-germany-goes-to-extra-time-in-olympic-19617907.php",
     "picture_source": "Sportsnet.ca",
     "approx_traffic": "50,000+"
   },
@@ -371,6 +321,16 @@
   },
   {
     "country": "South Korea",
+    "title": "\uccad\uc57d\ud648",
+    "pubDate": "Fri, 02 Aug 2024 09:00:00 +0900",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQYHHZ8Lc1MDMGztmnWibsBX79UNu2emFqxP4AzIeZrYqzPgQgpSFZpoWbeB1f8S3tTr-S-WKUL",
+    "news_item_snippet": "(\uc11c\uc6b8=\uc5f0\ud569\ub274\uc2a4) \uad8c\ud61c\uc9c4 \uae30\uc790 = \uc774\ub978\ubc14 &#39;\ub85c\ub610 \uccad\uc57d&#39;\uc5d0 \ub300\ud55c \uad00\uc2ec\uc73c\ub85c \ucd5c\uadfc \uccad\uc57d \uc811\uc218 \ud648\ud398\uc774\uc9c0 \ub9c8\ube44 \uc0ac\ud0dc\uac00 \ubc1c\uc0dd\ud55c \uac00\uc6b4\ub370 \uc811\uc218\ub97c \uc9c4\ud589\ud55c \uc774\ud2c0\uac04...",
+    "news_item_url": "https://m.yna.co.kr/view/AKR20240802072400003",
+    "picture_source": "\uc5f0\ud569\ub274\uc2a4TV",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "South Korea",
     "title": "\uc784\uc2dc\ud604",
     "pubDate": "Fri, 02 Aug 2024 01:00:00 +0900",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSXDPkSG50L-B-APzlrRUn3QeJ_i5zw4L4KuUtr9V4k9VuRtTZr1_qWojuYu20uUoJkVHtOfJqk",
@@ -378,16 +338,6 @@
     "news_item_url": "https://www.hani.co.kr/arti/sports/sportstemp/olympics/1152062.html",
     "picture_source": "\ud55c\uaca8\ub808",
     "approx_traffic": "50,000+"
-  },
-  {
-    "country": "France",
-    "title": "Laure Manaudou",
-    "pubDate": "Sat, 03 Aug 2024 14:00:00 +0200",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcT30Qszx94-yG3SH_Cw516fgCn0ZGyL_ewbHJNTLse9S26giRVVlTUdpoOqUQbEf2-KxRfcNzu1",
-    "news_item_snippet": "C&#39;est sous les yeux de sa grande soeur Laure que Florent Manaudou a remport\u00e9 sa quatri\u00e8me m\u00e9daille olympique vendredi soir \u00e0 la D\u00e9fense Arena.",
-    "news_item_url": "https://fr.news.yahoo.com/laure-manaudou-%C3%A9mue-larmes-apr%C3%A8s-104911251.html",
-    "picture_source": "Yahoo Actualit\u00e9s",
-    "approx_traffic": "100,000+"
   },
   {
     "country": "France",
@@ -401,31 +351,41 @@
   },
   {
     "country": "France",
-    "title": "Tableau des medailles",
-    "pubDate": "Sat, 03 Aug 2024 07:00:00 +0200",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSOhedR_LVylKsFdadry-KuqmMaC9LNe9GFh4pgaGfDaAsNkRFD6UsrG8ielQkGmSSRdowaAmOg",
-    "news_item_snippet": "Avec 36 m\u00e9dailles au classement ce vendredi soir, les Fran\u00e7ais ont d\u00e9j\u00e0 d\u00e9pass\u00e9 leur bilan d&#39;il y a trois ans au JO de Tokyo.",
-    "news_item_url": "https://www.lefigaro.fr/sports/jeux-olympiques/jo-paris-2024-avec-33-medailles-la-delegation-francaise-atteint-deja-son-total-de-tokyo-20240802",
-    "picture_source": "Ouest-France",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "France",
     "title": "Teddy Riner",
     "pubDate": "Fri, 02 Aug 2024 12:00:00 +0200",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRTN6mnpCsofeVlUROJ-fPLB5p91-LVQG3krTXtXy_THM3M8tA6VYtgAei7dMakkEpwVwzFaYr5",
-    "news_item_snippet": "Camille Jedrzejewski remporte l&#39;argent au tir au pistolet \u00e0 25 m\u00e8tres, 37e m\u00e9daille fran\u00e7aise; Les sabreuses fran\u00e7aises en qu\u00eate du titre olympique; Maxime&nbsp;...",
-    "news_item_url": "https://www.europe1.fr/sport/en-direct-jo-2024-la-francaise-camille-jedrzejewski-remporte-largent-au-tir-au-pistolet-a-25-metres-4260961",
+    "news_item_snippet": "La France a remport\u00e9 ce samedi une 41e m\u00e9daille, la 12e en or, avec sa victoire en judo par \u00e9quipes mixtes. Gr\u00e2ce notamment \u00e0 deux victoires de Teddy Riner&nbsp;...",
+    "news_item_url": "https://lequotidien.lu/a-la-une/jo-2024-judo-teddy-riner-offre-a-la-france-le-titre-olympique-par-equipes-contre-le-japon/",
     "picture_source": "F\u00e9d\u00e9ration Fran\u00e7aise de Judo",
     "approx_traffic": "1,000,000+"
+  },
+  {
+    "country": "France",
+    "title": "Voile Jeux olympiques",
+    "pubDate": "Fri, 02 Aug 2024 01:00:00 +0200",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTp_Kfen_pK_RQfIukLMwOwK2qodyGBQ4Gtcv-moOXyHbtyPn-JSXrkxrkPdWwgSCk-r0zullDn",
+    "news_item_snippet": "Chaque jour, pendant les Jeux olympiques de Paris 2024, Voiles et Voiliers vous d\u00e9crypte la comp\u00e9tition en compagnie d&#39;un invit\u00e9 de marque.",
+    "news_item_url": "https://voilesetvoiliers.ouest-france.fr/regate/jeux-olympiques/video-jo-2024-l-analyse-du-jour-des-epreuves-de-voile-avec-marie-barrue-35759032-ac3c-4e1e-b398-55baa4baeef7",
+    "picture_source": "Ouest-France",
+    "approx_traffic": "500,000+"
+  },
+  {
+    "country": "France",
+    "title": "France-Argentine",
+    "pubDate": "Fri, 02 Aug 2024 13:00:00 +0200",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRFT1mHQREDlVRaJqCYQGT6iGY5wzn5FJedbd4gKeo6V6Wf6rz--4EsTEWksZIAIxh2JhiUGh6Q",
+    "news_item_snippet": "Dans un match tr\u00e8s tendu, l&#39;\u00e9quipe de France s&#39;impose 1-0 face \u00e0 l&#39;Argentine gr\u00e2ce \u00e0 un coup de casque sur corner de Jean-Philippe Mateta !",
+    "news_item_url": "https://rmcsport.bfmtv.com/jeux-olympiques/direct-jo-2024-foot-suivez-france-argentine-le-choc-des-quarts-de-finale-du-tournoi-olympique-qui-sent-la-poudre-en-live_LN-202408020434.html",
+    "picture_source": "Ouest-France",
+    "approx_traffic": "200,000+"
   },
   {
     "country": "Germany",
     "title": "Bayern \u2013 Tottenham",
     "pubDate": "Sat, 03 Aug 2024 13:00:00 +0200",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSPFgkWpt47L1ujh1C6_YUnUiMeNIuv33OdCbKYmoHoBcpzCSKe-FgDXgiuDLmv0X96hGjJhOuI",
-    "news_item_snippet": "Der FC Bayern M\u00fcnchen hat mit einem durchaus \u00fcberzeugenden 2:1 gegen Tottenham Hotspur sein einziges Testspiel auf der S\u00fcdkorea-Reise f\u00fcr sich entschieden. Ein&nbsp;...",
-    "news_item_url": "https://www.kicker.de/bayern-gegen-tottenham-2024-vereine-freundschaftsspiele-4917869/ticker",
+    "news_item_snippet": "Der FC Bayern hat die erste H\u00e4rteprobe unter dem neuen Coach Vincent Kompany bestanden. Der Rekordmeister lieferte eine couragierte Leistung und bezwang die&nbsp;...",
+    "news_item_url": "https://sport.sky.de/fussball/artikel/fc-bayern-tottenham-hotspur-die-highlights-testspiel/13189978/34911",
     "picture_source": "BNN - Badische Neueste Nachrichten",
     "approx_traffic": "200,000+"
   },
@@ -434,8 +394,8 @@
     "title": "Isabell Werth",
     "pubDate": "Sat, 03 Aug 2024 14:00:00 +0200",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSimYTXnSWTtv--89IxdnPTGfMYzxkFAfcIQnkFEyXYBebwq42FobwsaoNqqBXKNCNfI3hspR9m",
-    "news_item_snippet": "Die deutsche Dressur-Equipe war als Favorit gestartet. Es wurde dramatisch knapp. Doch es reichte f\u00fcr Deutschlands viertes Gold in Paris. F\u00fcr Isabell Werth&nbsp;...",
-    "news_item_url": "https://www.sportschau.de/olympia/deutschland-holt-dressur-gold-werth-schreibt-geschichte,olympia-paris-reiten-114.html",
+    "news_item_snippet": "Mit f\u00fcnf Jahren lernte Isabell Werth reiten. Ein halbes Jahrhundert sp\u00e4ter ist sie Deutschlands erfolgreichste Olympionikin. Und hat noch lange nicht genug.",
+    "news_item_url": "https://www.sportschau.de/olympia/rekord-olympionikin-isabell-werth-kroent-sich-in-versailles-,olympia-paris-reiten-dressur-mannschaft-100.html",
     "picture_source": "STERN.de",
     "approx_traffic": "100,000+"
   },
@@ -447,26 +407,16 @@
     "news_item_snippet": "Oliver Zeidler ist Olympiasieger: Der Ruderer von der Frankfurter Rudergesellschaft Germania gewann das Finale im Einzel.",
     "news_item_url": "https://www.hessenschau.de/sport/mehr-sport/olympia-2024-ruderer-oliver-zeidler-holt-gold-v1,zeidler-olympia-finale-100.html",
     "picture_source": "Hessenportal",
-    "approx_traffic": "50,000+"
+    "approx_traffic": "100,000+"
   },
   {
     "country": "Germany",
     "title": "Schalke",
     "pubDate": "Sat, 03 Aug 2024 21:00:00 +0200",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQGD-GyzRs_V7Y6lIk9vKAEU775GZSg1LoJxyTFdQUi8XaJACFraOzp-mkFwi2IrLUuycU6mal1",
-    "news_item_snippet": "Am 1. Spieltag der 2. Bundesliga trat Schalke 04 gegen Eintracht Braunschweig an. Die S04-Noten in der Einzelkritik.",
-    "news_item_url": "https://www.ruhr24.de/s04/schalke-04-einzelkritik-noten-eintracht-braunschweig-2-bundesliga-heute-moussa-sylla-karaman-s04-93223591.html",
-    "picture_source": "Westdeutsche Allgemeine Zeitung",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Germany",
-    "title": "Hertha BSC",
-    "pubDate": "Sat, 03 Aug 2024 13:00:00 +0200",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSxS2uYsJlJByO5-kdBoG-1RVln2ctvkrl560Z5HSH5f1iUbH73b_l8-t2Kgyf8BnRZoB4zUAsw",
-    "news_item_snippet": "Zum Heimspielauftakt gegen den SC Paderborn 07 startete Tjark Ernst zwischen den Pfosten. Au\u00dferdem schickte unser neuer Chefcoach Cristian Fi\u00e9l Jonjoe Kenny&nbsp;...",
-    "news_item_url": "https://www.herthabsc.com/de/nachrichten/2024/08/spielbericht-bscscp-2425",
-    "picture_source": "rbb24",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTnSZXA9Du7Na4nRsVvwNsSDR8mpowacCdfWI6BXzna7pDdqgGwGiNggNQ76BRU3oRC5anyr2p8",
+    "news_item_snippet": "Was f\u00fcr ein Saisonstart: Der FC Schalke 04 schie\u00dft Eintracht Braunschweig aus der Arena und gewinnt mit 5:1 (2:1).",
+    "news_item_url": "https://www.waz.de/sport/fc-schalke-04/article406941275/51-gala-irre-schalke-party-nach-knaller-start.html",
+    "picture_source": "NDR.de",
     "approx_traffic": "50,000+"
   },
   {
@@ -477,7 +427,7 @@
     "news_item_snippet": "Leo Neugebauer hat f\u00fcr die n\u00e4chste Medaille f\u00fcr Team Deutschland gesorgt. Der 24-J\u00e4hrige holte sich in Paris Silber im Zehnkampf und schaffte damit etwas,&nbsp;...",
     "news_item_url": "https://www.kicker.de/wie-einst-busemann-neugebauer-holt-silber-im-zehnkampf-1042128/artikel",
     "picture_source": "Westdeutsche Allgemeine Zeitung",
-    "approx_traffic": "100,000+"
+    "approx_traffic": "200,000+"
   },
   {
     "country": "Germany",
@@ -491,16 +441,6 @@
   },
   {
     "country": "Germany",
-    "title": "HSV",
-    "pubDate": "Fri, 02 Aug 2024 19:00:00 +0200",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRHhBezCldDaMeT-dk6pCpL5pJq_FuHCvCZL3A2tjG3D5EHpOW1-0t4l9KngJDZ5VkrexV5DbVo",
-    "news_item_snippet": "Keine Frage, dieses Duell gleich zum Start in die 51. Saison der 2. Bundesliga war ein besonderes. Eines, das viele Geschichten zu bieten hat und seinen&nbsp;...",
-    "news_item_url": "https://ga.de/sport/fckoeln/1-fc-koeln-auftakt-niederlage-gegen-den-hsv_aid-117246279",
-    "picture_source": "NDR.de",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Germany",
     "title": "Oliver Zeidler",
     "pubDate": "Thu, 01 Aug 2024 17:00:00 +0200",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTin3HYDJUajlGjQ7fGGKhIfSeJicB3wBzEhVSOlP0-xsuTPkvhZ6rzOzXzzvZWmiHVm9L_U_Q3",
@@ -508,6 +448,36 @@
     "news_item_url": "https://www.hessenschau.de/sport/mehr-sport/olympia-2024-ruderer-oliver-zeidler-holt-gold-v1,zeidler-olympia-finale-100.html",
     "picture_source": "Hessenportal",
     "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Italy",
+    "title": "Musetti",
+    "pubDate": "Sat, 03 Aug 2024 13:00:00 +0200",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQMeYrHHUCdJMe1nS7eiVs8ZeIuIA6ADRIn0o0egPyGgrAXgbIOlUolY7vdDlmrRt-ZnOUButom",
+    "news_item_snippet": "L&#39;Azzurro ha conquistato il terzo posto sul podio battendo il canadese Auger-Aliassime per 6-4, 1-6, 6-3. &quot;E&#39; stata durissima, ma mi sono sacrificato per la&nbsp;...",
+    "news_item_url": "https://tg24.sky.it/sport/2024/08/03/olimpiadi-parigi-2024-lorenzo-musetti-bronzo-tennis",
+    "picture_source": "Corriere dello Sport.it",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "Italy",
+    "title": "Jacobs",
+    "pubDate": "Sat, 03 Aug 2024 11:00:00 +0200",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcThLdlVf89s_2L9_Fmc10q7a1aVTu20RCx-xZeyus3ilaCdlCeSY4yERy1r23cZLdZnKJNXFQS4",
+    "news_item_snippet": "Il campione in carica e l&#39;altro sprinter azzurro Ali vanno a caccia di una medaglia ai Giochi di Parigi 2024: tutti i dettagli.",
+    "news_item_url": "https://www.corrieredellosport.it/news/olimpiadi/atletica-leggera/2024/08/03-131074368/jacobs_100_metri_olimpiadi_quando_corre_orario_dove_vedere_in_tv_semifinale_e_finale",
+    "picture_source": "Rai News",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "Italy",
+    "title": "Juventus-Brest",
+    "pubDate": "Sat, 03 Aug 2024 11:00:00 +0200",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQFnMEZRgY1FqJYBnOUdiGmbtCxKVD2sHY7kuTMnJqDxaqZ_PoVFiEkZpcVaxslKrlCze9kwQxL",
+    "news_item_snippet": "Amichevole internazionale di lusso allo stadio Adriatico: seguite il match con la nostra diretta testuale, aggiornamenti in tempo reale!",
+    "news_item_url": "https://www.ilpescara.it/sport/calcio/juventus-brest-amichevole-diretta-live-3-agosto-pescara.html",
+    "picture_source": "Juventus.com",
+    "approx_traffic": "100,000+"
   },
   {
     "country": "Italy",
@@ -521,13 +491,13 @@
   },
   {
     "country": "Italy",
-    "title": "Marcell Jacobs",
-    "pubDate": "Sat, 03 Aug 2024 12:00:00 +0200",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcThLdlVf89s_2L9_Fmc10q7a1aVTu20RCx-xZeyus3ilaCdlCeSY4yERy1r23cZLdZnKJNXFQS4",
-    "news_item_snippet": "L&#39;azzurro: &#39;Bisogna correre sotto i 9&quot;90 per andare in finale&#39; (ANSA)",
-    "news_item_url": "https://www.ansa.it/olimpiadi_2024/notizie/2024/08/03/parigi24-marcell-jacobs-in-semifinale-dei-100-metri_95052670-d301-4830-8fb1-85e2cec83e63.html",
-    "picture_source": "Rai News",
-    "approx_traffic": "50,000+"
+    "title": "Roma-Olympiacos",
+    "pubDate": "Sat, 03 Aug 2024 16:00:00 +0200",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRx576n4diB2iovwGwy8hH446rK-Qr3Wi3yJzbXCuUQPz_u02P0IPVOETeywAAR4hnNz111tEKy",
+    "news_item_snippet": "L&#39;allenatore dei giallorossi ha parlato al termine del pareggio in amichevole contro l&#39;Olympiacos: cosa ha detto.",
+    "news_item_url": "https://www.corrieredellosport.it/news/calcio/serie-a/roma/2024/08/03-131074485/de_rossi_il_mercato_non_e_chiuso_roma-olympiacos_ecco_cosa_non_mi_e_piaciuto_",
+    "picture_source": "Eurosport.it",
+    "approx_traffic": "100,000+"
   },
   {
     "country": "Italy",
@@ -537,6 +507,16 @@
     "news_item_snippet": "la tavola a vela italiana torna nell&#39;olimpo con Marta Maggetti, la 28enne cagliaritana ha vinto la medaglia d&#39;oro nella classe iQFoil.",
     "news_item_url": "https://www.giornaledellavela.com/2024/08/03/maggetti-oro-olimpiadi/",
     "picture_source": "Rai News",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Italy",
+    "title": "Juve-Brest",
+    "pubDate": "Sat, 03 Aug 2024 10:00:00 +0200",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQ_yp9UMbACN8zsLM_3tq8Zz1ruWjizEsKttcoRjmhYtn2s2DbmAwlZdWhWmZ9iLcO5leloY-VB",
+    "news_item_snippet": "Due a due a Pescara fra Juventus e Brest, nella seconda amichevole pre-season dei bianconeri, che porta altri spunti interessanti nella...",
+    "news_item_url": "https://www.juventus.com/it/news/articoli/juventus-brest-amichevole",
+    "picture_source": "La Gazzetta dello Sport",
     "approx_traffic": "50,000+"
   },
   {
@@ -554,10 +534,10 @@
     "title": "Real Madrid",
     "pubDate": "Fri, 02 Aug 2024 17:00:00 -0600",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQ91w5cBR_oUKm3uRMhdGayPw86IOB4I1VQKPmOOidy2_apxGz_wHTEd9aFehao-MKaJRr0TG0n",
-    "news_item_snippet": "El Real Madrid Club Futbol juega hoy contra el Futbol Club Barcelona en una edici\u00f3n m\u00e1s del cl\u00e1sico con sede en Estados Unidos.",
-    "news_item_url": "https://www.marca.com/mx/futbol/2024/08/03/66ae4b4222601d5b7e8b45bd.html",
+    "news_item_snippet": "Sigue en vivo y en directo el Real Madrid - Barcelona, partido correspondiente al Cl\u00e1sico de pretemporada que se disputa hoy, 4 de agosto, en el MetLife.",
+    "news_item_url": "https://as.com/futbol/real-madrid-barcelona-en-directo-amistoso-de-pretemporada-hoy-en-vivo-n/",
     "picture_source": "ESPN",
-    "approx_traffic": "50,000+"
+    "approx_traffic": "100,000+"
   },
   {
     "country": "Mexico",
@@ -574,19 +554,9 @@
     "title": "M\u00e9xico Juegos Ol\u00edmpicos 2024",
     "pubDate": "Fri, 02 Aug 2024 09:00:00 -0600",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQ7mmPLNdZuWYS5pcViJG4OotjKEc-vElbEr0yEPZr-ioQ6Ku89seoz27PZJXjbA4iPLi6i1Rud",
-    "news_item_snippet": "La agenda de los mexicanos en los Juegos Ol\u00edmpicos de Par\u00eds 2024 iniciar\u00e1 este 3 de agosto con golf, y concluye con boxeo. Aqu\u00ed el calendario de este&nbsp;...",
-    "news_item_url": "https://www.elfinanciero.com.mx/deportes/2024/08/03/mexicanos-en-paris-2024-hoy-3-de-agosto-donde-ver-resultados-y-resumen/",
+    "news_item_snippet": "El mexicano Marco Verde asegur\u00f3 medalla al acceder a las Semifinales de la categor\u00eda -71kg del boxeo de Paris 2024.",
+    "news_item_url": "https://www.espn.com.mx/olimpicos/nota/_/id/13991719/juegos-olimpicos-2024-marco-verde-boxeo-medalla-mexico",
     "picture_source": "El Economista",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Mexico",
-    "title": "Juan Celaya",
-    "pubDate": "Fri, 02 Aug 2024 06:00:00 -0600",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcT6IbzF0yQs5UM81VmgR382BpiAk8cU35ZJPzJexwNcgqzqgH1JqTqGQI1HuzfSuGWGt27kstBx",
-    "news_item_snippet": "M\u00e9xico consigui\u00f3 su tercera medalla ol\u00edmpica en Par\u00eds 2024 en clavados sincronizados de 3 metros | TUDN Embajadores | TUDN.",
-    "news_item_url": "https://www.tudn.com/juegos-olimpicos/paris-2024/embajadores/quienes-son-osmar-olvera-juan-celaya-clavadistas-mexicanos-consiguieron-plata",
-    "picture_source": "Los Angeles Times",
     "approx_traffic": "50,000+"
   },
   {
@@ -600,29 +570,29 @@
     "approx_traffic": "50,000+"
   },
   {
-    "country": "United Kingdom",
-    "title": "Bayern vs Tottenham",
-    "pubDate": "Sat, 03 Aug 2024 12:00:00 +0100",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQUWpqiDSQGo9XiDm9IJ0KeSOP4oaNpxLRYJY7HgbcJ1jgNeLdJeIQg5WovwqhLw8QgXMarTA9y",
-    "news_item_snippet": "No Harry Kane, no problem for the Bundesliga giants as Spurs are beaten in Seoul ahead of north London rematch next weekend.",
-    "news_item_url": "https://www.standard.co.uk/sport/football/bayern-munich-vs-tottenham-live-stream-friendly-2024-latest-score-result-watch-tv-team-news-b1174568.html",
-    "picture_source": "Football.London",
+    "country": "Mexico",
+    "title": "Juan Celaya",
+    "pubDate": "Fri, 02 Aug 2024 06:00:00 -0600",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcT6IbzF0yQs5UM81VmgR382BpiAk8cU35ZJPzJexwNcgqzqgH1JqTqGQI1HuzfSuGWGt27kstBx",
+    "news_item_snippet": "M\u00e9xico consigui\u00f3 su tercera medalla ol\u00edmpica en Par\u00eds 2024 en clavados sincronizados de 3 metros | TUDN Embajadores | TUDN.",
+    "news_item_url": "https://www.tudn.com/juegos-olimpicos/paris-2024/embajadores/quienes-son-osmar-olvera-juan-celaya-clavadistas-mexicanos-consiguieron-plata",
+    "picture_source": "Los Angeles Times",
     "approx_traffic": "50,000+"
   },
   {
-    "country": "United Kingdom",
-    "title": "Max Whitlock",
-    "pubDate": "Sat, 03 Aug 2024 18:00:00 +0100",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTnSkc-A8A-sjS6mL6Lajs50QZOOK5Cw_Fb5IyJ7LV-pQMXTPIuaNFN5CE-heTboSQE-sweeypC",
-    "news_item_snippet": "Team GB&#39;s Max Whitlock missed out on a pommel horse medal on Saturday, failing to make the podium in the discipline for the first time in his Olympic&nbsp;...",
-    "news_item_url": "https://www.espn.co.uk/olympics/story/_/id/40716412/olympics-2024-max-whitlock-misses-pommel-horse-medal",
-    "picture_source": "The Independent",
+    "country": "Spain",
+    "title": "Getafe - Atl\u00e9tico Madrid",
+    "pubDate": "Sat, 03 Aug 2024 21:00:00 +0200",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSgrKsir9wxrJiM_t0FcSCmqzJHNEk4CPDhmIuFCZDe9P0KEZIpmboPLA3MZhrcH6rvLcSXGYxU",
+    "news_item_snippet": "Sigue en vivo y en directo el Getafe - Atl\u00e9tico de Madrid, partido amistoso de pretemporada que se disputa hoy, 3 de agosto, en el Coliseum, a las 21:00h.",
+    "news_item_url": "https://as.com/futbol/primera/getafe-atletico-de-madrid-en-directo-amistoso-de-pretemporada-en-vivo-n/",
+    "picture_source": "MARCA",
     "approx_traffic": "50,000+"
   },
   {
     "country": "United Kingdom",
     "title": "Rangers",
-    "pubDate": "Sat, 03 Aug 2024 14:00:00 +0100",
+    "pubDate": "Sat, 03 Aug 2024 13:00:00 +0100",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQYdIumkvy8yuChTKQTFlG_a0oMYfvmVWJQ3OJL6WwRJ4oSDA4JgLzJC2vrZ4zu-QIHd9HYefE1",
     "news_item_snippet": "Hearts opened up the 2024/25 William Hill Premiership campaign with a point against Rangers. The Jambos impressed throughout the Tynecastle encounter,&nbsp;...",
     "news_item_url": "https://www.heartsfc.co.uk/blogs/news/match-report-hearts-0-0-rangers",
@@ -631,12 +601,52 @@
   },
   {
     "country": "United Kingdom",
+    "title": "Bayern vs Tottenham",
+    "pubDate": "Sat, 03 Aug 2024 12:00:00 +0100",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQUWpqiDSQGo9XiDm9IJ0KeSOP4oaNpxLRYJY7HgbcJ1jgNeLdJeIQg5WovwqhLw8QgXMarTA9y",
+    "news_item_snippet": "We can now confirm the starting XIs and substitutes for this today&#39;s Coupang Play Series clash with FC Bayern (12noon UK).",
+    "news_item_url": "https://www.tottenhamhotspur.com/news/2024/august/confirmed-line-ups-fc-bayern-vs-spurs/",
+    "picture_source": "Football.London",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United Kingdom",
+    "title": "Max Whitlock",
+    "pubDate": "Sat, 03 Aug 2024 18:00:00 +0100",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcShQczAC10Jlgc8gInXIn01eDt_WwHwZydPHerQgK4pCR13PjpzX_j_TuCIdEUzcjcpAtw4f40j",
+    "news_item_snippet": "An emotional but &#39;proud&#39; Max Whitlock reacts to finishing fourth in his final event, the pommel horse, at the Olympic Games Paris 2024. discovery+ is the&nbsp;...",
+    "news_item_url": "https://www.eurosport.com/artistic-gymnastics/olympic-games-paris-2024/2024/paris-2024-i-m-gutted-emotional-but-proud-max-whitlock-reacts-to-finishing-fourth-in-final-event_vid2203984/video.shtml",
+    "picture_source": "ESPN.co.uk",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United Kingdom",
+    "title": "Sha'Carri Richardson",
+    "pubDate": "Sat, 03 Aug 2024 19:00:00 +0100",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTR2_WoWTh0mKGzahLjRhM_UAR7cmo50gw5tUB6dAIeVBwI4cicjGvs057MKir7eollglckJGjA",
+    "news_item_snippet": "St Lucian takes country&#39;s first ever Olympic medal with gold in 10.72 sec with USA&#39;s Richardson and Jefferson in silver and bronze.",
+    "news_item_url": "https://www.theguardian.com/sport/article/2024/aug/03/julien-alfred-womens-100m-final-report-paris-olympic-games-2024",
+    "picture_source": "The Independent",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United Kingdom",
     "title": "Leon Marchand",
     "pubDate": "Sat, 03 Aug 2024 00:00:00 +0100",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRB2_UGQRPqvSe-xBwkYsLXv7EFcotOUKE0NNhAycV2O-dfvd4zMpak_US4GSnBdl3bi_WvVEoZ",
-    "news_item_snippet": "Oozing main character energy, L\u00e9on Marchand rewrote swimming history on what has been dubbed &#39;Magique Mecredi&#39; at his home Olympics. A darling of the nation&nbsp;...",
-    "news_item_url": "https://www.tatler.com/article/who-is-leon-marchand-olympics-paris-swimmer-gold-medallist",
+    "news_item_snippet": "While Olympic swimming GOAT Michael Phelps is a Seamaster fan, L\u00e9on Marchand, the star of Paris 2024, prefers picking up his gold medals with a dressier&nbsp;...",
+    "news_item_url": "https://www.gq-magazine.co.uk/article/leon-marchand-omega-paris-2024",
     "picture_source": "British GQ",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United Kingdom",
+    "title": "Louie Hinchliffe",
+    "pubDate": "Sat, 03 Aug 2024 12:00:00 +0100",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQL5M9qB9HGtirqRAJY78E-GZlWDo3Vi0GQ3zZGvWvC-jVL3_OVDSKxA8sld4Ew3kWUled4w1j5",
+    "news_item_snippet": "Britain&#39;s surprise package Louie Hinchliffe claimed a qualifying edge on favourite Noah Lyles in the Olympic in 100m heats.",
+    "news_item_url": "https://www.theguardian.com/sport/article/2024/aug/03/team-gb-louie-hinchliffe-noah-lyles-olympics",
+    "picture_source": "The Independent",
     "approx_traffic": "50,000+"
   }
 ]
