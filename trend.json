@@ -1,43 +1,63 @@
 [
   {
     "country": "United States",
+    "title": "Dow Jones",
+    "pubDate": "Mon, 05 Aug 2024 00:00:00 -0700",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRbK1QKVuiAHr3B7KQDPa1uVqCDkdj7st47U3H1WNlmp7N5K0mdcsHyLddR8H9MhqDn18bIAVhr",
+    "news_item_snippet": "Stock futures plunged on Monday morning amid a global equities selloff, led by another sharp decline for technology stocks as concerns about the health of&nbsp;...",
+    "news_item_url": "https://www.investopedia.com/dow-jones-today-08052024-8690146",
+    "picture_source": "NPR",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Nvidia stock",
+    "pubDate": "Mon, 05 Aug 2024 07:00:00 -0700",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSlVkYb1X-AajZWWqDK6kZG8O8V39SFMo6k2iP5v5Z6IUPe7wFYHtJ6hlk235dTO2WFM2i5NP3o",
+    "news_item_snippet": "Nvidia shares tumbled in early Monday trading, extending the stock&#39;s one-month decline to around 23%, amid a major pullback in global tech stocks and reports of&nbsp;...",
+    "news_item_url": "https://www.thestreet.com/investing/stocks/nvidia-stock-tumbles-in-tech-slump-amid-questions-over-key-chip",
+    "picture_source": "Motley Fool",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
+    "title": "CNBC",
+    "pubDate": "Mon, 05 Aug 2024 06:00:00 -0700",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRkCxIzh7PTkdpbIj7aIi_DTCc9GwVI3ASd_iKtFXaLmxwzyNZuw9CGYnU7TuItlU_Sy-Iu56z-",
+    "news_item_snippet": "Ford has turned its fleet business into an earnings powerhouse. It&#39;s something General Motors and Chrysler parent Stellantis have quickly taken notice of.",
+    "news_item_url": "https://www.cnbc.com/2024/08/05/ford-pro-fleet-business-profit-driver-gm-stellantis.html",
+    "picture_source": "CNBC",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
     "title": "Tropical Storm Debby",
     "pubDate": "Sun, 04 Aug 2024 06:00:00 -0700",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTqnIdeNpYgZm3WobqWVhtnQe_6Koi5thRNJA4IgtQ2jGlsb8ycsPGsl3p0MO7sy2s-v5se27N6",
     "news_item_snippet": "MONCKS CORNER, S.C. \u2013 (Sunday, August 4, 2024) \u2013 As Tropical Storm Debby approaches South Carolina, Berkeley County Emergency Management officials continue&nbsp;...",
     "news_item_url": "https://berkeleycountysc.gov/berkeley-county-prepares-for-historic-impacts-from-tropical-storm-debby/",
     "picture_source": "Berkeley County",
-    "approx_traffic": "500,000+"
+    "approx_traffic": "1,000,000+"
   },
   {
     "country": "United States",
     "title": "Stock market",
     "pubDate": "Sun, 04 Aug 2024 22:00:00 -0700",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTAdi15OTC9Tu4_R26nmtr2EBesZwNkCI54WnyVSFh8vIp0ikiO0fYeqh31B0B2fDGHff2LvLiR",
-    "news_item_snippet": "Dow, S&amp;P 500, and Nasdaq futures are dropping in premarket trading Monday as the stock market faces a difficult start to the week.",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQQc4U_sVs_EeBwx62i80S7V9bwGD1fSuJhbmAy5T0ApiSR9DQ4Zj6eHdjsB8X3GY3MSnGzZHW8",
+    "news_item_snippet": "Fears that the U.S. is at risk of recession after Friday&#39;s weak jobs report triggered mayhem across global markets. Tokyo&#39;s Nikkei 225 plunged a staggering 12.4&nbsp;...",
     "news_item_url": "https://www.barrons.com/livecoverage/stock-market-today-080524",
-    "picture_source": "The Wall Street Journal",
+    "picture_source": "CNNMoney",
     "approx_traffic": "200,000+"
   },
   {
     "country": "United States",
     "title": "Bitcoin price",
     "pubDate": "Sun, 04 Aug 2024 21:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTONUhzp42FxUlOnI5-xI-Nmwg47ADSaEqr0jlV2CtWNtcTMBez367bdo2euht3IUd_TKy2v3m_",
-    "news_item_snippet": "Carry trading, a popular strategy from the first quarter, involves profiting from pricing discrepancies between two markets.",
-    "news_item_url": "https://www.coindesk.com/markets/2024/08/05/bitcoin-price-crash-to-50k-dashes-carry-traders-hopes/",
-    "picture_source": "Fortune",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTrlC41wrwC4g-JTkzaeaEFq8v7H7hXH3xC3_-kSmjStx3kibMqfFBxKKTsmfS3bvG2EvFuyqcm",
+    "news_item_snippet": "Bitcoin price plunges and ether has worst drop since 2021 ... Bitcoin price chart showing a decline in the price of BTC on August 5, 2024. Bitcoin dipped briefly&nbsp;...",
+    "news_item_url": "https://fortune.com/2024/08/05/bitcoin-price-plunges-ether-worst-drop/",
+    "picture_source": "Investor's Business Daily",
     "approx_traffic": "200,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Bobby Finke",
-    "pubDate": "Sun, 04 Aug 2024 11:00:00 -0700",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcR5-PpJk9VF9zfIhdx-bhRgNz1dRxctOytqnPlUqvOE0lc1fL44Hn0ZMwIVDa0CDmBdtItdY2Km",
-    "news_item_snippet": "Bobby Finke and U.S. women set world records in in the 1500-meter freestyle and 4x100-meter medley Sunday, adding final touches of glory for Americans.",
-    "news_item_url": "https://www.nbcnews.com/sports/olympics/bobby-finke-us-womens-relay-team-set-world-records-end-olympic-swimmin-rcna165084",
-    "picture_source": "NBC News",
-    "approx_traffic": "100,000+"
   },
   {
     "country": "United States",
@@ -46,6 +66,16 @@
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSDVOC2ZoH7ueOoBtt5aZVh2hQWbaMX1k5IGkrWM1gdr_VMCDFDGYgZ1c925Xs9s3Zt0Y3zl09c",
     "news_item_snippet": "Serbia&#39;s Novak Djokovic, a 24-time Grand Slam champion, won his first Olympic gold medal with a 7-6 (3), 7-6 (2) victory against Spain&#39;s Carlos Alcaraz at&nbsp;...",
     "news_item_url": "https://www.espn.com/olympics/story/_/id/40724188/novak-djokovic-beats-carlos-alcaraz-first-olympic-gold",
+    "picture_source": "NBC News",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Bobby Finke",
+    "pubDate": "Sun, 04 Aug 2024 11:00:00 -0700",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcR5-PpJk9VF9zfIhdx-bhRgNz1dRxctOytqnPlUqvOE0lc1fL44Hn0ZMwIVDa0CDmBdtItdY2Km",
+    "news_item_snippet": "Bobby Finke and U.S. women set world records in in the 1500-meter freestyle and 4x100-meter medley Sunday, adding final touches of glory for Americans.",
+    "news_item_url": "https://www.nbcnews.com/sports/olympics/bobby-finke-us-womens-relay-team-set-world-records-end-olympic-swimmin-rcna165084",
     "picture_source": "NBC News",
     "approx_traffic": "100,000+"
   },
@@ -61,22 +91,22 @@
   },
   {
     "country": "United States",
-    "title": "House of the Dragon Season 2",
-    "pubDate": "Sun, 04 Aug 2024 21:00:00 -0700",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTF2yvufEYfthTBUS-WrbOi1dTXngNQUluREmvPeqApAfb8EJh84oMQITdfp5s7m5eT5NXhptcg",
-    "news_item_snippet": "Daemon\u2014after some visions of White Walkers, the Three-Eyed Raven, Daenerys and her baby dragons and Rhaenyra on the throne (and a fascinating conversation with&nbsp;...",
-    "news_item_url": "https://www.forbes.com/sites/erikkain/2024/08/04/house-of-the-dragon-season-2-episode-8-review-a-hugely-underwhelming-season-finale/",
-    "picture_source": "Vulture",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "United States",
     "title": "Gymnastics Olympics 2024",
     "pubDate": "Sun, 04 Aug 2024 01:00:00 -0700",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQZkydjWDG0UQGRcsLmFKgq0q0_Y5lWJtS0bP06jj_MVjEkwX_0wSNMy9VSCehRAH2d2MeJpGoR",
     "news_item_snippet": "Simone Biles and Jordan Chiles encouraged Suni Lee to \u201cwalk out like you&#39;re the reigning Olympic champion.\u201d \u2013 Exclusive. By Scott Bregman 2 min|&nbsp;...",
     "news_item_url": "https://olympics.com/en/news/simone-biles-and-jordan-chiles-encouraged-suni-lee-to-walk-out-like-you-re-the-reigning-olympic-champion-exclusive",
     "picture_source": "Olympics",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United States",
+    "title": "House of the Dragon Season 2",
+    "pubDate": "Sun, 04 Aug 2024 21:00:00 -0700",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTF2yvufEYfthTBUS-WrbOi1dTXngNQUluREmvPeqApAfb8EJh84oMQITdfp5s7m5eT5NXhptcg",
+    "news_item_snippet": "Daemon\u2014after some visions of White Walkers, the Three-Eyed Raven, Daenerys and her baby dragons and Rhaenyra on the throne (and a fascinating conversation with&nbsp;...",
+    "news_item_url": "https://www.forbes.com/sites/erikkain/2024/08/04/house-of-the-dragon-season-2-episode-8-review-a-hugely-underwhelming-season-finale/",
+    "picture_source": "Vulture",
     "approx_traffic": "100,000+"
   },
   {
@@ -91,16 +121,6 @@
   },
   {
     "country": "United States",
-    "title": "Djokovic",
-    "pubDate": "Sun, 04 Aug 2024 11:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQ4oSGHvLqmO8VAB_5I2scrSoYhZmzBw7WalD_7didjFMEExzfS6nnRu3pCoOsMJs2KPb1wjE1x",
-    "news_item_snippet": "Serbia&#39;s Novak Djokovic, a 24-time Grand Slam champion, won his first Olympic gold medal with a 7-6 (3), 7-6 (2) victory against Spain&#39;s Carlos Alcaraz at&nbsp;...",
-    "news_item_url": "https://www.espn.com/olympics/story/_/id/40724188/novak-djokovic-beats-carlos-alcaraz-first-olympic-gold",
-    "picture_source": "Reuters",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
     "title": "Olympics Golf",
     "pubDate": "Sun, 04 Aug 2024 10:00:00 -0700",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQyoIvPzdW_QpGLSK1dsylfOJtUzaziHGbbvUi9UOpjPFbv9o3hiQHL3gz8NwvLXSprBu0cqULa",
@@ -111,22 +131,22 @@
   },
   {
     "country": "United States",
-    "title": "Sydney McLaughlin-Levrone",
-    "pubDate": "Sun, 04 Aug 2024 07:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSMwCj8-DAnFaCIJZ_UJ7onH0lynfci7t7AKMT84xgnwUcAgvq7nUIdl4m8Sjg0EtOk9lSodYbO",
-    "news_item_snippet": "Sydney McLaughlin-Levrone won gold for the women&#39;s 400m hurdles and the women&#39;s 4x400m relay in the 2020 Olympics. The Team USA star is expected to compete&nbsp;...",
-    "news_item_url": "https://www.nbcnewyork.com/paris-2024-summer-olympics/sydney-mclaughlin-levrone-hurdles-watch/5668091/",
-    "picture_source": "UKAthletics",
+    "title": "Yaroslava Mahuchikh",
+    "pubDate": "Sun, 04 Aug 2024 13:00:00 -0700",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSvIgP-x6L8NO1pIiG-BnEFPU6ySifuhWNKe8ca3bukNFDQw1vDUi73iXwFXR_tqRWSzSonYQca",
+    "news_item_snippet": "Ukrainian high jumper Yaroslava Mahuchikh has won gold at the Paris Olympics after fleeing her country due to the war with Russia.",
+    "news_item_url": "https://apnews.com/article/yaroslava-mahuchikh-ukraine-gold-2024-olympics-d51aeacd172d5590c2f6e6dc17d4ea10",
+    "picture_source": "NBC Olympics",
     "approx_traffic": "50,000+"
   },
   {
     "country": "United States",
-    "title": "Yaroslava Mahuchikh",
-    "pubDate": "Sun, 04 Aug 2024 13:00:00 -0700",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSvIgP-x6L8NO1pIiG-BnEFPU6ySifuhWNKe8ca3bukNFDQw1vDUi73iXwFXR_tqRWSzSonYQca",
-    "news_item_snippet": "The world record holder won a thrilling final, with Nicola Olyslagers taking the silver medal, while Eleanor Patterson and Iryna Gerashchenko tied for&nbsp;...",
-    "news_item_url": "https://olympics.com/en/news/paris-2024-athletics-women-high-jump-ukraine-mahuchikh-gold",
-    "picture_source": "NBC Olympics",
+    "title": "Bangladesh",
+    "pubDate": "Sun, 04 Aug 2024 23:00:00 -0700",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQKITL82iIF7EzOhfaKulcvzdjJIHY4eyKl-GvtLHiGfX8vZXlwIcp3tjvjYlqsPvRBA0cb3U-G",
+    "news_item_snippet": "DHAKA, Bangladesh (AP) \u2014 Bangladesh&#39;s prime minister resigned and fled the country Monday, after weeks of protests against a quota system for government jobs&nbsp;...",
+    "news_item_url": "https://apnews.com/article/bangladesh-hasina-student-protest-quota-violence-fdc7f2632c3d8fcbd913e6c0a1903fd4",
+    "picture_source": "NPR",
     "approx_traffic": "50,000+"
   },
   {
@@ -134,19 +154,19 @@
     "title": "Nifty",
     "pubDate": "Mon, 05 Aug 2024 07:30:00 +0530",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSThgKlO72nvMDEqYkRBbhtVq0GUZusAd2-rM1eXUByMHzTuYy5QjY7yWVNj3YkfBLsZ7HjGTgb",
-    "news_item_snippet": "Stock Market News: Sensex and Nifty plummet due to global market fears, U.S. economy slowdown, and foreign fund outflows on August 5.",
-    "news_item_url": "https://www.thehindu.com/business/markets/sensex-nifty-crash-in-line-with-selling-pressure-in-global-markets-on-us-growth-fears/article68487180.ece",
+    "news_item_snippet": "Investors were looking towards the earnings season, the Budget, and the US Federal Reserve to provide further cues to the markets.",
+    "news_item_url": "https://www.moneycontrol.com/news/business/markets/gift-nifty-indicates-a-weak-start-here-are-5-factors-dampening-the-sentiment-12786768.html",
     "picture_source": "Business Standard",
     "approx_traffic": "500,000+"
   },
   {
     "country": "India",
-    "title": "Bangladesh",
+    "title": "Sheikh Hasina",
     "pubDate": "Mon, 05 Aug 2024 12:30:00 +0530",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQA8nk3F4IY1ERd43h-THNCiHl9-9DIGC8am961nwPMDtlikuY0BITBN8SYoqs0xDYxtlbn7fEt",
-    "news_item_snippet": "Hasina&#39;s departure appears to have defused the high tension in Dhaka, where more deadly protests were feared on Monday.",
-    "news_item_url": "https://www.aljazeera.com/news/2024/8/5/bangladesh-pm-hasina-quits-and-flees-as-protestors-storm-palace-reports",
-    "picture_source": "Business Standard",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTA8WhEi6lfbQ9f8Fts-3TBj5YuientAVpOUZvOwkaRvg1aA-sGLseRJYzstnidYdJRx4GSB75d",
+    "news_item_snippet": "Bangladesh&#39;s Prime Minister Sheikh Hasina has resigned and fled the country in the face of ongoing protests.",
+    "news_item_url": "https://www.aljazeera.com/gallery/2024/8/5/photos-celebrations-after-pm-sheikh-hasina-resigns-flees-bangladesh",
+    "picture_source": "Business Today",
     "approx_traffic": "200,000+"
   },
   {
@@ -157,26 +177,26 @@
     "news_item_snippet": "Sensex and Nifty 50 witnessed a heavy sell-off on Monday as the rout in global equities intensified amid US recession concerns and escalating the&nbsp;...",
     "news_item_url": "https://www.livemint.com/market/stock-market-news/global-market-crash-from-asian-markets-to-crypto-prices-us-recession-fears-jolt-financial-markets-globally-11722841898336.html",
     "picture_source": "Moneycontrol.com",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "India",
-    "title": "Iran Israel war",
-    "pubDate": "Mon, 05 Aug 2024 08:30:00 +0530",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSYdVmRf4c6nlFfhz3oywt7T6nNE2w_FQiPPDoqYxkJigrG-GQtGwm0SL2m-s-4zKXtl_JhYLLM",
-    "news_item_snippet": "Israel is already in a &quot;multi-front war&quot; with Iran and its proxies, Israeli Prime Minister Benjamin Netanyahu told a Cabinet meeting Sunday, as the United&nbsp;...",
-    "news_item_url": "https://www.business-standard.com/world-news/us-allies-to-defend-israel-as-netanyahu-says-already-in-war-with-iran-124080500009_1.html",
-    "picture_source": "Business Standard",
-    "approx_traffic": "50,000+"
+    "approx_traffic": "200,000+"
   },
   {
     "country": "India",
     "title": "Noah Lyles",
     "pubDate": "Mon, 05 Aug 2024 02:30:00 +0530",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTtFwyiYPui-QIo9G3dsN6eZpE5-DiVrqb7qGQhseblVgKJJ6_oBgHTvLQawMf5WtR9cpSlTsuV",
-    "news_item_snippet": "Team USA added five gold medals, two silver medals and three bronze medals to its tally at the Paris Games today, bringing its total medal count to 71. The five&nbsp;...",
-    "news_item_url": "https://www.nbcnews.com/sports/olympics/live-blog/olympic-games-2024-live-updates-rcna162869",
+    "news_item_snippet": "American Noah Lyles, fresh with emotion after winning gold by .005 seconds in the men&#39;s 100m final at the 2024 Olympics, posted to X an inspirational&nbsp;...",
+    "news_item_url": "https://www.nbcphiladelphia.com/paris-2024-summer-olympics/noah-lyles-post-after-winning-gold-2024-olympics/3933858/",
     "picture_source": "Olympics",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "India",
+    "title": "Dow Jones",
+    "pubDate": "Mon, 05 Aug 2024 16:30:00 +0530",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQ_F211guFK_tIZEOw-vKLZ0YGWk8U5zL6QPLd_tkvO1fZjWPNhcH_LeSxugYMzvxAEfOSvXIc0",
+    "news_item_snippet": "The Dow Jones Industrial Average was down 1197 points, or 3%, as of 9:35 a.m. Eastern time, and the Nasdaq composite slid 5.5%",
+    "news_item_url": "https://www.hindustantimes.com/world-news/us-news/us-stock-market-crash-dow-jones-plunges-over-1000-points-s-p-slides-over-5-101722866103866.html",
+    "picture_source": "Livemint",
     "approx_traffic": "50,000+"
   },
   {
@@ -194,8 +214,8 @@
     "title": "Novak Djokovic",
     "pubDate": "Sun, 04 Aug 2024 17:30:00 +0530",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTJHzRNzeTzGzr9vNw5RLmtpcV1PeeUtB0c54JHsXL-w9o8q2UkAThfrNrBmZwlU1eo03yuCnE5",
-    "news_item_snippet": "Novak Djokovic added a tennis gold medal to his glittering CV at the Paris Olympics. He is the oldest man to have won gold in singles tennis since 1908.",
-    "news_item_url": "https://www.hindustantimes.com/sports/olympics/how-novak-djokovic-solved-golden-slam-puzzle-with-playstation-like-performance-against-carlos-alcaraz-goat-grabs-gold-101722802334352.html",
+    "news_item_snippet": "And he followed that up by defeating Alcaraz \u2014 the French Open and Wimbledon champion \u2014 in a thrilling Olympic final. Djokovic owns a men&#39;s record 24 Grand Slam&nbsp;...",
+    "news_item_url": "https://www.forbes.com/sites/adamzagoria/2024/08/05/novak-djokovic-hopes-to-play-the-2028-olympics-in-los-angeles/",
     "picture_source": "Business Today",
     "approx_traffic": "200,000+"
   },
@@ -211,41 +231,21 @@
   },
   {
     "country": "India",
-    "title": "TNPL",
+    "title": "Lee Zii Jia",
     "pubDate": "Sun, 04 Aug 2024 23:30:00 +0530",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSXcNTbewRGV6wgJ4sCZTzZZPfNbsRA3OhixG4dQSFKLac-Am5pMInJEpXNTF7zAOYYpOz7cTxY",
-    "news_item_snippet": "Dindigul Dragons win maiden TNPL crown with Ashwin&#39;s brilliance, defeating Lyca Kovai Kings in final at M.A. Chidambaram Stadium.",
-    "news_item_url": "https://www.thehindu.com/sport/cricket/tnpl-2024-final-dindigul-dragons-beat-lyca-kovai-kings/article68486053.ece",
-    "picture_source": "ESPNcricinfo.com",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "India",
-    "title": "IND vs SL ODI",
-    "pubDate": "Sun, 04 Aug 2024 22:30:00 +0530",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSkIvmQ0XYvPbLZHDeyFggPqgWnXUq7GQteIqIpBdZMx_hDgp9Pl3RNzMQypuUo-2QpP3IIcBcV",
-    "news_item_snippet": "Live Cricket Score, IND vs SL 2nd ODI: &quot;When you lose a game, everything hurts. It&#39;s not just about those 10 overs. You have to play consistent cricket and we&nbsp;...",
-    "news_item_url": "https://indianexpress.com/article/sports/cricket/india-vs-sri-lanka-live-score-2nd-odi-match-today-ind-vs-sl-latest-scorecard-updates-9493529/",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcR7sjGAUgMtbSc6Gu6h9cVkgJFjUAA1eMyfQyfZuC37wOPqZacJkVzPzZdKKrOQ19cZkAsbmjUF",
+    "news_item_snippet": "Lakshya Sen vs Lee Zii Jia Live Score, Badminton Paris Olympics 2024 Men&#39;s Singles Bronze Medal Match: India&#39;s Lakshya Sen had won the first game 21-13.",
+    "news_item_url": "https://indianexpress.com/article/sports/sport-others/lakshya-sen-vs-lee-zii-jia-live-score-paris-olympics-2024-badminton-singles-bronze-medal-match-live-updates-9495947/",
     "picture_source": "Livemint",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "India",
-    "title": "Astronauts Sunita Williams",
-    "pubDate": "Sun, 04 Aug 2024 12:30:00 +0530",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcS0cbEHMeKmkTZ2d4-42n-dAgi_zjgdoR6h_BBZkXCDsl2bYpn0MCtd_IDt6R3IdZbkoWmfjUlu",
-    "news_item_snippet": "Sunita Williams mission: The Boeing Starliner needs to be undocked from the International Space Station to accommodate the Crew-9 mission set to launch no&nbsp;...",
-    "news_item_url": "https://www.business-standard.com/india-news/nasa-begins-final-countdown-of-sunita-williams-butch-wilmore-s-return-124080500666_1.html",
-    "picture_source": "Livemint",
-    "approx_traffic": "50,000+"
+    "approx_traffic": "200,000+"
   },
   {
     "country": "Argentina",
     "title": "Boca Juniors  Barracas Central",
     "pubDate": "Sun, 04 Aug 2024 11:00:00 -0300",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQUGNaEeXHhjmf0LpMyFmhdSj6T728XnW2aj-sRx0QycNU1Jq3pgLhiILqnzDwn2vRlWB7argiD",
-    "news_item_snippet": "\u00bfA qu\u00e9 hora juega Boca vs. Barracas Central por la Liga Profesional? ... El partido entre el Xeneize y el Guapo se disputar\u00e1 este domingo 4 de agosto a partir de&nbsp;...",
-    "news_item_url": "https://www.ole.com.ar/futbol-primera/hora-juega-boca-vs-barracas-ver-hoy-vivo-liga-profesional_0_luOu2mJfKd.html",
+    "news_item_snippet": "El Xeneize igual\u00f3 1-1 con el Guapo en La Bombonera y qued\u00f3 a seis puntos de Hurac\u00e1n, el l\u00edder, por la novena fecha del certamen.",
+    "news_item_url": "https://www.tycsports.com/boca-juniors/boca-juniors-vs-barracas-en-vivo-hora-donde-ver-y-formaciones-id599856.html",
     "picture_source": "Infobae.com",
     "approx_traffic": "200,000+"
   },
@@ -254,8 +254,8 @@
     "title": "Uni\u00f3n  River Plate",
     "pubDate": "Sun, 04 Aug 2024 14:00:00 -0300",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQRyJ-GfQRl8BfNd6QJg9Inj1R7DXuI_kvuty9wcrvNo70UYgO3vSZl_9exi8yD7DG5-E5iNRHl",
-    "news_item_snippet": "Pirez tuvo tres situaciones claras de gol que le negaron el palo y el arquero Cardozo. (Prensa Uni\u00f3n). Mastantuono fue el revulsivo de River. El \u00fanico jugador&nbsp;...",
-    "news_item_url": "https://www.ole.com.ar/futbol-primera/hora-juega-river-vs-union-ver-hoy-vivo-liga-profesional_0_DkWqw9dmtB.html",
+    "news_item_snippet": "Igualaron 0 a 0 en el 15 de abril. El arquero del equipo local, Thiago Cardozo, fue la figura.El conjunto de N\u00fa\u00f1ez fue dirigido interinamente por Marcelo&nbsp;...",
+    "news_item_url": "https://www.clarin.com/deportes/union-vs-river-plate-liga-profesional-futbol-minuto-minuto-directo_0_p9lGuhYMZz.html",
     "picture_source": "canchallena.com",
     "approx_traffic": "200,000+"
   },
@@ -264,9 +264,19 @@
     "title": "Gonzalo Peillat",
     "pubDate": "Sun, 04 Aug 2024 15:00:00 -0300",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcR0ne0Melm4zmLctvR-XzY2dQurVC-pm7qMOBwbg0JRodonoEaY7BukTig363K0OlCSX05oq-yX",
-    "news_item_snippet": "Gonzalo Peillat festeja para Argentina en R\u00edo 2016 y su gol con Alemania a Los Leones en 2024. El argentino qued\u00f3 en el ojo de la tormenta por gritarle un gol a&nbsp;...",
-    "news_item_url": "https://www.ole.com.ar/juegos-olimpicos/peillat-campeon-olimpico-argentino-grito-gol-leones_0_IoVBEFSvqd.html",
+    "news_item_snippet": "El exjugador de Los Leones, ahora nacionalizado alem\u00e1n, sol\u00eda darle retuits a los verborr\u00e1gicos posteos del ahora Presidente contra el Diez. Para critic...",
+    "news_item_url": "https://www.pagina12.com.ar/757781-gonzalo-peillat-un-antimaradona-como-milei-que-ahora-usa-el-",
     "picture_source": "\u00e1mbito.com",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "Argentina",
+    "title": "Las Leonas Juegos olimpicos",
+    "pubDate": "Sun, 04 Aug 2024 02:00:00 -0300",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRq2A_mfmXW4BWyBxOHi-vwOJfQt_T_28CT65Q2N-tDt1KOkPoiEme6EgG-7sKC0DqZVGM0o9lY",
+    "news_item_snippet": "La selecci\u00f3n argentina avanz\u00f3 a las semifinales y espera por Pa\u00edses Bajos o Gran Breta\u00f1a; el sue\u00f1o de ganar la medalla de oro sigue intacto - LA NACION.",
+    "news_item_url": "https://www.lanacion.com.ar/deportes/hockey/cuando-vuelven-a-jugar-las-leonas-en-los-juegos-olimpicos-paris-2024-tras-el-triunfo-sobre-alemania-nid05082024/",
+    "picture_source": "Ol\u00e9",
     "approx_traffic": "100,000+"
   },
   {
@@ -291,6 +301,16 @@
   },
   {
     "country": "Brazil",
+    "title": "Dolar",
+    "pubDate": "Mon, 05 Aug 2024 07:00:00 -0500",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSwwH0cdrR45gjbsZM0id2BVU-8WMDasJWs3gGLmHAQA0hheMmK2DLLsvCAw6YRpuQibiBJROal",
+    "news_item_snippet": "Combina\u00e7\u00e3o entre risco fiscal, queda das commodities e tens\u00e3o no Oriente M\u00e9dio fizeram o d\u00f3lar disparar . Leia na \u00edntegra na Forbes Brasil.",
+    "news_item_url": "https://forbes.com.br/manchete-2/2024/08/o-dolar-vai-continuar-subindo-o-que-dizem-os-especialistas/",
+    "picture_source": "UOL Economia",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "Brazil",
     "title": "Athletico-PR x Gr\u00eamio",
     "pubDate": "Sun, 04 Aug 2024 10:00:00 -0500",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRM0Cmlosgo3B4J1267hYup-0T794tPXqI5Cdx2-kDsrvro3iJ89c83h1O0PJgkoThbZ-0LzyjH",
@@ -304,9 +324,19 @@
     "title": "Hugo Calderano",
     "pubDate": "Sun, 04 Aug 2024 14:00:00 -0500",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSx78FN7QDT-BPkfcN7xLvRZF-bDVu717JWVBS0FrBM7FDnpu-__uJuJl6LfMQ9Ww911KHXSNtt",
-    "news_item_snippet": "Chegou ao fim, no come\u00e7o da manh\u00e3 deste domingo (4), o sonho de uma in\u00e9dita medalha brasileira no t\u00eanis de mesa. Isso porque Hugo Calderano perdeu para o&nbsp;...",
-    "news_item_url": "https://www.cnnbrasil.com.br/esportes/olimpiadas/paris-hugo-calderano-perde-para-frances-e-fica-sem-medalha-no-tenis-de-mesa/",
+    "news_item_snippet": "Hugo Calderano perdeu a disputa de bronze do torneio individual do t\u00eanis de mesa para o franc\u00eas Felix Lebrun por 4 a 0, parciais de 7 x 11, 10 x 12,&nbsp;...",
+    "news_item_url": "https://ge.globo.com/olimpiadas/noticia/2024/08/04/hugo-calderano-perde-para-prodigio-frances-e-fica-fora-do-podio-no-tenis-de-mesa.ghtml",
     "picture_source": "EBC",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "Brazil",
+    "title": "Bitcoin",
+    "pubDate": "Sun, 04 Aug 2024 23:00:00 -0500",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTkJK0IYwfCCx2v0fFq3A1JbZoi_OZSMOb_uaOKzG3CkZuTZJkwAG6JP7eYHGj9rqCwai6z_dPP",
+    "news_item_snippet": "O Bitcoin (BTC) est\u00e1 sob press\u00e3o de uma avers\u00e3o ao risco nos mercados globais, que resultou na maior perda semanal do maior ativo digital desde o colapso da&nbsp;...",
+    "news_item_url": "https://www.infomoney.com.br/onde-investir/bitcoin-cai-mais-de-10-com-investidores-de-olho-no-japao-e-economia-dos-eua/",
+    "picture_source": "Valor Econ\u00f4mico",
     "approx_traffic": "100,000+"
   },
   {
@@ -331,12 +361,12 @@
   },
   {
     "country": "Brazil",
-    "title": "Bitcoin",
-    "pubDate": "Sun, 04 Aug 2024 23:00:00 -0500",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSje0s-68c8ZU4Ph-Shf5Dy4YaRZqQIrnHxtZjBBnidG7Fz0DRC-VnnuxZ3caeCT4vF65LAr29N",
-    "news_item_snippet": "Desde a sexta, o mercado cripto como um todo perdeu mais de US$ 450 bilh\u00f5es em valor de mercado.",
-    "news_item_url": "https://valor.globo.com/financas/criptomoedas/noticia/2024/08/05/bitcoin-derrete-16-pontos-percentuais-em-24-horas-em-meio-a-pnico-geral-nos-mercados.ghtml",
-    "picture_source": "InfoMoney",
+    "title": "Noah Lyles",
+    "pubDate": "Sun, 04 Aug 2024 14:00:00 -0500",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQXodsgOXfaTnZmETjMN65fUoAPwjZAFPc3TDym-dyg-yW7olIOkOzvPhcn9t26pxjRwBLEWw9T",
+    "news_item_snippet": "Noah Lyles fez uma prova de recupera\u00e7\u00e3o e conquistou os 100m rasos nos Jogos Ol\u00edmpicos, ultrapassando o jamaicano Kishane Thompson quase na linha de&nbsp;...",
+    "news_item_url": "https://olympics.com/pt/noticias/noah-lyles-cinco-milesimos-ouro-100m-jogos-olimpicos",
+    "picture_source": "globoesporte.com",
     "approx_traffic": "50,000+"
   },
   {
@@ -350,14 +380,14 @@
     "approx_traffic": "50,000+"
   },
   {
-    "country": "Brazil",
-    "title": "Noah Lyles",
-    "pubDate": "Sun, 04 Aug 2024 14:00:00 -0500",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSxWF5OBjNo6dxWkqfZFkByzc_ZCmSdVyhrQeKjbxi8lBgEZuqkHB-XtQRilZqvGN9_6H1E2OFF",
-    "news_item_snippet": "Noah Lyles fez uma prova de recupera\u00e7\u00e3o e conquistou os 100m rasos nos Jogos Ol\u00edmpicos, ultrapassando o jamaicano Kishane Thompson quase na linha de&nbsp;...",
-    "news_item_url": "https://olympics.com/pt/noticias/noah-lyles-cinco-milesimos-ouro-100m-jogos-olimpicos",
-    "picture_source": "globoesporte.com",
-    "approx_traffic": "50,000+"
+    "country": "Canada",
+    "title": "Artistic swimming olympics",
+    "pubDate": "Mon, 05 Aug 2024 01:00:00 -0400",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQ8mu6teOcMX7yKNP-j6clK35jwdyUNe3kmrlZ-Y9HBxCpkqPNVCO2_Tik68iHcJQ9b76bTpEQw",
+    "news_item_snippet": "Artistic swimming, used to be known as synchronized swimming, is about to make history at the 2024 Paris Olympics with its inclusion of male athletes.",
+    "news_item_url": "https://www.nbcnewyork.com/paris-2024-summer-olympics/artistic-swimming-olympics-schedule-men-allowed-to-compete-for-the-first-time-in-paris-2024/5672008/",
+    "picture_source": "USA TODAY",
+    "approx_traffic": "100,000+"
   },
   {
     "country": "Canada",
@@ -367,15 +397,15 @@
     "news_item_snippet": "Son deuxi\u00e8me lancer de 82,28 m \u00e9tait \u00e9galement plus loin que celui du m\u00e9daill\u00e9 d&#39;argent, Bence Halasz de Hongrie, qui a lanc\u00e9 \u00e0 79,97 m. La m\u00e9daille de bronze&nbsp;...",
     "news_item_url": "https://olympique.ca/2024/08/04/ethan-katzberg-remporte-lor-au-lancer-du-marteau/",
     "picture_source": "Canadian Olympic Committee",
-    "approx_traffic": "50,000+"
+    "approx_traffic": "100,000+"
   },
   {
     "country": "Canada",
     "title": "Djokovic",
     "pubDate": "Sun, 04 Aug 2024 11:00:00 -0400",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSITGEsCeOHmW6OTgdalJO794I_dyKEKhaHVYXe74z9zsH_QUZPDwdb7lIMYiP4bfGKE5SWU_4C",
-    "news_item_snippet": "Novak Djokovic won his first Olympic gold medal by beating Carlos Alcaraz 7-6 (3), 7-6 (2) in an enthralling men&#39;s tennis singles final Sunday, giving the&nbsp;...",
-    "news_item_url": "https://www.cbc.ca/sports/olympics/summer/tennis/tennis-roundup-djokovic-alcaraz-gold-medal-aug-4-1.7285134",
+    "news_item_snippet": "A daily visual guide through the lens of an Olympics newbie sent to Paris by The Washington Post. Today&#39;s topic: a look at the Olympics age gaps.",
+    "news_item_url": "https://www.washingtonpost.com/sports/olympics/2024/08/05/olympics-scrapbook-tennis-djokovic-alcaraz/",
     "picture_source": "ICI.Radio-Canada.ca",
     "approx_traffic": "50,000+"
   },
@@ -390,23 +420,23 @@
     "approx_traffic": "50,000+"
   },
   {
-    "country": "Saudi Arabia",
-    "title": "\u0646\u0648\u0631",
-    "pubDate": "Sun, 04 Aug 2024 08:00:00 +0300",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcR7WUsJ9AgvEAEf8cQ3QVQUq9hYMBzNLgcfNcp1A7w4Q25GsES1fiyNEMosxK5H5P1lN1XyRFnC",
-    "news_item_snippet": "\u0648\u0643\u0631\u0645 \u0627\u0644\u064a\u0648\u0645 \u0627\u0644\u0633\u0627\u0628\u0639 \u0627\u0644\u0633\u064a\u0646\u0627\u0631\u064a\u0633\u062a \u0627\u0644\u0643\u0628\u064a\u0631 \u0645\u062c\u062f\u064a \u0635\u0627\u0628\u0631\u060c \u0648\u0645\u0646\u062d\u062a\u0647 \u062f\u0631\u0639 \u0627\u0644\u062a\u0643\u0631\u064a\u0645 \u0627\u0644\u0643\u0627\u062a\u0628\u0629 \u0627\u0644\u0635\u062d\u0641\u064a\u0629 \u0639\u0644\u0627 \u0627\u0644\u0634\u0627\u0641\u0639\u0649 \u0631\u0626\u064a\u0633\u0629 \u062a\u062d\u0631\u064a\u0631 \u0627\u0644\u064a\u0648\u0645 \u0627\u0644\u0633\u0627\u0628\u0639\u060c \u0648\u062a\u062d\u062f\u062b \u062e\u0644\u0627\u0644 \u0627\u0644\u0646\u062f\u0648\u0629 \u0627\u0644\u0630\u0649 \u0623\u0642\u0627\u0645\u0647\u0627 \u0642\u0633\u0645 \u0627\u0644\u0641\u0646&nbsp;...",
-    "news_item_url": "https://www.youm7.com/story/2024/8/5/%D9%85%D8%AC%D8%AF%D9%89-%D8%B5%D8%A7%D8%A8%D8%B1-%D9%86%D9%88%D8%B1-%D8%A7%D9%84%D8%B4%D8%B1%D9%8A%D9%81-%D9%85%D8%B1-%D8%A8%D8%AA%D8%AC%D8%B1%D8%A8%D8%A9-%D8%A7%D9%84%D8%B9%D9%88%D8%AF%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D9%85%D9%88%D8%AA-%D9%81%D9%89/6662874",
-    "picture_source": "\u0627\u0644\u064a\u0648\u0645 \u0627\u0644\u0633\u0627\u0628\u0639",
+    "country": "South Korea",
+    "title": "\uc548\uc138\uc601 \uacb0\uc2b9",
+    "pubDate": "Sun, 04 Aug 2024 21:00:00 +0900",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTwZDFT7PzasfWUmhnxFJjwbI2drgeanozluWqXR2cjGIW_hD3evzwyk1fOpoyms7LAoGLoTQsB",
+    "news_item_snippet": "[\uc575\ucee4] \ud55c\uad6d \ubc30\ub4dc\ubbfc\ud134\uc758 \uac04\ud310 \uc548\uc138\uc601\uc774 \uc900\uacb0\uc2b9\uc5d0\uc11c \ub610\ud55c\ubc88 \uc9dc\ub9bf\ud55c \uc5ed\uc804 \ub4dc\ub77c\ub9c8\ub97c \uc37c\uc2b5\ub2c8\ub2e4. \ud55c\uc77c\uc804\uc5d0\uc11c \uc5f0...",
+    "news_item_url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8028441",
+    "picture_source": "\ud55c\uaca8\ub808",
     "approx_traffic": "50,000+"
   },
   {
     "country": "France",
     "title": "Natation synchronis\u00e9e Jeux olympiques",
     "pubDate": "Mon, 05 Aug 2024 01:00:00 +0200",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQMwe0-s4UnZ1wZNd_-N0Jh-4D1m94atAYCkKRbNFMiY1DI0nm3wWcRX_9um7PxKfbpeydO1u_P",
-    "news_item_snippet": "Premiers Jeux paritaires, les JO de Paris auraient aussi pu marquer l&#39;histoire en faisant concourir des athl\u00e8tes masculins en natation synchronis\u00e9e.",
-    "news_item_url": "https://www.liberation.fr/sports/jeux-olympiques/jo-2024-pourquoi-malgre-la-mixite-annoncee-on-ne-verra-pas-dhomme-en-natation-artistique-a-paris-20240805_AM7ZQZMJYJHLBAE6XIBOI7BHSM/",
-    "picture_source": "Ouest-France",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRQLwKheuE2DpUMT9VcjPVf3WDf85HX4r77LrcmZwrqwsatXEdXfAwV6naRVdHPfm9RLGJUCTMl",
+    "news_item_snippet": "Les \u00e9preuves de natation artistique auront lieu du 5 au 10 ao\u00fbt, lors des Jeux olympiques de Paris. Elles se tiendront le nouveau centre aquatique,&nbsp;...",
+    "news_item_url": "https://www.ouest-france.fr/jeux-olympiques/jo-2024-natation-artistique-epreuves-calendrier-notes-tout-savoir-de-la-discipline-aux-jeux-0683c6c8-4394-11ef-af26-2383fc8af689",
+    "picture_source": "Lib\u00e9ration",
     "approx_traffic": "200,000+"
   },
   {
@@ -414,8 +444,8 @@
     "title": "Djokovic",
     "pubDate": "Sun, 04 Aug 2024 09:00:00 +0200",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRZfQWbvHxt_hYF1LT0hweG2-_K08FAPjXjWR3NWWMYJC4nST9Z-Fdp8NgK1jCTtLoDVJUkGguh",
-    "news_item_snippet": "Vainqueur de la m\u00e9daille d&#39;or aux Jeux olympiques de Paris 2024, Novak Djokovic a d\u00e9sormais remport\u00e9 les plus grands tournois de la plan\u00e8te.",
-    "news_item_url": "https://www.ouest-france.fr/jeux-olympiques/jo-2024-tennis-apres-son-sacre-olympique-quels-records-novak-djokovic-peut-il-encore-decrocher-77ed2e90-52f2-11ef-b1f6-835b03d59aad",
+    "news_item_snippet": "Apr\u00e8s sa victoire en finale des Jeux olympiques de Paris face \u00e0 Carlos Alcaraz, Novak Djokovic est all\u00e9 c\u00e9l\u00e9brer son titre au sein du village olympique.",
+    "news_item_url": "https://www.ouest-france.fr/jeux-olympiques/jo-2024-tennis-novak-djokovic-a-celebre-sa-medaille-dor-par-des-danses-traditionnelles-serbes-94c0e2d8-531e-11ef-a7c8-0c2e04d72c1d",
     "picture_source": "Le Quotidien.lu",
     "approx_traffic": "200,000+"
   },
@@ -427,7 +457,7 @@
     "news_item_snippet": "Pr\u00e9sent ce dimanche 4 ao\u00fbt \u00e0 l&#39;Arena Sud Paris pour soutenir le pongiste F\u00e9lix Lebrun (23\u00e8me au classement ITTF - International Table Tennis Federation),&nbsp;...",
     "news_item_url": "https://www.montpellier3m.fr/actualite/michael-delafosse-salue-la-victoire-de-felix-lebrun-pour-sa-medaille-de-bronze-aux-j-o-de",
     "picture_source": "Vivre N\u00eemes",
-    "approx_traffic": "200,000+"
+    "approx_traffic": "100,000+"
   },
   {
     "country": "France",
@@ -450,9 +480,29 @@
     "approx_traffic": "50,000+"
   },
   {
+    "country": "France",
+    "title": "Noah Lyles",
+    "pubDate": "Sun, 04 Aug 2024 19:00:00 +0200",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSL3WroG982HqRIkEY5D7mxsWR4CW9NV1C1ifiJCRekCOYpGyAHDW-N6BtqXDFjGh_QgoZ8vvhM",
+    "news_item_snippet": "LE SCAN SPORT - Le nouveau champion olympique du 100m Noah Lyles a atteint une pointe de vitesse de 43,6 km/h. Mais \u00e0 quoi cela peut-il \u00eatre compar\u00e9 par&nbsp;...",
+    "news_item_url": "https://www.lefigaro.fr/sports/jeux-olympiques/jo-athletisme-noah-lyles-flashe-a-43-6-km-h-sur-le-100m-quel-animal-irait-plus-vite-que-le-champion-olympique-20240805",
+    "picture_source": "Franceinfo",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "France",
+    "title": "Triathlon JO 2024",
+    "pubDate": "Sun, 04 Aug 2024 22:00:00 +0200",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRSpwUN2Cj1SA8DDI2gXjhvjyLq0x6-mkA9UZzYFSkk0FQsDRrRNvTPIb04ig1xGGFjJ4tVM0IF",
+    "news_item_snippet": "L&#39;\u00e9quipe de France de triathlon n&#39;aura finalement pas d\u00e9croch\u00e9 de m\u00e9daille au relais mixte olympique ce lundi matin \u00e0 Paris, avec leur 4e place.",
+    "news_item_url": "https://www.francebleu.fr/sports/tous-les-sports/jo-paris-2024-triathlon-pas-de-medaille-francaise-en-relais-mixte-mais-une-4e-place-4577591",
+    "picture_source": "Franceinfo",
+    "approx_traffic": "50,000+"
+  },
+  {
     "country": "Germany",
     "title": "Dax",
-    "pubDate": "Mon, 05 Aug 2024 09:00:00 +0200",
+    "pubDate": "Mon, 05 Aug 2024 10:00:00 +0200",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQ-nVsYc0wj4Xq7bdohyQwlXN-6_-TwDi__Nz8povnRpjKjiIGIjlQwF7rtsClagdRY_0s9SKqh",
     "news_item_snippet": "Die Angst vor einer drohenden Rezession in den USA hat auch am Montag zu teils massiven Einbr\u00fcchen an den asiatischen Aktienm\u00e4rkten und beim Dax gef\u00fchrt.",
     "news_item_url": "https://www.capital.de/geld-versicherungen/dax-kursrutsch-geht-weiter--maerkte-in-asien-und-bitcoin-stuerzen-ab-34950098.html",
@@ -463,17 +513,17 @@
     "country": "Germany",
     "title": "Bitcoin",
     "pubDate": "Mon, 05 Aug 2024 09:00:00 +0200",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQhej-4RanzGUOUn0ffjfPt9YKXf3wDRUou2mAjTkoqkFjXdq8OWmszZsZG2dT2_PqB6xAzr0oR",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSntTUAtAO8JbVOkxX_3sYN1kzE0HF90-Nm86iOwDUeoCN1qXU4d5pp6QF0EHvTgTz8X929SiTy",
     "news_item_snippet": "Ende Juli trieb Donald Trump mit seiner Ansage, die USA zur \u201eKryptohauptstadt des Planeten und zur Bitcoin-Supermacht\u201c zu machen, den Bitcoin-Kurs auf knapp&nbsp;...",
     "news_item_url": "https://t3n.de/news/bitcoin-crash-grund-1639138/",
-    "picture_source": "Schwarzw\u00e4lder Bote",
+    "picture_source": "General-Anzeiger Bonn",
     "approx_traffic": "50,000+"
   },
   {
     "country": "Germany",
     "title": "Djokovic",
     "pubDate": "Sun, 04 Aug 2024 17:00:00 +0200",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcS2wc7eB-vtWY6tCzBlme_XPC0E0aPjQP6J4FZZfWPNFKKm1w0rLcxER0niXu7SZDouWJC83vEi",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQ_PuuSOAPJJe5UDf16J-M-ruaNrxOghKHxyqwQfRH17GAXd5szvhazHa461f_xs0ViAi1W8TwI",
     "news_item_snippet": "F\u00fcr Novak Djokovic erf\u00fcllt sich bei Olympia ein Traum. Der Rekord-Grand-Slam-Turniersieger jubelt \u00fcber den einen Triumph, der ihm gefehlt hat.",
     "news_item_url": "https://www.schwarzwaelder-bote.de/inhalt.tennis-wettbewerb-bei-olympia-tennis-star-djokovic-kuert-sich-erstmals-zum-olympiasieger.360088b3-7e2f-4955-8c26-91592a1986df.html",
     "picture_source": "SportNews.bz",
@@ -488,16 +538,6 @@
     "news_item_url": "https://www.kicker.de/wie-einst-busemann-neugebauer-holt-silber-im-zehnkampf-1042128/artikel",
     "picture_source": "Westdeutsche Allgemeine Zeitung",
     "approx_traffic": "100,000+"
-  },
-  {
-    "country": "Germany",
-    "title": "Oliver Zeidler",
-    "pubDate": "Thu, 01 Aug 2024 17:00:00 +0200",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTin3HYDJUajlGjQ7fGGKhIfSeJicB3wBzEhVSOlP0-xsuTPkvhZ6rzOzXzzvZWmiHVm9L_U_Q3",
-    "news_item_snippet": "Oliver Zeidler ist Olympiasieger: Der Ruderer von der Frankfurter Rudergesellschaft Germania gewann das Finale im Einzel.",
-    "news_item_url": "https://www.hessenschau.de/sport/mehr-sport/olympia-2024-ruderer-oliver-zeidler-holt-gold-v1,zeidler-olympia-finale-100.html",
-    "picture_source": "Hessenportal",
-    "approx_traffic": "50,000+"
   },
   {
     "country": "Italy",
@@ -517,7 +557,7 @@
     "news_item_snippet": "Ma cosa \u00e8 successo, prima di quella che viene considerata una delle gare regine dei Giochi olimpici? Quando tutti gli atleti, compreso l&#39;azzurro e campione in&nbsp;...",
     "news_item_url": "https://www.fanpage.it/sport/altri-sport/svelato-il-mistero-del-ritardo-nella-finale-dei-100-metri-alle-olimpiadi-sventata-una-minaccia/",
     "picture_source": "Napoli Fanpage",
-    "approx_traffic": "100,000+"
+    "approx_traffic": "50,000+"
   },
   {
     "country": "Mexico",
@@ -527,7 +567,7 @@
     "news_item_snippet": "De ellas, dos se las debemos a una de nuestras deportistas m\u00e1s condecoradas: Ona Carbonell, deportista barcelonesa que a lo largo de 14 a\u00f1os de carrera, se ha&nbsp;...",
     "news_item_url": "https://www.avpasion.com/natacion-artistica-olimpiadas-ona-carbonell/",
     "picture_source": "AVPasi\u00f3n",
-    "approx_traffic": "50,000+"
+    "approx_traffic": "100,000+"
   },
   {
     "country": "Mexico",
@@ -543,21 +583,11 @@
     "country": "Mexico",
     "title": "PSV - Feyenoord",
     "pubDate": "Sun, 04 Aug 2024 10:00:00 -0600",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQ8EGw6TWF_BdRw1lfkhYc7-A9hlxGQMjkdzP7tV6yLHP5it6cp-bEcsWHU9EsfperLNYJ4hAwN",
-    "news_item_snippet": "Resumen y goles Feyenoord vs PSV: Santiago Gim\u00e9nez luce y se corona en Supercopa de Pa\u00edses Bajos | MARCA M\u00e9xico Feyenoord es campe\u00f3n de la Supercopa d.",
-    "news_item_url": "https://www.marca.com/mx/futbol/liga-holandesa/2024/08/04/66af7fe5e42e6e00251f2fe4-directo.html",
-    "picture_source": "ESPN",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRBewcVJPMeQeLSFTkdb7rIfs_A5-1P24ZRyFoqucUkuvyObWAraffZwsEenOsHHKXPt6WesXjo",
+    "news_item_snippet": "Con un doblete y una asistencia, el mexicano Santiago Gim\u00e9nez se erigi\u00f3 como el hombre m\u00e1s importante del Feyenoord para derrotar en la Supercopa de los&nbsp;...",
+    "news_item_url": "https://www.espn.com.mx/futbol/nota/_/id/13996904/psv-vs-feyenoord-supercopa-paises-bajos-resumen-cronica-santi-gimenez",
+    "picture_source": "MARCA.com",
     "approx_traffic": "100,000+"
-  },
-  {
-    "country": "Mexico",
-    "title": "Atlanta United  Santos",
-    "pubDate": "Sun, 04 Aug 2024 14:00:00 -0600",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTPEsW48O507Or4jS8gIswUD3UUZ88E-Ax60TZT1wnZ8f6BXtc-UrgBQv6VYkV6eLJrQJQ824Zh",
-    "news_item_snippet": "Los Guerreros de Nacho Ambriz a\u00fan no marcan en el torneo, pero calificaron a los Dieciseisavos de Final gracias al punto extra en la tanda de penales.",
-    "news_item_url": "https://www.tudn.com/futbol/leagues-cup/santos-elimina-al-atlanta-united-avanza-en-la-leagues-cup-sin-anotar",
-    "picture_source": "AS Mexico",
-    "approx_traffic": "50,000+"
   },
   {
     "country": "Mexico",
@@ -571,12 +601,22 @@
   },
   {
     "country": "Mexico",
+    "title": "Atlanta United  Santos",
+    "pubDate": "Sun, 04 Aug 2024 14:00:00 -0600",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTPEsW48O507Or4jS8gIswUD3UUZ88E-Ax60TZT1wnZ8f6BXtc-UrgBQv6VYkV6eLJrQJQ824Zh",
+    "news_item_snippet": "Los Guerreros de Nacho Ambriz a\u00fan no marcan en el torneo, pero calificaron a los Dieciseisavos de Final gracias al punto extra en la tanda de penales.",
+    "news_item_url": "https://www.tudn.com/futbol/leagues-cup/santos-elimina-al-atlanta-united-avanza-en-la-leagues-cup-sin-anotar",
+    "picture_source": "AS Mexico",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Mexico",
     "title": "Djokovic",
     "pubDate": "Sun, 04 Aug 2024 01:00:00 -0600",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSubSUnhW3vPIMdrRW52k6WFy_A3AiCSAOjZKCULu7Bz85uv8nlL7SEBAAxUMM9Peat97uMBjQV",
-    "news_item_snippet": "El serbio ha ganado varios Grand Slam y ahora por fin, la medalla ol\u00edmpica. Carlos Alcaraz tiene un futuro por delante en el tenis y se qued\u00f3 con la plata.",
-    "news_item_url": "https://www.eleconomista.com.mx/empresas/Djokovic-ganar-el-oro-supera-cualquier-otra-cosa-en-mi-carrera-20240804-0066.html",
-    "picture_source": "ESPN",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTNpgFkjiPonNHmzPXaocNEbGdeSsceKHc8gdBkOwlrOogPBpkx9JDMJ2ByOTyHmWJ31PRP7h3t",
+    "news_item_snippet": "El tenista gan\u00f3 la medalla de oro en Paris 2024 y se une a grandes deportistas profesionales que se llevaron presea en Juegos Ol\u00edmpicos.",
+    "news_item_url": "https://www.espn.com.mx/olimpicos/nota/_/id/13997872/juegos-olimpicos-2024-novak-djokovic-jordan-messi-medalla-oro",
+    "picture_source": "El Economista",
     "approx_traffic": "50,000+"
   },
   {
@@ -604,8 +644,8 @@
     "title": "Orlando City  Atl San Luis",
     "pubDate": "Sun, 04 Aug 2024 18:00:00 -0600",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQYkCF3N1AV4D_TSBq1ggxS9FGtHL1D_gbyoRSlw15OrV4z31la3xmNqLNjteIPkop1KvB0UVdh",
-    "news_item_snippet": "Para que no te pierdas este crucial duelo, FOX Sports M\u00e9xico cuenta con un minuto a minuto donde te mantendremos al tanto de todas y cada una de las jugadas de&nbsp;...",
-    "news_item_url": "https://www.foxsports.com.mx/2024/08/04/atletico-san-luis-vs-orlando-city-en-vivo-mira-aqui-el-minuto-a-minuto-partido-jornada-3-leagues-cup-2024/",
+    "news_item_snippet": "Atl\u00e9tico de San Luis lleg\u00f3 a su segundo juego de la Leagues Cup 2024 con la encomienda de ganar, el empate y victoria en penales no le servir\u00eda porque sus&nbsp;...",
+    "news_item_url": "https://mexico.as.com/futbol/futbol-mexicano/orlando-city-sc-vs-atletico-de-san-luis-en-vivo-leagues-cup-hoy-en-directo-n/",
     "picture_source": "MARCA.com",
     "approx_traffic": "50,000+"
   },
@@ -620,33 +660,33 @@
     "approx_traffic": "200,000+"
   },
   {
-    "country": "Spain",
-    "title": "Manchester City - Chelsea",
-    "pubDate": "Sun, 04 Aug 2024 00:00:00 +0200",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTmLGSZz21SefeRQEaG-J-SLMIELtZUIwqi02MwNfEpsd8jwox00LzXjza6P0mRk12uIv9ZVyMy",
-    "news_item_snippet": "Fant\u00e1stico fin de tour para el equipo, que supera a los londinenses 4-2 con hat-trick de Haaland y un gol de Oscar Bobb.",
-    "news_item_url": "https://es.mancity.com/news/mens/cronica-city-4-2-chelsea-usa-tour-2024-63858314",
-    "picture_source": "AS Usa",
-    "approx_traffic": "50,000+"
-  },
-  {
     "country": "United Kingdom",
     "title": "Graham Thorpe",
     "pubDate": "Mon, 05 Aug 2024 09:00:00 +0100",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQkc8a2iaTkTYe17V7WSgklO70-iP5eaicDLxpCu-0ZB7bfz4mT-ekIf3r9OJcLrPMwXwbQyWHO",
-    "news_item_snippet": "Former Surrey left-hander Graham Thorpe was renowned as one of the finest English players of his generation, playing exactly 100 Tests and scoring 16&nbsp;...",
-    "news_item_url": "https://www.skysports.com/cricket/news/12123/13191069/graham-thorpe-former-england-and-surrey-batter-dies-aged-55",
+    "news_item_snippet": "The former Surrey and England cricketer Graham Thorpe has died at the age of 55. The batter, one of the finest of his generation, made a century of Test&nbsp;...",
+    "news_item_url": "https://www.theguardian.com/sport/gallery/2024/aug/05/graham-thorpe-a-life-in-pictures",
     "picture_source": "The Kia Oval",
-    "approx_traffic": "100,000+"
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "United Kingdom",
+    "title": "FTSE 100",
+    "pubDate": "Mon, 05 Aug 2024 12:00:00 +0100",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTTvlKrMBrgeFGllS4q3e7J2DMIp8SGNxTZB3FJ8CC4bZ4sCoxO7R3rPT7ZmXT7wt3aox9TReJ6",
+    "news_item_snippet": "The FTSE 100 has plunged to its lowest level since April as investors fret about the future of the global economy.",
+    "news_item_url": "https://www.cityam.com/ftse-100-follows-asian-stocks-lower-as-tech-heavy-nasdaq-set-to-plunge-1000-points/",
+    "picture_source": "Evening Standard",
+    "approx_traffic": "50,000+"
   },
   {
     "country": "United Kingdom",
     "title": "Djokovic",
     "pubDate": "Sun, 04 Aug 2024 15:00:00 +0100",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTlS0FmNicNG3LJ8ntLIIe7luirlVCCfqh2dBwRbIdH_pfyQShNu0rWwVitnSFTW_arpz2eDBuV",
-    "news_item_snippet": "Djokovic defeated his young Spanish rival in a titanic gold medal match at Roland Garros, gaining revenge for defeat at Wimbledon to win a classic, 7-6 (3),&nbsp;...",
-    "news_item_url": "https://www.independent.co.uk/sport/olympics/novak-djokovic-carlos-alcaraz-olympics-gold-medal-b2590972.html",
-    "picture_source": "The Guardian",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcS81BAm6X6g4zm4VT1tSa3FgpgMqUvCkgljecqxa-OIT6tcdYs5uVIuxELdCEDtwwtqfWL-wA1O",
+    "news_item_snippet": "And he followed that up by defeating Alcaraz \u2014 the French Open and Wimbledon champion \u2014 in a thrilling Olympic final. Djokovic owns a men&#39;s record 24 Grand Slam&nbsp;...",
+    "news_item_url": "https://www.forbes.com/sites/adamzagoria/2024/08/05/novak-djokovic-hopes-to-play-the-2028-olympics-in-los-angeles/",
+    "picture_source": "Forbes",
     "approx_traffic": "200,000+"
   },
   {
@@ -654,18 +694,18 @@
     "title": "Noah Lyles",
     "pubDate": "Sun, 04 Aug 2024 10:00:00 +0100",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSy4F233LSivTeJGJSXnTqq4fmuHx1kTmxDiQx4CMdn_ouvClgsPyjGE7KgqaB1h8Gdd3EuPQB8",
-    "news_item_snippet": "It was the morning after the night before and, like most of the watching world, Seb Coe was still digesting a men&#39;s Olympic 100m final that, as an advert for&nbsp;...",
-    "news_item_url": "https://athleticsweekly.com/featured/seb-coe-with-noah-lyles-were-heading-into-usain-bolt-territory-1039990725/",
+    "news_item_snippet": "The men&#39;s 100m sprint final at the Paris Olympics will go down in history as one of the closet races ever! Sprinter Noah Lyles from Team USA took the gold&nbsp;...",
+    "news_item_url": "https://www.bbc.co.uk/newsround/articles/c849990kqgko",
     "picture_source": "The Independent",
     "approx_traffic": "200,000+"
   },
   {
     "country": "United Kingdom",
-    "title": "Olympic Golf",
+    "title": "Olympic golf",
     "pubDate": "Sun, 04 Aug 2024 17:00:00 +0100",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQyoIvPzdW_QpGLSK1dsylfOJtUzaziHGbbvUi9UOpjPFbv9o3hiQHL3gz8NwvLXSprBu0cqULa",
-    "news_item_snippet": "Here&#39;s what the leaderboard looks like in golf competition at the 2024 Paris Olympics after Round 4 on Sunday at Le Golf National:",
-    "news_item_url": "https://www.usatoday.com/story/sports/olympics/2024/08/04/olympic-golf-leaderboard-scores-results-round-4-le-golf-national-2024-paris-olympics-how-to-watch/74660754007/",
+    "news_item_snippet": "Great Britain&#39;s Tommy Fleetwood takes Olympic silver in the men&#39;s golf after an enthralling final day where Scottie Scheffler wins gold.",
+    "news_item_url": "https://www.bbc.co.uk/sport/olympics/articles/czvxx1y8ydro",
     "picture_source": "NBC New York",
     "approx_traffic": "100,000+"
   },
@@ -683,9 +723,19 @@
     "country": "United Kingdom",
     "title": "Liverpool",
     "pubDate": "Sun, 04 Aug 2024 07:00:00 +0100",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSN3M6FC4-N4gJGpOyZ4g8Zvyeq3jnDDKhFL6S_M6J3JuYTxJlf1Nvy0m3onl1b9el0XH2kTvTG",
-    "news_item_snippet": "Goals from Fabio Carvalho, Curtis Jones and Konstantinos Tsimikas gave our rivals the victory, yet the outcome could have been very different if United had&nbsp;...",
-    "news_item_url": "https://www.manutd.com/en/news/detail/who-fans-voted-man-utd-best-starting-player-and-best-substitute-v-liverpool-in-pre-season-game",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTiRc2TEB5XNAMMfHqyHT3S0KCqX59ljfh-MsNBx657IykEkALjM5maIo7squUMPnMMrlNU9lUl",
+    "news_item_snippet": "The 20 Alexander Dennis Enviro400FCEV hydrogen fuel cell-electric double-decker buses owned by the Liverpool City Region Combined Authority (LCRCA) are&nbsp;...",
+    "news_item_url": "https://www.route-one.net/news/liverpool-hydrogen-buses-to-return-after-green-fuel-solution-found/",
+    "picture_source": "Manchester United",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United Kingdom",
+    "title": "Bangladesh",
+    "pubDate": "Sun, 04 Aug 2024 00:00:00 +0100",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRJad9J1OZXMjzpMtCCZ-IHTXK_ny575bB1_cKmEm1W03ivhIOD1cq-GKMZXH6SQ-1q50fpQXly",
+    "news_item_snippet": "The dramatic resignation of Bangladesh&#39;s long-serving prime minister Sheikh Hasina and her flight to India ironically underscore the close ties between the&nbsp;...",
+    "news_item_url": "https://www.bbc.co.uk/news/articles/c39kkkdjkzwo",
     "picture_source": "BBC News",
     "approx_traffic": "50,000+"
   },
@@ -693,10 +743,10 @@
     "country": "United Kingdom",
     "title": "Keely Hodgkinson",
     "pubDate": "Sun, 04 Aug 2024 21:00:00 +0100",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQfUyHDFCizqc6SK_0X_QwPvCSGwmroAPoii8juNvBwV8UY_5NMhyJeF7F_EU0_GmKFjjFJ9Kcp",
-    "news_item_snippet": "The Greater Manchester-born athlete \u2013 and lifelong Red! \u2013 goes for Olympic gold in the 800 metres on Monday.",
-    "news_item_url": "https://www.manutd.com/en/news/detail/man-utd-fan-keely-hodgkinson-going-for-olympic-gold-in-800m-final",
-    "picture_source": "Olympics",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSBZ75rUAh925PPbMEcF8NOBHMEWgw_lq2DE4-11XixY7orEHOWN1-JewpzQqw5Lf_sAxNtdpWl",
+    "news_item_snippet": "Having won silver at the last Olympics and last outdoor world championships, 800m favourite Hodgkinson won&#39;t be taking things lightly as she maps a path to&nbsp;...",
+    "news_item_url": "https://olympics.com/en/news/keely-hodgkinson-navigating-mazy-road-to-800-gold",
+    "picture_source": "Manchester United",
     "approx_traffic": "50,000+"
   },
   {
@@ -704,8 +754,8 @@
     "title": "Celtic",
     "pubDate": "Sun, 04 Aug 2024 22:00:00 +0100",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcT3aYuOnlbIK4cvn-iU4-EgBHZ_faB-f3EHNsR95_gAutY4iQOu1Tg5ZEfC9EjwQgN3qhL5tD0e",
-    "news_item_snippet": "The Danish internationalist, 23, oozed class once again as Celtic got their Scottish Premiership title defence off to a triumphant start by defeating Kilmarnock&nbsp;...",
-    "news_item_url": "https://www.celticway.co.uk/news/24496830.brendan-rodgers-discusses-matt-orileys-immediate-celtic-future/",
+    "news_item_snippet": "The Japanese forward latched onto a smart lofted ball from Matt O&#39;Riley - from a free-kick - before colliding with Robby McCrorie. Kyogo had controlled the ball&nbsp;...",
+    "news_item_url": "https://www.celticway.co.uk/features/24497437.celtic-penalty-claim-focus-var-protocol-explained/",
     "picture_source": "The Guardian",
     "approx_traffic": "50,000+"
   },
@@ -714,8 +764,8 @@
     "title": "Josh Kerr",
     "pubDate": "Sun, 04 Aug 2024 21:00:00 +0100",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQwde9f_SkgQDRamKEvRj6rDQWrMCMCCc6c9T7_EjBH2kG_GZ3U5NL6VKZaSmC8yva7fVTmzE2g",
-    "news_item_snippet": "The two favourites for the men&#39;s 1500m qualified for the Paris Olympics final, where they will settle their bitter rivalry.",
-    "news_item_url": "https://www.independent.co.uk/sport/olympics/olympics-josh-kerr-jakob-ingebrigtsen-b2591063.html",
+    "news_item_snippet": "Josh Kerr and Jakob Ingebrigtsen qualifed through the same semifinal into the men&#39;s 1500 metres, setting up a thrilling final on Tuesday.",
+    "news_item_url": "https://www.espn.co.uk/olympics/story/_/id/40726096/olympics-2024-jakob-ingebrigtsen-beats-josh-kerr-1500m-semi",
     "picture_source": "Athletics Weekly",
     "approx_traffic": "50,000+"
   }
