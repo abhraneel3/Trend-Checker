@@ -2,22 +2,12 @@
   {
     "country": "United States",
     "title": "Djokovic",
-    "pubDate": "Sun, 04 Aug 2024 08:00:00 -0700",
+    "pubDate": "Sun, 04 Aug 2024 10:00:00 -0700",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSDVOC2ZoH7ueOoBtt5aZVh2hQWbaMX1k5IGkrWM1gdr_VMCDFDGYgZ1c925Xs9s3Zt0Y3zl09c",
     "news_item_snippet": "Serbia&#39;s Novak Djokovic, a 24-time Grand Slam champion, won his first Olympic gold medal with a 7-6 (3), 7-6 (2) victory against Spain&#39;s Carlos Alcaraz at&nbsp;...",
     "news_item_url": "https://www.espn.com/olympics/story/_/id/40724188/novak-djokovic-beats-carlos-alcaraz-first-olympic-gold",
     "picture_source": "NBC News",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Scottie Scheffler",
-    "pubDate": "Sun, 04 Aug 2024 09:00:00 -0700",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQyoIvPzdW_QpGLSK1dsylfOJtUzaziHGbbvUi9UOpjPFbv9o3hiQHL3gz8NwvLXSprBu0cqULa",
-    "news_item_snippet": "Scottie Scheffler added a gold medal to an amazing 2024 season that has already including a second green jacket with a win at the Masters.",
-    "news_item_url": "https://www.nbcnewyork.com/paris-2024-summer-olympics/team-usa-scottie-scheffler-wins-olympics-golf-gold-final-round-paris-le-golf-national/5668523/",
-    "picture_source": "NBC New York",
-    "approx_traffic": "200,000+"
+    "approx_traffic": "100,000+"
   },
   {
     "country": "United States",
@@ -37,7 +27,27 @@
     "news_item_snippet": "Follow live reaction to Novak Djokovic beating Carlos Alcaraz in straight sets at the 2024 Summer Olympics in Paris.",
     "news_item_url": "https://www.nytimes.com/athletic/live-blogs/novak-djokovic-carlos-alcaraz-live-updates-paris-olympics-2024-tennis-score-result/cbXYmdvSJwZT/",
     "picture_source": "NBC 10 Philadelphia",
-    "approx_traffic": "50,000+"
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Gymnastics Olympics 2024",
+    "pubDate": "Sun, 04 Aug 2024 01:00:00 -0700",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSVR1uQqjqqiKw9X5_WwuUbLm9oqYHZDeD1J1woFW6PBcgXDQKsO8-c7avMf5NLegSNsOAd017H",
+    "news_item_snippet": "The French-born gymnast struck uneven bars gold with a massive 15.700 score, holding off a strong challenge from the People&#39;s Republic of China&#39;s Qiu Qiyuan,&nbsp;...",
+    "news_item_url": "https://olympics.com/en/news/kaylia-nemour-wins-algeria-s-first-olympic-gymnastics-title-on-the-uneven-bars-suni-lee-takes-bronze",
+    "picture_source": "Olympics",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Usain Bolt",
+    "pubDate": "Sun, 04 Aug 2024 20:00:00 -0700",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTnBVFGRu8NS8bPudie9ILh_r67NJRz6pRtQhj5aZ6OiV0cgVK7Ki94JSF20Fr02SeWq1AQuk8f",
+    "news_item_snippet": "The flattening of world records is an indication of the limits of human physiology bumping up against modern improvements.",
+    "news_item_url": "https://news.northeastern.edu/2024/08/04/noah-lyles-usain-bolt-world-record/",
+    "picture_source": "News@Northeastern",
+    "approx_traffic": "100,000+"
   },
   {
     "country": "United States",
@@ -51,53 +61,33 @@
   },
   {
     "country": "United States",
-    "title": "Gymnastics Olympics 2024",
-    "pubDate": "Sun, 04 Aug 2024 01:00:00 -0700",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSVR1uQqjqqiKw9X5_WwuUbLm9oqYHZDeD1J1woFW6PBcgXDQKsO8-c7avMf5NLegSNsOAd017H",
-    "news_item_snippet": "The French-born gymnast struck uneven bars gold with a massive 15.700 score, holding off a strong challenge from the People&#39;s Republic of China&#39;s Qiu Qiyuan,&nbsp;...",
-    "news_item_url": "https://olympics.com/en/news/kaylia-nemour-wins-algeria-s-first-olympic-gymnastics-title-on-the-uneven-bars-suni-lee-takes-bronze",
-    "picture_source": "Olympics",
+    "title": "Olympics golf",
+    "pubDate": "Sun, 04 Aug 2024 10:00:00 -0700",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQyoIvPzdW_QpGLSK1dsylfOJtUzaziHGbbvUi9UOpjPFbv9o3hiQHL3gz8NwvLXSprBu0cqULa",
+    "news_item_snippet": "Scottie Scheffler experienced all the emotions the Olympics have to offer and he leaves Paris with both gratitude and gold.",
+    "news_item_url": "https://www.nbcolympics.com/news/emotional-scottie-scheffler-leaves-olympics-both-gratitude-and-gold",
+    "picture_source": "NBC New York",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Sydney McLaughlin-Levrone",
+    "pubDate": "Sun, 04 Aug 2024 07:00:00 -0700",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSJOkKG1dmldFfRA6nCS_71yEO9Q8zyQUX37Gl0p3vkgv9Nl8MRiJ8tzaK9aGuk5wk9kaP_9oc_",
+    "news_item_snippet": "McLaughlin-Levrone, who is the defending gold medalist and current world record holder in the 400m hurdles, began her third Olympic campaign in her signature&nbsp;...",
+    "news_item_url": "https://ukathletics.com/news/2024/08/04/sydney-mclaughlin-levrone-daniel-roberts-advance-to-semifinals-at-olympic-games/",
+    "picture_source": "NBC New York",
     "approx_traffic": "50,000+"
   },
   {
     "country": "United States",
     "title": "Noah Lyles",
     "pubDate": "Sat, 03 Aug 2024 19:00:00 -0700",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQOq051Voo2RO5cNw9oZpQtF0ANZ0oMXaxjjUMccLGUhIqJTebAU3HjAOMYHXPxzUk5D6PaWEkG",
-    "news_item_snippet": "Lyles edged past Jamaican Kishane Thompson to win his first Olympic gold medal in a lifetime best 9.784 seconds. Lyles crossed the finish line just five&nbsp;...",
-    "news_item_url": "https://www.nbcolympics.com/paris-olympics-men-100m-final",
-    "picture_source": "NPR",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcT4uKIlFFZe92Pf4_ALRoUDjR8f63GiKVHpyu0mZ-OcKaLokNV2ER6HU8nzezCrI62nXRjTYyXG",
+    "news_item_snippet": "PARIS \u2014 When Noah Lyles put his spike into Stade de France&#39;s purple track for his first stride Sunday night of the Paris Olympics 100-meter final,&nbsp;...",
+    "news_item_url": "https://www.nbcnews.com/news/sports/noah-lyles-wins-100-meter-photo-finish-first-possible-four-gold-medals-rcna165087",
+    "picture_source": "NBC News",
     "approx_traffic": "1,000,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Crawford vs Madrimov",
-    "pubDate": "Sat, 03 Aug 2024 08:00:00 -0700",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSlfqPPu99OCTyTxiPmDAHZQwUsyc06FXmBLKAryN16G6Q-aEsEDKFIWPCFd3G1jMphV8Nv0QGi",
-    "news_item_snippet": "The former two-division undisputed champion begins his new challenge on Saturday against another divisional champion.",
-    "news_item_url": "https://www.cbssports.com/boxing/news/terence-crawford-vs-israil-madrimov-fight-prediction-odds-undercard-preview-start-time-expert-pick/",
-    "picture_source": "Forbes",
-    "approx_traffic": "500,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Real Madrid  Barcelona",
-    "pubDate": "Sat, 03 Aug 2024 15:00:00 -0700",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRb4YPzs2TGakEudpvwJo1DUEfc_NKM12dPxIID91_f8ulnVElz9dyTpn3AhWB8Z32zbliYniG8",
-    "news_item_snippet": "Ilkay Gundogan has been caught allegedly complaining about his FC Barcelona teammates to Real Madrid&#39;s Arda Guler following their two clubs&#39; friendly battle&nbsp;...",
-    "news_item_url": "https://www.forbes.com/sites/tomsanderson/2024/08/04/fc-barcelona-star-gundogan-blasts-teammates-to-real-madrid-ace-guler-they-dont-use-their-brains-video/",
-    "picture_source": "Forbes",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Stephen Nedoroscik",
-    "pubDate": "Sat, 03 Aug 2024 11:00:00 -0700",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcR8B7Npp5npJ5YjtG03wQswfYwx9LliPnE9yx5dd0iFXLwwz7iICuM19B4XTLFqf4KBEanjwDGS",
-    "news_item_snippet": "Nedoroscik, the self-described dork who captured the nation&#39;s attention as he calmly awaited his turn in the Olympic men&#39;s gymnastics team final last week,&nbsp;...",
-    "news_item_url": "https://www.npr.org/2024/08/03/g-s1-15241/stephen-nedoroscik-pommel-horse-guy-olympic-bronze",
-    "picture_source": "The Seattle Times",
-    "approx_traffic": "200,000+"
   },
   {
     "country": "India",
@@ -111,6 +101,16 @@
   },
   {
     "country": "India",
+    "title": "Rohit Sharma",
+    "pubDate": "Sun, 04 Aug 2024 21:30:00 +0530",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSP6te_DT4R4ypJ9jN0rBj1HKgIt9X97eS7bBYjTiZ97X-sgjRTsmcq5lDZ5vI4-VLqVMEmn_67",
+    "news_item_snippet": "Indian captain Rohit Sharma was blunt in his assessment after the 32 run loss against Sri Lanka in the 2nd ODI encounter at Colombo on Sunday.",
+    "news_item_url": "https://www.livemint.com/sports/cricket-news/rohit-sharmas-no-nonsense-take-on-shocking-loss-against-sri-lanka-colombo-ind-vs-sl-india-vs-sri-lanka-premadasa-11722818802150.html",
+    "picture_source": "Times of India",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "India",
     "title": "TNPL",
     "pubDate": "Sun, 04 Aug 2024 23:30:00 +0530",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTs4fGkBpX9Ju2ETMm2m_yb0t6iBqCG77WWIZPns1fSZHoF5iY4Ec712fWss7mZyG3IgRwAf09-",
@@ -118,6 +118,16 @@
     "news_item_url": "https://www.rajasthanroyals.com/latest-news/ravichandran-ashwin-tnpl-2024-final-dindigul-dragons-vs-lyca-kovai-kings",
     "picture_source": "The Hindu",
     "approx_traffic": "100,000+"
+  },
+  {
+    "country": "India",
+    "title": "Lovlina Borgohain",
+    "pubDate": "Sun, 04 Aug 2024 12:30:00 +0530",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTO-MnAXM10pZWRHmrl28oXarKKL9BLMqU8E6dvX5fnZWQCat4zfx_GOOzpves6DETSw6iNK0SA",
+    "news_item_snippet": "Indian boxer Lovlina Borgohain, bronze medalist at the Tokyo Olympics, dropped out of the Paris Games after losing a quarterfinal bout to Li Qian,&nbsp;...",
+    "news_item_url": "https://m.economictimes.com/news/sports/lovlina-borgohain-outwitted-in-qf-indias-boxing-campaign-ends-in-olympics/articleshow/112264275.cms",
+    "picture_source": "The Hindu",
+    "approx_traffic": "50,000+"
   },
   {
     "country": "India",
@@ -133,7 +143,7 @@
     "country": "India",
     "title": "SL vs IND",
     "pubDate": "Sat, 03 Aug 2024 15:30:00 +0530",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcT_lUfY7ptSNCin5SAFxhYIsb_dUcb5_KPpZu3eNJfXdr-6BHNHaCKY1xXVSnUzkbZJZsY1DBJU",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQ2KQk3aUiJTV-eFCbkN_rMO8Qy56iRteu1htiSM4VdsBrId9H5lSDhPXdvIKzDiNqfeS2qsYqi",
     "news_item_snippet": "IND vs SL highlights, 2nd ODI: Catch the scores, updates and commentary from the second ODI between India and Sri Lanka played in Colombo on Sunday.",
     "news_item_url": "https://sportstar.thehindu.com/cricket/india-vs-sri-lanka-live-score-2nd-odi-ind-sl-match-weather-updates-scores-highlights-streaming-info/article68484309.ece",
     "picture_source": "ESPNcricinfo.com",
@@ -141,53 +151,43 @@
   },
   {
     "country": "India",
-    "title": "Happy Friendship Day 2024",
+    "title": "Friendship Day 2024",
     "pubDate": "Sat, 03 Aug 2024 17:30:00 +0530",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRxgMxs-hvnE59rilsG5lQcQ1A7IfHVKeZgYGmTdwMKYZmP4N-IPpd2M1qHog5d1Mb06wus7n2p",
-    "news_item_snippet": "Happy Friendship Day 2024: Friendship Day, the foundation of human connection, is a special tribute that transcends borders, countries, and backgrounds to&nbsp;...",
-    "news_item_url": "https://www.livemint.com/news/trends/happy-friendship-day-2024-wishes-messages-and-images-to-share-with-friends-11722687500254.html",
+    "news_item_snippet": "Friendship Day 2024: Find the best friend quotations, pictures, funny and emotional messages to share. Celebrate the bond of friendship with these touching&nbsp;...",
+    "news_item_url": "https://www.jagranjosh.com/general-knowledge/quotes-and-messages-on-best-friends-for-friendship-day-1722746411-1",
     "picture_source": "\u091c\u093e\u0917\u0930\u0923 \u091c\u094b\u0936",
-    "approx_traffic": "500,000+"
+    "approx_traffic": "1,000,000+"
   },
   {
     "country": "India",
     "title": "Hockey Olympics 2024",
     "pubDate": "Sat, 03 Aug 2024 14:30:00 +0530",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSERCirAse-Vo96jHaEb4q3vRWI88MON2YVYKHLV2DT-2kzd-Gtbl3aZisezq1iGOrZDyj_Mdby",
-    "news_item_snippet": "India vs Great Britain Men&#39;s Hockey Quarterfinal Highlights: India are into the semi-finals of Paris Olympics 2024 men&#39;s hockey after beating Great Britain&nbsp;...",
-    "news_item_url": "https://sports.ndtv.com/olympics-2024/india-vs-great-britain-live-updates-paris-olympics-2024-mens-hockey-quarterfinal-ind-vs-gbr-live-score-6259833",
-    "picture_source": "FIH",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcS67e-3gNgy3rSm-hunRs6YwENkT7EOHhkg6e3IcldD_o9r_whkQ6iDpCJh4Up4ntslzmLD_jK8",
+    "news_item_snippet": "India will meet either Argentina or Germany in the semifinal on August 6. Published : Aug 04, 2024 15:19 IST , PARIS - 3 MINS READ. Y. B. Sarangi.",
+    "news_item_url": "https://sportstar.thehindu.com/olympics/paris-2024/news/india-vs-great-britain-quarterfinals-score-match-update-final-result-semifinals-paris-2024/article68484196.ece",
+    "picture_source": "NDTVSports.com",
     "approx_traffic": "200,000+"
   },
   {
     "country": "India",
     "title": "Lee Zii Jia",
     "pubDate": "Sat, 03 Aug 2024 09:30:00 +0530",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRIqa01IL2piOESxOULfklDXGxwldxsv-apZZbDiYtjgvSfSTD1g95bdtD3MlphstFv7sE5Xf3T",
-    "news_item_snippet": "Simply put, Lakshya has a great chance to win the bronze based on form guide and track record.",
-    "news_item_url": "https://www.espn.in/olympics/story/_/id/40723228/lakshya-sen-lee-zii-jia-paris-olympics-2024-bronze-medal-india-malaysia",
-    "picture_source": "Olympics",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcR1Sck-7-Wtz3F80l6b-eQIu4vvqDhpvhvIGZIECydqu10wW4I59oAorTJhWPMSrg0Gk9_gSjWC",
+    "news_item_snippet": "The bronze medal match starts at 6:00 PM IST. Lakshya Sen, world No. 22, had a sensational run into the semi-finals of the competition. The unseeded Indian&nbsp;...",
+    "news_item_url": "https://olympics.com/en/news/paris-2024-olympics-badminton-lakshya-sen-singles-bronze-medal-live-time-india",
+    "picture_source": "ESPN India",
     "approx_traffic": "200,000+"
   },
   {
     "country": "India",
     "title": "Hockey Olympics",
-    "pubDate": "Sat, 03 Aug 2024 08:30:00 +0530",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSERCirAse-Vo96jHaEb4q3vRWI88MON2YVYKHLV2DT-2kzd-Gtbl3aZisezq1iGOrZDyj_Mdby",
-    "news_item_snippet": "Paris Olympics 2024 News: The Tokyo Olympics bronze medallists will have only 15 players available to play the last-four clash instead of a full squad of 16&nbsp;...",
-    "news_item_url": "https://timesofindia.indiatimes.com/sports/paris-olympics-2024/indiaparis/explained-why-india-will-play-paris-olympics-hockey-semifinal-against-germany-with-15-players/articleshow/112273951.cms",
-    "picture_source": "FIH",
+    "pubDate": "Sat, 03 Aug 2024 09:30:00 +0530",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQdEegp4XFAy8wvHf0jKq_B5f4KdwE0rK85XbiL1jEjLBtdIkSUHaRQJYl0ATquJ5KlUhy_or3H",
+    "news_item_snippet": "Great Britain goalkeeper Ollie Payne came under the microscope for using an iPad during the penalty shootout.",
+    "news_item_url": "https://sports.ndtv.com/cricket/video-tablet-sparks-controversy-after-india-vs-great-britain-olympics-hockey-match-6263924",
+    "picture_source": "Times of India",
     "approx_traffic": "200,000+"
-  },
-  {
-    "country": "India",
-    "title": "Deepika Kumari",
-    "pubDate": "Sat, 03 Aug 2024 14:30:00 +0530",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcR_B2bljgEJsWIdFD04pR1_qJT0xeIoUeDvyDUfu3mse026kxN8TfVgDqua5CkWPrNxRRg5acCU",
-    "news_item_snippet": "Paris Olympics 2024 News: Deepika Kumari, a highly decorated archer with numerous World Cup medals, has consistently fallen short of expectations in her&nbsp;...",
-    "news_item_url": "https://timesofindia.indiatimes.com/sports/paris-olympics-2024/indiaparis/wont-retire-until-i-get-olympic-medal-deepika-kumari/articleshow/112267073.cms",
-    "picture_source": "World Archery",
-    "approx_traffic": "100,000+"
   },
   {
     "country": "India",
@@ -197,16 +197,6 @@
     "news_item_snippet": "Debutant Nishant Dev (71kg) bowed out of the Olympic Games following a heartbreaking defeat to Mexico&#39;s Marco Verde Alvarez in the men&#39;s 71kg quarterfinal.",
     "news_item_url": "https://www.thehindu.com/sport/olympics/nishant-dev-bows-out-after-quarterfinal-loss/article68482868.ece",
     "picture_source": "NDTVSports.com",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "India",
-    "title": "Barcelona",
-    "pubDate": "Sat, 03 Aug 2024 21:30:00 +0530",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRb4YPzs2TGakEudpvwJo1DUEfc_NKM12dPxIID91_f8ulnVElz9dyTpn3AhWB8Z32zbliYniG8",
-    "news_item_snippet": "Ilkay Gundogan has been caught allegedly complaining about his FC Barcelona teammates to Real Madrid&#39;s Arda Guler following their two clubs&#39; friendly battle&nbsp;...",
-    "news_item_url": "https://www.forbes.com/sites/tomsanderson/2024/08/04/fc-barcelona-star-gundogan-blasts-teammates-to-real-madrid-ace-guler-they-dont-use-their-brains-video/",
-    "picture_source": "Forbes",
     "approx_traffic": "50,000+"
   },
   {
@@ -231,12 +221,22 @@
   },
   {
     "country": "Argentina",
-    "title": "Los Leones",
+    "title": "Peillat",
     "pubDate": "Sun, 04 Aug 2024 16:00:00 -0300",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTADiSjyMUSrS09tvcR7tHbi6CY4hoOq9L2jykHX8j22shl7cac4VXl9l_v2460_pG2F0BZoo2P",
-    "news_item_snippet": "La Selecci\u00f3n Argentina de hockey luch\u00f3 hasta la \u00faltima bola, pero no consigui\u00f3 empatar y qued\u00f3 eliminada luego de un 3-2.",
-    "news_item_url": "https://www.ole.com.ar/juegos-olimpicos/leones-vs-alemania-hoy-vivo-juegos-olimpicos-paris-2024-hockey_0_5KEpfwI1VR.html",
-    "picture_source": "SI SAN JUAN",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQEN8yQEWV14pa_Hu-f01h8bl7OQShCKW92-xJstWSAincQUqjOli1AJnGge---YRjER6FimsWZ",
+    "news_item_snippet": "Gonzalo se expres\u00f3 en un medio argentino tras el pase a la semifinal con los teutones.",
+    "news_item_url": "https://www.espn.com.ar/hockey-sobre-cesped/nota/_/id/13997688/gonzalo-peillat-luego-de-superar-a-argentina-con-alemania-en-paris-2024",
+    "picture_source": "Ol\u00e9",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Argentina",
+    "title": "Atl\u00e9tico Tucum\u00e1n  Independiente",
+    "pubDate": "Sun, 04 Aug 2024 16:00:00 -0300",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcR_oc6yme6JJingtczPZtXm1gKoaw8F77Y3sxHL_SG92sG2daqBrLf-NS1j2nCXbfjCc4LZGIas",
+    "news_item_snippet": "El Decano lleg\u00f3 a los 16 puntos y qued\u00f3 a 3 de Hurac\u00e1n. Atl\u00e9tico Tucum\u00e1n y una remontada frente a Independiente Rivadavia para prenderse en la Liga Profesional",
+    "news_item_url": "https://www.clarin.com/deportes/atletico-tucuman-vs-independiente-rivadavia-liga-profesional-futbol-minuto-minuto-directo_0_FlaPHmhiHR.html",
+    "picture_source": "TyC Sports",
     "approx_traffic": "50,000+"
   },
   {
@@ -293,21 +293,21 @@
     "country": "South Korea",
     "title": "\uae40\uc6b0\uc9c4",
     "pubDate": "Sat, 03 Aug 2024 19:00:00 +0900",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRYcWr2PPJyv-zQe0dRKESE8tt5mtTO4--yJOr4EDkbCnUtwXtKT9KyPlRfiQUM6LFxsgdmFZhg",
-    "news_item_snippet": "\ud55c\uad6d \uc591\uad81\uc774 \ud30c\ub9ac\uc62c\ub9bc\ud53d \ub0a8\ub140 \ub2e8\uccb4\uc804\uacfc \ud63c\uc131\uc804, \ub0a8\ub140 \uac1c\uc778\uc804\uae4c\uc9c0 5\uac1c \uc885\ubaa9\uc744 \ubaa8\ub450 \uc11d\uad8c\ud588\uc2b5\ub2c8\ub2e4. \ub9cf\ud615 \uae40\uc6b0\uc9c4 \uc120\uc218\uac00 \uac1c\uc778\uc804 \uae08\uba54\ub2ec\uc744 \ubaa9\uc5d0 \uac78\uba70, \uc591\uad81 \uacbd\uae30\uc7a5\uc774 \ub9c8\ub828\ub41c&nbsp;...",
-    "news_item_url": "https://www.yonhapnewstv.co.kr/news/MYH20240805003300641",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSBwT1pa7qezmA4kV022-1TSQvckFuifWQu4RYshvW7MHlQtexLERrBtxY_9TmNmBg5s4sS5ZWB",
+    "news_item_snippet": "[\uc575\ucee4] \uc591\uad81 \uae40\uc6b0\uc9c4\uc774 \ub0a8\uc790 \uac1c\uc778\uc804 \uae08\uba54\ub2ec\uae4c\uc9c0 \ubaa9\uc5d0 \uac78\uba70 \uc774\ubc88 \ub300\ud68c 3\uad00\uc655\uc744 \ub2ec\uc131\ud588\uc2b5\ub2c8\ub2e4. \ud55c\uad6d \uc591\uad81\uc740 \uc774...",
+    "news_item_url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8028070",
     "picture_source": "\ud55c\uaca8\ub808",
     "approx_traffic": "100,000+"
   },
   {
-    "country": "South Korea",
-    "title": "\ucfe0\ud321\ud50c\ub808\uc774",
-    "pubDate": "Sat, 03 Aug 2024 12:00:00 +0900",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSyAEiuOMCxGgqdctHa3dOK3oYBlO-kC4mRzkKqUz-9NuWNYQRDbL5oxcVRpc0jzkottxZJ0qMm",
-    "news_item_snippet": "[\ub514\uc9c0\ud138\ub370\uc77c\ub9ac \ucc44\uc131\uc624\uae30\uc790] \ucfe0\ud321\ud50c\ub808\uc774\uac00 \uc9c0\ub09c 3\uc77c \uc624\ud6c4 8\uc2dc \ubc14\uc774\uc5d0\ub978 \ubb8c\ud5e8\uacfc \ud1a0\ud2b8\ub118 \ud64b\uc2a4\ud37c \uacbd\uae30\ub97c \ub05d\uc73c\ub85c &#39;2024 \ucfe0\ud321\ud50c\ub808\uc774 \uc2dc\ub9ac\uc988&#39;\ub97c \ub9c8\ubb34\ub9ac\ud588\ub2e4\uace0 5\uc77c \ubc1d\ud614\ub2e4.",
-    "news_item_url": "https://m.ddaily.co.kr/page/view/2024080509491338916",
-    "picture_source": "\uc870\uc120\ube44\uc988",
-    "approx_traffic": "50,000+"
+    "country": "France",
+    "title": "Djokovic",
+    "pubDate": "Sun, 04 Aug 2024 09:00:00 +0200",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRZfQWbvHxt_hYF1LT0hweG2-_K08FAPjXjWR3NWWMYJC4nST9Z-Fdp8NgK1jCTtLoDVJUkGguh",
+    "news_item_snippet": "Il l&#39;a fait ! Novak Djokovic a remport\u00e9 le seul titre majeur qui lui manquait, l&#39;or olympique, en dominant Carlos Alcaraz en finale des JO 2024 (7-6, 7-6),&nbsp;...",
+    "news_item_url": "https://www.ouest-france.fr/jeux-olympiques/direct/direct-jo-2024-tennis-suivez-la-finale-entre-novak-djokovic-et-carlos-alcaraz-en-live-6e109d0c-6ede-46af-b8ea-4860f1a8540e",
+    "picture_source": "Le Quotidien.lu",
+    "approx_traffic": "200,000+"
   },
   {
     "country": "France",
@@ -331,16 +331,6 @@
   },
   {
     "country": "France",
-    "title": "Tatsuru Saito",
-    "pubDate": "Sun, 04 Aug 2024 16:00:00 +0200",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTry6lqoplJryAxjEd7lu9NbBnScaz2WDuj97d0qAO-oJI-PUiAJJIk7t3XyaEGju5QYLkTJrNM",
-    "news_item_snippet": "Dernier relayeur malheureux du Japon en finale de judo par \u00e9quipes mixtes des Jeux olympiques, Tatsuru Saito ne dig\u00e8re pas sa d\u00e9faite contre Teddy Riner,&nbsp;...",
-    "news_item_url": "https://www.ouest-france.fr/jeux-olympiques/jo-2024-judo-defait-par-teddy-riner-le-japonais-tatsuru-saito-se-sent-pathetique-e7e689e4-5261-11ef-a7c8-0c2e04d72c1d",
-    "picture_source": "Eurosport.fr",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "France",
     "title": "Kaylia Nemour",
     "pubDate": "Sun, 04 Aug 2024 17:00:00 +0200",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcScnI_roI6QhMtwimKhx5rZ9TSbRTT8JA5QV1j4vOFK2WJhcYOUSy_mDoOY4AsricTQf2hX4woE",
@@ -350,14 +340,34 @@
     "approx_traffic": "50,000+"
   },
   {
+    "country": "France",
+    "title": "Tatsuru Saito",
+    "pubDate": "Sun, 04 Aug 2024 16:00:00 +0200",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTry6lqoplJryAxjEd7lu9NbBnScaz2WDuj97d0qAO-oJI-PUiAJJIk7t3XyaEGju5QYLkTJrNM",
+    "news_item_snippet": "Dernier relayeur malheureux du Japon en finale de judo par \u00e9quipes mixtes des Jeux olympiques, Tatsuru Saito ne dig\u00e8re pas sa d\u00e9faite contre Teddy Riner,&nbsp;...",
+    "news_item_url": "https://www.ouest-france.fr/jeux-olympiques/jo-2024-judo-defait-par-teddy-riner-le-japonais-tatsuru-saito-se-sent-pathetique-e7e689e4-5261-11ef-a7c8-0c2e04d72c1d",
+    "picture_source": "Eurosport.fr",
+    "approx_traffic": "50,000+"
+  },
+  {
     "country": "Germany",
     "title": "Djokovic",
     "pubDate": "Sun, 04 Aug 2024 15:00:00 +0200",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcS2wc7eB-vtWY6tCzBlme_XPC0E0aPjQP6J4FZZfWPNFKKm1w0rLcxER0niXu7SZDouWJC83vEi",
-    "news_item_snippet": "F\u00fcr Novak Djokovic erf\u00fcllt sich bei Olympia ein Traum. Der Rekord-Grand-Slam-Turniersieger jubelt \u00fcber den einen Triumph, der ihm gefehlt hat.",
-    "news_item_url": "https://www.schwarzwaelder-bote.de/inhalt.tennis-wettbewerb-bei-olympia-tennis-star-djokovic-kuert-sich-erstmals-zum-olympiasieger.360088b3-7e2f-4955-8c26-91592a1986df.html",
-    "picture_source": "SportNews.bz",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQRbHJxzXB88VpeeWmInx-1unvGWDUKBKHpY6DdHxkCHIwbERyp95Mevoh3uLSYMAifOaP5_2_-",
+    "news_item_snippet": "Mit immensem Willen hat sich Superstar Novak Djokovic in seiner Tennis-Karriere voller Rekorde seine erste olympische Goldmedaille gesichert.",
+    "news_item_url": "https://www.sportnews.bz/artikel/tennis/djokovic-setzt-seiner-legendaeren-karriere-die-krone-auf",
+    "picture_source": "Schwarzw\u00e4lder Bote",
     "approx_traffic": "100,000+"
+  },
+  {
+    "country": "Germany",
+    "title": "Schalke",
+    "pubDate": "Sat, 03 Aug 2024 21:00:00 +0200",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSQxrsuBWjahhstVPctPZf5DF3xQ9GXxXA4IonUpLXctek6qnMYqd2VbgKJtCyvk8rgpm9Mk_Gt",
+    "news_item_snippet": "Trainer Karel Geraerts aber blieb ganz n\u00fcchtern. Es seien nur drei Punkte, sagte der Belgier dem Sender Sport1 nach dem 5:1 vor gut 60.000 berauschten&nbsp;...",
+    "news_item_url": "https://ga.de/news/nrw/ruhig-bleiben-schalke-startet-traumhaft-und-mahnt_aid-117296219",
+    "picture_source": "24VEST",
+    "approx_traffic": "50,000+"
   },
   {
     "country": "Germany",
@@ -391,6 +401,16 @@
   },
   {
     "country": "Italy",
+    "title": "Real Madrid  Barcellona",
+    "pubDate": "Sun, 04 Aug 2024 01:00:00 +0200",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTOOSAHa7UADEF_9ZzVdBM5PRNEErW-odIF-rQjkhqN4eG0avHlZ-m3vbvIYVMi0YKdqqL0JL_G",
+    "news_item_snippet": "\u00e8 Clasico d`estate, ma quando si gioca Barcellona-Real Madrid non sar\u00e0 mai una partita come le altre. Neanche quando a deciderla \u00e8 stato un 2001 che il&nbsp;...",
+    "news_item_url": "https://www.calciomercato.com/news/barcellona-real-madrid-2-1-doppietta-del-nuovo-acquisto-pau-vict-52302",
+    "picture_source": "Goal.com",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Italy",
     "title": "Pallavolo Olimpiadi 2024",
     "pubDate": "Sun, 04 Aug 2024 11:00:00 +0200",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcS-vJOwboY_RQnJw7qFq7BDLMfzTlvqjhZNmLUA4z9IDeQOd3fLLy7JiSoU36i2yDld36TvBq5O",
@@ -401,11 +421,21 @@
   },
   {
     "country": "Mexico",
-    "title": "Philadelphia Cruz Azul",
+    "title": "Philadelphia - Cruz Azul",
     "pubDate": "Sun, 04 Aug 2024 15:00:00 -0600",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSAQV-CPBGMhbetrbxX1gwea8D2p470Ewgw1K-rJU_mvhPVRxQNiNAZ9bSGR1udkrPV_QXg2O9M",
-    "news_item_snippet": "La M\u00e1quina de Cruz Azul logr\u00f3 la victoria ante Philaldephia Union que lo mantiene con vida en la Leagues Cup 2024 tras el tropiezo en su debut.",
-    "news_item_url": "https://www.tudn.com/futbol/leagues-cup/philadelphia-vs-cruz-azul-goles-resultado-resumen-partido-de-leagues-cup-2024",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSpcxBAV1Y_tGC0CxCGFWC6x2FgJX-TVzaHIr2g3n6tHmYFv-CRmxlqtuVG_NxvH9-8EMt7_lua",
+    "news_item_snippet": "Cu\u00e1ndo y d\u00f3nde ver el partido Philadelphia - Cruz Azul: \u00bfCu\u00e1ndo se juega? Hoy domingo 4 de agosto de 2024; \u00bfA qu\u00e9 hora es? 18:00, tiempo de la&nbsp;...",
+    "news_item_url": "https://www.marca.com/mx/futbol/philadelphia-cruz-azul/2024/08/05/01_01123_20240805_5513_853-directo.html",
+    "picture_source": "Univision",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "Mexico",
+    "title": "Guadalajara  LA Galaxy",
+    "pubDate": "Sun, 04 Aug 2024 15:00:00 -0600",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQCyQ3la44M_rQ2DG1l8mBev0mvcfAOa4P1LTqtu_JFrzoQmKohyxNBghr3arJjLlaqkbs9EUsz",
+    "news_item_snippet": "El LA Galaxy se medir\u00e1 ante las Chivas en un enfrentamiento crucial para mejorar su posici\u00f3n en la Leagues Cup y continuar avanzando en el torneo.",
+    "news_item_url": "https://www.mediotiempo.com/leagues-cup/chivas-vs-la-galaxy-en-vivo-a-que-hora-y-donde-ver-partido-leagues-cup-2024",
     "picture_source": "MARCA.com",
     "approx_traffic": "100,000+"
   },
@@ -441,9 +471,9 @@
   },
   {
     "country": "Mexico",
-    "title": "Pachuca  Toronto",
+    "title": "Pachuca - Toronto",
     "pubDate": "Sun, 04 Aug 2024 18:00:00 -0600",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQIACh4js-1uFx9lMKTSrd_89v4gsgdJgKsEYqhEVMIahRJGXiGMA1em9ogyAH1_LOerD5v6Jt2",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQJ3A1NSXFXZkJiyPjo43I5Xbfd4X5PcCq06J_M5C92MTKtprH35mfZaTkn8wNGsTi83sXBz9hb",
     "news_item_snippet": "Pachuca se enfrentar\u00e1 a Toronto en la Leagues Cup 2024 y aqu\u00ed te decimos la previa del partido.",
     "news_item_url": "https://www.mediotiempo.com/leagues-cup/pachuca-vs-toronto-en-vivo-a-que-hora-y-donde-ver-partido-leagues-cup-2024",
     "picture_source": "MARCA.com",
@@ -464,8 +494,8 @@
     "title": "Manchester City - Chelsea",
     "pubDate": "Sun, 04 Aug 2024 00:00:00 +0200",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTmLGSZz21SefeRQEaG-J-SLMIELtZUIwqi02MwNfEpsd8jwox00LzXjza6P0mRk12uIv9ZVyMy",
-    "news_item_snippet": "Pep Guardiola expres\u00f3 su satisfacci\u00f3n luego de que el City cerrara nuestra gira estadounidense de 2024 de manera impresionante con una victoria por 4-2&nbsp;...",
-    "news_item_url": "https://es.mancity.com/news/mens/reaccion-pep-guardiola-manchester-city-v-chelsea-us-tour-63858331",
+    "news_item_snippet": "Fant\u00e1stico fin de tour para el equipo, que supera a los londinenses 4-2 con hat-trick de Haaland y un gol de Oscar Bobb.",
+    "news_item_url": "https://es.mancity.com/news/mens/cronica-city-4-2-chelsea-usa-tour-2024-63858314",
     "picture_source": "AS Usa",
     "approx_traffic": "50,000+"
   },
@@ -484,8 +514,8 @@
     "title": "Djokovic",
     "pubDate": "Sun, 04 Aug 2024 15:00:00 +0100",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTs-l64MQ-Q4NQV2I_CmiN4AFiL5vtYeqINDeqje1gavyrlzBF6tk0U5t0oRHrAquXSpVn90PQg",
-    "news_item_snippet": "Djokovic defeated his young Spanish rival in a titanic gold medal match at Roland Garros, gaining revenge for defeat at Wimbledon to win a classic, 7-6 (3),&nbsp;...",
-    "news_item_url": "https://www.independent.co.uk/sport/olympics/novak-djokovic-carlos-alcaraz-olympics-gold-medal-b2590972.html",
+    "news_item_snippet": "Novak Djokovic completed his career &#39;golden slam&#39; as the 37-year-old Serb fought off Spain&#39;s Carlos Alcaraz in a magnificent Olympic men&#39;s singles final at&nbsp;...",
+    "news_item_url": "https://www.theguardian.com/sport/article/2024/aug/04/novak-djokovic-wins-olympic-tennis-gold-at-last-after-victory-over-carlos-alcaraz",
     "picture_source": "BBC Sport",
     "approx_traffic": "200,000+"
   },
@@ -514,8 +544,8 @@
     "title": "Rotherham",
     "pubDate": "Sun, 04 Aug 2024 16:00:00 +0100",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcS2eJoElt3slfTs0UdUcx02k8ai_RPF9vJSo6Nyn4K5xi7gzdOUaGY0BFqnZ8IdHx2IcN_NuncG",
-    "news_item_snippet": "Violent thugs in balaclavas have hurled chairs and wood at police at the Holiday Inn Express in Manvers, South Yorkshire.",
-    "news_item_url": "https://www.independent.co.uk/news/uk/crime/rotherham-hotel-holiday-inn-protest-riot-b2590969.html",
+    "news_item_snippet": "RIOTERS stormed a Holiday Inn housing asylum-seekers in Rotherham today and attempted to set it ablaze, marking the latest in a series of horrific far-right&nbsp;...",
+    "news_item_url": "https://morningstaronline.co.uk/article/rotherham-asylum-hotel-attacked-as-riots-sweep-britain",
     "picture_source": "The Guardian",
     "approx_traffic": "50,000+"
   },
