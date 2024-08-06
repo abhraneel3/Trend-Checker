@@ -1,22 +1,52 @@
 [
   {
     "country": "United States",
+    "title": "Nvidia Stock",
+    "pubDate": "Mon, 05 Aug 2024 07:00:00 -0700",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcT3sS_IIFTrj0saQFwr-zDsbMI0URjF5vH5NOxehgwGisuloivttnoSB_z7bgKH4_mFvbzpEDHT5Q",
+    "news_item_snippet": "Nvidia Corp.&#39;s stock took a fall in Monday&#39;s trading action, partly reflecting concerns about reported delays for its new Blackwell chip and also taking into&nbsp;...",
+    "news_item_url": "https://www.marketwatch.com/story/nvidias-stock-slides-but-these-analysts-arent-panicking-about-reported-delays-8feae415",
+    "picture_source": "Investor's Business Daily",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Jordan Chiles",
+    "pubDate": "Mon, 05 Aug 2024 20:00:00 -0700",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSUcdjAkm-1xhAtnpbxuKQxNU7z1C3RNji0nLEhTWCv2ohsHvmLE7WOfW4I0Y-TVvBHKrWl9QwT",
+    "news_item_snippet": "Here&#39;s why Simone Biles and Jordan Chiles bowed down to Brazilian gymnast Rebeca Andrade during the 2024 Olympics.",
+    "news_item_url": "https://www.nbcphiladelphia.com/paris-2024-summer-olympics/simone-biles-jordan-chiles-bowed-to-brazils-rebeca-andrade-on-the-podium-heres-why/3935003/",
+    "picture_source": "NBC News",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Luana Alonso",
+    "pubDate": "Mon, 05 Aug 2024 09:00:00 -0700",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTLcGR-tAEQ7mJ4CUj5lL0yhhJHAzzK-BWUSJY3bDN1PQECeSTdhdZTSRnGdB6cFIzQwB3Mdwxc",
+    "news_item_snippet": "Swimmer Luana Alonso has broken her silence on claims she was asked to leave the Olympic Village after creating an &quot;inappropriate atmosphere.&quot;",
+    "news_item_url": "https://www.newsweek.com/luana-alonso-speaks-out-removed-olympics-village-paris-1935006",
+    "picture_source": "NBC New York",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United States",
     "title": "Iran",
     "pubDate": "Mon, 05 Aug 2024 13:00:00 -0700",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcT70xeOVhhX_97neoFEqZPEHTOGSCI6Tgt9ake5vQGZhWHYTSeTSPU4rxSfm0sYVZtwotynH0y5",
-    "news_item_snippet": "An Israeli insider, who previously served as Commander of the Israel Air Defense Forces from 2015 to 2018, said the threat of war with Iran is different now&nbsp;...",
-    "news_item_url": "https://www.iranintl.com/en/202408059936",
-    "picture_source": "The Associated Press",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTHOybmNAj37cstXgCVJ8rs4AUsTMw6DPLea-hRVTqkOUYPshcuDJc27ob9YxY4oVWE_eB1U9Qg",
+    "news_item_snippet": "Russian President Vladimir Putin has asked Iran&#39;s Supreme leader Ayatollah Ali Khamenei for a restrained response to Israel&#39;s suspected killing of the&nbsp;...",
+    "news_item_url": "https://www.reuters.com/world/putin-asks-iran-avoid-civilian-casualties-israel-response-sources-say-2024-08-06/",
+    "picture_source": "BBC News",
     "approx_traffic": "100,000+"
   },
   {
     "country": "United States",
     "title": "Adin Ross",
     "pubDate": "Mon, 05 Aug 2024 12:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQ2drclzZ77DSF2w_OeYuPn13BCNzg-73Qi45ouv8iO-NBiNNkb87z_wavSAaU6lrvUVFiIA5_c",
-    "news_item_snippet": "The 23-year-old internet celebrity is enormously popular with a testosterone-heavy demographic that the former president sees as critical to his bid for&nbsp;...",
-    "news_item_url": "https://www.nytimes.com/2024/08/05/us/politics/trump-adin-ross-livestream-gifts.html",
-    "picture_source": "Hollywood Reporter",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRyyq0W9Z2t3jeeVE_zBPI3JNNIFWpTrGpaKh2bUgdC_AUAtvYgyfvTbvP8fiiV_SfdQn9QKaYJ",
+    "news_item_snippet": "Adin Ross gifted Donald Trump a customized Tesla cybertruck and a golden Rolex in a video that peaked at 500000 viewers.",
+    "news_item_url": "https://www.hollywoodreporter.com/news/politics-news/adin-ross-livestrea-donald-500000-viewers-1235966797/",
+    "picture_source": "The New York Times",
     "approx_traffic": "100,000+"
   },
   {
@@ -24,8 +54,8 @@
     "title": "Apple stock",
     "pubDate": "Mon, 05 Aug 2024 07:00:00 -0700",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRtQyHo9l5Z7q0m6cWvWzPOtbXiw8eY_RyJD3H3ztZD8KrgqOO3mVZE1BgrIUg0u1-rIW8URuaH",
-    "news_item_snippet": "The Warren Buffett-helmed conglomerate now holds $84.2 billion in Apple stock \u2014 much less than the $174.3 billion it owned at the start of the year. Suggested&nbsp;...",
-    "news_item_url": "https://qz.com/apple-stock-sinks-warren-buffett-berkshire-hathaway-sta-1851613061",
+    "news_item_snippet": "Buckle up, Apple bulls. Shares of the iPhone maker dropped more than 6% Monday after Warren Buffett&#39;s Berkshire Hathaway disclosed over the weekend that it&nbsp;...",
+    "news_item_url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp500-nasdaq-live-08-05-2024/card/apple-stock-price-sinks-8-after-warren-buffett-s-berkshire-hathaway-cuts-stake-d8C0uZXxxW9rbYnOgANm",
     "picture_source": "Motley Fool",
     "approx_traffic": "100,000+"
   },
@@ -33,30 +63,30 @@
     "country": "United States",
     "title": "Charles Schwab",
     "pubDate": "Mon, 05 Aug 2024 08:00:00 -0700",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcS3nYTpLbnwyjL4yZyrNs9TK3JaWno06vFhRgqC48ZAAIvLSZXf8bSp1ymFhaTu6BrQsWRLi5TG",
-    "news_item_snippet": "Some users were reporting on social media about issues getting into their accounts. The X account for Fidelity Investments responded to some of those complaints&nbsp;...",
-    "news_item_url": "https://www.cnbc.com/2024/08/05/charles-schwab-says-it-has-a-technical-issue-during-stock-market-sell-off.html",
-    "picture_source": "Reuters",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRozJ4L_Fo8Z7tgbqMIFtFSrXSypOiJz6kMHupjeq9uATke1rEowXyFjPgbb8HbU38AlKqwlx2N",
+    "news_item_snippet": "We recently had a client fall prey to a sophisticated Schwab Bank scam. They gave us permission to share this fraud story with you to hopefully prevent&nbsp;...",
+    "news_item_url": "https://www.forbes.com/sites/davidmarotta/2024/08/05/supposed-charles-schwab-bank-fraud-dept-text-message-scam/",
+    "picture_source": "CNBC",
     "approx_traffic": "100,000+"
   },
   {
     "country": "United States",
     "title": "RFK Jr",
     "pubDate": "Mon, 05 Aug 2024 05:00:00 -0700",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTXllSTGv_GvFsO06dJ3W7SoaqfbcmTngAwO4Y69zwR5LjwlhEzI-cHfSLNNKvfsrYZ5FYPVaMh",
-    "news_item_snippet": "Robert F Kennedy Jr&#39;s independent White House bid was buoyed by Democratic Party chaos and dissatisfaction with two familiar candidates.",
-    "news_item_url": "https://www.bbc.com/news/articles/c0mnn8zneppo",
-    "picture_source": "WABC-TV",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSB53iqjMadMwa2qZ81AIf96gk0U7aggQzMhA38KhfganEJsDKxQS90IumlmffesTHlRZ1OS8KM",
+    "news_item_snippet": "No charges will be filed against RFK Jr. after he confessed this weekend to leaving a bear carcass in Central Park, NYC in 2014.",
+    "news_item_url": "https://abc7ny.com/post/rfk-jr-bear-central-park-charges-presidential-candidate-after-he-confesses-dumping-cub/15147044/",
+    "picture_source": "The Washington Post",
     "approx_traffic": "100,000+"
   },
   {
     "country": "United States",
     "title": "Mortgage rates",
     "pubDate": "Mon, 05 Aug 2024 12:00:00 -0700",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTy-DzIguzPmXoiZCY0N07wMRpvsBwX-R0lgiUumHAQdd927OK59mC4jHmN4NRKH9xFQkBTPfey",
-    "news_item_snippet": "Borrowers may be able to save on interest costs by going with a 15-year fixed mortgage, which will often have a lower rate than a 30-year, fixed-rate home loan.",
-    "news_item_url": "https://www.forbes.com/advisor/mortgages/mortgage-rates-08-06-24/",
-    "picture_source": "Bankrate.com",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRgiNMd2ZLhJ3aS4-tXNxJe2qrUiJRHfgarvLf-FCE2uFJmUE_d5P_Xxrhy3Sd03HVQjgtQR3MD",
+    "news_item_snippet": "Mortgage rates have fallen to the lowest level seen in 2024, due to a dropping yield on the 10-year Treasury bond.",
+    "news_item_url": "https://www.bankrate.com/mortgages/mortgage-rates-fall-with-treasury-yields/",
+    "picture_source": "Reuters",
     "approx_traffic": "100,000+"
   },
   {
@@ -64,8 +94,8 @@
     "title": "David Lynch",
     "pubDate": "Mon, 05 Aug 2024 15:00:00 -0700",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTNpmzpRFwY_-s2MmnoOdlKyycHChxCRqixFkfr4d0nonv8dZFORse59VqUgLIstlM2p6ITL_Pg",
-    "news_item_snippet": "Emphysema is a chronic lung condition that causes shortness of breath. The disease is generally caused by cigarette smoking (the 78-year-old Lynch is a lifelong&nbsp;...",
-    "news_item_url": "https://variety.com/2024/film/news/david-lynch-emphysema-cant-leave-house-direct-1236095608/",
+    "news_item_snippet": "&quot;Twin Peaks&quot; creator David Lynch said on Monday he is filled with happiness and will never retire despite an emphysema diagnosis, clarifying comments he&nbsp;...",
+    "news_item_url": "https://www.reuters.com/world/us/filmmaker-david-lynch-eyes-retirement-after-emphysema-diagnosis-2024-08-05/",
     "picture_source": "The New York Times",
     "approx_traffic": "100,000+"
   },
@@ -73,10 +103,10 @@
     "country": "United States",
     "title": "Brandon Aiyuk",
     "pubDate": "Mon, 05 Aug 2024 14:00:00 -0700",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQ2OkXbRLqnkBL15K6CCxAD46NIRGJggNnZHglyC05b1v8QoGcSa64wdSnd5TJa5ELLOJI0qyQQ",
-    "news_item_snippet": "PITTSBURGH -- The Pittsburgh Steelers are on of three teams trying to land San Francisco 49ers wide receiver Brandon Aiyuk. But as a trade nears and rumors&nbsp;...",
-    "news_item_url": "https://www.si.com/nfl/steelers/news/pittsburgh-steelers-trailing-two-teams-brandon-aiyuk-trade",
-    "picture_source": "NFL.com",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRZH6P17CalxN2ZeFin7bempoT1ZEk0b4KGLFccwHocDfNLWglxHihJRBCsGsIDjhM6QshhnokZ",
+    "news_item_snippet": "The report indicates the 49ers could receive a veteran wide receiver and a package of picks in return for their No. 1 wideout. This development comes after NFL&nbsp;...",
+    "news_item_url": "https://www.cbssports.com/nfl/news/brandon-aiyuk-trade-49ers-have-framework-in-place-with-browns-and-patriots-per-report/",
+    "picture_source": "Sports Illustrated",
     "approx_traffic": "50,000+"
   },
   {
@@ -103,31 +133,41 @@
     "country": "United States",
     "title": "Keely Hodgkinson",
     "pubDate": "Mon, 05 Aug 2024 14:00:00 -0700",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSM0CUtvJGalXFxJprNr9Uk_VBgW2jj_3Jrs14rzb2gWKZCuPhNysWo-bblSUotTfDnikoc81AL",
-    "news_item_snippet": "Keely Hodgkinson will celebrate her Olympic 800m gold medal with a family holiday before targeting Jarmila Kratochvilova&#39;s 41-year-old world record.",
-    "news_item_url": "https://www.theguardian.com/sport/article/2024/aug/06/keely-hodgkinson-olympics-800m-paris-athletics-holiday",
-    "picture_source": "The Athletic",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTKx7agPvrokLStLvMl1LNQRhmsbJXyIGLVPSOD1GEmxr3_v2IuASbNsOAbKMwe4O8lgmvSH9nO",
+    "news_item_snippet": "This is Hodgkison&#39;s first major international championship, having won silver in the Tokyo Games and in the 2022/2023 World Championships.",
+    "news_item_url": "https://www.nytimes.com/athletic/5682337/2024/08/05/great-keely-hodgkinson-great-britain-gold/",
+    "picture_source": "The Guardian",
     "approx_traffic": "50,000+"
   },
   {
     "country": "India",
     "title": "Neeraj Chopra",
     "pubDate": "Tue, 06 Aug 2024 14:30:00 +0530",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRWDc0xcjmMcpV6ADUx3QlHBf98ZWI11YHg_hbbG4v1cvj6TkPpe3JBtm0rM-Cde0LC5_LneEoQ",
-    "news_item_snippet": "Javelin Throw Olympics 2024: Neeraj Chopra qualified for the javelin throw final at the Paris Olympics with an 89.34m throw. Despite battling an adductor&nbsp;...",
-    "news_item_url": "https://m.economictimes.com/news/sports/neeraj-chopra-secures-javelin-final-spot-with-89-34m-throw-at-olympics/articleshow/112316145.cms",
-    "picture_source": "Business Today",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcS5LxXDupSppGGf1X8rZQ5QgwILmuu11mbpJFR28qJv-7NPZHdt74ls0Dc42UAorM0-0nKz4-6P",
+    "news_item_snippet": "Neeraj Chopra&#39;s latest feat not only marks a personal best for the season but also exceeds his gold medal-winning throw from Tokyo 2021, which was 87.58&nbsp;...",
+    "news_item_url": "https://www.businesstoday.in/sports/olympics/story/neeraj-chopra-qualifies-for-mens-javelin-finals-with-his-careers-second-best-throw-at-paris-olympics-440361-2024-08-06",
+    "picture_source": "The Economic Times",
     "approx_traffic": "200,000+"
   },
   {
     "country": "India",
-    "title": "Vinesh Phogat",
-    "pubDate": "Tue, 06 Aug 2024 01:30:00 +0530",
+    "title": "Vinesh Phogat match",
+    "pubDate": "Tue, 06 Aug 2024 10:30:00 +0530",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTzwa-TH-wPEs86WpAsPHg5q6P0beR0o-vQz_pjCgMFu1CuJss36lNJ3UiFa56fMfk-CcqBZ4Cr",
-    "news_item_snippet": "Vinesh Phogat Paris 2024 Olympics: \u092d\u093e\u0930\u0924 \u0915\u0940 \u0930\u0947\u0938\u0932\u0930 \u0935\u200d\u093f\u0928\u0947\u0936 \u092b\u094b\u0917\u093e\u091f \u0906\u091c (6 \u0905\u0917\u0938\u094d\u0924) \u0905\u092a\u0928\u093e \u092e\u0941\u0915\u093e\u092c\u0932\u093e \u0916\u0947\u0932\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u0909\u0924\u0930\u0947\u0902\u0917\u0940. \u092e\u0939\u093f\u0932\u093e 50 \u0915\u093f\u0917\u094d\u0930\u093e \u0930\u093e\u0909\u0902\u0921 \u0911\u092b&nbsp;...",
-    "news_item_url": "https://www.aajtak.in/sports/olympics/story/vinesh-phogat-at-paris-2024-olympics-first-round-very-difficult-in-wrestling-in-front-of-yui-susaki-womens-50kg-round-of-16-tspo-2001993-2024-08-06",
+    "news_item_snippet": "Vinesh Phogat (50kg) entered semifinals of Olympic Games with 7-5 win over Ukraine&#39;s Oksana Livach. This came only a couple of hours after Phogat defeated&nbsp;...",
+    "news_item_url": "https://www.livemint.com/sports/paris-olympics-2024-vinesh-phogat-enters-quarter-final-for-50kg-kishore-jena-fails-to-qualify-for-mens-javelin-final-11722938846726.html",
     "picture_source": "The Economic Times",
-    "approx_traffic": "200,000+"
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "India",
+    "title": "Neeraj Chopra Match",
+    "pubDate": "Tue, 06 Aug 2024 08:30:00 +0530",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcS5LxXDupSppGGf1X8rZQ5QgwILmuu11mbpJFR28qJv-7NPZHdt74ls0Dc42UAorM0-0nKz4-6P",
+    "news_item_snippet": "Paris Olympics 2024 News: Neeraj Chopra secured his place in the men&#39;s javelin throw final at the Olympic Games with a stellar season-best throw of 89.34m.",
+    "news_item_url": "https://timesofindia.indiatimes.com/sports/paris-olympics-2024/indiaparis/neeraj-chopra-advances-to-the-finals-of-the-paris-olympics/articleshow/112316394.cms",
+    "picture_source": "The Economic Times",
+    "approx_traffic": "100,000+"
   },
   {
     "country": "India",
@@ -142,7 +182,7 @@
   {
     "country": "India",
     "title": "Sheikh Hasina",
-    "pubDate": "Mon, 05 Aug 2024 14:30:00 +0530",
+    "pubDate": "Mon, 05 Aug 2024 12:30:00 +0530",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSJzjPc4MkayFu0mnTXy-O5GBF49YulzGgHi6S8uu4kuqtn0yHPDDGr6NIFxP_a-t2JETmhsegH",
     "news_item_snippet": "Bangladesh, which emerged from the 1971 war, has a tumultuous history of frequent regime changes, political assassinations - including that of Sheikh&nbsp;...",
     "news_item_url": "https://www.business-standard.com/world-news/know-all-about-bangladesh-s-violent-past-coups-amid-sheikh-hasina-s-ouster-124080600311_1.html",
@@ -154,38 +194,18 @@
     "title": "Dow Jones",
     "pubDate": "Mon, 05 Aug 2024 08:30:00 +0530",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQ_F211guFK_tIZEOw-vKLZ0YGWk8U5zL6QPLd_tkvO1fZjWPNhcH_LeSxugYMzvxAEfOSvXIc0",
-    "news_item_snippet": "US stock market today witnessed massive downfall as apprehension over the US recession grew on Monday.",
-    "news_item_url": "https://m.economictimes.com/news/international/us/us-stock-market-today-dow-jones-sp-500-nasdaq-crash-us-recession-fear-other-reasons-behind-bloodbath/articleshow/112298829.cms",
+    "news_item_snippet": "Stocks fell sharply across the globe on Monday, as worries about the U.S. economy triggered a worldwide sell-off. The Dow Jones Industrial Average tumbled&nbsp;...",
+    "news_item_url": "https://www.npr.org/2024/08/05/nx-s1-5063968/stocks-sell-off-dow-jones-economy-recession",
     "picture_source": "Livemint",
-    "approx_traffic": "500,000+"
+    "approx_traffic": "200,000+"
   },
   {
     "country": "India",
     "title": "Nifty",
     "pubDate": "Mon, 05 Aug 2024 07:30:00 +0530",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRGO8cRuX6aD4cE0sxatVrDpGDfBYNSW6eyJ95qK9f4yUEn_Ui2ySwH6KJIk1MEuv2zLsBOMp5x",
-    "news_item_snippet": "Sensex, which rose to a high of 79852 in early deals hit a low of 78496 in the afternoon session, falling 1356 pts on an intra day basis.",
-    "news_item_url": "https://www.businesstoday.in/markets/market-commentary/story/sensex-sinks-1300-pts-from-days-high-nifty-gives-up-24k-amid-volatility-in-global-markets-440352-2024-08-06",
-    "picture_source": "Livemint",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "India",
-    "title": "Kishore Jena",
-    "pubDate": "Mon, 05 Aug 2024 18:30:00 +0530",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQg9e1jqGEUcuRt1xM1Pk06-kKZ8LPAgoMyJYVZXOM_srXoJW972a0C2kdiYOoDGACtNuQOp0jg",
-    "news_item_snippet": "While the focus of the entire world will be on Neeraj&#39;s quest to retain his gold medal, the theme of rivalry also lingers in the men&#39;s javelin event.",
-    "news_item_url": "https://www.business-standard.com/sports/olympics/olympics-kishore-jena-opens-up-on-neeraj-chopra-rivalry-with-pak-s-nadeem-124080600046_1.html",
-    "picture_source": "Livemint",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "India",
-    "title": "Share market Today",
-    "pubDate": "Mon, 05 Aug 2024 11:30:00 +0530",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQgjg75cwKEubIPUcRkJE2UkbKUjkb7hMD_w6hRmMIRKVCnNAXTzpu65DhiqPkK5Uxlr6sDanVJ",
-    "news_item_snippet": "Consol revenue from operations: Rs 1,047 crore. 01:41:40 PM IST, 06 Aug 2024. Sensex Today | Stock Market LIVE Updates&nbsp;...",
-    "news_item_url": "https://m.economictimes.com/markets/stocks/live-blog/bse-sensex-today-live-nifty-stock-market-crash-updates-gift-nifty-tata-power-vedanta-q1-results-share-price-06-august-2024/liveblog/112303641.cms",
+    "news_item_snippet": "Stock market today: Indian stock market benchmarks- the Sensex and the Nifty 50- extended their losses into the third consecutive session on Tuesday,&nbsp;...",
+    "news_item_url": "https://www.livemint.com/market/stock-market-news/stock-market-today-sensex-nifty-50-jump-over-1-each-why-is-the-indian-stock-market-rising-explained-11722916460373.html",
     "picture_source": "Livemint",
     "approx_traffic": "200,000+"
   },
@@ -196,6 +216,16 @@
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTtyVMayeGbVG66faT--FnRUmSfrlNrjvukNug66SP5JREtS4_ifhHRX30cEFflHKxaMf19kaaI",
     "news_item_snippet": "The rebound follows a sharp sell-off in the U.S. with the Dow and the S&amp;P 500 notching their worst sessions since September 2022.",
     "news_item_url": "https://www.cnbc.com/2024/08/06/asia-stock-markets-japan-household-spending-rba-rate-decision.html",
+    "picture_source": "The Economic Times",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "India",
+    "title": "Javelin throw Olympics 2024",
+    "pubDate": "Mon, 05 Aug 2024 13:30:00 +0530",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcS5LxXDupSppGGf1X8rZQ5QgwILmuu11mbpJFR28qJv-7NPZHdt74ls0Dc42UAorM0-0nKz4-6P",
+    "news_item_snippet": "Neeraj Chopra and Kishore Jena Men&#39;s Javelin Throw Qualification Match Live Score and Update, Paris Olympics 2024: The number to keep an eye on for the&nbsp;...",
+    "news_item_url": "https://indianexpress.com/article/sports/sport-others/neeraj-chopra-and-kishore-jena-mens-javelin-throw-qualification-match-live-score-and-updates-distance-stade-de-france-9497618/",
     "picture_source": "The Economic Times",
     "approx_traffic": "100,000+"
   },
@@ -221,33 +251,13 @@
   },
   {
     "country": "India",
-    "title": "Graham Thorpe",
-    "pubDate": "Mon, 05 Aug 2024 14:30:00 +0530",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcS0wZ0pnIklzlp5-f8z_aBUHE-9dLPYNviZQvKQqQxbAawOQnM99Q0RZW9visgteYGuq-DD5cV1",
-    "news_item_snippet": "Thorpe&#39;s untimely death has unleashed a wave of tributes from those who discovered a love for the game through his defiant batting.",
-    "news_item_url": "https://www.espncricinfo.com/story/graham-thorpe-tribute-fighter-whose-honesty-endeared-him-england-fans-1446508",
-    "picture_source": "The Guardian",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "India",
-    "title": "IND vs SL ODI",
-    "pubDate": "Mon, 05 Aug 2024 06:30:00 +0530",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSkIvmQ0XYvPbLZHDeyFggPqgWnXUq7GQteIqIpBdZMx_hDgp9Pl3RNzMQypuUo-2QpP3IIcBcV",
-    "news_item_snippet": "IND vs SL, 2nd ODI: India suffered their second batting collapse in the first two matches under the tenure of coach Gautam Gambhir. After failing to chase&nbsp;...",
-    "news_item_url": "https://www.indiatoday.in/sports/cricket/story/ind-vs-sl-2nd-odi-india-suffer-back-to-back-collapses-in-gambhir-era-2576817-2024-08-04",
+    "title": "Stock market today",
+    "pubDate": "Mon, 05 Aug 2024 11:30:00 +0530",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTzbUEqFdDSR88E6jQpI0TCxzpz-W5R7WdbwCfNwqyGa7aOM5gEGFhrCXKN6jBP8u7h0Ye0TaQO",
+    "news_item_snippet": "India Business News: Stock market today: The Nifty 50 fell by 0.26% to close at 23992.55, while the Sensex ended the day 0.21% lower at 78593.07.",
+    "news_item_url": "https://timesofindia.indiatimes.com/business/india-business/stock-market-today-bse-sensex-nifty50-august-06-2024-dalal-street-indian-equities-global-markets-us-recession-fear/articleshow/112304848.cms",
     "picture_source": "Livemint",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "India",
-    "title": "Noah Lyles",
-    "pubDate": "Mon, 05 Aug 2024 02:30:00 +0530",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTVPdBvicdW2aORR3lMurHjBymDf9y37o-Ni1e4etqaD2NK72ipQ4E2GrXqJxkw_qryOyGB8Qgm",
-    "news_item_snippet": "Paris Olympics 2024 News: Noah Lyles clinched the title of the fastest man on Earth in a thrilling 100m race at Stade de France. He narrowly edged Jamaican&nbsp;...",
-    "news_item_url": "https://timesofindia.indiatimes.com/sports/paris-olympics-2024/paris-olympics-noah-lyles-only-led-one-time-during-a-100m-sprint-for-the-ages-at-the-finish-line/articleshow/112307066.cms",
-    "picture_source": "Olympics",
-    "approx_traffic": "50,000+"
+    "approx_traffic": "100,000+"
   },
   {
     "country": "India",
@@ -261,21 +271,31 @@
   },
   {
     "country": "India",
-    "title": "Japanese yen carry trade",
-    "pubDate": "Mon, 05 Aug 2024 21:30:00 +0530",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcT0QsLwK-bo2CsUhIbqymIk10uJ1gavH5C5PHXLoW6Bm9xfu0L1k9p40qDumeKG9tHj2fn3Sfcf",
-    "news_item_snippet": "Japanese Yen, a favourite for carry trade, has appreciated by 10 per cent in the last three weeks; thus, prompting fears of large scale unwinding and its&nbsp;...",
-    "news_item_url": "https://www.business-standard.com/markets/news/here-s-why-everyone-is-talking-about-japanese-yen-and-carry-trade-124080500437_1.html",
-    "picture_source": "Business Today",
+    "title": "IND vs SL ODI",
+    "pubDate": "Mon, 05 Aug 2024 06:30:00 +0530",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSxBxhYrggL6VhXuyoz2CgaBHRZT9k35carlTFSLPBZbeboTMtmr9GIoOmP0-TYsIkyCcwtYGpB",
+    "news_item_snippet": "India vs Sri Lanka, 2nd ODI, Highlights: Despite managing to tie the first ODI, Sri Lanka defeated India by 32 runs in the second ODI at Colombo on 4&nbsp;...",
+    "news_item_url": "https://www.livemint.com/sports/cricket-news/india-vs-sri-lanka-live-score-updates-match-today-2nd-odi-latest-scorecard-ind-vs-sl-4-aug-2024-rohit-kohli-nissanka-11722746269172.html",
+    "picture_source": "News18",
     "approx_traffic": "50,000+"
   },
   {
-    "country": "Argentina",
-    "title": "Las Leonas",
-    "pubDate": "Mon, 05 Aug 2024 10:00:00 -0300",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRgw7Te1mP8-VGI_yKwdBmU7p6TqYwvhd1Ce7dijBkFPeSo49SVWvnuBrV4tBHxTAQ9WO1Uq0jB",
-    "news_item_snippet": "ESPN.com se hizo presente en el Estadio Yves-du-Manoir en lo que fue el triunfo del seleccionado argentino ante Alemania.",
-    "news_item_url": "https://www.espn.com.ar/hockey-sobre-cesped/nota/_/id/14001090/nervios-y-euforia-asi-se-vivio-la-clasificacion-de-las-leonas-a-semifinales-hockey-paris-2024-juegos-olimpicos",
+    "country": "India",
+    "title": "Graham Thorpe",
+    "pubDate": "Mon, 05 Aug 2024 14:30:00 +0530",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcS0wZ0pnIklzlp5-f8z_aBUHE-9dLPYNviZQvKQqQxbAawOQnM99Q0RZW9visgteYGuq-DD5cV1",
+    "news_item_snippet": "Thorpe&#39;s untimely death has unleashed a wave of tributes from those who discovered a love for the game through his defiant batting.",
+    "news_item_url": "https://www.espncricinfo.com/story/graham-thorpe-tribute-fighter-whose-honesty-endeared-him-england-fans-1446508",
+    "picture_source": "The Guardian",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "India",
+    "title": "Noah Lyles",
+    "pubDate": "Mon, 05 Aug 2024 02:30:00 +0530",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTVPdBvicdW2aORR3lMurHjBymDf9y37o-Ni1e4etqaD2NK72ipQ4E2GrXqJxkw_qryOyGB8Qgm",
+    "news_item_snippet": "Paris Olympics 2024 News: Noah Lyles clinched the title of the fastest man on Earth in a thrilling 100m race at Stade de France. He narrowly edged Jamaican&nbsp;...",
+    "news_item_url": "https://timesofindia.indiatimes.com/sports/paris-olympics-2024/paris-olympics-noah-lyles-only-led-one-time-during-a-100m-sprint-for-the-ages-at-the-finish-line/articleshow/112307066.cms",
     "picture_source": "Olympics",
     "approx_traffic": "50,000+"
   },
@@ -290,16 +310,6 @@
     "approx_traffic": "50,000+"
   },
   {
-    "country": "Argentina",
-    "title": "Francia Egipto",
-    "pubDate": "Mon, 05 Aug 2024 18:00:00 -0300",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSRRuVDIoXIkEw16PU9aRmps-dFH-yqhv1-mS-20a65yJ8vAaM2Qd_7ik1-JWrTDhj2H6_EotA1",
-    "news_item_snippet": "Final del partido, Francia 3, Egipto 1. Final tiempo de descuento de la segunda parte, Francia 3, Egipto 1. Soungoutou Magassa (Francia) ha recibido u.",
-    "news_item_url": "https://www.marca.com/futbol/jjoo/francia-egipto/2024/08/05/01_01103_20240805_15681_6938-directo.html",
-    "picture_source": "ESPN",
-    "approx_traffic": "50,000+"
-  },
-  {
     "country": "Australia",
     "title": "Dustin Martin",
     "pubDate": "Tue, 06 Aug 2024 10:00:00 +1000",
@@ -311,6 +321,16 @@
   },
   {
     "country": "Brazil",
+    "title": "Quadro de medalhas Olimp\u00edadas 2024",
+    "pubDate": "Mon, 05 Aug 2024 07:00:00 -0500",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQYSf_cEd_Od6DNZyXrKbUCf1QKBT5LwgrwAP2582Tk1YhhTxSMe6tq2MwyR4dsFwURcmxv0OLO",
+    "news_item_snippet": "Ginasta brasileira conquistou um ouro, duas pratas e um bronze em Paris 2024.",
+    "news_item_url": "https://www.cnnbrasil.com.br/esportes/olimpiadas/se-fosse-um-pais-rebeca-andrade-estaria-em-que-lugar-no-quadro-de-medalhas/",
+    "picture_source": "Jornal O Globo",
+    "approx_traffic": "2,000,000+"
+  },
+  {
+    "country": "Brazil",
     "title": "Gabriel Medina",
     "pubDate": "Mon, 05 Aug 2024 13:00:00 -0500",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRBqv1q-M24ZNQJhjOcxzznzfUBhPiDvPFTsKpJjbHeTFY80k3TxWWDZJDqpY8biiSfshA1L-XG",
@@ -318,26 +338,6 @@
     "news_item_url": "https://www.cnnbrasil.com.br/esportes/olimpiadas/olimpiada-gabriel-medina-perde-para-australiano-e-vai-disputar-o-bronze/",
     "picture_source": "globoesporte.com",
     "approx_traffic": "500,000+"
-  },
-  {
-    "country": "Brazil",
-    "title": "Daniel Mastral morreu",
-    "pubDate": "Mon, 05 Aug 2024 11:00:00 -0500",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSWitzUSfbAUjhJGnB-WXG2d_u6v0IZa-Y5Ram4GnQ-ksZKLzzXfsfsnLUOp01hQn-3FxdgRXI7",
-    "news_item_snippet": "Aos 57 anos, Daniel Mastral, escritor paulistano e ex-satanista, foi encontrado morto no quintal de sua casa, na cidade de Barueri, Regi\u00e3o Metropolitana de&nbsp;...",
-    "news_item_url": "https://www.folhape.com.br/cultura/daniel-mastral-satanista-morre/352993/",
-    "picture_source": "O POVO",
-    "approx_traffic": "500,000+"
-  },
-  {
-    "country": "Brazil",
-    "title": "Volei masculino olimpiadas",
-    "pubDate": "Mon, 05 Aug 2024 11:00:00 -0500",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTyHueNtW3ADngfio4nzaq4jYDDbkoO3TfWdSv-GBwEqX2R4PIcbYaV-4IrPvwkKUvGiyeLQUa8",
-    "news_item_snippet": "A sele\u00e7\u00e3o masculina de v\u00f4lei do Brasil entrou em quadra nesta segunda-feira, 5, contra os Estados Unidos por uma vaga nas semifinais dos Jogos Ol\u00edmpicos de&nbsp;...",
-    "news_item_url": "https://exame.com/esporte/volei-masculino-da-adeus-as-olimpiadas-de-paris-apos-derrota-contra-os-eua/",
-    "picture_source": "CNN Brasil",
-    "approx_traffic": "200,000+"
   },
   {
     "country": "Brazil",
@@ -361,13 +361,13 @@
   },
   {
     "country": "Brazil",
-    "title": "Dolar",
-    "pubDate": "Mon, 05 Aug 2024 08:00:00 -0500",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcR6sNDszFoSaTnmeXqDhdB3hAiHrxmtgbhITCvO3-rCWip7J7h2bZ56WvdCStr4kUa-pAJPhTdd",
-    "news_item_snippet": "Leitura de desacelera\u00e7\u00e3o da economia americana afetou \u00edndices globais; moeda superou avan\u00e7o da semana passada e terminou o dia cotada a R$ 5,74.",
-    "news_item_url": "https://oglobo.globo.com/economia/financas/noticia/2024/08/05/dolar-vai-a-r-5861-em-meio-a-fortes-quedas-nas-bolsas-globais.ghtml",
-    "picture_source": "G1",
-    "approx_traffic": "200,000+"
+    "title": "Volei Masculino",
+    "pubDate": "Mon, 05 Aug 2024 11:00:00 -0500",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcStNbh8vJuYh2Iwnxv45wYA_AVPhuuqcOdg8NElXBJDxuTBjk7bOqxVg4oBUp2tldMd43KjHkkW",
+    "news_item_snippet": "A cobertura dos Jogos de Paris no Terra \u00e9 um oferecimento de Vale. Ap\u00f3s a derrota para os Estados Unidos, o clima era de abatimento. Darlan, promessa para&nbsp;...",
+    "news_item_url": "https://www.terra.com.br/esportes/jogos-olimpicos/eliminacao-do-volei-masculino-teve-choro-anuncio-de-fim-de-ciclo-e-duvida-de-bernardinho,edcf39295adf46953b6a4f2cbe47f48dmqy6l97t.html",
+    "picture_source": "CNN Brasil",
+    "approx_traffic": "100,000+"
   },
   {
     "country": "Brazil",
@@ -411,11 +411,31 @@
   },
   {
     "country": "Brazil",
-    "title": "Adilio",
-    "pubDate": "Mon, 05 Aug 2024 11:00:00 -0500",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQscSz-ajzxjjclENTV9vw9s4YYIKh9PArX0WGm11-fEsjdmDyY-4GaGW4xAj7Sv8v7GNv95AKB",
-    "news_item_snippet": "Ele \u00e9 o terceiro jogador que mais vezes vestiu a camisa do Flamengo, com 617. Ad\u00edlio morreu no Rio de Janeiro em decorr\u00eancia de um c\u00e2ncer no p\u00e2ncreas.",
-    "news_item_url": "https://g1.globo.com/jornal-nacional/noticia/2024/08/05/adilio-idolo-do-flamengo-na-decada-de-1980-morre-aos-68-anos.ghtml",
+    "title": "Quadro de medalhas Olimp\u00edadas",
+    "pubDate": "Mon, 05 Aug 2024 12:00:00 -0500",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRFzv9kEs6lspu9dH6ZcVbYsAnSfcGb1q60M6jYw_Ab4-y7Qo9s_OxMrfDGZ4MgvjHQvewSm6yT",
+    "news_item_snippet": "O Brasil adicionou mais tr\u00eas medalhas no quadro das Olimp\u00edadas de Paris nesta segunda-feira (5). Rebeca Andrade conquistou um ouro na gin\u00e1stica,&nbsp;...",
+    "news_item_url": "https://www.terra.com.br/esportes/jogos-olimpicos/olimpiadas-veja-como-ficou-o-quadro-de-medalhas-na-segunda-feira-5,72270d9dbb99acfb3b7dfa221bd4b937s0o164p3.html",
+    "picture_source": "Jornal O Globo",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Brazil",
+    "title": "Daniel Mastral morreu",
+    "pubDate": "Mon, 05 Aug 2024 15:00:00 -0500",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSWitzUSfbAUjhJGnB-WXG2d_u6v0IZa-Y5Ram4GnQ-ksZKLzzXfsfsnLUOp01hQn-3FxdgRXI7",
+    "news_item_snippet": "Aos 57 anos, Daniel Mastral, escritor paulistano e ex-satanista, foi encontrado morto no quintal de sua casa, na cidade de Barueri, Regi\u00e3o Metropolitana de&nbsp;...",
+    "news_item_url": "https://www.folhape.com.br/cultura/daniel-mastral-satanista-morre/352993/",
+    "picture_source": "O POVO",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Brazil",
+    "title": "Isaquias Queiroz",
+    "pubDate": "Mon, 05 Aug 2024 21:00:00 -0500",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcR_sT-S0mbdujQUQliccKRWJopKAAW_IwexNeoVoinsU0dMojc0bldDDpA8KtKqatt0KbmyzhCO",
+    "news_item_snippet": "Isaquias Queiroz, dono de quatro medalhas em Jogos Ol\u00edmpicos e porta-bandeira em Paris-2024, e Jacky Godmann se classificaram para a semifinal ap\u00f3s disputar&nbsp;...",
+    "news_item_url": "https://oglobo.globo.com/esportes/olimpiadas/noticia/2024/08/06/isaquias-queiroz-e-jacky-godmann-se-classificam-para-as-semifinais-da-canoagem.ghtml",
     "picture_source": "globoesporte.com",
     "approx_traffic": "50,000+"
   },
@@ -430,74 +450,34 @@
     "approx_traffic": "50,000+"
   },
   {
-    "country": "Brazil",
-    "title": "Futebol masculino olimpiadas",
-    "pubDate": "Mon, 05 Aug 2024 15:00:00 -0500",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQy_iz04CkA5M_mJeFbPNCVdKttEdGsc2vMo8tBOQWvwU6tx8Hn4S0wtaXM3F7Ssi7NBUVSymOa",
-    "news_item_snippet": "Nesta segunda-feira, pelas semifinais, time espanhol venceu o Marrocos por 2 a 1. Na prorroga\u00e7\u00e3o, franceses superaram o Egito por 3 a 1.",
-    "news_item_url": "https://gauchazh.clicrbs.com.br/esportes/olimpiada/noticia/2024/08/espanha-e-franca-vao-disputar-o-ouro-no-futebol-masculino-das-olimpiadas-clzhjus0p00bs010oymb4zotd.html",
-    "picture_source": "globoesporte.com",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Brazil",
-    "title": "Caz\u00e9 TV",
-    "pubDate": "Mon, 05 Aug 2024 09:00:00 -0500",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSL9hE2j0XTOr6ZLGAV7JQGqEa41IwyEcLvAwL5vF5zT-yQXNSTn9dSytMZssmTU4FQtiUu7z9R",
-    "news_item_snippet": "Apresentador fez uma fala de cunho sexual sobre atletas que v\u00e3o competir nas Olimp\u00edadas mesmo sem chance de medalha. Entenda o que aconteceu.",
-    "news_item_url": "https://www.opovo.com.br/esportes/olimpiadas/2024/08/05/nado-artistico-e-caze-tv-entenda-comentario-machista-nas-olimpiadas.html",
-    "picture_source": "Folha de Pernambuco",
-    "approx_traffic": "50,000+"
-  },
-  {
     "country": "Canada",
     "title": "Artistic swimming Olympics",
     "pubDate": "Mon, 05 Aug 2024 01:00:00 -0400",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRJhE988XzQh3SUyX-PuQV8bxTzXqD7eU05WEL2G8XujR_YXnioRiPCgCBibncv6ltbem9QbKhU",
-    "news_item_snippet": "We asked Daniella Ramirez about the skills and intense training it takes for elite artistic swimmers to compete for the gold medal in the Paris 2024&nbsp;...",
-    "news_item_url": "https://www.self.com/story/what-is-artistic-swimming",
-    "picture_source": "Olympics",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTXAimQQCKSYruSd2rLLTipzQOCwn52nYy9GsEvBTFJmn4fTf4Jolh1wns5oqBlOs2-F6r_6QnE",
+    "news_item_snippet": "Discover how Shortman and Thorpe have come a long way from 14th at Tokyo 2020 to targeting a podium place at Paris 2024.",
+    "news_item_url": "https://olympics.com/en/news/artistic-swimming-duo-shortman-thorpe-pioneers-team-gb",
+    "picture_source": "SELF",
     "approx_traffic": "500,000+"
   },
   {
     "country": "Canada",
-    "title": "Stock market",
-    "pubDate": "Mon, 05 Aug 2024 03:00:00 -0400",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRCqZNZmFfukLVc-u8y4WUrWD7AQgQxTuKOoYjQo4-VjxUdAf9Y_XMs-oYYXYDG3NaZrxsApuU6",
-    "news_item_snippet": "The chaos in global financial markets this week has sparked turmoil in Asia, the United States and elsewhere. But Japan, the world&#39;s fourth-largest economy, is&nbsp;...",
-    "news_item_url": "https://www.washingtonpost.com/world/2024/08/06/japan-stock-market-yen-carry-trade/",
-    "picture_source": "Vox",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "Canada",
     "title": "Severe thunderstorm warning",
-    "pubDate": "Mon, 05 Aug 2024 12:00:00 -0400",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRA-eYQboJMTOjIdED-sn_3TZRsp4HNa_d0FHIPh2NjzKfrZ06dt5S8w4y0Pza_goMH7fff1HYw",
-    "news_item_snippet": "Environment Canada is warning of severe thunderstorms Monday afternoon in Sarnia-Lambton and Chatham-Kent.",
-    "news_item_url": "https://cknxnewstoday.ca/chatham/news/2024/08/05/severe-thunderstorm-warning-issued-for-sarnia-lambton-chatham-kent",
-    "picture_source": "BlackburnNews.com",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "Canada",
-    "title": "Severe thunderstorm watch",
     "pubDate": "Mon, 05 Aug 2024 05:00:00 -0400",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTQ_IShbttsOu8Jv2f47tgrd2KONfruEuRsLnslW8UAyJFgB9PVuxkECru0oc2MhI9hUXrjTTam",
-    "news_item_snippet": "According to ECCC, thunderstorms have begun to develop in the Alberta foothills, with some of these storms capable of carrying heavy winds and large hail. The&nbsp;...",
-    "news_item_url": "https://strathmorenow.com/articles/severe-thunderstorm-watch-in-effect-for-strathmore",
+    "news_item_snippet": "Conditions could bring about thunderstorms capable of producing &quot;very strong wind gusts, up to golf ball to tennis ball size hail, and torrential rain.&quot; The&nbsp;...",
+    "news_item_url": "https://okotoksonline.com/articles/severe-thunderstorm-warning-issued-potential-for-golf-ball-sized-hail",
     "picture_source": "CBC.ca",
-    "approx_traffic": "100,000+"
+    "approx_traffic": "200,000+"
   },
   {
     "country": "Canada",
-    "title": "Bangladesh",
-    "pubDate": "Mon, 05 Aug 2024 02:00:00 -0400",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSWGX4QIwPTls92XdaNR1w6pQgnAj_nJZ36jy0gLLaKjpPjWAYxddjvMyEAcS-6LV_gEHf6rmRF",
-    "news_item_snippet": "Government crackdown on peaceful student protests against government job quota system sparked outrage. CBC News \u00b7 Posted: Aug 05, 2024 3:57 PM PDT | Last&nbsp;...",
-    "news_item_url": "https://www.cbc.ca/news/canada/manitoba/bangladesh-resignation-jubilation-local-leader-1.7285705",
-    "picture_source": "CBC.ca",
-    "approx_traffic": "50,000+"
+    "title": "Stock market",
+    "pubDate": "Mon, 05 Aug 2024 04:00:00 -0400",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcR7oQ4rQuA8EO91zCbVRlG3eajRQntjayJ4Lzo2RDsO7XBn6MVZ1uuX8XY_AKjuZT9T6KfrjaaN",
+    "news_item_snippet": "The S&amp;P 500, Dow Jones Industrial Average, and the Nasdaq all plunged Monday.",
+    "news_item_url": "https://www.vox.com/money/365271/stocks-dow-nasdaq-recession-us-economy-fed",
+    "picture_source": "CNN",
+    "approx_traffic": "100,000+"
   },
   {
     "country": "Canada",
@@ -507,6 +487,16 @@
     "news_item_snippet": "Waterloo Regional Police say a missing 14-year-old girl has been located.",
     "news_item_url": "https://kitchener.ctvnews.ca/amber-alert-issued-for-girl-last-seen-in-kitchener-1.6989752",
     "picture_source": "wrps.on.ca",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Canada",
+    "title": "Bangladesh",
+    "pubDate": "Mon, 05 Aug 2024 02:00:00 -0400",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSWGX4QIwPTls92XdaNR1w6pQgnAj_nJZ36jy0gLLaKjpPjWAYxddjvMyEAcS-6LV_gEHf6rmRF",
+    "news_item_snippet": "L&#39;incertitude r\u00e8gne au Bangladesh, \u00e0 la suite de la d\u00e9mission de la premi\u00e8re ministre Sheikh Hasina, apr\u00e8s plus d&#39;un mois de manifestations sanglantes.",
+    "news_item_url": "https://www.lapresse.ca/international/asie-et-oceanie/2024-08-06/bangladesh/fin-de-regime-pour-la-dame-de-fer-bangladaise.php",
+    "picture_source": "CBC.ca",
     "approx_traffic": "50,000+"
   },
   {
@@ -523,10 +513,10 @@
     "country": "Canada",
     "title": "Bitcoin price",
     "pubDate": "Mon, 05 Aug 2024 00:00:00 -0400",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTrlC41wrwC4g-JTkzaeaEFq8v7H7hXH3xC3_-kSmjStx3kibMqfFBxKKTsmfS3bvG2EvFuyqcm",
-    "news_item_snippet": "The world&#39;s leading cryptocurrency has lost 15% of its value over the past 24 hours.",
-    "news_item_url": "https://www.fastcompany.com/91167597/why-is-bitcoin-down-today-btc-price-stock-market-recession-fears",
-    "picture_source": "Investor's Business Daily",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTIj0721J4WR-JzQAo-6AVdlgptJhDst9oPhsygEG_aBGa_JFFMGS0H603tRfGGVa2NQ0L212Ol",
+    "news_item_snippet": "Cryptocurrency prices tumbled Monday amid the global stock market sell-off as investors fled risk assets. The price of bitcoin rebounded slightly by late&nbsp;...",
+    "news_item_url": "https://www.investors.com/news/bitcoin-price-tumbles-panic-mode/",
+    "picture_source": "Forbes",
     "approx_traffic": "50,000+"
   },
   {
@@ -540,24 +530,24 @@
     "approx_traffic": "200,000+"
   },
   {
-    "country": "Saudi Arabia",
-    "title": "\u0645\u0635\u0631 \u0648\u0641\u0631\u0646\u0633\u0627",
-    "pubDate": "Mon, 05 Aug 2024 18:00:00 +0300",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTcCIMvC0oIL-V8nvOzlvfofDKMdjfO5SmaYdcCYQbrkE91rmeiiYCaKezsroKkDlNPtTv5d5uv",
-    "news_item_snippet": "\u062c: \u0643\u0634\u0641 \u0637\u0627\u0631\u0642 \u0633\u0644\u064a\u0645\u0627\u0646\u060c \u0637\u0628\u064a\u0628 \u0627\u0644\u0645\u0646\u062a\u062e\u0628 \u0627\u0644\u0623\u0648\u0644\u0645\u0628\u0649\u060c \u0623\u0646 \u0623\u062d\u0645\u062f \u0633\u064a\u062f &quot;\u0632\u064a\u0632\u0648&quot; \u0644\u062f\u064a\u0647 \u0631\u063a\u0628\u0629 \u0642\u0648\u064a\u0629 \u0641\u0649 \u0627\u0644\u0645\u0634\u0627\u0631\u0643\u0629 \u0645\u0639 \u0627\u0644\u0645\u0646\u062a\u062e\u0628 \u0623\u0645\u0627\u0645 \u0641\u0631\u0646\u0633\u0627 \u0627\u0644\u0644\u064a\u0644\u0629 \u0641\u0649 \u0646\u0635\u0641 \u0646\u0647\u0627\u0626\u0649 \u062f\u0648\u0631\u0629 \u0627\u0644\u0623\u0644\u0639\u0627\u0628 \u0627\u0644\u0623\u0648\u0644\u0645\u0628\u064a\u0629 \u0628\u0627\u0631\u064a\u0633&nbsp;...",
-    "news_item_url": "https://www.youm7.com/story/2024/8/5/%D9%83%D9%84-%D9%85%D8%A7-%D8%AA%D8%B1%D9%8A%D8%AF-%D9%85%D8%B9%D8%B1%D9%81%D8%AA%D9%87-%D8%B9%D9%86-%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9-%D9%85%D8%B5%D8%B1-%D9%88%D9%81%D8%B1%D9%86%D8%B3%D8%A7-%D9%81%D9%89-%D9%86%D8%B5%D9%81/6664112",
-    "picture_source": "\u0627\u0644\u062c\u0632\u064a\u0631\u0629 \u0646\u062a",
+    "country": "South Korea",
+    "title": "\uc548\uc138\uc601 \uc740\ud1f4",
+    "pubDate": "Mon, 05 Aug 2024 21:00:00 +0900",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQU9H5uBVK_D84vO9C0rbziGXy9DZ5JzcouPjCS6b4TCU6_KTihQ5Z3y52gSpDh2y008ct5FYmg",
+    "news_item_snippet": "\ud30c\ub9ac\uc62c\ub9bc\ud53d \ubc30\ub4dc\ubbfc\ud134 \uc5ec\uc790 \ub2e8\uc2dd\uc5d0\uc11c \uae08\uba54\ub2ec\uc744 \ub534 \uc9c1\ud6c4, \ub300\ud55c\ubc30\ub4dc\ubbfc\ud134\ud611\ud68c\ub97c \ube44\ud310\ud55c \uc548\uc138\uc601 \uc120\uc218\uac00 SNS\ub97c \ud1b5\ud574 \uc7ac\ucc28 \uc785\uc7a5\uc744 \ubc1d\ud614\uc2b5\ub2c8\ub2e4. \uc548\uc138\uc601 \uc120\uc218\ub294 \uc6b0\ub9ac \uc2dc\uac04\uc73c\ub85c&nbsp;...",
+    "news_item_url": "https://imnews.imbc.com/news/2024/sports/article/6624370_36466.html",
+    "picture_source": "\ud55c\uaca8\ub808",
     "approx_traffic": "50,000+"
   },
   {
     "country": "France",
     "title": "Kauli Vaast",
     "pubDate": "Tue, 06 Aug 2024 01:00:00 +0200",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRhGephRtE6ioUMK6pPo1ue-5yEm9XT6VnpQ16qHoWb0dtctRawe4SyrceJn8m1v_I_SozFTXez",
-    "news_item_snippet": "Tahiti, le 5 ao\u00fbt 2024 - Il l&#39;a fait. Apr\u00e8s une finale sur cette m\u00eame vague lors de la Tahiti Pro 2022, Kauli Vaast s&#39;est finalement impos\u00e9 ce lundi sur&nbsp;...",
-    "news_item_url": "https://www.tahiti-infos.com/Kauli-Vaast-le-Golden-boy_a225366.html",
-    "picture_source": "Le Quotidien.lu",
-    "approx_traffic": "100,000+"
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTqrvjMZPERlM52yxWHLcE0boBYqgUln8iDrg68j_eB790Z-Vw9XLoQt0wKWxFxc9cmS7OTSN0q",
+    "news_item_snippet": "Le Tahitien Kauli Vaast a obtenu lundi \u00e0 Teahupo&#39;o le premier titre olympique du surf fran\u00e7ais et la premi\u00e8re m\u00e9daille d&#39;or du sport tahitien,&nbsp;...",
+    "news_item_url": "https://lequotidien.lu/jo-2024/jo-2024-le-surfeur-kauli-vaast-champion-olympique-13e-medaille-dor-pour-la-france/",
+    "picture_source": "TAHITI INFOS",
+    "approx_traffic": "200,000+"
   },
   {
     "country": "France",
@@ -574,8 +564,8 @@
     "title": "Armand Duplantis",
     "pubDate": "Mon, 05 Aug 2024 15:00:00 +0200",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSGFe_36YqdMI6mwOwS8hFMErvvh62CfDCUTwpLDpj0bvEb7frs5-qnM1KeCNE8JctP4Kj6A6Up",
-    "news_item_snippet": "Le prodige Su\u00e9dois de 24 ans s&#39;est offert sans forcer et avec brio le titre et le record olympiques, avant de r\u00e9galer le public du Stade de France en&nbsp;...",
-    "news_item_url": "https://www.liberation.fr/sports/jeux-olympiques/jo-de-paris-2024-en-saut-a-la-perche-armand-duplantis-attrape-lor-et-deux-records-20240805_QRD53EYYE5FZ7OFCLGTZGCK7WY/",
+    "news_item_snippet": "Insatiable, le champion su\u00e9dois a remport\u00e9, lundi 5 ao\u00fbt, au Stade de France, un deuxi\u00e8me titre olympique d&#39;affil\u00e9e et s&#39;est offert un neuvi\u00e8me record du&nbsp;...",
+    "news_item_url": "https://www.lemonde.fr/sport/article/2024/08/06/le-perchiste-armand-duplantis-en-vedette-principale-aux-jo-eclipse-la-concurrence-avec-un-nouveau-record-du-monde_6269295_3242.html",
     "picture_source": "Le Courrier Cauchois",
     "approx_traffic": "200,000+"
   },
@@ -587,7 +577,7 @@
     "news_item_snippet": "Men\u00e9e en d\u00e9but de match, l&#39;Espagne s&#39;est impos\u00e9e contre le Maroc (2-1), ce lundi 5 ao\u00fbt, \u00e0 Marseille (V\u00e9lodrome) en demi-finale du tournoi olympique de&nbsp;...",
     "news_item_url": "https://www.ouest-france.fr/jeux-olympiques/direct/direct-maroc-espagne-suivez-en-direct-la-demi-finale-du-tournoi-de-football-des-j0-2024-en-live-a2004cad-0b1c-46a3-abdd-def481b3ecdb",
     "picture_source": "L'\u00c9quipe.fr",
-    "approx_traffic": "200,000+"
+    "approx_traffic": "100,000+"
   },
   {
     "country": "France",
@@ -611,12 +601,12 @@
   },
   {
     "country": "France",
-    "title": "Titouan Castryck",
+    "title": "Kayak cross JO 2024",
     "pubDate": "Mon, 05 Aug 2024 17:00:00 +0200",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTHxcIBI6fKCxdBjoJETyUUmxnRLyVZd4L_vGb17dcznaNk7Uq_klveWDdha7-8ZRUHylqxedOV",
-    "news_item_snippet": "C&#39;est la douche froide pour Rennes et Cesson-S\u00e9vign\u00e9, lundi 5 ao\u00fbt 2024. Les Bretons Titouan Castryck et Camille Prigent ont subi une d\u00e9faite lors des&nbsp;...",
-    "news_item_url": "https://actu.fr/bretagne/cesson-sevigne_35051/jo-2024-titouan-castryk-disqualifie-une-grosse-deception-pour-ses-supporters-a-rennes_61448682.html",
-    "picture_source": "Ouest-France",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTOP3K-rDKTD4A-HbIZ_OCAUvA-hbJSPfTvYXuXY1l5eZhdxCqsl_7COrlFRss7gmZgJvqJ3k5C",
+    "news_item_snippet": "Chez les femmes, c&#39;est l&#39;Australienne Noemie Fox, s\u0153ur cadette de la double championne olympique de slalom (en cano\u00eb et en kayak) Jessica Fox, qui s&#39;impose,&nbsp;...",
+    "news_item_url": "https://www.lemonde.fr/sport/article/2024/08/06/kayak-cross-au-jo-l-entree-reussie-de-la-discipline-dans-le-programme-olympique_6269419_3242.html",
+    "picture_source": "France Bleu",
     "approx_traffic": "50,000+"
   },
   {
@@ -627,6 +617,16 @@
     "news_item_snippet": "Les Bleus sont en demi-finale du tournoi olympique de volleyball. Les champions olympiques en titre ont battu les Allemands (3 sets \u00e0 2) dans la douleur ce&nbsp;...",
     "news_item_url": "https://www.francebleu.fr/sports/basket-handball-volley/jo-paris-2024-volleyball-les-bleus-battent-l-allemagne-3-2-et-se-qualifient-pour-les-demi-finales-6224230",
     "picture_source": "Ouest-France",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Germany",
+    "title": "Basketball Olympia",
+    "pubDate": "Tue, 06 Aug 2024 12:00:00 +0200",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcS5wXh528j0kloItOnm8OvvbI-p0tdNWoV2VZb_kR4kN6HYHHzJ3YkqXmcU8w1RnIQ_qeL0cjsH",
+    "news_item_snippet": "Der n\u00e4chste Erfolg. Deutschlands Basketballer haben Griechenland nach einem schwachen Start besiegt. Gold bleibt das Ziel.",
+    "news_item_url": "https://www.waz.de/sport/article406957999/basketball-knaller-im-ticker-deutschland-gegen-griechenland.html",
+    "picture_source": "SAT.1",
     "approx_traffic": "50,000+"
   },
   {
@@ -643,20 +643,10 @@
     "country": "Germany",
     "title": "3x3-Basketball",
     "pubDate": "Mon, 05 Aug 2024 20:00:00 +0200",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSpophZkudN10xNkSbWlZ80x1aSV2YFRzV4mEstot1jbFGL77ai1KitviXVDy2TVgpevkRuGP7d",
-    "news_item_snippet": "Vor den Augen von Dirk Nowitzki holen die deutschen 3x3-Basketballerinnen im Finale gegen Spanien Olympia-Gold und schreiben damit Geschichte.",
-    "news_item_url": "https://www.hessenschau.de/sport/basketball/olympia-sensations-gold-fuer-3x3-basketballerinnen-um-kasslerin-reichert--v1,olympia-basketball-dreixdrei-medaille-reichert-100.html",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRKxGGMpYxM3Ez1NCSy7-oPnt4aiq0qOunlO0uCOZaiLs5OmdmT9UrfTov3NJ7IlGOIfuBDsus2",
+    "news_item_snippet": "Vor den Augen von Dirk Nowitzki besiegte das Quartett um die Berliner Anf\u00fchrerin Svenja Brunckhorst Spanien im Finale auf dem Place de la Concorde mit 17:16 und&nbsp;...",
+    "news_item_url": "https://www.rbb24.de/sport/beitrag/2024/08/olympia-3x3-finale-deutschland-spanien.html",
     "picture_source": "Westdeutsche Allgemeine Zeitung",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "Germany",
-    "title": "B\u00f6rse",
-    "pubDate": "Mon, 05 Aug 2024 09:00:00 +0200",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcS7S53crfu0xajQ0fVfNopTPUOVJhIdLtG9vhMaFCcT1AKpK9J8kzKgeOxWpEmJXMCyP4VcawUa",
-    "news_item_snippet": "Die B\u00f6rsen weltweit sind auf Talfahrt. Die Gr\u00fcnde daf\u00fcr sind vielf\u00e4ltig. In den USA herrscht Angst vor einer Rezession. Auch die Kriegsgefahr in Nahost&nbsp;...",
-    "news_item_url": "https://www.tagesschau.de/wirtschaft/boerse/stimmung-weltweit-boersen-faktoren-100.html",
-    "picture_source": "DER SPIEGEL",
     "approx_traffic": "100,000+"
   },
   {
@@ -664,9 +654,19 @@
     "title": "Bitcoin",
     "pubDate": "Mon, 05 Aug 2024 09:00:00 +0200",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQ4LatrLW7vTsmJR0gxLPHUIQZXLPF6UEmf0yPyB_GcXd3kt6MwUm2-DsKmfTuE-WnVUWq-HXaf",
-    "news_item_snippet": "Nach einem tiefroten Start in die neue Woche steigen die Kurse von Kryptow\u00e4hrungen wieder. Von seinem Rekordhoch hat sich der Bitcoin dennoch weit entfernt&nbsp;...",
-    "news_item_url": "https://www.wiwo.de/finanzen/geldanlage/bitcoin-ether-und-co-nach-boersenbeben-kryptowaehrungen-erholen-sich-etwas/29930078.html",
+    "news_item_snippet": "Die Unruhen am Aktienmarkt haben den Bitcoin abw\u00e4rts geschickt, Gold hielt sich w\u00e4hrenddessen gut. Das zeigt einmal mehr: Die Kryptow\u00e4hrung bietet,&nbsp;...",
+    "news_item_url": "https://www.wiwo.de/finanzen/geldanlage/marktkorrektur-von-wegen-der-bitcoin-ist-das-neue-gold/29932348.html",
     "picture_source": "ingenieur.de - Jobb\u00f6rse und Nachrichtenportal f\u00fcr Ingenieure",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Germany",
+    "title": "B\u00f6rse",
+    "pubDate": "Mon, 05 Aug 2024 09:00:00 +0200",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTv25l9Nqsp8FS-ambAG1GBXxpV6qEhY1sWT3Kya6LmAiSrWL-ZVOzBQPmR2mQ1-Xeihr36qczh",
+    "news_item_snippet": "Nach dem Kurssturz am Vortag bleibt es wackelig: Der Dax gibt am Dienstag einen gro\u00dfen Teil seiner fr\u00fchen Gewinne wieder ab. Die B\u00f6rse in Japan zumindest&nbsp;...",
+    "news_item_url": "https://www.manager-magazin.de/finanzen/boerse/boerse-hoffen-auf-dax-erholung-nach-kurssturz-a-bdde8024-afe4-4fce-972e-7aedf82e9f86",
+    "picture_source": "tagesschau.de",
     "approx_traffic": "50,000+"
   },
   {
@@ -691,53 +691,13 @@
   },
   {
     "country": "Italy",
-    "title": "Medagliere Olimpiadi",
-    "pubDate": "Mon, 05 Aug 2024 16:00:00 +0200",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTx_YlCysLgBsq9K9T1jlTdomsT3INhoiDSSTA7w1uCBWj0IU9JZEnKTI1frP18iaGW0y7-aLhE",
-    "news_item_snippet": "\u00c8 il decimo giorno di eventi alle Olimpiadi estive di Parigi 2024, con le finali di triathlon, ginnastica, surf, atletica leggera, ciclismo e altro ancora.",
-    "news_item_url": "https://www.voce.it/it/articolo/2/attualita/il-medagliere-olimpico-che-considera-il-numero-di-medaglie-in-rapporto-a-popolazione-e-pil-bloomberg",
-    "picture_source": "Voce di Carpi",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "Italy",
-    "title": "Battocletti",
-    "pubDate": "Mon, 05 Aug 2024 16:00:00 +0200",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSJML3jLGz5LvhCcnZG1lV-WblbfMHnZetqB5CuQlU6_EXaLZuXZ28K4q-Vm98alCmCnEmNawwu",
-    "news_item_snippet": "Respinto il controricorso italiano, nei 5000 riammessa la keniana Kipyegon che fa scendere Battocletti. D&#39;Amato ed Esposito oro e bronzo nella trave.",
-    "news_item_url": "https://www.rainews.it/maratona/2024/08/parigi-2024-olimpiadi-decimo-giorno-5-agosto-ieri-tre-medaglie-azzurre-577d71ad-fc20-4cf2-b05c-a7cf288937d7.html",
-    "picture_source": "Avvenire.it",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "Italy",
-    "title": "Duplantis",
-    "pubDate": "Mon, 05 Aug 2024 19:00:00 +0200",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTEZGIH5LVJwz4MupZkCeYY3mvDkm5oubpbsa-8hvvzZzMmCJdB2M2Zzl3PbJPXogSvEwP9d2Id",
-    "news_item_snippet": "Lo svedese Armand \u201cMondo\u201d Duplantis infrange il primato mondiale nel salto con l&#39;asta e conquista l&#39;oro alle Olimpiadi di Parigi 2024, con la misura di 6,25&nbsp;...",
-    "news_item_url": "https://www.rainews.it/articoli/2024/08/sport-olimpiadi-parigi-2024-salto-con-l-asta-armand-mondo-duplantis-primato-mondiale-medaglia-d-oro-287b762c-549b-436c-91c2-5f68909c50f7.html",
-    "picture_source": "Olympics",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "Italy",
-    "title": "Gabriele Rossetti",
+    "title": "Medagliere Olimpiadi 2024",
     "pubDate": "Mon, 05 Aug 2024 15:00:00 +0200",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSWh4dG5s4shrmVDj_INidRtawCxMkMbkud2yQw-RbSYI7hH9VbulInY4wxLUH-M8kZGjOYx7Yj",
-    "news_item_snippet": "Il secondo per entrambi, che ne avevano gi\u00e0 vinto uno nella gara individuale a Rio 2016: hanno battuto in finale gli Stati Uniti dopo una giornata di tiro&nbsp;...",
-    "news_item_url": "https://www.ilpost.it/2024/08/05/medaglia-oro-skeet-misto-bacosi-rossetti-piattello/",
-    "picture_source": "Corriere della Sera",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Italy",
-    "title": "Luana Alonso",
-    "pubDate": "Mon, 05 Aug 2024 14:00:00 +0200",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcS4kpQ0h6YTIxvbglT5saAA9bpS5TgBQ8ZXlL6vRX7iL9FbZmeIozjwl7GjR4WuGrlRj6JJn5dG",
-    "news_item_snippet": "La 20enne nuotatrice del Paraguay \u00e8 passata in pochi giorni dal ritiro fino ad essere allontanata dalla sua stessa delegazione: cosa \u00e8 successo.",
-    "news_item_url": "https://www.corrieredellosport.it/news/olimpiadi/2024/08/05-131143684/luana_alonso_cacciata_dal_villaggio_alle_olimpiadi_il_motivo_e_clamoroso",
-    "picture_source": "Corriere della Sera",
-    "approx_traffic": "50,000+"
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRhQKB9AjlU1O0OzvAXh8ZnxflWfoi_TxjYyayscgAFy5QBQlR-Y9XpVoVxzf1gTqCW2pFefyih",
+    "news_item_snippet": "Duplantis riscrive il record del mondo nell&#39;asta, Tortu e Desalu in semifinale nei 200 metri. Doppio oro azzurro con D&#39;Amato alla trave (Esposito bronzo) e&nbsp;...",
+    "news_item_url": "https://sport.sky.it/olimpiadi/2024/08/05/olimpiadi-risultati-gare-oggi-5-agosto-diretta",
+    "picture_source": "Sky Tg24",
+    "approx_traffic": "200,000+"
   },
   {
     "country": "Mexico",
@@ -780,16 +740,6 @@
     "approx_traffic": "50,000+"
   },
   {
-    "country": "Mexico",
-    "title": "Espa\u00f1a vs Marruecos",
-    "pubDate": "Mon, 05 Aug 2024 12:00:00 -0600",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRHicRIHRfCc8RzI5f-d_3_fn3v_K0PtYVNpXmt1egRIKGuZzzUhY8t6L2Rv-z2SuXgP-IcIKP0",
-    "news_item_snippet": "\u00bfC\u00f3mo qued\u00f3 Marruecos vs Espa\u00f1a? Partido hoy Semifinales Futbol Ol\u00edmpico 2024. Espa\u00f1oles y marroqu\u00edes se juegan el pase a la final ol\u00edmpica.",
-    "news_item_url": "https://www.marca.com/mx/juegos-olimpicos/futbol/marruecos-espana/2024/08/05/01_01103_20240805_6937_6930-directo.html",
-    "picture_source": "Diario Deportivo Record",
-    "approx_traffic": "50,000+"
-  },
-  {
     "country": "Spain",
     "title": "Nataci\u00f3n art\u00edstica Olimpiadas",
     "pubDate": "Mon, 05 Aug 2024 01:00:00 +0200",
@@ -804,8 +754,8 @@
     "title": "Espa\u00f1a Marruecos",
     "pubDate": "Mon, 05 Aug 2024 15:00:00 +0200",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSftQx3iNnEEd2rwZILdavSAMHX4K4hd8Ab7Wf0v1CkUR6wDw6OtFa6nI-AQVtEsmHM_eUTKfZD",
-    "news_item_snippet": "Tras la reanudaci\u00f3n, la primera ocasi\u00f3n de Espa\u00f1a llegaba en el minuto 21 de la mano de Ferm\u00edn, h\u00e9roe del partido contra Jap\u00f3n. Intentaba sorprender el jugador&nbsp;...",
-    "news_item_url": "https://www.rtve.es/deportes/20240805/juegos-olimpicos-paris-2024-directo-resumen-espana-marruecos-semifinal-futbol/16207644.shtml",
+    "news_item_snippet": "Sigue el Marruecos - Espa\u00f1a, hoy en vivo y en directo online, partido de semifinales de los Juegos Ol\u00edmpicos, a trav\u00e9s de AS.com.",
+    "news_item_url": "https://as.com/juegos_olimpicos/marruecos-espana-en-directo-semifinales-de-los-juegos-olimpicos-en-vivo-hoy-n/",
     "picture_source": "EL PA\u00cdS",
     "approx_traffic": "200,000+"
   },
@@ -814,8 +764,8 @@
     "title": "Hakimi",
     "pubDate": "Mon, 05 Aug 2024 19:00:00 +0200",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTb5rkMuKQWtEh-kQoNkp39XYQo3umLejhi1HU14_EnfLdGY--r7Pt6fxzp43vsecE5CU40rNAG",
-    "news_item_snippet": "El futbolista del PSG, nacido en Getafe, ha sido duramente criticado por sus faltas de respeto durante y tras el encuentro ante La Roja.",
-    "news_item_url": "https://www.larazon.es/deportes/juegos-olimpicos/seleccion-marruecos-sera-multada-que-hizo-achraf-hakimi_2024080666b1b4bdb33dfc0001d48756.html",
+    "news_item_snippet": "El partido, disputado este lunes en el V\u00e9lodrome de Marsella, termin\u00f3 con la victoria de Espa\u00f1a sobre Marruecos con un marcador de 2-1.",
+    "news_item_url": "https://www.infobae.com/espana/deportes/2024/08/06/el-criticado-gesto-de-achraf-hakimi-contra-la-seleccion-espanola-de-futbol-le-costara-una-sancion-a-marruecos/",
     "picture_source": "Mundo Deportivo",
     "approx_traffic": "50,000+"
   },
@@ -824,8 +774,8 @@
     "title": "Duplantis",
     "pubDate": "Mon, 05 Aug 2024 20:00:00 +0200",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTrY04sRGtrRLbtOaEYLGAHZv8iETHsLXHGTXTbDqpYhKoss6KEW2DfbAgNDY4J4znswunB1zen",
-    "news_item_snippet": "Resultados del salto de p\u00e9rtiga masculino en atletismo de los Juegos Ol\u00edmpicos Par\u00eds 2024 &middot; Armand Duplantis | Suecia | **6.**25 &middot; Sam Kendricks | Estados&nbsp;...",
-    "news_item_url": "https://olympics.com/es/noticias/resumen-atletismo-dia-10-paris-2024",
+    "news_item_snippet": "El atleta sueco ha batido por un cent\u00edmetro su anterior r\u00e9cord mundial en los JJOO de Par\u00eds. La pregunta es si est\u00e1 cerca del tope que permite la f\u00edsica.",
+    "news_item_url": "https://www.uppers.es/salud-bienestar/deporte/20240806/armand-duplantis-record-salto-pertiga-donde-esta-limite-permite-fisica_18_013189597.html",
     "picture_source": "RTVE",
     "approx_traffic": "50,000+"
   },
@@ -837,16 +787,6 @@
     "news_item_snippet": "Los goles de Ferm\u00edn L\u00f3pez y Juanlu remontan el partido en la segunda mitad y los de Santi Denia aseguran medalla tras alcanzar su segunda final ol\u00edmpica&nbsp;...",
     "news_item_url": "https://elpais.com/deportes/juegos-olimpicos/2024-08-05/marruecos-espana-la-semifinal-de-futbol-masculino-en-directo.html",
     "picture_source": "Motor Zeta",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Spain",
-    "title": "Bolsa",
-    "pubDate": "Mon, 05 Aug 2024 12:00:00 +0200",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTM1ybV4KFZC3ofTTtOoFxdSKAjcTmwG3XVR4K6jSZXial_kYpS2iscRImiFaNimkK7owhhnH-x",
-    "news_item_snippet": "As\u00ed, el Ibex 35 rebota menos de un 0,25% mientras que el EuroStoxx 50 roza el 0,3%, por lo que apenas avanza un 1,3% en el conjunto del 2024.",
-    "news_item_url": "https://www.eleconomista.es/mercados-cotizaciones/noticias/12939117/08/24/la-bolsa-europea-prepara-su-rebote-con-el-contador-casi-al-cero-en-el-ano.html",
-    "picture_source": "PR Noticias",
     "approx_traffic": "50,000+"
   },
   {
@@ -863,20 +803,20 @@
     "country": "United Kingdom",
     "title": "Graham Thorpe",
     "pubDate": "Mon, 05 Aug 2024 09:00:00 +0100",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSQCpJzqwt0YRQWNwCENrPGqAAA6SfkYOgWW1w_kBeLJ-sVjQ_P8pePBWRRTvx73VoPe-ESpQe3",
-    "news_item_snippet": "I first met Graham at under-12s level \u2013 our careers ran in parallel and he was probably my favourite person to bat alongside.",
-    "news_item_url": "https://www.theguardian.com/sport/article/2024/aug/05/graham-thorpe-cricket-mark-ramprakash",
-    "picture_source": "The Kia Oval",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcS0wZ0pnIklzlp5-f8z_aBUHE-9dLPYNviZQvKQqQxbAawOQnM99Q0RZW9visgteYGuq-DD5cV1",
+    "news_item_snippet": "Graham Thorpe, who passed away aged 55, was one of Surrey and England&#39;s finest players of the modern era. He also went on to became an accomplished coach&nbsp;...",
+    "news_item_url": "https://www.kiaoval.com/graham-thorpe-obituary/",
+    "picture_source": "The Guardian",
     "approx_traffic": "200,000+"
   },
   {
     "country": "United Kingdom",
     "title": "FTSE 100",
     "pubDate": "Mon, 05 Aug 2024 11:00:00 +0100",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQqHUbWoqyB5tT0KOgqLm-sGAoyjGUnF19YIbcZyPKMpHbH5FaUliWmrNCNvH4eok7sEABYxK-c",
-    "news_item_snippet": "The FTSE 100 made a valiant effort to rebound on Tuesday after yesterday&#39;s earth-shattering selloff rocked the global equity market.",
-    "news_item_url": "https://ukinvestormagazine.co.uk/ftse-100-turns-negative-as-concerns-linger/",
-    "picture_source": "Proactive Investors UK",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTOGaMxb8xWypwszn9hCTbmF85RZvlACHuB3VT4a86cHjG6Nx4B9ozWpqxaidQiEnF3o_zg5UP3",
+    "news_item_snippet": "A rebound by the Nikkei 225 today set the tone for a calmer session in European markets.",
+    "news_item_url": "https://www.standard.co.uk/business/ftse-100-live-6-august-market-volatility-holiday-inn-ihg-bank-of-england-resolvability-assessment-b1174850.html",
+    "picture_source": "UK Investor Magazine",
     "approx_traffic": "100,000+"
   },
   {
@@ -893,10 +833,10 @@
     "country": "United Kingdom",
     "title": "Bangladesh",
     "pubDate": "Mon, 05 Aug 2024 11:00:00 +0100",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSrKdzZoYlDS0JYU84TBU-L24Ql8pMqUTv7kEVzAMaiGpi6wTjJvDM0BytW6tb_ROzuzc2batiS",
-    "news_item_snippet": "The announcements came as student protest leaders were in a meeting on Tuesday with the army chief, Gen Waker-Uz-Zaman, after the military announced it would&nbsp;...",
-    "news_item_url": "https://www.theguardian.com/world/article/2024/aug/06/bangladesh-student-protesters-to-meet-with-army-chief-after-pm-resigns",
-    "picture_source": "Financial Times",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQuM9i4VM4XBFs9iX3qXmEb76L-QXHpSyjSZR8DdWTmiVSq555cF78IgWesAfpcnu5hBhBw7UMV",
+    "news_item_snippet": "Army to hold talks with political parties on forming interim government after PM Sheikh Hasina fled country.",
+    "news_item_url": "https://www.ft.com/content/9a60a99d-6a98-433e-ac98-9ff47303d54e",
+    "picture_source": "The Guardian",
     "approx_traffic": "100,000+"
   },
   {
@@ -917,16 +857,6 @@
     "news_item_snippet": "Olympic swimmer Luana Alonso has been banned from the Paris 2024 Olympic Village after allegations of creating an &quot;inappropriate environment.&quot;",
     "news_item_url": "https://www.insidethegames.biz/articles/1147481/luana-alonso-olympic-village-retires",
     "picture_source": "Telegraph.co.uk",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United Kingdom",
-    "title": "Jordan Chiles",
-    "pubDate": "Mon, 05 Aug 2024 16:00:00 +0100",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcR8HI17S83kLrno37JN2xGqeuG7BW24ytCcGW1jgrDbD3RhbZkyuNXNUifWCoZcFeFbSc9AYh5f",
-    "news_item_snippet": "The women&#39;s floor medallists embodied the true spirit of the Games in these images.",
-    "news_item_url": "https://olympics.com/en/news/andrade-biles-chiles-picture-paris-2024",
-    "picture_source": "The Independent",
     "approx_traffic": "50,000+"
   },
   {
