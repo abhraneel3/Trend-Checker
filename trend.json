@@ -1,16 +1,6 @@
 [
   {
     "country": "United States",
-    "title": "Earthquake",
-    "pubDate": "Tue, 06 Aug 2024 22:00:00 -0700",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQGG-WH4rHdhM1V85T2iIxIbKzt4eTFAINy8fgjH5HRTpSF4mE9CLvwFqYBTn96GSblBlaAi5AC",
-    "news_item_snippet": "A magnitude 5.2 earthquake struck Kern County on Tuesday night, rattling communities across California.",
-    "news_item_url": "https://abc30.com/post/51-magnitude-earthquake-hits-kern-county-usgs-says/15152499/",
-    "picture_source": "KABC-TV",
-    "approx_traffic": "500,000+"
-  },
-  {
-    "country": "United States",
     "title": "Women's 200m final",
     "pubDate": "Tue, 06 Aug 2024 12:00:00 -0700",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQFlm4H_YSkBwne9fGw_PzOqrmpGS-Vx3o8xXNMQ4aan5ZjLuzQBk19zCHIwEGqynNvkmTQO6gx",
@@ -21,12 +11,22 @@
   },
   {
     "country": "United States",
-    "title": "Real Madrid vs Chelsea",
-    "pubDate": "Tue, 06 Aug 2024 16:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQ11KPqYs7lthJw4K-2OuPOBCqMv9USKfngfM1YSGH5iUU6_HXLWflxZAG7KJG3RAfwZ7VXeR5z",
-    "news_item_snippet": "Chelsea look to end their first preseason under Enzo Maresca on a high against Real Madrid in Charlotte. After a 4-2 loss to Manchester City, the Blues have&nbsp;...",
-    "news_item_url": "https://www.sportingnews.com/us/la-liga/news/real-madrid-vs-chelsea-lineups-team-news-tour-squads-preseason-game/02f954e908e348b834711b6b",
-    "picture_source": "Charlotte Observer",
+    "title": "Cori Bush primary",
+    "pubDate": "Tue, 06 Aug 2024 17:00:00 -0700",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSYN4PdsxmkqCUDiU5uQf9sTPS_qDQC9uGBn82tUzPwbVsCVeijNc22Def4FU7e0DvS--_XVzhJ",
+    "news_item_snippet": "Incumbent Missouri U.S. Rep. Cori Bush has lost a Democratic primary to St. Louis County Prosecutor Wesley Bell, who was backed by pro-Israel groups.",
+    "news_item_url": "https://www.npr.org/2024/08/06/nx-s1-5064639/missouri-congresswoman-cori-bush-faces-a-primary-challenger-backed-by-pro-israel-groups",
+    "picture_source": "Missouri Independent",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Cole Hocker",
+    "pubDate": "Tue, 06 Aug 2024 13:00:00 -0700",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSgzC_2wmwYK9gun7Em13jMRL88cta_VPEGSEAUL7_OLqfjx1K6wL9khB9CUsapOd8ytgjNDlUA",
+    "news_item_snippet": "The 23-year-old middle distance runner defied experts and odds, while also breaking the heavily favored Norwegian star&#39;s Olympic record, clocking a sizzling&nbsp;...",
+    "news_item_url": "https://www.teamusa.com/news/2024/august/06/cole-hocker-pulls-shocker-in-1500m-winning-gold-yared-nuguse-charges-to-bronze-in-a-race-for-the-ages",
+    "picture_source": "TeamUSA.org",
     "approx_traffic": "200,000+"
   },
   {
@@ -41,13 +41,33 @@
   },
   {
     "country": "United States",
-    "title": "Cori Bush primary",
-    "pubDate": "Tue, 06 Aug 2024 17:00:00 -0700",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSYN4PdsxmkqCUDiU5uQf9sTPS_qDQC9uGBn82tUzPwbVsCVeijNc22Def4FU7e0DvS--_XVzhJ",
-    "news_item_snippet": "Ms Bush was unseated in Missouri&#39;s first congressional district by St Louis prosecutor Wesley Bell.",
-    "news_item_url": "https://www.bbc.com/news/articles/cewlle7jrgdo",
-    "picture_source": "Missouri Independent",
+    "title": "Real Madrid",
+    "pubDate": "Tue, 06 Aug 2024 16:00:00 -0700",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRVcse5cxwBkREl9rnPM7cYnV9T4xv03sXP10T2rL75CNK6r8JSkQKh0GRStHuhUZOY60Nx1BML",
+    "news_item_snippet": "Expert recap and game analysis of the Real Madrid vs. Chelsea Club Friendly game from August 6, 2024 on ESPN.",
+    "news_item_url": "https://www.espn.com/soccer/report/_/gameId/701280",
+    "picture_source": "Charlotte Observer",
     "approx_traffic": "200,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Sydney McLaughlin-Levrone",
+    "pubDate": "Tue, 06 Aug 2024 19:00:00 -0700",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRRpA88su6h8yhvNhd_OCsqsfuTXcq4guWYFefDTxyVq3rIF-zVdtP1tyG9RF4Rjh4L_-lnc65e",
+    "news_item_snippet": "At Tokyo, McLaughlin-Levrone took home a pair of gold medals, winning the 400m hurdles and the 4x400m relay. Five Kentucky Track and Field athletes will take to&nbsp;...",
+    "news_item_url": "https://ukathletics.com/news/2024/08/06/sydney-mclaughlin-levrone-advances-to-olympic-final-in-400m-hurdles/",
+    "picture_source": "NBC New York",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Earthquake Los Angeles",
+    "pubDate": "Tue, 06 Aug 2024 22:00:00 -0700",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTZ_3Ly2AvY6eO1custjaV197KxBG370tGo2sAia06fxfNHQgrfA-jm4gpSm1Frkr_GLywNJJ6Q",
+    "news_item_snippet": "A magnitude 5.2 earthquake struck in Kern County Tuesday night, with significant shaking felt throughout Southern California.",
+    "news_item_url": "https://abc7.com/post/magnitude-51-earthquake-strikes-kern-county-shaking-felt-southern-california/15152467/",
+    "picture_source": "CNN",
+    "approx_traffic": "100,000+"
   },
   {
     "country": "United States",
@@ -61,49 +81,39 @@
   },
   {
     "country": "United States",
-    "title": "Billy Bean",
-    "pubDate": "Tue, 06 Aug 2024 15:00:00 -0700",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcThxHQS0iRvRFxfz_7hW21hxBi1I2iHSLVyvO_3JZMBuvShHw2EGS55mjL4ng-5GnFfMngeRCSe",
-    "news_item_snippet": "Bean, who became the second former Major League Baseball player to come out as gay in 1999 before becoming the sport&#39;s senior vice president for diversity,&nbsp;...",
-    "news_item_url": "https://www.npr.org/2024/08/06/nx-s1-5065922/billy-bean-mlb-obit",
-    "picture_source": "Loyola Marymount University Athletics",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "United States",
     "title": "Vinesh Phogat",
     "pubDate": "Tue, 06 Aug 2024 11:00:00 -0700",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQJzqdQZNrePX1J-wvOMPuoGx6yApIRZoN2LJYogt7TyJT_az3N52mZXhEhxQigzKk0s3SRiAec",
-    "news_item_snippet": "Indian wrestler Vinesh Phogat was disqualified just hours before the women&#39;s 50kg freestyle final at the Paris Olympics on Wednesday after failing to make&nbsp;...",
-    "news_item_url": "https://www.reuters.com/sports/olympics/wrestling-indias-phogat-out-gold-medal-bout-after-failing-make-weight-2024-08-07/",
-    "picture_source": "FloWrestling",
-    "approx_traffic": "50,000+"
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQGjs_t6JypVQSA6IKW-aEg1kfEAcLYFVEVxd3b0iPamx3zAPOkA1lztftfmDc3VUTEzg0SyqJv",
+    "news_item_snippet": "American Sarah Hildebrandt was supposed to face Vinesh Phogat in the Olympic gold medal match, but the Indian wrestler missed weight Wednesday.",
+    "news_item_url": "https://www.flowrestling.org/articles/12769569-vinesh-phogat-disqualified-from-olympics-after-missing-weight",
+    "picture_source": "NBC 10 Philadelphia",
+    "approx_traffic": "100,000+"
   },
   {
     "country": "United States",
     "title": "Graves' disease",
     "pubDate": "Tue, 06 Aug 2024 12:00:00 -0700",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTcmg6DTRHHOlorKhyyOZLRwMF1pOryrqi0xELTFCOfW4AJ5X0xAd0MyOgWeKKRLrzxm0W0Y0BJ",
-    "news_item_snippet": "(CNN) - Actress Daisy&nbsp;...",
-    "news_item_url": "https://www.kbtx.com/2024/08/06/star-wars-star-diagnosed-with-graves-disease/",
+    "news_item_snippet": "&quot;Star Wars&quot; actor Daisy Ridley revealed in a new interview that she was diagnosed with Graves&#39; disease.",
+    "news_item_url": "https://www.nbcnews.com/pop-culture/pop-culture-news/star-wars-actor-daisy-ridley-reveals-graves-disease-diagnosis-rcna165522",
     "picture_source": "BBC News",
     "approx_traffic": "50,000+"
   },
   {
     "country": "United States",
-    "title": "Sydney McLaughlin",
-    "pubDate": "Tue, 06 Aug 2024 19:00:00 -0700",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcT4H1CJ04qrhiJ9dim2SOjtGpAZWv6fslhWcp2YPRE3q8E4C-ZTRbsOfkh28IaCNhT_1UxtWR3m",
-    "news_item_snippet": "Reigning Olympic champion Sydney McLaughlin-Levrone will have a chance to defend her 400m hurdles gold medal on Thursday. Here&#39;s what to know, when to watch&nbsp;...",
-    "news_item_url": "https://www.nbcnewyork.com/paris-2024-summer-olympics/sydney-mclaughlin-levrone-400m-hurdles-final-thursday-paris-olympics-how-to-watch/5676953/",
-    "picture_source": "UKAthletics",
+    "title": "Stanley",
+    "pubDate": "Tue, 06 Aug 2024 10:00:00 -0700",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSGpqQe09GFi29IHu3N_-LDNUfRqyvsMRsP7L3Iqaq3LMgrf_F4GaDajyGVwvBAFwy0lDDqthtF",
+    "news_item_snippet": "July 4, 1938 \u2013 January 1, 2024 Born on a holiday, died on a holiday \u2013 a life to be celebrated. John was a dynamic, successful man who lived life to the&nbsp;...",
+    "news_item_url": "https://www.postindependent.com/news/obituaries/obituary-john-stanley-schneider/",
+    "picture_source": "Bon Appetit",
     "approx_traffic": "50,000+"
   },
   {
     "country": "United States",
     "title": "Nassau County ban masks",
     "pubDate": "Tue, 06 Aug 2024 15:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcT9WgTdJ9tERHJoOfvdewidw569cjUkiB_hOd1yZwBYTa9Q03quc1CJxcxtJR-amkV8k0FrwAyZ",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRHpAuuZ0n0jA0XcLawvxH5MU-nfMjiCz_lHoH53K0xJkbQlGJqksf1QibLNnSsRZTDjsJ9PVwB",
     "news_item_snippet": "Violators could be fined up to $1000, although there would be exceptions for people who wear face coverings for health or religious reasons.",
     "news_item_url": "https://www.nytimes.com/2024/08/06/nyregion/mask-ban-nassau-county-allies.html",
     "picture_source": "WABC-TV",
@@ -111,12 +121,52 @@
   },
   {
     "country": "India",
+    "title": "Sri Lanka vs India",
+    "pubDate": "Wed, 07 Aug 2024 19:30:00 +0530",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQL6R3nCW1c4xde6Z8ZEO5oPGVjyydjYcR8V67j0Or9yd5cyo1_RfHj0VABjFElKAoRekN7Szb2",
+    "news_item_snippet": "For India. Riyan Parag took three wickets, while Mohammed Siraj, Axar Patel, Washington Sundar and Kuldeep Yadav clinched one wicket each. Sri Lanka captain&nbsp;...",
+    "news_item_url": "https://www.livemint.com/sports/cricket-news/india-vs-sri-lanka-live-score-updates-match-today-3rd-odi-latest-scorecard-ind-vs-sl-7-aug-2024-rohit-kohli-nissanka-11723004891962.html",
+    "picture_source": "Hindustan Times",
+    "approx_traffic": "2,000,000+"
+  },
+  {
+    "country": "India",
+    "title": "Hockey Olympics",
+    "pubDate": "Wed, 07 Aug 2024 00:30:00 +0530",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcT6FoHAqyjaJLrbRlWueCIoGMHfM2T5neK766BCToRBZ8aECU8RVA-Yn2SdnD6F93pgQiuik_PW",
+    "news_item_snippet": "Vinesh Phogat Wrestling Olympics 2024 highlights: It is day 11 of Paris Olympics 2024. After multiple disappointments in the last three days.",
+    "news_item_url": "https://m.economictimes.com/news/sports/olympics-2024-live-updates-august-6-schedule-olympics-games-india-medals-tally-javelin-throw-neeraj-chopra-kishore-jena-wrestling-vinesh-phogat-table-tennis-athletics/liveblog/112303029.cms",
+    "picture_source": "Olympics",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "India",
+    "title": "\u0936\u094d\u0930\u0940\u0932\u0902\u0915\u093e \u092c\u0928\u093e\u092e \u092d\u093e\u0930\u0924",
+    "pubDate": "Wed, 07 Aug 2024 19:30:00 +0530",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQ7NxSemOjN34uD89f15aWyEL8wYDmuK6gD4opXj9jRDBPt6Ts1CXH3Cs0l1m8WW_3jl0g1tnQe",
+    "news_item_snippet": "\u092a\u094d\u0930\u0947\u092e\u0926\u093e\u0938\u093e \u0938\u094d\u091f\u0947\u0921\u093f\u092f\u092e \u092e\u0947\u0902 \u0916\u0947\u0932\u093e \u091c\u093e \u0930\u0939\u093e \u0939\u0948\u0964 \u0936\u094d\u0930\u0940\u0932\u0902\u0915\u093e \u0928\u0947 \u091f\u0949\u0938 \u091c\u0940\u0924\u0915\u0930 \u092a\u0939\u0932\u0947 \u092c\u0932\u094d\u0932\u0947\u092c\u093e\u091c\u0940 \u0915\u093e \u092b\u0948\u0938\u0932\u093e \u0915\u093f\u092f\u093e\u0964 \u092a\u0939\u0932\u0947 \u0916\u0947\u0932\u0924\u0947 \u0939\u0941\u090f \u0936\u094d\u0930\u0940\u0932\u0902\u0915\u093e \u0928\u0947 50 \u0913\u0935\u0930 \u092e\u0947\u0902 7 \u0935\u093f\u0915\u0947\u091f&nbsp;...",
+    "news_item_url": "https://www.jansatta.com/khel/cricket/ind-vs-sl-3rd-odi-live-score-india-vs-sri-lanka-live-cricket-score-updates-colombo-r-premadasa-cricket-stadium-cricket-ground/3511906/",
+    "picture_source": "\u0905\u092e\u0930 \u0909\u091c\u093e\u0932\u093e",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "India",
+    "title": "Vivo V40 Pro",
+    "pubDate": "Wed, 07 Aug 2024 14:30:00 +0530",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcR0n7Mv_qtTsnqtJ36YZiyXeXFRHG5Z26P5SzZpSbso_9bInDL1ybsrNQSOiSHqVKI3V4jygsROzg",
+    "news_item_snippet": "The Vivo V40 features a 6.78-inch AMOLED screen with stunning clarity and vibrant colors, powered by the Qualcomm Snapdragon 7 Gen3 chipset. Meanwhile, the Vivo&nbsp;...",
+    "news_item_url": "https://www.indiatoday.in/technology/news/story/vivo-v40-pro-vivo-v40-launched-in-india-price-starts-at-34999-2578170-2024-08-07",
+    "picture_source": "The Hindu",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "India",
     "title": "Vinesh Phogat",
     "pubDate": "Tue, 06 Aug 2024 01:30:00 +0530",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQ0aZua3nQwiT0Lg0Ec2_6F0KpOy76lIdGWBK-s9sjNmw58laVKM354KUEMmSa6UfpyVLkWk583",
-    "news_item_snippet": "\u092d\u093e\u0930\u0924 \u0915\u0947 \u0932\u093f\u090f \u0926\u093f\u0932 \u091f\u0942\u091f\u0928\u0947 \u0935\u093e\u0932\u0940 \u0916\u092c\u0930 \u0938\u093e\u092e\u0928\u0947 \u0906\u0908 \u0939\u0948\u0964 \u0935\u093f\u0928\u0947\u0936 \u092b\u094b\u0917\u093e\u091f \u0915\u094b \u092a\u0947\u0930\u093f\u0938 \u0913\u0932\u0902\u092a\u093f\u0915 2024 \u092e\u0947\u0902 \u0938\u094d\u0935\u0930\u094d\u0923 \u092a\u0926\u0915 \u092e\u0948\u091a \u0938\u0947 \u0905\u092f\u094b\u0917\u094d\u092f \u0918\u094b\u0937\u093f\u0924 \u0915\u0930 \u0926\u093f\u092f\u093e \u0917\u092f\u093e \u0925\u093e\u0964",
-    "news_item_url": "https://www.amarujala.com/sports/vinesh-phogat-disqualified-from-olympics-paris-2024-wrestling-women-s-freestyle-50kg-weigh-in-rules-explained-2024-08-07",
-    "picture_source": "Business Today",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTA2XxcduBrsDLIL6NThuuJo5kEoS69yHRsnH045tljo5m6wTSxpp6MCR8I5eHw8gPowLk4YGkE",
+    "news_item_snippet": "India&#39;s star wrestler loses medal at Paris Olympics over weight issues. Sources indicate that Phogat was approximately 100 grams over the allowable weight limit&nbsp;...",
+    "news_item_url": "https://www.businesstoday.in/sports/olympics/story/vinesh-phogat-to-be-disqualified-indias-star-wrestler-possibly-to-lose-medal-at-paris-olympics-over-weight-issues-440475-2024-08-07",
+    "picture_source": "\u0905\u092e\u0930 \u0909\u091c\u093e\u0932\u093e",
     "approx_traffic": "2,000,000+"
   },
   {
@@ -131,8 +181,18 @@
   },
   {
     "country": "India",
+    "title": "Sarah Hildebrandt",
+    "pubDate": "Tue, 06 Aug 2024 22:30:00 +0530",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQHqS0fRKElyZYGen-ERWrHu9UCGIsg4j_PsB-hAXBsbcfP-jcRcp4MH9Wi2armjwL2p-jAn-kF",
+    "news_item_snippet": "Wednesday will see two more Greco-Roman gold medal matches at the 2024 Paris Olympics, as well as the women&#39;s freestyle 50kg final. Will Sarah Hildebrandt&nbsp;...",
+    "news_item_url": "https://www.nbcolympics.com/news/wrestling-preview-aug-7-sarah-hildebrandt-fights-upgrade-bronze-gold",
+    "picture_source": "Times of India",
+    "approx_traffic": "500,000+"
+  },
+  {
+    "country": "India",
     "title": "Hockey Olympics 2024",
-    "pubDate": "Tue, 06 Aug 2024 23:30:00 +0530",
+    "pubDate": "Tue, 06 Aug 2024 13:30:00 +0530",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcT6FoHAqyjaJLrbRlWueCIoGMHfM2T5neK766BCToRBZ8aECU8RVA-Yn2SdnD6F93pgQiuik_PW",
     "news_item_snippet": "Vinesh Phogat Wrestling Olympics 2024 highlights: It is day 11 of Paris Olympics 2024. After multiple disappointments in the last three days.",
     "news_item_url": "https://m.economictimes.com/news/sports/olympics-2024-live-updates-august-6-schedule-olympics-games-india-medals-tally-javelin-throw-neeraj-chopra-kishore-jena-wrestling-vinesh-phogat-table-tennis-athletics/liveblog/112303029.cms",
@@ -141,83 +201,83 @@
   },
   {
     "country": "India",
-    "title": "Sarah Hildebrandt",
-    "pubDate": "Tue, 06 Aug 2024 23:30:00 +0530",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQHqS0fRKElyZYGen-ERWrHu9UCGIsg4j_PsB-hAXBsbcfP-jcRcp4MH9Wi2armjwL2p-jAn-kF",
-    "news_item_snippet": "Wednesday will see two more Greco-Roman gold medal matches at the 2024 Paris Olympics, as well as the women&#39;s freestyle 50kg final. Will Sarah Hildebrandt&nbsp;...",
-    "news_item_url": "https://www.nbcolympics.com/news/wrestling-preview-aug-7-sarah-hildebrandt-fights-upgrade-bronze-gold",
-    "picture_source": "Times of India",
+    "title": "Javelin throw Olympics 2024",
+    "pubDate": "Tue, 06 Aug 2024 15:30:00 +0530",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTXv8Kkh-HUK1Vw4Kh5MINdTXLs7UG0ZrP6kkx1g5fNANePemC1zhZW8wshUQDJOj_UYQvpEEDU",
+    "news_item_snippet": "Neeraj Chopra&#39;s Javelin throw final event will take place on 8th August, 11:45 PM IST. Neeraj Chopra had an 89.34m throw in his first and final attempt in&nbsp;...",
+    "news_item_url": "https://www.business-standard.com/sports/olympics/89-34m-neeraj-chopra-s-best-throw-full-list-of-javelin-throwers-in-final-paris-olympics-2024-124080601103_1.html",
+    "picture_source": "Jagran Josh",
     "approx_traffic": "100,000+"
   },
   {
     "country": "India",
-    "title": "Javelin throw Olympics 2024",
+    "title": "Athletics Olympics 2024 schedule",
     "pubDate": "Tue, 06 Aug 2024 15:30:00 +0530",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRr0szqP6Ib1n0KXNu_y9xZGa7G8Knu4-DTgI_DLjdgHnjcJBtTn6YSJiTY2WL-dwGl6m14b-RY",
-    "news_item_snippet": "India&#39;s Neeraj Chopra and Arshad Nadeem of Pakistan qualified for the men&#39;s javelin throw final. Both achieved the qualification standard on their first&nbsp;...",
-    "news_item_url": "https://olympics.com/en/news/paris-2024-olympics-javelin-throw-qualification-arshad-nadeem-on-neeraj-chopra",
-    "picture_source": "Business Standard",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQiialtU3UTLSGKSQRpEm91KGssKjZXwi3wWLpeB1pDQgIHKxHF4PRzINTuNUFvcuy5Eh9b4QOL",
+    "news_item_snippet": "Paris Olympics Schedule Day 12: India&#39;s athletes participated in various events at the Paris Olympics 2024, aiming for success following a mixed performance&nbsp;...",
+    "news_item_url": "https://m.economictimes.com/news/sports/paris-olympics-2024-india-schedule-today-august-7-vinesh-phogat-wresting-mirabai-chanu-weightlifting-table-tennis-manika-batra-golf-aditi-ashok-athletics-avinash-sable-javelin-thow-high-jump/articleshow/112332071.cms",
+    "picture_source": "Times of India",
     "approx_traffic": "100,000+"
   },
   {
     "country": "India",
     "title": "Antim Panghal",
     "pubDate": "Tue, 06 Aug 2024 23:30:00 +0530",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSGKDWIFXTzj-pbrLQ3ejkp-LVT1b7OogFwEqNonvffWydy4o0XfoVdsY4F4LYhxLY_cZFdaxtC",
-    "news_item_snippet": "India&#39;s Antim Panghal crashed out of the Paris 2024 Olympics wrestling after losing to Turkiye&#39;s Zeynep Yetgil 10-0 in her first round of women&#39;s 53kg event&nbsp;...",
-    "news_item_url": "https://olympics.com/en/news/paris-2024-olympics-india-wrestling-antim-panghal-result",
-    "picture_source": "India Today",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSj-ijrkdj15PJsV7EGGCExMPBzqmiVfPp2fJWGugF1GOBihsVXy7gKr0f-DHsRDsHIshs0qAYx",
+    "news_item_snippet": "Antim Panghal crashed out of the Paris 2024 after a first-round defeat in the women&#39;s 53kg wrestling event at the Champ-de-Mars Arena on Wednesday.",
+    "news_item_url": "https://www.indiatoday.in/sports/olympics/story/antim-panghal-loses-53kg-wrestling-pre-quarterfinals-to-yetgil-2578441-2024-08-07",
+    "picture_source": "Olympics",
     "approx_traffic": "100,000+"
   },
   {
     "country": "India",
-    "title": "Mirabai Chanu",
-    "pubDate": "Tue, 06 Aug 2024 17:30:00 +0530",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcS3tbLrcq8o7xKpmuELG0eRxq54Up5Z3cWwDBsv8IvU15ghcrIz-P3Oqi6KM8rq6q_7kV8PjxdJ",
-    "news_item_snippet": "Mirabai Chanu Olympics 2024 Live Streaming: Mirabai Chanu is aiming for her second Olympic medal, contending with fitness issues and a strong field.",
-    "news_item_url": "https://m.economictimes.com/news/new-updates/mirabai-chanu-olympic-weightlifting-match-time-where-to-watch-opponents-injury-issues-medals/articleshow/112347298.cms",
-    "picture_source": "Business Standard",
+    "title": "Aditi Ashok",
+    "pubDate": "Tue, 06 Aug 2024 19:30:00 +0530",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcR7tZn3H6_zcVq8a6-PHjCkQ3bzVWhYSFvBiezeOIT7BbxcqsHL6sJjB6EU7OqBPNwEtv5bWx7J",
+    "news_item_snippet": "Dhinidhi Desinghu, 14, teenage swimmer who represented India at the Olympics. The only teenager in the Indian contingent to the Rio Olympics was the Bengaluru&nbsp;...",
+    "news_item_url": "https://www.hindustantimes.com/sports/olympics/humans-of-olympics-after-aditi-ashok-at-rio-2016-another-bengaluru-teenager-dhinidhi-gets-a-taste-of-olympics-101723036281330.html",
+    "picture_source": "Hindustan Times",
     "approx_traffic": "50,000+"
   },
   {
     "country": "Argentina",
     "title": "San Cayetano",
     "pubDate": "Wed, 07 Aug 2024 00:00:00 -0300",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRSBy3CNgdc2Z1M6PWRTTaBR0WGl_q_knVnwEE9IaZLqiBX33vAC7fby_NoQp4SDKyOnL_CWD-q",
-    "news_item_snippet": "Como cada 7 de agosto, el santuario de Liniers re\u00fane a los fieles al patr\u00f3n del trabajo. Pero la convocatoria se achica por la ca\u00edda del poder adquisitivo y&nbsp;...",
-    "news_item_url": "https://www.infobae.com/sociedad/2024/08/07/la-fila-para-agradecerle-a-san-cayetano-es-cada-vez-mas-corta-no-hay-plata-para-tomar-el-colectivo-ni-comprar-la-yerba/",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQAmnhfyyqz8bovDGnSAzJwRWVGknwIVjalqf7P4_Rgm_HkXS3QWq4WxOQgeAO4dYXkT4-VVl-x",
+    "news_item_snippet": "Una multitud se concentra en el barrio porte\u00f1o de Liniers para la celebraci\u00f3n del d\u00eda del patrono del pan, la salud y el trabajo. Participar\u00e1n La C\u00e1mpora&nbsp;...",
+    "news_item_url": "https://www.infobae.com/politica/2024/08/07/marcha-de-san-cayetano-en-vivo-las-ultimas-noticias-sobre-la-movilizacion-contra-javier-milei/",
     "picture_source": "LA NACION",
     "approx_traffic": "50,000+"
   },
   {
     "country": "Argentina",
     "title": "San Lorenzo",
-    "pubDate": "Tue, 06 Aug 2024 13:00:00 -0300",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQkZFUTlVcSdgb2W-8lcWOCGINq8x3SSfae5jU8_oZWSGO40C7vAcUb3XrxI2sWzFc-FqEXoWPx",
+    "pubDate": "Tue, 06 Aug 2024 20:00:00 -0300",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSgoeWlAmwdMz8Z9a8iGsjokpqyEMyuLMvk0HBsU5hoyBdAIqBCQ7WoyId0jGwlJd4dZnO1nViXKw",
     "news_item_snippet": "El \u00e1rbitro saca una tarjeta amarilla para Maher Carrizo. V\u00e9lez tiene 6 jugadores amonestados. 22:57. 47&#39; 2T: \u00a1GOL DE V\u00c9LEZ! Atropella por izquierda Pellegrini a&nbsp;...",
     "news_item_url": "https://www.tycsports.com/san-lorenzo/san-lorenzo-vs-velez-en-vivo-hora-donde-ver-y-formaciones-id600137.html",
-    "picture_source": "Ol\u00e9",
-    "approx_traffic": "200,000+"
+    "picture_source": "V\u00e9lez Sarsfield",
+    "approx_traffic": "100,000+"
   },
   {
     "country": "Argentina",
     "title": "Real Madrid  Chelsea",
     "pubDate": "Tue, 06 Aug 2024 20:00:00 -0300",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSSWtGJnS7psseahczlKA137Oaf4WPrL_wNPzuZ4J5LfHRD0YjjoV6ma9QIvBzZ0Zq_PKRb1Km_",
-    "news_item_snippet": "En el cierre de su gira de verano por Estados Unidos, Real Madrid se despidi\u00f3 con un triunfo tras vencer al Chelsea. CHARLOTTE, Carolina del Norte -- Real&nbsp;...",
-    "news_item_url": "https://www.espn.com.ar/futbol/nota/_/id/14006211/real-madrid-chelsea-vencio-cierre-gira-estados-unidos",
-    "picture_source": "TyC Sports",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRUiAoMgoDg4zgGVx-Ta3SlulYOOFWYtRyTh43hmojLVMzbbFeopHgZ3u2Z3OPThOZ22Tv0LrpJ",
+    "news_item_snippet": "El conjunto Merengue derrot\u00f3 2-1 en el cierre de su gira al conjunto donde milita Enzo Fern\u00e1ndez, que asisti\u00f3 para el gol del equipo ingl\u00e9s.",
+    "news_item_url": "https://www.tycsports.com/futbol-internacional/chelsea-vs-real-madrid-en-vivo-donde-ver-por-tv-y-online-id600217.html",
+    "picture_source": "ESPN",
     "approx_traffic": "100,000+"
   },
   {
     "country": "Argentina",
-    "title": "Alberto Fern\u00e1ndez",
-    "pubDate": "Tue, 06 Aug 2024 19:00:00 -0300",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRJHhroz_UMsU2llrph94LNNybGc0CiaZy57MQjLeJUisdLJGMr0SnAKo3Cp1dE2p8LMu2yvN-4",
-    "news_item_snippet": "La presentaci\u00f3n la hizo a la distancia, desde Espa\u00f1a, en el juzgado que investiga el caso de los seguros; el expresidente dijo que es \u201ctodo falso\u201d,&nbsp;...",
-    "news_item_url": "https://www.lanacion.com.ar/politica/fabiola-yanez-denuncio-a-alberto-fernandez-por-violencia-de-genero-nid06082024/",
-    "picture_source": "P\u00e1gina 12",
-    "approx_traffic": "100,000+"
+    "title": "Las Leonas hoy",
+    "pubDate": "Tue, 06 Aug 2024 15:00:00 -0300",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcREY9WojgVp-Hemp61_LyGLgSGVaFfYV1SPH3bGZ1i4XE3xrMkYECsP66uUWEvA1LBGKMJXzE25",
+    "news_item_snippet": "Argentina no pudo con las neerlandesas, cay\u00f3 por 3-0 e ir\u00e1 por una medalla ante China o B\u00e9lgica.",
+    "news_item_url": "https://www.ole.com.ar/juegos-olimpicos/leonas-vs-paises-bajos-holanda-hoy-vivo-juegos-olimpicos-paris-2024-hora-ver-tv-online_0_gCvLcVxByQ.html",
+    "picture_source": "canchallena.com",
+    "approx_traffic": "50,000+"
   },
   {
     "country": "Argentina",
@@ -228,16 +288,6 @@
     "news_item_url": "https://as.com/futbol/primera/barcelona-milan-en-directo-amistoso-pretemporada-hoy-en-vivo-n/",
     "picture_source": "ESPN",
     "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Brazil",
-    "title": "Vasco",
-    "pubDate": "Tue, 06 Aug 2024 14:00:00 -0500",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRof_NWxlC5-pM9UgQd1my1zxVvyMUGNHweQrpVyZFF4eUQSFHffAyeqCLuVnIUqbIJtzq_FYO-",
-    "news_item_snippet": "O Vasco venceu o Atl\u00e9tico-GO por 1 a 0, pela partida de volta das oitavas da Copa do Brasil, e se classificou para as quartas de final por 2 a 1 no placar&nbsp;...",
-    "news_item_url": "https://ge.globo.com/futebol/times/vasco/noticia/2024/08/07/rafael-paiva-ve-sofrimento-ate-o-final-em-classificacao-do-vasco-a-gente-nao-conseguiu-ficar-com-a-bola.ghtml",
-    "picture_source": "ESPN.com.br",
-    "approx_traffic": "1,000,000+"
   },
   {
     "country": "Brazil",
@@ -254,19 +304,49 @@
     "title": "Real Madrid x Chelsea",
     "pubDate": "Tue, 06 Aug 2024 15:00:00 -0500",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcS1xgOJ-KEBzzoierj4gvDnNMs8pJCrtg60ezMUzw3ExbVUnQQujZZ-2bgf9i5yurd2osUnOtW6",
-    "news_item_snippet": "Com trio brasileiro, Merengues buscam vit\u00f3ria na pr\u00e9-temporada nesta ter\u00e7a-feira (6). Confira onde assistir Real Madrid x Chelsea ao vivo.",
-    "news_item_url": "https://gizmodo.uol.com.br/onde-assistir-real-madrid-chelsea-amistoso/",
+    "news_item_snippet": "Partida foi a \u00faltima da pr\u00e9-temporada para o time de Carlo Ancelotti.",
+    "news_item_url": "https://www.lance.com.br/futebol-internacional/endrick-nao-sai-do-banco-e-real-madrid-vence-chelsea-no-ultimo-amistoso-antes-da-supercopa.html",
     "picture_source": "TNT Sports Brasil",
     "approx_traffic": "1,000,000+"
   },
   {
     "country": "Brazil",
+    "title": "Vasco da Gama x Atl\u00e9tico-GO",
+    "pubDate": "Tue, 06 Aug 2024 14:00:00 -0500",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSDyskD3HhYTe45231ok2fMuHoRnZXMgitQcusPAUE73jTfJvx9tu9OJ7hbEiihOWD-bJhIGLMt",
+    "news_item_snippet": "Em jogo isolado, Vasco da Gama x Atl\u00e9tico-GO se enfrentam em S\u00e3o Janu\u00e1rio, no Rio. S\u00f3 a vit\u00f3ria interessa \u00e0s duas equipes.",
+    "news_item_url": "https://agorarn.com.br/coluna/copa-do-brasil-vasco-da-gama-x-atletico-go/",
+    "picture_source": "Club de Regatas Vasco da Gama",
+    "approx_traffic": "500,000+"
+  },
+  {
+    "country": "Brazil",
+    "title": "Vasco",
+    "pubDate": "Tue, 06 Aug 2024 18:00:00 -0500",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRof_NWxlC5-pM9UgQd1my1zxVvyMUGNHweQrpVyZFF4eUQSFHffAyeqCLuVnIUqbIJtzq_FYO-",
+    "news_item_snippet": "O Vasco voltou ao protagonismo de um campeonato nacional importante e se colocou entre as oito melhores equipes do torneio com m\u00e9ritos. O al\u00edvio vem pela tens\u00e3o&nbsp;...",
+    "news_item_url": "https://ge.globo.com/futebol/times/vasco/noticia/2024/08/07/analise-vasco-se-classifica-mas-da-chance-ao-azar-e-expoe-limitacoes-do-elenco.ghtml",
+    "picture_source": "ESPN.com.br",
+    "approx_traffic": "500,000+"
+  },
+  {
+    "country": "Brazil",
+    "title": "Volei feminino olimpiadas",
+    "pubDate": "Tue, 06 Aug 2024 07:00:00 -0500",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQ8kn0_D7SJMjZfo4kpnCuGqKYlUojRTE2bovyNJmtgbWg6uMJxh06-1inMjqZlGYJwMctMI8dZ",
+    "news_item_snippet": "O Brasil venceu a Rep\u00fablica Dominicana por 3 a 0 e avan\u00e7ou \u00e0s semifinais do torneio ol\u00edmpico de v\u00f4lei feminino. Acompanhe as informa\u00e7\u00f5es da partida na&nbsp;...",
+    "news_item_url": "https://gauchazh.clicrbs.com.br/esportes/olimpiada/noticia/2024/08/ao-vivo-brasil-x-republica-dominicana-no-volei-feminino-das-olimpiadas-clzi950rb00fx011v7pr8d1v1.html",
+    "picture_source": "globoesporte.com",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "Brazil",
     "title": "Barcelona x Milan",
     "pubDate": "Tue, 06 Aug 2024 18:00:00 -0500",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRVeSAKCmCb2h-uWicHvNU6SXzwkru4IMm5tgGO6l3UbDDo03aDTvVHTyWFij4ft4lU8tKIsuqc",
-    "news_item_snippet": "Raphinha \u00e9 titular e d\u00e1 assist\u00eancia para um dos dois gols de Lewandowski. Vitor Roque entra no segundo tempo e converte penalidade.",
-    "news_item_url": "https://ge.globo.com/futebol/futebol-internacional/noticia/2024/08/06/milan-vence-barcelona-nos-penaltis-apos-empate-em-amistoso-nos-eua.ghtml",
-    "picture_source": "NSC Total",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQ3KYFXH3f_7tVePeGC8OpKFBfvUKjdvwHAHuuXph7WMBTkdZSCDdpW3aJVtLi1f_FLKDu9hqzx",
+    "news_item_snippet": "Barcelona e Milan jogar\u00e3o em um amistoso de pr\u00e9-temporada nesta ter\u00e7a-feira (6), \u00e0s 20h30min, no MT&amp;T Bank Stadium, em Baltimore, nos Estados Unidos.",
+    "news_item_url": "https://www.nsctotal.com.br/noticias/barcelona-x-milan-em-amistoso-onde-assistir-horario-e-provaveis-escalacoes",
+    "picture_source": "globoesporte.com",
     "approx_traffic": "200,000+"
   },
   {
@@ -276,16 +356,6 @@
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSOV5Gmb_ymaGBNXbSiKEZQryfwSoIQxZz-00J06mdIp7KBGLo8_d__nWUHWggg6eJUQj53IqW8",
     "news_item_snippet": "O Cear\u00e1 recebe o Guarani nesta ter\u00e7a-feira (6), \u00e0s 21h, no est\u00e1dio Castel\u00e3o, em partida v\u00e1lida pela 19\u00aa rodada do Brasileiro S\u00e9rie B 2024.",
     "news_item_url": "https://www.cnnbrasil.com.br/esportes/brasileirao/ceara-x-guarani-horario-e-onde-assistir-ao-jogo-da-brasileiro-serie-b-2024/",
-    "picture_source": "globoesporte.com",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "Brazil",
-    "title": "Volei feminino",
-    "pubDate": "Tue, 06 Aug 2024 07:00:00 -0500",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQ8kn0_D7SJMjZfo4kpnCuGqKYlUojRTE2bovyNJmtgbWg6uMJxh06-1inMjqZlGYJwMctMI8dZ",
-    "news_item_snippet": "A equipe de v\u00f4lei feminino manteve o alto n\u00edvel apresentado nas primeiras partidas e est\u00e1 nas semifinais dos Jogos Ol\u00edmpicos de Paris 2024, ap\u00f3s vencer a&nbsp;...",
-    "news_item_url": "https://agenciabrasil.ebc.com.br/esportes/noticia/2024-08/brasil-vence-republica-dominicana-e-vai-semifinal-no-volei-feminino",
     "picture_source": "globoesporte.com",
     "approx_traffic": "100,000+"
   },
@@ -303,20 +373,20 @@
     "country": "Brazil",
     "title": "LeBron James",
     "pubDate": "Tue, 06 Aug 2024 14:00:00 -0500",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRIS0IdcHpcmkyoqUwQLuF1FZBku-nadOUP7SkuAxQYBFVi0qWCYIje1KvurbfjyL_5U7WCIKfU",
-    "news_item_snippet": "Ala-armador brasileiro comentou sobre choque com o grande astro do Dream Team; Estados Unidos venceram o Brasil e avan\u00e7aram \u00e0 semifinal.",
-    "news_item_url": "https://ge.globo.com/olimpiadas/noticia/2024/08/06/georginho-se-envolve-em-lance-que-irritou-lebron-james-e-diz-virou-a-cara-para-mim.ghtml",
-    "picture_source": "UOL",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSdqwpSFYB0_C0NJPlsySmduGNWbhB_sqU9Eh0ve2q7exra2qJ7w6E3lXK1mu7WRKg-8uu2I5hK",
+    "news_item_snippet": "LeBron levou quatro pontos no superc\u00edlio depois de tomar uma cotovelada de Georginho no jogo entre Estados Unidos e Brasil.",
+    "news_item_url": "https://www.uol.com.br/esporte/olimpiadas/ultimas-noticias/2024/08/07/olimpiadas-lebron-james-leva-quatro-pontos-apos-cotovelada-de-brasileiro.htm",
+    "picture_source": "globoesporte.com",
     "approx_traffic": "50,000+"
   },
   {
     "country": "Brazil",
-    "title": "Handebol feminino olimpiadas",
-    "pubDate": "Tue, 06 Aug 2024 17:00:00 -0500",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcS9t2-hpUAKMngoVBys7PzSnt_YonlcTdy0v30NUggBss2XH4dwHaYJVZjQ1QunUHgOeIN81KgV",
-    "news_item_snippet": "O Brasil est\u00e1 eliminado do handebol feminino nos Jogos Ol\u00edmpicos de Paris 2024. A Sele\u00e7\u00e3o Brasileira perdeu para a Noruega por 32 a 15 nesta ter\u00e7a-feira (6)&nbsp;...",
-    "news_item_url": "https://www.cnnbrasil.com.br/esportes/olimpiadas/noruega-confirma-favoritismo-e-elimina-brasil-no-handebol-feminino/",
-    "picture_source": "globoesporte.com",
+    "title": "Brasil",
+    "pubDate": "Tue, 06 Aug 2024 16:00:00 -0500",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQbM99VRYFeBYfJKhApfMUgwJCzPsZACwITpqG_uqSw-YLHYicI5IgMq-6vIchEnJDoBbwmAvrN",
+    "news_item_snippet": "Pesquisa revela que 75% dos jornalistas t\u00eam conhecimento de algum caso de agress\u00e3o contra colegas. Foram ouvidos profissionais de 14 pa\u00edses da Am\u00e9rica&nbsp;...",
+    "news_item_url": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2024-08/falta-protocolo-contra-violencia-de-genero-na-midia-latino-americana",
+    "picture_source": "EBC",
     "approx_traffic": "50,000+"
   },
   {
@@ -324,10 +394,10 @@
     "title": "Calgary Airport",
     "pubDate": "Tue, 06 Aug 2024 00:00:00 -0400",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTkknXSI3IWp1Fd_F-ka4WalPPe_U697yVHkyQKCSRvqk8qiKyX3Uwf_AvEZ6hvdxtB4k5LTKuj",
-    "news_item_snippet": "Parts of the domestic terminal building at the Calgary International Airport are closed due to damage caused by hail and heavy rainfall.",
-    "news_item_url": "https://globalnews.ca/news/10683702/calgary-storm-airport-damage/",
+    "news_item_snippet": "The Calgary International Airport says parts of its domestic terminal building are closed due to damage caused by hail and heavy rainfall.",
+    "news_item_url": "https://www.cheknews.ca/parts-of-calgary-airport-closed-due-to-damage-from-hail-and-heavy-rainfall-1217649/",
     "picture_source": "CTV Toronto",
-    "approx_traffic": "100,000+"
+    "approx_traffic": "50,000+"
   },
   {
     "country": "Canada",
@@ -341,17 +411,7 @@
   },
   {
     "country": "Canada",
-    "title": "Canada vs France basketball",
-    "pubDate": "Tue, 06 Aug 2024 09:00:00 -0400",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQvy0vElnwKnnuZ84ozJRs1v63WWpCzcpnLlT9ALltLqdS4L_yc464BEoI4MWBPjG5_5l9CaRxb",
-    "news_item_snippet": "Canada&#39;s quest for its first Olympic medal in men&#39;s basketball came to a sudden end after losing to host nation France in the quarterfinals on Tuesday.",
-    "news_item_url": "https://olympic.ca/2024/08/06/canada-stunned-by-france-exits-in-quarterfinal-round-of-mens-basketball-tournament/",
-    "picture_source": "Oklahoman.com",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Canada",
-    "title": "CALGARY Weather",
+    "title": "Calgary WEATHER",
     "pubDate": "Tue, 06 Aug 2024 01:00:00 -0400",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQGDzXfLOUqVULYeYDrKJqQmHhak5kwUh2Q68uxHvlASMA_O1-2S5f4CgiJV4-Z3XTmG-2FMk3D",
     "news_item_snippet": "Calgary is starting the day on the cool side with temperatures around 13\u00b0C under mostly cloudy skies. The chance of showers is high throughout the day,&nbsp;...",
@@ -370,24 +430,14 @@
     "approx_traffic": "50,000+"
   },
   {
-    "country": "South Korea",
-    "title": "\uc2a4\ud3ec\uce20\ud074\ub77c\uc774\ubc0d \uc62c\ub9bc\ud53d",
-    "pubDate": "Tue, 06 Aug 2024 19:00:00 +0900",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTmEBdYRwfdoxehdHWwBMx17P5mTn0pzOWAWunwROh9ieDD2FyKm7ujzKoo1GHQG6gBION3kodc",
-    "news_item_snippet": "\uc774\ub3c4\ud604\uc740 7\uc77c \uc624\uc804(\ud604\uc9c0\uc2dc\uac01) \ud504\ub791\uc2a4 \ud30c\ub9ac \ub974\ubd80\ub974\uc81c \uc2a4\ud3ec\uce20\ud074\ub77c\uc774\ubc0d \uacbd\uae30\uc7a5\uc5d0\uc11c \uc5f4\ub9b0 2024 \ud30c\ub9ac\uc62c\ub9bc\ud53d \uc2a4\ud3ec\uce20\ud074\ub77c\uc774\ubc0d \ub0a8\uc790 \ucf64\ubc14\uc778(\ubcfc\ub354\ub9c1\u00b7\ub9ac\ub4dc) \uc900\uacb0\uc2b9\uc5d0\uc11c \ucd1d\uc810 46.0\uc810\uc744&nbsp;...",
-    "news_item_url": "https://www.hani.co.kr/arti/sports/sportstemp/olympics/1152718.html",
-    "picture_source": "Olympics",
-    "approx_traffic": "200,000+"
-  },
-  {
     "country": "France",
     "title": "Patrice Laffont",
     "pubDate": "Wed, 07 Aug 2024 14:00:00 +0200",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTVVoyb4WzFJm6LaX5br7NUWldHNthjhDdZwB6TBkhVSc1xKJcWk_bLLIgGLo-uA4lDhl6cOH7Y",
-    "news_item_snippet": "Connu pour avoir pr\u00e9sent\u00e9 \u00ab Des chiffres et des lettres \u00bb, \u00ab Fort Boyard \u00bb et \u00ab Pyramide \u00bb sur Antenne 2, puis France 2, il a \u00e9galement jou\u00e9 dans plusieurs&nbsp;...",
-    "news_item_url": "https://www.lemonde.fr/disparitions/article/2024/08/07/patrice-laffont-l-animateur-de-television-est-mort-a-l-age-de-84-ans_6271500_3382.html",
-    "picture_source": "RTL.fr",
-    "approx_traffic": "100,000+"
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSsaRyqnee-RKY99yinKNJbuU1CLaRdITrY29is85Jb_Yhpa_tPjDMLdG80Dk0DPLrVqn0cHASy",
+    "news_item_snippet": "Patrice Laffont, animateur star des ann\u00e9es 70, 80 et 90 avec &quot;Des chiffres et des lettres&quot;, &quot;Fort Boyard&quot; et &quot;Pyramide&quot;, est mort mercredi \u00e0 l&#39;\u00e2ge de 84 ans&nbsp;...",
+    "news_item_url": "https://www.france24.com/fr/info-en-continu/20240807-%F0%9F%94%B4-l-animateur-de-t%C3%A9l%C3%A9vision-patrice-laffont-est-mort-%C3%A0-l-%C3%A2ge-de-84-ans",
+    "picture_source": "Le Journal du dimanche",
+    "approx_traffic": "200,000+"
   },
   {
     "country": "France",
@@ -407,17 +457,17 @@
     "news_item_snippet": "Revivez la fin des demi-finales du combin\u00e9 bloc-difficult\u00e9 en escalade sportive, sur le site du Bourget, aux Jeux Olympiques de Paris 2024 avec les Fran\u00e7ais&nbsp;...",
     "news_item_url": "https://olympics.com/fr/infos/jo-paris-2024-escalade-sportive-qualification-finale-combine-bloc-difficulte-hommes-paul-jenft-sans-avezou-11e-resultats-resume-et-reactions",
     "picture_source": "Linternaute.com",
-    "approx_traffic": "200,000+"
+    "approx_traffic": "500,000+"
   },
   {
     "country": "France",
     "title": "Kauli Vaast",
     "pubDate": "Tue, 06 Aug 2024 01:00:00 +0200",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSNc14D7ywfSdAr6iTgxBr3HD6STstwDC78XV4Llsg2jKmwsYi9ZQTYa22o-EKOo0w1M71sMBMm",
-    "news_item_snippet": "J&#39;ai beaucoup r\u00eav\u00e9 de cette finale et de cette victoire. J&#39;y ai cru et j&#39;ai r\u00e9ussi : je suis super content d&#39;\u00eatre champion olympique ! (\u2026) C&#39;\u00e9taient les 15&nbsp;...",
-    "news_item_url": "https://www.tahiti-infos.com/Kauli-Vaast-Le-mana-etait-avec-moi_a225365.html",
-    "picture_source": "Police Nationale",
-    "approx_traffic": "200,000+"
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRVReTql-LLHo3_xMtvJfWrxlLvmUzUjkCVO5EgtRK3s9Fa0eaRijpuASWN1ZGYyScUeWAySudg",
+    "news_item_snippet": "Le policier Kauli Vaast, premier champion olympique fran\u00e7ais de l&#39;histoire en surf, remporte la premi\u00e8re m\u00e9daille d&#39;or pour l&#39;\u00e9quipe police nationale.",
+    "news_item_url": "https://www.police-nationale.interieur.gouv.fr/dossiers/nos-sportifs-en-competition/5e-medaille-et-1ere-medaille-dor-pour-lequipe-police-nationale",
+    "picture_source": "F\u00e9d\u00e9ration Fran\u00e7aise de Surf",
+    "approx_traffic": "100,000+"
   },
   {
     "country": "France",
@@ -427,56 +477,46 @@
     "news_item_snippet": "Avec une d\u00e9fense \u00e9touffante, les Bleus ont bloqu\u00e9 l&#39;acc\u00e8s au panier, et gripp\u00e9 le moteur d&#39;ordinaire bien huil\u00e9 des Canadiens dans un match d&#39;une agressivit\u00e9&nbsp;...",
     "news_item_url": "https://www.francetvinfo.fr/les-jeux-olympiques/basketball/basket-aux-jo-2024-heroique-face-au-canada-l-equipe-de-france-se-qualifie-pour-les-demi-finales_6709908.html",
     "picture_source": "Feuille de match | Team France Basket",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "France",
-    "title": "Finot",
-    "pubDate": "Tue, 06 Aug 2024 21:00:00 +0200",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSHnPQtIvX7HzXmNu_Ytvw8xw-1JTyEHZ5N0RzzM0W9KUIX3c5QV_hlh5931OJWhJDe-sm9LGp4",
-    "news_item_snippet": "Alice Finot a fini quatri\u00e8me en 3 000 m steeple. L&#39;athl\u00e8te a r\u00e9alis\u00e9 son meilleur temps et, par la m\u00eame occasion, battu le record d&#39;Europe.",
-    "news_item_url": "https://www.francetvinfo.fr/les-jeux-olympiques/paris-2024/jo-de-paris-2024-meme-pas-de-regrets-pour-alice-finot-apres-sa-quatrieme-place-en-3000-m-steeple_6711777.html",
-    "picture_source": "Lib\u00e9ration",
     "approx_traffic": "100,000+"
-  },
-  {
-    "country": "France",
-    "title": "Tim Walz",
-    "pubDate": "Tue, 06 Aug 2024 16:00:00 +0200",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTezUUn-0RMVbJKc3xswuAegoC60nDKBP2yxFndFlghPHEH1C-iF56z0pfq1reZXtRMSoADQmdO",
-    "news_item_snippet": "La candidate d\u00e9mocrate Kamala Harris et son colistier fra\u00eechement nomm\u00e9, Tim Walz, ont entam\u00e9 mardi leur tourn\u00e9e des \u00c9tats cl\u00e9s de la pr\u00e9sidentielle&nbsp;...",
-    "news_item_url": "https://www.france24.com/fr/am%C3%A9riques/20240807-pr%C3%A9sidentielle-am%C3%A9ricaine-kamala-harris-tim-walz-entament-tourn%C3%A9e-%C3%A9tats-cl%C3%A9s-trump",
-    "picture_source": "FRANCE 24",
-    "approx_traffic": "50,000+"
   },
   {
     "country": "France",
     "title": "Handball JO 2024",
     "pubDate": "Tue, 06 Aug 2024 15:00:00 +0200",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTiv9VgXsAXHAMPOqVfhXFk_WRHi_HsnbGlhjwLIx_JSVMN-eglGq1fupAIaKPFEzLpaOcvi6o9",
-    "news_item_snippet": "Ce mercredi (13h30), l&#39;\u00e9quipe de France masculine veut imiter les filles, tombeuses des Allemandes au m\u00eame stade de la comp\u00e9tition. Actualiser.",
-    "news_item_url": "https://www.20minutes.fr/sport/handball/4104833-20240807-direct-jo-2024-handball-bleus-sous-haute-pression-face-allemagne-suivez-quart-finale-direct",
-    "picture_source": "Franceinfo",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSfsCG0ahK9bMNr2O_YcEpuIFVTNasCDTOVp_oImYI6S7yVl9qZ8YwL044TjYMu2U2D5XOeZUcq",
+    "news_item_snippet": "Vingt ans apr\u00e8s avoir v\u00e9cu sa 4e olympiade, Jackson Richardson, 55 ans, vit ces Jeux olympiques de Paris comme chef de mission de la d\u00e9l\u00e9gation fran\u00e7aise.",
+    "news_item_url": "https://www.laprovence.com/article/sports/1901705304648915/jo-2024-handball-je-suis-comme-un-oiseau-au-dessus-de-paris-explique-jackson-richardson",
+    "picture_source": "20minutes.fr",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "France",
+    "title": "Alice Finot",
+    "pubDate": "Tue, 06 Aug 2024 21:00:00 +0200",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSHnPQtIvX7HzXmNu_Ytvw8xw-1JTyEHZ5N0RzzM0W9KUIX3c5QV_hlh5931OJWhJDe-sm9LGp4",
+    "news_item_snippet": "Le 6 ao\u00fbt sera \u00e0 coup s\u00fbr l&#39;un des plus beaux jours de la vie d&#39;Alice Finot. L&#39;athl\u00e8te fran\u00e7aise a battu le record d&#39;Europe du 3000 m steeple au Stade de&nbsp;...",
+    "news_item_url": "https://www.parismatch.com/actu/sport/lamour-est-paris-quand-alice-finot-conjugue-record-deurope-et-demande-en-mariage-240423",
+    "picture_source": "Lib\u00e9ration",
     "approx_traffic": "50,000+"
   },
   {
     "country": "France",
-    "title": "Lea salame",
-    "pubDate": "Tue, 06 Aug 2024 13:00:00 +0200",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTzEfM88YPkS1cV-UGySK8fNScUfFasFjx7yvPk5zttGp6qqsdxbh1dV0H1HryvdztDbFpWl2Fn",
-    "news_item_snippet": "Le nageur prodige des JO de Paris 2024, originaire de Toulouse, a refus\u00e9 de passer dans l&#39;\u00e9mission de L\u00e9a Salam\u00e9 &quot;Quels Jeux&quot;, selon une information du&nbsp;...",
-    "news_item_url": "https://actu.fr/occitanie/toulouse_31555/leon-marchand-le-champion-olympique-de-toulouse-refuse-l-emission-de-lea-salame-l-explication_61450156.html",
-    "picture_source": "Le Journal du dimanche",
+    "title": "Tim Walz",
+    "pubDate": "Tue, 06 Aug 2024 16:00:00 +0200",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTe6M-yJyALew4LJ8emidrpvZPfg99mc2FGFL79ZMmEKAaFW32by1C0M0P9OMJjPdOI9YlFvdqs",
+    "news_item_snippet": "Kamala Harris et son nouveau colistier Tim Walz, tout juste nomm\u00e9, sont arriv\u00e9s ensemble mardi sur sc\u00e8ne \u00e0 Philadelphie pour leur premier meeting de&nbsp;...",
+    "news_item_url": "https://www.europe1.fr/international/kamala-harris-et-son-nouveau-colistier-tim-walz-presentent-leur-duo-a-lamerique-4261484",
+    "picture_source": "RFI",
     "approx_traffic": "50,000+"
   },
   {
     "country": "France",
     "title": "LeBron James",
     "pubDate": "Tue, 06 Aug 2024 23:00:00 +0200",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRPAaAWlm4JNE7fYu7V-tu2w_sVlOyrr9PVWIz4F94iM5jPi0Ke7Lv0UxEX52PG85laadW8f6iX",
-    "news_item_snippet": "Arriv\u00e9 en cours de match, le champion L\u00e9on Marchand a vite \u00e9t\u00e9 remarqu\u00e9 par le public qui a scand\u00e9 son nom avec ferveur.",
-    "news_item_url": "https://www.huffingtonpost.fr/sport/video/jo-de-paris-leon-marchand-ovationne-a-bercy-lebron-james-l-a-pris-pour-lui-en-plein-quarts-de-finale-de-basket_238052.html",
-    "picture_source": "L'\u00c9quipe.fr",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcThaAWXhw2KbFSF29v8ZPcqwyyFOFVusax7MYW6NRHDf3nHrJYn8NGRM4YgKOE_CVPmjI5LZD_P",
+    "news_item_snippet": "Une sc\u00e8ne cocasse s&#39;est d\u00e9roul\u00e9e lors du quart de finale mettant aux prises les \u00c9tats-Unis au Br\u00e9sil, mardi, lorsque LeBron James a pris pour lui une&nbsp;...",
+    "news_item_url": "https://www.lequipe.fr/Jo-2024-paris/Basket/Actualites/Jo-2024-lebron-james-croit-recevoir-une-ovation-du-public-destinee-a-leon-marchand/1489348",
+    "picture_source": "Le HuffPost",
     "approx_traffic": "50,000+"
   },
   {
@@ -493,10 +533,20 @@
     "country": "Germany",
     "title": "Kr\u00f6v",
     "pubDate": "Wed, 07 Aug 2024 07:00:00 +0200",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRqyJrmWJd_RF5BMCHcFOA-jTIQo3_6_rni9-H79cUI_WG0ZM3NH0NzROKlbv9kAeKZb1KmI-OY",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQlaOEUPeStrDbiOajk9ljEAMk82iebv32jSW_fFn68o1kzbTWhPBajU07hERtgm20KEBdN31mj",
     "news_item_snippet": "Gestern ist ein Hotel in Kr\u00f6v (Kreis Bernkastel-Wittlich) eingest\u00fcrzt. Zwei Menschen kamen ums Leben. Wie die Lage vor Ort ist, liest du hier.",
     "news_item_url": "https://www.swr3.de/aktuell/nachrichten/kroev-hotel-eingestuerzt-100.html",
-    "picture_source": "DER SPIEGEL",
+    "picture_source": "SWR",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "Germany",
+    "title": "Handball Olympia",
+    "pubDate": "Wed, 07 Aug 2024 15:00:00 +0200",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSU8rEHDYs3KSvxrPyAvxXwjUa2-ezKgDVwcAE1dD6u8P53-2mT1FlCF-X8q_aqOehYCHxydwqM",
+    "news_item_snippet": "Hier siehst du das Handball-Viertelfinale der DHB-Herren gegen Frankreich bei Olympia 2024 heute im kostenlosen Livestream.",
+    "news_item_url": "https://www.sat1.de/themen/allgemein/news/handball-deutschland-frankreich-heute-hier-im-kostenlosen-livestream-ohne-anmeldung-free-olympia-viertelfinale-414775",
+    "picture_source": "op-online.de",
     "approx_traffic": "100,000+"
   },
   {
@@ -541,43 +591,23 @@
   },
   {
     "country": "Italy",
-    "title": "Juventus",
-    "pubDate": "Wed, 07 Aug 2024 00:00:00 +0200",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcS9JNLZ3tsoWEtWK5iP94KlJe6IHj5k_0ErZ7wDDEc0XC8CguRzxrxMLSrjmUwv7Z4lO9aWfkQN",
-    "news_item_snippet": "L&#39;attaccante della Juventus si espone con un semplice, ma forte, post su Instagram: Chiesa potrebbe rimanere in bianconero.",
-    "news_item_url": "https://www.goal.com/it/liste/chiesa-rimane-o-no-post-instagram-cosa-significa/blt98615d7bb48d91ec",
-    "picture_source": "Sport Mediaset",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Italy",
-    "title": "Barcellona-Milan",
-    "pubDate": "Tue, 06 Aug 2024 20:00:00 +0200",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcT4HNgMnYVGmavJO2X1rWxB7AqNZ4VjYj5Z3W-YpaGzNz-clmTN0wfYkV9R5Vjlagxy1Ew4xfTc",
-    "news_item_snippet": "Leggi su Sky Sport l&#39;articolo Milan-Barcellona, rossoneri vincono l&#39;amichevole ai rigori: gol di Jovic e Pulisic nei 90&#39;",
-    "news_item_url": "https://sport.sky.it/calcio/serie-a/2024/08/07/milan-barcellona-amichevole-risultato-gol",
-    "picture_source": "AC Milan",
+    "title": "Tamberi",
+    "pubDate": "Wed, 07 Aug 2024 11:00:00 +0200",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcREFc_ZRQXKFNM6MSNHnNaKztVPRa10iTXDWmG-ScX0g5lYhl6ldzndy3uME4QWf9snvdnGEB9U",
+    "news_item_snippet": "Gianmarco Tamberi si \u00e8 qualificato alla finale del salto in alto a Parigi 2024, tra i primi 12. Ecco le impressioni a caldo del campione azzurro ai&nbsp;...",
+    "news_item_url": "https://www.rainews.it/video/2024/08/olimpiadi-parigi-2024-le-parole-di-gimbo-tamberi-in-finale-sara-altra-cosa-5227119c-6e5e-40c9-b72f-6ad7f945aaaf.html",
+    "picture_source": "Rai News",
     "approx_traffic": "200,000+"
   },
   {
     "country": "Italy",
-    "title": "Mattia Furlani",
-    "pubDate": "Tue, 06 Aug 2024 15:00:00 +0200",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQjgatPnDNtNU4VjW8_ZfuECq28ASbq77Ogk-hPaQSFdHtL01oOC6syucNFLmnwjCv_VqTCRchp",
-    "news_item_snippet": "La vittoria della medaglia di bronzo alle Olimpiadi di Parigi a soli 19 anni \u00e8 solo l&#39;ultima tappa di un&#39;ascesa vertiginosa, avvenuta tutta nell&#39;ultimo&nbsp;...",
-    "news_item_url": "https://www.corriere.it/sport/olimpiadi/24_agosto_07/mattia-furlani-salto-in-lungo-olimpiadi-parigi-chi-e-f2e49a56-5eaf-49ff-96ca-f7f05fc91xlk.shtml",
-    "picture_source": "Radio Popolare",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "Italy",
-    "title": "Barnsley  Roma",
-    "pubDate": "Tue, 06 Aug 2024 18:00:00 +0200",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcT-6v1cEBv8UF5qeTGOu9kGD2hFzXqRBSZVMqciNBDqb0XYnufRslDAh2zDCOeUywFQLTI_Zj_j",
-    "news_item_snippet": "Amichevoli estive 2024: dopo l&#39;1-1 con l&#39;Olympiacos, la Roma torna in campo: la prossima avversaria \u00e8 una squadra inglese, il Barnsley.",
-    "news_item_url": "https://www.dazn.com/it-IT/news/calcio/diretta-amichevole-barnsley-roma-dove-vederla-in-tv-e-live-streaming/msabkkqjsojn1ebwysp3khwvu",
-    "picture_source": "La Gazzetta dello Sport",
-    "approx_traffic": "100,000+"
+    "title": "Juventus",
+    "pubDate": "Wed, 07 Aug 2024 00:00:00 +0200",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcS5gw7KNzHalDqYQQZfOdJ09YFxZ1HfBRZGplcX8NDMIAD9tXFGr--KBUJ9o_uaPX8xQXx_mMWb",
+    "news_item_snippet": "L&#39;attaccante bianconero ha voluto mandare un messaggio tramite i propri canali social, sullo sfondo ci sono Roma e Napoli. Ma attenzione al Milan.",
+    "news_item_url": "https://www.sportmediaset.mediaset.it/mercato/juventus/chiesa-manda-un-segnale-alla-juventus-post-d-amore-e-permanenza-_85660193-202402k.shtml",
+    "picture_source": "Napoli Fanpage",
+    "approx_traffic": "50,000+"
   },
   {
     "country": "Mexico",
@@ -591,23 +621,33 @@
   },
   {
     "country": "Mexico",
-    "title": "Marco Verde",
-    "pubDate": "Tue, 06 Aug 2024 08:00:00 -0600",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRLUyQXjqk06PI1DwuMZv4k0GyKJ9t-GZgKZZ_Hjp8bQHT5oakmqocJPK5pqDe-5tOAIXmnAoKi",
-    "news_item_snippet": "Verde consigui\u00f3 as\u00ed algo que ya suena una haza\u00f1a para M\u00e9xico en los Juegos Ol\u00edmpicos. Es que la \u00faltima medalla de plata que hab\u00eda ganado un boxeador mexicano en&nbsp;...",
-    "news_item_url": "https://olympics.com/es/noticias/paris-2024-marco-verde-buscara-el-primer-oro-olimpico-de-un-boxeador-mexicano-en-mas-de-medio-siglo",
+    "title": "Barcelona - Milan",
+    "pubDate": "Tue, 06 Aug 2024 16:00:00 -0600",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRGWUGpWwjhfigawTBoKMjE_o4sCDTeX8srIs8zKjSyvoX5Pa3eLlqrSH9eNRmg_VyT6r4UJc6b",
+    "news_item_snippet": "Sigue el resultado del Bar\u00e7a - Milan En Directo Online. Transmisi\u00f3n minuto a minuto y d\u00f3nde ver del partido del Barcelona hoy, desde el M&amp;T Bank Stadium.",
+    "news_item_url": "https://www.marca.com/mx/futbol/barcelona-milan/2024/08/07/01_0111_20240806_178_120-directo.html",
     "picture_source": "ESPN",
     "approx_traffic": "200,000+"
   },
   {
     "country": "Mexico",
-    "title": "Barcelona - Milan",
-    "pubDate": "Tue, 06 Aug 2024 16:00:00 -0600",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSNp3_qAY8_DOreK4hajHIZ9cYq4ihwEJo90DLwDyLg-AcltDny2DOHPhYxwERzby2WTJ86-saA",
-    "news_item_snippet": "Robert Lewandowski, reivindicado con un doblete, le dio al F\u00fatbol Club Barcelona el empate 2-2 con el Milan de la Serie A en el \u00faltimo partido amistoso de&nbsp;...",
-    "news_item_url": "https://www.espn.com.mx/futbol/nota/_/id/14006821/doblete-de-lewandowski-no-alcanzo-para-barcelona-ante-milan",
-    "picture_source": "MARCA.com",
-    "approx_traffic": "200,000+"
+    "title": "Adrian Marcelo",
+    "pubDate": "Tue, 06 Aug 2024 11:00:00 -0600",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSnfdSAenE0VpXIJjmSBY6QKgdeHqSLikoRa9Uh_CBmB3iLC8dbAVhjVIAoDQypUFHUb_5d0rhO",
+    "news_item_snippet": "El youtuber ha sido acusado de promover la misoginia, machismo, clasismo y la xenofobia dentro del reality show.",
+    "news_item_url": "https://www.infobae.com/mexico/2024/08/06/esta-es-la-unica-regla-de-la-casa-de-los-famosos-mexico-2-que-causaria-la-expulsion-de-adrian-marcelo/",
+    "picture_source": "El Financiero",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "Mexico",
+    "title": "M\u00e9xico Juegos Ol\u00edmpicos 2024",
+    "pubDate": "Tue, 06 Aug 2024 08:00:00 -0600",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTkZ04vp7yXPcOAKIYiXxrdc9mpTQggolCkJL8-sMvfNZQWZ76pLxo5RhlMmquwnbvmQTLvR7y2",
+    "news_item_snippet": "Existe posibilidad de que se presenten algunas medallas para M\u00e9xico durante el d\u00eda 11 de actividades en la justa veraniega.",
+    "news_item_url": "https://www.infobae.com/mexico/deportes/2024/08/07/calendario-juegos-olimpicos-paris-2024-que-mexicanos-compiten-este-miercoles-7-de-agosto/",
+    "picture_source": "Olympics",
+    "approx_traffic": "100,000+"
   },
   {
     "country": "Spain",
@@ -623,20 +663,30 @@
     "country": "Spain",
     "title": "Barcelona - Milan",
     "pubDate": "Wed, 07 Aug 2024 01:00:00 +0200",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRIpYD9kt_tidkFSNIzIQC5rWdfwRIcUdRcrN40GVX8d--B8t4alw62in7-qlETLhhjOFv1jhZR",
-    "news_item_snippet": "Hasta aqu\u00ed el directo del partido. Muy buenas noches (y d\u00edas) a todos. Torriani, clave para el triunfo del Milan, tanto en los 90 minutos como en la t.",
-    "news_item_url": "https://www.marca.com/futbol/amistosos-clubes/barcelona-milan/2024/08/07/01_0111_20240806_178_120-directo.html",
-    "picture_source": "AS",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSXkM03FAyhKlyJYZDtRCWpaJaiZkjyrREJRdKNNR_qz7tfaQ2zsbIuat4o1Tf7oAKvCZEf7rUf",
+    "news_item_snippet": "Entretenida primera mitad en Baltimore. Especialmente la primera media hora en la que llegaron tres de los cuatro goles. Jovic y Pulisic pon\u00edan dos goles&nbsp;...",
+    "news_item_url": "https://as.com/futbol/primera/barcelona-milan-en-directo-amistoso-pretemporada-hoy-en-vivo-n/",
+    "picture_source": "MARCA",
     "approx_traffic": "200,000+"
   },
   {
     "country": "Spain",
-    "title": "Olmo",
-    "pubDate": "Tue, 06 Aug 2024 16:00:00 +0200",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQIo0rCOmqZg9js6EMc-g_sI78KAqkMNeWdwOzewWi36NtEISxnxGIGJ11fmdQSKNVRZOQqyJoe",
-    "news_item_snippet": "El jugador, que aterriz\u00f3 ayer a Barcelona, ha llegado a la Ciutat Esportiva. El jugador ha entrado por otra puerta, en la que no se encontraban los Periodistas.",
-    "news_item_url": "https://www.sport.es/es/noticias/barca/fichaje-dani-olmo-directo-fc-barcelona-106650753",
-    "picture_source": "Tribuna de Salamanca",
+    "title": "KitcheeAtl\u00e9tico Madrid",
+    "pubDate": "Wed, 07 Aug 2024 14:00:00 +0200",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQx0SbnufTPKblenq9-VPfH2DUN4Oj8QJjJzZgmUCWroZ1-3wL2JhbqT3SYTWkl1A7ZuNiALR8r",
+    "news_item_snippet": "FINAAAAAL DEL PARTIDOOOOO. Goleada del Atl\u00e9tico y doblete de Sorloth en Hong Kong. Carlos Mart\u00edn, Mouri\u00f1o, Adri\u00e1n Ni\u00f1o y Lemar completaron la goleada.",
+    "news_item_url": "https://www.marca.com/futbol/amistosos-clubes/kitchee-atletico/2024/08/07/01_0111_20240807_11499_175-directo.html",
+    "picture_source": "AS",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Spain",
+    "title": "Alvaro Martin",
+    "pubDate": "Wed, 07 Aug 2024 11:00:00 +0200",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTCoqqxxoT-pw_ueWruw7UE0ZNRWYjTnVRE7RFrtKBo6xqrDXyUmgBXog_I2NbtuTzqB34G38-K",
+    "news_item_snippet": "Los bicampeones del mundo ganaron la medalla de oro en el marat\u00f3n de marcha por relevos mixtos, novedad del atletismo en los Juegos Ol\u00edmpicos de Par\u00eds 2024.",
+    "news_item_url": "https://olympics.com/es/noticias/maria-perez-alvaro-martin-campeones-olimpicos-maraton-marcha-relevos-mixtos",
+    "picture_source": "eldiasegovia.es",
     "approx_traffic": "50,000+"
   },
   {
@@ -663,10 +713,10 @@
     "country": "United Kingdom",
     "title": "Tim Walz",
     "pubDate": "Tue, 06 Aug 2024 13:00:00 +0100",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcR5BP6xYI9y9F450spnsQzykOIYVe2l8tDmc18IotHPKgCKzsN2PzbRqgX_uqwuTJnH9KnMcoBu",
-    "news_item_snippet": "Because Tim Walz lived in the small college city of Mankato and was in the Guard, there must be something complicated going on, I thought.",
-    "news_item_url": "https://kansasreflector.com/2024/08/07/tim-walz-isnt-complicated-america-is/",
-    "picture_source": "BBC News",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRvS5cd7yXjxKhKB4phXk8taa54HfksoR-lXwPyPNxIIUenSAymKRtYmpd0qP7futRQcF9hNfcy",
+    "news_item_snippet": "His style may prove more effective at convincing undecided voters than the dark rhetoric of the Biden campaign, writes Anthony Zurcher.",
+    "news_item_url": "https://www.bbc.co.uk/news/articles/c8jlldpzl7go",
+    "picture_source": "Kansas Reflector",
     "approx_traffic": "100,000+"
   },
   {
@@ -674,20 +724,20 @@
     "title": "Sky Brown",
     "pubDate": "Tue, 06 Aug 2024 13:00:00 +0100",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRyzIvGKHd9ZAvTa_5X3RMn_S-j3hTu9H4MzQEOg0003AEsCLyhDqwY4Xgt3AmAYfcchKXMV0ZY",
-    "news_item_snippet": "Sky Brown fell in qualifying and felt her shoulder dislodge again, but she pieced herself back together with the help of Team GB&#39;s physios to win a second&nbsp;...",
-    "news_item_url": "https://www.independent.co.uk/sport/olympics/sky-brown-olympics-2024-skateboarding-b2592203.html",
+    "news_item_snippet": "Sky Brown took bronze again for Britain in the park skateboarding at Paris as the 16-year-old overcame a fall on her dislocated shoulder.",
+    "news_item_url": "https://www.theguardian.com/sport/article/2024/aug/06/sky-brown-skateboarding-paris-olympics-team-gb",
     "picture_source": "ESPN.co.uk",
     "approx_traffic": "100,000+"
   },
   {
     "country": "United Kingdom",
-    "title": "Rangers",
-    "pubDate": "Tue, 06 Aug 2024 19:00:00 +0100",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcReGw4wu4rR4EzzvC_SXmCFstgRw6tZtv5m6GIkerrwwpG3v2V3RPv_34I05qM5m7UeM_BxI4_n",
-    "news_item_snippet": "In the 2022\u201323 season, Rangers qualified for the group stages for the first time since the 2010\u201311 season.",
-    "news_item_url": "https://www.independent.co.uk/sport/football/rangers-champions-league-philippe-clement-b2592029.html",
-    "picture_source": "Rangers Football Club",
-    "approx_traffic": "100,000+"
+    "title": "Riots London",
+    "pubDate": "Tue, 06 Aug 2024 23:00:00 +0100",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQI1GhyWU528KjEjaauaTLvfZW4Jo3-tadnP89KnM0yoJ8YeHa8inJS8jBWq1Umz_PE0EbUCw9-",
+    "news_item_snippet": "Mayor urges show of &#39;compassion&#39; as Muslims and minority ethnic residents are left fearful of planned disorder.",
+    "news_item_url": "https://www.theguardian.com/uk-news/article/2024/aug/07/sadiq-khan-calls-on-londoners-to-check-on-friends-and-neighbours-amid-rioting",
+    "picture_source": "Evening Standard",
+    "approx_traffic": "50,000+"
   },
   {
     "country": "United Kingdom",
@@ -697,6 +747,16 @@
     "news_item_snippet": "Andrea Spendolini-Sirieix won a bronze medal along with partner Lois Toulson in the women&#39;s synchronised 10m platform diving earlier in the games.",
     "news_item_url": "https://news.sky.com/story/andrea-spendolini-sirieix-in-tears-after-missing-out-on-medal-as-british-diver-admits-mental-health-battle-13192037",
     "picture_source": "The Independent",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United Kingdom",
+    "title": "Rangers",
+    "pubDate": "Tue, 06 Aug 2024 21:00:00 +0100",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcReGw4wu4rR4EzzvC_SXmCFstgRw6tZtv5m6GIkerrwwpG3v2V3RPv_34I05qM5m7UeM_BxI4_n",
+    "news_item_snippet": "In the 2022\u201323 season, Rangers qualified for the group stages for the first time since the 2010\u201311 season.",
+    "news_item_url": "https://www.independent.co.uk/sport/football/rangers-champions-league-philippe-clement-b2592029.html",
+    "picture_source": "Rangers Football Club",
     "approx_traffic": "50,000+"
   }
 ]
