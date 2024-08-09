@@ -1,32 +1,22 @@
 [
   {
     "country": "United States",
-    "title": "USA vs Serbia basketball",
-    "pubDate": "Thu, 08 Aug 2024 12:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSPOhRxuKm-WKQJbPu01hPcHwUNHu-2WN0t3ukoHTJKp25gQhgFnuEjDZ5lr451RGn8gOstXTi4",
-    "news_item_snippet": "Team USA&#39;s path through the 2024 Paris Olympics has largely been easy thus far. Yes, the Americans had to play Serbia in the opener, but their last three&nbsp;...",
-    "news_item_url": "https://www.cbssports.com/olympics/news/where-to-watch-team-usa-basketball-vs-serbia-tv-channel-time-live-stream-odds-for-2024-paris-olympics/",
-    "picture_source": "CBS News",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "United States",
     "title": "Noah Lyles",
     "pubDate": "Thu, 08 Aug 2024 12:00:00 -0700",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRllg4vSHGbj4Kv3Alphy9VsGCi5FZvtmSJoh46HHli5luDgX1NLUggOUQC-sni1uVSdiMokWKU",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcS2TTvMe4TBM2Cy6h9W-ZdGuqV0Mqgzwrkd9wW1ezDYymcY1vkk_5MCynUduu1dQSBQActH_a5z",
     "news_item_snippet": "Lyles, the clear favorite, won bronze behind his American teammate Kenneth Bednarek and Letsile Tebogo of Botswana won gold. Lyles said after the race that&nbsp;...",
     "news_item_url": "https://www.npr.org/2024/08/08/nx-s1-5068339/botswanas-letsile-tebogo-noah-lyles-olympic-gold-200-meter",
-    "picture_source": "NBC News",
-    "approx_traffic": "200,000+"
+    "picture_source": "NBC New York",
+    "approx_traffic": "500,000+"
   },
   {
     "country": "United States",
     "title": "Tropical Storm Debby",
     "pubDate": "Thu, 08 Aug 2024 06:00:00 -0700",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSoPfwrJ3nvJRNq3XVQHNQgfWIEOiiLSDuE1U15kp2RhYFQIqOO58bpxKkIffA7xLYwFz68-uyR",
-    "news_item_snippet": "After causing at least six deaths in the Southeast, Debby has weakened to a tropical depression and is still dumping rain and threatening tornadoes Thursday&nbsp;...",
-    "news_item_url": "https://www.cnn.com/2024/08/08/weather/tropical-storm-debby-landfall-forecast-thursday/index.html",
-    "picture_source": "CNN",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcS-t5nZACrMH93kQ3cw55mzM0UhDcP8RzoRiVTShDaWh3TgOkF3qqB_wRbpJtyZN4TfdAVzP6bp",
+    "news_item_snippet": "As Tropical Storm Debby continues its path northeast, FEMA advises residents in North Carolina, South Carolina and Virginia to stay informed and take&nbsp;...",
+    "news_item_url": "https://www.fema.gov/press-release/20240808/fema-continues-response-efforts-and-urges-preparedness-tropical-storm-debby",
+    "picture_source": "NBC News",
     "approx_traffic": "200,000+"
   },
   {
@@ -41,11 +31,21 @@
   },
   {
     "country": "United States",
+    "title": "Flash flood warning",
+    "pubDate": "Thu, 08 Aug 2024 16:00:00 -0700",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcT1XVO7iS8PxMx8WiotOSR1c_zT-eIe0tnnvZaGU77qUs9b2-vjCruIlWOso1YgRY-xdEkp0fhh",
+    "news_item_snippet": "The Lynchburg Police Department Emergency Communications says people should &quot;stay alert, avoid low-lying areas and never drive through flooded roads.&quot; The flash&nbsp;...",
+    "news_item_url": "https://www.wset.com/news/local/flash-flood-warning-issued-for-lynchburg-surrounding-areas",
+    "picture_source": "WTOC",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "United States",
     "title": "Borderlands movie",
     "pubDate": "Thu, 08 Aug 2024 11:00:00 -0700",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRkX3r0u1rEAy1-bl3us7ELz70vPdVDIewH_thZDlVsAvOSz1KNHTU4TUHYxMPc6ODCg_J85w8V",
-    "news_item_snippet": "The Cate Blanchett, Kevin Hart, and Jamie Lee Curtis video game flick isn&#39;t just bad, it&#39;s depressing.",
-    "news_item_url": "https://kotaku.com/borderlands-movie-review-rotten-tomatoes-cast-release-1851616912",
+    "news_item_snippet": "It is simply, by all appearances, a truly and extremely bad movie. It holds a remarkable 3% approval on aggregator Rotten Tomatoes as of press time. Without&nbsp;...",
+    "news_item_url": "https://www.pcgamer.com/movies-tv/critic-reviews-of-the-borderlands-movie-are-absolutely-savage/",
     "picture_source": "Forbes",
     "approx_traffic": "100,000+"
   },
@@ -54,58 +54,68 @@
     "title": "Japan earthquake",
     "pubDate": "Thu, 08 Aug 2024 07:00:00 -0700",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQUdmPuAZSZae-6erzx7AGMUGJdat-Qj1-raRu3GQDGW9K9p7142C3BMgDkTLmhfI4BRVdSpxFy",
-    "news_item_snippet": "A magnitude 7.1 earthquake rocked parts of Japan Thursday, prompting officials to issue a Tsunami Advisory, and scientists are now warning that an even&nbsp;...",
-    "news_item_url": "https://www.foxweather.com/extreme-weather/japan-earthquake-tsunami-advisory-august-2024",
+    "news_item_snippet": "TOKYO (AP) \u2014 A powerful earthquake struck off southern Japan on Thursday, causing mostly minor injuries but raising the level of concern over possible major&nbsp;...",
+    "news_item_url": "https://apnews.com/article/japan-earthquake-tsunami-advisory-a4fe5ee1b2b347874780c3319c03561a",
     "picture_source": "CBS News",
-    "approx_traffic": "50,000+"
+    "approx_traffic": "100,000+"
   },
   {
     "country": "United States",
     "title": "Umbrella Academy",
     "pubDate": "Thu, 08 Aug 2024 11:00:00 -0700",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcS6WSSOamdPv38BIvui9ACR_eFou0XaP5Xb_PpRGVxwZhn0ZdY5Cg8JQ4Q0XVCaSzRGXzBeyNd9",
-    "news_item_snippet": "It looks like we&#39;ll have to wait a bit longer to find out what the Jennifer Incident is and how Ben died, but it sure seems to be shaping up to be the final&nbsp;...",
-    "news_item_url": "https://www.vulture.com/article/the-umbrella-academy-recap-season-4-episode-3.html",
+    "news_item_snippet": "&#39;Umbrella Academy&#39; showrunner Steve Blackman explains the season four series finale, talks possible spinoffs and allegations from former writers.",
+    "news_item_url": "https://www.hollywoodreporter.com/tv/tv-news/umbrella-academy-series-finale-ending-spinoffs-1235969494/",
     "picture_source": "Slate Magazine",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Alysha Newman",
-    "pubDate": "Thu, 08 Aug 2024 02:00:00 -0700",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTlrCGuoJl4c4E2v2wW3nohzWSaqKfb0wOnllpHPE71ltUpPUIiqQeIXp8IP0DZ_lOgDIVILTq-",
-    "news_item_snippet": "Alysha Newman, one of a growing group of athletes to run OnlyFans accounts, caused controversy on Wednesday after celebrating an Olympic pole vaulting&nbsp;...",
-    "news_item_url": "https://www.yahoo.com/entertainment/onlyfans-athlete-alysha-newman-sparks-091804875.html",
-    "picture_source": "New York Post",
     "approx_traffic": "50,000+"
   },
   {
     "country": "United States",
     "title": "Gabriel Olds",
     "pubDate": "Thu, 08 Aug 2024 11:00:00 -0700",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcT6dnXq7WLV2V80FSjUXucq4pV-DMdKtoFpZd3ZTLP8LPIUlBjQDHy4Mbq585w1sqRTU9Lweg0O",
-    "news_item_snippet": "Actor Gabriel Olds has been arrested and charged with multiple violent sexual assaults, according to Los Angeles police, and investigators say they are&nbsp;...",
-    "news_item_url": "https://www.latimes.com/california/story/2024-08-08/actor-gabriel-olds-charged-with-7-felony-sexual-assault-counts",
-    "picture_source": "The New York Times",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSPYSdB4rhHJ0da-JE9yDmNzMieNFcoSf5V78i_RVsvTgW_e4BbCOQ3qAVGx3iVBIqM4zDGcXS8",
+    "news_item_snippet": "Gabriel Olds, who played the Christian broadcaster Pat Robertson in the 2021 movie \u201cThe Eyes of Tammy Faye,\u201d has been accused of sexually assaulting three&nbsp;...",
+    "news_item_url": "https://www.nytimes.com/2024/08/08/us/gabriel-olds-actor-sexual-assault.html",
+    "picture_source": "Los Angeles Times",
     "approx_traffic": "50,000+"
   },
   {
     "country": "United States",
-    "title": "Heptathlon",
-    "pubDate": "Thu, 08 Aug 2024 12:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSFfBl6iym5wcf58rc3QxleP0yh7uUVt60-EEmKOg-wlm8PWgJMkgBHUWZrn5WW7lhnK_Ix6qHA",
-    "news_item_snippet": "Follow this page for updates on how Wichita Falls native Taliyah Brooks is faring during the women&#39;s heptathlon competition at the 2024 ParisOlympics.",
-    "news_item_url": "https://www.timesrecordnews.com/story/sports/2024/08/08/taliyah-brooks-2024-olympic-games-womens-heptathlon-results/74715898007/",
-    "picture_source": "Reuters",
+    "title": "France vs Germany basketball",
+    "pubDate": "Thu, 08 Aug 2024 11:00:00 -0700",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQ9BeIiWjhO6JctP7d5PcxJj4aMJZknuXkfNxoaQYpv-LGb-w-MnHxZrw4GUOQaeEfY2E9lBfG_",
+    "news_item_snippet": "France earned a 73-69 win over Germany on Thursday in the Olympic men&#39;s basketball semifinals.",
+    "news_item_url": "https://www.oklahoman.com/story/sports/olympics/2024/08/08/germany-france-live-updates-score-highlights-2024-paris-olympics-team-usa-basketball/74715180007/",
+    "picture_source": "The Associated Press",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Trump press conference today",
+    "pubDate": "Thu, 08 Aug 2024 13:00:00 -0700",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQSvxHDOrCX24RTuQZrv5-uvrB-mvwEQJB_5-WKoacNn4n29q9sfsSuLUDV2vbBNkgMW8GTeLST",
+    "news_item_snippet": "Donald Trump has recommitted to debating Vice President Kamala Harris after recently backing out.",
+    "news_item_url": "https://apnews.com/article/trump-harris-news-conference-florida-election-2024-94b590ddf0434d9ea7b1241396dbbcc6",
+    "picture_source": "BBC News",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
+    "title": "International Cat Day",
+    "pubDate": "Thu, 08 Aug 2024 09:00:00 -0700",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcS7gCBAHoJ7XVVgwTGaqgwcgQ-NlfL5AZGLyiDOY44KwRTYWz5oLtxnVSNqMhyqsTTlIUG0IJF0",
+    "news_item_snippet": "On this International Cat Day, we celebrate pet owners. Did you know there are more households with pets than children? These beloved pets are a driver of a&nbsp;...",
+    "news_item_url": "https://www.nar.realtor/blogs/economists-outlook/a-stunning-stat-for-international-cat-day-there-are-more-american-households-with-pets-than-children",
+    "picture_source": "nar.realtor",
     "approx_traffic": "50,000+"
   },
   {
     "country": "United States",
     "title": "Taylor Swift",
     "pubDate": "Wed, 07 Aug 2024 15:00:00 -0700",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTk2m1MMvLo0qSMjPr0Dp1gAva_oKr2HqcWXsmQVdzYZLXWHWmqRkTAAf134ircflvWlwCNB_gB",
-    "news_item_snippet": "Austrian authorities say both suspects in a foiled plot to attack Taylor Swift shows in Vienna appeared to be inspired by the Islamic State group and&nbsp;...",
-    "news_item_url": "https://abcnews.go.com/International/wireStory/3-taylor-swift-concerts-vienna-canceled-fears-attack-112668682",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcT9RMij24OfNvcz71md_bpuBfJ6NY3ETlQjmdkyLacSPe4Sw4BT9nC40rjyXlZXhx_Fu4oT41VF",
+    "news_item_snippet": "An Austrian teenager arrested over an alleged plot to strike a Taylor Swift concert in Vienna planned to carry out a suicide attack that would have caused a&nbsp;...",
+    "news_item_url": "https://www.reuters.com/world/europe/austria-finds-chemicals-house-suspected-taylor-swift-concert-attack-plotter-2024-08-08/",
     "picture_source": "CNN",
     "approx_traffic": "200,000+"
   },
@@ -114,50 +124,20 @@
     "title": "Angelman syndrome",
     "pubDate": "Wed, 07 Aug 2024 08:00:00 -0700",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRLgoJ9jjENryXSYPO-2RenzcQnTnLB2-g45sOwtTz6UjO9EgJ5HIJ9eLHzUqMuzf05BX01kw9r",
-    "news_item_snippet": "Angelman syndrome treatment ION582 was well tolerated and was found to improve patients&#39; symptoms, Phase 1/2 trial data showed.",
-    "news_item_url": "https://angelmansyndromenews.com/news/angelman-syndrome-treatment-ion582-eases-symptoms-trial-data/",
+    "news_item_snippet": "Angelman syndrome is a rare genetic disorder with no cure. It can cause developmental, physical and intellectual delays.",
+    "news_item_url": "https://www.usatoday.com/story/life/health-wellness/2024/08/08/colin-farrell-foundation-what-is-angelman-syndrome/74716335007/",
     "picture_source": "The Washington Post",
     "approx_traffic": "200,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Tim Walz military service",
-    "pubDate": "Wed, 07 Aug 2024 00:00:00 -0700",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRV2uw37echR8yd_jBw5DldYHpXhGytGUJmcLxYtWfFftXcWMt18R7ZKBkGGHdtF1LMoD7qYTlJ",
-    "news_item_snippet": "The update comes a day after Republicans escalated attacks on his record in the Army National Guard, accusing Walz of inflating his rank at retirement.",
-    "news_item_url": "https://www.politico.com/news/2024/08/08/harris-walz-military-credentials-00173236",
-    "picture_source": "NPR",
-    "approx_traffic": "100,000+"
   },
   {
     "country": "United States",
     "title": "Nelly",
     "pubDate": "Wed, 07 Aug 2024 16:00:00 -0700",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQTmLoatwX05JmV2lwIfKt_ASd2RiYW5FzBYmQV-Ot6gjfZwOLYHh3v6_wynxek7gTy-JQ_FTbN",
-    "news_item_snippet": "Rapper Nelly was arrested Wednesday for a previously issued citation, according to the Missouri State Highway Patrol. On Wednesday, Nelly, whose real name&nbsp;...",
-    "news_item_url": "https://abc7.com/post/nelly-arrested-alleged-prior-incident/15156861/",
+    "news_item_snippet": "Nelly was arrested in his home state of Missouri early Wednesday, according to the state highway patrol.",
+    "news_item_url": "https://www.latimes.com/entertainment-arts/music/story/2024-08-08/nelly-arrested-st-louis-possession-ecstasy",
     "picture_source": "KSDK.com",
     "approx_traffic": "100,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Kursk",
-    "pubDate": "Wed, 07 Aug 2024 14:00:00 -0700",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSZxEvjmOcHwyIPOewcEmFspLIuvygwb_bjwM0MY-_OSDm-ecWM6XjveJ_45wuHYd8fMvZ0uBF3",
-    "news_item_snippet": "Russia&#39;s Defense Ministry says the country&#39;s troops are fighting Ukrainian forces in the Kursk region on the third day of one of the largest cross-border&nbsp;...",
-    "news_item_url": "https://abcnews.go.com/International/wireStory/russian-official-kursk-region-fighting-continues-ukraine-incursion-112669935",
-    "picture_source": "CNN",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Kenny Bednarek",
-    "pubDate": "Wed, 07 Aug 2024 13:00:00 -0700",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQhCfcrzf4kuPL4MGQ6bmTLwA3EytVlcsd3EhpCN0iRigmHDz7gqgPc2iuv2iQXUtlJk0A1crZy",
-    "news_item_snippet": "Kenny Bednarek, who attended Indian Hills Community College in Iowa, won the silver medal in the men&#39;s 200m for Team USA in the 2024 Paris Olympics.",
-    "news_item_url": "https://www.desmoinesregister.com/story/sports/olympics/2024/08/08/kenny-bednarek-200m-wins-silver-medal-2024-olympics-paris-team-usa-track/74723993007/",
-    "picture_source": "WEAU",
-    "approx_traffic": "50,000+"
   },
   {
     "country": "India",
@@ -167,7 +147,17 @@
     "news_item_snippet": "Breaking begins at the 2024 Olympics on August 9. Need a breakdown? What to know about the sport, including why it&#39;s not called \u201cbreakdancing,&#39; the live&nbsp;...",
     "news_item_url": "https://www.vulture.com/article/2024-olympics-breaking-breakdancing-sport-schedule.html",
     "picture_source": "Olympics",
-    "approx_traffic": "100,000+"
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "India",
+    "title": "Sobhita Dhulipala",
+    "pubDate": "Thu, 08 Aug 2024 09:30:00 +0530",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSDe5NP7f6BR_EFk8-IbTPqQwVaTfPPD0Bzhp8p1mx0RSN2Og2dDXG5eGmPPm9Z58fqIbczsrBo",
+    "news_item_snippet": "The couple, who have been linked since Chaitanya&#39;s separation from Samantha Ruth Prabhu in 2021, had their relationship highlighted by shared pictures from&nbsp;...",
+    "news_item_url": "https://m.economictimes.com/magazines/panache/who-is-sobhita-dhulipala-is-naga-chaitanya-getting-engaged-to-the-actress-today/articleshow/112362176.cms",
+    "picture_source": "Business Standard",
+    "approx_traffic": "500,000+"
   },
   {
     "country": "India",
@@ -177,16 +167,6 @@
     "news_item_snippet": "Butlers \u2013 which has been the Official Chocolate Partner for Cricket Ireland since 2022 \u2013 will become the side of shirt sponsor of Ireland Women for the&nbsp;...",
     "news_item_url": "https://cricketireland.ie/butlers-chocolates-sweeten-relationship-with-cricket-ireland/",
     "picture_source": "ECB.co.uk",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "India",
-    "title": "Neeraj Chopra match time",
-    "pubDate": "Thu, 08 Aug 2024 15:30:00 +0530",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSVgF8-WiZ0vSSyjjQ2hFUwXoZWHgVhTtZ4fgGtmqpS0-57BaHPvePsIlavEGxbK3leC9UiEaiU",
-    "news_item_snippet": "TECH TIPS News: Neeraj Chopra, World Championships gold medallist, is preparing to defend his title at Paris Olympics 2024. With an impressive 89.34-metre&nbsp;...",
-    "news_item_url": "https://timesofindia.indiatimes.com/technology/tech-tips/neeraj-chopras-javelin-final-in-paris-olympics-2024-know-how-to-watch-time-and-other-details/articleshow/112372929.cms",
-    "picture_source": "Jagran Josh",
     "approx_traffic": "200,000+"
   },
   {
@@ -201,32 +181,12 @@
   },
   {
     "country": "India",
-    "title": "ICC",
-    "pubDate": "Thu, 08 Aug 2024 09:30:00 +0530",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSsa6iIfBvoZNTZxTiup8duQQOPeDJZD7fsPiNn_Wvfbx-WVnNpYVDxePQIUZk9ieMXKPz7BJhd",
-    "news_item_snippet": "Sri Lankan spinner Praveen Jayawickrama has been charged with three counts of breaching the ICC anti-corruption code, including failure to report&nbsp;...",
-    "news_item_url": "https://sportstar.thehindu.com/cricket/sri-lanka-praveen-jayawickrama-charged-for-breaching-icc-anti-corruption-code/article68500392.ece",
-    "picture_source": "ICC Cricket",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "India",
-    "title": "Naga Chaitanya engagement",
-    "pubDate": "Thu, 08 Aug 2024 10:30:00 +0530",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcT33tIr3IXjuTzfXLc-pOfP9VIM71wX-io5eYz_tpAyK-zoIkLfcmNNu-L_LOkiOyuenXIuValD",
-    "news_item_snippet": "Actors Naga Chaitanya and Sobhita Dhulipala are now engaged. South superstar Nagarjuna shared photos from the occasion.",
-    "news_item_url": "https://www.indiatoday.in/movies/regional-cinema/story/naga-chaitanya-gets-engaged-to-sobhita-dhulipala-nagarjuna-shares-pics-2578992-2024-08-08",
-    "picture_source": "Economic Times",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "India",
-    "title": "Waqf Board",
-    "pubDate": "Thu, 08 Aug 2024 12:30:00 +0530",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQa7SdDGkxvtm__05S-gVoExm9e2gKA5RvS7KOd8URTBrb4yli4Y2Siqz_5FYhZMMMYkURSQ1iD",
-    "news_item_snippet": "India news, Waqf Board Bill news: Union Minority Affairs Minister Kiren Rijiju on Thursday said the Waqf (Amendment) Bill does not intend to interfere with&nbsp;...",
-    "news_item_url": "https://www.deccanherald.com/india/waqf-board-bill-referred-to-joint-parliamentary-committee-amid-demand-for-wider-scrutiny-3142591",
-    "picture_source": "Business Today",
+    "title": "NEET PG 2024",
+    "pubDate": "Thu, 08 Aug 2024 15:30:00 +0530",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQghexdYcLw0h6bfyFTfs8arSXyE0gqLYKma_MSnOmKNTqoDfnY5l7mkJbCZ_9pVCnz_jtT2A4p",
+    "news_item_snippet": "The petitioners submitted that more than two lakh students are scheduled to appear in the examination.",
+    "news_item_url": "https://www.business-standard.com/india-news/sc-to-hear-petition-seeking-postponement-of-neet-pg-2024-exam-on-aug-9-124080800583_1.html",
+    "picture_source": "The Hindu",
     "approx_traffic": "50,000+"
   },
   {
@@ -247,6 +207,46 @@
     "news_item_snippet": "A tsunami has reached Japan&#39;s southwestern Miyazaki prefecture following two powerful earthquakes on Thursday. The earthquakes, with magnitudes of 6.9 and&nbsp;...",
     "news_item_url": "https://m.economictimes.com/news/international/world-news/quake-with-6-9-magnitude-hits-western-japan-tsunami-alerts-issued-nhk/articleshow/112369760.cms",
     "picture_source": "The Hindu",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "India",
+    "title": "Neeraj Chopra",
+    "pubDate": "Wed, 07 Aug 2024 22:30:00 +0530",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRukxyiONAF7geb3Lzldsm2IUHK7RcZmwOqUzsVLWerSMJfcbPikRddjAnH209Gl69LbFxk695p",
+    "news_item_snippet": "Pakistan&#39;s Arshad Nadeem created Olympic record with a monstrous throw of 92.97 metres and clinched the Gold medal.",
+    "news_item_url": "https://www.business-standard.com/sports/olympics/olympics-2024-neeraj-chopra-wins-silver-medal-pakistan-s-nadeem-wins-gold-124080801781_1.html",
+    "picture_source": "Olympic Channel",
+    "approx_traffic": "2,000,000+"
+  },
+  {
+    "country": "India",
+    "title": "India match",
+    "pubDate": "Wed, 07 Aug 2024 07:30:00 +0530",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTcLAFYXBX_mhBaYknLioQiLMTX1upS4jLI_9vlh7vBITK_er_ogmhAU8r6CbjOjSIKNLzy3SAv",
+    "news_item_snippet": "Harmanpreet Singh-led Indian Hockey team may have missed the chance to win gold medal in the ongoing Paris Olympics, but the hope for bronze medal is still&nbsp;...",
+    "news_item_url": "https://www.livemint.com/sports/olympics-news/india-vs-spain-live-updates-hockey-bronze-medal-match-paris-olympics-2024-ind-vs-esp-8-aug-harmanpreet-amit-alejandro-11723113270152.html",
+    "picture_source": "Sportstar",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "India",
+    "title": "Aman Sehrawat",
+    "pubDate": "Wed, 07 Aug 2024 22:30:00 +0530",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcT9cbM5LVyKW4wbodppcvw651DNCqi8UzqSRAOf4sLANs-YjSRo9cvzJp3PeunhVH78VwrAX9Ro",
+    "news_item_snippet": "Aman will next up be fighting against Japanese wrestler Rei Higuchi in the semi-final later tonight. Aman has advanced to the semifinals of the ongoing contest&nbsp;...",
+    "news_item_url": "https://www.businesstoday.in/sports/olympics/story/aman-sehrawat-qualifies-for-semifinals-in-mens-57-kg-freestyle-wrestling-at-paris-olympics-440720-2024-08-08",
+    "picture_source": "The Hindu",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "Australia",
+    "title": "Breaking Olympics",
+    "pubDate": "Fri, 09 Aug 2024 01:00:00 +1000",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRXNRr_4lnu65fW7Fa1xRiGwNPJj8qNj7bd2h2sWKCTbr75Hs5A8_RQkQrHfUW8JUd8z1rR4Im4",
+    "news_item_snippet": "Breaking begins at the 2024 Olympics on August 9. Need a breakdown? What to know about the sport, including why it&#39;s not called \u201cbreakdancing,&#39; the live&nbsp;...",
+    "news_item_url": "https://www.vulture.com/article/2024-olympics-breaking-breakdancing-sport-schedule.html",
+    "picture_source": "Olympics",
     "approx_traffic": "50,000+"
   },
   {
@@ -271,22 +271,52 @@
   },
   {
     "country": "Brazil",
-    "title": "Goias",
+    "title": "Volei feminino olimpiadas",
+    "pubDate": "Thu, 08 Aug 2024 10:00:00 -0500",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSreBe7Pav9s600uAP6cdvDWO8ZpJy99ia_8dQhf3HlM1qDnqxozxhAL3uol6lfrKhj7pBxRMlf",
+    "news_item_snippet": "Semifinal de Olimp\u00edadas \u00e9 momento de tens\u00e3o. Foi assim para Brasil x Estados Unidos no v\u00f4lei de quadra feminino. Valendo vaga e medalha, a partida que foi&nbsp;...",
+    "news_item_url": "https://ge.globo.com/olimpiadas/noticia/2024/08/08/brasil-x-estados-unidos-no-volei-feminino-rende-memes.ghtml",
+    "picture_source": "ESPN.com.br",
+    "approx_traffic": "500,000+"
+  },
+  {
+    "country": "Brazil",
+    "title": "Sao Paulo",
     "pubDate": "Thu, 08 Aug 2024 05:00:00 -0500",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRPMgixH9e4G9Oe_twPqTHYZGRpjBoeAcwPC3bHs6VTuwWYAQQMKjRxcMSKtW0-rp7a7AjPEAtP",
-    "news_item_snippet": "Na partida de ida da Copa do Brasil, o time do S\u00e3o Paulo se imp\u00f4s jogando em casa, e com um a mais desde os 35 minutos da primeira etapa, conquistou uma vit\u00f3ria&nbsp;...",
-    "news_item_url": "https://www.gazetaesportiva.com/apostas/prognosticos/futebol/goias-x-sao-paulo-08-08-2024",
+    "news_item_snippet": "No jogo de ida, na \u00faltima semana, no Morumbis, o S\u00e3o Paulo venceu por 2 a 0, com gols marcados por Luciano e Calleri. Agora, o tricolor paulista pode at\u00e9 perder&nbsp;...",
+    "news_item_url": "https://cultura.uol.com.br/esporte/noticias/2024/08/08/8541_goias-x-sao-paulo-saiba-horario-e-onde-assistir-ao-jogo-da-copa-do-brasil.html",
     "picture_source": "globoesporte.com",
+    "approx_traffic": "500,000+"
+  },
+  {
+    "country": "Brazil",
+    "title": "Gold",
+    "pubDate": "Thu, 08 Aug 2024 12:00:00 -0500",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcR6lt28YRxX0Ar-luTesrazlZnjl4Auy3L5iUG1G4bzpeq0LjCHxKmbFMmtswK3M05oSjtkdw6F",
+    "news_item_snippet": "Recentemente, tr\u00eas jogadores foram at\u00e9 o GGPoker e deram o buy-in de US$ 1 no Spin &amp; Gold, vendo o multiplicador m\u00e1ximo aparecer.",
+    "news_item_url": "https://superpoker.com.br/noticias/de-us-1-a-us-100-mil-mao-sem-escape-define-spin-and-gold-incrivel",
+    "picture_source": "SuperPoker",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Brazil",
+    "title": "Assim que acaba filme",
+    "pubDate": "Thu, 08 Aug 2024 08:00:00 -0500",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcR10dZek5muxOHavT7jaySRMigmbIfMpduMOzxPS3euiGDS0vn8f1EyYd1MScreU4minEVRbSIh",
+    "news_item_snippet": "Esperada adapta\u00e7\u00e3o do sucesso liter\u00e1rio de Colleen Hoover estreia nesta quinta nos cinemas brasileiros.",
+    "news_item_url": "https://g1.globo.com/pop-arte/noticia/2024/08/08/e-assim-que-acaba-best-seller-vira-filme-com-trama-novela-e-temas-delicados.ghtml",
+    "picture_source": "TV Cultura",
     "approx_traffic": "50,000+"
   },
   {
     "country": "Canada",
     "title": "Neeraj Chopra",
     "pubDate": "Thu, 08 Aug 2024 13:00:00 -0400",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRk2dYDCLVuYGPHgT7EGSKfgXoiHbm8PvbqjcbBEf2ElFPUCVC3OQIFwu04vATKQcNoU2bOBmHl",
-    "news_item_snippet": "All our updates and results from the athletics finals on day 13 of the Olympics at Stade de France.",
-    "news_item_url": "https://www.aljazeera.com/sports/liveblog/2024/8/8/live-paris-olympics-indias-neeraj-pakistans-arshad-in-javelin-final",
-    "picture_source": "The Hindu",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTADzk9OZgiUANs4RQaqRebqcYvPdCBaPSssSPRCD9j9pw3gK0CGc0zak39floYKi_eotGlLRtG",
+    "news_item_snippet": "Paris Olympics: Neeraj Chopra signs off with silver, while Pakistan&#39;s Arshad Nadeem bosses the field with a new Olympics record of 92.97m.",
+    "news_item_url": "https://www.thehindu.com/sport/olympics/pakistans-arshad-nadeem-snares-gold-with-new-olympic-record-neeraj-chopra-takes-silver/article68503299.ece",
+    "picture_source": "Toronto Star",
     "approx_traffic": "50,000+"
   },
   {
@@ -304,8 +334,8 @@
     "title": "\ud55c\uc9c0\ubbfc",
     "pubDate": "Thu, 08 Aug 2024 12:00:00 +0900",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQw-O5eaT3t3Mzyf7K-zpRidT2cgBJuq3_l1IgAVxU-BMOPY7KpV7HeKiZzb5m8j8RjBeF1muoo",
-    "news_item_snippet": "\ubc30\uc6b0 \ud55c\uc9c0\ubbfc\uacfc \uadf8\ub8f9 \uc794\ub098\ube44\uc758 \ucd5c\uc815\ud6c8\uc774 \uc5f4\uc560 \uc911\uc785\ub2c8\ub2e4. \ub450 \uc0ac\ub78c\uc758 \uc18c\uc18d\uc0ac\ub294 \uc624\ub298(8\uc77c) \uc5f4\uc560\uc124\uc5d0 \ub300\ud574 &quot;\uad50\uc81c\ud558\ub294 \uac8c \ub9de\ub2e4. \ucd5c\uadfc \uc5f0\uc778\uc774 \ub410\ub2e4&quot;\uace0 \uc778\uc815\ud588\uc2b5\ub2c8\ub2e4. \ub450 \uc0ac\ub78c\uc740&nbsp;...",
-    "news_item_url": "https://www.yonhapnewstv.co.kr/news/MYH20240808017700641",
+    "news_item_snippet": "\ub300\ud55c\ubbfc\uad6d \uc624\ud6c4\ub97c \uc5ec\ub294 \uc720\uc77c\uc11d\uac04 \ubb38\ud654\uc77c\ubcf4 munhwa.com - 10\ub144\uc758 \ub098\uc774\ucc28\ub97c \uadf9\ubcf5\ud55c \uc5f0\uc0c1\uc5f0\ud558 \ucee4\ud50c\uc774 \ud0c4\uc0dd\ud588\ub2e4. \ubc30\uc6b0 \ud55c\uc9c0\ubbfc(42)\uacfc \ubc34\ub4dc \uc794\ub098\ube44\uc758 \ubcf4\uceec \ucd5c\uc815\ud6c8(32)\uc774 \uadf8&nbsp;...",
+    "news_item_url": "https://www.munhwa.com/news/view.html?no=2024080801039912069008",
     "picture_source": "\ud55c\uaca8\ub808",
     "approx_traffic": "50,000+"
   },
@@ -331,7 +361,7 @@
   },
   {
     "country": "France",
-    "title": "Maroc-Egypte",
+    "title": "Maroc Egypte",
     "pubDate": "Thu, 08 Aug 2024 08:00:00 +0200",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQbdb1ztk4qtjmjLJK-Ps6jeS4OGmUABAC3rymso2xmJdFFIhSbs0ChCEejueBbHCY4kTtg_a-j",
     "news_item_snippet": "Le Maroc s&#39;impose facilement contre l&#39;Egypte, totalement aux abois. Men\u00e9s de deux buts, l&#39;Egypte a jou\u00e9 plus offensif en seconde p\u00e9riode et s&#39;est pris but&nbsp;...",
@@ -344,7 +374,7 @@
     "title": "Pentathlon moderne",
     "pubDate": "Thu, 08 Aug 2024 11:00:00 +0200",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQA_8bwrXkX9JQr_wtSO2UVsw4tIWgNNh3z-lYUn1KhkS6y2KDprUvOKP-oDdjPVo4LEjBf4Bft",
-    "news_item_snippet": "La Fran\u00e7aise, vice-championne olympique \u00e0 Rio en 2016, a termin\u00e9 avec un taux de succ\u00e8s exceptionnel (27 victoires contre 8 d\u00e9faites). De quoi aborder les demi-&nbsp;...",
+    "news_item_snippet": "\u00c9lodie Clouvel a bien d\u00e9but\u00e9 ses JO de Paris en dominant ce jeudi l&#39;\u00e9preuve de classement d&#39;escrime, sorte de mini-tournoi d&#39;une minute en une seule touche&nbsp;...",
     "news_item_url": "https://www.lequipe.fr/Jo-2024-paris/Pentathlon-moderne/Actualites/Elodie-clouvel-en-forme-a-l-escrime-pour-la-premiere-journee-du-pentathlon-moderne-aux-jo-de-paris-2024/1489835",
     "picture_source": "France Bleu",
     "approx_traffic": "50,000+"
@@ -353,10 +383,10 @@
     "country": "Germany",
     "title": "Mihambo",
     "pubDate": "Thu, 08 Aug 2024 21:00:00 +0200",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcR9qYf9rmldR7Fh2Pd9khvGxbUX5E2jEYcNwWwS-JI1W80ihwuTac_K-O75eA11eX2QhI-DNMrh",
-    "news_item_snippet": "Nach Gold 2021 in Tokio kann Weitspringerin Malaika Mihambo bei den Spielen von Paris den Olympiasieg nicht wiederholen. Die Sechste von damals gewinnt.",
-    "news_item_url": "https://www.schwarzwaelder-bote.de/inhalt.leichtathletik-mihambo-gewinnt-olympia-silber-im-weitsprung.b57a9971-db11-4722-940f-7f2aa1e2d626.html",
-    "picture_source": "BNN - Badische Neueste Nachrichten",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRzMLZ-UG_5j4lJXtSGHCBDLk5AGYbcG4THSG0NdgeRI762dOCHSzUD_gVdKI7H9FUEXQ4IvmAt",
+    "news_item_snippet": "Nach Gold 2021 in Tokio kann Weitspringerin Malaika Mihambo bei den Spielen von Paris den Olympiasieg nicht wiederholen. Die Sechste von damals gewinnt in Paris&nbsp;...",
+    "news_item_url": "https://bnn.de/nachrichten/deutschland-und-welt/mihambo-springt-zu-silber-weber-ohne-olympia-medaille",
+    "picture_source": "General-Anzeiger Bonn",
     "approx_traffic": "50,000+"
   },
   {
@@ -371,11 +401,11 @@
   },
   {
     "country": "Germany",
-    "title": "Taylor Swift",
+    "title": "Taylor-Swift",
     "pubDate": "Wed, 07 Aug 2024 23:00:00 +0200",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQFsMVkzUf4OXx9PC9Pe1cXTZR5vIIGwvm_8bjgoR002OlrplHE5AjbUJ02f7CRBQ7k_WvdmDl3",
-    "news_item_snippet": "Offenbar planten IS-Anh\u00e4nger einen Anschlag auf Konzerte von Taylor Swift \u2013 was derzeit \u00fcber die Verd\u00e4chtigen bekannt ist.",
-    "news_item_url": "https://www.musikexpress.de/geplanter-anschlag-auf-taylor-swift-is-anhaenger-auf-der-flucht-2740619/",
+    "news_item_snippet": "Alle drei Wien-Konzerte von Taylor Swift sind am Mittwochabend wegen Sicherheitsbedenken abgesagt worden. Gedanken eines \u201eSwiftie\u201c.",
+    "news_item_url": "https://www.profil.at/kultur/taylor-swift-in-wien-ueber-das-konzert-das-nicht-war/402934141",
     "picture_source": "tagesschau.de",
     "approx_traffic": "200,000+"
   },
@@ -431,6 +461,16 @@
   },
   {
     "country": "Italy",
+    "title": "Pallavolo femminile Olimpiadi",
+    "pubDate": "Thu, 08 Aug 2024 14:00:00 +0200",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSmoU9XfFwBzFovkV_qqN-IBvrOvsD-H32qSqE5wKQFWhjoauNE2GXoZq9uZJWYEtFuT3E8M2zN",
+    "news_item_snippet": "Prima storica finale olimpica per l&#39;Italia del volley femminile. Le ragazze allenate da Julio Velasco superano la Turchia in semifinale con i parziali di&nbsp;...",
+    "news_item_url": "https://sport.sky.it/olimpiadi/2024/08/08/italia-turchia-olimpiadi-2024-risultato-set",
+    "picture_source": "Vogue.it",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "Italy",
     "title": "Ginnastica ritmica Olimpiadi 2024",
     "pubDate": "Thu, 08 Aug 2024 09:00:00 +0200",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTjvnhhwgRBTQh1WbJ1wokCHyfT6QT3rH4QMEt5W8uY2CDKLRbKTmRKqdwkJo8YYWBcehBOUUDD",
@@ -451,6 +491,16 @@
   },
   {
     "country": "Italy",
+    "title": "Borna \u0106ori\u0107",
+    "pubDate": "Thu, 08 Aug 2024 22:00:00 +0200",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSENm26o-5xO64gZU17ZfDjAqpFlWOScP4BTruhOWgUQigezIDB44-oMegLjFGfDdDfnY9VnWyR",
+    "news_item_snippet": "Jannik Sinner fa il suo esordio vincente al Masters 1000 di Montreal. Battuto con il punteggio di 6-2 6-4 il croato Borna Coric nel pomeriggio del torneo.",
+    "news_item_url": "https://www.oasport.it/2024/08/jannik-sinner-fa-il-suo-esordio-vincente-a-montreal-borna-coric-battuto-facilmente-in-due-set/",
+    "picture_source": "Sky Sport",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "Italy",
     "title": "Zanicchi",
     "pubDate": "Thu, 08 Aug 2024 14:00:00 +0200",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcStyHbs9P8_V6qT5J9SU6M5exI3aVTDOCU2UyheLV74MxCifha59CU6ZFtbZ4n8720X3D0hZ-wB",
@@ -460,44 +510,14 @@
     "approx_traffic": "50,000+"
   },
   {
-    "country": "Italy",
-    "title": "Borna \u0106ori\u0107",
-    "pubDate": "Thu, 08 Aug 2024 22:00:00 +0200",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcR3WJ0hCxtATOcl3ecEWTFjFBE3joorLAEaTh2m0hAaC7jh_cU-G6BHq_VKXOy2UXoNZkXugD26",
-    "news_item_snippet": "Jannik Sinner fa il suo esordio vincente al Masters 1000 di Montreal. Battuto con il punteggio di 6-2 6-4 il croato Borna Coric nel pomeriggio del torneo.",
-    "news_item_url": "https://www.oasport.it/2024/08/jannik-sinner-fa-il-suo-esordio-vincente-a-montreal-borna-coric-battuto-facilmente-in-due-set/",
-    "picture_source": "Sky Sport",
-    "approx_traffic": "50,000+"
-  },
-  {
     "country": "Mexico",
-    "title": "Osmar Olvera",
+    "title": "Medallero mexico",
     "pubDate": "Thu, 08 Aug 2024 09:00:00 -0600",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTHV61iNcsHkLpcxcnzstwF25X-mWimFZO-RzfLJvUYv7GRPMFvZJMgvU2BryAnu-Zj75j07jwR",
-    "news_item_snippet": "El clavadista mexicano Osmar Olvera conquist\u00f3 el jueves su segunda medalla en los Juegos Ol\u00edmpicos de Par\u00eds al ganar un bronce en el trampol\u00edn individual de&nbsp;...",
-    "news_item_url": "https://www.latimes.com/espanol/deportes/articulo/2024-08-08/mexicano-olvera-gana-bronce-en-clavados-su-2da-medalla-en-los-juegos-olimpicos-de-paris",
-    "picture_source": "ESPN Deportes",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQq4EBEiGOg-mBA1m11h-CGZipQlkfFCO-UOVeI1zR-D1ATUJfKVSS7cA3xRqZ6zLD0GbaohULg",
+    "news_item_snippet": "Descubre aqu\u00ed los resultados y medallas de la final de trampol\u00edn de 3 metros de clavados en los Juegos Ol\u00edmpicos de Par\u00eds 2024.",
+    "news_item_url": "https://olympics.com/es/noticias/clavados-mexico-juegos-olimpicos-osmar-olvera-pleno-medallas-paris-2024",
+    "picture_source": "El Financiero",
     "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Mexico",
-    "title": "Escalada deportiva combinada Olimpiada",
-    "pubDate": "Wed, 07 Aug 2024 01:00:00 -0600",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSbYjXwOyoLavyZHxWXmLuSce6NdnbYD6TS7HliWdHHHjIgiRZz27929kE5-kQidKVlQAEGkrKn",
-    "news_item_snippet": "Alberto Gin\u00e9s, el medallista de oro ol\u00edmpico en Tokio 2020, ha debutado ya en Los Juegos Ol\u00edmpicos de Par\u00eds 2024, concretamente, en la ...",
-    "news_item_url": "https://www.eleconomista.es/actualidad/noticias/12940510/08/24/alberto-gines-se-la-juega-hoy-en-la-semifinal-de-escalada-deportiva-tratara-de-estar-entre-los-ocho-primeros-en-su-prueba-favorita.html",
-    "picture_source": "20minutos",
-    "approx_traffic": "500,000+"
-  },
-  {
-    "country": "Mexico",
-    "title": "Pumas",
-    "pubDate": "Wed, 07 Aug 2024 17:00:00 -0600",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQ8RRsB-z3b2FzoX_NiAZIbe9igKgm0chZHZgVqfJhkVYkA-3LMAW3g_Q6HIoDm84TpVa9UYzbI",
-    "news_item_snippet": "Con goles del &#39;Chino&#39; Huerta y de Jorge Ruvalcaba, el conjunto de Gustavo Lema se meti\u00f3 a la siguiente fase del torneo. | TUDN Leagues Cup | TUDN.",
-    "news_item_url": "https://www.tudn.com/futbol/leagues-cup/pumas-vence-a-vancouver-y-avanza-a-octavos-de-la-leagues-cup-2024",
-    "picture_source": "ESPN Deportes",
-    "approx_traffic": "100,000+"
   },
   {
     "country": "Spain",
@@ -511,8 +531,18 @@
   },
   {
     "country": "Spain",
+    "title": "LeBron James",
+    "pubDate": "Thu, 08 Aug 2024 23:00:00 +0200",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSUcPeMsdQGTKAxIPoHu5t4H0wV9-i7Pd3I3voehkvDmtSh0Vk2cG5nMWf05vxtqi3ExMPkWNwZ",
+    "news_item_snippet": "Estados Unidos remont\u00f3 un partido hist\u00f3rico frente a Serbia en Par\u00eds tras perder por 17 puntos. El regreso fue obra de Stephen Curry y &#39;El Rey&#39; LeBron.",
+    "news_item_url": "https://as.com/juegos_olimpicos/us/solo-tres-triples-dobles-en-juegos-olimpicos-dos-son-de-lebron-james-n/",
+    "picture_source": "Cadena SER",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Spain",
     "title": "Saul Craviotto",
-    "pubDate": "Thu, 08 Aug 2024 11:00:00 +0200",
+    "pubDate": "Thu, 08 Aug 2024 15:00:00 +0200",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRqQzq0rUxuXmjEm_CvaNQmFL12a9TF5yj8KIgvzvhJSk6V_Ybm3Diy4uWzXuaT5rAhatyi0y0D",
     "news_item_snippet": "El pirag\u00fcista se ha convertido este jueves en el deportista espa\u00f1ol m\u00e1s laureado en unos Juegos Ol\u00edmpicos con el bronce en K4 500.   Sa\u00fal Craviotto&nbsp;...",
     "news_item_url": "https://www.ondacero.es/deportes/juegos-olimpicos/saul-craviotto-esto-superado-creces-muchas-expectativas_2024080866b5360c76ed0d00012c1530.html",
@@ -534,8 +564,8 @@
     "title": "Noah Lyles",
     "pubDate": "Thu, 08 Aug 2024 20:00:00 +0100",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSy4F233LSivTeJGJSXnTqq4fmuHx1kTmxDiQx4CMdn_ouvClgsPyjGE7KgqaB1h8Gdd3EuPQB8",
-    "news_item_snippet": "The athlete from Botswana stormed to victory in front of a raucous Stade de France crowd, ending Lyles&#39; dreams of a sprint double.",
-    "news_item_url": "https://olympics.com/en/news/letsile-tebogo-stuns-noah-lyles-to-win-mens-200m-gold",
+    "news_item_snippet": "Noah Lyles revealed he tested positive for Covid on Tuesday, after a men&#39;s 200m final where the American was removed from the track in a wheelchair.",
+    "news_item_url": "https://www.theguardian.com/sport/article/2024/aug/08/i-do-have-covid-noah-lyles-reveals-positive-test-after-200m-bronze-paris-olympics-2024",
     "picture_source": "The Independent",
     "approx_traffic": "50,000+"
   },
@@ -543,9 +573,9 @@
     "country": "United Kingdom",
     "title": "Neeraj Chopra",
     "pubDate": "Thu, 08 Aug 2024 20:00:00 +0100",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQwNlqiYGNCW2mxLe5ybayjKS4nynb1SzRDC7OruDucrVOauD9NttYVSd_SdJWygl298adyEeOf",
-    "news_item_snippet": "Paris Olympics: Neeraj Chopra signs off with silver, while Pakistan&#39;s Arshad Nadeem bosses the field with a new Olympics record of 92.97m.",
-    "news_item_url": "https://www.thehindu.com/sport/olympics/pakistans-arshad-nadeem-snares-gold-with-new-olympic-record-neeraj-chopra-takes-silver/article68503299.ece",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRso55DAn0_CrTVchsuqb__vBw0OyT_6o-_mdqA44gO_z4yUZWO5Xipt05mgVb9zODzdUEswdvU",
+    "news_item_snippet": "Nadeem bags gold with an Olympic record-breaking throw of 92.97m to end Pakistan&#39;s 32-year medal drought at the Games.",
+    "news_item_url": "https://www.aljazeera.com/sports/2024/8/8/nadeem-ends-32-year-wait-for-pakistan-olympic-medal-with-javelin-gold",
     "picture_source": "ESPN.co.uk",
     "approx_traffic": "50,000+"
   },
@@ -554,8 +584,28 @@
     "title": "Jack Karlson",
     "pubDate": "Thu, 08 Aug 2024 09:00:00 +0100",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRxGDsSzpHt2lHwAjipcCvDfLs_nF5rWImiXC013VAE9WY1QbWzuNdhplp_IMGd0jweJR_G9-uJ",
-    "news_item_snippet": "Jack Karlson became an internet sensation as the subject of the &quot;Succulent Chinese Meal&quot; viral clip.",
-    "news_item_url": "https://www.bbc.com/news/articles/c9d1ynqpnxxo",
+    "news_item_snippet": "Karlson had escaped from multiple prisons and set up many dodgy deals when the small-time crook was arrested by Brisbane police at a Chinese restaurant in&nbsp;...",
+    "news_item_url": "https://inews.co.uk/culture/jack-karlson-succulent-chinese-meal-3216932",
+    "picture_source": "The Independent",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United Kingdom",
+    "title": "Femke Bol",
+    "pubDate": "Thu, 08 Aug 2024 21:00:00 +0100",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRaDO274hMn7vWbCrRbFhpqJpQk109Joq_UbyGcW7s3mK5F95rqlb91_91ZBp4Sig7sPQ4blK_r",
+    "news_item_snippet": "Sydney McLaughlin-Levrone won her second successive Olympic 400m hurdles title and smashed her own world record in the process, clocking 50.37, in Paris on&nbsp;...",
+    "news_item_url": "https://athleticsweekly.com/event-reports/mclaughlin-levrone-destroys-world-record-in-claiming-second-olympic-crown-1039991183/",
+    "picture_source": "NBC Olympics",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United Kingdom",
+    "title": "Olympics basketball",
+    "pubDate": "Thu, 08 Aug 2024 22:00:00 +0100",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcS2kD1uvOXojiSdw8NlpwhmCzmWFQdzc217DmDPigQILe7RhPpMniQVJT43pCv0uxRqUaEqrmlV",
+    "news_item_snippet": "A star-studded United States side show their quality when it matters to fight back from a 13-point deficit and beat Serbia in a thrilling Olympic men&#39;s&nbsp;...",
+    "news_item_url": "https://www.bbc.co.uk/sport/olympics/articles/cy0nllgllxgo",
     "picture_source": "The Independent",
     "approx_traffic": "50,000+"
   }
