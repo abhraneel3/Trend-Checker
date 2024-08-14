@@ -1,16 +1,6 @@
 [
   {
     "country": "United States",
-    "title": "Skai Jackson",
-    "pubDate": "Tue, 13 Aug 2024 06:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTq7z5cgtSf85ZaqDW1VxzpJ42gC3_TAPbuvNX0MduZU5cu-HGNtLh_g_V8jbYKkBVKWanEbQaC",
-    "news_item_snippet": "Disney Channel star Skai Jackson was arrested for domestic battery after a fight with her boyfriend, TMZ reports.",
-    "news_item_url": "https://www.foxla.com/news/skai-jackson-arrested-domestic-battery-tmz",
-    "picture_source": "Los Angeles Times",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "United States",
     "title": "Starbucks stock",
     "pubDate": "Tue, 13 Aug 2024 09:00:00 -0700",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSVJVzFWHYb872hqKyrbgiFVzeLD-v-H2Uu83BjN3-KoxuHQjB-CMfK1Xuk74OrqppP3Lz4T81G",
@@ -21,12 +11,22 @@
   },
   {
     "country": "United States",
-    "title": "McDonald's Collector's Meal",
-    "pubDate": "Tue, 13 Aug 2024 11:00:00 -0700",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTR9UqblxC3OcZchpSqOzEUVoxxR8R5vP5cdCqEXm5aO3wfyQtMScbB126NBv4XBkddnenS5iXQ",
-    "news_item_snippet": "The Collector&#39;s Meals will have six unique collectible cups that will be available at participating McDonald&#39;s restaurants starting next week.",
-    "news_item_url": "https://www.usatoday.com/story/money/food/2024/08/13/adult-happy-meals-collectors-cups-mcdonalds/74787665007/",
-    "picture_source": "NBC New York",
+    "title": "Ilhan Omar",
+    "pubDate": "Tue, 13 Aug 2024 12:00:00 -0700",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQX4DrLJx373Mw1WTF4-7ywI_dTZjuJ8gMriF9p5dKpjKdhpDADd9X9pEUp7FA5PPSCdATITqJw",
+    "news_item_snippet": "U.S. Rep. Ilhan Omar faces a rematch in the primary election Tuesday against Don Samuels, a former Minneapolis City Councilmember who she narrowly beat two&nbsp;...",
+    "news_item_url": "https://www.cbsnews.com/minnesota/news/ilhan-omar-don-samuels-2024-election-5th-congressional-district/",
+    "picture_source": "CBS News",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Pixel 9",
+    "pubDate": "Tue, 13 Aug 2024 13:00:00 -0700",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSwnbFLmCaW9rPXPmxxLrwlohI9M7XGeojND5kbNPcY9iIfox8HP9WA9yO2QJJKvvrS2Gkk8EbC",
+    "news_item_snippet": "The Pixel 9 series now features four phones, including the Pixel 9 Pro Fold, alongside the Pixel Watch 3 and Pixel Buds Pro 2.",
+    "news_item_url": "https://www.wired.com/story/made-by-google-pixel-9-phones-pixel-watch-3-pixel-buds-pro-2/",
+    "picture_source": "Expert Reviews",
     "approx_traffic": "50,000+"
   },
   {
@@ -41,23 +41,33 @@
   },
   {
     "country": "United States",
-    "title": "Trump Musk interview",
-    "pubDate": "Mon, 12 Aug 2024 18:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTljDnaWkwqy9Pm-LbE5HehFNdVZ_5gZjVoYOdhFUfnMIVwEyA-jo6Py_tLsfCQyKzFj8qdxAUD",
-    "news_item_snippet": "UAW president Shawn Fain alleged the former president and Tesla CEO illegally threatened workers during their X interview.",
-    "news_item_url": "https://www.cbsnews.com/news/trump-musk-uaw-federal-labor-charges-x-interview/",
-    "picture_source": "People Daily",
+    "title": "McDonald's Collector's Meal",
+    "pubDate": "Tue, 13 Aug 2024 11:00:00 -0700",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTR9UqblxC3OcZchpSqOzEUVoxxR8R5vP5cdCqEXm5aO3wfyQtMScbB126NBv4XBkddnenS5iXQ",
+    "news_item_snippet": "The Collector&#39;s Meals will have six unique collectible cups that will be available at participating McDonald&#39;s restaurants starting next week.",
+    "news_item_url": "https://www.usatoday.com/story/money/food/2024/08/13/adult-happy-meals-collectors-cups-mcdonalds/74787665007/",
+    "picture_source": "NBC New York",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Earthquake",
+    "pubDate": "Mon, 12 Aug 2024 13:00:00 -0700",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcT6bAWigEf1yE7J27q9V00fYPfWrUZloG6ZC1d9XTdmYvPWlm36-Cwru1oMpHeTuPF-1moPcYTX",
+    "news_item_snippet": "That&#39;s why the California Office of Emergency Services is reminding residents to download the state&#39;s MyShake App, a free tool that delivers alerts and warnings&nbsp;...",
+    "news_item_url": "https://www.dailynews.com/2024/08/13/what-to-know-about-californias-earthquake-early-warning-system-myshake/",
+    "picture_source": "OPB News",
     "approx_traffic": "500,000+"
   },
   {
     "country": "United States",
-    "title": "Earthquake Los Angeles",
-    "pubDate": "Mon, 12 Aug 2024 13:00:00 -0700",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTmrrCPCP9t6PzSiK18HZYsBeIgzqW99RYkMvPQLb7tZ7vGGfqTfPoASwXHVIg4iybwJVBy3Un_",
-    "news_item_snippet": "The quake was centered about five miles northeast of downtown, according to the U.S. Geological Survey. There were no initial reports of serious damage.",
-    "news_item_url": "https://www.nytimes.com/2024/08/12/us/los-angeles-earthquake.html",
-    "picture_source": "BBC News",
-    "approx_traffic": "200,000+"
+    "title": "Trump Musk interview",
+    "pubDate": "Mon, 12 Aug 2024 18:00:00 -0700",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTljDnaWkwqy9Pm-LbE5HehFNdVZ_5gZjVoYOdhFUfnMIVwEyA-jo6Py_tLsfCQyKzFj8qdxAUD",
+    "news_item_snippet": "The United Auto Workers union on Tuesday filed federal labor charges against former President Donald Trump and Tesla CEO Elon Musk for threatening to&nbsp;...",
+    "news_item_url": "https://www.cnn.com/2024/08/13/business/uaw-trump-musk-charges/index.html",
+    "picture_source": "People Daily",
+    "approx_traffic": "500,000+"
   },
   {
     "country": "United States",
@@ -81,21 +91,11 @@
   },
   {
     "country": "United States",
-    "title": "EPIC",
-    "pubDate": "Mon, 12 Aug 2024 09:00:00 -0700",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRHnQjy0pr00r4RZosnbx0mXULX5WB52pS8Tt3a6sPTv1zW63E5eW5BBIlS8moBxwrsm99v2WV7",
-    "news_item_snippet": "The EPIC Impact Society honored humanitarian photographer Lisa Kristine with its Artist Award of 2024.",
-    "news_item_url": "https://keyt.com/news/santa-barbara-s-county/2024/08/12/epic-impact-society-honors-humanitarian-photographer-with-award/",
-    "picture_source": "KEYT",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
     "title": "Tropical Storm Ernesto",
     "pubDate": "Mon, 12 Aug 2024 20:00:00 -0700",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSvilpHDiwTVbWsWGiYA03tCUe7Tx5BJsx1KACfFp65bRlT9h887EF8ydk6YXylD4xDUVB8BR43",
-    "news_item_snippet": "Tropical Storm Ernesto is expected to become a hurricane late Tuesday while passing northeast of Puerto Rico, the National Hurricane Center said.",
-    "news_item_url": "https://www.cbsnews.com/news/ernesto-storm-forecast-puerto-rico-virgin-islands/",
+    "news_item_snippet": "Ernesto is expected to&nbsp;...",
+    "news_item_url": "http://www.wlox.com/2024/08/13/tropical-storm-ernesto-drenches-northeast-caribbean-takes-aim-puerto-rico/",
     "picture_source": "NBC News",
     "approx_traffic": "50,000+"
   },
@@ -103,29 +103,29 @@
     "country": "United States",
     "title": "JD Vance drag",
     "pubDate": "Mon, 12 Aug 2024 06:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQ46CiFbDG0JdcFcZoQx1DYXtgXdhi6LMjDSzj_lxnk8VBanuQXpgXC14MAG0D4F1swoBw7VdFM",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcS80kyuEK3N6KEsFoSGPKq-Qzi5hFJOqAhW4wf-yyWp1r-3UA7TQkB3NRTsgLIaPgx2PA0xIcv_",
     "news_item_snippet": "The pictures, obtained by the Daily Beast, show the senator in a blonde wig and skirt playing beer pong back in 2011.",
     "news_item_url": "https://www.thedailybeast.com/new-photos-emerge-of-jd-vance-dressed-in-drag",
-    "picture_source": "HuffPost",
+    "picture_source": "Them",
     "approx_traffic": "50,000+"
-  },
-  {
-    "country": "India",
-    "title": "Manu Bhaker",
-    "pubDate": "Tue, 13 Aug 2024 14:30:00 +0530",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRZUmGygszYPboN0Wh713VR6lKo2G9e4Ufq9_6ek7WTX5SMgfJZdPI2pb8lg7vUHUPCu9DM0d-f",
-    "news_item_snippet": "Paris Olympics double medallist Manu Bhaker is set to take a three month break, confirmed coach Jaspal Rana. Rana said that Bhaker might miss the World Cup&nbsp;...",
-    "news_item_url": "https://www.indiatoday.in/sports/olympics/story/manu-bhaker-to-take-3-month-break-after-olympic-glory-may-skip-world-cup-coach-2581597-2024-08-13",
-    "picture_source": "Business Standard",
-    "approx_traffic": "100,000+"
   },
   {
     "country": "India",
     "title": "Pakistan ISI chief Faiz Hameed",
     "pubDate": "Tue, 13 Aug 2024 08:30:00 +0530",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSWHcT-vOjlUYFnmOw3oqGjNkfQvsLB0Z4wx6-vHpwz3ShSYR7MUmx8v1IdurMiRowY_zl2EMFa",
-    "news_item_snippet": "No former spy chief has faced court martial in a country the powerful army has directly ruled for nearly three decades.",
-    "news_item_url": "https://www.aljazeera.com/news/2024/8/13/pakistans-ex-isi-chief-faces-court-martial-after-arrest-in-property-case",
+    "news_item_snippet": "Faiz Hameed is accused of corruption while in service, and of engaging in questionable activities after retirement. This makes him the third senior officer&nbsp;...",
+    "news_item_url": "https://indianexpress.com/article/explained/explained-global/ex-isi-chief-faiz-hameed-arrest-explained-9512096/",
+    "picture_source": "The Hindu",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "India",
+    "title": "Vinesh Phogat news",
+    "pubDate": "Tue, 13 Aug 2024 23:30:00 +0530",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcScO3Yadjxk8bWQX96ldpdzhCud6JYwjuuY_LdADI0Tu1m6MpPWSr1bK2DJF3RtKa-ZgGFi2DR_",
+    "news_item_snippet": "The Court of Arbitration for Sport (CAS) was scheduled to deliver its verdict on the appeal made by Vinesh Phogat against her disqualification from the&nbsp;...",
+    "news_item_url": "https://www.businesstoday.in/sports/olympics/story/vinesh-phogat-olympic-medal-cas-hearing-verdict-expected-at-930-pm-today-441428-2024-08-13",
     "picture_source": "The Hindu",
     "approx_traffic": "100,000+"
   },
@@ -137,16 +137,6 @@
     "news_item_snippet": "Bharti Global, the international investment arm of Bharti Enterprises, has decided to buy 24.5 per cent equity in BT Group \u2014 a move that will make the&nbsp;...",
     "news_item_url": "https://www.business-standard.com/companies/news/bharti-global-to-acquire-24-stake-in-british-telecom-giant-bt-group-124081200586_1.html",
     "picture_source": "Business Today",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "India",
-    "title": "Barcelona",
-    "pubDate": "Tue, 13 Aug 2024 01:30:00 +0530",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQg05zmYUq_iBCeH71AyvkHbVAbNfUYIV61YhFnczSUkPxBLZsw9l33r3viTSEYso6wp5IN299v",
-    "news_item_snippet": "FC Barcelona and Maybank, a leading banking group in Asia, have announced an extension of their partnership deal until 2027. This renewed agreement will see&nbsp;...",
-    "news_item_url": "https://www.businesstoday.com.my/2024/08/13/fc-barcelona-maybank-extend-partnership-until-2027/",
-    "picture_source": "FC Barcelona",
     "approx_traffic": "50,000+"
   },
   {
@@ -181,6 +171,16 @@
   },
   {
     "country": "India",
+    "title": "Duleep Trophy",
+    "pubDate": "Mon, 12 Aug 2024 12:30:00 +0530",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSqNXw-B1Q7HHMRVd2Vpp5_5ohut2No85BKg8Av9ylChLpLwDtABJ3fWXV8qb3UpCYlZMjwgwI2",
+    "news_item_snippet": "Duleep Trophy opening round moved from Anantapur to Bengaluru to optimize international players&#39; participation in domestic cricket.",
+    "news_item_url": "https://www.thehindu.com/sport/cricket/one-duleep-trophy-fixture-set-to-be-moved-to-bengaluru/article68516967.ece",
+    "picture_source": "The Indian Express",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "India",
     "title": "Olympics",
     "pubDate": "Sun, 11 Aug 2024 05:30:00 +0530",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSe1QTVKIsdxKTvLDNthV7ZnRVItF3Rc0fnrHjOiolZFEMEBxaKXGowXK-EN6UtD9NeU-xNOvk5",
@@ -210,34 +210,34 @@
     "approx_traffic": "50,000+"
   },
   {
+    "country": "Argentina",
+    "title": "Columbus Crew  Inter Miami",
+    "pubDate": "Tue, 13 Aug 2024 20:00:00 -0300",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSElBAFqU7WAZYCKF515AMCCeg2PVJKY4xfBXhln9ocqQNYnuaci_Amw1iRrFFJSIoDO-JCcHOL",
+    "news_item_snippet": "Las Garzas de Gerardo Martino no pudieron aguantar el 2-0 que hab\u00edan conseguido y el Crew se lo di\u00f3 vuelta.",
+    "news_item_url": "https://www.ole.com.ar/usa/league-cup/columbus-crew-vs-inter-miami-hoy-vivo-leagues-cup-hora-ver-tv-alineacion-resumen-where-watch-live_0_9EmE4tifIS.html",
+    "picture_source": "Infobae.com",
+    "approx_traffic": "50,000+"
+  },
+  {
     "country": "Brazil",
     "title": "Gr\u00eamio x Fluminense",
     "pubDate": "Tue, 13 Aug 2024 05:00:00 -0500",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRMFkYm_dgDIPxC3E4K-TwSyM1Xr9qyoVBhyGPS3X87Pc4ORUCLuMqZTn2VS6qUKS2V0ZUy0VgP",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQi6nlAdB4kIVcAwQOUGluPEdRGuxKtHC8eGizLcSq3IWMStOSLjKSDiHZZW631n4hpZA-X-xPa",
     "news_item_snippet": "Gr\u00eamio e Fluminense come\u00e7am nesta ter\u00e7a-feira (13), no Est\u00e1dio Couto Pereira, a disputa pela classifica\u00e7\u00e3o para as quartas de final da Copa Libertadores da&nbsp;...",
     "news_item_url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/libertadores-da-america/gremio-x-fluminense-raio-x-do-duelo-na-libertadores/",
-    "picture_source": "UOL",
-    "approx_traffic": "1,000,000+"
+    "picture_source": "Placar",
+    "approx_traffic": "2,000,000+"
   },
   {
     "country": "Brazil",
     "title": "Corinthians",
     "pubDate": "Tue, 13 Aug 2024 06:00:00 -0500",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSghxLfb6DzjRyScu58SUWLxyRkA-fKv1uHLVxrTqqkWw9QDXSwmpOue3Y3TD8PvV-2K1Nxrz73",
-    "news_item_snippet": "O Corinthians encerrou as negocia\u00e7\u00f5es com a LDU para contratar o atacante Alex Arce. O clube equatoriano informou que n\u00e3o estava disposto a abrir m\u00e3o do&nbsp;...",
-    "news_item_url": "https://ge.globo.com/futebol/times/corinthians/noticia/2024/08/13/corinthians-encerra-negociacoes-por-alex-arce-e-segue-no-mercado-para-reforcar-ataque.ghtml",
-    "picture_source": "ESPN.com.br",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSEyji3YVE1FKGqPBA6QDBIP-gpZROeUtMAWtf2JigwJb0kcRAVeuf8vns4K-iS3Ji4y04UV4_M",
+    "news_item_snippet": "Massa Bruta e Tim\u00e3o disputam vaga nas quartas da competi\u00e7\u00e3o nesta ter\u00e7a-feira (13), \u00e0s 21h30 (de Bras\u00edlia)",
+    "news_item_url": "https://www.espn.com.br/futebol/sul-americana/artigo/_/id/14031501/red-bull-bragantino-corinthians-onde-assistir-ao-vivo-horario-palpites-provaveis-escalacoes-jogo-sul-americana",
+    "picture_source": "UOL",
     "approx_traffic": "1,000,000+"
-  },
-  {
-    "country": "Brazil",
-    "title": "Libertadores",
-    "pubDate": "Tue, 13 Aug 2024 16:00:00 -0500",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSyxgtwmIwwBlH0LoG9MGk5bfJkYuxZsXZ2s2HwbJf1ZPIiZ-TCsoJh-a6c6UOZsKHXTeBBn0-F",
-    "news_item_snippet": "Martin Braithwaite foi apresentado pelo Gr\u00eamio e pode estrear pela Libertadores nas oitavas contra o Fluminense. Al\u00e9m dele, outros europeus j\u00e1 jogaram nessa&nbsp;...",
-    "news_item_url": "https://www.lance.com.br/galerias/champions-league-ou-libertadores-relembre-europeus-que-jogaram-no-nosso-continente/",
-    "picture_source": "globoesporte.com",
-    "approx_traffic": "200,000+"
   },
   {
     "country": "Saudi Arabia",
@@ -257,16 +257,6 @@
     "news_item_snippet": "Vainqueurs sur le fil \u00e0 l&#39;aller, les Nordistes ont bataill\u00e9 pour obtenir leur billet en barrage apr\u00e8s l&#39;expulsion d&#39;A\u00efssa Mandi. Mais Jonathan David a&nbsp;...",
     "news_item_url": "https://www.lefigaro.fr/sports/football/ligue-des-champions/en-direct-ligue-des-champions-suivez-le-barrage-retour-fenerbahce-lille-20240813",
     "picture_source": "L'\u00c9quipe.fr",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Germany",
-    "title": "Richard Rogler",
-    "pubDate": "Tue, 13 Aug 2024 15:00:00 +0200",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTiRLaI_vzOiRf6ZeBR7uS03EdnJwoTswckD7XJpn6X7jjxBWPRL8-B-Y6QpywFghPaoS7FG0oG",
-    "news_item_snippet": "K\u00f6ln: Der Kabarettist Richard Rogler ist tot. Das teilte seine Familie in K\u00f6ln mit. Rogler galt als eines der Urgesteine der politischen Kabarett-Szene in&nbsp;...",
-    "news_item_url": "https://www.volksstimme.de/kultur/kabarettist-richard-rogler-mit-74-gestorben-3898035",
-    "picture_source": "Mitteldeutsche Zeitung",
     "approx_traffic": "50,000+"
   },
   {
@@ -310,12 +300,32 @@
     "approx_traffic": "50,000+"
   },
   {
+    "country": "Germany",
+    "title": "Handball Olympia",
+    "pubDate": "Fri, 09 Aug 2024 19:00:00 +0200",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcThF9e4sAIsZgBaXJ5GwcjBn2P3lOPk1W-Jru42YIo03hCh3UNvohkqe3l0dpL7R6LTBU89znQR",
+    "news_item_snippet": "Die deutschen Handballer haben im olympischen Finale gegen D\u00e4nemark verloren. Gegen den amtierenden Weltmeister unterlag das Team von Bundestrainer Alfred&nbsp;...",
+    "news_item_url": "https://www.sportschau.de/olympia/deutsche-handballer-unterliegen-daenemark-und-holen-olympia-silber,olympia-paris-handball-148.html",
+    "picture_source": "Volksstimme",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "Germany",
+    "title": "Esprit",
+    "pubDate": "Fri, 09 Aug 2024 12:00:00 +0200",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRiILKiQxeshE388DY_NnzQVd6FIb16XdfwMNlmlE_5sdgOKkUhXaZJ2ksMAy2UkgWxBrWx2e5n",
+    "news_item_snippet": "Lange war Esprit in Deutschland eine Marke mit viel Strahlkraft. Bald werden die Gesch\u00e4fte des Modekonzerns aus den Innenst\u00e4dten verschwinden.",
+    "news_item_url": "https://www.volksstimme.de/deutschland-und-welt/wirtschaft/esprit-macht-dicht-der-abstieg-eines-moderiesen-3895961",
+    "picture_source": "rbb24",
+    "approx_traffic": "50,000+"
+  },
+  {
     "country": "Mexico",
-    "title": "Tigres  NYC FC",
+    "title": "Tigres",
     "pubDate": "Tue, 13 Aug 2024 14:00:00 -0600",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQSyHm4fh9uMkafgGpAiUNg1DbPEKiGF1ldDCTq9-Gqm4WzD44wgsDFTv3aH-BD3QEfXexhtm5o",
-    "news_item_snippet": "Los felinos buscar\u00e1n su boleto a los 4tos de final cuando enfrenten al conjunto del New York City en una pelea m\u00e1s entre Liga MX y MLS.",
-    "news_item_url": "https://www.debate.com.mx/deportes/Leagues-Cup-Por-TV-abierta-Donde-y-a-que-hora-ver-el-partido-Tigres-vs-NYC-FC-8vos-de-Final-20240813-0129.html",
+    "news_item_snippet": "Los Tigres van por el pase a Cuartos de Final de la Leagues Cup pero primero tendr\u00e1n que derrotar a NYC FC y aqu\u00ed te dejamos los detalles del partido.",
+    "news_item_url": "https://www.telediario.mx/deportes/futbol/donde-ver-tigres-vs-new-york-en-vivo-a-que-hora-octavos",
     "picture_source": "AS Mexico",
     "approx_traffic": "100,000+"
   },
@@ -324,19 +334,9 @@
     "title": "Columbus Crew  Inter Miami",
     "pubDate": "Tue, 13 Aug 2024 17:00:00 -0600",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSFUrm3_i-D3S0QeUZsEM4DHYozFymst8VjNcIDCwWU-LcBN2VNojoj7JBdgCk4JUiMMsFvCbbB",
-    "news_item_snippet": "Bienvenidos a la previa y el minuto a minuto del choque entre el campe\u00f3n de la MLS 2023 ante el mejor equipo de la campa\u00f1a 2024. Columbus Crew recibe a&nbsp;...",
-    "news_item_url": "https://us.as.com/futbol/columbus-crew-inter-miami-en-vivo-octavos-de-leagues-cup-2024-en-directo-n/",
+    "news_item_snippet": "El elenco de Gerardo Martino, vigente campe\u00f3n del certamen, se despidi\u00f3 en los octavos de final del torneo que enfrenta a clubes de la MLS y la Liga MX.",
+    "news_item_url": "https://www.infobae.com/deportes/2024/08/14/sin-messi-inter-miami-fue-eliminado-por-columbus-crew-de-la-leagues-cup-de-ir-ganando-por-dos-goles-a-perderlo-3-2-en-una-rafaga/",
     "picture_source": "MARCA.com",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Mexico",
-    "title": "Cruz Azul",
-    "pubDate": "Tue, 13 Aug 2024 19:00:00 -0600",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcR_O-9WVQwhNBAvbR9LqzLZ4NLVmI9cfK48oZgqksPwfzpdZwyzaHX9Q22jBowuPTO6ZY3VcBJ7",
-    "news_item_snippet": "Mart\u00edn Anselmi realiz\u00f3 diversas modificaciones para el partido de octavos de final ante Mazatl\u00e1n.",
-    "news_item_url": "https://www.espn.com.mx/futbol/mexico/nota/_/id/14036846/cruz-azul-uriel-antuna-leagues-cup-titular-mazatlan",
-    "picture_source": "ESPN",
     "approx_traffic": "50,000+"
   },
   {
@@ -353,30 +353,10 @@
     "country": "United Kingdom",
     "title": "Leicester Square",
     "pubDate": "Mon, 12 Aug 2024 14:00:00 +0100",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSYdBIRTcATIBVaQFBnhz2z88EdvPXOXbvFUGUa3QNc2hFZd5xfI2tTSHG01UiXvOFsw2ZxYv0h",
-    "news_item_snippet": "Ioan Pintaru, 32 appears in court charged with attempted murder after girl was attacked in central London on Monday.",
-    "news_item_url": "https://www.theguardian.com/uk-news/article/2024/aug/13/man-charged-with-attempted-of-11-year-old-girl-in-leicester-square",
-    "picture_source": "The Guardian",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQ21xiWJoEtTwnp6VKvRCVhCnJEQ18-GzV0ZrSK9VQgTXFuBdpXFgCWtFVIopJnUTEhnlKBedRp",
+    "news_item_snippet": "Child stabbed &#39;eight times with steak knife&#39; in attack that left her needing plastic surgery, court hears &middot; Key Points.",
+    "news_item_url": "https://www.independent.co.uk/news/uk/crime/leicester-square-stabbing-london-attack-suspect-girl-b2595420.html",
+    "picture_source": "The Independent",
     "approx_traffic": "200,000+"
-  },
-  {
-    "country": "United Kingdom",
-    "title": "Liverpool",
-    "pubDate": "Mon, 12 Aug 2024 08:00:00 +0100",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTQMcKAfLO3xHSE-feiaEX2w-YhYVmx-vH541hOgD6BWlGFGrE-khQzD0N7EKvFtEXj0tNNPkEP",
-    "news_item_snippet": "What Liverpool plan to do regarding Arne Slot&#39;s midfield has been revealed on the back of Martin Zubimendi rejecting the Reds, while Fabrizio Romano has&nbsp;...",
-    "news_item_url": "https://www.teamtalk.com/liverpool/new-liverpool-midfielder-plans-emerge-zubimendi-rejection-fabrizio-romano-confirms-talks-on-shock-deal",
-    "picture_source": "Brentford FC",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "United Kingdom",
-    "title": "Skiff",
-    "pubDate": "Mon, 12 Aug 2024 07:00:00 +0100",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTLDCgR4ySX2zqo0McUNszEMD8jZ4FOBp_474s10oN_vAZLf_cFtWUaPPbro0QyV4iil75K9Aov",
-    "news_item_snippet": "Code Yachts in Hungary describes this Cayman 28 full-on all-carbon boat with extendable hiking racks from the board of Mark Mills as &#39;the gentleman&#39;s skiff&#39;&nbsp;...",
-    "news_item_url": "https://www.yachtingworld.com/yachts-and-gear/cayman-28-first-look-an-all-carbon-skiff-with-a-rack-for-five-people-153019",
-    "picture_source": "Yachting World",
-    "approx_traffic": "50,000+"
   }
 ]
