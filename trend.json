@@ -11,16 +11,6 @@
   },
   {
     "country": "United States",
-    "title": "Sam Ponder",
-    "pubDate": "Thu, 15 Aug 2024 13:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQI-_4HVWhoDwQ63kKxZCjFDuQ7g4esB3hgUBoB_ILA2c6CjbskL7w25MEDW1R9U9D_o3xzntoa",
-    "news_item_snippet": "Sources tell us that the decision to cut both on-air personalities was based on a business decision to reduce costs and will be paid off for the rest of their&nbsp;...",
-    "news_item_url": "https://deadline.com/2024/08/espn-layoffs-robert-griffin-iii-nfl-countdown-sam-ponder-1236041630/",
-    "picture_source": "The New York Times",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "United States",
     "title": "Eagles",
     "pubDate": "Thu, 15 Aug 2024 17:00:00 -0700",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSxL2NwdFwaw7JdhvHLlS5BOSM0K9hM6arxLoWVzNnQbXRWf959O80TWmtG4mdlktkarrk-Si7f",
@@ -43,10 +33,10 @@
     "country": "United States",
     "title": "Earthquake",
     "pubDate": "Thu, 15 Aug 2024 21:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTFlSrAFH7OlXVOrVah9KL7P9Rwsaor73tbewkKtDDUGxBt7yERMr7ylCrSoujNE6RVy8-FQTd3",
-    "news_item_snippet": "After a magnitude-3.6 earthquake shook the Lake Elsinore community Thursday, city officials said the earthquake survey was complete.",
-    "news_item_url": "https://www.nbclosangeles.com/news/local/lake-elsinore-earthquake-city-officials-conduct-earthquake-survey/3489470/",
-    "picture_source": "Los Angeles Times",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSSizwFfM0iLC1YcVRSCjWL8sIfNc49nVk3jyznfSmLm6XvoIdIdkvyqTUb6n69M2hRj61uR7PR",
+    "news_item_snippet": "After a Times investigation, Los Angeles building officials commit to hiring an auditor to review building database.",
+    "news_item_url": "https://www.latimes.com/california/story/2024-08-16/los-angeles-earthquake-retrofit-data-have-been-outdated-for-years",
+    "picture_source": "NBC Southern California",
     "approx_traffic": "50,000+"
   },
   {
@@ -74,7 +64,7 @@
     "title": "La Liga",
     "pubDate": "Thu, 15 Aug 2024 09:00:00 -0700",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQhuasYZs2t2hk91NnXUS7ys948dShuOCuQXA7Rk6_KDyV6EaO5L425AkmIXlGvxP15m2o9I8md",
-    "news_item_snippet": "Is there a plan in place for when Florentino Perez retires as president? I understand that Madrid are a socio-owned club, but am still curious if there is&nbsp;...",
+    "news_item_snippet": "It was a celebratory night as Kylian Mbappe marked his first Madrid appearance with a goal, adding to Federico Valverde&#39;s tap-in. Next up for Madrid is their La&nbsp;...",
     "news_item_url": "https://www.nytimes.com/athletic/5702433/2024/08/15/real-madrid-new-season-your-questions-answered/",
     "picture_source": "The Athletic",
     "approx_traffic": "50,000+"
@@ -87,15 +77,25 @@
     "news_item_snippet": "The first official game of the new season starts with a victory and a trophy with goals from Fede Valverde and Kylian Mbappe.",
     "news_item_url": "https://www.managingmadrid.com/2024/8/15/24220203/player-ratings-real-madrid-2-0-atalanta-2024-uefa-european-super-cup",
     "picture_source": "Eurosport.com",
-    "approx_traffic": "200,000+"
+    "approx_traffic": "500,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Monkeypox",
+    "pubDate": "Wed, 14 Aug 2024 11:00:00 -0700",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTKeioAlgMuEBkxbQJqlKwzZLZunfhn3k6thGpPfZdFXuAHaJ_5DR0ld7jdX_RhiqI7B1uEH1eX",
+    "news_item_snippet": "The patient has received treatment in Stockholm after contracting the virus in a part of Africa where the new strain is currently circulating, the agency noted.",
+    "news_item_url": "https://www.axios.com/2024/08/15/mpox-monkey-pox-new-strain-symptoms-treatment",
+    "picture_source": "Vox",
+    "approx_traffic": "500,000+"
   },
   {
     "country": "United States",
     "title": "Gena Rowlands",
     "pubDate": "Wed, 14 Aug 2024 19:00:00 -0700",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSGozy550w1QZeJB6JLMBO4XTIRGno5bAYPJnQ4MaBMyx1Bq-dKx49NO3OGjOpAtAaAnRUrc2ky",
-    "news_item_snippet": "Gena Rowlands, who starred in &quot;The Notebook&quot; and \u201cA Woman Under the Influence\u201d and was twice Oscar-nominated, died Wednesday.",
-    "news_item_url": "https://variety.com/2024/film/obituaries-people-news/gena-rowlands-dead-the-notebook-gloria-1236107324/",
+    "news_item_snippet": "Award-winning actress Gena Rowlands is remembered by Hollywood following her death at age 94.",
+    "news_item_url": "https://abcnews.go.com/GMA/Culture/hollywood-remembers-gena-rowlands-tributes/story?id=112876377",
     "picture_source": "PBS NewsHour",
     "approx_traffic": "200,000+"
   },
@@ -103,40 +103,20 @@
     "country": "United States",
     "title": "Social Security",
     "pubDate": "Wed, 14 Aug 2024 22:00:00 -0700",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSaAw5GDdMI9qI03RfJZVOSKTaNmQvRR82HIvBoP9mXSNm_HcujTsXFdBvpOHI7J3ImXGwLhRFr",
-    "news_item_snippet": "Stolen data from a background check company may expose millions of Social Security numbers, a lawsuit claims. Here&#39;s how to protect yourself.",
-    "news_item_url": "https://www.washingtonpost.com/technology/2024/08/15/social-security-hack-leak-ssn-freeze-credit-npd/",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRhXlFQEFhXLbD3PkbJQWnZL2urTQbBkNyXkpYwMjNZYsEFc3Bhvmm8QpEAjoC80VlL5AZqAm4v",
+    "news_item_snippet": "Lawsuit claims hackers accessed &quot;billions&quot; of records, including Social Security numbers, by breaching background check company.",
+    "news_item_url": "https://www.cbsnews.com/news/social-security-number-leak-npd-breach-what-to-know/",
     "picture_source": "KGO-TV",
     "approx_traffic": "200,000+"
   },
   {
-    "country": "United States",
-    "title": "Monkeypox",
-    "pubDate": "Wed, 14 Aug 2024 12:00:00 -0700",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTKeioAlgMuEBkxbQJqlKwzZLZunfhn3k6thGpPfZdFXuAHaJ_5DR0ld7jdX_RhiqI7B1uEH1eX",
-    "news_item_snippet": "The patient has received treatment in Stockholm after contracting the virus in a part of Africa where the new strain is currently circulating, the agency noted.",
-    "news_item_url": "https://www.axios.com/2024/08/15/mpox-monkey-pox-new-strain-symptoms-treatment",
-    "picture_source": "Vox",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Mpox",
-    "pubDate": "Wed, 14 Aug 2024 11:00:00 -0700",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSD3s5W7l71oc5Rgv19AooHG6UQcgEl2cCEjVYkptCaPtfoaR1kglEEqJoNemxEzFJ__Zjy1tiE",
-    "news_item_snippet": "Sweden said Thursday that it had confirmed a first case of the version of mpox currently circulating in central and eastern Africa.",
-    "news_item_url": "https://www.nbcnews.com/health/health-news/sweden-confirms-first-case-mpox-strain-congo-rcna166763",
-    "picture_source": "WIRED",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Morgan Wallen",
-    "pubDate": "Wed, 14 Aug 2024 20:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRqHcOvf_dpVjVNhepOm29ErpQCsAz78HqETt18sJhl8By5nBepK4aiB0FJbFFzWROS1Dz86ian",
-    "news_item_snippet": "MYRTLE BEACH, S.C. (WBTW) \u2014 News13 had the chance to interview Luke Rice, a North Carolina native who plays bass for country megastar Morgan Wallen.",
-    "news_item_url": "https://www.wbtw.com/news/grand-strand/myrtle-beach/luke-rice-north-carolina-native-and-morgan-wallens-bass-player-joins-news13s-first-edition/",
-    "picture_source": "WBTW",
+    "country": "India",
+    "title": "Aattam",
+    "pubDate": "Fri, 16 Aug 2024 15:30:00 +0530",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRUk8kTanljxvorj6iBuCZnRUadIPAqZni3-Cm9I9rGU6A5UnQZdPwU1n8-Jt2blfaOQaPysGQV",
+    "news_item_snippet": "Kochi, Anand Ekarshi who directed the Malayalam film &quot;Aattam&quot; which won three National Awards for best feature film, screenplay and editing,&nbsp;...",
+    "news_item_url": "https://www.hindustantimes.com/entertainment/3-national-awards-for-aattam-film-a-huge-fortune-director-anand-ekarshi-101723804798707.html",
+    "picture_source": "\u0c08\u0c28\u0c3e\u0c21\u0c41",
     "approx_traffic": "100,000+"
   },
   {
@@ -161,12 +141,12 @@
   },
   {
     "country": "India",
-    "title": "Saudi Crown Prince Mohammed bin Salman",
-    "pubDate": "Thu, 15 Aug 2024 17:30:00 +0530",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTZ6BtIx9DmUpbZLK6BLXtDkAybDQjSNEBpcduanLjhHbKKdoRpSPAo-QZhG5_tofrpY4CS2AE_",
-    "news_item_snippet": "Saudi Prince Mohammed Bin Salman: Saudi Arabia has been in talks with US lawmakers since 2023 to officially recognise Israel&#39;s sovereignty and normalise&nbsp;...",
-    "news_item_url": "https://www.business-standard.com/world-news/saudi-crown-prince-fears-assassination-amid-talks-to-normalise-israel-ties-124081600902_1.html",
-    "picture_source": "Business Today",
+    "title": "Thangalaan",
+    "pubDate": "Thu, 15 Aug 2024 06:30:00 +0530",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQXmfms9v_kqU8JzOjcQvHRQ5-SmT-3Xn96wEsg4wHLEmD0mMwHLYPU0W4JXPn4rkIbe9iuZqT3",
+    "news_item_snippet": "Pa Ranjith&#39;s Thangalaan, starring Chiyaan Vikram, was one of the most anticipated films of the year, and it&#39;s clear that the buzz was well-deserved.",
+    "news_item_url": "https://www.onmanorama.com/entertainment/movie-reviews/2024/08/15/thangalaan-movie-review-chiyaan-vikram-pa-ranjith-parvathy-tamil-cinema.html",
+    "picture_source": "Hindustan Times",
     "approx_traffic": "200,000+"
   },
   {
@@ -174,19 +154,9 @@
     "title": "PKL Auction 2024",
     "pubDate": "Thu, 15 Aug 2024 16:30:00 +0530",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcT0_omPhA4j_fVk6L7TLWkzpY0nPGLk6bgCcETA7vEAxe4Ze4bqwwavyIqxX-LtBp51w0E1oUWe",
-    "news_item_snippet": "The Pro Kabaddi League (PKL) 2024 auction is set to continue at the Jio Convention Centre in Mumbai on August 16. Day 2 of the auction will feature players&nbsp;...",
-    "news_item_url": "https://www.business-standard.com/sports/pro-kabaddi-league/pro-kabaddi-league-2024-auction-live-updates-pkl-season-10-full-list-of-sold-and-unsold-players-list-on-august-16-124081600002_1.html",
+    "news_item_snippet": "Pro Kabaddi Auction 2024, Season 11: The Pro Kabaddi League Season 11 Player Auction saw high bids, with eight players surpassing the Rs 1 crore mark.",
+    "news_item_url": "https://m.economictimes.com/news/sports/pkl-2024-auctions-full-list-of-sold-crorepati-kabaddi-players-and-their-price-in-pro-kabaddi-league-season-11/articleshow/112560767.cms",
     "picture_source": "ESPN India",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "India",
-    "title": "Monkeypox",
-    "pubDate": "Thu, 15 Aug 2024 07:30:00 +0530",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSxjaSdm8YKQ-UXZlPO5Y7G5drn5f2HAfaC4T5KHVatO1ssaqUK2oQzj175UIj9f6XaING0Nqvi",
-    "news_item_snippet": "Fever, headache and\u2026: What are common Mpox symptoms and what to do if you get infection &middot; WHO declares mpox a public health emergency of international concern&nbsp;...",
-    "news_item_url": "https://www.livemint.com/science/news/who-declares-mpox-a-global-health-emergency-key-facts-about-monkeypox-virus-and-how-it-is-transmitted-11723720317387.html",
-    "picture_source": "Times of India",
     "approx_traffic": "100,000+"
   },
   {
@@ -201,12 +171,22 @@
   },
   {
     "country": "India",
-    "title": "Thangalaan review",
-    "pubDate": "Thu, 15 Aug 2024 10:30:00 +0530",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQlvXziM9y2uaNbjBTjpmDtj-1FDD0E4VPJA-y3O3u1jQnm9Vw9aYuFckP29tp3dEl3jIrBQ581",
-    "news_item_snippet": "Directed by Pa Ranjith, the film stars Vikram, Malavika Mohanan, Pasupathy, Parvathy Thiruvithy and Daniel Caltigarone in lead roles. The music for t.",
-    "news_item_url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/thangalaan-movie-review-box-office-collection-release-live-updates-thangalaan-vikram-parvathy-thiruvothu-malavika-mohanan-pasupathy-thangalaan-review/liveblog/112537584.cms",
-    "picture_source": "The Hindu",
+    "title": "Monkeypox",
+    "pubDate": "Thu, 15 Aug 2024 07:30:00 +0530",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSxjaSdm8YKQ-UXZlPO5Y7G5drn5f2HAfaC4T5KHVatO1ssaqUK2oQzj175UIj9f6XaING0Nqvi",
+    "news_item_snippet": "Monkeypox Outbreak WHO: A day after Sweden confirmed the first case of a more contagious monkeypox variant outside Africa, the World Health Organisation&nbsp;...",
+    "news_item_url": "https://health.economictimes.indiatimes.com/news/industry/who-calls-for-increased-surveillance-sharing-of-data-vaccines-to-combat-monkeypox-outbreak/112566217",
+    "picture_source": "Times of India",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "India",
+    "title": "Stree 2 box office collection",
+    "pubDate": "Thu, 15 Aug 2024 19:30:00 +0530",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRY-JKJaI8MHlNl56bNwW6e3Yc3uMkyJhBrEHEjQyrd8qPnHx4JL8Zpo-Ug7X1GRqcIIIw5Qw_p",
+    "news_item_snippet": "\u0936\u094d\u0930\u0926\u094d\u0927\u093e \u0915\u092a\u0942\u0930 \u0914\u0930 \u0930\u093e\u091c\u0915\u0941\u092e\u093e\u0930 \u0930\u093e\u0935 \u0915\u0940 \u0938\u094d\u0924\u094d\u0930\u0940 2 \u0928\u0947 \u0913\u092a\u0928\u093f\u0902\u0917 \u0921\u0947 \u092a\u0930 \u0930\u0947\u0915\u0949\u0930\u094d\u0921 \u092c\u0928\u093e \u0921\u093e\u0932\u093e \u0939\u0948\u0964 \u0938\u094d\u0924\u094d\u0930\u0940 2 \u0928\u0947 45.75 \u0915\u0930\u094b\u0921\u093c \u0930\u0941\u092a\u092f\u0947 \u0915\u0940 \u092e\u0939\u093e\u0902\u092c\u092a\u0930 \u0913\u092a\u0928\u093f\u0902\u0917 \u0915\u0940 \u0914\u0930&nbsp;...",
+    "news_item_url": "https://navbharattimes.indiatimes.com/entertainment/box-office/stree-2-box-office-collection-day-1-shraddha-kapoor-rajkummar-rao-film-biggest-opening-day-grosser-of-2024/articleshow/112554763.cms",
+    "picture_source": "Hindustan Times",
     "approx_traffic": "50,000+"
   },
   {
@@ -233,7 +213,7 @@
     "country": "Argentina",
     "title": "Belgrano",
     "pubDate": "Thu, 15 Aug 2024 19:00:00 -0300",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSU8q4Mi1yD44fsCFfr576Nl95HbwMNlhlY8r2G4Rw8pU6iMMOcNAolK94oQyEe-jXv-iUWlG1K",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRCyoDTEALnYOr_MNRYk3kW-KPSew5T54v_Pnuz3ocuq5p5-R-ui31BkCibjTMO3CLf_dCPro9f",
     "news_item_snippet": "Por la ida de los octavos de final de la Copa Sudamericana, Belgrano visita a Athletico Paranaense en el Arena da Baixada.",
     "news_item_url": "https://tntsports.com.ar/internacional/en-vivo-paranaense-belgrano-copa-sudamericana-minuto-a-minuto-20240815-0033.html",
     "picture_source": "Ol\u00e9",
@@ -243,7 +223,7 @@
     "country": "Argentina",
     "title": "Talleres Remedios  Banfield",
     "pubDate": "Thu, 15 Aug 2024 14:00:00 -0300",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRpDSt2vrJj5nRE2WMzG6Kb6L33XQAk-anEwpJL4q9hO2GSubjRka2caVWKYUusR8K27wkQ_WZ1",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSFPnLlpZEI9_MAZ8rzMXkHeDr_A7HI0JowEy50XauAM3QbYUH2MCeGfPsTJGH3iU3xOXnd_UdR",
     "news_item_snippet": "El conjunto de Mart\u00edn Rol\u00f3n accedi\u00f3 a los cuartos de final del certamen federal, tras una definici\u00f3n vibrante con el Taladro. Su pr\u00f3ximo rival ser\u00e1 Hurac\u00e1n.",
     "news_item_url": "https://www.infobae.com/deportes/2024/08/15/tras-superar-a-racing-e-instituto-talleres-de-remedios-de-escalada-dio-un-nuevo-golpe-y-elimino-a-banfield-de-la-copa-argentina/",
     "picture_source": "Ol\u00e9",
@@ -262,12 +242,22 @@
   {
     "country": "Brazil",
     "title": "Flamengo",
-    "pubDate": "Thu, 15 Aug 2024 01:00:00 -0500",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQU6zQo2bfJSr11NEHlmK_8jjpknx-zHhDD1DZEJcJ_tV4Xt1iGS7KQmu0-wM2sysXO6BcZz-Bg",
-    "news_item_snippet": "Na noite desta quinta-feira (15), o Flamengo venceu o Bol\u00edvar por 2 a 0, no Maracan\u00e3, e abriu vantagem no confronto das oitavas de final da Copa&nbsp;...",
-    "news_item_url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/libertadores-da-america/libertadores-flamengo-vence-bolivar-e-abre-vantagem-para-encarar-altitude/",
-    "picture_source": "ESPN.com.br",
+    "pubDate": "Thu, 15 Aug 2024 17:00:00 -0500",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTnguXIVJxsP3ucQub4I_13um2aWA_hA216AbhUkRhLPVbNjCtYhT1mt2ZFoFdz9tTvCP3jjsl2",
+    "news_item_snippet": "O Flamengo venceu o Bol\u00edvar por 2 a 0, nesta quinta-feira (15), no Maracan\u00e3, no duelo de ida das oitavas de final da CONMEBOL Libertadores.",
+    "news_item_url": "https://www.espn.com.br/futebol/libertadores/artigo/_/id/14044945/flamengo-vence-bolivar-vai-quartas-libertadores-ate-com-derrota-por-um-gol-diferenca-altitude",
+    "picture_source": "CNN Brasil",
     "approx_traffic": "2,000,000+"
+  },
+  {
+    "country": "Brazil",
+    "title": "Cruzeiro",
+    "pubDate": "Thu, 15 Aug 2024 08:00:00 -0500",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTfaTl3fNDB4SM3Y4rveE1kMguXESmf_4Yw12QnJdoFfdEPRkk7BwB7D0TLHjPx2J2z3RUi4cxh",
+    "news_item_snippet": "O Cruzeiro saiu atr\u00e1s do Boca Juniors por uma vaga nas quartas de final da CONMEBOL Sul-Americana. Com gol isolado do artilheiro Edinson Cavani,&nbsp;...",
+    "news_item_url": "https://www.espn.com.br/futebol/sul-americana/artigo/_/id/14045001/cruzeiro-perde-boca-juniors-gol-cavani-oitavas-de-final-copa-sul-americana",
+    "picture_source": "CNN Brasil",
+    "approx_traffic": "500,000+"
   },
   {
     "country": "Brazil",
@@ -281,22 +271,22 @@
   },
   {
     "country": "Brazil",
-    "title": "Aviao caiu",
-    "pubDate": "Thu, 15 Aug 2024 11:00:00 -0500",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQ9sQ6oRJK0_HEzyptONRzLF47BqS7BNR35e1locPlaZaRmgdROHbRwNJuSJhWZPxMI5UZXyh3J",
-    "news_item_snippet": "Arni Alberto Spiering \u00e9 conhecido pelo trabalho no ramo de transportes de combust\u00edveis e sementes.",
-    "news_item_url": "https://oglobo.globo.com/brasil/noticia/2024/08/15/aviao-que-caiu-com-empresario-e-netos-explodiu-na-queda-no-mt-nao-ha-sobreviventes-diz-policia.ghtml",
-    "picture_source": "Jornal O Globo",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Brazil",
     "title": "Oper\u00e1rio x Ituano",
     "pubDate": "Thu, 15 Aug 2024 15:00:00 -0500",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRggy7OwLa5cFWzgg0veJEJi70_AVk58e8NDsjYtFilq6OGZQ8O3-oTYo25IFX96B1TEpKmDmtl",
     "news_item_snippet": "Oportunidade perdida Felipe Garcia (Oper\u00e1rio PR), de cabe\u00e7a do meio da \u00e1rea. Assist\u00eancia de Felipe Augusto com um cruzamento. ... Falta cometida por Erik Bessa (&nbsp;...",
     "news_item_url": "https://www.terra.com.br/esportes/futebol/brasileiro-serie-b/ao-vivo/operario-pr-x-ituano/85249/",
     "picture_source": "globoesporte.com",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Brazil",
+    "title": "Aviao cai",
+    "pubDate": "Thu, 15 Aug 2024 13:00:00 -0500",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQSo8lp-wUy2Gn-2g59c996qIsROYbC7pn6NtDZsqgk6QHWXCvXqNyqDzJjoSe7STnkc5-dLZhq",
+    "news_item_snippet": "Segundo a Pol\u00edcia Civil, a aeronave explodiu no momento da queda. Dentre as v\u00edtimas, est\u00e3o o empres\u00e1rio Arni Alberto Spiering, de 70 anos.",
+    "news_item_url": "https://g1.globo.com/mt/mato-grosso/noticia/2024/08/15/aviao-cai-na-zona-rural-de-municipio-em-mt.ghtml",
+    "picture_source": "G1",
     "approx_traffic": "50,000+"
   },
   {
@@ -308,6 +298,16 @@
     "news_item_url": "https://www.bbc.com/news/articles/c89wgv98925o",
     "picture_source": "ICI.Radio-Canada.ca",
     "approx_traffic": "100,000+"
+  },
+  {
+    "country": "Canada",
+    "title": "Mpox outbreak global health emergency",
+    "pubDate": "Thu, 15 Aug 2024 13:00:00 -0400",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcS2NX7PwjY3ZUQJY1F2OTePXlN3y2HaG_rk1pIscUesZ8XhSxX3OJo7ubde6GFJE9J88WHXv62F",
+    "news_item_snippet": "In the wake of the World Health Organization (WHO) declaring a global public health emergency for mpox, Canada says the virus risk within the country&nbsp;...",
+    "news_item_url": "https://globalnews.ca/news/10699939/mpox-outbreak-canada-phac-risk/",
+    "picture_source": "CBS News",
+    "approx_traffic": "50,000+"
   },
   {
     "country": "South Korea",
@@ -333,10 +333,10 @@
     "country": "France",
     "title": "Variole du singe",
     "pubDate": "Thu, 15 Aug 2024 03:00:00 +0200",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRMvtjwGrMpxjAOeMX__1MIjHwj6rqtAeB9rr76xlw2lLy-9bO99ecN77PNohYiTKnlQdFDpp7x",
-    "news_item_snippet": "Une premi\u00e8re hors d&#39;Afrique. Pour le Centre europ\u00e9en de pr\u00e9vention et de contr\u00f4le des maladies (ECDC), le risque d&#39;une plus large contamination en Europe est&nbsp;...",
-    "news_item_url": "https://www.ouest-france.fr/sante/virus/variole-du-singe/variole-du-singe-le-variant-letal-diagnostique-en-suede-une-premiere-hors-du-continent-africain-bf129ab4-5b24-11ef-aca8-aadd4a56ff25",
-    "picture_source": "actu.fr",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRnwKay4LjCSNM2B7c6VdkjaJt2LoKKVdHZi2y7oVTYcw7KNLzkUc_JC7yOo4RC7rXygysSZq9v",
+    "news_item_snippet": "Face \u00e0 l&#39;\u00e9pid\u00e9mie de Mpox et de sa nouvelle souche Clade Ib, l&#39;OMS a d\u00e9clench\u00e9 l&#39;urgence de sant\u00e9 publique ce mercredi 14 ao\u00fbt. Voici ce que l&#39;on sait.",
+    "news_item_url": "https://actu.fr/societe/variole-du-singe-quelle-est-cette-nouvelle-souche-inquietante-et-qui-touche-particulierement-les-enfants_61491864.html",
+    "picture_source": "Franceinfo",
     "approx_traffic": "200,000+"
   },
   {
@@ -357,6 +357,16 @@
     "news_item_snippet": "L&#39;acteur de Friends, Matthew Perry, a \u00e9t\u00e9 la cible d&#39;un &quot;vaste r\u00e9seau criminel clandestin&quot; responsable de la distribution d&#39;importantes quantit\u00e9s de&nbsp;...",
     "news_item_url": "https://www.bfmtv.com/people/matthew-perry-ce-que-l-on-sait-des-avancees-de-l-enquete-sur-sa-mort-par-overdose-de-ketamine_AV-202408160294.html",
     "picture_source": "RTL.fr",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Germany",
+    "title": "DFB-Pokal",
+    "pubDate": "Fri, 16 Aug 2024 11:00:00 +0200",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcR5uMKa_14uITIy8E1T-Hm_EuuU-FmiInO2adz_XMVNcsNkm6cmMlomXODH6hQRIeR0ZAZ12rJ5",
+    "news_item_snippet": "Der DFB-Pokal startet heute (16.08.) in die erste Runde. Bis Montag (19.08.) werden 30 der 32 Spiele der ersten Pokalrunde ausgetragen.",
+    "news_item_url": "https://www.ffh.de/nachrichten/top-meldungen/409784-erste-runde-im-dfb-pokal-diese-spiele-laufen-im-free-tv.html",
+    "picture_source": "ZDFheute",
     "approx_traffic": "50,000+"
   },
   {
@@ -384,8 +394,8 @@
     "title": "Mallorca",
     "pubDate": "Thu, 15 Aug 2024 08:00:00 +0200",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRPtvY6tt7tLzXzDRJGrFMfnfNnZ8Hk7D-ngNaGrV2JeikaEba36FUkM60t_Qo1yqTb3Q2Zktan",
-    "news_item_snippet": "Das bef\u00fcrchtete heftige Unwetter hat einen Bogen um die Ferieninsel Mallorca gemacht. Der meiste Regen ging in der Nacht \u00fcber dem Meer rund um die&nbsp;...",
-    "news_item_url": "https://bnn.de/nachrichten/deutschland-und-welt/himmel-sei-dank-mallorca-entgeht-knapp-heftigem-unwetter",
+    "news_item_snippet": "Alarmstufe Rot: Mallorca war auf eines der schlimmsten Unwetter seit langem gefasst. Und dann regnete es auch, und wie! Aber nicht da, wo bef\u00fcrchtet.",
+    "news_item_url": "https://www.mainpost.de/ueberregional/politik/panorama/himmel-sei-dank-mallorca-entgeht-knapp-heftigem-unwetter-art-11591928",
     "picture_source": "tagesschau.de",
     "approx_traffic": "50,000+"
   },
@@ -394,8 +404,8 @@
     "title": "Weltbild",
     "pubDate": "Wed, 14 Aug 2024 15:00:00 +0200",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQPkdKcefi-3iALJnhxyMjWyDaovxeEwU0wBQ6zTtWuFZeWCi8U-2YQU1sP5WoiOF6JJQ1Dr8JZ",
-    "news_item_snippet": "Die Insolvenz von Weltbild ist nicht mehr abzuwenden. Das Unternehmen findet keinen Investor und entl\u00e4sst alle Mitarbeiter. Wie Betroffene reagieren.",
-    "news_item_url": "https://www.augsburger-allgemeine.de/augsburg/weltbild-insolvenz-so-reagieren-betroffene-102970400",
+    "news_item_snippet": "Das Unternehmen hatte im Juni beim Amtsgericht Augsburg Insolvenz angemeldet. Plail sagte: \u201eEine dauerhafte und nachhaltige Betriebsfortf\u00fchrung ist ohne&nbsp;...",
+    "news_item_url": "https://www.volksstimme.de/deutschland-und-welt/wirtschaft/weltbild-stellt-das-geschaft-ein-3898576",
     "picture_source": "b\u00f6rsenblatt",
     "approx_traffic": "50,000+"
   },
@@ -414,10 +424,10 @@
     "title": "Gerardina Trovato",
     "pubDate": "Fri, 16 Aug 2024 09:00:00 +0200",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcT-nBWxm-O2K3HSluu5ZkIzi1pbfQutnnP1vfKyk5dDK3h-4WTTLPL1-vrzxHylwLV4PSvlFkkE",
-    "news_item_snippet": "Il motivo? Un dramma personale: una grave nevrosi ossessiva depressiva, una malattia che la strappa via dal suo mondo, quello della musica, e la getta in un&nbsp;...",
-    "news_item_url": "https://www.zarabaza.it/2024/08/15/gerardina-trovato-la-voce-che-nessuno-ha-voluto-ascoltare/",
+    "news_item_snippet": "Da anni assente dalle scene ha sofferto di nevrosi depressiva.",
+    "news_item_url": "https://video.corriere.it/spettacoli/gerardina-trovato-sui-social-quello-che-conta-e-la-gente-non-mi-abbandonate/d81af82b-1b26-490c-b7e9-d8f22ef18xlk",
     "picture_source": "Corriere della Sera",
-    "approx_traffic": "50,000+"
+    "approx_traffic": "100,000+"
   },
   {
     "country": "Italy",
@@ -450,10 +460,20 @@
     "approx_traffic": "50,000+"
   },
   {
+    "country": "Italy",
+    "title": "Matthew Perry",
+    "pubDate": "Thu, 15 Aug 2024 18:00:00 +0200",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRbtxxvrwOYpQZeNV3rtNmcfg0mxP5BZE7RkQRINr4Xb9VDcLR0xFxRz8sMMrGAOrLazuc_1utX",
+    "news_item_snippet": "Secondo l&#39;accusa, gli indagati, tra cui l&#39;assistente dell&#39;attore, avrebbero approfittato delle vulnerabilit\u00e0 della star di Friends.",
+    "news_item_url": "https://www.wired.it/article/matthew-perry-morte-indagati/",
+    "picture_source": "Il Sole 24 ORE",
+    "approx_traffic": "50,000+"
+  },
+  {
     "country": "Spain",
     "title": "Carlos Alcaraz",
     "pubDate": "Fri, 16 Aug 2024 02:00:00 +0200",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTSCEFDJ2-CAn_cbVNIi81KkEsPFR3cDhSwROywTTaubTZzG6Y0z8C6P5WhieqK-jQKGFnOIafB",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQGDYgZdOYVHMttRa_x2yBuYBH3g1mH16r0JteINXJItwyLj8ldY091hPJ-2QsGlJipvzb0XNTY",
     "news_item_snippet": "Nuevo reto para Carlos Alcaraz. El tenista murciano inicia su camino en el Masters de Cincinnati este jueves 15 de agosto. El actual campe\u00f3n de Roland&nbsp;...",
     "news_item_url": "https://www.marca.com/tenis/masters-1000-cincinnati/2024/08/15/66bd28e446163f51438b456f.html",
     "picture_source": "La Verdad",
@@ -463,10 +483,10 @@
     "country": "Spain",
     "title": "La Liga",
     "pubDate": "Thu, 15 Aug 2024 14:00:00 +0200",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTTFw69hKiCUakV6c7PAkzS_yMN8_J0xQG7f6mUYQjk0jvDBy-tEe6fH7A3fakHUOJ4k3q98Q4Y",
-    "news_item_snippet": "Sancet y Uche sellan el empate en el Athletic-Getafe en el regreso de Nico Williams.",
-    "news_item_url": "https://www.abc.es/deportes/futbol/par-golazos-estrenar-liga-san-mames-20240815211111-nt.html",
-    "picture_source": "MARCA",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTjFvAXhMIN40TFxvh_OmcouDboKChuxoOOw04dR0K7ZydkqBwk5NebM394NNRgUiLRolox8cHc",
+    "news_item_snippet": "El Real Madrid, vigente campe\u00f3n, debutar\u00e1 a domicilio frente al Mallorca (domingo, 21:30 h; Dazn).",
+    "news_item_url": "https://www.realmadrid.com/es-ES/noticias/futbol/primer-equipo/actualidad/horarios-de-la-primera-jornada-de-liga-15-08-2024",
+    "picture_source": "EL PA\u00cdS",
     "approx_traffic": "200,000+"
   },
   {
@@ -481,12 +501,12 @@
   },
   {
     "country": "Spain",
-    "title": "ONCE",
-    "pubDate": "Thu, 15 Aug 2024 22:00:00 +0200",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTD3ggm4pOLb7jFGoKlbp-BvnVhR1i-dT-2VqlTv6-ZE1UXO_FUhCIejLLSq2sCqlTk1kx5ndK8",
-    "news_item_snippet": "El sorteo del verano llega de la mano de ONCE para repartir premios millonarios entre sus participantes. Comprueba el resultado del sorteo de este 15 de&nbsp;...",
-    "news_item_url": "https://www.lasexta.com/loteria/sorteo-extraordinario-de-la-once/comprobar-resultado-cupon-extra-verano-once-15-agosto_2024081566bcccc1797ae100014b0c4d.html",
-    "picture_source": "ONCE",
+    "title": "Viruela del mono",
+    "pubDate": "Thu, 15 Aug 2024 00:00:00 +0200",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSvz2DVReub6UB8JIQ5sxQegGGZHn0RulZZsCa5sWsdZA3e1y8mFNMlJPLKWOUj8FfEo-4dpVsm",
+    "news_item_snippet": "La decisi\u00f3n de la OMS desencadena una respuesta internacional ante el aumento de los casos de la viruela del mono.Claves de la nueva variante de la viruela&nbsp;...",
+    "news_item_url": "https://www.ondacero.es/noticias/salud/que-pasa-ahora-viruela-mono-declarar-emergencia-mundial-variantes-medidas-frenar-enfermedad_2024081666bef6201dd440000150cda2.html",
+    "picture_source": "Ondacero",
     "approx_traffic": "100,000+"
   },
   {
@@ -494,8 +514,8 @@
     "title": "Matthew Perry",
     "pubDate": "Thu, 15 Aug 2024 16:00:00 +0100",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSZnK6IpVykNpL4vE2g0mmGeSKCCf1ok4krVfEiW99uewFVHHquzoaiGbNtoN7K4qZNvf6M2JOp",
-    "news_item_snippet": "At a press conference, US Attorney E Martin Estrada said the suspects include Perry&#39;s personal assistant, two doctors, and a North Hollywood woman known as \u201cthe&nbsp;...",
-    "news_item_url": "https://www.independent.co.uk/arts-entertainment/tv/news/matthew-perry-arrests-stepfather-keith-morrison-b2597300.html",
+    "news_item_snippet": "Doctors, personal assistant and alleged dealer known as the &quot;Ketamine Queen&quot; charged over Friends star&#39;s death.",
+    "news_item_url": "https://www.bbc.com/news/articles/c624g49qm5mo",
     "picture_source": "BBC News",
     "approx_traffic": "100,000+"
   },
