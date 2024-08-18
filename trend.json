@@ -1,11 +1,21 @@
 [
   {
     "country": "United States",
+    "title": "Severe thunderstorm warning",
+    "pubDate": "Sat, 17 Aug 2024 15:00:00 -0700",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQBUkQHJMGdN6s2u3mdezHY_FqmzbvKwOa1YwKG3Zu8U-mnsx2EtF2BDqPA21KuZLM895YNfolw",
+    "news_item_snippet": "The warnings are for southwestern Portage County and east central Summit County. The National Weather Service in Cleveland said at just before 6:40 p.m., a line&nbsp;...",
+    "news_item_url": "https://www.beaconjournal.com/story/news/2024/08/17/parts-of-summit-portage-counties-under-severe-thunderstorm-warning/74844699007/",
+    "picture_source": "News 5 Cleveland",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "United States",
     "title": "Dallas Cowboys",
     "pubDate": "Sat, 17 Aug 2024 20:00:00 -0700",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSg1wxWZ7PAjVO7NrId1f5NHRAbfDNOq3LMKvqOyvaHxOvekiqIJx3FxnzDY1wKlM26XvVm3akI",
-    "news_item_snippet": "The Dallas Cowboys vs. Las Vegas Raiders game will be played on Saturday, August 17, 2024 at 10 p.m. ET (7 p.m. PT). The NFL preseason game will air on NFL&nbsp;...",
-    "news_item_url": "https://www.cbsnews.com/essentials/how-to-watch-the-dallas-cowboys-vs-las-vegas-raiders-nfl-preseason-game-tonight-livestream-options-more/",
+    "news_item_snippet": "Quarterback Trey Lance leads the offensive charge in the Cowboys&#39; 27-12 preseason victory at the Raiders.",
+    "news_item_url": "https://www.dallascowboys.com/news/game-recap-behind-lance-cowboys-win-27-12",
     "picture_source": "Raiders.com",
     "approx_traffic": "200,000+"
   },
@@ -31,6 +41,16 @@
   },
   {
     "country": "United States",
+    "title": "Detroit Lions",
+    "pubDate": "Sat, 17 Aug 2024 15:00:00 -0700",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTZ7DAohHY6MiSpTiIU1GMxiu3Gt6dgj1tiSiq-22HOS7iiHxv5QujLiQergiq-TQ-L1Ku3i255",
+    "news_item_snippet": "The Detroit Lions vs. Kansas City Chiefs game will be played on Saturday, August 17, 2024 at 4 p.m. ET (1 p.m. PT). The NFL preseason game will air on NFL&nbsp;...",
+    "news_item_url": "https://www.cbsnews.com/essentials/how-to-watch-the-detroit-lions-vs-kansas-city-chiefs-nfl-preseason-game-today-livestream-options-more/",
+    "picture_source": "detroitlions.com",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United States",
     "title": "Arsenal",
     "pubDate": "Sat, 17 Aug 2024 07:00:00 -0700",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSUR_Uy7M51OahKPOFrYbEuKh7yGTReomc9S8qFdR4e7fJIoPa9UAtRKSM60J8_XreGOgHfcpQh",
@@ -47,16 +67,6 @@
     "news_item_snippet": "Robert Lewandowski scored late in the first half and early in the second to give Barcelona a winning start in coach Hansi Flick&#39;s Spanish league debut.",
     "news_item_url": "https://apnews.com/article/lewandowski-barcelona-valencia-spanish-league-score-776d92d28b8aed8d0dbaf46f323158a2",
     "picture_source": "The Athletic",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Lions vs Chiefs",
-    "pubDate": "Sat, 17 Aug 2024 16:00:00 -0700",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTZ7DAohHY6MiSpTiIU1GMxiu3Gt6dgj1tiSiq-22HOS7iiHxv5QujLiQergiq-TQ-L1Ku3i255",
-    "news_item_snippet": "The Detroit Lions vs. Kansas City Chiefs game will be played on Saturday, August 17, 2024 at 4 p.m. ET (1 p.m. PT). The NFL preseason game will air on NFL&nbsp;...",
-    "news_item_url": "https://www.cbsnews.com/essentials/how-to-watch-the-detroit-lions-vs-kansas-city-chiefs-nfl-preseason-game-today-livestream-options-more/",
-    "picture_source": "detroitlions.com",
     "approx_traffic": "50,000+"
   },
   {
@@ -84,8 +94,8 @@
     "title": "Liverpool",
     "pubDate": "Sat, 17 Aug 2024 05:00:00 -0700",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcR0T3bkqN-yJlU3j-6gPdm6XikALgYwtrZk3vc_3YAjT2gPq3_xfGTI0jXLTtJlHivQWMR72IYF",
-    "news_item_snippet": "Reds win 2-0 at Portman Road on Ipswich&#39;s return to Premier League.",
-    "news_item_url": "https://www.premierleague.com/news/4082441",
+    "news_item_snippet": "Clinical Liverpool Down Ipswich 2-0 in Premier League StartThis was a game that was always going to create a nervous atmosphere for the traveling support,&nbsp;...",
+    "news_item_url": "https://sports.yahoo.com/postmortem-liverpool-second-half-brilliance-060000045.html",
     "picture_source": "ESPN",
     "approx_traffic": "50,000+"
   },
@@ -131,7 +141,7 @@
   },
   {
     "country": "India",
-    "title": "Fcbarcelona",
+    "title": "Barca",
     "pubDate": "Sun, 18 Aug 2024 01:30:00 +0530",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRlqJzAGiJzUsHZZGBS-bPC-wKGtWzIj9mPIGrkGxatSYK9-DD2zbVs6tZWrNroPmoJ0pREmXQl",
     "news_item_snippet": "Onwards and upwards for Bar\u00e7a Women, who have defeated Montpellier 5-0 in a game the blaugranes controlled from start to finish.",
@@ -141,12 +151,12 @@
   },
   {
     "country": "India",
-    "title": "Al Nassr",
-    "pubDate": "Sat, 17 Aug 2024 22:30:00 +0530",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcS2WgaRSYdvTmgWhG9RCtF9Kz-vEvqyFdGroUESbZBOBI110PYTFzCVYNUaA5knDmfiIUE2QLXK",
-    "news_item_snippet": "Football News: Cristiano Ronaldo&#39;s debut for Al-Nassr in Saudi Arabia&#39;s Super Cup ended in disappointment as the team suffered a 4-1 defeat to Al-Hilal.",
-    "news_item_url": "https://timesofindia.indiatimes.com/sports/football/top-stories/watch-cristiano-ronaldos-why-sleeping-signal-to-al-nassr-mates-after-17-minute-horror/articleshow/112600913.cms",
-    "picture_source": "ESPN India",
+    "title": "Paetongtarn Shinawatra Thailand",
+    "pubDate": "Sat, 17 Aug 2024 08:30:00 +0530",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSGMNUKDcz0Axksq3ieIGVEuZmZ1JCeFwLxXqT9QWn2CwMI5ilzh5AnfyMnlBZ3Ee11HC0MQ-rU",
+    "news_item_snippet": "She replaces another leader from the same Pheu Thai Party, at the head of a coalition that includes military parties associated with the coup that deposed the&nbsp;...",
+    "news_item_url": "https://www.thehindu.com/news/international/paetongtarn-shinawatra-becomes-thai-prime-minister-after-royal-signoff/article68539038.ece",
+    "picture_source": "Aljazeera.com",
     "approx_traffic": "100,000+"
   },
   {
@@ -158,16 +168,6 @@
     "news_item_url": "https://www.thehindu.com/sport/football/salah-and-jota-fire-arne-slot-to-winning-start-as-liverpool-boss/article68536938.ece",
     "picture_source": "The Hindu",
     "approx_traffic": "200,000+"
-  },
-  {
-    "country": "India",
-    "title": "Paetongtarn Shinawatra Thailand",
-    "pubDate": "Fri, 16 Aug 2024 22:30:00 +0530",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSGMNUKDcz0Axksq3ieIGVEuZmZ1JCeFwLxXqT9QWn2CwMI5ilzh5AnfyMnlBZ3Ee11HC0MQ-rU",
-    "news_item_snippet": "She replaces another leader from the same Pheu Thai Party, at the head of a coalition that includes military parties associated with the coup that deposed the&nbsp;...",
-    "news_item_url": "https://www.thehindu.com/news/international/paetongtarn-shinawatra-becomes-thai-prime-minister-after-royal-signoff/article68539038.ece",
-    "picture_source": "Aljazeera.com",
-    "approx_traffic": "100,000+"
   },
   {
     "country": "Argentina",
@@ -211,16 +211,6 @@
   },
   {
     "country": "Argentina",
-    "title": "Velez",
-    "pubDate": "Sat, 17 Aug 2024 20:00:00 -0300",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSVXyTI6YRH1_NvBOGWnDR1esOoMqnQqSejo1G8toVReVxj_q7WV-9keYpCq9zYjeyV92SpB99O",
-    "news_item_snippet": "Se impuso en Liniers gracias a un gol de penal de Braian Romero, pero arm\u00f3 varias jugadas que generaron los aplausos de los hinchas - LA NACION.",
-    "news_item_url": "https://www.lanacion.com.ar/deportes/futbol/velez-instituto-por-la-liga-profesional-el-fortin-hizo-tres-goles-y-el-var-le-anulo-dos-pero-gano-y-nid17082024/",
-    "picture_source": "Ol\u00e9",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Argentina",
     "title": "Talleres  Independiente",
     "pubDate": "Sat, 17 Aug 2024 20:00:00 -0300",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQUbDsC2GvuNIqkXU3bNkU92rEF8ktzNvBKgMiQDFZ0-vDkRZm7lyoBmDw77-LF5PHnV-1pYT4g",
@@ -243,10 +233,10 @@
     "country": "Brazil",
     "title": "Silvio Santos",
     "pubDate": "Sat, 17 Aug 2024 09:00:00 -0500",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSr5wgmZu4CkAJB5Dbp2XPypsfNTb8x-UzcGDvU67DkgTp6ucu_SurZ067sNC8cucTvHmF-3urx",
-    "news_item_snippet": "Nascido no Rio de Janeiro em 1930, Silvio Santos passou de vendedor ambulante a empres\u00e1rio de sucesso. Ele fundou uma das maiores empresas de m\u00eddia do pa\u00eds,&nbsp;...",
-    "news_item_url": "https://agenciabrasil.ebc.com.br/geral/noticia/2024-08/lula-decreta-luto-oficial-de-3-dias-pela-morte-de-silvio-santos",
-    "picture_source": "Jornal O Globo",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcR3VpC-RnMZNAe2T4Qkt0Xf3ltGbrOHzU6ydOO2w5HFVaAHwBG3OAwlkfd5wLZlzYBpXSEsOqQP",
+    "news_item_snippet": "Fam\u00edlia informou que n\u00e3o haver\u00e1 vel\u00f3rio; f\u00e3s lotam o local &middot; Morte aos 93 anos &middot; Silvio Santos na TV Globo.",
+    "news_item_url": "https://gshow.globo.com/tudo-mais/tv-e-famosos/noticia/silvio-santos-sera-enterrado-no-cemiterio-israelita-do-butanta-em-sao-paulo.ghtml",
+    "picture_source": "G1",
     "approx_traffic": "5,000,000+"
   },
   {
@@ -334,8 +324,8 @@
     "title": "Ceara",
     "pubDate": "Sat, 17 Aug 2024 15:00:00 -0500",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcR_bRdS8FZV6dWxsv5ltNwGL6iHAiydaB2rxcBm3wyPCcYS3OM9t64wDSMVxwpXpsLnUgFIAGTlgQ",
-    "news_item_snippet": "Nos acr\u00e9scimos, um p\u00eanalti contra o Vov\u00f4. A torcida, jogadores, toda a massa alvinegra ficou na bronca. O \u00e1rbitro confirmou a penalidade, e o Mirassol venceu o&nbsp;...",
-    "news_item_url": "https://ge.globo.com/ce/futebol/times/ceara/noticia/2024/08/18/analise-ceara-insiste-mas-esbarra-em-muralha-e-se-distancia-do-g-4.ghtml",
+    "news_item_snippet": "O Mirassol venceu o Cear\u00e1 na Arena Castel\u00e3o por 2 a 1 e assumiu a lideran\u00e7a da S\u00e9rie B do Campeonato Brasileiro. Luiz Ot\u00e1vio marcou de cabe\u00e7a, na bola a\u00e9rea,&nbsp;...",
+    "news_item_url": "https://ge.globo.com/ce/futebol/times/ceara/noticia/2024/08/18/leo-conde-critica-arbitragem-apos-derrota-do-ceara-a-gente-esta-sendo-prejudicado-sim.ghtml",
     "picture_source": "CNN Brasil",
     "approx_traffic": "50,000+"
   },
@@ -357,16 +347,6 @@
     "news_item_snippet": "Essa \u00e9 uma pergunta sobre o TikTok que envia notifica\u00e7\u00f5es que parecem noticiosas, mas derivam da sujeira gerada pelo usu\u00e1rio &middot; O Financial Times publicou uma&nbsp;...",
     "news_item_url": "https://www.poder360.com.br/nieman/quando-um-alerta-de-noticias-nao-e-um-alerta-de-noticias/",
     "picture_source": "OAB/MS",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Brazil",
-    "title": "Chapecoense x Guarani",
-    "pubDate": "Sat, 17 Aug 2024 14:00:00 -0500",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRLo7PE988RAEEHzh2E1ToWHzQyD2X34DdZPN_-gNHompPs33y5EkkDuLVFuIiRO9vB5EJM7iXt",
-    "news_item_snippet": "No confronto entre duas equipes que lutam contra o rebaixamento na S\u00e9rie B do Campeonato Brasileiro, o Guarani goleou a Chapecoense por 4 a 0 na tarde deste&nbsp;...",
-    "news_item_url": "https://ge.globo.com/sc/futebol/brasileirao-serie-b/noticia/2024/08/17/chapecoense-0-x-4-guarani-assista-aos-melhores-momentos-do-jogo.ghtml",
-    "picture_source": "Terra",
     "approx_traffic": "50,000+"
   },
   {
@@ -393,10 +373,10 @@
     "country": "Canada",
     "title": "Tornado warning",
     "pubDate": "Sat, 17 Aug 2024 11:00:00 -0400",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSNYhme81mOI9tKLAAYOc1_dJSKFGZ86UnddXr2_ZaEUIkwdhGtocq3siD2zXYdedDVVYaq2DpE",
-    "news_item_snippet": "Environment Canada says conditions are favourable for the development of severe thunderstorms that could produce tornadoes.",
-    "news_item_url": "https://www.guelphtoday.com/local-news/severe-thunderstorm-warning-in-effect-for-cambridge-9364130",
-    "picture_source": "GuelphToday",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQ3c9yfo2nnqY4Um4dEmlM4Cv6ITg5U8rVjSiCrzI2X1XfuQYu8Qge3Gx7m-uOPgIjM4wcNoUBg",
+    "news_item_snippet": "Trees down, damage reported after tornado near Ayr, Ont. ... Tornado watches and warnings have ended across Ontario. Environment Canada issued a warning for the&nbsp;...",
+    "news_item_url": "https://kitchener.ctvnews.ca/trees-down-damage-reported-after-tornado-near-ayr-ont-1.7004490",
+    "picture_source": "CTV Toronto",
     "approx_traffic": "200,000+"
   },
   {
@@ -404,29 +384,29 @@
     "title": "Alain Delon",
     "pubDate": "Sun, 18 Aug 2024 08:00:00 +0200",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQuc7RHKTtCVvjaoAEsSnyrs4jT2RBczVGASdRn3phyvQORTXECrCApkKtpAib38EIvnS-KfoeW",
-    "news_item_snippet": "&quot;Alain Delon a incarn\u00e9 des r\u00f4les l\u00e9gendaires&quot;, a \u00e9crit le chef de l&#39;Etat sur le r\u00e9seau social X quelques heures apr\u00e8s l&#39;annonce de la disparition de&nbsp;...",
-    "news_item_url": "https://www.francetvinfo.fr/culture/cinema/alain-delon/direct-mort-d-alain-delon-suivez-les-hommages-et-les-reactions-apres-la-mort-de-l-icone-du-cinema-francais_6731064.html",
+    "news_item_snippet": "L&#39;acteur fran\u00e7ais Alain Delon est d\u00e9c\u00e9d\u00e9 \u00e0 l&#39;\u00e2ge de 88 ans, ont annonc\u00e9 ses trois enfants \u00e0 l&#39;AFP ce dimanche matin. &quot;Il s&#39;est \u00e9teint sereinement dans sa&nbsp;...",
+    "news_item_url": "https://www.europe1.fr/culture/lacteur-francais-alain-delon-est-mort-annoncent-ses-trois-enfants-4262797",
     "picture_source": "France Bleu",
-    "approx_traffic": "1,000,000+"
+    "approx_traffic": "2,000,000+"
   },
   {
     "country": "France",
     "title": "OM",
     "pubDate": "Sat, 17 Aug 2024 17:00:00 +0200",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcR1-EWbfrhi1fljPM8KdjDg6mcF7M_E2QWCdVts2SAvzJxjD6p--QmD1yGHS0KIyD-2bUNyKSIy",
-    "news_item_snippet": "Pour sa premi\u00e8re en Ligue 1, le coach italien a vu son \u00e9quipe \u00e9triller le SB29 (5-1). Pourtant, RDZ \u00e9tait loin de fanfaronner en conf\u00e9rence de pr (.",
-    "news_item_url": "https://www.footmercato.net/a154309244762873049-om-roberto-de-zerbi-recadre-deja-ses-joueurs",
-    "picture_source": "Ouest-France",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSQXyjOYfs6xG89YworUcCHkd85-jUdqrmJH20HvzRN4fd_W08-CeamqrOrd4H3faxYcJJ76YeB",
+    "news_item_snippet": "Pour son premier match de la saison, l&#39;OM s&#39;est largement impos\u00e9 sur le terrain du Stade Brestois (1-5), ce samedi 17 ao\u00fbt. Mason Greenwood et Luis Henrique&nbsp;...",
+    "news_item_url": "https://www.ouest-france.fr/sport/football/ligue-1/direct/direct-stade-brestois-om-suivez-la-premiere-journee-de-ligue-1-en-live-00b5572c-2c01-43a1-b2f1-77bc06e9f99b",
+    "picture_source": "Foot Mercato",
     "approx_traffic": "100,000+"
   },
   {
     "country": "France",
     "title": "Reims \u2013 Lille",
     "pubDate": "Sat, 17 Aug 2024 19:00:00 +0200",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTK_QXGCfM1lWEGf9wlFYG815ipyYoXq0ZDyq7VjrDw4BWizRPBzbPlhkBYERihuZgXjHndgcHV",
-    "news_item_snippet": "Le joueur de Lille Angel Gomes a \u00e9t\u00e9 victime d&#39;un violent choc \u00e0 la t\u00eate, samedi 17 ao\u00fbt, lors de la rencontre de la premi\u00e8re journ\u00e9e de Ligue 1 sur la&nbsp;...",
-    "news_item_url": "https://www.ouest-france.fr/sport/football/lille-osc/ligue-1-ce-que-lon-sait-apres-la-grave-blessure-dangel-gomes-pendant-le-match-reims-lille-3b88239c-5d29-11ef-b63d-b4e29ed87752",
-    "picture_source": "BFMTV.COM",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQodGROveNBAylC9EuPReYKD3QHikH2wV1lPAGU-JZEYU-5tS8kCD-XNv1HVWrbAGo1o85roTtb",
+    "news_item_snippet": "Apr\u00e8s la grave blessure du Lillois Angel Gomes et l&#39;intervention des pompiers, les joueurs ont d\u00fb se reconcentrer pour reprendre la partie.",
+    "news_item_url": "https://www.lunion.fr/id631380/article/2024-08-17/comment-les-joueurs-de-stade-de-reims-lille-ont-trouve-les-ressources-mentales",
+    "picture_source": "Ouest-France",
     "approx_traffic": "100,000+"
   },
   {
@@ -450,12 +430,32 @@
     "approx_traffic": "50,000+"
   },
   {
+    "country": "France",
+    "title": "Araign\u00e9e violoniste",
+    "pubDate": "Sat, 17 Aug 2024 19:00:00 +0200",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQ8-zT3KtbQvFov42c7TjneZrizGIy6Fnsz-JZmnMs3s7uxXXvUrXP7r3-za9wW_X-aS8YgwlTE",
+    "news_item_snippet": "Giuseppe Russo est mort d&#39;un choc septique et d&#39;une d\u00e9faillance g\u00e9n\u00e9rale de ses organes vitaux plus d&#39;un mois apr\u00e8s avoir \u00e9t\u00e9 mordu \u00e0 la jambe.",
+    "news_item_url": "https://www.lefigaro.fr/international/un-jeune-italien-meurt-a-la-suite-d-une-morsure-d-une-araignee-violoniste-20240817",
+    "picture_source": "Le Parisien",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Germany",
+    "title": "Alain Delon",
+    "pubDate": "Sun, 18 Aug 2024 09:00:00 +0200",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTTqsG5x-Wb-nD5YTXVb4jECwVfUHVAmvEK20TVriIt-pWTpGImzx_DlbMYivq4BqBMdy4ksHJq",
+    "news_item_snippet": "Leinwandkiller und gef\u00fchlsloser Verf\u00fchrer par excellence: Die Aura des sch\u00f6nen Todesengels machte Alain Delon zur Filmlegende. Mit Romy Schneider bildete er&nbsp;...",
+    "news_item_url": "https://www.mz.de/panorama/alain-delon-schauspieler-filmlegende-tot-engel-teufelsgestalt-3900510",
+    "picture_source": "tagesschau.de",
+    "approx_traffic": "200,000+"
+  },
+  {
     "country": "Germany",
     "title": "Highfield-Festival",
     "pubDate": "Sun, 18 Aug 2024 00:00:00 +0200",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRCMHxUAlpo2aFNXhHPowqnYaUy__g5qIl3GPlU5y1Y9QY9k2CzT_GwneAwSbj4SomzKtA0B0Hj",
-    "news_item_snippet": "Auf dem Highfield-Festival am St\u00f6rmthaler See bei Leipzig ist am Samstagabend ein Feuer ausgebrochen. Dabei wurden nach Polizeiangaben rund 25 Personen verletzt&nbsp;...",
-    "news_item_url": "https://www.mdr.de/nachrichten/sachsen/leipzig/leipzig-leipzig-land/highfield-festival-riesenrad-feuer-100.html",
+    "news_item_snippet": "Tausende Menschen feiern beim Rock- und Popfestival \u201eHighfield\u201c nahe Leipzig. Pl\u00f6tzlich steht die Gondel eines Riesenrades in Flammen, mehrere Menschen&nbsp;...",
+    "news_item_url": "https://www.mz.de/panorama/brand-highfield-festival-bei-leipzig-riesenrad-in-flammen-23-verletzte-3900429",
     "picture_source": "DASDING.de",
     "approx_traffic": "50,000+"
   },
@@ -500,6 +500,16 @@
     "approx_traffic": "500,000+"
   },
   {
+    "country": "Italy",
+    "title": "Ragno violino",
+    "pubDate": "Sat, 17 Aug 2024 16:00:00 +0200",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRbOxEYBHRq0ujPnLe_qP_3wX2SI_hUrCMxZiZlfDHQOVU1ejuzyzsvEd59HpnCuNx_ZlOm0_KX",
+    "news_item_snippet": "Inizialmente aveva pensato a una normale puntura di zanzara, ma ben presto ha cominciato ad accusare forti dolori ed \u00e8 stato ricoverato in ospedale a Lecce.",
+    "news_item_url": "https://www.rainews.it/video/2024/08/muore-per-il-morso-di-un-ragno-violino-per-i-medici-unevoluzione-inspiegabile-al-momento-695699c5-cfc0-4add-8b48-0ef57dcfc049.html",
+    "picture_source": "Nurse Times",
+    "approx_traffic": "200,000+"
+  },
+  {
     "country": "Mexico",
     "title": "Valencia CF  Barcelona",
     "pubDate": "Sat, 17 Aug 2024 04:00:00 -0600",
@@ -533,40 +543,30 @@
     "country": "Mexico",
     "title": "Serie A",
     "pubDate": "Sat, 17 Aug 2024 11:00:00 -0600",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSa_z1LyiobabLJwAclsViwl24tbL53JSNPVK-Um4BVjKappx0DPWbFepRNV6fpoNzx4i6fPyMc",
-    "news_item_snippet": "El f\u00fatbol es un deporte de conjunto, pero los goleadores son jugadores imprescindibles en todos los equipos. A estas alturas de la Serie A, cuando se cumple&nbsp;...",
-    "news_item_url": "https://www.lavanguardia.com/deportes/futbol/20240818/0/serie-a-2024-2025-pichichi-maximo-asistente-ca-jornada-1-ctx.html",
-    "picture_source": "Diario Deportivo Record",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Mexico",
-    "title": "Leagues Cup 2024",
-    "pubDate": "Sat, 17 Aug 2024 23:00:00 -0600",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTqxb7f7wTP4ry7C8H-AtuTLV82jJZhj0eLjirblDR2jX0msFFhluatrFn5IkYOWvQnLoQPuKA",
-    "news_item_snippet": "As\u00ed se jugar\u00e1n la antesala de la Final del torneo de la MLS contra clubes de la Liga MX en su segunda edici\u00f3n en la que participan todos los equipos de las&nbsp;...",
-    "news_item_url": "https://www.tudn.com/futbol/leagues-cup/leagues-cup-2024-equipos-clasificados-semifinales-partidos-fechas",
-    "picture_source": "ESPN",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTGxEA1HXgSO_9hLTiZer5HDY1Hg_AmgNHd3NFJiWJi-a6ncydDqEuMmf-Fd8gfoiMtMosNilCY",
+    "news_item_snippet": "El Genoa, con el mexicano Johan V\u00e1squez, arranca una nueva temporada en Italia ante el Internazionale.",
+    "news_item_url": "https://www.record.com.mx/futbol-futbol-internacional-internacionales/genoa-vs-inter-de-milan-en-vivo-online-serie-a-jornada-1",
+    "picture_source": "La Vanguardia",
     "approx_traffic": "50,000+"
   },
   {
     "country": "Spain",
     "title": "Alain Delon",
     "pubDate": "Sun, 18 Aug 2024 09:00:00 +0200",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTIqvZG80HuUnTAEC-vSGgQiX4fEH5dY0iy3TV8IGidckvp-irSOrjKxhwUSjcL_9iQQoMx4_4I",
-    "news_item_snippet": "Su irrupci\u00f3n en los a\u00f1os sesenta le llev\u00f3 al estrellato con pel\u00edculas como &#39;Rocco y sus hermanos&#39; o &#39;El gatopardo&#39;. La cinematograf\u00eda francesa y europea de&nbsp;...",
-    "news_item_url": "https://elpais.com/cultura/2024-08-18/muere-alain-delon-icono-del-cine-frances-a-los-88-anos.html",
-    "picture_source": "BBC Mundo",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRsUbH2XFmdcdH-RhDrz49BYpwj2GU2z7nCGHCTLZvlvYG3xaEV-YK0CRbP0iN6U8SuUDbiq-9D",
+    "news_item_snippet": "Cuando en 2019 el Festival de Cannes no tuvo otra que rendirse a lo inevitable y, en consecuencia, rendir homenaje a uno de los m\u00e1s grandes iconos que ha&nbsp;...",
+    "news_item_url": "https://www.elmundo.es/cultura/cine/2024/08/18/66c190d0fdddff21188b457c.html",
+    "picture_source": "EL PA\u00cdS",
     "approx_traffic": "100,000+"
   },
   {
     "country": "Spain",
     "title": "Valencia CF  Barcelona",
     "pubDate": "Sat, 17 Aug 2024 15:00:00 +0200",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcS_YE0POPKg7tdPmet6QjUK64ag1LrBXt9rLUl15_76J8hc30UhPYDVlQUtsYRRDnwV3Azwt688",
-    "news_item_snippet": "\u00a1Final de partido! VALENCIA CF 1 - 2 FC BARCELONA. Act. Aug 17, 2024 - 17:33 EDT.",
-    "news_item_url": "https://elpais.com/deportes/futbol/2024-08-17/valencia-barcelona-en-directo-el-partido-de-laliga-ea-sports-en-vivo.html",
-    "picture_source": "MARCA.com",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcR7aMj78V5Y1tIBNBEtOjgrC0EOBS5-_pfyr913DHTuJQgJosyIKOHMrahoywLnRIDl36i0mqC_",
+    "news_item_snippet": "Sigue el resultado del Valencia - Bar\u00e7a En Directo Online. Transmisi\u00f3n minuto a minuto y d\u00f3nde ver del partido del Barcelona hoy, desde el Estadio Mestalla.",
+    "news_item_url": "https://www.marca.com/mx/futbol/valencia-barcelona/2024/08/17/01_0101_20240817_191_178-directo.html",
+    "picture_source": "RTVE",
     "approx_traffic": "500,000+"
   },
   {
@@ -580,30 +580,30 @@
     "approx_traffic": "50,000+"
   },
   {
-    "country": "Spain",
-    "title": "Osasuna",
-    "pubDate": "Sat, 17 Aug 2024 19:00:00 +0200",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcR5Rlf1wI7rDglc0Q9mAcMwC3q_YYeShea1UUZnaJifhZW-1AU2x03HL7L_l1wtuPiGM1OEw6rv",
-    "news_item_snippet": "C. A. Osasuna: S. Herrera, Herrando, Torr\u00f3, Aimar (Ra\u00fal, m.91), Areso, Rub\u00e9n Garc\u00eda (R. Pe\u00f1a, m.77), Moi G\u00f3mez (Bryan, m.60), Budimir, Iker Mu\u00f1oz (Moncayola&nbsp;...",
-    "news_item_url": "https://www.osasuna.es/news/read/35869/osasuna-estrena-la-liga-con-un-empate-en-el-sadar-1-1",
-    "picture_source": "La Tribuna de Albacete",
+    "country": "United Kingdom",
+    "title": "Newcastle United",
+    "pubDate": "Sun, 18 Aug 2024 09:00:00 +0100",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSgTcZptrtNnVmNSjKj3yqX3KBRWR8dgnfme6Oa1SBfqWs05TU2CChallnJsRnyCk3bUPC1z2mG",
+    "news_item_snippet": "Newcastle United hung on to claim and blood and guts 1-0 Premier League opening day win over Southampton at St James&#39; Park.",
+    "news_item_url": "https://www.newcastleworld.com/news/newcastle-united-star-spotted-at-deeply-primal-quayside-nightspot-popular-with-legend-alan-shearer-4746710",
+    "picture_source": "NewcastleWorld",
     "approx_traffic": "50,000+"
   },
   {
     "country": "United Kingdom",
     "title": "Alain Delon",
     "pubDate": "Sun, 18 Aug 2024 09:00:00 +0100",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQnbhw2RWRI6UiJwezKu48wc6Ih000CFmAvfD7jUMVfT4hOQ7vDosARQdZooTv2F_Slmp2l6tX-",
-    "news_item_snippet": "Delon starred in more than 80 movies over six decades, including such classics as &quot;Le Samoura\u00ef&quot; and &quot;The Leopard.&quot; He was 88.",
-    "news_item_url": "https://www.npr.org/2024/08/18/nx-s1-4815021/alain-delon-cinematic-heartthrob-and-one-of-the-most-beloved-french-actors-has-died",
-    "picture_source": "The Guardian",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQYEPr8qQP3BqehISy-f7L-53CTG9JHY-6yLHW0XVLvLjCT3cmdgXyfrQ_3Qzl9gy4cHgSd-LQf",
+    "news_item_snippet": "French actor Alain Delon has died aged 88. Best known for his cinema work in the 1960s, he starred in a string of works by auteur directors before turning&nbsp;...",
+    "news_item_url": "https://www.theguardian.com/film/gallery/2024/aug/18/alain-delon-a-life-in-pictures",
+    "picture_source": "BBC News",
     "approx_traffic": "50,000+"
   },
   {
     "country": "United Kingdom",
     "title": "Ipswich Town vs Liverpool",
     "pubDate": "Sat, 17 Aug 2024 12:00:00 +0100",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRlzVPUXufphxKtKu_Iv-sS5Mt4GYEYmabkrfEfGk9sC1Li1I5TyKJKjCrngscYNj4aLSd9jvVK",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSN3xxgDAZ6yZ68bUSuy71425u54QIF73hMWk9C_j9opNDJ7sLjRDlGatUcl4oDKX1YEkorVXB9",
     "news_item_snippet": "MBM: Diogo Jota and Mohamed Salah gave Arne Slot the perfect start as Liverpool boss. Scott Murray was watching.",
     "news_item_url": "https://www.theguardian.com/football/live/2024/aug/17/ipswich-town-v-liverpool-premier-league-live",
     "picture_source": "Aljazeera.com",
@@ -633,7 +633,7 @@
     "country": "United Kingdom",
     "title": "Somerset House",
     "pubDate": "Sat, 17 Aug 2024 14:00:00 +0100",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSpDhb9u6R8stPeYmVH2eS84q6In82PvSeRCJ_f2BYXMqcz7ofLRrHOfeXN0w6IZkH7h5ZwEt65",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcR61_vtNKQxoAMqmHeaFsQynXv6h4TGBBIRYWw-P5HgKx82Bt6ggoi8Oajw03bj_499B9fuyYVf",
     "news_item_snippet": "Assistant Commissioner Keeley Foster, who was at the scene, said: &quot;The fire was located in part of the building&#39;s roof space. The age and design of the building&nbsp;...",
     "news_item_url": "https://www.london-fire.gov.uk/incidents/2024/august/fire-somerset-house/",
     "picture_source": "BBC News",
@@ -664,8 +664,8 @@
     "title": "Liverpoolfc",
     "pubDate": "Sat, 17 Aug 2024 13:00:00 +0100",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRBIj6aDr_GtG_CbAVjwk0OAi1u3tNdfgZ_zR7--X_Ms9g3m4NAZWlwUVDGvQHfpef2aKtoxh0X",
-    "news_item_snippet": "Liverpool U21s began their Premier League 2 campaign with an impressive 3-1 victory over Manchester City on Saturday....",
-    "news_item_url": "https://www.liverpoolfc.com/news/u21s-match-report-liverpool-beat-man-city-kick-pl2-season",
+    "news_item_snippet": "Liverpool U18s&#39; league season began with a 5-1 defeat at Derby County on Saturday afternoon, at Moor Farm Training Centre.",
+    "news_item_url": "https://www.liverpoolfc.com/news/u18s-match-report-liverpool-lose-season-opener-derby-county",
     "picture_source": "Liverpool FC",
     "approx_traffic": "50,000+"
   }
