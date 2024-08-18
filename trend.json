@@ -1,6 +1,16 @@
 [
   {
     "country": "United States",
+    "title": "Texans",
+    "pubDate": "Sat, 17 Aug 2024 13:00:00 -0700",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTujjoMG_5d7goNDb9F9KprW59HxRACMczcKuiex02PJpEAdxZpdtm68lQLOKLUY1-_xo9vBq4r",
+    "news_item_snippet": "Case Keenum hit John Metchie III for a touchdown in the second quarter and British Brooks found the endzone twice in the fourth as the offense ground down their&nbsp;...",
+    "news_item_url": "https://www.houstontexans.com/news/texans-ride-strong-defensive-effort-to-28-10-win",
+    "picture_source": "Giants.com",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United States",
     "title": "Detroit Lions",
     "pubDate": "Sat, 17 Aug 2024 15:00:00 -0700",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSCn3gscUaFHtKcS_C7howIN8NdYRVq22vLZHhf092Y9KloG5MfM8D5uPWZk6ZK5VDSHPeYr4tl",
@@ -12,7 +22,7 @@
   {
     "country": "United States",
     "title": "Arsenal",
-    "pubDate": "Sat, 17 Aug 2024 05:00:00 -0700",
+    "pubDate": "Sat, 17 Aug 2024 07:00:00 -0700",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTwZnV3eUBQtXxOydQXi_Ssmqsg70Mtuxt0Xd5utAPxaCVzhS8P_gomf2DfhjT89nc7X5id7poP",
     "news_item_snippet": "Arsenal flirted with the idea of adding a striker this summer, but Kai Havertz demonstrated in their Premier League opener that he&#39;s up to the task.",
     "news_item_url": "https://www.espn.com/soccer/story/_/id/40894788/kai-havertz-shows-arsenal-dont-need-panic-buy-no-9-striker-transfer-market",
@@ -21,32 +31,22 @@
   },
   {
     "country": "United States",
-    "title": "Giants vs Texans",
-    "pubDate": "Sat, 17 Aug 2024 13:00:00 -0700",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTujjoMG_5d7goNDb9F9KprW59HxRACMczcKuiex02PJpEAdxZpdtm68lQLOKLUY1-_xo9vBq4r",
-    "news_item_snippet": "The NY Giants are taking on the Houston Texans in Week 2 of the preseason. Can Daniel Jones, Malik Nabers connect or will C.J. Stroud steal the show?",
-    "news_item_url": "https://www.northjersey.com/story/sports/nfl/giants/2024/08/17/new-york-giants-houston-texans-live-score-highlights-channel/74825793007/",
-    "picture_source": "Giants.com",
-    "approx_traffic": "50,000+"
+    "title": "Liverpool",
+    "pubDate": "Sat, 17 Aug 2024 05:00:00 -0700",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcR0T3bkqN-yJlU3j-6gPdm6XikALgYwtrZk3vc_3YAjT2gPq3_xfGTI0jXLTtJlHivQWMR72IYF",
+    "news_item_snippet": "There were wins for Liverpool and Arsenal and records for the prolific Mohamed Salah and the enduring James Milner on the first Saturday of the Premier&nbsp;...",
+    "news_item_url": "https://www.foxsports.com/stories/soccer/liverpool-arsenal-stars-shine-ed-sheeran-left-disappointed-as-epl-kicks-off",
+    "picture_source": "ESPN",
+    "approx_traffic": "100,000+"
   },
   {
     "country": "United States",
     "title": "Barcelona",
     "pubDate": "Sat, 17 Aug 2024 11:00:00 -0700",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTGrha4kgMS6q4Uc_PE4JgsMij1dvmbdgPC2LR5DjBT8gG7jql99r6_MleXMO3W-vN1oBXkB_lA",
-    "news_item_snippet": "The Hansi Flick era at Barcelona gets properly underway today as the team plays their first official game under the German tactician, taking on Valencia in&nbsp;...",
-    "news_item_url": "https://sports.yahoo.com/official-barcelona-starting-lineup-against-182000110.html",
+    "news_item_snippet": "Former Bayern Munich and Germany boss Hansi Flick takes charge of his first competitive game for Barcelona on Saturday as the Blaugrana travel to Valencia&nbsp;...",
+    "news_item_url": "https://www.cnet.com/tech/services-and-software/la-liga-soccer-livestream-how-to-watch-valencia-vs-barcelona-from-anywhere/",
     "picture_source": "CNET",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Arsenal vs Wolves",
-    "pubDate": "Sat, 17 Aug 2024 08:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQ5zEWCegAr-NA18ls6HcjP_GFL9kpAeuOqbPKjgGvAQ47jr6JJlJgGWpekzxledEJ7vL1YTFsL",
-    "news_item_snippet": "A goal and an assist each for Havertz and Saka were enough to see off a tricky Wolves side at the Emirates Stadium.",
-    "news_item_url": "https://www.nytimes.com/athletic/live-blogs/arsenal-wolves-live-updates-premier-league-score-result/Ph3IeO2RcmzF/",
-    "picture_source": "Yahoo Sports",
     "approx_traffic": "50,000+"
   },
   {
@@ -61,23 +61,13 @@
   },
   {
     "country": "United States",
-    "title": "Israel Adesanya",
+    "title": "UFC",
     "pubDate": "Fri, 16 Aug 2024 16:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSNObsCOmUnXnrPvuRix67aXN5YAWzQoTZY8Lhch_8R5Dt7wZWUuKlH8JHN3bPnmDL5vRqDKFuk",
-    "news_item_snippet": "Preview the Middleweight Championship between Dricus du Plessis and Israel Adesanya, and check out our favorite UFC 305 betting picks.",
-    "news_item_url": "https://www.newsweek.com/ufc-305-picks-odds-predictions-dricus-du-plessis-israel-adesanya-1940643",
-    "picture_source": "CBSSports.com",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Mercury vs Fever",
-    "pubDate": "Fri, 16 Aug 2024 12:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTnrX1g4HycJ5mzVqg0VdlIOclTLq4Zmu8X99clXT2C0sxjLDCKu9m65_ATCw14nnibtM_GuM2R",
-    "news_item_snippet": "Caitlin Clark started fast and finished with 29 points and 10 assists while Kelsey Mitchell scored 28 points to help the Fever fend off a furious&nbsp;...",
-    "news_item_url": "https://www.espn.com/wnba/story/_/id/40887522/caitlin-clark-scores-29-fever-fend-mercury",
-    "picture_source": "Indiana Fever",
-    "approx_traffic": "200,000+"
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSkJMM-CTZ04PzeFEmWUFcZeoZ-bPvYZeeZ37gaERCGmA5xC_ocrOJKR5KSjwpwqNp0pFGC1VMR",
+    "news_item_snippet": "Dricus du Plessis and Israel Adesanya are set to clash Saturday in a high-stakes battle for the UFC middleweight title at UFC 305 in Perth, Australia.",
+    "news_item_url": "https://sports.yahoo.com/live/ufc-305-live-updates-results-highlights-analysis-as-israel-adesanya-looks-to-reclaim-title-vs-dricus-du-plessis-223027673.html",
+    "picture_source": "The Official Website of the Ultimate Fighting Championship",
+    "approx_traffic": "500,000+"
   },
   {
     "country": "United States",
@@ -93,10 +83,10 @@
     "country": "United States",
     "title": "The Union",
     "pubDate": "Fri, 16 Aug 2024 12:00:00 -0700",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRXo7rAWxiEIvRAt8accR59KK-sIrf9zHgPTZxtR-wyvGKhSx7Gyqk-zIg9TUQmp6JRqr5LPCfg",
-    "news_item_snippet": "&quot;The Union&quot; hinges on Mark Wahlberg &amp; Halle Berry&#39;s romance, but throughout the film&#39;s 109-minute runtime, the pair never kiss. The director explains.",
-    "news_item_url": "https://variety.com/2024/film/news/mark-wahlberg-halle-berry-the-union-netflix-kiss-1236105392/",
-    "picture_source": "Observer",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcS4hbGdBejHqvoV0QkZxHMPpUUsWeIVw95dr4fIHtkvvutR_ewzl20EPB6z1Nk4YoHaGEyrWr5E",
+    "news_item_snippet": "Union quarterback Lucas Stanley throws a pass during practice on Tuesday, Aug. 13, 2024, in Union Twp. Purchase Photo Options.",
+    "news_item_url": "https://tribhssn.triblive.com/union-to-face-new-challenge-with-bump-up-to-class-2a/",
+    "picture_source": "philadelphiaunion.com",
     "approx_traffic": "100,000+"
   },
   {
@@ -104,29 +94,9 @@
     "title": "Fortnite",
     "pubDate": "Fri, 16 Aug 2024 12:00:00 -0700",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSxSHYpsXYhou6QGw9stO6mHHRFOBmsq6RzkhGs7DRFYnCnShYFc7VbbXvJ3E0lKNqtquDQ1PEA",
-    "news_item_snippet": "Epic Games has launched Fortnite and the Epic Games Store on iOS, but only in the EU. The store, which is available globally on Android, has mobile Fall&nbsp;...",
-    "news_item_url": "https://www.theverge.com/2024/8/16/24221361/fortnite-iphone-epic-games-app-store",
+    "news_item_snippet": "The blacklisted Fortnite app is coming back (sort of) to phones, showing the complicated efforts to wrest app power from Apple and Google.",
+    "news_item_url": "https://www.washingtonpost.com/technology/2024/08/16/fornite-mobile-ios-android-app-store/",
     "picture_source": "BBC News",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
-    "title": "The Bear",
-    "pubDate": "Fri, 16 Aug 2024 06:00:00 -0700",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTpxs0MgCX2PiytPf4BWK4JkSRFGImmKtCnuPh37nLW9N11fUboLlQwSpez5e3PQipILsUr1WSd",
-    "news_item_snippet": "The Hulu series is looking to repeat in the Outstanding Comedy category, and its Emmy-winning stars - Jeremy Allen White, Ayo Edebri and Ebon Moss-Bachrach -&nbsp;...",
-    "news_item_url": "https://abc30.com/post/2024-emmys-23-nominations-the-bear-sets-new-most-ever-comedy-record/15186583/",
-    "picture_source": "Vanity Fair",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Senegal",
-    "pubDate": "Fri, 16 Aug 2024 00:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRxGVBqBX5TELIfz4JIKmH45gsTj--HjHmWEMZbT3fflO6AZJsk2gxdCehT5FhYZDTZbVQAMltN",
-    "news_item_snippet": "CHESTNUT HILL, Mass. - Boston College women&#39;s basketball sophomore Nene Ndiaye will play on Team Senegal Aug. 19-25 for the FIBA Women&#39;s Basketball World&nbsp;...",
-    "news_item_url": "https://bceagles.com/news/2024/8/16/womens-basketball-nene-ndiaye-to-play-with-team-senegal-in-world-cup-pre-qualifier.aspx",
-    "picture_source": "Boston College Athletics",
     "approx_traffic": "50,000+"
   },
   {
@@ -148,16 +118,6 @@
     "news_item_url": "https://www.thehindu.com/sport/football/salah-and-jota-fire-arne-slot-to-winning-start-as-liverpool-boss/article68536938.ece",
     "picture_source": "The Hindu",
     "approx_traffic": "200,000+"
-  },
-  {
-    "country": "India",
-    "title": "Aattam",
-    "pubDate": "Fri, 16 Aug 2024 15:30:00 +0530",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcS8tOE1pm5qpZMEMRqEAYDSE9qQ4_luUDy9mv_7J_ej7ZkiSzxHl_30b576ua-zjw3WlbpTtqA2",
-    "news_item_snippet": "Aattam, a Malayalam film by Anand Ekarshi, won three major awards at the 70th National Film Awards. Vinay Forrt praised the theatre artists&#39; roles.",
-    "news_item_url": "https://m.economictimes.com/magazines/panache/aattam-malayalam-film-plot-overview-cast-and-where-to-watch-online/articleshow/112580432.cms",
-    "picture_source": "The Hindu",
-    "approx_traffic": "100,000+"
   },
   {
     "country": "Argentina",
@@ -222,7 +182,7 @@
   {
     "country": "Brazil",
     "title": "Gr\u00eamio x Bahia",
-    "pubDate": "Sat, 17 Aug 2024 12:00:00 -0500",
+    "pubDate": "Sat, 17 Aug 2024 13:00:00 -0500",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTxxh0wlJpt9H6EUWqYaZPBFk1C2l9kvSt5JXQwQIqy3o0YoTEMUTQ7knTxL2ObBb5ey3NEo_Fc",
     "news_item_snippet": "FIM DE JOGO! Bahia supera Gr\u00eamio fora de casa e entra no G6 do Campeonato Brasileiro. Na pr\u00f3xima rodada, o time ga\u00facho visita o Crici\u00fama e Tricolor de A\u00e7o&nbsp;...",
     "news_item_url": "https://www.estadao.com.br/esportes/futebol/gremio-x-bahia-brasileiro-serie-a-2024/",
@@ -284,7 +244,7 @@
     "title": "Faust\u00e3o",
     "pubDate": "Sat, 17 Aug 2024 06:00:00 -0500",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSNZwEd5xDnr6IiVZqJLUFaHadKICufdJzlgULBKzsl5NzKs-tTRcTJn4ZYJl3lbzelEKqigKPb",
-    "news_item_snippet": "Fausto faz o tratamento no mesmo hospital em que Silvio Santos esteve internado nas \u00faltimas semanas e faleceu neste s\u00e1bado, 17/08. Nas redes sociais, o filho de&nbsp;...",
+    "news_item_snippet": "O apresentador Jo\u00e3o Silva, filho de Faust\u00e3o, tranquilizou os f\u00e3s neste s\u00e1bado, 17/08, ao revelar detalhes sobre a sa\u00fade do pai. Fausto Silva havia dado&nbsp;...",
     "news_item_url": "https://www.terra.com.br/diversao/gente/joao-silva-revela-detalhes-sobre-estado-de-saude-de-faustao,857c3ebc2e61a7d640152bae242208be0acmx6uh.html",
     "picture_source": "R7.COM",
     "approx_traffic": "50,000+"
@@ -304,7 +264,7 @@
     "title": "Bayer Leverkusen",
     "pubDate": "Sat, 17 Aug 2024 08:00:00 -0500",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQVtCuvONpEUIGUSlq4JeU5dCXEOMfy906IXWT9GNY4U2DUiAslnkENFSbZK4AdfOXcM1D1NA-S",
-    "news_item_snippet": "Os gols da partida foram marcados por Victor Boniface e Patrik Schick, aos Le\u00f5es, e Enzo Millot e Deniz Undav, para os advers\u00e1rios. \u27a1\ufe0f PSG encaminha o&nbsp;...",
+    "news_item_snippet": "No sufoco, o Bayer Leverkusen arrancou o empate em 2 a 2 contra o Stuttgart, e garantiu o t\u00edtulo da Supercopa da Alemanha nos p\u00eanaltis, neste s\u00e1bado (17),&nbsp;...",
     "news_item_url": "https://www.lance.com.br/futebol-internacional/e-campeao-bayer-leverkusen-vence-stuttgart-nos-penaltis-e-conquista-a-supercopa-da-alemanha.html",
     "picture_source": "Terra",
     "approx_traffic": "50,000+"
@@ -313,10 +273,10 @@
     "country": "Brazil",
     "title": "Ceara",
     "pubDate": "Sat, 17 Aug 2024 15:00:00 -0500",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSsFg4SpwBdKaTEfkVXhReD4JYhGpoYGCRqkyXGAvzU7wmXg_pFB0tDpxfYsVRgruW3mSnER0DT",
-    "news_item_snippet": "Gabriel Lacerda: Com les\u00e3o no LCA e no menisco do joelho direito, atleta realiza fisioterapia pr\u00e9 operat\u00f3ria. Cear\u00e1, Louren\u00e7o \u2014 Foto: Kid&nbsp;...",
-    "news_item_url": "https://ge.globo.com/ce/futebol/times/ceara/noticia/2024/08/17/ceara-tem-tres-baixas-contra-o-mirassol-veja-lista-do-dm.ghtml",
-    "picture_source": "globoesporte.com",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQCzCyVq1Lt6E3aXyMm-FS09X5T85uTvHFkJBAPYKdMaa4RrRcXcfkruYic98UzDijN8CR7Zae0",
+    "news_item_snippet": "Lucas Rian: melhor nome do Cear\u00e1 no primeiro tempo, com dribles e finaliza\u00e7\u00f5es. Carimbou at\u00e9 a trave. Mostrou servi\u00e7o na chance que teve como titular, mas ficou&nbsp;...",
+    "news_item_url": "https://ge.globo.com/ce/futebol/times/ceara/noticia/2024/08/17/atuacoes-do-ceara-aylon-marca-e-lucas-rian-deixa-boa-impressao.ghtml",
+    "picture_source": "CNN Brasil",
     "approx_traffic": "50,000+"
   },
   {
@@ -331,12 +291,32 @@
   },
   {
     "country": "Brazil",
+    "title": "Chapecoense x Guarani",
+    "pubDate": "Sat, 17 Aug 2024 14:00:00 -0500",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRLo7PE988RAEEHzh2E1ToWHzQyD2X34DdZPN_-gNHompPs33y5EkkDuLVFuIiRO9vB5EJM7iXt",
+    "news_item_snippet": "No confronto entre duas equipes que lutam contra o rebaixamento na S\u00e9rie B do Campeonato Brasileiro, o Guarani goleou a Chapecoense por 4 a 0 na tarde deste&nbsp;...",
+    "news_item_url": "https://ge.globo.com/sc/futebol/brasileirao-serie-b/noticia/2024/08/17/chapecoense-0-x-4-guarani-assista-aos-melhores-momentos-do-jogo.ghtml",
+    "picture_source": "Terra",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Brazil",
     "title": "Inter de Mil\u00e3o",
     "pubDate": "Sat, 17 Aug 2024 09:00:00 -0500",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcToDgfCNcRZqw5gXaMVtELXz-h6ZgjtHRndYJ7-eCC9p8tHneP5S6t6mfNYoobCYguvJR-oZf9r",
-    "news_item_snippet": "Inter de Mil\u00e3o sai atr\u00e1s do Genoa, busca virada com gols de Thuram, mas cede o empate nos acr\u00e9scimos do segundo tempo: 2 a 2 no Luigi Ferrareis.",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTGCx2ITsih0pNoJLd7dfELvo7eAVT0E76ZDZ1tDKWuPUpe2gIsRMtINp8WAR9OBlMnWdGxoNIo",
+    "news_item_snippet": "Atual campe\u00e3, a Inter de Mil\u00e3o abriu o Italiano 2024/2025 cedendo empate ao Genoa nos acr\u00e9scimos. Fora de casa, a equipe comandada por Simone Inzaghi largou&nbsp;...",
     "news_item_url": "https://www.terra.com.br/esportes/futebol/internacional/atual-campea-inter-de-milao-abre-italiano-com-tropeco,ea81980e6bc7f9ea2d91f1fe4ff1a0ee670td541.html",
     "picture_source": "globoesporte.com",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Brazil",
+    "title": "Newcastle",
+    "pubDate": "Sat, 17 Aug 2024 10:00:00 -0500",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTAAmCxu_YvUSkdfYpv2bqGPD2-CegKDBXoW7ltFsJUywQOQKkjSWCaT2B7xoGa_uIYz49Bha2X",
+    "news_item_snippet": "O Newcastle estreou com o p\u00e9 direito na Premier League 2024/25. Jogando em casa, os Magpies venceram o rec\u00e9m promovido Southampton por 1 a 0.",
+    "news_item_url": "https://ge.globo.com/futebol/futebol-internacional/futebol-ingles/noticia/2024/08/17/joelinton-garante-vitoria-do-newcastle-na-estreia-da-premier-league-2425.ghtml",
+    "picture_source": "ESPN.com.br",
     "approx_traffic": "50,000+"
   },
   {
@@ -344,8 +324,8 @@
     "title": "Severe thunderstorm warning",
     "pubDate": "Sat, 17 Aug 2024 11:00:00 -0400",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTw3vPwOEQX9heVGx54NnY5cMmcTHCu_-kju1t2yl_uFRJ3Jqhvhs7RVcc8ityZbropCsc5JJou",
-    "news_item_snippet": "The primary threat is heavy rain with possible 90 km/h wind gusts and nickel size hail.",
-    "news_item_url": "https://www.cambridgetoday.ca/local-news/severe-thunderstorm-warning-in-effect-for-cambridge-9364069",
+    "news_item_snippet": "Environment Canada has issued warnings of severe thunderstorms in the Hamilton and Guelph regions, and the region of Waterloo.",
+    "news_item_url": "https://www.chch.com/severe-thunderstorm-warning-issued-for-hamilton-guelph-and-waterloo-regions/",
     "picture_source": "NewmarketToday.ca",
     "approx_traffic": "200,000+"
   },
@@ -363,20 +343,10 @@
     "country": "Canada",
     "title": "Premier League",
     "pubDate": "Fri, 16 Aug 2024 11:00:00 -0400",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSUu08_EXcDlKaOnxFBNk1LxCjUAHPFsVIykUxUrKfJ75-oaAcQSHx-llO8EYB_Wf8X0GAgRFFP",
-    "news_item_snippet": "Salah previously shared the record of eight goals with Frank Lampard, Wayne Rooney and Alan Shearer. The 32-year-old Salah joined Liverpool in 2017. ___. AP&nbsp;...",
-    "news_item_url": "https://www.tsn.ca/soccer/mohamed-salah-breaks-a-premier-league-scoring-record-in-liverpool-s-opening-game-1.2163056",
-    "picture_source": "USA TODAY",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Canada",
-    "title": "Man United vs Fulham",
-    "pubDate": "Fri, 16 Aug 2024 15:00:00 -0400",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcS0H6AzhbwL-lm4nUh63e7qi1WMo_-5Njx0PltH58wikc6ctRbcT8mS74DHlXPwBsaNAY7HPsxt",
-    "news_item_snippet": "Manchester United forward Joshua Zirkzee has been named our Man of the Match following his goalscoring debut in the 1-0 win over Fulham.",
-    "news_item_url": "https://www.manutd.com/en/news/detail/who-was-man-utd-man-of-the-match-v-fulham-16-august-2024",
-    "picture_source": "Aljazeera.com",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcS7gW9UJrgKQ6lFe7uG_yBwi8OHOhCoKWp9V7OUVHklJ7ZQzRaV1i0AT_ENrsHi7jnA8z-Qriht",
+    "news_item_snippet": "The 2024-25 English Premier League season officially got underway Friday.",
+    "news_item_url": "https://www.usatoday.com/story/sports/soccer/2024/08/17/premier-league-highlights-goals-scores/74841017007/",
+    "picture_source": "Sportsnet.ca",
     "approx_traffic": "50,000+"
   },
   {
@@ -403,10 +373,10 @@
     "country": "France",
     "title": "Monaco \u2013 Saint-\u00c9tienne",
     "pubDate": "Sat, 17 Aug 2024 21:00:00 +0200",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcToe91q7VoTe2zNOk1eHqeqf-bs7NrfYxI4Xu_GkpuOb5qLVsqbXHwgnEWyVq9QdSt6MWUPCXsp",
-    "news_item_snippet": "Le buteur japonais a permis \u00e0 l&#39;AS Monaco d&#39;empocher sa premi\u00e8re victoire en Ligue 1 cette saison face au promu lig\u00e9rien, qui effectuait samedi son retour&nbsp;...",
-    "news_item_url": "https://www.francetvinfo.fr/sports/foot/ligue-1/direct-monaco-saint-etienne-les-verts-sur-le-rocher-pour-leur-retour-dans-l-elite-suivez-la-rencontre-de-ligue-1_6725373.html",
-    "picture_source": "L'\u00c9quipe.fr",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQDnLAuawGYhtcVzMaPhKdYHdrv_IkjMZJ_doEzRiG9qiVob3qA9YNTJ6h73H1jwAaW8NJugLof",
+    "news_item_snippet": "TOPS/FLOPS - Monaco a bien commenc\u00e9 sa nouvelle saison de Ligue 1 McDonalds en s&#39;imposant d&#39;une courte t\u00eate face \u00e0 l&#39;AS Saint-Etienne, au Stade Louis-II.",
+    "news_item_url": "https://www.lefigaro.fr/sports/football/ligue-1/monaco-saint-etienne-minamino-decisif-une-pelouse-catastrophique-les-tops-et-les-flops-20240817",
+    "picture_source": "Franceinfo",
     "approx_traffic": "50,000+"
   },
   {
@@ -424,20 +394,10 @@
     "title": "Supercup",
     "pubDate": "Sat, 17 Aug 2024 16:00:00 +0200",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQSlNnOU4tsJY4tpRRKdQzLspeDWJKXlSH8a6et86Z1_knwvl6zuNbM_FMIqKTUEZv962UadKPF",
-    "news_item_snippet": "Leverkusen - Erstes Pflichtspiel, erster Titel - die Seriensieger aus Leverkusen sind auch dank alter Last-Minute-St\u00e4rke erfolgreich in die neue Saison&nbsp;...",
-    "news_item_url": "https://www.mz.de/panorama/elfer-drama-im-supercup-bayer-feiert-nachsten-titel-3900432",
+    "news_item_snippet": "In einem Herzschlagfinale hat Bayer Leverkusen den Supercup 2024 gewonnen. Gegen Stuttgart entschied sich der Sieg erst im Elfmeterschie\u00dfen.",
+    "news_item_url": "https://www.zdf.de/nachrichten/sport/fussball-dfl-supercup-bayer-leverkusen-vfb-stuttgart-100.html",
     "picture_source": "DASDING.de",
     "approx_traffic": "200,000+"
-  },
-  {
-    "country": "Germany",
-    "title": "DFB-Pokal",
-    "pubDate": "Fri, 16 Aug 2024 11:00:00 +0200",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQf5RmoV8Q1xeuNvYVT7Jg0qGvJazmSOpWVwOlccgSD9O91bLChSLCzLtgpPapbP8w9tyR2td4F",
-    "news_item_snippet": "Deutschland startet in die neue Saison, am Wochenende stehen die ersten Partien im DFB-Pokal an. Kann der FC Bayern M\u00fcnchen seine Durststrecke beenden?",
-    "news_item_url": "https://www.ran.de/sports/fussball/dfb-pokal/news/dfb-pokal202425-fruehes-bayer-aus-und-neues-saarbruecken5-hottakes-418917",
-    "picture_source": "Mitteldeutsche Zeitung",
-    "approx_traffic": "500,000+"
   },
   {
     "country": "Germany",
@@ -450,13 +410,23 @@
     "approx_traffic": "100,000+"
   },
   {
+    "country": "Germany",
+    "title": "Weltbild",
+    "pubDate": "Wed, 14 Aug 2024 15:00:00 +0200",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQPkdKcefi-3iALJnhxyMjWyDaovxeEwU0wBQ6zTtWuFZeWCi8U-2YQU1sP5WoiOF6JJQ1Dr8JZ",
+    "news_item_snippet": "Das Unternehmen hatte im Juni beim Amtsgericht Augsburg Insolvenz angemeldet. Plail sagte: \u201eEine dauerhafte und nachhaltige Betriebsfortf\u00fchrung ist ohne&nbsp;...",
+    "news_item_url": "https://www.volksstimme.de/deutschland-und-welt/wirtschaft/weltbild-stellt-das-geschaft-ein-3898576",
+    "picture_source": "b\u00f6rsenblatt",
+    "approx_traffic": "50,000+"
+  },
+  {
     "country": "Italy",
     "title": "Allerta temporale",
     "pubDate": "Sat, 17 Aug 2024 11:00:00 +0200",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcT3s31oqbqLVlbQIR4DuhTerXoVL1FLkq2VIo4996dlC4mjaAqew7FuL1xuevqRasNX1jyXw7XS",
-    "news_item_snippet": "Continua l&#39;ondata di maltempo in tutto il territorio regionale, domenica ci sar\u00e0 un peggioramenti nel corso del pomeriggio. Le previsioni fino a marted\u00ec.",
-    "news_item_url": "https://www.ilrestodelcarlino.it/meteo/temporali-vento-allerta-meteo-marche-ddkdz75q",
-    "picture_source": "Il Resto del Carlino",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRh5Q6GHkc65rIXD_TXgfj9mDPI85IhZH8j3YeVal3_4hM8-5k6O8zRzy7NkwEgwi-gz81jq1j2",
+    "news_item_snippet": "Allerta meteo in Liguria, prima gialla, poi arancione e ancora gialla per temporali tra sabato 17 e domenica 18 agosto, le previsioni meteo.",
+    "news_item_url": "https://www.genovatoday.it/cronaca/allerta-meteo-arancione-temporali-agosto.html",
+    "picture_source": "GenovaToday",
     "approx_traffic": "200,000+"
   },
   {
@@ -501,6 +471,16 @@
   },
   {
     "country": "Mexico",
+    "title": "Philadelphia  Mazatl\u00e1n",
+    "pubDate": "Sat, 17 Aug 2024 17:00:00 -0600",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRy2iOzBlFAOsDw1oAsFDVXIrsSRIQq3l_DV3LZftOuvm7cexfsiZQle3UM8lA4W0cAFmNzyarT",
+    "news_item_snippet": "Sigue todas las acciones en directo, minuto a minuto, del Philadelphia Union vs Mazatl\u00e1n, partido correspondiente a los Cuartos de final de la Leagues Cup.",
+    "news_item_url": "https://mexico.as.com/futbol/philadelphia-union-vs-mazatlan-en-vivo-cuartos-de-final-de-la-leagues-cup-hoy-en-directo-n/",
+    "picture_source": "MARCA.com",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "Mexico",
     "title": "Al Nassr",
     "pubDate": "Sat, 17 Aug 2024 09:00:00 -0600",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRbpsW0EsiTPOut7-i-tx4CrWTiKuxmAJcq7YsRw10ccVRYxTUmOkUIyyLeXbrdUoa3uCAh2FzzOA",
@@ -508,16 +488,6 @@
     "news_item_url": "https://www.tudn.com/futbol/cristiano-ronaldo-hace-gol-al-nassr-pierde-la-supercopa-de-arabia",
     "picture_source": "ESPN",
     "approx_traffic": "100,000+"
-  },
-  {
-    "country": "Mexico",
-    "title": "Philadelphia - Mazatl\u00e1n",
-    "pubDate": "Sat, 17 Aug 2024 17:00:00 -0600",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRy2iOzBlFAOsDw1oAsFDVXIrsSRIQq3l_DV3LZftOuvm7cexfsiZQle3UM8lA4W0cAFmNzyarT",
-    "news_item_snippet": "El equipo quiere dar la sorpresa y seguir como uno de los semifinalistas de la Leagues Cup.",
-    "news_item_url": "https://www.informador.mx/deportes/Philadelphia-Union-vs-Mazatlan-Donde-ver-EN-VIVO-el-partido-de-la-Leagues-Cup-canales-horario-20240817-0071.html",
-    "picture_source": "MARCA.com",
-    "approx_traffic": "50,000+"
   },
   {
     "country": "Mexico",
@@ -534,7 +504,7 @@
     "title": "Valencia CF  Barcelona",
     "pubDate": "Sat, 17 Aug 2024 15:00:00 +0200",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcS_YE0POPKg7tdPmet6QjUK64ag1LrBXt9rLUl15_76J8hc30UhPYDVlQUtsYRRDnwV3Azwt688",
-    "news_item_snippet": "\u00a1Final de partido! VALENCIA CF 1 - 2 FC BARCELONA. Act. Aug 17, 2024 - 17:33 EDT.",
+    "news_item_snippet": "Lewandowski convierte el penalti y el FC Barcelona da vuelta al marcador. Doblete del polaco esta noche en Mestalla. Act. Aug 17, 2024 - 16:44&nbsp;...",
     "news_item_url": "https://elpais.com/deportes/futbol/2024-08-17/valencia-barcelona-en-directo-el-partido-de-laliga-ea-sports-en-vivo.html",
     "picture_source": "MARCA.com",
     "approx_traffic": "500,000+"
@@ -544,9 +514,19 @@
     "title": "Premier League",
     "pubDate": "Sat, 17 Aug 2024 13:00:00 +0200",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcS25Ywdn8Dv9U7bZfzdpsoDskUpF7RT5DyC9ykOi68i9eZ1QtU-ZQlzG9B4NZLqt_wRtV0h1jv9",
-    "news_item_snippet": "El campe\u00f3n contra el novato. El Manchester City inicia la defensa de su condici\u00f3n de rey absoluto de la Premier League tras haber conquistado las \u00faltimas&nbsp;...",
-    "news_item_url": "https://as.com/futbol/internacional/chelsea-manchester-city-tv-horario-donde-y-como-ver-la-premier-league-online-hoy-n/",
+    "news_item_snippet": "FINAL. FINAL. FINAAAAAAAAL. EL NUEVO LIVERPOOL DE SLOT SE ESTRENA CON VICTORIA Y CONCIERTAZO DE SALAH. Se a\u00f1aden ocho minutos de descuento. Se ha ca\u00edd.",
+    "news_item_url": "https://www.marca.com/futbol/premier-league/ipswich-liverpool/2024/08/17/01_0106_20240817_40_14-directo.html",
     "picture_source": "TUDN",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Spain",
+    "title": "Osasuna  Legan\u00e9s",
+    "pubDate": "Sat, 17 Aug 2024 19:00:00 +0200",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcR5Rlf1wI7rDglc0Q9mAcMwC3q_YYeShea1UUZnaJifhZW-1AU2x03HL7L_l1wtuPiGM1OEw6rv",
+    "news_item_snippet": "Un tanto en propia puerta de Soriano, tras un disparo de Oroz que toc\u00f3 en el palo, permite empatar a Osasuna y neutralizar el gol de Juan Cruz en el minuto 22.",
+    "news_item_url": "https://www.marca.com/futbol/laliga-ea-sports/osasuna-leganes/2024/08/17/01_0101_20240817_450_957-directo.html",
+    "picture_source": "La Tribuna de Albacete",
     "approx_traffic": "50,000+"
   },
   {
@@ -557,15 +537,15 @@
     "news_item_snippet": "MBM: Diogo Jota and Mohamed Salah gave Arne Slot the perfect start as Liverpool boss. Scott Murray was watching.",
     "news_item_url": "https://www.theguardian.com/football/live/2024/aug/17/ipswich-town-v-liverpool-premier-league-live",
     "picture_source": "Aljazeera.com",
-    "approx_traffic": "500,000+"
+    "approx_traffic": "200,000+"
   },
   {
     "country": "United Kingdom",
     "title": "Arsenal",
     "pubDate": "Sat, 17 Aug 2024 15:00:00 +0100",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTWrAhJCkGB7O6SSAJGbkqoNCenqWudTvSZuJp0CuNsFUeJ5XRxnfpqasnILL7erE9BODKiK1C-",
-    "news_item_snippet": "Bukayo Saka created Kai Havertz&#39;s first-half opener and scored the second goal in Arsenal&#39;s 2-0 Premier League win against Wolves.",
-    "news_item_url": "https://www.theguardian.com/football/article/2024/aug/17/arsenal-wolves-premier-league-match-report",
+    "news_item_snippet": "The new campaign begins with a trip to the Emirates for Wolves on Saturday afternoon - find out how to follow the live action below.",
+    "news_item_url": "https://www.wolves.co.uk/news/mens-first-team/20240419-how-to-watch-arsenal-vs-wolves/",
     "picture_source": "Arsenal.com",
     "approx_traffic": "200,000+"
   },
@@ -617,6 +597,16 @@
     "news_item_snippet": "Report and free match highlights as Joelintons first-half strike gives Newcastle an opening-day win over Southampton despite Fabian Schars red card;&nbsp;...",
     "news_item_url": "https://www.skysports.com/football/newcastle-vs-soton/report/505811",
     "picture_source": "Yahoo Sports",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United Kingdom",
+    "title": "Liverpoolfc",
+    "pubDate": "Sat, 17 Aug 2024 13:00:00 +0100",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTrGgMJ-7HdeV7nhWjWJ9HNmFH_FjnZIsakRePNKiF_8EZGR4Wt7CzyJd9TvqHKUouvaIX6uxqF",
+    "news_item_snippet": "Liverpool FC Women continued their preparations for the new season with a 1-0 loss to Aston Villa in a behind-closed-doors friendly on Saturday.",
+    "news_item_url": "https://www.liverpoolfc.com/news/lfc-women-lose-1-0-aston-villa-behind-closed-doors-friendly",
+    "picture_source": "Liverpool FC",
     "approx_traffic": "50,000+"
   }
 ]
