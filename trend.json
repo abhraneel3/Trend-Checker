@@ -1,16 +1,6 @@
 [
   {
     "country": "United States",
-    "title": "Real Madrid",
-    "pubDate": "Sun, 18 Aug 2024 12:00:00 -0700",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQvS243vXhzsRdNmqxduaYn8UFTNzqOaTNJlHXGQIqPd1jNSlv91NTMOuIxBLPya9QkVaKuuSZE",
-    "news_item_snippet": "Located in Terminal 4 of the Adolfo Su\u00e1rez-Madrid Barajas airport, it is the first shop with a restaurant area and merchandising products by the club.",
-    "news_item_url": "https://www.realmadrid.com/en-US/news/football/first-team/latest-news/el-presidente-y-el-equipo-inauguran-the-corner-by-real-madrid-18-08-2024",
-    "picture_source": "Real Madrid",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "United States",
     "title": "Chelsea vs Man City",
     "pubDate": "Sun, 18 Aug 2024 09:00:00 -0700",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRaPEisUAScW115MoQZiVa_qjtg3OKNM6NDLhaiJ_bPexjkV4vZquFXr6NYE0VYWuRqknDq0gGh",
@@ -21,31 +11,61 @@
   },
   {
     "country": "United States",
-    "title": "Alain Delon",
-    "pubDate": "Sun, 18 Aug 2024 04:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRWoVefSlZrHp850AMDaZIKTFyhBTewSNKVY-AtjcucmYTTxXnxDE515BFIYTqTpRNuJfb4hlny",
-    "news_item_snippet": "An obituary for Alain Delon, the internationally acclaimed French actor who embodied both the bad guy and the policeman who died at age 88.",
-    "news_item_url": "https://www.nbcnews.com/news/obituaries/french-actor-alain-delon-obituary-rcna167053",
-    "picture_source": "NPR",
+    "title": "Real Madrid",
+    "pubDate": "Sun, 18 Aug 2024 12:00:00 -0700",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcR19ueRjuwk8yZm1PJWOCtFKNpUeATnkQ056fpIhQN3cCBVkpJ-vHpJEWnTRRQt72cTgcjSXSYB",
+    "news_item_snippet": "Carlo Ancelotti slammed his Real Madrid team&#39;s &quot;attitude&quot; and &quot;collective commitment&quot; after the LaLiga champions were held to a 1-1 draw at Real Mallorca in&nbsp;...",
+    "news_item_url": "https://www.espn.com/soccer/story/_/id/40909300/real-madrid-lacked-commitment-attitude-mallorca-draw",
+    "picture_source": "ESPN Deportes",
     "approx_traffic": "200,000+"
   },
   {
     "country": "United States",
     "title": "Raiders",
     "pubDate": "Sun, 18 Aug 2024 14:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQ-pBWl5CxHC0XgwxO7pYAhWNJ8iQfpdqTmZJZ7tFcNShkVul1rqOhvoW66LsxlpC8jqOtQ5xHJ",
-    "news_item_snippet": "Las Vegas Raiders head coach Antonio Pierce has named Gardner Minshew as the team&#39;s starting quarterback to open the season.",
-    "news_item_url": "https://www.nfl.com/news/raiders-hc-pierce-names-gardner-minshew-starting-quarterback-to-open-season",
-    "picture_source": "Raiders.com",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRYpkcEPVcJLOxdEN08ii6MI7pGSj1tFLYAuYic79OnzdriMybeXVp85IUeAFeRWsPwFKV53ORj",
+    "news_item_snippet": "Gardner Minshew will be the Raiders&#39; starting quarterback in Week 1 against the Chargers, coach Antonio Pierce announced Sunday.",
+    "news_item_url": "https://www.espn.com/nfl/story/_/id/40907138/raiders-name-gardner-minshew-starting-qb-week-1",
+    "picture_source": "NFL.com",
     "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Mallorca vs Real Madrid",
+    "pubDate": "Sun, 18 Aug 2024 13:00:00 -0700",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTv4uS7V3HtlSVjp2hhM7K1FAAKyOfWun4P5qSuD2qscdfK8Dj-qB5DBRgzjWUIKNAE8ZlYCMVj",
+    "news_item_snippet": "Mallorca vs. Real Madrid kickoff time: Here&#39;s how to watch the La Liga match on TV and live stream as well as the latest team news. The Sporting News takes&nbsp;...",
+    "news_item_url": "https://www.sportingnews.com/us/soccer/news/mallorca-real-madrid-live-stream-tv-channel-time-prediction-la-liga/c0bc9efecbb8eed2c6aab561",
+    "picture_source": "CNET",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Storm vs Fever",
+    "pubDate": "Sun, 18 Aug 2024 14:00:00 -0700",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSqyv_DWBWe_-i8CafL4jrZVOZ-nJED9EmluytQ2RZ8zBVFKtFtTGWl1atrRCwuGGE-5Y9Kbo2c",
+    "news_item_snippet": "Jewell Loyd and the Seattle Storm (17-9) go up against Caitlin Clark and the Indiana Fever (12-15) on August 18, 2024 at Gainbridge Fieldhouse.",
+    "news_item_url": "https://www.seattlepi.com/sports/watching-games/article/storm-fever-wnba-watch-info-8-18-2024-19662426.php",
+    "picture_source": "CBSSports.com",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Joseph Quinn",
+    "pubDate": "Sun, 18 Aug 2024 13:00:00 -0700",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSWs8RBcKIRJFAENWZpVUOeptf2ylBAqSSLzmFlTTx496pOeuKhZ2bCp9r8Ieu6vzDqCnF-90h0",
+    "news_item_snippet": "Doja Cat and &quot;Stranger Things&quot; star Joseph Quinn were spotted holding hands and packing on the PDA in London, two years after the singer asked his co-star&nbsp;...",
+    "news_item_url": "https://pagesix.com/2024/08/18/entertainment/doja-cat-and-joseph-quinn-pack-on-the-pda-in-london-after-noah-schnapp-drama/",
+    "picture_source": "Glamour",
+    "approx_traffic": "50,000+"
   },
   {
     "country": "United States",
     "title": "Dallas Cowboys",
     "pubDate": "Sat, 17 Aug 2024 20:00:00 -0700",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSg1wxWZ7PAjVO7NrId1f5NHRAbfDNOq3LMKvqOyvaHxOvekiqIJx3FxnzDY1wKlM26XvVm3akI",
-    "news_item_snippet": "When Trey Lance took the field against the Las Vegas Raiders, he wanted to settle in quickly to deliver a win for the Dallas Cowboys and he achieved that&nbsp;...",
-    "news_item_url": "https://www.dallascowboys.com/news/trey-lance-feels-good-after-cowboys-win-over-raiders-but-wants-more-from-himself",
+    "news_item_snippet": "Given how Jerry Jones was introduced to Kemon Hall, it&#39;s quite the turn of fate that he&#39;s able to get a pick-six for the Dallas Cowboys, and who he&#39;ll&nbsp;...",
+    "news_item_url": "https://www.dallascowboys.com/news/kemon-hall-on-his-unique-path-to-cowboys-i-try-to-capitalize",
     "picture_source": "Raiders.com",
     "approx_traffic": "200,000+"
   },
@@ -54,8 +74,8 @@
     "title": "Steelers",
     "pubDate": "Sat, 17 Aug 2024 20:00:00 -0700",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRGvXqDi-AgaMQgqDFVNbB8FfUPAN5QaFyFZsygfJfYZOoUkSwRidDIlYY6aaWRCIkims6FZOcd",
-    "news_item_snippet": "The positive was that the special teams units were better than they had been in last week&#39;s preseason-opening 20-12 loss to the Houston Texans. The defense also&nbsp;...",
-    "news_item_url": "https://www.steelers.com/news/steelers-fall-to-bills-in-second-preseason-game",
+    "news_item_snippet": "After Russell Wilson and Justin Fields struggled in the Steelers&#39; preseason loss to the Bills, head coach Mike Tomlin discussed what needed to improve for&nbsp;...",
+    "news_item_url": "https://www.nfl.com/news/steelers-hc-mike-tomlin-calls-qb1-evaluation-an-incomplete-study-as-offense-struggles-in-loss-to-bills",
     "picture_source": "BuffaloBills.com",
     "approx_traffic": "200,000+"
   },
@@ -93,10 +113,10 @@
     "country": "United States",
     "title": "Barcelona",
     "pubDate": "Sat, 17 Aug 2024 11:00:00 -0700",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSU1SQL329ij9QKLwJThIYs0QEcKgasC7hdWKM_z3qyhU-yZPaURykS-FxzQp8HyDlfHnhQFwkA",
-    "news_item_snippet": "New Barcelona manager Hansi Flick said he expects Ilkay Gundogan to stay this season after reports linked the midfielder with a move away from the LaLiga&nbsp;...",
-    "news_item_url": "https://www.reuters.com/sports/soccer/barcelona-boss-flick-hopeful-gundogan-will-stay-this-season-2024-08-18/",
-    "picture_source": "The Athletic",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQfQHYa-XEJzHgyxzkBWvFhArIb3v83LY1GwaWBAYUNj609eS1_ELD_8ijSp-tsj7QTB0gDV2JK",
+    "news_item_snippet": "FC Barcelona midfielder Ilkay Gundogan has reportedly contacted Manchester City to sound out a potential return to his former club.",
+    "news_item_url": "https://www.forbes.com/sites/tomsanderson/2024/08/18/fc-barcelona-star-gundogan-contacts-manchester-city-to-sound-out-sensational-return-reports-catalunya-radio/",
+    "picture_source": "Reuters",
     "approx_traffic": "50,000+"
   },
   {
@@ -111,11 +131,11 @@
   },
   {
     "country": "United States",
-    "title": "Al Nassr",
-    "pubDate": "Sat, 17 Aug 2024 11:00:00 -0700",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcS2WgaRSYdvTmgWhG9RCtF9Kz-vEvqyFdGroUESbZBOBI110PYTFzCVYNUaA5knDmfiIUE2QLXK",
-    "news_item_snippet": "Luis Castro may soon be history at Al Nassr. The Portuguese coach will be dismissed by the Riyadh club&#39;s board after yesterday&#39;s 4-1 thrashing by Al Hilal,&nbsp;...",
-    "news_item_url": "https://www.marca.com/en/football/2024/08/18/66c20eaf22601d46468b4582.html",
+    "title": "Liverpool",
+    "pubDate": "Sat, 17 Aug 2024 05:00:00 -0700",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSLW-tTk4G-9I3ywQI4Ia4bnuUJY_uU_MauebZV3UhtICbM9J5-Mt0uiyoIKCBjiYAafRGlKnNJ",
+    "news_item_snippet": "Liverpool overcame Ipswich 2-0 in the clubs&#39; opening game of the Premier League season \u2013 this is how they did it.",
+    "news_item_url": "https://www.nytimes.com/athletic/5707440/2024/08/18/liverpool-arne-slot-analysis-ipswich/",
     "picture_source": "ESPN",
     "approx_traffic": "50,000+"
   },
@@ -123,10 +143,10 @@
     "country": "India",
     "title": "Real Madrid",
     "pubDate": "Mon, 19 Aug 2024 01:30:00 +0530",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQvS243vXhzsRdNmqxduaYn8UFTNzqOaTNJlHXGQIqPd1jNSlv91NTMOuIxBLPya9QkVaKuuSZE",
-    "news_item_snippet": "SPAIN. Leading travel retailer and food &amp; beverage Avolta today partnered with top Spanish football club Real Madrid to officially inaugurate a hybrid&nbsp;...",
-    "news_item_url": "https://moodiedavittreport.com/net-gains-certain-as-avolta-and-real-madrid-inaugurate-premium-dining-and-merchandise-concept-at-adolfo-suarez-madrid-barajas-airport/",
-    "picture_source": "Real Madrid",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSD6m_pBoufCLk_5OrLo28_HH69wuLkTbfwVn5AkgDdfgVtOKe4SpLSbU8qM61ecnOu6HCnQxN5",
+    "news_item_snippet": "Located in Terminal 4 of the Adolfo Su\u00e1rez-Madrid Barajas airport, it is the first shop with a restaurant area and merchandising products by the club.",
+    "news_item_url": "https://www.realmadrid.com/en-US/news/football/first-team/latest-news/el-presidente-y-el-equipo-inauguran-the-corner-by-real-madrid-18-08-2024",
+    "picture_source": "Sportstar",
     "approx_traffic": "50,000+"
   },
   {
@@ -134,8 +154,8 @@
     "title": "Raksha Bandhan 2024 Muhurat",
     "pubDate": "Sun, 18 Aug 2024 08:30:00 +0530",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSUxbnmuvA0y40HvuV89gZmInj-UP-mp66J3tdR3kLNtfMdYbXDNsHxJU3IdnmSu9IvWZnBHvjR",
-    "news_item_snippet": "Raksha Bandhan 2024 Shubh Muhurat, Bhadra Time: \u0936\u094d\u0930\u093e\u0935\u0923 \u092e\u093e\u0939 \u0915\u0947 \u0936\u0941\u0915\u094d\u0932 \u092a\u0915\u094d\u0937 \u0915\u0940 \u092a\u0942\u0930\u094d\u0923\u093f\u092e\u093e \u0924\u093f\u0925\u093f \u0915\u094b \u0930\u0915\u094d\u0937\u093e\u092c\u0902\u0927\u0928 \u0915\u093e \u092a\u0935\u093f\u0924\u094d\u0930 \u0924\u094d\u092f\u094b\u0939\u093e\u0930 \u092e\u0928\u093e\u092f\u093e \u091c\u093e\u0924\u093e \u0939\u0948\u0964",
-    "news_item_url": "https://www.amarujala.com/live/spirituality/festivals/raksha-bandhan-2024-live-updates-know-bhadra-time-rakhi-shubh-muhurat-puja-vidhi-and-wishes-in-hindi-2024-08-18",
+    "news_item_snippet": "Raksha Bandhan 2024 Muhurt Live: \u0930\u0915\u094d\u0937\u093e\u092c\u0902\u0927\u0928 \u092f\u093e\u0928\u093f \u0930\u093e\u0916\u0940 \u0915\u093e \u0924\u094d\u092f\u094b\u0939\u093e\u0930 19 \u0905\u0917\u0938\u094d\u0924 2024 \u0915\u094b \u0939\u0948. \u0930\u093e\u0916\u0940 (Rakhi) \u092c\u093e\u0902\u0927\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u0907\u0938 \u0926\u093f\u0928 \u0915\u094c\u0928 \u0938\u0947 \u0936\u0941\u092d \u092e\u0941\u0939\u0942\u0930\u094d\u0924 \u0939\u0948\u0902,&nbsp;...",
+    "news_item_url": "https://www.abplive.com/lifestyle/religion/raksha-bandhan-2024-live-updates-rakhi-tied-shubh-muhurat-pujan-bhadra-kaal-ka-samay-samagri-in-hindi-2763915",
     "picture_source": "\u0906\u091c \u0924\u0915",
     "approx_traffic": "200,000+"
   },
@@ -191,13 +211,23 @@
   },
   {
     "country": "India",
-    "title": "PM Modi",
-    "pubDate": "Sat, 17 Aug 2024 14:30:00 +0530",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTpYhxSTBsKWGRWvChdxQ8pL1b1kLWpaEOhnwwQ9WBylRXabz9p7DaQux8h6AUr-OzI2_iuRsdQ",
-    "news_item_snippet": "India created the Voice of Global South platform after taking over the G20 presidency in 2022 to ascertain the needs of developing countries so that they&nbsp;...",
-    "news_item_url": "https://m.economictimes.com/news/india/pm-modi-exhorts-global-south-to-fight-terror-separatism/articleshow/112595799.cms",
-    "picture_source": "Hindustan Times",
-    "approx_traffic": "50,000+"
+    "title": "Premier League",
+    "pubDate": "Fri, 16 Aug 2024 00:30:00 +0530",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSSa47XKd2IWWQYaxZ7CUDCijgwvXksOgnLDmlthg_-wZLI9Hi1pG3sa4q0Y519j82lvSDQ2B3j",
+    "news_item_snippet": "New Liverpool coach Arne Slot leads team to 2-0 win over Ipswich Town with goals from Jota and Salah.",
+    "news_item_url": "https://www.thehindu.com/sport/football/salah-and-jota-fire-arne-slot-to-winning-start-as-liverpool-boss/article68536938.ece",
+    "picture_source": "The Hindu",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "Argentina",
+    "title": "Boca",
+    "pubDate": "Sun, 18 Aug 2024 15:00:00 -0300",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQv-gvyVK_7JEHI-p6SlOzls2H9dHlEV0jSt8EgntX6IE4PR18kWkXBTXYoeTIBJsQuKveOWTez",
+    "news_item_snippet": "El conjunto dirigido por Diego Mart\u00ednez se impuso 3 a 1 en la Bombonera por la Liga Profesional y qued\u00f3 solo dos victorias del Cicl\u00f3n en el mano a mano - LA&nbsp;...",
+    "news_item_url": "https://www.lanacion.com.ar/deportes/futbol/asi-quedo-el-historial-entre-boca-y-san-lorenzo-tras-el-triunfo-del-xeneize-nid18082024/",
+    "picture_source": "Boca Juniors",
+    "approx_traffic": "1,000,000+"
   },
   {
     "country": "Argentina",
@@ -223,9 +253,19 @@
     "country": "Argentina",
     "title": "Marcos Acu\u00f1a",
     "pubDate": "Sun, 18 Aug 2024 14:00:00 -0300",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTP-5ilq0bnIPeCGqmsYfYZ2w5XWXGCHgkLzO9rlqmWk8XP4ZdD2Ku9zSsqbKgb_o9rkOqVFVNz",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcR7AKxHa6VLxd5TkfV_PWf7Df4mIhBU_e8fvo4K1U8XIg7bAOww3ZEcXJVqynK5r1s618HVP-i0",
     "news_item_snippet": "El Huevo deja Sevilla y en las pr\u00f3ximas horas llegar\u00e1 a Argentina para estampar su firma con el Millonario.",
     "news_item_url": "https://espndeportes.espn.com/futbol/argentina/nota/_/id/14055930/marcos-acuna-deja-sevilla-y-sera-refuerzo-de-river",
+    "picture_source": "Ol\u00e9",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Argentina",
+    "title": "Atl\u00e9tico Tucum\u00e1n  Estudiantes",
+    "pubDate": "Sun, 18 Aug 2024 17:00:00 -0300",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQPKv_GXPNWBW3ZksGJUYbffav7ZaKVwNNIabkO7CLhxBP6py88Doze6gdvRrUlR9ZRJyI6q7_Q",
+    "news_item_snippet": "Entre tanto, en Jun\u00edn y en un partido entre dos equipos que luchan por mantenerse en la categor\u00eda, Sarmiento (13) y Tigre (10) igualaron 0 a 0. El empate en&nbsp;...",
+    "news_item_url": "https://www.pagina12.com.ar/761086-liga-profesional-atletico-tucuman-supero-a-estudiantes-y-sue",
     "picture_source": "Ol\u00e9",
     "approx_traffic": "50,000+"
   },
@@ -233,10 +273,10 @@
     "country": "Australia",
     "title": "Logies 2024",
     "pubDate": "Sun, 18 Aug 2024 10:00:00 +1000",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSVEbWPw6mpupJDXwZfCyg0S2mHj3TDgSBngiE46vJIqRUx0bXLhlmZEzKp0X3nfdE9Mg4DcVSa",
-    "news_item_snippet": "Above: Rebecca Harding attends the 2024 Logies. Australia&#39;s foremost event in television has returned: The 64th annual TV Week Logie Awards has made its&nbsp;...",
-    "news_item_url": "https://www.vogue.com.au/culture/red-carpet/logies-2024/image-gallery/7e0ce524296f0726ca05e051d37edd10",
-    "picture_source": "The Sydney Morning Herald",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRk5IXoqcyTEcFOhwBW3NT7fZ4OUZPFUiz_EAlr5gEDLiMt2093VoYwZASxtqCA2aOjwvN49NiJ",
+    "news_item_snippet": "Thanks for following the 2024 TV Week Logie awards with us. What a night for 15-year-old Felix Cameron, who took home two Logies and won hearts across the&nbsp;...",
+    "news_item_url": "https://www.smh.com.au/culture/tv-and-radio/logies-2024-live-updates-red-carpet-winners-gold-logie-time-20240818-p5k39c.html",
+    "picture_source": "Vogue Australia",
     "approx_traffic": "200,000+"
   },
   {
@@ -244,8 +284,8 @@
     "title": "Real Madrid",
     "pubDate": "Sun, 18 Aug 2024 09:00:00 -0500",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRBNh1a77XGO1MCmPHPugGjPh1oiWVMiTkhlDnQkOtnW1DkxaOsPum44i5kt4nBAwDgfVnrWboZ",
-    "news_item_snippet": "Confira as principais informa\u00e7\u00f5es do jogo v\u00e1lido pela primeira rodada do Campeonato Espanhol.",
-    "news_item_url": "https://www.lance.com.br/onde-assistir/mallorca-x-real-madrid-onde-assistir-horario-e-provaveis-escalacoes-do-jogo-por-la-liga.html",
+    "news_item_snippet": "O Real Madrid estreou no Campeonato Espanhol trope\u00e7ando fora de casa. A equipe comandada por Carlo Ancelotti ficou no 1 a 1, neste domingo (18), contra o&nbsp;...",
+    "news_item_url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-espanhol/gol-brasileiro-e-frustracao-o-empate-do-real-madrid-na-estreia-na-la-liga/",
     "picture_source": "ESPN.com.br",
     "approx_traffic": "500,000+"
   },
@@ -264,8 +304,8 @@
     "title": "Crici\u00fama x Vasco da Gama",
     "pubDate": "Sun, 18 Aug 2024 14:00:00 -0500",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSqwNuowQNZj9kgug2wzmPfuMCBDVHl-ueXpEA_IroT_pyHkHm1V1UOKQbL6Ve_GQ8WFRTJf4Jn",
-    "news_item_snippet": "Crici\u00fama e Vasco protagonizam jogo emocionante no Est\u00e1dio Heriberto Hulse, com direito a virada e empate nos minutos finais.",
-    "news_item_url": "https://placar.com.br/brasileirao/ao-vivo-criciuma-x-vasco-pelo-brasileirao/",
+    "news_item_snippet": "\ud83d\uddd3\ufe0f Data e hor\u00e1rio: domingo, 18 de agosto de 2024, \u00e0s 16h; Local: Est\u00e1dio Heriberto Hulse, em Crici\u00fama (SC); Onde assistir: Premiere; \u00c1rbitro: Paulo&nbsp;...",
+    "news_item_url": "https://www.lance.com.br/onde-assistir/criciuma-x-vasco-onde-assistir-escalacoes-e-horario-do-jogo-do-brasileirao.html",
     "picture_source": "Terra",
     "approx_traffic": "200,000+"
   },
@@ -281,16 +321,6 @@
   },
   {
     "country": "Brazil",
-    "title": "Fortaleza",
-    "pubDate": "Sun, 18 Aug 2024 17:00:00 -0500",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQifGBeFhGHeQfWixhkEdIChCl3sKVJr-L2j-99l-Em7iP_Y24EzREcV-f2m7odMmduVULfsrtn",
-    "news_item_snippet": "O Fortaleza divulgou parcial de ingressos neste domingo (18) para o jogo contra o Rosario Central, em casa, de quarta-feira, pelas oitavas de final da&nbsp;...",
-    "news_item_url": "https://ge.globo.com/ce/futebol/times/fortaleza/noticia/2024/08/18/fortaleza-x-rosario-mais-de-44-mil-torcedores-estao-confirmados.ghtml",
-    "picture_source": "globoesporte.com",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "Brazil",
     "title": "Alain Delon",
     "pubDate": "Sun, 18 Aug 2024 05:00:00 -0500",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQz3OTQWLFjFKfMFTKFRjBtprY0e2BLqYulCFwHUL7Q3Kj-H5CefwG6MAnm2NI2NXVQLu_iDW7p",
@@ -301,12 +331,22 @@
   },
   {
     "country": "Brazil",
+    "title": "Fortaleza",
+    "pubDate": "Sun, 18 Aug 2024 17:00:00 -0500",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQifGBeFhGHeQfWixhkEdIChCl3sKVJr-L2j-99l-Em7iP_Y24EzREcV-f2m7odMmduVULfsrtn",
+    "news_item_snippet": "Jogo ocorre quarta-feira, na Arena Castel\u00e3o, pelas oitavas de final da Sul-Americana.",
+    "news_item_url": "https://ge.globo.com/ce/futebol/times/fortaleza/noticia/2024/08/18/fortaleza-x-rosario-mais-de-44-mil-torcedores-estao-confirmados.ghtml",
+    "picture_source": "globoesporte.com",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "Brazil",
     "title": "Paysandu",
     "pubDate": "Sun, 18 Aug 2024 13:00:00 -0500",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTMIC7VLY0cfSYZyxnuvZT1kkeqBOkyMMB3V4a7pcKdWKrvrMCKuUOd6wbRmpMIBLOW5RXEsk-e",
-    "news_item_snippet": "O Botafogo-SP empatou contra o Paysandu neste domingo, por 1 a 1, no est\u00e1dio Santa Cruz, em Ribeir\u00e3o Preto, pela 21\u00aa rodada da S\u00e9rie B. Alexandre Jesus&nbsp;...",
-    "news_item_url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/gazeta-esportiva/2024/08/18/com-um-a-mais-na-reta-final-botafogo-sp-empata-em-casa-com-o-paysandu-pela-serie-b.htm",
-    "picture_source": "Terra",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQTmbrA_9XKNBmVEspx13vi3QIHChWAx4ugxxyEHVeVPb6LZQSh7kOOKdF9yxEjgP-jUXX8pe19",
+    "news_item_snippet": "No jornal digital GZH, voc\u00ea encontra as \u00faltimas not\u00edcias do RS e do mundo, tudo sobre o seu time e muitos outros conte\u00fados exclusivos.",
+    "news_item_url": "https://gauchazh.clicrbs.com.br/esportes/noticia/2024/08/melhores-momentos-botafogo-sp-1-x-1-paysandu-serie-b-cm007yzsu00g201dgtcqhyxko.html",
+    "picture_source": "Goal.com",
     "approx_traffic": "50,000+"
   },
   {
@@ -317,7 +357,7 @@
     "news_item_snippet": "L&#39;acteur d\u00e9c\u00e9d\u00e9 dimanche a jou\u00e9 dans plus de 90 films sans jamais s&#39;affranchir de son image de s\u00e9ducteur tortur\u00e9.",
     "news_item_url": "https://www.ledevoir.com/culture/cinema/818377/alain-delon-enferme-propre-personnage",
     "picture_source": "ICI.Radio-Canada.ca",
-    "approx_traffic": "50,000+"
+    "approx_traffic": "100,000+"
   },
   {
     "country": "Canada",
@@ -343,10 +383,10 @@
     "country": "Canada",
     "title": "Rainfall warning",
     "pubDate": "Sat, 17 Aug 2024 17:00:00 -0400",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTuiCJL5vgLQqD2PEDUtAX01chAi9ZTDLckCGgMSBjiOo7a_WMkK_VuqSph_LhrP_DjXsmJwbby",
-    "news_item_snippet": "Parts of the Greater Toronto Area are seeing widespread as torrential rainfall continues to pour down.",
-    "news_item_url": "https://toronto.ctvnews.ca/heavy-rainfall-causes-widespread-flooding-across-gta-1.7004526",
-    "picture_source": "City of Mississauga",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcR7MqWidKTL-ngpuZjI30TSzzKaMujuSycVFaSxFGr_PDvT6Jebo4ovxOnLI5_ebBTqOtLdBOav",
+    "news_item_snippet": "Environment Canada has issued special weather statements for most of the Simcoe-Muskoka region, including rainfall warnings for Innisfil, New Tecumseth and&nbsp;...",
+    "news_item_url": "https://barrie.ctvnews.ca/simcoe-muskoka-still-under-rainfall-warning-1.7004554",
+    "picture_source": "CTV Toronto",
     "approx_traffic": "100,000+"
   },
   {
@@ -373,41 +413,31 @@
     "country": "France",
     "title": "Alain Delon",
     "pubDate": "Sun, 18 Aug 2024 08:00:00 +0200",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSBryhuRvUdhH4WPyvh5lw3DBZ5VQiQHrXFoWAfQsSP4cxTBib0ZGqldNs5qN29nJtfFdoXffTl",
-    "news_item_snippet": "Un accident vasculaire c\u00e9r\u00e9bral (AVC), suivi d&#39;un h\u00e9matome sous-dural aigu, a marqu\u00e9 le d\u00e9but du d\u00e9clin de l&#39;acteur en 2019.",
-    "news_item_url": "https://www.francetvinfo.fr/culture/cinema/alain-delon/mort-d-alain-delon-le-douloureux-crepuscule-d-une-legende-du-cinema_6731430.html",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRflIohgrwAOuOVtXP0gyVBJrdZjIDG87xUQ8rbmX0rFJ6AjcVMrBvw_9_StF85oZf9mXn6ggda",
+    "news_item_snippet": "L&#39;acteur fran\u00e7ais Alain Delon est mort \u00e0 l&#39;\u00e2ge de 88 ans, ont annonc\u00e9 le 18 ao\u00fbt 2024 ses trois enfants Alain Fabien, Anouchka et Anthony.",
+    "news_item_url": "https://www.bfmtv.com/people/cinema/mort-d-alain-delon-l-acteur-s-est-eteint-sereinement-dans-sa-maison-de-douchy_LN-202408180079.html",
     "picture_source": "Le Monde",
     "approx_traffic": "2,000,000+"
+  },
+  {
+    "country": "France",
+    "title": "Film le samourai",
+    "pubDate": "Sun, 18 Aug 2024 14:00:00 +0200",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQcuRDnORtMrr6vtDQiERs3yvYfscNZOOQQ0QinHUeJpRRhQw73XHQYJJ3qlt-ylm78vLizEap3",
+    "news_item_snippet": "Jef Costello, un tueur \u00e0 gages, est charg\u00e9 d&#39;\u00e9liminer le patron d&#39;une bo\u00eete de nuit. Un soir, il ex\u00e9cute froidement son contrat. Val\u00e9rie, la pianiste de l&#39;&nbsp;...",
+    "news_item_url": "https://www.france.tv/films/films-suspense/6429017-le-samourai.html",
+    "picture_source": "france.tv",
+    "approx_traffic": "100,000+"
   },
   {
     "country": "France",
     "title": "Real Madrid",
     "pubDate": "Sun, 18 Aug 2024 16:00:00 +0200",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQtuiOO8vNwg6_KpLczrqrKPyXPrT1l8CIVLEB4bPLDHyZpPeF0BxYsRnI4WrJp1atWvWKLv7LT",
-    "news_item_snippet": "Le Real a \u00e9t\u00e9 tenu en \u00e9chec lors de la 1re journ\u00e9e de Liga, ce dimanche contre Majorque. Malgr\u00e9 plusieurs appels, Mbapp\u00e9 n&#39;a pas trouv\u00e9 la faille dans la&nbsp;...",
-    "news_item_url": "https://www.leparisien.fr/sports/football/direct-majorque-real-madrid-suivez-le-premier-match-de-kylian-mbappe-en-liga-avec-les-merengue-18-08-2024-OZC5IUNH5VA5ZDNQFTCKDJ7RPU.php",
-    "picture_source": "L'\u00c9quipe.fr",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "France",
-    "title": "Rennes \u2013 Lyon",
-    "pubDate": "Sun, 18 Aug 2024 21:00:00 +0200",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcT_Inpm-zpkV9q33qz-reDcYuIW45UOQ-_ekWC2j1zDsWVIbU9F7x4kv4vkKUn8G9a6lhJiW9XD",
-    "news_item_snippet": "Les hommes de Julien St\u00e9phan ont rendu une copie propre contre un OL trop limit\u00e9, dimanche, pour refermer cette premi\u00e8re journ\u00e9e de championnat.",
-    "news_item_url": "https://www.francetvinfo.fr/sports/foot/ligue-1/direct-rennes-lyon-un-duel-entre-ambitieux-pour-se-lancer-suivez-l-affiche-de-la-premiere-journee-de-ligue-1_6728442.html",
+    "news_item_snippet": "Champion d&#39;Espagne la saison derni\u00e8re, le Real Madrid a conc\u00e9d\u00e9 le nul \u00e0 Majorque (1-1), ce dimanche 18 ao\u00fbt. Pour sa premi\u00e8re en Liga, Kylian Mbapp\u00e9,&nbsp;...",
+    "news_item_url": "https://www.ouest-france.fr/sport/football/espagne/real-madrid/direct-majorque-real-madrid-suivez-les-debuts-de-kylian-mbappe-en-liga-en-live-d6bf3784-ea96-46f9-ac2e-55ab2014ebee",
     "picture_source": "L'\u00c9quipe.fr",
     "approx_traffic": "100,000+"
-  },
-  {
-    "country": "France",
-    "title": "Chelsea \u2013 Manchester City",
-    "pubDate": "Sun, 18 Aug 2024 17:00:00 +0200",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSBfsP4AT2C9jlC62h1G-XCpobCvqhakpk588gPxgWCe5hhjjSXaZrJWlJVbZ_Q3umrgle7aQNa",
-    "news_item_snippet": "Manchester City s&#39;est offert le scalp de Chelsea (0-2) \u00e0 Stamford Bridge pour le compte de la 1\u00e8re journ\u00e9e de Premier League 2024-2025.",
-    "news_item_url": "https://rmcsport.bfmtv.com/football/premier-league/direct-premier-league-suivez-le-premier-gros-choc-de-la-saison-chelsea-manchester-city-en-live_LS-202408180026.html",
-    "picture_source": "L'\u00c9quipe.fr",
-    "approx_traffic": "50,000+"
   },
   {
     "country": "France",
@@ -417,6 +447,16 @@
     "news_item_snippet": "La piscine ; R\u00e9alis\u00e9 par : Jacques Deray ; Avec : Alain Delon, Romy Schneider, Maurice Ronet, Jane Birkin, Paul Crauchet, Steve Eckardt, Maddly Bamy, Suzie&nbsp;...",
     "news_item_url": "https://www.france.tv/films/films-drame/239987-la-piscine.html",
     "picture_source": "france.tv",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "France",
+    "title": "Chelsea \u2013 Manchester City",
+    "pubDate": "Sun, 18 Aug 2024 17:00:00 +0200",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSBfsP4AT2C9jlC62h1G-XCpobCvqhakpk588gPxgWCe5hhjjSXaZrJWlJVbZ_Q3umrgle7aQNa",
+    "news_item_snippet": "Manchester City s&#39;est offert le scalp de Chelsea (0-2) \u00e0 Stamford Bridge pour le compte de la 1\u00e8re journ\u00e9e de Premier League 2024-2025.",
+    "news_item_url": "https://rmcsport.bfmtv.com/football/premier-league/direct-premier-league-suivez-le-premier-gros-choc-de-la-saison-chelsea-manchester-city-en-live_LS-202408180026.html",
+    "picture_source": "L'\u00c9quipe.fr",
     "approx_traffic": "50,000+"
   },
   {
@@ -437,16 +477,6 @@
     "news_item_snippet": "Appel\u00e9e sur le tournage du film culte Coup de t\u00eate avec le regrett\u00e9 Patrick Dewaere pour remplacer une jeune scripte qui faisait la gr\u00e8ve, Laurence tombe nez \u00e0&nbsp;...",
     "news_item_url": "https://fr.news.yahoo.com/jean-jacques-annaud-dame-br%C3%BBle-172800295.html",
     "picture_source": "Yahoo Actualit\u00e9s",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "France",
-    "title": "Auxerre \u2013 Nice",
-    "pubDate": "Sun, 18 Aug 2024 15:00:00 +0200",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQdQOXBm199YSm5pJj2QaJ8OnMoRJeeMhW8S2fHrlVY54CtNNfbpVv17fA3zoekgkEsqOeuF5qZ",
-    "news_item_snippet": "Pour son retour en Ligue 1, Auxerre s&#39;impose 2-1 face \u00e0 Nice gr\u00e2ce \u00e0 un but dans les derniers instants de Coulibaly ! L&#39;AJA, champion de Ligue 2 en titre,&nbsp;...",
-    "news_item_url": "https://rmcsport.bfmtv.com/football/ligue-1/direct-ligue-1-suivez-auxerre-nice-en-live_LS-202408180101.html",
-    "picture_source": "L'\u00c9quipe.fr",
     "approx_traffic": "50,000+"
   },
   {
@@ -491,16 +521,6 @@
   },
   {
     "country": "Germany",
-    "title": "Meppen HSV",
-    "pubDate": "Sun, 18 Aug 2024 18:00:00 +0200",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQvVrCEj-ToSGbaEcPWjCCRhNBGk17WSN5Fq0zHhkc_gnRdg3GIIdIIIDSa0iovK981z3fy-mqI",
-    "news_item_snippet": "Der Hamburger SV hat sein Erstrunden-Spiel im DFB-Pokal verdient wie eindeutig gewonnen. Gegen Regionalligist SV Meppen schraubte der effektive Zweitligist&nbsp;...",
-    "news_item_url": "https://www.kicker.de/meppen-gegen-hsv-2024-dfb-pokal-4918743/spielbericht",
-    "picture_source": "shz.de",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Germany",
     "title": "Supercup",
     "pubDate": "Sat, 17 Aug 2024 16:00:00 +0200",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSAbZS8BV4VQW9Wy-7KLBCB_cq5uBX5e1IkEZTNWYvyQPSnthPhD56RIINbBgiFpDNL-Yh2ey3R",
@@ -514,10 +534,20 @@
     "title": "Alain Delon",
     "pubDate": "Sun, 18 Aug 2024 09:00:00 +0200",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSfVEshnj8_OmRhlQ_Bbvysauahf2GDQtvtcdslThSFYeQu5xUkfxe9ZzmytvsfClhcORfZJKKo",
-    "news_item_snippet": "Una delle notizie principali di questa domenica 18 agosto 2024 \u00e8 la scomparsa, all&#39;et\u00e0 di 88 anni, dell&#39;attore francese Alain Delon. Nato nel 1935 a Sceaux,&nbsp;...",
-    "news_item_url": "https://www.ideawebtv.it/2024/08/18/la-scomparsa-di-alain-delon-ad-alba-nel-2005-fu-omaggiato-del-tartufo-dellanno/",
+    "news_item_snippet": "Leggi su Sky TG24 l&#39;articolo Addio Alain Delon, il mondo lo omaggia sui social: da Macron a Claudia Cardinale. FOTO.",
+    "news_item_url": "https://tg24.sky.it/spettacolo/cinema/2024/08/18/alain-delon-morto-ricordo-social-foto",
     "picture_source": "Rai News",
     "approx_traffic": "1,000,000+"
+  },
+  {
+    "country": "Italy",
+    "title": "Lazio-Venezia",
+    "pubDate": "Sun, 18 Aug 2024 12:00:00 +0200",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcT5uExKtms0kUnia_nFFw8hQDzyGwoYRByyZmtx-lsasZy7D4S8UUc3juUo4a3cU2uzPxJ7RXE3",
+    "news_item_snippet": "La partita tra Lazio-Venezia, che si giocher\u00e0 domenica 18 agosto alle 20:45, sar\u00e0 in diretta sull&#39;app di DAZN e sul canale DAZN, disponibile al canale 215&nbsp;...",
+    "news_item_url": "https://sport.sky.it/calcio/serie-a/2024/08/18/lazio-venezia-dove-vedere-tv-streaming",
+    "picture_source": "La Repubblica",
+    "approx_traffic": "100,000+"
   },
   {
     "country": "Italy",
@@ -541,13 +571,13 @@
   },
   {
     "country": "Italy",
-    "title": "Lazio Venezia",
-    "pubDate": "Sun, 18 Aug 2024 12:00:00 +0200",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcT5uExKtms0kUnia_nFFw8hQDzyGwoYRByyZmtx-lsasZy7D4S8UUc3juUo4a3cU2uzPxJ7RXE3",
-    "news_item_snippet": "Lazio Venezia su Sky Sport: scopri tutti gli aggiornamenti sulla partita di Serie A in tempo reale.",
-    "news_item_url": "https://sport.sky.it/calcio/serie-a/partite/2024/giornata-1/lazio-venezia/risultato-gol",
-    "picture_source": "La Repubblica",
-    "approx_traffic": "50,000+"
+    "title": "MotoGp oggi",
+    "pubDate": "Sun, 18 Aug 2024 08:00:00 +0200",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSPZnT8dYl-CwdC7oQ_ZWUCdKSliZfWwQxJpDtV3vOYCDEAuBd1ORg0452-KcbuU-l3kryBiVkZ",
+    "news_item_snippet": "Tutti gli aggiornamenti in tempo reale dalla pista austriaca, sede dell&#39;undicesimo appuntamento del Mondiale. Moto GP Austria GP D&#39;Austria.",
+    "news_item_url": "https://www.gazzetta.it/Moto/moto-GP/18-08-2024/live-motogp-gp-austria-le-gare-da-zeltweg-i-diretta.shtml",
+    "picture_source": "Sky Sport",
+    "approx_traffic": "100,000+"
   },
   {
     "country": "Italy",
@@ -573,10 +603,10 @@
     "country": "Mexico",
     "title": "Alain Delon",
     "pubDate": "Sun, 18 Aug 2024 03:00:00 -0600",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQJikK-khSP5tQBsiA9DpkRQaD7uiBimYfvD_sX1A7Jpsl-VA_dJ9Hp0rIad_NFlAizD-V0uCky",
-    "news_item_snippet": "Considerado alguna vez como &quot;el hombre m\u00e1s bello del cine&quot;, Alain Delon falleci\u00f3 en su casa de Douchy.",
-    "news_item_url": "https://www.bbc.com/mundo/articles/c2dg57nn9p7o",
-    "picture_source": "El Financiero",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTIqvZG80HuUnTAEC-vSGgQiX4fEH5dY0iy3TV8IGidckvp-irSOrjKxhwUSjcL_9iQQoMx4_4I",
+    "news_item_snippet": "Alain Delon, el actor franc\u00e9s con reconocimiento internacional que dio vida tanto al villano como al polic\u00eda y que conquist\u00f3 corazones en todo el mundo,&nbsp;...",
+    "news_item_url": "https://www.latimes.com/espanol/entretenimiento/articulo/2024-08-18/el-actor-y-galan-frances-alain-delon-muere-a-los-88-anos",
+    "picture_source": "BBC Mundo",
     "approx_traffic": "50,000+"
   },
   {
@@ -587,7 +617,7 @@
     "news_item_snippet": "Muriqi empat\u00f3 el encuentro en un tiro de esquina, despu\u00e9s del tanto inicial de Rodrygo | Mbapp\u00e9 debut\u00f3 en LaLiga | Arrasate se estrena en el banquillo&nbsp;...",
     "news_item_url": "https://elpais.com/deportes/futbol/2024-08-18/mallorca-real-madrid-en-directo-el-partido-de-laliga-ea-sports-en-vivo.html",
     "picture_source": "RTVE",
-    "approx_traffic": "200,000+"
+    "approx_traffic": "500,000+"
   },
   {
     "country": "Mexico",
@@ -598,26 +628,6 @@
     "news_item_url": "https://www.infobae.com/america/agencias/2024/08/17/cronica-del-valencia-cf-fc-barcelona-1-2/",
     "picture_source": "MARCA.com",
     "approx_traffic": "200,000+"
-  },
-  {
-    "country": "Mexico",
-    "title": "Philadelphia  Mazatl\u00e1n",
-    "pubDate": "Sat, 17 Aug 2024 17:00:00 -0600",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSMLk5IRgXMxyoIeLfm0x1e4NxdAIBJCHN9UalBEEC0PoRPP4_GvmGfVsBNiMI4yRj2DWjgHFzE",
-    "news_item_snippet": "Sigue todas las acciones en directo, minuto a minuto, del Philadelphia Union vs Mazatl\u00e1n, partido correspondiente a los Cuartos de final de la Leagues Cup.",
-    "news_item_url": "https://mexico.as.com/futbol/philadelphia-union-vs-mazatlan-en-vivo-cuartos-de-final-de-la-leagues-cup-hoy-en-directo-n/",
-    "picture_source": "Univision",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "Mexico",
-    "title": "Al Nassr",
-    "pubDate": "Sat, 17 Aug 2024 09:00:00 -0600",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRbpsW0EsiTPOut7-i-tx4CrWTiKuxmAJcq7YsRw10ccVRYxTUmOkUIyyLeXbrdUoa3uCAh2FzzOA",
-    "news_item_snippet": "Lu\u00eds Castro est\u00e1 en la balanza tras no conseguir el t\u00edtulo; Hierro ya busca su reemplazo.",
-    "news_item_url": "https://www.record.com.mx/futbol-futbol-internacional-internacionales/nuevo-dt-entrenador-de-cr7-y-al-nassr-sera-despedido",
-    "picture_source": "ESPN",
-    "approx_traffic": "50,000+"
   },
   {
     "country": "Spain",
@@ -663,10 +673,10 @@
     "country": "United Kingdom",
     "title": "UFC",
     "pubDate": "Sun, 18 Aug 2024 03:00:00 +0100",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcR1WiolFJGoFw71e5aiaKMdZUdJ63SOXqNhezeampO3xiPDoJEeUYTr8ZWy6Nb7ZosfwYEOCoZq",
-    "news_item_snippet": "Dricus du Plessis successfully defended his UFC middleweight championship on Saturday night in the main event of UFC 305 in Perth, Australia.",
-    "news_item_url": "https://www.forbes.com/sites/brianmazique/2024/08/18/ufc-305-results-bonus-winners-highlights-and-reaction/",
-    "picture_source": "Aljazeera.com",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcR8fa01WodHYCBSl9Zy8fIb7tOjSN0D82Kci6Cc5qz8FUjOzwiT_oYioKHlzIBYFdd9XaIbS4cv",
+    "news_item_snippet": "Middleweight champion Dricus Du Plessis mounted his first successful title defense with victory over Israel Adesanya.",
+    "news_item_url": "https://www.aljazeera.com/sports/2024/8/18/du-plessis-defeats-adesanya-retains-middleweight-title-at-ufc-305-in-perth",
+    "picture_source": "Forbes",
     "approx_traffic": "200,000+"
   },
   {
@@ -683,10 +693,10 @@
     "country": "United Kingdom",
     "title": "Real Madrid",
     "pubDate": "Sun, 18 Aug 2024 00:00:00 +0100",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcT-zn8TeFQypww5LJi7MBVpy8Ug3QNWhV2IYGtBcDz9fmhQ_gM8iYT3MMg2OUoy_PudD9i_l1h1",
-    "news_item_snippet": "Expert recap and game analysis of the Mallorca vs. Real Madrid Spanish Laliga game from 18 August 2024 on ESPN (UK).",
-    "news_item_url": "https://www.espn.co.uk/football/report/_/gameId/704663",
-    "picture_source": "Forbes",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSaDOg41ItTF4QzOv_XVjWFpDd27uhmMEyL_T-hRKkuEu4i5sSVC6r_2hF7X4tPMUw6cO-7M2Vv",
+    "news_item_snippet": "Real Madrid head coach Carlo Ancelotti criticized his players following Sunday&#39;s surprise 1-1 draw with Mallorca.",
+    "news_item_url": "https://www.forbes.com/sites/tomsanderson/2024/08/18/real-madrid-boss-criticizes-players-after-mallorca-draw/",
+    "picture_source": "ESPN.co.uk",
     "approx_traffic": "100,000+"
   },
   {
@@ -704,8 +714,8 @@
     "title": "Brentford vs Crystal Palace",
     "pubDate": "Sun, 18 Aug 2024 14:00:00 +0100",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTDHHGEhz-aUvcXA655xnMUxEKRNOxndCoCQJ9LQKTFijP93Ad7tmOvPN5kPeQaU3GwiUhdX0en",
-    "news_item_snippet": "Strikes from Bryan Mbeumo and Yoane Wissa gave Brentford the win \u2013 though Palace had Eberechi Eze&#39;s brilliant free-kick finish controversially disallowed.",
-    "news_item_url": "https://www.theguardian.com/football/live/2024/aug/18/brentford-v-crystal-palace-premier-league-live",
+    "news_item_snippet": "Brentford begin the Premier League season with a 2-1 win over Crystal Palace at Gtech Community Stadium; Bryan Mbeumo gave Bees the lead with a left-footed&nbsp;...",
+    "news_item_url": "https://www.brentfordfc.com/en/news/article/match-reports-brentford-2-crystal-palace-1-premier-league-18-08-2024",
     "picture_source": "Yahoo Sports",
     "approx_traffic": "50,000+"
   },
@@ -717,16 +727,6 @@
     "news_item_snippet": "Ivan Toney was left out of the Brentford squad for their Premier League opener against Crystal Palace on Sunday; Bees boss Thomas Frank said the striker was&nbsp;...",
     "news_item_url": "https://www.skysports.com/football/news/11748/13199103/ivan-toney-transfer-brentford-approached-by-saudi-pro-league-club-for-england-striker",
     "picture_source": "The Independent",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United Kingdom",
-    "title": "Newcastle United",
-    "pubDate": "Sun, 18 Aug 2024 09:00:00 +0100",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcT6625vFYFMXXkxz2t0hBTsW1RhbkmNiuzDr1IyeV9tusucmDRC2BxiLSQayugCTVfpanjY4kES",
-    "news_item_snippet": "Newcastle United hung on to claim and blood and guts 1-0 Premier League opening day win over Southampton at St James&#39; Park.",
-    "news_item_url": "https://www.shieldsgazette.com/sport/football/newcastle-united/loved-the-flavours-newcastle-united-star-spotted-at-quayside-restaurant-popular-with-hollywood-stars-4746715",
-    "picture_source": "Shields Gazette",
     "approx_traffic": "50,000+"
   },
   {
