@@ -1,22 +1,22 @@
 [
   {
     "country": "United States",
-    "title": "Chelsea vs Man City",
-    "pubDate": "Sun, 18 Aug 2024 09:00:00 -0700",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRaPEisUAScW115MoQZiVa_qjtg3OKNM6NDLhaiJ_bPexjkV4vZquFXr6NYE0VYWuRqknDq0gGh",
-    "news_item_snippet": "Man City began their title defence with a confident victory at Stamford Bridge against Enzo Maresca&#39;s Chelsea side.",
-    "news_item_url": "https://sports.yahoo.com/chelsea-vs-manchester-city-live-095319037.html",
-    "picture_source": "The New York Times",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "United States",
     "title": "Alain Delon",
     "pubDate": "Sun, 18 Aug 2024 04:00:00 -0700",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTvFZJ7o6d28nWKGzF2UTC8ffKGS5w_TkLK6GMDUCJBpLAH9Il_sDnW-6aH0O0NSEt6H-7p-R_Z",
     "news_item_snippet": "Delon starred in more than 80 movies over six decades, including such classics as &quot;Le Samoura\u00ef&quot; and &quot;The Leopard.&quot; He was 88.",
     "news_item_url": "https://www.npr.org/2024/08/18/nx-s1-4815021/alain-delon-cinematic-heartthrob-and-one-of-the-most-beloved-french-actors-has-died",
     "picture_source": "BBC News",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Chelsea vs Man City",
+    "pubDate": "Sun, 18 Aug 2024 09:00:00 -0700",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRaPEisUAScW115MoQZiVa_qjtg3OKNM6NDLhaiJ_bPexjkV4vZquFXr6NYE0VYWuRqknDq0gGh",
+    "news_item_snippet": "Man City began their title defence with a confident victory at Stamford Bridge against Enzo Maresca&#39;s Chelsea side.",
+    "news_item_url": "https://sports.yahoo.com/chelsea-vs-manchester-city-live-095319037.html",
+    "picture_source": "The New York Times",
     "approx_traffic": "200,000+"
   },
   {
@@ -41,22 +41,22 @@
   },
   {
     "country": "United States",
-    "title": "Storm vs Fever",
-    "pubDate": "Sun, 18 Aug 2024 14:00:00 -0700",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSqyv_DWBWe_-i8CafL4jrZVOZ-nJED9EmluytQ2RZ8zBVFKtFtTGWl1atrRCwuGGE-5Y9Kbo2c",
-    "news_item_snippet": "The record for most assists by a rookie in a WNBA season now belongs to Caitlin Clark, who surpassed Ticha Penicheiro&#39;s mark Sunday.",
-    "news_item_url": "https://www.usatoday.com/story/sports/wnba/fever/2024/08/18/caitlin-clark-points-fever-storm-stats/74851375007/",
-    "picture_source": "CBSSports.com",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "United States",
     "title": "Packers",
     "pubDate": "Sun, 18 Aug 2024 18:00:00 -0700",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSNm7--bpJxrTvz6zZoFHOHDqgjYaowPrWheGarcmma1BKcxozhhi1y4bH1OsDIO_EpStZuDyZj",
     "news_item_snippet": "DENVER \u2013 The Packers&#39; second preseason game did not go nearly as well as the first, ending in a 27-2 loss to the Broncos at Empower Field at Mile High.",
     "news_item_url": "https://www.packers.com/news/packers-broncos-in-game-updates-preseason-2-2024",
     "picture_source": "DenverBroncos.com",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Storm vs Fever",
+    "pubDate": "Sun, 18 Aug 2024 14:00:00 -0700",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSqyv_DWBWe_-i8CafL4jrZVOZ-nJED9EmluytQ2RZ8zBVFKtFtTGWl1atrRCwuGGE-5Y9Kbo2c",
+    "news_item_snippet": "Jewell Loyd and the Seattle Storm (17-9) go up against Caitlin Clark and the Indiana Fever (12-15) on August 18, 2024 at Gainbridge Fieldhouse.",
+    "news_item_url": "https://www.seattlepi.com/sports/watching-games/article/storm-fever-wnba-watch-info-8-18-2024-19662426.php",
+    "picture_source": "CBSSports.com",
     "approx_traffic": "200,000+"
   },
   {
@@ -71,32 +71,42 @@
   },
   {
     "country": "United States",
-    "title": "DNC",
-    "pubDate": "Sun, 18 Aug 2024 19:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQTYvf22HcNA6bgPdiq5YzMhsAmgu7QcPURm0hL7-_2usVnLRx9oIqO9t1T_y5Fhs3TheSfMhN8",
-    "news_item_snippet": "The 2024 DNC is set to get underway in Chicago, bringing some of the biggest names in politics to the city that has hosted more political conventions than&nbsp;...",
-    "news_item_url": "https://www.nbcchicago.com/dnc-chicago-2024/guide-2024-dnc-how-to-watch-scheduled-speakers-street-closures/3525051/",
+    "title": "DNC Convention",
+    "pubDate": "Sun, 18 Aug 2024 21:00:00 -0700",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTs6a_cYYmf5ira8kGNWqm7OEdw2W4dK2ItImXXRofxrW9HYOk-PXbnQovUMy1LVU8ylMklSTgo",
+    "news_item_snippet": "The Democratic National Convention will open in Chicago on Monday, with President Biden speaking in prime time as he passes the torch to Vice President&nbsp;...",
+    "news_item_url": "https://www.axios.com/2024/08/18/dnc-speaker-schedule-obama-biden",
     "picture_source": "NPR",
-    "approx_traffic": "100,000+"
+    "approx_traffic": "50,000+"
   },
   {
     "country": "United States",
-    "title": "Love Island reunion",
-    "pubDate": "Sun, 18 Aug 2024 20:00:00 -0700",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQP_hwZkhkpDmeaBCL5VpCCbBPtfukAkeV64vWgnvxuoNIEg3dY-vbZ3mWFm_hL1_o7ef5mUvH4",
-    "news_item_snippet": "The reunion was pre-filmed in New York City and will feature the show&#39;s host, Ariana Madix, as well as much of the Season 6 cast.",
-    "news_item_url": "https://www.usatoday.com/story/entertainment/tv/2024/08/19/love-island-usa-season-6-reunion/74826986007/",
-    "picture_source": "Deadline",
-    "approx_traffic": "50,000+"
+    "title": "UFC",
+    "pubDate": "Sat, 17 Aug 2024 19:00:00 -0700",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRz7dT4sUC-xxBQ8E78Lrr7uVOJQRoKt7CPizu7JMJlbE0BU_WwMY4FEODwDl9OkVP_zDEG_Jd6",
+    "news_item_snippet": "See The Fight Results, Watch Post-Fight Interviews With The Main Card Winners And More From UFC 305: Du Plessis vs Adesanya, Live From RAC Arena In Perth,&nbsp;...",
+    "news_item_url": "https://www.ufc.com/news/main-card-results-highlights-winner-interviews-ufc-305-du-plessis-vs-adesanya",
+    "picture_source": "ESPN",
+    "approx_traffic": "500,000+"
   },
   {
     "country": "United States",
     "title": "Dallas Cowboys",
     "pubDate": "Sat, 17 Aug 2024 20:00:00 -0700",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQxlU3AjfwKcocR3RPER8Fnpe8hOwc-VOI_63U612hpxXUpl7NVoL-7hxVWXvpyS_dXXauyRttE",
-    "news_item_snippet": "Las Vegas Raiders quarterback Gardner Minshew II (15) during the preseason home game against the Dallas Cowboys at Allegiant Stadium. Matt Aguirre/Las Vegas&nbsp;...",
-    "news_item_url": "https://www.raiders.com/news/quick-snap-raiders-drop-second-preseason-game-to-dallas-cowboys-081724",
-    "picture_source": "DallasCowboys.com",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSg1wxWZ7PAjVO7NrId1f5NHRAbfDNOq3LMKvqOyvaHxOvekiqIJx3FxnzDY1wKlM26XvVm3akI",
+    "news_item_snippet": "Just six days ago, the Cowboys looked completely different in LA than they did in Vegas. More importantly, the changes are ones that should help them when&nbsp;...",
+    "news_item_url": "https://www.dallascowboys.com/news/eatman-how-the-cowboys-got-better-in-6-days",
+    "picture_source": "Raiders.com",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Severe thunderstorm watch",
+    "pubDate": "Sat, 17 Aug 2024 16:00:00 -0700",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcS-WrjR1Gh9MNYDK1bER1EfpteVDcsw5LYvUiRk3Yo0OdEblZskYI9U7gn9AQYFckCJBILn6w-4",
+    "news_item_snippet": "MEMPHIS, Tenn. (WMC) -&nbsp;...",
+    "news_item_url": "https://www.actionnews5.com/2024/08/18/severe-thunderstorm-watch-issued-following-counties/",
+    "picture_source": "Action News 5",
     "approx_traffic": "200,000+"
   },
   {
@@ -111,32 +121,12 @@
   },
   {
     "country": "United States",
-    "title": "Dricus Du Plessis",
-    "pubDate": "Sat, 17 Aug 2024 19:00:00 -0700",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSM0Xn8MkcFN-vDGl9JbomZNkhe62IUa9KKGEqthp1r8jAXoM4zhR6F_VnTOoqJyWKtEdd9dUcs",
-    "news_item_snippet": "PRNewswire-PRWeb/ -- 30-Year-Old MMA Athlete from South Africa Masters First Title Defense with Submission Victory And still the Champion! Monster Energy...",
-    "news_item_url": "https://www.prweb.com/releases/monster-energys-dricus-du-plessis-submits-israel-adesanya-to-defend-ufc-middleweight-championship-title-at-ufc-305-302224860.html",
-    "picture_source": "Yahoo Sports",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "United States",
     "title": "Full moon August 2024",
     "pubDate": "Sat, 17 Aug 2024 23:00:00 -0700",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQjJoDnBEE90800SW2ckLswtfkgyQ8QhAjAytPn6V6C8LwgNPbzCmRqLJqTo0EMk0KS2DHNI-iX",
     "news_item_snippet": "The full moon in Aquarius rises on August 19, 2024. Here&#39;s what the Sturgeon super blue Moon has in store for each zodiac sign, and more astrological&nbsp;...",
     "news_item_url": "https://www.today.com/life/astrology/full-moon-in-aquarius-august-2024-rcna132402",
     "picture_source": "Axios",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Daniel Jones",
-    "pubDate": "Sat, 17 Aug 2024 14:00:00 -0700",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQ1plY61iJz7hBjwUHm0DTp2Ma3o9qhZnge2oRJXXdCvCUR_GNkB03xA8jCPum9n69musdtqrpD",
-    "news_item_snippet": "Playing in his first game since tearing his ACL, New York Giants quarterback Daniel Jones began his comeback bid disastrously against the Houston Texans&nbsp;...",
-    "news_item_url": "https://www.nfl.com/news/giants-hc-brian-daboll-on-evaluating-daniel-jones-uneven-day-vs-texans-that-s-what-these-games-are-for",
-    "picture_source": "Giants.com",
     "approx_traffic": "100,000+"
   },
   {
@@ -150,14 +140,44 @@
     "approx_traffic": "100,000+"
   },
   {
+    "country": "United States",
+    "title": "La Liga",
+    "pubDate": "Sat, 17 Aug 2024 17:00:00 -0700",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQAbZk84NYNvzdMN4K2716qX5Qe5m_Zfq241KF0U1f480UNycqEYD1zJreKGUEaZgQkVIvhGMqj",
+    "news_item_snippet": "Barcelona were without Dani Olmo, Fermin Lopez and Ilkay Gundogan for Saturday&#39;s La Liga opener against Valencia, while Pedri was only fit enough for the&nbsp;...",
+    "news_item_url": "https://sports.yahoo.com/la-liga-clubs-eyeing-move-142200367.html",
+    "picture_source": "Yahoo Sports",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Texans",
+    "pubDate": "Sat, 17 Aug 2024 14:00:00 -0700",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTujjoMG_5d7goNDb9F9KprW59HxRACMczcKuiex02PJpEAdxZpdtm68lQLOKLUY1-_xo9vBq4r",
+    "news_item_snippet": "HOUSTON, Texas (KTRK) -- On Saturday, the Texans put on a show in Saturday&#39;s preseason game against the Giants. &quot;Defensively, one thing we harp on is&nbsp;...",
+    "news_item_url": "https://abc13.com/post/houston-texans-defense-swarms-preseason-home-win-giants-nrg-stadium/15202183/",
+    "picture_source": "Giants.com",
+    "approx_traffic": "100,000+"
+  },
+  {
     "country": "India",
     "title": "Happy Raksha Bandhan",
-    "pubDate": "Mon, 19 Aug 2024 07:30:00 +0530",
+    "pubDate": "Mon, 19 Aug 2024 00:30:00 +0530",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTBtZgWAhZVetypub5uKXxg5o4Tt-KH3_d6AhnUkT3aDYqj9_L4PSR4V_TQj1Y46mOuKRAHTJgt",
-    "news_item_snippet": "Happy Raksha Bandhan 2024: The occasion is celebrated by tying a Rakhi on brothers&#39; wrists, as women pray for the prosperity and health of their siblings.",
-    "news_item_url": "https://www.livemint.com/news/happy-raksha-bandha-2024-wishes-images-greetings-whatsapp-status-gifs-facebook-messages-to-share-with-your-siblings-11724027871788.html",
+    "news_item_snippet": "Happy Raksha Bandhan 2024: This Rakhi, make your siblings&#39; day extra special with lovely wishes that you can share on Facebook and WhatsApp.",
+    "news_item_url": "https://www.hindustantimes.com/lifestyle/festivals/happy-raksha-bandhan-2024-20-rakhi-wishes-images-quotes-whatsapp-and-facebook-status-to-share-with-siblings-101723957092554.html",
     "picture_source": "Business Standard",
     "approx_traffic": "500,000+"
+  },
+  {
+    "country": "India",
+    "title": "Happy rakshabandhan wishes",
+    "pubDate": "Mon, 19 Aug 2024 08:30:00 +0530",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTBtZgWAhZVetypub5uKXxg5o4Tt-KH3_d6AhnUkT3aDYqj9_L4PSR4V_TQj1Y46mOuKRAHTJgt",
+    "news_item_snippet": "Happy Raksha Bandhan 2024: This Rakhi, make your siblings&#39; day extra special with lovely wishes that you can share on Facebook and WhatsApp.",
+    "news_item_url": "https://www.hindustantimes.com/lifestyle/festivals/happy-raksha-bandhan-2024-20-rakhi-wishes-images-quotes-whatsapp-and-facebook-status-to-share-with-siblings-101723957092554.html",
+    "picture_source": "Business Standard",
+    "approx_traffic": "100,000+"
   },
   {
     "country": "India",
@@ -171,21 +191,11 @@
   },
   {
     "country": "India",
-    "title": "Rakhi wishes",
-    "pubDate": "Mon, 19 Aug 2024 09:30:00 +0530",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTBtZgWAhZVetypub5uKXxg5o4Tt-KH3_d6AhnUkT3aDYqj9_L4PSR4V_TQj1Y46mOuKRAHTJgt",
-    "news_item_snippet": "Happy Raksha Bandhan 2024 Wishes Quotes: As we celebrate Raksha Bandhan, let us cherish the moments spent together and renew our vows to stand by each other&nbsp;...",
-    "news_item_url": "https://m.economictimes.com/news/new-updates/happy-raksha-bandhan-2024-wishes-quotes-top-50-rakhi-image-wishes-whatsapp-status-in-english-for-facebook-instagram/articleshow/112616809.cms",
-    "picture_source": "Business Standard",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "India",
-    "title": "Raksha Bandhan 2024 muhurat",
+    "title": "Raksha Bandhan",
     "pubDate": "Sun, 18 Aug 2024 08:30:00 +0530",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQv6becRqCMFD2ejNDgFefetOHoc9VGHFP0tWEyleGy8MGEtIrpdi0a6_AvQ5SPgm92GcPcLHyK",
-    "news_item_snippet": "Raksha Bandhan 2024 Shubh Muhurat, Bhadra Time: \u0936\u094d\u0930\u093e\u0935\u0923 \u092e\u093e\u0939 \u0915\u0947 \u0936\u0941\u0915\u094d\u0932 \u092a\u0915\u094d\u0937 \u0915\u0940 \u092a\u0942\u0930\u094d\u0923\u093f\u092e\u093e \u0924\u093f\u0925\u093f \u0915\u094b \u0930\u0915\u094d\u0937\u093e\u092c\u0902\u0927\u0928 \u0915\u093e \u092a\u0935\u093f\u0924\u094d\u0930 \u0924\u094d\u092f\u094b\u0939\u093e\u0930 \u092e\u0928\u093e\u092f\u093e \u091c\u093e\u0924\u093e \u0939\u0948\u0964",
-    "news_item_url": "https://www.amarujala.com/live/spirituality/festivals/raksha-bandhan-2024-live-updates-know-bhadra-time-rakhi-shubh-muhurat-puja-vidhi-and-wishes-in-hindi-2024-08-18",
+    "news_item_snippet": "Happy Raksha Bandhan Wishes: RakshaBandhan is a time to show your brothers and sisters how much you appreciate and love them.",
+    "news_item_url": "https://www.business-standard.com/india-news/raksha-bandhan-2024-rakhi-wishes-and-quotes-to-share-with-your-siblings-124081900063_1.html",
     "picture_source": "\u0906\u091c \u0924\u0915",
     "approx_traffic": "1,000,000+"
   },
@@ -203,6 +213,16 @@
     "country": "India",
     "title": "Champai Soren",
     "pubDate": "Sun, 18 Aug 2024 13:30:00 +0530",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRCMV39oYPdfJkdejPlN07K4vpX3cD2XLAovtecDWys2J8DaVwtM6E12pq43B2GOumhDuGsImKJ",
+    "news_item_snippet": "Champai Soren had to resign as Chief Minister of Jharkhand, a day before Hemant Soren, the JMM executive president, was sworn in as Chief Minister once&nbsp;...",
+    "news_item_url": "https://www.livemint.com/politics/news/jharkhand-news-champai-soren-joining-bjp-does-it-pose-threat-to-hemant-soren-led-government-details-here-11724048316351.html",
+    "picture_source": "The Hindu",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "India",
+    "title": "Jharkhand Chief Minister Champai Soren",
+    "pubDate": "Sun, 18 Aug 2024 22:30:00 +0530",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRCMV39oYPdfJkdejPlN07K4vpX3cD2XLAovtecDWys2J8DaVwtM6E12pq43B2GOumhDuGsImKJ",
     "news_item_snippet": "Targeting JMM leadership of \u201chumiliating\u201d him while forcing him to hand back reins of Jharkhand govt to Hemant Soren, Champai Soren is now likely to cross&nbsp;...",
     "news_item_url": "https://indianexpress.com/article/political-pulse/champai-soren-jharkhand-statehood-cm-jmm-rebel-9521712/",
@@ -234,8 +254,8 @@
     "title": "Boca",
     "pubDate": "Sun, 18 Aug 2024 12:00:00 -0300",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQv-gvyVK_7JEHI-p6SlOzls2H9dHlEV0jSt8EgntX6IE4PR18kWkXBTXYoeTIBJsQuKveOWTez",
-    "news_item_snippet": "El Xeneize jug\u00f3 un gran segundo tiempo y lo gan\u00f3 3-2 gracias a los tantos de Gim\u00e9nez, Cerutti -en contra- y Merentiel. Vombergar y Leguizam\u00f3n, ambos de&nbsp;...",
-    "news_item_url": "https://www.ole.com.ar/futbol-primera/boca-vs-san-lorenzo-partido-fecha11-liga-profesional-hora-ver-formaciones-videos-resumen_0_nv8YwKFsPL.html",
+    "news_item_snippet": "El conjunto dirigido por Diego Mart\u00ednez se impuso 3 a 1 en la Bombonera por la Liga Profesional y qued\u00f3 solo dos victorias del Cicl\u00f3n en el mano a mano - LA&nbsp;...",
+    "news_item_url": "https://www.lanacion.com.ar/deportes/futbol/asi-quedo-el-historial-entre-boca-y-san-lorenzo-tras-el-triunfo-del-xeneize-nid18082024/",
     "picture_source": "Boca Juniors",
     "approx_traffic": "1,000,000+"
   },
@@ -261,12 +281,22 @@
   },
   {
     "country": "Argentina",
+    "title": "Promiedos",
+    "pubDate": "Sun, 18 Aug 2024 17:00:00 -0300",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTUpznlI_moYzMT_DMPeTgjqK65kgKDyDneKMg51qNUKcPcDFmqLhwcvzjYUZ_wmkxT6UKay-0z",
+    "news_item_snippet": "El hackeo fue atribuido a un grupo que se identific\u00f3 como \u201c/domados\u201d. Los delincuentes cibern\u00e9ticos lanzaron mensajes con referencias a ataques previos, como el&nbsp;...",
+    "news_item_url": "https://www.elmiercolesdigital.com.ar/hackearon-el-sitio-promiedos/",
+    "picture_source": "P\u00e1gina 12",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "Argentina",
     "title": "Real Madrid",
     "pubDate": "Sun, 18 Aug 2024 14:00:00 -0300",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSH1zv2ECCluvcmtaXk5lvdwhTF2h8VMB20LvzvIrju8mJIUdttY4b-t3IAab7doDIx1D9IQB2N",
-    "news_item_snippet": "El delantero brasile\u00f1o del Merengue aplic\u00f3 una gran definici\u00f3n para el 1-0 parcial y la inauguraci\u00f3n en el marcador en el a\u00f1o deportivo.",
-    "news_item_url": "https://www.espn.com.ar/futbol/espana/nota/_/id/14056511/mallorca-vs-real-madrid-debut-mbappe-en-laliga-primer-gol-rodrygo",
-    "picture_source": "Revista El Gr\u00e1fico",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSPvXh5WB7KdMR6hkjpD4L-7dOOfW8ISJFef9VD0yRYFfOhUcN0naNGIo1TYdnWChhqzElZu7Aj",
+    "news_item_snippet": "Mbapp\u00e9 debuta con el Real Madrid en LaLiga luego de que Carlo Ancelotti decidi\u00f3 repetir la alineaci\u00f3n que gan\u00f3 la Supercopa de Europa.",
+    "news_item_url": "https://espndeportes.espn.com/futbol/espana/nota/_/id/14056004/real-madrid-alineacion-mallorca-la-liga-jornada-1-debut-mbappe",
+    "picture_source": "ESPN",
     "approx_traffic": "100,000+"
   },
   {
@@ -313,7 +343,7 @@
     "country": "Australia",
     "title": "Felix Cameron",
     "pubDate": "Sun, 18 Aug 2024 21:00:00 +1000",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcT3Dbs2UY0-r9Fwq_a0a_wIFRJktrM9UgO9aiTQoqhEdiduXejp9u3NWhETRpwiG-mdP596gX9u",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQqun6SKwDUzneq-RbF3hs5nOSxwSS-7wDYK8TyX3xqsB7hdxYv0warDTmSH8JIT5mmg-BsTPnL",
     "news_item_snippet": "The Logies are done and dusted for another year, with Larry Emdur taking out the Gold Logie.",
     "news_item_url": "https://10play.com.au/theproject/articles/15-year-old-felix-cameron-wins-best-lead-actor-at-the-logies/tpa240819vaidb",
     "picture_source": "Kids News",
@@ -321,18 +351,8 @@
   },
   {
     "country": "Brazil",
-    "title": "Vasco",
-    "pubDate": "Sun, 18 Aug 2024 14:00:00 -0500",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQ4AAHwFWNwg0lKnAl7-pA_8eJrU8H4rwbrUARMwM8mZBjH-1PhQRl4jSjZVuuYKga3H4bZBNJN",
-    "news_item_snippet": "Crici\u00fama e Vasco se enfrentaram neste domingo (18), no est\u00e1dio Heriberto H\u00fclse, pela 23\u00aa rodada do Brasileir\u00e3o.",
-    "news_item_url": "https://www.espn.com.br/futebol/brasileirao/artigo/_/id/14056676/bolasie-faz-dois-garante-empate-criciuma-minutos-finais-vira-carrasco-vasco-brasileirao",
-    "picture_source": "globoesporte.com",
-    "approx_traffic": "500,000+"
-  },
-  {
-    "country": "Brazil",
     "title": "Real Madrid",
-    "pubDate": "Sun, 18 Aug 2024 10:00:00 -0500",
+    "pubDate": "Sun, 18 Aug 2024 09:00:00 -0500",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQsrAHCgVD_-55QWjL_BpNDxjtAqFw3-PMxt1HSNDvx_BK4pm73e0K46fMoNPxnYzo_sRiNdIQy",
     "news_item_snippet": "Mallorca x Real Madrid acontece neste domingo (18), pela 1\u00aa rodada da temporada 2024/25 de LALIGA.",
     "news_item_url": "https://www.espn.com.br/futebol/laliga/artigo/_/id/14044112/mallorca-x-real-madrid-onde-assistir-ao-vivo-horario-palpites-provaveis-escalacoes-jogo-laliga",
@@ -341,23 +361,23 @@
   },
   {
     "country": "Brazil",
-    "title": "Manchester City",
-    "pubDate": "Sun, 18 Aug 2024 09:00:00 -0500",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcR9qLhOJfhr6jLJNsehUnNCoj8DU1NcHLjV3_1gJK5VXOF6PmHZA3KR1YrQK1giyD8bjGZCTdIE",
-    "news_item_snippet": "Em jogo v\u00e1lido pela estreia na atual edi\u00e7\u00e3o da liga inglesa, o atacante noruegu\u00eas marcou um dos gols da vit\u00f3ria do Manchester City por 2 a 0 sobre o Chelsea, no&nbsp;...",
-    "news_item_url": "https://tntsports.com.br/melhorfuteboldomundo/Haaland-chega-a-numeros-impressionantes-apos-vitoria-do-Manchester-City-sobre-o-Chelsea-20240818-0007.html",
-    "picture_source": "CNN Brasil",
-    "approx_traffic": "200,000+"
+    "title": "Vasco",
+    "pubDate": "Sun, 18 Aug 2024 14:00:00 -0500",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQDMXaHnN0bCd0viN4CJ6OkGOw97I6zWQS77BobK1F4elNwK7PWQ2gfDZKbc24edz7KUfFuWWmA",
+    "news_item_snippet": "Crici\u00fama e Vasco se enfrentaram neste domingo (18), no est\u00e1dio Heriberto H\u00fclse, pela 23\u00aa rodada do Brasileir\u00e3o.",
+    "news_item_url": "https://www.espn.com.br/futebol/brasileirao/artigo/_/id/14056676/bolasie-faz-dois-garante-empate-criciuma-minutos-finais-vira-carrasco-vasco-brasileirao",
+    "picture_source": "globoesporte.com",
+    "approx_traffic": "500,000+"
   },
   {
     "country": "Brazil",
-    "title": "Alain Delon",
-    "pubDate": "Sun, 18 Aug 2024 05:00:00 -0500",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQz3OTQWLFjFKfMFTKFRjBtprY0e2BLqYulCFwHUL7Q3Kj-H5CefwG6MAnm2NI2NXVQLu_iDW7p",
-    "news_item_snippet": "Lenda do cinema morreu neste domingo (18). Segundo a ag\u00eancia de not\u00edcias AFP, a fam\u00edlia de Delon informou que ele faleceu, aos 88 anos, em sua casa em&nbsp;...",
-    "news_item_url": "https://g1.globo.com/pop-arte/noticia/2024/08/18/repercute-morte-ator-alain-delon.ghtml",
-    "picture_source": "EBC",
-    "approx_traffic": "100,000+"
+    "title": "Manchester City",
+    "pubDate": "Sun, 18 Aug 2024 09:00:00 -0500",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRKFwPVlbAulLdFaOfUKmPqFKH6zyUFiOgd1KD4s4TwBpLubYyfthsMphD_4k0QE8aunPfwHDeS",
+    "news_item_snippet": "Equipe de Pep Guardiola venceu o duelo por 2 a 0 em Stamford Bridge.",
+    "news_item_url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-ingles/savinho-deixa-o-campo-machucado-em-vitoria-do-manchester-city-sobre-o-chelsea/",
+    "picture_source": "globoesporte.com",
+    "approx_traffic": "200,000+"
   },
   {
     "country": "Brazil",
@@ -381,12 +401,12 @@
   },
   {
     "country": "Brazil",
-    "title": "Paysandu",
+    "title": "Botafogo-SP x Paysandu",
     "pubDate": "Sun, 18 Aug 2024 13:00:00 -0500",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSfAq1jjEwoLR8NbSIFSQ-MYrP51ZAA4D9I6YdsaCHzex2JcYZY8n-OStELcqaPcZ0OkrvLgI8m",
-    "news_item_snippet": "Encerrando a 21\u00aa rodada da S\u00e9rie B do Campeonato Brasileiro. Botafogo e Paysandu fizeram um jogo repleto de faltas e ficaram no empate por 1 a 1,&nbsp;...",
-    "news_item_url": "https://www.uol.com.br/esporte/ultimas-noticias/agencia/2024/08/18/botafogo-sp-e-paysandu-empatam-e-nao-abrem-distancia-da-zona-de-rebaixamento-da-serie-b.htm",
-    "picture_source": "globoesporte.com",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTMIC7VLY0cfSYZyxnuvZT1kkeqBOkyMMB3V4a7pcKdWKrvrMCKuUOd6wbRmpMIBLOW5RXEsk-e",
+    "news_item_snippet": "Equipes entram em campo neste domingo (18), no Est\u00e1dio Santa Cruz; confira a transmiss\u00e3o e outras informa\u00e7\u00f5es do jogo.",
+    "news_item_url": "https://www.goal.com/br/not%C3%ADcias/onde-assistir-botafogo-sp-paysandu-ao-vivo-internet-tv-escalacoes-serie-b/blt6e8636e96e5ad141",
+    "picture_source": "Terra",
     "approx_traffic": "50,000+"
   },
   {
@@ -394,8 +414,8 @@
     "title": "Alain Delon",
     "pubDate": "Sun, 18 Aug 2024 04:00:00 -0400",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRGUsxNAMM5iL5zShBf3uSdSOGKwdOCzrKq_BOKMiOrNX4xAdR3YNAViW7EkfFsFf1DlLOckB2x",
-    "news_item_snippet": "L&#39;acteur d\u00e9c\u00e9d\u00e9 dimanche a jou\u00e9 dans plus de 90 films sans jamais s&#39;affranchir de son image de s\u00e9ducteur tortur\u00e9.",
-    "news_item_url": "https://www.ledevoir.com/culture/cinema/818377/alain-delon-enferme-propre-personnage",
+    "news_item_snippet": "Brigitte Bardot says Delon&#39;s death has left a &quot;huge void that nothing and no-one will be able to fill&quot;.",
+    "news_item_url": "https://www.bbc.com/news/articles/cm2n6y4g700o",
     "picture_source": "ICI.Radio-Canada.ca",
     "approx_traffic": "100,000+"
   },
@@ -423,10 +443,10 @@
     "country": "France",
     "title": "Alain Delon",
     "pubDate": "Sun, 18 Aug 2024 08:00:00 +0200",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSlh2Ry8IuqFM2u1VIYM-J0G-FM1KJK01LMPt-i3pDb21WiaheZkRTsnqAm79aeVsDp7_8mEVUQ",
-    "news_item_snippet": "Un monument du cin\u00e9ma fran\u00e7ais et international, Alain Delon, est d\u00e9c\u00e9d\u00e9 \u00e0 l&#39;\u00e2ge de 88 ans, ce dimanche 18 ao\u00fbt, dans sa demeure \u00e0 Douchy-Montcorbon&nbsp;...",
-    "news_item_url": "https://www.lecourriercauchois.fr/actualite-367908-seine-maritime-alain-delon-s-en-est-alle-a-l-age-de-88-ans",
-    "picture_source": "Europe1",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSUNJ6ceIJZE6ApV7iFRqmtBY8HSlSpNiK9biqZGsVBCSWn-iZ-QLHmmsIoyR5ZVdonmFs8ZXr2",
+    "news_item_snippet": "Invit\u00e9 de La Grande interview Europe 1, le journaliste et \u00e9crivain Philippe Labro d\u00e9crit un Alain Delon intrins\u00e8quement nostalgique \u00e0 l&#39;enfance douloureuse.",
+    "news_item_url": "https://www.europe1.fr/culture/mort-dalain-delon-il-cultivait-le-passe-lecrivain-philippe-labro-rend-hommage-a-lacteur-legendaire-4262954",
+    "picture_source": "RTL.fr",
     "approx_traffic": "2,000,000+"
   },
   {
@@ -434,8 +454,8 @@
     "title": "Real Madrid",
     "pubDate": "Sun, 18 Aug 2024 16:00:00 +0200",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQtuiOO8vNwg6_KpLczrqrKPyXPrT1l8CIVLEB4bPLDHyZpPeF0BxYsRnI4WrJp1atWvWKLv7LT",
-    "news_item_snippet": "Champion d&#39;Espagne la saison derni\u00e8re, le Real Madrid a conc\u00e9d\u00e9 le nul \u00e0 Majorque (1-1), ce dimanche 18 ao\u00fbt. Pour sa premi\u00e8re en Liga, Kylian Mbapp\u00e9,&nbsp;...",
-    "news_item_url": "https://www.ouest-france.fr/sport/football/espagne/real-madrid/direct-majorque-real-madrid-suivez-les-debuts-de-kylian-mbappe-en-liga-en-live-d6bf3784-ea96-46f9-ac2e-55ab2014ebee",
+    "news_item_snippet": "Kylian Mbapp\u00e9 et le Real Madrid se sont cass\u00e9 les dents sur Majorque, ce dimanche 18 ao\u00fbt, en ouverture de la saison. Une premi\u00e8re en Liga frustrante pour&nbsp;...",
+    "news_item_url": "https://www.ouest-france.fr/sport/football/kylian-mbappe/real-madrid-faute-de-marquage-pas-de-but-retour-sur-la-premiere-en-demi-teinte-de-mbappe-en-liga-30d832d8-5dac-11ef-93ca-ca88833f6483",
     "picture_source": "L'\u00c9quipe.fr",
     "approx_traffic": "200,000+"
   },
@@ -453,10 +473,10 @@
     "country": "France",
     "title": "Tour de France feminin",
     "pubDate": "Sun, 18 Aug 2024 19:00:00 +0200",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSgKif_ysHm0xSE2MTyjU_zfVCfB7byFEH277ngQY3FYIcdWZ8e2VffW-2QAOi4IPlWFkXz3hEY",
-    "news_item_snippet": "Comme pr\u00e9vu, cette derni\u00e8re \u00e9tape du Tour de France femmes a tenu ses promesses. Si la N\u00e9erlandaise Demi Vollering a remport\u00e9 la course du jour, c&#39;est bien&nbsp;...",
-    "news_item_url": "https://rmcsport.bfmtv.com/cyclisme/tour-de-france/direct-tour-de-france-femmes-2024-suivez-la-8e-et-derniere-etape-entre-le-grand-bornand-et-l-alpe-d-huez_LN-202408180181.html",
-    "picture_source": "L'Humanit\u00e9",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTIkEeNN2wYn1w3M_JH9UhpBBP8o0KK14j3YVOEMGyq1FLCWjSL0w5AH__GSRYHXTacBddSSzmv",
+    "news_item_snippet": "Le Tour de France Femmes s&#39;est achev\u00e9, ce dimanche \u00e0 l&#39;Alpe d&#39;Huez, au terme d&#39;un suspense haletant qui a vu la polonaise Katarzyna Niewiadoma remporter&nbsp;...",
+    "news_item_url": "https://www.humanite.fr/sports/alpes/tour-de-france-femmes-katarzyna-niewiadoma-triomphe-pour-quatre-secondes-devant-demi-vollering",
+    "picture_source": "France Bleu",
     "approx_traffic": "100,000+"
   },
   {
@@ -473,20 +493,20 @@
     "country": "France",
     "title": "Chelsea \u2013 Manchester City",
     "pubDate": "Sun, 18 Aug 2024 17:00:00 +0200",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQ1qITz8zmEkg6a4HnkwcYBK0-QH9EgufR507L4Aue2LIafPS7EpA4ZxJch6MaZgzNIy_8UYB3L",
-    "news_item_snippet": "TOPS/FLOPS - Manchester City a remport\u00e9 contre Chelsea (2-0) le premier choc de la saison de Premier League, ce dimanche \u00e0 Stamford Bridge.",
-    "news_item_url": "https://www.lefigaro.fr/sports/football/chelsea-manchester-city-haaland-buteur-les-blues-imprecis-les-tops-et-les-flops-20240818",
-    "picture_source": "BFMTV.COM",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRmvOarrsJPU3E3r68wcsd3m0mKA5WuzRtxJoRDRFMpFVOev5FZDGKo8MRN_YtD9xH2KKD0SOSs",
+    "news_item_snippet": "Tout en contr\u00f4le, le quadruple champion en titre a rendu une belle copie sur la pelouse d&#39;une \u00e9quipe de Chelsea en rodage. Haaland a f\u00eat\u00e9 son 100e match&nbsp;...",
+    "news_item_url": "https://www.lequipe.fr/Football/match-direct/championnat-d-angleterre/2024-2025/chelsea-manchester-city-live/654802",
+    "picture_source": "Le Figaro",
     "approx_traffic": "50,000+"
   },
   {
     "country": "France",
     "title": "La piscine",
     "pubDate": "Sun, 18 Aug 2024 14:00:00 +0200",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRURmdb9JYCr2_g96g98CeNogQ_lbsp-b_ENSdNT6l1aBfeGiCSf-0OBnkBq5QZsb-OF9YDVfGK",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTKiybPi3RXfvWhTZ9m6cnulkA92AoKRjkDWjO6lxz3PgbHZIuhPFjsSuMELqF6Zj5j-638XSAU",
     "news_item_snippet": "En fonction du niveau d&#39;alerte de restriction d&#39;eau, diff\u00e9rentes pratiques sont interdites ou autoris\u00e9es avec votre piscine. Voici tout ce qu&#39;il faut savoir&nbsp;...",
     "news_item_url": "https://france3-regions.francetvinfo.fr/provence-alpes-cote-d-azur/var/toulon/peut-on-remplir-sa-piscine-en-plein-ete-3011330.html",
-    "picture_source": "France 3 R\u00e9gions",
+    "picture_source": "france.tv",
     "approx_traffic": "50,000+"
   },
   {
@@ -510,44 +530,24 @@
     "approx_traffic": "50,000+"
   },
   {
-    "country": "France",
-    "title": "Auxerre \u2013 Nice",
-    "pubDate": "Sun, 18 Aug 2024 15:00:00 +0200",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQdQOXBm199YSm5pJj2QaJ8OnMoRJeeMhW8S2fHrlVY54CtNNfbpVv17fA3zoekgkEsqOeuF5qZ",
-    "news_item_snippet": "Pour son retour en Ligue 1, Auxerre s&#39;impose 2-1 face \u00e0 Nice gr\u00e2ce \u00e0 un but dans les derniers instants de Coulibaly ! L&#39;AJA, champion de Ligue 2 en titre,&nbsp;...",
-    "news_item_url": "https://rmcsport.bfmtv.com/football/ligue-1/direct-ligue-1-suivez-auxerre-nice-en-live_LS-202408180101.html",
-    "picture_source": "L'\u00c9quipe.fr",
-    "approx_traffic": "50,000+"
-  },
-  {
     "country": "Germany",
     "title": "Alain Delon",
     "pubDate": "Sun, 18 Aug 2024 09:00:00 +0200",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSRO3HCrft5T3jUYB_RXTDT9j-stjjtbv2_7Xn3Amtc9WPoKuar8V78KFK8KtUZu8lzn5wNKYdU",
-    "news_item_snippet": "\u00dcber Jahrzehnte verband Alain Delon und Sophia Loren eine enge Freundschaft. Nach dem Tod des franz\u00f6sischen Filmstars trauert Loren - und verabschiedet sich&nbsp;...",
-    "news_item_url": "https://www.volksstimme.de/panorama/stars/filmdiva-sophia-loren-trauert-um-alain-delon-3900816",
+    "news_item_snippet": "Alain Delon verk\u00f6rperte einst das Sch\u00f6nheitsideal des franz\u00f6sischen Mannes, der Schauspieler galt als James Dean Europas. Doch seine N\u00e4he zu Jean-Marie Le&nbsp;...",
+    "news_item_url": "https://www.spiegel.de/kultur/kino/alain-delon-gestorben-seine-blicke-machten-drehbuecher-ueberfluessig-a-9eb1413e-75bc-429e-b4de-53eff0c4731b",
     "picture_source": "katholisch.de",
     "approx_traffic": "200,000+"
   },
   {
     "country": "Germany",
-    "title": "Dynamo Dresden",
-    "pubDate": "Sun, 18 Aug 2024 19:00:00 +0200",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcStpmeHXxhey-LdjqMkTrZnrzExPKl2FgDFxjgDQdj0y1B7BI4f_IQNrhAA-MvG917qAc5eO3JT",
-    "news_item_snippet": "In der ersten Pokal-Runde \u00fcberrascht Dynamo Dresden den Zweitligisten aus D\u00fcsseldorf. Dabei zeigen die Dresdner \u00fcber die gesamte Spielzeit eine \u00fcberzeugende&nbsp;...",
-    "news_item_url": "https://www.saechsische.de/sport/fussball/verein/dynamo-dresden/sg-dynamo-dresden-fortuna-duesseldorf-dfb-pokal-liveticker-ticker-ergebnis-live-spiel-1-runde-3-liga-2-bundesliga-6034469.html",
-    "picture_source": "S\u00e4chsische.de",
+    "title": "Highfield-Festival",
+    "pubDate": "Sun, 18 Aug 2024 00:00:00 +0200",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQf2NdHCDsgm9czUb7nCAR7MQr_V3aHNkt1t_Ba7alCFPL27ewTicEQKqaLzM2UgLwrodI5xgsB",
+    "news_item_snippet": "Zwei Gondeln am Riesenrad standen komplett in Flammen. Mehrere Menschen auf dem Festival wurden verletzt. Der Star auf der B\u00fchne ist entsetzt.",
+    "news_item_url": "https://www.dasding.de/newszone/festival-riesenrad-feuer-brand-leipzig-100.html",
+    "picture_source": "Mitteldeutsche Zeitung",
     "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Germany",
-    "title": "Supercup",
-    "pubDate": "Sat, 17 Aug 2024 16:00:00 +0200",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSAbZS8BV4VQW9Wy-7KLBCB_cq5uBX5e1IkEZTNWYvyQPSnthPhD56RIINbBgiFpDNL-Yh2ey3R",
-    "news_item_snippet": "Erstes Pflichtspiel, erster Titel f\u00fcr Bayer Leverkusen: Im Supercup-Spiel fiel die Entscheidung erst im Elfmeterschie\u00dfen.",
-    "news_item_url": "https://www.dasding.de/newszone/fussball-dfl-supercup-vfb-stuttgart-bayer-leverkusen-100.html",
-    "picture_source": "BNN - Badische Neueste Nachrichten",
-    "approx_traffic": "100,000+"
   },
   {
     "country": "Germany",
@@ -601,6 +601,16 @@
   },
   {
     "country": "Italy",
+    "title": "Alexander Zverev",
+    "pubDate": "Sun, 18 Aug 2024 22:00:00 +0200",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQI4_30SrDLbHqjkeYRjUCSfa8wvML6_DUL_HcyvUadw7Dhc99L6jndLM7WFNnYhSTRVTZDmYlR",
+    "news_item_snippet": "Il tennista numero 1 al mondo scende in campo nel match valido per la semifinale del Masters 1000 di Cincinnati. Dall&#39;altra parte della rete, il tedesco&nbsp;...",
+    "news_item_url": "https://www.tuttosport.com/news/tennis/2024/08/18-131602116/sinner-zverev_orario_diretta_e_dove_vedere_in_tv_il_tennis_live",
+    "picture_source": "Rai News",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Italy",
     "title": "Chelsea-Manchester City",
     "pubDate": "Sun, 18 Aug 2024 17:00:00 +0200",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTHDe3DmVUvIjgEbzpCMCDe4G46hcQRBB0b4n1JoYC2ai2RzTfwDE21WTe1TNe6P8Tlbmibny-w",
@@ -613,10 +623,10 @@
     "country": "Italy",
     "title": "San Candido",
     "pubDate": "Sun, 18 Aug 2024 09:00:00 +0200",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTagRgzBIUNi8NkeMYT-NHEddsk-D4Ll2yrBSUhO6N7A2G9bT0Feju82l95d-HGYBhA1mO-x1IB7g",
-    "news_item_snippet": "Leggi su Sky TG24 l&#39;articolo Duplice omicidio a San Candido, morto in ospedale il killer che si \u00e8 sparato durante blitz.",
-    "news_item_url": "https://tg24.sky.it/cronaca/2024/08/18/donna-uccisa-san-candido-alto-adige",
-    "picture_source": "Rai News",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcT7XBOscxc09uuAq9LswY68EHvMz6OdvTl1xBUltveTj6jdULZYbYDetC8NnXtxPjhSdPBPurA9",
+    "news_item_snippet": "\u00c8 morto in ospedale Ewald K\u00fchbacher, il quarantottenne che a San Candido ha ucciso il padre novantenne e una vicina di casa, prima di barricarsi nel suo&nbsp;...",
+    "news_item_url": "https://www.rainews.it/articoli/2024/08/san-candido-donna-uccisa-in-casa-e-caccia-alluomo-1f4e15b4-22d6-4c27-8acc-d6b2029cf278.html",
+    "picture_source": "Sky Tg24",
     "approx_traffic": "50,000+"
   },
   {
@@ -653,9 +663,9 @@
     "country": "Mexico",
     "title": "Tijuana vs Santos",
     "pubDate": "Sun, 18 Aug 2024 18:00:00 -0600",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTO87_dWJx3kmk8E978Es3JO-nAgCVqRGjx882IhgBxKOO1zmhXQjFyeE-P82a59N29rHfPgO5Y",
-    "news_item_snippet": "Tijuana sufri\u00f3 pero termin\u00f3 por remontar ante Santos Laguna &middot; Los Laguneros extendieron su racha a cinco duelos sin ganar en Liga MX; no conocen la victoria en&nbsp;...",
-    "news_item_url": "https://www.mediotiempo.com/futbol/liga-mx/tijuana-vs-santos-resumen-resultado-liga-mx",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSsRowYj4aYG27YOVEbvSEANVC7YaQJ-sYq0d7qHQ6RNZs97wMTvkCKTev291XCeKk7nFOOgUk1",
+    "news_item_snippet": "Buenas tardes y bienvenidos a la narraci\u00f3n minuto a minuto del encuentro de f\u00fatbol de la Liga MX Apertura que enfrenta al Club Tijuana contra el Santos&nbsp;...",
+    "news_item_url": "https://www.mundodeportivo.com/us/futbol/liga-mx/20240818/697535/club-tijuana-vs-santos-laguna-vivo-minuto-minuto-hoy-liga-mx-apertura.html",
     "picture_source": "Fox Sports",
     "approx_traffic": "50,000+"
   },
@@ -743,7 +753,7 @@
     "country": "United Kingdom",
     "title": "Real Madrid",
     "pubDate": "Sun, 18 Aug 2024 20:00:00 +0100",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSaDOg41ItTF4QzOv_XVjWFpDd27uhmMEyL_T-hRKkuEu4i5sSVC6r_2hF7X4tPMUw6cO-7M2Vv",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQoP8y4xhTS-xn3IsLStlQ8wbIEK7w7pPQsgtbrTFa-BFf2nH8Bla3jGwBJtFqApbgLtKGNz1fC",
     "news_item_snippet": "Real Madrid head coach Carlo Ancelotti criticized his players following Sunday&#39;s surprise 1-1 draw with Mallorca.",
     "news_item_url": "https://www.forbes.com/sites/tomsanderson/2024/08/18/real-madrid-boss-criticizes-players-after-mallorca-draw/",
     "picture_source": "ESPN.co.uk",
@@ -763,10 +773,10 @@
     "country": "United Kingdom",
     "title": "Brentford vs Crystal Palace",
     "pubDate": "Sun, 18 Aug 2024 14:00:00 +0100",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTDHHGEhz-aUvcXA655xnMUxEKRNOxndCoCQJ9LQKTFijP93Ad7tmOvPN5kPeQaU3GwiUhdX0en",
-    "news_item_snippet": "Brentford begin the Premier League season with a 2-1 win over Crystal Palace at Gtech Community Stadium; Bryan Mbeumo gave Bees the lead with a left-footed&nbsp;...",
-    "news_item_url": "https://www.brentfordfc.com/en/news/article/match-reports-brentford-2-crystal-palace-1-premier-league-18-08-2024",
-    "picture_source": "Yahoo Sports",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSX7a-DDUVrXgLH7Hx8rMA8TTPuGhKR5L9UFZAcR0qKRT2UbYrPoD7vWnwI83d7udgDjI9yh7nA",
+    "news_item_snippet": "The full-time whistle blows and it&#39;s Brentford who come away with the three points as they beat Palace 2-1 at the Gtech Community Stadium. After Eze saw a&nbsp;...",
+    "news_item_url": "https://sports.yahoo.com/brentford-vs-crystal-palace-live-110010055.html",
+    "picture_source": "Brentford FC",
     "approx_traffic": "50,000+"
   },
   {
@@ -777,6 +787,16 @@
     "news_item_snippet": "The Brentford striker has been linked with a big-money move away from west London.",
     "news_item_url": "https://www.independent.co.uk/sport/football/ivan-toney-brentford-transfer-news-b2598110.html",
     "picture_source": "Sky Sports",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United Kingdom",
+    "title": "Sunderland vs Sheffield Wednesday",
+    "pubDate": "Sun, 18 Aug 2024 13:00:00 +0100",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRgV-dRFUxM2sbHrMJMLSC1OlPpBx0TOLCq__2eKPEkq4XnfFDcbvlPvYYDUrdAEPmSRKzXroEy",
+    "news_item_snippet": "Report and free match highlights as slick Sunderland stuck four past Sheffield Wednesday without reply; the hosts raced into a three-goal lead within 24&nbsp;...",
+    "news_item_url": "https://www.skysports.com/football/sland-vs-sheff-wed/report/509363",
+    "picture_source": "Yahoo Sports",
     "approx_traffic": "50,000+"
   }
 ]
