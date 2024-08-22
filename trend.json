@@ -1,13 +1,23 @@
 [
   {
     "country": "United States",
+    "title": "Bill Clinton",
+    "pubDate": "Wed, 21 Aug 2024 19:00:00 -0700",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcR-Qs7ErPZEgY_BN5bklqxtcSZCF-CcqDOZHXbgOOVvmDMPB58_-vwajXWPpkQeXrPESco6fOiF",
+    "news_item_snippet": "Former President Bill Clinton spoke to the crowd on Night 3 of the DNC, thanking President Biden for his service, praising Kamala Harris and emphasizing the&nbsp;...",
+    "news_item_url": "https://www.npr.org/2024/08/21/g-s1-18611/bill-clinton-democratic-national-convention",
+    "picture_source": "NPR",
+    "approx_traffic": "500,000+"
+  },
+  {
+    "country": "United States",
     "title": "Stevie Wonder",
     "pubDate": "Wed, 21 Aug 2024 18:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcS_VI2hzScvO7GriSTn5yH1ZJBMtK8snR-oEzGEdRQcbwkXqCw__JjF4s9KwC0fiYZ9EB8BK9Zx",
-    "news_item_snippet": "The third night of the 2024 Democratic National Convention is underway, with Stevie Wonder headlining a star-studded slate of both performers and speakers&nbsp;...",
-    "news_item_url": "https://www.nbcchicago.com/dnc-chicago-2024/what-time-stevie-wonder-performing-dnc-heres-when-watch/3528540/",
-    "picture_source": "Rolling Stone",
-    "approx_traffic": "100,000+"
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTJntRTAi2Ma8w9FR4JgqkJqfrc1yD7VsIJyzGP6rlmQHa6lUJl0RI0zPeKhKp2Fdyaz2SCA8zw",
+    "news_item_snippet": "Stevie Wonder graced the DNC on Wednesday to deliver both a speech and performance in support of Kamala Harris and her running mate, Tim Walz.",
+    "news_item_url": "https://www.rollingstone.com/music/music-news/stevie-wonder-dnc-speaks-performs-higher-ground-1235085316/",
+    "picture_source": "PBS NewsHour",
+    "approx_traffic": "200,000+"
   },
   {
     "country": "United States",
@@ -31,11 +41,21 @@
   },
   {
     "country": "United States",
+    "title": "Pete Buttigieg",
+    "pubDate": "Wed, 21 Aug 2024 21:00:00 -0700",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTaPdHGSOKRSlsOd0uTTqqaqR5OvkOoBTRzeNgek5vZsr7cOrwoFh4KRH4loyqXZr1880NJbd5g",
+    "news_item_snippet": "Transportation Secretary Pete Buttigieg said at the DNC that former President Trump choosing Sen. JD Vance as his running mate sends a message of &quot;doubling&nbsp;...",
+    "news_item_url": "https://www.axios.com/2024/08/22/dnc-pete-buttigieg-speech-harris-jd-vance",
+    "picture_source": "NPR",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
     "title": "Hakeem Jeffries",
     "pubDate": "Wed, 21 Aug 2024 19:00:00 -0700",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTO87PcKK6IdS490NRDomJbAUZlD-ujiuRj8UNNx40BS-LX_5VEkaiETxL9NwoiihddwzqAy68D",
-    "news_item_snippet": "As the DNC entered its second half, early speakers came to the stage fast and furious and the arena fell silent as the parents of Hersh Goldberg-Polin spoke&nbsp;...",
-    "news_item_url": "https://www.hollywoodreporter.com/news/politics-news/dnc-2024-day-3-tim-walz-bill-clinton-nancy-pelosi-kamala-harris-1235980968/",
+    "news_item_snippet": "The vice presidential nominee gave the biggest political speech of his career to close out night three of the convention. Democratic vice presidential nominee&nbsp;...",
+    "news_item_url": "https://www.politico.com/live-updates/2024/08/21/dnc-live-updates-coverage/hakeem-jeffries-taylor-swift-00175681",
     "picture_source": "City & State",
     "approx_traffic": "50,000+"
   },
@@ -44,9 +64,29 @@
     "title": "Amanda Gorman",
     "pubDate": "Wed, 21 Aug 2024 20:00:00 -0700",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQThPxUYNAfomDOuCacXsYosBspSamrQ_ccB6YACj3ucLjY_CoJYcu491rcjMKUoylFLNgPAeh4",
-    "news_item_snippet": "Poet and activist Amanda Gorman debuted a new poem on the third night of the Democratic convention Wednesday.",
-    "news_item_url": "https://www.cbsnews.com/news/amanda-gorman-debuts-new-poem/",
+    "news_item_snippet": "Amanda Gorman was the youngest inaugural poet in U.S. history during President Joe Biden&#39;s inauguration in 2021. She performed &quot;The Hill We Climb.&quot;",
+    "news_item_url": "https://www.vcstar.com/story/news/local/california/2024/08/21/amanda-gorman-poem-at-dnc-tonight-supporting-kamala-harris/74894294007/",
     "picture_source": "NPR",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Nancy Pelosi",
+    "pubDate": "Wed, 21 Aug 2024 22:00:00 -0700",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRNvN3Mx4LDQAZn8AOWDK0j9tg8tZHdgniKlWLD7s728XgAk2pLBEJPd_sguMxppt7QrbMKJn2N",
+    "news_item_snippet": "Nancy Pelosi opened her convention speech with a sense of gratitude for President Joe Biden, even after her doubts about his campaign fed into the pressures&nbsp;...",
+    "news_item_url": "https://apnews.com/article/pelosi-dnc-biden-kamala-harris-55397c5f9c6bdd806d066e9d4563fd5d",
+    "picture_source": "NBC News",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Wes Moore",
+    "pubDate": "Wed, 21 Aug 2024 21:00:00 -0700",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQ4aSwueqDDWn6Zkkq_5pb6TmSam31KxZR1FD4Nhi_HL7NK--uGMZvFG55cJGkiAzlo_QddeXgy",
+    "news_item_snippet": "Widely seen as the next generation of Democratic talent, Maryland&#39;s governor sees his primetime speaking role as a way to rally cynics to the ballot box.",
+    "news_item_url": "https://www.washingtonpost.com/dc-md-va/2024/08/21/wes-moore-dnc/",
+    "picture_source": "The New York Times",
     "approx_traffic": "50,000+"
   },
   {
@@ -54,8 +94,8 @@
     "title": "Andrew Tate",
     "pubDate": "Wed, 21 Aug 2024 10:00:00 -0700",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcR-1JKlItxRnlQcSB7YSBEnxLdu2fazsnSAZSy4Ed40glX8caRfG7KYBFWlnHoGXfx2Z-puxard",
-    "news_item_snippet": "Internet personality Andrew Tate&#39;s home near Bucharest was raided by law enforcement on Wednesday, a Reuters witness said, as Romanian police launched four&nbsp;...",
-    "news_item_url": "https://www.reuters.com/world/europe/romanian-police-raid-home-andrew-tate-amid-human-trafficking-probe-2024-08-21/",
+    "news_item_snippet": "Masked police officers in Romania have carried out fresh raids at the home of internet influencer Andrew Tate, who is awaiting trial on charges of human&nbsp;...",
+    "news_item_url": "https://apnews.com/article/andrew-tate-human-trafficking-child-de5e9a2de2f112f141513b2b1e4641d3",
     "picture_source": "BBC News",
     "approx_traffic": "50,000+"
   },
@@ -64,49 +104,29 @@
     "title": "Michelle Obama",
     "pubDate": "Tue, 20 Aug 2024 18:00:00 -0700",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQrnHvuDIVg97NSv_e46cGWI02ItuCBT0ts8YibpPnPaUqHRADpya6JRTa-3bBzTY9DiZnhAarK",
-    "news_item_snippet": "Obama wore a navy sleeveless jacket with crisscross, reconstructed lapels in front that she paired with matching trousers. The more than $2500 fit came from&nbsp;...",
-    "news_item_url": "https://www.npr.org/2024/08/21/g-s1-18573/michelle-obama-suit-monse-democratic-national-convention",
+    "news_item_snippet": "The couple lauded Kamala Harris but urged their party members to &quot;get to work&quot; if they wanted to defeat Donald Trump.",
+    "news_item_url": "https://www.bbc.com/news/articles/cm2n1v4k4rzo",
     "picture_source": "The Washington Post",
     "approx_traffic": "500,000+"
   },
   {
-    "country": "United States",
-    "title": "Ben Affleck",
-    "pubDate": "Tue, 20 Aug 2024 17:00:00 -0700",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRLz7_M3RKuPKHEWFrCGEZyAcnSrtYFhdCqTsh4imbqZOj9EJN_jzXAB3NMWOWmUFUx91NT654i",
-    "news_item_snippet": "The A-list couple, who married in 2022, had attempted to rekindle their romance after close to two decades.",
-    "news_item_url": "https://www.nytimes.com/2024/08/20/style/jennifer-lopez-ben-affleck-divorce.html",
-    "picture_source": "NBC News",
-    "approx_traffic": "500,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Doug Emhoff",
-    "pubDate": "Tue, 20 Aug 2024 15:00:00 -0700",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTvlqAeIkgWHfkONmDdkNn2OfAykknRuRVUnMvu9whrsgHAjT0fbGFvHTQq6IbdyLOEov51v-sv",
-    "news_item_snippet": "Second gentleman Emhoff has stepped into the role of supportive political spouse without attempting to redefine the position. That&#39;s the beauty of it all.",
-    "news_item_url": "https://www.washingtonpost.com/nation/2024/08/21/doug-emhoff-dnc-speech-family-kamala-harris/",
-    "picture_source": "BBC News",
-    "approx_traffic": "100,000+"
-  },
-  {
     "country": "India",
-    "title": "Pak vs Ban",
-    "pubDate": "Thu, 22 Aug 2024 07:30:00 +0530",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcS1k_AKYM5pXBshDhOwDX3B9ygqeYdIYquCh1hcDqkfKgvuPqTkKf9K9vXjmtoxbPc7b8ODSJrh",
-    "news_item_snippet": "PAK vs BAN 2024, Pakistan vs Bangladesh Match Report: Hasan Mahmud and Shoriful Islam gave Bangladesh the early advantage, but the fourth-wicket pair from&nbsp;...",
-    "news_item_url": "https://www.espncricinfo.com/series/bangladesh-in-pakistan-2024-1442203/pakistan-vs-bangladesh-1st-test-1442213/match-report",
-    "picture_source": "Sportstar",
-    "approx_traffic": "100,000+"
+    "title": "Astronauts Sunita Williams",
+    "pubDate": "Thu, 22 Aug 2024 04:30:00 +0530",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQJ6P5SfRuDC3KVFnM9b_CNsCrqcMNv8d1VvSbNydZtDPQzzR8A1r1eQBTcezsAPJDKL3VIoJsr",
+    "news_item_snippet": "NASA astronauts Sunita Williams and Butch Wilmore face three critical risks with their return spacecraft, Boeing&#39;s Starliner. They could end up stranded in&nbsp;...",
+    "news_item_url": "https://www.cnbctv18.com/india/science/nasa-sunita-williams-boeing-starlinerstuck-in-space-96-hours-of-oxygen-vapourise-to-death-19463348.htm",
+    "picture_source": "Livemint",
+    "approx_traffic": "50,000+"
   },
   {
     "country": "India",
     "title": "Pakistan vs Bangladesh",
     "pubDate": "Wed, 21 Aug 2024 10:30:00 +0530",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSVKFwqb-laNKlT1rjlG-dFbkdJ3Oo_mnH7t3K6eSxdR6xSdI1BiguxSJ7UsEwCPXoyTufa9dCm",
-    "news_item_snippet": "Pakistan vs Bangladesh Live Score: Pakistan at 158/4 after 41 overs, Saud Shakeel at 57 runs and Mohammad Rizwan at 24 runs | Crickit.",
-    "news_item_url": "https://www.hindustantimes.com/cricket/pakistan-vs-bangladesh-live-score-1st-test-day-1-of-bangladesh-tour-of-pakistan-2024-final-updates-today-21-aug-2024-101724213292135.html",
-    "picture_source": "Business Standard",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQAT6PbQNdDxW7mvv20qYgKdCrPNgeqfWrBmzOf57p26mV-Le13iGYkdAsSLDzsVDy4bjrf-ccw",
+    "news_item_snippet": "Pakistan vs Bangladesh 1st Test highlights: Check the highlights and updates from the first Test match between Pakistan and Bangladesh played at the&nbsp;...",
+    "news_item_url": "https://sportstar.thehindu.com/cricket/pak-vs-ban-live-score-1st-test-day-1-updates-score-highlights-pakistan-bangladesh-rawalpindi-streaming-info/article68549136.ece",
+    "picture_source": "Hindustan Times",
     "approx_traffic": "500,000+"
   },
   {
@@ -131,6 +151,16 @@
   },
   {
     "country": "India",
+    "title": "Ben Affleck",
+    "pubDate": "Wed, 21 Aug 2024 13:30:00 +0530",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSSydO9eQ_vW5ljHEtgEvjrrBgR7Os5rR0Unnv0kG2gcA4gOHQEmfwmcEZKH_tJtYClmZAqXeub",
+    "news_item_snippet": "Ben Affleck and Jennifer Lopez filed for divorce on their second wedding anniversary. Lopez made the decision to move on despite her best attempts to keep&nbsp;...",
+    "news_item_url": "https://m.economictimes.com/news/international/us/jennifer-lopez-finally-files-for-divorce-from-ben-affleck-on-second-marriage-anniversary/articleshow/112684873.cms",
+    "picture_source": "Hindustan Times",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "India",
     "title": "Bharat Bandh 21 August",
     "pubDate": "Tue, 20 Aug 2024 11:30:00 +0530",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQbvRU6fA2TMzwBdyAnB-84PFjljw8OsHYadYDAfuQRZtEaI_R-cI_Xnn-moRW5UUUHu2mfEYXt",
@@ -147,16 +177,16 @@
     "news_item_snippet": "The Reservation Bachao Sangharsh Samiti has called for a nationwide Bharat Bandh in protest against the Supreme Court&#39;s decision to allow sub-classification&nbsp;...",
     "news_item_url": "https://www.jagranjosh.com/general-knowledge/bharat-bandh-on-august-21-which-services-will-remain-open-or-closed-tomorrow-1724161319-1",
     "picture_source": "The Hindu",
-    "approx_traffic": "200,000+"
+    "approx_traffic": "100,000+"
   },
   {
     "country": "India",
     "title": "Badlapur News",
     "pubDate": "Tue, 20 Aug 2024 13:30:00 +0530",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcR7Po3ZIbNOUYDkDxtB8JJ2K5HNHGtt4aSIgFxjx1SRRq9LUM6jfz6xdeBxAoEpAPj9kXRjkpbO",
-    "news_item_snippet": "Badlapur school sexual abuse: Protesters blocked railway tracks at Thane&#39;s Badlapur station over alleged sexual assault of two girls by a school sweeper.",
-    "news_item_url": "https://www.hindustantimes.com/india-news/badlapur-school-sexual-abuse-thane-protest-girls-parents-railway-station-mumbai-local-trains-101724199742083.html",
-    "picture_source": "The Hindu",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSFTOmnrHHU375LHZrEciQD1gXVTaE0vp4Xjwn6DURJBRTdFIa18V-hdnACOEmrm_zaXW38g5If",
+    "news_item_snippet": "The Bombay High Court addressed the sexual assault of two kindergarten students in Badlapur, sparking violent protests. A school attendant was arrested,&nbsp;...",
+    "news_item_url": "https://m.economictimes.com/news/india/badlapur-sexual-assault-case-bombay-hc-takes-suo-moto-cognizance-of-violent-protests-over-incident/articleshow/112695840.cms",
+    "picture_source": "Hindustan Times",
     "approx_traffic": "100,000+"
   },
   {
@@ -174,30 +204,50 @@
     "title": "River Plate  Talleres",
     "pubDate": "Wed, 21 Aug 2024 18:00:00 -0300",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTwoIq8FfyTOqPMi0IA6fQQHOTUy-5rxg0xyuUTnlIBa81Ri2KiqmGLyKz6kCfKzWl8njj2UVFd",
-    "news_item_snippet": "El partido de vuelta de los octavos de final se disputar\u00e1 el pr\u00f3ximo mi\u00e9rcoles en el estadio Monumental con arbitraje de Gustavo Tejera - LA NACION.",
-    "news_item_url": "https://www.lanacion.com.ar/deportes/futbol/cuando-juega-river-plate-vs-talleres-por-la-copa-libertadores-2024-dia-hora-y-tv-nid21082024/",
+    "news_item_snippet": "Con goles de Borja y Sim\u00f3n, el equipo de Gallardo sac\u00f3 chapa y sigue en la Copa. Ahora, Colo Colo.",
+    "news_item_url": "https://www.ole.com.ar/futbol-internacional/libertadores/river-talleres-octavos-final-copa-libertadores-hora-tv-ver-formaciones-resultado_0_CJqwc0CH1m.html",
     "picture_source": "AS",
     "approx_traffic": "200,000+"
+  },
+  {
+    "country": "Argentina",
+    "title": "Central C\u00f3rdoba  Newell's",
+    "pubDate": "Wed, 21 Aug 2024 17:00:00 -0300",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRxKOIyD4hUA0KhX3rTspzgz_I9859FxmzayhJvs4LwIJkqOYUNMj0MnRu2TlohMWxNgzsQsQiy",
+    "news_item_snippet": "En San Nicol\u00e1s, tras el pobre 0-0 en tiempo reglamentario, el Ferroviario le gan\u00f3 3-2 a la Lepra desde los doce pasos. Ahora, se enfrentar\u00e1 a Temperley en&nbsp;...",
+    "news_item_url": "https://www.tycsports.com/copa-argentina/central-cordoba-se-vs-newells-en-vivo-hora-donde-ver-y-formaciones-id603052.html",
+    "picture_source": "Ol\u00e9",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Argentina",
+    "title": "Fortaleza  Rosario Central",
+    "pubDate": "Wed, 21 Aug 2024 19:00:00 -0300",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRbvidl2YEDrpDFqXPIA2lWbNZdO4SewMPaVD_lqIvsU3GnaG7mdC9qzscZvt3_N6xBLVZWPNwB",
+    "news_item_snippet": "El Canalla se vio superado y cay\u00f3 3-1 en el Estadio Castel\u00e3o despu\u00e9s de igualar 1-1 en el encuentro de ida disputado en el Gigante de Arroyito.",
+    "news_item_url": "https://www.infobae.com/deportes/2024/08/21/rosario-central-se-mide-a-fortaleza-en-brasil-en-busca-de-clasificar-a-los-cuartos-de-final-de-la-copa-sudamericana/",
+    "picture_source": "Rosario Central",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Argentina",
+    "title": "Palmeiras",
+    "pubDate": "Wed, 21 Aug 2024 08:00:00 -0300",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSx0yLIcCmnVMTuw5ux1X9WbW1z1M8h7gL32k1pbrJGxz6jHf3OdwoXsIaqqwub3SabSPWrDufZ",
+    "news_item_snippet": "Sigue el Palmeiras - Botafogo, hoy en vivo y en directo online, partido de vuelta de los octavos de final de Copa Libertadores, a trav\u00e9s de AS.com.",
+    "news_item_url": "https://as.com/futbol/internacional/palmeiras-botafogo-en-vivo-octavos-de-final-de-la-copa-libertadores-en-directo-hoy-n/",
+    "picture_source": "\u00e1mbito.com",
+    "approx_traffic": "50,000+"
   },
   {
     "country": "Australia",
     "title": "Jetstar",
     "pubDate": "Wed, 21 Aug 2024 15:00:00 +1000",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRoolSUvd_5Xq1r0lm1SJz-Anl2OoN0OT5tnhgfPRLTlpCJUiua_mLGGD0OZhqhjDn6oGuSKQRm",
-    "news_item_snippet": "The flight from Sydney had just parked at Melbourne Airport when a passenger opened an emergency exit door.",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQSVPNBBvLQmJXo0lRLWw80c8f-9lWPl4Z_hskwnKcLR2hguMQsqvwMufFv6jm0gmA5YdRNiuwf",
+    "news_item_snippet": "The flight from Sydney had just parked at Melbourne Airport when a man opened an emergency exit door, in a situation a passenger described as &quot;really&nbsp;...",
     "news_item_url": "https://www.abc.net.au/news/2024-08-22/jetstar-emergency-door-flight-removed-passenger-arrest-afp/104256044",
     "picture_source": "The Age",
     "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Brazil",
-    "title": "Palmeiras x Botafogo",
-    "pubDate": "Wed, 21 Aug 2024 06:00:00 -0500",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSv-tYrfC5bXEbow65ibe0fiA1s9lQ02ZnodMj2dkIHl9hgPKPQYH2c-3Ne_G16OmwCf8yEOb4K",
-    "news_item_snippet": "Palmeiras e Botafogo se enfrentam nesta quarta-feira, em S\u00e3o Paulo, com transmiss\u00e3o ao vivo pelo Disney+.",
-    "news_item_url": "https://www.espn.com.br/futebol/libertadores/artigo/_/id/14062137/palmeiras-botafogo-onde-assistir-ao-vivo-horario-palpites-provaveis-escalacoes-libertadores",
-    "picture_source": "ESPN.com.br",
-    "approx_traffic": "1,000,000+"
   },
   {
     "country": "Brazil",
@@ -223,10 +273,30 @@
     "country": "Brazil",
     "title": "Goi\u00e1s x Brusque",
     "pubDate": "Wed, 21 Aug 2024 19:00:00 -0500",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTqopoigd6wzrmraegZ0Upz2BazaA5gkxzJG6VBj_qgh6NXsP_vESKTx0i8FNFyjWxPQ3B6SZ82",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcS3MFK_vqG2HauukuGZjLcYqZ37p55heLNqY0ROVf_5klMf5ezO8V5LiFuOed59tpkqcwEUs8Zb",
     "news_item_snippet": "Goi\u00e1s x Brusque se enfrentam em partida v\u00e1lida pela 22\u00aa rodada do Brasileir\u00e3o S\u00e9rie B. O duelo acontecer\u00e1 nesta quarta-feira (21), \u00e0s 21:00 (hor\u00e1rio de&nbsp;...",
     "news_item_url": "https://www.gazetaesportiva.com/apostas/prognosticos/futebol/goias-x-brusque-21-08-2024",
-    "picture_source": "Terra",
+    "picture_source": "globoesporte.com",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Brazil",
+    "title": "Mirassol x Botafogo-SP",
+    "pubDate": "Wed, 21 Aug 2024 06:00:00 -0500",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSImxibY62NU9T0LX-F-k9DXYjNDAPD_budjMCuPxZywoOLiExSZXpdNsGfu7Y7nlptOFd5mBUW",
+    "news_item_snippet": "Fim do Jogo, Mirassol 1, Botafogo SP 2. 2\u00ba Tempo. 6&nbsp;...",
+    "news_item_url": "https://www.terra.com.br/esportes/futebol/brasileiro-serie-b/ao-vivo/mirassol-x-botafogo-sp/85357/",
+    "picture_source": "globoesporte.com",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Brazil",
+    "title": "Ceara",
+    "pubDate": "Wed, 21 Aug 2024 09:00:00 -0500",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQfYkyrGluIVz4MChruYVlCotUqMhHsI4tyKBs_xhEph8jfux7bG-c_GayDVjNGtt7Kn-TizitK",
+    "news_item_snippet": "Recursos do programa Sert\u00e3o Vivo beneficiar\u00e3o 72 munic\u00edpios cearenses que apresentam vulnerabilidade social, clim\u00e1tica, h\u00eddrica ou alimentar.",
+    "news_item_url": "https://agenciabrasil.ebc.com.br/economia/noticia/2024-08/ceara-assina-com-bndes-acordo-para-melhorar-acesso-agua",
+    "picture_source": "globoesporte.com",
     "approx_traffic": "50,000+"
   },
   {
@@ -237,16 +307,6 @@
     "news_item_snippet": "Em v\u00eddeo no Instagram, ele conta sua hist\u00f3ria com o v\u00edcio em pornografia, e incentiva o abandono da pr\u00e1tica.",
     "news_item_url": "https://www.correio24horas.com.br/entretenimento/influenciador-gustavo-tubarao-assume-ser-viciado-em-pornografia-e-faz-alerta-0824",
     "picture_source": "Jornal Correio",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "South Korea",
-    "title": "\ud0dc\ud48d",
-    "pubDate": "Wed, 21 Aug 2024 11:00:00 +0900",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSCt09MX305gPwOh-wSck1JIlIhPJoeeJF2s8WbP4dcTc6p5ZfgQ8HK9ezkVqHK4YiuBS9-aS3h",
-    "news_item_snippet": "\uc81c9\ud638 \ud0dc\ud48d \uc885\ub2e4\ub9ac \uc804\ub9dd.\uae30\uc0c1\uccad \uc81c\uacf5\ud0dc\ud48d \uc885\ub2e4\ub9ac\uac00 \uc608\uc0c1\ubcf4\ub2e4 \uc77c\ucc0d \uc18c\uba78\ub41c \uac00\uc6b4\ub370 \uad11\uc8fc\u00b7\uc804\ub0a8\uc9c0\uc5ed\uc5d0\ub294 \uac15\ud48d\uc744 \ub3d9\ubc18\ud55c \ub9ce\uc740 \ube44\uac00 \ub0b4\ub9ac\uaca0\ub2e4.21\uc77c \uad11\uc8fc\uae30.",
-    "news_item_url": "https://m.mdilbo.com/detail/yhcTKP/728013",
-    "picture_source": "\uacbd\ud5a5\uc2e0\ubb38",
     "approx_traffic": "50,000+"
   },
   {
@@ -344,16 +404,26 @@
     "title": "Ben Affleck",
     "pubDate": "Wed, 21 Aug 2024 09:00:00 +0200",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSpJESoP6cXR-LIMV5cv_s5yhj8RZpBpl1PokSxrcJhcUTjbJEEmCibEKamRWfXfT6pRx33RWN-",
-    "news_item_snippet": "A vent&#39;anni dal primo incontro sul set Gigli e dopo due anni di matrimonio i Bennifer si dicono addio (stavolta per sempre): il divorzio di JLo e Ben&nbsp;...",
-    "news_item_url": "https://www.elle.com/it/showbiz/celebrities/a61933048/jlo-divorzio-ben-affleck/",
+    "news_item_snippet": "Dopo una relazione durata due decenni, due fidanzamenti e due matrimoni, arriva la parola fine al secondo capitolo della relazione tra i due divi.",
+    "news_item_url": "https://www.rainews.it/articoli/2024/08/jennifer-lopez-e-ben-affleck-fine-della-storia-la-cantante-ha-chiesto-il-divorzio-4b4df1d2-b735-4d11-9949-d485af7dbefd.html",
     "picture_source": "Radio Bruno",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Mexico",
+    "title": "Columbus Crew - Philadelphia",
+    "pubDate": "Wed, 21 Aug 2024 17:00:00 -0600",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQ4ch3yHzgnaWRhkmL3ILYSP5rZm4fVm5xBCG_DtNwtyjHnu_KKMxiXkEE5Am8ebL1vT995enZ4",
+    "news_item_snippet": "Bienvenidos a la previa y minuto a minuto del partido donde se definir\u00e1 al primer finalista de Leagues Cup 2024. Columbus Crew recibe a Philadelphia Union.",
+    "news_item_url": "https://us.as.com/futbol/columbus-crew-philadelphia-union-en-vivo-semifinales-leagues-cup-en-directo-n/",
+    "picture_source": "MARCA.com",
     "approx_traffic": "50,000+"
   },
   {
     "country": "United Kingdom",
     "title": "Ben Affleck",
     "pubDate": "Wed, 21 Aug 2024 07:00:00 +0100",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSkAw0h2sArqVCfPRVJ6KB_orbhj_B0_YtItA3Fms1LlPflKYftBvC-eeZpVRCHqu0I1yLFZKO4",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcT9hOaj-PE5bE3PdjiBRYRjq6mb7zNg8vjn4pn8JGUUhAd1P5CKRukSyiRVdUJN9xGw3ZXXU_fW",
     "news_item_snippet": "And while it&#39;s not been confirmed what their specific marriage woes were, fans are convinced they&#39;ve found the moments the Good Will Hunting actor knew he didn&#39;&nbsp;...",
     "news_item_url": "https://www.independent.co.uk/life-style/ben-affleck-jennifer-lopez-relationship-split-b2599851.html",
     "picture_source": "BBC News",
@@ -363,7 +433,7 @@
     "country": "United Kingdom",
     "title": "Lauren Laverne",
     "pubDate": "Wed, 21 Aug 2024 09:00:00 +0100",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSpy8p0QEhRW_4kwAh373gGvmWJkxOnJ6W6QHEAgTKUgBWedNX-HjF_kLKGwYdcGo0YJFtA6TEP",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTqFYCJWsvst4GBkGmomRN8p0Jm1__WRVQEwmJn0vtuRYtn5tN98e0bMxXB9BgW8d2Ua8lnpRjp",
     "news_item_snippet": "Broadcaster, 46, says disease has been diagnosed early and she is expected to make a full recovery.",
     "news_item_url": "https://www.theguardian.com/tv-and-radio/article/2024/aug/21/lauren-laverne-desert-island-discs-presenter-cancer-diagnosis",
     "picture_source": "BBC News",
@@ -371,12 +441,12 @@
   },
   {
     "country": "United Kingdom",
-    "title": "Black Myth: Wukong",
-    "pubDate": "Tue, 20 Aug 2024 09:00:00 +0100",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSJTR7El3hUJ5mucKD3D9AQTS64xMolA9uzAZCFpxeErKvIY1qRL3bvKLskAsdT3MkBNlyjAgLw",
-    "news_item_snippet": "Black Myth: Wukong - testing the PS5 version vs PC, plus an analysis of the three modes: performance, balance and quality. Digital Foundry investigates.",
-    "news_item_url": "https://www.eurogamer.net/digitalfoundry-2024-black-myth-wukong-ps5-tech-review",
-    "picture_source": "Variety",
+    "title": "Sven-Goran Eriksson",
+    "pubDate": "Wed, 21 Aug 2024 13:00:00 +0100",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcR3PJPy8oMBsICFsr8YvVXJ790wONVcfba3hVrv2wz50lP2VaI2QKn_eAfeVuQnT804kWxMV0rt",
+    "news_item_snippet": "Former England manager revealed in January that he had &#39;best case a year&#39; to live after being diagnosed with cancer.",
+    "news_item_url": "https://www.telegraph.co.uk/football/2024/08/21/sven-goran-eriksson-poignant-farewell-documentary/",
+    "picture_source": "The Independent",
     "approx_traffic": "50,000+"
   }
 ]
