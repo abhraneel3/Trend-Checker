@@ -1,6 +1,16 @@
 [
   {
     "country": "United States",
+    "title": "Stevie Wonder",
+    "pubDate": "Wed, 21 Aug 2024 18:00:00 -0700",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSa7KZpqmxUgN8ZnEu8KyzKT8gylDJA2mKNlgH14gjSZjHp6xueT0_674T62r7bjNEUlitPKadj",
+    "news_item_snippet": "Stevie Wonder performed at the Democratic National Convention in Chicago on Wednesday, a night focused on fighting \u201cfor our freedoms,\u201d from democracy to&nbsp;...",
+    "news_item_url": "https://www.pbs.org/newshour/politics/watch-stevie-wonder-performs-at-2024-democratic-national-convention",
+    "picture_source": "NBC Chicago",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United States",
     "title": "Hawaiian Islands",
     "pubDate": "Wed, 21 Aug 2024 01:00:00 -0700",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRroK2KhUSKNCgZaFav5nb5abmosi8lr1OXWnDqPpV4sKHx_xo9ZzRh2Ubpa33P5Jiwn4JlWNis",
@@ -8,6 +18,26 @@
     "news_item_url": "https://travelnoire.com/hawaiian-islands-hurricane-gilma",
     "picture_source": "Travel Noire",
     "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Hakeem Jeffries",
+    "pubDate": "Wed, 21 Aug 2024 19:00:00 -0700",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTO87PcKK6IdS490NRDomJbAUZlD-ujiuRj8UNNx40BS-LX_5VEkaiETxL9NwoiihddwzqAy68D",
+    "news_item_snippet": "As the DNC entered its second half, early speakers came to the stage fast and furious, the arena fell silent as the parents of Hersh Goldberg-Polin spoke of&nbsp;...",
+    "news_item_url": "https://www.hollywoodreporter.com/news/politics-news/dnc-2024-day-3-tim-walz-bill-clinton-nancy-pelosi-kamala-harris-1235980968/",
+    "picture_source": "City & State",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Andrew Tate",
+    "pubDate": "Wed, 21 Aug 2024 10:00:00 -0700",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQmQhpmh0uilBZq5Autopprok9JethdzOG3TEeWFZcMbWT3LV32Qlg_3yYNVJAYszjMk0WrTlfF",
+    "news_item_snippet": "Masked police officers in Romania have carried out fresh raids at the home of internet influencer Andrew Tate, who is awaiting trial on charges of human&nbsp;...",
+    "news_item_url": "https://apnews.com/article/andrew-tate-human-trafficking-child-de5e9a2de2f112f141513b2b1e4641d3",
+    "picture_source": "Reuters",
+    "approx_traffic": "50,000+"
   },
   {
     "country": "United States",
@@ -34,8 +64,8 @@
     "title": "Doug Emhoff",
     "pubDate": "Tue, 20 Aug 2024 15:00:00 -0700",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTvlqAeIkgWHfkONmDdkNn2OfAykknRuRVUnMvu9whrsgHAjT0fbGFvHTQq6IbdyLOEov51v-sv",
-    "news_item_snippet": "Second gentleman Emhoff has stepped into the role of supportive political spouse without attempting to redefine the position. That&#39;s the beauty of it all.",
-    "news_item_url": "https://www.washingtonpost.com/nation/2024/08/21/doug-emhoff-dnc-speech-family-kamala-harris/",
+    "news_item_snippet": "Like his wife, Vice President Kamala Harris, Doug Emhoff embodies a lot of firsts. The first second gentleman. The first Jew to be the spouse of a vice&nbsp;...",
+    "news_item_url": "https://www.motherjones.com/politics/2024/08/doug-emhoff-dnc-speech-blended-family/",
     "picture_source": "BBC News",
     "approx_traffic": "200,000+"
   },
@@ -44,8 +74,8 @@
     "title": "JB Pritzker",
     "pubDate": "Tue, 20 Aug 2024 19:00:00 -0700",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRRHqwfwYhpwFUZ-dl56xv6vMPG1nVF--y1PMOgbctjrww68XbAaPCP7Ng4ZcqZCUISjHEK-7qw",
-    "news_item_snippet": "The Illinois governor and heir to the Hyatt Hotels fortune poked fun at Trump in his convention speech.",
-    "news_item_url": "https://www.politico.com/live-updates/2024/08/20/dnc-live-updates-coverage/pritzker-taunts-trump-00175275",
+    "news_item_snippet": "A billionaire who backs progressive policies, Pritzker remarks tonight could enhance his national recognition and sharpen his critiques of Trump.",
+    "news_item_url": "https://www.npr.org/2024/08/20/nx-s1-5081497/jb-pritzker-democratic-national-convention-abortion-trump",
     "picture_source": "Illinois Newsroom",
     "approx_traffic": "100,000+"
   },
@@ -53,21 +83,31 @@
     "country": "United States",
     "title": "Rfk Jr",
     "pubDate": "Tue, 20 Aug 2024 18:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSSzA54JJ272DZL90dQRpIxxEx2lBLY-rnpMPHBXcynRNyRBXiw1gG0Ar0K1yGaR2_7FZx3zV-g",
-    "news_item_snippet": "Independent presidential candidate Robert F. Kennedy Jr. is set to make a campaign speech addressing &quot;his path forward&quot; on Friday, after his running mate&nbsp;...",
-    "news_item_url": "https://www.nbcnews.com/politics/2024-election/rfk-jr-plans-speech-path-forward-talk-potentially-backing-trump-rcna167606",
-    "picture_source": "BBC News",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQ5YdM0EQeMO6RU0VbbNmm-FEB14_mf8gwVT6qi2ICJ3ddRxRcK5u2IUPwTrxRd8HdzajpDGG4n",
+    "news_item_snippet": "The running mate of Robert F. Kennedy Jr., who is pursuing an independent bid for president, says the campaign is considering exiting the race and backing&nbsp;...",
+    "news_item_url": "https://www.npr.org/2024/08/21/nx-s1-5084085/nicole-shanahan-rfk-jr-trump",
+    "picture_source": "NBC News",
     "approx_traffic": "100,000+"
   },
   {
     "country": "United States",
     "title": "Lil Jon",
     "pubDate": "Tue, 20 Aug 2024 20:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRlWERk8GzAAxUjUfn1xeVZDXRFUGBNZE2YDIANHNFOsXvkZuSbfcwdFRqjJ-r-rVvgIplgApfr",
-    "news_item_snippet": "Lil Jon&#39;s performance of the 2013 dance track during the second night of the DNC in Chicago on Tuesday (Aug. 20) was a standout moment of the evening.",
-    "news_item_url": "https://www.billboard.com/culture/politics/dj-snake-dnc-turn-down-for-what-lil-jon-response-1235758195/",
-    "picture_source": "Today.com",
-    "approx_traffic": "50,000+"
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTdoGi9ikIclWw1CZ1CuINyKXpEXbg8K6jPblExMsad6OH9IEhpv-RxZEmYOMvQftE1J1crt7Cb",
+    "news_item_snippet": "Rapper Lil Jon had the Democratic National Convention dancing when he turned up for a surprise performance to lead an energetic roll call for his home state&nbsp;...",
+    "news_item_url": "https://www.today.com/popculture/lil-jon-dnc-roll-call-rcna167517",
+    "picture_source": "The Associated Press",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Stephanie Grisham",
+    "pubDate": "Tue, 20 Aug 2024 17:00:00 -0700",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcR4H1uOLZrY_Z0Ay8kO-pYVjt3xIV8CPvW4eF8NIqbw6AmMO3rlxz_h-Kykb9_spNZZS9wsIjA7",
+    "news_item_snippet": "Grisham first served as a press aide to former President Trump&#39;s 2016 presidential campaign. She also later served as press secretary to former first lady&nbsp;...",
+    "news_item_url": "https://fox5sandiego.com/news/national-news/why-is-former-trump-official-stephanie-grisham-speaking-at-the-dnc/",
+    "picture_source": "CNN",
+    "approx_traffic": "100,000+"
   },
   {
     "country": "United States",
@@ -91,12 +131,12 @@
   },
   {
     "country": "United States",
-    "title": "Ella Emhoff",
-    "pubDate": "Tue, 20 Aug 2024 13:00:00 -0700",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTJ3A-sDXlkqQfyko1sW_L83N4hjO2bvzIvJb6-rRq-LEbeiODPZDhVjYdc4mL1l4Oz8JVyNsBR",
-    "news_item_snippet": "This take argues that worrying about the aesthetic choices of Vice President Harris&#39;s stepdaughter is a pretty bad reason to freak out about the Democratic&nbsp;...",
-    "news_item_url": "https://www.teenvogue.com/story/ella-emhoff-hat-dnc-2024",
-    "picture_source": "Ventura County Star",
+    "title": "Theo Von",
+    "pubDate": "Tue, 20 Aug 2024 21:00:00 -0700",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcS8V7r-D3f0eqL3jGyrknJvQ3yEGMeVMqUsQW5aUB0cqLGv7x9jPnR4vXdfDUMPaNg0X07IjPzc",
+    "news_item_snippet": "Former President Trump quizzed comedian Theo Von about cocaine addiction and the drug&#39;s effects during a recent podcast appearance.",
+    "news_item_url": "https://thehill.com/blogs/in-the-know/4838914-trump-theo-von-podcast-cocaine/",
+    "picture_source": "USA TODAY",
     "approx_traffic": "50,000+"
   },
   {
@@ -131,6 +171,26 @@
   },
   {
     "country": "India",
+    "title": "iQOO Z9s",
+    "pubDate": "Wed, 21 Aug 2024 13:30:00 +0530",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTgqod8rluLMFkVuWtJYDlLuAdBqsM9ONftmHqDChF9uKX2oPrANrJdTobBzga_zuEJe9G45eck",
+    "news_item_snippet": "While the iQOO Z9s Pro smartphone will be available in India starting August 23, the non-pro model in the series will go on sale from August 29: Technology&nbsp;...",
+    "news_item_url": "https://www.business-standard.com/technology/gadgets/iqoo-z9s-series-smartphones-with-sony-imx-cameras-launched-price-specs-124082100425_1.html",
+    "picture_source": "The Hindu",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "India",
+    "title": "Bharat Bandh 21 August",
+    "pubDate": "Tue, 20 Aug 2024 11:30:00 +0530",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQbvRU6fA2TMzwBdyAnB-84PFjljw8OsHYadYDAfuQRZtEaI_R-cI_Xnn-moRW5UUUHu2mfEYXt",
+    "news_item_snippet": "Bharat Bandh 2024: The Reservation Bachao Sangharsh Samiti has announced a Bharat Bandh on August 21, i.e, today, as a mark of protest against the Supreme&nbsp;...",
+    "news_item_url": "https://www.livemint.com/news/india/bharat-bandh-today-what-to-expect-everything-you-need-to-know-about-nationwide-shutdown-on-august-21-11724117738727.html",
+    "picture_source": "Jagran Josh",
+    "approx_traffic": "500,000+"
+  },
+  {
+    "country": "India",
     "title": "Bharat Bandh",
     "pubDate": "Tue, 20 Aug 2024 10:30:00 +0530",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSVedzjVpCMxm8Iu8njgA6jDG8gYIlCmZ1xDraxKKoBSXNdRUbVT5y7a7LD9rit7D3IxFlB3o1H",
@@ -138,26 +198,6 @@
     "news_item_url": "https://www.jagranjosh.com/general-knowledge/bharat-bandh-on-august-21-which-services-will-remain-open-or-closed-tomorrow-1724161319-1",
     "picture_source": "The Hindu",
     "approx_traffic": "200,000+"
-  },
-  {
-    "country": "India",
-    "title": "Tomorrow Bharat Bandh",
-    "pubDate": "Tue, 20 Aug 2024 11:30:00 +0530",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQbvRU6fA2TMzwBdyAnB-84PFjljw8OsHYadYDAfuQRZtEaI_R-cI_Xnn-moRW5UUUHu2mfEYXt",
-    "news_item_snippet": "Bharat Bandh 2024: The Reservation Bachao Sangharsh Samiti has announced a Bharat Bandh on August 21, i.e, today, as a mark of protest against the Supreme&nbsp;...",
-    "news_item_url": "https://www.livemint.com/news/india/bharat-bandh-today-what-to-expect-everything-you-need-to-know-about-nationwide-shutdown-on-august-21-11724117738727.html",
-    "picture_source": "Jagran Josh",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "India",
-    "title": "Badlapur News",
-    "pubDate": "Tue, 20 Aug 2024 13:30:00 +0530",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcR7Po3ZIbNOUYDkDxtB8JJ2K5HNHGtt4aSIgFxjx1SRRq9LUM6jfz6xdeBxAoEpAPj9kXRjkpbO",
-    "news_item_snippet": "Two four-year-old girls were allegedly sexually assaulted by a school cleaner in Badlapur, Maharashtra, sparking outrage. Authorities promise swift justice&nbsp;...",
-    "news_item_url": "https://www.livemint.com/news/india/badlapur-sexual-assault-ujjwal-nikam-to-be-special-public-prosecutor-sit-formed-badlapur-news-badlapur-school-11724204525587.html",
-    "picture_source": "The Hindu",
-    "approx_traffic": "100,000+"
   },
   {
     "country": "India",
@@ -173,11 +213,11 @@
     "country": "Argentina",
     "title": "River Plate  Talleres",
     "pubDate": "Wed, 21 Aug 2024 18:00:00 -0300",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTNqQ_5GOs3MzMRRpCwWCCCoCZ9c4HWPfwdyb0Y2eDFs95N8uWLHJk6GAX8aQGUuITLB08jzQn8",
-    "news_item_snippet": "Corner, River Plate. Corner cometido por Mat\u00edas Catal\u00e1n. 57&#39;. Cristian Tarragona (Talleres de C\u00f3rdoba) ha recibido una falta en la banda izquierda.",
-    "news_item_url": "https://as.com/futbol/internacional/river-plate-talleres-cordoba-en-vivo-octavos-de-final-de-copa-libertadores-en-directo-hoy-n/",
-    "picture_source": "Infobae.com",
-    "approx_traffic": "100,000+"
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTwoIq8FfyTOqPMi0IA6fQQHOTUy-5rxg0xyuUTnlIBa81Ri2KiqmGLyKz6kCfKzWl8njj2UVFd",
+    "news_item_snippet": "El partido de vuelta de los octavos de final se disputar\u00e1 el pr\u00f3ximo mi\u00e9rcoles en el estadio Monumental con arbitraje de Gustavo Tejera - LA NACION.",
+    "news_item_url": "https://www.lanacion.com.ar/deportes/futbol/cuando-juega-river-plate-vs-talleres-por-la-copa-libertadores-2024-dia-hora-y-tv-nid21082024/",
+    "picture_source": "AS",
+    "approx_traffic": "200,000+"
   },
   {
     "country": "Argentina",
@@ -193,10 +233,10 @@
     "country": "Australia",
     "title": "Jetstar",
     "pubDate": "Wed, 21 Aug 2024 15:00:00 +1000",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRkPdROIh5Qr9Q8xVk6WrhqLQrCzYQGqWpcJGKLhLMCVIzwYNXq2quy2XWcCJTX0NZ2zuqZcEyp",
-    "news_item_snippet": "Lawyers allege the airline was obliged to refund payments to customers whose flights were cancelled during the pandemic, but failed to do so.",
-    "news_item_url": "https://www.theguardian.com/business/article/2024/aug/21/jetstar-faces-class-action-lawsuit-over-allegedly-failing-to-refund-cancelled-covid-era-flights",
-    "picture_source": "ABC News",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQSkp59-W50JRlC-TqydrxF4ygoNY1hlakW9NAsn86MlOqr5Ixyj85-ZtnFF3GWU2hona8vzvex",
+    "news_item_snippet": "The flight from Sydney had just parked at Melbourne Airport when a passenger opened an emergency exit door.",
+    "news_item_url": "https://www.abc.net.au/news/2024-08-22/jetstar-emergency-door-flight-removed-passenger-arrest-afp/104256044",
+    "picture_source": "The Age",
     "approx_traffic": "50,000+"
   },
   {
@@ -204,10 +244,10 @@
     "title": "Palmeiras x Botafogo",
     "pubDate": "Wed, 21 Aug 2024 06:00:00 -0500",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSv-tYrfC5bXEbow65ibe0fiA1s9lQ02ZnodMj2dkIHl9hgPKPQYH2c-3Ne_G16OmwCf8yEOb4K",
-    "news_item_snippet": "Palmeiras e Botafogo se enfrentam nesta quarta-feira, em S\u00e3o Paulo, com transmiss\u00e3o ao vivo pelo Disney+.",
-    "news_item_url": "https://www.espn.com.br/futebol/libertadores/artigo/_/id/14062137/palmeiras-botafogo-onde-assistir-ao-vivo-horario-palpites-provaveis-escalacoes-libertadores",
+    "news_item_snippet": "Pela Copa Libertadores da Am\u00e9rica, o Fluminense eliminou o Gr\u00eamio nas penalidades m\u00e1ximas no Maracan\u00e3. O Atl\u00e9tico Mineiro havia empatado o primeiro jogo&nbsp;...",
+    "news_item_url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/esportes/audio/2024-08/libertadores-radio-nacional-transmite-palmeiras-x-botafogo",
     "picture_source": "ESPN.com.br",
-    "approx_traffic": "200,000+"
+    "approx_traffic": "500,000+"
   },
   {
     "country": "Brazil",
@@ -223,7 +263,7 @@
     "country": "Brazil",
     "title": "Fortaleza x Rosario",
     "pubDate": "Wed, 21 Aug 2024 15:00:00 -0500",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTXVy0MtfJExSILlLu4ubstMsm67AF47LOkFqYGaubyj_k_E401t_OjtK2xyBinZ-h-PUyuAnh9",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTC5Is1yWOAtdkf5ubqJX6_9RWd78dnBZWUIyqnKgN4r50D2q6vgpeMkTv5sA3i34lBaqX9OFeV",
     "news_item_snippet": "Para esta partida, as odds da BetSpeed s\u00e3o as seguintes: a vit\u00f3ria do Le\u00e3o vale 1,65, o empate marca, 3,55, e o triunfo da equipe argentina est\u00e1 em 6,20.",
     "news_item_url": "https://www.lance.com.br/sul-americana/fortaleza-x-rosario-central-odds-estatisticas-e-informacoes-para-apostar-na-sul-americana.html",
     "picture_source": "globoesporte.com",
@@ -231,31 +271,31 @@
   },
   {
     "country": "Brazil",
+    "title": "Ceara",
+    "pubDate": "Wed, 21 Aug 2024 09:00:00 -0500",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQfYkyrGluIVz4MChruYVlCotUqMhHsI4tyKBs_xhEph8jfux7bG-c_GayDVjNGtt7Kn-TizitK",
+    "news_item_snippet": "Recursos beneficiar\u00e3o 63 mil fam\u00edlias de pequenos agricultores do estado, em 72 munic\u00edpios com vulnerabilidade social, clim\u00e1tica, h\u00eddrica ou alimentar",
+    "news_item_url": "https://agenciadenoticias.bndes.gov.br/detalhe/noticia/BNDES-e-Governo-do-Ceara-assinam-contrato-do-Sertao-Vivo/",
+    "picture_source": "globoesporte.com",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Brazil",
+    "title": "Goi\u00e1s x Brusque",
+    "pubDate": "Wed, 21 Aug 2024 19:00:00 -0500",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTqopoigd6wzrmraegZ0Upz2BazaA5gkxzJG6VBj_qgh6NXsP_vESKTx0i8FNFyjWxPQ3B6SZ82",
+    "news_item_snippet": "Goi\u00e1s x Brusque se enfrentam em partida v\u00e1lida pela 22\u00aa rodada do Brasileir\u00e3o S\u00e9rie B. O duelo acontecer\u00e1 nesta quarta-feira (21), \u00e0s 21:00 (hor\u00e1rio de&nbsp;...",
+    "news_item_url": "https://www.gazetaesportiva.com/apostas/prognosticos/futebol/goias-x-brusque-21-08-2024",
+    "picture_source": "Terra",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Brazil",
     "title": "Galatasaray",
     "pubDate": "Wed, 21 Aug 2024 10:00:00 -0500",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRsvR4zpKSGQ1SG0G_Og9qRX68jkK_5Oe6CKNE9harlrPG5ZWPS90SrpgG2PCcE67oajHyvuAkH",
-    "news_item_snippet": "Com gol nos \u00faltimos minutos do jogo, o Galatasaray (Turquia) acabou derrotado por 3 a 2 para o Young Boys (Su\u00ed\u00e7a), no jogo de ida dos playoffs da Uefa Champions&nbsp;...",
+    "news_item_snippet": "Com gol nos \u00faltimos minutos do jogo, o Galatasaray (Turquia) acabou derrotado por 3 a 2 para o Young Boys (Su\u00ed\u00e7a), no jogo de ida dos playoffs da Uefa&nbsp;...",
     "news_item_url": "https://www.terra.com.br/esportes/futebol/internacional/galatasaray-toma-gol-no-fim-e-e-derrotado-nos-playoffs-da-champions-league-veja-os-resultados-dos-jogos-de-ida,e0da202173a70e2cb52b315e7159752fseqvm9yw.html",
-    "picture_source": "globoesporte.com",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Brazil",
-    "title": "Mirassol x Botafogo-SP",
-    "pubDate": "Wed, 21 Aug 2024 06:00:00 -0500",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSImxibY62NU9T0LX-F-k9DXYjNDAPD_budjMCuPxZywoOLiExSZXpdNsGfu7Y7nlptOFd5mBUW",
-    "news_item_snippet": "Fim do Jogo, Mirassol 1, Botafogo SP 2. 2\u00ba Tempo. 6&nbsp;...",
-    "news_item_url": "https://www.terra.com.br/esportes/futebol/brasileiro-serie-b/ao-vivo/mirassol-x-botafogo-sp/85357/",
-    "picture_source": "globoesporte.com",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Brazil",
-    "title": "Ceara",
-    "pubDate": "Wed, 21 Aug 2024 09:00:00 -0500",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTx_u5OOpUXZ8ZQmRvk5VYyZYunOGsfWuz3QOAwysJ3-Kpw-UdYwRN28Ek5WVRbDUYl7C_6Rrd6",
-    "news_item_snippet": "Recursos beneficiar\u00e3o 63 mil fam\u00edlias de pequenos agricultores do estado, em 72 munic\u00edpios com vulnerabilidade social, clim\u00e1tica, h\u00eddrica ou alimentar",
-    "news_item_url": "https://agenciadenoticias.bndes.gov.br/detalhe/noticia/BNDES-e-Governo-do-Ceara-assinam-contrato-do-Sertao-Vivo/",
     "picture_source": "globoesporte.com",
     "approx_traffic": "50,000+"
   },
@@ -272,7 +312,7 @@
   {
     "country": "South Korea",
     "title": "\ud0dc\ud48d",
-    "pubDate": "Tue, 20 Aug 2024 16:00:00 +0900",
+    "pubDate": "Tue, 20 Aug 2024 19:00:00 +0900",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSCt09MX305gPwOh-wSck1JIlIhPJoeeJF2s8WbP4dcTc6p5ZfgQ8HK9ezkVqHK4YiuBS9-aS3h",
     "news_item_snippet": "\uc81c9\ud638 \ud0dc\ud48d \uc885\ub2e4\ub9ac \uc804\ub9dd.\uae30\uc0c1\uccad \uc81c\uacf5\ud0dc\ud48d \uc885\ub2e4\ub9ac\uac00 \uc608\uc0c1\ubcf4\ub2e4 \uc77c\ucc0d \uc18c\uba78\ub41c \uac00\uc6b4\ub370 \uad11\uc8fc\u00b7\uc804\ub0a8\uc9c0\uc5ed\uc5d0\ub294 \uac15\ud48d\uc744 \ub3d9\ubc18\ud55c \ub9ce\uc740 \ube44\uac00 \ub0b4\ub9ac\uaca0\ub2e4.21\uc77c \uad11\uc8fc\uae30.",
     "news_item_url": "https://m.mdilbo.com/detail/yhcTKP/728013",
@@ -291,16 +331,6 @@
   },
   {
     "country": "France",
-    "title": "Kim Jong-un",
-    "pubDate": "Tue, 20 Aug 2024 18:00:00 +0200",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcR23g4ALUlBvlCJP0v32q7U7UIQMWijkTRdB1qSdDWIL7Um1CZp19H86lca4AnqUNq2k_ZLdOjw",
-    "news_item_snippet": "Les filles Nord-cor\u00e9ennes ne peuvent plus se v\u00eatir ou se coiffer comme l&#39;enfant du chef supr\u00eame, au risque de se faire arr\u00eater et envoyer en prison C&#39;est&nbsp;...",
-    "news_item_url": "https://www.sudouest.fr/international/asie/coree-du-nord-kim-jong-un-interdit-toute-ressemblance-avec-sa-fille-sous-peine-de-travaux-forces-21087525.php",
-    "picture_source": "Radio Classique",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "France",
     "title": "Lille \u2013 Slavia Prague",
     "pubDate": "Tue, 20 Aug 2024 21:00:00 +0200",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcR4Y5X2C-x5vkmyQd3Aq6ZbTeaaRf0ikj-7_i8UpzPaIVrwRvEJscLlK868UpqwaIlNBiocooBy",
@@ -314,8 +344,8 @@
     "title": "Koh-Lanta",
     "pubDate": "Tue, 20 Aug 2024 20:00:00 +0200",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQAVtIrszVADH5jiizMTy5M-EznkodyYhyvN-ezmGpa17y_UKUBGcmxo0-BqY2tFUaP9SvFGyQc",
-    "news_item_snippet": "C\u00e9cile, une h\u00f4tesse de l&#39;air de 34 ans, a particip\u00e9 pour la premi\u00e8re fois \u00e0 Koh-Lanta cette ann\u00e9e, mais son aventure s&#39;est termin\u00e9e plus vite que pr\u00e9vue.",
-    "news_item_url": "https://www.ledauphine.com/culture-loisirs/2024/08/21/koh-lanta-la-haut-savoyarde-cecile-eliminee-en-premiere-je-me-deteste-a-l-ecran-j-ai-envie-de-me-bouger",
+    "news_item_snippet": "Le jeu s&#39;appelle &quot;Hostile FIishing&quot;, comprendre &quot;p\u00eache en milieu hostile&quot;, et a m\u00eame fait l&#39;objet d&#39;un article dans le c\u00e9l\u00e8bre Chasseur Fran\u00e7ais. Il a \u00e9t\u00e9 cr\u00e9\u00e9&nbsp;...",
+    "news_item_url": "https://www.francebleu.fr/infos/insolite/un-albigeois-invente-le-koh-lanta-de-la-peche-au-profit-des-enfants-malades-deja-180-000-vues-sur-youtube-2792880",
     "picture_source": "Ouest-France",
     "approx_traffic": "50,000+"
   },
@@ -358,16 +388,6 @@
     "news_item_url": "https://www.volksstimme.de/panorama/stars/alain-delon-soll-auf-seinem-anwesen-beerdigt-werden-3901380",
     "picture_source": "katholisch.de",
     "approx_traffic": "200,000+"
-  },
-  {
-    "country": "Germany",
-    "title": "Was ist Mpox",
-    "pubDate": "Thu, 15 Aug 2024 08:00:00 +0200",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRRjbbqF27iwOIfrzvyivTozcp0GyjDMPQvYXvaYrf6UHwlDZaSXBOYPjJnjaa6b4RuMWW3q48f",
-    "news_item_snippet": "Die WHO hat mit dem Ausrufen der h\u00f6chsten Alarmstufe bei Mpox f\u00fcr Beunruhigung gesorgt. Aber wie gef\u00e4hrlich ist das Virus wirklich? Und warum l\u00e4sst sich die&nbsp;...",
-    "news_item_url": "https://www.tagesschau.de/wissen/gesundheit/mpox-who-faq-100.html",
-    "picture_source": "scinexx | Das Wissensmagazin",
-    "approx_traffic": "100,000+"
   },
   {
     "country": "Italy",
@@ -413,20 +433,10 @@
     "country": "United Kingdom",
     "title": "Lauren Laverne",
     "pubDate": "Wed, 21 Aug 2024 09:00:00 +0100",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTqFYCJWsvst4GBkGmomRN8p0Jm1__WRVQEwmJn0vtuRYtn5tN98e0bMxXB9BgW8d2Ua8lnpRjp",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSpy8p0QEhRW_4kwAh373gGvmWJkxOnJ6W6QHEAgTKUgBWedNX-HjF_kLKGwYdcGo0YJFtA6TEP",
     "news_item_snippet": "Broadcaster, 46, says disease has been diagnosed early and she is expected to make a full recovery.",
     "news_item_url": "https://www.theguardian.com/tv-and-radio/article/2024/aug/21/lauren-laverne-desert-island-discs-presenter-cancer-diagnosis",
     "picture_source": "BBC News",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United Kingdom",
-    "title": "Wind warning",
-    "pubDate": "Wed, 21 Aug 2024 11:00:00 +0100",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSBSZMvQZRp0iA50zE7Sl1h6p0T48e8n8O68hc75dKh_2VRr3v654T-yftxdEFY_kdrKdZ03pVC",
-    "news_item_snippet": "Scotland is set for strong winds and heavy rain, especially in western parts of the country.",
-    "news_item_url": "https://www.bbc.com/news/videos/cn7l26lvjvlo",
-    "picture_source": "Sky News",
     "approx_traffic": "50,000+"
   },
   {
