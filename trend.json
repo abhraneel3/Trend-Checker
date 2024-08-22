@@ -4,8 +4,8 @@
     "title": "Bill Clinton",
     "pubDate": "Wed, 21 Aug 2024 19:00:00 -0700",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcR-Qs7ErPZEgY_BN5bklqxtcSZCF-CcqDOZHXbgOOVvmDMPB58_-vwajXWPpkQeXrPESco6fOiF",
-    "news_item_snippet": "Former President Bill Clinton spoke to the crowd on Night 3 of the DNC, thanking President Biden for his service, praising Kamala Harris and emphasizing the&nbsp;...",
-    "news_item_url": "https://www.npr.org/2024/08/21/g-s1-18611/bill-clinton-democratic-national-convention",
+    "news_item_snippet": "The former president cautioned exuberant delegates at the Democratic National Convention not to be complacent in 2024 because politics is \u201ca brutal,&nbsp;...",
+    "news_item_url": "https://www.nytimes.com/2024/08/21/us/politics/bill-clinton-dnc-speech.html",
     "picture_source": "NPR",
     "approx_traffic": "1,000,000+"
   },
@@ -13,7 +13,7 @@
     "country": "United States",
     "title": "Stevie Wonder",
     "pubDate": "Wed, 21 Aug 2024 18:00:00 -0700",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTJntRTAi2Ma8w9FR4JgqkJqfrc1yD7VsIJyzGP6rlmQHa6lUJl0RI0zPeKhKp2Fdyaz2SCA8zw",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRBC5IZRtYS5vs_FECuDyBdagGcb5-xBPGoQNLLYCsQCPg7kPkFsf_OZ8J3ysyTbw3gan_AJpxM",
     "news_item_snippet": "Stevie Wonder graced the DNC on Wednesday to deliver both a speech and performance in support of Kamala Harris and her running mate, Tim Walz.",
     "news_item_url": "https://www.rollingstone.com/music/music-news/stevie-wonder-dnc-speaks-performs-higher-ground-1235085316/",
     "picture_source": "PBS NewsHour",
@@ -23,10 +23,20 @@
     "country": "United States",
     "title": "Oprah Winfrey",
     "pubDate": "Wed, 21 Aug 2024 20:00:00 -0700",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcR7wxhXqaUg9UFiyBXekWaxYJINDA5QTonYd96EYG0iIhgFSiPsxksyyjayAxteSpwfIggI3TkE",
-    "news_item_snippet": "Winfrey is set to participate in the lead up to Minnesota Gov. Tim Walz&#39;s acceptance of the Democratic vice presidential nomination, according to multiple&nbsp;...",
-    "news_item_url": "https://www.cnn.com/2024/08/21/politics/oprah-winfrey-dnc-program-wednesday/index.html",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQZaD4jG0fTDcL8H4FSGbeLJvwHOsC7GIgMWj8ZyEN78l764oiEH2OewQ_wyqS3Sp3mLNHtRH8Y",
+    "news_item_snippet": "The unannounced speech by the TV host hit back at Republican criticism of &quot;childless cat ladies&quot;.",
+    "news_item_url": "https://www.bbc.com/news/articles/c20r9eqpynko",
     "picture_source": "NPR",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Hawaiian Islands",
+    "pubDate": "Wed, 21 Aug 2024 01:00:00 -0700",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRroK2KhUSKNCgZaFav5nb5abmosi8lr1OXWnDqPpV4sKHx_xo9ZzRh2Ubpa33P5Jiwn4JlWNis",
+    "news_item_snippet": "There&#39;s beauty to be found in all of America&#39;s 50 states, but by far one of the most popular destinations has long been the Hawaiian Islands.",
+    "news_item_url": "https://travelnoire.com/hawaiian-islands-hurricane-gilma",
+    "picture_source": "Travel Noire",
     "approx_traffic": "100,000+"
   },
   {
@@ -47,16 +57,6 @@
     "news_item_snippet": "PROGRAMMING NOTE: Rep. Hakeem Jeffries is speaking at the Democratic National Convention. Watch live video on News 12 New York.",
     "news_item_url": "https://brooklyn.news12.com/watch-live-rep-hakeem-jeffries-speaks-at-the-democratic-national-convention",
     "picture_source": "City & State",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Amanda Gorman",
-    "pubDate": "Wed, 21 Aug 2024 20:00:00 -0700",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQThPxUYNAfomDOuCacXsYosBspSamrQ_ccB6YACj3ucLjY_CoJYcu491rcjMKUoylFLNgPAeh4",
-    "news_item_snippet": "The former National Youth Poet Laureate recited her poem \u201cThe Sacred Scene\u201d in front of the convention crowd. The piece celebrated the prospect of Vice&nbsp;...",
-    "news_item_url": "https://www.pbs.org/newshour/politics/watch-poet-amanda-gorman-recites-the-sacred-scene-at-2024-democratic-national-convention",
-    "picture_source": "NPR",
     "approx_traffic": "50,000+"
   },
   {
@@ -107,7 +107,7 @@
     "news_item_snippet": "Serving as the celebrity host for the third day of the convention, Kaling delivered intermittent remarks throughout the evening, in between the addresses of&nbsp;...",
     "news_item_url": "https://www.nbcchicago.com/dnc-chicago-2024/mindy-kaling-sends-message-to-ben-affleck-at-dnc-in-chicago-following-divorce-news/3528757/",
     "picture_source": "NBC News",
-    "approx_traffic": "500,000+"
+    "approx_traffic": "200,000+"
   },
   {
     "country": "United States",
@@ -124,8 +124,8 @@
     "title": "Kalki",
     "pubDate": "Thu, 22 Aug 2024 00:30:00 +0530",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQUoN4Beex0DOYjU0XaV1qu2Qgtk5n64wMwsjH2Z5WarZ0oDe9JsxObmTIFSWQUeBzuStnxT0pr",
-    "news_item_snippet": "Nag Ashwin&#39;s dystopian sci-fi epic Kalki 2898 AD, starring Prabhas, Deepika Padukone, and Amitabh Bachchan, earned over \u20b91000 crore at the box office.",
-    "news_item_url": "https://www.hindustantimes.com/entertainment/telugu-cinema/kalki-2898-ad-starts-streaming-now-where-to-watch-prabhas-deepika-padukone-amitabh-bachchan-new-film-101724296684337.html",
+    "news_item_snippet": "Kalki 2898 AD, the blockbuster sci-fi film starring Prabhas, Deepika Padukone, Amitabh Bachchan, and Kamal Haasan, is now available for streaming on OTT&nbsp;...",
+    "news_item_url": "https://m.economictimes.com/magazines/panache/kalki-2898-ad-released-on-ott-where-to-watch-hindi-telugu-tamil-kannada-malayalam-language-versions/articleshow/112696620.cms",
     "picture_source": "Livemint",
     "approx_traffic": "100,000+"
   },
@@ -133,20 +133,20 @@
     "country": "India",
     "title": "Astronauts Sunita Williams",
     "pubDate": "Thu, 22 Aug 2024 04:30:00 +0530",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQJ6P5SfRuDC3KVFnM9b_CNsCrqcMNv8d1VvSbNydZtDPQzzR8A1r1eQBTcezsAPJDKL3VIoJsr",
-    "news_item_snippet": "Ridolfi also revealed two more possible scenarios that the NASA astronauts might face on their way back to Earth in Boeing&#39;s Starliner spacecraft with&nbsp;...",
-    "news_item_url": "https://www.businesstoday.in/technology/news/story/nasas-sunita-williams-could-end-up-stuck-in-space-with-just-96-hours-of-oxygen-on-boeing-starliner-expert-explains-442554-2024-08-22",
-    "picture_source": "Livemint",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcR8zeuHZsIGyMXMmu2R2cxejYJFPz2hMwByom9uCuz0BKjRSw2aZDk_0ceKlYr3Ilh1a3NJ5NBC",
+    "news_item_snippet": "Sunita Williams news: NASA reiterated that Starliner astronauts Sunita Williams and Butch Wilmore are not \u201cstuck\u201d in space. The US space agency also&nbsp;...",
+    "news_item_url": "https://www.livemint.com/science/news/sunita-williams-not-stuck-in-space-but-for-how-long-could-she-stay-at-iss-nasa-answers-11724258071785.html",
+    "picture_source": "Business Today",
     "approx_traffic": "50,000+"
   },
   {
     "country": "India",
     "title": "Pakistan vs Bangladesh",
     "pubDate": "Wed, 21 Aug 2024 10:30:00 +0530",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQAT6PbQNdDxW7mvv20qYgKdCrPNgeqfWrBmzOf57p26mV-Le13iGYkdAsSLDzsVDy4bjrf-ccw",
-    "news_item_snippet": "Pakistan vs Bangladesh 1st Test LIVE: Catch the score and updates from Day 2 of the first Test match between Pakistan and Bangladesh played at the&nbsp;...",
-    "news_item_url": "https://sportstar.thehindu.com/cricket/pak-vs-ban-live-score-day-2-updates-1st-test-score-highlights-pakistan-bangladesh-rawalpindi-streaming-info/article68553149.ece",
-    "picture_source": "Hindustan Times",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcToSrEZwSBAO8EwJgrr7QO7Nyy8s6ysw81yQc3gVvgO_oprUC4Zj7-g42nPsqetT2Nspm64VZ0m",
+    "news_item_snippet": "Pakistan vs Bangladesh Live Score: Pakistan at 158/4 after 41 overs, Saud Shakeel at 57 runs and Mohammad Rizwan at 24 runs | Crickit.",
+    "news_item_url": "https://www.hindustantimes.com/cricket/pakistan-vs-bangladesh-live-score-1st-test-day-1-of-bangladesh-tour-of-pakistan-2024-final-updates-today-21-aug-2024-101724213292135.html",
+    "picture_source": "Sportstar",
     "approx_traffic": "500,000+"
   },
   {
@@ -187,7 +187,7 @@
     "news_item_snippet": "Bharat Bandh 2024: The Reservation Bachao Sangharsh Samiti has announced a Bharat Bandh on August 21, i.e, today, as a mark of protest against the Supreme&nbsp;...",
     "news_item_url": "https://www.livemint.com/news/india/bharat-bandh-today-what-to-expect-everything-you-need-to-know-about-nationwide-shutdown-on-august-21-11724117738727.html",
     "picture_source": "Jagran Josh",
-    "approx_traffic": "500,000+"
+    "approx_traffic": "200,000+"
   },
   {
     "country": "India",
@@ -204,8 +204,8 @@
     "title": "River Plate  Talleres",
     "pubDate": "Wed, 21 Aug 2024 18:00:00 -0300",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTwoIq8FfyTOqPMi0IA6fQQHOTUy-5rxg0xyuUTnlIBa81Ri2KiqmGLyKz6kCfKzWl8njj2UVFd",
-    "news_item_snippet": "Con goles de Borja y Sim\u00f3n, el equipo de Gallardo sac\u00f3 chapa y sigue en la Copa. Ahora, Colo Colo.",
-    "news_item_url": "https://www.ole.com.ar/futbol-internacional/libertadores/river-talleres-octavos-final-copa-libertadores-hora-tv-ver-formaciones-resultado_0_CJqwc0CH1m.html",
+    "news_item_snippet": "\u00a1Final del partido! River Plate se impuso con autoridad y jerarqu\u00eda ante Talleres de C\u00f3rdoba y avanz\u00f3 a los cuartos de final de la Copa Libertadores.",
+    "news_item_url": "https://www.infobae.com/deportes/2024/08/21/el-river-plate-de-gallardo-buscara-sellar-su-boleto-a-cuartos-de-final-ante-talleres-en-vivo-hora-tv-y-formaciones/",
     "picture_source": "AS",
     "approx_traffic": "200,000+"
   },
@@ -234,8 +234,8 @@
     "title": "Jetstar",
     "pubDate": "Wed, 21 Aug 2024 15:00:00 +1000",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQSVPNBBvLQmJXo0lRLWw80c8f-9lWPl4Z_hskwnKcLR2hguMQsqvwMufFv6jm0gmA5YdRNiuwf",
-    "news_item_snippet": "A Jetstar passenger has opened the emergency exit door of a plane after it landed at Melbourne Airport then walked along the wing before being intercepted&nbsp;...",
-    "news_item_url": "https://www.theguardian.com/business/article/2024/aug/22/jetstar-passenger-arrested-opening-plane-door-walking-on-wing-melbourne-airport-ntwnfb",
+    "news_item_snippet": "The flight from Sydney had just parked at Melbourne Airport when a man opened an emergency exit door, in a situation a passenger described as &quot;really&nbsp;...",
+    "news_item_url": "https://www.abc.net.au/news/2024-08-22/jetstar-emergency-door-flight-removed-passenger-arrest-afp/104256044",
     "picture_source": "The Age",
     "approx_traffic": "50,000+"
   },
@@ -276,16 +276,6 @@
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcS3MFK_vqG2HauukuGZjLcYqZ37p55heLNqY0ROVf_5klMf5ezO8V5LiFuOed59tpkqcwEUs8Zb",
     "news_item_snippet": "Goi\u00e1s x Brusque se enfrentam em partida v\u00e1lida pela 22\u00aa rodada do Brasileir\u00e3o S\u00e9rie B. O duelo acontecer\u00e1 nesta quarta-feira (21), \u00e0s 21:00 (hor\u00e1rio de&nbsp;...",
     "news_item_url": "https://www.gazetaesportiva.com/apostas/prognosticos/futebol/goias-x-brusque-21-08-2024",
-    "picture_source": "globoesporte.com",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Brazil",
-    "title": "Mirassol x Botafogo-SP",
-    "pubDate": "Wed, 21 Aug 2024 06:00:00 -0500",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSImxibY62NU9T0LX-F-k9DXYjNDAPD_budjMCuPxZywoOLiExSZXpdNsGfu7Y7nlptOFd5mBUW",
-    "news_item_snippet": "Fim do Jogo, Mirassol 1, Botafogo SP 2. 2\u00ba Tempo. 6&nbsp;...",
-    "news_item_url": "https://www.terra.com.br/esportes/futebol/brasileiro-serie-b/ao-vivo/mirassol-x-botafogo-sp/85357/",
     "picture_source": "globoesporte.com",
     "approx_traffic": "50,000+"
   },
@@ -367,7 +357,7 @@
     "news_item_snippet": "Manuel Neuer beendet seine Karriere in der deutschen Fu\u00dfball-Nationalmannschaft. Das teilte der 38-j\u00e4hrige Torh\u00fcter am Mittwoch via Instagram mit.",
     "news_item_url": "https://www.rheinpfalz.de/lokal/pfalz-ticker_artikel,-manuel-neuer-beendet-dfb-karriere-_arid,5683296.html",
     "picture_source": "BNN - Badische Neueste Nachrichten",
-    "approx_traffic": "50,000+"
+    "approx_traffic": "100,000+"
   },
   {
     "country": "Germany",
@@ -403,10 +393,10 @@
     "country": "Italy",
     "title": "Maria Branyas Morera",
     "pubDate": "Wed, 21 Aug 2024 01:00:00 +0200",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRy-8yaXtK-3f6e-zGtGwI1ZiciPjlfV77EkACAXyC_vH8nLLeW7FuLdvAoETZMbuUG6QCTW9dA",
-    "news_item_snippet": "Durante la sua lunga vita ha affrontato molte difficolt\u00e0 personali in particolare nei primi anni, come la perdita del padre mentre la famiglia emigrava in&nbsp;...",
-    "news_item_url": "https://www.ilmessaggero.it/persone/maria_branyas_morera_morta_piu_anziana_mondo_chi_ha_record_adesso-8309885.html",
-    "picture_source": "Corriere della Sera",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTA7Xdq5A-OtUJintK6an5u4_h-4a-UfgvRGpfCXhI-X4TgzHKieyjMDJoIlpQVsMnONfi_0FJq",
+    "news_item_snippet": "Lo hanno reso noto i familiari sul suo profilo X. Sopravvissuta al Covid nel 2020, riteneva la longevit\u00e0 \u00abuna questione di fortuna e buona genetica\u00bb",
+    "news_item_url": "https://www.corriere.it/cronache/24_agosto_21/e-morta-in-spagna-maria-branyas-morera-con-i-suoi-117-anni-era-la-persona-piu-anziana-del-mondo-d2df3556-773d-4d04-ba28-31647f98dxlk.shtml",
+    "picture_source": "Il Messaggero",
     "approx_traffic": "50,000+"
   },
   {
@@ -451,22 +441,22 @@
   },
   {
     "country": "United Kingdom",
+    "title": "Wind warning",
+    "pubDate": "Wed, 21 Aug 2024 11:00:00 +0100",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSBSZMvQZRp0iA50zE7Sl1h6p0T48e8n8O68hc75dKh_2VRr3v654T-yftxdEFY_kdrKdZ03pVC",
+    "news_item_snippet": "Stormy weather this week caused by the remnants of Hurricane Ernesto has sparked warnings of huge 78mph winds, as people are told to secure their homes&nbsp;...",
+    "news_item_url": "https://www.mirror.co.uk/news/uk-news/met-office-weather-warning-brits-33515060",
+    "picture_source": "Sky News",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United Kingdom",
     "title": "Sven-Goran Eriksson",
     "pubDate": "Wed, 21 Aug 2024 13:00:00 +0100",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSdxkMDP3EIJbwZ908EbAcrNU-dDkh_Sl4HNS_hXQX50Q8h-uLNaEjbXHMrnP2zLFxFsFaCTm-q",
     "news_item_snippet": "The former England manager revealed he had been diagnosed with terminal pancreatic cancer earlier this year.",
     "news_item_url": "https://www.independent.co.uk/sport/football/sven-goran-eriksson-documentary-goodbye-message-b2599427.html",
     "picture_source": "Mirror.co.uk",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United Kingdom",
-    "title": "Black Myth: Wukong",
-    "pubDate": "Tue, 20 Aug 2024 09:00:00 +0100",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSJTR7El3hUJ5mucKD3D9AQTS64xMolA9uzAZCFpxeErKvIY1qRL3bvKLskAsdT3MkBNlyjAgLw",
-    "news_item_snippet": "Black Myth: Wukong - testing the PS5 version vs PC, plus an analysis of the three modes: performance, balance and quality. Digital Foundry investigates.",
-    "news_item_url": "https://www.eurogamer.net/digitalfoundry-2024-black-myth-wukong-ps5-tech-review",
-    "picture_source": "Variety",
     "approx_traffic": "50,000+"
   }
 ]
