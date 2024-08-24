@@ -1,6 +1,16 @@
 [
   {
     "country": "United States",
+    "title": "RFK",
+    "pubDate": "Fri, 23 Aug 2024 14:00:00 -0700",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQD0mjjPvkp-y4xBXvHEBPhAvLtimcjCd7mLfStxQO13qmq89IF0nCOHYCbEFp8gwzhNSP28ne3",
+    "news_item_snippet": "Robert F. Kennedy Jr. announced Friday he is suspending his longshot campaign for president and instead supporting Donald Trump.",
+    "news_item_url": "https://abcnews.go.com/Politics/rfk-jr-new-court-filing-endorse-donald-trump/story?id=113070478",
+    "picture_source": "NPR",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "United States",
     "title": "Sabrina Carpenter",
     "pubDate": "Fri, 23 Aug 2024 09:00:00 -0700",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcS6hYgXbJK7Y-jYgNBvDjzpOQyDKnAfddhPsCb34ZckORiILMlqRrKStHY0CL7tWKEIqugvtWOc",
@@ -14,8 +24,8 @@
     "title": "Raiders",
     "pubDate": "Fri, 23 Aug 2024 18:00:00 -0700",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSQ48rh9pP0BwtTLrelUFirPpKmp1PQMDKBgV9olKxwXYvJaYMI7SxmssNaehLJXPgRdVJZxKRs",
-    "news_item_snippet": "Expert recap and game analysis of the San Francisco 49ers vs. Las Vegas Raiders NFL game from August 23, 2024 on ESPN.",
-    "news_item_url": "http://www.espn.com/nfl/recap?gameId=401672898",
+    "news_item_snippet": "The San Francisco 49ers closed out the preseason slate with a 24-all tie with the Las Vegas Raiders.",
+    "news_item_url": "https://www.49ers.com/news/49ers-and-raiders-break-even-in-preseason-finale-five-takeaways-from-sfvslv",
     "picture_source": "Raiders.com",
     "approx_traffic": "100,000+"
   },
@@ -23,11 +33,21 @@
     "country": "United States",
     "title": "49ers",
     "pubDate": "Fri, 23 Aug 2024 19:00:00 -0700",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSh_psR6M558guKW1WGA87KZG58opxDFRZkVKS5_-tyJBgsOs_1kUsbSzb0uXiDm3Dw-Lq7Bups",
-    "news_item_snippet": "The San Francisco 49ers vs. Las Vegas Raiders NFL preseason game will be played tonight. Find out how to watch.",
-    "news_item_url": "https://www.cbsnews.com/essentials/how-to-watch-the-san-francisco-49ers-vs-las-vegas-raiders-nfl-preseason-game-tonight/",
-    "picture_source": "ESPN",
-    "approx_traffic": "50,000+"
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQE5hVh_UPjI6SXdmdG8UW_NGf-TzkBlxMBPlbrAnoCoF6jvlVdiMoZIasrz-5gcDUxKg6-jGHO",
+    "news_item_snippet": "Expert recap and game analysis of the San Francisco 49ers vs. Las Vegas Raiders NFL game from August 23, 2024 on ESPN.",
+    "news_item_url": "http://www.espn.com/nfl/recap?gameId=401672898",
+    "picture_source": "49ers.com",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Ella Emhoff",
+    "pubDate": "Fri, 23 Aug 2024 07:00:00 -0700",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcR1Fn8mlcQ_NcCw1JhM8nysCYabI__GD2M5sZ7U8KFRQbyILujTwPFI_EiGreeiM4Ffs_4TJmm5",
+    "news_item_snippet": "Vice President Kamala Harris&#39;s stepdaughter took the stage in a pretty blue dress that was made by a viral social media user.",
+    "news_item_url": "https://www.newsweek.com/ella-emhoff-dnc-dress-tiktok-joe-ando-hirsh-maybe-1943833",
+    "picture_source": "ABC7 Chicago",
+    "approx_traffic": "100,000+"
   },
   {
     "country": "United States",
@@ -36,6 +56,16 @@
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQTaU8fs0__TtFTgpeUxRwtFdV9TDC01IRWnUFnpISp0-hFN_XFBpM2jCGgc4x4G2piPl79ELqr",
     "news_item_snippet": "Nine stores in Ohio where you can get the limited-edition Krispy Kreme x Dr Pepper Kickoff Collection doughnuts.",
     "news_item_url": "https://www.dispatch.com/story/news/2024/08/23/limited-krispy-kreme-dr-pepper-doughnut-where-to-get-them-ohio/74917074007/",
+    "picture_source": "Today.com",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Justin Bieber",
+    "pubDate": "Fri, 23 Aug 2024 21:00:00 -0700",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQ7HYaWf1cDWNKA_l_6fTDuVH7m7LI5A22QcMzeoaeeRcHCIF8USHvHRsorTGTDTca3yWB4BkyS",
+    "news_item_snippet": "Justin and Hailey Bieber have welcomed a new baby, Jack Blues Bieber, to the world on Instagram.",
+    "news_item_url": "https://www.nbcphiladelphia.com/entertainment/entertainment-news/hailey-bieber-gives-birth-welcomes-first-baby-with-justin-bieber/3951480/",
     "picture_source": "Today.com",
     "approx_traffic": "50,000+"
   },
@@ -50,44 +80,14 @@
     "approx_traffic": "50,000+"
   },
   {
-    "country": "United States",
-    "title": "Rfk Jr",
-    "pubDate": "Thu, 22 Aug 2024 12:00:00 -0700",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTCvs_NzxPMQzg1ag0l6seaSZbG9Vz2-Eisil9YqmPlrXPfjFVCfae9x2e26HnVfKrgJUGxf6vz",
-    "news_item_snippet": "Independent presidential candidate Robert F. Kennedy Jr. announced Friday that he is suspending his presidential race at a news conference in Phoenix.",
-    "news_item_url": "https://www.cnn.com/2024/08/23/politics/rfk-jr-suspends-campaign/index.html",
-    "picture_source": "ABC News",
-    "approx_traffic": "500,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Kamala Harris",
-    "pubDate": "Thu, 22 Aug 2024 21:00:00 -0700",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRuD0b37HU_cDFfYgIPN0diW0M0Z-mb6srfoxUfM3eYe77nvbw1OMrY8J-VzXnA1CXytynH1aN5",
-    "news_item_snippet": "Harris walked onstage to thunderous applause and a long standing ovation as convention-goers chanted her name, before beginning her remarks.",
-    "news_item_url": "https://apnews.com/article/democratic-national-convention-kamala-harris-807cf9d4a609a18ceaa9eee9c9422af5",
-    "picture_source": "GZERO Media",
-    "approx_traffic": "500,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Beyonce",
-    "pubDate": "Thu, 22 Aug 2024 17:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRpnvmicaklofpb-wjTBEG38KLKh5mpH00myUMDynHeN4dhowCCIXcVxU2tDgQu5eYTiZhhGOfU",
-    "news_item_snippet": "Heading into the final night of the 2024 Democratic National Convention, rumors swirled about high-profile, unannounced musical guests \u2014 which, given that&nbsp;...",
-    "news_item_url": "https://www.npr.org/2024/08/22/g-s1-18988/beyonce-taylor-swift-dnc-performances",
-    "picture_source": "The New York Times",
-    "approx_traffic": "200,000+"
-  },
-  {
     "country": "India",
-    "title": "Diamond League",
-    "pubDate": "Fri, 23 Aug 2024 00:30:00 +0530",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRXbiAD5ExwnuVLkVqDYYNbIh_ASuXEtccVbNTnV7uoZiESzVtBMwk72cCfRkpFLwePLS4Zis69",
-    "news_item_snippet": "Neeraj Chopra revealed that an advice to &quot;stay relaxed&quot; from Julius Yego helped him calm down before he pulled off a season&#39;s best effort in the Diamond&nbsp;...",
-    "news_item_url": "https://www.hindustantimes.com/sports/others/relax-you-will-throw-far-neeraj-chopras-opponents-words-before-last-throw-changed-everything-in-diamond-league-101724434153625.html",
-    "picture_source": "Jagran Josh",
-    "approx_traffic": "100,000+"
+    "title": "Shikhar Dhawan",
+    "pubDate": "Sat, 24 Aug 2024 09:30:00 +0530",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTz5Lia_wMFSpaLwzv3pPf9BSEnKeEhaKecxQXEFNMr-IRsUo0W14Y1N54JAGOJ1cVfscxBFrV-",
+    "news_item_snippet": "Shikhar Dhawan retirement: \u0917\u092c\u094d\u092c\u0930 \u0915\u0947 \u0928\u093e\u092e \u0938\u0947 \u092e\u0936\u0939\u0942\u0930 \u0936\u093f\u0916\u0930 \u0927\u0935\u0928 \u0928\u0947 34 \u091f\u0947\u0938\u094d\u091f, 167 \u0935\u0928\u0921\u0947 \u0914\u0930 68 \u091f\u0940-20 \u0916\u0947\u0932\u0928\u0947 \u0915\u0947 \u092c\u093e\u0926 \u0907\u0902\u091f\u0930\u0928\u0947\u0936\u0928\u0932 \u0915\u094d\u0930\u093f\u0915\u0947\u091f \u0938\u0947&nbsp;...",
+    "news_item_url": "https://navbharattimes.indiatimes.com/sports/cricket/cricket-news/shikhar-dhawan-announced-retirement-from-international-and-domestic-cricket/articleshow/112753404.cms",
+    "picture_source": "\u0905\u092e\u0930 \u0909\u091c\u093e\u0932\u093e",
+    "approx_traffic": "50,000+"
   },
   {
     "country": "India",
@@ -101,13 +101,33 @@
   },
   {
     "country": "India",
+    "title": "Diamond League",
+    "pubDate": "Fri, 23 Aug 2024 00:30:00 +0530",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRXbiAD5ExwnuVLkVqDYYNbIh_ASuXEtccVbNTnV7uoZiESzVtBMwk72cCfRkpFLwePLS4Zis69",
+    "news_item_snippet": "Neeraj Chopra revealed that an advice to &quot;stay relaxed&quot; from Julius Yego helped him calm down before he pulled off a season&#39;s best effort in the Diamond&nbsp;...",
+    "news_item_url": "https://www.hindustantimes.com/sports/others/relax-you-will-throw-far-neeraj-chopras-opponents-words-before-last-throw-changed-everything-in-diamond-league-101724434153625.html",
+    "picture_source": "Jagran Josh",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "India",
     "title": "Rajnath Singh",
     "pubDate": "Fri, 23 Aug 2024 11:30:00 +0530",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTtSkK7zquGxqqeHf1NO39uxkyiPNpq3X8ci9sAmTZG22F5ucET4mFE-I4jTX5-T1mWC_xWxKik",
-    "news_item_snippet": "India is the eighteenth SOSA partner of the US; the SOSA will mandate the 2 countries to provide reciprocal priority support for goods and services that&nbsp;...",
-    "news_item_url": "https://indianexpress.com/article/india/india-us-ink-bilateral-security-of-supply-agreement-amid-rajnaths-official-visit-to-us-9528911/",
+    "news_item_snippet": "Defence Minister Rajnath Singh on Friday held wide-ranging discussions on the issues of bilateral defence cooperation, industrial collaboration,&nbsp;...",
+    "news_item_url": "https://www.indianarrative.com/india-news/rajnath-singh-lloyd-austin-discuss-defence-cooperation-appreciate-progress-in-quad-indus-x-161117.html",
     "picture_source": "Business Standard",
     "approx_traffic": "100,000+"
+  },
+  {
+    "country": "India",
+    "title": "Anil Ambani",
+    "pubDate": "Fri, 23 Aug 2024 15:30:00 +0530",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcR3se61C8VmBc8kCokvUbhZc2gt4DdlyXOM48YL1x3a-dMzp939W6QgwGso2iWFfg5z9PLJqK6v",
+    "news_item_snippet": "India Business News: Markets regulator Sebi banned Anil Ambani and 24 entities connected to him from the securities market for five years, levying a Rs 624&nbsp;...",
+    "news_item_url": "https://timesofindia.indiatimes.com/business/india-business/anil-ambani-others-fined-rs-624-crore-by-sebi-for-fund-diversion/articleshow/112749152.cms",
+    "picture_source": "Business Standard",
+    "approx_traffic": "50,000+"
   },
   {
     "country": "India",
@@ -118,16 +138,6 @@
     "news_item_url": "https://sports.ndtv.com/football/12-videos-26-million-subscribers-how-much-money-has-cristiano-ronaldo-already-made-from-youtube-6398872",
     "picture_source": "Business Standard",
     "approx_traffic": "100,000+"
-  },
-  {
-    "country": "Australia",
-    "title": "Earthquake Sydney",
-    "pubDate": "Fri, 23 Aug 2024 13:00:00 +1000",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRZ4ixQGtBdgkFPSZjCcQMFQcWma6dPmhSti4U9GHJlYWBaRIXp8TPR18BiIlXCIi4hxWceVQdh",
-    "news_item_snippet": "Sydney and the surrounding area have been rattled by a 4.7-magnitude earthquake, causing some minor damage but no injuries, according to local officials.",
-    "news_item_url": "https://bnonews.com/index.php/2024/08/sydney-shaken-by-rare-4-7-magnitude-earthquake/",
-    "picture_source": "ABC News",
-    "approx_traffic": "50,000+"
   },
   {
     "country": "Brazil",
@@ -161,21 +171,11 @@
   },
   {
     "country": "Brazil",
-    "title": "Day McCarthy",
-    "pubDate": "Fri, 23 Aug 2024 12:00:00 -0500",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQzUp_4Y2B2dbjgoa-k-jbr_lX_YSig_Z3OmWNwWBrFJ0Z-z0x_mOX6JaR2feLbB4Dloahu02z4",
-    "news_item_snippet": "Day McCarthy foi condenada a pris\u00e3o em regime fechado por racismo contra Titi, primeira filha de Bruno Gagliasso e Giovanna Ewbank.",
-    "news_item_url": "https://www.metropoles.com/celebridades/day-mccarthy-e-condenada-por-racismo-contra-filha-de-bruno-gagliasso",
-    "picture_source": "Caras On-Line",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Brazil",
     "title": "Restitui\u00e7\u00e3o Imposto de Renda",
     "pubDate": "Fri, 23 Aug 2024 09:00:00 -0500",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQkTluaHHvcBHKHBHb4NFdZojzAV2gzSAuDckxGYOPIFQNc5gJiYBq3Wib879Mw7ifLCokv9ojw",
-    "news_item_snippet": "A consulta ao quarto lote de restitui\u00e7\u00e3o do Imposto de Renda 2024 j\u00e1 est\u00e1 dispon\u00edvel. S\u00e3o mais de 5,3 milh\u00f5es de restitui\u00e7\u00f5es e neste lote tem tamb\u00e9m as&nbsp;...",
-    "news_item_url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/economia/audio/2024-08/receita-federal-abre-consulta-ao-4o-lote-de-restituicao-do-irpf-2024",
+    "news_item_snippet": "Consulta a Restitui\u00e7\u00e3o do Imposto de Renda 2024 foi aberta nesta sexta-feira (23). Est\u00e3o inclu\u00eddos 5.347.441 contribuintes, entre priorit\u00e1rios e n\u00e3o&nbsp;...",
+    "news_item_url": "https://oglobo.globo.com/economia/imposto-de-renda/noticia/2024/08/23/imposto-de-renda-2024-receita-federal-libera-consulta-ao-4o-lote-da-restituicao-do-irpf.ghtml",
     "picture_source": "UOL Economia",
     "approx_traffic": "50,000+"
   },
@@ -204,20 +204,10 @@
     "title": "\ubd80\ucc9c \ud638\ud154 \ud654\uc7ac",
     "pubDate": "Fri, 23 Aug 2024 00:00:00 +0900",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRj2vmLZOOUa4u-Fuih9sdLoNZdq4KVW6Y_-unaYYGGX5zS7ImSMClNHaVOb4z5VqFQWTBcim13",
-    "news_item_snippet": "22\uc77c \uacbd\uae30\ub3c4 \ubd80\ucc9c\uc2dc \ud55c \uc219\ubc15\uc5c5\uc18c\uc5d0\uc11c \ubc1c\uc0dd\ud55c \ud654\uc7ac\ub85c 7\uba85\uc774 \uc0ac\ub9dd\ud558\uba74\uc11c \ud654\uc7ac \uaddc\ubaa8\uc5d0 \ube44\ud574 \ud53c\ud574\uac00 \ucef8\ub2e4\ub294 \uc9c0\uc801\uc774 \ub098\uc628\ub2e4.",
-    "news_item_url": "https://www.bbc.com/korean/articles/cdrl6zvel75o",
+    "news_item_snippet": "\ub300\ud55c\ubbfc\uad6d \uc624\ud6c4\ub97c \uc5ec\ub294 \uc720\uc77c\uc11d\uac04 \ubb38\ud654\uc77c\ubcf4 munhwa.com - \uc18c\ud30c\u00b7\uce68\ub300\ub85c \uc62e\uaca8 \ubd99\uc73c\uba74\uc11c \ubd88\uae38 \ud655\uc0b05\uba85\uc740 \uc77c\uc0b0\ud654\ud0c4\uc18c\u00b72\uba85\uc740 \ucd94\ub77d\uc0ac \uc18c\uacac\uacbd\uae30 \ubd80\ucc9c\uc2dc \ud638\ud154 \ud654\uc7ac \uc0ac\uace0 \uc0ac\ub9dd\uc790 7&nbsp;...",
+    "news_item_url": "http://www.munhwa.com/news/view.html?no=2024082401039910285010",
     "picture_source": "\ud55c\uaca8\ub808",
     "approx_traffic": "50,000+"
-  },
-  {
-    "country": "France",
-    "title": "Paris-sg \u2013 Montpellier",
-    "pubDate": "Fri, 23 Aug 2024 14:00:00 +0200",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQ_m7ZR8XbwJrdvg5bkUO9-X40jwDfe16NWjeH7H5pJ1enaOwkUKEIfINdU5RyXLTP3ni_pK3nQ",
-    "news_item_snippet": "Dans un match \u00e0 sens unique, les Parisiens se sont impos\u00e9s 6 buts \u00e0 0 face \u00e0 des joueurs du MHSC impuissants. Hommes forts de la rencontre, Barcola a&nbsp;...",
-    "news_item_url": "https://www.leparisien.fr/sports/football/ligue-1/direct-psg-montpellier-suivez-le-premier-match-a-domicile-de-la-saison-des-parisiens-face-au-mhsc-23-08-2024-57BDV3YMANHE3GG7ENHMBKWAT4.php",
-    "picture_source": "Foot Mercato",
-    "approx_traffic": "200,000+"
   },
   {
     "country": "France",
@@ -231,21 +221,31 @@
   },
   {
     "country": "France",
-    "title": "Patrice Laffont",
-    "pubDate": "Fri, 23 Aug 2024 21:00:00 +0200",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRTY76bdxkxceUd2SnmROw25sqhh5ZF-GfesSrz55bsqAOJn3eVE7DSlcWDLbYvvXl3Cq3aQpdJ",
-    "news_item_snippet": "Les obs\u00e8ques de l&#39;animateur de jeux TV Patrice Laffont, mort \u00e0 84 ans, ont \u00e9t\u00e9 c\u00e9l\u00e9br\u00e9es \u00e0 Paris, vendredi apr\u00e8s-midi. De nombreuses personnalit\u00e9s de la&nbsp;...",
-    "news_item_url": "https://www.ladepeche.fr/2024/08/24/obseques-de-patrice-laffont-quels-animateurs-tv-etaient-presents-12151969.php",
-    "picture_source": "Europe1",
+    "title": "PSG - Montpellier",
+    "pubDate": "Fri, 23 Aug 2024 14:00:00 +0200",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTJ8J_9bQsA8_siG6rRxBwf3wmtvsDYgG53TKC1FVny5k8WcQSm5TQz1UAEqhIilDOQFpd7A4_H",
+    "news_item_snippet": "Dans un match \u00e0 sens unique, les Parisiens se sont impos\u00e9s 6 buts \u00e0 0 face \u00e0 des joueurs du MHSC impuissants. Hommes forts de la rencontre, Barcola a&nbsp;...",
+    "news_item_url": "https://www.leparisien.fr/sports/football/ligue-1/direct-psg-montpellier-suivez-le-premier-match-a-domicile-de-la-saison-des-parisiens-face-au-mhsc-23-08-2024-57BDV3YMANHE3GG7ENHMBKWAT4.php",
+    "picture_source": "Foot Mercato",
     "approx_traffic": "50,000+"
+  },
+  {
+    "country": "France",
+    "title": "Charlotte Arnould",
+    "pubDate": "Thu, 22 Aug 2024 16:00:00 +0200",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTJWKXzuP3d3uORiEohJWqoQ3OhU1HkK5V8sGMqQ7fUdq2B3LRXjAtOqKj0eaDH1oBQrK-ZVx_c",
+    "news_item_snippet": "M. Depardieu avait \u00e9t\u00e9 mis en examen le 16 d\u00e9cembre 2020 \u00e0 la suite d&#39;une plainte de l&#39;actrice, qui l&#39;accuse de deux viols commis les 7 et 13 ao\u00fbt 2018 au&nbsp;...",
+    "news_item_url": "https://www.lemonde.fr/cinema/article/2024/08/22/le-parquet-de-paris-requiert-un-proces-a-l-encontre-de-gerard-depardieu-pour-viols-sur-la-comedienne-charlotte-arnould_6290494_3476.html",
+    "picture_source": "TAHITI INFOS",
+    "approx_traffic": "100,000+"
   },
   {
     "country": "Germany",
     "title": "Solingen",
     "pubDate": "Fri, 23 Aug 2024 23:00:00 +0200",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTGk4htTUaWNlM0FGdjiXdulwcesGRPg36PjwzLfwg4DxPTjVHo96XeOlOdQtGBwAUt92qYyPTg",
-    "news_item_snippet": "Bei dem Messer-Anschlag in Solingen wurden mehr Menschen verletzt als zun\u00e4chst bekannt. Der T\u00e4ter ist weiter auf der Flucht.",
-    "news_item_url": "https://www.ruhrnachrichten.de/regionales/tote-verletzte-solingen-mutmassliche-messerattacke-stadtfest-grossalarm-hubschrauber-suche-taeter-w927063-2001340790/",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSXWsif2h_xk3WMWYn6jwINAAt6qE_PkBD9UIHYyY3fkHkQdkvQgLthQqfHX0stBn1lSmHgp8Yv",
+    "news_item_snippet": "Bei einem Messerangriff auf einem Stadtfest in Solingen hat es drei Tote und mehrere Verletzte gegeben. Die Polizei spricht von einem Anschlag und l\u00f6ste&nbsp;...",
+    "news_item_url": "https://www.tagesschau.de/inland/solingen-attacke-100.html",
     "picture_source": "Ruhr Nachrichten",
     "approx_traffic": "200,000+"
   },
@@ -275,7 +275,7 @@
     "pubDate": "Fri, 23 Aug 2024 18:00:00 +0200",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQpDsh8Xd2l4iB8WJf20dBZRRgGMj3LHQdUWUj_bJzNWuphVHGBUe3n9S1VjOMs-KP_RG1wnw8H",
     "news_item_snippet": "Hat S\u00e4ngerin Melanie M\u00fcller den Hitlergru\u00df auf einem Konzert gezeigt? Das Amtsgericht Leipzig sagt ja und verh\u00e4ngt eine Geldstrafe.",
-    "news_item_url": "https://www.ruhrnachrichten.de/ueberregionales/melanie-mueller-urteil-hitlergrusses-hohe-geldstrafe-schlager-saengerin-prozess-leipzig-w926781-2001339770/",
+    "news_item_url": "https://www.mallorcazeitung.es/boulevard/promis/2024/08/23/hitlergruss-bei-konzert-mallorca-sangerin-107282881.html",
     "picture_source": "noz.de - Neue Osnabr\u00fccker Zeitung",
     "approx_traffic": "50,000+"
   },
@@ -300,16 +300,6 @@
     "approx_traffic": "50,000+"
   },
   {
-    "country": "Germany",
-    "title": "Mike Lynch",
-    "pubDate": "Mon, 19 Aug 2024 17:00:00 +0200",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRl9q5nfGUk1sPnDI_U_jZUc8Tze29r9SwhYtN9Mi27KlmQSlpmWr-TL7pnRI75SyX5lxtyttCD",
-    "news_item_snippet": "Nach dem Untergang einer Superjacht wird der schillernde Unternehmer Mike Lynch vermisst. Unter den Verschollenen sind auch sein Spitzenanwalt sowie der&nbsp;...",
-    "news_item_url": "https://www.manager-magazin.de/unternehmen/tech/mike-lynch-auf-der-luxusjacht-bayesin-neben-milliardaer-auch-jonathan-bloomer-von-morgan-stanley-international-vermisst-a-d05ef306-7111-4ab6-af39-44274fe4549a",
-    "picture_source": "Capital - Wirtschaft ist Gesellschaft",
-    "approx_traffic": "50,000+"
-  },
-  {
     "country": "Mexico",
     "title": "Liga MX",
     "pubDate": "Fri, 23 Aug 2024 15:00:00 -0600",
@@ -323,10 +313,10 @@
     "country": "Mexico",
     "title": "Tijuana vs Monterrey",
     "pubDate": "Fri, 23 Aug 2024 18:00:00 -0600",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTfS0YHuY8UTkKnE9si-Ms-xU060x7MKWQ18v9FkuQFuMNh6QToq9Su9PH-WppnRHphhTf7jHY9",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQot018ZEDLt4NmwovFIJj1Rt2qA7tsxvYTpZXglsSgWw83jr4a3AXgKFVQqLSBKV5nGZg_qSGl",
     "news_item_snippet": "Xolos Tijuana - Monterrey En Vivo Online: minuto a minuto del partido de Rayados hoy del Apertura 2024, desde el Estadio Caliente.",
     "news_item_url": "https://www.marca.com/mx/futbol/liga-mx/tijuana-monterrey/2024/08/24/01_0159_20240824_4690_741-directo.html",
-    "picture_source": "AS Mexico",
+    "picture_source": "Diario Deportivo Record",
     "approx_traffic": "100,000+"
   },
   {
