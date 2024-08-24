@@ -1,33 +1,33 @@
 [
   {
     "country": "United States",
+    "title": "RFK Jr",
+    "pubDate": "Fri, 23 Aug 2024 14:00:00 -0700",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTFl7EmESUoQMzH80f65ju1AP6Z-8JgfZ8Sh8aRkX3WmPJ_bp5Aj1GmCSmAJ_YHL1-CjfLmW_nz",
+    "news_item_snippet": "Many of Kennedy&#39;s July supporters decided to back Kamala Harris over Donald Trump by 2 to 1 after Biden withdrew from the race.",
+    "news_item_url": "https://www.pewresearch.org/short-reads/2024/08/23/as-rfk-jr-exits-a-look-at-who-supported-him-in-the-2024-presidential-race/",
+    "picture_source": "NBC News",
+    "approx_traffic": "500,000+"
+  },
+  {
+    "country": "United States",
     "title": "Sabrina Carpenter",
     "pubDate": "Fri, 23 Aug 2024 09:00:00 -0700",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcS6hYgXbJK7Y-jYgNBvDjzpOQyDKnAfddhPsCb34ZckORiILMlqRrKStHY0CL7tWKEIqugvtWOc",
     "news_item_snippet": "On her sixth album, the pop singer keeps the surprises coming as she delivers a masterclass in clever songwriting and hops between R&amp;B and folk-pop with ease.",
     "news_item_url": "https://www.rollingstone.com/music/music-news/sabrina-carpenter-short-n-sweet-five-takeaways-1235086883/",
     "picture_source": "Slate Magazine",
-    "approx_traffic": "100,000+"
+    "approx_traffic": "200,000+"
   },
   {
     "country": "United States",
     "title": "Kamala Harris",
     "pubDate": "Thu, 22 Aug 2024 21:00:00 -0700",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSvnaSbis-AFlst780w7mn6LnD1QNVPTNMlzLmGgUD7nDpPd9UGJw2d81aoNJGeduk2lUN9NBDe",
-    "news_item_snippet": "All week long in Chicago, we heard Democrats talk about how excited and optimistic they were about Kamala Harris&#39;s historic (and unexpected) candidacy. On&nbsp;...",
-    "news_item_url": "https://www.washingtonpost.com/opinions/2024/08/23/kamala-harris-dnc-speech-2024/",
-    "picture_source": "Slate Magazine",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRblG3CBNPKM7iVPVkHTOZY_5C5P21hy3mayChlU0kiE42COie-C0eJTDbbW1wYMI3ksLAhz49P",
+    "news_item_snippet": "Watching Vice President Kamala Harris deliver her acceptance speech for the Democratic nomination for president in Chicago Thursday night, eschewing the white&nbsp;...",
+    "news_item_url": "https://slate.com/news-and-politics/2024/08/kamala-harris-acceptance-speech-herself.html",
+    "picture_source": "The Washington Post",
     "approx_traffic": "500,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Beyonce",
-    "pubDate": "Thu, 22 Aug 2024 17:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTfVZIEmBd0YaY2z2rQc5mcniV8RUGKoaPuIieozi7sB4XFT4ZMnjRemnaYSqMVApTcontAdE-P",
-    "news_item_snippet": "Did Beyonc\u00e9 perform at the DNC? No, but campaign theme song &quot;Freedom&quot; was heard through loudspeakers as supporters cheered for Kamala Harris.",
-    "news_item_url": "https://abc30.com/post/beyonce-dnc-chicago-despite-rumors-surprise-guest-support-kamala-harris-freedom-heard-loudspeakers/15222322/",
-    "picture_source": "NPR",
-    "approx_traffic": "200,000+"
   },
   {
     "country": "United States",
@@ -41,11 +41,21 @@
   },
   {
     "country": "United States",
+    "title": "Beyonce",
+    "pubDate": "Thu, 22 Aug 2024 17:00:00 -0700",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRpnvmicaklofpb-wjTBEG38KLKh5mpH00myUMDynHeN4dhowCCIXcVxU2tDgQu5eYTiZhhGOfU",
+    "news_item_snippet": "Heading into the final night of the 2024 Democratic National Convention, rumors swirled about high-profile, unannounced musical guests \u2014 which, given that&nbsp;...",
+    "news_item_url": "https://www.npr.org/2024/08/22/g-s1-18988/beyonce-taylor-swift-dnc-performances",
+    "picture_source": "The New York Times",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "United States",
     "title": "Adam Kinzinger",
     "pubDate": "Thu, 22 Aug 2024 20:00:00 -0700",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcR60hkrwNBq1hvLMKuKakEnG293-G_D58SedXcUcPS_F92E7eDdZfz0RKeJrGUu46j_5C3iBhz_",
-    "news_item_snippet": "Alina Habba, an attorney for former President Trump, slammed former Rep. Adam Kinzinger (R-Ill.) for criticizing Trump during his speech at the Democratic&nbsp;...",
-    "news_item_url": "https://thehill.com/homenews/campaign/4844681-adam-kinzinger-criticizes-trump/",
+    "news_item_snippet": "Republicans are 25 times more likely to describe the Democratic Party as \u201canti-American\u201d than to use the term \u201cpatriotic.\u201d",
+    "news_item_url": "https://www.washingtonpost.com/politics/2024/08/23/theres-reason-adam-kinzinger-defended-democrats-patriotism/",
     "picture_source": "NPR",
     "approx_traffic": "100,000+"
   },
@@ -53,10 +63,10 @@
     "country": "United States",
     "title": "Jahan Dotson",
     "pubDate": "Thu, 22 Aug 2024 09:00:00 -0700",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQ4Y9c1b3tlzvP1s6mhYoPRl8i2Llw8yhmI85BediEImkarICIyxmXVL4_71ZSf0n7IttLffqxM",
-    "news_item_snippet": "The Eagles have agreed to terms on a trade for Commanders receiver Jahan Dotson. Philly will send a third-round pick and two seventh-round selections in the&nbsp;...",
-    "news_item_url": "https://www.nfl.com/news/commanders-trade-former-first-round-wr-jahan-dotson-to-eagles",
-    "picture_source": "ESPN",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRmyYB95xKnAwx0BuUp71BykmAH3I2NsGQ5Of1i7ROuyfqOHk2hOraVsrJOlgddPB2LQlLHHLni",
+    "news_item_snippet": "PHILADELPHIA -- When the Eagles signed star running back Saquon Barkley to a three-year, $37.75 million deal at the start of free agency in March,&nbsp;...",
+    "news_item_url": "https://www.espn.com/nfl/story/_/id/40955301/eagles-wide-receiver-jahan-dotson-trade-commanders-2024-depth-chart",
+    "picture_source": "CBSSports.com",
     "approx_traffic": "100,000+"
   },
   {
@@ -64,9 +74,19 @@
     "title": "Bengals",
     "pubDate": "Thu, 22 Aug 2024 16:00:00 -0700",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTyGtkN4Vcqeavhawy4FUtdj8wnWjTp8Ugw0bmbbojmOZQ01HXLtY3tQroshHI6jCznrNXQMs7L",
-    "news_item_snippet": "Richardson completed eight of 14 passes for 86 yards with a touchdown and a pick-six over five possessions against the Cincinnati Bengals on Thursday night.",
-    "news_item_url": "https://www.colts.com/news/anthony-richardson-first-team-offense-defense-bengals-preseason-game-recap-touchdown-interception",
+    "news_item_snippet": "Former second round pick Jackson Carman, an offensive tackle, was among several players waived by the Cincinnati Bengals on Friday.",
+    "news_item_url": "https://www.wlwt.com/article/jackson-carman-waivers-bengals-second-round-cincinnati/61959358",
     "picture_source": "Bengals.com",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Kamala Harris parents",
+    "pubDate": "Thu, 22 Aug 2024 20:00:00 -0700",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTingOR30hxNkzHkkdutnO47kWFivDNDRh-TiaaXr3XAiC4vmIXyWPZEs4KlSLCXhfUewl_sHkN",
+    "news_item_snippet": "As Vice President Kamala Harris accepted the Democratic presidential nomination, a bevy of her family members cheered her on from the stands: her husband,&nbsp;...",
+    "news_item_url": "https://www.jsonline.com/story/news/politics/elections/2024/08/22/is-kamala-harriss-father-donald-j-harris-at-the-dnc/74887598007/",
+    "picture_source": "USA TODAY",
     "approx_traffic": "100,000+"
   },
   {
@@ -81,16 +101,6 @@
   },
   {
     "country": "United States",
-    "title": "Blink Twice",
-    "pubDate": "Thu, 22 Aug 2024 21:00:00 -0700",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSGtK1vtOuVhRur_7lelAiHyVL-0wneQ1pEfSG95bgjOvpDWt0lbB66WSmdw-VEOw7V4osyzpWt",
-    "news_item_snippet": "Would you take a free trip to Epstein island? It&#39;s a question that Zo\u00eb Kravitz&#39;s debut film asks and also answers: perhaps yes, if you need a vacation badly&nbsp;...",
-    "news_item_url": "https://www.cntraveler.com/story/where-was-blink-twice-filmed",
-    "picture_source": "NPR",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "United States",
     "title": "Gretchen Whitmer",
     "pubDate": "Thu, 22 Aug 2024 20:00:00 -0700",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTJQZ83iIRvURyAZpWnIjZu5AOO29IlQC6bC45kDlhKIHgBV8hJSA02LvRjeihwvf2-bMsrynkL",
@@ -98,46 +108,6 @@
     "news_item_url": "https://www.pbs.org/newshour/politics/watch-gov-gretchen-whitmer-speaks-at-2024-democratic-national-convention-2024-dnc-night-4",
     "picture_source": "NPR",
     "approx_traffic": "100,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Kamala Harris parents",
-    "pubDate": "Thu, 22 Aug 2024 20:00:00 -0700",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTingOR30hxNkzHkkdutnO47kWFivDNDRh-TiaaXr3XAiC4vmIXyWPZEs4KlSLCXhfUewl_sHkN",
-    "news_item_snippet": "As Vice President Kamala Harris accepted the Democratic presidential nomination, a bevy of her family members cheered her on from the stands: her husband,&nbsp;...",
-    "news_item_url": "https://www.jsonline.com/story/news/politics/elections/2024/08/22/is-kamala-harriss-father-donald-j-harris-at-the-dnc/74887598007/",
-    "picture_source": "USA TODAY",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Chelsea",
-    "pubDate": "Thu, 22 Aug 2024 13:00:00 -0700",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcS_-SVbUQDdaaddS7SVlNY97mVD5kGY0MsmjnFoOrgHA9-nfC2JKLUcINAFQ6peLF4oJvcKkKUU",
-    "news_item_snippet": "The first official matchday programme for the 2024/25 season in now on sale, as Wolves prepare to welcome Chelsea to Molineux.",
-    "news_item_url": "https://www.wolves.co.uk/news/club/20240823-buy-a-programme-chelsea/",
-    "picture_source": "Chelsea FC",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Elizabeth Warren",
-    "pubDate": "Thu, 22 Aug 2024 17:00:00 -0700",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRgHn48bhpCHZBYevbTXeuqEwDbEdS3tLBV_R7UuFdjdl3_PV64LSFDG9RnLzitaRM1CzLlOON9",
-    "news_item_snippet": "Warren was greeted by a lengthy standing ovation before comparing Harris to her opponent, former President Donald Trump and his running mate.",
-    "news_item_url": "https://www.pbs.org/newshour/politics/watch-sen-elizabeth-warren-speaks-at-2024-democratic-national-convention-2024-dnc-night-4",
-    "picture_source": "NPR",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Kamala Harris children",
-    "pubDate": "Thu, 22 Aug 2024 21:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQk5aJWVWxon4wWSB4mIxY4N62NSzqsUQ7YWgxdBQJOATP-Zjp7op27XfZdQzaEoWx02bybdSKZ",
-    "news_item_snippet": "Vice President Harris&#39; blended family has risen to the national stage alongside her campaign for the presidential election.",
-    "news_item_url": "https://www.axios.com/2024/08/22/kamala-harris-step-children-cole-ella-emhoff",
-    "picture_source": "The Associated Press",
-    "approx_traffic": "50,000+"
   },
   {
     "country": "India",
@@ -172,12 +142,42 @@
   {
     "country": "India",
     "title": "Cristiano Ronaldo",
-    "pubDate": "Thu, 22 Aug 2024 11:30:00 +0530",
+    "pubDate": "Thu, 22 Aug 2024 12:30:00 +0530",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRcAK-y8CMSMMHPuKvG1YKB_KFTYAm_J3_zDD3DxLV-AZwKUlRoUYSNYZp48pDOxrhzlAzCUbHu",
     "news_item_snippet": "The Portugal striker launched his YouTube channel on Wednesday and within 90 minutes it had become the fastest ever to hit one million subscribers. He was&nbsp;...",
     "news_item_url": "https://deadline.com/2024/08/cristiano-ronaldo-youtube-channel-record-30-million-subscribers-1236048572/",
     "picture_source": "Business Standard",
     "approx_traffic": "100,000+"
+  },
+  {
+    "country": "India",
+    "title": "Maharashtra Bandh 24 August",
+    "pubDate": "Thu, 22 Aug 2024 22:30:00 +0530",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTW1L6TetZ1CZ8k_kuWQSA48JPprk0d-KGfum7MvvkDmn_r-lURKuCQB6TpKS8pWndvziDMZnup",
+    "news_item_snippet": "Maharashtra Bandh 24 August 2024 Hindi: \u0939\u093e\u0932 \u0939\u0940 \u092e\u0947\u0902 \u092d\u093e\u0930\u0924 \u092c\u0902\u0926 \u0915\u0940 \u0918\u091f\u0928\u093e \u0915\u0947 \u092c\u093e\u0926 \u0905\u092c \u0907\u0938\u0915\u093e \u0905\u0938\u0930 \u0930\u093e\u091c\u094d\u092f\u094b\u0902 \u092a\u0930 \u0926\u093f\u0916\u0928\u0947 \u0932\u0917\u093e \u0939\u0948\u0964 \u0939\u093e\u0932\u093e\u0902\u0915\u093f, \u092f\u0939\u093e\u0902 \u0935\u091c\u0939 \u0915\u0941\u091b&nbsp;...",
+    "news_item_url": "https://www.jagranjosh.com/general-knowledge/maharashtra-bandh-on-24-august-2024-check-reasons-what-open-and-closed-key-reasons-1724400383-2",
+    "picture_source": "The Economic Times",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "India",
+    "title": "National Space Day",
+    "pubDate": "Thu, 22 Aug 2024 14:30:00 +0530",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQagdaZ0nisH30Xw9IgpNHYPqDibRo_-UJmcZHR-UOFPdHZOJ20RtqA3Nk0i64sGGp4EZZMvO7W",
+    "news_item_snippet": "Isro on Friday celebrated the first-ever National Space Day, marking the anniversary of the Chandrayaan-3 mission. | Latest News India.",
+    "news_item_url": "https://www.hindustantimes.com/india-news/first-national-space-day-marks-chandrayaan-3-success-101724439897045.html",
+    "picture_source": "Jagran Josh",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "India",
+    "title": "Vaazhai",
+    "pubDate": "Thu, 22 Aug 2024 20:30:00 +0530",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRVWu132mETlkfLSXqB9vYeit8ugdWkMJ0Za7kMuF8xqISTM0ss8m7FU5FalTxSNbtGNs9-CcwY",
+    "news_item_snippet": "In six years, Mari Selvaraj has established himself as one of the foremost voices in the Tamil film industry. Since his debut with 2018&#39;s &#39;Pariyerum Perumal&nbsp;...",
+    "news_item_url": "https://www.tamilguardian.com/content/vaazhai-childhood-king",
+    "picture_source": "BBC Tamil",
+    "approx_traffic": "50,000+"
   },
   {
     "country": "Argentina",
@@ -193,17 +193,17 @@
     "country": "Argentina",
     "title": "Barracas Central  Gimnasia",
     "pubDate": "Thu, 22 Aug 2024 17:00:00 -0300",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQFdrDWxKr7DDA6t8zfcHnAvNKaf8MJV-fZRlXyLBfa_P1zqcEQ-0HMPFeY_a7tFkX-O5q1ylAq",
-    "news_item_snippet": "Durante la tarde del jueves, en un Estadio Ciudad de Lan\u00fas te\u00f1ido de azul y blanco, Gimnasia venci\u00f3 1-0 a Barracas Central con gol de Benjam\u00edn Dom\u00ednguez por los&nbsp;...",
-    "news_item_url": "https://www.gimnasia.org.ar/el-triunfo-ante-barracas-por-copa-argentina-en-fotos/",
-    "picture_source": "Infobae.com",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcS1blSDSwMS_fk89CysorvinvoE3Gbtf6gR6brGfRnvcTev7ymHmdX3shr3NFYzZNphkdi841Q3",
+    "news_item_snippet": "Con trompadas, patadas y un esc\u00e1ndalo repudiable, el encuentro por los octavos de final termin\u00f3 en un bochorno luego de una pelea entre Jhonatan Candia,&nbsp;...",
+    "news_item_url": "https://www.infobae.com/deportes/2024/08/22/escandalo-en-la-copa-argentina-el-partido-entre-gimnasia-y-barracas-central-termino-en-una-batalla-campal/",
+    "picture_source": "Club de Gimnasia y Esgrima La Plata",
     "approx_traffic": "50,000+"
   },
   {
     "country": "Argentina",
     "title": "Belgrano vs Paranaense",
     "pubDate": "Thu, 22 Aug 2024 16:00:00 -0300",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSgD8rho6aeKLingUCaWX4p3XQBMiEhfEAAlj5ZY4ElV_tPzDdtdHw6T-hXFinfhyQ-AZLFPd9p",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQ4TzHzPwK5k3ADdJPE_Qzu4iygltPOuY38jPycPDzb0wMecFk2UnEeYC1qdFEBoEJsqMeIfsnF",
     "news_item_snippet": "Este jueves, en C\u00f3rdoba, el Pirata, no solamente que no pudo dar vuelta la serie, sino que el conjunto brasile\u00f1o extendi\u00f3 su ventaja en el marcador con&nbsp;...",
     "news_item_url": "https://www.tycsports.com/copa-sudamericana/belgrano-vs-athletico-paranaense-en-vivo-hora-donde-ver-y-formaciones-id603240.html",
     "picture_source": "Ol\u00e9",
@@ -234,8 +234,8 @@
     "title": "Bayer Leverkusen",
     "pubDate": "Fri, 23 Aug 2024 07:00:00 -0500",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTbXJIMEy4zd5THrk_IrO-acalnFiAyVwnWEvspTJl4xgDn59RGZaZMluffhoRy2t8WX0xjHw08",
-    "news_item_snippet": "Assim como na edi\u00e7\u00e3o passada, o Leverkusen iniciou o jogo no ataque e precisou de apenas 12 minutos para abrir o marcador em um gola\u00e7o de Xhaka, em batida de&nbsp;...",
-    "news_item_url": "https://www.uol.com.br/esporte/ultimas-noticias/agencia/2024/08/23/bayer-leverkusen-bate-monchengladbach-na-abertura-do-alemao-com-gol-aos-55-minutos-do-2-tempo.htm",
+    "news_item_snippet": "Time de Xabi Alonso venceu o Borussia M\u00f6nchengladbach nesta sexta (23)",
+    "news_item_url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-alemao/deja-vu-bayer-leverkusen-vence-com-gol-chorado-e-segue-invicto-na-alemanha/",
     "picture_source": "ESPN.com.br",
     "approx_traffic": "100,000+"
   },
@@ -253,9 +253,9 @@
     "country": "Brazil",
     "title": "Restitui\u00e7\u00e3o Imposto de Renda",
     "pubDate": "Fri, 23 Aug 2024 09:00:00 -0500",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQkTluaHHvcBHKHBHb4NFdZojzAV2gzSAuDckxGYOPIFQNc5gJiYBq3Wib879Mw7ifLCokv9ojw",
-    "news_item_snippet": "Consulta a Restitui\u00e7\u00e3o do Imposto de Renda 2024 foi aberta nesta sexta-feira (23). Est\u00e3o inclu\u00eddos 5.347.441 contribuintes, entre priorit\u00e1rios e n\u00e3o&nbsp;...",
-    "news_item_url": "https://oglobo.globo.com/economia/imposto-de-renda/noticia/2024/08/23/imposto-de-renda-2024-receita-federal-libera-consulta-ao-4o-lote-da-restituicao-do-irpf.ghtml",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQ_U3IfgAYTwLXXbOGxg40vUQQ5-5ljskzxBffcauQWTwMBjtyI3rG0hHu2aJCkkHteY1dz1KlO",
+    "news_item_snippet": "A consulta ao quarto lote de restitui\u00e7\u00e3o do Imposto de Renda 2024 j\u00e1 est\u00e1 dispon\u00edvel. S\u00e3o mais de 5,3 milh\u00f5es de restitui\u00e7\u00f5es e neste lote tem tamb\u00e9m as&nbsp;...",
+    "news_item_url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/economia/audio/2024-08/receita-federal-abre-consulta-ao-4o-lote-de-restituicao-do-irpf-2024",
     "picture_source": "UOL Economia",
     "approx_traffic": "50,000+"
   },
@@ -270,43 +270,33 @@
     "approx_traffic": "50,000+"
   },
   {
-    "country": "Canada",
-    "title": "Tim Walz",
-    "pubDate": "Thu, 22 Aug 2024 00:00:00 -0400",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTGjqI_oRmMw8THuv01vZBTo3Vwo24Gq5VSnXJhJWCkqKdkZCKn67R6oX9FP7sYqCUHC83t8G17",
-    "news_item_snippet": "C&#39;est l&#39;honneur de ma vie\u00bb, a-t-il dit mercredi soir aux d\u00e9l\u00e9gu\u00e9s r\u00e9unis \u00e0 Chicago.",
-    "news_item_url": "https://www.ledevoir.com/monde/etats-unis/818532/tim-walz-entre-scene-convention-democrate-chicago",
-    "picture_source": "ICI.Radio-Canada.ca",
-    "approx_traffic": "100,000+"
-  },
-  {
     "country": "South Korea",
     "title": "\ubd80\ucc9c \ud638\ud154 \ud654\uc7ac",
     "pubDate": "Fri, 23 Aug 2024 00:00:00 +0900",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRj2vmLZOOUa4u-Fuih9sdLoNZdq4KVW6Y_-unaYYGGX5zS7ImSMClNHaVOb4z5VqFQWTBcim13",
-    "news_item_snippet": "\uc5b4\uc81c \uacbd\uae30\ub3c4 \ubd80\ucc9c\uc758 \ud638\ud154 \ud654\uc7ac\ub85c, 19\uba85\uc758 \uc0ac\uc0c1\uc790\uac00 \ubc1c\uc0dd\ud588\uc2b5\ub2c8\ub2e4. \uc18c\ubc29 \ucd9c\ub3d9\ub3c4 \ube68\ub790\uace0 \uc2ec\uc57c \uc2dc\uac04\ub300\ub3c4 \uc544\ub2c8\uc5c8\uc9c0\ub9cc, \ub300\ud53c\ud558\uc9c0 \ubabb\ud55c \ud22c\uc219\uac1d\ub4e4\uc774 \uc2e4\ub0b4\uc5d0\uc11c \uc228\uc9c0\uace0 \ucc3d\ubb38&nbsp;...",
-    "news_item_url": "https://imnews.imbc.com/replay/2024/nwdesk/article/6629894_36515.html",
+    "news_item_snippet": "22\uc77c \uacbd\uae30\ub3c4 \ubd80\ucc9c\uc2dc \ud55c \uc219\ubc15\uc5c5\uc18c\uc5d0\uc11c \ubc1c\uc0dd\ud55c \ud654\uc7ac\ub85c 7\uba85\uc774 \uc0ac\ub9dd\ud558\uba74\uc11c \ud654\uc7ac \uaddc\ubaa8\uc5d0 \ube44\ud574 \ud53c\ud574\uac00 \ucef8\ub2e4\ub294 \uc9c0\uc801\uc774 \ub098\uc628\ub2e4.",
+    "news_item_url": "https://www.bbc.com/korean/articles/cdrl6zvel75o",
     "picture_source": "\ud55c\uaca8\ub808",
     "approx_traffic": "50,000+"
   },
   {
     "country": "Saudi Arabia",
+    "title": "\u0627\u0644\u0646\u0635\u0631",
+    "pubDate": "Thu, 22 Aug 2024 18:00:00 +0300",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRw4OkI7vofRUYZHHgmafmmM_VzuEOYkcBBOdWZhrBX8z5lEW_6hTsoj7uKa0UHpiyWPFWZS7uB",
+    "news_item_snippet": "\u062a\u0646\u0637\u0644\u0642 \u0627\u0644\u0623\u062d\u062f \u0645\u0648\u0627\u062c\u0647\u0627\u062a \u0627\u0644\u0645\u062c\u0645\u0648\u0639\u0629 \u0627\u0644\u0623\u0648\u0644\u0649 \u0645\u0646 \u0627\u0644\u062f\u0648\u0631 \u0627\u0644\u062a\u0645\u0647\u064a\u062f\u064a \u0644\u062f\u0648\u0631\u064a \u0623\u0628\u0637\u0627\u0644 \u0622\u0633\u064a\u0627 \u0644\u0644\u0633\u064a\u062f\u0627\u062a \u0641\u064a \u0646\u0633\u062e\u062a\u0647 \u0627\u0644\u0623\u0648\u0644\u0649\u060c \u0627\u0644\u062a\u064a \u062a\u0633\u062a\u0645\u0631 ...",
+    "news_item_url": "https://arriyadiyah.com/847585",
+    "picture_source": "\u0623\u062e\u0628\u0627\u0631 \u0627\u0644\u0648\u0637\u0646",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "Saudi Arabia",
     "title": "\u0627\u0644\u0623\u0647\u0644\u064a \u0636\u062f \u0627\u0644\u0639\u0631\u0648\u0628\u0629",
-    "pubDate": "Fri, 23 Aug 2024 00:00:00 +0300",
+    "pubDate": "Thu, 22 Aug 2024 17:00:00 +0300",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRpGjY3KxHkDYPTIGGK3XbB1vOE5O4e71zLixPsawqopsrvFDKhyVxZbEbzVV8fp74hfMeDUFtl",
     "news_item_snippet": "\u062a\u063a\u0644\u0628 \u0641\u0631\u064a\u0642 \u0623\u0647\u0644\u064a \u062c\u062f\u0629 \u0639\u0644\u0649 \u0636\u064a\u0641\u0647 \u0641\u0631\u064a\u0642 \u0627\u0644\u0639\u0631\u0648\u0628\u0629\u060c \u0628\u062b\u0646\u0627\u0626\u064a\u0629 \u0646\u0638\u064a\u0641\u0629\u060c \u0641\u064a \u0627\u0644\u0645\u0628\u0627\u0631\u0627\u0629 \u0627\u0644\u062a\u064a \u062c\u0645\u0639\u062a \u0627\u0644\u0641\u0631\u064a\u0642\u064a\u0646 \u0645\u0633\u0627\u0621 \u0627\u0644\u062c\u0645\u0639\u0629 \u0639\u0644\u0649 \u0645\u0644\u0639\u0628 &quot;\u0627\u0644\u0645\u0644\u0643 \u0639\u0628\u062f \u0627\u0644\u0644\u0647 \u0627\u0644\u0631\u064a\u0627\u0636\u064a\u0629&quot;\u060c \u0636\u0645\u0646 \u0645\u0646\u0627\u0641\u0633\u0627\u062a \u0627\u0644\u062c\u0648\u0644\u0629&nbsp;...",
     "news_item_url": "https://www.youm7.com/story/2024/8/23/%D8%A7%D9%84%D8%A3%D9%87%D9%84%D9%8A-%D9%8A%D9%81%D8%AA%D8%AA%D8%AD-%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D9%8A-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A-%D8%A8%D8%AB%D9%86%D8%A7%D8%A6%D9%8A%D8%A9-%D8%B6%D8%AF-%D8%A7%D9%84%D8%B9%D8%B1%D9%88%D8%A8%D8%A9-%D9%81%D9%8A%D8%AF%D9%8A%D9%88/6683946",
     "picture_source": "\u0627\u0644\u0645\u0635\u0631\u064a \u0627\u0644\u064a\u0648\u0645",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Saudi Arabia",
-    "title": "\u0627\u0644\u0646\u0635\u0631",
-    "pubDate": "Thu, 22 Aug 2024 17:00:00 +0300",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRw4OkI7vofRUYZHHgmafmmM_VzuEOYkcBBOdWZhrBX8z5lEW_6hTsoj7uKa0UHpiyWPFWZS7uB",
-    "news_item_snippet": "\u0627\u0641\u062a\u062a\u062d \u0627\u0644\u0646\u0635\u0631 \u0645\u0633\u064a\u0631\u062a\u0647 \u0641\u064a \u0627\u0644\u0645\u0648\u0633\u0645 \u0627\u0644\u062c\u062f\u064a\u062f \u0644\u0628\u0637\u0648\u0644\u0629 \u062f\u0648\u0631\u064a \u0627\u0644\u0645\u062d\u062a\u0631\u0641\u064a\u0646 \u0627\u0644\u0633\u0639\u0648\u062f\u064a \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062f\u0645 (\u062f\u0648\u0631\u064a \u0631\u0648\u0634\u0646) \u0628\u0627\u0644\u062a\u0639\u0627\u062f\u0644 1-1 \u0645\u0639 \u0636\u064a\u0641\u0647 \u0627\u0644\u0631\u0627\u0626\u062f\u060c \u0627\u0644\u062e\u0645\u064a\u0633\u060c \u0641\u064a \u0627\u0644\u0645\u0631\u062d\u0644\u0629 \u0627\u0644\u0627\u0641\u062a\u062a\u0627\u062d\u064a\u0629 \u0644\u0644\u0645\u0648\u0633\u0645.",
-    "news_item_url": "https://www.aljazeera.net/sport/liveblog/2024/8/22/%D9%85%D8%A8%D8%A7%D8%B4%D8%B1-%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9-%D8%A7%D9%84%D9%86%D8%B5%D8%B1-%D8%B6%D8%AF-%D8%A7%D9%84%D8%B1%D8%A7%D8%A6%D8%AF-%D9%81%D9%8A-%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D9%8A",
-    "picture_source": "\u0623\u062e\u0628\u0627\u0631 \u0627\u0644\u0648\u0637\u0646",
     "approx_traffic": "100,000+"
   },
   {
@@ -323,7 +313,7 @@
     "country": "France",
     "title": "PSG - Montpellier",
     "pubDate": "Fri, 23 Aug 2024 14:00:00 +0200",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRA1QVVaZ14lRd0zsIAy8TVGymxdk2FYuHwoAzwYRYGqDccMZrXTucpH-JO93El3KOAvWBbxe_8",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSpv2q7h9e03ywZRTxHvTYk_KbyD8wljkVACv6-FmvHFaJdmTgCl83XBnLre4AuVstzrvE9Bvmn",
     "news_item_snippet": "D\u00e9but de la deuxi\u00e8me journ\u00e9e de Ligue 1, ce vendredi, avec le Paris Saint-Germain qui acceuille Montpellier (coup d&#39;envoi 20h45, un match \u00e0 suivr (.",
     "news_item_url": "https://www.footmercato.net/a1792383335338873339-psg-montpellier-les-compositions-officielles",
     "picture_source": "L'\u00c9quipe.fr",
@@ -331,33 +321,43 @@
   },
   {
     "country": "France",
-    "title": "Charlotte Arnould",
-    "pubDate": "Thu, 22 Aug 2024 16:00:00 +0200",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTJWKXzuP3d3uORiEohJWqoQ3OhU1HkK5V8sGMqQ7fUdq2B3LRXjAtOqKj0eaDH1oBQrK-ZVx_c",
-    "news_item_snippet": "Alors que le parquet de Paris a r\u00e9cemment requis un proc\u00e8s devant la cour criminelle d\u00e9partementale \u00e0 l&#39;encontre de G\u00e9rard Depardieu pour viols et&nbsp;...",
-    "news_item_url": "https://www.europe1.fr/Police-Justice/affaire-gerard-depardieu-quelles-sont-les-accusations-portees-par-la-comedienne-charlotte-arnould-4263470",
-    "picture_source": "TAHITI INFOS",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "France",
-    "title": "Premier ministre",
-    "pubDate": "Thu, 22 Aug 2024 22:00:00 +0200",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSdA08X5DnReF8nCc22FL-ROQnRx6MMGeXQ9w_FsZyKaBpB3vOaRSu3YCzM5fXzivTSTbE1sP0p",
-    "news_item_snippet": "Le chef de l&#39;\u00c9tat a re\u00e7u les repr\u00e9sentants du NFP, du bloc central et de la droite. Gabriel Attal a quant \u00e0 lui propos\u00e9 \u00e0 Emmanuel Macron un &quot;pacte d&#39;action&nbsp;...",
-    "news_item_url": "https://www.rtl.fr/actu/politique/en-direct-premier-ministre-les-republicains-souhaitent-faire-barrage-a-lfi-7900410572",
-    "picture_source": "Franceinfo",
-    "approx_traffic": "100,000+"
+    "title": "Patrice Laffont",
+    "pubDate": "Fri, 23 Aug 2024 21:00:00 +0200",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRTY76bdxkxceUd2SnmROw25sqhh5ZF-GfesSrz55bsqAOJn3eVE7DSlcWDLbYvvXl3Cq3aQpdJ",
+    "news_item_snippet": "L&#39;animatrice Marie-Ange Nardi qui a coanim\u00e9 &quot;Pyramide&quot; avec Patrice Laffont et le journaliste Jean-Jacques Bourdin ont aussi \u00e9t\u00e9 aper\u00e7us.",
+    "news_item_url": "https://www.francebleu.fr/infos/culture-loisirs/photos-obseques-de-patrice-laffont-proches-et-personnalites-de-la-television-lui-rendent-un-dernier-hommage-2733238",
+    "picture_source": "Europe1",
+    "approx_traffic": "50,000+"
   },
   {
     "country": "Germany",
     "title": "Bundesliga",
     "pubDate": "Fri, 23 Aug 2024 14:00:00 +0200",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQQiOi4mVdrqK9t28ms40i9ZFRrmuMKoEIDwhoYM0dsHScSHilg5PQD07o6QWBBAZBAbFrU_UJz",
-    "news_item_snippet": "Die Bundesliga startet in die neue Saison. Wer \u00fcbertr\u00e4gt welche Partien? Wir geben den \u00dcberblick zu Live-Spielen, Streams und Abopreisen.",
-    "news_item_url": "https://www.waz.de/sport/article406721714/dazn-sky-free-tv-wer-uebertraegt-die-spiele-der-bundesliga-saison-20242025-live.html",
-    "picture_source": "ProSieben",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQzKFRCXdHEMWkwBV6eVSMCMfTCE-of1WkKbK5er9_TMGX_6zuquIlkwNz8GKeOOw9XfzrVIyq-",
+    "news_item_snippet": "Das erste Spiel der neuen Bundesliga-Saison ist im Free-TV zu sehen. Sat.1 zeigt die Partie von Meister Leverkusen in M\u00f6nchengladbach.",
+    "news_item_url": "https://www.prosieben.de/serien/newstime/news/bundesliga-saisonstart-diese-partien-stehen-am-ersten-spieltag-an-422046",
+    "picture_source": "Westdeutsche Allgemeine Zeitung",
+    "approx_traffic": "500,000+"
+  },
+  {
+    "country": "Germany",
+    "title": "Solingen",
+    "pubDate": "Fri, 23 Aug 2024 23:00:00 +0200",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSKwckh2tsCFSo4_HIlqkAeBYwAqjcl40-QIV1OdbutewojXnBCPZTcFdwZ-hG91BUPNPbkdyJP",
+    "news_item_snippet": "Auf einem Stadtfest in Solingen gab es mehrere Tote und Verletzte. Es soll eine Messerattacke gegeben haben. Noch sei kein T\u00e4ter festgenommen worden.",
+    "news_item_url": "https://www.ruhrnachrichten.de/regionales/tote-verletzte-solingen-mutmassliche-messerattacke-stadtfest-grossalarm-hubschrauber-suche-taeter-w927063-2001340790/",
+    "picture_source": "tagesschau.de",
     "approx_traffic": "200,000+"
+  },
+  {
+    "country": "Germany",
+    "title": "HSV",
+    "pubDate": "Fri, 23 Aug 2024 18:00:00 +0200",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSvVKJLAoJYnES-jCXJr1kVrEn1U_EHq-JBc-YuIN9YmKpXeC5-jBcI5ZXeQtrcdMXwG6TSwwPN",
+    "news_item_snippet": "Die Fans des Hamburger SV w\u00fcnschen sich nach der 0:1-Niederlage bei Hannover 96 \u201eeine Mischung aus Steffen Baumgart und Tim Walter\u201c.",
+    "news_item_url": "https://www.shz.de/sport/hsv/artikel/fussball-hsv-fans-wollen-mischung-aus-baumgart-und-walter-47637760",
+    "picture_source": "Volksstimme",
+    "approx_traffic": "50,000+"
   },
   {
     "country": "Germany",
@@ -373,10 +373,10 @@
     "country": "Germany",
     "title": "Ulrike von der Groeben",
     "pubDate": "Thu, 22 Aug 2024 20:00:00 +0200",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTp4w0_DI7C8yFVSBwnWrdiEYKoyarUZb2sLK4eBtbUqgg_YK9oLtb23VRv3EEV3cokWLbiWQd8",
-    "news_item_snippet": "Sie geh\u00f6ren zu den bekanntesten TV-Nachrichtenmoderatoren und h\u00f6ren jetzt auf: RTL-Urgesteine Peter Kloeppel und Ulrike von der Groeben.",
-    "news_item_url": "https://ga.de/news/panorama/rtl-nachrichtenduo-kloeppel-und-von-der-groeben-gehen_aid-118169431",
-    "picture_source": "Berliner Kurier",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQHUe2VGqIEGtZMEbqTENxUz1MBPleWWniBeBOTIUkjrGtGTYN98ZbF3-DblmVPYbf-sG2ln06m",
+    "news_item_snippet": "Das Moderatoren-Duo feierte am Abend ihre letzte Ausgabe von \u201eRTL Aktuell\u201c \u2013 und die hatte einige \u00dcberraschungen zu bieten.",
+    "news_item_url": "https://www.berliner-kurier.de/show/tv-shows/traenen-abschied-von-peter-kloeppel-und-ulrike-von-der-groeben-li.2247615",
+    "picture_source": "DER SPIEGEL",
     "approx_traffic": "50,000+"
   },
   {
@@ -400,22 +400,12 @@
     "approx_traffic": "50,000+"
   },
   {
-    "country": "Germany",
-    "title": "Alain Delon",
-    "pubDate": "Sun, 18 Aug 2024 09:00:00 +0200",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSRO3HCrft5T3jUYB_RXTDT9j-stjjtbv2_7Xn3Amtc9WPoKuar8V78KFK8KtUZu8lzn5wNKYdU",
-    "news_item_snippet": "Alain Delon hatte es sich so gew\u00fcnscht. Nun soll der im Alter von 88 Jahren verstorbene Schauspieler Mitte der Woche auf seinem Anwesen in Zentralfrankreich&nbsp;...",
-    "news_item_url": "https://www.volksstimme.de/panorama/stars/alain-delon-soll-auf-seinem-anwesen-beerdigt-werden-3901380",
-    "picture_source": "katholisch.de",
-    "approx_traffic": "200,000+"
-  },
-  {
     "country": "Mexico",
     "title": "Copa Sudamericana",
     "pubDate": "Thu, 22 Aug 2024 19:00:00 -0600",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcT3XGhKfmEzJbizqmGLKBanJ36HYMspK5XzCHTD8wT7XHAoh3ZLONU8ZkGr12QiBuvRJMTiIdDq",
-    "news_item_snippet": "El choque de octavos de final de la Copa Sudamericana 2024 entre Boca Juniors y Cruzeiro se vio empa\u00f1ado por un ins\u00f3lito inicio en el estadio Mineirao de&nbsp;...",
-    "news_item_url": "https://www.infobae.com/peru/deportes/2024/08/23/el-desgarrador-llanto-de-luis-advincula-tras-su-expulsion-a-los-10-segundos-en-boca-juniors-vs-cruzeiro-por-copa-sudamericana-2024/",
+    "news_item_snippet": "Tras el 1 a 0 a favor del Xeneize en el partido de ida, la serie se defini\u00f3 en los penales y los brasile\u00f1os se impusieron 5 a 4.",
+    "news_item_url": "https://www.pagina12.com.ar/762142-como-salio-el-partido-boca-vs-cruzeiro-por-copa-sudamericana",
     "picture_source": "FutbolRed",
     "approx_traffic": "50,000+"
   },
@@ -423,21 +413,21 @@
     "country": "Spain",
     "title": "Celta de Vigo  Valencia c F",
     "pubDate": "Fri, 23 Aug 2024 19:00:00 +0200",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSKqxPcWGGwElumFduyMNNRyNy7jt-WBGzmTCLP57HA-zh4AO-mgLd7LV6VCeaimaxHULAJqGwi",
-    "news_item_snippet": "As\u00ed hemos contado en directo online el partido entre Celta de Vigo y Valencia, correspondiente a la Jornada 2 de LaLiga EA Sports.",
-    "news_item_url": "https://www.relevo.com/futbol/liga-primera/celta-vigo-valencia-directo-sigue-20240823134534-di.html",
-    "picture_source": "Mundo Deportivo",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSTNgGnXqbzvDjW83qE9CBb4gtPDhOVACvEvYl97LJfKhRtalLlScVDsem-OHB0ejwPFlNzVBoL",
+    "news_item_snippet": "El conjunto gallego se presenta en este encuentro en &quot;estado de gracia&quot; tras vencer en la primera jornada al Alav\u00e9s. Por su parte, la escuadra &#39;ch\u00e9&#39;&nbsp;...",
+    "news_item_url": "https://www.estadiodeportivo.com/futbol/primera-division/celta-vigo-valencia-directo-jornada-laliga-sports-20240823-461670.html",
+    "picture_source": "RELEVO",
     "approx_traffic": "100,000+"
   },
   {
     "country": "Spain",
     "title": "Sevilla - Villarreal",
     "pubDate": "Fri, 23 Aug 2024 21:00:00 +0200",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQ1b2R-1h5lms04hXERtrzRib4VGm79E15ayHfZtgaSyHMpIKt8M3VJRIiRTwg-6VqoHkNVI33e",
-    "news_item_snippet": "95 &#39; \u00a1\u00a1\u00a1Es gooool, es goooool, es gooooooool del Villarreal!!! De las pocas que ha tenido el conjunto &#39;groguet&#39; en esta segunda parte.",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQ0khsJ691vm7wf7dwMky0f-ejZNTH0_gdZzHBjSEptWuGhwBVvGm8PYrGigvGrp6ChlcX9e1ke",
+    "news_item_snippet": "Los tres puntos se los lleva el Villarreal y buena culpa de ello tienen Ayoze, por el gol, y Diego Conde, por las numerosas intervenciones salvadoras esta noche&nbsp;...",
     "news_item_url": "https://www.lavanguardia.com/deportes/futbol/20240823/6295/sevilla-villarreal-laliga-primera-division-ca-en-directo-ctx.html",
     "picture_source": "MARCA",
-    "approx_traffic": "50,000+"
+    "approx_traffic": "100,000+"
   },
   {
     "country": "United Kingdom",
@@ -468,15 +458,5 @@
     "news_item_url": "https://www.bbc.com/news/articles/c75nq9lvw5eo",
     "picture_source": "whynow",
     "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United Kingdom",
-    "title": "Jermaine Jenas",
-    "pubDate": "Thu, 22 Aug 2024 17:00:00 +0100",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTnbliO8dwSqVPFrKht2CmGe-gt1N0vB_B8TpxYyFvyAkcTrp3k34fMQ7qQJoCfilFnHN_RzmcO",
-    "news_item_snippet": "The ex-footballer says there are &quot;two sides to every story&quot; after he is taken off air by the BBC.",
-    "news_item_url": "https://www.bbc.co.uk/news/articles/cy76pdz5152o",
-    "picture_source": "Sky News",
-    "approx_traffic": "500,000+"
   }
 ]
