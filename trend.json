@@ -1,16 +1,6 @@
 [
   {
     "country": "United States",
-    "title": "Cowboys",
-    "pubDate": "Sat, 24 Aug 2024 15:00:00 -0700",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTbq1s-9xr4nz8xaqZy9e6JotPJ63biGESyqQ2kPRpQBIdPHQ_aZQs0RV7tsf26RuKlo78Bc9eb",
-    "news_item_snippet": "Unlimited DVR storage is also included. Watch every game on every network with Hulu + Live TV, plus catch live NFL preseason games, exclusive live regular&nbsp;...",
-    "news_item_url": "https://www.cbsnews.com/essentials/how-to-watch-the-los-angeles-chargers-vs-dallas-cowboys-nfl-preseason-game-today/",
-    "picture_source": "ESPN",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "United States",
     "title": "Mayweather vs Gotti",
     "pubDate": "Sat, 24 Aug 2024 15:00:00 -0700",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTtnKmH5v6FSaNxo0bIsTqIySjnD3Qtpe8vp4SZC1H0NUE1yWxoRSU3oY8-6_lag0-bO2nlI2Nb",
@@ -21,22 +11,22 @@
   },
   {
     "country": "United States",
+    "title": "Cowboys",
+    "pubDate": "Sat, 24 Aug 2024 15:00:00 -0700",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTbq1s-9xr4nz8xaqZy9e6JotPJ63biGESyqQ2kPRpQBIdPHQ_aZQs0RV7tsf26RuKlo78Bc9eb",
+    "news_item_snippet": "Chargers beat Dallas Cowboys 26-19 in a preseason finale. Lance ran for a touchdown and threw for a score but had five interceptions.",
+    "news_item_url": "https://www.shreveportbossieradvocate.com/sports/trey-lance-throws-five-interceptions-in-cowboys-preseason-loss/article_ebeb89d8-6286-11ef-b461-cf4dbfe6b6b7.html",
+    "picture_source": "ESPN",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "United States",
     "title": "Packers",
     "pubDate": "Sat, 24 Aug 2024 12:00:00 -0700",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQ6AyEOyQYf5ED1i18zSQcsb9NQjo5cX76Hmm_hxo6DJClB7IoDlc9SMYyZYCSxobPqwhqCm__Q",
     "news_item_snippet": "(WNFL) - The Green Bay Packers blasted the Baltimore Ravens 30-7 at Lambeau Field in Green Bay on a sun-drench...",
     "news_item_url": "https://wtaq.com/2024/08/24/green-bay-packers-blast-baltimore-ravens-in-pre-season-finale/",
     "picture_source": "Packers.com",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Eagles",
-    "pubDate": "Sat, 24 Aug 2024 13:00:00 -0700",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRAH4kQbecWAElUGqRq2h1l7KMjQkT4JutOq2ZVAVJNWBkC8oUQUqgik8mQqZWjGXRPym2s8TgE",
-    "news_item_snippet": "Eagles-Vikings TV Channel: Following two road games to open the preseason slate, the Philadelphia Eagles return home to battle the Minnesota Vikings in the&nbsp;...",
-    "news_item_url": "https://insidetheiggles.com/posts/eagles-vikings-tv-channel-start-time-announcers-more",
-    "picture_source": "Eden Prairie Local News",
     "approx_traffic": "100,000+"
   },
   {
@@ -61,6 +51,16 @@
   },
   {
     "country": "United States",
+    "title": "Ted Lasso Season 4",
+    "pubDate": "Sat, 24 Aug 2024 16:00:00 -0700",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcS8AWpkExF3HkURrYHcB_TAHwdlSV2_xQxiCNpMKrJqn-i2iCjqwkKebA7NWcG5k2pu-_gNbfaE",
+    "news_item_snippet": "&#39;Ted Lasso&#39; is plotting a return for Season 4 as cast options have been picked up for Brett Goldstein, Hannah Waddingham and Jeremy Swift.",
+    "news_item_url": "https://deadline.com/2024/08/ted-lasso-season-4-deal-near-brett-goldstein-hannah-waddingham-1236049653/",
+    "picture_source": "Livermore Independent",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
     "title": "Lions",
     "pubDate": "Sat, 24 Aug 2024 12:00:00 -0700",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcT-Sln8Q7fbVyHAIpv_KvsWxHt6I4mmOhEc3S89SF-XGZ6yElrFD8mch1fXU9PnmbPDZIYCs7TO",
@@ -71,12 +71,22 @@
   },
   {
     "country": "United States",
+    "title": "Eagles",
+    "pubDate": "Sat, 24 Aug 2024 13:00:00 -0700",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRAH4kQbecWAElUGqRq2h1l7KMjQkT4JutOq2ZVAVJNWBkC8oUQUqgik8mQqZWjGXRPym2s8TgE",
+    "news_item_snippet": "The Eden Prairie High School boys soccer team defeated Shakopee 1-0 on Saturday afternoon at Aerie Stadium, marking their home opener and improving their&nbsp;...",
+    "news_item_url": "https://www.eplocalnews.org/2024/08/24/sports-update-eagles-boys-and-girls-soccer-teams-win-home-openers/",
+    "picture_source": "Eden Prairie Local News",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
     "title": "SMU vs Nevada",
     "pubDate": "Sat, 24 Aug 2024 21:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQunOX3MIXS4H18T8dbY3j2VG5XTFDJFCwYGekx6Z7oD7F9tLO_pnNY4ftSg3DgNYCAtMLlxn0n",
-    "news_item_snippet": "Watch the SMU Mustangs open up their season against the Nevada Wolf Pack on Saturday night.",
-    "news_item_url": "https://www.si.com/college/smu/how-to-watch-smu-vs-nevada-live-stream-tv-channel-time",
-    "picture_source": "CBSSports.com",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSi5npFJIZM7RVjGxdXb_rw73TGoPeayiSdsBqoji8JZsb-cMyeBUYdRtQOlp2Jhjmk9m6rG3E5",
+    "news_item_snippet": "The Mustangs and Wolf Pack are set to face off in a primetime slot during college football&#39;s Week 0 festivities.",
+    "news_item_url": "https://www.cbssports.com/college-football/news/smu-vs-nevada-live-stream-where-to-watch-tv-channel-prediction-pick-spread-odds/",
+    "picture_source": "Sports Illustrated",
     "approx_traffic": "50,000+"
   },
   {
@@ -84,29 +94,9 @@
     "title": "MLS",
     "pubDate": "Sat, 24 Aug 2024 18:00:00 -0700",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSoNTYWnXViU-JR_2UIEMFUlu4qUdHlm_jsQXH73KqZBS3kouhLgTPtqNdmpMvA9V0GDfIoobdY",
-    "news_item_snippet": "Tata Martino&#39;s side will now seek the Eastern Conference&#39;s No. 1 seed and their first-ever Supporters&#39; Shield title, potentially accomplishing both before&nbsp;...",
-    "news_item_url": "https://www.mlssoccer.com/news/inter-miami-clinch-audi-2024-mls-cup-playoffs-spot",
+    "news_item_snippet": "We and our 843 partners store and access personal data, like browsing data or unique identifiers, on your device. Selecting &quot;I Accept&quot; enables tracking&nbsp;...",
+    "news_item_url": "https://www.mlssoccer.com/video/watch-osman-bukari-seals-austin-fc-win-in-mls-debut",
     "picture_source": "ESPN",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Jared Cannonier",
-    "pubDate": "Sat, 24 Aug 2024 22:00:00 -0700",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRs67ZQjcnV8n_7xnEU35aPLleiknPJYZnjDyzW8NSghScOtUJJnv32IwIPHOMucgGokmiIKghG",
-    "news_item_snippet": "Caio Borralho put himself in the middleweight title picture with a career-best win over Jared Cannonier on Saturday.",
-    "news_item_url": "https://www.espn.com/mma/story/_/id/40984809/caio-borralho-outslugs-jared-cannonier-ufc-main-event",
-    "picture_source": "The Official Website of the Ultimate Fighting Championship",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Ted Lasso Season 4",
-    "pubDate": "Sat, 24 Aug 2024 18:00:00 -0700",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcS8AWpkExF3HkURrYHcB_TAHwdlSV2_xQxiCNpMKrJqn-i2iCjqwkKebA7NWcG5k2pu-_gNbfaE",
-    "news_item_snippet": "&#39;Ted Lasso&#39; is plotting a return for Season 4 as cast options have been picked up for Brett Goldstein, Hannah Waddingham and Jeremy Swift.",
-    "news_item_url": "https://deadline.com/2024/08/ted-lasso-season-4-deal-near-brett-goldstein-hannah-waddingham-1236049653/",
-    "picture_source": "Livermore Independent",
     "approx_traffic": "50,000+"
   },
   {
@@ -144,8 +134,8 @@
     "title": "Unified Pension Scheme",
     "pubDate": "Sat, 24 Aug 2024 20:30:00 +0530",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcR2VrCeSFionjq5R2MATuvODD3zuy-I2JZMDHES2Bu2vEtNsRCdzT5D4nCHNjKR-l0IX2D52UC8",
-    "news_item_snippet": "The Union Cabinet, chaired by the Prime Minister Shri Narendra Modi, today approved the Unified Pension Scheme (UPS). The salient features of the UPS are:.",
-    "news_item_url": "https://www.pmindia.gov.in/en/news_updates/cabinet-approves-unified-pension-scheme/?comment=disable",
+    "news_item_snippet": "New Unified Pension Scheme (UPS) combines benefits of old and new pension schemes, offering fixed pension and inflation-linked increments.",
+    "news_item_url": "https://www.thehindubusinessline.com/money-and-banking/unified-pension-scheme-provides-benefit-of-both-old-and-new-pension-scheme/article68564978.ece",
     "picture_source": "Economic Times",
     "approx_traffic": "200,000+"
   },
@@ -163,10 +153,10 @@
     "country": "India",
     "title": "Munjya",
     "pubDate": "Sat, 24 Aug 2024 21:30:00 +0530",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcT3ez0ZpTx72co3GEXZvgw1GUAyiErRTfiNqWxvfP5l50cqUpoddk2jWrgVsD7AcXy3RncLkUCk",
-    "news_item_snippet": "Bollywood horror-comedy Munjya, directed by Aditya Sarpotdar and produced by Maddock Films, premiered on Disney+ Hotstar following its theatrical success.",
-    "news_item_url": "https://m.economictimes.com/magazines/panache/munjyas-quiet-ott-debut-when-and-where-to-watch-horror-comedy-ahead-its-disney-hotstar-release/articleshow/112775936.cms",
-    "picture_source": "Hindustan Times",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSqBjAzPjlSbZhR5E0Kh3GtnPl0Hx7x3kXJscAgbr2251-_Sz71FK33RAlseh56xvtfFeR5in9z",
+    "news_item_snippet": "Munjya OTT release: Here&#39;s everything you need to know about the Sharvari-starrer that is now streaming online. | Bollywood.",
+    "news_item_url": "https://www.hindustantimes.com/entertainment/bollywood/munjya-ott-release-when-where-to-watch-horror-comedy-sharvari-mona-singh-abhay-verma-101724560228680.html",
+    "picture_source": "Livemint",
     "approx_traffic": "200,000+"
   },
   {
@@ -181,12 +171,12 @@
   },
   {
     "country": "India",
-    "title": "Barcelona",
-    "pubDate": "Sat, 24 Aug 2024 23:30:00 +0530",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRjVqPTrOYfWJfLAvMrRmOkRD0BSQ6pB_MadBxBaZ4xAFKnNpyswypQ8kuepjKO1rfgLnslYVsV",
-    "news_item_snippet": "Get the latest Football updates on TNT Sports. Catch FC Barcelona - Athletic Club live on 24/08/2024. Find scores, stats and comments in real time.",
-    "news_item_url": "https://www.tntsports.co.uk/football/la-liga/2024-2025/live-fc-barcelona-athletic-club_mtc1524223/live-commentary.shtml",
-    "picture_source": "Business Standard",
+    "title": "N Convention",
+    "pubDate": "Sat, 24 Aug 2024 11:30:00 +0530",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSg5QGkXJ7T2x-ayi1hMgpChTLDVuiOXM4eH3PQ2DWEXXGs1lxUPauGG2NczzdVifE-z9kKUlVJ",
+    "news_item_snippet": "Hyderabad: In an early morning crackdown, sleuths of the newly-launched Hyderabad Disaster Response and Assets Monitoring and Protection (HYDRA) demolished&nbsp;...",
+    "news_item_url": "https://www.deccanherald.com/india/telangana/govt-demolishes-nagarjunas-n-convention-centre-in-hyderabad-actor-calls-action-unlawful-3162979",
+    "picture_source": "The Hindu",
     "approx_traffic": "50,000+"
   },
   {
@@ -197,6 +187,26 @@
     "news_item_snippet": "Science News: Two US astronauts, Barry Wilmore and Sunita Williams, who arrived at the ISS on Boeing&#39;s Starliner, will remain for six more months due to&nbsp;...",
     "news_item_url": "https://timesofindia.indiatimes.com/science/stuck-nasa-astronauts-sunita-williams-butch-wilmore-on-boeings-starliner-to-return-to-earth-with-rival-spacex/articleshow/112773752.cms",
     "picture_source": "The Hindu",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "India",
+    "title": "Barcelona",
+    "pubDate": "Sat, 24 Aug 2024 23:30:00 +0530",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRjVqPTrOYfWJfLAvMrRmOkRD0BSQ6pB_MadBxBaZ4xAFKnNpyswypQ8kuepjKO1rfgLnslYVsV",
+    "news_item_snippet": "Get the latest Football updates on TNT Sports. Catch FC Barcelona - Athletic Club live on 24/08/2024. Find scores, stats and comments in real time.",
+    "news_item_url": "https://www.tntsports.co.uk/football/la-liga/2024-2025/live-fc-barcelona-athletic-club_mtc1524223/live-commentary.shtml",
+    "picture_source": "Business Standard",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "India",
+    "title": "Man City",
+    "pubDate": "Sat, 24 Aug 2024 20:30:00 +0530",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQmRFfLL93a96rHnhvgas0bpmbvkMYU8ZpWH7P8os_rT6jB3lqwgNfp5CypOdi-720ET83D_7R_",
+    "news_item_snippet": "MCI vs IPS: Catch all the highlights from Manchester City&#39;s match against Ipswich in the 2024-25 English Premier League round 2 match from the Etihad&nbsp;...",
+    "news_item_url": "https://sportstar.thehindu.com/other-sports/manchester-city-vs-ipswich-live-score-updates-highlights-english-premier-league-2024-25-mci-v-ips/article68562640.ece",
+    "picture_source": "Business Standard",
     "approx_traffic": "50,000+"
   },
   {
@@ -230,16 +240,6 @@
     "approx_traffic": "100,000+"
   },
   {
-    "country": "India",
-    "title": "Kamindu Mendis",
-    "pubDate": "Fri, 23 Aug 2024 21:30:00 +0530",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSiTlUg_WhkNHL8Q2uVyWrfeXggeFuYW_Yf7c6O4hcAEk228VQeoJdfDiE5VZl3J4NT60AW0KsH",
-    "news_item_snippet": "Kamindu Mendis sets Bradman-type numbers in his early Test career to expose disrespectful talk of England&#39;s future plans.",
-    "news_item_url": "https://www.theguardian.com/sport/article/2024/aug/24/kamindu-mendis-own-story-sri-lankan-england-cricket",
-    "picture_source": "The Guardian",
-    "approx_traffic": "50,000+"
-  },
-  {
     "country": "Argentina",
     "title": "Barcelona  Athletic",
     "pubDate": "Sat, 24 Aug 2024 14:00:00 -0300",
@@ -263,7 +263,7 @@
     "country": "Argentina",
     "title": "Tigre  Uni\u00f3n",
     "pubDate": "Sat, 24 Aug 2024 18:00:00 -0300",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRcad0_Ah9rReQJqJvVqN02nZ18PXx6wojzdWdfu8-09h6_Gf3sYevFCwMzQfEcMxnDPzm6JyPR",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQJ9NYuh8hrnqRjILRF54r27qmvLVESxolDUV5uM4obJNbdhWXim_qKn6IONfmf-OtQWisca6eN",
     "news_item_snippet": "El Matador, que pelea por no descender, sorprendi\u00f3 y se impuso por 5-1 sobre el Tatengue, que no pudo subirse a la punta del certamen.",
     "news_item_url": "https://www.tycsports.com/liga-profesional-de-futbol/tigre-vs-union-en-vivo-hora-donde-ver-y-formaciones-id603659.html",
     "picture_source": "Ol\u00e9",
@@ -300,16 +300,6 @@
     "approx_traffic": "50,000+"
   },
   {
-    "country": "Australia",
-    "title": "NT election results",
-    "pubDate": "Sat, 24 Aug 2024 19:00:00 +1000",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQURMA4TCD3SZ8z6FpRv7qvStzcbNTo_AWZiNhXC-Dfsp-8dTfKiipm1RLLqm8ztR6T4t7kKppf",
-    "news_item_snippet": "The NT&#39;s new incoming chief minister Lia Finocchiaro and the CLP have won a commanding majority government, with a mandate to lower crime rates and fix the&nbsp;...",
-    "news_item_url": "https://www.abc.net.au/news/2024-08-25/nt-election-2024-results-analysis-clp-win-lia-finocchiaro/104267214",
-    "picture_source": "The Conversation AU",
-    "approx_traffic": "50,000+"
-  },
-  {
     "country": "Brazil",
     "title": "Palmeiras x Cuiab\u00e1",
     "pubDate": "Sat, 24 Aug 2024 01:00:00 -0500",
@@ -341,13 +331,13 @@
   },
   {
     "country": "Brazil",
-    "title": "Mundial Sub-20",
+    "title": "Flamengo Sub-20",
     "pubDate": "Sat, 24 Aug 2024 08:00:00 -0500",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQhlflzvCvdTlP4rbhEQblZK_Mu078Y4kAIqRJV11yiMBj3RkLPBdFyj73Oha5hW7FYCMPXjcGb",
-    "news_item_snippet": "O Flamengo sofreu, mas mostrou ra\u00e7a e conquistou o in\u00e9dito t\u00edtulo da Copa Intercontinental Sub-20, neste s\u00e1bado (24), ap\u00f3s bater o Olympiacos por 2 a 1,&nbsp;...",
-    "news_item_url": "https://www.cnnbrasil.com.br/esportes/futebol/flamengo/flamengo-conquista-o-mundial-sub-20-apos-virada-sobre-o-olympiacos-no-maracana/",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSB17bDNpVwJV_RCx0fcWYchgWDCFjE7L5M4QXXkFo7U1Ef7jj1h37m_enKJXii7ld5MxUuhwTW",
+    "news_item_snippet": "O Flamengo de Filipe Luis. Em casa, no Maracan\u00e3, o rubro-negro buscava o in\u00e9dito t\u00edtulo do torneio Intercontinental da categoria, o conhecido Mundial. E, foi na&nbsp;...",
+    "news_item_url": "https://fimdejogo.com.br/flamengo-sub-20-e-campeao-do-intercontinental-2024/",
     "picture_source": "globoesporte.com",
-    "approx_traffic": "100,000+"
+    "approx_traffic": "200,000+"
   },
   {
     "country": "Brazil",
@@ -414,19 +404,9 @@
     "title": "Justin Bieber",
     "pubDate": "Sat, 24 Aug 2024 00:00:00 -0400",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcR9jYMdbDlJJVChiyKVHmaKIK9weQRSUG8MikUyk9DCBLCH6ncM6PiqtAA4TeWvJd9kRaK8NKnM",
-    "news_item_snippet": "Justin Bieber, qui a connu la gloire sur la sc\u00e8ne internationale avec sa chanson Baby en 2010, a accueilli son premier enfant avec son \u00e9pouse,&nbsp;...",
-    "news_item_url": "https://www.lapresse.ca/arts/celebrites/2024-08-24/justin-bieber-et-son-epouse-hailey-accueillent-leur-premier-enfant.php",
+    "news_item_snippet": "Canadian pop star Justin Bieber and his wife, Hailey Bieber, have welcomed their first child. Announcing the arrival of their son on Instagram on Friday...",
+    "news_item_url": "https://newscentral.africa/justin-bieber-and-wife-hailey-welcome-first-child/",
     "picture_source": "News Central TV",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "South Korea",
-    "title": "\ud1a0\ud2b8\ub118",
-    "pubDate": "Sun, 25 Aug 2024 00:00:00 +0900",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQ7Fdcwz8T2trhN39bWsBRW_ZCkwFfs7bLcWW_Ohw2K5vB4RrJ5ZxjR6lmOaS8bNcIQxbgxqAfu",
-    "news_item_snippet": "\ud1a0\ud2b8\ub118\uc740 25\uc77c \uc0c8\ubcbd(\ud55c\uad6d\uc2dc\uac04) \uc601\uad6d \ub7f0\ub358 \ud648\uad6c\uc7a5 \ud1a0\ud2b8\ub118 \ud64b\uc2a4\ud37c \uc2a4\ud0c0\ub514\uc6c0\uc5d0\uc11c \uac1c\ucd5c\ub41c &#39;2024-25\uc2dc\uc98c \ud504\ub9ac\ubbf8\uc5b4\ub9ac\uadf8 2\ub77c\uc6b4\ub4dc&#39;\uc5d0\uc11c \uc190\ud765\ubbfc\uc758 \ub9ac\uadf8 1\ud638, 2\ud638\uace8\uc774 \uc5f0\uc18d\uc73c\ub85c \ud130\uc838&nbsp;...",
-    "news_item_url": "https://www.chosun.com/sports/world-football/2024/08/25/3G2TTY2NX3TUM6SJZRGACQMRXQ/",
-    "picture_source": "KBS\ub274\uc2a4",
     "approx_traffic": "50,000+"
   },
   {
@@ -461,6 +441,16 @@
   },
   {
     "country": "France",
+    "title": "Anthony Delon",
+    "pubDate": "Sat, 24 Aug 2024 15:00:00 +0200",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRJlzUSZlPxevHg2mwzQgI9iuRsBMa2jWcem4MAra04hpE1LS_WbZXLy0hk_N1UAyr1P9TFl32d",
+    "news_item_snippet": "\u00c0 quelques heures des fun\u00e9railles d&#39;Alain Delon, ses fils ont \u00e9chang\u00e9 avec des admirateurs de l&#39;acteur, venus se recueillir devant la grille de sa&nbsp;...",
+    "news_item_url": "https://madame.lefigaro.fr/celebrites/actu-people/en-photos-plus-soudes-que-jamais-alain-fabien-et-anthony-delon-saluent-les-fans-avant-les-obseques-de-leur-pere-20240824",
+    "picture_source": "Pure People",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "France",
     "title": "Lyon \u2013 Monaco",
     "pubDate": "Sat, 24 Aug 2024 17:00:00 +0200",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRxlQT-D0Ncs1yED2m279U-wea-fGDagSqtqqcv0GxUldxGzStpFvTAmJFgKIBerMjbIj6kJqOr",
@@ -471,53 +461,13 @@
   },
   {
     "country": "France",
-    "title": "Anthony Delon",
-    "pubDate": "Sat, 24 Aug 2024 15:00:00 +0200",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRHElWWEAXrrsvcGR6jvtb8lnMJpwoiVim7yE_mN8971Rlt2vbpk4OiJyn8w4DLcwBDGHYTGDV2",
-    "news_item_snippet": "\u00c0 quelques heures des fun\u00e9railles d&#39;Alain Delon, ses fils ont \u00e9chang\u00e9 avec des admirateurs de l&#39;acteur, venus se recueillir devant la grille de sa&nbsp;...",
-    "news_item_url": "https://madame.lefigaro.fr/celebrites/actu-people/en-photos-plus-soudes-que-jamais-alain-fabien-et-anthony-delon-saluent-les-fans-avant-les-obseques-de-leur-pere-20240824",
-    "picture_source": "Paris Match",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "France",
-    "title": "La Grande-Motte",
-    "pubDate": "Sat, 24 Aug 2024 11:00:00 +0200",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTjXxawpFSElEhTOxD6Xx55wJlOC61asL9LagthfN_m-OMPRhRZsz-kckT81ceCvT5rgzQjdFvX",
+    "title": "Synagogue",
+    "pubDate": "Sat, 24 Aug 2024 14:00:00 +0200",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTyMk2_nhbBU_7_jsKdIjYdFdOB-ocNkg96Kc4ziF9bak6mgKeLGz6U-aOTLG3JrHGW9esSiwYL",
     "news_item_snippet": "Le principal suspect de l&#39;attaque samedi 24 ao\u00fbt d&#39;une synagogue \u00e0 La Grande-Motte a \u00e9t\u00e9 interpell\u00e9 dans la soir\u00e9e par les policiers d&#39;\u00e9lite du Raid,&nbsp;...",
     "news_item_url": "https://www.rtl.fr/actu/justice-faits-divers/attaque-contre-la-synagogue-a-la-grande-motte-ce-que-l-on-sait-apres-l-interpellation-du-suspect-7900410844",
-    "picture_source": "FranceGuyane.fr",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "France",
-    "title": "Saint-\u00c9tienne \u2013 le Havre",
-    "pubDate": "Sat, 24 Aug 2024 21:00:00 +0200",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRxnzN0mjXCi5Qm6UYFbgdR7tvEa6Zxm7TnfmPrOjBETqtVulm8ygLsEDrnZ8dqVM9eMea05sZ5",
-    "news_item_snippet": "Cette 2e journ\u00e9e de championnat entre l&#39;AS Saint-Etienne et le Havre marquait le retour de la Ligue 1 au stade Geoffroy-Guichard. Et c&#39;est peu de le dire,&nbsp;...",
-    "news_item_url": "https://www.ouest-france.fr/sport/football/ligue-1/direct/direct-saint-etienne-le-havre-suivez-le-match-de-la-2e-journee-de-ligue-1-en-live-7966f442-c92d-48a3-8f3e-8962e7f91de8",
-    "picture_source": "BFMTV.COM",
+    "picture_source": "Le Monde",
     "approx_traffic": "50,000+"
-  },
-  {
-    "country": "France",
-    "title": "Ribeiro",
-    "pubDate": "Fri, 23 Aug 2024 13:00:00 +0200",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcR4p8DC5o3SPryjFA7vKmSxfbnjoUKMwdmx_An7Otdampq2r8vfHYAuOqPKZL0tOXQ3BP3wwz_5",
-    "news_item_snippet": "Catherine Ribeiro s&#39;est \u00e9teinte dans la nuit du jeudi 22 au vendredi 23 ao\u00fbt, selon une annonce de son entourage \u00e0 l&#39;Agence France-Presse. Elle \u00e9ta...",
-    "news_item_url": "https://www.harpersbazaar.fr/culture/mort-de-catherine-ribeiro-chanteuse-engagee-et-revoltee_3351",
-    "picture_source": "Ici Beyrouth",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "Germany",
-    "title": "Christoph Daum",
-    "pubDate": "Sun, 25 Aug 2024 02:00:00 +0200",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRSZD_llyVsy6hqPvwDGfp-_zBJyaiMwNm9AHoV8023hJ7dGTueAGEZZ2PvncRekBmuzx_tOcEY",
-    "news_item_snippet": "Der ehemalige Eintracht-Trainer Christoph Daum ist tot. Daum erlag im Alter von 70 Jahren einer Krebserkrankung.",
-    "news_item_url": "https://www.hessenschau.de/sport/fussball/eintracht-frankfurt/ex-eintracht-trainer-erliegt-krebserkrankung-christoph-daum-ist-gestorben-v1,daum-tot-100.html",
-    "picture_source": "Rheinpfalz.de",
-    "approx_traffic": "200,000+"
   },
   {
     "country": "Germany",
@@ -581,12 +531,12 @@
   },
   {
     "country": "Italy",
-    "title": "Melpignano",
-    "pubDate": "Sat, 24 Aug 2024 11:00:00 +0200",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRE7lRBhjO3nzM1FnlDLrutv7lAFhapSZ15qLp2H0QhxwUymAxMdh6U0qRrKmYVyrPYBpbMmU4Z",
-    "news_item_snippet": "Una notte intera a ballare la pizzica in piazza San Giorgio a Melpignano. \u00abQuesta sera ci divertiamo\u00bb, hanno annunciato a inizio serata Angelina Mango,&nbsp;...",
-    "news_item_url": "https://ledicoladelsud.it/puglia/lecce/notte-della-taranta-in-200mila-a-melpignano-ballano-a-ritmo-di-tamburello/",
-    "picture_source": "Sky Tg24",
+    "title": "Nico Gonzalez",
+    "pubDate": "Sat, 24 Aug 2024 17:00:00 +0200",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQH6YRWaCidEuohYITDWn_3FvC6J0VabkSwNF9GwMuWOVqZe7SvdasgaCDiMnxrextQoME6gh7_",
+    "news_item_snippet": "Grande accoglienza per il nuovo acquisto della Juve, arrivato intorno alle 9 di questa mattina al JMedical per le visite mediche. Tanti i tifosi in attesa&nbsp;...",
+    "news_item_url": "https://sport.sky.it/calciomercato/2024/08/25/juventus-nico-gonzalez-visite-calciomercato-news",
+    "picture_source": "Radio Sportiva",
     "approx_traffic": "50,000+"
   },
   {
@@ -601,12 +551,12 @@
   },
   {
     "country": "Italy",
-    "title": "Nico Gonzalez",
-    "pubDate": "Sat, 24 Aug 2024 17:00:00 +0200",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSvLeMT8k7YfFTBWz_WUYL7A8X7b5pIlVctkgXraaybe2PPWZ6pMVkB6Is10Fxe8CibjNVhHlEt",
-    "news_item_snippet": "E cos\u00ec ecco che di botto pu\u00f2 cambiare in maniera radicale, la nuova Juve di Thiago Motta, rispetto a un precampionato zoppicante e all&#39;esordio show contro il&nbsp;...",
-    "news_item_url": "https://www.goal.com/it/liste/come-giochera-juventus-nico-gonzalez-conceicao/bltd9a305f75b4f91bd",
-    "picture_source": "Agenzia ANSA",
+    "title": "Notte della Taranta 2024",
+    "pubDate": "Sat, 24 Aug 2024 11:00:00 +0200",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRx2bB70xZ1npaKbsTotQS40DrmrV9xvRz1SytzV-DXzUwBxQZFXs9Bl8cLTOMhSw3kUdaswFpg",
+    "news_item_snippet": "Il Salento si prepara a risuonare pi\u00f9 forte che mai con il ritorno della Notte della Taranta 2024, il festival musicale che da oltre vent&#39;anni conquista il&nbsp;...",
+    "news_item_url": "https://www.gazzetta.it/tv/24-08-2024/la-notte-della-taranta-2024-in-diretta-su-rai-3-ospiti-e-scaletta.shtml",
+    "picture_source": "TRM Radiotelevisione del Mezzogiorno",
     "approx_traffic": "50,000+"
   },
   {
@@ -642,18 +592,18 @@
   {
     "country": "Mexico",
     "title": "Atlas - Pumas",
-    "pubDate": "Sat, 24 Aug 2024 02:00:00 -0600",
+    "pubDate": "Sat, 24 Aug 2024 18:00:00 -0600",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQegavlMnQsxbaD0lDPimpRP06SFsuoygkZGuV1e26yEORyMGSff1qHrQvDmVfgDE6Bh382Qb3n",
     "news_item_snippet": "Pumas perdi\u00f3 el invicto ante Atlas, que sigue sin perder, en un partido donde las fallas de los de la UNAM los conderaron en el estadio Jalisco.",
     "news_item_url": "https://www.espn.com.mx/futbol/mexico/nota/_/id/14082076/atlas-vs-pumas-jornada-5-resumen-resultado-chino-huerta",
     "picture_source": "Cancha",
-    "approx_traffic": "200,000+"
+    "approx_traffic": "100,000+"
   },
   {
     "country": "Mexico",
     "title": "Manchester City - Ipswich",
     "pubDate": "Sat, 24 Aug 2024 08:00:00 -0600",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSQmeVnR5Ut1i_3vrVcajqzfgznRuEKF7Tc4FWUBlA9zKZsQd9japPgu3gYnTcKjqPTvn6PL6Fa",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRBnc_ucWLBJ5TLNPcCPQI8Bc3-T-xSVK7g_vTKSbu6H1WkRSvCf8DCjQ3cd7baTTYbU53Sycha",
     "news_item_snippet": "Los campeones de la Premier debutan en casa en una nueva temporada ante uno de los reci\u00e9n ascendidos.",
     "news_item_url": "https://www.record.com.mx/futbol-futbol-internacional-internacionales/manchester-city-vs-ipswich-town-en-vivo-online-premier",
     "picture_source": "AS",
@@ -661,8 +611,8 @@
   },
   {
     "country": "Mexico",
-    "title": "Leon vs Santos",
-    "pubDate": "Sat, 24 Aug 2024 18:00:00 -0600",
+    "title": "Leon vs",
+    "pubDate": "Sat, 24 Aug 2024 19:00:00 -0600",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcT-q0JVJAbE-1XhrYQ2zqWoRJdX3Cyq6v_cRvoKWdBBS6o2ap5uHU0Ys0zVB0aqgh-rTFrBSIOu",
     "news_item_snippet": "Final del partido, Le\u00f3n 1, Santos Laguna 1. Final segunda parte, Le\u00f3n 1, Santos Laguna 1. Falta de Pa\u00fal Bell\u00f3n (Le\u00f3n). Anderson Santamar\u00eda (Santos Lag.",
     "news_item_url": "https://www.marca.com/mx/futbol/liga-mx/leon-santos-laguna/2024/08/25/01_0159_20240825_1293_1287-directo.html",
@@ -677,6 +627,16 @@
     "news_item_snippet": "Juego Necaxa - Ju\u00e1rez En Vivo Online: minuto a minuto del partido de los Rayos hoy, desde el Estadio Victoria. Fecha y horario del Necaxa - Ju\u00e1rez.",
     "news_item_url": "https://www.marca.com/mx/futbol/liga-mx/necaxa-juarez/2024/08/25/01_0159_20240824_1174_10991-directo.html",
     "picture_source": "Diario Deportivo Record",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Mexico",
+    "title": "Karely Ruiz",
+    "pubDate": "Sat, 24 Aug 2024 16:00:00 -0600",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSimCpHrT3Pi9IZW9D5zNF-gBn8XJEAN02P2_bS9m4v0cGaNoRHVTd7d4CNBcvkEtiSSxhw_tt7",
+    "news_item_snippet": "La creadora de contenido confirm\u00f3 el sexo de su hijo/a durante una fiesta donde sobraron lujos.",
+    "news_item_url": "https://www.infobae.com/mexico/2024/08/25/es-nino-o-nina-karely-ruiz-modelo-de-onlyfans-revela-el-genero-de-su-bebe-tras-anunciar-embarazo/",
+    "picture_source": "Golpe Pol\u00edtico",
     "approx_traffic": "50,000+"
   },
   {
@@ -713,7 +673,7 @@
     "country": "Spain",
     "title": "Manchester City - Ipswich",
     "pubDate": "Sat, 24 Aug 2024 16:00:00 +0200",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSQmeVnR5Ut1i_3vrVcajqzfgznRuEKF7Tc4FWUBlA9zKZsQd9japPgu3gYnTcKjqPTvn6PL6Fa",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRBnc_ucWLBJ5TLNPcCPQI8Bc3-T-xSVK7g_vTKSbu6H1WkRSvCf8DCjQ3cd7baTTYbU53Sycha",
     "news_item_snippet": "Ya est\u00e1 lista la cr\u00f3nica del partido, en el que el equipo de Guardiola se sobrepuso r\u00e1pidamente al tanto del Ipswich con una remontada express. Hat-tr.",
     "news_item_url": "https://www.marca.com/futbol/premier-league/m-city-ipswich/2024/08/24/01_0106_20240824_43_40-directo.html",
     "picture_source": "AS",
@@ -773,10 +733,10 @@
     "country": "United Kingdom",
     "title": "Sam Smith",
     "pubDate": "Sat, 24 Aug 2024 20:00:00 +0100",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSFGkMYpwJLPZQYDhbA9WV-XqRadXuHZR04F-zYvAGk9AZE5cKfgzfdY7bhqhbXzcfJatHiH5WX",
-    "news_item_snippet": "Sam Smith has been praised for their &#39;wonderful&#39; BBC Proms performance as fans lauded their &#39;respectable&#39; clothing choices on the night.",
-    "news_item_url": "https://www.dailymail.co.uk/tv/article-13777671/Sam-Smith-praised-wonderful-BBC-Proms-performance-fans-lauding-respectable-clothing-choices-don-smart-suit-custom-Vivienne-Westwood-gown.html",
-    "picture_source": "Manchester Evening News",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSoAxsPprd2EEt5p8qD2I40vQYKQIrhO19cw4vAKyW0PiR0cfSuPojasMQLFq44nOhwfj6ZGepP",
+    "news_item_snippet": "The iconic Royal Albert Hall in London welcomed another top name in contemporary pop as Sam Smith took to the stage with the BBC orchestra.",
+    "news_item_url": "https://www.manchestereveningnews.co.uk/news/tv/sam-smith-viewers-say-same-29806320",
+    "picture_source": "Daily Mail",
     "approx_traffic": "50,000+"
   },
   {
@@ -784,9 +744,19 @@
     "title": "Justin Bieber",
     "pubDate": "Sat, 24 Aug 2024 10:00:00 +0100",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcR9jYMdbDlJJVChiyKVHmaKIK9weQRSUG8MikUyk9DCBLCH6ncM6PiqtAA4TeWvJd9kRaK8NKnM",
-    "news_item_snippet": "US reality star and entrepreneur Kylie Jenner and singer Katy Perry are among the stars congratulating Justin and Hailey Bieber on their new arrival.",
-    "news_item_url": "https://news.sky.com/story/justin-and-hailey-bieber-announce-birth-of-first-child-13202020",
+    "news_item_snippet": "Pop superstar Justin Bieber announced Friday the birth of his son -- Jack Blues -- with model wife Hailey in a post that quickly garnered millions of likes&nbsp;...",
+    "news_item_url": "https://edition.mv/the_democrats/35603",
     "picture_source": "News Central TV",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United Kingdom",
+    "title": "F1",
+    "pubDate": "Fri, 23 Aug 2024 17:00:00 +0100",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcR9wdmX3vKdNLw9sTCUnzErym3EKeA2JW1oOBu1Jpxem6l7y-dZvU6JWfEt7m8AQlyJ0r-mqprk",
+    "news_item_snippet": "Norris may have outperformed Verstappen by more than three tenths in the battle for pole at Zandvoort, but it is not representative of the full picture.",
+    "news_item_url": "https://www.autosport.com/f1/news/why-f1s-third-biggest-pole-gap-of-2024-is-being-taken-with-a-pinch-of-salt/10647544/",
+    "picture_source": "FIA",
     "approx_traffic": "50,000+"
   }
 ]
