@@ -1,12 +1,22 @@
 [
   {
     "country": "United States",
+    "title": "Champions League",
+    "pubDate": "Thu, 29 Aug 2024 10:00:00 -0700",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRc4N4jFGuHASkKc_-HESXptou6fCJThjFl4_wCPhwcLV2036cfXFuMoRrW7IZrhPHHJ02R83w0",
+    "news_item_snippet": "MONACO (AP) \u2014 The Champions League gets a fresh look with more teams playing for more prize money from more games against more opponents.",
+    "news_item_url": "https://www.recorderonline.com/sports/national_sports/explainer-the-new-champions-league-format-aims-to-give-clubs-what-they-wanted-from-uefa/article_ed3b2f40-e30d-5f67-9819-906e55c82930.html",
+    "picture_source": "ESPN",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
     "title": "Nvidia stock",
     "pubDate": "Wed, 28 Aug 2024 05:00:00 -0700",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSHKF-hOKxWx0Dq8nyVgtp1Rvinn2NcKNPGlqcZNRtOLmitQDExtf63k7BQSmBj6LHG1vwb8pqS",
-    "news_item_snippet": "Follow live coverage and analysis of Nvidia&#39;s second-quarter earnings report, earnings call, and stock price reaction.",
-    "news_item_url": "https://www.barrons.com/livecoverage/nvidia-earnings-stock-price-today",
-    "picture_source": "Forbes",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcScln49qLZqXr7N-9QGToXk_MBjJ54TnEWm3YOTY1Wwj6PExyGfeDq2YpXmBKSYTa9DgNxk4XaN",
+    "news_item_snippet": "Q3 2024 revenue guidance: $32.5 billion \u2014 $700 million more than the $31.7 billion analysts&#39; consensus, according to CNBC.",
+    "news_item_url": "https://www.forbes.com/sites/petercohan/2024/08/28/nvidia-stock-down-after-hours-despite-q2-earnings-beat-and-raise/",
+    "picture_source": "Barron's",
     "approx_traffic": "500,000+"
   },
   {
@@ -31,6 +41,16 @@
   },
   {
     "country": "United States",
+    "title": "Sun vs Fever",
+    "pubDate": "Wed, 28 Aug 2024 19:00:00 -0700",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSOOVL9eVN3nxrjlpsfARblvD7rWzWJYGUpKXzuYWGgU2Um9Qbu21oD00SlCnha4v9_raM_BShA",
+    "news_item_snippet": "Caitlin Clark broke the WNBA rookie record for most 3s made in a season during the Fever&#39;s win over the Sun.",
+    "news_item_url": "https://www.usatoday.com/story/sports/wnba/2024/08/28/caitlin-clark-points-fever-sun-stats/74990655007/",
+    "picture_source": "The Indianapolis Star",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United States",
     "title": "Dalvin Cook",
     "pubDate": "Wed, 28 Aug 2024 22:00:00 -0700",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTM_dKURF7FUJVpLAVrl7oLxiItTrzOW24to6yzPCzeTw0ayGdj65NWMxhCqk51EMrn3Ai1PeMV",
@@ -41,21 +61,11 @@
   },
   {
     "country": "United States",
-    "title": "Indiana Fever",
-    "pubDate": "Wed, 28 Aug 2024 22:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQSRzcsNzPIVeOYR3eb6iXt5jQZwchXwnvU3Zz5EvIknyZO2UxvA6Mdal3cop0UIzLRP79Qeh-M",
-    "news_item_snippet": "Kelsey Mitchell continued her scorching form, while Caitlin Clark broke another WNBA rookie record in front of Simone Biles and David Letterman.",
-    "news_item_url": "https://www.indystar.com/story/sports/basketball/wnba/fever/2024/08/28/indiana-fever-beat-connecticut-sun-score-big-games-caitlin-clark-kelsey-mitchell-simone-biles/74964118007/",
-    "picture_source": "Indiana Fever",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "United States",
     "title": "Lana Del Rey",
     "pubDate": "Wed, 28 Aug 2024 14:00:00 -0700",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcR2Q7e4il3CQRELhQ_0PcmAvOccCdHOHTMEtuAbvEHo0-aZIKTUltX0mJBKcsKknTIR6JyB_oAo",
-    "news_item_snippet": "Lana Del Rey sparked speculation she is dating alligator tour guide Jeremy Dufrene. Meet the Louisiana-based father and find out how they met.",
-    "news_item_url": "https://pagesix.com/celebrity-news/who-is-lana-del-rey-rumored-boyfriend-jeremy-dufrene/",
+    "news_item_snippet": "Lana Del Rey&#39;s rumored new boyfriend is a man who gives alligator tours in Louisiana according to fans.",
+    "news_item_url": "https://www.glamour.com/story/does-lana-del-rey-have-alligator-guide-boyfriend",
     "picture_source": "Today.com",
     "approx_traffic": "50,000+"
   },
@@ -73,10 +83,20 @@
     "country": "United States",
     "title": "Matthew Farwell",
     "pubDate": "Wed, 28 Aug 2024 16:00:00 -0700",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRgf3oVwvhmh4TXX4gOMzLUVuyIGN6dpXC1rsc9eM4qfmz5HqrqA0cIJoFhJuxCDlU_W1bW3lYg",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRS5WP9EuQJDj6rYUpI6ua76n_S-51AbHdSvQ0JR7MR2cLigc9TSdC-HabOHhGFfPQb0HpTEl3U",
     "news_item_snippet": "Matthew Farwell is charged in the 2021 death in Massachusetts of Sandra Birchmore, who weeks earlier had told him she was pregnant with his child,&nbsp;...",
     "news_item_url": "https://www.nbcnews.com/news/us-news/matthew-farwell-sandra-birchmore-death-stoughton-massachusetts-rcna168650",
     "picture_source": "NBC News",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Trace Adkins",
+    "pubDate": "Wed, 28 Aug 2024 20:00:00 -0700",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTYv8wTKl9e-mkSGHwtD_mR-zHo47dbihiSFLHOccdzuyOBTFS1ll79lGXG5GVfp5yieVjzV3jS",
+    "news_item_snippet": "Buzz Brainard chatting with Carrie Underwood during SiriusXM&#39;s Music Row Happy Hour in Las Vegas, Nevada. Photo: Denise Truscello/Getty Images for SiriusXM.",
+    "news_item_url": "https://musicrow.com/2024/08/artist-action-carrie-underwood-cody-johnson-trace-adkins/",
+    "picture_source": "musicrow.com",
     "approx_traffic": "50,000+"
   },
   {
@@ -103,20 +123,30 @@
     "country": "United States",
     "title": "Desert",
     "pubDate": "Wed, 28 Aug 2024 07:00:00 -0700",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQqSfGOFwcehr2ZOG1mUK4Fusjt7ctd7SCeRQLapuI4jI7y-YOc-jxPyR9IrknCDFk8MOBKm6Zn",
-    "news_item_snippet": "By Dianne Anderson. Rev. Dr. Elizabeth \u201cElsie Faye\u201d Coleman Dowdy loved horses, and although she didn&#39;t ride them, she did walk them around by the leash to&nbsp;...",
-    "news_item_url": "https://precinctreporter.com/2024/08/29/high-desert-inspiration-dr-eliz-dowdy-succumbs/",
-    "picture_source": "St Pete Catalyst",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcS8odoX6JG_zsJi8bqWX5D93QcYysD-VefrLe8di7dVNzMK2UaPJiRpqZ0KDP8escC22q88wAZK",
+    "news_item_snippet": "The Lealman Exchange, a community center located at 5175 45th St. N., is set to become the home of a new farmers market starting in October.",
+    "news_item_url": "https://stpetecatalyst.com/lealman-to-be-a-food-desert-no-more/",
+    "picture_source": "Precinct Reporter Group",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Listeria",
+    "pubDate": "Wed, 28 Aug 2024 20:00:00 -0700",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcStass9IjKEiswA_o7S5Daa2uea3eHi4l8UsFSnU-92jg58IUJvh5De0kXlQzXxH5svGEk8XMZR",
+    "news_item_snippet": "A CDC Food Safety Alert update regarding a multistate outbreak of Listeria monocytogenes infections has been posted at&nbsp;...",
+    "news_item_url": "https://www.cdc.gov/media/releases/2024/s0828-listeria-outbreak-deli-meats.html",
+    "picture_source": "USA TODAY",
     "approx_traffic": "50,000+"
   },
   {
     "country": "India",
     "title": "England vs Sri Lanka",
     "pubDate": "Thu, 29 Aug 2024 15:30:00 +0530",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRoUf3oiT1geTI8ZdXdcGFKKdXJ8bpRzWnN5jZJNLWevJlOLnvVIXYg5zw_tCBokObT9ohhIjWG",
-    "news_item_snippet": "England vs Sri Lanka Live Score: England at 201/5 after 54 overs, Chris Woakes at 6 runs and Joe Root at 82 runs | Crickit.",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQ_WlFgZiAewfroXG9met3PRAQy5h27yyI-65-zOCAKMiCvDCZ81hjPaiEpllJBEPBLRidl13o2",
+    "news_item_snippet": "England vs Sri Lanka Live Score: England at 302/6 after 75 overs, Joe Root at 139 runs and Gus Atkinson at 43 runs | Crickit.",
     "news_item_url": "https://www.hindustantimes.com/cricket/england-vs-sri-lanka-live-score-2nd-test-day-1-of-sri-lanka-tour-of-england-2024-final-updates-today-29-aug-2024-101724922273103.html",
-    "picture_source": "NDTVSports.com",
+    "picture_source": "ESPNcricinfo.com",
     "approx_traffic": "200,000+"
   },
   {
@@ -124,19 +154,29 @@
     "title": "Reliance share price",
     "pubDate": "Thu, 29 Aug 2024 14:30:00 +0530",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTkjDd56rEGOT1f8UnFuwx7rYwYw8Dk6HcMRuNO7u_CsuTBQ5XcYDQSImLSrOaquXZWGRXnRm0a",
-    "news_item_snippet": "Reliance bonus news: In its 47th annual general meeting (AGM), Reliance Industries Chairman, Mukesh Ambani announced a bonus issue for the company&#39;s&nbsp;...",
+    "news_item_snippet": "Reliance Industries Bonus Issue: After the bonus shares announcement, Reliance Industries share price surged up to 2.63 at Rs 3074.80 a piece intraday on&nbsp;...",
     "news_item_url": "https://www.business-standard.com/markets/news/reliance-industries-to-consider-1-1-bonus-a-look-at-ril-s-bonus-history-124082900717_1.html",
     "picture_source": "Livemint",
     "approx_traffic": "100,000+"
   },
   {
     "country": "India",
+    "title": "IC 814",
+    "pubDate": "Thu, 29 Aug 2024 14:30:00 +0530",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSu8nGFUxyjBAU8CP8C0a5HLUjpzsqL1peHInz_26leQc95X-B4UuFPWPF9S--Cynb3vQALQQYh",
+    "news_item_snippet": "IC 814 The Kandahar Hijack review: Anubhav Sinha milks a seasoned ensemble to tell a true story holistically that soars the most when it&#39;s on ground.",
+    "news_item_url": "https://www.hindustantimes.com/entertainment/web-series/ic-814-the-kandahar-hijack-review-avengers-of-indian-acting-assemble-for-anubhav-sinha-gripping-nuanced-thriller-netflix-101724903900302.html",
+    "picture_source": "V6",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "India",
     "title": "Paralympics",
     "pubDate": "Wed, 28 Aug 2024 00:30:00 +0530",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRaMhh4HCb77A2cSA0PfQ1AyMCzBDS9SSr-Qz-yYcr59SDv883EPwXv9oCrZ61xb18da39d1oig",
-    "news_item_snippet": "Paris 2024 Paralympics: Follow live score and updates of the Indian events from Day 1 of the Paris Paralympics on Thursday, August 29.",
-    "news_item_url": "https://sportstar.thehindu.com/olympics/paris-paralympics-2024/news/paris-2024-paralympics-live-score-updates-day-1-results-august-29-highlights-badminton-archery-cycling-taekwondo/article68579834.ece",
-    "picture_source": "The Hindu",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTWTa2CWtxQTHaL7as2fgmdqVooCykTle-An__hEsNoHnNGb6K_3D18RoVc88MLc0vfrTfHul75",
+    "news_item_snippet": "India sent its largest-ever contingent to the Paralympic Games in Paris, i.e., 84 athletes, following their remarkable performances at the Tokyo 2020&nbsp;...",
+    "news_item_url": "https://www.business-standard.com/sports/olympics/paralympics-2024-how-many-medals-india-won-in-2020-tokyo-paralympics-124082300013_1.html",
+    "picture_source": "Firstpost",
     "approx_traffic": "2,000,000+"
   },
   {
@@ -144,8 +184,8 @@
     "title": "Nvidia",
     "pubDate": "Wed, 28 Aug 2024 09:30:00 +0530",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQlToAiAovCqv6r6Ya8mh8XzVRYkPZhGX5J5Vzry6S0AAy4sjk5DGZ0J68EbEazGk-9_Ka7iSUI",
-    "news_item_snippet": "Nvidia shares fell on Thursday despite its fiscal second-quarter results beating estimates.",
-    "news_item_url": "https://www.cnbc.com/2024/08/29/nvidia-nvda-shares-fall-after-earnings-beat-estimates.html",
+    "news_item_snippet": "The California-based technology giant has been one of the biggest beneficiaries of the AI boom.",
+    "news_item_url": "https://www.bbc.com/news/articles/c984jrj24wyo",
     "picture_source": "NVIDIA Blog",
     "approx_traffic": "50,000+"
   },
@@ -163,10 +203,10 @@
     "country": "India",
     "title": "Paralympics India",
     "pubDate": "Wed, 28 Aug 2024 10:30:00 +0530",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSpf44uqTmRpJDkE8gjKwxddTkrturGu8Ui3EQfwIC8Uz0RPcVcJAlngNtTlFCK5-KcCQtdGJkD",
-    "news_item_snippet": "Paris 2024 Paralympics: Follow live score and updates of the Indian events from Day 1 of the Paris Paralympics on Thursday, August 29.",
-    "news_item_url": "https://sportstar.thehindu.com/olympics/paris-paralympics-2024/news/paris-2024-paralympics-live-score-updates-day-1-results-august-29-highlights-badminton-archery-cycling-taekwondo/article68579834.ece",
-    "picture_source": "Business Standard",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTWTa2CWtxQTHaL7as2fgmdqVooCykTle-An__hEsNoHnNGb6K_3D18RoVc88MLc0vfrTfHul75",
+    "news_item_snippet": "India sent its largest-ever contingent to the Paralympic Games in Paris, i.e., 84 athletes, following their remarkable performances at the Tokyo 2020&nbsp;...",
+    "news_item_url": "https://www.business-standard.com/sports/olympics/paralympics-2024-how-many-medals-india-won-in-2020-tokyo-paralympics-124082300013_1.html",
+    "picture_source": "Firstpost",
     "approx_traffic": "50,000+"
   },
   {
@@ -193,9 +233,9 @@
     "country": "Argentina",
     "title": "Juegos Paral\u00edmpicos 2024",
     "pubDate": "Wed, 28 Aug 2024 01:00:00 -0300",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQN54ElJAnTBQW_4WlQxUMuEzXO9dIta0WsdDKok5H5WdrISl7ZL97KqveXKxdpq7A1gFIhfJL9",
-    "news_item_snippet": "La delegaci\u00f3n argentina estar\u00e1 compuesta por 70 atletas, 13 m\u00e1s que en la edici\u00f3n anterior en Tokio, con el objetivo de sumar nuevas medallas al hist\u00f3rico&nbsp;...",
-    "news_item_url": "https://olympics.com/es/noticias/juegos-paralimpicos-paris-2024-medallero-resultados-argentina",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTXDgvU9Q668KNSPhb2vPRg9NBih-q6wDZAIheGc5b77c4G-vqiluj-WPmBHW0xArt7Bo2zZ2Vd",
+    "news_item_snippet": "Pie de foto, La ceremonia inaugural de los Juegos Paral\u00edmpicos Par\u00eds 2024 concluy\u00f3 con un deslumbrante espect\u00e1culo de fuegos artificiales.",
+    "news_item_url": "https://www.bbc.com/mundo/articles/c1m0j9nd03po",
     "picture_source": "Olympic Channel",
     "approx_traffic": "200,000+"
   },
@@ -217,21 +257,11 @@
     "news_item_snippet": "El conjunto rojiblanco dispar\u00f3 24 veces y vio c\u00f3mo le anulaban dos goles por fuera de juego a Riquelme; El Espanyol protagoniz\u00f3 un ejercicio de resistencia&nbsp;...",
     "news_item_url": "https://www.rtve.es/deportes/20240828/atletico-madrid-espanyol-directo-jornada-3-liga/16227940.shtml",
     "picture_source": "AS",
-    "approx_traffic": "100,000+"
+    "approx_traffic": "50,000+"
   },
   {
     "country": "Argentina",
-    "title": "Casi angeles",
-    "pubDate": "Wed, 28 Aug 2024 12:00:00 -0300",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQj15za__UEK3LKN2xrhnc5_6hOYa70NYn2-MRIKAak1sU-aiEw4es0_lvEDC0v-y4z8MRKIlPT",
-    "news_item_snippet": "Esta tarde se celebra el evento que organiza el canal de streaming Olga en honor a la productora argentina; el malestar de un actor que no fue invitado - LA&nbsp;...",
-    "news_item_url": "https://www.lanacion.com.ar/espectaculos/el-descargo-de-un-actor-de-chiquititas-floricienta-y-casi-angeles-tras-no-ser-convocado-al-cris-nid28082024/",
-    "picture_source": "Clar\u00edn.com",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "Argentina",
-    "title": "Dia del Abogado",
+    "title": "Dia del abogado",
     "pubDate": "Wed, 28 Aug 2024 11:00:00 -0300",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcT_-CBwO4DPGvkmei5l8Y-j319I9b12XPfB-y3Ms6KYEsROHNDDIaDm95QEGmxu4ERF9sP4zxk5",
     "news_item_snippet": "El d\u00eda del abogado se celebra el 29 de agosto, fecha establecida en 1958 por la Federaci\u00f3n Argentina de Colegios de Abogados (FACA) en conmemoraci\u00f3n al&nbsp;...",
@@ -241,33 +271,23 @@
   },
   {
     "country": "Argentina",
-    "title": "Iker Muniain",
-    "pubDate": "Wed, 28 Aug 2024 10:00:00 -0300",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQQh4NkFtCDm5JCrD59-aitcQr6kh3reoXn9Z11cDLMJeEzfCOccB3DaEMpJxvVF5vVmk57OAy9",
-    "news_item_snippet": "Apenas surgi\u00f3 el nombre del vasco como candidato a reforzar el equipo de Boedo, las redes estallaron.",
-    "news_item_url": "https://www.ole.com.ar/san-lorenzo/memes-posible-llegada-iker-muniain-san-lorenzo_0_pKL0WanEMh.html",
-    "picture_source": "La P\u00e1gina Millonaria",
+    "title": "Casi angeles",
+    "pubDate": "Wed, 28 Aug 2024 12:00:00 -0300",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQj15za__UEK3LKN2xrhnc5_6hOYa70NYn2-MRIKAak1sU-aiEw4es0_lvEDC0v-y4z8MRKIlPT",
+    "news_item_snippet": "Esta tarde se celebra el evento que organiza el canal de streaming Olga en honor a la productora argentina; el malestar de un actor que no fue invitado - LA&nbsp;...",
+    "news_item_url": "https://www.lanacion.com.ar/espectaculos/el-descargo-de-un-actor-de-chiquititas-floricienta-y-casi-angeles-tras-no-ser-convocado-al-cris-nid28082024/",
+    "picture_source": "Clar\u00edn.com",
     "approx_traffic": "50,000+"
   },
   {
     "country": "Argentina",
-    "title": "Izquierdo",
-    "pubDate": "Wed, 28 Aug 2024 11:00:00 -0300",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSc5HD7Ou9ZnNB8i1elgWs3dBV-cQsSzg4QgNpS6hemduF9vOq4VWoHI7x0jdm29koAflVloHbD",
-    "news_item_snippet": "Hace seis d\u00edas, en el estadio Morumb\u00ed, el conjunto paulista se qued\u00f3 con el triunfo ante los uruguayos, pese a la descompensaci\u00f3n del defensor.",
-    "news_item_url": "https://www.clarin.com/deportes/muerte-juan-izquierdo-emotivo-homenaje-san-pablo-ultimo-equipo-enfrento-nacional_0_YOXOuwBetY.html",
-    "picture_source": "Conmebol",
+    "title": "Iker Muniain",
+    "pubDate": "Wed, 28 Aug 2024 10:00:00 -0300",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTEfaNbpB5mFbCTZcbcL9Fd54L1UA0VEjCWSguFdUQihKHFO7lFcctWm-D42qht0CJwP4rgU0Ht",
+    "news_item_snippet": "Apenas surgi\u00f3 el nombre del vasco como candidato a reforzar el equipo de Boedo, las redes estallaron.",
+    "news_item_url": "https://www.ole.com.ar/san-lorenzo/memes-posible-llegada-iker-muniain-san-lorenzo_0_pKL0WanEMh.html",
+    "picture_source": "La P\u00e1gina Millonaria",
     "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Brazil",
-    "title": "Brasileirao",
-    "pubDate": "Thu, 29 Aug 2024 05:00:00 -0500",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRoyhC-9T92HiuhynJdR9i3dZ-Yc43r6W0TSqSGuRJfQElIQpYse_vsiRV8Q9lG8Ws6npyUnRVm",
-    "news_item_snippet": "Atl\u00e9tico-MG venceu o S\u00e3o Paulo por 1 a 0, fora de casa, no jogo de ida das quartas de final da Copa do Brasil.",
-    "news_item_url": "https://www.espn.com.br/futebol/atletico-mg/artigo/_/id/14099732/por-que-atletico-mg-diferente-copa-do-brasil-brasileirao-hulk-explica",
-    "picture_source": "ESPN.com.br",
-    "approx_traffic": "200,000+"
   },
   {
     "country": "Brazil",
@@ -281,13 +301,23 @@
   },
   {
     "country": "Brazil",
-    "title": "Serie a",
-    "pubDate": "Thu, 29 Aug 2024 06:00:00 -0500",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSwwCVIR_TjO371vFb-bAWlFbUrkAox-C9wRCG-5vRbqAkNUdEkdye2lLJBXbAqA2pH2Wqxb-Sn",
-    "news_item_snippet": "Diretoria do Verd\u00e3o do Norte foca na contrata\u00e7\u00e3o de gerente de futebol. Profissional vai auxiliar na defini\u00e7\u00e3o da comiss\u00e3o t\u00e9cnica e montagem do elenco.",
-    "news_item_url": "https://ge.globo.com/mt/futebol/times/luverdense/noticia/2024/08/29/luverdense-inicia-planejamento-para-temporada-2025-que-tera-retorno-a-serie-d.ghtml",
-    "picture_source": "globoesporte.com",
+    "title": "Copa do Brasil 2024",
+    "pubDate": "Thu, 29 Aug 2024 00:00:00 -0500",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSiGJoJKO5hF5LELTbYC0a3tI5ms2BwivtHLRp-pBJ2smDXS06l6hK9gxGzJaIbcDlC2uf5PeD8",
+    "news_item_snippet": "Nesta quinta-feira, 29 de agosto, Juventude e Corinthians come\u00e7am a decidir uma vaga nas semifinais da Copa do Brasil 2024. O confronto de ida acontece a&nbsp;...",
+    "news_item_url": "https://olhardigital.com.br/2024/08/29/internet-e-redes-sociais/juventude-x-corinthians-onde-assistir-horario-e-escalacoes-do-jogo-da-copa-do-brasil/",
+    "picture_source": "LANCE!",
     "approx_traffic": "100,000+"
+  },
+  {
+    "country": "Brazil",
+    "title": "Brasileir\u00e3o",
+    "pubDate": "Thu, 29 Aug 2024 09:00:00 -0500",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRoyhC-9T92HiuhynJdR9i3dZ-Yc43r6W0TSqSGuRJfQElIQpYse_vsiRV8Q9lG8Ws6npyUnRVm",
+    "news_item_snippet": "Atl\u00e9tico-MG venceu o S\u00e3o Paulo por 1 a 0, fora de casa, no jogo de ida das quartas de final da Copa do Brasil.",
+    "news_item_url": "https://www.espn.com.br/futebol/atletico-mg/artigo/_/id/14099732/por-que-atletico-mg-diferente-copa-do-brasil-brasileirao-hulk-explica",
+    "picture_source": "ESPN.com.br",
+    "approx_traffic": "50,000+"
   },
   {
     "country": "Brazil",
@@ -300,20 +330,10 @@
     "approx_traffic": "2,000,000+"
   },
   {
-    "country": "Brazil",
-    "title": "Cruzeiro x Internacional",
-    "pubDate": "Wed, 28 Aug 2024 04:00:00 -0500",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRxmfRIgbok6SANAKcgpZSdjwwp85Ms4Fynyvyntz1nRVKtll6bLZlQkYPu-w55txzYaA24rOfH",
-    "news_item_snippet": "Atacante, que n\u00e3o teve boa passagem na Raposa em 2023, n\u00e3o teve boa recep\u00e7\u00e3o por parte da torcida mineira.",
-    "news_item_url": "https://ge.globo.com/futebol/times/cruzeiro/noticia/2024/08/28/cruzeiro-x-internacional-wesley-e-vaiado-e-xingado-por-torcida-no-mineirao-assista.ghtml",
-    "picture_source": "globoesporte.com",
-    "approx_traffic": "500,000+"
-  },
-  {
     "country": "Canada",
     "title": "Paralympics",
     "pubDate": "Wed, 28 Aug 2024 01:00:00 -0400",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRekuUr3ACIqsfGWoQsJSw8Lv7Ze-T6w1Y_4Fgw9-BHp7YGF6LDVV874RXZdrDlXi_JlGHQ_qAf",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSeshxsNUOHcqGLkuLQf8XaYyi-eu8bQvRCuRhMh52LxfbLKk3MVTuKIwksJRF77gBScf5lINnV",
     "news_item_snippet": "General signage sits at the Eiffel Tower ahead of the Paris 2024 Paralympics in Paris, France. Alex Slitz/Getty Images. The Paralympic&nbsp;...",
     "news_item_url": "https://the1a.org/segments/the-1a-paralympics-preview/",
     "picture_source": "heartfm.ca",
@@ -354,69 +374,49 @@
     "title": "\ud0dc\uc77c",
     "pubDate": "Wed, 28 Aug 2024 20:00:00 +0900",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQrGhsttfoewv1LzhtZtdD5HMWKP4eNEcCLOUwpQng-SYZX2X_2KuCiH-zzaiBQV1vKR-Q9Ccvh",
-    "news_item_snippet": "\uadf8\ub8f9 NCT\uc758 \ud0dc\uc77c\uc774 \uc131\ubc94\uc8c4\ub85c \ud53c\uc18c\ub41c \ub4a4 \ud6c4\ud3ed\ud48d\uc774 \uc774\uc5b4\uc9c0\uace0 \uc788\uc2b5\ub2c8\ub2e4. \uc55e\uc11c \ud0dc\uc77c\uc758 \ud300 \ud0c8\ud1f4 \uc18c\uc2dd\uc744 \uc54c\ub9b0 SM\uc5d4\ud130\ud14c\uc778\uba3c\ud2b8\ub294 &quot;\ub2f9\uc0ac\uc640 \ud0dc\uc77c\uc740 \uace0\uc18c\ub2f9\ud55c \uc0ac\uc2e4\uc744 \uc774\ub2ec \uc911\uc21c \ucc98\uc74c&nbsp;...",
-    "news_item_url": "https://www.yonhapnewstv.co.kr/news/MYH20240829016100641",
+    "news_item_snippet": "\uadf8\ub8f9 NCT\uc758 \ud0dc\uc77c\uc774 \uc131\ubc94\uc8c4\ub85c \ud53c\uc18c\ub3fc \ud300\uc744 \ud0c8\ud1f4\ud588\ub2e4.SM\uc740 28\uc77c &quot;\ub2f9\uc0ac\ub294 \ucd5c\uadfc \ud0dc\uc77c\uc774 \uc131\ubc94\uc8c4 \uad00\ub828 \ud615\uc0ac\uc0ac\uac74\uc5d0 \ud53c\uc18c\ub41c \uc0ac\uc2e4\uc744 \ud655\uc778\ud588\ub2e4&quot;\uba70 &quot;\uc774\uc640 \uad00\ub828\ud574 \uc0ac\uc2e4\uad00\uacc4\ub97c \ud30c\uc545&nbsp;...",
+    "news_item_url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1069622",
     "picture_source": "\ud55c\uaca8\ub808",
     "approx_traffic": "100,000+"
   },
   {
+    "country": "Saudi Arabia",
+    "title": "\u0627\u0644\u0647\u0644\u0627\u0644",
+    "pubDate": "Wed, 28 Aug 2024 10:00:00 +0300",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcR4wAAtN_jNclnSCeXeJfIZZCjx0JdwzPZH9Koozk01tmI01EELIPUKCckkj-MFmjwibH_4TjUd",
+    "news_item_snippet": "\u064a\u0633\u0639\u0649 \u0627\u0644\u0647\u0644\u0627\u0644 \u0644\u0645\u0648\u0627\u0635\u0644\u0629 \u0628\u062f\u0627\u064a\u062a\u0647 \u0627\u0644\u0642\u0648\u064a\u0629 \u0641\u064a \u062d\u0645\u0644\u0629 \u0627\u0644\u062f\u0641\u0627\u0639 \u0639\u0646 \u0644\u0642\u0628\u0647 \u0639\u0646\u062f\u0645\u0627 \u064a\u0633\u062a\u0636\u064a\u0641 \u0636\u0645\u0643 \u0641\u064a \u0627\u0644\u0645\u0631\u062d\u0644\u0629 \u0627\u0644\u062b\u0627\u0646\u064a\u0629 \u0645\u0646 \u062f\u0648\u0631\u064a \u0631\u0648\u0634\u0646 \u0627\u0644\u0633\u0639\u0648\u062f\u064a \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062f\u0645.",
+    "news_item_url": "https://www.aljazeera.net/sport/2024/8/28/saudi-pro-league-al-hilal",
+    "picture_source": "\u0623\u062e\u0628\u0627\u0631 \u0627\u0644\u062e\u0644\u064a\u062c",
+    "approx_traffic": "100,000+"
+  },
+  {
     "country": "France",
-    "title": "Slavia Prague \u2013 Lille",
+    "title": "Marie Patouillet",
+    "pubDate": "Thu, 29 Aug 2024 11:00:00 +0200",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcREsvZbYuDvXHGP6n67Aez98b7Sfdybf9cD2LHRMcwRFqB2fBHb8qAIWH2-DjDrguyMY_JP9OUC",
+    "news_item_snippet": "Trois ans apr\u00e8s sa quatri\u00e8me place \u00e0 Tokyo, la paracycliste de 36 ans a remport\u00e9 l&#39;argent en contre-la-montre C4-5, jeudi.",
+    "news_item_url": "https://www.francetvinfo.fr/jeux-paralympiques/cyclisme/paralympiques-2024-marie-patouillet-decroche-l-argent-sur-le-contre-la-montre-en-cyclisme-sur-piste-la-premiere-medaille-pour-la-france_6751570.html",
+    "picture_source": "France Bleu",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "France",
+    "title": "Tirage Ligue des champions",
     "pubDate": "Wed, 28 Aug 2024 21:00:00 +0200",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQLa4XV_tJpuyyQCH-MyTBDmJ5mmcptcoONd5WnQRc0-9-ZNWtxoXD17cnbrJZ4oK3JVfMU978L",
-    "news_item_snippet": "Ce fut laborieux pour le LOSC mais ils ont assur\u00e9 l&#39;objectif ! Venus \u00e0 Prague avec deux buts d&#39;avance acquis lors du match aller, les Dogues, battus (2-1),&nbsp;...",
-    "news_item_url": "https://www.lavoixdunord.fr/1496425/article/2024-08-28/direct-slavia-prague-lille-le-losc-doit-finir-le-travail-l-eden-arena",
-    "picture_source": "L'\u00c9quipe.fr",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "France",
-    "title": "Ligue des champions",
-    "pubDate": "Wed, 28 Aug 2024 21:00:00 +0200",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcT0u3mPcN7N5cOUoqO7icApib-lTTZ2ClDchiO0dPYWSjk76YEkGXBadgSLhD1_ayTVfyHNBu9x",
-    "news_item_snippet": "Retrouvez le tirage le plus difficile et le plus abordable pour le PSG, Monaco, Brest et Lille pour la phase de ligue de la Ligue des champions.",
-    "news_item_url": "https://www.lequipe.fr/Football/Actualites/Ligue-des-champions-le-tirage-le-plus-difficile-et-le-plus-abordable-pour-le-psg-monaco-brest-et-lille/1504149",
-    "picture_source": "Le Quotidien.lu",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "France",
-    "title": "Oasis",
-    "pubDate": "Wed, 28 Aug 2024 01:00:00 +0200",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRd9fc8Jf6H2F__tJX80PKXVAlRuMG3n_xnTHNMbI4JxyimBKnbzAUugP96lzmGS8jrumP800AV",
-    "news_item_snippet": "Les fr\u00e8res ennemis du rock anglais, Liam et Noel Gallagher, mettent fin \u00e0 15 ans de brouille pour reformer Oasis avec l&#39;annonce mardi d&#39;une tourn\u00e9e mondiale&nbsp;...",
-    "news_item_url": "https://www.alouette.fr/oasis-annonce-son-retour-avec-une-tournee-mondiale",
-    "picture_source": "OUI FM",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "France",
-    "title": "Lucky Love",
-    "pubDate": "Wed, 28 Aug 2024 23:00:00 +0200",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSb1KXW1Pxaauz_kILrrECKV0D1TtRyO3VKq_iTGAXOihyzuHWYXKXr2Q1fL3n22wsEaWOMMKOk",
-    "news_item_snippet": "Avec ses faux airs de Freddie Mercury, le chanteur fran\u00e7ais n\u00e9 sans bras gauche, figure des nuits LGBTQIA+ parisiennes et auteur du tube \u00ab Masculinity \u00bb&nbsp;...",
-    "news_item_url": "https://www.lemonde.fr/m-le-mag/article/2024/08/29/lucky-love-heureux-aux-jeux_6298196_4500055.html",
-    "picture_source": "VL.",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Germany",
-    "title": "DFB-Pokal",
-    "pubDate": "Wed, 28 Aug 2024 17:00:00 +0200",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQPYUxipQyC_uSMRlIYxEQc4NioQGVqgZ4EBjBP2zqhTgkNZreP6mlQDspQgDmvY7iK7JitPLsU",
-    "news_item_snippet": "Bayer Leverkusen ist wie erwartet als letztes Team in die zweite Runde des DFB-Pokals eingezogen - Viertligist Carl Zeiss Jena verlangte dem&nbsp;...",
-    "news_item_url": "https://www.sportschau.de/fussball/dfbpokal/leverkusen-kaempft-sich-in-jena-durch,pokal-jena-lev-100.html",
-    "picture_source": "ZDFheute",
-    "approx_traffic": "200,000+"
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTyMeBXSBegSKUdAhkAMKITfuVuwxnN3LAkiYJz82WwEJIcbxpgR8-nc2yuDt2G1uUbmB1wzsne",
+    "news_item_snippet": "36 \u00e9quipes, poule unique, nouveau format\u2026 Le tirage au sort de la Ligue des champions 2024-2025 a lieu ce jeudi \u00e0 partir de 18 heures \u00e0 Monaco, en direct&nbsp;...",
+    "news_item_url": "https://www.lequipe.fr/Football/actu-en-direct/tirage-au-sort-de-la-c1-live/11593",
+    "picture_source": "Ouest-France",
+    "approx_traffic": "100,000+"
   },
   {
     "country": "Germany",
     "title": "Nvidia-Aktie",
     "pubDate": "Wed, 28 Aug 2024 01:00:00 +0200",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQI5wo0mjHG38o-L_MClTrXyZacKWL9bIXu58e86lK80FnNwNZMFcIpsLWalqmZX_42cuuLij43",
-    "news_item_snippet": "Jensen Huang (r), Chief Executive Officer von Nvidia. Bild: David Zalubowski/AP/dpa. Vor den Nvidia-Zahlen blieb unklar, ob der Markt noch&nbsp;...",
-    "news_item_url": "https://www.wiwo.de/unternehmen/it/quartalszahlen-die-nvidia-aktie-stuerzt-ab-weil-der-hype-vorbei-ist/29966958.html",
-    "picture_source": "manager-magazin.de",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcShPxX8lj-lX4iZtDOPIk961a2_W4GPNLv4h_adytRvceoOiQfqSXZSu1xYzyxS9OpO5EOPnpKD",
+    "news_item_snippet": "Nvidia hat seinen Umsatz im abgelaufenen Quartal gegen\u00fcber dem Vorjahr erneut um eine dreistellige Prozentzahl gesteigert. Doch so langsam st\u00f6\u00dft CEO Jensen&nbsp;...",
+    "news_item_url": "https://www.manager-magazin.de/unternehmen/nvidia-vs-amd-broadcom-us-chipriese-legt-mit-spannung-erwartete-quartalsbilanz-vor-a-7d4d0000-ef56-4311-87ed-0a8b1a048abf",
+    "picture_source": "WirtschaftsWoche",
     "approx_traffic": "100,000+"
   },
   {
@@ -431,13 +431,23 @@
   },
   {
     "country": "Germany",
-    "title": "Champions League Auslosung",
+    "title": "Linkin Park",
+    "pubDate": "Wed, 28 Aug 2024 16:00:00 +0200",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcT_j9JziqD4ktHhcUFD_oygyNpmT6n4Fd6m40v2MccjiQ9qv12SPxhFukKlfiQ0xWa6oGW7gz3Q",
+    "news_item_snippet": "Ein Countdown l\u00e4sst aktuell vermuten, dass Linkin Park m\u00f6glicherweise eine Reunion planen. Sum 41-S\u00e4nger Deryck Whibley will im Bedarfsfall nicht aushelfen.",
+    "news_item_url": "https://www.metal-hammer.de/deryck-whibley-wird-nicht-bei-linkin-park-singen-2260565/",
+    "picture_source": "Metal Hammer",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Germany",
+    "title": "Champions-League-Auslosung",
     "pubDate": "Tue, 27 Aug 2024 23:00:00 +0200",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRTQZlofPh2GYEST15DxnPBxyNrJp6qp5cPs3e0IPYZ6wuBtWKS0rvyq0UHTlyduVWNgZAkDiJH",
-    "news_item_snippet": "Die Auslosung der Ligaphase der UEFA Champions League 2024/25 findet am Donnerstag, den 29. August um 18:00 Uhr MEZ statt.",
-    "news_item_url": "https://de.uefa.com/uefachampionsleague/news/028e-1b1129f3413f-d5f6505d7621-1000--uefa-champions-league-auslosung-der-ligaphase/",
-    "picture_source": "kicker",
-    "approx_traffic": "100,000+"
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQKzsBRKRluzv7KwxWncpXR45OMymV69DyRUuCVqLQRm4HIOHlMU4SjWco5_rP8w0O4TlORGqSK",
+    "news_item_snippet": "Die Ligaphase der neuen Champions-League-Saison 2024/25 ist ausgelost. Bayern trifft auf Ex-Trainer Hansi Flick und den FC Barcelona, Stuttgart reist zu&nbsp;...",
+    "news_item_url": "https://www.sport1.de/news/fussball/champions-league/2024/08/champions-league-auslosung-heute-live-im-tv-livestream-liveticker",
+    "picture_source": "SPORT1",
+    "approx_traffic": "200,000+"
   },
   {
     "country": "Germany",
@@ -460,73 +470,73 @@
     "approx_traffic": "100,000+"
   },
   {
-    "country": "Italy",
-    "title": "Berrettini",
-    "pubDate": "Thu, 29 Aug 2024 00:00:00 +0200",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRppNJ4-e6PIH0Zv3VKdTJGkI3RUkQ0rJAdvs8hVvLWIh-FX_wGj13HkNsoyHgB-gW6PoSd_L-t",
-    "news_item_snippet": "Poco pi\u00f9 di due ore di partita e solamente un set lottato, il secondo: Matteo Berrettini cede nettamente a Taylor Fritz. Si sperava in un match equilibrato&nbsp;...",
-    "news_item_url": "https://www.gazzetta.it/Tennis/atp/slam/us-open/29-08-2024/berrettini-eliminato-in-tre-set-da-fritz-agli-us-open.shtml",
-    "picture_source": "Sky Sport",
+    "country": "Mexico",
+    "title": "La Casa de los Famosos M\u00e9xico",
+    "pubDate": "Thu, 29 Aug 2024 00:00:00 -0600",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSJlat5Wqf-_FyYqJm71PpzN_Y_49gaBYP-Ntpq__K8KtflCqcOUnmOtSYb4Y2fUWMAGVxGx1dJ",
+    "news_item_snippet": "Te compartimos paso a paso c\u00f3mo puedes votar para salvar a tu habitante favorito de La Casa de los Famosos, tras las nominaciones del mi\u00e9rcoles.",
+    "news_item_url": "https://mexico.as.com/tikitakas/la-casa-de-los-famosos-mexico-cual-es-el-horario-para-votar-y-donde-hacerlo-29-de-agosto-n/",
+    "picture_source": "Infobae.com",
     "approx_traffic": "50,000+"
   },
   {
     "country": "Mexico",
     "title": "Juegos Paral\u00edmpicos 2024",
     "pubDate": "Wed, 28 Aug 2024 01:00:00 -0600",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQN54ElJAnTBQW_4WlQxUMuEzXO9dIta0WsdDKok5H5WdrISl7ZL97KqveXKxdpq7A1gFIhfJL9",
-    "news_item_snippet": "Los Juegos Paral\u00edmpicos de Par\u00eds 2024 iniciaron este mi\u00e9rcoles con su ceremonia de inauguraci\u00f3n en la plaza de la Concordia y los Campos El\u00edseos.",
-    "news_item_url": "https://cnnespanol.cnn.com/2024/08/28/fotos-ceremonia-inauguracion-juegos-paralimpicos-paris-2024-orix/",
-    "picture_source": "Olympic Channel",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTBJMCiXiG3RlRcVCL3aO2A7D7X5O1VtNHUOz1vNkd7a4yFZcgn3RfXzqHFZf_npEV0t_kP7cut",
+    "news_item_snippet": "Descubre aqu\u00ed c\u00f3mo seguir el streaming de los Juegos Paral\u00edmpicos de Par\u00eds 2024 de manera gratuita.",
+    "news_item_url": "https://olympics.com/es/noticias/donde-ver-juegos-paralimpicos-paris-2024-en-vivo",
+    "picture_source": "BBC Mundo",
     "approx_traffic": "1,000,000+"
-  },
-  {
-    "country": "Mexico",
-    "title": "Atl\u00e9tico Madrid  RCD Espanyol",
-    "pubDate": "Wed, 28 Aug 2024 13:00:00 -0600",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQwi0QFyxVHZzFexyCyo2awBMsZ0QYYEPm3p1k44tCYg_R79c_oLtixoKGzTRW7yTM7kxxXjpK-",
-    "news_item_snippet": "El conjunto rojiblanco dispar\u00f3 24 veces y vio c\u00f3mo le anulaban dos goles por fuera de juego a Riquelme; El Espanyol protagoniz\u00f3 un ejercicio de resistencia&nbsp;...",
-    "news_item_url": "https://www.rtve.es/deportes/20240828/atletico-madrid-espanyol-directo-jornada-3-liga/16227940.shtml",
-    "picture_source": "AS",
-    "approx_traffic": "50,000+"
   },
   {
     "country": "Spain",
     "title": "Tiempo Madrid",
     "pubDate": "Thu, 29 Aug 2024 07:00:00 +0200",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTSy5Y44ZU7ZQXpTOE7KFsM8VvxsgbsT80gW4odmkeAV4rXQSDb10VM0su1fcRFyqKNh3fOOwXI",
-    "news_item_snippet": "La Agencia Estatal de Meteorolog\u00eda de Madrid (Aemet) ha activado el aviso amarillo por la posibilidad de fuertes lluvias y tormentas desde las 3 de la&nbsp;...",
-    "news_item_url": "https://www.larazon.es/madrid/tiempo-madrid-hoy-aviso-amarillo-lluvias-tormentas_2024082966d02f31797ae100017a6506.html",
-    "picture_source": "Telemadrid",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQKJ-sfbrRB9676_e-37QCannpMquy1lOX_WUOjD0CX5RVcSZXWuKzMBhWpbkgHaieLjR6Hr2He",
+    "news_item_snippet": "As\u00ed, habr\u00e1 cielos nubosos con intervalos de nubes medias y altas tendiendo a poco nubosos al final, y con nubosidad de evoluci\u00f3n diurna dispersa. Adem\u00e1s, no se&nbsp;...",
+    "news_item_url": "https://www.telemadrid.es/noticias/madrid/El-tiempo-para-este-viernes-Posibles-chubascos-y-tormentas-que-podran-ser-localmente-fuertes-de-madrugada-0-2701829820--20240829062957.html",
+    "picture_source": "Infobae.com",
     "approx_traffic": "50,000+"
   },
   {
     "country": "United Kingdom",
     "title": "Lee Carsley",
     "pubDate": "Thu, 29 Aug 2024 15:00:00 +0100",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRUQQs0OkREpA42Bvacjp0-PVsMt-4S2RNpLz_tQvorPQj-enBNzCfjFRFo-92DGGaTm9hH4k72",
-    "news_item_snippet": "Angel Gomes, Tino Livramento, Morgan Gibbs-White and Noni Madueke were selected while there were no places for Marcus Rashford, James Maddison or Kyle&nbsp;...",
-    "news_item_url": "https://www.independent.co.uk/sport/football/england-squad-nations-league-lee-carsley-b2603665.html",
-    "picture_source": "Clydebank Post",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRlFoxhWnbtub0_8UWZUGYCtHXdzKv7_ZN0EFHKbX7Fk6tPzS3uaIjekcV0smk7_VfmyZy51Wac",
+    "news_item_snippet": "Noni Madueke, Morgan Gibbs-White, Tino Livramento and Angel Gomes have also been included.",
+    "news_item_url": "https://www.clydebankpost.co.uk/sport/national/24549827.lee-carsley-names-four-uncapped-players-first-england-squad/",
+    "picture_source": "Border Counties Advertizer",
     "approx_traffic": "50,000+"
   },
   {
     "country": "United Kingdom",
     "title": "Paralympics",
     "pubDate": "Wed, 28 Aug 2024 01:00:00 +0100",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSnUukA1UOROoIApB8SldKNY9NiwU8sC23ow4MR2maRs2LnYIi_c3aacVGub3J3FSp9BY2WGTAb",
-    "news_item_snippet": "The Paris 2024 Paralympic Games open with a stunning ceremony in the Place de la Concorde and the Champs-Elysees, kicking off 11 days of Para sport&nbsp;...",
-    "news_item_url": "https://www.paralympic.org/paris-2024/news/opening-ceremony-review",
-    "picture_source": "WVTF",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRixZ2czvD-lZkdfE-nODu5yO8srG8xHzIPVQkZ8oFY96bDtupMgw8kTYOcCgEBjgNy0w94TrEV",
+    "news_item_snippet": "General signage sits at the Eiffel Tower ahead of the Paris 2024 Paralympics in Paris, France. Alex Slitz/Getty Images. The Paralympic&nbsp;...",
+    "news_item_url": "https://the1a.org/segments/the-1a-paralympics-preview/",
+    "picture_source": "International Paralympic Committee",
     "approx_traffic": "1,000,000+"
+  },
+  {
+    "country": "United Kingdom",
+    "title": "Champions League draw",
+    "pubDate": "Wed, 28 Aug 2024 23:00:00 +0100",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQPirZg1luOv77vA1SXrx1vwZRIFhlcs6EItoJ8QoDNOWRWUIj9f41qyFQYXavfRrVVs_3yIRo9",
+    "news_item_snippet": "Aston Villa will find out their opponents in the 2024/25 Champions League this week. The club&#39;s first appearance in European football&#39;s premier competition&nbsp;...",
+    "news_item_url": "https://www.avfc.co.uk/news/2024/august/28/champions-league-draw--everything-you-need-to-know/",
+    "picture_source": "The Guardian",
+    "approx_traffic": "100,000+"
   },
   {
     "country": "United Kingdom",
     "title": "Chiesa",
     "pubDate": "Wed, 28 Aug 2024 21:00:00 +0100",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSeI-x1bRYjQ-yDGfi6nib-qi9XO7tbbIEU1aLh-Zc5JjEqsEouGHEnGUPag95B2AGtYDdyk0TZ",
-    "news_item_snippet": "Federico Chiesa is due to undergo a medical on Merseyside after Liverpool and Juventus agreed a deal which could eventually be worth \u00a312.5million.",
-    "news_item_url": "https://www.bordercountiesadvertizer.co.uk/sport/national/24547591.federico-chiesa-set-liverpool-medical-10m-deal-agreed-juventus/",
-    "picture_source": "Sky Sports",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRZBnTcIL8vDtwtamlzwL7kM8og25BvKp7M5Op8zl-OmguMeK7Pk3cA3vk6aD02Fly-Lhh38u0x",
+    "news_item_snippet": "Federico Chiesa says he &#39;will have shivers&#39; when he first walks out at Anfield after joining Liverpool for an initial \u00a310m.",
+    "news_item_url": "https://www.theguardian.com/football/article/2024/aug/29/federico-chiesa-seals-liverpool-move-anfield-juventus",
+    "picture_source": "Border Counties Advertizer",
     "approx_traffic": "100,000+"
   },
   {
@@ -541,12 +551,12 @@
   },
   {
     "country": "United Kingdom",
-    "title": "Champions League draw",
-    "pubDate": "Wed, 28 Aug 2024 23:00:00 +0100",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSa9FzKxHaSEtnLWlnAKK12XT6TbSRwua1Fw85xMjiYrGxXd8NhIqNRfnJBzAOUuhU-dr5ijkx-",
-    "news_item_snippet": "The draw for the new-look, 36-team league phase will be held at a special ceremony in Monte Carlo.",
-    "news_item_url": "https://www.independent.co.uk/sport/football/champions-league-draw-live-fixtures-liverpool-arsenal-b2603734.html",
-    "picture_source": "Aston Villa",
+    "title": "Carabao Cup draw",
+    "pubDate": "Wed, 28 Aug 2024 17:00:00 +0100",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcStluuEoEiqGEmziZ54b_no7iZwSvCO09CUpY1yTMA9sydODVYJjn8PF80jWq5exWTjajeAAEVc",
+    "news_item_snippet": "Holders Liverpool will face West Ham United in the Carabao Cup third round at Anfield in arguably the pick of the ties from Wednesday&#39;s draw.",
+    "news_item_url": "https://www.espn.co.uk/football/story/_/id/41032517/carabao-cup-round-3-draw-liverpool-west-ham-man-united-barnsley",
+    "picture_source": "EFL",
     "approx_traffic": "50,000+"
   },
   {
@@ -554,8 +564,8 @@
     "title": "Newcastle United",
     "pubDate": "Wed, 28 Aug 2024 21:00:00 +0100",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTdlcn_U8NR5ZgiykjnqAwj4lX1KpLRdd9cZ0itngN8nJs8TbpSj66_Uk76sUgf9m_2ougDFIcI",
-    "news_item_snippet": "A number of Magpies stars will be in action for their countries during August&#39;s international break - here, we keep tabs on how they&#39;re getting on during&nbsp;...",
-    "news_item_url": "https://www.newcastleunited.com/en/news/international-call-ups-august-2024",
+    "news_item_snippet": "Newcastle United goalkeeper Nick Pope says he is &quot;delighted&quot; to be back in the England squad - and thanked the Magpies&#39; medical staff for their efforts in&nbsp;...",
+    "news_item_url": "https://www.newcastleunited.com/en/news/pope-on-england-recall-its-nice-to-be-back-in",
     "picture_source": "Newcastle United",
     "approx_traffic": "50,000+"
   }
