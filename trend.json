@@ -1,6 +1,16 @@
 [
   {
     "country": "United States",
+    "title": "Real Madrid vs Real Betis",
+    "pubDate": "Sun, 01 Sep 2024 13:00:00 -0700",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQ9PwZ4ezl_fw6rE7k-feWK1UIBh1h0-OhUP2Teg2Pt_dc8dQHL9vXpr4oj-KlDuRqbOYh05pTy",
+    "news_item_snippet": "Kylian Mbappe scored his first two goals in La Liga to ease Real Madrid to a comfortable win over Real Betis.",
+    "news_item_url": "https://www.goal.com/en-us/lists/real-madrid-player-ratings-vs-real-betis-kylian-mbappe-federico-valverde/blt5f40814f654dc64d",
+    "picture_source": "CNET",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United States",
     "title": "Man United vs Liverpool",
     "pubDate": "Sun, 01 Sep 2024 08:00:00 -0700",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRfQwvQ_--7YDIOeKgeOxtsuUjxcqWVxSmsFTMEDdahqtSkX8oZ_5uCsf6EeeKLP4yK8bC5W_J6",
@@ -8,26 +18,6 @@
     "news_item_url": "https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-man-united-vs-liverpool-from-anywhere/",
     "picture_source": "Aljazeera.com",
     "approx_traffic": "100,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Real Madrid vs Real Betis",
-    "pubDate": "Sun, 01 Sep 2024 13:00:00 -0700",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQ9PwZ4ezl_fw6rE7k-feWK1UIBh1h0-OhUP2Teg2Pt_dc8dQHL9vXpr4oj-KlDuRqbOYh05pTy",
-    "news_item_snippet": "Kylian Mbappe scored his first two goals in La Liga to ease Real Madrid to a comfortable win over Real Betis.",
-    "news_item_url": "https://www.goal.com/en-us/lists/real-madrid-player-ratings-vs-real-betis-kylian-mbappe-federico-valverde/blt5f40814f654dc64d",
-    "picture_source": "CNET",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Scottie Scheffler",
-    "pubDate": "Sun, 01 Sep 2024 14:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSC0W4_00P6tu9GLeNMuYeHpSSmHND8MRRgik3ttq6EChieHv0rMem_c5SOX4Z5Sq_9x-glUJ0q",
-    "news_item_snippet": "Scottie Scheffler capped off the biggest year in golf in nearly two decades by winning the biggest prize in golf.",
-    "news_item_url": "https://www.nbcdfw.com/news/sports/golf/scottie-scheffler-tour-championship-fedex-cup/3634644/",
-    "picture_source": "NBC 5 Dallas-Fort Worth",
-    "approx_traffic": "50,000+"
   },
   {
     "country": "United States",
@@ -43,30 +33,40 @@
     "country": "United States",
     "title": "Archery Paralympics",
     "pubDate": "Sat, 31 Aug 2024 22:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSvCvs8Q39nfj0EmQ71L3lqvk6l0bxDJTXvxpL35igilzW0UIgEGqeqm2nTxVKTE4uuHmow6ZQZ",
-    "news_item_snippet": "At the age of 64, Eugenio Santana Franco of Brazil debuts at the Paris 2024 Paralympics. He&#39;s one of the oldest among the para-archers, and \u2013 as all of them&nbsp;...",
-    "news_item_url": "https://www.worldarchery.sport/news/201789/former-brazilian-nurse-inspired-his-patients-archery-he-became-paralympian",
-    "picture_source": "World Archery",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSP3jmWwwTZlS6UQuUlqHLSEYpcVVlRFqIhb_GviTw0tteceJctkpQsyOH6re35vpBjqPajGBwS",
+    "news_item_snippet": "First-time Paralympian Kyle Tremblay matched world-ranked number one, Rakesh Kumar from India, in the Paris 2024 Paralympic Games Para archery men&#39;s&nbsp;...",
+    "news_item_url": "https://paralympic.ca/news/kyle-tremblay-goes-shot-for-shot-with-world-number-1-in-para-archery-quarter-finals/",
+    "picture_source": "Canadian Paralympic Committee",
     "approx_traffic": "2,000,000+"
   },
   {
     "country": "United States",
     "title": "Notre Dame football",
-    "pubDate": "Sat, 31 Aug 2024 08:00:00 -0700",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSOES0KPdFP9JUjbxtCBu5jhFHKUmzhUN-TXYPpcH-AvmtM6ggImdHkaqWMKwH8-I25FYqw9kbu",
+    "pubDate": "Sat, 31 Aug 2024 09:00:00 -0700",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQrJb1T6J8k5DbktYMduOka4ugQu2-AjUQizPYtWdDpwk4QKP0l3mNhGk6QJ3ODoFfwYyd0ZvV2",
     "news_item_snippet": "The No. 20 Texas A&amp;M football team fell to No. 7 Notre Dame, 23-13, in its 2024 season opener Saturday night in front of a raucous crowd of 107315 at Kyle&nbsp;...",
     "news_item_url": "https://12thman.com/news/2024/8/31/football-no-20-aggies-drop-opener-to-no-7-fighting-irish",
     "picture_source": "One Foot Down",
-    "approx_traffic": "1,000,000+"
+    "approx_traffic": "500,000+"
   },
   {
     "country": "United States",
     "title": "Pearsall",
     "pubDate": "Sat, 31 Aug 2024 18:00:00 -0700",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTBBqYaiPWAMPs5oQc6sG2i6c_FYDNJq561b2Vk1vFz98xpdCsXQt3tF1j1BGfC-Q1jbIcIcE0f",
-    "news_item_snippet": "San Francisco 49ers wide receiver Ricky Pearsall was released from the hospital Sunday afternoon after he was shot in the chest during an attempted robbery&nbsp;...",
-    "news_item_url": "https://www.nbcnews.com/news/us-news/49ers-ricky-pearsall-shot-san-francisco-robbery-attempt-rcna169135",
-    "picture_source": "49ers.com",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQRF38gnEUMRy6FW6Kmn74t36FIDTjgtleM1JMZkg_GpT-to20YoIwsu6URZBHTMxVO95XNo-Je",
+    "news_item_snippet": "San Francisco 49ers wide receiver Ricky Pearsall was released from the hospital this afternoon as he continues to recover from a bullet wound to his chest.",
+    "news_item_url": "https://www.49ers.com/news/update-from-the-san-francisco-49ers-on-wr-ricky-pearsall",
+    "picture_source": "NBC News",
+    "approx_traffic": "500,000+"
+  },
+  {
+    "country": "United States",
+    "title": "LSU football",
+    "pubDate": "Sat, 31 Aug 2024 13:00:00 -0700",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTfaepkAK1hj4GgqysUafz9Ga3PNBF5p_0LvqvPOVyloBDbmgkrudTBw_Xc6RIELZAcitP7tals",
+    "news_item_snippet": "Brian Kelly and Co. face off against Lincoln Riley&#39;s Trojans, premier Week 1 showdown in Las Vegas.",
+    "news_item_url": "https://www.si.com/college/lsu/football/live-updates-lsu-football-vs-usc-trojans-in-week-1-01j6qspd924s",
+    "picture_source": "The Reveille, LSU's student newspaper",
     "approx_traffic": "500,000+"
   },
   {
@@ -91,22 +91,12 @@
   },
   {
     "country": "United States",
-    "title": "Penn State football",
-    "pubDate": "Sat, 31 Aug 2024 06:00:00 -0700",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTVnbJiECox547YGXKVF8IT74aApyCeI1SuDIOvoLbLFn9-jWu8XsshCaP5nqJNFG7Nt5ww7Ed1",
-    "news_item_snippet": "MORGANTOWN, W.Va.- No. 8-ranked Penn State used a 27-point flurry in the second and third quarters to defeat West Virginia 34-12 before a sellout crowd of&nbsp;...",
-    "news_item_url": "https://wvusports.com/news/2024/8/31/football-penn-state-defeats-west-virginia-in-2024-season-opener.aspx",
-    "picture_source": "The Daily Collegian Online",
-    "approx_traffic": "500,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Alabama football",
-    "pubDate": "Sat, 31 Aug 2024 08:00:00 -0700",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQr-yCsxaOhrtTdcwAPzRNvTgNLZ3n0q1keH5MlzzbnDhppM6_87-Ru7j8DVnVCzwPYtXr3gwqZ",
-    "news_item_snippet": "What Kalen DeBoer had to say about his first Alabama Football win after the Crimson Tide thrashed Western Kentucky.",
-    "news_item_url": "https://bamahammer.com/posts/kalen-deboer-alabama-football-blowout-win-over-western-kentucky-01j6nq8avn7j",
-    "picture_source": "rolltide.com",
+    "title": "Georgia football",
+    "pubDate": "Sat, 31 Aug 2024 07:00:00 -0700",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcR5e0Lf0JWNZ3DrqWO8G84uCduLgyFMPfjQqoj5f7Ls1t37poHCGjFUpQV8eZhhZv538LDTzmvh",
+    "news_item_snippet": "It was the Bulldogs 40th-straight regular-season win, just five short of the all-time record held by 1936 Oklahoma (45). Quarterback Carson Beck was 23-of-33&nbsp;...",
+    "news_item_url": "https://www.dawgnation.com/gameday/georgia-football-stock-report-whos-up-whos-down-after-clemson/YPM2ZOIMAJHYNHIJ6E4FOJZIQQ/",
+    "picture_source": "Red and Black",
     "approx_traffic": "500,000+"
   },
   {
@@ -117,26 +107,46 @@
     "news_item_snippet": "TOWSON, Md. \u2013 Florida soccer tied defending Colonial Athletic Association champion Towson 1-1 Sunday afternoon at Tiger Field.",
     "news_item_url": "https://floridagators.com/news/2024/9/1/soccer-florida-ties-towson-1-1.aspx",
     "picture_source": "Florida Gators",
-    "approx_traffic": "500,000+"
+    "approx_traffic": "200,000+"
   },
   {
     "country": "United States",
-    "title": "Georgia football",
-    "pubDate": "Sat, 31 Aug 2024 07:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcR5e0Lf0JWNZ3DrqWO8G84uCduLgyFMPfjQqoj5f7Ls1t37poHCGjFUpQV8eZhhZv538LDTzmvh",
-    "news_item_snippet": "Georgia slugged it out with Clemson for a half before opening up the offense in the second half in a 34-3 win.",
-    "news_item_url": "https://www.dawgnation.com/gameday/georgia-football-stock-report-whos-up-whos-down-after-clemson/YPM2ZOIMAJHYNHIJ6E4FOJZIQQ/",
-    "picture_source": "Red and Black",
+    "title": "Alabama football",
+    "pubDate": "Sat, 31 Aug 2024 08:00:00 -0700",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQr-yCsxaOhrtTdcwAPzRNvTgNLZ3n0q1keH5MlzzbnDhppM6_87-Ru7j8DVnVCzwPYtXr3gwqZ",
+    "news_item_snippet": "What Kalen DeBoer had to say about his first Alabama Football win after the Crimson Tide thrashed Western Kentucky.",
+    "news_item_url": "https://bamahammer.com/posts/kalen-deboer-alabama-football-blowout-win-over-western-kentucky-01j6nq8avn7j",
+    "picture_source": "rolltide.com",
     "approx_traffic": "200,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Ohio State football",
+    "pubDate": "Sat, 31 Aug 2024 08:00:00 -0700",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcR5yauvnN8jOiWHejs5MUeKxHHgySqvzZPxHRuXbPqDuZoJIZF3v-RqU-XCOQhgAu3rKsntmrrH",
+    "news_item_snippet": "COLUMBUS, Ohio -- Akron fell 52-6 in the 2024 season opener to the No. 2 ranked Ohio State Buckeyes at Ohio Stadium on Saturday afternoon with 102,011 fans&nbsp;...",
+    "news_item_url": "https://gozips.com/news/2024/8/31/football-zips-come-up-short-in-a-52-6-loss-to-ohio-state",
+    "picture_source": "Hustle Belt",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "India",
+    "title": "Real Madrid vs Real Betis",
+    "pubDate": "Mon, 02 Sep 2024 00:30:00 +0530",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRqifurHh66IuoEkJGHkpaKh98_tLJ4pfghrmyhZ8qv0XigB-IdnmiUG_YlKEx6xyK3kxyLFWwU",
+    "news_item_snippet": "Kylian Mbappe scored his first two goals in La Liga to ease Real Madrid to a comfortable win over Real Betis.",
+    "news_item_url": "https://www.goal.com/en-in/lists/real-madrid-player-ratings-vs-real-betis-kylian-mbappe-federico-valverde/blt5f40814f654dc64d",
+    "picture_source": "NDTVSports.com",
+    "approx_traffic": "50,000+"
   },
   {
     "country": "India",
     "title": "Archery Paralympics",
     "pubDate": "Sun, 01 Sep 2024 00:30:00 +0530",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTFJRBI-V3W7v1qUXGTy4USOcsvsi7KB6n0welGIJQZelDDYCwreKxcM9bREMDPEcZm0SEUxOJA",
-    "news_item_snippet": "At the age of 64, Eugenio Santana Franco of Brazil debuts at the Paris 2024 Paralympics. He&#39;s one of the oldest among the para-archers, and \u2013 as all of them&nbsp;...",
-    "news_item_url": "https://www.worldarchery.sport/news/201789/former-brazilian-nurse-inspired-his-patients-archery-he-became-paralympian",
-    "picture_source": "World Archery",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSP3jmWwwTZlS6UQuUlqHLSEYpcVVlRFqIhb_GviTw0tteceJctkpQsyOH6re35vpBjqPajGBwS",
+    "news_item_snippet": "First-time Paralympian Kyle Tremblay matched world-ranked number one, Rakesh Kumar from India, in the Paris 2024 Paralympic Games Para archery men&#39;s&nbsp;...",
+    "news_item_url": "https://paralympic.ca/news/kyle-tremblay-goes-shot-for-shot-with-world-number-1-in-para-archery-quarter-finals/",
+    "picture_source": "Canadian Paralympic Committee",
     "approx_traffic": "2,000,000+"
   },
   {
@@ -153,10 +163,10 @@
     "country": "India",
     "title": "Man United vs Liverpool",
     "pubDate": "Sun, 01 Sep 2024 20:30:00 +0530",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRjMlUWEX6Nzz7IsFnrMBkykDXOJJ53mxVCa23UG-_FiGB5ntHOq258ccCjOz3Y7TuH9z5bPo0t",
-    "news_item_snippet": "Manchester United slipped to a frustrating 3-0 defeat to our biggest rivals, Liverpool, on a day to forget at Old Trafford.",
-    "news_item_url": "https://www.manutd.com/en/news/detail/match-report-man-utd-v-liverpool-1-september-2024",
-    "picture_source": "Sportstar",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQ5DY3CAhTpotxovUaE_P7sbr_uMCGPnzHMoeRIY7gG7pd2odIuwDyculdkgT1DdxVm4O3v7Jvh",
+    "news_item_snippet": "MUN vs LIV: Catch the highlights from the Premier League match between Manchester United and Liverpool, played at the Old Trafford Stadium in Manchester,&nbsp;...",
+    "news_item_url": "https://sportstar.thehindu.com/football/epl/manchester-united-vs-liverpool-live-score-mun-v-liv-premier-league-pl-goals-updates-highlights-news/article68593349.ece",
+    "picture_source": "Business Standard",
     "approx_traffic": "100,000+"
   },
   {
@@ -177,16 +187,6 @@
     "news_item_snippet": "Cole Palmer tried his hardest to inspire Chelsea to another win, but his assist wasn&#39;t enough as the Blues were held to a 1-1 draw by Crystal Palace.",
     "news_item_url": "https://www.goal.com/en-in/lists/chelsea-player-ratings-vs-crystal-palace-cole-palmer-pedro-neto/blt952d893d6238f02b",
     "picture_source": "Sportstar",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "India",
-    "title": "Bigg Boss 8 Telugu Contestants",
-    "pubDate": "Sun, 01 Sep 2024 19:30:00 +0530",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSFZ1VpEDScsVmAgTQeFWy6s4GyRpxxIXdU7oH8_x4Bgsvvss35UGx09oIafOVboMV-RpWQYAJ5",
-    "news_item_snippet": "Bigg Boss Telugu season 8 live updates: \u0c2c\u0c41\u0c32\u0c4d\u0c32\u0c3f\u0c24\u0c46\u0c30 \u0c2a\u0c4d\u0c30\u0c47\u0c15\u0c4d\u0c37\u0c15\u0c41\u0c32 \u0c2b\u0c47\u0c35\u0c30\u0c46\u0c1f\u0c4d \u0c37\u0c4b \u0c2c\u0c3f\u0c17\u0c4d \u0c2c\u0c3e\u0c38\u0c4d \u0c2e\u0c30\u0c3f\u0c15\u0c4a\u0c28\u0c4d\u0c28\u0c3f \u0c15\u0c4d\u0c37\u0c23\u0c3e\u0c32\u0c4d\u0c32\u0c4b \u0c2a\u0c4d\u0c30\u0c3e\u0c30\u0c02\u0c2d\u0c02 \u0c15\u0c3e\u0c28\u0c41\u0c02\u0c26\u0c3f.",
-    "news_item_url": "https://tv9telugu.com/entertainment/television/bigg-boss-8-telugu-grand-launch-live-updates-know-new-contestants-wild-cards-on-nagarjuna-hosted-show-1340033.html",
-    "picture_source": "\u0c08\u0c28\u0c3e\u0c21\u0c41",
     "approx_traffic": "50,000+"
   },
   {
@@ -250,6 +250,16 @@
     "approx_traffic": "100,000+"
   },
   {
+    "country": "India",
+    "title": "IC 814: The Kandahar Hijack",
+    "pubDate": "Thu, 29 Aug 2024 14:30:00 +0530",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcR0KOjnzEXl-GEn9EZj2Gn8VmkBHf1QxWfkmOPQNxXkh6kPTUd4BSpjYwNBz9YblVEVoqG_ZTuH",
+    "news_item_snippet": "But 180 people experienced a harrowing, life-altering calamity for those seven days in Taliban-ruled Afghanistan. Passengers of the hijacked Indian Airlines&nbsp;...",
+    "news_item_url": "https://www.deccanherald.com/entertainment/ic-814-the-kandahar-hijack-review-gripping-hijack-drama-powered-by-great-cast-3171490",
+    "picture_source": "The Indian Express",
+    "approx_traffic": "100,000+"
+  },
+  {
     "country": "Argentina",
     "title": "Leclerc",
     "pubDate": "Sun, 01 Sep 2024 09:00:00 -0300",
@@ -263,9 +273,29 @@
     "country": "Argentina",
     "title": "Manchester United  Liverpool",
     "pubDate": "Sun, 01 Sep 2024 12:00:00 -0300",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSDCIX96cL_SQukTMsQsCx0FHe508JA1zh81__M-P66rPT9rBuLzhyxUwVTLhZbHG93bORpyC_j",
-    "news_item_snippet": "Los Reds fueron superiores y pudieron ganar por m\u00e1s ventaja; los tres argentinos convocados por Scaloni estuvieron entre los titulares - LA NACION.",
-    "news_item_url": "https://www.lanacion.com.ar/deportes/futbol/liverpool-derroto-a-manchester-united-por-3-a-0-por-la-premier-league-mac-allister-se-impuso-a-nid01092024/",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTvjQONrncPwQ1E1slnTzfuJ-0ySwpEGMvwpiBrQHM6UaujFTx_qTBMOGiMnZM9OOefpHyN6GgI",
+    "news_item_snippet": "En una nueva versi\u00f3n del cl\u00e1sico de Inglaterra, Liverpool vapule\u00f3 a Manchester United en Old Trafford gracias al doblete de Luis D\u00edaz y al posterior gol de&nbsp;...",
+    "news_item_url": "https://www.tycsports.com/premier-league/manchester-united-vs-liverpool-en-vivo-hora-donde-ver-y-formaciones-id605238.html",
+    "picture_source": "Infobae.com",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Argentina",
+    "title": "Huracan",
+    "pubDate": "Sun, 01 Sep 2024 16:00:00 -0300",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSPQutzQXFqy9jvoUPmZ7PUPIs109X2cIVYmfEkKzcUq0QbBcvcS_DJ_mGoTx4fJw7dAxXOh8sS",
+    "news_item_snippet": "Hurac\u00e1n suele jugar bien aunque le cuesta much\u00edsimo hacer goles. La de este domingo en una cancha r\u00e1pida por la lluvia, ideal para el juego de un&nbsp;...",
+    "news_item_url": "https://www.lanacion.com.ar/deportes/futbol/huracan-perdio-el-invicto-la-tarde-menos-pensada-tigre-lo-sorprendio-y-le-gano-2-0-por-la-liga-nid01092024/",
+    "picture_source": "Ol\u00e9",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Argentina",
+    "title": "Real Madrid  Betis",
+    "pubDate": "Sun, 01 Sep 2024 16:00:00 -0300",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRB8c8e4zVPQVi4tCx1TDC1-UHAPHHV6oIvO3hLFxhQhqViUKcCdtu3ZMcS9ncv2faOZF58hte8",
+    "news_item_snippet": "El franc\u00e9s, que no hab\u00eda podido marcar en las primeras tres fechas, cort\u00f3 la mala racha para darle el triunfo al Merengue frente al Betis.",
+    "news_item_url": "https://www.tycsports.com/espana/la-liga/real-madrid-vs-betis-en-vivo-hora-donde-ver-y-formaciones-id605335.html",
     "picture_source": "TyC Sports",
     "approx_traffic": "50,000+"
   },
@@ -273,11 +303,11 @@
     "country": "Australia",
     "title": "Archery Paralympics",
     "pubDate": "Mon, 02 Sep 2024 01:00:00 +1000",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTFJRBI-V3W7v1qUXGTy4USOcsvsi7KB6n0welGIJQZelDDYCwreKxcM9bREMDPEcZm0SEUxOJA",
-    "news_item_snippet": "At the age of 64, Eugenio Santana Franco of Brazil debuts at the Paris 2024 Paralympics. He&#39;s one of the oldest among the para-archers, and \u2013 as all of them&nbsp;...",
-    "news_item_url": "https://www.worldarchery.sport/news/201789/former-brazilian-nurse-inspired-his-patients-archery-he-became-paralympian",
-    "picture_source": "World Archery",
-    "approx_traffic": "50,000+"
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSP3jmWwwTZlS6UQuUlqHLSEYpcVVlRFqIhb_GviTw0tteceJctkpQsyOH6re35vpBjqPajGBwS",
+    "news_item_snippet": "First-time Paralympian Kyle Tremblay matched world-ranked number one, Rakesh Kumar from India, in the Paris 2024 Paralympic Games Para archery men&#39;s&nbsp;...",
+    "news_item_url": "https://paralympic.ca/news/kyle-tremblay-goes-shot-for-shot-with-world-number-1-in-para-archery-quarter-finals/",
+    "picture_source": "Canadian Paralympic Committee",
+    "approx_traffic": "100,000+"
   },
   {
     "country": "Australia",
@@ -288,6 +318,16 @@
     "news_item_url": "https://www.socceroos.com.au/news/celebrating-fathers-day-burgess-behich-leckie",
     "picture_source": "Bulldogs",
     "approx_traffic": "500,000+"
+  },
+  {
+    "country": "Brazil",
+    "title": "Palmeiras",
+    "pubDate": "Sun, 01 Sep 2024 09:00:00 -0500",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcT8YPkSleK_DT1nri2PoM6swfrHwtAA0lTDz1i5JG4HqmxfuZQ7EU4FUs-6sA1OrKT9weJ64IZr",
+    "news_item_snippet": "Amanda Gutierres havia feito pelo time alviverde. Com o resultado, o Corinthians pode at\u00e9 perder o segundo jogo por um gol de diferen\u00e7a que estar\u00e1 classificado.",
+    "news_item_url": "https://www.progresso.com.br/esporte/corinthians-vira-sobre-o-palmeiras-em-dez-minutos-e-fica-perto-da/428202/",
+    "picture_source": "globoesporte.com",
+    "approx_traffic": "1,000,000+"
   },
   {
     "country": "Brazil",
@@ -311,12 +351,12 @@
   },
   {
     "country": "Brazil",
-    "title": "Athletico-PR x Palmeiras",
-    "pubDate": "Sun, 01 Sep 2024 09:00:00 -0500",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSERuyxzj5UIe0WLiFf4WtrWl19ICmeJn6JO6xmTr_UBRZnUBmaF0_dI2U5ButqraNMuN5PxlGe",
-    "news_item_snippet": "O jogo ter\u00e1 transmiss\u00e3o da Prime Video (streaming), Caz\u00e9TV (transmiss\u00e3o no Youtube para membros do canal) e Rede Furac\u00e3o (pay-per-view criado pelo Athletico-PR)&nbsp;...",
-    "news_item_url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2024/09/01/athletico-pr-x-palmeiras-transmissao-ao-vivo-e-onde-assistir-ao-jogo.htm",
-    "picture_source": "ESPN.com.br",
+    "title": "Vasco",
+    "pubDate": "Sun, 01 Sep 2024 16:00:00 -0500",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcT_U0sGvDX7rgNk5BAJilThmZNJT2nAxVn2cTbpTV1ObndpsZyMhO_1L4LNjJRRf5qNWY-Bi4Aw",
+    "news_item_snippet": "O Vasco superou o Vit\u00f3ria neste domingo (1) pela 25\u00aa rodada do Campeonato Brasileiro. No Barrad\u00e3o, em Salvador, o Cruzmaltino venceu por 1 a 0 com gol de&nbsp;...",
+    "news_item_url": "https://www.cnnbrasil.com.br/esportes/brasileirao/brasileiro-vasco-bate-vitoria-no-barradao-com-grande-atuacao-de-leo-jardim/",
+    "picture_source": "globoesporte.com",
     "approx_traffic": "500,000+"
   },
   {
@@ -331,12 +371,12 @@
   },
   {
     "country": "Brazil",
-    "title": "Vasco",
-    "pubDate": "Sun, 01 Sep 2024 17:00:00 -0500",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTzFn-tI5IFkHO0XnMwsXDSuiFs2wvR_J0keuXjopyejd3O8I5MjMyUUKaYDmmP-tDUvde9nl-2",
-    "news_item_snippet": "Emprestado ao FC Cincinatti, atacante argentino anota pintura em vit\u00f3ria sobre o Montreal.",
-    "news_item_url": "https://ge.globo.com/futebol/futebol-internacional/mls/post/2024/09/01/orellano-ex-vasco-faz-golaco-de-antes-do-meio-campo-na-mls-assista.ghtml",
-    "picture_source": "CNN Brasil",
+    "title": "Juventude x Internacional",
+    "pubDate": "Sun, 01 Sep 2024 16:00:00 -0500",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRdIAmqCzoA_48ZgJqE_dd3W97oBXKWcFdcvvUBaeFL7xn-pKs2974g4VxINnwsVkv4uP1l16vWQA",
+    "news_item_snippet": "\u00c1rbitro aponta o meio-campo e encerra o jogo! Inter derrota o Juventude novamente no confronto regional pelo Campeonato Brasileiro. 48&#39;. GOOOLLLL!Luis Oyama.",
+    "news_item_url": "https://www.estadao.com.br/esportes/futebol/juventude-x-internacional-brasileiro-serie-a-2024/",
+    "picture_source": "globoesporte.com",
     "approx_traffic": "200,000+"
   },
   {
@@ -353,7 +393,7 @@
     "country": "Brazil",
     "title": "Corinthians Feminino",
     "pubDate": "Sun, 01 Sep 2024 10:00:00 -0500",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQRJJpx-ibG40_pcVl9cUgCmJZoIuqSD66MmGOcvoonGYK6U8dTpzhRiYkHOxaO1ZaWvEINhr62",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTC9c6fY7VVIuAFMp4GAV_nhj7P7o_kKnyTtpu4cJbndBM63iolZDDJuQcEewXVZK2lqy-gHlwA",
     "news_item_snippet": "Palmeiras e Corinthians se enfrentaram neste domingo (1), no Jayme Cintra, em Jundia\u00ed, pela primeira partida da semifinal do Campeonato Brasileiro feminino.",
     "news_item_url": "https://www.espn.com.br/futebol/brasileirao/artigo/_/id/14115161/corinthians-faz-tres-fim-vira-sobre-palmeiras-sai-frente-vaga-final-brasileirao-feminino",
     "picture_source": "globoesporte.com",
@@ -361,23 +401,13 @@
   },
   {
     "country": "Brazil",
-    "title": "Bragantino x Bahia",
-    "pubDate": "Sun, 01 Sep 2024 15:00:00 -0500",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQ0zP4nMwqjUgTY-4jWsLxYqgrSmQRGq1SR-CJVOxPH_seZTbFTxpfNYvGySXIlyjA8nniLsWPY",
-    "news_item_snippet": "Bragantino e Bahia se enfrentam neste domingo (1), \u00e0s 18h30 (de Bras\u00edlia), no Est\u00e1dio Nabi Abi Chedid, pela 25\u00aa rodada do Brasileir\u00e3o.",
-    "news_item_url": "https://www.espn.com.br/futebol/brasileirao/artigo/_/id/14106028/red-bull-bragantino-bahia-onde-assistir-ao-vivo-horario-palpites-provaveis-escalacoes-brasileirao",
-    "picture_source": "globoesporte.com",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Brazil",
-    "title": "Paysandu",
+    "title": "Goi\u00e1s x Paysandu",
     "pubDate": "Sun, 01 Sep 2024 17:00:00 -0500",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTH7fKIxtJXCcC4n3Xy5PEtS66hXiBQg5DARSWP4rUcr2bdwRQTQjhIKj4xO0rpw5-izHIrE5Jk",
     "news_item_snippet": "Os dois clubes j\u00e1 se enfrentaram em 23 partidas, sendo 12 vit\u00f3rias do Goi\u00e1s, quatro do Paysandu e sete empates. O \u00faltimo confronto entre as equipes aconteceu em&nbsp;...",
     "news_item_url": "https://www.gazetaesportiva.com/apostas/prognosticos/futebol/goias-x-paysandu-01-09-2024",
     "picture_source": "globoesporte.com",
-    "approx_traffic": "50,000+"
+    "approx_traffic": "100,000+"
   },
   {
     "country": "Brazil",
@@ -394,8 +424,8 @@
     "title": "Ceara",
     "pubDate": "Sun, 01 Sep 2024 15:00:00 -0500",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSaaKvlBiApJUqXqhqzKBtGo-WHAtRT5Tj0lDupQzaCAh6RgqBrW9qXCH18hWI1XZjxfxRtrich",
-    "news_item_snippet": "O Cear\u00e1 n\u00e3o tem atletas no Departamento M\u00e9dico para enfrentar o Amazonas neste domingo pela S\u00e9rie B do Campeonato Brasileiro. O \u00fanico atleta que n\u00e3o est\u00e1 \u00e0&nbsp;...",
-    "news_item_url": "https://ge.globo.com/ce/futebol/times/ceara/noticia/2024/09/01/ceara-nao-tem-atletas-no-dm-contra-o-amazonas-lourenco-esta-em-transicao.ghtml",
+    "news_item_snippet": "Sob o calor de 36 graus, Amazonas e Cear\u00e1 empataram por 1 a 1, neste domingo, na Arena da Amaz\u00f4nia, pela 24\u00aa rodada da S\u00e9rie B do Campeonato Brasileiro.",
+    "news_item_url": "https://gauchazh.clicrbs.com.br/esportes/noticia/2024/09/amazonas-e-ceara-sofrem-com-o-calor-e-ficam-no-empate-de-1-a-1-pela-serie-b-cm0k39s86000q01f4zcyoj9cv.html",
     "picture_source": "globoesporte.com",
     "approx_traffic": "50,000+"
   },
@@ -420,13 +450,33 @@
     "approx_traffic": "50,000+"
   },
   {
+    "country": "Brazil",
+    "title": "Debate sao Paulo",
+    "pubDate": "Sun, 01 Sep 2024 14:00:00 -0500",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSHFcG2orEAze638jK3JPTc0iFMElFC57_Y3qZdrOkk3988zqR3QQuv6FAaqHQSmuxYEJR8cD9A",
+    "news_item_snippet": "Encontro ocorre ap\u00f3s uma aus\u00eancia tripla de candidatos no \u00faltimo debate. Guilherme Boulos (PSOL), Pablo Mar\u00e7al (PRTB), Ricardo Nunes (MDB), Jos\u00e9 Luiz Datena (&nbsp;...",
+    "news_item_url": "https://noticias.uol.com.br/eleicoes/2024/09/01/como-foi-debate-tv-gazeta-candidatos-prefeitura-sp.htm",
+    "picture_source": "G1",
+    "approx_traffic": "50,000+"
+  },
+  {
     "country": "Canada",
-    "title": "Archery paralympics",
+    "title": "Archery Paralympics",
     "pubDate": "Sun, 01 Sep 2024 01:00:00 -0400",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSP3jmWwwTZlS6UQuUlqHLSEYpcVVlRFqIhb_GviTw0tteceJctkpQsyOH6re35vpBjqPajGBwS",
-    "news_item_snippet": "First-time Paralympian Kyle Tremblay matched world-ranked number one, Rakesh Kumar from India, in the Paris 2024 Paralympic Games Para archery men&#39;s&nbsp;...",
-    "news_item_url": "https://paralympic.ca/news/kyle-tremblay-goes-shot-for-shot-with-world-number-1-in-para-archery-quarter-finals/",
+    "news_item_snippet": "After setting a new International Personal Best in the ranking round the previous day, Tremblay entered his first match with high confidence against an&nbsp;...",
+    "news_item_url": "https://sirc.ca/news/kyle-tremblay-takes-early-lead-to-advance-to-the-1-8th-elimination-round/",
     "picture_source": "Canadian Paralympic Committee",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "South Korea",
+    "title": "\ub274\uce90\uc2ac \ub300 \ud1a0\ud2b8\ub118",
+    "pubDate": "Sun, 01 Sep 2024 21:00:00 +0900",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSty9uJSnbk2v5rhnDeEWSmjJnzeW9twvUPeSAvH_Ad-fzvuRkzBRHvkIDMjbQ8SUsbRFwr3Wq_",
+    "news_item_snippet": "\uc789\uae00\ub79c\ub4dc \ud504\ub85c\ucd95\uad6c \ud1a0\ud2b8\ub118\uc758 \uc190\ud765\ubbfc\uc774 \ubb34\ub4dd\uc810\uc73c\ub85c \uce68\ubb35\ud55c \uac00\uc6b4\ub370 \ud300\ub3c4 \uc62c \uc2dc\uc98c \uc789\uae00\ub79c\ub4dc \ud504\ub9ac\ubbf8\uc5b4\ub9ac\uadf8(EPL...",
+    "news_item_url": "https://news.kbs.co.kr/news/view.do?ncd=8048976",
+    "picture_source": "\uba38\ub2c8\ud22c\ub370\uc774",
     "approx_traffic": "200,000+"
   },
   {
@@ -461,21 +511,31 @@
   },
   {
     "country": "France",
+    "title": "Real Madrid \u2013 Betis",
+    "pubDate": "Sun, 01 Sep 2024 21:00:00 +0200",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSzHs8eTT_EyT45WVkRERwYl9Tdblddd3yX5mW6KuvhjLXhcsEYc_BiYT9AKLATiJKiAgbMBwHd",
+    "news_item_snippet": "Le Real Madrid s&#39;est impos\u00e9 \u00e0 domicile dimanche face au Real Betis lors de la 4e journ\u00e9e de Liga (2-0). Kylian Mbapp\u00e9 a inscrit ses premiers buts en&nbsp;...",
+    "news_item_url": "https://www.lefigaro.fr/sports/football/espagne/liga-avec-un-double-de-mbappe-le-real-madrid-ecarte-le-betis-20240901",
+    "picture_source": "L'\u00c9quipe.fr",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "France",
     "title": "Bernard Cazeneuve",
     "pubDate": "Sun, 01 Sep 2024 17:00:00 +0200",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRUzqz1sjpJDiVDs94MPUe6-x-9dc83CiP6MoMWa4z2mgW9NJac-hzBkW-IkkVA5La-AYYPc1In",
     "news_item_snippet": "Emmanuel Macron recevra Bernard Cazeneuve lundi matin \u00e0 l&#39;Elys\u00e9e dans le cadre de ses consultations en vue de la nomination du nouveau Premier ministre,&nbsp;...",
     "news_item_url": "https://www.franceguyane.fr/actualite/france/premier-ministre-macron-rencontrera-bernard-cazeneuve-lundi-matin-1001432.php",
     "picture_source": "Franceinfo",
-    "approx_traffic": "200,000+"
+    "approx_traffic": "100,000+"
   },
   {
     "country": "France",
     "title": "Marie Patouillet",
     "pubDate": "Sun, 01 Sep 2024 16:00:00 +0200",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRZ2d3Bdf8YbfapC4EVC-LJifyyNNoAustIX9CyRlWBrrHbCZA1t4VfpoMwrT-vFFAtBFAk5xhX",
-    "news_item_snippet": "Devant un public de Saint-Quentin-en-Yvelines, Marie Patouillet s&#39;est offert sa premi\u00e8re m\u00e9daille d&#39;or paralympique de sa carri\u00e8re.",
-    "news_item_url": "https://www.lefigaro.fr/sports/jeux-olympiques/jeux-paralympiques-apres-l-argent-du-chrono-marie-patouillet-en-or-devant-heidi-gaugain-en-poursuite-20240901",
+    "news_item_snippet": "LE SCAN SPORT - Championne paralympique sur la poursuite individuelle, Marie Patouillet a bien failli s&#39;\u00e9crouler sur le podium au moment de r\u00e9cup\u00e9rer sa&nbsp;...",
+    "news_item_url": "https://www.lefigaro.fr/sports/jeux-olympiques/jeux-paralympiques-championne-paralympique-marie-patouillet-victime-d-un-malaise-sur-le-podium-avant-la-marseillaise-20240901",
     "picture_source": "Europe1",
     "approx_traffic": "100,000+"
   },
@@ -484,8 +544,8 @@
     "title": "Emeline Pierre",
     "pubDate": "Sun, 01 Sep 2024 11:00:00 +0200",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSQr3I7OmJChS_cPi_DQNLiQ606Q48-dxxv9g4M2i3yVset3Z0B0oSrla0Vj7p4H2hQyNXZlnly",
-    "news_item_snippet": "Sacr\u00e9e championne paralympique sur le 100 m nage libre, la native de Pau a d\u00e9croch\u00e9 un titre inesp\u00e9r\u00e9.",
-    "news_item_url": "https://www.francetvinfo.fr/jeux-paralympiques/natation/video-la-course-fabuleuse-de-la-nageuse-emeline-pierre-qui-la-propulse-vers-l-or-paralympique_6757321.html",
+    "news_item_snippet": "L&#39;exploit pour \u00c9meline Pierre ! La Fran\u00e7aise est sacr\u00e9e championne paralympique ce dimanche sur le 100m nage libre (cat\u00e9gorie S10). C&#39;est la 6e m\u00e9daille&nbsp;...",
+    "news_item_url": "https://www.francebleu.fr/sports/tous-les-sports/jeux-paralympiques-natation-emeline-pierre-decroche-la-medaille-d-or-sur-le-100m-nage-libre-3026533",
     "picture_source": "Europe1",
     "approx_traffic": "50,000+"
   },
@@ -514,8 +574,8 @@
     "title": "Bayern \u2013 Freiburg",
     "pubDate": "Sun, 01 Sep 2024 16:00:00 +0200",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQF4-wrzxBOdAjRtjr-25k99iyZAdbdrf3aoMUmEZ5R6bka81K04KHxZX3D3sQN9sv-wJu7goCa",
-    "news_item_snippet": "Ein h\u00f6chst umstrittener Elfmeter hat Bayern M\u00fcnchen in der Bundesliga gegen den SC Freiburg auf die Siegerstra\u00dfe gebracht. Dazu erzielte Thomas M\u00fcller in&nbsp;...",
-    "news_item_url": "https://www.sportschau.de/fussball/bundesliga/var-elfmeter-bringt-bayern-auf-die-siegerstrasse,bundesliga-fcb-scf-100.html",
+    "news_item_snippet": "Bayern-Trainer Kompany l\u00e4sst sich f\u00fcr sein Heimdeb\u00fct etwas einfallen. Er stellt f\u00fcnf Offensive auf, \u00fcbertr\u00e4gt Kimmich eine Hybrid-Rolle und hat Erfolg.",
+    "news_item_url": "https://www.radiobielefeld.de/sport/sportnachrichten/detailansicht/muenchen-kompanys-mutige-bayern-taktik-geht-gegen-freiburg-auf.html",
     "picture_source": "fcbinside.de",
     "approx_traffic": "200,000+"
   },
@@ -541,16 +601,6 @@
   },
   {
     "country": "Germany",
-    "title": "Sahra Wagenknecht",
-    "pubDate": "Sun, 01 Sep 2024 20:00:00 +0200",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcT35GRVeGzxYEFFbz3lyWPthKWgNeIHXwKGd_LKLaOOFrx0qqMHgkBCfsF9ODzzzTpFNZ-Wyb7a",
-    "news_item_snippet": "Nach diesen Wahlen kann es keine Koalitionsbildung wie jede andere geben. Das BSW wie die AfD zu behandeln, w\u00e4re ein Fehler. Ein Pl\u00e4doyer f\u00fcr ein B\u00fcndnis&nbsp;...",
-    "news_item_url": "https://www.zeit.de/politik/deutschland/2024-09/bsw-cdu-landtagswahlen-koalition-ergebnisse-afd",
-    "picture_source": "DER SPIEGEL",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Germany",
     "title": "Bj\u00f6rn H\u00f6cke",
     "pubDate": "Sun, 01 Sep 2024 19:00:00 +0200",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQy4F0mAXbUHGOLvtZ30Y_zdqbi8x7qlnFUCzthzp7-KsHoFX8I_j1nwLH_KhYeFZr0pw0fu6hl",
@@ -563,7 +613,7 @@
     "country": "Germany",
     "title": "Wahl Th\u00fcringen",
     "pubDate": "Sat, 31 Aug 2024 18:00:00 +0200",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRA8FYA0nE93MHN7MWKS4MzbL5vbSXe34q3nmp5BHWQQ5n4ZX9Tm-F9tNn-PQqsjqlEyb3nUZUV",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRXydF9CBblLqIOlScEw0oHB2Xcc-86A8rTe01Xd7IC_XQZMjehJz_Wtu-8cjv3Qhc8bKQcniGe",
     "news_item_snippet": "Die AfD von Bj\u00f6rn H\u00f6cke f\u00e4hrt in Th\u00fcringen mit knapp 33 Prozent einen historischen Erfolg ein - und meldet Regierungsanspruch an.",
     "news_item_url": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-thueringen-ergebnisse-100.html",
     "picture_source": "manager-magazin.de",
@@ -580,6 +630,16 @@
     "approx_traffic": "50,000+"
   },
   {
+    "country": "Germany",
+    "title": "Peter Maffay",
+    "pubDate": "Thu, 29 Aug 2024 10:00:00 +0200",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcR7iAq1zr6gH9wx6QkbJo2DLJxgKvFiILO-IQMiAU2jPAW-3w7JpCpmzCsjtcr4KS19vEjY1cQA",
+    "news_item_snippet": "Drahtig, agil, voller Energie: Gerade erst war Peter Maffay noch auf Tour. Da mag man kaum glauben, dass der Superstar des Deutsch-Rock heute seinen 75.",
+    "news_item_url": "https://www.mz.de/panorama/stars-und-prominente/auch-rocker-werden-alter-peter-maffay-wird-75-3907430",
+    "picture_source": "op-online.de",
+    "approx_traffic": "100,000+"
+  },
+  {
     "country": "Italy",
     "title": "Tiro con l'arco Paralimpiadi",
     "pubDate": "Sun, 01 Sep 2024 01:00:00 +0200",
@@ -591,21 +651,11 @@
   },
   {
     "country": "Italy",
-    "title": "Fiorentina - Monza",
+    "title": "Fiorentina-Monza",
     "pubDate": "Sun, 01 Sep 2024 17:00:00 +0200",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQFmTTctp9wAVl44xHRoMLjO8W-S2vTvcvQJ43-y-hL7e7OEiwIW9_uKj0_RSAHq1YsGoHlcSyG",
-    "news_item_snippet": "Fiorentina Monza su Sky Sport: scopri tutti gli aggiornamenti sulla partita di Serie A in tempo reale.",
-    "news_item_url": "https://sport.sky.it/calcio/serie-a/partite/2024/giornata-3/fiorentina-monza/risultato-gol",
-    "picture_source": "Fiorentina.it",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "Italy",
-    "title": "Genoa-Verona",
-    "pubDate": "Sun, 01 Sep 2024 18:00:00 +0200",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRAuq_WFBnQe6guCApNrVlWzAcH4CVY3SwNx1_4iTLYKtLStGobMJdmT2RG6ZUqfee8pWKyYAfq",
-    "news_item_snippet": "Il Verona supera 2-0 il Genoa e si porta a quota sei punti in classifica. Il risultato si sblocca al 55&#39;, in gol Tchatchoua. Al 64&#39; Tengstedt dal dischetto&nbsp;...",
-    "news_item_url": "https://www.repubblica.it/sport/dirette/calcio/serie-a-2024/diretta-genoa-verona-g2456126/",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcR4y1ErAsarmIxNjve-BDE0wVX8DJeXthXhdVSpfLxk_jKBroY42IGSGoVLSPDEdbHgwirYoLiz",
+    "news_item_snippet": "Partita divertente e ricca di colpi di scena con il Monza che si porta addirittura sul doppio vantaggio con Djuric prima e Maldini poi.",
+    "news_item_url": "https://www.repubblica.it/sport/dirette/calcio/serie-a-2024/diretta-fiorentina-monza-g2456125/",
     "picture_source": "Sky Sport",
     "approx_traffic": "100,000+"
   },
@@ -621,11 +671,21 @@
   },
   {
     "country": "Italy",
-    "title": "Udinese-Como",
+    "title": "Genoa  Verona",
+    "pubDate": "Sun, 01 Sep 2024 18:00:00 +0200",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcT5uExKtms0kUnia_nFFw8hQDzyGwoYRByyZmtx-lsasZy7D4S8UUc3juUo4a3cU2uzPxJ7RXE3",
+    "news_item_snippet": "Gli highlights e i gol di Genoa Verona su Sky Sport: guarda le azioni pi\u00f9 belle della partita di Serie A.",
+    "news_item_url": "https://sport.sky.it/calcio/serie-a/partite/2024/giornata-3/genoa-verona/video-highlights",
+    "picture_source": "La Repubblica",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "Italy",
+    "title": "Udinese  Como",
     "pubDate": "Sun, 01 Sep 2024 21:00:00 +0200",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSG3dge0q_vKmO9y8sBOR7Lo0pIPldNAcWC3WV1X11iI7FEGRvEoHHbMa8RJareJAwPwdtTU_Pw",
-    "news_item_snippet": "Finale incredibile al Bluenergy Stadium! L&#39;Udinese chiude avanti il primo tempo con la girata di Brenner, il Como attacca nel secondo tempo ma senza trovare&nbsp;...",
-    "news_item_url": "https://www.repubblica.it/sport/dirette/calcio/serie-a-2024/diretta-udinese-como-g2456132/",
+    "news_item_snippet": "Vittoria con brivido finale per i bianconeri. E59B281A-EF39-440E-B0C4-9DECAC258A69.jpeg. Secondo match al Bluenergy Stadium e secondo successo per&nbsp;...",
+    "news_item_url": "https://www.udinese.it/news/squadra/udinese-como-1-0",
     "picture_source": "Sky Sport",
     "approx_traffic": "100,000+"
   },
@@ -633,9 +693,9 @@
     "country": "Italy",
     "title": "Brad Pitt",
     "pubDate": "Sun, 01 Sep 2024 13:00:00 +0200",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcR79A-cAVoEw7taGUMP54PxOBiyPUnAKQdAtFbn-VPBt1C-nVmjaDTV2azUvFu88MlZYHlV_WaJ",
-    "news_item_snippet": "Inaspettato? Macch\u00e9! D&#39;altronde stiamo o non stiamo parlando della coppia d&#39;oro di Hollywood? L&#39;affetto di Venezia \u00e8 dilagante e loro sembrano volerlo&nbsp;...",
-    "news_item_url": "https://whoopsee.it/george-clooney-e-brad-pitt-incendiano-il-red-carpet-di-wolfs-a-venezia-81/",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSKyAY2xmkG_Bq6YzP3ZtnmmgpL8SknBzTmrX7fLwn9IH5bgafAhFp_tJJEWIKHH94fAJcc0VDj",
+    "news_item_snippet": "Presentato a Venezia e su Apple Tv+ dal 27 settembre, Wolfs con George Clooney e Brad Pitt riprende il genere buddy movie con due super stelle protagoniste.",
+    "news_item_url": "https://www.gqitalia.it/article/wolfs-clooney-pitt-mostra-cinema-venezia-2024",
     "picture_source": "Sky Tg24",
     "approx_traffic": "50,000+"
   },
@@ -664,8 +724,8 @@
     "title": "Real Madrid  Betis",
     "pubDate": "Sun, 01 Sep 2024 12:00:00 -0600",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcShPp1ktp1GU_phxd99RYcq0BkI2TvZHU1ar_OStGRc9k_y0cigHB6nEst1rDBumKh-rEH2ZC37",
-    "news_item_snippet": "Los merengues buscan la victoria tras un empate amargo a mitad de semana.",
-    "news_item_url": "https://www.record.com.mx/futbol-futbol-internacional-internacionales/real-madrid-vs-real-betis-en-vivo-online-laliga-jornada",
+    "news_item_snippet": "El Real Madrid venci\u00f3 al Real Betis (2-0) gracias a un doblete de Kylian Mbapp\u00e9. El franc\u00e9s anot\u00f3 sus primeros dos goles en el Santiago Bernab\u00e9u y en la&nbsp;...",
+    "news_item_url": "https://www.rtve.es/deportes/20240901/real-madrid-real-betis-directo-jornada-4-liga/16231911.shtml",
     "picture_source": "MARCA.com",
     "approx_traffic": "200,000+"
   },
@@ -683,11 +743,11 @@
     "country": "Spain",
     "title": "Real Madrid - Betis",
     "pubDate": "Sun, 01 Sep 2024 12:00:00 +0200",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQruyzYStEp7vxoeFwDoYupP1rUQjpvNL4mxegxca6T2-3k2B1cXtD3xLVFvvKoxWu3_ri7InE2",
-    "news_item_snippet": "Horario y canal del partido Real Madrid - Betis: Fecha: Hoy domingo 1 de septiembre 2024; \u00bfA qu\u00e9 hora es? 11:00 horas, tiempo de la Ciudad de M\u00e9xico&nbsp;...",
-    "news_item_url": "https://www.marca.com/mx/futbol/r-madrid-betis/2024/09/01/01_0101_20240901_186_185-directo.html",
-    "picture_source": "RTVE",
-    "approx_traffic": "200,000+"
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRab_sOamN2as1e5xZz7b5_GuqHtDYRBuZGjgCIg1poYuXnD0a3iYXTCZnzJHdNBZ9u-BfRxOOU",
+    "news_item_snippet": "El Real Madrid venci\u00f3 al Real Betis (2-0) gracias a un doblete de Kylian Mbapp\u00e9. El franc\u00e9s anot\u00f3 sus primeros dos goles en el Santiago Bernab\u00e9u y en la&nbsp;...",
+    "news_item_url": "https://www.rtve.es/deportes/20240901/real-madrid-real-betis-directo-jornada-4-liga/16231911.shtml",
+    "picture_source": "La Galerna",
+    "approx_traffic": "500,000+"
   },
   {
     "country": "Spain",
@@ -711,7 +771,7 @@
   },
   {
     "country": "Spain",
-    "title": "Getafe - Real Sociedad",
+    "title": "Getafe  Real Sociedad",
     "pubDate": "Sun, 01 Sep 2024 19:00:00 +0200",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQebmOplxqaKd-hZbJneUlIpKrBNdtXohXQi3RZRD_2o_jDK2dhZJtu_74C0OBW68fQ8F87lLMz",
     "news_item_snippet": "Sigue en vivo y en directo el Getafe - Real Sociedad, partido de la jornada 4 de LaLiga EA Sports, que se disputa hoy, 1 de septiembre, en el Coliseum.",
@@ -743,10 +803,10 @@
     "country": "United Kingdom",
     "title": "Archery Paralympics",
     "pubDate": "Sun, 01 Sep 2024 01:00:00 +0100",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTFJRBI-V3W7v1qUXGTy4USOcsvsi7KB6n0welGIJQZelDDYCwreKxcM9bREMDPEcZm0SEUxOJA",
-    "news_item_snippet": "The 26-year Turkish archer Oznur Cure Girdi earned the status of a para archery star at the Paris 2024 Paralympics. She broke the compound women&#39;s world&nbsp;...",
-    "news_item_url": "https://www.worldarchery.sport/news/201790/oznur-cure-girdi-crowns-dream-performance-paralympic-gold",
-    "picture_source": "World Archery",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSP3jmWwwTZlS6UQuUlqHLSEYpcVVlRFqIhb_GviTw0tteceJctkpQsyOH6re35vpBjqPajGBwS",
+    "news_item_snippet": "First-time Paralympian Kyle Tremblay matched world-ranked number one, Rakesh Kumar from India, in the Paris 2024 Paralympic Games Para archery men&#39;s&nbsp;...",
+    "news_item_url": "https://paralympic.ca/news/kyle-tremblay-goes-shot-for-shot-with-world-number-1-in-para-archery-quarter-finals/",
+    "picture_source": "Canadian Paralympic Committee",
     "approx_traffic": "1,000,000+"
   },
   {
@@ -757,26 +817,16 @@
     "news_item_snippet": "Minute-by-minute report: Arne Slot steered Liverpool to a comfortable win, with Mohamed Salah adding to Luis D\u00edaz&#39;s goals.",
     "news_item_url": "https://www.theguardian.com/football/live/2024/sep/01/manchester-united-v-liverpool-premier-league-live",
     "picture_source": "Manchester United",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "United Kingdom",
-    "title": "Manchester United",
-    "pubDate": "Sun, 01 Sep 2024 15:00:00 +0100",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcT6HgCxjfdjaEZd_bz5KK1zwtzH1yyCejOqnepJ8JiX210QzgV-dpi0Byw63ZuFipJyzAzbymQi",
-    "news_item_snippet": "Neil Atkinson&#39;s post-match review for The Anfield Wrap after Manchester United 0 Liverpool 3 in the 2024-2025 Premier League season...",
-    "news_item_url": "https://www.theanfieldwrap.com/2024/09/writing-manchester-united-0-liverpool-3-review/",
-    "picture_source": "Manchester United",
-    "approx_traffic": "200,000+"
+    "approx_traffic": "500,000+"
   },
   {
     "country": "United Kingdom",
     "title": "Sol Bamba",
     "pubDate": "Sun, 01 Sep 2024 00:00:00 +0100",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQLhh1xAmd6fQ2waWFiCnaR2USQxVDw3bjY1Pl28wLST2-WxaHiR7Hwc9ReW6qPMCW7w38eyJ4T",
-    "news_item_snippet": "Souleymane \u201cSol\u201d Bamba, who played for Cardiff in the English Premier League, has...",
-    "news_item_url": "https://www.bigrapidsnews.com/sports/article/former-cardiff-and-ivory-coast-soccer-player-sol-19736684.php",
-    "picture_source": "Border Counties Advertizer",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQm2m7UJqpE-iWTZO_2FCeUous8661JRYmqFvsjPUCD86QYv9d_6FB8YSKH5tgBu7WBWNi6BxS3",
+    "news_item_snippet": "The former defender, who played under Warnock at Cardiff and Middlesbrough, died on Saturday in Turkey.",
+    "news_item_url": "https://www.bordercountiesadvertizer.co.uk/sport/national/24555105.neil-warnock-leads-tributes-ray-sunshine-sol-bamba-death-aged-39/",
+    "picture_source": "dafc.co.uk",
     "approx_traffic": "200,000+"
   },
   {
@@ -813,10 +863,20 @@
     "country": "United Kingdom",
     "title": "Man City",
     "pubDate": "Sun, 01 Sep 2024 17:00:00 +0100",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcS5y_Rt-DYzIxWRCLqx7mxgyQm5Jj0_ufUH57CJ0XlAcuVi4bq1WBanWfI63VNgw35X7-4kxoTW",
-    "news_item_snippet": "Rico Lewis believes Manchester City couldn&#39;t have made a better start to the 2024/25 season.",
-    "news_item_url": "https://www.mancity.com/news/mens/rico-lewis-man-city-west-ham-premier-league-reaction-63860805",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSll-NfGutn-PhzooJYXATuxKIoATMWJ1VUkHpves5KcGJBBKa5Wclqaf6bI_22beW0flyTh8Ci",
+    "news_item_snippet": "Manchester City&#39;s Elite Development Squad made it back-to-back Premier League 2 wins with a enthralling 5-0 triumph over 10-player Everton.",
+    "news_item_url": "https://www.mancity.com/news/eds-academy/man-city-eds-v-everton-premier-league-2-match-report-september-2024-63860792",
     "picture_source": "Manchester City FC",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United Kingdom",
+    "title": "Real Madrid vs Real Betis",
+    "pubDate": "Sun, 01 Sep 2024 20:00:00 +0100",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQ9PwZ4ezl_fw6rE7k-feWK1UIBh1h0-OhUP2Teg2Pt_dc8dQHL9vXpr4oj-KlDuRqbOYh05pTy",
+    "news_item_snippet": "Kylian Mbappe scored his first two goals in La Liga to ease Real Madrid to a comfortable win over Real Betis.",
+    "news_item_url": "https://www.goal.com/en/lists/real-madrid-player-ratings-vs-real-betis-kylian-mbappe-federico-valverde/blt5f40814f654dc64d",
+    "picture_source": "CNET",
     "approx_traffic": "50,000+"
   }
 ]
