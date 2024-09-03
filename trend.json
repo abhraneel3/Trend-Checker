@@ -1,6 +1,16 @@
 [
   {
     "country": "United States",
+    "title": "Yen",
+    "pubDate": "Tue, 03 Sep 2024 05:00:00 -0700",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSB87eAM9aCRVXSiUsP-7lv8mJgPWyFFy3GzTde6DWdX5aC9YqVijnHqjeBXNM9aTw6hbiAUWip",
+    "news_item_snippet": "The Swiss franc gains ground as a preferred funding currency due to its lower interest rates and safe-haven appeal amidst yen volatility.",
+    "news_item_url": "https://finimize.com/content/investors-favor-swiss-franc-over-yen-for-carry-trades",
+    "picture_source": "Finimize",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
     "title": "Florida State football",
     "pubDate": "Mon, 02 Sep 2024 13:00:00 -0700",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTKlzhcVb6lr2y8UxIyvwI-5fXJ32dmQu6AKeOtNJhkv8wVS_L7ukHD--TiHy-N7gZGXmjHPJx2",
@@ -34,8 +44,8 @@
     "title": "James Darren",
     "pubDate": "Mon, 02 Sep 2024 19:00:00 -0700",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRbpV2COXHI4iLIutJoH7N-b5Hk4AHYzPfZFVQBpaiOept9VUZKJfz8_9COQBjMGICYe_EgitoI",
-    "news_item_snippet": "So sorry to hear that James Darren has died at age 88. A matinee idol from the 1960s, Darren starred as Moondoggie in the \u201cGidget\u201d beach blanket movies.",
-    "news_item_url": "https://www.showbiz411.com/2024/09/02/rip-james-darren-88-matinee-idol-starred-as-moondoggie-in-original-gidget-went-through-the-time-tunnel",
+    "news_item_snippet": "StarTrek.com is saddened to report the passing of James Darren, who played the charismatic lounge singer, Vic Fontaine, across seven episodes for Star Trek:&nbsp;...",
+    "news_item_url": "https://www.startrek.com/news/remembering-james-darren",
     "picture_source": "wyomingnewsnow.tv",
     "approx_traffic": "100,000+"
   },
@@ -44,8 +54,8 @@
     "title": "DJ Uiagalelei",
     "pubDate": "Mon, 02 Sep 2024 19:00:00 -0700",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRlss2ek___eKJgMRwtG3ikOz-kZv0geeRDaLU9Go3zXENsQ0TwB_L2ZfTo3e37wC-S47u44XTm",
-    "news_item_snippet": "D.J. Uiagalelei transferred from Oregon State to Florida State in hopes of augmenting his chances to get selected in the 2025 NFL Draft.",
-    "news_item_url": "https://sports.yahoo.com/football-world-done-d-j-013436265.html",
+    "news_item_snippet": "FSU football head coach Mike Norvell knew he needed a transfer quarterback going into the 2024 season with two scholarship quarterbacks on the roster,&nbsp;...",
+    "news_item_url": "https://chopchat.com/posts/fsu-football-3-reasons-it-s-time-to-move-on-from-dj-uiagalelei-01j6w375mqxz",
     "picture_source": "Tallahassee.com",
     "approx_traffic": "100,000+"
   },
@@ -57,26 +67,6 @@
     "news_item_snippet": "Former NFL star Chad Johnson expresses his disappointment with Florida State football after its recent loss. Find out why he might take FAMU.",
     "news_item_url": "https://hbcugameday.com/2024/09/02/florida-state-might-lose-to-famu-right-now-says-chad-johnson/",
     "picture_source": "HBCU Gameday",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Jannik Sinner",
-    "pubDate": "Mon, 02 Sep 2024 19:00:00 -0700",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQQpJyqBXnoekvQ7ctHaIv7ZEJVsa8s5s3g7z8bECyhNaH61gIuUT5WeQoUTwfnqOd4wS7IcXJA",
-    "news_item_snippet": "No. 1 seed Jannik Sinner faces American hope and No. 14 seed Tommy Paul in the fourth round of the 2024 US Open in Arthur Ashe Stadium..",
-    "news_item_url": "https://www.usopen.org/en_US/news/articles/2024-09-02/us_open_jannik_sinner_vs_tommy_paul_round_4_key_match_preview.html",
-    "picture_source": "The Pioneer",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Bank",
-    "pubDate": "Mon, 02 Sep 2024 07:00:00 -0700",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSBDlW6w9AqVD9wu2fLNAUINo5bFCbq7R27njwaSnHWlQBJQnxxU4qTL37Obb9xNH5bSn4Gdvdd",
-    "news_item_snippet": "PRNewswire/ - VersaBank (&quot;VersaBank&quot; or the &quot;Bank&quot;) (TSX: VBNK) (NASDAQ: VBNK), a North American leader in business-to-business digital banking, as well as.",
-    "news_item_url": "https://www.prnewswire.com/news-releases/versabank-closes-us-bank-acquisition-formally-launches-innovative-digital-funding-solution-to-underserved-multi-trillion-dollar-us-market-302235979.html",
-    "picture_source": "PRNewswire",
     "approx_traffic": "50,000+"
   },
   {
@@ -100,6 +90,16 @@
     "approx_traffic": "50,000+"
   },
   {
+    "country": "United States",
+    "title": "Jannik Sinner",
+    "pubDate": "Mon, 02 Sep 2024 19:00:00 -0700",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQQpJyqBXnoekvQ7ctHaIv7ZEJVsa8s5s3g7z8bECyhNaH61gIuUT5WeQoUTwfnqOd4wS7IcXJA",
+    "news_item_snippet": "No. 1 seed Jannik Sinner faces American hope and No. 14 seed Tommy Paul in the fourth round of the 2024 US Open in Arthur Ashe Stadium..",
+    "news_item_url": "https://www.usopen.org/en_US/news/articles/2024-09-02/us_open_jannik_sinner_vs_tommy_paul_round_4_key_match_preview.html",
+    "picture_source": "The Pioneer",
+    "approx_traffic": "50,000+"
+  },
+  {
     "country": "India",
     "title": "IC 814 Kandahar hijacking Netflix",
     "pubDate": "Tue, 03 Sep 2024 07:30:00 +0530",
@@ -108,6 +108,16 @@
     "news_item_url": "https://www.indiatoday.in/india/story/netflix-india-content-head-monika-shergill-ic-814-kandahar-hijack-government-summoned-today-2592555-2024-09-03",
     "picture_source": "BBC News",
     "approx_traffic": "100,000+"
+  },
+  {
+    "country": "India",
+    "title": "India vs Mauritius",
+    "pubDate": "Tue, 03 Sep 2024 19:30:00 +0530",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTKX_iWFmnnZebKTyVJhmZEQ0aYcarvfRrlEwe-1rWjbcGY1qm48TWn2_piTSahV7tuTB5NXUBr",
+    "news_item_snippet": "India vs Mauritius Inter-Continental Cup, Live Streaming: India men&#39;s football team will be taking on Mauritius in the opening match of Inter-Continetal Cup&nbsp;...",
+    "news_item_url": "https://sports.ndtv.com/football/india-vs-mauritius-live-streaming-inter-continental-cup-2024-ind-vs-mau-live-telecast-football-match-updates-6481750",
+    "picture_source": "Sportstar",
+    "approx_traffic": "50,000+"
   },
   {
     "country": "India",
@@ -123,20 +133,20 @@
     "country": "India",
     "title": "Brunei",
     "pubDate": "Tue, 03 Sep 2024 10:30:00 +0530",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSGpF5Ngbt_TOXnO3KSUsoMSldHcEmwJ52RtpD4qQOBA3PLxXyUCH2fqp8zRtM2NmtedogM-Y0R",
-    "news_item_snippet": "Prime Minister Narendra Modi Tuesday (September 3, 2024) said he was looking forward to strong ties with Brunei, especially in boosting commercial and&nbsp;...",
-    "news_item_url": "https://www.thehindu.com/news/national/pm-modi-arrives-in-brunei-the-first-leg-of-two-nation-visit/article68600557.ece",
-    "picture_source": "PM India",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSJFhnjCTx-_EPkaiASxT0OvwEjXb2KmOf4djOeRYJ09JLyUjfRXIlcC_pOuBjkUvix_gpKxMju",
+    "news_item_snippet": "\u200bPrime Minister Shri Narendra Modi arrived in Bandar Seri Begawan on an official visit today at the invitation of His Majesty Sultan Haji Hassanal Bolkiah.",
+    "news_item_url": "https://www.pmindia.gov.in/en/news_updates/pm-arrives-in-brunei-on-an-official-visit/?comment=disable",
+    "picture_source": "The Hindu",
     "approx_traffic": "50,000+"
   },
   {
     "country": "India",
     "title": "Paralympics medals",
     "pubDate": "Mon, 02 Sep 2024 18:30:00 +0530",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRP9L9sPzIk55hUHAM7ZWUa8oYtFtxobSN7naEFv2pAkD0I8cERMUTGzPyVJwV48z21tvngN5pC",
-    "news_item_snippet": "India won a total of eight medals as September 2, 2024 became the country&#39;s single most successful day in the history of Paralympics.",
-    "news_item_url": "https://indianexpress.com/article/sports/sport-others/from-nitesh-to-sumit-how-indias-most-successful-day-ever-at-the-paralympics-panned-out-9547468/",
-    "picture_source": "Sportstar",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSnba08_0bQYQq4QIyw0MKdqyMCFSWxktayt_EiJSLAApGycacq_f94BiEQSgwjq6sRU1qwiVRG",
+    "news_item_snippet": "The latest edition of the Paralympics in Paris will feature 4400 athletes from around the world competing in 549 medal events across 22 sports.",
+    "news_item_url": "https://sportstar.thehindu.com/olympics/paris-paralympics-2024/news/paralympics-medal-tally-live-paris-2024-day-6-table-updates-top-10-list-india-position-highlights-details-news/article68599912.ece",
+    "picture_source": "The Indian Express",
     "approx_traffic": "200,000+"
   },
   {
@@ -161,12 +171,42 @@
   },
   {
     "country": "India",
+    "title": "India at the Paralympics medals",
+    "pubDate": "Mon, 02 Sep 2024 23:30:00 +0530",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSnba08_0bQYQq4QIyw0MKdqyMCFSWxktayt_EiJSLAApGycacq_f94BiEQSgwjq6sRU1qwiVRG",
+    "news_item_snippet": "Paris Paralympics 2024: Indian para-athletes shine at the Paris Paralympics 2024 with Avani Lekhara and Mona Agarwal competing in the women&#39;s shooting final&nbsp;...",
+    "news_item_url": "https://www.livemint.com/sports/olympics-news/paris-paralympics-2024-know-indias-medal-tally-and-full-list-of-winners-11725330948265.html",
+    "picture_source": "The Indian Express",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "India",
     "title": "AAP MLA Amanatullah Khan",
     "pubDate": "Mon, 02 Sep 2024 23:30:00 +0530",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRr00K6C-nyRwBA0K__8TZjON2lPrBDGSRxofzxdtKBDk4fPmrQ5f6piX90eDy-4Em8Qw212BZu",
     "news_item_snippet": "Amanatullah Khan was taken into custody by the ED under provisions of the Prevention of Money Laundering Act (PMLA) | Latest News India.",
     "news_item_url": "https://www.hindustantimes.com/india-news/aap-mla-amanatullah-khan-sent-to-4-days-ed-custody-in-money-laundering-case-101725299243492.html",
     "picture_source": "The Hindu",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "India",
+    "title": "Baazar Style IPO",
+    "pubDate": "Mon, 02 Sep 2024 19:30:00 +0530",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTNAKmAPJFg0mZT391oF7E8WIr4OLc38rfM9Vp8HOuEE7q6ktOaraejzQjz4aljRfxrc4kT1ufw",
+    "news_item_snippet": "Baazar Style Retail IPO: The retail individual investors&#39; quota had been subscribed 9.07 times, while the non-institutional investors&#39; category saw 59.41&nbsp;...",
+    "news_item_url": "https://m.economictimes.com/markets/ipos/fpos/baazar-style-retail-ipo-subscribed-nearly-8-times-on-day-3-gmp-declines-to-16-check-details/articleshow/113015853.cms",
+    "picture_source": "Business Standard",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Argentina",
+    "title": "Seleccion Argentina",
+    "pubDate": "Mon, 02 Sep 2024 08:00:00 -0300",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTJQ7KKi1NsLjSZOcL67t9CPOVDuXatbxg0o-9WLak9822T89JeUgLhjtft5pomMB7nWR6VgwSu",
+    "news_item_snippet": "La lista de convocados de Lionel Scaloni, d\u00f3nde ver el partido en vivo online y por TV y la tabla de posiciones.",
+    "news_item_url": "https://www.pagina12.com.ar/764507-cuando-y-a-que-hora-juega-la-seleccion-argentina-vs-chile-po",
+    "picture_source": "canchallena.com",
     "approx_traffic": "50,000+"
   },
   {
@@ -354,8 +394,8 @@
     "title": "Real Madrid",
     "pubDate": "Mon, 02 Sep 2024 12:00:00 -0600",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRGEqj1jyom9tmFXRz7JL-6uOb6IkyQldszVc0OePEaIDyepLFfRhVn8smtz_eCyQj2L-ERwIil",
-    "news_item_snippet": "Futbol Internacional | El lateral izquierdo Ferland Mendy no jugar\u00e1 los partidos internacionales con Francia ante It...",
-    "news_item_url": "https://www.xeudeportes.mx/futbol-internacional/1338889/real-madrid-suma-otro-jugador-lesionado-a-la-lista",
+    "news_item_snippet": "Seg\u00fan ha informado este lunes en redes sociales la selecci\u00f3n francesa de f\u00fatbol, &quot;Ferland Mendy, lesionado en la tibia derecha, es sustituido por Lucas&nbsp;...",
+    "news_item_url": "https://www.marca.com/futbol/real-madrid/2024/09/02/66d5b30046163fde3c8b45b6.html",
     "picture_source": "ESPN",
     "approx_traffic": "100,000+"
   },
@@ -363,20 +403,20 @@
     "country": "Spain",
     "title": "Rafa Mir",
     "pubDate": "Tue, 03 Sep 2024 14:00:00 +0200",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSwg20bZjHGWoOx8XjnXTZ5QIFi5soDeJZzRCmG84jBqKPqTv2QMYNbJQC-mT-vmhhsvzKBimKq",
-    "news_item_snippet": "El actual jugador del Valencia ha sido detenido por la Guardia Civil y esta ma\u00f1ana ya no ha entrenado con sus compa\u00f1eros. Los hechos habr\u00edan ocurrido en su&nbsp;...",
-    "news_item_url": "https://andaluciainformacion.es/alcala-la-real/1746718/el-exsevillista-rafa-mir-detenido-por-una-presunta-agresion-sexual-a-dos-mujeres/",
-    "picture_source": "La Tribuna de Albacete",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQu1LuL4PneR8fHWpdLag5KY6QpVfXrO0UsJhVi7vxY0B3I8pRV8M0i0bOct2xotSWARojb50qW",
+    "news_item_snippet": "La denuncia contra el jugador del Valencia ha sido interpuesta por una joven de 25 a\u00f1os que asegura que la agresi\u00f3n se produjo en casa del futbolista.",
+    "news_item_url": "https://www.tribunavalladolid.com/noticias/378228/detenido-el-futbolista-rafa-mir-por-un-delito-de-agresion-sexual",
+    "picture_source": "Andaluc\u00eda Informaci\u00f3n",
     "approx_traffic": "50,000+"
   },
   {
     "country": "United Kingdom",
     "title": "Wheelchair tennis Paralympics",
     "pubDate": "Tue, 03 Sep 2024 01:00:00 +0100",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQO1AqogEDJ2abrQG8STgsHTof4FtQFFl-Ra5CWlAsq6QTcHdV6C9Q1tO0ztJlw5eT6h6MNzJRh",
-    "news_item_snippet": "Wheelchair tennis permits two bounces before a return, with the second bounce allowed outside the court. Alfie Hewett, targeting his first Paralympic.",
-    "news_item_url": "https://timesofindia.indiatimes.com/sports/paris-paralympics/wheelchair-tennis-at-the-paris-paralympics-a-comprehensive-guide/articleshow/113015164.cms",
-    "picture_source": "Olympics",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcT_TaSyTP6mIbH8RTWVmL51b-p65ZH0RLpbVpcO3Z1G3h4Jmt1xr_vHvlQGl-CRw6xfY13GauRQ",
+    "news_item_snippet": "Discover the creative ways that wheelchair tennis players are gaining speed on the court, and why that is critical in their sport.",
+    "news_item_url": "https://olympics.com/en/news/paralympic-games-paris-2024-wheelchair-tennis-training-drills-de-groot-vink-fernandez-reid",
+    "picture_source": "Metro",
     "approx_traffic": "500,000+"
   },
   {
@@ -404,8 +444,8 @@
     "title": "LinkedIn",
     "pubDate": "Mon, 02 Sep 2024 13:00:00 +0100",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQmOwNnzdgdxw_PpxHDzOGGp4V_IVLtg0Uc1UnhlqSIRleEI4uaXKGLkdLF6VGvO5xIIJgmvhqY",
-    "news_item_snippet": "Your LinkedIn profile is the arbiter of your personal brand. It&#39;s important to keep it relevant, current, and compelling. Here are edits to make right away.",
-    "news_item_url": "https://www.forbes.com/sites/williamarruda/2024/09/02/5-changes-to-make-to-your-linkedin-profile-right-now/",
+    "news_item_snippet": "LinkedIn is more than just another social platform\u2014it&#39;s a place where real connections can lead to real opportunities. Yet, many people haven&#39;t fully&nbsp;...",
+    "news_item_url": "https://www.socialmediabutterflyblog.com/2024/09/five-practical-ways-to-maximize-linkedin-for-your-professional-success/",
     "picture_source": "Forbes",
     "approx_traffic": "50,000+"
   },
@@ -434,8 +474,8 @@
     "title": "Osimhen",
     "pubDate": "Mon, 02 Sep 2024 23:00:00 +0100",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSqY-7AYAfQdEwAnnEvMCZAatEvCkVZrtgKH-ljGZKUA2-cO77c5Rt7KIn435awHmKuVrTUTs_q",
-    "news_item_snippet": "The Turkish Super Lig club Galatasaray have opened talks to sign striker Victor Osimhen on loan after he was not included in Napoli&#39;s main squad.",
-    "news_item_url": "https://www.duvarenglish.com/in-a-surprise-move-galatasaray-in-talks-to-sign-napolis-osimhen-on-loan-news-64888",
+    "news_item_snippet": "Victor Osimhen has included a break clause as part of his deal with Galatasaray which would allow him to join Arsenal or Chelsea in January.",
+    "news_item_url": "https://metro.co.uk/2024/09/03/victor-osimhen-includes-arsenal-chelsea-transfer-demand-deal-galatasaray-21536507/",
     "picture_source": "The Pioneer",
     "approx_traffic": "50,000+"
   }
