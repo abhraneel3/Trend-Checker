@@ -3,20 +3,30 @@
     "country": "United States",
     "title": "Concord",
     "pubDate": "Tue, 03 Sep 2024 12:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSzF50wz42yJaVx-8sGC2J9KeWfAXP6kLgvnVTPMrh-JkHAwPPMWrryvTazzHJZg9t75qj8VRap",
-    "news_item_snippet": "Firewalk Studios has announced Concord will be taken offline shortly, and all players who purchased the game will be refunded.",
-    "news_item_url": "https://www.gameshub.com/news/news/concord-offline-date-refunds-2644918/",
-    "picture_source": "Variety",
-    "approx_traffic": "100,000+"
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQi5pO_5qf5te0XrKHv5EgB5TfZ-oms4Mnt7fN3XbCHFwnFYPKhir5xRMYIHIXP8ndKYJwiXRGo",
+    "news_item_snippet": "PlayStation will be taking its new Firewalk-developed live services game &quot;Concord&quot; offline this Friday, two weeks after its Aug. 23 launch.",
+    "news_item_url": "https://variety.com/2024/gaming/news/playstation-shuts-down-concord-refund-players-1236128208/",
+    "picture_source": "GamesHub",
+    "approx_traffic": "200,000+"
   },
   {
     "country": "United States",
-    "title": "Fore",
-    "pubDate": "Tue, 03 Sep 2024 04:00:00 -0700",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQ3-uKUPnCxeEMs4mbRfBwdr0VT5mzJVb6oDAyO2SpKdKkJhBQZplT3tM-OFBqyvn7GK2ibA0k3",
-    "news_item_snippet": "Members of Henry Ford Health System, TRUE Community Credit Union and American 1 Credit Union come together to talk about the Hit &#39;Em Fore Hospice golf&nbsp;...",
-    "news_item_url": "https://www.fox47news.com/entertainment/shows/the-morning-blend/hit-em-fore-hospice-fundraiser-golf-outing-09-03-24",
-    "picture_source": "WSYM-TV",
+    "title": "Tiafoe",
+    "pubDate": "Tue, 03 Sep 2024 19:00:00 -0700",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTvn9J44lelq7kXbxl15Y7WnZ3AQRuLU0YbprvCSF25hROewV6ksNVTxh8fGmRdV9A4p0B9uuQa",
+    "news_item_snippet": "Frances Tiafoe advanced to his second major semi-final Tuesday at the US Open, where Grigor Dimitrov was forced to retire with the American leading 6-3,&nbsp;...",
+    "news_item_url": "https://www.atptour.com/en/news/dimitrov-tiafoe-us-open-2024-qf",
+    "picture_source": "ESPN",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Taylor Fritz",
+    "pubDate": "Tue, 03 Sep 2024 14:00:00 -0700",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSW6g9NVgfbTjnRP207dz-SfDOK7Q9SoVx-phwfOZT1rcKLsdKVNvlqXxH21ZpKU1zBVYva4QgW",
+    "news_item_snippet": "After years of climbing the rankings to become the top American man in tennis, Taylor Fritz finally came through at home, beating Alexander Zverev 7-6 (2),&nbsp;...",
+    "news_item_url": "https://www.espn.com/tennis/story/_/id/41112098/taylor-fritz-defeats-alexander-zverev-4-sets-reach-2024-us-open-semifinals",
+    "picture_source": "Forbes",
     "approx_traffic": "100,000+"
   },
   {
@@ -33,45 +43,75 @@
     "country": "United States",
     "title": "Linda Sun",
     "pubDate": "Tue, 03 Sep 2024 11:00:00 -0700",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQJuI1Y9zPLtOC4BzWjIHJrnsnjcO50fzbOSoE94eEZbkpl9I-SMe_7QLpo_AnZPtUmsp1NRsB0",
-    "news_item_snippet": "Linda Sun, who worked for both Gov. Kathy Hochul and Gov. Andrew Cuomo, was accused of using her position to benefit the Chinese government.",
-    "news_item_url": "https://www.nytimes.com/2024/09/03/nyregion/linda-sun-arrested-hochul.html",
-    "picture_source": "The New York Times",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcR_QoMXDILMeC5V3sPG5L3zxgLqv4ydy0HOg599NqdZQGCaVEhPNG_9keEiSgnEsmDkiWG-MnMe",
+    "news_item_snippet": "Former High-Ranking New York State Government Employee Charged with Acting as an Undisclosed Agent of the People&#39;s Republic of China and the Chinese Communist&nbsp;...",
+    "news_item_url": "https://www.justice.gov/usao-edny/pr/former-high-ranking-new-york-state-government-employee-charged-acting-undisclosed",
+    "picture_source": "BBC News",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Stock market today",
+    "pubDate": "Tue, 03 Sep 2024 14:00:00 -0700",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTKvh18hCrl-PB3cwlvU3nN5hApk-UC6WlE_2YI9QV4-_Bh_jyvIvw6w0dj43stU00f_L7G0wZC",
+    "news_item_snippet": "The jobs report has once again become the main event for the stock market each month, taking over from updates on inflation, according to analysts at Bank&nbsp;...",
+    "news_item_url": "https://bizneworleans.com/stock-market-today-wall-street-slumps-toward-its-worst-day-in-nearly-a-month/",
+    "picture_source": "Odessa American",
     "approx_traffic": "50,000+"
   },
   {
     "country": "United States",
     "title": "Sabalenka",
     "pubDate": "Tue, 03 Sep 2024 18:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSKxHx9aWE9shcQIVsKdf2fayYCddgf8RcVcAv0EF9OLIINHnLctzcvylwlCJ4prccHhh_yU2si",
-    "news_item_snippet": "With five-time US Open champion Roger Federer watching on in the stands, Aryna Sabalenka cruised past Olympic champion Zheng Qinwen in the US Open&nbsp;...",
-    "news_item_url": "https://www.wtatennis.com/news/4106833/as-federer-looks-on-sabalenka-sweeps-into-fourth-straight-us-open-semifinal",
-    "picture_source": "ESPN",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Amy Slaton",
-    "pubDate": "Tue, 03 Sep 2024 10:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQMYJl8cXAHPZaESbA4AhHWVOgxaZbt5JpMCwMmrdc64h5QyCCVXySKHDVG1qJaTNpVkSGMhOdh",
-    "news_item_snippet": "Amy Slaton Halterman, who appeared on &quot;1000-Lb. Sisters,&quot; was arrested on drug and child endangerment charges at the Tennessee Safari Park.",
-    "news_item_url": "https://abc7chicago.com/post/1000-lb-sisters-performer-amy-slaton-arrested-drug-child-endangerment-charges-tennessee-safari-park-alamo/15265155/",
-    "picture_source": "TVTV",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSBRxc1j-UKJYXKhW-EBAWDCawgpXiaY40EcGoxy5wtEgJCIzdUEzePspHntprb3U0YmGDYEJc8",
+    "news_item_snippet": "This was not a simple repeat of the Australian Open final rout \u2014 Zheng&#39;s serve, her key weapon, let her down badly.",
+    "news_item_url": "https://www.nytimes.com/athletic/5743250/2024/09/03/sabalenka-zheng-us-open-result/",
+    "picture_source": "The Guardian",
     "approx_traffic": "50,000+"
   },
   {
     "country": "United States",
     "title": "Florida State football",
-    "pubDate": "Mon, 02 Sep 2024 13:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSsoYmo8AXfPMCqZImLT-EZsCs0_33Om9D6SizJQ3ZnTJeWBmjIjN_U40ebE0-uuSD7Z2RcLVmH",
+    "pubDate": "Mon, 02 Sep 2024 17:00:00 -0700",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTKlzhcVb6lr2y8UxIyvwI-5fXJ32dmQu6AKeOtNJhkv8wVS_L7ukHD--TiHy-N7gZGXmjHPJx2",
     "news_item_snippet": "Florida State will be trying to bounce back versus Boston College, which the Seminoles struggled with in the fourth quarter during the 2023 meeting. Florida&nbsp;...",
     "news_item_url": "https://chopchat.com/posts/fsu-football-score-prediction-analysis-for-florida-state-versus-boston-college-01j6sc7r2d6w",
     "picture_source": "BC Interruption",
     "approx_traffic": "500,000+"
   },
   {
+    "country": "United States",
+    "title": "James Darren",
+    "pubDate": "Mon, 02 Sep 2024 19:00:00 -0700",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTQLAZ1L_U9CyLB3-RZNhD8VLOn-KvifOeE-iPMbq_J_ftLtfdznLcmiCeg82HcUm24K06xTzac",
+    "news_item_snippet": "The teen idol who helped ignite the 1960s surfing craze as a charismatic beach boy paired off with Sandra Dee in the hit film \u201cGidget,\u201d died Monday at 88.",
+    "news_item_url": "https://www.mychamplainvalley.com/news/national-news/gidget-teen-idol-james-darren-dies-at-88/",
+    "picture_source": "Local 22/44 News",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Tommy Paul",
+    "pubDate": "Mon, 02 Sep 2024 18:00:00 -0700",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQQpJyqBXnoekvQ7ctHaIv7ZEJVsa8s5s3g7z8bECyhNaH61gIuUT5WeQoUTwfnqOd4wS7IcXJA",
+    "news_item_snippet": "No. 1 seed Jannik Sinner faces American hope and No. 14 seed Tommy Paul in the fourth round of the 2024 US Open in Arthur Ashe Stadium..",
+    "news_item_url": "https://www.usopen.org/en_US/news/articles/2024-09-02/us_open_jannik_sinner_vs_tommy_paul_round_4_key_match_preview.html",
+    "picture_source": "The Pioneer",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United States",
+    "title": "D\u00eda del trabajo",
+    "pubDate": "Mon, 02 Sep 2024 06:00:00 -0700",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRHxTA8NNkSTSwfv29yFiQX9Fyf6oqekC9J1zPdN4DAJ1YNJdjQBvHyM6OX00MvEwaI0mrwDQUV",
+    "news_item_snippet": "Tres hombres resultaron heridos de bala en medio de incidentes oicurridos en distintas partes de Filadelfia de domingo a lunes, los primeros d\u00edas de septiembre&nbsp;...",
+    "news_item_url": "https://www.telemundo62.com/noticias/local/tiroteos-dia-del-trabajo-filadelfia-tres-heridos/2425495/",
+    "picture_source": "Telemundo 62",
+    "approx_traffic": "100,000+"
+  },
+  {
     "country": "India",
-    "title": "Wheelchair tennis Paralympics",
+    "title": "Wheelchair tennis paralympics",
     "pubDate": "Tue, 03 Sep 2024 00:30:00 +0530",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTUnpNZduVrRmRqfqXDCQllALbFr65Y7hLykjH4cFgGxB7DrRz_Dh9STMA8vNvre0ow_WrsUK2O",
     "news_item_snippet": "Google Doodle Today, Wheelchair Tennis Paralympics: The doodle shows two birds playing the sport in a wheelchair in a pristine Parisian garden.",
@@ -81,22 +121,22 @@
   },
   {
     "country": "India",
-    "title": "Paralympics medals",
-    "pubDate": "Tue, 03 Sep 2024 00:30:00 +0530",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSmLJdOKvSRpDgLv-NDlthlp-kqwzN9TrWXs_6dKNjW9xBD9QmkWvc4m3yEQGnu7jZfAsoVw4mK",
-    "news_item_snippet": "India secured five medals in a single day at the Paralympics, with Sharad Kumar and Mariyappan Thangavelu winning silver and bronze in men&#39;s high jump T63.",
-    "news_item_url": "https://m.economictimes.com/news/sports/paralympics-2024-two-silvers-three-bronze-india-bags-five-medals-in-single-day-and-breaks-tokyo-record/articleshow/113041193.cms",
-    "picture_source": "Sportstar",
-    "approx_traffic": "200,000+"
+    "title": "IC 814 Kandahar hijacking Netflix",
+    "pubDate": "Tue, 03 Sep 2024 07:30:00 +0530",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRMLaebvtcxQThNYBU3cPQheIdrJTal4DYoz7wuS-Rl0CEWLM5mFqTUzyYKC-QZrPh9cxjwD1WQ",
+    "news_item_snippet": "Rakesh and Pooja Kataria, who spoke to India Today TV, were a young couple at the time of the incident. They were returning home from their honeymoon in&nbsp;...",
+    "news_item_url": "https://www.indiatoday.in/india/story/indian-airlines-ic-814-survivors-ordeal-plane-hijack-netflix-series-bhola-shankar-terrorists-names-2593249-2024-09-04",
+    "picture_source": "BBC News",
+    "approx_traffic": "100,000+"
   },
   {
     "country": "India",
-    "title": "IC-814 Kandahar hijacking Netflix",
-    "pubDate": "Tue, 03 Sep 2024 07:30:00 +0530",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRMLaebvtcxQThNYBU3cPQheIdrJTal4DYoz7wuS-Rl0CEWLM5mFqTUzyYKC-QZrPh9cxjwD1WQ",
-    "news_item_snippet": "Monika Shergill said that India has a rich culture of storytelling and that Netflix is committed to showcasing these stories and their authentic&nbsp;...",
-    "news_item_url": "https://www.hindustantimes.com/india-news/netflix-updates-ic-814-the-kandahar-hijack-disclaimer-amid-controversy-101725361840421.html",
-    "picture_source": "BBC News",
+    "title": "Sharad Kumar",
+    "pubDate": "Tue, 03 Sep 2024 09:30:00 +0530",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSSW_jJm1-9tq2oXdZgy1giS9NS1TEBgOPLHWFlV7zts1Gg1D-aynHDCncFu_0_pXfSivetJAGi",
+    "news_item_snippet": "India&#39;s Sharad Kumar claimed silver while Mariyappan Thangavelu brought home bronze in the Men&#39;s High Jump - T63 Final on September 3, Tuesday.",
+    "news_item_url": "https://www.indiatoday.in/sports/paralympics/story/paris-paralympics-2024-high-jump-sharad-kumar-mariyappan-thangavelu-silver-bronze-2593205-2024-09-04",
+    "picture_source": "Olympics",
     "approx_traffic": "100,000+"
   },
   {
@@ -111,6 +151,16 @@
   },
   {
     "country": "India",
+    "title": "Brunei",
+    "pubDate": "Tue, 03 Sep 2024 10:30:00 +0530",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRN2iF8hZwROJO_2F-jrHX59STxFfevAx1hMJFmeRSEwHJtLwIes1VrlAz5jIWhhmDo1jmN4f_6",
+    "news_item_snippet": "\u200bPrime Minister Shri Narendra Modi arrived in Bandar Seri Begawan on an official visit today at the invitation of His Majesty Sultan Haji Hassanal Bolkiah.",
+    "news_item_url": "https://www.pmindia.gov.in/en/news_updates/pm-arrives-in-brunei-on-an-official-visit/",
+    "picture_source": "India Narrative",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "India",
     "title": "Japanese man sleeps 30 minutes",
     "pubDate": "Tue, 03 Sep 2024 10:30:00 +0530",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQi5AXeBwkRC5Qfp8Y1d0j8kPtL2zkiY7NdRiFxB5__As4q5D8WauqtphN_ZGVf7GT2oSjFRGrL",
@@ -121,13 +171,13 @@
   },
   {
     "country": "India",
-    "title": "Brunei",
-    "pubDate": "Tue, 03 Sep 2024 10:30:00 +0530",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTmEHakokweKYqVdN3-V4Lu34MDqIPAcALDpZCr-aIDUjEM0lrDX5E-CG9i9K6uDjQ-ZxFWQXpd",
-    "news_item_snippet": "\u200bPrime Minister Shri Narendra Modi arrived in Bandar Seri Begawan on an official visit today at the invitation of His Majesty Sultan Haji Hassanal Bolkiah.",
-    "news_item_url": "https://www.pmindia.gov.in/en/news_updates/pm-arrives-in-brunei-on-an-official-visit/",
-    "picture_source": "India Narrative",
-    "approx_traffic": "50,000+"
+    "title": "Paralympics medals",
+    "pubDate": "Mon, 02 Sep 2024 18:30:00 +0530",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSc71X_VUy1mVx52ll8DukD9VhZxN58Sxkw0g77ubnlkCKjTK3At8DJ5tvIqX-6sp8XbScbMYlF",
+    "news_item_snippet": "Indians won silver and bronze in both men&#39;s high jump T63 and javelin throw F46 after Deepthi Jeevanji&#39;s bronze in the women&#39;s 400m T20 category.",
+    "news_item_url": "https://www.hindustantimes.com/sports/others/india-achieve-historic-medal-haul-in-paris-paralympics-surpass-19-in-tokyo-after-double-medals-in-javelin-and-high-jump-101725410890520.html",
+    "picture_source": "Economic Times",
+    "approx_traffic": "200,000+"
   },
   {
     "country": "India",
@@ -141,32 +191,12 @@
   },
   {
     "country": "India",
-    "title": "Sumit Antil",
-    "pubDate": "Mon, 02 Sep 2024 18:30:00 +0530",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQT_y85GaWy1nCzSBu-Fo0xB17_6oYdp7cOB6bBoau3kc9r3P4ehLSpYqrezgQvsWNZMTOGRsvB",
-    "news_item_snippet": "Sumit Antil&#39;s Paralympic journey, marked by sacrifice and dedication, culminates in a historic gold medal win.",
-    "news_item_url": "https://www.thehindu.com/sport/olympics/sweet-sacrifice-and-sleepless-nights-sumit-antil-on-defending-paralympic-gold-despite-back-injury/article68600618.ece",
-    "picture_source": "The Indian Express",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "India",
     "title": "Gala Precision Engineering IPO",
     "pubDate": "Mon, 02 Sep 2024 11:30:00 +0530",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQQqFJmMucMo1MUxaIIVtHNHB4x86TnNVjvGb5-T9gCLNliQIp_qljz-tqSMYrYacyhE3MNf36I",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTt0lUcD3FXfoUUTmGX5oKQUxMnf2wO0pVNBWYAvLfUlpYmGWtmJfvJ9G1778c26pu879HPOPyw",
     "news_item_snippet": "The initial public offer of Gala Precision Engineering was subscribed 52.17 times on day two of bidding on Tuesday.",
     "news_item_url": "https://www.business-standard.com/markets/ipo/gala-precision-engineering-ipo-subscribed-52-17-times-on-2nd-day-of-bidding-124090301081_1.html",
     "picture_source": "Livemint",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "India",
-    "title": "Baazar Style IPO",
-    "pubDate": "Mon, 02 Sep 2024 19:30:00 +0530",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTNAKmAPJFg0mZT391oF7E8WIr4OLc38rfM9Vp8HOuEE7q6ktOaraejzQjz4aljRfxrc4kT1ufw",
-    "news_item_snippet": "Baazar Style Retail IPO allotment: The status can be checked on the official website of the registrar by filling in details like PAN, Application number or&nbsp;...",
-    "news_item_url": "https://www.moneycontrol.com/news/business/ipo/baazar-style-retail-ipo-allotment-likely-today-a-step-by-step-guide-to-check-your-allotment-status-gmp-and-other-key-details-12813619.html",
-    "picture_source": "Business Standard",
     "approx_traffic": "50,000+"
   },
   {
@@ -177,17 +207,27 @@
     "news_item_snippet": "Extendemos nuestras m\u00e1s sinceras condolencias a su compa\u00f1ero de vida, Arturo Puig, y a todos sus seres queridos en este dif\u00edcil momento, record\u00e1ndola con el&nbsp;...",
     "news_item_url": "https://actores.org.ar/selva-aleman/",
     "picture_source": "GPS Audiovisual",
-    "approx_traffic": "100,000+"
+    "approx_traffic": "200,000+"
   },
   {
     "country": "Argentina",
-    "title": "Lollapalooza 2025",
+    "title": "Lollapalooza",
     "pubDate": "Tue, 03 Sep 2024 13:00:00 -0300",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRIE71Wql_w-B9ZbmsIm5pq-gRuplIW1UNpVQDrUTB2KfcVp2fym_BrjhWC1KyRksEQaNq2ZDyv",
-    "news_item_snippet": "Hay tres grandes artistas que nunca hab\u00edan venido antes a la Argentina: Olivia Rodrigo, Justin Timberlake y TOOL.Shawn Mendes, Alanis Morissette y Tan&nbsp;...",
-    "news_item_url": "https://www.clarin.com/espectaculos/line-up-confirmado-lollapalooza-2025-argentina-artistas-festival-venta-entradas-tenes-saber_0_DjqA36cOpQ.html",
+    "news_item_snippet": "En marzo vendr\u00e1 a la Argentina por primera vez, para ser uno de los n\u00fameros centrales del festival. &quot;Sour&quot;, su primer \u00e1lbum, tuvo un debut so\u00f1ado,&nbsp;...",
+    "news_item_url": "https://www.clarin.com/espectaculos/lollapalooza-2025-olivia-rodrigo-estrella-pop-primer-disco-gasto-millones-dolares-pagarle-taylor-swift_0_uraScci96h.html",
     "picture_source": "LA NACION",
     "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Australia",
+    "title": "Wheelchair tennis Paralympics",
+    "pubDate": "Tue, 03 Sep 2024 01:00:00 +1000",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcT2NGtc1ZieTsXw3L9_g_ob6FtNPav837Q0bwo1oL490Id9RjsD-wCvpjRdv6qQa-0nIOvueoh8",
+    "news_item_snippet": "As the 2024 Paralympic Games enters its sixth day, wheelchair tennis matches are heating up in the final rounds. Thanks to Google featuring the sport with&nbsp;...",
+    "news_item_url": "https://www.nbcnewyork.com/paris-2024-summer-olympics/how-to-watch-wheelchair-tennis-at-paralympics-2024-amid-us-open-craze/5759725/",
+    "picture_source": "Forbes",
+    "approx_traffic": "200,000+"
   },
   {
     "country": "Brazil",
@@ -201,6 +241,16 @@
   },
   {
     "country": "Brazil",
+    "title": "T\u00eanis em cadeira de rodas nos Jogos Paral\u00edmpicos",
+    "pubDate": "Tue, 03 Sep 2024 22:00:00 -0500",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQhwVzlSU5tzgtp6048-3mDegERDHdLxqRDknmtsz6ZV-c59xdILrSk6ajXBy1G849EDxd4vsxI",
+    "news_item_snippet": "Nova York (EUA) \u2013 A mineira de 17 anos Vit\u00f3ria Miranda ser\u00e1 a representante brasileira no torneio de t\u00eanis em cadeira de rodas do US Open.",
+    "news_item_url": "https://tenisbrasil.uol.com.br/lider-do-ranking-vitoria-miranda-joga-3o-slam-no-tenis-em-cadeira-de-rodas.html",
+    "picture_source": "TenisBrasil",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Brazil",
     "title": "Mirassol",
     "pubDate": "Tue, 03 Sep 2024 12:00:00 -0500",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQas-W_Dw3Y96AbD10g9Z49hX5ENOeALAOLhvjFYUjytIEqmL1BeJDgR-FBxtp26RhDxNFL3Xpr",
@@ -211,18 +261,8 @@
   },
   {
     "country": "Brazil",
-    "title": "Lollapalooza 2025",
-    "pubDate": "Tue, 03 Sep 2024 11:00:00 -0500",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSNDYYEqoZ3ASzk6s6D7B7huCGy6YOlg58qsDiORNmng4ZIJfDVzc_0QvX2t_WIbV1I1U971St7",
-    "news_item_snippet": "Festival \u00e9 nos dias 28, 29 e 30 de mar\u00e7o, no Aut\u00f3dromo de Interlagos, em SP. R\u00fcf\u00fcs du Sol, Tool, Teddy Swims, Zedd, Benson Boonne, Foster the People e Tate&nbsp;...",
-    "news_item_url": "https://g1.globo.com/pop-arte/musica/noticia/2024/09/03/lollapalooza-2025-line-up-tem-olivia-rodrigo-justin-timberlake-alanis-morissette-e-shawn-mendes.ghtml",
-    "picture_source": "Roadie Crew",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Brazil",
     "title": "Brasil",
-    "pubDate": "Tue, 03 Sep 2024 19:00:00 -0500",
+    "pubDate": "Tue, 03 Sep 2024 11:00:00 -0500",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQYCL4vug0fon1qXFEVD6eUA5rBDGdVS5QAvalkF63EF134Er7OTLxltSN4znymuwaaCXj4ugof",
     "news_item_snippet": "Ind\u00fastria foi o principal motor para o crescimento do PIB, com aumento de 1,8%. Investimentos cresceram 2,1%.",
     "news_item_url": "https://agenciagov.ebc.com.br/noticias/202409/resultado-pib-brasil-terceiro-melhor-paises-do-g20-destaca-alckmin",
@@ -231,13 +271,13 @@
   },
   {
     "country": "Canada",
-    "title": "Wheelchair tennis Paralympics",
+    "title": "Wheelchair tennis Paralympics 2024",
     "pubDate": "Tue, 03 Sep 2024 01:00:00 -0400",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcT2NGtc1ZieTsXw3L9_g_ob6FtNPav837Q0bwo1oL490Id9RjsD-wCvpjRdv6qQa-0nIOvueoh8",
-    "news_item_snippet": "The wheelchair tennis events, which started on 30 August in the Paris Paralympics, will end on 7 September at the Roland Garros Stadium in Paris,&nbsp;...",
-    "news_item_url": "https://www.livemint.com/sports/olympics-news/paris-paralympics-2024-google-unveils-special-doodle-to-celebrate-wheelchair-tennis-heres-all-about-the-sport-11725367638692.html",
+    "news_item_snippet": "As the 2024 Paralympic Games enters its sixth day, wheelchair tennis matches are heating up in the final rounds. Thanks to Google featuring the sport with&nbsp;...",
+    "news_item_url": "https://www.nbcnewyork.com/paris-2024-summer-olympics/how-to-watch-wheelchair-tennis-at-paralympics-2024-amid-us-open-craze/5759725/",
     "picture_source": "Forbes",
-    "approx_traffic": "100,000+"
+    "approx_traffic": "500,000+"
   },
   {
     "country": "South Korea",
@@ -248,6 +288,16 @@
     "news_item_url": "https://www.insidevina.com/news/articleView.html?idxno=28592",
     "picture_source": "\uacf5\ubb34\uc6d0\uc800\ub110",
     "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Saudi Arabia",
+    "title": "\u0628\u0627\u0631\u0627\u0644\u0645\u0628\u064a\u0627\u062f \u062a\u0646\u0633 \u0627\u0644\u0643\u0631\u0627\u0633\u064a \u0627\u0644\u0645\u062a\u062d\u0631\u0643\u0629",
+    "pubDate": "Tue, 03 Sep 2024 01:00:00 +0300",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRsxjKy1bUi62PN8wH2wji-tBMyCGJTxAmihcjb3axPa3zSThXW_VQ_0U5m5PQz8hZuTj7m0-4P",
+    "news_item_snippet": "\u0627\u0644\u062b\u0644\u0627\u062b\u0627\u0621\u060c 03 \u0633\u0628\u062a\u0645\u0628\u0631 2024 - 08:42 \u0645. \u062a\u0639\u062f \u0628\u0627\u0631\u0627\u0644\u0645\u0628\u064a\u0627\u062f \u062a\u0646\u0633 \u0627\u0644\u0643\u0631\u0627\u0633\u064a \u0627\u0644\u0645\u062a\u062d\u0631\u0643\u0629\u060c \u0648\u0627\u062d\u062f\u0629 \u0645\u0646 \u0627\u0644\u0644\u0639\u0628\u0627\u062a \u0627\u0644\u062a\u064a \u062a\u0634\u0627\u0631\u0643 \u0641\u064a \u062f\u0648\u0631\u0629 \u0627\u0644\u0623\u0644\u0639\u0627\u0628 \u0627\u0644\u0628\u0627\u0631\u0627\u0644\u0645\u0628\u064a\u0629 \u0627\u0644\u062a\u064a \u062a\u0633\u062a\u0636\u064a\u0641\u0647\u0627 \u0628\u0627\u0631\u064a\u0633 2024\u060c&nbsp;...",
+    "news_item_url": "https://m.akhbarelyom.com/news/newdetails/4438560/1/%D8%A8%D8%A7%D8%B1%D8%A7%D9%84%D9%85%D8%A8%D9%8A%D8%A7%D8%AF-%D8%AA%D9%86%D8%B3-%D8%A7%D9%84%D9%83%D8%B1%D8%A7%D8%B3%D9%8A-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%B1%D9%83%D8%A9",
+    "picture_source": "\u0645\u0648\u0642\u0639 \u062e\u0628\u0631 \u0627\u0644\u064a\u0648\u0645",
+    "approx_traffic": "200,000+"
   },
   {
     "country": "France",
@@ -273,10 +323,10 @@
     "country": "France",
     "title": "Xavier Bertrand",
     "pubDate": "Tue, 03 Sep 2024 21:00:00 +0200",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTC9z62bDI4_wyB3OCsogA-0iAwPhGrUnSwVufW0ZQX4x-G-plO9Nau9DM49trjizhGunA8G4Sp",
-    "news_item_snippet": "Apr\u00e8s Thierry Beaudet hier, c&#39;est le patron de la r\u00e9gion Hauts-de-France, Xavier Bertrand qui est le grand favori pour \u00eatre nomm\u00e9 Premier ministre,&nbsp;...",
-    "news_item_url": "https://www.publicsenat.fr/actualites/politique/xavier-bertrand-de-nouveau-pressenti-pour-matignon-reunion-des-senateurs-lr-a-14h30",
-    "picture_source": "TAHITI INFOS",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQ1A1dTg6m6Gm4QBDLHRSAHCIDYMOLMvSbZYmJJEix87uSWfHsBAJVHf-LdEjZ7q0-DNntB46YH",
+    "news_item_snippet": "Paris, France | AFP | mardi 03/09/2024 - A chaque jour son lot de rebondissements: apr\u00e8s les pistes Bernard Cazeneuve, puis Thierry Beaudet, Emmanuel Macron&nbsp;...",
+    "news_item_url": "https://www.tahiti-infos.com/Matignon-Xavier-Bertrand-revient-dans-le-jeu-le-RN-lui-promet-la-censure_a225848.html",
+    "picture_source": "Le Figaro",
     "approx_traffic": "50,000+"
   },
   {
@@ -311,16 +361,6 @@
   },
   {
     "country": "Germany",
-    "title": "VW",
-    "pubDate": "Mon, 02 Sep 2024 17:00:00 +0200",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTwYeW5LJv5DbV5sW8iXfM9d5DU7N3gT-fIKt0pV5rCVzjtgsEtgDseQx9UOriUdQFaYpbZxmdW",
-    "news_item_snippet": "In Braunschweig hat der Strafprozess gegen Ex-VW-Chef Martin Winterkorn begonnen. Ihm wird wegen des VW-Dieselskandals unter anderem bandenm\u00e4\u00dfiger Betrug&nbsp;...",
-    "news_item_url": "https://www.manager-magazin.de/unternehmen/vw-dieselskandal-strafprozess-gegen-martin-winterkorn-beginnt-vor-landgericht-braunschweig-a-e446b6ab-2034-485b-ae50-24e2a33938c3",
-    "picture_source": "hessenschau.de",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Germany",
     "title": "Wahl Th\u00fcringen",
     "pubDate": "Sun, 01 Sep 2024 00:00:00 +0200",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQK9kBxX_s4sul90ggmxtIQndywM0c1vceYbnFwU4tiM8iOX1Cfnwop_tVfbrCpSz6qa5KnN3j8",
@@ -343,31 +383,31 @@
     "country": "Italy",
     "title": "Sinner oggi",
     "pubDate": "Tue, 03 Sep 2024 00:00:00 +0200",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcT66__p7TV8gv6nwzA6K42ofsfFjZUErOA-RZlqwEx5NMnTkN3h-hJXFxFNXhf3qH1pgSZoV15z",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTBZkgY5_mCqrsSeEtUpTaW2twUu9SYgLbXpUxIHqaujdYwtQmiVQVRfnb0uuoVclE-0iqUp5rB",
     "news_item_snippet": "Jannik e Daniil alle 2.30 tra mercoled\u00ec e gioved\u00ec: chi vince trover\u00e0 uno tra De Minaur e Draper.",
     "news_item_url": "https://www.gazzetta.it/Tennis/atp/slam/us-open/03-09-2024/sinner-medvedev-alle-ore-2-30-la-sfida-dei-quarti-allo-us-open.shtml",
-    "picture_source": "Adnkronos",
+    "picture_source": "Napoli Fanpage",
     "approx_traffic": "200,000+"
   },
   {
     "country": "Italy",
     "title": "Luna Rossa oggi",
     "pubDate": "Tue, 03 Sep 2024 21:00:00 +0200",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSwqyzHW0zbyn3ajYEvOjIpsfOeGD7PiRZGmHrOSOQaZtpsDYOB38Tjs03bNZ_0xZrXWYmMwECP",
-    "news_item_snippet": "Sono riprese oggi a Barcellona le regate della Vuitton Cup, la selezione degli sfidanti alla 37\u00aa Coppa America. In testa alla classifica con 4 vittorie e zero&nbsp;...",
-    "news_item_url": "https://www.corriere.it/sport/24_settembre_03/luna-rossa-orari-tv-oggi-classifica-vuitton-cup-8c988b6e-c1bd-47e4-8714-0eb81b32cxlk.shtml",
-    "picture_source": "Sky Tg24",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcR78DjXc6lmy8Bc16svgMsMr0k45oWy5dI1ZFzL5FZgyZEHXRwrvGNlaqCWiU3ObATVZj4Yg6wp",
+    "news_item_snippet": "Leggi su Sky TG24 l&#39;articolo America&#39;s Cup, Luna Rossa batte New Zealand, paura per un fulmine vicino all&#39;imbarcazione.",
+    "news_item_url": "https://tg24.sky.it/sport/2024/09/03/luna-rossa-americas-cup-louis-vuitton-oggi",
+    "picture_source": "Napoli Fanpage",
     "approx_traffic": "50,000+"
   },
   {
-    "country": "Mexico",
-    "title": "Real Madrid",
-    "pubDate": "Mon, 02 Sep 2024 12:00:00 -0600",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRGEqj1jyom9tmFXRz7JL-6uOb6IkyQldszVc0OePEaIDyepLFfRhVn8smtz_eCyQj2L-ERwIil",
-    "news_item_snippet": "Tras un arranque de temporada irregular y en plena b\u00fasqueda de su mejor versi\u00f3n, el equipo de Carlo Ancelotti se enfrenta a la interrupci\u00f3n de su progresi\u00f3n&nbsp;...",
-    "news_item_url": "https://www.marca.com/futbol/real-madrid/2024/09/03/66d5d93a268e3e59398b45a9.html",
-    "picture_source": "ESPN",
-    "approx_traffic": "100,000+"
+    "country": "Italy",
+    "title": "Stefano Raimondi",
+    "pubDate": "Tue, 03 Sep 2024 09:00:00 +0200",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRKiJ-ZbN0svUPMIpbYx9vgPr4VQdr2EG4pppWnAtfI-A4NjkWbjqVoakyN6qsRWEZmh4qTij0G",
+    "news_item_snippet": "Dominio assoluto dell&#39;azzurro che conquista la medaglia pi\u00f9 preziosa nella categoria S10: &quot;Sapevo di essere favorito. Ho sentito molto la tensione della&nbsp;...",
+    "news_item_url": "https://www.rainews.it/video/2024/09/paralimpiadi-parigi-2024-nuoto-stefano-raimondi-100-farfalla-nuoto-medaglia-oro-video-8b3be6d1-5438-467f-aa7a-a78d53bb6b86.html",
+    "picture_source": "Metro",
+    "approx_traffic": "50,000+"
   },
   {
     "country": "Spain",
@@ -381,6 +421,16 @@
   },
   {
     "country": "Spain",
+    "title": "Isabel perello jueza",
+    "pubDate": "Tue, 03 Sep 2024 13:00:00 +0200",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQTo9BYEjv6bRXrtY88svNOO3g_7ezrMtXRE1msWbiOKm3qH30NmjcnRllLhxzC73Kk08zlyjdb",
+    "news_item_snippet": "La magistrada del Tribunal Supremo obtiene 16 apoyos del pleno y se convierte en la primera mujer en la historia en presidir el \u00f3rgano de gobierno de los&nbsp;...",
+    "news_item_url": "https://www.eldiario.es/politica/vocales-eligen-jueza-progresista-isabel-perello-nueva-presidenta-judicial_1_11624862.html",
+    "picture_source": "EL PA\u00cdS",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Spain",
     "title": "Badosa",
     "pubDate": "Tue, 03 Sep 2024 22:00:00 +0200",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSf6vV0ZYYXtexCiH1UmA3midnBRTJIumIpcwFrC8-1vNIPQQiczdIShganONGcmc0VgZrFsD_k",
@@ -390,32 +440,22 @@
     "approx_traffic": "50,000+"
   },
   {
-    "country": "Spain",
-    "title": "Isabel perello",
-    "pubDate": "Tue, 03 Sep 2024 13:00:00 +0200",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRgszJ159GRgiLoRYyqX28j45kctKZkO8uSKJlkSccqqLbcDP2UhZa_PyCKB13JCxqy37Zxa80u",
-    "news_item_snippet": "La jueza, miembro de la sala de lo Contencioso-Administrativo del Supremo, ha recabado el apoyo de 16 de los 20 vocales del pleno.",
-    "news_item_url": "https://elpais.com/espana/2024-09-03/isabel-perello-la-magistrada-con-fama-de-buscar-consensos-que-ha-desatascado-la-presidencia-del-poder-judicial.html",
-    "picture_source": "La Tribuna de Albacete",
-    "approx_traffic": "50,000+"
-  },
-  {
     "country": "United Kingdom",
     "title": "Wheelchair tennis Paralympics",
     "pubDate": "Tue, 03 Sep 2024 01:00:00 +0100",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcT2NGtc1ZieTsXw3L9_g_ob6FtNPav837Q0bwo1oL490Id9RjsD-wCvpjRdv6qQa-0nIOvueoh8",
-    "news_item_snippet": "The wheelchair tennis events, which started on 30 August in the Paris Paralympics, will end on 7 September at the Roland Garros Stadium in Paris,&nbsp;...",
-    "news_item_url": "https://www.livemint.com/sports/olympics-news/paris-paralympics-2024-google-unveils-special-doodle-to-celebrate-wheelchair-tennis-heres-all-about-the-sport-11725367638692.html",
+    "news_item_snippet": "As the 2024 Paralympic Games enters its sixth day, wheelchair tennis matches are heating up in the final rounds. Thanks to Google featuring the sport with&nbsp;...",
+    "news_item_url": "https://www.nbcnewyork.com/paris-2024-summer-olympics/how-to-watch-wheelchair-tennis-at-paralympics-2024-amid-us-open-craze/5759725/",
     "picture_source": "Forbes",
-    "approx_traffic": "500,000+"
+    "approx_traffic": "1,000,000+"
   },
   {
     "country": "United Kingdom",
     "title": "Danielle Moore",
     "pubDate": "Mon, 02 Sep 2024 15:00:00 +0100",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTiDgBSaS0dAXfMrvL2p4e1FYW8aUoZ9nvM4N3ES5k2lwBxRP2dnslEI4ZGx0rdZLGeS6LzDxjE",
-    "news_item_snippet": "Band members say she died in &#39;sudden and tragic circumstances&#39; and pay tribute to &#39;a life driven by love, compassion, community and music&#39;",
-    "news_item_url": "https://www.theguardian.com/music/article/2024/sep/02/danielle-moore-lead-singer-with-crazy-p-dies-aged-52",
+    "news_item_snippet": "A statement from the nu-disco band Crazy P cited \u201csudden and tragic circumstances&quot; to the passing of lead singer Danielle Moore.",
+    "news_item_url": "https://www.vice.com/en/article/danielle-moore-crazy-p-singer-dies/",
     "picture_source": "BBC News",
     "approx_traffic": "50,000+"
   },
@@ -424,8 +464,8 @@
     "title": "David Haye",
     "pubDate": "Mon, 02 Sep 2024 22:00:00 +0100",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcT7If2GVvSsZL-rdNiE2sN2ouGz6DV_rB9dE3r437SEVTsvZi4MY5ROYYtPGGByjFeQLs_SQP18",
-    "news_item_snippet": "Former Coronation Street star Helen Flanagan has broken down in tears as she addressed her romance with David Haye and the &#39;throuple&#39; rumours during a chat&nbsp;...",
-    "news_item_url": "https://www.dailyrecord.co.uk/tv/helen-flanagan-sobs-addresses-david-33587981",
+    "news_item_snippet": "The Celebs Go Dating star is setting the record straight.",
+    "news_item_url": "https://www.huffingtonpost.co.uk/entry/helen-flanagan-denies-david-haye-throuple-claims-opens-up-relationship_uk_66d6ba1ee4b078fcd9319537",
     "picture_source": "The Independent",
     "approx_traffic": "50,000+"
   },
@@ -444,8 +484,8 @@
     "title": "LinkedIn",
     "pubDate": "Mon, 02 Sep 2024 13:00:00 +0100",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQmOwNnzdgdxw_PpxHDzOGGp4V_IVLtg0Uc1UnhlqSIRleEI4uaXKGLkdLF6VGvO5xIIJgmvhqY",
-    "news_item_snippet": "How to use LinkedIn to maximize social platforms for professional networking development, including building a personal brand, building a network,&nbsp;...",
-    "news_item_url": "https://natlawreview.com/article/five-practical-ways-maximize-linkedin-your-professional-success",
+    "news_item_snippet": "Your personal brand is essentially your professional reputation. In today&#39;s world, your LinkedIn profile is often the first place potential clients, employers,&nbsp;...",
+    "news_item_url": "https://natlawreview.com/article/power-sharing-content-linkedin-why-it-matters-your-brand-your-company-and-your",
     "picture_source": "Forbes",
     "approx_traffic": "50,000+"
   },
