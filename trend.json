@@ -1,6 +1,46 @@
 [
   {
     "country": "United States",
+    "title": "Google Docs",
+    "pubDate": "Mon, 09 Sep 2024 08:00:00 -0700",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSO7s9qDJCnufBuBlfzRP23C7C24LPEno7EH_8vg4UxY0VPGcD0O6CvP3d-ZH3jLTerKbDMlEQc",
+    "news_item_snippet": "When I get serious about creating, editing, or collaborating on documents, I abandon the cloud-based options and use the open-source LibreOffice office&nbsp;...",
+    "news_item_url": "https://www.zdnet.com/home-and-office/work-life/6-ways-libreoffice-is-better-than-google-docs-for-serious-writing-work/",
+    "picture_source": "ZDNet",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Spotify",
+    "pubDate": "Mon, 09 Sep 2024 11:00:00 -0700",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRAAl_IJs2CrGGULF55P4hv_j0nQ6Z2WH-FIaIFbK7-MgzfKo4tZaEej2PplQBXUc7pwhTKzHNw",
+    "news_item_snippet": "Spotify is sending online surveys looking for feedback to artists and their teams using the Spotify For Artists platform. Spotify For Artists survey.",
+    "news_item_url": "https://www.hypebot.com/hypebot/2024/09/spotify-for-artists-survey.html",
+    "picture_source": "hypebot.com",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "United States",
+    "title": "EPIC",
+    "pubDate": "Mon, 09 Sep 2024 06:00:00 -0700",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRyJyJb0JVzHNxJwHvkv3V23BckVLmdSOoDxaCCTLiK4me-L2nfS0ByTGliHnVW2DEviqJ8DSsF",
+    "news_item_snippet": "The University of Utah, one of the nation&#39;s leading research universities, and EPIC Ventures, a Salt Lake City based early-stage venture capital firm,&nbsp;...",
+    "news_item_url": "https://attheu.utah.edu/facultystaff/u-epic-ventures-partner-to-drive-regional-innovation-forward/",
+    "picture_source": "@theU",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Google Drive",
+    "pubDate": "Mon, 09 Sep 2024 09:00:00 -0700",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRQwLGSSwZR0jNnwcd6iHyVHYzAhCHPqNFcbjrxE_QXMHI2PZ_6UEou9c49eagn3-AY0muNuqQr",
+    "news_item_snippet": "Seamless Integration With Microsoft Products &middot; OneDrive Has Faster File Syncing Compared to Google Drive &middot; You Have a Personal Vault &middot; Link Password and Expiry&nbsp;...",
+    "news_item_url": "https://www.howtogeek.com/ways-onedrive-is-better-than-google-drive/",
+    "picture_source": "How-To Geek",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "United States",
     "title": "Dow Jones",
     "pubDate": "Mon, 09 Sep 2024 08:00:00 -0700",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQIzaOAQ3_YBupNb1HRg6Js4aSrZpLOld7GUH5S2AkSSvLk-SYMO3-kDdCwA8P5Nqe4LujarWAM",
@@ -13,10 +53,20 @@
     "country": "United States",
     "title": "Drive",
     "pubDate": "Mon, 09 Sep 2024 09:00:00 -0700",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQad_J9igJQwtV4vOg93aUPgHATEAEKEoTqd60DrHjBMvVDJSDJ4x1E5ewOQvHEnEb6rrtQhjSo",
-    "news_item_snippet": "Over the last near-decade, one band that has not only risen to the top of local notoriety, but gained worldwide recognition is Mt. Joy.Three albums and.",
-    "news_item_url": "https://metrophiladelphia.com/mt-joy-upcoming-show-food-drive-at-the-mann/",
-    "picture_source": "Metro Philadelphia",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcS8RZALx81gn2S83kbXrg9k7r-SkKjjN2rdUp4uVmdJHRQs4x38MmK6uZJrj5RU-4jQJrR4kZSd",
+    "news_item_snippet": "HAGERSTOWN, MD (September 9, 2024) \u2013 The Washington County Highway Department announces an upcoming lane closure at the intersection of Route 64 (Jefferson&nbsp;...",
+    "news_item_url": "https://www.washco-md.net/news/traffic-alert-lane-closure-on-crystal-falls-drive/",
+    "picture_source": "Washington County Government",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Games",
+    "pubDate": "Mon, 09 Sep 2024 11:00:00 -0700",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRUuu3KO9fV-oTm7jKQNFk0YFDbv0Ng2xC04kEiGMHntkBO7I3JmXa3w42gh6WN4yEKbVRDRY2D",
+    "news_item_snippet": "The Marshall at Ohio State game on Saturday, Sept. 21, will kick off at 12:00 p.m. ET/11:00 a.m. CT on FOX. Despite being separated by less than 150 miles, the&nbsp;...",
+    "news_item_url": "https://sunbeltsports.org/news/2024/9/9/three-sun-belt-football-week-4-games-elevated-to-linear-networks.aspx",
+    "picture_source": "Sun Belt Conference",
     "approx_traffic": "50,000+"
   },
   {
@@ -24,140 +74,20 @@
     "title": "Aaron Rodgers",
     "pubDate": "Mon, 09 Sep 2024 04:00:00 -0700",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcS_8gSGzNY-Z1aNvaqMN--rx-OIBKVPnUuIIbd4_BUp9DnJPSCKskar5jRVNeFqThJKL-YuROuQ",
-    "news_item_snippet": "Rodgers wants to show doubters what he has left after his first season in New York ended after four snaps.",
-    "news_item_url": "https://www.espn.com/nfl/story/_/id/41125112/new-york-jets-qb-aaron-rodgers-mnf-sf-49ers",
+    "news_item_snippet": "Netflix has picked up a three-hour doc series about New York Jets QB Aaron Rodgers and his comeback from an Achilles injury.",
+    "news_item_url": "https://www.hollywoodreporter.com/tv/tv-news/aaron-rodgers-docuseries-netflix-1235995659/",
     "picture_source": "newyorkjets.com",
     "approx_traffic": "50,000+"
   },
   {
     "country": "United States",
-    "title": "NFL",
-    "pubDate": "Sun, 08 Sep 2024 14:00:00 -0700",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTggPC90WrwLFYgrkY_SZ-PlsFqmwWS4FyDk_9ulRdJ8zYGP8ZlgtTaGnSrnxelHI_KvIz8C57o",
-    "news_item_snippet": "PFF grades are live! Check out PFF Premium Stats for all grades and numbers from Week 1 of the 2024 NFL season.",
-    "news_item_url": "https://www.pff.com/news/nfl-pff-grades-are-live-week-1-2024",
-    "picture_source": "NFL.com",
-    "approx_traffic": "2,000,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Tyreek Hill",
-    "pubDate": "Sun, 08 Sep 2024 08:00:00 -0700",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQ72F9IYi083wBCivdA-PbTDwYfHrh9-zYFVnnfC72bgdbLqRdOSFA4vYoGWZ2IzH4ucqq1B_3X",
-    "news_item_snippet": "The Miami-Dade Police Department placed an officer on administrative leave Sunday after Miami Dolphins star Tyreek Hill was detained prior to the start of&nbsp;...",
-    "news_item_url": "https://www.cnn.com/2024/09/08/sport/tyreek-hill-detained-miami-dolphins-nfl-spt-intl/index.html",
-    "picture_source": "Delta-Optimist",
-    "approx_traffic": "2,000,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Cowboys",
-    "pubDate": "Sun, 08 Sep 2024 09:00:00 -0700",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSJEG5SYcjopkwOFp2AJV5Lc6IRo0_i20qJkEG5RfX2BDx_4jFFsydxy0Mv0fKFihMps0CsPp4Z",
-    "news_item_snippet": "A hot topic entering the 2024 season involved how the Dallas Cowboys would handle a new deal for Dak Prescott \u2014 a massive contract extension answering that&nbsp;...",
-    "news_item_url": "https://www.dallascowboys.com/news/dak-prescott-cowboys-agree-to-terms-on-massive-contract-extension",
-    "picture_source": "WRUF",
-    "approx_traffic": "2,000,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Detroit Lions",
-    "pubDate": "Sun, 08 Sep 2024 11:00:00 -0700",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTk56KBoIP8tvke-p9ytW9ibSNd24aA7vt9jNCgyNP7Fmi-kDdbuk9suzvBbk4ZnVh2tyRzW4n3",
-    "news_item_snippet": "David Montgomery&#39;s 1-yard touchdown run in overtime won the game for the Lions.",
-    "news_item_url": "https://www.nbcnews.com/sports/live-blog/rams-lions-nfl-live-updates-rcna170134",
-    "picture_source": "detroitlions.com",
-    "approx_traffic": "1,000,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Vikings vs Giants",
-    "pubDate": "Sun, 08 Sep 2024 10:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTZreaVRl67FMgZm1bFoE_vfhzWJ2O1KsXQfOVkAaIv-c5eERKPOkFdI8laJmufG52tBxjQHObi",
-    "news_item_snippet": "New Vikings Sam Darnold, Aaron Jones and Andrew Van Ginkel led the team to its most lopsided victory since a 39-10 win over the Chargers in 2019.",
-    "news_item_url": "https://www.startribune.com/vikings-giants-nfl-week-1-live-updates-season-opener/601140660",
-    "picture_source": "Giants.com",
-    "approx_traffic": "500,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Commanders vs Buccaneers",
-    "pubDate": "Sun, 08 Sep 2024 11:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTJRyv5zt27DJwB-LU4yM4k1OH6HrMrhaE3xi4FlL30WT0rYsAgqhWRn6fPVnZBfC_5mcdwIysr",
-    "news_item_snippet": "The Washington Commanders will kick off the 2024 season with a road matchup against the Tampa Bay Buccaneers. Here&#39;s everything you need to know about how&nbsp;...",
-    "news_item_url": "https://www.commanders.com/news/commanders-vs-buccaneers-how-to-watch-listen-live-stream",
-    "picture_source": "CBS News",
-    "approx_traffic": "500,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Patriots vs Bengals",
-    "pubDate": "Sun, 08 Sep 2024 09:00:00 -0700",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSJayCW4gKUGpGD3RnJQtXhqTNseICXZL2qdhjX7mKOKSsxV4tE6BLFUtrbNbdKjLMKdjpyPuTn",
-    "news_item_snippet": "Led by quarterback Jacoby Brissett, three offseason additions were on the field for all 65 offensive snaps: besides Brissett, the two starting guards \u2014 practice&nbsp;...",
-    "news_item_url": "https://www.patspulpit.com/2024/9/9/24239691/patriots-bengals-snap-counts-nfl-week-1",
-    "picture_source": "Bengals.com",
-    "approx_traffic": "500,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Raiders vs Chargers",
-    "pubDate": "Sun, 08 Sep 2024 11:00:00 -0700",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcR-YwYHdTlHoytDc23J5SWF0rqE4yjw9W53psFl5D2BrQmPiILfI8WzDKlxkBZ-E-ypGDBeEUXt",
-    "news_item_snippet": "Check out the top photos of the Bolts warming up for their Week 1 game against the Las Vegas Raiders at SoFi Stadium!",
-    "news_item_url": "https://www.chargers.com/photos/2024-pregame-photos-week-1-raiders",
-    "picture_source": "CBS News",
-    "approx_traffic": "500,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Chicago Bears",
-    "pubDate": "Sun, 08 Sep 2024 10:00:00 -0700",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQG5WTywiD9ledLXShood4R3afLlEmgDLpbZkPG8ECoQutm_C0ruoMqm8m0hnuBBt7C3v-HFGs5",
-    "news_item_snippet": "With the drafting of quarterback Caleb Williams and wide receiver Rome Odunze, along with key free agent signings, the Chicago Bears are fielding their most&nbsp;...",
-    "news_item_url": "https://chicagodefender.com/chicago-bears-3-reasons-to-be-excited-about-the-new-season/",
-    "picture_source": "ChicagoBears.com",
-    "approx_traffic": "500,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Cardinals vs Bills",
-    "pubDate": "Sun, 08 Sep 2024 10:00:00 -0700",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTyCSkvDhEH5cjiy7gbhrU3oz2v5mN3xKRo3aVk3Z-2PL-WPbi_N4UrKwzuMzIH-wJU6EAgKSba",
-    "news_item_snippet": "Arizona moved the ball at will during its first three drives of the season opener on Sunday afternoon, deploying a nearly-balanced attack to dominate the Bills.",
-    "news_item_url": "https://www.espn.com/nfl/story/_/id/41183815/arizona-cardinals-kyler-murray-week-1-buffalo-bills-loss",
-    "picture_source": "BuffaloBills.com",
-    "approx_traffic": "500,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Steelers vs Falcons",
-    "pubDate": "Sun, 08 Sep 2024 10:00:00 -0700",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRKu3ZlwVqSO_Nd6rk3TyDKf-DP3P3Q_02oTzjPEBSLVpcFUmSK1sprzsoHn1d81U37KiUfdUo_",
-    "news_item_snippet": "Atlanta has won just two games all-time against Pittsburgh, but I think they get their third on Sunday. The vibes around that team are not good coming out the&nbsp;...",
-    "news_item_url": "https://www.thefalcoholic.com/2024/9/8/24236021/final-score-predictions-for-falcons-steelers-week-1-tj-watt-kirk-cousins-raheem-morris-mike-tomlin",
-    "picture_source": "The Falcoholic",
-    "approx_traffic": "500,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Seahawks",
-    "pubDate": "Sun, 08 Sep 2024 09:00:00 -0700",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSWtIkS7da-YJInN72mSMiHx2r_PorzE0bRKqFtrPN1qTHWLm0JAlZR6qM10dj2k6axYQqsQuxu",
-    "news_item_snippet": "WILMINGTON, N.C. \u2014 Tessa Carlin and Peyton Gilmore scored a first-half goal apiece, while Aubrey McKessy made a diving penalty kick save in the 78th minute&nbsp;...",
-    "news_item_url": "https://highpointpanthers.com/news/2024/9/8/womens-soccer-panthers-seahawks-play-to-2-2-draw.aspx",
-    "picture_source": "Seahawks.com",
-    "approx_traffic": "500,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Saints",
-    "pubDate": "Sun, 08 Sep 2024 09:00:00 -0700",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTNarY4mBD15eFU3Pj1YK-EFBuBK44nWqeo_v2p2tgbBr2n5JJYSuqvWAHmiePiTrLSk2aRw35L",
-    "news_item_snippet": "A look at some of the key stats from the game, as well as the snap counts from Sunday&#39;s loss at New.",
-    "news_item_url": "https://www.panthers.com/news/inside-the-numbers-panthers-at-saints-in-week-1",
-    "picture_source": "NewOrleansSaints.com",
-    "approx_traffic": "500,000+"
+    "title": "Dictionary",
+    "pubDate": "Mon, 09 Sep 2024 10:00:00 -0700",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcR3B6ILURXxkFuWQ4pAagxXA3El4x3BzjFaNA2pbwcxzgH8VcBgLvgPF0DFff-mDsQL-g0VAVvw",
+    "news_item_snippet": "Cooling center, brat, jol, hot rodent man, dopamine dressing, dudebro, dodgy box, whale eye, and windshield survey are among the new and revised terms.",
+    "news_item_url": "https://www.prnewswire.com/news-releases/dictionarycom-unveils-summer-word-drop-new-and-revised-terms-added-to-the-worlds-leading-digital-dictionary-302241443.html",
+    "picture_source": "PRNewswire",
+    "approx_traffic": "50,000+"
   },
   {
     "country": "India",
@@ -181,12 +111,12 @@
   },
   {
     "country": "India",
-    "title": "GST",
-    "pubDate": "Mon, 09 Sep 2024 13:30:00 +0530",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRtj_gBeWvNYz31EmYJpuf6KXf99MSTTReOCUTupU3j5PpnIpJKoAy-CMSXWr1A2UT8a6Ycj-Ao",
-    "news_item_snippet": "Earlier, a GST rate of 18% was applied to the platform fee within the online gaming sector. During a meeting held on July 11, 2023, the GST Council decided&nbsp;...",
-    "news_item_url": "https://www.businesstoday.in/personal-finance/tax/story/gst-council-meeting-can-online-gaming-companies-expect-some-cut-from-28-tax-limit-445037-2024-09-09",
-    "picture_source": "Economic Times",
+    "title": "Apple",
+    "pubDate": "Mon, 09 Sep 2024 19:30:00 +0530",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTPUFNHxqH9nlD50ekwdngIKZhtJ8-9M1aaL4OoH9qUEtoKOjkrtpHNSbwpMek8qlsTCvH4_qB_",
+    "news_item_snippet": "Apple iPhone 16: Apple \u092d\u093e\u0930\u0924 \u0938\u092e\u0947\u0924 \u092a\u0942\u0930\u0940 \u0926\u0941\u0928\u093f\u092f\u093e \u092e\u0947\u0902 \u0938\u093f\u0924\u0902\u092c\u0930 \u092e\u0947\u0902 \u0928\u094d\u092f\u0942 iPhone \u0932\u093e\u0907\u0928\u0905\u092a \u0915\u094b \u0932\u0949\u0928\u094d\u091a \u0915\u0930\u0924\u093e \u0939\u0948. \u0915\u094d\u092f\u093e \u0906\u092a \u091c\u093e\u0928\u0924\u0947 \u0939\u0948\u0902 \u0915\u093f \u0915\u0902\u092a\u0928\u0940 \u0938\u093f\u0924\u0902\u092c\u0930 \u092e\u0947\u0902 \u0939\u0940&nbsp;...",
+    "news_item_url": "https://www.aajtak.in/technology/tech-news/story/apple-why-does-launch-new-iphone-in-september-iphone-16-ttec-2036168-2024-09-09",
+    "picture_source": "\u0905\u092e\u0930 \u0909\u091c\u093e\u0932\u093e",
     "approx_traffic": "100,000+"
   },
   {
@@ -197,7 +127,17 @@
     "news_item_snippet": "India vs Syria, Intercontinental Cup, Live Streaming: India men&#39;s football team is all set to face Syria in it&#39;s next Inter-Continental Cup match on Monday&nbsp;...",
     "news_item_url": "https://sports.ndtv.com/football/india-vs-syria-live-streaming-intercontinental-cup-live-telecast-when-and-where-to-watch-6525055",
     "picture_source": "Sportstar",
-    "approx_traffic": "50,000+"
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "India",
+    "title": "GST",
+    "pubDate": "Mon, 09 Sep 2024 13:30:00 +0530",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcR84oT_HhBdnOXVQVMF5iqXfd1xRD7-kfc4ueaTSBYLEFMZE-yskAdz75FaisUMRE_7SCtFryd8",
+    "news_item_snippet": "The GST Council has postponed its decision on reducing the GST rate on health insurance premiums to November. A Group of Ministers will review the matter&nbsp;...",
+    "news_item_url": "https://m.economictimes.com/news/economy/finance/gst-on-life-and-health-insurance-updates-gst-council-defers-announcement-on-insurance-premiums-matter-to-be-taken-up-in-next-meeting/articleshow/113193991.cms",
+    "picture_source": "Business Standard",
+    "approx_traffic": "100,000+"
   },
   {
     "country": "India",
@@ -214,9 +154,19 @@
     "title": "Jayam Ravi",
     "pubDate": "Mon, 09 Sep 2024 13:30:00 +0530",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRnsYBKExjP6oA9UuOyMSGE0KyhbGXatwC7UyxWzYWEBDgO5Xd2bZgvhpgaFy8vaGTmp-E9pVLi",
-    "news_item_snippet": "In 2023, actor Jayam Ravi and his wife Aarti Ravi talked about their dating life before marriage and how their relationship blossomed over the years.",
-    "news_item_url": "https://www.hindustantimes.com/entertainment/tamil-cinema/when-jayam-ravi-aarti-ravi-spoke-of-the-u-turns-in-their-marriage-and-romance-101725884715150.html",
+    "news_item_snippet": "Rumours of the couple&#39;s split surfaced in June after Aarti Ravi deleted all pictures of Jayam Ravi from her Instagram. The actor has now confirmed the news.",
+    "news_item_url": "https://www.hindustantimes.com/entertainment/tamil-cinema/jayam-ravi-announces-divorce-from-wife-aarti-ravi-after-15-years-of-marriage-this-decision-wasnt-made-in-haste-101725865659592.html",
     "picture_source": "The Economic Times",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "India",
+    "title": "IND vs BAN",
+    "pubDate": "Mon, 09 Sep 2024 06:30:00 +0530",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSX6Qgp52phHwrTVWG_inosFHFv1ffoqJPhMioxk1W0qHCetCQepfJy35lwa9ILsPIB44Ed8_aW",
+    "news_item_snippet": "India vs Bangladesh rivalry - Nagini dance in Nidhas trophy to Mushfiqur rahim selfie IND vs BAN - \u0baa\u0bb4\u0bc8\u0baf \u0bb5\u0b9f\u0bbf\u0bb5\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd, \u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0baa\u0b95\u0bc8.",
+    "news_item_url": "https://tamil.mykhel.com/cricket/india-vs-bangladesh-rivalry-nagini-dance-in-nidhas-trophy-to-mushfiqur-rahim-selfie-070557.html",
+    "picture_source": "myKhel Telugu",
     "approx_traffic": "50,000+"
   },
   {
@@ -224,8 +174,8 @@
     "title": "Shree Tirupati Balajee IPO GMP",
     "pubDate": "Mon, 09 Sep 2024 10:30:00 +0530",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSS8apjBDRL0hVUofThoM_RD1yjHNrAz5vpQGK1ZOui1I6TaY65nW-J2zy2__We9vwaWGLTd8-l",
-    "news_item_snippet": "In the grey market, the company&#39;s shares are trading at a GMP of Rs 40, indicating a listing potential of 49%. Stocks Recommendations. Buy | Call&nbsp;...",
-    "news_item_url": "https://m.economictimes.com/markets/ipos/fpos/shree-tirupati-balajee-ipo-subscribed-25-times-so-far-on-day-3-check-subscription-gmp-and-other-details/articleshow/113182426.cms",
+    "news_item_snippet": "Shree Tirupati Balajee Agro Trading Company Limited&#39;s initial public offering (IPO), through a book-building process, opened for subscription on Thursday,&nbsp;...",
+    "news_item_url": "https://www.livemint.com/market/ipo/shree-tirupati-balajee-ipo-subscribed-68-98-times-on-day-3-on-robust-nii-demand-check-gmp-issue-details-11725899710666.html",
     "picture_source": "Business Standard",
     "approx_traffic": "50,000+"
   },
@@ -234,8 +184,8 @@
     "title": "Paralympics",
     "pubDate": "Sun, 08 Sep 2024 03:30:00 +0530",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTGH1geuE2ukoIL8_L8eWPA067kiXzkhVlkmqKXuUIDKkAZ9NlHic21PvPZf6_ncxjxa-R8_gBO",
-    "news_item_snippet": "All the latest from the Stade de France as the curtain comes down on Paris 2024 with the Paralympic Games Closing Ceremony.",
-    "news_item_url": "https://www.paralympic.org/paris-2024/news/closing-ceremony-review",
+    "news_item_snippet": "China topped the medal table as it has at every Paralympics since 2004, with Great Britain second and the US third.",
+    "news_item_url": "https://www.aljazeera.com/gallery/2024/9/9/paralympics-end-with-spectacular-light-show-and-dance-party-in-paris",
     "picture_source": "The Hindu",
     "approx_traffic": "2,000,000+"
   },
@@ -243,10 +193,10 @@
     "country": "India",
     "title": "iPhone 16",
     "pubDate": "Sun, 08 Sep 2024 21:30:00 +0530",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcS--bwlDdnztFc4juhKcCg4T5HCfzPWKbXv73cp2znqXj7cK5Fb6Kw2SpZF9uK6RQWV9I0K-XtO",
-    "news_item_snippet": "iPhone 15 Price Cut: \u0928\u090f iPhones \u0915\u0947 \u0932\u0949\u0928\u094d\u091a \u0939\u094b\u0928\u0947 \u0915\u0947 \u0938\u093e\u0925 \u0939\u0940 \u0915\u0902\u092a\u0928\u0940 \u092a\u0941\u0930\u093e\u0928\u0947 \u092e\u0949\u0921\u0932\u094d\u0938 \u0915\u0940 \u0915\u0940\u092e\u0924 \u0915\u092e \u0915\u0930\u0924\u0940 \u0939\u0948. \u0907\u0938 \u092c\u093e\u0930 \u092d\u0940 \u092c\u094d\u0930\u093e\u0902\u0921 \u0910\u0938\u093e \u0939\u0940 \u0915\u0930\u0947\u0917\u093e.",
-    "news_item_url": "https://www.aajtak.in/technology/tech-deals-/story/iphone-15-iphone-14-and-iphone-13-expected-price-cut-after-iphone-16-launch-ttec-2036190-2024-09-09",
-    "picture_source": "The Economic Times",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcT2zI4TiBY9Z-X3jqsoUBJH8bmOJk0tMsvm1DeI5Us0hCetumn_rdZ9TEgoZnRW5Ip3SRmeSMOG",
+    "news_item_snippet": "iPhone 16 Launch: Apple has unveiled its new iPhone 16, featuring faster performance, enhanced durability, and water and dust resistance.",
+    "news_item_url": "https://m.economictimes.com/industry/cons-products/electronics/iphone-16-launch-live-updates-price-features-glowtime-apple-event-key-highlights/articleshow/113201801.cms",
+    "picture_source": "Apple Newsroom",
     "approx_traffic": "500,000+"
   },
   {
@@ -261,22 +211,42 @@
   },
   {
     "country": "India",
-    "title": "Rahul Gandhi",
-    "pubDate": "Sun, 08 Sep 2024 23:30:00 +0530",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQ56PgTvT7Yqr76VoQ1aDmLef75qlywm-6zDOx_L1wHq23_K9aSr_7deUKRECbJXagKzgFbSjKL",
-    "news_item_snippet": "Attacked as &#39;Pappu&#39; by rivals, Congress leader Rahul Gandhi walked for over 4000 km and worked tirelessly to shed that image. He spearheaded the Congress&#39;s&nbsp;...",
-    "news_item_url": "https://www.indiatoday.in/india/story/rahul-gandhi-not-a-pappu-uncle-sam-pitroda-reminds-people-congress-up-ke-ladke-narendra-modi-kiren-rijiju-2596649-2024-09-09",
-    "picture_source": "The Hindu",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "India",
     "title": "Vietnam",
     "pubDate": "Sun, 08 Sep 2024 13:30:00 +0530",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRoAeShUiHloVFuep3Psk2H2G6q1zZ807BDssBI9p_SM-drNS6SBGMfEuYA-GXuwSs7Xgq3at7M",
     "news_item_snippet": "Typhoon Yagi aftermath in Vietnam: bridge collapse, landslides, floods, power outages, and 64 deaths reported.",
     "news_item_url": "https://www.thehindu.com/news/international/bridge-collapses-owing-to-heavy-rains-in-vietnam-no-casualties-reported/article68621044.ece",
     "picture_source": "The Hindu",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Argentina",
+    "title": "Argentina Colombia",
+    "pubDate": "Sun, 08 Sep 2024 17:00:00 -0300",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcR6lnUumy-88gFJvsfLbgc3-Z-cqYvY3kXhTMNs44vlQbhX7y8zNoy41bHGVQN2gJxBENEtDcaT",
+    "news_item_snippet": "La Selecci\u00f3n viene de golear a Chile en el Monumental, pero le espera un duro escollo en Barranquilla. Es el l\u00edder del certamen rumbo al Mundial 2026.",
+    "news_item_url": "https://www.clarin.com/deportes/colombia-vs-argentina-eliminatorias-sudamericanas-juegan-hora-formaciones-verlo-vivo_0_jCKRuEfeWM.html",
+    "picture_source": "canchallena.com",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Argentina",
+    "title": "Talleres",
+    "pubDate": "Sun, 08 Sep 2024 10:00:00 -0300",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSxh59MVPKoXWxvllZgEmPxVn3NoZIky8F-2dV7zx_FiJHLnvfzuD8PzuRxf5az63Kvee9YZDK-",
+    "news_item_snippet": "Tras la eliminaci\u00f3n de la Copa Argentina, luego del pol\u00e9mico arbitraje de Andr\u00e9s Merlos, que beneficio a Boca y perjudic\u00f3 al club cordob\u00e9s, no tardaron en&nbsp;...",
+    "news_item_url": "https://www.perfil.com/noticias/cordoba/talleres-sufre-en-un-nuevo-capitulo-de-su-enfrentamiento-ante-afa.phtml",
+    "picture_source": "Infobae.com",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Australia",
+    "title": "iPhone 16",
+    "pubDate": "Mon, 09 Sep 2024 01:00:00 +1000",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcT2zI4TiBY9Z-X3jqsoUBJH8bmOJk0tMsvm1DeI5Us0hCetumn_rdZ9TEgoZnRW5Ip3SRmeSMOG",
+    "news_item_snippet": "Apple announced pricing and release date for iPhone 16, the first generation of its flagship phones purpose-built for generative AI.",
+    "news_item_url": "https://variety.com/2024/digital/news/iphone-16-release-date-price-1236137976/",
+    "picture_source": "Apple Newsroom",
     "approx_traffic": "50,000+"
   },
   {
@@ -290,103 +260,43 @@
     "approx_traffic": "50,000+"
   },
   {
-    "country": "Australia",
-    "title": "iPhone 16",
-    "pubDate": "Mon, 09 Sep 2024 01:00:00 +1000",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRiTdCT8cHej2jeXkOx0k4h0o1mOTtHTjK7Bc9s3az1uNKjMxl4D0zmzkNgvOVtfKV7C9Lw4on6",
-    "news_item_snippet": "Apple on Monday unveiled its artificial intelligence-boosted iPhone 16, showing off the long-awaited phone hours after Chinese rival Huawei&#39;s tri-fold phone&nbsp;...",
-    "news_item_url": "https://www.reuters.com/technology/artificial-intelligence/apples-iphone-16-will-put-ai-features-focus-2024-09-09/",
-    "picture_source": "Stocks Down Under",
-    "approx_traffic": "50,000+"
-  },
-  {
     "country": "Brazil",
     "title": "iPhone 16",
     "pubDate": "Mon, 09 Sep 2024 07:00:00 -0500",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRv_vIe0fx8ZByJ9tic9PzGU_6hCMt-UKoZPrygbOR5AeuSxM-VCpiLpWiepa5GMc23ux0WD_J8",
-    "news_item_snippet": "Apple apresenta novos modelos da empresa nesta segunda-feira (9). Al\u00e9m do aparelho, tamb\u00e9m devem ser lan\u00e7ados AirPods e smartwatches.",
-    "news_item_url": "https://gauchazh.clicrbs.com.br/tecnologia/noticia/2024/09/lancamento-do-iphone-16-assista-ao-vivo-cm0v8jg16003n0151j60kxfem.html",
-    "picture_source": "Jornal O Globo",
-    "approx_traffic": "50,000+"
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcT7vHRfQMYgsXWUTH-DaQJarLzsOL-tDX9mrV5e3j4pAGVQ23vT06vsSIpDbxOedYbMM7vlw8ls",
+    "news_item_snippet": "Novo modelo de celular foi anunciado em evento da gigante da tecnologia, nesta segunda-feira (9)",
+    "news_item_url": "https://www.cnnbrasil.com.br/tecnologia/iphone-16-e-lancado-com-inteligencia-artificial-incorporada-saiba-mais/",
+    "picture_source": "G1",
+    "approx_traffic": "200,000+"
   },
   {
     "country": "Brazil",
-    "title": "Portugal x Esc\u00f3cia",
-    "pubDate": "Sun, 08 Sep 2024 13:00:00 -0500",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQUBca94X2rOPH0Kf3dZUHEMZPceoy25MWeYenSrrjz6Ocf7ksc9FfUPpgBK1pdGDkrNupnrUMP",
-    "news_item_snippet": "Partida entre sele\u00e7\u00f5es ser\u00e1 a primeira de Cristiano Ronaldo ap\u00f3s marcar o gol de n\u00famero 900 na carreira.",
-    "news_item_url": "https://www.estadao.com.br/esportes/futebol/portugal-x-escocia-na-liga-das-nacoes-onde-assistir-ao-vivo-e-escalacoes/",
-    "picture_source": "UOL",
-    "approx_traffic": "200,000+"
+    "title": "Fran\u00e7a x B\u00e9lgica",
+    "pubDate": "Mon, 09 Sep 2024 11:00:00 -0500",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcT8--p7H2hNJUgGHL9ybXk2hwEguf1_DSmTQVcD_ibL1lL6yWo8BXcogwaidduql2qb6LQ7OJfK",
+    "news_item_snippet": "Fran\u00e7a e B\u00e9lgica se enfrentam nesta segunda-feira (9), \u00e0s 15h45 (hor\u00e1rio de Bras\u00edlia), no Groupama Stadium, em Lyon (FRA), em jogo v\u00e1lido pela segunda&nbsp;...",
+    "news_item_url": "https://www.terra.com.br/esportes/futebol/internacional/franca-x-belgica-como-e-o-historico-do-confronto,ac9d46af728cdfaa925367f7285d2875dui7odoi.html",
+    "picture_source": "ESPN.com.br",
+    "approx_traffic": "100,000+"
   },
   {
     "country": "Brazil",
     "title": "Corinthians Feminino",
-    "pubDate": "Sun, 08 Sep 2024 15:00:00 -0500",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSdr70lABMwAW_tlzhbnisrixMux3VPUtrEL3YVfdc6AJcM1jJTt3mEW24GZGy_61judbw0Yh5j",
-    "news_item_snippet": "O cl\u00e1ssico est\u00e1 marcado para as 10h30 do pr\u00f3ximo domingo (15). O jogo de volta acontece uma semana depois, com mando do Corinthians. Quero anunciar em primeira&nbsp;...",
-    "news_item_url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2024/09/09/sao-paulo-fara-final-do-brasileirao-feminino-com-o-corinthians-no-morumbis.htm",
-    "picture_source": "globoesporte.com",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "Brazil",
-    "title": "Coritiba x Novorizontino",
-    "pubDate": "Sun, 08 Sep 2024 16:00:00 -0500",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcS3hlwkPfaVQqh05j2qei24RFRGuxOUc7BmdDVXBLz3PVJTuTs8JMymAqO9ENkZsAEp6Tf5xXpG",
-    "news_item_snippet": "O Novorizontino visita o Coritiba, neste domingo (8), pela 25\u00aa rodada da S\u00e9rie B do Brasileir\u00e3o. A bola vai rolar a partir das 18h30 no Est\u00e1dio Couto Pereira,&nbsp;...",
-    "news_item_url": "https://www.terra.com.br/esportes/coritiba/coritiba-x-novorizontino-onde-assistir-escalacoes-e-horario-do-jogo-da-serie-b,9ed25ab0019f4f4bd2e903d0b523d7d1501p8eau.html",
-    "picture_source": "globoesporte.com",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "Brazil",
-    "title": "Santos",
-    "pubDate": "Sun, 08 Sep 2024 06:00:00 -0500",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRknAhO2Pgkvey3ddK0iiMzUw0Osds3VP_N7y6v6VhIY2tI6ChWbdv7fK80g2v4aWazZkbk-bjW",
-    "news_item_snippet": "A primeira rodada do Campeonato Municipal de Futebol de Campo de Montenegro 2024 come\u00e7ou com um espet\u00e1culo de emo\u00e7\u00f5es e talentos neste domingo, 8.",
-    "news_item_url": "https://jornalibia.com.br/destaque/santos-goleia-o-hannover-na-abertura-do-campeonato-municipal-de-futebol/",
-    "picture_source": "Santos F.C.",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "Brazil",
-    "title": "Su\u00ed\u00e7a x Espanha",
-    "pubDate": "Sun, 08 Sep 2024 13:00:00 -0500",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRLGdBsC5QuPASiUZZRqV6gpNt7cR0AybBVBMHsASkSHpheYHPfU1XFoaPOC0Jst3VnJ2fXf7uh",
-    "news_item_snippet": "Neste domingo, 8 de setembro, Su\u00ed\u00e7a e Espanha se enfrentam em jogo v\u00e1lido pela segunda rodada da Liga das Na\u00e7\u00f5es 2024/25. O confronto do Grupo A4 acontece a&nbsp;...",
-    "news_item_url": "https://olhardigital.com.br/2024/09/08/internet-e-redes-sociais/suica-x-espanha-onde-assistir-horario-e-escalacoes-do-jogo-da-liga-das-nacoes/",
-    "picture_source": "LANCE!",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "Brazil",
-    "title": "Reto",
-    "pubDate": "Sun, 08 Sep 2024 14:00:00 -0500",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRN1rohHIse8IavzyWxJ6hcRCiRrJ2Jo3px6-YrpqIA-rr_EORDa6EXvSeYWo--QRdTxZdjdABP",
-    "news_item_snippet": "Em entrevista ao Fant\u00e1stico, a cantora Preta Gil revelou que passou pela cirurgia como parte de seu tratamento contra o tumor.",
-    "news_item_url": "https://www.cnnbrasil.com.br/saude/cancer-colorretal-quando-a-amputacao-do-reto-e-indicada/",
-    "picture_source": "G1",
+    "pubDate": "Mon, 09 Sep 2024 11:00:00 -0500",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQCXoC60MTWLsVua0mtT_LZmBLRn7rmdUw-FnKNqZC3HCOh77sBnlPlYxrqJQtezs9dSft6C8_J",
+    "news_item_snippet": "A atleta po\u00e7os-caldense Melissa Cruz de Paula, de 17 anos, assinou um contrato de forma\u00e7\u00e3o de base at\u00e9 o fim de 2026 com o time Corinthians Feminino nas&nbsp;...",
+    "news_item_url": "https://ondapocos.com.br/atleta-pocos-caldense-e-contratada-pelo-corinthians-feminino/",
+    "picture_source": "ONDA PO\u00c7OS",
     "approx_traffic": "50,000+"
   },
   {
-    "country": "Brazil",
-    "title": "America MG",
-    "pubDate": "Sun, 08 Sep 2024 09:00:00 -0500",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQSKi6G08kbSaAW0W-WhIjKzDGHzIQS19ujwBUdeI0Grp-tLlwvqXMMSb1_s7dsDtfAni97stcv",
-    "news_item_snippet": "Assim que o jogo acabou, Lisca e os jogadores se dirigiram \u00e0 torcida do Am\u00e9rica. O treinador comandou a festa e, com gestos, disse que, quem manda no&nbsp;...",
-    "news_item_url": "https://ge.globo.com/futebol/times/america-mg/noticia/2024/09/08/america-mg-3x0-guarani-lisca-ganha-musica-e-celebra-com-a-torcida-primeira-vitoria-veja-video.ghtml",
-    "picture_source": "EBC",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Brazil",
-    "title": "Cro\u00e1cia x Pol\u00f4nia",
-    "pubDate": "Sun, 08 Sep 2024 14:00:00 -0500",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQ7idRvPl8aTvL4723O3Et_3_oTCnsuaatcwdrEE7nkX3bERoAxt9x9kZS92CK_cx3UFWoF-tjy",
-    "news_item_snippet": "Croatas tentam primeira vit\u00f3ria na competi\u00e7\u00e3o, enquanto poloneses jogam para se manter na lideran\u00e7a do grupo.",
-    "news_item_url": "https://www.estadao.com.br/esportes/futebol/croacia-x-polonia-na-liga-das-nacoes-onde-assistir-ao-vivo-horario-e-escalacao/",
-    "picture_source": "Terra",
+    "country": "Canada",
+    "title": "Apple",
+    "pubDate": "Mon, 09 Sep 2024 12:00:00 -0400",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSdbTxbKrLOaAsDBOdj3qyaNcOUewrsMLO4Xhr6vytMpcc9gVSTpXAKSwqiUcEsomj9EAPrag8b",
+    "news_item_snippet": "Dans le sans-fil, on ne dit plus \u00ab t\u00e9l\u00e9phone intelligent \u00bb. On dit d\u00e9sormais \u00ab t\u00e9l\u00e9phone \u00e0 intelligence artificielle \u00bb. L&#39;arriv\u00e9e du Copilot de Microsoft et&nbsp;...",
+    "news_item_url": "https://www.lapresse.ca/affaires/techno/2024-09-09/l-iphone-16-propulse-apple-dans-l-ia-generative.php",
+    "picture_source": "ICI.Radio-Canada.ca",
     "approx_traffic": "50,000+"
   },
   {
@@ -404,10 +314,20 @@
     "title": "\ubc15\uc0c1\ud6a8",
     "pubDate": "Mon, 09 Sep 2024 11:00:00 +0900",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcR0y3jpzt-tDlzEZZRif7_U0duE-T61rmzI1llAqb9aRp8rV_tCLtwwcXv8b5eQXwSc5FCl1_BR",
-    "news_item_snippet": "9\uc77c \ub514\uc2a4\ud328\uce58\ub294 \uc774\uac15\uc778\uacfc \ub450\uc0b0\ubc25\ucea3\ucf54\ub9ac\uc544 \ubc15\uc9c4\uc6d0 \ubd80\ud68c\uc7a5\uc758 \ub538 \ubc15\uc0c1\ud6a8\uc774 \uc5f4\uc560 \uc911\uc774\ub77c\uace0 \ub2e8\ub3c5 \ubcf4\ub3c4\ud588\ub2e4. \ud574\ub2f9 \ubcf4\ub3c4\uc5d0 \ub530\ub974\uba74 \ub450 \uc0ac\ub78c\uc740 \uc62c\ud574 \ucd08 \ud30c\ub9ac\uc5d0\uc11c \ucc98\uc74c \ub9cc\ub0ac\ub2e4.",
-    "news_item_url": "https://biz.chosun.com/sports/2024/09/09/DDUEZ3GEVZG5ZINDDYLE3FRU7A/",
+    "news_item_snippet": "\ucd95\uad6c \uad6d\uac00\ub300\ud45c \uc774\uac15\uc778(23\u00b7\ud30c\ub9ac \uc0dd\uc81c\ub974\ub9f9 FC)\uacfc \ub450\uc0b0\u5bb6 5\uc138 \ubc15\uc0c1\ud6a8(25)\uc758 \uc5f4\uc560\uc124\uc774 \ubd88\uac70\uc84c\ub2e4. 9\uc77c \ub514\uc2a4\ud328\uce58\ub294 \uc774\uac15\uc778\uacfc \ubc15\uc0c1\ud6a8\uac00 \uc5f4\uc560 \uc911\uc774\ub77c\uace0 \ubcf4\ub3c4\ud588\ub2e4.",
+    "news_item_url": "https://www.donga.com/news/Society/article/all/20240909/130009830/2",
     "picture_source": "\uc2a4\ud3ec\uce20\uc6d4\ub4dc",
     "approx_traffic": "100,000+"
+  },
+  {
+    "country": "France",
+    "title": "iPhone 16",
+    "pubDate": "Mon, 09 Sep 2024 08:00:00 +0200",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTehsKAXZzKa0Rg_x8Au5sKELzpsH4Lc3FYN02vMrR6KZ0V7TeVpIRnlYo7OahR1iKuj1VbxyDK",
+    "news_item_snippet": "C&#39;est \u00e0 19 heures ce lundi soir que d\u00e9bute la conf\u00e9rence \u00ab It&#39;s Glowtime \u00bb d&#39;Apple durant laquelle nous d\u00e9couvrirons les nouveaut\u00e9s pomm\u00e9es de la rentr\u00e9e.",
+    "news_item_url": "https://consomac.fr/news-19626-it-s-glowtime-la-presentation-de-l-iphone-16-en-direct.html",
+    "picture_source": "Apple",
+    "approx_traffic": "200,000+"
   },
   {
     "country": "France",
@@ -420,54 +340,14 @@
     "approx_traffic": "100,000+"
   },
   {
-    "country": "France",
-    "title": "Jeux paralympiques",
-    "pubDate": "Sun, 08 Sep 2024 03:00:00 +0200",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQxAdpKEjUslwq9XqW2qwRDiyWWXDnImrOaSyrzRxnAGPyjvq_1w7YK7cnHqEgG314tt2DARlWT",
-    "news_item_snippet": "La s\u00e9quence Paris 2024, avec les Jeux olympiques (du 26 juillet au 11 ao\u00fbt) puis, dans une moindre mesure, les Jeux paralympiques (du 28 ao\u00fbt \u00e0 dimanche), a&nbsp;...",
-    "news_item_url": "https://information.tv5monde.com/economie/jeux-paralympiques-77-millions-de-telespectateurs-pour-la-ceremonie-de-cloture-2738947",
-    "picture_source": "Le Monde",
-    "approx_traffic": "1,000,000+"
-  },
-  {
-    "country": "France",
-    "title": "Grenoble",
-    "pubDate": "Sun, 08 Sep 2024 15:00:00 +0200",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcR9aZ-3nkStgihsICT8Q73XjKcH74wYSPDgBofAr6yn4JHd5Udubd3eeGy0_g_7R5g9uIaDnv1o",
-    "news_item_snippet": "Un agent municipal de Grenoble, en Is\u00e8re, a \u00e9t\u00e9 tu\u00e9 par balles apr\u00e8s avoir \u00e9t\u00e9 t\u00e9moin d&#39;un accident de la route, dimanche 8 septembre.",
-    "news_item_url": "https://www.francetvinfo.fr/faits-divers/agent-municipal-tue-a-grenoble-une-ville-sous-le-choc_6771880.html",
-    "picture_source": "France Bleu",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "France",
-    "title": "Suisse \u2013 Espagne",
-    "pubDate": "Sun, 08 Sep 2024 21:00:00 +0200",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcS7HXnDQeOtu-EwVtmO00aGk81g6TCjwwNgfGLjTr-kqi3m1n6f3bGRfZ3NlDCRMFT3kb5Us0BK",
-    "news_item_snippet": "C&#39;est la fin de cette rencontre ! L&#39;Espagne s&#39;impose ais\u00e9ment en Suisse (1-4), avec un but du milieu de terrain de Benfica Zeki Amdouni (41e) d&#39;un c\u00f4t\u00e9,&nbsp;...",
-    "news_item_url": "https://www.eurosport.fr/football/ligue-des-nations/2024-2025/live-switzerland-spain_mtc1561306/live-commentary.shtml",
-    "picture_source": "L'\u00c9quipe.fr",
-    "approx_traffic": "50,000+"
-  },
-  {
     "country": "Germany",
-    "title": "Apple",
+    "title": "iPhone 16",
     "pubDate": "Sun, 08 Sep 2024 20:00:00 +0200",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQwb2lZ2iq6vW1VGqXKRSNPnPyxq9iHjRnXPQ5nGoOY0i7LG5RZZ9UoSPX_HmG88p1W15EctzsQ",
-    "news_item_snippet": "In seinem &quot;Power-On&quot;-Newsletter spoilert Bloomberg-Reporter Mark Gurman, was Apple seinen Quellen zufolge heute vorstellen wird.",
-    "news_item_url": "https://www.bigfm.de/nachrichten/stories/launch-iphone-16-das-erwartet-euch-heute",
-    "picture_source": "t3n Magazin",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "Germany",
-    "title": "Paralympics",
-    "pubDate": "Sun, 08 Sep 2024 13:00:00 +0200",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTyPkAfsz5jWUxdL4IWoPSOhdRlClt-Htlposkk-gDKbMvi18hbPrIcbWE0T1T6nRvxtOzIMMXN",
-    "news_item_snippet": "Inmitten des Trubels der Paralympischen Spiele in Paris 2024 steht ein Fotograf, der auf ganz besondere Weise Momente einf\u00e4ngt. Jo\u00e3o Maia nutzt seine Sinne&nbsp;...",
-    "news_item_url": "https://www.noz.de/sport/olympia/artikel/der-blinde-fotograf-der-die-paralympics-ablichtete-47712964",
-    "picture_source": "noz.de - Neue Osnabr\u00fccker Zeitung",
-    "approx_traffic": "100,000+"
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcT2M_mv5v_uwGgyeJ32ift1rsQFFjNX-6hdWsFGARoJw5BhASl1EGcRmC5k3hPM3KcZs8IZpLIe",
+    "news_item_snippet": "Apple hat die neuen iPhone 16 vorgestellt. Das wichtigste Feature wird in Deutschland aber leider fehlen.",
+    "news_item_url": "https://www.stern.de/digital/smartphones/iphone-16--plus--pro-und-pro-max--das-sind-apples-neue-smartphones-35049350.html",
+    "picture_source": "Macwelt",
+    "approx_traffic": "500,000+"
   },
   {
     "country": "Germany",
@@ -477,16 +357,6 @@
     "news_item_snippet": "International galt Rebecca Horn l\u00e4ngst als Aush\u00e4ngeschild der Gegenwartskunst, in Deutschland kam der Ruhm sp\u00e4ter. Mit 80 Jahren ist die geniale Sch\u00f6pferin&nbsp;...",
     "news_item_url": "https://www.mz.de/kultur/kunst-unterm-seufzerbaum-rebecca-horn-gestorben-3912741",
     "picture_source": "rbb24",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Germany",
-    "title": "Nina Chuba",
-    "pubDate": "Sun, 08 Sep 2024 21:00:00 +0200",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQo3lztIvaMYqgaS110IZaC5rF5aS7twLChplg8R37dxEN_XEbYqAX_Y-JdtNElgHrWCeIaiQSE",
-    "news_item_snippet": "Die wichtigste Mission seit Apollo 11: mittels neuester Technologie wagt Nina Chuba den Schritt in die Weiten des Weltraums.",
-    "news_item_url": "https://www.prosieben.de/serien/wer-stiehlt-mir-die-show/videos/wer-stiehlt-mir-die-show-2024-nina-chuba-auf-galaktischer-prompter-mission-v_76toxclvlwjh",
-    "picture_source": "ProSieben",
     "approx_traffic": "50,000+"
   },
   {
@@ -511,6 +381,16 @@
   },
   {
     "country": "Italy",
+    "title": "iPhone 16",
+    "pubDate": "Mon, 09 Sep 2024 10:00:00 +0200",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQQXAdvJbY2-QTGamOhjuYhzfq6j9mDedCoMUBkfQ0Zoebw6pI0e1iF4aQEotkB5I6zMjFRHbd3",
+    "news_item_snippet": "iPhone 16 e tutte le novit\u00e0 dell&#39;evento Apple. Ufficiali anche i nuovi orologi Apple Watch 10 e la nuova generazione degli auricolari AirPods.",
+    "news_item_url": "https://www.wired.it/article/iphone-16-novita-prezzo-uscita-caratteristiche-apple/",
+    "picture_source": "Fortune Italia",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "Italy",
     "title": "Meteo Roma",
     "pubDate": "Mon, 09 Sep 2024 00:00:00 +0200",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTAyg50Wec3SUxjNnC3hHTvpwG7VB2q6iyEhgZ_h3mm0WTjXACtHY8m6W0pQotIHhgD2LXolSaL",
@@ -521,43 +401,33 @@
   },
   {
     "country": "Italy",
-    "title": "Apple",
-    "pubDate": "Mon, 09 Sep 2024 10:00:00 +0200",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQQXAdvJbY2-QTGamOhjuYhzfq6j9mDedCoMUBkfQ0Zoebw6pI0e1iF4aQEotkB5I6zMjFRHbd3",
-    "news_item_snippet": "La casa di Cupertino, nel tradizionale evento di settembre, sveler\u00e0 la nuova gamma di smartphone. In base a quanto previsto dalle anticipazioni,&nbsp;...",
-    "news_item_url": "https://tg24.sky.it/tecnologia/2024/09/09/iphone-16-apple-evento-diretta",
-    "picture_source": "Fortune Italia",
+    "title": "Anna Kalinskaya",
+    "pubDate": "Mon, 09 Sep 2024 01:00:00 +0200",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQ4C4W2anhbKAdsn6695A1RiuR6UgfP4jKUC-x3egxd3pnVw9pwTJr9-rBHFYs7rUn1539jwxZ7",
+    "news_item_snippet": "Dopo aver alzato il trofeo degli US Open Jannik si \u00e8 dedicato un po&#39; di svago.",
+    "news_item_url": "https://www.ilmattino.it/lifestyle/gossip/sinner_festa_vittoria_us_open_anna_kalinskaya_new_york_outfit_look_oggi_9_9_2024-8343586.html",
+    "picture_source": "Corriere dello Sport.it",
     "approx_traffic": "50,000+"
   },
   {
     "country": "Mexico",
-    "title": "Apple",
+    "title": "iPhone 16",
     "pubDate": "Mon, 09 Sep 2024 11:00:00 -0600",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRpQqZRIvAuIO1xWT8j8f_tO36bqNVgFzmJwxrQDi2hdXsJhcnv0_HF_ql7eOCeNONnD9hlgsz4fw",
-    "news_item_snippet": "Apple presentar\u00e1 este lunes, durante su evento anual sobre hardware, la primera gama de iPhone dise\u00f1ada espec\u00edficamente para la inteligencia artificial (IA)&nbsp;...",
-    "news_item_url": "https://cnnespanol.cnn.com/2024/09/09/presentacion-nuevo-iphone-16-novedades-apple-anuncio-orix/",
-    "picture_source": "Expansi\u00f3n",
-    "approx_traffic": "50,000+"
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRGjFvm7cnB4DSC6PvCgRakW1TuLQBwx7cdzSEC5nJXmC5JgtnIwp_7bGjmvphSizb0jy4BmvR9",
+    "news_item_snippet": "\u00a1Ve abriendo bien la cartera para comprarte tu regalo de fin de a\u00f1o! Apple present\u00f3 su nueva &#39;joya de la corona&#39;, el iPhone 16, que en palabras de Tim Cook,&nbsp;...",
+    "news_item_url": "https://www.elfinanciero.com.mx/tech/2024/09/09/apple-event-2024-cual-es-el-precio-del-iphone-16-en-mexico/",
+    "picture_source": "Photolari",
+    "approx_traffic": "200,000+"
   },
   {
     "country": "Mexico",
     "title": "NFL",
     "pubDate": "Sun, 08 Sep 2024 19:00:00 -0600",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcS8C5pISdWJhLqLKRmDXfQkTSwaR7Zs0DMbYvq2SQbXAJrRA20j9L3ebKzyUGwMvhvcyQNszd7D",
-    "news_item_snippet": "Sometamos a juicio las &quot;overreactions&quot; m\u00e1s relevantes de la Semana 1 de la Temporada 2024 de la NFL, entre ellas, si el nuevo contrato de Dak Prescott&nbsp;...",
-    "news_item_url": "https://www.espn.com.ar/futbol-americano/nota/_/id/14145921/nfl-2024-semana-1-overreaction-prescott-cowboys",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQtP8LSZAn56qc5WXa1t8KTqmEJuUEa0chhO7Pvxjqia0XbAyI07tyklL3jLl68OynovDZnLNxSvA",
+    "news_item_snippet": "I. Caleb Williams no luci\u00f3 para nada c\u00f3modo en su debut; los Chicago Bears no lograron correr y apenas totalizaron 148 yardas. La defensiva de Chicago, en&nbsp;...",
+    "news_item_url": "https://www.espn.com.mx/futbol-americano/nota/_/id/14147522/nfl-semana-1-guru-a-z-sebastian-martinez-christensen",
     "picture_source": "ESPN",
     "approx_traffic": "200,000+"
-  },
-  {
-    "country": "Mexico",
-    "title": "Suiza - Espa\u00f1a",
-    "pubDate": "Sun, 08 Sep 2024 12:00:00 -0600",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSWNleSXCyaLaipFQvdfyajzxAyrxv8c65yHIMOEqZQDdkpoP6TenhCdVIhRqQWMl1DxTcuSEaQ",
-    "news_item_snippet": "Espa\u00f1a aparc\u00f3 la decepci\u00f3n de Belgrado y se sobrepuso a la expulsi\u00f3n de Le Normand para golear en Ginebra a una peleona Suiza a la que anularon dos goles.",
-    "news_item_url": "https://espndeportes.espn.com/futbol/europa/nota/_/id/14145419/nations-league-espana-pasa-sufrimiento-goleada-suiza",
-    "picture_source": "AS",
-    "approx_traffic": "100,000+"
   },
   {
     "country": "Mexico",
@@ -567,6 +437,16 @@
     "news_item_snippet": "Cristiano Ronaldo y compa\u00f1\u00eda deben ganar y confiar en que Polonia no lo haga para quedarse con el liderato de la Liga A con seis puntos, pues tras el inicio de&nbsp;...",
     "news_item_url": "https://www.marca.com/mx/futbol/uefa-nations-league/portugal-escocia/2024/09/08/01_0195_20240908_359_115-directo.html",
     "picture_source": "AS",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "Mexico",
+    "title": "Suiza  Espa\u00f1a",
+    "pubDate": "Sun, 08 Sep 2024 12:00:00 -0600",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSEFF_IjYIOG8zFTJ-SrVAgg05Sy3ys2EKcaUVpcNL-Y06bjvcuVfXn7MDe9UvOZMAO3U1-vGMl",
+    "news_item_snippet": "Sigue en vivo y en directo el Suiza - Espa\u00f1a, partido correspondiente a la 2\u00aa jornada de la Nations League que se disputa hoy, 8 de septiembre, en Ginebra.",
+    "news_item_url": "https://as.com/futbol/seleccion/suiza-espana-en-directo-nations-league-hoy-en-vivo-n/",
+    "picture_source": "ESPN Deportes",
     "approx_traffic": "100,000+"
   },
   {
@@ -581,32 +461,32 @@
   },
   {
     "country": "Spain",
-    "title": "iPhone 16",
+    "title": "Apple",
     "pubDate": "Mon, 09 Sep 2024 16:00:00 +0200",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSTC2RZlSu8PGnMM9hEGQxoFzkldAUa_jxpp5oazqt0YFzW5zD2Scf1ZebtOFwb96SKhFxxfOVS",
-    "news_item_snippet": "El d\u00eda ha llegado. Apple aborda ya su Keynote de septiembre y todas las miradas est\u00e1n puestas en los esperad\u00edsimos iPhone 16. Te contamos en directo todas&nbsp;...",
-    "news_item_url": "https://www.lavanguardia.com/andro4all/eventos/iphone-16-en-directo-todas-las-novedades-de-la-keynote-minuto-a-minuto",
-    "picture_source": "Xataka",
-    "approx_traffic": "50,000+"
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSCQL-m7GBBG-3t4bS9otG0D6QQwT0NWvkAgZILJty-basz-4fqstDsuQQQHPyDDaDBbX2UEJGm",
+    "news_item_snippet": "Mucha chicha y muchas novedades. Eso es lo que hemos podido ver esta tarde (horario peninsular de Espa\u00f1a) en la que probablemente ser\u00e1 la \u00faltima Keynote de&nbsp;...",
+    "news_item_url": "https://www.lavanguardia.com/andro4all/apple/its-glowtime-todas-las-novedades-de-las-keynote-2024-de-apple",
+    "picture_source": "elEconomista",
+    "approx_traffic": "100,000+"
   },
   {
     "country": "United Kingdom",
     "title": "iPhone 16",
     "pubDate": "Mon, 09 Sep 2024 11:00:00 +0100",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQk1_JbFkY2fjmIn20RjkdNphaDm8dgLZOSTEqiqRcy9sDDpmo2Of7NPYaNmAqjWU99a1z4dHjA",
-    "news_item_snippet": "Apple is holding its fall product launch event Monday, where it will introduce its iPhone 16 AI-enabled smartphones and other devices.",
-    "news_item_url": "https://www.investors.com/news/technology/iphone-16-introduction-apple-stock-live-coverage/",
-    "picture_source": "Telegraph.co.uk",
-    "approx_traffic": "100,000+"
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcT2zI4TiBY9Z-X3jqsoUBJH8bmOJk0tMsvm1DeI5Us0hCetumn_rdZ9TEgoZnRW5Ip3SRmeSMOG",
+    "news_item_snippet": "Apple unveiled its iPhone 16 at an annual launch event in California on Monday evening, as the US tech giant seeks to entice consumers with a raft of new&nbsp;...",
+    "news_item_url": "https://www.telegraph.co.uk/business/2024/09/09/what-to-expect-from-apples-iphone-16-launch/",
+    "picture_source": "Apple Newsroom",
+    "approx_traffic": "200,000+"
   },
   {
     "country": "United Kingdom",
     "title": "NFL",
     "pubDate": "Mon, 09 Sep 2024 02:00:00 +0100",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRhfgIfijJmdYf2rDYtVSpG4hkGlcBiRzGPpWKjnMaTZpBV4e3uJOA5us-V9b4qPXlHQWyf9A",
-    "news_item_snippet": "The spot stars Will Ferrell on a shopping spree from a lemonade stand to a boutique to a horse riding stand, where he pays with PayPal and celebrates earning&nbsp;...",
-    "news_item_url": "https://brand-innovators.com/news/paypal-uses-nfl-return-to-debut-largest-us-ad-campaign-ever-starring-will-ferrell/",
-    "picture_source": "FinTech Magazine - The FinTech & InsurTech Platform",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSjr-2KIu4UkWyUxuMONrzQZq6Eq_QkLZNuG3Im3idhCnbxKrI7VrxERDs-C-UUzWZzvgcsqceySA",
+    "news_item_snippet": "Deal Names McCoy&#39;s as Savoury Snacks Partner for NFL U.K. &amp; Ireland. The National Football League today announced McCoy&#39;s \u2014 part of KP Snacks,&nbsp;...",
+    "news_item_url": "https://sponsorship.org/mccoys-announces-three-year-partnership-with-the-nfl/",
+    "picture_source": "ESPN.co.uk",
     "approx_traffic": "50,000+"
   }
 ]
