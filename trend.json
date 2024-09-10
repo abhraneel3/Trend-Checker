@@ -1,6 +1,36 @@
 [
   {
     "country": "United States",
+    "title": "James Earl Jones",
+    "pubDate": "Mon, 09 Sep 2024 15:00:00 -0700",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTWMmH1zL_S2oYMzeqbCPjEN74NjhahZaHHxM3v_YVlYZGydKXZz6ORfc-w77zjNlswbRqEcY0q",
+    "news_item_snippet": "The Hollywood actor died on Monday morning surrounded by his family.",
+    "news_item_url": "https://www.bbc.com/news/articles/ce81rkg87w8o",
+    "picture_source": "MLB.com",
+    "approx_traffic": "2,000,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Gmail",
+    "pubDate": "Mon, 09 Sep 2024 14:00:00 -0700",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTkH7Qgq7V5wmmLR7cW9dORwWeHSkUyWszSiL5S4gsgLMcunTKEBFJodn-exUurMb5qRc-upDHk",
+    "news_item_snippet": "One of my Gmail accounts will be deleted by Google in 11 days. As Google&#39;s inactive account policy dictates, you must use or lose it. Take these steps now.",
+    "news_item_url": "https://www.forbes.com/sites/daveywinder/2024/09/09/google-is-deleting-gmail-accounts-3-steps-needed-to-keep-yours/",
+    "picture_source": "Forbes",
+    "approx_traffic": "1,000,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Canva",
+    "pubDate": "Mon, 09 Sep 2024 09:00:00 -0700",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRzUZtqExstQa7pbtCYQRQzbXHwFXKOpKGIuVl8qoxqlyMwSbYg_WC2ycawfotFC_AHw-hxFLTR",
+    "news_item_snippet": "As the global chief marketing officer for Canva with a deep-rooted passion for storytelling, Zach Kitschke&#39;s life is full of chaos and creativity.",
+    "news_item_url": "https://www.bandt.com.au/cmos-to-watch-meet-zach-kitschke-full-time-canva-cmo-part-time-snowboarding-superstar/",
+    "picture_source": "B&T",
+    "approx_traffic": "500,000+"
+  },
+  {
+    "country": "United States",
     "title": "Google Docs",
     "pubDate": "Mon, 09 Sep 2024 08:00:00 -0700",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSO7s9qDJCnufBuBlfzRP23C7C24LPEno7EH_8vg4UxY0VPGcD0O6CvP3d-ZH3jLTerKbDMlEQc",
@@ -11,32 +41,12 @@
   },
   {
     "country": "United States",
-    "title": "Spotify",
-    "pubDate": "Mon, 09 Sep 2024 11:00:00 -0700",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRAAl_IJs2CrGGULF55P4hv_j0nQ6Z2WH-FIaIFbK7-MgzfKo4tZaEej2PplQBXUc7pwhTKzHNw",
-    "news_item_snippet": "Spotify is sending online surveys looking for feedback to artists and their teams using the Spotify For Artists platform. Spotify For Artists survey.",
-    "news_item_url": "https://www.hypebot.com/hypebot/2024/09/spotify-for-artists-survey.html",
-    "picture_source": "hypebot.com",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "United States",
     "title": "EPIC",
     "pubDate": "Mon, 09 Sep 2024 06:00:00 -0700",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRyJyJb0JVzHNxJwHvkv3V23BckVLmdSOoDxaCCTLiK4me-L2nfS0ByTGliHnVW2DEviqJ8DSsF",
-    "news_item_snippet": "The University of Utah, one of the nation&#39;s leading research universities, and EPIC Ventures, a Salt Lake City based early-stage venture capital firm,&nbsp;...",
-    "news_item_url": "https://attheu.utah.edu/facultystaff/u-epic-ventures-partner-to-drive-regional-innovation-forward/",
+    "news_item_snippet": "\u201cUniversity of Utah Ventures represents a transformative opportunity for both the university and the broader entrepreneurial ecosystem,\u201d said Taylor Randall,&nbsp;...",
+    "news_item_url": "https://www.techbuzznews.com/epic-ventures-and-university-of-utah-launch-fund-university-of-utah-ventures-2/",
     "picture_source": "@theU",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Google Drive",
-    "pubDate": "Mon, 09 Sep 2024 09:00:00 -0700",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRQwLGSSwZR0jNnwcd6iHyVHYzAhCHPqNFcbjrxE_QXMHI2PZ_6UEou9c49eagn3-AY0muNuqQr",
-    "news_item_snippet": "Seamless Integration With Microsoft Products &middot; OneDrive Has Faster File Syncing Compared to Google Drive &middot; You Have a Personal Vault &middot; Link Password and Expiry&nbsp;...",
-    "news_item_url": "https://www.howtogeek.com/ways-onedrive-is-better-than-google-drive/",
-    "picture_source": "How-To Geek",
     "approx_traffic": "200,000+"
   },
   {
@@ -44,10 +54,10 @@
     "title": "Dow Jones",
     "pubDate": "Mon, 09 Sep 2024 08:00:00 -0700",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQIzaOAQ3_YBupNb1HRg6Js4aSrZpLOld7GUH5S2AkSSvLk-SYMO3-kDdCwA8P5Nqe4LujarWAM",
-    "news_item_snippet": "U.S. stocks jumped on Monday after investors bought the dip following Wall Street&#39;s worst week of the year, betting that a likely Federal Reserve rate cut&nbsp;...",
+    "news_item_snippet": "Traders work on the floor at the New York Stock Exchange on July 3, 2024. Brendan Mcdermid | Reuters. U.S. stocks jumped on Monday after investors bought the&nbsp;...",
     "news_item_url": "https://www.cnbc.com/2024/09/08/stock-market-today-live-updates.html",
     "picture_source": "Investor's Business Daily",
-    "approx_traffic": "100,000+"
+    "approx_traffic": "200,000+"
   },
   {
     "country": "United States",
@@ -61,42 +71,92 @@
   },
   {
     "country": "United States",
-    "title": "Games",
+    "title": "Trabuco Canyon Fire",
+    "pubDate": "Mon, 09 Sep 2024 18:00:00 -0700",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTC9fevS84k5ZbxLRCjeitIz1oKhouZMtygYNOMGw9jfxaa34EnrgA7K6EcjeZaIEj9Bn4WywjF",
+    "news_item_snippet": "The fire started at about 2 p.m. and has consumed 1900 acres, burning towards homes in Trabuco Canyon. Fire officials said OC Public Works was moving&nbsp;...",
+    "news_item_url": "https://laist.com/news/climate-environment/airport-fire-trabuco-evacuation-orange-county",
+    "picture_source": "NBC Southern California",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Social Security",
+    "pubDate": "Mon, 09 Sep 2024 17:00:00 -0700",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSJiU8quSaNb_P2Bv69XFboQ_9zON3rnzuTAWLuwRAmKinvekb8G3XN_wLunZ6NoZ-rv-xvNLUT",
+    "news_item_snippet": "Those living in a lower-cost-of-living area could see their benefits last for longer.",
+    "news_item_url": "https://www.newsweek.com/map-shows-where-social-security-payments-will-last-longest-1951131",
+    "picture_source": "Newsweek",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Kate Middleton",
     "pubDate": "Mon, 09 Sep 2024 11:00:00 -0700",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRUuu3KO9fV-oTm7jKQNFk0YFDbv0Ng2xC04kEiGMHntkBO7I3JmXa3w42gh6WN4yEKbVRDRY2D",
-    "news_item_snippet": "The Marshall at Ohio State game on Saturday, Sept. 21, will kick off at 12:00 p.m. ET/11:00 a.m. CT on FOX. Despite being separated by less than 150 miles, the&nbsp;...",
-    "news_item_url": "https://sunbeltsports.org/news/2024/9/9/three-sun-belt-football-week-4-games-elevated-to-linear-networks.aspx",
-    "picture_source": "Sun Belt Conference",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQGN1YsY0PrpwP6U-mivxZQjN3z5J3lMl7tMXJSoudwo2ymssB8x51yTIm4XbWlQb18TvXOHcNr",
+    "news_item_snippet": "&quot;Doing what I can to stay cancer free is now my focus. Although I have finished chemotherapy, my path to healing and full recovery is long and I must&nbsp;...",
+    "news_item_url": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/kate-middleton-completes-chemotherapy-treatment-recovery-1235995684/",
+    "picture_source": "Aljazeera.com",
     "approx_traffic": "50,000+"
   },
   {
     "country": "United States",
-    "title": "Aaron Rodgers",
-    "pubDate": "Mon, 09 Sep 2024 04:00:00 -0700",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcS_8gSGzNY-Z1aNvaqMN--rx-OIBKVPnUuIIbd4_BUp9DnJPSCKskar5jRVNeFqThJKL-YuROuQ",
-    "news_item_snippet": "Netflix has picked up a three-hour doc series about New York Jets QB Aaron Rodgers and his comeback from an Achilles injury.",
-    "news_item_url": "https://www.hollywoodreporter.com/tv/tv-news/aaron-rodgers-docuseries-netflix-1235995659/",
-    "picture_source": "newyorkjets.com",
+    "title": "Wheel of Fortune",
+    "pubDate": "Mon, 09 Sep 2024 17:00:00 -0700",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTqi3BOB4l_kAGqwZMrzuMDehtDKDGxDImcqcXJJwbbU-V6jIpg96VAb9tPIMNJpKbRrhQNl-U3",
+    "news_item_snippet": "Ryan Seacrest&#39;s first episode as host of &quot;Wheel of Fortune&quot; airs Sept. 9, as he takes over for Pat Sajak for the show&#39;s 42nd season with Vanna White.",
+    "news_item_url": "https://www.today.com/popculture/tv/ryan-seacrest-wheel-of-fortune-first-episode-vanna-white-rcna170208",
+    "picture_source": "WJMN - UPMatters.com",
     "approx_traffic": "50,000+"
   },
   {
     "country": "United States",
-    "title": "Dictionary",
-    "pubDate": "Mon, 09 Sep 2024 10:00:00 -0700",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcR3B6ILURXxkFuWQ4pAagxXA3El4x3BzjFaNA2pbwcxzgH8VcBgLvgPF0DFff-mDsQL-g0VAVvw",
-    "news_item_snippet": "Cooling center, brat, jol, hot rodent man, dopamine dressing, dudebro, dodgy box, whale eye, and windshield survey are among the new and revised terms.",
-    "news_item_url": "https://www.prnewswire.com/news-releases/dictionarycom-unveils-summer-word-drop-new-and-revised-terms-added-to-the-worlds-leading-digital-dictionary-302241443.html",
-    "picture_source": "PRNewswire",
+    "title": "NVIDIA stock",
+    "pubDate": "Mon, 09 Sep 2024 08:00:00 -0700",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRCUUBZ3WZccPyNPCqVp3GG8xVVvgDykDjzHQxKtQCdRIjWbrdbKhf6ALhwMosx85nRgbaQ8Ihw",
+    "news_item_snippet": "With more Nvidia earnings growth ahead, Citi says the company should still help the S&amp;P 500&#39;s performance, though potentially not to the same extent as&nbsp;...",
+    "news_item_url": "https://www.marketwatch.com/story/nvidias-stock-has-been-a-huge-s-p-500-driver-heres-why-its-influence-could-wane-465ac3ee",
+    "picture_source": "Motley Fool",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
+    "title": "NVDA",
+    "pubDate": "Mon, 09 Sep 2024 09:00:00 -0700",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTxqVIzxv9iL0MvNOp0O_fQgNHDhJrDfpFVMxkBfmabQ5S-IKzVKgMyhRxcd-K5jbpYLVCawiga",
+    "news_item_snippet": "We recently compiled a list of the 7 Best Big Company Stocks to Buy Now. In this article, we are going to take a look at where NVIDIA Corporation&nbsp;...",
+    "news_item_url": "https://finance.yahoo.com/news/nvidia-corporation-nvda-hedge-funds-211905787.html",
+    "picture_source": "Yahoo Finance UK",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Charles Schwab",
+    "pubDate": "Mon, 09 Sep 2024 12:00:00 -0700",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRmG5J70uzEtja7aXfxCbsdxebje0BL-YSrxPl-SE6i6--F3EkDu6fHUK1Jjf1HP5IUjoCuMoJH",
+    "news_item_snippet": "Shelly Cortina has been promoted to the role of Client Relationship Manager in the Charles Schwab branch located in Rochester, N.Y.. Charles Schwab&#39;s Rochester&nbsp;...",
+    "news_item_url": "https://rbj.net/2024/09/09/shelly-cortina-charles-schwab/",
+    "picture_source": "The Ticker Tape",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
+    "title": "France vs Belgium",
+    "pubDate": "Mon, 09 Sep 2024 13:00:00 -0700",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTRzgXbVz7sdiVT-_Ngnzc_7A48rw2-Q5RzuyGtyokh95rGvUj2dlVqp1JI__VUDBy7kgCD0hHr",
+    "news_item_snippet": "France captain Kylian Mbapp\u00e9 has been left out of the starting lineup against Belgium in the UEFA Nations League.",
+    "news_item_url": "https://apnews.com/article/france-mbappe-belgium-nations-9af20f8fd9dffb107b739d80bda77eb5",
+    "picture_source": "Aljazeera.com",
     "approx_traffic": "50,000+"
   },
   {
     "country": "India",
     "title": "Afghanistan vs New Zealand",
     "pubDate": "Mon, 09 Sep 2024 10:30:00 +0530",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRQ-xTqVT47A-6HxHbjxzK7WFpbvgi2Fu1NFMqpuYcPkkTX8k6Fz26KjbU2VPz3IYyoPaZPQoH-",
-    "news_item_snippet": "Afghanistan vs New Zealand highlights, Day 1 Test Match 2024: Play will start at 9:30 AM and toss at 9:00 AM on Tuesday at the Greater Noida Complex between&nbsp;...",
-    "news_item_url": "https://indianexpress.com/article/sports/cricket/afghanistan-vs-new-zealand-live-score-test-match-day-1-afg-vs-nz-2024-latest-scorecard-updates-9557259/",
-    "picture_source": "Sportstar",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSuYMn1RxC90nxTfnu5u8vB00UmNeSoZdneFHUqnuEKkVycE0-rwx0PhANmkn0UJxajAnj7LTvo",
+    "news_item_snippet": "Afghanistan vs New Zealand Live Score: Welcome to the live coverage of One-off Test (Day 2) of Afghanistan and New Zealand tour of India, 2024.",
+    "news_item_url": "https://www.hindustantimes.com/cricket/afghanistan-vs-new-zealand-live-score-one-off-test-day-2-of-afghanistan-and-new-zealand-tour-of-india-2024-final-updates-today-09-sep-2024-101725939677921.html",
+    "picture_source": "NDTVSports.com",
     "approx_traffic": "200,000+"
   },
   {
@@ -104,38 +164,18 @@
     "title": "Bajaj Housing Finance IPO",
     "pubDate": "Mon, 09 Sep 2024 10:30:00 +0530",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRUf05V13evghVGyO3YyV9ARDgliFfcUoO-Sqk--hOFXqjeVp5R4HP-7k-vWrctu2lg4xEfzDe_",
-    "news_item_snippet": "Adding to the buzz, the shares of Bajaj Housing Finance are commanding a strong premium in the grey market on the first day of its opening.",
-    "news_item_url": "https://www.business-standard.com/markets/news/brokerages-upbeat-on-bajaj-housing-finance-ipo-gmp-up-81-should-you-bid-124090900097_1.html",
+    "news_item_snippet": "\u092c\u091c\u093e\u091c \u0939\u093e\u0909\u0938\u093f\u0902\u0917 \u092b\u093e\u0907\u0928\u0947\u0902\u0938 \u0915\u093e \u0906\u0908\u092a\u0940\u0913 \u092a\u0939\u0932\u0947 \u0939\u0940 \u0926\u093f\u0928 \u0926\u094b\u0917\u0941\u0928\u093e \u0938\u0947 \u091c\u094d\u092f\u093e\u0926\u093e \u0938\u092c\u094d\u0938\u0915\u094d\u0930\u093e\u0907\u092c \u0939\u094b \u0917\u092f\u093e \u0939\u0948\u0964 \u0906\u0908\u092a\u0940\u0913 \u092e\u0947\u0902 \u0915\u0902\u092a\u0928\u0940 \u0915\u0947 \u0936\u0947\u092f\u0930 \u0915\u093e \u0926\u093e\u092e 70 \u0930\u0941\u092a\u092f\u0947 \u0939\u0948\u0964",
+    "news_item_url": "https://www.livehindustan.com/business/bajaj-housing-finance-ipo-fully-subscribed-on-first-day-grey-market-premium-reached-89-percent-201725893059951.html",
     "picture_source": "Myinvestmentideas.com",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "India",
-    "title": "Apple",
-    "pubDate": "Mon, 09 Sep 2024 19:30:00 +0530",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTPUFNHxqH9nlD50ekwdngIKZhtJ8-9M1aaL4OoH9qUEtoKOjkrtpHNSbwpMek8qlsTCvH4_qB_",
-    "news_item_snippet": "Apple iPhone 16: Apple \u092d\u093e\u0930\u0924 \u0938\u092e\u0947\u0924 \u092a\u0942\u0930\u0940 \u0926\u0941\u0928\u093f\u092f\u093e \u092e\u0947\u0902 \u0938\u093f\u0924\u0902\u092c\u0930 \u092e\u0947\u0902 \u0928\u094d\u092f\u0942 iPhone \u0932\u093e\u0907\u0928\u0905\u092a \u0915\u094b \u0932\u0949\u0928\u094d\u091a \u0915\u0930\u0924\u093e \u0939\u0948. \u0915\u094d\u092f\u093e \u0906\u092a \u091c\u093e\u0928\u0924\u0947 \u0939\u0948\u0902 \u0915\u093f \u0915\u0902\u092a\u0928\u0940 \u0938\u093f\u0924\u0902\u092c\u0930 \u092e\u0947\u0902 \u0939\u0940&nbsp;...",
-    "news_item_url": "https://www.aajtak.in/technology/tech-news/story/apple-why-does-launch-new-iphone-in-september-iphone-16-ttec-2036168-2024-09-09",
-    "picture_source": "\u0905\u092e\u0930 \u0909\u091c\u093e\u0932\u093e",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "India",
-    "title": "India vs Syria",
-    "pubDate": "Mon, 09 Sep 2024 19:30:00 +0530",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSyhv7NbiTFup6I8JcjyrelM6oUcfhkJtksDVYrofvuQFpYcTUl_DKbEYr1vqDAk9iHWdqrURTi",
-    "news_item_snippet": "India vs Syria, Intercontinental Cup, Live Streaming: India men&#39;s football team is all set to face Syria in it&#39;s next Inter-Continental Cup match on Monday&nbsp;...",
-    "news_item_url": "https://sports.ndtv.com/football/india-vs-syria-live-streaming-intercontinental-cup-live-telecast-when-and-where-to-watch-6525055",
-    "picture_source": "Sportstar",
-    "approx_traffic": "100,000+"
+    "approx_traffic": "200,000+"
   },
   {
     "country": "India",
     "title": "GST",
     "pubDate": "Mon, 09 Sep 2024 13:30:00 +0530",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcR84oT_HhBdnOXVQVMF5iqXfd1xRD7-kfc4ueaTSBYLEFMZE-yskAdz75FaisUMRE_7SCtFryd8",
-    "news_item_snippet": "The GST Council has postponed its decision on reducing the GST rate on health insurance premiums to November. A Group of Ministers will review the matter&nbsp;...",
-    "news_item_url": "https://m.economictimes.com/news/economy/finance/gst-on-life-and-health-insurance-updates-gst-council-defers-announcement-on-insurance-premiums-matter-to-be-taken-up-in-next-meeting/articleshow/113193991.cms",
+    "news_item_snippet": "GST Council Meeting decisions: The GST Council&#39;s meeting on Monday announced significant tax cuts to make essential goods and services more affordable.",
+    "news_item_url": "https://m.economictimes.com/news/economy/finance/gst-council-spices-things-up-heres-what-got-cheaper-overnight-in-india/articleshow/113214656.cms",
     "picture_source": "Business Standard",
     "approx_traffic": "100,000+"
   },
@@ -144,118 +184,98 @@
     "title": "Mpox cases India",
     "pubDate": "Mon, 09 Sep 2024 01:30:00 +0530",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQQIf-FshGi-8dB8XIXW7KrC8dpB6UImtk8bRBr4G2fcglJyD5Y9KMkZ-SIgMHSPRpU0LeIVeZK",
-    "news_item_snippet": "Union Health Secretary Apurva Chandra issued a formal advisory to all states and union territories, urging them to enhance surveillance and testing measures&nbsp;...",
-    "news_item_url": "https://www.businesstoday.in/india/story/mpox-in-india-health-ministry-issues-advisory-to-states-uts-screening-contact-tracing-to-be-intensified-445106-2024-09-09",
+    "news_item_snippet": "India&#39;s health ministry has reassured the public that the nation has robust preventive measures in place and is handling the case as per established&nbsp;...",
+    "news_item_url": "https://www.business-standard.com/india-news/india-reports-first-mpox-case-symptoms-transmission-who-norms-and-more-124091000290_1.html",
     "picture_source": "The Hindu",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "India",
-    "title": "Jayam Ravi",
-    "pubDate": "Mon, 09 Sep 2024 13:30:00 +0530",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRnsYBKExjP6oA9UuOyMSGE0KyhbGXatwC7UyxWzYWEBDgO5Xd2bZgvhpgaFy8vaGTmp-E9pVLi",
-    "news_item_snippet": "Rumours of the couple&#39;s split surfaced in June after Aarti Ravi deleted all pictures of Jayam Ravi from her Instagram. The actor has now confirmed the news.",
-    "news_item_url": "https://www.hindustantimes.com/entertainment/tamil-cinema/jayam-ravi-announces-divorce-from-wife-aarti-ravi-after-15-years-of-marriage-this-decision-wasnt-made-in-haste-101725865659592.html",
-    "picture_source": "The Economic Times",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "India",
-    "title": "IND vs BAN",
-    "pubDate": "Mon, 09 Sep 2024 06:30:00 +0530",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSX6Qgp52phHwrTVWG_inosFHFv1ffoqJPhMioxk1W0qHCetCQepfJy35lwa9ILsPIB44Ed8_aW",
-    "news_item_snippet": "India vs Bangladesh rivalry - Nagini dance in Nidhas trophy to Mushfiqur rahim selfie IND vs BAN - \u0baa\u0bb4\u0bc8\u0baf \u0bb5\u0b9f\u0bbf\u0bb5\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd, \u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0baa\u0b95\u0bc8.",
-    "news_item_url": "https://tamil.mykhel.com/cricket/india-vs-bangladesh-rivalry-nagini-dance-in-nidhas-trophy-to-mushfiqur-rahim-selfie-070557.html",
-    "picture_source": "myKhel Telugu",
-    "approx_traffic": "50,000+"
+    "approx_traffic": "100,000+"
   },
   {
     "country": "India",
     "title": "Shree Tirupati Balajee IPO GMP",
     "pubDate": "Mon, 09 Sep 2024 10:30:00 +0530",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSS8apjBDRL0hVUofThoM_RD1yjHNrAz5vpQGK1ZOui1I6TaY65nW-J2zy2__We9vwaWGLTd8-l",
-    "news_item_snippet": "Shree Tirupati Balajee Agro Trading Company Limited&#39;s initial public offering (IPO), through a book-building process, opened for subscription on Thursday,&nbsp;...",
-    "news_item_url": "https://www.livemint.com/market/ipo/shree-tirupati-balajee-ipo-subscribed-68-98-times-on-day-3-on-robust-nii-demand-check-gmp-issue-details-11725899710666.html",
+    "news_item_snippet": "Shree Tirupati Balajee IPO allotment date is likely today, September 10, and the IPO listing date is September 12. Find out the steps to check Shree&nbsp;...",
+    "news_item_url": "https://www.livemint.com/market/ipo/shree-tirupati-balajee-ipo-allotment-date-likely-today-latest-gmp-steps-to-check-allotment-status-11725937707479.html",
     "picture_source": "Business Standard",
     "approx_traffic": "50,000+"
   },
   {
     "country": "India",
-    "title": "Paralympics",
-    "pubDate": "Sun, 08 Sep 2024 03:30:00 +0530",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTGH1geuE2ukoIL8_L8eWPA067kiXzkhVlkmqKXuUIDKkAZ9NlHic21PvPZf6_ncxjxa-R8_gBO",
-    "news_item_snippet": "China topped the medal table as it has at every Paralympics since 2004, with Great Britain second and the US third.",
-    "news_item_url": "https://www.aljazeera.com/gallery/2024/9/9/paralympics-end-with-spectacular-light-show-and-dance-party-in-paris",
-    "picture_source": "The Hindu",
-    "approx_traffic": "2,000,000+"
+    "title": "iOS 18 release date",
+    "pubDate": "Mon, 09 Sep 2024 23:30:00 +0530",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQr3kRiyjerQQTv6RXTrQ2z0K2atpXzsAu5N99xwMRAr7sj-VUpJHvd5I9oft9F7GtFUw3VxWoN",
+    "news_item_snippet": "MOBILES &amp; TABLETS News: Apple has introduced the new iPhone 16 series with four models: iPhone 16, iPhone 16 Plus, iPhone 16 Pro, and iPhone 16 Pro Max.",
+    "news_item_url": "https://timesofindia.indiatimes.com/technology/mobiles-tabs/ios-18-to-roll-out-on-september-16-features-list-of-devices-and-more/articleshow/113209237.cms",
+    "picture_source": "Gadgets360",
+    "approx_traffic": "50,000+"
   },
   {
     "country": "India",
+    "title": "Rahul Gandhi Congress",
+    "pubDate": "Mon, 09 Sep 2024 20:30:00 +0530",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcR4_6D9WAnnTHnvtUuTLWyXU7uAfdBTSRzd3EYQgj5krFzgNtGIFfksOxubenh2MPAZrkqtqreV",
+    "news_item_snippet": "Now, the &#39;politics in India has fundamentally changed,&#39; he said at Georgetown University. | Latest News India.",
+    "news_item_url": "https://www.hindustantimes.com/india-news/in-us-rahul-gandhi-says-congress-destroyed-idea-of-modi-101725935822193.html",
+    "picture_source": "Economic Times",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Argentina",
+    "title": "Progresar",
+    "pubDate": "Mon, 09 Sep 2024 16:00:00 -0300",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRnoL7phNBKjeL2EdkR4uRy31cug6PzoODEE8cxMb188K8CcFVknb3n3TOSyXijh67ZlMPKixQS",
+    "news_item_snippet": "Se abri\u00f3 la segunda convocatoria del a\u00f1o.Las cuotas pasan en septiembre de $20.000 a $35.000.Qui\u00e9nes pueden acceder y c\u00f3mo inscribirse.",
+    "news_item_url": "https://www.clarin.com/economia/confirman-aumento-75-becas-progresar-pueden-acceder-inscribirse_0_tF4aA88qD5.html",
+    "picture_source": "Gobierno de Salta",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Argentina",
     "title": "iPhone 16",
-    "pubDate": "Sun, 08 Sep 2024 21:30:00 +0530",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcT2zI4TiBY9Z-X3jqsoUBJH8bmOJk0tMsvm1DeI5Us0hCetumn_rdZ9TEgoZnRW5Ip3SRmeSMOG",
-    "news_item_snippet": "iPhone 16 Launch: Apple has unveiled its new iPhone 16, featuring faster performance, enhanced durability, and water and dust resistance.",
-    "news_item_url": "https://m.economictimes.com/industry/cons-products/electronics/iphone-16-launch-live-updates-price-features-glowtime-apple-event-key-highlights/articleshow/113201801.cms",
-    "picture_source": "Apple Newsroom",
-    "approx_traffic": "500,000+"
-  },
-  {
-    "country": "India",
-    "title": "Vikas Sethi",
-    "pubDate": "Sun, 08 Sep 2024 14:30:00 +0530",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcR6I0E4ZYuepzsID7vJD8qJGGFLoem9J0C39dQYdc6_FLMeirl_QFBNtBjkCWHNyQ6A2X0UFsw_",
-    "news_item_snippet": "Mumbai: Actor Vikas Sethi, who essayed the role of Robbie in the Karan Johar directorial &#39;Kabhi Khushi Kabhie Gham&#39; has died at the age of 48.",
-    "news_item_url": "https://www.thekashmirmonitor.net/kabhi-khushi-kabhie-gham-actor-vikas-sethi-passes-away-from-cardiac-arrest/",
-    "picture_source": "Hindustan Times",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "India",
-    "title": "Vietnam",
-    "pubDate": "Sun, 08 Sep 2024 13:30:00 +0530",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRoAeShUiHloVFuep3Psk2H2G6q1zZ807BDssBI9p_SM-drNS6SBGMfEuYA-GXuwSs7Xgq3at7M",
-    "news_item_snippet": "Typhoon Yagi aftermath in Vietnam: bridge collapse, landslides, floods, power outages, and 64 deaths reported.",
-    "news_item_url": "https://www.thehindu.com/news/international/bridge-collapses-owing-to-heavy-rains-in-vietnam-no-casualties-reported/article68621044.ece",
-    "picture_source": "The Hindu",
+    "pubDate": "Mon, 09 Sep 2024 13:00:00 -0300",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRGjFvm7cnB4DSC6PvCgRakW1TuLQBwx7cdzSEC5nJXmC5JgtnIwp_7bGjmvphSizb0jy4BmvR9",
+    "news_item_snippet": "Apple present\u00f3 sus iPhone 16, con novedades en el tama\u00f1o de las pantallas y la inclusi\u00f3n de nuevos elementos de hardware; tambi\u00e9n present\u00f3 el nuevo Apple&nbsp;...",
+    "news_item_url": "https://www.lanacion.com.ar/tecnologia/iphone-16-en-vivo-segui-presentacion-de-los-nuevos-smartphones-de-apple-minuto-a-minuto-nid09092024/",
+    "picture_source": "Photolari",
     "approx_traffic": "50,000+"
   },
   {
     "country": "Argentina",
-    "title": "Argentina Colombia",
-    "pubDate": "Sun, 08 Sep 2024 17:00:00 -0300",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcR6lnUumy-88gFJvsfLbgc3-Z-cqYvY3kXhTMNs44vlQbhX7y8zNoy41bHGVQN2gJxBENEtDcaT",
-    "news_item_snippet": "La Selecci\u00f3n viene de golear a Chile en el Monumental, pero le espera un duro escollo en Barranquilla. Es el l\u00edder del certamen rumbo al Mundial 2026.",
-    "news_item_url": "https://www.clarin.com/deportes/colombia-vs-argentina-eliminatorias-sudamericanas-juegan-hora-formaciones-verlo-vivo_0_jCKRuEfeWM.html",
-    "picture_source": "canchallena.com",
+    "title": "Cris Morena",
+    "pubDate": "Mon, 09 Sep 2024 22:00:00 -0300",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQ9aEz4y9dd8BGHMkJht0bUEZuNROBbxhAI6cEWN3WNu5XejeMNyAqDlbJHFMVF2zrAHEP0U4Zq",
+    "news_item_snippet": "En la noche en que Cris Morena recibi\u00f3 un homenaje en los premios Mart\u00edn Fierro 2024 por su trayectoria, la referencia a Romina Yan era obligada.",
+    "news_item_url": "https://labandadiario.com/la-emocion-de-cris-morena-al-ser-homenajeada-en-los-martin-fierro/",
+    "picture_source": "LA NACION",
     "approx_traffic": "50,000+"
   },
   {
-    "country": "Argentina",
-    "title": "Talleres",
-    "pubDate": "Sun, 08 Sep 2024 10:00:00 -0300",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSxh59MVPKoXWxvllZgEmPxVn3NoZIky8F-2dV7zx_FiJHLnvfzuD8PzuRxf5az63Kvee9YZDK-",
-    "news_item_snippet": "Tras la eliminaci\u00f3n de la Copa Argentina, luego del pol\u00e9mico arbitraje de Andr\u00e9s Merlos, que beneficio a Boca y perjudic\u00f3 al club cordob\u00e9s, no tardaron en&nbsp;...",
-    "news_item_url": "https://www.perfil.com/noticias/cordoba/talleres-sufre-en-un-nuevo-capitulo-de-su-enfrentamiento-ante-afa.phtml",
-    "picture_source": "Infobae.com",
-    "approx_traffic": "50,000+"
+    "country": "Australia",
+    "title": "James Earl Jones",
+    "pubDate": "Tue, 10 Sep 2024 08:00:00 +1000",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcS_EwJ3L3Hn2kkyJjn0c6128raoYW7F9tby3JE2D9py-j6vWfcfViewPWX4DuzOUHM8bTihwS4M",
+    "news_item_snippet": "James Earl Jones, the iconic actor whose deep, resonant voice brought to life the infamous Darth Vader in Star Wars, passed away at the age of 93.",
+    "news_item_url": "https://www.96fm.com.au/entertainment/james-earl-jones-passes-away-at-93-leaving-behind-a-legendary-legacy/",
+    "picture_source": "ABC News",
+    "approx_traffic": "100,000+"
   },
   {
     "country": "Australia",
     "title": "iPhone 16",
     "pubDate": "Mon, 09 Sep 2024 01:00:00 +1000",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcT2zI4TiBY9Z-X3jqsoUBJH8bmOJk0tMsvm1DeI5Us0hCetumn_rdZ9TEgoZnRW5Ip3SRmeSMOG",
-    "news_item_snippet": "Apple announced pricing and release date for iPhone 16, the first generation of its flagship phones purpose-built for generative AI.",
-    "news_item_url": "https://variety.com/2024/digital/news/iphone-16-release-date-price-1236137976/",
-    "picture_source": "Apple Newsroom",
-    "approx_traffic": "50,000+"
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQTtdqZDngY2A6oz4kedjPtzVTd7W0Djr7xkva5HvSogTeoDehkCAw30t4miY7RkWeqmXLN6pLT",
+    "news_item_snippet": "Exchange rates and local economy are likely factors, analyst says.",
+    "news_item_url": "https://ia.acs.org.au/article/2024/apple-reduces-iphone-16-prices-in-australia.html",
+    "picture_source": "CRN Australia",
+    "approx_traffic": "200,000+"
   },
   {
     "country": "Australia",
     "title": "NFL",
     "pubDate": "Mon, 09 Sep 2024 12:00:00 +1000",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQaJ6eBSK_zIvfGu5jXcR1KXi0tb1tK8nyh5Yp25k3IAo0ht6FK3NaG4Q6dN7ZCQ5q6pi0LVIpm",
-    "news_item_snippet": "As the Jets quarterback begins his age-40 season, we ranked the 40 best games of Rodgers&#39; career so far with the help of advanced stats.",
-    "news_item_url": "https://www.espn.com.au/nfl/insider/story/_/id/41055854/ranking-quarterback-aaron-rodgers-40-greatest-games-career-packers-jets",
+    "news_item_snippet": "Monster QB trade vindicated again as 8-year drought is snapped in overtime epic: NFL Wrap.",
+    "news_item_url": "https://www.foxsports.com.au/nfl/nfl-2024-bryce-youngs-horror-start-for-carolina-panthers-week-1-scores-results-jamarr-chase-contract-extension-chicago-bears-comeback/news-story/2328fc6d129815b41b921882b2ab1ccf",
     "picture_source": "Fox Sports",
     "approx_traffic": "50,000+"
   },
@@ -263,20 +283,40 @@
     "country": "Brazil",
     "title": "iPhone 16",
     "pubDate": "Mon, 09 Sep 2024 07:00:00 -0500",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcT7vHRfQMYgsXWUTH-DaQJarLzsOL-tDX9mrV5e3j4pAGVQ23vT06vsSIpDbxOedYbMM7vlw8ls",
-    "news_item_snippet": "Para isso, a Apple anunciou dois tamanhos de aparelho, que seguem no padr\u00e3o dos modelos anteriores, com 6,1 polegadas e 6,7\u201d. No evento, a marca tamb\u00e9m anunciou&nbsp;...",
-    "news_item_url": "https://www.cnnbrasil.com.br/tecnologia/iphone-16-e-lancado-com-inteligencia-artificial-incorporada-saiba-mais/",
-    "picture_source": "G1",
-    "approx_traffic": "200,000+"
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSU1wPaGjiIgSuPyz7yyfFYlbOXpfN8iPUaKdvfWyPA3iEgXT4oZF-kOscfFnfi1DK8xSrxDDyR",
+    "news_item_snippet": "A Apple lan\u00e7ou o iPhone 16, destacando novos recursos de c\u00e2mera e pre\u00e7o inicial de US$799, prometendo revolucionar a experi\u00eancia fotogr\u00e1fica dos usu\u00e1rios.",
+    "news_item_url": "https://www.updateordie.com/2024/09/09/apple-lanca-iphone-16-com-novos-recursos-de-camera-e-ia/",
+    "picture_source": "Mobile Time",
+    "approx_traffic": "500,000+"
   },
   {
     "country": "Brazil",
     "title": "Fran\u00e7a x B\u00e9lgica",
-    "pubDate": "Mon, 09 Sep 2024 11:00:00 -0500",
+    "pubDate": "Mon, 09 Sep 2024 13:00:00 -0500",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcT8--p7H2hNJUgGHL9ybXk2hwEguf1_DSmTQVcD_ibL1lL6yWo8BXcogwaidduql2qb6LQ7OJfK",
-    "news_item_snippet": "Fran\u00e7a e B\u00e9lgica se enfrentam nesta segunda-feira (9), \u00e0s 15h45 (hor\u00e1rio de Bras\u00edlia), no Groupama Stadium, em Lyon (FRA), em jogo v\u00e1lido pela segunda&nbsp;...",
-    "news_item_url": "https://www.terra.com.br/esportes/futebol/internacional/franca-x-belgica-como-e-o-historico-do-confronto,ac9d46af728cdfaa925367f7285d2875dui7odoi.html",
+    "news_item_snippet": "Com Mbapp\u00e9 no banco durante a maior parte da partida, um dos nomes da vit\u00f3ria foi Randall Kolo Muani, reposi\u00e7\u00e3o escolhida pelo treinador Didier Deschamps: foi&nbsp;...",
+    "news_item_url": "https://www.lance.com.br/futebol-internacional/substituto-de-mbappe-brilha-e-franca-vence-a-belgica-pela-liga-das-nacoes.html",
     "picture_source": "ESPN.com.br",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "Brazil",
+    "title": "Botafogo-SP x Goi\u00e1s",
+    "pubDate": "Mon, 09 Sep 2024 14:00:00 -0500",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRTfrio8bDkenVZjUoheGQ1yFyKt8uWSpXCO5QL69MfeGM0t1bzaQzTMvu2APKBVEwkZHHEDVzG",
+    "news_item_snippet": "Fim do Jogo, Botafogo SP 1, Goi\u00e1s 0. 2\u00ba Tempo. 16&nbsp;...",
+    "news_item_url": "https://www.terra.com.br/esportes/futebol/brasileiro-serie-b/ao-vivo/botafogo-sp-x-goias/85617/",
+    "picture_source": "globoesporte.com",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "Brazil",
+    "title": "Ponte Preta x Chapecoense",
+    "pubDate": "Mon, 09 Sep 2024 08:00:00 -0500",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcS-c06dBq9YTr988VrAxloQYNBvZpxLTqNl6C-zjsGNE-NReyAT2AKD9XW-CxZADtK0qxLm3dsx",
+    "news_item_snippet": "Ponte Preta e Chapecoense se enfrentam na noite desta segunda-feira (9), \u00e0s 21h30min, pela 25\u00aa rodada da S\u00e9rie B do Campeonato Brasileiro. A partida ser\u00e1.",
+    "news_item_url": "https://www.nsctotal.com.br/noticias/ponte-preta-x-chapecoense-pela-serie-b-horario-onde-assistir-e-provaveis-escalacoes",
+    "picture_source": "EBC",
     "approx_traffic": "100,000+"
   },
   {
@@ -290,13 +330,63 @@
     "approx_traffic": "50,000+"
   },
   {
+    "country": "Brazil",
+    "title": "Remo",
+    "pubDate": "Mon, 09 Sep 2024 18:00:00 -0500",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQT1h0hIQ7BeW37TYb-uwuD8xhM5Dwt5DmdYZkcK4YYN9c6CXS4H3RQv7XcHh-z1jaM0oy8TgDX",
+    "news_item_snippet": "Evento de lan\u00e7amento ocorre a partir das 19h, na Esta\u00e7\u00e3o Luciano Brambilla, no Centro Social de Nazar\u00e9, \u00e1rea do estacionamento da Bas\u00edlica Santu\u00e1rio.",
+    "news_item_url": "https://ge.globo.com/pa/noticia/2024/09/09/remo-paysandu-e-tuna-lancam-camisa-com-selo-oficial-do-cirio-nesta-quinta-feira.ghtml",
+    "picture_source": "CNN Brasil",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Brazil",
+    "title": "James Earl Jones",
+    "pubDate": "Mon, 09 Sep 2024 17:00:00 -0500",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSKPFgA3FIZOXJXJ-jzV6TzrcbjMsY_NEFT7jvlY7Cg4FNgjJG0JKy5xT-C5s3g92S4k85vcBc8",
+    "news_item_snippet": "Uma das vozes mais imponentes e importantes de Hollywood, James Earl Jones sofria de diabetes. Leia na \u00edntegra na Forbes Brasil.",
+    "news_item_url": "https://forbes.com.br/forbeslife/2024/09/james-earl-jones-ator-voz-do-darth-vader-morre-aos-93-anos/",
+    "picture_source": "G1",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Brazil",
+    "title": "Sergio Ramos",
+    "pubDate": "Mon, 09 Sep 2024 14:00:00 -0500",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQfX9uHvA7hLj98UI3WkyKmWqpualagmB_cqG43be7gUtisGhqsSoBggFohiKavZJMOR9Jos2BR",
+    "news_item_snippet": "O astro e \u00eddolo do Real Madrid, Sergio Ramos, foi oferecido ao Corinthians. A informa\u00e7\u00e3o foi publicada primeiramente pela &quot;Itatiaia&quot; e confirmada pelo Lance!.",
+    "news_item_url": "https://www.lance.com.br/corinthians/sergio-ramos-e-oferecido-ao-corinthians-que-avalia-condicoes-do-negocio.html",
+    "picture_source": "CNN Brasil",
+    "approx_traffic": "50,000+"
+  },
+  {
     "country": "Canada",
-    "title": "Apple",
-    "pubDate": "Mon, 09 Sep 2024 12:00:00 -0400",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSdbTxbKrLOaAsDBOdj3qyaNcOUewrsMLO4Xhr6vytMpcc9gVSTpXAKSwqiUcEsomj9EAPrag8b",
-    "news_item_snippet": "Dans le sans-fil, on ne dit plus \u00ab t\u00e9l\u00e9phone intelligent \u00bb. On dit d\u00e9sormais \u00ab t\u00e9l\u00e9phone \u00e0 intelligence artificielle \u00bb. L&#39;arriv\u00e9e du Copilot de Microsoft et&nbsp;...",
-    "news_item_url": "https://www.lapresse.ca/affaires/techno/2024-09-09/l-iphone-16-propulse-apple-dans-l-ia-generative.php",
-    "picture_source": "ICI.Radio-Canada.ca",
+    "title": "James Earl Jones",
+    "pubDate": "Mon, 09 Sep 2024 18:00:00 -0400",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQvWwH81xUilWZwfF7fchZ4RUaBtUL3pfoZ0Z0popAEPuvMeZlNUYKRP9-a_-g6EgU4J2YLFWXA",
+    "news_item_snippet": "The Hollywood actor died on Monday morning surrounded by his family.",
+    "news_item_url": "https://www.bbc.com/news/articles/ce81rkg87w8o",
+    "picture_source": "Pentiction Western News",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "Canada",
+    "title": "Aaron Rodgers",
+    "pubDate": "Mon, 09 Sep 2024 01:00:00 -0400",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTnJxeBS8q7iIthBFc9lpTyoiRYc5Bla0KafGxfNppCxzSzSufLtn8xB_5EseJ07LkXemy8BIto",
+    "news_item_snippet": "New York Jets quarterback Aaron Rodgers, right, walks on the field with teammates before a preseason NFL football game against the Carolina Panthers, Saturday,&nbsp;...",
+    "news_item_url": "https://www.recorderonline.com/sports/national_sports/aaron-rodgers-makes-his-return-to-the-field-for-the-jets-against-the-49ers/article_878035ad-c33c-5a57-b813-94dc87744fea.html",
+    "picture_source": "Porterville Recorder",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Canada",
+    "title": "Canva",
+    "pubDate": "Mon, 09 Sep 2024 14:00:00 -0400",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRzUZtqExstQa7pbtCYQRQzbXHwFXKOpKGIuVl8qoxqlyMwSbYg_WC2ycawfotFC_AHw-hxFLTR",
+    "news_item_snippet": "As the global chief marketing officer for Canva with a deep-rooted passion for storytelling, Zach Kitschke&#39;s life is full of chaos and creativity.",
+    "news_item_url": "https://www.bandt.com.au/cmos-to-watch-meet-zach-kitschke-full-time-canva-cmo-part-time-snowboarding-superstar/",
+    "picture_source": "B&T",
     "approx_traffic": "50,000+"
   },
   {
@@ -310,23 +400,53 @@
     "approx_traffic": "50,000+"
   },
   {
+    "country": "Canada",
+    "title": "Air Canada strike",
+    "pubDate": "Mon, 09 Sep 2024 12:00:00 -0400",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRLOt1GmMSUkN-Vig5qH2GYTFrRtes9YNvs6UbewxEDGsoO_RyxgFq0sM1K2F5erzQaIBYq9tWx",
+    "news_item_snippet": "The Air Line Pilots Association (ALPA) Canada, the union representing Air Canada&#39;s pilots, can legally issue a 72-hour strike notice as early as Sept. 15. Air&nbsp;...",
+    "news_item_url": "https://www.lakelandtoday.ca/local-news/air-canada-pilots-strike-deadline-flight-cancellations-2024-9496122",
+    "picture_source": "Squamish Chief",
+    "approx_traffic": "50,000+"
+  },
+  {
     "country": "South Korea",
     "title": "\ubc15\uc0c1\ud6a8",
     "pubDate": "Mon, 09 Sep 2024 11:00:00 +0900",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcR0y3jpzt-tDlzEZZRif7_U0duE-T61rmzI1llAqb9aRp8rV_tCLtwwcXv8b5eQXwSc5FCl1_BR",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTHta_78mSvjeDhgEq1-va8cjnkLvYYSxn0WF4niU-pAypjzZWDCD5hbxu1D10BsXposo4Wxcyk",
     "news_item_snippet": "\ucd95\uad6c \uad6d\uac00\ub300\ud45c \uc774\uac15\uc778(23\u00b7\ud30c\ub9ac \uc0dd\uc81c\ub974\ub9f9 FC)\uacfc \ub450\uc0b0\u5bb6 5\uc138 \ubc15\uc0c1\ud6a8(25)\uc758 \uc5f4\uc560\uc124\uc774 \ubd88\uac70\uc84c\ub2e4. 9\uc77c \ub514\uc2a4\ud328\uce58\ub294 \uc774\uac15\uc778\uacfc \ubc15\uc0c1\ud6a8\uac00 \uc5f4\uc560 \uc911\uc774\ub77c\uace0 \ubcf4\ub3c4\ud588\ub2e4.",
     "news_item_url": "https://www.donga.com/news/Society/article/all/20240909/130009830/2",
     "picture_source": "\uc2a4\ud3ec\uce20\uc6d4\ub4dc",
     "approx_traffic": "100,000+"
   },
   {
+    "country": "South Korea",
+    "title": "\uc544\uc774\ud3f016",
+    "pubDate": "Mon, 09 Sep 2024 15:00:00 +0900",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTdCYsIkPSHV9A8PSfuQSGq4xTI71whnOBxLH3IJXJ1728qUcxWzyOO2vtNOZWmBY5mIwGhhIsG",
+    "news_item_snippet": "\uc560\ud50c\uc774 \uc544\uc774\ud3f0 16\ub97c \ubc1c\ud45c\ud588\uc2b5\ub2c8\ub2e4. \uc9c0\ub09c 9\uc77c \uc624\ud6c4 1\uc2dc (\ud604\uc9c0 \uc2dc\uac01 \uae30\uc900) \ubbf8\uad6d \uce98\ub9ac\ud3ec\ub2c8\uc544\uc8fc \ucfe0\ud37c\ud2f0\ub178\uc5d0 \uc788\ub294 \uc560\ud50c\ud30c\ud06c\uc5d0\uc11c \ud558\ubc18\uae30 \uc2e0\uc81c\ud488 \uc544\uc774\ud3f0\u2026",
+    "news_item_url": "https://designcompass.org/2024/09/10/iphone16/",
+    "picture_source": "\ud3ec\ucd98\ucf54\ub9ac\uc544(FORTUNE KOREA)",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Saudi Arabia",
+    "title": "iPhone 16",
+    "pubDate": "Mon, 09 Sep 2024 01:00:00 +0300",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQOC4lBPKMcZ4Gr-kz96sE51QBCCu8GbajX7m-0VA7bttzI7elbbGGoGI2L4bUp5-wefnXSG0Z9",
+    "news_item_snippet": "\u064a\u062a\u0628\u0639 \u0647\u0627\u062a\u0641 \u0622\u064a\u0641\u0648\u0646 16 \u0646\u0641\u0633 \u0627\u0644\u062a\u0635\u0645\u064a\u0645 \u0627\u0644\u0639\u0627\u0645 \u0644\u0647\u0627\u062a\u0641 \u0627\u064a\u0641\u0648\u0646 15\u060c \u0645\u0639 \u0625\u0637\u0627\u0631 \u0645\u0631\u0628\u0639\u060c \u0648\u0632\u062c\u0627\u062c \u062e\u0644\u0641\u064a \u064a\u0633\u0645\u062d \u0628\u0627\u0644\u0634\u062d\u0646 \u0627\u0644\u0644\u0627\u0633\u0644\u0643\u064a MagSafe\u060c \u0648\u0641\u062a\u062d\u0629 Apple Dynamic Island \u0627\u0644\u0639\u0644\u0648\u064a\u0629 \u0644\u0625\u064a\u0648\u0627\u0621 \u0627\u0644\u0643\u0627\u0645\u064a\u0631\u0627&nbsp;...",
+    "news_item_url": "https://www.youm7.com/story/2024/9/9/%D8%A3%D9%88%D9%84-%D8%B5%D9%88%D8%B1-%D9%87%D8%A7%D8%AA%D9%81-iphone-16-%D8%A8%D8%B9%D8%AF-%D8%A7%D9%84%D9%83%D8%B4%D9%81-%D8%B9%D9%86%D9%87/6702072",
+    "picture_source": "\u0627\u0644\u0639\u0631\u0628\u064a\u0629",
+    "approx_traffic": "50,000+"
+  },
+  {
     "country": "France",
     "title": "iPhone 16",
     "pubDate": "Mon, 09 Sep 2024 08:00:00 +0200",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTehsKAXZzKa0Rg_x8Au5sKELzpsH4Lc3FYN02vMrR6KZ0V7TeVpIRnlYo7OahR1iKuj1VbxyDK",
-    "news_item_snippet": "C&#39;est \u00e0 19 heures ce lundi soir que d\u00e9bute la conf\u00e9rence \u00ab It&#39;s Glowtime \u00bb d&#39;Apple durant laquelle nous d\u00e9couvrirons les nouveaut\u00e9s pomm\u00e9es de la rentr\u00e9e.",
-    "news_item_url": "https://consomac.fr/news-19626-it-s-glowtime-la-presentation-de-l-iphone-16-en-direct.html",
-    "picture_source": "Apple",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRWGWcdl5qaKqeL_TmRRbq5zAQQrAkwXTMfWJh52tPIDIN0sqq7qoy2rwv2g_M6fu2So9Nn1Pmt",
+    "news_item_snippet": "iPhone 16 Pro et iPhone 16 Pro Max. Design en titane r\u00e9sistant. Commande de l&#39;appareil photo. Dolby Vision 4K \u00e0 120 i/s. Puce A18 Pro.",
+    "news_item_url": "https://www.apple.com/fr/iphone-16-pro/",
+    "picture_source": "Phototrend",
     "approx_traffic": "200,000+"
   },
   {
@@ -340,18 +460,78 @@
     "approx_traffic": "100,000+"
   },
   {
+    "country": "France",
+    "title": "L'abb\u00e9 Pierre",
+    "pubDate": "Mon, 09 Sep 2024 22:00:00 +0200",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcT6jNnuhL-GfDF_TzrPXju4HdP-zcQL_ImkBI0BO4j2Jx92Z768SPz3L15yQk8_V0te3XZnzAVJ",
+    "news_item_snippet": "Baisers impos\u00e9s, fellations forc\u00e9es, propos \u00e0 caract\u00e8re sexuel : sept semaines apr\u00e8s l&#39;onde de choc provoqu\u00e9e par de premi\u00e8res r\u00e9v\u00e9lations, l&#39;Abb\u00e9 Pierre&nbsp;...",
+    "news_item_url": "https://www.publicsenat.fr/actualites/societe/nouvelles-accusations-dagressions-sexuelles-de-labbe-pierre-des-demandes-dindemnisation-et-des-questions",
+    "picture_source": "Centre Presse",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "France",
+    "title": "Imagine Dragons",
+    "pubDate": "Mon, 09 Sep 2024 13:00:00 +0200",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQncQeHArRzC5Gna3GqEvOfnN6kpekGXr2-2bA2-clzdEz5YK_1rO4app2PuvlBvEvjXSsUCTxN",
+    "news_item_snippet": "IMAGINE DRAGONS ANNONCE LA PARTIE EUROP\u00c9ENNE DE SA TOURN\u00c9E LOOM WORLD TOUR et passera par la Decathlon Arena - Stade Pierre-Mauroy le mercredi 23 juillet&nbsp;...",
+    "news_item_url": "https://www.stade-pierre-mauroy.com/programmation/concert/imagine-dragons",
+    "picture_source": "OL Vall\u00e9e",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "France",
+    "title": "Lesotho \u2013 Maroc",
+    "pubDate": "Mon, 09 Sep 2024 21:00:00 +0200",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTkqVtaQwO_0OdjIqK_Dp-MdCJheu7MtNmQl2hj-gGyrT86fn4Zl9BM12iFjHG-PvRawZYTGMzY",
+    "news_item_snippet": "Les Lions de l&#39;Atlas se pr\u00e9parent pour leur deuxi\u00e8me match des \u00e9liminatoires de la CAN 2025, apr\u00e8s une belle victoire ce vendredi dernier contre le Gabon&nbsp;...",
+    "news_item_url": "https://www.maroc-hebdo.press.ma/maroc-lesotho-quelle-heure-quelle-chaine-suivre-eliminatoires-can-2025",
+    "picture_source": "Le Figaro",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Germany",
+    "title": "James Earl Jones",
+    "pubDate": "Tue, 10 Sep 2024 00:00:00 +0200",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQ9OS5usdPXNk8LssQ-jLTqOY2qJNIzik73lgFZ48BsSmzsPW14JtBYPRxmy6PBCGOnJsO3rcOD",
+    "news_item_snippet": "Er lieh dem &quot;Star Wars&quot;-B\u00f6sewicht Darth Vader seine Stimme, war aber auch am Broadway und in zahlreichen Filmen zu sehen. Nun ist der US-Schauspieler James&nbsp;...",
+    "news_item_url": "https://www.tagesschau.de/ausland/amerika/earl-jones-darth-vader-100.html",
+    "picture_source": "noz.de - Neue Osnabr\u00fccker Zeitung",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Germany",
+    "title": "Peter Maffay",
+    "pubDate": "Mon, 09 Sep 2024 21:00:00 +0200",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcR7iAq1zr6gH9wx6QkbJo2DLJxgKvFiILO-IQMiAU2jPAW-3w7JpCpmzCsjtcr4KS19vEjY1cQA",
+    "news_item_snippet": "Vom rebellischen Rocker der 70er-Jahre bis hin zum engagierten K\u00fcnstler, der sich auch abseits der B\u00fchne f\u00fcr soziale Projekte wie traumatisierte Kinder oder&nbsp;...",
+    "news_item_url": "https://www.schlager.de/news/peter-maffay-instagram-geburtstag-ehefrau-d/268504/",
+    "picture_source": "Frankfurter Neue Presse",
+    "approx_traffic": "100,000+"
+  },
+  {
     "country": "Germany",
     "title": "iPhone 16",
     "pubDate": "Sun, 08 Sep 2024 20:00:00 +0200",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcT2M_mv5v_uwGgyeJ32ift1rsQFFjNX-6hdWsFGARoJw5BhASl1EGcRmC5k3hPM3KcZs8IZpLIe",
-    "news_item_snippet": "Apple hat die neuen iPhone 16 vorgestellt. Das wichtigste Feature wird in Deutschland aber leider fehlen.",
-    "news_item_url": "https://www.stern.de/digital/smartphones/iphone-16--plus--pro-und-pro-max--das-sind-apples-neue-smartphones-35049350.html",
-    "picture_source": "Macwelt",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcT3jS98X63BNXNsFN50AWlJ5OjMtN_bpr_LYOko9mI3RW72Yt_5lfSAs7mb34wSkYg5Xasoal-n",
+    "news_item_snippet": "Inhaltsverzeichnis &middot; Neue Farben &middot; Action-Button &middot; Camera Control &middot; Gr\u00f6\u00dfere Batterie &middot; Preis &amp; Verf\u00fcgbarkeit.",
+    "news_item_url": "https://www.macwelt.de/article/2451749/iphone-16-vorgestellt-neue-funktionen-und-farben-satt.html",
+    "picture_source": "t3n Magazin",
     "approx_traffic": "500,000+"
   },
   {
     "country": "Germany",
-    "title": "Rebecca Horn gestorben",
+    "title": "Paralympics",
+    "pubDate": "Sun, 08 Sep 2024 13:00:00 +0200",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTyPkAfsz5jWUxdL4IWoPSOhdRlClt-Htlposkk-gDKbMvi18hbPrIcbWE0T1T6nRvxtOzIMMXN",
+    "news_item_snippet": "Auch diese Spiele haben begeistert: Mit einer bunten Zeremonie sind am Sonntagabend in Paris die Paralympics zu Ende gegangen.",
+    "news_item_url": "https://www.waz.de/sport/article407210145/paralympics-so-lief-die-emotionale-abschlussfeier.html",
+    "picture_source": "noz.de - Neue Osnabr\u00fccker Zeitung",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "Germany",
+    "title": "Rebecca Horn",
     "pubDate": "Sun, 08 Sep 2024 15:00:00 +0200",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRXwBAgt8mEdOIKAsb_UXu1ZH3zKkgReeQbbfhr7U7c-bN1z6V9QaEbKuE91ZMgcHAm6DXT8LXA",
     "news_item_snippet": "International galt Rebecca Horn l\u00e4ngst als Aush\u00e4ngeschild der Gegenwartskunst, in Deutschland kam der Ruhm sp\u00e4ter. Mit 80 Jahren ist die geniale Sch\u00f6pferin&nbsp;...",
@@ -370,22 +550,22 @@
     "approx_traffic": "200,000+"
   },
   {
-    "country": "Germany",
-    "title": "Luke Mockridge",
-    "pubDate": "Sat, 07 Sep 2024 10:00:00 +0200",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcT6sm-4pxrg47KDcXxDpR7XhzJTdfbev7aZaJiYiQBvtGuDqlfjdYI32dNvi2vA_m8Y13zVD5iY",
-    "news_item_snippet": "In wenigen Tagen sollte Luke Mockridges neue TV-Show starten, doch daraus wird nichts, nachdem der Komiker mit fragw\u00fcrdigen Aussagen in einem Podcast f\u00fcr&nbsp;...",
-    "news_item_url": "https://k.at/promis/luke-mockridge-paralympics-video/402945779",
-    "picture_source": "Rolling Stone",
-    "approx_traffic": "100,000+"
+    "country": "Italy",
+    "title": "Sinner Fritz",
+    "pubDate": "Mon, 09 Sep 2024 08:00:00 +0200",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcT12RUWorZktu-HoyyuwusSKpDEXAyZHGuqpBC7URIaKVwcQ9WCoTwP9seQFTe1xkOqUpMDReBt",
+    "news_item_snippet": "\u00abContinuando il mio record come scommettitore sportivo pi\u00f9 audace della storia con il maggior numero di sconfitte\u00bb, ha scritto Drake in una Instagram story&nbsp;...",
+    "news_item_url": "https://whoopsee.it/drake-scommette-210-mila-dollari-sulla-vittoria-di-fritz-contro-sinner-agli-us-open-e-perde-ancora-una-volta/",
+    "picture_source": "Sky Sport",
+    "approx_traffic": "500,000+"
   },
   {
     "country": "Italy",
     "title": "iPhone 16",
     "pubDate": "Mon, 09 Sep 2024 10:00:00 +0200",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQQXAdvJbY2-QTGamOhjuYhzfq6j9mDedCoMUBkfQ0Zoebw6pI0e1iF4aQEotkB5I6zMjFRHbd3",
-    "news_item_snippet": "iPhone 16 e tutte le novit\u00e0 dell&#39;evento Apple. Ufficiali anche i nuovi orologi Apple Watch 10 e la nuova generazione degli auricolari AirPods.",
-    "news_item_url": "https://www.wired.it/article/iphone-16-novita-prezzo-uscita-caratteristiche-apple/",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQlJbzXHUpC0yUi4BYaRI4XP4_lYe1pDgBt4lwX2hPjou3fYLJPquM4rMMe7ujk8NdabyD3WIc2",
+    "news_item_snippet": "\u00c8 lo smartphone Apple migliore di sempre, ha detto Tim Cook. Ci mancherebbe altro che fosse il contrario. Per\u00f2 \u00e8 vero che il nuovo iPhone 16 e il 16 Pro,&nbsp;...",
+    "news_item_url": "https://www.wired.it/article/iphone-16-comprare-subito/",
     "picture_source": "Fortune Italia",
     "approx_traffic": "200,000+"
   },
@@ -401,12 +581,32 @@
   },
   {
     "country": "Italy",
-    "title": "Anna Kalinskaya",
-    "pubDate": "Mon, 09 Sep 2024 01:00:00 +0200",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQ4C4W2anhbKAdsn6695A1RiuR6UgfP4jKUC-x3egxd3pnVw9pwTJr9-rBHFYs7rUn1539jwxZ7",
-    "news_item_snippet": "Dopo aver alzato il trofeo degli US Open Jannik si \u00e8 dedicato un po&#39; di svago.",
-    "news_item_url": "https://www.ilmattino.it/lifestyle/gossip/sinner_festa_vittoria_us_open_anna_kalinskaya_new_york_outfit_look_oggi_9_9_2024-8343586.html",
-    "picture_source": "Corriere dello Sport.it",
+    "title": "Francia-Belgio",
+    "pubDate": "Mon, 09 Sep 2024 21:00:00 +0200",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRtb8PKDw6jJg4mF7SiOvRVpzBjDjyZtbCAc2q_DdIWuH4Kyk_xPuVAP6-U1FALL_8Aj6FFvn1Q",
+    "news_item_snippet": "NATIONS LEAGUE - Dopo il ko interno contro l&#39;Italia, la Francia ritrova il sorriso battendo per 2-0 il Belgio grazie alle reti di Kolo Muani e Ousmane&nbsp;...",
+    "news_item_url": "https://www.eurosport.it/calcio/uefa-nations-league/2024-2025/risultati-di-lunedi-9-settembre-francia-si-riscatta-col-belgio-con-kolo-muani-e-dembele-triplette-sesko-e-akturkoglu_sto20035930/story.shtml",
+    "picture_source": "Sky Sport",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Italy",
+    "title": "Maria Mattarella",
+    "pubDate": "Mon, 09 Sep 2024 16:00:00 +0200",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTaoTSVbu4wPSvvsaQklwXbziddk8qDPZMmJwN7PrOOhJgrNCJ-ONLl5SZvzDbqR3wsuzoYp2j2",
+    "news_item_snippet": "\u00abA nome personale e dell&#39;intera Regione Siciliana esprimo il pi\u00f9 profondo cordoglio per la scomparsa del segretario generale della Presidenza della Regione&nbsp;...",
+    "news_item_url": "https://www.regione.sicilia.it/la-regione-informa/addio-maria-mattarella-schifani-esempio-d-amore-istituzioni-siciliani",
+    "picture_source": "Regione Sicilia",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Italy",
+    "title": "Carmine Diamante",
+    "pubDate": "Mon, 09 Sep 2024 09:00:00 +0200",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcS_hZey3UMgrwvvjS5Fh6vkrnzuJtPKT6802I4Z6Ur81z6Jto0zTuiRATSLNMYHsswjmLZPVzdc",
+    "news_item_snippet": "Nancy Coppola, produttrice del suo primo brano, ha ricordato Carmine Diamante su Instagram: \u201cHo avuto il piacere di scriverti il tuo primo singolo.",
+    "news_item_url": "https://tg24.sky.it/spettacolo/musica/2024/09/09/carmine-diamante-morto",
+    "picture_source": "Rai News",
     "approx_traffic": "50,000+"
   },
   {
@@ -414,79 +614,79 @@
     "title": "iPhone 16",
     "pubDate": "Mon, 09 Sep 2024 11:00:00 -0600",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRGjFvm7cnB4DSC6PvCgRakW1TuLQBwx7cdzSEC5nJXmC5JgtnIwp_7bGjmvphSizb0jy4BmvR9",
-    "news_item_snippet": "\u00a1Ve abriendo bien la cartera para comprarte tu regalo de fin de a\u00f1o! Apple present\u00f3 su nueva &#39;joya de la corona&#39;, el iPhone 16, que en palabras de Tim Cook,&nbsp;...",
-    "news_item_url": "https://www.elfinanciero.com.mx/tech/2024/09/09/apple-event-2024-cual-es-el-precio-del-iphone-16-en-mexico/",
+    "news_item_snippet": "Las novedades para los nuevos dispositivos insignia de Apple no solo est\u00e1n en los equipos, sino desde su creaci\u00f3n, que cambia China por India.",
+    "news_item_url": "https://expansion.mx/tecnologia/2024/09/09/iphone-16-precio-versiones-cuando-sale-y-novedades",
     "picture_source": "Photolari",
-    "approx_traffic": "200,000+"
+    "approx_traffic": "500,000+"
   },
   {
     "country": "Mexico",
-    "title": "NFL",
-    "pubDate": "Sun, 08 Sep 2024 19:00:00 -0600",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQtP8LSZAn56qc5WXa1t8KTqmEJuUEa0chhO7Pvxjqia0XbAyI07tyklL3jLl68OynovDZnLNxSvA",
-    "news_item_snippet": "I. Caleb Williams no luci\u00f3 para nada c\u00f3modo en su debut; los Chicago Bears no lograron correr y apenas totalizaron 148 yardas. La defensiva de Chicago, en&nbsp;...",
-    "news_item_url": "https://www.espn.com.mx/futbol-americano/nota/_/id/14147522/nfl-semana-1-guru-a-z-sebastian-martinez-christensen",
-    "picture_source": "ESPN",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "Mexico",
-    "title": "Portugal - Escocia",
-    "pubDate": "Sun, 08 Sep 2024 12:00:00 -0600",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcT21igDb3WJsIdd1OPIX6V5qbCzNGatuzZ_4hbwFhF0ydA9rcZjqQJX5sMi3uraD7lJUeRIg0Sy",
-    "news_item_snippet": "Cristiano Ronaldo y compa\u00f1\u00eda deben ganar y confiar en que Polonia no lo haga para quedarse con el liderato de la Liga A con seis puntos, pues tras el inicio de&nbsp;...",
-    "news_item_url": "https://www.marca.com/mx/futbol/uefa-nations-league/portugal-escocia/2024/09/08/01_0195_20240908_359_115-directo.html",
+    "title": "Francia - B\u00e9lgica",
+    "pubDate": "Mon, 09 Sep 2024 12:00:00 -0600",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRXAR3VL1vrohlRzmnqRw7JAi4frR0ncGi2i4o5iQHR33168MmYptRMPeacmRIAhOeasS-Prqe1",
+    "news_item_snippet": "Horario y canal del partido Francia - B\u00e9lgica: D\u00eda: Hoy lunes 9 de septiembre 2024; \u00bfA qu\u00e9 hora ser\u00e1? 12:30, tiempo de la Ciudad de M\u00e9xico. \u00bf&nbsp;...",
+    "news_item_url": "https://www.marca.com/mx/futbol/uefa-nations-league/francia-belgica/2024/09/09/01_0195_20240909_368_360-directo.html",
     "picture_source": "AS",
-    "approx_traffic": "100,000+"
+    "approx_traffic": "50,000+"
   },
   {
     "country": "Mexico",
-    "title": "Suiza  Espa\u00f1a",
-    "pubDate": "Sun, 08 Sep 2024 12:00:00 -0600",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSEFF_IjYIOG8zFTJ-SrVAgg05Sy3ys2EKcaUVpcNL-Y06bjvcuVfXn7MDe9UvOZMAO3U1-vGMl",
-    "news_item_snippet": "Sigue en vivo y en directo el Suiza - Espa\u00f1a, partido correspondiente a la 2\u00aa jornada de la Nations League que se disputa hoy, 8 de septiembre, en Ginebra.",
-    "news_item_url": "https://as.com/futbol/seleccion/suiza-espana-en-directo-nations-league-hoy-en-vivo-n/",
-    "picture_source": "ESPN Deportes",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "Mexico",
-    "title": "Aviso de tormenta tropical",
-    "pubDate": "Sun, 08 Sep 2024 23:00:00 -0600",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSjnVTDd2aDSGc3p1BTWRKVpjXzzJD5g4TBYy6grbU_Wb2DAAbotjonFJDuq817f0HR7iuPQ4GQ",
-    "news_item_snippet": "Las entidades m\u00e1s afectadas ser\u00e1n Tamaulipas y Veracruz, pero tambi\u00e9n se esperan chubascos en Edomex, CDMX y Quer\u00e9taro. lun 09 septiembre 2024 09:10 AM.",
-    "news_item_url": "https://politica.expansion.mx/mexico/2024/09/09/aviso-de-tormenta-tropical-lluvias-mexico",
-    "picture_source": "ADN 40",
+    "title": "James Earl Jones",
+    "pubDate": "Mon, 09 Sep 2024 16:00:00 -0600",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTHfDwAMYjhU8AISdHDgVDeVQwzKijIQ6kylxRUYd2OIQ5q1Vmjw5-zr98ME_6oES2j5h2aKjuA",
+    "news_item_snippet": "Qui\u00e9n ra James Earl Jones? El famoso actor muri\u00f3 a los 93 a\u00f1os en su casa en Estados Unidos, confirmaron sus representantes.",
+    "news_item_url": "https://www.elfinanciero.com.mx/espectaculos/2024/09/09/muere-james-earl-jones-actor-de-star-wars-quien-era-y-que-le-paso/",
+    "picture_source": "BBC Mundo",
     "approx_traffic": "50,000+"
   },
   {
     "country": "Spain",
-    "title": "Apple",
+    "title": "iPhone 16",
     "pubDate": "Mon, 09 Sep 2024 16:00:00 +0200",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSCQL-m7GBBG-3t4bS9otG0D6QQwT0NWvkAgZILJty-basz-4fqstDsuQQQHPyDDaDBbX2UEJGm",
-    "news_item_snippet": "Mucha chicha y muchas novedades. Eso es lo que hemos podido ver esta tarde (horario peninsular de Espa\u00f1a) en la que probablemente ser\u00e1 la \u00faltima Keynote de&nbsp;...",
-    "news_item_url": "https://www.lavanguardia.com/andro4all/apple/its-glowtime-todas-las-novedades-de-las-keynote-2024-de-apple",
-    "picture_source": "elEconomista",
-    "approx_traffic": "100,000+"
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRGjFvm7cnB4DSC6PvCgRakW1TuLQBwx7cdzSEC5nJXmC5JgtnIwp_7bGjmvphSizb0jy4BmvR9",
+    "news_item_snippet": "El reciente evento \u00abIt&#39;s Glowtime\u00bb de Apple trajo muchas novedades sobre la nueva l\u00ednea del iPhone 16, que incluye los modelos iPhone 16, iPhone 16 Plus,&nbsp;...",
+    "news_item_url": "https://www.teknofilo.com/los-iphone-16-siguen-viniendo-con-bandeja-para-tarjeta-sim-en-espana/",
+    "picture_source": "Photolari",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "Spain",
+    "title": "Francia - B\u00e9lgica",
+    "pubDate": "Mon, 09 Sep 2024 03:00:00 +0200",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRXAR3VL1vrohlRzmnqRw7JAi4frR0ncGi2i4o5iQHR33168MmYptRMPeacmRIAhOeasS-Prqe1",
+    "news_item_snippet": "Francia y B\u00e9lgica jugar\u00e1n el segundo partido oficial de la Nations League. Los de Deschamps necesitan reponerse de su primer traspi\u00e9s ante Italia (1-3).",
+    "news_item_url": "https://www.marca.com/futbol/nations-league/2024/09/09/66df1b84e2704ea13e8b45a1.html",
+    "picture_source": "AS",
+    "approx_traffic": "50,000+"
   },
   {
     "country": "United Kingdom",
     "title": "iPhone 16",
     "pubDate": "Mon, 09 Sep 2024 11:00:00 +0100",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcT2zI4TiBY9Z-X3jqsoUBJH8bmOJk0tMsvm1DeI5Us0hCetumn_rdZ9TEgoZnRW5Ip3SRmeSMOG",
-    "news_item_snippet": "Apple unveiled its iPhone 16 at an annual launch event in California on Monday evening, as the US tech giant seeks to entice consumers with a raft of new&nbsp;...",
-    "news_item_url": "https://www.telegraph.co.uk/business/2024/09/09/what-to-expect-from-apples-iphone-16-launch/",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTuowrcl_1TS1Ai3I90wnYHgXwTCUnoeJMe8Ts33KsRJVKJC9gLd3W688L0z1wu41TBafJhuijx",
+    "news_item_snippet": "The firm says its new handset has been built for artificial intelligence as it looks to regain its edge.",
+    "news_item_url": "https://www.bbc.com/news/articles/c8erzx2n3j7o",
     "picture_source": "Apple Newsroom",
+    "approx_traffic": "500,000+"
+  },
+  {
+    "country": "United Kingdom",
+    "title": "James Earl Jones",
+    "pubDate": "Mon, 09 Sep 2024 22:00:00 +0100",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSVCpMrYU86QsveIs1ow4uuCvcPb99j9-aa_SOygQ8QzWb7BEcSsVEAlXuklCpKF0PFU4IjZKbG",
+    "news_item_snippet": "James Earl Jones, the American actor known for being the voice of Darth Vader in Star Wars, has died at the age of 93. The Hollywood star&#39;s voice was also&nbsp;...",
+    "news_item_url": "https://www.bromsgroveadvertiser.co.uk/news/national/24573676.james-earl-jones-one-pop-cultures-recognisable-voices-dies-aged-93/",
+    "picture_source": "BBC News",
     "approx_traffic": "200,000+"
   },
   {
     "country": "United Kingdom",
     "title": "NFL",
     "pubDate": "Mon, 09 Sep 2024 02:00:00 +0100",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSjr-2KIu4UkWyUxuMONrzQZq6Eq_QkLZNuG3Im3idhCnbxKrI7VrxERDs-C-UUzWZzvgcsqceySA",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQGPlKE7TNR9lq8SDHTPUlIqrY7QOBvXXiQTp7myoKgbPs8KULTrPjeL3ATAvMbTz3bsXHN6X9I",
     "news_item_snippet": "Deal Names McCoy&#39;s as Savoury Snacks Partner for NFL U.K. &amp; Ireland. The National Football League today announced McCoy&#39;s \u2014 part of KP Snacks,&nbsp;...",
     "news_item_url": "https://sponsorship.org/mccoys-announces-three-year-partnership-with-the-nfl/",
-    "picture_source": "ESPN.co.uk",
+    "picture_source": "Convenience Store",
     "approx_traffic": "50,000+"
   }
 ]
