@@ -1,21 +1,51 @@
 [
   {
     "country": "United States",
+    "title": "Earthquake",
+    "pubDate": "Thu, 12 Sep 2024 08:00:00 -0700",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSKLpGEkMFJYAA_C1jaoX_m0CvL8-MtnIHsGYVS4g9-WGxEXzTIxwwuxNzX7n1AbAU6SaRqJ_Gd",
+    "news_item_snippet": "(KABC) -- A preliminary 4.7 magnitude earthquake struck the Malibu area, rattling Southern California Thursday morning, according to the U.S. Geological Survey.",
+    "news_item_url": "https://abc7.com/post/46-magnitude-earthquake-hits-malibu-area-usgs-says/15295217/",
+    "picture_source": "NBC Southern California",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Jon Bon Jovi",
+    "pubDate": "Thu, 12 Sep 2024 00:00:00 -0700",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRZMLz5vv9-M3gTvJs8H0OqEZnMwcz4TRjzeUpOadOzTtKzjSSKivWGFRzlXzYjbdnGDwMm3Nx3",
+    "news_item_snippet": "The singer, who was filming a music video nearby, helped coax a woman to safety in Nashville.",
+    "news_item_url": "https://www.nytimes.com/2024/09/12/us/jon-bon-jovi-woman-bridge.html",
+    "picture_source": "WSMV Nashville",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
     "title": "VMAs 2024",
     "pubDate": "Wed, 11 Sep 2024 10:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTMTRKEM5eKec3IcJx_YsOp_7YqzAb3SiRe4G0omBcda5TyxGpkZPhFSQRpfeGZy8gDDn2Cv_Xu",
-    "news_item_snippet": "Taylor Swift topped the 2024 MTV Video Music Awards, winning seven awards, including video of the year for \u201cFortnight\u201d featuring Post Malone. Sabrina Carpenter&nbsp;...",
-    "news_item_url": "https://www.hollywoodreporter.com/lists/2024-vmas-winners-list/",
-    "picture_source": "Rolling Stone",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcS4zfa88w8oSnzdatR8wXiE4N2BbDi_yoDCsS0aAS9GUdTGKrAZq2JKC-QZWRoENOteaGjPj7vq",
+    "news_item_snippet": "The 2024 MTV VMAs saw Taylor Swift, Megan Thee Stallion, Chappell Roan and Sabrina Carpenter turn the Video Music Awards into a real live party.",
+    "news_item_url": "https://www.rollingstone.com/music/music-news/2024-mtv-vma-awards-taylor-swift-chappell-roan-sabrina-carpenter-1235100713/",
+    "picture_source": "movin925.com",
     "approx_traffic": "1,000,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Shannon Sharpe",
+    "pubDate": "Wed, 11 Sep 2024 13:00:00 -0700",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTdK9IIpspC7Joj03POsVkCnawpd0-c-GGyKb5hpASZ5vZpqkgBo_M_vg0XQJXvBMV_DV5Z7DL_",
+    "news_item_snippet": "Well, looks like Unc is getting into some hot water! Shannon Sharpe recently took to Instagram to say that his account got hacked after an interesting&nbsp;...",
+    "news_item_url": "https://v1019.com/2024/09/11/shannon-sharpe-sex-tape-leaked/",
+    "picture_source": "fox56.com",
+    "approx_traffic": "500,000+"
   },
   {
     "country": "United States",
     "title": "9/11",
     "pubDate": "Wed, 11 Sep 2024 04:00:00 -0700",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRLELiHdRGhEHwoHOUOME4BJSOBHBt4_svW9N_VtlOnnG_FB9MB9nPWx_s-Cng2Iyr4ynBdrQA-",
-    "news_item_snippet": "Wednesday marks 23 years since 19 Islamic terrorists hijacked four airliners and attacked the United States of America. The 9/11 attacks brought down buildings&nbsp;...",
-    "news_item_url": "https://themedialine.org/top-stories/9-11-documentary-brings-together-daughters-of-terrorism-victims-from-us-and-israel/",
+    "news_item_snippet": "Shock, sadness, fear, anger: the 9/11 attacks inflicted a devastating emotional toll on Americans. Many of us watched in horror as the terrorist attacks of&nbsp;...",
+    "news_item_url": "https://www.dchsystem.com/news/2024/september/twenty-three-years-on-the-lasting-memories-of-9-/",
     "picture_source": "United States Army",
     "approx_traffic": "500,000+"
   },
@@ -31,32 +61,22 @@
   },
   {
     "country": "United States",
-    "title": "Chappell Roan",
-    "pubDate": "Wed, 11 Sep 2024 19:00:00 -0700",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcR8CDqLBo3CIjtcWvtOkBxez-gwxz2gGljOG25hvJFjWXmMkIlkV-Motz0SLTeqF_5TFtbF1weD",
-    "news_item_snippet": "Chappell Roan arrived at her first VMAs in a Renaissance inspired outfit and painted face. Dimitrios Kambouris/Getty Images.",
-    "news_item_url": "https://www.cnn.com/2024/09/12/style/chappell-roan-vma-andrew-dahling/index.html",
-    "picture_source": "HeadlinePlanet.com",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "United States",
     "title": "Orlando Bloom",
     "pubDate": "Wed, 11 Sep 2024 19:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRadBFK09dsjCryaCsf9llZSI1hE5Ko9nKqtYEIlJTiIXijgMILMMCQ0Pchd6nfRUT-MTKKhtPK",
-    "news_item_snippet": "Katy Perry performed a 20-minute set before her husband Orland Bloom presented her with the MTV VMAs Michael Jackson Video Vanguard Award.",
-    "news_item_url": "https://deadline.com/2024/09/orlando-bloom-presents-katy-perry-mtv-vma-video-vanguard-award-1236085682/",
-    "picture_source": "Connaught Telegraph",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRG3iBqSg4fZ9L6WQ5P802e525AhlFx7Ie3Nk_YVJ8uWXyuRGqbXMM8xnDgZs28r3eUoguEj_vF",
+    "news_item_snippet": "Perry received the Video Vanguard award, which recognises lifetime achievement.",
+    "news_item_url": "https://www.con-telegraph.ie/2024/09/12/orlando-blooms-tribute-to-katy-perry-at-vmas-she-loves-with-her-whole-heart/",
+    "picture_source": "New York Post",
     "approx_traffic": "200,000+"
   },
   {
     "country": "United States",
-    "title": "Shannon Sharpe Instagram Live",
-    "pubDate": "Wed, 11 Sep 2024 19:00:00 -0700",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTdK9IIpspC7Joj03POsVkCnawpd0-c-GGyKb5hpASZ5vZpqkgBo_M_vg0XQJXvBMV_DV5Z7DL_",
-    "news_item_snippet": "Well, looks like Unc is getting into some hot water! Shannon Sharpe recently took to Instagram to say that his account got hacked after an interesting&nbsp;...",
-    "news_item_url": "https://v1019.com/2024/09/11/shannon-sharpe-sex-tape-leaked/",
-    "picture_source": "fox56.com",
+    "title": "Presidential polls",
+    "pubDate": "Wed, 11 Sep 2024 10:00:00 -0700",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRzf_XytLtu-RyCGrBYjCH3PzjdRQP6NEzKmrScLCPLn2fIR8IOs4SDpt1nG7G-H8ohI0qqqyhq",
+    "news_item_snippet": "Georgia voter Cameron Lewellen has struggled with his vote in the upcoming presidential election. He has voted for Republicans and Democrats in recent years.",
+    "news_item_url": "https://www.npr.org/2024/09/11/nx-s1-5107673/undecided-voter-debate-harris-trump",
+    "picture_source": "NPR",
     "approx_traffic": "100,000+"
   },
   {
@@ -64,8 +84,8 @@
     "title": "Kamala Harris earrings",
     "pubDate": "Wed, 11 Sep 2024 10:00:00 -0700",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTQmRvVamZ38WZHzdoV69mjf-05m9ufNqv5wYzpZlncdRmg2w2msnxN-FcmLXd_bfnO3Kv5kk1f",
-    "news_item_snippet": "After Donald Trump&#39;s incoherent performance at the presidential debate, in which he shouted about people eating household pets, his fans fixated on Kamala&nbsp;...",
-    "news_item_url": "https://www.wired.com/story/trump-harris-debate-conspiracy-microphone-earrings/",
+    "news_item_snippet": "Some right-wing social media accounts suggested or accused Harris of cheating in various ways following her debate with former President Donald Trump,&nbsp;...",
+    "news_item_url": "https://www.forbes.com/sites/antoniopequenoiv/2024/09/11/right-wing-figures-baselessly-claim-harris-used-audio-earrings-for-debate/",
     "picture_source": "New York Post",
     "approx_traffic": "100,000+"
   },
@@ -81,22 +101,22 @@
   },
   {
     "country": "United States",
-    "title": "Brittany Mahomes",
-    "pubDate": "Wed, 11 Sep 2024 15:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTp8JmrsDVzdlYFEZki6saunVF1KYgVST_m_EozaeYq7mDgUGhQiL_BfH4PhclNxbj6TsH0efSi",
-    "news_item_snippet": "Kansas City Chiefs QB Patrick Mahomes said he isn&#39;t phased by Donald Trump calling his wife, Brittany, a supporter.",
-    "news_item_url": "https://www.usatoday.com/story/sports/nfl/2024/09/11/patrick-brittany-mahomes-donald-trump/75182258007/",
-    "picture_source": "Fox News",
+    "title": "Amber",
+    "pubDate": "Wed, 11 Sep 2024 06:00:00 -0700",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSjyxXrVAoT_MxxW9iviQlnYAq9VP0w73TUXjZQMH-gVByg7evPIbiOSZFJRnPYH3A6KATrZBaH",
+    "news_item_snippet": "The child was found before 9 p.m. and is physically safe with the Wichita Police Department.",
+    "news_item_url": "https://www.ksn.com/news/amber-alert-issued-for-missing-wichita-child-forcibly-taken/",
+    "picture_source": "KSHB",
     "approx_traffic": "50,000+"
   },
   {
     "country": "United States",
-    "title": "Amber",
-    "pubDate": "Wed, 11 Sep 2024 06:00:00 -0700",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSjyxXrVAoT_MxxW9iviQlnYAq9VP0w73TUXjZQMH-gVByg7evPIbiOSZFJRnPYH3A6KATrZBaH",
-    "news_item_snippet": "An Amber Alert has been&nbsp;...",
-    "news_item_url": "https://www.kctv5.com/2024/09/12/amber-alert-issued-missing-5-year-old-boy-wichita/",
-    "picture_source": "KSHB",
+    "title": "Frankie Beverly songs",
+    "pubDate": "Wed, 11 Sep 2024 12:00:00 -0700",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQ09Oa3UjZi1H2MZy6dmgW6_rg875O4DtuSY3xvBw2F5jcKCWTiQvqwuRiukWybj0qBkC0VsR5e",
+    "news_item_snippet": "The WMNF Song of the Day is Before I Go, by Maze.This song is dedicated to Frankie Beverly, who passed away yesterday at the age of 77.",
+    "news_item_url": "https://www.wmnf.org/sotd-9-12-24-before-i-go-by-maze-ft-frankie-beverly/",
+    "picture_source": "88Nine Radio Milwaukee",
     "approx_traffic": "50,000+"
   },
   {
@@ -120,43 +140,23 @@
     "approx_traffic": "50,000+"
   },
   {
-    "country": "United States",
-    "title": "9/11 attack",
-    "pubDate": "Wed, 11 Sep 2024 06:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQa0iH_SarePUbxGmPJrY9TCD84Rv4KSgfKzJuzvMtc4FmyOXFaBreN9B2coDrkC_fr732pgKQ8",
-    "news_item_snippet": "President Joe Biden and Vice President Kamala Harris will commemorate the 23rd anniversary of the September 11 attacks with visits to each of three sites of&nbsp;...",
-    "news_item_url": "https://www.cnn.com/2024/09/11/politics/heres-how-biden-harris-trump-and-vance-will-commemorate-9-11/index.html",
-    "picture_source": "Washington State Standard",
-    "approx_traffic": "50,000+"
+    "country": "India",
+    "title": "Sitaram Yechury",
+    "pubDate": "Thu, 12 Sep 2024 19:30:00 +0530",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRKojAO5gELwnWfCoD-HpqtKX-x2pCHyMSYaI98AEiB7imCoO-30FWWO1klh7586P7C4uEM-q4u",
+    "news_item_snippet": "Sitaram Yechury is an Indian politician and prominent leader of the Communist Party of India (Marxist), known for his advocacy of leftist policies and&nbsp;...",
+    "news_item_url": "https://www.jagranjosh.com/general-knowledge/sitaram-yechury-biography-1726138732-1",
+    "picture_source": "The Hindu",
+    "approx_traffic": "200,000+"
   },
   {
-    "country": "United States",
-    "title": "9/11 memorial",
-    "pubDate": "Wed, 11 Sep 2024 05:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSgwy7QaqbOcgvg3ymXT8Y1bdxk0kzotURgPrku_I_JybUzSPzbl04IhP_Km4NlFnNU7fvDxYGo",
-    "news_item_snippet": "University Veteran Services, Student Veterans of America UW-Madison, College Republicans of UW-Madison, College Democrats of UW-Madison and Wisconsin Young&nbsp;...",
-    "news_item_url": "https://badgerherald.com/news/campus/2024/09/11/university-veteran-services-student-orgs-host-9-11-memorial-on-bascom-hill/",
-    "picture_source": "Ocala Gazette",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Lenny Kravitz",
-    "pubDate": "Wed, 11 Sep 2024 20:00:00 -0700",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQFI99vHXVE5dLUdr_VPUMfeO37Ifj1MALwMwkqsiD_tLYcDmeZCCkiiVfIcccLntokGL62Xdx-",
-    "news_item_snippet": "Lenny Kravitz performed &#39;Are You Gonna Go My Way,&#39; &#39;Human,&#39; and &#39;Fly,&#39; at the 2024 MTV Video Music Awards on Wednesday.",
-    "news_item_url": "https://www.rollingstone.com/music/music-news/lenny-kravitz-performance-2024-mtv-vma-awards-1235095564/",
-    "picture_source": "Black Information Network",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Elon Musk",
-    "pubDate": "Wed, 11 Sep 2024 11:00:00 -0700",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRFBHlxXP4zxCJkgxN8zkLpqSrR76ea4_fnXa6Z03oxBH7t2xrvraKEyivqu62olC6Aais9FHB4",
-    "news_item_snippet": "El voto de personas no ciudadanas es poco frecuente e inusual. Esto es lo que debes saber sobre las leyes de registro de votantes de Arizona.",
-    "news_item_url": "https://www.azcentral.com/story/noticias/2024/09/11/elon-musk-dice-que-los-no-ciudadanos-votan-en-arizona-eso-es-falso/75179183007/",
-    "picture_source": "AZCentral",
+    "country": "India",
+    "title": "Ishan Kishan",
+    "pubDate": "Thu, 12 Sep 2024 12:30:00 +0530",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTepX-BS8thGcDVou-0fGs21jNBeNTXGDrMxRhoA1VJv-w87gJOlo5et-T_xvJcjBSW2bx5-t3n",
+    "news_item_snippet": "Indian cricket team wicket-keeper batter Ishan Kishan made a surprise appearance for India C during the Duleep Trophy second round match against India B at&nbsp;...",
+    "news_item_url": "https://sports.ndtv.com/cricket/ishan-kishan-makes-surprise-appearance-in-duleep-trophy-leaves-internet-puzzled-6547976",
+    "picture_source": "ESPNcricinfo.com",
     "approx_traffic": "50,000+"
   },
   {
@@ -171,21 +171,11 @@
   },
   {
     "country": "India",
-    "title": "Ishan Kishan",
-    "pubDate": "Thu, 12 Sep 2024 12:30:00 +0530",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTepX-BS8thGcDVou-0fGs21jNBeNTXGDrMxRhoA1VJv-w87gJOlo5et-T_xvJcjBSW2bx5-t3n",
-    "news_item_snippet": "Indian cricket team wicket-keeper batter Ishan Kishan made a surprise appearance for India C during the Duleep Trophy second round match against India B at&nbsp;...",
-    "news_item_url": "https://sports.ndtv.com/cricket/ishan-kishan-makes-surprise-appearance-in-duleep-trophy-leaves-internet-puzzled-6547976",
-    "picture_source": "ESPNcricinfo.com",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "India",
     "title": "ARM Movie",
     "pubDate": "Thu, 12 Sep 2024 09:30:00 +0530",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQeZIZbBCi3OWHFOJytPlP-AkptWczg1ORC5ZeGuzeqM3pzXCzUcTzyOrDcQMSRqDQw_WyKTLMG",
-    "news_item_snippet": "\u0c2e\u0c32\u0c2f\u0c3e\u0c33 \u0c28\u0c1f\u0c41\u0c21\u0c41 \u0c1f\u0c4a\u0c35\u0c3f\u0c28\u0c4b \u0c25\u0c3e\u0c2e\u0c38\u0c4d\u200c, \u0c15\u0c43\u0c24\u0c3f\u0c36\u0c46\u0c1f\u0c4d\u0c1f\u0c3f \u0c1c\u0c02\u0c1f\u0c17\u0c3e \u0c28\u0c1f\u0c3f\u0c02\u0c1a\u0c3f\u0c28 \u0c1a\u0c3f\u0c24\u0c4d\u0c30\u0c02 &#39;\u0c0f\u0c06\u0c30\u0c4d\u200c\u0c0e\u0c02&#39;. \u0c17\u0c41\u0c30\u0c41\u0c35\u0c3e\u0c30\u0c02 \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41\u0c32\u0c4b\u0c28\u0c42 \u0c35\u0c3f\u0c21\u0c41\u0c26\u0c32\u0c48\u0c28 \u0c08 \u0c2e\u0c42\u0c35\u0c40 \u0c0e\u0c32\u0c3e \u0c09\u0c02\u0c26\u0c3f? ARM Movie Review: \u0c30\u0c3f\u0c35\u0c4d\u0c2f\u0c42:&nbsp;...",
-    "news_item_url": "https://www.eenadu.net/telugu-news/movies/arm-movie-review-in-telugu/0203/124167240",
+    "news_item_snippet": "Tovino Thomas ARM Movie Review: \u0c39\u0c40\u0c30\u0c4b \u0c1f\u0c4b\u0c35\u0c3f\u0c28\u0c4b \u0c25\u0c3e\u0c2e\u0c38\u0c4d \u0c2e\u0c4b\u0c38\u0c4d\u0c1f\u0c4d \u0c0e\u0c35\u0c48\u0c1f\u0c46\u0c21\u0c4d \u0c2a\u0c3e\u0c28\u0c4d \u0c07\u0c02\u0c21\u0c3f\u0c2f\u0c3e \u0c2a\u0c3e\u0c02\u0c1f\u0c38\u0c40 \u0c2a\u0c4d\u0c30\u0c3e\u0c1c\u0c46\u0c15\u0c4d\u0c1f\u0c4d\u201dARM\u201d \u0c24\u0c4b \u0c2a\u0c4d\u0c30\u0c47\u0c15\u0c4d\u0c37\u0c15\u0c41\u0c32 \u0c2e\u0c41\u0c02\u0c26\u0c41\u0c15\u0c41 \u0c35\u0c1a\u0c4d\u0c1a\u0c3e\u0c21\u0c41. \u0c1f\u0c4b\u0c35\u0c3f\u0c28\u0c4b \u0c25\u0c3e\u0c2e\u0c38\u0c4d 50\u0c2e\u0c48\u0c32\u0c4d&nbsp;...",
+    "news_item_url": "https://ntvtelugu.com/reviews/tovino-thomas-arm-movie-review-in-telugu-arm-movie-rating-674167.html",
     "picture_source": "FilmiBeat Telugu",
     "approx_traffic": "50,000+"
   },
@@ -234,8 +224,8 @@
     "title": "Kamala Harris",
     "pubDate": "Wed, 11 Sep 2024 10:30:00 +0530",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQjG9cb1iYn4ZeN3W99JBRQuLcwRpbeg2VmV1Kf_OK8un2zn3qUyVlP9_oG0YqhNSsstan3ESfU",
-    "news_item_snippet": "Amid claims that Kamala Harris wore Bluetooth earrings during her debate with Trump, company responded without confirmation.",
-    "news_item_url": "https://www.hindustantimes.com/world-news/us-news/bluetooth-earring-company-responds-to-kamala-harris-s-debate-allegations-offers-trump-to-101726120665084.html",
+    "news_item_snippet": "During the Presidential debate, Republican candidate Donald Trump said his opponent, Democratic candidate, Kamala Harris had learnt Marxist ideology from&nbsp;...",
+    "news_item_url": "https://indianexpress.com/article/explained/explained-global/kamala-harris-father-donald-marxist-9564064/",
     "picture_source": "Aljazeera.com",
     "approx_traffic": "50,000+"
   },
@@ -251,11 +241,21 @@
   },
   {
     "country": "Brazil",
+    "title": "Atletico MG",
+    "pubDate": "Thu, 12 Sep 2024 04:00:00 -0500",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSKh42lKx06d4AwGXzrSU-wR7vNKkuxfdTT4TAsSuFjXvFc9Oib0l1MiBy5IojRs9_7jdAe4lf6",
+    "news_item_snippet": "Atl\u00e9tico-MG e S\u00e3o Paulo v\u00e3o se enfrentar por uma vaga nas semifinais da Copa do Brasil \u00e0s 21h45 (de Bras\u00edlia) desta quinta-feira (12)",
+    "news_item_url": "https://www.espn.com.br/futebol/copa-do-brasil/artigo/_/id/14149667/atletico-mg-x-sao-paulo-onde-assistir-ao-vivo-horario-palpites-provaveis-escalacoes-copa-do-brasil",
+    "picture_source": "globoesporte.com",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Brazil",
     "title": "Corinthians x Juventude",
     "pubDate": "Wed, 11 Sep 2024 12:00:00 -0500",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQcJ7IGy-mWU1Omfr8QuQ5GRsxI6ON8bA8kD_iZ5pGC8z6BsRDedM1RgyByn0sXl4l4dgRJ9vAO",
-    "news_item_snippet": "Um empate d\u00e1 ao time ga\u00facho a classifica\u00e7\u00e3o \u00e0s semifinais da Copa do Brasil; Tim\u00e3o precisa vencer por dois gols de vantagem para seguir na competi\u00e7\u00e3o.",
-    "news_item_url": "https://brasil61.com/n/corinthians-x-juventude-onde-assistir-e-horario-confira-escalacoes-bras2412619",
+    "news_item_snippet": "Ex-\u00e1rbitros ouvidos pelo UOL opinaram sobre os gols pol\u00eamicos durante o jogo pelas quartas de final da Copa do Brasil. Veja o que eles disseram!",
+    "news_item_url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2024/09/12/corinthians-x-juventude-gols-ex-arbitros.htm",
     "picture_source": "globoesporte.com",
     "approx_traffic": "2,000,000+"
   },
@@ -294,8 +294,8 @@
     "title": "Sport",
     "pubDate": "Wed, 11 Sep 2024 18:00:00 -0500",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcT0yMuVVftXKCFahgvsobDijqaf8CANgQmKpcY9u7Eu3P_4ub4WcPzWVaA-Nvj80Sd_9Eseqfpv",
-    "news_item_snippet": "O jogo disputado no est\u00e1dio Rei Pel\u00e9, em Macei\u00f3, ter\u00e1 transmiss\u00e3o ao vivo da TV Brasil a partir das 21h30 (hor\u00e1rio de Bras\u00edlia) desta quarta-feira (11).",
-    "news_item_url": "https://agenciabrasil.ebc.com.br/esportes/noticia/2024-09/em-situacoes-opostas-na-serie-b-crb-e-sport-medem-forcas",
+    "news_item_snippet": "Le\u00e3o venceu equipes com melhor aproveitamento no returno, como Ituano, Ava\u00ed e Amazonas, mas entregou pontos para advers\u00e1rios que v\u00eam tendo campanhas ruins&nbsp;...",
+    "news_item_url": "https://ge.globo.com/pe/futebol/times/sport/noticia/2024/09/12/robin-hood-da-serie-b-sport-rouba-pontos-dos-mais-fortes-mas-entrega-aos-mais-fracos-entenda.ghtml",
     "picture_source": "globoesporte.com",
     "approx_traffic": "100,000+"
   },
@@ -323,9 +323,9 @@
     "country": "Canada",
     "title": "Taylor Swift",
     "pubDate": "Wed, 11 Sep 2024 00:00:00 -0400",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQldU0lYKHFtneBM1oh55JRMy0YXura9G8u-s4XhsT1bJ9T7U97LgK5t6pZR8yPE0D4O227Mno0",
-    "news_item_snippet": "&#39;Calm and not chaos&#39; pop star says while throwing her support behind US vice-president.",
-    "news_item_url": "https://www.saanichnews.com/entertainment/taylor-swift-endorses-kamala-harris-for-president-after-debate-ends-7529600",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcR9xfP2wUey_oYy2ZKvi3UHOAchiOzFAFAr6ZuK6mopK4cs2gkgsiQnarCMoK8Qag6JGHHRmzKO",
+    "news_item_snippet": "The pop star leads the nominations with 12 \u2014 eight for her \u201cFortnight\u201d music video, two social categories and nods in the best pop and artist of the year&nbsp;...",
+    "news_item_url": "https://www.saanichnews.com/entertainment/mtv-video-music-awards-are-back-taylor-swift-poised-to-make-history-7530011",
     "picture_source": "Saanich News",
     "approx_traffic": "100,000+"
   },
@@ -334,8 +334,8 @@
     "title": "CNN",
     "pubDate": "Wed, 11 Sep 2024 07:00:00 -0400",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTgBlnYK8rJLiB6CGCDg7AkBCAqkTwcWBJEGdyJm8x9hSQCRb8aknkoEsJXv-e9rut7JvSUHSqQ",
-    "news_item_snippet": "In crises, most people aren&#39;t selfish, author Athena Aktipis says, but show compassion and cooperation. She notes humans have long teamed up during&nbsp;...",
-    "news_item_url": "https://www.cnn.com/2024/09/11/health/apocalypse-disasters-teamwork-athena-aktipis-wellness/index.html",
+    "news_item_snippet": "CNN gained exclusive access to a medical evacuation train used by the Ukrainian army to transport the wounded from near the frontlines to hospitals around&nbsp;...",
+    "news_item_url": "https://www.cnn.com/2024/09/12/europe/ukraine-hospital-train-wounded-soldiers-intl/index.html",
     "picture_source": "CNN",
     "approx_traffic": "100,000+"
   },
@@ -363,10 +363,10 @@
     "country": "South Korea",
     "title": "\ub274\uc9c4\uc2a4",
     "pubDate": "Wed, 11 Sep 2024 20:00:00 +0900",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRtQwAkseUUKL9qnjplxbLJwgnPqtdeZc-qpaGKgt1ATHjhxzRMuGjTyiff5aahdNech_GspQ1C",
-    "news_item_snippet": "\uadf8\ub8f9 \ub274\uc9c4\uc2a4 \uba64\ubc84\ub4e4\uc774 \u201c25\uc77c\uae4c\uc9c0 \ubbfc\ud76c\uc9c4 \uc804 \ub300\ud45c\ub97c \ubcf5\uadc0\uc2dc\ucf1c\ub2ec\ub77c\u201d\uace0 \uc694\uad6c\ud55c 11\uc77c \uae34\uae09 \uc720\ud29c\ube0c \ub77c\uc774\ube0c \ubc29\uc1a1 \ub4a4 \ud6c4\ud3ed\ud48d\uc774 \uac70\uc138\ub2e4. 12\uc77c \uc5d1\uc2a4(X\u00b7\uc61b \ud2b8\uc704\ud130)\uc5d0\ub294 \ubbfc \uc804&nbsp;...",
-    "news_item_url": "https://www.hani.co.kr/arti/culture/culture_general/1158241.html",
-    "picture_source": "MBC\ub274\uc2a4",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTHBW6xSkn2OmGwZ2lxfJ4MQXgcrfHjCGYdasucM0bO0aLZAvQt3BQ8uJg37UZFBVOtK7fJNT1R",
+    "news_item_snippet": "\ud558\uc774\ube0c \uc8fc\uac00\uac00 \ud558\ub77d\uc138\ub97c \ubcf4\uc774\uace0 \uc788\ub2e4. 12\uc77c \uae30\uc900 \uc804 \uac70\ub798\uc77c \ub300\ube44 -3.74% \ub0b4\ub9b0 16\ub9cc 7400\uc6d0\uc5d0 \uac70\ub798\ub418\uace0 \uc788\ub2e4. \uac70\ub798\ub7c9\uc740 10\ub9cc 4623\uc8fc\ub2e4. \uc774\ub294 \uc804\ub0a0 \uac78\uadf8\ub8f9 \ub274\uc9c4\uc2a4\uac00 \ubbfc\ud76c&nbsp;...",
+    "news_item_url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1074609",
+    "picture_source": "\ud55c\uaca8\ub808",
     "approx_traffic": "50,000+"
   },
   {
@@ -381,16 +381,6 @@
   },
   {
     "country": "France",
-    "title": "Taylor Swift",
-    "pubDate": "Wed, 11 Sep 2024 08:00:00 +0200",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTJ3riS_OsYmBxGTRWLlce8aL6m82PCTO5JyoIxuZFGoP06AaU9bqjkLAJZhAr98NriqVVNhhqN",
-    "news_item_snippet": "La pop star am\u00e9ricaine aux centaines de millions d&#39;abonn\u00e9s a d\u00e9clar\u00e9 son soutien \u00e0 la candidate d\u00e9mocrate, \u00ab une dirigeante stable et dou\u00e9e \u00bb.",
-    "news_item_url": "https://www.lesechos.fr/monde/ameriques/le-soutien-de-taylor-swift-a-kamala-harris-une-tres-mauvaise-nouvelle-pour-donald-trump-2118244",
-    "picture_source": "Franceinfo",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "France",
     "title": "Koba LaD",
     "pubDate": "Wed, 11 Sep 2024 14:00:00 +0200",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSPcXMjTeDU_EDJFYjnXl0zxsmKaUJfy5trMzcFITv6KrvtH-VTBVPx_17wvBiip3lnBCPeLb41",
@@ -400,8 +390,18 @@
     "approx_traffic": "50,000+"
   },
   {
+    "country": "France",
+    "title": "Taylor Swift",
+    "pubDate": "Wed, 11 Sep 2024 08:00:00 +0200",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQVO416P3BRhj2v_9X0n97T19nyRaoL3TYOe4J6nlwD-KGD_YL6Wg6_E9gGU7Qd782tlwMtP5FT",
+    "news_item_snippet": "Le mardi 10 septembre, Taylor Swift \u00e9tait \u00e9galement au centre de l&#39;attention pour son soutien \u00e0 la candidate d\u00e9mocrate Kamala Harris, exprim\u00e9 via un post&nbsp;...",
+    "news_item_url": "https://www.francetvinfo.fr/culture/musique/les-chanteuses-americaines-taylor-swift-et-katy-perry-sacrees-aux-mtv-video-music-awards_6777376.html",
+    "picture_source": "Le Courrier du Vietnam",
+    "approx_traffic": "50,000+"
+  },
+  {
     "country": "Germany",
-    "title": "EC Kartenzahlung St\u00f6rung",
+    "title": "Ec Kartenzahlung St\u00f6rung",
     "pubDate": "Thu, 12 Sep 2024 12:00:00 +0200",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTzJvolrJeEut247IPDVW2Iz77lfIsfKeIJ-AX6n3AhAitqC8Wlp7Klmw2ZVRi5TDXSIrgL57wl",
     "news_item_snippet": "Bei der Zahlung mit bestimmten Debit- und Kreditkarten kann es aktuell zu Problemen kommen. Art und Umfang der St\u00f6rungen sind bisher nicht bekannt.",
@@ -414,8 +414,8 @@
     "title": "Dresden Carolabr\u00fccke",
     "pubDate": "Wed, 11 Sep 2024 07:00:00 +0200",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQbUudqARBxTbZHSLp9ouDK574o7fX1Y3WdnDAPH8usF-ZbBnbW1LeTdcOFtjwySXfbImDseD0K",
-    "news_item_snippet": "Nach dem Einsturz der Carolabr\u00fccke laufen die Arbeiten an der Unfallstelle. Es gilt, die Ruine zu stabilisieren.",
-    "news_item_url": "https://www.mz.de/panorama/feuerwehr-stutzarbeiten-an-carolabrucke-laufen-3914906",
+    "news_item_snippet": "Der eingest\u00fcrzte Br\u00fcckenzug C der Carolabr\u00fccke ist nicht zu halten. Ein Abriss wird vorbereitet. Die in der Elbe liegenden Tr\u00fcmmerteile sind ebenfalls ein&nbsp;...",
+    "news_item_url": "https://www.schwarzwaelder-bote.de/inhalt.carolabruecke-dresden-dresden-brueckenteil-soll-kontrolliert-abgerissen-werden.31fd553f-99f3-45ea-a14b-3c492ee2187c.html",
     "picture_source": "Capital - Wirtschaft ist Gesellschaft",
     "approx_traffic": "500,000+"
   },
@@ -483,10 +483,10 @@
     "country": "Mexico",
     "title": "Scoubidou",
     "pubDate": "Thu, 12 Sep 2024 01:00:00 -0600",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRLkJkiRg3wPfhaLkGjaAgA3FrEMebO63G2mAD_Qm3tLCFNeWIUtUDWrcUfm2xk5w6iJEAFdd8C",
-    "news_item_snippet": "La animaci\u00f3n de este jueves no se trata de algo nuevo, sino de una tradici\u00f3n que se remonta a finales de la d\u00e9cada de los 50&#39;s y que es muy popular en todo&nbsp;...",
-    "news_item_url": "https://heraldodemexico.com.mx/tendencias/2024/9/12/que-es-el-scoubidou-al-que-google-le-dedico-el-doodle-de-hoy-12-de-septiembre-637154.html",
-    "picture_source": "SDPnoticias.com",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRSX6gD5lZpMINbFZirO1gZmmGQFF4vv4g5ym3GmQ68Gk_XMsew2MBWiWKJkJPnWY8HVBOwn6qo",
+    "news_item_snippet": "Doodle HOY 12 de septiembre: \u00bfQu\u00e9 es el Scoubidou y por qu\u00e9 es homenajeado por Google? Los Doodles de Gooogle son una de las maneras de hacerse viral en&nbsp;...",
+    "news_item_url": "https://www.milenio.com/virales/doodle-hoy-por-este-motivo-se-homenajea-al-scoubidou-en-google",
+    "picture_source": "Exc\u00e9lsior",
     "approx_traffic": "100,000+"
   },
   {
@@ -513,10 +513,10 @@
     "country": "United Kingdom",
     "title": "Davina McCall",
     "pubDate": "Wed, 11 Sep 2024 23:00:00 +0100",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTQeP2tgsrQweyxMYSRJdglvRp_03cBFRmelfu6KzLCrsEMsv07p89w8-LZ_rkGT7d7FdTFOToq",
-    "news_item_snippet": "Davina McCall celebrated with surprisingly close friend Hannah Waddingham at the NTAs last night (11 September 2024). See the pair on the red carpet here.",
-    "news_item_url": "https://www.goodhousekeeping.com/uk/lifestyle/a62169547/davina-mccall-hannah-waddingham-ntas/",
-    "picture_source": "Daily Mail",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRgTiCecABz85IBIPJuNELj11Ko3w9NPERw_r9uGnK8qgNrGGIc_W5-cfeTYednK8YnvWS8WaLJ",
+    "news_item_snippet": "The TV presenter, 56, was honoured with the Special Rcognition award for her contributions to the television industry throughout the course of her career.",
+    "news_item_url": "https://www.dailymail.co.uk/tvshowbiz/article-13840111/Davina-McCall-breaks-tears-pays-tribute-boyfriend-Michael-Douglas-accepting-Special-Recognition-gong-National-Television-Awards.html",
+    "picture_source": "goodhousekeeping.com",
     "approx_traffic": "50,000+"
   }
 ]
