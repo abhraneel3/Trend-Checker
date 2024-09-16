@@ -4,20 +4,10 @@
     "title": "Trump",
     "pubDate": "Sun, 15 Sep 2024 13:00:00 -0700",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRvPP9KXzT4a2m8XPMqIaJzPuQcb2nus59SUEmkndn84EIe0u_WQyV4ny2vSBvLJw0ENglkGjZM",
-    "news_item_snippet": "Former President Donald Trump thanked law enforcement for their &quot;incredible&quot; response to what the FBI has described as an assassination attempt.",
-    "news_item_url": "https://abcnews.go.com/US/trump-outstanding-law-enforcement-after-apparent-assassination-attempt/story?id=113719075",
+    "news_item_snippet": "This election year has been home to America&#39;s worst political violence in almost a half-century, and it&#39;s only mid-September. The danger of copy-cat wannabe&nbsp;...",
+    "news_item_url": "https://www.axios.com/2024/09/16/trump-assassination-attempt-florida-golf-course",
     "picture_source": "NPR",
     "approx_traffic": "5,000,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Cowboys",
-    "pubDate": "Sun, 15 Sep 2024 09:00:00 -0700",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSokzIcxmkmuQtZpfmBp5m-VaciEKU6x47qIRDh50KyuagvoV2_hSNGk2307Gncsp9VH97-Ct9t",
-    "news_item_snippet": "New Orleans scored touchdowns on its first six possessions for the second time in franchise history.",
-    "news_item_url": "https://www.neworleanssaints.com/news/2024-nfl-week-2-dallas-cowboys-vs-new-orleans-saints-game-notes",
-    "picture_source": "Lone Star Live",
-    "approx_traffic": "1,000,000+"
   },
   {
     "country": "United States",
@@ -27,6 +17,16 @@
     "news_item_snippet": "(KANSAS CITY, MO) - The Cincinnati Bengals and Kansas City Chiefs battled it out on Sunday in a game that had six lead changes, but it would be the Chiefs.",
     "news_item_url": "https://www.kq2.com/news/kansas-city-chiefs-win-crazy-back-and-forth-game-with-cincinnati-bengals/article_852ed4ba-73df-11ef-bd4b-43593cd8c409.html",
     "picture_source": "Bengals.com",
+    "approx_traffic": "1,000,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Cowboys",
+    "pubDate": "Sun, 15 Sep 2024 09:00:00 -0700",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSokzIcxmkmuQtZpfmBp5m-VaciEKU6x47qIRDh50KyuagvoV2_hSNGk2307Gncsp9VH97-Ct9t",
+    "news_item_snippet": "New Orleans scored touchdowns on its first six possessions for the second time in franchise history.",
+    "news_item_url": "https://www.neworleanssaints.com/news/2024-nfl-week-2-dallas-cowboys-vs-new-orleans-saints-game-notes",
+    "picture_source": "Lone Star Live",
     "approx_traffic": "1,000,000+"
   },
   {
@@ -64,8 +64,8 @@
     "title": "Packers",
     "pubDate": "Sun, 15 Sep 2024 11:00:00 -0700",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTVDHSpL49tEdTzYB6cwTj7txuywbyYv1u9UwVUb1uoX4YsyTScs22R2_Rul-WCplt8ZnMQzwnG",
-    "news_item_snippet": "GREEN BAY \u2013 The Packers went with a run-heavy game plan Sunday without QB Jordan Love, and backup QB Malik Willis executed it well in a 16-10 triumph in the&nbsp;...",
-    "news_item_url": "https://www.packers.com/news/packers-colts-in-game-updates-week-2-2024",
+    "news_item_snippet": "GREEN BAY \u2013 Behind backup QB Malik Willis, a highly productive running game and a stout defense, the Packers won their home opener, 16-10 over the&nbsp;...",
+    "news_item_url": "https://www.packers.com/news/game-recap-5-takeaways-from-packers-victory-over-colts",
     "picture_source": "Colts.com",
     "approx_traffic": "500,000+"
   },
@@ -73,10 +73,10 @@
     "country": "United States",
     "title": "Raiders vs Ravens",
     "pubDate": "Sun, 15 Sep 2024 08:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSX1sDP-zwBi3NGKsPbfpQqd9zB5b1qBkthVz1i22JyZS4EriW36gGImFUWirNqXlW_UXa-OoU_",
-    "news_item_snippet": "Las Vegas Raiders wide receiver DJ Turner (19) during the regular season away game against the Baltimore Ravens at M&amp;T Bank Stadium. Matt Aguirre/Las Vegas&nbsp;...",
-    "news_item_url": "https://www.raiders.com/news/quick-snap-las-vegas-raiders-defeat-baltimore-ravens-nfk-week-2-2024",
-    "picture_source": "BaltimoreRavens.com",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSmfVShtMn7HE7r79JAQg2kjAbXtFE71VepLN9_-4k_toGqHr9GafBIXmvkHKtO9Or0mHhAdjnh",
+    "news_item_snippet": "On 3rd-and-goal from the 17-yard line, Raiders quarterback Gardner Minshew II targeted Davante Adams in the end zone and Brandon Stephens batted it away, but he&nbsp;...",
+    "news_item_url": "https://www.baltimoreravens.com/news/ravens-fall-to-raiders-nfl-week-2-home-opener-game-recap",
+    "picture_source": "Raiders.com",
     "approx_traffic": "500,000+"
   },
   {
@@ -88,6 +88,26 @@
     "news_item_url": "https://www.tennesseetitans.com/news/titans-drop-home-opener-lose-24-17-to-the-jets",
     "picture_source": "newyorkjets.com",
     "approx_traffic": "500,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Rams vs Cardinals",
+    "pubDate": "Sun, 15 Sep 2024 14:00:00 -0700",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTmRcfJPpVrg3tHuAsCsvXbQSa-rO2j4l73yyOsaoIsjxIdJg6GsuRhx4emrHJ_8x_b8JIZTs8v",
+    "news_item_snippet": "GLENDALE, Ariz. \u2013 The Rams fell to the Cardinals 41-10 on Sunday at State Farm Stadium. Wide receiver Cooper Kupp exited the game with an ankle injury and&nbsp;...",
+    "news_item_url": "https://www.therams.com/news/game-recap-rams-fall-to-cardinals-41-10",
+    "picture_source": "Rams Wire",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Tito Jackson",
+    "pubDate": "Sun, 15 Sep 2024 22:00:00 -0700",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRUbsbk-tfDkPCkbqODG81iq5QbO3dPQjcXD2g7LyIYtv0VsH-EYjVo_7YxeGE50FG8ovbBQtiN",
+    "news_item_snippet": "Tito Jackson -- a member of The Jackson 5 and brother to Michael Jackson and Janet Jackson -- died aged 70, his children confirmed on social media.",
+    "news_item_url": "https://abcnews.go.com/Entertainment/tito-jackson-dead-70-heartbroken-children-confirm/story?id=113719063",
+    "picture_source": "BBC News",
+    "approx_traffic": "200,000+"
   },
   {
     "country": "United States",
@@ -104,29 +124,9 @@
     "title": "Bears vs Texans",
     "pubDate": "Sun, 15 Sep 2024 17:00:00 -0700",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQiCIGSTDIjIhEK8_oyMGZ2X-ANMvLAd-PTCE-sz_9ZhFSl4Pqdbq9uQBas9DACStAtwX0PFxkU",
-    "news_item_snippet": "Stroud continued an interception-free streak that dates back to last season, throwing for 260 yards and a touchdown. That touchdown was part of an eight-catch,&nbsp;...",
-    "news_item_url": "https://sports.yahoo.com/live/bears-vs-texans-score-nico-collins-cj-stroud-star-on-offense-as-houston-defense-sacks-caleb-williams-seven-times-in-win-011231306.html",
+    "news_item_snippet": "The Bears fell behind by double digits Sunday night in Houston for the second straight game. But unlike last weekend&#39;s exciting comeback win over the Titans&nbsp;...",
+    "news_item_url": "https://www.chicagobears.com/news/rapid-recap-bears-fall-to-texans-on-sunday-night-football-2024-week-2",
     "picture_source": "Casper Star-Tribune Online",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Rams vs Cardinals",
-    "pubDate": "Sun, 15 Sep 2024 14:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTd4Gg7pJulSMs4bM8DWiDnt3blhbKzRRGrqMZWSqALEMjEEKRymo7C0llDMypvjZwpQNeUj2dC",
-    "news_item_snippet": "Kyler Murray was on the money with his passes, Marvin Harrison Jr. introduced himself to the NFL, the Cardinals&#39; defense dominated up front and in 60 short&nbsp;...",
-    "news_item_url": "https://theramswire.usatoday.com/lists/rams-cardinals-takeaways-week-2-recap-score/",
-    "picture_source": "therams.com",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Tito Jackson",
-    "pubDate": "Sun, 15 Sep 2024 22:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTD9BIx6G2zPEA-czZihWLZPfOYIM6XQVZAGkm9Ofq-yAAxly6lEZPje_lROvcIy011cCMkKY8e",
-    "news_item_snippet": "Tito was an original member of the Jackson Five pop group and brother of the late Michael Jackson.",
-    "news_item_url": "https://www.bbc.com/news/articles/c2kddp5x5zno",
-    "picture_source": "TVTV",
     "approx_traffic": "200,000+"
   },
   {
@@ -153,9 +153,9 @@
     "country": "United States",
     "title": "Giants vs Commanders",
     "pubDate": "Sun, 15 Sep 2024 11:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQqQdkiBwc1RVG5dx3vSec8qrONrKcUhWxreioSOHisjzraJzCWmSyvHXK_L3nPi4qzSFt8LML9",
-    "news_item_snippet": "The Washington Commanders have their home debut of the 2024 season with a road matchup against the New York Giants. Here&#39;s everything you need to know about&nbsp;...",
-    "news_item_url": "https://www.commanders.com/news/commanders-vs-giants-how-to-watch-listen-live-stream",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSprrQRiEwgStp5eWVo4qv0HbODsJcGMOq7QL8UlhFnw2rIGIWhACIQzLiq3OSX4WoOwSBcrz_K",
+    "news_item_snippet": "The following players will be inactive for the Week 2 matchup between the New York Giants and Washington Commanders.",
+    "news_item_url": "https://www.giants.com/news/nfl-week-2-inactives-injury-report-statuses-giants-vs-commanders",
     "picture_source": "Giants.com",
     "approx_traffic": "100,000+"
   },
@@ -180,32 +180,12 @@
     "approx_traffic": "100,000+"
   },
   {
-    "country": "United States",
-    "title": "Chargers",
-    "pubDate": "Sun, 15 Sep 2024 12:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcR-6yWOphgHcXy3DHRSOaEB6A5HTfNOPjS-Lu-97cUgVZ3fo2DiY90K9WEDYaY2K3iJvJWQTTx_",
-    "news_item_snippet": "The Chargers dominated Carolina in a 26-3 win, led by another strong performance by JK Dobbins and a breakout game by Quentin Johnston.",
-    "news_item_url": "https://chargerswire.usatoday.com/lists/chargers-panthers-takeaways-jk-dobbins-quentin-johnston/",
-    "picture_source": "Panthers.com",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Arsenal",
-    "pubDate": "Sun, 15 Sep 2024 06:00:00 -0700",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQj5A0L3De_BOLA4I4gUdLcUkK7S43e5_21BeMmEJCn6__YtuBLM5YJpdjj6s0enE50u2BNDWIW",
-    "news_item_snippet": "Follow live reaction to Arsenal&#39;s 1-0 victory over Spurs in a bad-tempered Premier League north London derby in Tottenham.",
-    "news_item_url": "https://www.nytimes.com/athletic/live-blogs/tottenham-arsenal-live-updates-premier-league-nld-score-result/P3fkwkr4IIH5/",
-    "picture_source": "ESPN",
-    "approx_traffic": "50,000+"
-  },
-  {
     "country": "India",
     "title": "Bajaj Housing Finance share price",
     "pubDate": "Mon, 16 Sep 2024 10:30:00 +0530",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSc3WxP1ce83NlmZ4KKmi5i3q1J0tL2DEuZx8v6tUJHo2AocWdvvHGLgXz1NJ6pI1wOd1QU2Jbq",
-    "news_item_snippet": "Bajaj Housing Finance Share Price: Ahead of its listing, Bajaj Housing Finance shares were trading at a GMP of 120% above the issue price.",
-    "news_item_url": "https://m.economictimes.com/markets/stocks/news/multibagger-on-listing-bajaj-housing-finance-shares-list-at-114-premium-over-ipo-price/articleshow/113380419.cms",
+    "news_item_snippet": "Bajaj Housing Share Price Listing Live | IPO News: On Monday, Bajaj Housing Finance shares made their debut at more than double the offer price during&nbsp;...",
+    "news_item_url": "https://m.economictimes.com/markets/stocks/live-blog/bajaj-housing-finance-ipo-share-price-listing-live-2024-bajaj-ipo-news-and-expected-listing-price-date-time/liveblog/113378116.cms",
     "picture_source": "Livemint",
     "approx_traffic": "500,000+"
   },
@@ -224,8 +204,8 @@
     "title": "Vishwakarma Puja 2024",
     "pubDate": "Mon, 16 Sep 2024 10:30:00 +0530",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRBJr18QqLFDFfQtgdmQSeoJR6ADpGdHTjHFiQaMzj_1rS3CTJdUr7eoPnW5P1Livti6gZRlobI",
-    "news_item_snippet": "Happy Vishwakarma Puja 2024 Wishes Images, Quotes, Status, Messages, Vishwakarma Jayanti Wishes Shubhkamnaye Sandesh LIVE in Hindi: \u0939\u092e \u092f\u0939\u093e\u0902 \u0906\u092a\u0915\u0947 \u0932\u093f\u090f&nbsp;...",
-    "news_item_url": "https://www.jansatta.com/lifestyle/happy-vishwakarma-puja-2024-hindi-wishes-images-quotes-status-messages-photos-live-vishwakarma-jayanti-ki-hardik-shubhkamnaye-sandesh/3576208/",
+    "news_item_snippet": "\u0935\u093f\u0936\u094d\u0935\u0915\u0930\u094d\u092e\u093e \u092a\u0942\u091c\u093e \u0915\u0947 \u092e\u094c\u0915\u0947 \u092a\u0930 \u0906\u092a \u0905\u092a\u0928\u0947 \u0926\u094b\u0938\u094d\u0924\u094b\u0902, \u0930\u093f\u0936\u094d\u0924\u0947\u0926\u093e\u0930\u094b\u0902 \u0914\u0930 \u0915\u0930\u0940\u092c\u093f\u092f\u094b\u0902 \u0915\u094b \u092a\u0942\u091c\u093e \u0915\u0947 \u0936\u0941\u092d\u0915\u093e\u092e\u0928\u093e \u0938\u0902\u0926\u0947\u0936 \u092d\u0947\u091c \u0938\u0915\u0924\u0947 \u0939\u0948\u0902\u0964 Read latest hindi news (\u0924\u093e\u091c\u093e&nbsp;...",
+    "news_item_url": "https://www.amarujala.com/photo-gallery/lifestyle/relationship/happy-vishwakarma-puja-2024-wishes-wallpapers-images-vishwakarma-jayanti-quotes-greetings-messages-in-hindi-2024-09-16",
     "picture_source": "\u0926\u0948\u0928\u093f\u0915 \u091c\u093e\u0917\u0930\u0923",
     "approx_traffic": "100,000+"
   },
@@ -254,7 +234,7 @@
     "title": "Northern Arc Capital IPO GMP",
     "pubDate": "Mon, 16 Sep 2024 11:30:00 +0530",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTHV53BqrU2Rj8ycTN_j_7Tv5nsjAuCu1yzWpKbeXUnwML4yseBlEw3x5HDDXWreMtgDnH2afxr",
-    "news_item_snippet": "Northern Arc Capital&#39;s IPO, which opened for subscription on Monday, was fully subscribed on the first day, driven by strong demand from retail investors.",
+    "news_item_snippet": "Northern Arc Capital&#39;s IPO, which opened for subscription on Monday, saw strong demand, especially from retail investors. The IPO was subscribed 2.87 times&nbsp;...",
     "news_item_url": "https://m.economictimes.com/markets/ipos/fpos/northern-arc-capital-ipo-fully-subscribed-on-day-1-of-bidding-process-check-gmp-other-details/articleshow/113386324.cms",
     "picture_source": "Livemint",
     "approx_traffic": "50,000+"
@@ -281,23 +261,43 @@
   },
   {
     "country": "India",
-    "title": "Engineers Day 2024",
-    "pubDate": "Sun, 15 Sep 2024 00:30:00 +0530",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcT9mUPfSsT7gg_A32hpqgAHDsCIDiF6opp6MCO8xSINQhg7X7ewDnSH7l5eMchvj1SMFeILITLG",
-    "news_item_snippet": "Celebrate Happy Engineer&#39;s Day 2024 with top inspiring quotes, wishes, and messages to share with your engineer friends and family.",
-    "news_item_url": "https://www.jagranjosh.com/general-knowledge/happy-engineers-day-2024-top-quotes-wishes-messages-to-share-with-engineer-friends-and-family-1726325406-1",
-    "picture_source": "The Indian Express",
+    "title": "ITI Result 2024",
+    "pubDate": "Sun, 15 Sep 2024 09:30:00 +0530",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRc_OF7mch28pd9tUcpPl0C_rm_rxUIDK4QRQtPZkb7VQPhzjsabjux44uL_rDFu-JKOKkcS_Q1",
+    "news_item_snippet": "NCVT MIS ITI Result 2024: \u090f\u0928\u0938\u0940\u0935\u0940\u091f\u0940 \u092e\u0948\u0928\u0947\u091c\u092e\u0947\u0902\u091f \u0907\u0928\u094d\u092b\u0949\u0930\u094d\u092e\u0947\u0936\u0928 \u0938\u093f\u0938\u094d\u091f\u092e \u0928\u0947 \u0906\u0908\u091f\u0940\u0906\u0908 (\u092a\u094d\u0930\u0925\u092e \u0914\u0930 \u0926\u094d\u0935\u093f\u0924\u0940\u092f \u0935\u0930\u094d\u0937) \u0915\u093e \u0930\u093f\u091c\u0932\u094d\u091f \u091c\u093e\u0930\u0940 \u0915\u0930 \u0926\u093f\u092f\u093e \u0939\u0948\u0964",
+    "news_item_url": "https://www.amarujala.com/education/ncvt-mis-iti-result-2024-out-at-ncvtmis-gov-in-for-1st-and-2nd-year-direct-link-here-to-download-2024-09-16",
+    "picture_source": "\u0926\u0948\u0928\u093f\u0915 \u091c\u093e\u0917\u0930\u0923",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "India",
+    "title": "Tottenham vs Arsenal",
+    "pubDate": "Sun, 15 Sep 2024 12:30:00 +0530",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTEMnZB-lU_TuWTEIvVaq-0sMnPS7seW-lvYHG-LNSQoknCMj0btLsgatIlBU0jC3hYWCgNTsN_",
+    "news_item_snippet": "TOT vs ARS Highlights: Catch the highlights of the Tottenham Hotspur vs Arsenal Premier League 2024-25 match played at the Tottenham Hotspur Stadium in&nbsp;...",
+    "news_item_url": "https://sportstar.thehindu.com/football/epl/tottenham-hotspur-vs-arsenal-live-score-updates-premier-league-2024-25-tot-v-ars-highlights-goals-live-streaming-info-news/article68645239.ece",
+    "picture_source": "Aljazeera.com",
     "approx_traffic": "100,000+"
   },
   {
     "country": "Argentina",
     "title": "Rosario Central  Talleres",
     "pubDate": "Sun, 15 Sep 2024 13:00:00 -0300",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRNwmSMw3l1RGAANPxwgRJKXN8kcV6lwI4AuOSXkv3V2b1sT3VDEsvfnzFaiQD3huql65_GOYhy",
-    "news_item_snippet": "Este domingo Rosario Central empat\u00f3 2-2 con Talleres en el Gigante de Arroyito, por la fecha 14 del Torneo de la Liga Profesional. Los goles del Canalla los&nbsp;...",
-    "news_item_url": "https://rosariocentral.com/noticia/igualdad-contra-talleres/",
-    "picture_source": "P\u00e1gina 12",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRt3RAMqikeo5lEVjUs-46yDK3Ed229p3YcCDMp7h1aK1_kGSZG20QfCwKF1G1YhXwYwKREh2vQ",
+    "news_item_snippet": "Todas las miradas estaban puestas en el arbitraje pero no hubo nada para discutir en los penales que cometi\u00f3 la T que, con uno menos y en desventaja, se...",
+    "news_item_url": "https://www.pagina12.com.ar/767725-rosario-central-talleres-y-un-2-a-2-que-empezo-y-termino-a-p",
+    "picture_source": "Rosario Central",
     "approx_traffic": "100,000+"
+  },
+  {
+    "country": "Argentina",
+    "title": "Newell's",
+    "pubDate": "Sun, 15 Sep 2024 19:00:00 -0300",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcS0xQpnCf8H_bnBROKwuj1A2WAw8Lqa76StDEOJcWtCqBE2PesT1eZRhY26aqv_cDsNxs9UmV14",
+    "news_item_snippet": "El torneo tendr\u00e1 una duraci\u00f3n de cinco d\u00edas, con encuentros programados en ambos predios del Complejo Malvinas (norte y sur). Los partidos ser\u00e1n transmitidos&nbsp;...",
+    "news_item_url": "https://newellsoldboys.com.ar/inicia-una-nueva-newells-cup/",
+    "picture_source": "Sin Mordaza",
+    "approx_traffic": "50,000+"
   },
   {
     "country": "Argentina",
@@ -310,22 +310,12 @@
     "approx_traffic": "50,000+"
   },
   {
-    "country": "Argentina",
-    "title": "Newell's",
-    "pubDate": "Sun, 15 Sep 2024 19:00:00 -0300",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcR5Q7ehfBLGTIReqoeAiTsUMleMvkqgCL17hso3-ETidbAYafga9izH2cUe1AJZ6I8jNaDNGbhO",
-    "news_item_snippet": "El Bicho le peg\u00f3 un baile de novela a la Lepra y se meti\u00f3 en zona de clasificaci\u00f3n a la Sudamericana. El Gallego M\u00e9ndez no seguir\u00e1 en el equipo rosarino.",
-    "news_item_url": "https://www.ole.com.ar/futbol-primera/liga-futbol-argentinos-juniors-newells-bicho-lepra-partido-paternal_0_H8LYgXhbBl.html",
-    "picture_source": "Ol\u00e9",
-    "approx_traffic": "50,000+"
-  },
-  {
     "country": "Australia",
     "title": "Trump",
     "pubDate": "Mon, 16 Sep 2024 08:00:00 +1000",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQcY1YK_9rwBrs8oEgDCwsl_831wt5EryFGaLHHwkWFzdF_pcPIKq67uyvmTFg4DRXG-6BphvqW",
-    "news_item_snippet": "Donald Trump said he was safe after what the FBI said appeared to be an assassination attempt at the former US president&#39;s West Palm Beach golf club.",
-    "news_item_url": "https://www.theguardian.com/us-news/2024/sep/16/trump-golf-club-shooting-what-we-know-so-far-about-apparent-assassination-attempt",
+    "news_item_snippet": "The suspected gunman - named by US media as Ryan Routh - was spotted by agents in the bushes of Trump&#39;s golf course on Sunday afternoon in Florida. The&nbsp;...",
+    "news_item_url": "https://www.bbc.com/news/articles/c6255djzj68o",
     "picture_source": "ABC News",
     "approx_traffic": "100,000+"
   },
@@ -333,21 +323,11 @@
     "country": "Australia",
     "title": "Shogun",
     "pubDate": "Mon, 16 Sep 2024 08:00:00 +1000",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSPEp_KZaEarWiZ24yEfmnwDFP5BUfila11sL3EPaYIWe-6MBDUhpNEpg1wPBL4J2Xnr9hPxQJq",
-    "news_item_snippet": "The FX series is the first non-English-language show to win best drama, and Hiroyuki Sanada and Anna Sawai are the first Japanese actors to win Emmys.",
-    "news_item_url": "https://www.hollywoodreporter.com/tv/tv-news/shogun-record-18-emmy-wins-1236003391/",
-    "picture_source": "Screen International",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQn_C6n0H1PuhwuWcEHvRHyyte9tIkiw_wI_8ADcE5JXenAobrfOz9e6UNGN4xCDJYcKUnJe4pt",
+    "news_item_snippet": "Japan erupted with joy Monday as the samurai series \u201cShogun\u201d won a record 18 Emmys for its first season.",
+    "news_item_url": "https://abcnews.go.com/Entertainment/wireStory/japan-celebrates-record-emmy-wins-shogun-113719966",
+    "picture_source": "The Australian Financial Review",
     "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Australia",
-    "title": "UFC",
-    "pubDate": "Sun, 15 Sep 2024 10:00:00 +1000",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQ9oDAYfuPGPXn4_KrYaXN1s_addvOiEuws9OXur4iMsgE9LG3w_QAbUYdW0oBxTr9tpW8Xfwev",
-    "news_item_snippet": "ESPN MMA reporter Brett Okamoto plays matchmaker and predicts what&#39;s in store for the winners and losers at UFC 306.",
-    "news_item_url": "https://www.espn.com.au/mma/story/_/id/41273706/ufc-306-next-merab-dvalishvili-sean-omalley-more",
-    "picture_source": "Ministry of Sport",
-    "approx_traffic": "100,000+"
   },
   {
     "country": "Brazil",
@@ -363,7 +343,7 @@
     "country": "Brazil",
     "title": "Bahia x Atl\u00e9tico-MG",
     "pubDate": "Sun, 15 Sep 2024 10:00:00 -0500",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQgk-GlDksdGq8zayvSQHFPpqApWdefpt6HFpyhbTntgSvUnUpWPIplow2FA0Zwj5-mpiHexfND",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQDJYH_ZJMFHpE1gR2HPGa2VfFKPiaD3zfWGTwUiLWQJv3u0xR4u-zJ2fOkGwt-LQ1rA7ZY6ejn",
     "news_item_snippet": "Partida do Campeonato Brasileiro acontece neste domingo (15) em Salvador.",
     "news_item_url": "https://www.uol.com.br/esporte/ultimas-noticias/2024/09/15/transmissao-ao-vivo-de-bahia-x-atletico-mg-veja-onde-assistir.htm",
     "picture_source": "UOL",
@@ -374,8 +354,8 @@
     "title": "Gremio",
     "pubDate": "Sun, 15 Sep 2024 07:00:00 -0500",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSgfmYkGWwivYiM21PX2KtzVW0BNbzOpQ3Dolae9pmWThMjQHx8Iv2puxnCQbHhuZ-CEaHcan8c",
-    "news_item_snippet": "Falhas de Rodrigo Caio e Reinaldo cedem o empate para o Bragantino e torna resultado frustrante.",
-    "news_item_url": "https://ge.globo.com/rs/futebol/times/gremio/noticia/2024/09/16/analise-gremio-repete-erros-individuais-entrega-pontos-e-segue-proximo-do-z-4.ghtml",
+    "news_item_snippet": "Tricolor esteve duas vezes \u00e0 frente do placar, mas deixou dois pontos escaparem a partir de erros cometidos por Rodrigo Caio e Reinaldo, al\u00e9m de n\u00e3o ter&nbsp;...",
+    "news_item_url": "https://gauchazh.clicrbs.com.br/esportes/gremio/noticia/2024/09/tres-motivos-para-o-empate-do-gremio-com-o-bragantino-cm14yl4560018015vfdslj7f0.html",
     "picture_source": "R\u00e1dio Pampa",
     "approx_traffic": "500,000+"
   },
@@ -404,19 +384,29 @@
     "title": "Remo",
     "pubDate": "Sun, 15 Sep 2024 14:00:00 -0500",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRmKMMY_6mVGlWCpDlLCI0LwlGFjr0cic-IYV0WO1sWmlsWfx64Kh1XIhL9HDX9QbuT6LssVVeN",
-    "news_item_snippet": "Remo e Volta Redonda se enfrentaram no Mangueir\u00e3o visando o acesso para a S\u00e9rie B. Era a estreia do Remo em casa no quadrangular final, e a torcida fez uma&nbsp;...",
+    "news_item_snippet": "A equipe do norte do pa\u00eds criou as melhores chances, a primeira oportunidade do time paraense foi na cabe\u00e7ada de Pedro Vitor, defendida pelo goleiro Jean. A&nbsp;...",
     "news_item_url": "https://www.terra.com.br/esportes/remo/remo-e-volta-redonda-ficam-no-empate-pela-serie-c,21bfc68d544590cda2e83c08e0f3134658dlm88k.html",
     "picture_source": "Blog do Z\u00e9 Dudu",
     "approx_traffic": "100,000+"
   },
   {
     "country": "Brazil",
-    "title": "Sport Recife x CRB",
-    "pubDate": "Sun, 15 Sep 2024 17:00:00 -0500",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRXyTwXy_qbkg25otKo7lvGaoGRRtlrO-UBaUP8lt7Q0nde4p6SFDsd5kjzHhgZC4KJakj0XOPA",
-    "news_item_snippet": "Fim do Jogo, Sport Recife 2, CRB 0. 2\u00ba Tempo. 10&nbsp;...",
-    "news_item_url": "https://www.terra.com.br/esportes/futebol/brasileiro-serie-b/ao-vivo/sport-x-crb/85696/",
+    "title": "Sport",
+    "pubDate": "Sun, 15 Sep 2024 18:00:00 -0500",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSOa2sehDmVMSdDpUryC8T-J8pYxwAOJn2G73wrN__6oezJiqoafqfaG7kWWPFqkS1oKu7HEFbQ",
+    "news_item_snippet": "\u00c1RBITRO - Ant\u00f4nio Dib Moraes de Sousa (PI). RENDA -R$ 339.125,00. P\u00daBLICO - 16.786 torcedores. LOCAL - Arena Pernambuco, em S\u00e3o Louren\u00e7o da Mata&nbsp;...",
+    "news_item_url": "https://www.uol.com.br/esporte/ultimas-noticias/agencia/2024/09/15/sport-vence-o-crb-entra-no-g-4-da-serie-b-e-com-um-jogo-a-menos-dos-lideres.htm",
     "picture_source": "globoesporte.com",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Brazil",
+    "title": "Trump",
+    "pubDate": "Sun, 15 Sep 2024 16:00:00 -0500",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcS5lRPLLY6zjTCgzFtBcDHnB3xi_tQMyl3DOgxXtGlZ6-ioopvqOgCPHhun3MaP1y4O-Z4i5s6F",
+    "news_item_snippet": "No entanto, \u00e9 a\u00ed que as campanhas rivais agora se encontram ap\u00f3s o que parece ser uma segunda tentativa de matar o candidato republicano Donald Trump na mais&nbsp;...",
+    "news_item_url": "https://www.cnnbrasil.com.br/internacional/eleicoes-nos-eua-2024/analise-nova-tentativa-de-assassinato-de-trump-tem-consequencias-imprevisiveis/",
+    "picture_source": "EBC",
     "approx_traffic": "50,000+"
   },
   {
@@ -437,16 +427,6 @@
     "news_item_snippet": "A Chapecoense venceu o Cear\u00e1 por 2 a 1 em partida v\u00e1lida pela 26\u00aa rodada da S\u00e9rie B do Campeonato Brasileiro, neste domingo, na Arena Cond\u00e1.",
     "news_item_url": "https://ge.globo.com/sc/futebol/times/chapecoense/noticia/2024/09/15/chapecoense-2-x-1-ceara-assista-aos-melhores-momentos-do-jogo.ghtml",
     "picture_source": "Goal.com",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Brazil",
-    "title": "Trump",
-    "pubDate": "Sun, 15 Sep 2024 16:00:00 -0500",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcS5lRPLLY6zjTCgzFtBcDHnB3xi_tQMyl3DOgxXtGlZ6-ioopvqOgCPHhun3MaP1y4O-Z4i5s6F",
-    "news_item_snippet": "No entanto, \u00e9 a\u00ed que as campanhas rivais agora se encontram ap\u00f3s o que parece ser uma segunda tentativa de matar o candidato republicano Donald Trump na mais&nbsp;...",
-    "news_item_url": "https://www.cnnbrasil.com.br/internacional/eleicoes-nos-eua-2024/analise-nova-tentativa-de-assassinato-de-trump-tem-consequencias-imprevisiveis/",
-    "picture_source": "EBC",
     "approx_traffic": "50,000+"
   },
   {
@@ -483,9 +463,9 @@
     "country": "Canada",
     "title": "Trump",
     "pubDate": "Sun, 15 Sep 2024 16:00:00 -0400",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQKz-unhTNDFfyUqE1qJsxgnDBPTTGgx2LGWouIcVIPHNezxVSF8OYefl1bLZJCnpWt422ZNI-7",
-    "news_item_snippet": "Une \u00ab personne d&#39;int\u00e9r\u00eat \u00bb a \u00e9t\u00e9 arr\u00eat\u00e9e, a-t-on ajout\u00e9. CBS rapporte que des agents des Services secrets ont tir\u00e9 plusieurs coups en direction du suspect alors&nbsp;...",
-    "news_item_url": "https://richardhetu.com/2024/09/15/coups-de-feu-au-club-de-golf-de-trump-a-west-palm-beach/",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTQegWMv0anIrVXGITTvFm-ZRFxP-IG2og1jT7NcpYkv-jEBS8wQ2XomITZtYA9XY10M1BdyILq",
+    "news_item_snippet": "Le suspect soup\u00e7onn\u00e9 dans la tentative d&#39;assassinat pr\u00e9sum\u00e9e contre Donald Trump, dimanche en Floride, serait un fervent partisan de l&#39;Ukraine et aurait&nbsp;...",
+    "news_item_url": "https://www.tvanouvelles.ca/2024/09/16/poutine-doit-etre-elimine-lhomme-qui-aurait-tente-dassassiner-trump-un-fervent-partisan-de-lukraine",
     "picture_source": "ICI.Radio-Canada.ca",
     "approx_traffic": "200,000+"
   },
@@ -511,22 +491,22 @@
   },
   {
     "country": "France",
-    "title": "Lens Lyon",
+    "title": "OL",
     "pubDate": "Sun, 15 Sep 2024 21:00:00 +0200",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTDCq6DzcZmjMkhqig56UpA56x40cOVlxGlwm4S1igPgFMyKIyH5w0Z8uoeqFCznz_XLBOPCvhO",
-    "news_item_snippet": "Lens et Lyon se sont quitt\u00e9s sur un triste 0-0 en cl\u00f4ture de cette 4e journ\u00e9e de Ligue 1;",
-    "news_item_url": "https://www.lefigaro.fr/sports/football/ligue-1/lens-lyon-khusanov-et-les-gardiens-brillent-un-spectacle-absent-les-tops-et-les-flops-20240915",
-    "picture_source": "La Voix du Nord",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSlL3BUEPzxWx1T5fB52gDZI0bv8hUW-p07bWKBxUvW_LZsDKD-XfU6-OMPDLFQdaFKtyMvSWZP",
+    "news_item_snippet": "Jean-Michel Lambert, pr\u00e9sident du Sidol, et Chlo\u00e9 Chauss\u00e9, opticienne Espoir 2024 &middot; Sans pression, Chlo\u00e9 fait un discours devant les fabricants et distributeurs&nbsp;...",
+    "news_item_url": "https://www.acuite.fr/actualite/profession/292121/major-de-promotion-du-bts-ol-2024-chloe-chausse-recoit-le-prix-de",
+    "picture_source": "BFMTV.COM",
     "approx_traffic": "100,000+"
   },
   {
     "country": "France",
     "title": "Trump",
     "pubDate": "Sun, 15 Sep 2024 01:00:00 +0200",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSW0ZsPzu1OOqzWetH67STKBO-Vs41lYoTpfPzW1uH8HRxYfXhsmyX5COBVQNifJPJw_I8BFP-y",
-    "news_item_snippet": "Ryan Wesley Routh, un homme de 58 ans, a \u00e9t\u00e9 identifi\u00e9 comme \u00e9tant le principal suspect dans l&#39;enqu\u00eate ouverte par les autorit\u00e9s am\u00e9ricaines sur &quot;ce qui&nbsp;...",
-    "news_item_url": "https://www.bfmtv.com/international/amerique-nord/etats-unis/tirs-pres-de-donald-trump-qui-est-ryan-wesley-routh-le-suspect-interpelle-en-floride_AV-202409160127.html",
-    "picture_source": "FRANCE 24",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTB3TVG2ZUOt48h5S_1ghtsTgsgkOTcYpwKC78iGUEPGuJ8hqNHXI1ISKjJ-SZzfUKLaYAuPCtH",
+    "news_item_snippet": "Le FBI a annonc\u00e9 dimanche ouvrir une enqu\u00eate sur &quot;une tentative d&#39;assassinat pr\u00e9sum\u00e9e&quot; visant, pour la deuxi\u00e8me fois en deux mois, l&#39;ancien pr\u00e9sident et&nbsp;...",
+    "news_item_url": "https://www.france24.com/fr/am%C3%A9riques/20240916-etats-unis-suspect-arr%C3%AAt%C3%A9-ak-47-retrouv%C3%A9-ce-que-l-on-sait-tentative-pr%C3%A9sum%C3%A9e-assassinat-contre-trump",
+    "picture_source": "BBC Afrique",
     "approx_traffic": "100,000+"
   },
   {
@@ -573,10 +553,10 @@
     "country": "Germany",
     "title": "HSV",
     "pubDate": "Sun, 15 Sep 2024 14:00:00 +0200",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQbGCtVXGAb8jUOnxLahEugDZTQtmsnvxQONxYjTOuOedzuiDpmmPeqNdEhoDti5kSCDWZIDw26",
-    "news_item_snippet": "Der Hamburger SV hat bei einem Tor-Festival den Kontakt zu den Spitzenpl\u00e4tzen in der 2. Fu\u00dfball-Bundesliga gehalten. Durch das 5:0 (2:0) gegen Aufsteiger&nbsp;...",
-    "news_item_url": "https://www.sat1regional.de/nichts-zu-meckern-hsv-deklassiert-jahn-regensburg/",
-    "picture_source": "kicker",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQ6gfJT9saYi3Dwh8qq14QaevrsMUbvyF1QznZsu-HGFSanIV08YYEUTewiynrs4DAOomcCNYZG",
+    "news_item_snippet": "Analyse, Aufstellungen und Torsch\u00fctzen zum Spiel Hamburger SV - Jahn Regensburg.",
+    "news_item_url": "https://www.kicker.de/hsv-gegen-regensburg-2024-bundesliga-4937120/analyse",
+    "picture_source": "Sat.1 Regional",
     "approx_traffic": "50,000+"
   },
   {
@@ -590,23 +570,33 @@
     "approx_traffic": "50,000+"
   },
   {
+    "country": "Germany",
+    "title": "K\u00f6ln \u2013 1. FC Magdeburg",
+    "pubDate": "Sat, 14 Sep 2024 20:00:00 +0200",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcS6JjW9HhOZo4cYRUB97ttDNN8XCWy4wj88ubioumAOdcxBncWRWo-ujGJPqhgABh_RLMbhuKL6",
+    "news_item_snippet": "Der 1. FC Magdeburg hat in K\u00f6ln unerwartet einen Ausw\u00e4rtssieg eingefahren. Lange pr\u00e4sentierten sich die Rheinl\u00e4nder als st\u00e4rkere Mannschaft gegen den FCM,&nbsp;...",
+    "news_item_url": "https://www.sportschau.de/fussball/bundesliga2/chancenwucher-beim-fc-magdeburg-schockt-koeln-spaet,video-zweite-bundesliga-koe-fcm-zusammenfassung-100.html",
+    "picture_source": "MDR",
+    "approx_traffic": "50,000+"
+  },
+  {
     "country": "Italy",
-    "title": "Luca Salvadori incidente",
-    "pubDate": "Sun, 15 Sep 2024 10:00:00 +0200",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTw0q2mGA3bIWAO1hfZPwm_XFp6uDc7OV8B1CZEOmpbtjiLlcK00eqkhrwVw6oBGti7RNH5RFlL",
-    "news_item_snippet": "Il trentaduenne milanese ha avuto la peggio al primo giro delle qualifiche riservate alle SBK/STK 1000 della sesta e ultima tappa dell&#39;IRRC.",
-    "news_item_url": "https://www.rainews.it/articoli/2024/09/moto-muore-il-pilota-e-youtuber-luca-salvadori-figlio-del-produttore-musicale-maurizio-0dc6e2e2-8929-46f5-83ff-e631f32ba28b.html",
-    "picture_source": "MilanoToday",
-    "approx_traffic": "500,000+"
+    "title": "Champions League",
+    "pubDate": "Mon, 16 Sep 2024 12:00:00 +0200",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQmqKt9QwBv1AoyFoOdbQlwSu3i8zvvhPuF6_uJyOLywjSm2fnUphfEXkiAywrvWohdK5oT_J_i",
+    "news_item_snippet": "Il conto alla rovescia per l&#39;inizio della fase campionato di UEFA Champions League \u00e8 ormai agli sgoccioli, ma come stanno andando nelle competizioni&nbsp;...",
+    "news_item_url": "https://it.uefa.com/uefachampionsleague/news/0291-1bde05832a8a-d78ac68bcce1-1000--stato-di-forma-delle-squadre-di-champions-league-risultati-c/",
+    "picture_source": "Wired.it",
+    "approx_traffic": "50,000+"
   },
   {
     "country": "Mexico",
     "title": "Kansas City Chiefs",
     "pubDate": "Sun, 15 Sep 2024 14:00:00 -0600",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQ1muTb4BYJIgZvJC9Cq4esKM9CzvhtYBAnSR4qcZaOmdkt0pjYOQ6K9DzksCjGVHgXWy1NzMsp",
-    "news_item_snippet": "Sigue la previa y el minuto a minuto de Cincinnati Bengals vs Kansas City, partido de la semana 2 de la NFL que se va a jugar en Arrowhead.",
-    "news_item_url": "https://us.as.com/nfl/cincinnati-bengals-kansas-city-chiefs-en-vivo-semana-2-de-la-nfl-en-directo-n/",
-    "picture_source": "MARCA.com",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQ6oGovOm2LiptFQvDrQO3EM-Fu8OSGAR36KaJpaB6qRhVlWnD4awjf01eAackPoM4c4XA3kazb",
+    "news_item_snippet": "Harrison Butker anota un GOL DE CAMPO de 51 yardas. Chiefs toma tiempo de espera. Carson Steele corre hacia a la derecha por 2 yardas a la Cin32. Derr.",
+    "news_item_url": "https://www.marca.com/mx/nfl/kansas-city-chiefs-cincinnati-bengals/2024/09/15/08_0801_20240915_9953_9936-directo.html",
+    "picture_source": "AS Usa",
     "approx_traffic": "50,000+"
   },
   {
@@ -631,6 +621,16 @@
   },
   {
     "country": "Spain",
+    "title": "ChatGPT",
+    "pubDate": "Mon, 16 Sep 2024 14:00:00 +0200",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQinA9-seajQMZ3g30w5jHFtVxDmVXpWdqQf505ZfVuRJ1i38iD_k0LobyTkKVjE9KeMC1wRwo9",
+    "news_item_snippet": "Las primeras nociones de mucha gente sobre inteligencia artificial y sus posibilidades, probablemente, vienen de la mano ChatGPT.",
+    "news_item_url": "https://www.mundodeportivo.com/urbantecno/ciencia/chatgpt-recibe-una-importante-actualizacion-ahora-ya-puede-hacer-razonamientos-dificiles",
+    "picture_source": "RedDePeriodistas",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "Spain",
     "title": "Athletic",
     "pubDate": "Sun, 15 Sep 2024 17:00:00 +0200",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSbf2N3bz0L1R2Rz5qccemHs_rnoSTZOc1fBFzIW-KEUSE3hB8UwXvLfC7jyiWpEnvddW1HjdgW",
@@ -650,23 +650,23 @@
     "approx_traffic": "100,000+"
   },
   {
-    "country": "Spain",
-    "title": "FC Barcelona",
-    "pubDate": "Sun, 15 Sep 2024 17:00:00 +0200",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcT_6WCPtR_lI4UCUm81EPzfvUb3AkWN6HGJNkpO8-Mfkf1qdBOX31C0n114b9rYSbAJoCyw6jP-",
-    "news_item_snippet": "El directivo Josep Ignasi Maci\u00e0, el presidente del ABP, Juan Manuel Asensi, y el jugador del primer equipo de f\u00fatbol sala Sergio Gonz\u00e1lez acompa\u00f1aron al&nbsp;...",
-    "news_item_url": "https://www.fcbarcelona.es/es/noticias/4120060/joan-laporta-en-el-50-aniversario-de-la-pb-montcada-i-reixac",
-    "picture_source": "FC Barcelona",
+    "country": "United Kingdom",
+    "title": "Michael Jackson",
+    "pubDate": "Mon, 16 Sep 2024 08:00:00 +0100",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQ9be1UiGq3rD1ZXpAKulBCuWO6raM14fG7NAj1OKkR3hZ7ky5tgnlUnRJmr5qeG8ICvRK25raH",
+    "news_item_snippet": "The musician&#39;s sons, TJ, Taj and Taryll, said in a statement shared to Instagram on Sunday, 15 September: \u201cIt&#39;s with heavy hearts that we announce that our&nbsp;...",
+    "news_item_url": "https://www.independent.co.uk/arts-entertainment/music/news/tito-jackson-michael-death-instagram-b2613490.html",
+    "picture_source": "This Is Oxfordshire",
     "approx_traffic": "50,000+"
   },
   {
     "country": "United Kingdom",
-    "title": "Michael Jackson",
+    "title": "Shogun",
     "pubDate": "Mon, 16 Sep 2024 08:00:00 +0100",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQXTXqUXHcdEismQq26qXLEjiR5y_9fYoVrTh1bKxfHLfvkbnFnCsONm1dEzZaZAk-s6rEF11s2",
-    "news_item_snippet": "Tito had recently been in Munich ahead of a performance by The Jacksons&#39; current line-up, also featuring brothers Jackie and Marlon Jackson. Just four days&nbsp;...",
-    "news_item_url": "https://www.dailymail.co.uk/news/article-13855189/Tito-Jacksons-final-post-revealed-Michael-Jacksons-brother.html",
-    "picture_source": "CBS News",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRJRKTUb4TE7JTIseTDBDAv9Lmu7KG9QInY36fnxs2j2s_h_myHRChGDy0bGTLjIy6NE6h-VTAY",
+    "news_item_snippet": "FX&#39;s Shogun and The Bear dominated the 76th Emmys in Los Angeles on Sunday night with 18 and 11 wins apiece, despite an upset in the comedy series category&nbsp;...",
+    "news_item_url": "https://www.screendaily.com/news/shogun-the-bear-dominate-76th-emmy-awards/5197187.article",
+    "picture_source": "alloaadvertiser.com",
     "approx_traffic": "50,000+"
   },
   {
@@ -677,6 +677,16 @@
     "news_item_snippet": "Gabriel was our north London derby day hero as he headed home the only goal to secure a third-straight victory at Tottenham.",
     "news_item_url": "https://www.arsenal.com/fixture/arsenal/2024-Sep-15/tottenham-hotspur-0-1-arsenal-match-report",
     "picture_source": "The Voice Online",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "United Kingdom",
+    "title": "Trump",
+    "pubDate": "Sun, 15 Sep 2024 21:00:00 +0100",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRQDjDaNKsB93FqtgQn1P1v0IsrJHPALZfGudZ_TECpQ0zhW9oBfKSRiXKIsS6ZgsHYyHPBI_TA",
+    "news_item_snippet": "The suspected gunman - named by US media as Ryan Routh - was spotted by agents in the bushes of Trump&#39;s golf course on Sunday afternoon in Florida. The&nbsp;...",
+    "news_item_url": "https://www.bbc.com/news/articles/c6255djzj68o",
+    "picture_source": "BBC News",
     "approx_traffic": "200,000+"
   },
   {
@@ -698,16 +708,6 @@
     "news_item_url": "https://www.arsenal.com/fixture/arsenal/2024-Sep-15/tottenham-hotspur-0-1-arsenal-match-report",
     "picture_source": "Arsenal.com",
     "approx_traffic": "200,000+"
-  },
-  {
-    "country": "United Kingdom",
-    "title": "Trump",
-    "pubDate": "Sun, 15 Sep 2024 21:00:00 +0100",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRQDjDaNKsB93FqtgQn1P1v0IsrJHPALZfGudZ_TECpQ0zhW9oBfKSRiXKIsS6ZgsHYyHPBI_TA",
-    "news_item_snippet": "Republican ex-president is safe after potential gunman apprehended in Florida.",
-    "news_item_url": "https://www.ft.com/content/dfae8b42-1159-4e75-ba74-4734352e7d89",
-    "picture_source": "BBC News",
-    "approx_traffic": "100,000+"
   },
   {
     "country": "United Kingdom",
