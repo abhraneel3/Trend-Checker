@@ -3,10 +3,10 @@
     "country": "United States",
     "title": "Jets",
     "pubDate": "Thu, 19 Sep 2024 13:00:00 -0700",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSXMDe14L76Vl3G28FTVpz5OMW4Hqy5Au6Bn6G4Ok7ydpG8gVT2SEwCqVTu2wzNpHrU4tNisLTM",
-    "news_item_snippet": "New England struggled to mount much of a response with their offense. They picked up just 139 yards of total offense, while Jacoby Brissett was sacked five&nbsp;...",
-    "news_item_url": "https://www.patriots.com/news/rapid-recap-patriots-fall-to-jets-on-thursday-night-football",
-    "picture_source": "ESPN",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRICKdm9_89NYFZkFJeiPdDCxPCTbkE4fp-k1nzS8boC8FBlY9z_HNwCDiczu7dPd907SkBHdCX",
+    "news_item_snippet": "The New York Jets are 2-1 for the first time in nearly a decade following a 24-3 dominant victory over the New England Patriots on Thursday night.",
+    "news_item_url": "https://www.northjersey.com/story/sports/nfl/jets/2024/09/19/new-york-jets-new-england-patriots-live-score-highlights-channel/75248331007/",
+    "picture_source": "newyorkjets.com",
     "approx_traffic": "1,000,000+"
   },
   {
@@ -24,8 +24,8 @@
     "title": "Mark Robinson",
     "pubDate": "Thu, 19 Sep 2024 11:00:00 -0700",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRdZklKMoUtDsiByH2g3ysZ7L2TAfglTZs7UgwO4WvCn0dvbXM9R9-tMdFlzhqGzHBVespBfYu9",
-    "news_item_snippet": "Lt. Gov. Mark Robinson, North Carolina&#39;s Republican nominee for governor, made numerous inflammatory comments on a porn website&#39;s message board a decade ago&nbsp;...",
-    "news_item_url": "https://www.axios.com/local/raleigh/2024/09/19/mark-robinson-cnn-report-nc-scandal",
+    "news_item_snippet": "With only 47 days until election day, local Republicans and political educators are reacting to the recent release of information regarding gubernatorial&nbsp;...",
+    "news_item_url": "https://abc45.com/news/local/local-republicans-react-to-mark-robinson-allegations",
     "picture_source": "BPR / Blue Ridge Public Radio",
     "approx_traffic": "200,000+"
   },
@@ -43,10 +43,10 @@
     "country": "United States",
     "title": "Barcelona",
     "pubDate": "Thu, 19 Sep 2024 12:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSJ7G85HSXrAQqYTZTjsM5SLtaPBdfQ4Kq2kZpcL2JVBaHMXTNeZZ8YN0CasxknGLL9flw8JD0-",
-    "news_item_snippet": "Barcelona suffered its first competitive defeat under Hansi Flick in its Champions League opening match. Barcelona got off to a flying start in its 2024\u201325&nbsp;...",
-    "news_item_url": "https://www.si.com/soccer/barcelona-player-ratings-vs-monaco-eric-garcia-red-card-champions-league-9-19-24",
-    "picture_source": "ESPN Deportes",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQytQqom6zn8MHeqwuK61z2Gk20d-niIHM800gjBZG2ob0gM0TKJBs4OhzrzUuyI5oOpD-R3DxE",
+    "news_item_snippet": "Garcia pulled back Takumi Minamino when the Japan forward intercepted a panicky pass out from Barcelona goalkeeper Marc-Andr\u00e9 ter Stegen. Barca won its first&nbsp;...",
+    "news_item_url": "https://apnews.com/article/champions-league-barcelona-monaco-be6a86d57a4030a7771049d46facb139",
+    "picture_source": "Sports Illustrated",
     "approx_traffic": "200,000+"
   },
   {
@@ -61,16 +61,6 @@
   },
   {
     "country": "United States",
-    "title": "WNBA playoffs",
-    "pubDate": "Thu, 19 Sep 2024 20:00:00 -0700",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQqrhZMrbqG4UakDbtGPAlXEZHv8pEIbKjMH6akd04wkNucJRnHGvIZoNFFYiwOB_eWBN9oYW2X",
-    "news_item_snippet": "Caitlin Clark and the Indiana Fever will meet the Connecticut Sun in the first round of the 2024 WNBA playoffs.",
-    "news_item_url": "https://www.usatoday.com/story/sports/wnba/2024/09/19/caitlin-clark-wnba-playoffs-fever-sun/75297147007/",
-    "picture_source": "ESPN",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "United States",
     "title": "Arsenal",
     "pubDate": "Thu, 19 Sep 2024 13:00:00 -0700",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTQ6YLRtvauCYJsojlfNO61l5FFZENCWRI1G-F1s85bHPhVSMYeWLh2LhC5W9Mr9xViKT8eoE2M",
@@ -81,13 +71,33 @@
   },
   {
     "country": "United States",
+    "title": "Indiana Fever",
+    "pubDate": "Thu, 19 Sep 2024 20:00:00 -0700",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRSjJHlYtOta2Sk0KzXSCeQVhz12gC13bKs23SoNdFZKGlcvjhTcWk3S2SvLfKqtF0gLzSBCKJm",
+    "news_item_snippet": "Caitlin Clark and the Indiana Fever will face off with DiJonai Carrington and the Connecticut Sun in the WNBA Playoffs.",
+    "news_item_url": "https://www.si.com/onsi/womens-fastbreak/news/indiana-fever-will-face-connecticut-sun-in-wnba-playoffs-01j86cnemqcr",
+    "picture_source": "USA TODAY",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United States",
+    "title": "The Penguin",
+    "pubDate": "Thu, 19 Sep 2024 19:00:00 -0700",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcR6EsfLULlefxKSAgDRkCSzpg35hJwivNeDbjiDs5BGCazHJ1ouid0B509Hafy5CPQNvjt7H7VT",
+    "news_item_snippet": "Starring Colin Farrell and Cristin Milioti, &#39;The Penguin&#39; will be available to watch on HBO and Max.",
+    "news_item_url": "https://www.hollywoodreporter.com/tv/tv-news/watch-the-penguin-batman-spinoff-online-1236005387/",
+    "picture_source": "IGN",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United States",
     "title": "Fever vs Mystics",
     "pubDate": "Thu, 19 Sep 2024 17:00:00 -0700",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTRJnWWZ0mhiA6krClD6M__-o9rzyKNZkVj0ZxyDFcFhUmFrJYk0SyblT3ESjZA9UU8bssoQWgl",
-    "news_item_snippet": "WASHINGTON, D.C. \u2013 The Indiana Fever (20-20) came up just short, 92-91, in its final matchup of the regular season against the Washington Mystics at Capital&nbsp;...",
-    "news_item_url": "https://fever.wnba.com/news/game-recap-fever-mystics-240919",
-    "picture_source": "Bleacher Report",
-    "approx_traffic": "50,000+"
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTTlV9M0kVOJdEFg0np8HPQnbPdX-dsYZz8PaOEtPuMGtmtJJHtDp2rXmMkam8J39r6eASX8Ho3",
+    "news_item_snippet": "Despite the Indiana Fever suffering a 92-91 loss to the Washington Mystics on Thursday night, standout Fever rookie Caitlin Clark was part of history once\u2026",
+    "news_item_url": "https://bleacherreport.com/articles/10136097-caitlin-clark-fever-vs-mystics-breaks-all-time-wnba-single-game-attendance-record",
+    "picture_source": "Indiana Fever",
+    "approx_traffic": "100,000+"
   },
   {
     "country": "United States",
@@ -121,21 +131,11 @@
   },
   {
     "country": "United States",
-    "title": "Diddy news",
-    "pubDate": "Thu, 19 Sep 2024 07:00:00 -0700",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcR2P0vopi4c_mIMzqxntoFVz0nMq104SpvY6ljh66w2kune1-D_NSxGcH-nWJzsVVsqeS5wxoGv",
-    "news_item_snippet": "Rapper Sean &#39;Diddy&#39; Combs appealed his bail denial only to have the decision upheld by a U.S. district judge on Wednesday.",
-    "news_item_url": "https://san.com/cc/sean-diddy-combs-accused-of-witness-tampering-intimidation-bail-denied/",
-    "picture_source": "NBC Southern California",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
     "title": "Oprah and Kamala",
     "pubDate": "Thu, 19 Sep 2024 19:00:00 -0700",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcT8R6D8tzvlbX_elSuACy4YFK7ZAEbAuvIvUmA33kcS0HgSx3KMRdfqqmCr6Im0GYWjSKhogKC9",
-    "news_item_snippet": "The talk show megastar appeared on stage with the vice president as she fired up some of her core supporters.",
-    "news_item_url": "https://www.politico.com/news/2024/09/19/kamala-harris-oprah-winfrey-michigan-00180124",
+    "news_item_snippet": "A virtual event hosted by Winfrey Thursday night to build enthusiasm for Harris&#39; campaign was marked by teary moments and celebrity endorsements,&nbsp;...",
+    "news_item_url": "https://www.reuters.com/world/us/kamala-harris-oprah-winfrey-hold-virtual-event-aimed-battleground-states-2024-09-19/",
     "picture_source": "Variety",
     "approx_traffic": "50,000+"
   },
@@ -151,23 +151,23 @@
   },
   {
     "country": "India",
-    "title": "FC Barcelona",
-    "pubDate": "Fri, 20 Sep 2024 05:30:00 +0530",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRRWad9UMHXAZS1KzkKVMvytS8nSjBplECKRg9eeIDsVxfcOvmpMII835sExrYAS2-_jjJhzbsA",
-    "news_item_snippet": "The two young defenders appear for the first team in the competition for the very first time against Monaco in the Stade Louis II.",
-    "news_item_url": "https://www.fcbarcelona.com/en/football/first-team/news/4122831/champions-league-debuts-for-gerard-martin-and-sergi-dominguez",
-    "picture_source": "FC Barcelona",
+    "title": "Yeh Rishta Kya Kehlata Hai",
+    "pubDate": "Fri, 20 Sep 2024 12:30:00 +0530",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSUWts-BeQBgaK6Pap72buzDzzHMiQqyva71kfoVopxRXy-MdfZwrzY9fyMt833kYZ44OpyObYL",
+    "news_item_snippet": "\u092f\u0947 \u0930\u093f\u0936\u094d\u0924\u093e \u0915\u094d\u092f\u093e \u0915\u0939\u0932\u093e\u0924\u093e \u0939\u0948 \u0915\u094b \u0926\u093f\u0932\u091a\u0938\u094d\u092a \u092c\u0928\u093e\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u092e\u0947\u0915\u0930\u094d\u0938 \u0928\u092f\u0940-\u0928\u092f\u0940 \u090f\u0902\u091f\u094d\u0930\u0940 \u0915\u0930\u0935\u093e \u0930\u0939\u0947 \u0939\u0948\u0902. \u0915\u0941\u091b \u0938\u092e\u092f \u0938\u0947 \u0905\u092e\u0940 \u0924\u094d\u0930\u093f\u0935\u0947\u0926\u0940 \u0915\u0940 \u0935\u093e\u092a\u0938\u0940 \u0915\u094b \u0932\u0947\u0915\u0930 \u091a\u0930\u094d\u091a\u093e&nbsp;...",
+    "news_item_url": "https://www.prabhatkhabar.com/entertainment/yeh-rishta-kya-kehlata-hai-abhimanyu-mother-manjari-aka-ami-trivedi-reaction-on-returning-to-show-says-this",
+    "picture_source": "\u092a\u094d\u0930\u092d\u093e\u0924 \u0916\u092c\u0930",
     "approx_traffic": "50,000+"
   },
   {
     "country": "India",
-    "title": "India vs Bangladesh",
-    "pubDate": "Thu, 19 Sep 2024 08:30:00 +0530",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRkN8y4AbTndGqVpv15_ht6vjlciw6TaVNBIFaLaxoorKxILRLzxtXZFzx_YgZhQqkPkR6YVVLF",
-    "news_item_snippet": "India vs Bangladesh Live Score 1st Test, Day 2: Jasprit Bumrah got the breakthrough and Akash Deep got wickets off consecutive balls in the first session.",
-    "news_item_url": "https://www.hindustantimes.com/cricket/india-vs-bangladesh-live-score-1st-test-match-day-2-ind-vs-ban-series-2024-latest-cricket-scorecard-updates-chennai-101726771169369.html",
-    "picture_source": "Sportstar",
-    "approx_traffic": "5,000,000+"
+    "title": "FC BARCELONA",
+    "pubDate": "Fri, 20 Sep 2024 05:30:00 +0530",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRRWad9UMHXAZS1KzkKVMvytS8nSjBplECKRg9eeIDsVxfcOvmpMII835sExrYAS2-_jjJhzbsA",
+    "news_item_snippet": "Coach Juliano Belleti was treated to a fine opener from Arnau Prades, and then the player who had provided the assist, Hugo Alba, got his own name on the&nbsp;...",
+    "news_item_url": "https://www.fcbarcelona.com/en/football/fcbarcelona-u19a/news/4122377/uefa-youth-league-as-monaco-4-3-barca-losing-start",
+    "picture_source": "FC Barcelona",
+    "approx_traffic": "50,000+"
   },
   {
     "country": "India",
@@ -177,26 +177,26 @@
     "news_item_snippet": "ENG vs AUS 1st ODI Highlights: Travis Head struck a career-best 154 not out as injury-hit world champions Australia thrashed England by seven wickets.",
     "news_item_url": "https://sports.ndtv.com/cricket/england-vs-australia-1st-odi-live-score-updates-eng-vs-aus-live-6601220",
     "picture_source": "ESPNcricinfo.com",
-    "approx_traffic": "500,000+"
-  },
-  {
-    "country": "India",
-    "title": "IND vs BAN Test",
-    "pubDate": "Thu, 19 Sep 2024 10:30:00 +0530",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRkN8y4AbTndGqVpv15_ht6vjlciw6TaVNBIFaLaxoorKxILRLzxtXZFzx_YgZhQqkPkR6YVVLF",
-    "news_item_snippet": "India vs Bangladesh Live Score Online Today Match: \u092d\u093e\u0930\u0924 \u092c\u0928\u093e\u092e \u092c\u093e\u0902\u0917\u094d\u0932\u093e\u0926\u0947\u0936 \u092e\u0948\u091a \u0932\u093e\u0907\u0935 \u0915\u094d\u0930\u093f\u0915\u0947\u091f \u0938\u094d\u0915\u094b\u0930 \u0915\u093e \u0938\u0940\u0927\u093e \u092a\u094d\u0930\u0938\u093e\u0930\u0923\u0964 Go to Live Updates. IND&nbsp;...",
-    "news_item_url": "https://www.jansatta.com/khel/cricket/ind-vs-ban-live-score-india-vs-bangladesh-1st-test-live-cricket-score-updates-ma-chidambaram-stadium-cricket-ground/3581121/",
-    "picture_source": "Sportstar",
-    "approx_traffic": "200,000+"
+    "approx_traffic": "1,000,000+"
   },
   {
     "country": "India",
     "title": "Cricket",
     "pubDate": "Thu, 19 Sep 2024 11:30:00 +0530",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQO40J1v3dShrT9Hvt5bcPPoiJmkqEdKiaKrGC5xwy3ywcw_OHeeB6csXJGB3XuJcmnA6UQ-wLb",
-    "news_item_snippet": "\u0d24\u0d3f\u0d30\u0d41\u0d35\u0d28\u0d28\u0d4d\u0d24\u0d2a\u0d41\u0d30\u0d02: \u0d15\u0d47\u0d30\u0d33 \u0d15\u0d4d\u0d30\u0d3f\u0d15\u0d4d\u0d15\u0d31\u0d4d\u0d31\u0d4d \u0d1f\u0d40\u0d2e\u0d3f\u0d28\u0d4d\u0d31\u0d46 \u0d2a\u0d41\u0d24\u0d3f\u0d2f \u0d2a\u0d30\u0d3f\u0d36\u0d40\u0d32\u0d15\u0d28\u0d3e\u0d2f\u0d3f \u0d2e\u0d41\u0d7b \u0d07\u0d28\u0d4d\u0d24\u0d4d\u0d2f\u0d7b \u0d24\u0d3e\u0d30\u0d02 \u0d05\u0d2e\u0d47\u0d2f\u0d4d \u0d16\u0d41\u0d31\u0d3e\u0d38\u0d3f\u0d2f\u0d2f\u0d46 \u0d28\u0d3f\u0d2f\u0d2e\u0d3f\u0d1a\u0d4d\u0d1a\u0d47\u0d15\u0d4d\u0d15\u0d41\u0d02. \u0d28\u0d3f\u0d32\u0d35\u0d3f\u0d32\u0d46 \u0d2a\u0d30\u0d3f\u0d36\u0d40\u0d32\u0d15\u0d7b \u0d0e\u0d02.",
-    "news_item_url": "https://www.mathrubhumi.com/sports/cricket/amay-khurasiya-will-be-new-kerala-cricket-team-coach-1.9915611",
-    "picture_source": "The Ageas Bowl",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSHZhgUsEYHZFPMEihaXSf-xEntf27D5DqmctruJNAmbsi_ZShwt21Ibg7psrQXehybB4pli_fc",
+    "news_item_snippet": "Discover why Utilita Bowl is consistently rated one of the top international cricket venues in the UK. From breathtaking views to award-winning food &amp; drink,&nbsp;...",
+    "news_item_url": "https://www.utilitabowl.com/cricket/news/five-reasons-to-experience-international-cricket-at-utilita-bowl/",
+    "picture_source": "\u0d2e\u0d3e\u0d24\u0d43\u0d2d\u0d42\u0d2e\u0d3f",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "India",
+    "title": "Live Score",
+    "pubDate": "Thu, 19 Sep 2024 11:30:00 +0530",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTWQTyle_AsndE2O9MDDUK14Q_5jm3DEyCelVYYvRMUUsvG54MRvzfH06HY15MN6oR4Y35bmhhu",
+    "news_item_snippet": "India vs Bangladesh Live Score Online Today Match: \u092d\u093e\u0930\u0924 \u092c\u0928\u093e\u092e \u092c\u093e\u0902\u0917\u094d\u0932\u093e\u0926\u0947\u0936 \u092e\u0948\u091a \u0932\u093e\u0907\u0935 \u0915\u094d\u0930\u093f\u0915\u0947\u091f \u0938\u094d\u0915\u094b\u0930 \u0915\u093e \u0938\u0940\u0927\u093e \u092a\u094d\u0930\u0938\u093e\u0930\u0923\u0964 Go to Live Updates. IND&nbsp;...",
+    "news_item_url": "https://www.jansatta.com/khel/cricket/ind-vs-ban-live-score-india-vs-bangladesh-1st-test-live-cricket-score-updates-ma-chidambaram-stadium-cricket-ground/3581121/",
+    "picture_source": "\u0905\u092e\u0930 \u0909\u091c\u093e\u0932\u093e",
     "approx_traffic": "200,000+"
   },
   {
@@ -204,19 +204,29 @@
     "title": "Sports",
     "pubDate": "Thu, 19 Sep 2024 13:30:00 +0530",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQ0OqNzL9UdyIb2glq3t9FGQX8RjQCfOb9-wLXnLX0_UjcKl9zgpvYBURXyY_hEhnf0MdEoRTEL",
-    "news_item_snippet": "A young track and field athlete who holds an Oceania steeplechase record has claimed the prestigious Illawarra Academy of Sport\u2026",
-    "news_item_url": "https://regionillawarra.com.au/champion-steeplechaser-adds-major-illawarra-academy-of-sports-awards-to-his-impressive-resume/38310/",
+    "news_item_snippet": "Opportunities for a new indoor sports facility on Redlands Coast will be investigated as a legacy outcome in the lead-up to the Brisbane 2032 Olympic and&nbsp;...",
+    "news_item_url": "https://www.redlandscoasttoday.com.au/2024/09/council-explores-opportunities-for-indoor-sports-facility/",
     "picture_source": "Olympics",
     "approx_traffic": "100,000+"
   },
   {
     "country": "India",
-    "title": "Idea Share Price",
-    "pubDate": "Thu, 19 Sep 2024 16:30:00 +0530",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQLpbIHdz7O88pszQJli2Eh8GNzm22w06eC3QOQCmovC6nkDyjrIOmf0t8exk351C-F3aNGduba",
-    "news_item_snippet": "Vodafone Idea shares have dropped 24% in two days, falling below Rs 10 due to the AGR ruling. The Supreme Court upheld the full AGR demand of Rs 70320 crore&nbsp;...",
-    "news_item_url": "https://m.economictimes.com/markets/stocks/news/vodafone-idea-shares-tumble-24-in-2-days-slip-below-rs-10-mark/articleshow/113510550.cms",
-    "picture_source": "The Hindu BusinessLine",
+    "title": "Cricket live",
+    "pubDate": "Thu, 19 Sep 2024 10:30:00 +0530",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQPdkmt856atrSz2NrkIJQGLveFuVmIhdE06DMJ3ch22IvTcDrz-Wyr0x5r3o9Ixj6uEpCEP_8K",
+    "news_item_snippet": "India vs Bangladesh Live Score: Jasprit Bumrah has provided India with an important breakthrough as he dismissed Mushfiqur Rahim for 8.",
+    "news_item_url": "https://sports.ndtv.com/india-vs-bangladesh-2024/india-vs-bangladesh-live-score-1st-test-match-day-2-ind-vs-ban-live-cricket-updates-6604828",
+    "picture_source": "NDTVSports.com",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "India",
+    "title": "India vs Bangladesh Test",
+    "pubDate": "Thu, 19 Sep 2024 10:30:00 +0530",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRkN8y4AbTndGqVpv15_ht6vjlciw6TaVNBIFaLaxoorKxILRLzxtXZFzx_YgZhQqkPkR6YVVLF",
+    "news_item_snippet": "India vs Bangladesh Live Score: Jasprit Bumrah has provided India with an important breakthrough as he dismissed Mushfiqur Rahim for 8.",
+    "news_item_url": "https://sports.ndtv.com/india-vs-bangladesh-2024/india-vs-bangladesh-live-score-1st-test-match-day-2-ind-vs-ban-live-cricket-updates-6604828",
+    "picture_source": "Sportstar",
     "approx_traffic": "100,000+"
   },
   {
@@ -231,42 +241,12 @@
   },
   {
     "country": "India",
-    "title": "Coldplay",
-    "pubDate": "Thu, 19 Sep 2024 09:30:00 +0530",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTBM_EfdGTbMkzKs3fufqnHzy1zHpuKSbsg1eYxuQzA8ogrRoOC26yAHL3gJJMSSFYGAY4fWcBu",
-    "news_item_snippet": "Coldplay India Tour 2025: Coldplay is set to perform in Mumbai in January 2025 after a nine-year gap. The concert, part of their Music of the Spheres World&nbsp;...",
-    "news_item_url": "https://m.economictimes.com/magazines/panache/coldplay-coming-to-india-mumbai-concert-dates-ticket-prices-and-booking-details/articleshow/113475113.cms",
-    "picture_source": "Business Today",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "India",
-    "title": "Shubman Gill",
-    "pubDate": "Thu, 19 Sep 2024 11:30:00 +0530",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRrTCwRMT6dw362U2V-gHJHagel9it-eM1rUxv3rytSxS33lkOxxSvnrhHCQWH38dfI3UoxfO6w",
-    "news_item_snippet": "Shubman Gill, a rising Indian cricket star, is selective with his endorsements, focusing on brands he personally uses and aligns with.",
-    "news_item_url": "https://m.economictimes.com/about-the-awards/advertising/brand-partnerships-need-to-be-authentic-says-shubman-gill/articleshow/113500766.cms",
-    "picture_source": "Economic Times",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "India",
-    "title": "Tirupati laddu",
-    "pubDate": "Thu, 19 Sep 2024 22:30:00 +0530",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQGjVvtZOyW6G2EIW3dNOJu0bt7IFymCCiwodagmu-A0ObFwj_tUtAn8-btroiZLn4bAJK3_gMs",
-    "news_item_snippet": "Tirupati Laddu News :\u0906\u0902\u0927\u094d\u0930 \u092a\u094d\u0930\u0926\u0947\u0936 \u0915\u0947 \u092e\u0941\u0916\u094d\u092f\u092e\u0902\u0924\u094d\u0930\u0940 \u091a\u0902\u0926\u094d\u0930\u092c\u093e\u092c\u0942 \u0928\u093e\u092f\u0921\u0942 \u0928\u0947 \u0906\u0930\u094b\u092a \u0932\u0917\u093e\u092f\u093e \u0915\u093f \u092a\u093f\u091b\u0932\u0940 \u0938\u0930\u0915\u093e\u0930 \u092e\u0947\u0902 \u0924\u093f\u0930\u0941\u092a\u0924\u093f \u0932\u0921\u094d\u0921\u0942 \u092c\u0928\u093e\u0928\u0947 \u092e\u0947\u0902 \u091c\u093e\u0928\u0935\u0930\u094b\u0902 \u0915\u0940 \u091a\u0930\u094d\u092c\u0940&nbsp;...",
-    "news_item_url": "https://navbharattimes.indiatimes.com/state/andhra-pradesh/amaravati/tirupati-laddu-controversy-animal-fat-lab-report-cow-beef-politics-in-andhra-pradesh/articleshow/113506796.cms",
-    "picture_source": "The Economic Times",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "India",
-    "title": "Rohit Sharma",
-    "pubDate": "Thu, 19 Sep 2024 13:30:00 +0530",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRxBrpu88eUB15Lw80gJ6qVg3VtlpL3O3UnkIEK637kJqq-GbB_mp2mnO4QIrKExVtpU9EDSe6b",
-    "news_item_snippet": "India all-rounder Axar Patel dig deep and explained the captaincy style of Rohit Sharma.",
-    "news_item_url": "https://sports.ndtv.com/india-vs-bangladesh-2024/simple-funda-hai-axar-patel-sums-up-rohit-sharma-captaincy-style-6591531",
-    "picture_source": "NDTVSports.com",
+    "title": "Idea Share Price",
+    "pubDate": "Thu, 19 Sep 2024 16:30:00 +0530",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQaQwL4f-vTF28BX9u2EKphVgjikiXtz3ZYJDCup8eXAU64RxXL-9f_ToSiF1LHtRXH2ef4JboU",
+    "news_item_snippet": "Vodafone Idea Shares Today, Vodafone Idea Share Price live updates: Vodafone shares in focus as it continues bearish trend for the second day.",
+    "news_item_url": "https://www.thehindubusinessline.com/markets/stock-markets/vodafone-idea-stocks-vodafone-idea-share-price-today-live-updates-20-sep-2024/article68662802.ece",
+    "picture_source": "Livemint",
     "approx_traffic": "50,000+"
   },
   {
@@ -281,23 +261,43 @@
   },
   {
     "country": "India",
-    "title": "Man City vs Inter",
-    "pubDate": "Thu, 19 Sep 2024 00:30:00 +0530",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQScGAP0nlmvS68VAWpjqYB-5e3XRF_1H_DiK9oe73_yOdUPCRH8lpyVob6cEjOtCpRgGsLlzb1",
-    "news_item_snippet": "The match was played at Etihad Stadium in Manchester, United Kingdom, where City midfielder Ilkay Gundogan spurned two late headers \u2013 the best chances of the&nbsp;...",
-    "news_item_url": "https://www.aljazeera.com/sports/liveblog/2024/9/18/live-manchester-city-vs-inter-milan-uefa-champions-league",
-    "picture_source": "The Hindu",
+    "title": "Shubman Gill",
+    "pubDate": "Thu, 19 Sep 2024 11:30:00 +0530",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRrTCwRMT6dw362U2V-gHJHagel9it-eM1rUxv3rytSxS33lkOxxSvnrhHCQWH38dfI3UoxfO6w",
+    "news_item_snippet": "Shubman Gill, a rising Indian cricket star, is selective with his endorsements, focusing on brands he personally uses and aligns with.",
+    "news_item_url": "https://m.economictimes.com/about-the-awards/advertising/brand-partnerships-need-to-be-authentic-says-shubman-gill/articleshow/113500766.cms",
+    "picture_source": "Economic Times",
     "approx_traffic": "50,000+"
   },
   {
-    "country": "Argentina",
-    "title": "Clima",
-    "pubDate": "Thu, 19 Sep 2024 10:00:00 -0300",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTlQiTiAb1bwQtODH3okPFR2ikKmdEzzLtXS6w6YH4dsEqAyp8D-VkZuxnx2ipDMqr5rC_0ceSe",
-    "news_item_snippet": "Seg\u00fan el organismo nacional, el cielo estar\u00e1 algo nublado a lo largo de la jornada. En tanto, se esperan r\u00e1fagas de viento de entre 42 y 50 km/h. Durante la&nbsp;...",
-    "news_item_url": "https://www.lavoz.com.ar/servicios/clima-en-cordoba-como-estara-la-temperatura-este-viernes-20-de-septiembre/",
-    "picture_source": "Infobae.com",
-    "approx_traffic": "1,000,000+"
+    "country": "India",
+    "title": "Jasprit Bumrah",
+    "pubDate": "Thu, 19 Sep 2024 10:30:00 +0530",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQwusZ9mwX8He68zuiqe8recT41i-VZy5hEGFM3j4atrmXbxAFdBlDXCqFemlRhQUh09Y_zlisn",
+    "news_item_snippet": "As Jasprit Bumrah and Mohamed Siraj sat side by side and waited for their turn, Dinesh Karthik&#39;s &#39;ego-tussle&#39; remark on air grabbed attention. | Crickit.",
+    "news_item_url": "https://www.hindustantimes.com/cricket/jasprit-bumrah-mohammed-sirajs-ego-tussle-revealed-on-live-tv-after-taskin-ahmed-winds-up-india-tail-early-on-day-2-101726809027330.html",
+    "picture_source": "Hindustan Times",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "India",
+    "title": "Tirupati laddu",
+    "pubDate": "Thu, 19 Sep 2024 22:30:00 +0530",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQoFSgcqV77PEeMVpMj4Zo4gTWI7D2JJuDMNCco-O8NnpyBjftY1Gd6KHZ07GxKdHzqn7s5Qdr8",
+    "news_item_snippet": "Congress calls for full-fledged enquiry into alleged desecration of Tirupati laddu, while TDP accuses Naidu of political motives.",
+    "news_item_url": "https://www.thehindu.com/news/national/tirupati-laddu-row-suits-bjp-to-allow-polarising-conspiracy-theories-during-election-season-says-congress/article68662902.ece",
+    "picture_source": "\u0928\u0935\u092d\u093e\u0930\u0924 \u091f\u093e\u0907\u092e\u094d\u0938",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "India",
+    "title": "Ban vs Ind",
+    "pubDate": "Thu, 19 Sep 2024 11:30:00 +0530",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRkN8y4AbTndGqVpv15_ht6vjlciw6TaVNBIFaLaxoorKxILRLzxtXZFzx_YgZhQqkPkR6YVVLF",
+    "news_item_snippet": "IND vs BDESH 2024/25, India vs Bangladesh Match Report: India reduced Bangladesh to 26 for 3 at lunch after Mahmud had earlier bagged a five-wicket haul.",
+    "news_item_url": "https://www.espncricinfo.com/series/bangladesh-in-india-2024-25-1439844/india-vs-bangladesh-1st-test-1439891/match-report",
+    "picture_source": "Sportstar",
+    "approx_traffic": "50,000+"
   },
   {
     "country": "Argentina",
@@ -312,7 +312,7 @@
   {
     "country": "Argentina",
     "title": "Racing",
-    "pubDate": "Thu, 19 Sep 2024 17:00:00 -0300",
+    "pubDate": "Thu, 19 Sep 2024 18:00:00 -0300",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSelYS0BlyNj9VaEMeap45KwrVkv37TmUiiNNUHl8wZyPXqSwY9kLFCsTB0urZr8XkrFncdefaD",
     "news_item_snippet": "La Academia cay\u00f3 en Curitiba y deber\u00e1 dar la vuelta en la revancha que se jugar\u00e1 en una semana en Avellaneda.",
     "news_item_url": "https://www.infobae.com/deportes/2024/09/19/racing-abre-su-serie-de-los-cuartos-de-final-de-la-copa-sudamericana-ante-athletico-paranaense-hora-tv-y-formaciones/",
@@ -323,9 +323,9 @@
     "country": "Argentina",
     "title": "Barcelona",
     "pubDate": "Thu, 19 Sep 2024 16:00:00 -0300",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTYnK1IZm3ps0a1TZw4TUFGb8kBDNxiWYll-hqf1MHoRzU06NC_vTtn4Xsadi-bmUXMrO3b8JSs",
-    "news_item_snippet": "Flick vio c\u00f3mo Getafe se adelantaba 1-0 en el Camp Nou esa noche gracias a un extremo que hab\u00eda sido el Lamine Yamal/Pedri/Gavi/Pau Cubars\u00ed/Marc Casado de su&nbsp;...",
-    "news_item_url": "https://www.espn.com.ar/futbol/espana/nota/_/id/14188944/barcelona-apuesta-por-jovenes-da-frutos-pero-durara-lamine-yamal",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSJ7G85HSXrAQqYTZTjsM5SLtaPBdfQ4Kq2kZpcL2JVBaHMXTNeZZ8YN0CasxknGLL9flw8JD0-",
+    "news_item_snippet": "El joven extremo juega por segunda vez el torneo continental y se estren\u00f3 en las redes frente al M\u00f3naco en el estadio Louis-II.",
+    "news_item_url": "https://www.espn.com.ar/futbol/champions-league/nota/_/id/14194784/lamine-yamal-marco-su-primer-gol-en-la-champions-con-barcelona-monaco",
     "picture_source": "ESPN",
     "approx_traffic": "100,000+"
   },
@@ -337,7 +337,7 @@
     "news_item_snippet": "El vocal de San Lorenzo y su ex pareja fueron imputados en dos causas diferentes. En el caso del ex futbolista, por da\u00f1o en contexto de violencia de g\u00e9nero&nbsp;...",
     "news_item_url": "https://www.infobae.com/sociedad/policiales/2024/09/19/las-denuncias-cruzadas-entre-ortigoza-y-su-ex-mujer-violencia-de-genero-danos-y-lesiones/",
     "picture_source": "Radiofonica.com",
-    "approx_traffic": "100,000+"
+    "approx_traffic": "50,000+"
   },
   {
     "country": "Brazil",
@@ -413,30 +413,30 @@
     "country": "France",
     "title": "Monaco \u2013 Barcelone",
     "pubDate": "Thu, 19 Sep 2024 17:00:00 +0200",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTg7RCOX-AnRSg8rI9VHK4R6H7IJA58XiiunN6MQ5wTXOAigaryNdYvhLz6sy7nmaMWcE6b7XZ6",
-    "news_item_snippet": "Ils l&#39;ont fait, Monaco s&#39;est impos\u00e9 pour son entr\u00e9e en Ligue des champions face au FC Barcelone (2-1). L&#39;ASM a profit\u00e9 d&#39;une expulsion d&#39;Eric Garcia en d\u00e9but de&nbsp;...",
-    "news_item_url": "https://www.lefigaro.fr/sports/football/ligue-des-champions/en-video-les-buts-de-monaco-barcelone-20240919",
-    "picture_source": "TV5MONDE Info",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTjQPMX6rvCHdXU9iP3iibRBkwcYDdBPqOuB6z3R0RgeyTNccfP6PRjBNeuAPvHbiJlPOJqdGo3",
+    "news_item_snippet": "Monaco a superbement d\u00e9but\u00e9 sa Ligue des Champions en infligeant jeudi \u00e0 Barcelone sa premi\u00e8re d\u00e9faite de la saison (2-1), au bout d&#39;un match jou\u00e9 avec&nbsp;...",
+    "news_item_url": "https://www.franceguyane.fr/actualite/france/ligue-des-champions-monaco-commence-par-un-bel-exploit-contre-barcelone-1003952.php",
+    "picture_source": "Le Figaro",
     "approx_traffic": "200,000+"
   },
   {
     "country": "France",
     "title": "Bruno Retailleau",
     "pubDate": "Thu, 19 Sep 2024 19:00:00 +0200",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTrJO6Mu7jf2V6qYbDP6dSH0b0NNXsG7zw_FYtS7LjRO_EVIESlIkaTPr13qFQD0QZbQ98_C3iQ",
-    "news_item_snippet": "Michel Barnier a propos\u00e9 ce jeudi 19 septembre une liste de 38 noms pour son nouveau gouvernement. Le gouvernement sera annonc\u00e9 \u00ab avant dimanche \u00bb, a promis&nbsp;...",
-    "news_item_url": "https://www.ouest-france.fr/politique/gouvernement/gouvernement-bruno-retailleau-jean-noel-barrot-voici-les-noms-proposes-par-michel-barnier-43d00a02-76b9-11ef-a1b1-27949002d4f5",
-    "picture_source": "BFMTV",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTg4OXqlxojnotnK1GamMFFkc3aYZJAuWfpTwzIB4fJvACOtbO0zihEEL_K3b2VMkvOKux98yU4",
+    "news_item_snippet": "VID\u00c9O - Selon des informations de BFMTV, Michel Barnier a propos\u00e9 au pr\u00e9sident Emmanuel Macron la liste de ses ministres ce jeudi soir lors de leur&nbsp;...",
+    "news_item_url": "https://www.bfmtv.com/politique/gouvernement/nouveau-gouvernement-bruno-retailleau-annie-genevard-sebastien-lecornu-les-noms-proposes-par-michel-barnier-a-emmanuel-macron_VN-202409200094.html",
+    "picture_source": "L'Express",
     "approx_traffic": "100,000+"
   },
   {
     "country": "France",
     "title": "Brest Ligue des champions",
     "pubDate": "Thu, 19 Sep 2024 14:00:00 +0200",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQcHwBHlag0oN25LZpNEacxRFrgBfdMl1wtJpEIy-lLCTKtPEsre1v5ChuEjGsmQ6FMRXSkNQtC",
-    "news_item_snippet": "Pour sa toute premi\u00e8re en Ligue des champions, Brest a domin\u00e9 l&#39;\u00e9quipe du Sturm Graz jeudi oir \u00e0 Guingamp. De son c\u00f4t\u00e9, Monaco s&#39;est impos\u00e9 contre Barcelone&nbsp;...",
-    "news_item_url": "https://www.lunion.fr/id642077/article/2024-09-19/ligue-des-champions-premiere-historique-pour-brest-et-succes-de-prestige-pour",
-    "picture_source": "L'\u00c9quipe.fr",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQ60xGFCl-QFLrKRzP1i6dNwNyDvdbBeUS7th2aaKfHAngt0WzUHztQpnvIpvTRqYsnB7U0eVe9",
+    "news_item_snippet": "Brest a brillamment d\u00e9marr\u00e9 sa campagne de Ligue des champions en dominant Sturm Graz ce jeudi soir \u00e0 Roudourou (2-1). Un succ\u00e8s historique pour ses d\u00e9buts&nbsp;...",
+    "news_item_url": "https://www.lequipe.fr/Football/Actualites/Brest-domine-sturm-graz-et-s-offre-la-premiere-victoire-de-son-histoire-en-ligue-des-champions/1508745",
+    "picture_source": "L'Union",
     "approx_traffic": "100,000+"
   },
   {
@@ -444,8 +444,8 @@
     "title": "Atl\u00e9tico Madrid \u2013 RB Leipzig",
     "pubDate": "Thu, 19 Sep 2024 21:00:00 +0200",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcS27EDrLH6RzmN4Wktce7SJBAfYENbr0bd4QbUeQfhkA-G5WoVfWQLsPJWT80AJaY6rpD2JQeEP",
-    "news_item_snippet": "Auftakt zur neuen Champions-League-Saison | Die Roten Bullen treten am 1. Spieltag in Spanien an | Arthur Vermeeren startet gegen seinen Ex-Club.",
-    "news_item_url": "https://rbleipzig.com/de/news/spielbericht-champions-league-atletico-madrid-vs-rb-leipzig-am-19-september-2024",
+    "news_item_snippet": "Trotz F\u00fchrung kassiert RB Leipzig zum Auftakt der Champions League eine Niederlage bei Atletico Madrid. Trainer Marco Rose will den D\u00e4mpfer schnell abhaken&nbsp;...",
+    "news_item_url": "https://www.mdr.de/sport/fussball_pokal/champions-league-rb-leipzig-atletico-madrid-nachklapp-100.html",
     "picture_source": "Mitteldeutsche Zeitung",
     "approx_traffic": "100,000+"
   },
@@ -521,6 +521,16 @@
   },
   {
     "country": "Italy",
+    "title": "Sciopero 20 settembre 2024",
+    "pubDate": "Thu, 19 Sep 2024 10:00:00 +0200",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQwfk-kE-MW9hEAlczILjhytXAUhh99Tb3tRqbUAgl4oQtzwFYzMW5n1trkslI3sAIJblwW7B3r",
+    "news_item_snippet": "Venerd\u00ec 20 settembre, nella capitale, a Milano e in altre grandi citt\u00e0, i dipendenti delle aziende di trasporto pubblico locale incroceranno le braccia.",
+    "news_item_url": "https://www.gazzetta.it/motori/la-mia-auto/20-09-2024/sciopero-mezzi-milano-e-roma-20-settembre-2024-orari-e-fasce-di-garanzia.shtml",
+    "picture_source": "RomaToday",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Italy",
     "title": "Luna Rossa Oggi diretta",
     "pubDate": "Thu, 19 Sep 2024 03:00:00 +0200",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcT2SOkDD7KJF61BV8oQt-dIpuqdDL_iyLU3MqdM473RLT7dWYYM2Ju5XUwHcMDWBwRCk93x41pF",
@@ -537,6 +547,16 @@
     "news_item_snippet": "Inizio shock per i blaugrana, che sono rimasti subito in inferiorit\u00e0 numerica a causa del rosso diretto a Eric Garcia.",
     "news_item_url": "https://www.goal.com/it/liste/barcellona-subito-in-dieci-contro-il-monaco-espulsione-diretta-per-eric-garcia/blt0aafe7af8f3c3752",
     "picture_source": "La Repubblica",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Italy",
+    "title": "Eleonora Giorgi",
+    "pubDate": "Thu, 19 Sep 2024 23:00:00 +0200",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSdOG_pjBDEc6fQ_dlPHwkcYbTxY2c8T7rhMA3824J_MXFFiQ27NcokwqRV3AADEZbhNbpAeDLz",
+    "news_item_snippet": "Scopriamo tutte le curiosit\u00e0 sulla pellicola con Eleonora Giorgi: dalle grandi guest star coinvolte nel film, fino al primo capitolo della saga.",
+    "news_item_url": "https://www.libero.it/magazine/news/eleonora-giorgi-romantica-in-spiaggia-con-massimo-ciavarro-135520",
+    "picture_source": "Libero Tecnologia",
     "approx_traffic": "50,000+"
   },
   {
@@ -564,7 +584,7 @@
     "title": "Atl\u00e9tico Madrid - RB Leipzig",
     "pubDate": "Thu, 19 Sep 2024 13:00:00 -0600",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQjs1MJGFHKM3XE7FnOIxnP9XctcMnXE5s0GTCQMMkbkDZHepX5q6mroiDzPR_-mtGoYdGrz_9Z",
-    "news_item_snippet": "El franc\u00e9s, autor del 1-1 y el m\u00e1s l\u00facido de los suyos, puso con su zurda un bal\u00f3n que el defensa no perdon\u00f3 cuando el choque llegaba a su fin. Diego Pablo&nbsp;...",
+    "news_item_snippet": "Diego Pablo Simeone sorprendi\u00f3 un tanto con un once muy renovado respecto al del Valencia y muy ofensivo con Griezmann de medio y \u00c1ngel Correa y Juli\u00e1n \u00c1lvarez&nbsp;...",
     "news_item_url": "https://www.infobae.com/america/agencias/2024/09/20/cronica-del-atletico-de-madrid-rb-leipzig-2-1/",
     "picture_source": "AS",
     "approx_traffic": "50,000+"
@@ -584,29 +604,29 @@
     "title": "Athletic",
     "pubDate": "Thu, 19 Sep 2024 20:00:00 +0200",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTzl6Dr6EeWyVZfMhp6K2xo9tT01OCbSa0aA4LfPOpFTsmgfMPihWja86hH2BZdZi91wdUfoyAa",
-    "news_item_snippet": "Deportes: Los leones cosechan su segunda victoria consecutiva a domicilio para situarse con 10 puntos.",
+    "news_item_snippet": "Valverde apost\u00f3 por Djal\u00f3 en punta, Nico y Berenguer en banda, Unai G\u00f3mez por delante de Galarreta y Vesga a su lado. Atr\u00e1s, se estren\u00f3 N\u00fa\u00f1ez como le\u00f3n en esta&nbsp;...",
     "news_item_url": "https://radiopopular.com/2024/09/el-athletic-tira-de-oficio-en-leganes",
     "picture_source": "DxT Campe\u00f3n",
     "approx_traffic": "50,000+"
   },
   {
     "country": "United Kingdom",
-    "title": "Arsenal",
-    "pubDate": "Thu, 19 Sep 2024 20:00:00 +0100",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTMifob-QQJdUHgRfJNxs3uwSMpffbCiMcVlZZIqKf4QZBR4yh6KxdfnckQkdiZ4VXENxl2mgXz",
-    "news_item_snippet": "A brilliant David Raya penalty save ensured we left Italy with a point in our opening Champions League game of the season.",
-    "news_item_url": "https://www.arsenal.com/fixture/arsenal/2024-Sep-19/atalanta-bergamasca-calcio-0-0-arsenal-match-report",
-    "picture_source": "Irvine Times",
+    "title": "Thunderstorm warning",
+    "pubDate": "Thu, 19 Sep 2024 11:00:00 +0100",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRQGPPGO1jokKfslCcpP1K5l12rAeCe7Xhw3BdOFiKIk-o1mF_GlG694EBwb1Jj8QuRX_Q5nqWj",
+    "news_item_snippet": "The alert, which comes into effect tomorrow (Saturday, September 21), warns of storms. Affected locations could see significant rainfall in a short period of&nbsp;...",
+    "news_item_url": "https://www.leicestermercury.co.uk/news/local-news/thunderstorm-warning-issued-for-leicestershire-9565079",
+    "picture_source": "BBC News",
     "approx_traffic": "200,000+"
   },
   {
     "country": "United Kingdom",
-    "title": "Thunderstorm warning",
-    "pubDate": "Thu, 19 Sep 2024 11:00:00 +0100",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRQGPPGO1jokKfslCcpP1K5l12rAeCe7Xhw3BdOFiKIk-o1mF_GlG694EBwb1Jj8QuRX_Q5nqWj",
-    "news_item_snippet": "Shoppers using umbrellas in the rain on Granby Street, Leicester. The Met Office says there could be significant rainfall in a short period. Subscribe today to&nbsp;...",
-    "news_item_url": "https://www.leicestermercury.co.uk/news/local-news/thunderstorm-warning-issued-for-leicestershire-9565079",
-    "picture_source": "BBC News",
+    "title": "Arsenal",
+    "pubDate": "Thu, 19 Sep 2024 20:00:00 +0100",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTMifob-QQJdUHgRfJNxs3uwSMpffbCiMcVlZZIqKf4QZBR4yh6KxdfnckQkdiZ4VXENxl2mgXz",
+    "news_item_snippet": "Watch the best of the action from the opening game of our Champions League campaign at the Gewiss Stadium in Bergamo.",
+    "news_item_url": "https://www.arsenal.com/news/highlights-atalanta-0-0-arsenal",
+    "picture_source": "Irvine Times",
     "approx_traffic": "200,000+"
   },
   {
@@ -651,12 +671,12 @@
   },
   {
     "country": "United Kingdom",
-    "title": "India vs Bangladesh",
-    "pubDate": "Thu, 19 Sep 2024 07:00:00 +0100",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRkN8y4AbTndGqVpv15_ht6vjlciw6TaVNBIFaLaxoorKxILRLzxtXZFzx_YgZhQqkPkR6YVVLF",
-    "news_item_snippet": "India&#39;s Ravichandran Ashwin smashed a rapid hundred and combined with Ravindra Jadeja in an epic rearguard action as the hosts overcame a top-order meltdown&nbsp;...",
-    "news_item_url": "https://www.aljazeera.com/sports/2024/9/19/india-vs-bangladesh-homeboy-ashwin-to-the-rescue-after-top-order-wobble",
-    "picture_source": "Sportstar",
+    "title": "ISG",
+    "pubDate": "Thu, 19 Sep 2024 15:00:00 +0100",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQyuFR2iLfux80KkxpN8erExMJ7lT4AL3o-SvZLZseQ1r-BXdguusssuYI_ninbks8pSbRbISnG",
+    "news_item_snippet": "Contractor to go under two months after firm&#39;s chairman said rescue deal was &#39;days away&#39;. ISG&#39;s chief executive has confirmed that the company is set to go&nbsp;...",
+    "news_item_url": "https://www.building.co.uk/news/offices-closed-and-sites-shut-as-isg-set-to-file-for-administration-chief-executive-confirms/5131679.article",
+    "picture_source": "Construction News",
     "approx_traffic": "50,000+"
   }
 ]
