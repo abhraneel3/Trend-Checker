@@ -230,13 +230,13 @@
     "approx_traffic": "50,000+"
   },
   {
-    "country": "Australia",
-    "title": "Anthony Joshua",
-    "pubDate": "Sat, 21 Sep 2024 16:00:00 +1000",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRCeVZ8br9tjYkU2nm79g7dgh_r6R-cSA6ojhE-MqA5mn35ez1dgzmf2CgAhqu8pGA_F1oZV7Kl",
-    "news_item_snippet": "Anthony Joshua remains a heavyweight contender capable of delivering more thrilling nights despite his brutal knockout by Daniel Dubois, according to promoter&nbsp;...",
-    "news_item_url": "https://www.meathchronicle.ie/2024/09/22/eddie-hearn-insists-there-is-still-more-to-come-from-anthony-joshua/",
-    "picture_source": "ESPN Australia",
+    "country": "Argentina",
+    "title": "Villarreal  Barcelona",
+    "pubDate": "Sun, 22 Sep 2024 13:00:00 -0300",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQVzbKG8ez07D39d0oAk6b05P95NNfBNFbOUcE5vxOF7CtUduzTjUJdOkuiHWjQ0HPh0hcBOIwr",
+    "news_item_snippet": "Despu\u00e9s del encuentro, el conjunto villarrealense es cuarto al finalizar el partido, mientras que Bar\u00e7a mantiene el liderato de LaLiga. La primera mitad del&nbsp;...",
+    "news_item_url": "https://www.infobae.com/noticias/2024/09/22/goleada-de-barcelona-en-el-estadio-de-villarreal-5-1/",
+    "picture_source": "LA NACION",
     "approx_traffic": "50,000+"
   },
   {
@@ -301,6 +301,16 @@
   },
   {
     "country": "France",
+    "title": "OM",
+    "pubDate": "Sun, 22 Sep 2024 18:00:00 +0200",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTF7h6b__ie_UNmLdxJW9XJsepCDf8pkmuI8j1b3BYDKGjBGsfmchBaVphaIn9aGmVcU_DftX8A",
+    "news_item_snippet": "L&#39;OL re\u00e7oit l&#39;OM pour le compte de la 5e journ\u00e9e de la Ligue 1 ce dimanche 22 septembre. Le d\u00e9fenseur central marseillais Leonardo Balerdi a \u00e9t\u00e9 exclu apr\u00e8s&nbsp;...",
+    "news_item_url": "https://www.ouest-france.fr/sport/football/olympique-de-marseille/video-ol-om-les-marseillais-reduits-a-dix-apres-cinq-minutes-de-jeu-9fc17678-790e-11ef-baa4-02fdc42b3515",
+    "picture_source": "L'\u00c9quipe.fr",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "France",
     "title": "Manchester City \u2013 Arsenal",
     "pubDate": "Sun, 22 Sep 2024 17:00:00 +0200",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTLANxhRICRclr2BQ4HnAabwflj_-Uh24v0vGshM224PWXToBz20nABha8bPkkrXv2dPM55-h70",
@@ -311,11 +321,11 @@
   },
   {
     "country": "France",
-    "title": "OL-OM",
+    "title": "Villarreal \u2013 Barcelone",
     "pubDate": "Sun, 22 Sep 2024 18:00:00 +0200",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSZXdtaCc-JUDnlw7SilwGwOucnOs3lohiMj3_IeEU_4j4sZIMGyw_MbTZhT98wOQ6N4WFRsz6I",
-    "news_item_snippet": "L&#39;OM a retourn\u00e9 une partie tr\u00e8s mal embarqu\u00e9e, samedi, \u00e0 Lyon (2-3). Les Marseillais recollent en t\u00eate du championnat avec le PSG et Monaco.",
-    "news_item_url": "https://www.francetvinfo.fr/sports/foot/ligue-1/direct-ol-om-des-lyonnais-en-quete-de-points-recoivent-des-marseillais-en-pleine-confiance-suivez-le-match-de-la-5e-journee-de-ligue-1_6792553.html",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcR7nFABjReao5C1o1JRgHzREfnpLZV-j6mXqLrkd4FCX6AWI_1E3jKPoXQisgcnKcsqFuE2f0tS",
+    "news_item_snippet": "Battu \u00e0 Monaco cette semaine en Ligue des champions (2-1), le FC Barcelone a retrouv\u00e9 ce dimanche 22 septembre la victoire \u00e0 Villarreal, avec la mani\u00e8re&nbsp;...",
+    "news_item_url": "https://www.ouest-france.fr/sport/football/espagne/fc-barcelone/liga-le-fc-barcelone-ecrase-villarreal-mais-perd-ter-stegen-sur-blessure-8467f49a-7915-11ef-baa4-02fdc42b3515",
     "picture_source": "L'\u00c9quipe.fr",
     "approx_traffic": "50,000+"
   },
@@ -326,16 +336,6 @@
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRzYOM0ffGBqhGNL9IJ29H3VpKhdl_t8oYOp0Lnrkcl52rNO2LJYY-oeM8SbCzIEOJg7hU5zy4k",
     "news_item_snippet": "TOPS/FLOPS \u2013 Le pressing payant de Monaco, Ben Seghir qui fait la diff\u00e9rence ou les limites offensives du HAC : retrouvez nos tops et nos flops de la&nbsp;...",
     "news_item_url": "https://www.lefigaro.fr/sports/football/ligue-1/monaco-le-havre-le-talent-ben-seghir-le-hac-trop-limite-les-tops-et-les-flops-20240922",
-    "picture_source": "L'\u00c9quipe.fr",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "France",
-    "title": "Villarreal \u2013 Barcelone",
-    "pubDate": "Sun, 22 Sep 2024 18:00:00 +0200",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcR7nFABjReao5C1o1JRgHzREfnpLZV-j6mXqLrkd4FCX6AWI_1E3jKPoXQisgcnKcsqFuE2f0tS",
-    "news_item_snippet": "Battu \u00e0 Monaco cette semaine en Ligue des champions (2-1), le FC Barcelone a retrouv\u00e9 ce dimanche 22 septembre la victoire \u00e0 Villarreal, avec la mani\u00e8re&nbsp;...",
-    "news_item_url": "https://www.ouest-france.fr/sport/football/espagne/fc-barcelone/liga-le-fc-barcelone-ecrase-villarreal-mais-perd-ter-stegen-sur-blessure-8467f49a-7915-11ef-baa4-02fdc42b3515",
     "picture_source": "L'\u00c9quipe.fr",
     "approx_traffic": "50,000+"
   },
@@ -467,7 +467,7 @@
     "news_item_snippet": "El gol del Lamine Yamal no pudo salvar a un Barcelona con 10 hombres que sucumbi\u00f3 2-1 en su visita ante M\u00f3naco en Champions League este jueves,&nbsp;...",
     "news_item_url": "https://www.elmundo.es/como/2024/09/22/66ed251e21efa090158b459d.html",
     "picture_source": "EL PA\u00cdS",
-    "approx_traffic": "200,000+"
+    "approx_traffic": "500,000+"
   },
   {
     "country": "Spain",
@@ -481,6 +481,16 @@
   },
   {
     "country": "Spain",
+    "title": "Rayo Vallecano - Atl\u00e9tico Madrid",
+    "pubDate": "Sun, 22 Sep 2024 21:00:00 +0200",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRqjAlO9UfQ_JbmSDB_C_KCOsj7uVCEMEieaACqn6e4MjYMP89tX-3UqrA7_S3dmHl-dRUzN9cZ",
+    "news_item_snippet": "Simeone: \u201cEl segundo tiempo ha sido mejor, generamos lo que quer\u00edamos en el partido y estuvimos cerca de ganarlo\u201d | Koke: \u201cHemos estado mal, nos ha faltado&nbsp;...",
+    "news_item_url": "https://elpais.com/deportes/futbol/2024-09-22/rayo-vallecano-atletico-de-madrid-en-directo-el-partido-de-la-liga-en-vivo.html",
+    "picture_source": "RTVE",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "Spain",
     "title": "Manchester City - Arsenal",
     "pubDate": "Sun, 22 Sep 2024 17:00:00 +0200",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRI2do6QmnzcMiAfKk2xKsZW7cRtcIAhq3UKiWR4n_8aBBSuUnw_5HNiKIjjRBElW1s8wxUMZad",
@@ -488,16 +498,6 @@
     "news_item_url": "https://www.marca.com/futbol/premier-league/m-city-arsenal/2024/09/22/01_0106_20240922_43_3-directo.html",
     "picture_source": "AS",
     "approx_traffic": "100,000+"
-  },
-  {
-    "country": "Spain",
-    "title": "Rayo Vallecano - Atl\u00e9tico Madrid",
-    "pubDate": "Sun, 22 Sep 2024 21:00:00 +0200",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSfmFtKoYPMSWeR8NU0tJdjhOZSeg-BCJlj96Azj8ZP3UXqCX4GFwruWcCVoHyza49s3imdeGAr",
-    "news_item_snippet": "Sigue, en directo, el duelo de la jornada 6 de LaLiga EA Sports que mide al Rayo Vallecano y al Atl\u00e9tico de Madrid en el Estadio de Vallecas en AS.",
-    "news_item_url": "https://as.com/futbol/primera/rayo-vallecano-atletico-en-directo-laliga-ea-sports-hoy-en-vivo-n-2/",
-    "picture_source": "RTVE",
-    "approx_traffic": "50,000+"
   },
   {
     "country": "Spain",
@@ -514,10 +514,20 @@
     "title": "Man City vs Arsenal",
     "pubDate": "Sun, 22 Sep 2024 13:00:00 +0100",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTEBlso29uvuBwfW4q4Tx1AuL5XaXin3M9X01MIEMYKQklhrtIYcaJP2tksRmJ5ruFrnuXeZGXM",
-    "news_item_snippet": "Folllow all the action from the Etihad Stadium as Arsenal travel to title rivals Manchester City for a crunch clash in the Premier League.",
-    "news_item_url": "https://www.independent.co.uk/sport/football/man-city-arsenal-live-stream-score-result-2024-b2616948.html",
+    "news_item_snippet": "John Stones&#39; equaliser eight minutes into added time earned City a 2-2 draw in an explosive encounter at the Etihad.",
+    "news_item_url": "https://www.mancity.com/news/mens/manchester-city-v-arsenal-match-report-22-september-63862614",
     "picture_source": "Arsenal.com",
-    "approx_traffic": "500,000+"
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "United Kingdom",
+    "title": "Man City",
+    "pubDate": "Sun, 22 Sep 2024 13:00:00 +0100",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTkbh9ZL9BFyInavA2yp91WC7v8_w1oz-5_g95Eq6em84kOUmCnDAi6O_5A2NKj6svpZq7Sf3ox",
+    "news_item_snippet": "Find out who Mikel Arteta has named in his starting XI for this afternoon&#39;s game against Manchester City.",
+    "news_item_url": "https://www.arsenal.com/news/team-news-calafiori-given-first-start-man-city",
+    "picture_source": "The Voice Online",
+    "approx_traffic": "200,000+"
   },
   {
     "country": "United Kingdom",
@@ -531,32 +541,22 @@
   },
   {
     "country": "United Kingdom",
-    "title": "Celtic",
+    "title": "Man Utd",
     "pubDate": "Sun, 22 Sep 2024 15:00:00 +0100",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQ4h759mUpCwVvX08OLwKkA8RYaAdGqTpQVOUTSfVB8Swp7plY1AroGp5bhaIgwGF8G91wYnwWO",
-    "news_item_snippet": "Celtic were given an almighty fright by Championship leaders Falkirk before a Nicolas Kuhn inspired fightback saw Brendan Rodgers&#39; side into the\u2026",
-    "news_item_url": "https://www.thenational.scot/sport/24601710.celtic-5-falkirk-2-instant-reaction-burning-issues/",
-    "picture_source": "Helensburgh Advertiser",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTRrPfIU1ZrBFj66-atRWkbCrEAv31NdlYdMkZkj8OhtVkuLZd5kZ8ZtEE9cQzXl9PSVHXJgmLX",
+    "news_item_snippet": "Man Utd legend Cristiano Ronaldo has hit out at &quot;two rats&quot; who criticised him during Portugal&#39;s disappointing Euro 2024 campaign.",
+    "news_item_url": "https://www.football365.com/news/cristiano-ronaldo-man-utd-tears-two-rats-euro-2024-portugal",
+    "picture_source": "Football365.com",
     "approx_traffic": "100,000+"
   },
   {
     "country": "United Kingdom",
-    "title": "Manchester City",
-    "pubDate": "Sun, 22 Sep 2024 18:00:00 +0100",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTEBlso29uvuBwfW4q4Tx1AuL5XaXin3M9X01MIEMYKQklhrtIYcaJP2tksRmJ5ruFrnuXeZGXM",
-    "news_item_snippet": "Savinho and Haaland caught the eye for Manchester City as Gabriel stood out for visitors with goal and defensive show.",
-    "news_item_url": "https://www.theguardian.com/football/2024/sep/22/manchester-city-2-2-arsenal-premier-league-player-ratings",
-    "picture_source": "Arsenal.com",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United Kingdom",
-    "title": "Rainfall warning",
-    "pubDate": "Sat, 21 Sep 2024 00:00:00 +0100",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQ1obMcOLNBwo63pMzsuCNZs4fJM9KRHmonwYiSqz8SPBbf-J5_-zAcnKG9SUNT4rVj1pgOJl5M",
-    "news_item_snippet": "Saturday night&#39;s downpours across the region caused some flash-flooding across Leicestershire and the Met Office has extended its yellow warnings for rain&nbsp;...",
-    "news_item_url": "https://www.leicestermercury.co.uk/news/leicester-news/live-updates-rain-warning-extends-9572649",
-    "picture_source": "Leicestershire Live",
-    "approx_traffic": "200,000+"
+    "title": "Celtic",
+    "pubDate": "Sun, 22 Sep 2024 15:00:00 +0100",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTk_vZQ48oV0P25HTojLh2CTreMMAG2p1NciZ_wMclfl70J7PC0ZO7xJnTtsjwiYVqucuYA-xvt",
+    "news_item_snippet": "Report as Celtic beat Falkirk 5-2 to reach the League Cup semi-finals; Ross MacIver gave the Bairns a shock lead; Paulo Bernardo equalised before Finn Yeats&nbsp;...",
+    "news_item_url": "https://www.skysports.com/football/celtic-vs-falkirk/report/521256",
+    "picture_source": "Irvine Times",
+    "approx_traffic": "100,000+"
   }
 ]
