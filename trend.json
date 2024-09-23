@@ -1,6 +1,16 @@
 [
   {
     "country": "United States",
+    "title": "Chiefs vs Falcons",
+    "pubDate": "Sun, 22 Sep 2024 16:00:00 -0700",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTaSFz8WPRItkm-BDwlOe4AnULIl4EElVlV_PgOgn1NvC2h3hjQnnTMu8OiuwHKwcHgtwzUDflK",
+    "news_item_snippet": "The Chiefs may have their hands full with Kirk Cousins and the Falcons on Sunday night. Follow for the latest updates, highlights and more.",
+    "news_item_url": "https://www.usatoday.com/story/sports/nfl/2024/09/22/falcons-chiefs-sunday-night-football-score-updates/75298640007/",
+    "picture_source": "The Falcoholic",
+    "approx_traffic": "500,000+"
+  },
+  {
+    "country": "United States",
     "title": "Eagles vs Saints",
     "pubDate": "Sun, 22 Sep 2024 10:00:00 -0700",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRPvLksS1GPcLF1cfTZ1FfMWk1HOup6hBIJ5xtgavoDlhdoS1IqA6yhasLVk8mJHaf58WgBEru_",
@@ -11,21 +21,11 @@
   },
   {
     "country": "United States",
-    "title": "Bears",
-    "pubDate": "Sun, 22 Sep 2024 11:00:00 -0700",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRCDr_IigdUN5d0KkxTTLWKaH8yMMckSoDQYbcg7U1slnaf0IRS4lcSNU6BBqupIoSO_VOUkKT1",
-    "news_item_snippet": "The Colts earned their first win of the 2024 season thanks to complementary football and career days from Jaylon Jones and Laiatu Latu.",
-    "news_item_url": "https://www.colts.com/news/colts-first-win-2024-chicago-bears-laiatu-latu-jaylon-jones",
-    "picture_source": "ChicagoBears.com",
-    "approx_traffic": "500,000+"
-  },
-  {
-    "country": "United States",
     "title": "Ravens vs Cowboys",
     "pubDate": "Sun, 22 Sep 2024 13:00:00 -0700",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSpsbGlZw9TXckZXSzRvPygYrQYv4cm4MFNWzb33necpsqwk2QTi8D51V9UEix5NcwIB187NmG2",
-    "news_item_snippet": "We&#39;re looking at ten key players to watch on Sunday when the Baltimore Ravens face the Dallas Cowboys.",
-    "news_item_url": "https://ravenswire.usatoday.com/lists/ravens-cowboys-players-to-watch-micah-parsons-ceedee-lamb-derrick-henry-dak-prescott/",
+    "news_item_snippet": "We&#39;re looking at the top photos from the Baltimore Ravens 28-25 win over the Dallas Cowboys at AT&amp;T Stadium.",
+    "news_item_url": "https://ravenswire.usatoday.com/gallery/ravens-vs-cowboys-photos-28-25-week-3-lamar-jackson-derrick-henry/",
     "picture_source": "Austin American-Statesman",
     "approx_traffic": "500,000+"
   },
@@ -41,23 +41,23 @@
   },
   {
     "country": "United States",
+    "title": "Bears",
+    "pubDate": "Sun, 22 Sep 2024 11:00:00 -0700",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRCDr_IigdUN5d0KkxTTLWKaH8yMMckSoDQYbcg7U1slnaf0IRS4lcSNU6BBqupIoSO_VOUkKT1",
+    "news_item_snippet": "The Colts earned their first win of the 2024 season thanks to complementary football and career days from Jaylon Jones and Laiatu Latu.",
+    "news_item_url": "https://www.colts.com/news/colts-first-win-2024-chicago-bears-laiatu-latu-jaylon-jones",
+    "picture_source": "ChicagoBears.com",
+    "approx_traffic": "500,000+"
+  },
+  {
+    "country": "United States",
     "title": "Eagles",
     "pubDate": "Sun, 22 Sep 2024 11:00:00 -0700",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRPvLksS1GPcLF1cfTZ1FfMWk1HOup6hBIJ5xtgavoDlhdoS1IqA6yhasLVk8mJHaf58WgBEru_",
     "news_item_snippet": "On Pattison&#39;s Tim Kelly gives five takeaways from the Eagles&#39; Week 3 tilt with the Saints.",
     "news_item_url": "https://northpennnow.com/news/2024/sep/22/eagles-takeaways/",
     "picture_source": "PhiladelphiaEagles.com",
-    "approx_traffic": "500,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Chiefs vs Falcons",
-    "pubDate": "Sun, 22 Sep 2024 16:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSdYRUnVeb-gHbkbC6Ha8y8l2dHijDsWrzr9S27n-JN0TvumIAeKdCJzX6FXAeOuhXRWs6qMFWC",
-    "news_item_snippet": "The Chiefs may have their hands full with Kirk Cousins and the Falcons on Sunday night. Follow for the latest updates, highlights and more.",
-    "news_item_url": "https://www.usatoday.com/story/sports/nfl/2024/09/22/falcons-chiefs-sunday-night-football-score-updates/75298640007/",
-    "picture_source": "Chiefs Wire",
-    "approx_traffic": "500,000+"
+    "approx_traffic": "200,000+"
   },
   {
     "country": "United States",
@@ -73,20 +73,10 @@
     "country": "United States",
     "title": "49ers vs Rams",
     "pubDate": "Sun, 22 Sep 2024 14:00:00 -0700",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTToioHHhfuMDmpqcO62r-6E18TjpIRbKRVLtfF-ZYSxOrUkFmLOGBzHxPL7U5REQg6dx9mz0LQ",
-    "news_item_snippet": "The 49ers visit the Rams in Week 3, and fans may want to tune into the radio broadcast for this NFC West showdown.",
-    "news_item_url": "https://ninernoise.com/posts/listen-49ers-rams-nfl-week-game-radio",
-    "picture_source": "49ers.com",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Man City vs Arsenal",
-    "pubDate": "Sun, 22 Sep 2024 09:00:00 -0700",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTEBlso29uvuBwfW4q4Tx1AuL5XaXin3M9X01MIEMYKQklhrtIYcaJP2tksRmJ5ruFrnuXeZGXM",
-    "news_item_snippet": "Folllow all the action from the Etihad Stadium as Arsenal travel to title rivals Manchester City for a crunch clash in the Premier League.",
-    "news_item_url": "https://sports.yahoo.com/manchester-city-v-arsenal-live-114912921.html",
-    "picture_source": "Arsenal.com",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQXFfo25ggchYV-epoZCwlhz4caGsFArpeFgQeRTH-2Wfnh5aBNz0Whhay48Boir7IOZ0EMyddA",
+    "news_item_snippet": "Here&#39;s everything you need to know from the San Francisco 49ers&#39; 27-24 loss to the Los Angeles Rams on Sunday at SoFi Stadium, with highlights, postgame...",
+    "news_item_url": "https://www.nbcsportsbayarea.com/nfl/san-francisco-49ers/live-updates-score-highlights-los-angeles-rams/1784371/",
+    "picture_source": "Niner Noise",
     "approx_traffic": "200,000+"
   },
   {
@@ -111,6 +101,16 @@
   },
   {
     "country": "United States",
+    "title": "Panthers vs Raiders",
+    "pubDate": "Sun, 22 Sep 2024 14:00:00 -0700",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQzDNGJvbZgwIPAfJX2t1z3VIWi0u4VxsqK5K3rjc55pfMgRKdI7Egx5_6KibGNIfmLiE8xq2MO",
+    "news_item_snippet": "Andy Dalton and the Carolina Panthers dominated the Las Vegas Raiders in a blowout 36-22 road win on Sunday in Week 3 of the 2024 NFL season.",
+    "news_item_url": "https://www.charlotteobserver.com/sports/nfl/carolina-panthers/article292358729.html",
+    "picture_source": "Panthers.com",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "United States",
     "title": "Packers vs Titans",
     "pubDate": "Sun, 22 Sep 2024 11:00:00 -0700",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcS03Kdq2cxvcbsdi2Y2gpRSsWOxFqFTAeAa0_LDgXVcIW9XmvpTA3IoQ2lxhRUbZhTkZYZXpO7r",
@@ -121,12 +121,42 @@
   },
   {
     "country": "United States",
-    "title": "WNBA",
+    "title": "Lions vs Cardinals",
     "pubDate": "Sun, 22 Sep 2024 14:00:00 -0700",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRTfzpryCW-hU3Qap22NDkF5JEQlY6yraSAhycbOns_OEdttS-yH6GZpgjobB4QjXZ91m4mfXV7",
-    "news_item_snippet": "Aces star A&#39;ja Wilson claimed her third career WNBA MVP Award and joined Cynthia Cooper as the only unanimous winners of the honor in league history.",
-    "news_item_url": "https://www.espn.com/wnba/story/_/id/41375494/aces-aja-wilson-becomes-second-unanimous-mvp-wnba-history",
-    "picture_source": "Indiana Fever",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSzGT5-zim6wz4v4kyqfNX4zivEvwKJtV_Hoqi-0olE_LeA_k0bmmXY5lOIRCdPZkt__Pph4xUX",
+    "news_item_snippet": "How many times did a player go down after a play? The cart got some use for the Lions, and that last collision between Trey McBride and Lions safety Brian&nbsp;...",
+    "news_item_url": "https://www.azcardinals.com/news/cardinals-feel-the-physical-and-lions-aftermath",
+    "picture_source": "detroitlions.com",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United States",
+    "title": "WNBA",
+    "pubDate": "Sun, 22 Sep 2024 13:00:00 -0700",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQmtt3LNv_fiOGyfenHX5ATARQhCxWqLPpv1Lv3rEPvrBr-RpL9AsJCCyU4mjjiydq0zGtvvyfz",
+    "news_item_snippet": "Clark also named to AP All-WNBA First Team and AP All-Rookie Team INDIANAPOLIS \u2013 Indiana Fever guard Caitlin Clark was unanimously named the 2024 Associated&nbsp;...",
+    "news_item_url": "https://fever.wnba.com/news/caitlin-clark-named-unanimous-associated-press-rookie-of-the-year",
+    "picture_source": "ESPN",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Man City vs Arsenal",
+    "pubDate": "Sun, 22 Sep 2024 09:00:00 -0700",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTEBlso29uvuBwfW4q4Tx1AuL5XaXin3M9X01MIEMYKQklhrtIYcaJP2tksRmJ5ruFrnuXeZGXM",
+    "news_item_snippet": "All the football updates as title contenders Manchester City and Arsenal fought to 2-2 draw at the Etihad Stadium.",
+    "news_item_url": "https://www.aljazeera.com/sports/liveblog/2024/9/22/live-manchester-city-vs-arsenal-english-premier-league-football",
+    "picture_source": "Arsenal.com",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Man City",
+    "pubDate": "Sun, 22 Sep 2024 10:00:00 -0700",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcREQq-7wS_-_0Mi4oyaGgw8zy9M3GJSbva613eyPKthYHTf9stI_59XkN2ftB7TWmLHx3akBtU1",
+    "news_item_snippet": "Manchester City midfielder Rodri left the pitch injured during the first-half of the top-of-table Premier League clash against Arsenal at the Etihad&nbsp;...",
+    "news_item_url": "https://www.espn.com/soccer/story/_/id/41379247/man-city-rodri-limps-injured-arsenal",
+    "picture_source": "ESPN",
     "approx_traffic": "100,000+"
   },
   {
@@ -141,12 +171,12 @@
   },
   {
     "country": "United States",
-    "title": "Derrick Henry",
+    "title": "Hurricane tracker",
     "pubDate": "Sun, 22 Sep 2024 16:00:00 -0700",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSY9f2vdo8c4YJks9kru-Rm8c4TE9bUrjZa57iYydKxcX7oDdsYkg1d2WcLzpUh8453TRNGRvjR",
-    "news_item_snippet": "Jerry Jones watched his Cowboys get trampled by Derrick Henry and the Ravens, but the owner still didn&#39;t regret not shelling out for the star RB.",
-    "news_item_url": "https://www.usatoday.com/story/sports/nfl/cowboys/2024/09/22/jerry-jones-cowboys-derrick-henry-ravens/75341945007/",
-    "picture_source": "BaltimoreRavens.com",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTdV4IPG0R7njRX6ZYdtmk8oINGS_OU-Yxxg8_GS57AmtgVyZyTye9G6B67-i0sqlMUHZuAmf4i",
+    "news_item_snippet": "As of Sunday afternoon, National Hurricane Center forecasters were giving the area of unsettled weather in the Northwestern Caribbean a 40% chance for&nbsp;...",
+    "news_item_url": "https://www.nbcmiami.com/weather/hurricane-season/tropical-storm-expected-to-form-in-northwest-caribbean/3423804/",
+    "picture_source": "The Weather Channel",
     "approx_traffic": "100,000+"
   },
   {
@@ -154,49 +184,19 @@
     "title": "Birmingham shooting",
     "pubDate": "Sun, 22 Sep 2024 08:00:00 -0700",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQvNaUyFrtdIuJensVesKx3e7ol5jA83YpgHkV3UXOv-MjIDWt71LtvvjxANIY2EBjpMUhI8yro",
-    "news_item_snippet": "A manhunt is underway for \u201cmultiple shooters\u201d who killed four people and injured 17 when they \u201cfired upon a large group of people\u201d in Birmingham, Alabama,&nbsp;...",
-    "news_item_url": "https://www.nbcnews.com/news/us-news/birmingham-alabama-shooting-4-killed-dozens-injured-rcna172128",
+    "news_item_snippet": "BIRMINGHAM, Ala. (AP) \u2014 Four people were killed and 17 others injured when multiple shooters opened fire Saturday in what police described as a targeted&nbsp;...",
+    "news_item_url": "https://www.pbs.org/newshour/nation/mass-shooting-kills-4-and-wounds-18-in-birmingham-alabama-nightlife-district-police-say",
     "picture_source": "NBC News",
     "approx_traffic": "50,000+"
   },
   {
     "country": "United States",
-    "title": "Fever vs Sun",
-    "pubDate": "Sun, 22 Sep 2024 13:00:00 -0700",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSxtIDqpZNKUogazyWe9Mx8B0mtmL3dl1bMFyltqxrPolhVQKzIptQ02Ed9IRXagUub0onzhnkY",
-    "news_item_snippet": "The Indiana Fever return to the WNBA playoffs after eight years as they take on the Connecticut Sun in the best-of-three first round series.",
-    "news_item_url": "https://www.usatoday.com/story/sports/wnba/2024/09/22/caitlin-clark-indiana-fever-connecticut-sun-how-to-watch-stream-wnba-playoff-game/75323925007/",
-    "picture_source": "The Indianapolis Star",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
-    "title": "When is the first day of fall",
-    "pubDate": "Sun, 22 Sep 2024 07:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQRqyHc45c7WWR11uGCEwU2AEgST1FCmMimgn2WZpMHeLS1X9TlGWuc3W2630zdAqnDUzRSZXon",
-    "news_item_snippet": "Normal temperatures are expected at the start of the work week, with highs warming back into the upper 70s by Wednesday. There&#39;s little to no precipitation&nbsp;...",
-    "news_item_url": "https://www.mprnews.org/story/2024/09/22/crisp-cool-sunday-first-day-of-fall",
-    "picture_source": "WYMT News",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Boston College football",
-    "pubDate": "Sun, 22 Sep 2024 14:00:00 -0700",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSmk5ElYo770_Aq7UY5ClKJHTVhd_4dh3P-BuRouzNJ-3qosFnKYmzhMyTU2cCVWWoFVplaqVa7",
-    "news_item_snippet": "The Spartans fell short, but we learned a little more about this young team.",
-    "news_item_url": "https://spartanswire.usatoday.com/lists/five-takeaways-from-michigan-state-footballs-loss-to-boston-college/",
-    "picture_source": "Sports Illustrated",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Mercury Morris",
-    "pubDate": "Sun, 22 Sep 2024 11:00:00 -0700",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSIVxH7BsTjnMvVC_LwTz4DFv38xVGv_E7GkZ-WskNsQqg07uoB4s4iSJb_R-GFhvGjkRTkXGNZ",
-    "news_item_snippet": "Eugene &#39;Mercury&#39; Morris, two-time Super Bowl champion with the Miami Dolphins, passes away at 77. His legacy lives on in football history.",
-    "news_item_url": "https://theatlantavoice.com/mercury-morris-dies-dolphins/",
-    "picture_source": "FOX 13 Tampa Bay",
+    "title": "Kirk Cousins",
+    "pubDate": "Sun, 22 Sep 2024 18:00:00 -0700",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSZBce4Erlpohc-s0VX_sBy6nFjtHLAki6s-IaCrw-KimG6u8KGAPLNr2tQVBhWl7RgKhmnju7M",
+    "news_item_snippet": "\u2014 Kirk Cousins is now in elite company. Cousins reached 40,000 career passing yards against the Kansas City Chiefs on Sunday night, becoming the fourth-fastest&nbsp;...",
+    "news_item_url": "https://www.atlantafalcons.com/news/kirk-cousins-40000-passing-yards-fourth-fastest-falcons-matt-ryan",
+    "picture_source": "AtlantaFalcons.com",
     "approx_traffic": "50,000+"
   },
   {
@@ -204,8 +204,8 @@
     "title": "Afghanistan vs South Africa",
     "pubDate": "Mon, 23 Sep 2024 07:30:00 +0530",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQf_OjiH1aUwIcLJVkIQiDNwOcRJLHELurgLRb-8VOTqQvnRo8rPabRR5Jxe6qJqc32dpLwu1G-",
-    "news_item_snippet": "Afghanistan vs South Africa 3rd ODI Highlights: Aiden Markram&#39;s calm innings helped South Africa avoid suffering a series clean sweep by Afghanistan with a&nbsp;...",
-    "news_item_url": "https://sports.ndtv.com/cricket/afghanistan-vs-south-africa-live-score-3rd-odi-live-updates-6623362",
+    "news_item_snippet": "Afghanistan vs South Africa Live Score: First Innings Afghanistan Score - 169/10 in 34.0 overs. Afghanistan batting performance. Rahmanullah Gurbaz 89(94)",
+    "news_item_url": "https://www.hindustantimes.com/cricket/afghanistan-vs-south-africa-live-score-3rd-odi-of-afghanistan-and-south-africa-tour-of-uae-2024-final-updates-today-22-sep-2024-101727003096309.html",
     "picture_source": "ESPNcricinfo.com",
     "approx_traffic": "500,000+"
   },
@@ -221,12 +221,32 @@
   },
   {
     "country": "India",
+    "title": "Ravichandran Ashwin",
+    "pubDate": "Sun, 22 Sep 2024 13:30:00 +0530",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSwc6tsPp80JHBKR1EGGTUrwlW49k8YV4FNO9TEZ89O1J_KjiLx_rPQoW2yl37a5Cah9Cyjpbbr",
+    "news_item_snippet": "Ravindra Jadeja added three wickets to seal the win. This result puts India ahead in the series and closer to a World Test Championship Final berth.",
+    "news_item_url": "https://timesofindia.indiatimes.com/sports/cricket/bangladesh-in-india/ravichandran-ashwin-the-champion-of-chennai/articleshow/113583107.cms",
+    "picture_source": "NDTVSports.com",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "India",
     "title": "Narendra Modi",
     "pubDate": "Sun, 22 Sep 2024 19:30:00 +0530",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTl-esUwi99P2eiUkHohhRzwZwdq_9wtm6HNY--OGz5W_2df5uKaVEnfnVtvADMrzww9yC0FuII",
-    "news_item_snippet": "&#39;Modi and US,&#39; a gathering of the Indian community in New York, welcomed Prime Minister Narendra Modi today, who is on a three-day visit to the United&nbsp;...",
-    "news_item_url": "https://www.indiatoday.in/india/story/modi-us-visit-new-york-indian-community-address-biden-american-ceos-roundtable-2604505-2024-09-22",
+    "news_item_snippet": "PM Narendra Modi met with some of the leading American innovators and industry leaders from various sectors, including biotechnology, semiconductors and&nbsp;...",
+    "news_item_url": "https://www.indiatoday.in/india/story/pm-narendra-modi-in-us-emerging-technology-collaboration-tech-leaders-2604648-2024-09-23",
     "picture_source": "Hindustan Times",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "India",
+    "title": "Ajaz Patel",
+    "pubDate": "Sun, 22 Sep 2024 16:30:00 +0530",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQ_Q42pJxt1wJ6JH8qDnovgZltB40db31FBWK2OO6uEr3Xjm7PJG-C4JcqY4fvJH0T6oET3JYEi",
+    "news_item_snippet": "&quot;We can&#39;t make mistakes against him tomorrow,&quot; says Prabath Jayasuriya.",
+    "news_item_url": "https://www.espncricinfo.com/story/ajaz-patel-grateful-for-world-class-rachin-ravindra-keeping-new-zealand-in-the-contest-vs-sri-lanka-1452308",
+    "picture_source": "ESPNcricinfo.com",
     "approx_traffic": "50,000+"
   },
   {
@@ -243,9 +263,9 @@
     "country": "India",
     "title": "PM Modi",
     "pubDate": "Sun, 22 Sep 2024 07:30:00 +0530",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRQWLMH-dzNHaKJjcuxB6W-MXC9TddPwmlKpFt9g9bdEOP4UHhle5gRtrBoj1mBEPousRVqLPSs",
-    "news_item_snippet": "Modi, on his final leg of his three-day visit to US, is set to address the &#39;Summit of the Future&#39; at the United Nations General Assembly in New York.",
-    "news_item_url": "https://www.hindustantimes.com/india-news/pm-modi-attends-tech-ceos-roundtable-in-us-to-address-unga-10-points-101727050678591.html",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRdsVC6RSFPZNaLjbCTUYw_5znJTCufsP_qGhw-SGX8zBrm6OS4HY8udLG4KyZvJgxWPphBmm-G",
+    "news_item_snippet": "Sharma Oli, and Palestinian President Mahmoud Abbas, discussing various facets of bilateral ties and reaffirming India&#39;s support for the Palestinian people. Mr.",
+    "news_item_url": "https://www.thehindu.com/news/national/pm-modi-meets-palestinian-pm-abbas-in-new-york-expresses-deep-concern-over-gaza-humanitarian-crisis/article68672665.ece",
     "picture_source": "The Hindu",
     "approx_traffic": "50,000+"
   },
@@ -253,11 +273,11 @@
     "country": "India",
     "title": "Coldplay",
     "pubDate": "Sat, 21 Sep 2024 23:30:00 +0530",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcT6ngYzcbJTpA61e1Plz4DgqnuOwnAkBHy4m6EWXLNHgY8OH69eTHkI6--ks2kew6-Sm2dGGhAJ",
-    "news_item_snippet": "British rock band Coldplay on Sunday added a third show to the Mumbai leg of its &quot;Music Of The Spheres World Tour 2025&quot; citing &quot;phenomenal demand&quot;,&nbsp;...",
-    "news_item_url": "https://www.business-standard.com/india-news/coldplay-adds-third-mumbai-show-after-first-2-sell-out-within-minutes-124092200251_1.html",
-    "picture_source": "Business Today",
-    "approx_traffic": "1,000,000+"
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcT2zo-SwHBHQbSx7ixXHgIjM4Q6qgoV_ecb4IYiPgrge4eaAJh-XeOOpMXHRYFY7Y_9dcKs2ME6",
+    "news_item_snippet": "Ticket sales for Coldplay&#39;s concerts began on Sunday at noon, but shortly after, the online ticketing platform BookMyShow crashed, leaving many fans&nbsp;...",
+    "news_item_url": "https://www.businesstoday.in/india/story/coldplay-india-tour-2025-band-adds-3rd-mumbai-show-amid-ticket-chaos-on-bookmyshow-details-here-446947-2024-09-22",
+    "picture_source": "Business Standard",
+    "approx_traffic": "500,000+"
   },
   {
     "country": "India",
@@ -283,21 +303,11 @@
     "country": "India",
     "title": "Rishabh Pant",
     "pubDate": "Sat, 21 Sep 2024 14:30:00 +0530",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRyo0HQGQ-0UDLzoA9VuLHIgxTZkXY4Eq8Jbj4dphofg9iX79ZIsIdl7El0vP1YelLicdFQd7gb",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSUBHh9k85klXt3VMVzUrLsmX-B6uCfPwZ-H9pvEZbOLp6l974G_2T1dafSNBEwkhHRYf7-AC19",
     "news_item_snippet": "Smarts? Check. Innovation? Check. Banter? Yes sir. It was all so familiar that it took until he brought up three figures for the reality of his arduous&nbsp;...",
     "news_item_url": "https://www.espncricinfo.com/story/ind-vs-ban-1st-test-rishabh-pant-is-back-was-he-really-away-1452111",
     "picture_source": "NDTVSports.com",
     "approx_traffic": "100,000+"
-  },
-  {
-    "country": "India",
-    "title": "Afghanistan vs South Africa",
-    "pubDate": "Fri, 20 Sep 2024 17:30:00 +0530",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTy2a3tMVjIeDGJ1vTaDHCpl_MwPt0qiDoySb3bI_vBPaT9vaz-P_bvSOi3JUt0vhQqtgbehs2P",
-    "news_item_snippet": "Playing in their first-ever bilateral ODI series against South Africa, Afghanistan took an unassailable 2-0 lead in the second match in Sharjah.",
-    "news_item_url": "https://www.icc-cricket.com/news/afghanistan-seal-historic-odi-series-win-against-south-africa",
-    "picture_source": "ESPNcricinfo.com",
-    "approx_traffic": "1,000,000+"
   },
   {
     "country": "Argentina",
@@ -307,6 +317,16 @@
     "news_item_snippet": "TALLERES derrot\u00f3 2-0 a RACING por la fecha 15 de la LIGA PROFESIONAL con los goles de Valent\u00edn Depietri y Cristian Tarragona y qued\u00f3 como escolta de V\u00e9lez.",
     "news_item_url": "https://www.elgrafico.com.ar/articulo/primera-division/81627/con-uno-menos-talleres-le-dio-otro-cachetazo-a-racing",
     "picture_source": "TyC Sports",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "Argentina",
+    "title": "Maria Becerra",
+    "pubDate": "Sun, 22 Sep 2024 22:00:00 -0300",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTvYv_zUDQ4I7GMuNvVCl_QGdjtiXCPI6HIS72ZqAmv9wYN7Xw_j5Xg4vxql07kVZNMo40oitCa",
+    "news_item_snippet": "Durante el primer programa de la diva, la &#39;Nena de Argentina&#39; vivi\u00f3 un inc\u00f3modo momento al ser confundida con su colega, la Triple T; la reacci\u00f3n del&nbsp;...",
+    "news_item_url": "https://www.lanacion.com.ar/espectaculos/susana-gimenez-confundio-a-maria-becerra-con-tini-stoessel-y-el-publico-reacciono-nid23092024/",
+    "picture_source": "Infobae.com",
     "approx_traffic": "100,000+"
   },
   {
@@ -347,16 +367,6 @@
     "news_item_snippet": "En el Estadio Jos\u00e9 Fierro, el Pirata venci\u00f3 por 4-2 al Decano en el marco de la fecha 15 de la Liga Profesional.",
     "news_item_url": "https://www.tycsports.com/liga-profesional-de-futbol/atletico-tucuman-vs-belgrano-en-vivo-hora-donde-ver-y-formaciones-id609152.html",
     "picture_source": "Clar\u00edn.com",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Argentina",
-    "title": "Paredes",
-    "pubDate": "Sun, 22 Sep 2024 22:00:00 -0300",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSD8C2jR1124sH2C2ppxdxhvl9qs_08_JuQulBCIc7AzsTR3JzpPlOgFUOA3n4ahxKQUWo1AXTa",
-    "news_item_snippet": "De izquierda a derecha: Jorgelina Aruzzi, Juan Pablo Varsky, Susana Gim\u00e9nez, Pablo Giralt y Nicol\u00e1s V\u00e1zquez (Foto: Instagram/nicovazquezok).",
-    "news_item_url": "https://www.infobae.com/teleshow/2024/09/22/las-fotos-de-nicolas-vazquez-en-el-back-del-sketch-de-susana-gimenez-junto-a-de-paul-paredes-y-peter-lanzani-gente-que-quiero/",
-    "picture_source": "Ol\u00e9",
     "approx_traffic": "50,000+"
   },
   {
@@ -423,11 +433,11 @@
     "country": "Brazil",
     "title": "Cuiab\u00e1 x Cruzeiro",
     "pubDate": "Sun, 22 Sep 2024 16:00:00 -0500",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRNKSKS9IQXbDd8aGdcW0kWmWFlctu_zXWVJUEUHMEl2yAflmFkvMqutXGEb8gpUBdvZycjqtd2",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRCurSqLdjjqSdAPSH1K0YSF8UoScktTX8oJPgFTUUmD9TfzfmCuYr9iznKxJL66fl6Ksdv5s8n",
     "news_item_snippet": "Em situa\u00e7\u00f5es distintas na tabela, Cuiab\u00e1 e Cruzeiro medem for\u00e7as neste domingo (22), \u00e0s 18h30 (de Bras\u00edlia), na Arena Cuiab\u00e1, pela 27\u00aa rodada do Brasileir\u00e3o&nbsp;...",
     "news_item_url": "https://www.espn.com.br/futebol/brasileirao/artigo/_/id/14199298/cuiaba-x-cruzeiro-onde-assistir-ao-vivo-horario-palpites-provaveis-escalacoes",
     "picture_source": "ESPN.com.br",
-    "approx_traffic": "100,000+"
+    "approx_traffic": "200,000+"
   },
   {
     "country": "Brazil",
@@ -441,12 +451,32 @@
   },
   {
     "country": "Brazil",
+    "title": "Mariah Carey",
+    "pubDate": "Sun, 22 Sep 2024 22:00:00 -0500",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTudpx-SnEQgXLyJp5-Tl6AbIREFNjubbeCw11GEdf6f86OD5GGeTJKYD8OJ2jYLR_bLjPWXClF",
+    "news_item_snippet": "O momento finalmente chegou neste domingo (22) e a diva surgiu em um vestido cravejado de cristais, com a bandeira do Brasil, no Palco Sunset. Ao som do hit &quot;&nbsp;...",
+    "news_item_url": "https://gshow.globo.com/tudo-mais/rock-in-rio/2024/noticia/rock-in-rio-mariah-carey-veste-bandeira-do-brasil-em-show.ghtml",
+    "picture_source": "G1",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Brazil",
     "title": "Diddy",
     "pubDate": "Sun, 22 Sep 2024 19:00:00 -0500",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcR-t4R_v7wfQ2X-J0hGcaENcq-nPPbwex5XDdKpfs8zYceR5BaVFimv3DB-QlYQX2u5K7XAmWt1",
-    "news_item_snippet": "A pris\u00e3o do rapper e empres\u00e1rio Sean &#39;Diddy&#39; Combs, sob a acusa\u00e7\u00e3o de ter abusado, amea\u00e7ado e coagido mulheres e outras pessoas ao seu redor, tem gerado uma&nbsp;...",
-    "news_item_url": "https://diariodonordeste.verdesmares.com.br/entretenimento/zoeira/50-cent-kesha-e-outras-celebridades-comentam-acusacao-contra-diddy-confira-1.3561041",
+    "news_item_snippet": "A liga\u00e7\u00e3o entre Jay-Z e Diddy no meio de acusa\u00e7\u00f5es graves Nos \u00faltimos meses, o nome de Sean &quot;Diddy&quot; Combs tem estado no centro de um dos maiores.",
+    "news_item_url": "https://www.mixvale.com.br/2024/09/22/jay-z-e-diddy-relacao-conturbada-em-meio-a-escandalos-legais-e-subpoenas/",
     "picture_source": "Hugo Gloss",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Brazil",
+    "title": "Bayer Leverkusen",
+    "pubDate": "Sun, 22 Sep 2024 10:00:00 -0500",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQ2IHT0j6WhVxS4AbsDZjyU9OXnWH5gKKrYERsxbGmWV1h6Z-D4dBUMoUJiM47-_5Puvb2R6WzK",
+    "news_item_snippet": "Neste domingo, 22 de setembro de 2024, Bayer Leverkusen e Wolfsburg entram em campo pela quarta rodada da Bundesliga, em uma partida que promete ser.",
+    "news_item_url": "https://www.mixvale.com.br/2024/09/22/bayer-leverkusen-x-wolfsburg-onde-assistir-escalacao-e-tudo-sobre-o-duelo-da-bundesliga/",
+    "picture_source": "GauchaZH",
     "approx_traffic": "50,000+"
   },
   {
@@ -477,6 +507,16 @@
     "news_item_snippet": "John Stones&#39; equaliser eight minutes into added time earned City a 2-2 draw in an explosive encounter at the Etihad.",
     "news_item_url": "https://www.mancity.com/news/mens/manchester-city-v-arsenal-match-report-22-september-63862614",
     "picture_source": "Arsenal.com",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Canada",
+    "title": "Toronto Maple Leafs",
+    "pubDate": "Sun, 22 Sep 2024 20:00:00 -0400",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRgOa3siBI_rkx9q8w1kyl3etHg24Hcd-vykRtgvz35FxXqWmHGQM_cKaHBNDrOipuJeukimmww",
+    "news_item_snippet": "Head Coach Craig Berube speaks with the media following the Leafs&#39; 6-5 OT loss to the Ottawa Senators on Sunday.",
+    "news_item_url": "https://www.nhl.com/mapleleafs/video/craig-berube-post-game-6362327211112",
+    "picture_source": "Ottawa Senators",
     "approx_traffic": "50,000+"
   },
   {
@@ -513,10 +553,10 @@
     "country": "France",
     "title": "OM",
     "pubDate": "Sun, 22 Sep 2024 18:00:00 +0200",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRMhEyvZQoJ8DradsRYjwq7SpAaQNTh7s2GNM05JSE4I2Bnzs5Q2tscOjbWdcfoD_JouttAK8kt",
-    "news_item_snippet": "Exceptionnel OM, exceptionnel sc\u00e9nario: A 10 tout au long du match, sanctionn\u00e9 d&#39;un penalty et men\u00e9 au score \u00e0 l&#39;heure de jeu, l&#39;OM a tout de m\u00eame r\u00e9ussi \u00e0&nbsp;...",
-    "news_item_url": "https://information.tv5monde.com/sport/ligue-1-lom-cest-fou-fou-fou-2740965",
-    "picture_source": "Ouest-France",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTd_Cv6Uz-COpe9bBYW7kNeuFfhskXp2Tw3sVsnbh60FVIY8swCP-95YXg7e2JsP8ssvVIJDVbM",
+    "news_item_snippet": "Le conseiller sportif du pr\u00e9sident marseillais Pablo Longoria, Mehdi Benatia, s&#39;est emport\u00e9 contre M. Bastien \u00e0 la mi-temps du match entre Lyon et Marseille&nbsp;...",
+    "news_item_url": "https://www.ouest-france.fr/sport/football/olympique-de-marseille/video-ol-om-mehdi-benatia-semporte-contre-larbitrage-a-la-mi-temps-4e82d02a-7924-11ef-baa4-02fdc42b3515",
+    "picture_source": "L'\u00c9quipe.fr",
     "approx_traffic": "200,000+"
   },
   {
@@ -564,8 +604,8 @@
     "title": "VfB Stuttgart \u2013 Dortmund",
     "pubDate": "Sun, 22 Sep 2024 18:00:00 +0200",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcStDug-oBpAnsoYQrzlUTBGjIXb11NGHN7F6EXXAl0pMAZ3AWvRiga7DZF5rmHwQcjpww7kejlS",
-    "news_item_snippet": "Vize-Meister VfB Stuttgart hat Borussia Dortmund eine denkw\u00fcrdige Niederlage beschert. Der BVB geht im Bundesliga-Sonntagsspiel sang- und klanglos unter.",
-    "news_item_url": "https://www.prosieben.de/serien/newstime/news/schiessbude-dortmund-der-vfb-stuttgart-deklassiert-den-bvb-435671",
+    "news_item_snippet": "Bitterer Abend f\u00fcr Borussia Dortmund: Beim VfB Stuttgart verlor der BVB mit 1:5. Hier ist der Live-Ticker zum Nachlesen.",
+    "news_item_url": "https://www.waz.de/sport/borussia-dortmund/article407307895/borussia-dortmund-heute-live-topspiel-beim-vfb-stuttgart.html",
     "picture_source": "VfB Stuttgart",
     "approx_traffic": "200,000+"
   },
@@ -611,16 +651,6 @@
   },
   {
     "country": "Italy",
-    "title": "Paola Marella malattia",
-    "pubDate": "Sun, 22 Sep 2024 00:00:00 +0200",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQauHb9h6NMt4WkEhUnafCsCPd6EQy07Js6Fm5sQO0dEx-AqKnvTj-j2lmtEhX_Cek7q7ykPOK-",
-    "news_item_snippet": "Aveva 61 anni e da tempo era stata colpita da un tumore al seno. Tanti gli amici e colleghi che l&#39;hanno omaggiata sul web.",
-    "news_item_url": "https://www.repubblica.it/spettacoli/2024/09/21/news/morta_paola_marella_conduttrice_tv_architetto_e_star_di_real_time-423514121/",
-    "picture_source": "Corriere della Sera",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "Italy",
     "title": "Monza-Bologna",
     "pubDate": "Sun, 22 Sep 2024 15:00:00 +0200",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQG-U8jmizCVkVcqFLVQmPCl8VUbWv__M5PuUWc_zqtLVahZbBHS7uqYgua0PecOZS90COHo33l",
@@ -653,10 +683,10 @@
     "country": "Mexico",
     "title": "Pumas",
     "pubDate": "Sun, 22 Sep 2024 11:00:00 -0600",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSgO4cRmn7dxGPAF17t3Bip873ggrAe_whcQXf4vRxVCX37n9K3uyXkiQ3HH18pxqXzv8nG6J39",
-    "news_item_snippet": "El delantero que marc\u00f3 el gol del triunfo para Pumas al minuto 88, aunque una noche antes durmi\u00f3 en el hospital.",
-    "news_item_url": "https://www.espn.com.mx/futbol/mexico/nota/_/id/14211908/pumas-ignacio-pussetto-gol-tijuana-durmio-hospital",
-    "picture_source": "ESPN",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcR4WT-3lP_El_CI8Os7Z3WO0pqeGOXzXvhnOECb4H9iLAPjpxhbMIgvlrGHAuRMomjGdQz1XMen",
+    "news_item_snippet": "Los universitarios buscan sumar su segunda victoria consecutiva y desplazar en la tabla de posiciones de Apertura 2024 a Xolos. | TUDN Liga MX | TUDN.",
+    "news_item_url": "https://www.tudn.com/futbol/liga-mx/pumas-vs-tijuana-horario-donde-ver-partido-jornada-9-liga-mx",
+    "picture_source": "AS Mexico",
     "approx_traffic": "100,000+"
   },
   {
@@ -673,7 +703,7 @@
     "country": "Mexico",
     "title": "Manchester City - Arsenal",
     "pubDate": "Sun, 22 Sep 2024 09:00:00 -0600",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRI2do6QmnzcMiAfKk2xKsZW7cRtcIAhq3UKiWR4n_8aBBSuUnw_5HNiKIjjRBElW1s8wxUMZad",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTQcvSldCP1jk6-zmIfCr0OChgeSa2-evspaFcKgcF4QRkJGSDxC7yRnXnHOI2M68EOsNDvIkBZ",
     "news_item_snippet": "Juego Manchester City - Arsenal En Vivo Online: minuto a minuto del equipo de Pep Guardiola hoy, desde el Etihad Stadium.",
     "news_item_url": "https://www.marca.com/mx/futbol/m-city-arsenal/2024/09/22/01_0106_20240922_43_3-directo.html",
     "picture_source": "AS",
@@ -688,6 +718,16 @@
     "news_item_url": "https://www.record.com.mx/futbol-liga-mx-juarez-fc-tigres/juarez-fc-vs-tigres-en-vivo-online-liga-mx-jornada-9-apertura-2024",
     "picture_source": "MARCA.com",
     "approx_traffic": "100,000+"
+  },
+  {
+    "country": "Mexico",
+    "title": "Santos - Toluca",
+    "pubDate": "Sun, 22 Sep 2024 14:00:00 -0600",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSLNuShp2A-i5PER0T7u_T6QiYUOUh7gA3rFm52N344ipu5dK-KC1nzGmDO8ukvABKU60Ik_9ww",
+    "news_item_snippet": "Los Diablos suman cinco triunfos y tres empates en este arranque de la temporada. A pesar de que no han perdido, el equipo tiene un punto menos que los l\u00edderes.",
+    "news_item_url": "https://www.record.com.mx/futbol-liga-mx-santos-toluca/santos-vs-toluca-en-vivo-online-liga-mx-jornada-9-apertura-2024",
+    "picture_source": "MARCA.com",
+    "approx_traffic": "50,000+"
   },
   {
     "country": "Mexico",
@@ -707,7 +747,7 @@
     "news_item_snippet": "Ter Stegen sufre una lesi\u00f3n en el tend\u00f3n rotuliano de la rodilla derecha que le har\u00e1 perderse lo que queda de temporada | Raphinha y Lewandoswki anotaron&nbsp;...",
     "news_item_url": "https://elpais.com/deportes/futbol/2024-09-22/villarreal-barcelona-en-directo-partido-de-la-liga-en-vivo.html",
     "picture_source": "RTVE",
-    "approx_traffic": "500,000+"
+    "approx_traffic": "200,000+"
   },
   {
     "country": "Spain",
@@ -733,7 +773,7 @@
     "country": "Spain",
     "title": "Manchester City - Arsenal",
     "pubDate": "Sun, 22 Sep 2024 17:00:00 +0200",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRI2do6QmnzcMiAfKk2xKsZW7cRtcIAhq3UKiWR4n_8aBBSuUnw_5HNiKIjjRBElW1s8wxUMZad",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTQcvSldCP1jk6-zmIfCr0OChgeSa2-evspaFcKgcF4QRkJGSDxC7yRnXnHOI2M68EOsNDvIkBZ",
     "news_item_snippet": "FINAL. FINAL. FINAAAAAAAAL. Se vuelve completamente loco Haaland. GOOOOOOOOOOOOOL DEL CITY. STONES ACABA CON LA RESISTENCIA DEL ARSENAL. C\u00f3rner para e.",
     "news_item_url": "https://www.marca.com/futbol/premier-league/m-city-arsenal/2024/09/22/01_0106_20240922_43_3-directo.html",
     "picture_source": "AS",
@@ -747,6 +787,16 @@
     "news_item_snippet": "95 &#39; \u00a1Se acab\u00f3! Reparto de puntos en este derbi. Adelant\u00f3 Jorge S\u00e1enz a los &#39;pepineros&#39;, pero cometi\u00f3 despu\u00e9s penalti sobre Rico y empat\u00f3 el duelo Borja&nbsp;...",
     "news_item_url": "https://www.lavanguardia.com/deportes/futbol/20240922/6348/getafe-leganes-laliga-primera-division-ca-en-directo-ctx.html",
     "picture_source": "MARCA",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Spain",
+    "title": "Ter Stegen",
+    "pubDate": "Sun, 22 Sep 2024 20:00:00 +0200",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQzyjcrWj8Fd1wrS81Hu-SibkFgdpPKgO29QToCC6NpHLLSSEyJHlbIF79ZSm1XVYWoE9vbesvy",
+    "news_item_snippet": "La lesi\u00f3n del portero del Barcelona, Ter Stegen, es una imagen desgarradora que, m\u00e1s all\u00e1 del resultado final, golpea de nuevo al Bar\u00e7a.",
+    "news_item_url": "https://as.com/futbol/fotorrelato/terrible-lesion-de-ter-stegen-f/",
+    "picture_source": "UDLasPalmas.net",
     "approx_traffic": "50,000+"
   },
   {
@@ -777,7 +827,17 @@
     "news_item_snippet": "John Stones&#39; equaliser eight minutes into added time earned City a 2-2 draw in an explosive encounter at the Etihad.",
     "news_item_url": "https://www.mancity.com/news/mens/manchester-city-v-arsenal-match-report-22-september-63862614",
     "picture_source": "Arsenal.com",
-    "approx_traffic": "500,000+"
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "United Kingdom",
+    "title": "Man City",
+    "pubDate": "Sun, 22 Sep 2024 18:00:00 +0100",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTEBlso29uvuBwfW4q4Tx1AuL5XaXin3M9X01MIEMYKQklhrtIYcaJP2tksRmJ5ruFrnuXeZGXM",
+    "news_item_snippet": "9 mins: Erling Haaland scores his 100th Manchester City goal, on his 105th appearance. Savinho slips him in with a well-weighted ball between two defenders and&nbsp;...",
+    "news_item_url": "https://www.irvinetimes.com/sport/national/24601837.premier-league-title-rivals-man-city-arsenal-serve-thriller---key-moments/",
+    "picture_source": "Arsenal.com",
+    "approx_traffic": "200,000+"
   },
   {
     "country": "United Kingdom",
@@ -791,32 +851,22 @@
   },
   {
     "country": "United Kingdom",
-    "title": "Celtic",
-    "pubDate": "Sun, 22 Sep 2024 15:00:00 +0100",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTk_vZQ48oV0P25HTojLh2CTreMMAG2p1NciZ_wMclfl70J7PC0ZO7xJnTtsjwiYVqucuYA-xvt",
-    "news_item_snippet": "Report as Celtic beat Falkirk 5-2 to reach the League Cup semi-finals; Ross MacIver gave the Bairns a shock lead; Paulo Bernardo equalised before Finn Yeats&nbsp;...",
-    "news_item_url": "https://www.skysports.com/football/celtic-vs-falkirk/report/521256",
-    "picture_source": "Irvine Times",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "United Kingdom",
-    "title": "Arsenal vs Man City",
-    "pubDate": "Sun, 22 Sep 2024 13:00:00 +0100",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTEBlso29uvuBwfW4q4Tx1AuL5XaXin3M9X01MIEMYKQklhrtIYcaJP2tksRmJ5ruFrnuXeZGXM",
-    "news_item_snippet": "Get all the pre-match stats, team news, quotes, TV coverage and more in our essential matchday guide to the big game.",
-    "news_item_url": "https://www.arsenal.com/news/preview-man-city-v-arsenal",
-    "picture_source": "Arsenal.com",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United Kingdom",
     "title": "Man Utd",
     "pubDate": "Sun, 22 Sep 2024 15:00:00 +0100",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQxI3wUhSo5bnpO6NbiwSWmVkjfQ4HS3gKPai4z5hOWMecCxA8Rw6sg0JOBCG_2Ah1_SoR-KlzN",
     "news_item_snippet": "Man Utd legend Cristiano Ronaldo has hit out at &quot;two rats&quot; who criticised him during Portugal&#39;s disappointing Euro 2024 campaign.",
     "news_item_url": "https://www.football365.com/news/cristiano-ronaldo-man-utd-tears-two-rats-euro-2024-portugal",
     "picture_source": "PlanetFootball",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United Kingdom",
+    "title": "Celtic",
+    "pubDate": "Sun, 22 Sep 2024 17:00:00 +0100",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTk_vZQ48oV0P25HTojLh2CTreMMAG2p1NciZ_wMclfl70J7PC0ZO7xJnTtsjwiYVqucuYA-xvt",
+    "news_item_snippet": "Report as Celtic beat Falkirk 5-2 to reach the League Cup semi-finals; Ross MacIver gave the Bairns a shock lead; Paulo Bernardo equalised before Finn Yeats&nbsp;...",
+    "news_item_url": "https://www.skysports.com/football/celtic-vs-falkirk/report/521256",
+    "picture_source": "Irvine Times",
     "approx_traffic": "50,000+"
   }
 ]
