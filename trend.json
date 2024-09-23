@@ -21,16 +21,6 @@
   },
   {
     "country": "United States",
-    "title": "Eagles",
-    "pubDate": "Sun, 22 Sep 2024 10:00:00 -0700",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRPvLksS1GPcLF1cfTZ1FfMWk1HOup6hBIJ5xtgavoDlhdoS1IqA6yhasLVk8mJHaf58WgBEru_",
-    "news_item_snippet": "On Pattison&#39;s Tim Kelly gives five takeaways from the Eagles&#39; Week 3 tilt with the Saints.",
-    "news_item_url": "https://northpennnow.com/news/2024/sep/22/eagles-takeaways/",
-    "picture_source": "PhiladelphiaEagles.com",
-    "approx_traffic": "1,000,000+"
-  },
-  {
-    "country": "United States",
     "title": "Ravens vs Cowboys",
     "pubDate": "Sun, 22 Sep 2024 13:00:00 -0700",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTXGGiZ8Igam236UYQ9kxR3VoNmbWZ8PH9Mefq2SocmAB8Z2O1KJf5fqdH7AoEcx18CFVfzB6vf",
@@ -51,22 +41,32 @@
   },
   {
     "country": "United States",
-    "title": "49ers vs Rams",
-    "pubDate": "Sun, 22 Sep 2024 14:00:00 -0700",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQXFfo25ggchYV-epoZCwlhz4caGsFArpeFgQeRTH-2Wfnh5aBNz0Whhay48Boir7IOZ0EMyddA",
-    "news_item_snippet": "The Los Angeles Rams avoided a dreaded 0-3 start on Sunday by beating the San Francisco 49ers in dramatic fashion. They came back from a 10-point&nbsp;...",
-    "news_item_url": "https://theramswire.usatoday.com/gallery/rams-49ers-photos-week-3-sofi-stadium/",
-    "picture_source": "Niner Noise",
+    "title": "Eagles vs Saints",
+    "pubDate": "Sun, 22 Sep 2024 10:00:00 -0700",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRPvLksS1GPcLF1cfTZ1FfMWk1HOup6hBIJ5xtgavoDlhdoS1IqA6yhasLVk8mJHaf58WgBEru_",
+    "news_item_snippet": "Recap the New Orleans Saints vs. Philadelphia Eagles game from Week 3 of the 2024 NFL season. Summary of the game&#39;s key moments and final score.",
+    "news_item_url": "https://www.neworleanssaints.com/game-day/2024/reg-week3/eagles-at-saints/recap",
+    "picture_source": "PhiladelphiaEagles.com",
+    "approx_traffic": "500,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Eagles",
+    "pubDate": "Sun, 22 Sep 2024 11:00:00 -0700",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRz92jCbbnmcvfaq5kk8yNq1eho5nLRHhak8KZ7o4suVWDOTuQe6Vukk2Pjx7EQi4k5oNnE2Rkk",
+    "news_item_snippet": "Eden Prairie&#39;s Gavin Walden (9) puts a stop to Shakopee running back Emmanuel Taye (6) in the Eagles&#39; 29-7 loss to the Sabers on Friday. Photo by Rick Olson.",
+    "news_item_url": "https://www.eplocalnews.org/2024/09/23/eagles-fall-to-undefeated-shakopee/",
+    "picture_source": "Eden Prairie Local News",
     "approx_traffic": "200,000+"
   },
   {
     "country": "United States",
-    "title": "Chargers vs Steelers",
-    "pubDate": "Sun, 22 Sep 2024 10:00:00 -0700",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQZXKxqwQRoSdxI9wENPNWpkWGOIeFNb5OULj-3IAuXF6PfV6TG8GWJ60vr-NwUpeOQ31WRXwih",
-    "news_item_snippet": "Herbert did not play the entire fourth quarter as the Chargers (2-1) lost for the first time.",
-    "news_item_url": "https://www.nbcnews.com/news/sports/chargers-qb-justin-herbert-leaves-loss-vs-steelers-early-ankle-injury-rcna172160",
-    "picture_source": "Chargers Wire",
+    "title": "Panthers vs Raiders",
+    "pubDate": "Sun, 22 Sep 2024 14:00:00 -0700",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQzDNGJvbZgwIPAfJX2t1z3VIWi0u4VxsqK5K3rjc55pfMgRKdI7Egx5_6KibGNIfmLiE8xq2MO",
+    "news_item_snippet": "The Raiders&#39; lone touchdown of the first half capped off a 10-play, 97-yard drive \u2013 the team&#39;s second drive of 90+ yards since the start of the 2022 season.",
+    "news_item_url": "https://www.raiders.com/news/halftime-report-raiders-trail-panthers-in-home-opener-nfl-week-3",
+    "picture_source": "Panthers.com",
     "approx_traffic": "200,000+"
   },
   {
@@ -81,6 +81,26 @@
   },
   {
     "country": "United States",
+    "title": "49ers vs Rams",
+    "pubDate": "Sun, 22 Sep 2024 14:00:00 -0700",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTToioHHhfuMDmpqcO62r-6E18TjpIRbKRVLtfF-ZYSxOrUkFmLOGBzHxPL7U5REQg6dx9mz0LQ",
+    "news_item_snippet": "The 49ers visit the Rams in Week 3, and fans may want to tune into the radio broadcast for this NFC West showdown.",
+    "news_item_url": "https://ninernoise.com/posts/listen-49ers-rams-nfl-week-game-radio",
+    "picture_source": "49ers.com",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Chargers vs Steelers",
+    "pubDate": "Sun, 22 Sep 2024 10:00:00 -0700",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSCyCJ-TIpvOUm3hvgNqT87WAeYRiG6066RlrtEA69IaWac_V86Qay1eiUBOUdu6uqGv8rtyi_I",
+    "news_item_snippet": "Herbert did not play the entire fourth quarter as the Chargers (2-1) lost for the first time.",
+    "news_item_url": "https://www.nbcnews.com/news/sports/chargers-qb-justin-herbert-leaves-loss-vs-steelers-early-ankle-injury-rcna172160",
+    "picture_source": "Yahoo Sports",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "United States",
     "title": "Miami Dolphins",
     "pubDate": "Sun, 22 Sep 2024 14:00:00 -0700",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSsLH8y-jYfwlXziKFPQJlS8Uq6eRAphP93bLuRB6Uu77dP-mqq6vN5muFwaIFPQaDHeEIrr1vd",
@@ -91,12 +111,22 @@
   },
   {
     "country": "United States",
-    "title": "Panthers vs Raiders",
-    "pubDate": "Sun, 22 Sep 2024 14:00:00 -0700",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQzDNGJvbZgwIPAfJX2t1z3VIWi0u4VxsqK5K3rjc55pfMgRKdI7Egx5_6KibGNIfmLiE8xq2MO",
-    "news_item_snippet": "Andy Dalton and the Carolina Panthers dominated the Las Vegas Raiders in a blowout 36-22 road win on Sunday in Week 3 of the 2024 NFL season.",
-    "news_item_url": "https://www.charlotteobserver.com/sports/nfl/carolina-panthers/article292358729.html",
-    "picture_source": "Panthers.com",
+    "title": "Broncos vs Buccaneers",
+    "pubDate": "Sun, 22 Sep 2024 11:00:00 -0700",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQjj45_SJT1l3OSR9xz7Lgkyy33y-IsbasVkQZoLZQJYlpOJ7Od3nf0VNIeP8X-QMP5U5evcWfT",
+    "news_item_snippet": "The Bucs will be without starting defensive linemen Vita Vea and Calijah Kancey for their Week Three matchup with the Broncos.",
+    "news_item_url": "https://www.buccaneers.com/news/broncos-bucs-inactives-tampa-bay-without-vea-kancey",
+    "picture_source": "DenverBroncos.com",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Hurricane tracker",
+    "pubDate": "Sun, 22 Sep 2024 16:00:00 -0700",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcT_6wnwxohk2ax6bcnayiCl_oKGMiSZd2sTchRblQhn25uIAhOdVcxAUkBa_BPaTJbLNMt1J5Vd",
+    "news_item_snippet": "The National Hurricane Center said Monday it is tracking a system in the Gulf of Mexico that could become Tropical Storm Helene in the coming days.",
+    "news_item_url": "https://www.usatoday.com/story/news/weather/2024/09/23/hurricane-tropical-storm-tracker/75344688007/",
+    "picture_source": "ABC News",
     "approx_traffic": "200,000+"
   },
   {
@@ -107,16 +137,6 @@
     "news_item_snippet": "Backup QB Malik Willis comes back to Tennessee and wins second straight start.",
     "news_item_url": "https://www.packers.com/news/packers-titans-in-game-updates-week-3-2024",
     "picture_source": "Titansonline.com",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Hurricane tracker",
-    "pubDate": "Sun, 22 Sep 2024 16:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQOXS3AnEqYfIvIuZBdRuUWRiFfkB4dxnBe85iAhnGI1gPCLKtRy9guyD4ihnQ_Jik3IWvr6OAF",
-    "news_item_snippet": "The National Hurricane Center said Monday it is tracking a system in the Gulf of Mexico that could become Tropical Storm Helene in the coming days.",
-    "news_item_url": "https://www.usatoday.com/story/news/weather/2024/09/23/hurricane-tropical-storm-tracker/75344688007/",
-    "picture_source": "ABC News",
     "approx_traffic": "200,000+"
   },
   {
@@ -161,43 +181,13 @@
   },
   {
     "country": "United States",
-    "title": "Andy Dalton",
-    "pubDate": "Sun, 22 Sep 2024 14:00:00 -0700",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcS_ufqVTQzRKPN1JYi1HHes5igF46JkSwhheL_X5dG6hl9jtSRdvrPxDWVQGxeI1KA1918xHMRZ",
-    "news_item_snippet": "LAS VEGAS (WBTV) - The&nbsp;...",
-    "news_item_url": "https://www.wbtv.com/2024/09/22/andy-dalton-panthers-offense-impressive-win-over-raiders/",
-    "picture_source": "Panthers.com",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Carson Steele",
-    "pubDate": "Sun, 22 Sep 2024 18:00:00 -0700",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSSG1KvislqxvtwSdvmbcgZIN0pSFhIAfcBoA85xTyvqJQBSCDwe3eoNKsJiADV-l5FoyeQqHk9",
-    "news_item_snippet": "The Chiefs have a reliable new face in the backfield to count on going forward.",
-    "news_item_url": "https://arrowheadaddict.com/posts/carson-steele-passes-latest-test-with-flying-colors-for-chiefs-in-week-3-01j8feexqes8",
-    "picture_source": "Chiefs Digest",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
     "title": "Derrick Henry",
     "pubDate": "Sun, 22 Sep 2024 16:00:00 -0700",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSY9f2vdo8c4YJks9kru-Rm8c4TE9bUrjZa57iYydKxcX7oDdsYkg1d2WcLzpUh8453TRNGRvjR",
     "news_item_snippet": "The Cowboys delayed extensions for other players and a lack of focus on the running back position has backfired so far.",
     "news_item_url": "https://www.cbssports.com/nfl/news/jerry-jones-says-cowboys-couldnt-afford-derrick-henry-after-ravens-rb-runs-all-over-dallas/",
     "picture_source": "BaltimoreRavens.com",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Saints vs Eagles",
-    "pubDate": "Sun, 22 Sep 2024 11:00:00 -0700",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRPvLksS1GPcLF1cfTZ1FfMWk1HOup6hBIJ5xtgavoDlhdoS1IqA6yhasLVk8mJHaf58WgBEru_",
-    "news_item_snippet": "Recap the New Orleans Saints vs. Philadelphia Eagles game from Week 3 of the 2024 NFL season. Summary of the game&#39;s key moments and final score.",
-    "news_item_url": "https://www.neworleanssaints.com/game-day/2024/reg-week3/eagles-at-saints/recap",
-    "picture_source": "PhiladelphiaEagles.com",
-    "approx_traffic": "50,000+"
+    "approx_traffic": "100,000+"
   },
   {
     "country": "India",
@@ -211,6 +201,46 @@
   },
   {
     "country": "India",
+    "title": "Hardik Pandya",
+    "pubDate": "Mon, 23 Sep 2024 19:30:00 +0530",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSj1_XjQzonLGwtH-IpRoD2Bu2BXGFbdTqGI4w9BOV4gZWiiod8Y3Mi8BZ-pjrmJ8cJSnjgY2WJ",
+    "news_item_snippet": "Hardik Pandya: \u0c08\u0c38\u0c3e\u0c30\u0c3f \u0c30\u0c02\u0c1c\u0c40 \u0c1f\u0c4d\u0c30\u0c4b\u0c2b\u0c40 \u0c1f\u0c4b\u0c30\u0c4d\u0c28\u0c40 \u0c05\u0c15\u0c4d\u0c1f\u0c4b\u0c2c\u0c30\u0c4d 11 \u0c28\u0c41\u0c02\u0c1a\u0c3f \u0c2a\u0c4d\u0c30\u0c3e\u0c30\u0c02\u0c2d\u0c02 \u0c15\u0c3e\u0c28\u0c41\u0c02\u0c26\u0c3f. \u0c08 \u0c1f\u0c4b\u0c30\u0c4d\u0c28\u0c40\u0c32\u0c4b \u0c2c\u0c30\u0c4b\u0c21\u0c3e \u0c24\u0c30\u0c2a\u0c41\u0c28 \u0c39\u0c3e\u0c30\u0c4d\u0c26\u0c3f\u0c15\u0c4d \u0c2a\u0c3e\u0c02\u0c21\u0c4d\u0c2f\u0c3e \u0c06\u0c21\u0c47 \u0c05\u0c35\u0c15\u0c3e\u0c36\u0c02 \u0c09\u0c02\u0c26\u0c3f.",
+    "news_item_url": "https://tv9telugu.com/photo-gallery/cricket-photos/team-indias-allrounder-hardik-pandya-in-line-for-test-return-before-ind-vs-aus-series-1356753.html",
+    "picture_source": "TV9 Telugu",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "India",
+    "title": "Manba Finance IPO GMP",
+    "pubDate": "Mon, 23 Sep 2024 12:30:00 +0530",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTOZYIkhZN3__yJDpTpCwgILdgFdVs7sgJXuwVXYDET35BOuSoGW_7ov7Azl8PQ8k80txqOl9Uu",
+    "news_item_snippet": "Manba Finance IPO GMP is indicating a listing premium of over 53 percent in the unlisted market.",
+    "news_item_url": "https://www.moneycontrol.com/news/business/ipo/manba-finance-ipo-fully-subscribed-within-an-hour-of-opening-check-latest-gmp-and-other-key-details-12827631.html",
+    "picture_source": "Livemint",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "India",
+    "title": "Idea share price",
+    "pubDate": "Mon, 23 Sep 2024 05:30:00 +0530",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRwnEYEsxPJoWmfhRKq4z32dTYWNHF8ZZYivBCFobd0Tr0Wug0db0AFOYkv0sIsf5qdGNJkjxRb",
+    "news_item_snippet": "Vodafone Idea Share Price: Vodafone Idea&#39;s shares rose 8.3% after announcing $3.6 billion deals with Nokia, Ericsson, and Samsung for telecom equipment over&nbsp;...",
+    "news_item_url": "https://m.economictimes.com/markets/stocks/news/vodafone-idea-shares-surge-8-on-inking-3-6-billion-deal-with-nokia-ericsson-and-samsung/articleshow/113584689.cms",
+    "picture_source": "Livemint",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "India",
+    "title": "Mohun Bagan vs NorthEast United",
+    "pubDate": "Mon, 23 Sep 2024 19:30:00 +0530",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRB7ZgG3gmiB24Kti9C6WpiE2vH6wJywTTsZ1DacMkTHSFWaKpwVJaJYcA9iiTVM11xBbSkeobD",
+    "news_item_snippet": "Mohun Bagan Super Giant (MBSG) will play their second home game of the Indian Super League (ISL) against NorthEast United FC (NEUFC) in Kolkata on Monday.",
+    "news_item_url": "https://zeenews.india.com/other-sports/mbsg-vs-neufc-isl-2024-live-streaming-when-and-where-to-watch-mohun-bagan-super-giant-vs-northeast-united-fc-indian-super-league-match-live-on-tv-and-online-2797438.html",
+    "picture_source": "Sportstar",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "India",
     "title": "Man City vs Arsenal",
     "pubDate": "Sun, 22 Sep 2024 20:30:00 +0530",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSMzv-rLKW5mGSv9HHzHKZCW0rEqifZzMYj9_iwUYJuhBSEsd8vuvcez2T9W6RvUXaxJUOW654O",
@@ -218,6 +248,16 @@
     "news_item_url": "https://www.arsenal.com/fixture/arsenal/2024-Sep-22/manchester-city-2-2-arsenal-match-report",
     "picture_source": "Sportstar",
     "approx_traffic": "200,000+"
+  },
+  {
+    "country": "India",
+    "title": "Narendra Modi",
+    "pubDate": "Sun, 22 Sep 2024 07:30:00 +0530",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRdVcYb_0nA0vr93ED8q__kASNRklA52N_llhewABqsgj48it79Po7BglC7Rmz3FVX0VMuS48ZA",
+    "news_item_snippet": "Narendra Modi US visit highlights: The prime minister is addressing the Indian diaspora at Long Island&#39;s Nassau Coliseum.",
+    "news_item_url": "https://www.hindustantimes.com/india-news/narendra-modi-live-updates-pm-joins-hands-with-quad-leaders-to-fight-cervical-cancer-101726965531905.html",
+    "picture_source": "The Hindu",
+    "approx_traffic": "100,000+"
   },
   {
     "country": "India",
@@ -231,43 +271,13 @@
   },
   {
     "country": "India",
-    "title": "Narendra Modi",
-    "pubDate": "Sun, 22 Sep 2024 19:30:00 +0530",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRdVcYb_0nA0vr93ED8q__kASNRklA52N_llhewABqsgj48it79Po7BglC7Rmz3FVX0VMuS48ZA",
-    "news_item_snippet": "Narendra Modi US visit highlights: The prime minister is addressing the Indian diaspora at Long Island&#39;s Nassau Coliseum.",
-    "news_item_url": "https://www.hindustantimes.com/india-news/narendra-modi-live-updates-pm-joins-hands-with-quad-leaders-to-fight-cervical-cancer-101726965531905.html",
-    "picture_source": "The Hindu",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "India",
     "title": "Happy Daughter's Day 2024",
     "pubDate": "Sun, 22 Sep 2024 10:30:00 +0530",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSnJCDBNJqwA2bSsfFCVWgRWQFaxY6wJLqZoQJ01_MWtpmpcNjW8aXyuwu4_4tSfi55qe3US5m4",
-    "news_item_snippet": "Daughters Day Quotes: Daughter&#39;s Day 2024 is celebrated on September 22 worldwide. This day honors daughters and the joy they bring to families.",
-    "news_item_url": "https://m.economictimes.com/news/new-updates/happy-daughters-day-2024-quotes-best-100-heartfelt-wishes-for-daugthers-whatsapp-messages-facebook-status-in-english-for-daughters/articleshow/113564225.cms",
+    "news_item_snippet": "Originally, Daughter&#39;s Day was established to combat the stigma surrounding the birth of females and address customs such as female infanticide, dowry,&nbsp;...",
+    "news_item_url": "https://www.businesstoday.in/india/story/happy-daughters-day-2024-60-heartfelt-wishes-messages-and-whatsapp-texts-for-parents-to-share-with-their-daughters-446931-2024-09-22",
     "picture_source": "Jagran Josh",
     "approx_traffic": "50,000+"
-  },
-  {
-    "country": "India",
-    "title": "PM Modi",
-    "pubDate": "Sun, 22 Sep 2024 07:30:00 +0530",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRdVcYb_0nA0vr93ED8q__kASNRklA52N_llhewABqsgj48it79Po7BglC7Rmz3FVX0VMuS48ZA",
-    "news_item_snippet": "Prime Minister Narendra Modi&#39;s recent discussions with Nvidia CEO Jensen Huang underscore India&#39;s growing focus on artificial intelligence.",
-    "news_item_url": "https://www.businesstoday.in/technology/news/story/nvidia-ceo-jensen-huang-calls-pm-modi-an-incredible-student-says-company-is-ready-to-partner-with-india-447020-2024-09-23",
-    "picture_source": "The Hindu",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Argentina",
-    "title": "Tota santillan",
-    "pubDate": "Mon, 23 Sep 2024 01:00:00 -0300",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQHZvnbxPNC8CWPxyi5TednYFhA9rhBzozL2sjpHppkABphGHI1cjoG7m5-KlaFtVc8RbInbvZt",
-    "news_item_snippet": "El cantante y conductor de Pasi\u00f3n de s\u00e1bado fue encontrado muerto en su casa en la noche del domingo, seg\u00fan confirm\u00f3 su abogado; aun se desconocen los&nbsp;...",
-    "news_item_url": "https://www.lanacion.com.ar/espectaculos/murio-daniel-la-tota-santillan-a-los-57-anos-nid23092024/",
-    "picture_source": "Primer Plano Online",
-    "approx_traffic": "100,000+"
   },
   {
     "country": "Argentina",
@@ -277,6 +287,16 @@
     "news_item_snippet": "El gigante tecnol\u00f3gico reconoce al profesor alem\u00e1n.Mejor\u00f3 la vida de miles de personas ciegas alrededor del mundo.",
     "news_item_url": "https://www.clarin.com/internacional/google-homenajea-profesor-inventor-aleman-oskar-picht-diseno-primera-maquina-escribir-ciegos_0_jiLdryjKTG.html",
     "picture_source": "LA NACION",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "Argentina",
+    "title": "Tota santillan",
+    "pubDate": "Mon, 23 Sep 2024 01:00:00 -0300",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQHZvnbxPNC8CWPxyi5TednYFhA9rhBzozL2sjpHppkABphGHI1cjoG7m5-KlaFtVc8RbInbvZt",
+    "news_item_snippet": "El cantante y conductor de Pasi\u00f3n de s\u00e1bado fue encontrado muerto en su casa en la noche del domingo, seg\u00fan confirm\u00f3 su abogado; aun se desconocen los&nbsp;...",
+    "news_item_url": "https://www.lanacion.com.ar/espectaculos/murio-daniel-la-tota-santillan-a-los-57-anos-nid23092024/",
+    "picture_source": "Primer Plano Online",
     "approx_traffic": "100,000+"
   },
   {
@@ -311,6 +331,16 @@
   },
   {
     "country": "Argentina",
+    "title": "De Paul",
+    "pubDate": "Sun, 22 Sep 2024 22:00:00 -0300",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSIqUsitNFnK7OO1zP_dVNE_eVIiGK-7gsUryp5WgAsnQ-fgDUJsFDTfrwI2WyeQOOL6XgwXD0_",
+    "news_item_snippet": "Los deportistas le revelaron a Susana Gim\u00e9nez la raz\u00f3n por la que antes de cada partido con la selecci\u00f3n argentina deciden comer golosinas durante el&nbsp;...",
+    "news_item_url": "https://www.lanacion.com.ar/deportes/rodrigo-de-paul-y-leandro-paredes-contaron-con-lujo-de-detalles-como-es-la-cabala-de-los-caramelos-nid22092024/",
+    "picture_source": "LA NACION",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "Argentina",
     "title": "Atl\u00e9tico Tucum\u00e1n  Belgrano",
     "pubDate": "Sun, 22 Sep 2024 13:00:00 -0300",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSj6hFwlNBQPLBz8lVqspqg2ZT0W0VGO1U1NnYI6rOHi3-EUW8xiN5MaERbKdETO5r1LeOyoiw0",
@@ -321,22 +351,12 @@
   },
   {
     "country": "Argentina",
-    "title": "Susana gimenez",
-    "pubDate": "Sun, 22 Sep 2024 22:00:00 -0300",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcT6YMqei6504RZ6-faqUXmUZlGc4tavPgt6jhbp27qjVbrKKTuz2887VG12h_8Ro_H0yEGOCIAP",
-    "news_item_snippet": "Despu\u00e9s de casi cinco a\u00f1os, la diva regres\u00f3 a la pantalla chica este domingo rodeada de bailarines y con sus hist\u00f3ricas cortinas musicales.",
-    "news_item_url": "https://www.infobae.com/teleshow/2024/09/23/asi-fue-la-esperada-vuelta-de-susana-gimenez-a-la-television-vieron-lo-flaca-que-estoy/",
-    "picture_source": "Clar\u00edn.com",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "Argentina",
     "title": "Amazon",
     "pubDate": "Sun, 22 Sep 2024 01:00:00 -0300",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcT_Y0mj_n4AA15gj9rms5ut_vNly9y_41UFyXL8faXhlgQ4FPYGdMYzD5mAD8BhyoRJzKnRkhhi",
-    "news_item_snippet": "La empresa fundada por Jeff Bezos lanz\u00f3 una tarifa plana de US$5 para env\u00edos hacia la Argentina, entre otros pa\u00edses; no aplica para todos los productos - LA&nbsp;...",
-    "news_item_url": "https://www.lanacion.com.ar/economia/negocios/el-nuevo-sistema-de-envios-de-amazon-y-la-respuesta-de-marcos-galperin-nid23092024/",
-    "picture_source": "iProUp",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQnkXJ5WjH343Ljcj2RmlGKGdILIkLcoyIFsPlEEOPHpQjfDlgWsxhx3Wv9P7InxEuKOU1FVmZX",
+    "news_item_snippet": "Estos libros disponibles en Amazon est\u00e1n causando revuelo en la comunidad lectora de Espa\u00f1a.",
+    "news_item_url": "https://www.infobae.com/espana/2024/09/23/libros-de-amazon-espana-top-de-los-titulos-mas-populares-este-dia/",
+    "picture_source": "LA NACION",
     "approx_traffic": "100,000+"
   },
   {
@@ -364,26 +384,16 @@
     "title": "Brownlow Medal 2024",
     "pubDate": "Sun, 22 Sep 2024 18:00:00 +1000",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcS8xOzGqobQ2z8wlRiNrGYxptPYRjPHFBhDRAWOVeNSrNFnj9NCstypvdRsvVcFFpiy4q_ae0YE",
-    "news_item_snippet": "Hawthorn star Jack Ginnivan, never one for fading into the background, turned heads with a white jacket while Australian Olympic golden girl Ariarne Titmus&nbsp;...",
-    "news_item_url": "https://www.foxsports.com.au/afl/brownlow-red-carpet-live-afl-ready-to-celebrate-as-stars-arrive-for-footys-night-of-nights/news-story/5b2510da3239f326ecd8001f338da310",
+    "news_item_snippet": "Carlton captain Patrick Cripps has won his second AFL Brownlow Medal, polling a record 45 votes to claim the honour convincingly. The 29-year-old is the&nbsp;...",
+    "news_item_url": "https://www.theage.com.au/sport/afl/brownlow-medal-2024-live-updates-daicos-favourite-to-win-red-carpet-preparations-kick-up-a-gear-20240923-p5kcrw.html",
     "picture_source": "K rock",
     "approx_traffic": "200,000+"
-  },
-  {
-    "country": "Australia",
-    "title": "Singapore F1",
-    "pubDate": "Sun, 22 Sep 2024 15:00:00 +1000",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQkHLcSIyX335H6Pk578Hib4L5UBaVjuSnjtHPYq2nSR9_UlrhvfMAJa8Ms5k3D4xckp_KKOTrC",
-    "news_item_snippet": "Lando Norris survived two scares with the wall to dominate the Singapore Grand Prix, beating Max Verstappen by 20.9 seconds to close the championship lead&nbsp;...",
-    "news_item_url": "https://www.motorsport.com/f1/news/f1-singapore-gp-norris-takes-crushing-win-from-verstappen-piastri/10657012/",
-    "picture_source": "The Guardian",
-    "approx_traffic": "50,000+"
   },
   {
     "country": "Brazil",
     "title": "S\u00e3o Paulo x Internacional",
     "pubDate": "Sun, 22 Sep 2024 04:00:00 -0500",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTw5PgpvMHaIwOKQe-6o5N71WOWfgjMORevOlEQb4aYDzNIbj2FqLmFwF5VYmlpFsQN82L0qCjD",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRMR1cacwNnVDSUQRq5fSWU5FO1lu0y0IqPhoL7RAiL5eAW0BWZjzynWE3aADj2ZdE2VqT-EZzz",
     "news_item_snippet": "ACABA O JOGO! Internacional bate o S\u00e3o Paulo de virada por 3x1 e j\u00e1 soma a quarta vit\u00f3ria consecutiva na competi\u00e7\u00e3o. 51&#39;. DEFENDE JANDREI!",
     "news_item_url": "https://www.estadao.com.br/esportes/futebol/sao-paulo-x-internacional-brasileiro-serie-a-2024/",
     "picture_source": "globoesporte.com",
@@ -423,10 +433,10 @@
     "country": "Brazil",
     "title": "Cuiab\u00e1 x Cruzeiro",
     "pubDate": "Sun, 22 Sep 2024 16:00:00 -0500",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQLJfLCiDtwMk2oylqVEsk-0zdLnTGyzGR8MJC8L6Ou-rNAiBTzC3a0RVWDR9UtIxZbgkf2ZW9J",
-    "news_item_snippet": "Cuiab\u00e1 e Cruzeiro se enfrentam hoje (22), \u00e0s 18h30 (de Bras\u00edlia), na Arena Pantanal, em Cuiab\u00e1 (MT), pela 27\u00aa rodada do Campeonato Brasileiro.",
-    "news_item_url": "https://www.uol.com.br/esporte/ultimas-noticias/2024/09/22/transmissao-ao-vivo-de-cuiaba-x-cruzeiro-veja-onde-assistir.htm",
-    "picture_source": "UOL",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRCurSqLdjjqSdAPSH1K0YSF8UoScktTX8oJPgFTUUmD9TfzfmCuYr9iznKxJL66fl6Ksdv5s8n",
+    "news_item_snippet": "Em situa\u00e7\u00f5es distintas na tabela, Cuiab\u00e1 e Cruzeiro medem for\u00e7as neste domingo (22), \u00e0s 18h30 (de Bras\u00edlia), na Arena Cuiab\u00e1, pela 27\u00aa rodada do Brasileir\u00e3o&nbsp;...",
+    "news_item_url": "https://www.espn.com.br/futebol/brasileirao/artigo/_/id/14199298/cuiaba-x-cruzeiro-onde-assistir-ao-vivo-horario-palpites-provaveis-escalacoes",
+    "picture_source": "ESPN.com.br",
     "approx_traffic": "200,000+"
   },
   {
@@ -460,23 +470,13 @@
     "approx_traffic": "100,000+"
   },
   {
-    "country": "Brazil",
-    "title": "Shawn Mendes",
-    "pubDate": "Sun, 22 Sep 2024 22:00:00 -0500",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTOEyfEk8NvjvDSfOHAhbtcots22GyAdOJqhcd8KSW_cB6sMqgVT463jHp0PGWAvKifQ3d6luIO",
-    "news_item_snippet": "Durante uma corridinha no palco, cantor foi ao ch\u00e3o com o viol\u00e3o, mas levantou e seguiu em frente!",
-    "news_item_url": "https://gshow.globo.com/tudo-mais/rock-in-rio/2024/noticia/ops-shawn-mendes-leva-tombo-durante-show-no-rock-in-rio.ghtml",
-    "picture_source": "G1",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Brazil",
-    "title": "Manchester United",
-    "pubDate": "Sun, 22 Sep 2024 09:00:00 -0500",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSQdk6SyUCpm_qRaAOwGlH86miFFqdhPd05BNKHq6Kb4_obJMzIiOcB3q0W43-I2QuGHN_c6pCe",
-    "news_item_snippet": "O Manchester United, um dos maiores clubes do futebol europeu, \u00e9 tamb\u00e9m uma das equipes com mais poderio financeiro e que segue sempre de olho no mercado.",
-    "news_item_url": "https://somosfanaticos.fans/br/futebol-europeu/manchester-united-estuda-a-contratacao-de-novo-bellingham-alvo-do-real-madrid",
-    "picture_source": "Somos Fan\u00e1ticos",
+    "country": "Canada",
+    "title": "Man City vs Arsenal",
+    "pubDate": "Sun, 22 Sep 2024 11:00:00 -0400",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQf9ZjErqcQzBhNvPI8mvIA9Rx9jjsa5ZHqHQJRnFUItptjFStkXe_ICht2I7VbeLdD1_N7D_AZ",
+    "news_item_snippet": "Manchester City and Arsenal kontinu dia unbeaten run for di Premier League dis season.",
+    "news_item_url": "https://www.bbc.com/pidgin/articles/cgry2we1d9qo",
+    "picture_source": "Arsenal.com",
     "approx_traffic": "50,000+"
   },
   {
@@ -487,16 +487,6 @@
     "news_item_snippet": "With the Toronto Maple Leafs clawing back late in Sunday&#39;s NHL pre-season contest, Ottawa needed some overtime heroics to pull out a 6-5 victory over the hosts.",
     "news_item_url": "https://globalnews.ca/news/10769194/yakemchuk-scores-in-ot-as-senators-trip-leafs-6-5/",
     "picture_source": "Ottawa Senators",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Canada",
-    "title": "Man City vs Arsenal",
-    "pubDate": "Sun, 22 Sep 2024 11:00:00 -0400",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQf9ZjErqcQzBhNvPI8mvIA9Rx9jjsa5ZHqHQJRnFUItptjFStkXe_ICht2I7VbeLdD1_N7D_AZ",
-    "news_item_snippet": "John Stones&#39; equaliser eight minutes into added time earned City a 2-2 draw in an explosive encounter at the Etihad.",
-    "news_item_url": "https://www.mancity.com/news/mens/manchester-city-v-arsenal-match-report-22-september-63862614",
-    "picture_source": "Arsenal.com",
     "approx_traffic": "50,000+"
   },
   {
@@ -530,16 +520,6 @@
     "approx_traffic": "100,000+"
   },
   {
-    "country": "Saudi Arabia",
-    "title": "\u0627\u0631\u0633\u0646\u0627\u0644",
-    "pubDate": "Sun, 22 Sep 2024 18:00:00 +0300",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTgXTvvM01cM9YhNwzCbBqK75bJZLe-l87NKscomhVUa3GKm8kihYuFfA62OHgbfw2cdOgekpta",
-    "news_item_snippet": "\u0623\u062d\u0631\u0632 \u062c\u0648\u0646 \u0633\u062a\u0648\u0646\u0632 \u0647\u062f\u0641\u0627 \u0642\u0627\u062a\u0644\u0627 \u0642\u0631\u0628 \u0646\u0647\u0627\u064a\u0629 \u0627\u0644\u0648\u0642\u062a \u0627\u0644\u0645\u062d\u062a\u0633\u0628 \u0628\u062f\u0644 \u0627\u0644\u0636\u0627\u0626\u0639 \u0644\u064a\u0642\u062a\u0646\u0635 \u0627\u0644\u062a\u0639\u0627\u062f\u0644 2-2 \u0644\u0641\u0631\u064a\u0642\u0647 \u0645\u0627\u0646\u0634\u0633\u062a\u0631 \u0633\u064a\u062a\u064a \u0645\u0639 10\u0644\u0627\u0639\u0628\u064a\u0646 \u0645\u0646 \u0636\u064a\u0641\u0647 \u0623\u0631\u0633\u0646\u0627\u0644\u060c \u0644\u064a\u0638\u0644 \u0641\u064a \u0635\u062f\u0627\u0631\u0629 \u0627\u0644\u062f\u0648\u0631\u064a&nbsp;...",
-    "news_item_url": "https://www.alhurra.com/sport/2024/09/22/%D9%85%D8%A7%D9%86-%D8%B3%D9%8A%D8%AA%D9%8A-%D9%88%D8%A3%D8%B1%D8%B3%D9%86%D8%A7%D9%84-%D8%AA%D8%B9%D8%A7%D8%AF%D9%84-%D9%82%D8%A7%D8%AA%D9%84-%D8%A8%D9%82%D9%85%D8%A9-%D8%AF%D8%B1%D8%A7%D9%85%D8%A7%D8%AA%D9%8A%D9%83%D9%8A%D8%A9",
-    "picture_source": "dubaisports.ae",
-    "approx_traffic": "50,000+"
-  },
-  {
     "country": "France",
     "title": "Lyon \u2013 Marseille",
     "pubDate": "Sun, 22 Sep 2024 18:00:00 +0200",
@@ -547,7 +527,7 @@
     "news_item_snippet": "100e: ET C&#39;EST TERMIN\u00c9 !!! Sc\u00e9nario totalement fou avec la victoire de\u2026",
     "news_item_url": "https://www.sofoot.com/articles/en-direct-lyon-marseille-7",
     "picture_source": "BFMTV.COM",
-    "approx_traffic": "200,000+"
+    "approx_traffic": "500,000+"
   },
   {
     "country": "France",
@@ -591,11 +571,11 @@
   },
   {
     "country": "Germany",
-    "title": "Brandenburg Wahl",
+    "title": "Wahl Brandenburg",
     "pubDate": "Sun, 22 Sep 2024 00:00:00 +0200",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRogXmjtUxPCu9CXqfB4cUMDo5cebr_O4t_M7FjXPu-_Y8ydvlZqKTJC855HmW1qtGk1iZDFMle",
-    "news_item_snippet": "Mit knappem Vorsprung hat die SPD von Ministerpr\u00e4sident Woidke die Wahl in Brandenburg gewonnen. Nun stehen schwierige Koalitionsgespr\u00e4che an: Die&nbsp;...",
-    "news_item_url": "https://www.tagesschau.de/inland/regional/brandenburg/brandenburg-wahl-regierungsbildung-100.html",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQV33u58GLkM4S-K9cljyWKwalzSW3lIP1SzGVu8rrg125OKSgaWvRjxZCzX2sKi8EZlZcd3z3Y",
+    "news_item_snippet": "In Brandenburg war am Sonntag die Landtagswahl. Mittlerweile wurden alle Wahlkreise ausgez\u00e4hlt. Hier findet ihr alle Infos zum Ergebnis.",
+    "news_item_url": "https://www.swr3.de/aktuell/nachrichten/landtagswahl-brandenburg-104.html",
     "picture_source": "rbb24",
     "approx_traffic": "1,000,000+"
   },
@@ -604,10 +584,30 @@
     "title": "VfB Stuttgart \u2013 Dortmund",
     "pubDate": "Sun, 22 Sep 2024 18:00:00 +0200",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcStDug-oBpAnsoYQrzlUTBGjIXb11NGHN7F6EXXAl0pMAZ3AWvRiga7DZF5rmHwQcjpww7kejlS",
-    "news_item_snippet": "Bitterer Abend f\u00fcr Borussia Dortmund: Beim VfB Stuttgart verlor der BVB mit 1:5. Hier ist der Live-Ticker zum Nachlesen.",
-    "news_item_url": "https://www.waz.de/sport/borussia-dortmund/article407307895/borussia-dortmund-heute-live-topspiel-beim-vfb-stuttgart.html",
+    "news_item_snippet": "Vize-Meister VfB Stuttgart hat Borussia Dortmund eine denkw\u00fcrdige Niederlage beschert. Der BVB geht im Bundesliga-Sonntagsspiel sang- und klanglos unter.",
+    "news_item_url": "https://www.prosieben.de/serien/newstime/news/schiessbude-dortmund-der-vfb-stuttgart-deklassiert-den-bvb-435671",
     "picture_source": "VfB Stuttgart",
     "approx_traffic": "200,000+"
+  },
+  {
+    "country": "Germany",
+    "title": "Brandenburg Wahl",
+    "pubDate": "Sun, 22 Sep 2024 10:00:00 +0200",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRogXmjtUxPCu9CXqfB4cUMDo5cebr_O4t_M7FjXPu-_Y8ydvlZqKTJC855HmW1qtGk1iZDFMle",
+    "news_item_snippet": "Mit knappem Vorsprung hat die SPD von Ministerpr\u00e4sident Woidke die Wahl in Brandenburg gewonnen. Nun stehen schwierige Koalitionsgespr\u00e4che an: Die&nbsp;...",
+    "news_item_url": "https://www.tagesschau.de/inland/regional/brandenburg/brandenburg-wahl-regierungsbildung-100.html",
+    "picture_source": "rbb24",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "Germany",
+    "title": "Ter Stegen",
+    "pubDate": "Sun, 22 Sep 2024 21:00:00 +0200",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTJKIEvL5_63b63yiKt68Bptq9d6nB3D__hPAYHsnXXIkvgHFmuTQeMPe4O80M-mx6RK0TnGNgQ",
+    "news_item_snippet": "Barcelona \u00b7 Marc-Andr\u00e9 <b>ter Stegen</b> fasst sich sofort ans Knie. Schreie sind zu h\u00f6ren. Der deutsche Nationaltorwart erleidet eine schwere Knieverletzung, die ihn lange ausbremsen wird - auch im DFB-Tor. 23.09&nbsp;...",
+    "news_item_url": "https://ga.de/news/nationaltorwart-ter-stegen-faellt-monatelang-aus_aid-119239241",
+    "picture_source": "Westdeutsche Allgemeine Zeitung",
+    "approx_traffic": "100,000+"
   },
   {
     "country": "Germany",
@@ -620,24 +620,14 @@
     "approx_traffic": "100,000+"
   },
   {
-    "country": "Germany",
-    "title": "Ter Stegen",
-    "pubDate": "Sun, 22 Sep 2024 21:00:00 +0200",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQdTynJr9u9p5R4cGgul9A-bdptachMIr-3EGP4KylVk8gw3Oi-v_7WuYiQDILjpEIVLY1uDxsC",
-    "news_item_snippet": "Barcelona \u00b7 Marc-Andr\u00e9 <b>ter Stegen</b> fasst sich sofort ans Knie. Schreie sind zu h\u00f6ren. Der deutsche Nationaltorwart erleidet eine schwere Knieverletzung, die ihn lange ausbremsen wird - auch im DFB-Tor. 23.09&nbsp;...",
-    "news_item_url": "https://ga.de/news/nationaltorwart-ter-stegen-faellt-monatelang-aus_aid-119239241",
-    "picture_source": "Westdeutsche Allgemeine Zeitung",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "Mexico",
-    "title": "Ju\u00e1rez - Tigres",
-    "pubDate": "Sun, 22 Sep 2024 08:00:00 -0600",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTDlbvwkOwqsB0dyiKy7ZyMyrsFBrZiMBpbzQdTKW1B7kk2yoJt0cZL7z3PETpXiEE64E5Aw4Gp",
-    "news_item_snippet": "Juego Bravos de Ju\u00e1rez - Tigres En Vivo Online: minuto a minuto del partido de Bravos de Ju\u00e1rez hoy contra el equipo regiomontano, desde el Estadio Ol\u00edmpico&nbsp;...",
-    "news_item_url": "https://www.marca.com/mx/futbol/liga-mx/juarez-tigres/2024/09/23/01_0159_20240923_10991_1294-directo.html",
-    "picture_source": "TUDN",
-    "approx_traffic": "200,000+"
+    "country": "Italy",
+    "title": "Roma calcio",
+    "pubDate": "Mon, 23 Sep 2024 15:00:00 +0200",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSHvdSaMMT7XQg4ws_mjT9TjB93WulUcYJCVhqwGtvtXZc685AJDM7ayl-BkRZ5kjVsOIK0bLxc",
+    "news_item_snippet": "Roma, 23 set. (askanews) \u2013 \u201cBlue Heaven Holdings e Friedkin Group confermano di aver raggiunto un accordo sui termini della vendita della quota di&nbsp;...",
+    "news_item_url": "https://www.ildenaro.it/calcio-leverton-ai-proprietari-della-roma-friedkin/",
+    "picture_source": "Sport Mediaset",
+    "approx_traffic": "50,000+"
   },
   {
     "country": "Mexico",
@@ -648,6 +638,16 @@
     "news_item_url": "https://diariobasta.com/2024/09/23/pumas-vence-con-drama-a-xolos/",
     "picture_source": "ESPN",
     "approx_traffic": "200,000+"
+  },
+  {
+    "country": "Mexico",
+    "title": "Ju\u00e1rez - Tigres",
+    "pubDate": "Sun, 22 Sep 2024 17:00:00 -0600",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcT8FnIpHIThmuB50_RUPlGoRG-mZ1doVM_EghzPInRD8dmFtIGR_747TURHQ5P0FWfGElOPBHPq",
+    "news_item_snippet": "Con gol en recta final de Sebasti\u00e1n C\u00f3rdova, Tigres vence a Bravos y salva una jornada doble que pintaba pobre para los felinos. | TUDN Liga MX | TUDN.",
+    "news_item_url": "https://www.tudn.com/futbol/liga-mx/juarez-vs-tigres-goles-video-resultado-partido-liga-mx",
+    "picture_source": "MARCA.com",
+    "approx_traffic": "100,000+"
   },
   {
     "country": "Mexico",
@@ -693,10 +693,10 @@
     "country": "Spain",
     "title": "Villarreal  Barcelona",
     "pubDate": "Sun, 22 Sep 2024 16:00:00 +0200",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSeqDORyNK4PNb8MYwmQqXAOqjK6gwk9ijq24GBkKvrZiorlU03ouq7HduTJ4pnvSS0ajgs9Cvc",
-    "news_item_snippet": "El conjunto azulgrana se impuso por 1-5 al Villarreal en La Cer\u00e1mica. La mala noticia para los cul\u00e9s fue la grave lesi\u00f3n de Ter Stegen, retirado en camilla.",
-    "news_item_url": "https://www.rtve.es/deportes/20240922/villarreal-barcelona-directo-jornada-6-liga-resumen-resultado/16254502.shtml",
-    "picture_source": "EL PA\u00cdS",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQ2Pry1Mr-a7rSSTDDaulIVsl5zNx0unQIisWRWXRumSe0iuaNPDpaezoX8MXF7H5rzuLNRJeAW",
+    "news_item_snippet": "Ter Stegen sufre una lesi\u00f3n en el tend\u00f3n rotuliano de la rodilla derecha que le har\u00e1 perderse lo que queda de temporada | Raphinha y Lewandoswki anotaron&nbsp;...",
+    "news_item_url": "https://elpais.com/deportes/futbol/2024-09-22/villarreal-barcelona-en-directo-partido-de-la-liga-en-vivo.html",
+    "picture_source": "RTVE",
     "approx_traffic": "500,000+"
   },
   {
@@ -717,16 +717,6 @@
     "news_item_snippet": "94 &#39; \u00a1Finaaaaaaaaaaaaaaaaaaaaal del partido en San Mam\u00e9s! El Athletic Club se hace fuerte en casa, consigue la tercera victoria de la semana y se consolida&nbsp;...",
     "news_item_url": "https://www.lavanguardia.com/deportes/futbol/20240922/6343/athletic-celta-laliga-primera-division-ca-en-directo-ctx.html",
     "picture_source": "EITB Radio Televisi\u00f3n P\u00fablica Vasca",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "Spain",
-    "title": "Ter Stegen",
-    "pubDate": "Sun, 22 Sep 2024 20:00:00 +0200",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQP47PvW3w7mTbmogbtYnUsvr9h1AHV0ydMv4jimyPrXwxaMoIvPsEdi5gaheKYb9z_SsJ5bs2v",
-    "news_item_snippet": "El guardameta alem\u00e1n del Bar\u00e7a se someter\u00e1 esta tarde a tratamiento quir\u00fargico tras la lesi\u00f3n sufrida ante el Villarreal.",
-    "news_item_url": "https://www.fcbarcelona.es/es/futbol/primer-equipo/noticias/4127804/ter-stegen-con-una-rotura-completa-del-tendon-rotuliano-de-la-rodilla-derecha",
-    "picture_source": "RTVE",
     "approx_traffic": "100,000+"
   },
   {
