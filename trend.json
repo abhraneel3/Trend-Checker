@@ -1,6 +1,46 @@
 [
   {
     "country": "United States",
+    "title": "Man United vs Tottenham",
+    "pubDate": "Sun, 29 Sep 2024 09:00:00 -0700",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRomwNEf6r_2-IrkzWKiv3fjq3do1-7PB__jB4UW4dXbHJZo2Ay8xWS2Tmuh1GmrrazaUHqsW-q",
+    "news_item_snippet": "All the updates as Tottenham win away at Manchester United in English top-flight football.",
+    "news_item_url": "https://www.aljazeera.com/sports/liveblog/2024/9/29/live-manchester-united-vs-tottenham-hotspur-english-premier-league",
+    "picture_source": "The Athletic",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Bengals",
+    "pubDate": "Sun, 29 Sep 2024 11:00:00 -0700",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRjWzs8WI8lQK9SE8JXBisjswah7GBLb_CH8EwHMGD3alKzvTYgSQNovAtZi4KJP2GMhIonN4jd",
+    "news_item_snippet": "Bengals fans in North Carolina for Sunday&#39;s game found themselves in the path of Hurricane Helene in one of the areas hit hardest by the storm.",
+    "news_item_url": "https://www.wlwt.com/article/cincinnati-bengals-fans-travel-helene-north-carolina-aftermath/62427752",
+    "picture_source": "Bengals.com",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Vikings vs Packers",
+    "pubDate": "Sun, 29 Sep 2024 10:00:00 -0700",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTMRoXzAO8rFhC6G3SWwX_EiLpWxkXh418lbV9Pn_l73LT-sAmUOFI9mCNG7p1yDG7ecFVqfcY_",
+    "news_item_snippet": "The Minnesota Vikings will visit the Green Bay Packers on Sunday \u2013 you can catch the game on CBS and Paramount+. Here&#39;s everything else you need to know&nbsp;...",
+    "news_item_url": "https://sports.yahoo.com/green-bay-packers-vs-minnesota-vikings-how-to-watch-today-kickoff-time-and-more-111551203.html",
+    "picture_source": "Sports Illustrated",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Eagles vs Buccaneers",
+    "pubDate": "Sun, 29 Sep 2024 11:00:00 -0700",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQQSVIsaVkHcyj5jXCse_Nac8iAHtZCiFY22RSRLCs6N1jLTOBaKT5dzM8xZlwAku6A0uSainpx",
+    "news_item_snippet": "Get all the in-game updates, highlights, stats and analysis for the Tampa Bay Buccaneers Week 4 game vs. the Philadelphia Eagles.",
+    "news_item_url": "https://www.buccaneers.com/news/eagles-vs-bucs-game-blog-week-4-2024",
+    "picture_source": "PhiladelphiaEagles.com",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
     "title": "National Coffee Day 2024",
     "pubDate": "Sun, 29 Sep 2024 06:00:00 -0700",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcT2FeYmMcJV58lYsl-OQHdY8_07S_Q5wMEtt7gyUdFIHay2CTziozBD-csRIlK6WzJA3MgNTt6w",
@@ -11,12 +51,22 @@
   },
   {
     "country": "United States",
-    "title": "Man United vs Tottenham",
-    "pubDate": "Sun, 29 Sep 2024 09:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRomwNEf6r_2-IrkzWKiv3fjq3do1-7PB__jB4UW4dXbHJZo2Ay8xWS2Tmuh1GmrrazaUHqsW-q",
-    "news_item_snippet": "All the updates as Tottenham win away at Manchester United in English top-flight football.",
-    "news_item_url": "https://www.aljazeera.com/sports/liveblog/2024/9/29/live-manchester-united-vs-tottenham-hotspur-english-premier-league",
-    "picture_source": "The Athletic",
+    "title": "Steelers vs Colts",
+    "pubDate": "Sun, 29 Sep 2024 11:00:00 -0700",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSywWDBSpxOuPwaA61wxeIFEQIgIxu4POmctovihdl_gov9Q-2rVqVWoQkCPtQyLc6VcCQDmitL",
+    "news_item_snippet": "The undefeated Pittsburgh Steelers, led by quarterback Justin Fields, meet the Indianapolis Colts, led by quarterback Anthony Richardson in Week 4 of the&nbsp;...",
+    "news_item_url": "https://www.nj.com/sports/2024/09/pittsburgh-steelers-vs-indianapolis-colts-free-live-stream-92924-watch-nfl-week-4-online-time-tv-channel.html",
+    "picture_source": "New York Post",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Saints vs Falcons",
+    "pubDate": "Sun, 29 Sep 2024 11:00:00 -0700",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTST15f2590YJQxFB2zQF9klbzPQzTHI8ylxPv6LWS46CHpC_MJty4aQGeigGkuui_GDMGDNeY1",
+    "news_item_snippet": "A collection of headlines and news about the Saints and the NFL for Sunday, Sept. 29.",
+    "news_item_url": "https://www.neworleanssaints.com/news/saints-morning-break-saints-head-into-matchup-with-rival-atlanta-falcons-news-headlines-9-29-2024",
+    "picture_source": "pennlive.com",
     "approx_traffic": "50,000+"
   },
   {
@@ -31,6 +81,16 @@
   },
   {
     "country": "United States",
+    "title": "Jets",
+    "pubDate": "Sun, 29 Sep 2024 11:00:00 -0700",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTbckgjhOmSgZu_OhSXpI5ykwYyXSrf2XDNRVhBwzkfqyGh6BIdyHbxG2ZjtToN7HZDidOKyStn",
+    "news_item_snippet": "Aaron Rodgers and the New York Jets are big 8-point favorites on their home field Sunday afternoon as they take on the Denver Broncos.",
+    "news_item_url": "https://www.pennlive.com/tv/2024/09/how-to-watch-ny-jets-vs-denver-broncos-nfl-week-4-time-tv-channel-free-live-stream.html",
+    "picture_source": "DenverBroncos.com",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
     "title": "Alabama football",
     "pubDate": "Sat, 28 Sep 2024 11:00:00 -0700",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQQbSL-9eTADjKAwB9sxxPKzQc0QKSeuD6mnkpYJRx9WIWVgvZGe-obgLbWH2CZem05WQenDyDS",
@@ -41,26 +101,6 @@
   },
   {
     "country": "United States",
-    "title": "Colorado vs UCF",
-    "pubDate": "Sat, 28 Sep 2024 08:00:00 -0700",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQ3M6nQb_GyVOTcY5ME3di1U7Amr5dGFG-ZuWfQWvOwkwcPzM7XifnMkn1KdhRFqfXX91Alo6YR",
-    "news_item_snippet": "Sep 21, 2024; Boulder, Colorado, USA; Colorado Buffaloes quarterback Shedeur Sanders. ORLANDO, Fla. \u2014 Deion Sanders and the Colorado football team were on the&nbsp;...",
-    "news_item_url": "https://www.coloradoan.com/story/sports/college/football/2024/09/28/colorado-football-vs-ucf-game-updates-live-score-in-college-football/75427838007/",
-    "picture_source": "USA TODAY",
-    "approx_traffic": "500,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Jean Smart",
-    "pubDate": "Sat, 28 Sep 2024 15:00:00 -0700",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcT6i_kqNleDi4WslzbZjQPIFHFLbLFCABz85hyToe_FD6syX45C2pkJolD9AfFDruKB0aw6gCYH",
-    "news_item_snippet": "Former cast member Maya Rudolph is reportedly returning to the show this season to play Vice President Kamala Harris, and if recent patterns of opening episodes&nbsp;...",
-    "news_item_url": "https://www.sent-trib.com/2024/09/28/saturday-night-live-launches-50th-season-with-jean-smart-jelly-roll-and-maybe-maya-as-kamala/",
-    "picture_source": "NBC",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "United States",
     "title": "Ole Miss football",
     "pubDate": "Sat, 28 Sep 2024 11:00:00 -0700",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSGQE4opJ9ygBN9l8TbiS0BWLgs53NV7BKbjZwY-vJADN2zCVyExC2wOKs7r6ux9vwYRaqOm3DY",
@@ -68,86 +108,6 @@
     "news_item_url": "https://www.usatoday.com/story/sports/college/columnist/dan-wolken/2024/09/29/college-football-misery-index-ole-miss-florida-state/75439304007/",
     "picture_source": "UKAthletics",
     "approx_traffic": "200,000+"
-  },
-  {
-    "country": "United States",
-    "title": "UFC",
-    "pubDate": "Sat, 28 Sep 2024 12:00:00 -0700",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTmlOJ_X4-_OzOcWCvtlfSAQ_xXcwfYSwdI5IcadB_GA04uuwKpIqCzh37DaDWZMbNTVLSxO8d7",
-    "news_item_snippet": "Check outl the facts from UFC Fight Night 243, which saw Renato Moicano land in second place for UFC&#39;s longest active lightweight streaks.",
-    "news_item_url": "https://mmajunkie.usatoday.com/lists/ufc-fight-night-243-post-event-facts-renato-moicano-matches-paddy-pimbletts-streak",
-    "picture_source": "Forbes",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Ohio State vs Mi State",
-    "pubDate": "Sat, 28 Sep 2024 17:00:00 -0700",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRGarYu4xG-5Ocf4Vpdtt75LHgXH_sQomNUEh9bw5EHCLoh1d3Z-TdCzt6ubQlFcjA6uOoGOD0z",
-    "news_item_snippet": "Ohio State faces Michigan State on Saturday, Sept. 28, 2024, (9/28/24) at Spartan Stadium in East Lansing, Michigan at 7 p.m. ET (6 p.m. CT) only on&nbsp;...",
-    "news_item_url": "https://www.nj.com/sports/2024/09/ohio-state-vs-michigan-state-live-stream-92824-how-to-get-peacock-to-watch-college-football.html",
-    "picture_source": "Michigan State Athletics",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Illinois football",
-    "pubDate": "Sat, 28 Sep 2024 18:00:00 -0700",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcT3D670jRZyRGw3RRgfFshVXHVmXry-ZrJCLSlrAmUAVUACozSVwNafLv4J1KeW8lwEn_YeksV3",
-    "news_item_snippet": "While it was a disappointing loss to Penn State, the 2024 season expectations aren&#39;t changing for the Illinois football program.",
-    "news_item_url": "https://writingillini.com/posts/illinois-football-falling-to-penn-state-doesn-t-change-2024-season-expectations-01j8yvvm7shn",
-    "picture_source": "Writing Illini",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Barcelona",
-    "pubDate": "Sat, 28 Sep 2024 13:00:00 -0700",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcS5cpNWCOPmN22Y2AHuQRaRPqw0cwpQF0V4dS_QhF_874tQGuqfq1fZ3pZb3Euzq_rf5MqK4x__",
-    "news_item_snippet": "Barca&#39;s 4-2 defeat to Osasuna ruined their start to the season. But coach Hansi Flick said he had to rotate his team - and weaknesses showed.",
-    "news_item_url": "https://www.nytimes.com/athletic/5793299/2024/09/29/barcelona-osasuna-la-liga-flick-yamal/",
-    "picture_source": "IHF",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Nebraska vs Purdue",
-    "pubDate": "Sat, 28 Sep 2024 10:00:00 -0700",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTzDU2HXzsuRKSoE5FEV-DIA3IF-iH0iYDYMPAqkuINWIxHLcZXAw5F9IFu6BXv5NgToFvcPfKS",
-    "news_item_snippet": "Quarterback: A-. Freshman Dylan Raiola was his usual efficient self, finishing the game with 257 passing yards and a touchdown with a 63% completion rate. The&nbsp;...",
-    "news_item_url": "https://www.dailynebraskan.com/sports/nebraska-football-position-grades-vs-purdue/article_5922c188-7dda-11ef-8167-ff66d1f73112.html",
-    "picture_source": "huskers.com",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Alabama",
-    "pubDate": "Sat, 28 Sep 2024 16:00:00 -0700",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTSGr7_HfG4Ic7IL41-0AGQO6J2zNV2FiEDzoqA-0jwX74w3zi-9GJWaJQePXPf_6sStOHJSPRp",
-    "news_item_snippet": "While the Alabama Gulf Coast continues trying to reason with hurricane season, that tropical weather aspect of living on the Gulf Coast was a point of&nbsp;...",
-    "news_item_url": "https://yellowhammernews.com/david-rainer-state-parks-directors-group-gets-glimpse-of-what-alabama-has-to-offer/",
-    "picture_source": "UTM Athletics",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Wisconsin football",
-    "pubDate": "Sat, 28 Sep 2024 14:00:00 -0700",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRV6HPKornvtvhiNlaqJy-M2J8YthN7fJxwviOsaNyaFItibdKlBfiUkTnSxFRGGZCNlWURldBk",
-    "news_item_snippet": "The Badgers dropped to 2-2 following a 38-21 loss to No. 16 USC on Saturday at Los Angeles Memorial Coliseum.",
-    "news_item_url": "https://www.jsonline.com/story/sports/college/uw/2024/09/28/5-takeaways-from-wisconsin-footballs-38-21-loss-to-no-16-usc/75368203007/",
-    "picture_source": "BadgerExtra",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Oregon football",
-    "pubDate": "Sat, 28 Sep 2024 22:00:00 -0700",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQwyDlj6cB6avdU295u0DeZeKIbyRnrotujK1dbiJ1p3sSAkKq9zvwu-UniLlKbKv39ozUiD7Ix",
-    "news_item_snippet": "Alright, this game went about as expected \u2014 but there&#39;s a lot to work on, too. Aside from a handful of plays, Oregon had the Bruins on their heels from the&nbsp;...",
-    "news_item_url": "https://fishduck.com/2024/09/oregon-ducks-football-ucla-takeaways/",
-    "picture_source": "The Register-Guard",
-    "approx_traffic": "100,000+"
   },
   {
     "country": "India",
@@ -161,23 +121,23 @@
   },
   {
     "country": "India",
-    "title": "Barcelona",
-    "pubDate": "Sun, 29 Sep 2024 04:30:00 +0530",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcS5cpNWCOPmN22Y2AHuQRaRPqw0cwpQF0V4dS_QhF_874tQGuqfq1fZ3pZb3Euzq_rf5MqK4x__",
-    "news_item_snippet": "Run of seven straight wins comes to an end at El Sadar despite a valiant battle to make amends for a sub-standard first half.",
-    "news_item_url": "https://www.fcbarcelona.com/en/football/first-team/news/4134471/osasuna-4-2-fc-barcelona-first-liga-defeat",
-    "picture_source": "IHF",
+    "title": "Man United vs Tottenham",
+    "pubDate": "Sun, 29 Sep 2024 20:30:00 +0530",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRP_qXDRIgeqvSfimhG0DwYD-DRmigtE8sAJ4QrIIHeD-eaO5dyCkH_z104eTDusY0B7_YhJqZW",
+    "news_item_snippet": "Manchester United vs Tottenham Hotspur, Premier League Highlights: Brennan Johnson, Dejan Kulusevski and Dominic Solanke score for the Spurs as Ange&nbsp;...",
+    "news_item_url": "https://www.firstpost.com/sports/football-news/manchester-united-vs-tottenham-hotspur-premier-league-live-score-updates-old-trafford-stadium-13820397.html",
+    "picture_source": "Business Standard",
     "approx_traffic": "100,000+"
   },
   {
     "country": "India",
-    "title": "Man United vs Tottenham",
-    "pubDate": "Sun, 29 Sep 2024 20:30:00 +0530",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRP_qXDRIgeqvSfimhG0DwYD-DRmigtE8sAJ4QrIIHeD-eaO5dyCkH_z104eTDusY0B7_YhJqZW",
-    "news_item_snippet": "All the updates as Tottenham win away at Manchester United in English top-flight football.",
-    "news_item_url": "https://www.aljazeera.com/sports/liveblog/2024/9/29/live-manchester-united-vs-tottenham-hotspur-english-premier-league",
-    "picture_source": "Business Standard",
-    "approx_traffic": "50,000+"
+    "title": "Barcelona",
+    "pubDate": "Sun, 29 Sep 2024 04:30:00 +0530",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcS5cpNWCOPmN22Y2AHuQRaRPqw0cwpQF0V4dS_QhF_874tQGuqfq1fZ3pZb3Euzq_rf5MqK4x__",
+    "news_item_snippet": "FC Barcelona secured their second win in as many matches at the 2024 IHF Men&#39;s Club World Championship, 31:23, against hosts Al-Ahly, with both teams&nbsp;...",
+    "news_item_url": "https://www.ihf.info/media-center/news/barcelona-dominate-al-ahly-both-teams-go-semi-finals-2024-ihf-mens-club-world",
+    "picture_source": "IHF",
+    "approx_traffic": "100,000+"
   },
   {
     "country": "India",
@@ -201,6 +161,16 @@
   },
   {
     "country": "India",
+    "title": "World Heart Day 2024",
+    "pubDate": "Sun, 29 Sep 2024 09:30:00 +0530",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSBHcKO1MW1grvwFzszUZyx1WDib4dxh1rTgy_0ReYIvJ6a3dxRAwpupy1qU0mkue_E-zKzF6oM",
+    "news_item_snippet": "\u0915\u093e\u0930\u094d\u0921\u093f\u092f\u0915 \u0905\u0930\u0947\u0938\u094d\u091f \u0914\u0930 \u0939\u093e\u0930\u094d\u091f \u0905\u091f\u0948\u0915 \u0917\u0902\u092d\u0940\u0930 \u0938\u094d\u0925\u093f\u0924\u093f \u0939\u0948\u0902\u0964 \u0926\u094b\u0928\u094b\u0902 \u092e\u0947\u0902 \u0938\u092e\u092f \u092a\u0930 \u0907\u0932\u093e\u091c \u0928 \u092e\u093f\u0932\u0928\u0947 \u092a\u0930 \u092e\u0930\u0940\u091c \u0915\u0940 \u091c\u093e\u0928 \u091c\u093e \u0938\u0915\u0924\u0940 \u0939\u0948\u0964",
+    "news_item_url": "https://navbharattimes.indiatimes.com/lifestyle/health/world-heart-day-2024-cardiac-failure-vs-heart-attack-first-aid-and-advanced-cardiac-healthcare/articleshow/113783924.cms",
+    "picture_source": "Livemint",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "India",
     "title": "England vs Australia",
     "pubDate": "Sat, 28 Sep 2024 07:30:00 +0530",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQAt5UuEYzy7wVHFPJgrvW2DklyE5scq-heIp8dWgv9d4mPh1fS-LKNhjwV2Ul5KoeyEFYQS2ql",
@@ -213,11 +183,21 @@
     "country": "India",
     "title": "Hassan Nasrallah",
     "pubDate": "Sat, 28 Sep 2024 09:30:00 +0530",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQLzcrfHVUmTGu2-zbKEn2GDQD3V806Rm7x8htGm1pNs3dOy4grkXgeyKsXEoQxdT_C6J_BMss0",
-    "news_item_snippet": "\u090f\u091c\u0947\u0902\u0938\u0940, \u0915\u093e\u0939\u093f\u0930\u093e\u0964 \u0907\u091c\u0930\u093e\u092f\u0932 \u0915\u0947 \u0939\u0935\u093e\u0908 \u0939\u092e\u0932\u0947 \u092e\u0947\u0902 \u092e\u093e\u0930\u0947 \u091c\u093e\u0928\u0947 \u0915\u0947 \u092c\u093e\u0926 \u0939\u093f\u091c\u092c\u0941\u0932\u094d\u0932\u093e \u091a\u0940\u092b \u0939\u0938\u0928 \u0928\u0938\u0930\u0941\u0932\u094d\u0932\u093e\u0939 \u0915\u093e \u0936\u0935 \u092c\u0930\u093e\u092e\u0926 \u0915\u0930 \u0932\u093f\u092f\u093e \u0917\u092f\u093e \u0939\u0948\u0964",
-    "news_item_url": "https://www.jagran.com/world/middle-east-hezbollah-chief-hassan-nasrallah-dead-body-recovered-no-wound-mark-found-claims-sources-23806660.html",
-    "picture_source": "The Guardian",
-    "approx_traffic": "200,000+"
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcT7oAplz7JKhrnb6txSaytLdxKb-zrzIDWoqjIUIm_zFZqfUGtxrf_ekQ9TLNN_zC-FoeTY25AO",
+    "news_item_snippet": "SCOTT DETROW, HOST: The Lebanese militant group Hezbollah confirmed that its leader, Hassan Nasrallah, was killed on Friday in Israeli airstrikes in Beirut.",
+    "news_item_url": "https://www.northernpublicradio.org/2024-09-28/what-are-the-implications-of-the-hassan-nasrallah-assassination",
+    "picture_source": "ABP News",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "India",
+    "title": "Israel",
+    "pubDate": "Sat, 28 Sep 2024 17:30:00 +0530",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRAWu5WbWfbjRgMnxIXlfPq_eWKNg5UNPV01uaj0Rh-zgVClGpRJJCmP77rP-uZHbw5UuoDxa2g",
+    "news_item_snippet": "Israel war LIVE updates: Follow The Hindu&#39;s latest updates on Israel&#39;s attacks on Lebanon as Israeli military kills Nabil Kaouk, another high-ranking&nbsp;...",
+    "news_item_url": "https://www.thehindu.com/news/international/israel-hezbollah-lebanon-war-live-updates-september-29-2024/article68697366.ece",
+    "picture_source": "Aljazeera.com",
+    "approx_traffic": "50,000+"
   },
   {
     "country": "India",
@@ -230,36 +210,6 @@
     "approx_traffic": "50,000+"
   },
   {
-    "country": "Argentina",
-    "title": "Belgrano Boca Juniors",
-    "pubDate": "Sat, 28 Sep 2024 12:00:00 -0300",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcT2f16fpuwDBit4yqpjk1WX0TNOZZUIQ-Xu0fNyqKJq_8raY8ZBH605BzQFvSR2PQ22n_fX1tsY",
-    "news_item_snippet": "Uno por uno, enterate como rindi\u00f3 cada jugador, su presici\u00f3n en el partido, goles, tarjetas y m\u00e1s! El equipo de Diego Mart\u00ednez volvi\u00f3 a dejar una mala&nbsp;...",
-    "news_item_url": "https://www.ole.com.ar/boca-juniors/jugadores-boca-puntajes-calificaciones-belgrano-liga-profesional_0_LTQgl5MzHC.html",
-    "picture_source": "Infobae.com",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "Argentina",
-    "title": "San Lorenzo",
-    "pubDate": "Sat, 28 Sep 2024 15:00:00 -0300",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSXQ427y9prqf-9zJ2cztE4Sk62N5R4uK7kOnTAAVphbp33aXQhST8DhmvaW932o51zRGmlVjNI",
-    "news_item_snippet": "El Taladro jug\u00f3 todo el segundo tiempo con un futbolista menos por la inocente expulsi\u00f3n de Christian N\u00fa\u00f1ez; \u201cOjal\u00e1 pueda darle muchas alegr\u00edas a este club\u201d&nbsp;...",
-    "news_item_url": "https://www.lanacion.com.ar/deportes/futbol/iker-muniain-hizo-dos-goles-para-el-buen-triunfo-de-san-lorenzo-ante-banfield-lluvia-de-polemicas-nid28092024/",
-    "picture_source": "San Lorenzo",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "Argentina",
-    "title": "Los Pumas",
-    "pubDate": "Sat, 28 Sep 2024 02:00:00 -0300",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQqRPycQnhDl72EFrR9HzhSS6wMJjj7dmkmQwkOK6isOeqms3e5d_B5R08Z-VEZDrEfs6Fc7fZX",
-    "news_item_snippet": "El seleccionado argentino de rugby le gan\u00f3 a las tres potencias del Hemisferio Sur por primera vez en una misma edici\u00f3n y firm\u00f3 su mejor cosecha de puntajes&nbsp;...",
-    "news_item_url": "https://www.infobae.com/deportes/2024/09/28/los-detalles-de-la-historica-actuacion-de-los-pumas-en-el-rugby-championship/",
-    "picture_source": "ESPN",
-    "approx_traffic": "100,000+"
-  },
-  {
     "country": "Australia",
     "title": "AFL Grand Final",
     "pubDate": "Sat, 28 Sep 2024 10:00:00 +1000",
@@ -268,36 +218,6 @@
     "news_item_url": "https://www.abc.net.au/news/2024-09-29/afl-grand-final-sydney-swans-brisbane-lions-robbie-fox/104410694",
     "picture_source": "The Mongrel Punt",
     "approx_traffic": "500,000+"
-  },
-  {
-    "country": "Australia",
-    "title": "Maggie Smith",
-    "pubDate": "Sat, 28 Sep 2024 00:00:00 +1000",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSbXz5mz8eboHFkhq-DOv-nxp6odSOz8L8j45LGdghjXUC88saVeHOHbqov6GlN3gteWGQtWUuj",
-    "news_item_snippet": "No matter what generation they are from, fans will have fond memories of a beloved character played by Maggie Smith.",
-    "news_item_url": "https://www.abc.net.au/news/2024-09-28/iconic-roles-maggie-smith-remembered-for-harry-potter-downton/104408562",
-    "picture_source": "WPPB",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "Australia",
-    "title": "Katy Perry AFL Grand Final",
-    "pubDate": "Sat, 28 Sep 2024 14:00:00 +1000",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcR-QB-sTLEe-nEWme_lSuMerlf83XvHG2KQYLxGJDpb9xmYgD8i5KRjgjk1ivYVf6O4-0Av2hij",
-    "news_item_snippet": "Katy Perry was almost spotless in her AFL Grand Final day spectacular at the MCG \u2014 but an unfortunate costume fail has come to light.",
-    "news_item_url": "https://www.goldcoastbulletin.com.au/sport/afl/katy-perry-afl-grand-final-show-falls-flat-over-wardrobe-malfunction/news-story/5a4fb8744904da278eaa7804ec7479b0",
-    "picture_source": "The Guardian",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "Australia",
-    "title": "Hassan Nasrallah",
-    "pubDate": "Sat, 28 Sep 2024 09:00:00 +1000",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQLzcrfHVUmTGu2-zbKEn2GDQD3V806Rm7x8htGm1pNs3dOy4grkXgeyKsXEoQxdT_C6J_BMss0",
-    "news_item_snippet": "SCOTT DETROW, HOST: To many, Nasrallah is the leader of a terrorist organization, but to others in the Middle East, as we just heard, he&#39;s viewed as a hero.",
-    "news_item_url": "https://www.northernpublicradio.org/2024-09-28/longtime-hezbollah-leader-hassan-nasrallah-killed-by-israel",
-    "picture_source": "The Guardian",
-    "approx_traffic": "50,000+"
   },
   {
     "country": "Brazil",
@@ -317,6 +237,26 @@
     "news_item_snippet": "Mikey Moore (Tottenham Hotspur) sofre uma falta no campo defensivo. Falta cometida por Amad Diallo (Manchester United).",
     "news_item_url": "https://www.terra.com.br/esportes/futebol/internacional/inglaterra/campeonato-ingles/ao-vivo/manchester-united-x-tottenham/85991/",
     "picture_source": "ESPN.com.br",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "Brazil",
+    "title": "Ze Neto",
+    "pubDate": "Sun, 29 Sep 2024 04:00:00 -0500",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRe9VzCGFeMFeaGsWfWNvqyKdX4q4X4n33CinPo-BTx9nY8O2XRFB_nds0Ad1o4FURk47j9BMDD",
+    "news_item_snippet": "O membro da dupla sertaneja Z\u00e9 Neto e Cristiano estava na casa de seu irm\u00e3o, Cristiano, quando bateu a cabe\u00e7a ap\u00f3s cair de um quadriciclo, na cidade de&nbsp;...",
+    "news_item_url": "https://www.cnnbrasil.com.br/nacional/cantor-ze-neto-sofre-acidente-e-e-internado-no-interior-de-sao-paulo/",
+    "picture_source": "Jornal O Globo",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Brazil",
+    "title": "Brasil Futsal",
+    "pubDate": "Sun, 29 Sep 2024 08:00:00 -0500",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQs96zWRuI4lIldJ36BOjkijV7f96zztjBF2PjGN6mX7qOZSH0vU0ZZU1SYb6LkX-goHMGAnIQC",
+    "news_item_snippet": "Com 3 a 1 no placar, gols de Marcel, Leandro Lino e Dyego, sele\u00e7\u00e3o avan\u00e7a e enfrentar\u00e1 a Ucr\u00e2nia na pr\u00f3xima quarta-feira, ao meio-dia.",
+    "news_item_url": "https://ge.globo.com/futsal/copa-do-mundo-de-futsal/noticia/2024/09/29/brasil-bate-marrocos-e-chega-as-semifinais-da-copa-do-mundo-de-futsal.ghtml",
+    "picture_source": "CNN Brasil",
     "approx_traffic": "50,000+"
   },
   {
@@ -328,6 +268,16 @@
     "news_item_url": "https://www.espn.com.br/futebol/brasileirao/artigo/_/id/14226957/botafogo-gremio-onde-assistir-ao-vivo-horario-palpites-provaveis-escalacoes-jogo-brasileirao",
     "picture_source": "LANCE!",
     "approx_traffic": "1,000,000+"
+  },
+  {
+    "country": "Brazil",
+    "title": "Osasuna x Barcelona",
+    "pubDate": "Sat, 28 Sep 2024 14:00:00 -0500",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRdYcofufxorN_TPj2u0v_h-RIQI5sgbS6s4JQT_GtvOwFa0lfqTLjkv98VSCJ3Fa9PK-pZh_G5",
+    "news_item_snippet": "Osasuna e Barcelona se enfrentam neste s\u00e1bado (28) em jogo v\u00e1lido pela oitava rodada do Campeonato Espanhol. Veja onde assistir e mais informa\u00e7\u00f5es!",
+    "news_item_url": "https://www.uol.com.br/esporte/ultimas-noticias/2024/09/28/osasuna-x-barcelona-onde-assistir-e-horario-do-jogo-do-campeonato-espanhol.htm",
+    "picture_source": "ESPN.com.br",
+    "approx_traffic": "200,000+"
   },
   {
     "country": "Brazil",
@@ -343,20 +293,10 @@
     "country": "Brazil",
     "title": "Santos x Oper\u00e1rio",
     "pubDate": "Sat, 28 Sep 2024 07:00:00 -0500",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcS6QgbbeVCMUpSontLy4Tp_a9T8OIUjB0czQgF0lQz0ErWTrgDbJ3XZJLX42g3Bf8ZcT2K1id6a",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSD_bNreY2QUhoKCdtMBUc18aXXn9lJVahgBnENOEtrZNRnEtszOcNQo6SGhhrmoIa8PBM2uK9B",
     "news_item_snippet": "O Santos recebe o Oper\u00e1rio-PR \u00e0s 18h (de Bras\u00edlia) deste s\u00e1bado (28), na Vila Belmiro, pela 29\u00aa rodada da S\u00e9rie B do Campeonato Brasileiro.",
     "news_item_url": "https://www.uol.com.br/esporte/ultimas-noticias/2024/09/28/santos-x-operario-pr-onde-assistir-ao-vivo-e-horario-do-jogo-da-serie-b.htm",
     "picture_source": "globoesporte.com",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "Brazil",
-    "title": "Osasuna x Barcelona",
-    "pubDate": "Sat, 28 Sep 2024 14:00:00 -0500",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRdYcofufxorN_TPj2u0v_h-RIQI5sgbS6s4JQT_GtvOwFa0lfqTLjkv98VSCJ3Fa9PK-pZh_G5",
-    "news_item_snippet": "Osasuna e Barcelona se enfrentam neste s\u00e1bado (28) em jogo v\u00e1lido pela oitava rodada do Campeonato Espanhol. Veja onde assistir e mais informa\u00e7\u00f5es!",
-    "news_item_url": "https://www.uol.com.br/esporte/ultimas-noticias/2024/09/28/osasuna-x-barcelona-onde-assistir-e-horario-do-jogo-do-campeonato-espanhol.htm",
-    "picture_source": "ESPN.com.br",
     "approx_traffic": "200,000+"
   },
   {
@@ -380,26 +320,6 @@
     "approx_traffic": "100,000+"
   },
   {
-    "country": "Brazil",
-    "title": "Bayern x Leverkusen",
-    "pubDate": "Sat, 28 Sep 2024 11:00:00 -0500",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSNp_9cBFBXB2e4N71zItTaLgevyfzKpf9VD1MX8J2UU_YavDMXL66og76Zs8n-ebDgJ1EpddAb",
-    "news_item_snippet": "Melhores momentos: Bayern de Munique 1 x 1 Bayer Leverkusen (Bundesliga) &middot; Apenas assinantes podem participar da conversa &middot; Mais Lidas &middot; RBS BRAND STUDIO &middot; \u00daltimas&nbsp;...",
-    "news_item_url": "https://gauchazh.clicrbs.com.br/esportes/noticia/2024/09/melhores-momentos-bayern-de-munique-1-x-1-bayer-leverkusen-bundesliga-cm1mj15eg002y01fsw4z98wrl.html",
-    "picture_source": "LANCE!",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "Brazil",
-    "title": "Al Kholood x al-hilal",
-    "pubDate": "Sat, 28 Sep 2024 13:00:00 -0500",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQnfeVZjb-y1-Sh675EBXTOYTXONaXFTvr2iTtDd8mdkpC_VOLBmtQvS2mgWKBaxfInXTqLkZW-Jg",
-    "news_item_snippet": "Brasileiros marcam e equipe de Jorge Jesus dormir\u00e1 na lideran\u00e7a da competi\u00e7\u00e3o.",
-    "news_item_url": "https://www.band.uol.com.br/esportes/futebol/campeonato-saudita/ao-vivo/al-kholood-x-al-hilal-liga-saudita-2024-25-assista",
-    "picture_source": "ESPN.com.br",
-    "approx_traffic": "50,000+"
-  },
-  {
     "country": "Canada",
     "title": "UFC",
     "pubDate": "Sat, 28 Sep 2024 15:00:00 -0400",
@@ -413,10 +333,10 @@
     "country": "Canada",
     "title": "Patrik Laine",
     "pubDate": "Sat, 28 Sep 2024 20:00:00 -0400",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTQcKpmlNX4-bBv--CAJaVPeb-Ia1Pjv4zZ_4jACjvxUEqf_rPKpKjG9A45Hr84vSwp-4tZ0rAB",
-    "news_item_snippet": "Martin St-Louis et ses joueurs n&#39;ont pas le choix. Bless\u00e9 au genou gauche samedi soir, Patrik Laine risque de rater une bonne partie de la saison si ce n&#39;est&nbsp;...",
-    "news_item_url": "https://www.tvasports.ca/2024/09/29/consequence-de-la-blessure-de-patrik-laine-des-chaises-se-liberent",
-    "picture_source": "La Presse",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQ0GJS-swkZtXK6BUb7HsyUEzAIyHMwNRyM11kslo6HOXE133PYlua6xoxli65rPW9coRTLkX3y",
+    "news_item_snippet": "Nouveau membre de l&#39;organisation des Maple Leafs de Toronto, l&#39;ex-Oc\u00e9anic C\u00e9dric Par\u00e9 est la cible de menaces et d&#39;insultes de partisans frustr\u00e9s des&nbsp;...",
+    "news_item_url": "https://journallesoir.ca/2024/09/29/patrik-laine-blesse-cedric-pare-rabroue-sur-le-web/",
+    "picture_source": "TVA Sports",
     "approx_traffic": "50,000+"
   },
   {
@@ -424,8 +344,8 @@
     "title": "Nantes \u2013 Saint-\u00c9tienne",
     "pubDate": "Sun, 29 Sep 2024 17:00:00 +0200",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRujVZ_iMvTD73Y9KVsnkS8cHQPQd_FIwMg9iFkJvNT6FYOiaRk8L6Qpqce_6C83dqHTm2-5THC",
-    "news_item_snippet": "Le weekend dernier, tous les pronostiqueurs nantais avaient imagin\u00e9 une victoire face \u00e0 Angers. Se feront-ils surprendre face \u00e0 Saint-\u00c9tienne ?",
-    "news_item_url": "https://tribunenantaise.fr/actus-fcnantes/fc-nantes-saint-etienne-les-pronostics-de-la-redaction/",
+    "news_item_snippet": "Ce dimanche, \u00e0 la Beaujoire, les Canaris ont conc\u00e9d\u00e9 un match nul (2-2) contre Saint-Etienne. Ils menaient pourtant 2-0\u2026 Johann Lepenant a fait part de son.",
+    "news_item_url": "https://www.ouest-france.fr/pays-de-la-loire/nantes-44000/video-fc-nantes-saint-etienne-cest-tres-frustrant-ca-se-repete-souffle-lepenant-9717ee63-cb5e-4ff4-92d1-3e6c6a8f47a5",
     "picture_source": "L'\u00c9quipe.fr",
     "approx_traffic": "50,000+"
   },
@@ -441,6 +361,16 @@
   },
   {
     "country": "France",
+    "title": "Benoit Saint Denis",
+    "pubDate": "Sat, 28 Sep 2024 16:00:00 +0200",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcS7m9y7RrcPLFWzE82w-lS_tCIVYYoa2HX1auwUIxXc09XRM2fIUU3H8hG6C4RJCVDvxbs0rfL3",
+    "news_item_snippet": "Renato Moicano n&#39;a laiss\u00e9 aucune chance \u00e0 Beno\u00eet Saint Denis ce samedi et s&#39;est impos\u00e9 par arr\u00eat du m\u00e9decin. En conf\u00e9rence de presse, le Br\u00e9silien a propos\u00e9&nbsp;...",
+    "news_item_url": "https://www.lequipe.fr/Mma/Actualites/-j-invite-benoit-saint-denis-a-venir-s-entrainer-avec-nous-lance-renato-moicano-vainqueur-a-l-ufc-paris-3/1510697",
+    "picture_source": "VoxCatch",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "France",
     "title": "Lens Nice",
     "pubDate": "Sat, 28 Sep 2024 17:00:00 +0200",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTT6sQlw-fwLoYTXfChsu3OM7HUjuNhQ9GbMU24ihQmjm0ld_7Ie000RKzM0p1mSh9YPgy1dtM1",
@@ -450,50 +380,30 @@
     "approx_traffic": "50,000+"
   },
   {
-    "country": "France",
-    "title": "Championnat du monde cyclisme 2024",
-    "pubDate": "Sat, 28 Sep 2024 10:00:00 +0200",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQuHEpWMvcydAJEI-abzvTySgC4Gn3J7fzkN5GlK5trNSuvwOfg_uV2Z-EPSRmTth_NugeImmnu",
-    "news_item_snippet": "Championnat du monde 2024 : revivez la course et les moments cl\u00e9s reliant Winterthur \u00e0 Zurich.",
-    "news_item_url": "https://www.lequipe.fr/Cyclisme-sur-route/championnat-du-monde/annee-2024/direct-course/21675",
-    "picture_source": "Franceinfo",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "France",
-    "title": "Barca",
-    "pubDate": "Sat, 28 Sep 2024 22:00:00 +0200",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcT7cY5zpYAgdOYB1894qKKmC463nJdp2b0hGF7q2BMyHHAs0cZ_-wJu85zCI3ezR7CJMMn4T3Lx",
-    "news_item_snippet": "Un de chute pour le Bar\u00e7a en Liga. Avec sept victoires en autant de matches, le FC Barcelone avait pris un d\u00e9part canon en Liga mais il est tomb\u00e9,&nbsp;...",
-    "news_item_url": "https://www.lefigaro.fr/sports/football/espagne/liga-le-barca-tombe-pour-la-premiere-fois-a-pampelune-20240928",
-    "picture_source": "L'\u00c9quipe.fr",
-    "approx_traffic": "50,000+"
+    "country": "Germany",
+    "title": "Hoffenheim \u2013 Werder Bremen",
+    "pubDate": "Sun, 29 Sep 2024 17:00:00 +0200",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTrnn6mBcmuIchp1kwmbWkmAYwRsCuEhuef2QHd_RMoklWvcvOpsGJ7VcdTDTmSfG5CcpsEKM6R",
+    "news_item_snippet": "Fu\u00dfball-Bundesligist Werder Bremen hat ein wildes Spiel bei der TSG Hoffenheim gewonnen. Nach einer v\u00f6llig indisponierten Leistung in der&nbsp;...",
+    "news_item_url": "https://www.ndr.de/sport/fussball/Werder-Bremen-gewinnt-wildes-Spiel-bei-der-TSG-Hoffenheim,werder16058.html",
+    "picture_source": "ZDFheute",
+    "approx_traffic": "100,000+"
   },
   {
     "country": "Germany",
     "title": "\u00d6sterreich Wahl",
     "pubDate": "Sun, 29 Sep 2024 12:00:00 +0200",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTBgxHy6E9-2_W_kZD81CGWq3jy5VQH7eD59RT0wfmOfMsE8wGf3LEdo30CV37gzFYRv7ix5Duf",
-    "news_item_snippet": "Die FP\u00d6 ist erstmals st\u00e4rkste Kraft in \u00d6sterreich, vor der \u00d6VP. Die SP\u00d6 verzeichnet das schlechteste Ergebnis der Parteigeschichte, die Gr\u00fcnen verlieren ein&nbsp;...",
-    "news_item_url": "https://www.zeit.de/politik/ausland/2024-09/rechte-fpoe-liegt-in-erster-hochrechnung-vorn-oevp-auf-zweitem-platz",
+    "news_item_snippet": "Die rechtsextreme FP\u00d6 mit ihrem Vorsitzenden Herbert Kickl siegt bei der Wahl in \u00d6sterreich. Was uns das lehrt.",
+    "news_item_url": "https://www.nrz.de/niederrhein/article407365186/wahl-in-oesterreich-aehnlichkeiten-zu-deutschland.html",
     "picture_source": "tagesschau.de",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Germany",
-    "title": "Hoffenheim \u2013 Werder Bremen",
-    "pubDate": "Sun, 29 Sep 2024 17:00:00 +0200",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQFNZrJT9HdeDokd9J3mC4c24Pullj7N4670uHFtYPQIhl0Y34-xBN9FOHizVrMpyXxGIGhzEYH",
-    "news_item_snippet": "Liveticker mit allen Spielereignissen, Toren und Statistiken zum Spiel TSG Hoffenheim - Werder Bremen.",
-    "news_item_url": "https://www.kicker.de/hoffenheim-gegen-bremen-2024-bundesliga-4936824/ticker",
-    "picture_source": "NDR.de",
-    "approx_traffic": "50,000+"
+    "approx_traffic": "100,000+"
   },
   {
     "country": "Germany",
     "title": "Holstein \u2013 Eintracht Frankfurt",
     "pubDate": "Sun, 29 Sep 2024 15:00:00 +0200",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcT55zT3S35ZMyWlBbQvFAVqiQ8otjRdbzU9EMClGo0sB1YbWBPDPKchLH4ft77qTtRnF8mV4Wbq",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTWL3F09zmllwmb6VJonGlb80JkVKE-JeOJo-jdMMEO7LEhgqDwlJB6yRaZwKHeHk0aC42IqN_n",
     "news_item_snippet": "Omar Marmoush hat Eintracht Frankfurt im Alleingang zum Bundesliga-Sieg bei Holstein Kiel gef\u00fchrt. Auf der anderen Seite gl\u00e4nzte auch Shuto Machino - er&nbsp;...",
     "news_item_url": "https://www.sportschau.de/fussball/bundesliga/marmoush-show-beschert-frankfurt-platz-zwei,bundesliga-ksv-sge-100.html",
     "picture_source": "shz.de",
@@ -511,32 +421,22 @@
   },
   {
     "country": "Germany",
-    "title": "Essen",
-    "pubDate": "Sun, 29 Sep 2024 04:00:00 +0200",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTb_2w53CuKwudVvOvCrR5C5i8KRRB1drifk_UZ7-NOBvvWDaRC1Os5nHK7QfhYg240euO8XdDE",
-    "news_item_snippet": "Unter dem Motto \u201eDein Stern am Tierhimmel\u201c steht ein Segensgottesdienst in Essen-Bredeney. Fotos der Tiere k\u00f6nnen vorher eingereicht werden.",
-    "news_item_url": "https://www.waz.de/lokales/essen/article407354271/essen-gemeinde-bietet-gottesdienst-fuer-verstorbene-tiere-an.html",
-    "picture_source": "Westdeutsche Allgemeine Zeitung",
+    "title": "K\u00f6ln \u2013 KSC",
+    "pubDate": "Sun, 29 Sep 2024 13:00:00 +0200",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSsxN182szrdEmXGr7WXJEBqY4TL8jHDf7D8syfGX1Y8UlTh6XbWtbku3AOSVdH1y6K1s4Pr0fK",
+    "news_item_snippet": "Nach dem 4:4 in K\u00f6ln haderten Spieler und Verantwortliche des KSC mit der schwachen Anfangsphase, lobten aber auch die Moral des Teams. Die Stimmen.",
+    "news_item_url": "https://bnn.de/sport/ksc/stimmen-zur-ksc-aufholjagd-in-koeln-die-mannschaft-ueberwindet-momentan-saemtliche-widerstaende",
+    "picture_source": "General-Anzeiger Bonn",
     "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Germany",
-    "title": "Berlin-Marathon 2024",
-    "pubDate": "Sat, 28 Sep 2024 00:00:00 +0200",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQ4s-StDXKp6ps8N-IMSMcRWVMcJu2PS9u6lnMY0_CzLjdmjzCfqB6l_q7RK7Vpqi7ScYTL6pwt",
-    "news_item_snippet": "ER ist der Schnellste von Berlin! Milkesa Mengesha aus \u00c4thiopien gewinnt den 50. Berlin-Marathon.",
-    "news_item_url": "https://www.bz-berlin.de/berlin/mengesha-gewinnt-berlin-marathon",
-    "picture_source": "Berliner Morgenpost",
-    "approx_traffic": "100,000+"
   },
   {
     "country": "Germany",
     "title": "Freiburg \u2013 St. Pauli",
     "pubDate": "Sat, 28 Sep 2024 16:00:00 +0200",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQC8kW6JA8SBNJdsLk7AuloP_N2VcNiiJX1qXRUvfrTmXSDSzbmzZs0odiPanCN1iL67NzO9HGp",
-    "news_item_snippet": "Philipp Treu und Carlo Boukhalfa kehren mit dem FC St. Pauli zum SC Freiburg zur\u00fcck und feiern ausgelassen den ersten Sieg in der Fu\u00dfball-Bundesliga.",
-    "news_item_url": "https://www.shz.de/sport/fc-st-pauli/artikel/fc-st-pauli-siegt-in-freiburg-treu-findet-das-brutal-geil-47801029",
-    "picture_source": "Sportschau",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcS6FwNLdvou2f-Rvpc2zv0E-kY9yOkS-GggGx8BMZUAgmwNbRHKhQHyiNnoll-_2KGuZVMbznPk",
+    "news_item_snippet": "Der FC St. Pauli hat erstmals seit 2011 ein Bundesliga-Spiel gewonnen. In Freiburg gab es einen \u00fcberraschend klaren Sieg. Spieler des Spiels war Elias Saad.",
+    "news_item_url": "https://www.sportschau.de/fussball/bundesliga/ueberragender-saad-fuehrt-st-pauli-zum-ersten-saisonsieg,bundesliga-scf-fcsp-100.html",
+    "picture_source": "shz.de",
     "approx_traffic": "50,000+"
   },
   {
@@ -544,8 +444,8 @@
     "title": "Gina Schumacher Hochzeit Mallorca",
     "pubDate": "Sat, 28 Sep 2024 20:00:00 +0200",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQPTHwdUqviNLkxkWKbght98Yi-yFdasTfrfFnyAJ1MWhsm5wwzu4TSN8j6dIuPlG0iAKVZTrI2",
-    "news_item_snippet": "Die Feier auf der Schumacher-Finca in den Bergen hoch \u00fcber Andratx begann am Samstagnachmittag. Die Tochter des Formel-1-Weltmeisters feierte als&nbsp;...",
-    "news_item_url": "https://www.mallorcamagazin.com/nachrichten/gesellschaft/2024/09/28/127513/jawort-auf-mallorca-gina-schumacher-hat-ihren-verlobte-iain-bethke-unter-einem-blumenbogen-geehelicht.html",
+    "news_item_snippet": "Auf der spanischen Urlaubsinsel Mallorca hat Gina Schumacher, Tochter von Michael Schumacher, ihren langj\u00e4hrigen Partner Iain Bethke geheiratet.",
+    "news_item_url": "https://www.noz.de/deutschland-welt/promi-show/artikel/gina-schumacher-und-iain-bethke-heiraten-auf-mallorca-47799610",
     "picture_source": "Mallorca Zeitung",
     "approx_traffic": "50,000+"
   },
@@ -560,14 +460,44 @@
     "approx_traffic": "500,000+"
   },
   {
+    "country": "Germany",
+    "title": "Bayern \u2013 Leverkusen",
+    "pubDate": "Fri, 27 Sep 2024 20:00:00 +0200",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTTphA__vbgEXdE3aWjsbCwdj1sehy0gKIeqT5VbDiWfQrPwpsgHwL1JcaE5o_9yaWYAdyFIFNt",
+    "news_item_snippet": "Es war ein hartes Spiel mit wenigen Chancen. Der FC Bayern und Meister Bayer Leverkusen haben sich 1:1 getrennt. Der Ticker zum Nachlesen.",
+    "news_item_url": "https://www.waz.de/sport/article407357891/live-gelingt-gladbach-der-befreiungsschlag-im-liga-keller.html",
+    "picture_source": "Sportschau",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "Germany",
+    "title": "Dortmund \u2013 Bochum",
+    "pubDate": "Fri, 27 Sep 2024 20:00:00 +0200",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQfYAhwhg1H6I13arPy6ohsgUi7MSCcmjk-gNrSSZ0C1g-sI_oYcGn3YLVOCl5tVr712jmsJ4RG",
+    "news_item_snippet": "Ein Wohnungsbrand in Bochum Ost hat am Freitagabend Verletzte gefordert. Das Feuer hatte auch Auswirkungen auf den Busverkehr nach Dortmund.",
+    "news_item_url": "https://www.waz.de/lokales/bochum/article407356508/an-der-stadtgrenze-zu-dortmund-wohnungsbrand-in-bochum.html",
+    "picture_source": "Westdeutsche Allgemeine Zeitung",
+    "approx_traffic": "200,000+"
+  },
+  {
     "country": "Italy",
     "title": "Como-Verona",
     "pubDate": "Sun, 29 Sep 2024 15:00:00 +0200",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTGSNmfvpc43swB8ITtQkGHaGYemwZ3Qx0d8Co-v7PS9aDFCkPzUD9M_S3luFyT9dDA-YDX1fSb",
-    "news_item_snippet": "Il Verona aveva pareggiato con Lazovic su rigore, l&#39;espulsione di Suslov (doppio giallo, con dubbi sul secondo) ha indirizzato la sfida: inutile il 2-3 nel&nbsp;...",
-    "news_item_url": "https://www.eurosport.it/calcio/serie-a/2024-2025/como-verona-3-2-cutrone-doppietta-e-belotti-regalano-un-altro-successo-a-fabregas_sto10355006/story.shtml",
+    "news_item_snippet": "SERIE A - Dopo la vittoria contro l&#39;Atalanta, il Como trova il secondo successo consecutivo segnando altri tre gol: doppietta di Cutrone.",
+    "news_item_url": "https://www.eurosport.it/calcio/serie-a/2024-2025/como-verona-3-2-pagelle-cutrone-goleador-che-classe-paz_sto10304065/story.shtml",
     "picture_source": "Sky Sport",
     "approx_traffic": "100,000+"
+  },
+  {
+    "country": "Italy",
+    "title": "Empoli  Fiorentina",
+    "pubDate": "Sun, 29 Sep 2024 14:00:00 +0200",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcR83JizQoCFtoUvW74F1ZKzB8iOxk7G69xtxaB2cW3HQaAGsadEvE4Up7E58MpiEH1VLKL3CZLy",
+    "news_item_snippet": "Grazie per avere seguito con noi la diretta di questo match, arrivederci al prossimo turno di Serie A! &middot; Un punto a testa, con l&#39;Empoli, ancora imbattuto, che si&nbsp;...",
+    "news_item_url": "https://www.repubblica.it/sport/dirette/calcio/serie-a-2024/diretta-empoli-fiorentina-g2456156/",
+    "picture_source": "Fiorentina.it",
+    "approx_traffic": "50,000+"
   },
   {
     "country": "Italy",
@@ -577,16 +507,6 @@
     "news_item_snippet": "&#39;Nella tua performance non c&#39;era et\u00e0, ti muovevi come uno di vent&#39;anni...&#39; e l&#39;attore si commuove.",
     "news_item_url": "https://www.adnkronos.com/spettacoli/ballando-con-le-stelle-barbareschi-in-lacrime-merito-di-selvaggia-lucarelli_c6RBojdfOz2iIU6v7i6l3",
     "picture_source": "Assodigitale",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Italy",
-    "title": "Empoli  Fiorentina",
-    "pubDate": "Sun, 29 Sep 2024 14:00:00 +0200",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcS6whRQieEgJKuNruOBVma-tcVKMNt8eXJv0TrNSxKeJJhtAOtA82MtTlLjntFBgdH1daJXTyAL",
-    "news_item_snippet": "Al Castellani finisce 0-0 il derby toscano tra Empoli-Fiorentina. Poche occasioni da gol pericolose per entrambe le squadre che non riescono realmente a&nbsp;...",
-    "news_item_url": "https://sport.sky.it/calcio/serie-a/partite/2024/giornata-6/empoli-fiorentina/risultato-gol",
-    "picture_source": "Fiorentina.it",
     "approx_traffic": "50,000+"
   },
   {
@@ -601,16 +521,6 @@
   },
   {
     "country": "Mexico",
-    "title": "Osasuna  Barcelona",
-    "pubDate": "Sat, 28 Sep 2024 11:00:00 -0600",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcS28cyesjycrPu0bOr3EcjMh421aZ00GRMtNRCQY1VoEavRkTi_g5qqs5pNK-ooW2u5vU6dYY7a",
-    "news_item_snippet": "Pamplona, Espa\u00f1a (28 septiembre 2024).- El Barcelona termin\u00f3 con su paso perfecto e invicto en LaLiga, tras caer 4-2 en casa del Osasuna.",
-    "news_item_url": "https://www.cancha.com/acaba-osasuna-con-el-paso-perfecto-del-barcelona-en-liga/ar2881186?v=2",
-    "picture_source": "ESPN Deportes",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "Mexico",
     "title": "Pachuca - Cruz Azul",
     "pubDate": "Sat, 28 Sep 2024 11:00:00 -0600",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcS23M_7Lb5YNAAErWoZK0O0KakQRMKz815fWj898ZzZJNflT5k69sZAkidxZs2C6zULoWs6PQMt",
@@ -621,12 +531,22 @@
   },
   {
     "country": "Mexico",
-    "title": "Toluca",
-    "pubDate": "Sat, 28 Sep 2024 17:00:00 -0600",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSdEv267NP7_BVHSWtlpCN1CWNdjh1RS5KvCiW0AZzTjhwLdhywDm4rHiP9fDtyTsQ3QzSLbonX",
-    "news_item_snippet": "Primer equipo. Doblete de Isa\u00edas Violante y aportaci\u00f3n de Paulinho y Helinho, dieron la victoria 4-1 a Toluca FC sobre Atlas, en el Estadio Nemesio Diez,&nbsp;...",
-    "news_item_url": "https://tolucafc.com/noticias/2024-09-28/diabolica-goleada",
-    "picture_source": "TUDN",
+    "title": "Osasuna  Barcelona",
+    "pubDate": "Sat, 28 Sep 2024 11:00:00 -0600",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcS28cyesjycrPu0bOr3EcjMh421aZ00GRMtNRCQY1VoEavRkTi_g5qqs5pNK-ooW2u5vU6dYY7a",
+    "news_item_snippet": "Pamplona, Espa\u00f1a (28 septiembre 2024).- El Barcelona termin\u00f3 con su paso perfecto e invicto en LaLiga, tras caer 4-2 en casa del Osasuna.",
+    "news_item_url": "https://www.cancha.com/acaba-osasuna-con-el-paso-perfecto-del-barcelona-en-liga/ar2881186?v=2",
+    "picture_source": "ESPN Deportes",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "Mexico",
+    "title": "Toluca vs Atlas",
+    "pubDate": "Sat, 28 Sep 2024 14:00:00 -0600",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcScanUPKg5nYvgFDGn-tWzvkS1Vt2yFqB_Zj-aK8f-M4LYCD5fLF9-NOCEwIrXWmeSLl5mN2Xoc",
+    "news_item_snippet": "El delantero portugu\u00e9s del Toluca lleg\u00f3 a seis goles en el Apertura 2024 para superar a Germ\u00e1n Berterame, Henry Mart\u00edn y Jhonder C\u00e1diz en la Jornada 10 de&nbsp;...",
+    "news_item_url": "https://www.tudn.com/futbol/liga-mx/show-de-paulinho-toluca-vs-atlas-jornada-10-apertura-2024",
+    "picture_source": "Diario Deportivo Record",
     "approx_traffic": "100,000+"
   },
   {
@@ -643,7 +563,7 @@
     "country": "Mexico",
     "title": "Bayern  Leverkusen",
     "pubDate": "Sat, 28 Sep 2024 10:00:00 -0600",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQeNiODcTzj55h5yjXfWofqnNCOJTXvWpYV24RJgsfmnXAUYTEgrRCm5BhkPUBU7IKd6v9Bf4ED",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSgGFtZaSIrBBOmkbRiC6jXNKLmfe-ScEtm_DQQV62nXBhHCebvInm4Y2xw9-2kOte93OCjIJKw",
     "news_item_snippet": "El Bayern M\u00fanich tuvo el 70 por ciento de la posesi\u00f3n, pero no pudo vencer al vigente campe\u00f3n Bayer Leverkusen para terminar 1-1.",
     "news_item_url": "https://www.excelsior.com.mx/adrenalina/bayern-munich-domino-y-el-leverkusen-aguanto/1676298",
     "picture_source": "MARCA.com",
@@ -681,6 +601,16 @@
   },
   {
     "country": "Spain",
+    "title": "Athletic - Sevilla",
+    "pubDate": "Sun, 29 Sep 2024 16:00:00 +0200",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTnITnBKhVz3dUXEsFALMG7DMYEDUAFHYZ7mm7lznuglCEOZcprsOZEkInPqjZGJ_TROPBsOxlc",
+    "news_item_snippet": "El equipo de Garc\u00eda Pimienta afronta un complicad\u00edsimo duelo con bajas sustanciales como las de Sa\u00fal \u00d1\u00edguez, Lokonga o Isaac Romero, entre otras La previa:&nbsp;...",
+    "news_item_url": "https://www.diariodesevilla.es/sevillafc/athletic-sevilla-partido-liga-directo-resultado-resumen_10_2002463896.html",
+    "picture_source": "La Vanguardia",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "Spain",
     "title": "Celta de Vigo  Girona",
     "pubDate": "Sun, 29 Sep 2024 14:00:00 +0200",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcR31OE4XlOeNf1p8ZnKX-EXunfrK5KIQ8x8ClZt_AF4XOvG-M-eye8Ih-fqRnrfQRB2WKeFJLkK",
@@ -691,22 +621,12 @@
   },
   {
     "country": "Spain",
-    "title": "Athletic - Sevilla",
-    "pubDate": "Sun, 29 Sep 2024 16:00:00 +0200",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTnITnBKhVz3dUXEsFALMG7DMYEDUAFHYZ7mm7lznuglCEOZcprsOZEkInPqjZGJ_TROPBsOxlc",
-    "news_item_snippet": "Nos vemos en la pr\u00f3xima! Un abrazo a todos. Tambi\u00e9n la cr\u00f3nica de Juanma Velasco, reci\u00e9n salida del horno. Por aqu\u00ed ten\u00e9is el primer gol del partido.",
-    "news_item_url": "https://www.marca.com/futbol/laliga-ea-sports/athletic-sevilla/2024/09/29/01_0101_20240929_174_179-directo.html",
-    "picture_source": "La Vanguardia",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "Spain",
     "title": "Betis  RCD Espanyol",
     "pubDate": "Sun, 29 Sep 2024 18:00:00 +0200",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTeErInWlfoLMjwzw7fiuQG9qSFMfudi3tQB0Q0OTqBvgFaBe-IhCDpa1CXmEQmMdUByLZUCufi",
-    "news_item_snippet": "Suele ser una de las grandes mentiras que rodean al f\u00fatbol, un deporte en el que en innumerables ocasiones son los jugadores que salen del banquillo los que&nbsp;...",
-    "news_item_url": "https://www.betisweb.com/web/la-fuerza-del-colectivo-real-betis-vs-rcd-espanyol/",
-    "picture_source": "MARCA",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSGeY3LdfmIkKB1caf8PKUrUILW02ItXvY7JpeeAi9AFR6Ok578Aj1EwUGleaP7guFNOSjgYC40",
+    "news_item_snippet": "Lo Celso, en el minuto 85, acaba con la resistencia de un gran Joan Garc\u00eda, que incluso par\u00f3 un penalti a Adbe en los \u00faltimos minutos del primer tiemp.",
+    "news_item_url": "https://www.marca.com/futbol/laliga-ea-sports/betis-espanyol/2024/09/29/01_0101_20240929_185_177-directo.html",
+    "picture_source": "AS",
     "approx_traffic": "50,000+"
   },
   {
@@ -731,6 +651,16 @@
   },
   {
     "country": "United Kingdom",
+    "title": "Tottenham",
+    "pubDate": "Sun, 29 Sep 2024 18:00:00 +0100",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTOjwpgScWkGFxe_OmZyLRDccSgFMXdHn8eCWwM5ix1tQLf86jsq0OBlT_46yB9DDYdJ8Zy1KbL",
+    "news_item_snippet": "Tottenham thrashed abject Manchester United 3-0 at Old Trafford after home captain Bruno Fernandes was sent off.",
+    "news_item_url": "https://www.theguardian.com/football/2024/sep/29/manchester-united-tottenham-premier-league-match-report",
+    "picture_source": "Manchester United",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United Kingdom",
     "title": "Newcastle vs Man City",
     "pubDate": "Sat, 28 Sep 2024 12:00:00 +0100",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRDHc80oa0XtGN0_nh-D_yqnjbY_njBYrWfgfO6480jM2PwlpdA4oXjUEboV1CnfbtoqGt65W-K",
@@ -744,8 +674,8 @@
     "title": "Arsenal",
     "pubDate": "Sat, 28 Sep 2024 15:00:00 +0100",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTAFLz-g8QBR9BOhYs9DDOq7EX-fuW7b2k9d0JwV7K-90qriJjFhAprBXVLu1G78b8RtiW5h-TB",
-    "news_item_snippet": "Manchester City boss Pep Guardiola warned Mikel Arteta&#39;s men to prepare for a war as the rivalry between champions and contenders cranked up another notch&nbsp;...",
-    "news_item_url": "https://www.bordercountiesadvertizer.co.uk/sport/national/24616559.arsenal-strike-twice-stoppage-time-see-off-stubborn-leicester/",
+    "news_item_snippet": "Despite the home side racing into a two-goal lead by half time with strikes from Gabi Martinelli and Leandro Trossard, the Foxes refused to be overwhelmed and&nbsp;...",
+    "news_item_url": "https://morningstaronline.co.uk/article/arsenal-seal-vital-victory",
     "picture_source": "Camden New Journal",
     "approx_traffic": "200,000+"
   },
@@ -754,8 +684,8 @@
     "title": "Chelsea",
     "pubDate": "Sat, 28 Sep 2024 15:00:00 +0100",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcT18gRTRPyj9IjRvvqya_c2qhp-UwafS5FXOpyb_O0bx1o-N70Z5lQW6ayUWiDUg5Hw-jbzsKMZ",
-    "news_item_snippet": "A statement from the Women&#39;s Professional Leagues Limited reads: &quot;Due to the scheduling of Chelsea&#39;s first UWCL group-stage game, the BWSL game between Chelsea&nbsp;...",
-    "news_item_url": "https://www.manutd.com/en/news/detail/manchester-united-women-chelsea-clash-postponed-wsl-statement",
+    "news_item_snippet": "Chelsea&#39;s Women&#39;s Super League meeting with Manchester United has been postponed over \u201cplayer welfare\u201d concerns raised surrounding the scheduling of the&nbsp;...",
+    "news_item_url": "https://www.centralfifetimes.com/sport/national/24617432.chelseas-wsl-clash-man-utd-postponed-due-player-welfare-concerns/",
     "picture_source": "The Voice Online",
     "approx_traffic": "200,000+"
   },
@@ -783,10 +713,10 @@
     "country": "United Kingdom",
     "title": "UFC",
     "pubDate": "Sat, 28 Sep 2024 20:00:00 +0100",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRt9kl3izaYOeYjystzMea8lYf1wV0LPv0McxE_Z4Dh9IwiCIt9itra2UYV7linnqW0KLe5UOI5",
-    "news_item_snippet": "Arnold Allen, the MMA celeb who&#39;s been sidelined since his injury-ridden win at UFC 304, is defying the odds and preparing to compete in the&nbsp;...",
-    "news_item_url": "https://www.insidethegames.biz/articles/1148993/ufc-star-arnold-allen-defies-odds-takes",
-    "picture_source": "Sportstar",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRE0fWVcbKvpdOWOEhrX-sSeLyiGXUXSPR47KCJTENbiUS7_-8YQXIoddGC4CvmdjqKp06keYLt",
+    "news_item_snippet": "Mairon Santos is one of the newest entries into the world of UFC, earning his contract by knocking out Kaan Ofli in the TUF featherweight final.",
+    "news_item_url": "https://sportstar.thehindu.com/magazine/ufc-featherweight-top-three-fighters-after-santos-from-brazil-enters-division-fight-club-updates/article68677144.ece",
+    "picture_source": "MMA Junkie",
     "approx_traffic": "50,000+"
   },
   {
