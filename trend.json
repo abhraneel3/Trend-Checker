@@ -3,9 +3,9 @@
     "country": "United States",
     "title": "Verizon",
     "pubDate": "Mon, 30 Sep 2024 09:00:00 -0700",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQyLpkhWvFotkjiY437QcSOlBCq7530jrcbM-z53CG-ZeQC0Qihs16ys7-jieFpU6W_MjqZFmK6",
-    "news_item_snippet": "Verizon said it had restored service after experiencing a technical issue that led to hundreds of thousands of reports of outages on Monday.",
-    "news_item_url": "https://www.nbcnews.com/business/consumer/verizon-outage-technical-issue-status-update-rcna173286",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSO4EZcclzuAkQ-uVkiNqeqZjXt8a_g6skK9iZK1rntxeQkkJ2FFtw-xJk7QDi9hbmE2VBMb1M2",
+    "news_item_snippet": "Verizon customers were reporting outages Monday morning in Los Angeles and across the United States with some users reporting their phone in SOS mode.",
+    "news_item_url": "https://www.nbclosangeles.com/news/local/verizon-outage-la-ios-mode/3523548/",
     "picture_source": "Silicon Valley",
     "approx_traffic": "2,000,000+"
   },
@@ -14,7 +14,7 @@
     "title": "Pete Rose",
     "pubDate": "Mon, 30 Sep 2024 17:00:00 -0700",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSY8BPlOPWBFzjbMi2OqBPUNWIt3h12H1uhRkL0NMhMNEd57dzkPrrN4MG-1Kd5wfEEUUAGrymz",
-    "news_item_snippet": "Summary NEW YORK (AP) \u2014 Banished baseball great Pete Rose has died. The longtime Cincinnati Red was the career hits leader and fallen idol who undermined his&nbsp;...",
+    "news_item_snippet": "The longtime Cincinnati Red was the career hits leader and fallen idol who undermined his historic achievements and Hall of Fame dreams by gambling on the game&nbsp;...",
     "news_item_url": "https://www.corsicanadailysun.com/pete-rose/article_d72e1630-7f8e-11ef-9874-83485583e5c0.html",
     "picture_source": "Fort McMurray Today",
     "approx_traffic": "1,000,000+"
@@ -31,22 +31,32 @@
   },
   {
     "country": "United States",
-    "title": "Mets",
-    "pubDate": "Mon, 30 Sep 2024 11:00:00 -0700",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRDqfaPj9hFx1x-Aaa6PBqZ0oLeMz9SCtFKcL0WGiafzCx--tdA8b1trSNqtV_t4z1nmCf9JSMs",
-    "news_item_snippet": "The New York Mets and Atlanta Braves split their weather-delayed double-header to seal their places in Major League Baseball&#39;s playoffs on Monday.",
-    "news_item_url": "https://www.wyomingnewsnow.tv/news/national/braves-mets-split-double-header-to-seal-wild-card-berths/article_04c54501-be3c-59ec-aac5-755347b6ec7a.html",
-    "picture_source": "MLB.com",
+    "title": "Titans vs Dolphins",
+    "pubDate": "Mon, 30 Sep 2024 16:00:00 -0700",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRrjIWq_tc1aPGP3p0tVjS0m7kSJBbuwu3r4W5K2KYRZLJF3J0hLfMIxfC2I1cemQ-Z-DVX_ZJ9",
+    "news_item_snippet": "R.J. White has revealed his Monday Night Football bets for Miami Dolphins vs. Tennessee Titans in Week 4.",
+    "news_item_url": "https://www.cbssports.com/nfl/news/monday-night-football-prediction-odds-line-time-spread-titans-vs-dolphins-picks-from-expert-on-27-17-run/",
+    "picture_source": "The Tennessean",
     "approx_traffic": "500,000+"
   },
   {
     "country": "United States",
-    "title": "Titans vs Dolphins",
-    "pubDate": "Mon, 30 Sep 2024 16:00:00 -0700",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcR5aWI656emdA6JFiMkNR3x3svwh-r2II_HckD-MnmffywNwwaBK17GNuH6F1K4acBI4dj0doVg",
-    "news_item_snippet": "It&#39;s the Tennessee Titans vs. the Miami Dolphins in Week 4 of the 2024 NFL season. Will Titans get first win of 2024 against the Dolphins backup QB?",
-    "news_item_url": "https://www.tennessean.com/story/sports/nfl/titans/2024/09/30/titans-dolphins-score-updates-highlights-tv-channel/75398883007/",
-    "picture_source": "CBSSports.com",
+    "title": "Seahawks vs Lions",
+    "pubDate": "Mon, 30 Sep 2024 15:00:00 -0700",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRhVAncWJSXo2PdfzaeXvcKOR9zGa3JnNCxPULIAk8VQxiInkF89gZgnnm8qvDILOPjvv94HyqQ",
+    "news_item_snippet": "The Detroit Lions and Seattle Seahawks lock horns on &quot;Monday Night Football.&quot; Here&#39;s what to know about the game.",
+    "news_item_url": "https://www.usatoday.com/story/sports/nfl/2024/09/30/lions-seahawks-score-updates-monday-night-football/75449693007/",
+    "picture_source": "detroitlions.com",
+    "approx_traffic": "500,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Mets",
+    "pubDate": "Mon, 30 Sep 2024 11:00:00 -0700",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQa3mAECpyuMvLBhuUhLUxj3YkR3SKpM-T8pedDY1OvgVjFIPVPXqKJdkxNFi9xnK6vpTqIW0WM",
+    "news_item_snippet": "Francisco Lindor hit a two-run homer in the ninth to cap a wild 8-7 win vs. the Braves in which the Mets clinched a playoff spot with all of their runs over&nbsp;...",
+    "news_item_url": "https://www.espn.com/mlb/story/_/id/41535590/mets-rally-braves-game-1-thriller-clinch-nl-playoff-spot",
+    "picture_source": "MLB.com",
     "approx_traffic": "500,000+"
   },
   {
@@ -57,6 +67,16 @@
     "news_item_snippet": "It has been announced today that Tony Award-winning actor Gavin Creel has sadly passed away after a battle with a rare and aggressive form of sarcoma,&nbsp;...",
     "news_item_url": "https://www.westendbestfriend.co.uk/news/remembering-broadway-and-west-end-star-gavin-creel",
     "picture_source": "wyomingnewsnow.tv",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Braves",
+    "pubDate": "Mon, 30 Sep 2024 18:00:00 -0700",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRDqfaPj9hFx1x-Aaa6PBqZ0oLeMz9SCtFKcL0WGiafzCx--tdA8b1trSNqtV_t4z1nmCf9JSMs",
+    "news_item_snippet": "The New York Mets and Atlanta Braves split their weather-delayed double-header to seal their places in Major League Baseball&#39;s playoffs on Monday.",
+    "news_item_url": "https://www.wyomingnewsnow.tv/news/national/braves-mets-split-double-header-to-seal-wild-card-berths/article_04c54501-be3c-59ec-aac5-755347b6ec7a.html",
+    "picture_source": "MLB.com",
     "approx_traffic": "200,000+"
   },
   {
@@ -77,6 +97,16 @@
     "news_item_snippet": "HAMMOND, La. \u2013 The Southeastern Louisiana University baseball team has kicked off its fall practice ahead of the 2025 spring season, and does so with 21 new&nbsp;...",
     "news_item_url": "https://lionsports.net/news/2024/9/30/baseball-lions-announce-2025-recruiting-class.aspx",
     "picture_source": "Southeastern Lions Athletics",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Will Levis",
+    "pubDate": "Mon, 30 Sep 2024 18:00:00 -0700",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSSq3UUQrV3vDWc6weWDZPoq2P4ZPDNk7pTIjNmg0N_YBrWxkh9Ow_ME8f7o2CqDb12aO7P6e_0",
+    "news_item_snippet": "Tennessee Titans quarterback Will Levis left Monday night&#39;s game against the Miami Dolphins in the first quarter with a shoulder injury.",
+    "news_item_url": "https://www.click2houston.com/sports/2024/10/01/titans-quarterback-will-levis-injures-shoulder-in-the-1st-quarter-against-the-dolphins/",
+    "picture_source": "NBC News",
     "approx_traffic": "100,000+"
   },
   {
@@ -91,6 +121,16 @@
   },
   {
     "country": "United States",
+    "title": "MLB playoffs",
+    "pubDate": "Mon, 30 Sep 2024 03:00:00 -0700",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcShHwvqL0Ylws4eRLKkUz75qD63qH-g9Jg2JOU9-ZJTzlDWV4hjs_wHHWH-d-RXrGVrz7LWkzIY",
+    "news_item_snippet": "Ranking the October clubs is a counter-intuitive exercise in that it tries to apply some sense of order to a month that is anything but orderly or ordinary.",
+    "news_item_url": "https://www.mlb.com/news/2024-mlb-playoffs-lineups-and-pitching-staffs-ranked",
+    "picture_source": "LSUSports.net",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United States",
     "title": "Chargers",
     "pubDate": "Mon, 30 Sep 2024 14:00:00 -0700",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQ1JNt4rYh5PeIAw75aYiSMdrOqYC8leBWY8eCZcrmNpnz-n-DLz5wsNQDpf5euRerLIQ12M32r",
@@ -101,32 +141,12 @@
   },
   {
     "country": "United States",
-    "title": "Will Levis",
-    "pubDate": "Mon, 30 Sep 2024 18:00:00 -0700",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSSq3UUQrV3vDWc6weWDZPoq2P4ZPDNk7pTIjNmg0N_YBrWxkh9Ow_ME8f7o2CqDb12aO7P6e_0",
-    "news_item_snippet": "Will Levis&#39; extra effort to get a first down led to his first-quarter exit on Monday night. He would not return to Tennessee&#39;s first win of the 2024 season&nbsp;...",
-    "news_item_url": "https://www.nfl.com/news/titans-qb-will-levis-shoulder-questionable-to-return-vs-dolphins-on-monday-night",
-    "picture_source": "NBC News",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Ny Mets",
-    "pubDate": "Mon, 30 Sep 2024 18:00:00 -0700",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRDqfaPj9hFx1x-Aaa6PBqZ0oLeMz9SCtFKcL0WGiafzCx--tdA8b1trSNqtV_t4z1nmCf9JSMs",
-    "news_item_snippet": "With the Mets winning game one of the doubleheader, the D-backs playoffs hopes rest on New York beating the Atlanta Braves.",
-    "news_item_url": "https://www.si.com/mlb/diamondbacks/arizona-diamondbacks-news/new-york-mets-clinch-now-must-win-game-two-for-diamondbacks-01j9252hckx6",
-    "picture_source": "MLB.com",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
-    "title": "MLB playoff bracket",
-    "pubDate": "Mon, 30 Sep 2024 13:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRzcYHWaPy1z7ggfbjCh6tTRcrJ3gd8_NMvKfampVPsXrdgONu6Xk1JYbzkl08ETSTxaOwDk-gw",
-    "news_item_snippet": "The Major League Baseball postseason opens up on Tuesday with four wild-card round series. The three-game wild-card series will advance two teams in the\u2026",
-    "news_item_url": "https://bleacherreport.com/articles/10137374-mlb-playoff-bracket-2024-explaining-wild-card-format-divisional-series-and-more",
-    "picture_source": "CBS sports.com",
+    "title": "Tua Tagovailoa",
+    "pubDate": "Mon, 30 Sep 2024 16:00:00 -0700",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQuJ2wKkcZi9ybUcHS6zKuShDhYFwZ8IH_0urY04wYgB1vvcxr-NZ0g87bLMR_7iALkRSgNEJ7a",
+    "news_item_snippet": "The Miami Dolphins appear to be getting Tua Tagovailoa back, as his potential return date has been revealed.",
+    "news_item_url": "https://www.newsweek.com/sports/nfl/dolphins-qb-tua-tagovailoa-will-return-week-8-report-1961715",
+    "picture_source": "USA TODAY",
     "approx_traffic": "50,000+"
   },
   {
@@ -151,16 +171,6 @@
   },
   {
     "country": "United States",
-    "title": "Tua Tagovailoa",
-    "pubDate": "Mon, 30 Sep 2024 16:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQuJ2wKkcZi9ybUcHS6zKuShDhYFwZ8IH_0urY04wYgB1vvcxr-NZ0g87bLMR_7iALkRSgNEJ7a",
-    "news_item_snippet": "The Miami Dolphins appear to be getting Tua Tagovailoa back, as his potential return date has been revealed.",
-    "news_item_url": "https://www.newsweek.com/sports/nfl/dolphins-qb-tua-tagovailoa-will-return-week-8-report-1961715",
-    "picture_source": "USA TODAY",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
     "title": "Simpsons series finale",
     "pubDate": "Mon, 30 Sep 2024 10:00:00 -0700",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQX0fBHQe7pPnFcHaZUsm8Qo-59A790qmqXuzarrplGMOPFHpQ6yT9lNbTtQ-3GgQaIpcgv_wwS",
@@ -173,41 +183,51 @@
     "country": "United States",
     "title": "Hurricane Kirk",
     "pubDate": "Mon, 30 Sep 2024 13:00:00 -0700",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTtOj9QAANSNfXDnFPzK8HSMxskJxH7OW9pSPXmDJJaaAldbxMuyLjs4z1wy1HGGD2IaUtgW8Q",
-    "news_item_snippet": "Tropical Storm Kirk formed in the Atlantic Monday. Another disturbances in the Atlantic. Gulf Coast residents should monitor the one in the Caribbean.",
-    "news_item_url": "https://www.tcpalm.com/story/weather/hurricanes/2024/09/30/tropical-tracker-national-hurricane-center-kirk-isaac-joyce-12-florida-us-impacts/75443574007/",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRY61v3mnuGElGStMaMPK0TRgXqxzkN7ZtWFJfEZXECS67szL0yvmWgFWA0I5y5-CZvCf3Wqmho",
+    "news_item_snippet": "Tropical Storm Kirk formed in the Central Atlantic on Monday. This storm is located about 860 miles west of the Cabo Verde Islands and is expected to become&nbsp;...",
+    "news_item_url": "https://www.wdsu.com/article/tropical-storm-kirk-forms-atlantic/62445043",
     "picture_source": "NBC 6 South Florida",
     "approx_traffic": "50,000+"
   },
   {
+    "country": "United States",
+    "title": "PlayStation Network",
+    "pubDate": "Mon, 30 Sep 2024 19:00:00 -0700",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQ_c5dQQ8UvyRNxCt4vt_scQvgn-37KevTFzdBwpFuWv5b9PNKf9Gvp8QJv84Ad3rOAuO4IIB70",
+    "news_item_snippet": "(KRON) \u2014 PlayStation users are facing widespread outages across multiple platforms, leaving many unable to sign in or access online features.",
+    "news_item_url": "https://www.kron4.com/news/bay-area/playstation-network-reports-global-outage/",
+    "picture_source": "The Verge",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "India",
+    "title": "Bangladesh vs India",
+    "pubDate": "Mon, 30 Sep 2024 14:30:00 +0530",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRJxdE7OpR6j6SeM9wqQ8z_Jw4u0szivGCdFfvtzRGY9tlYOBEHLGqCDj_faRYeh8sx0bMucGFh",
+    "news_item_snippet": "India vs Bangladesh Live Score, 2nd Test Day 5: Indian bowlers need to produce their best show to register a stunning 2-0 win after two days of washout.",
+    "news_item_url": "https://www.hindustantimes.com/cricket/india-vs-bangladesh-live-score-2nd-test-match-day-5-ind-vs-ban-2024-latest-cricket-scorecard-kanpur-today-october-1-101727717629723.html",
+    "picture_source": "NDTVSports.com",
+    "approx_traffic": "2,000,000+"
+  },
+  {
     "country": "India",
     "title": "IND vs BAN",
-    "pubDate": "Mon, 30 Sep 2024 20:30:00 +0530",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSKcgzylq4hHEDzfwdfnz7Hv00AfdbPH6RqsFYaW1zktLjjxxglB86tfrM1X0AlWMGgtlDPrv42",
-    "news_item_snippet": "Yashaswi Jaiswal is third behind Shardul Thakur as the third fastest batsman to score a fifty for India in Tests.\u0c1f\u0c46\u0c38\u0c4d\u0c1f\u0c41\u0c32\u0c4d\u0c32\u0c4b \u0c2d\u0c3e\u0c30\u0c24\u0c4d \u0c24\u0c30\u0c2b\u0c41\u0c28 \u0c35\u0c47\u0c17\u0c02\u0c17\u0c3e&nbsp;...",
-    "news_item_url": "https://telugu.mykhel.com/cricket/ind-vs-ban-yashasvi-jaiswal-joins-virender-sehwag-in-elite-list-fastest-test-fifties-for-india-077203.html",
-    "picture_source": "\u0905\u092e\u0930 \u0909\u091c\u093e\u0932\u093e",
+    "pubDate": "Mon, 30 Sep 2024 22:30:00 +0530",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTdh3RCG-zt9eM7IWiWm3GJtL27uPLWJrJ50LfR_w5pNKOgMAImMfOHRKZWmHneTrYuqa2zvaZM",
+    "news_item_snippet": "IND vs BAN 2nd Test Live Cricket Score, India vs Bangladesh 2nd Test Live Score Online Today Match (\u092d\u093e\u0930\u0924 \u092c\u0928\u093e\u092e \u092c\u093e\u0902\u0917\u094d\u0932\u093e\u0926\u0947\u0936 \u091f\u0947\u0938\u094d\u091f \u092e\u0948\u091a \u0932\u093e\u0907\u0935 \u0915\u094d\u0930\u093f\u0915\u0947\u091f&nbsp;...",
+    "news_item_url": "https://www.jansatta.com/khel/cricket/ind-vs-ban-2nd-test-day-5-live-cricket-scorecard-watch-online-kanpur-green-park-aaj-ke-match-ka-seedha-prasharan/3601651/",
+    "picture_source": "Hindustan Times",
     "approx_traffic": "1,000,000+"
   },
   {
     "country": "India",
-    "title": "IPO allotment status",
+    "title": "KRN IPO allotment status",
     "pubDate": "Mon, 30 Sep 2024 08:30:00 +0530",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRnAuIwKK2ZqlGl6nF6Er6hEOLud69uD1HwR3NwiXztqN8BYF_8WMK2B2YngQJotNfTWNpDki2K",
     "news_item_snippet": "KRN Heat Exchanger shares are commanding a GMP in the price range of Rs 270, which translates to a premium of nearly 123 percent over the issue price.",
     "news_item_url": "https://www.moneycontrol.com/news/business/ipo/krn-heat-exchanger-ipo-allotment-status-check-latest-gmp-subscription-and-other-key-details-12832087.html",
     "picture_source": "Livemint",
     "approx_traffic": "200,000+"
-  },
-  {
-    "country": "India",
-    "title": "Rohit Sharma",
-    "pubDate": "Mon, 30 Sep 2024 14:30:00 +0530",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcS5vo4bCktWhNJ6Q2AmiYzTd7AUQUK4A39970QYqKo6vSFL5FLcAWvvFf4GgP6QywOe2GmQOhBi",
-    "news_item_snippet": "A Test match that seemed certain to end up a draw now carries way more jeopardy thanks to the India captain.",
-    "news_item_url": "https://www.espncricinfo.com/story/ind-vs-bangladesh-2nd-test-rohit-sharma-and-the-sixes-that-woke-up-a-dead-game-1453275",
-    "picture_source": "NDTVSports.com",
-    "approx_traffic": "100,000+"
   },
   {
     "country": "India",
@@ -224,7 +244,7 @@
     "title": "Diffusion Engineers Ltd IPO GMP",
     "pubDate": "Mon, 30 Sep 2024 11:30:00 +0530",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQ0Mv0TtiBWwLRXTPcz2Lu48j1ICzA1MkVbgbhV0lKTpBjm5yzNggoiTmPSlzORwRd2_ftqJ-Dq",
-    "news_item_snippet": "Diffusion Engineers IPO was subscribed 114 times on the third and last day of issue with the portion reserved for NIIs booked the highest among the three&nbsp;...",
+    "news_item_snippet": "According to stock market experts, the Diffusion Engineers IPO GMP, or grey market premium, dropped to \u20b955 per share today, which shows subdued interest among&nbsp;...",
     "news_item_url": "https://www.livemint.com/market/ipo/diffusion-engineers-ipo-subscribed-over-on-day-3-of-issue-booked-highest-latest-gmp-here-11727693625483.html",
     "picture_source": "Business Standard",
     "approx_traffic": "50,000+"
@@ -263,10 +283,10 @@
     "country": "Brazil",
     "title": "Tite",
     "pubDate": "Mon, 30 Sep 2024 07:00:00 -0500",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSxLISiEjzzgToKqYXHn-syKmUGlHPpzOnXkZJVVjrWHZh2rZdIAr4C_MXf7CKAbEz81n4YIg9T",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQC0A5vuGF7yBsK-5qxZoxoOyRYcyKJmuocLxmekMVSC8qBJi3A-Dn3Li6mbtdrWsdxi81IkKkt",
     "news_item_snippet": "Somos um ve\u00edculo de comunica\u00e7\u00e3o de destaque no Brasil, reconhecido por conte\u00fados nos segmentos de marketing, empreendedorismo e inova\u00e7\u00e3o.",
     "news_item_url": "https://www.cidademarketing.com.br/marketing/2024/09/30/flamengo-anuncia-saida-do-tecnico-tite/",
-    "picture_source": "globoesporte.com",
+    "picture_source": "Causa Oper\u00e1ria",
     "approx_traffic": "200,000+"
   },
   {
@@ -293,10 +313,20 @@
     "country": "Brazil",
     "title": "Gusttavo Lima",
     "pubDate": "Mon, 30 Sep 2024 07:00:00 -0500",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSyflcmSMlD4QjzsTzew_ajtWzEmPcuO464-C5v6_zM9WhyQRSQHrnQLhHLysF1TCV_ew1L-d3c",
-    "news_item_snippet": "O cantor Gusttavo Lima foi indiciado por lavagem de dinheiro e associa\u00e7\u00e3o criminosa, ap\u00f3s a investiga\u00e7\u00e3o da Pol\u00edcia Civil de Pernambuco.",
-    "news_item_url": "https://www.cnnbrasil.com.br/nacional/gusttavo-lima-indiciado-o-que-se-sabe-sobre-investigacao/",
-    "picture_source": "G1",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRsPdxQvBqnzYkLuwNdljLF1QRlNjiA-DdksZyg5pR9hOPZPZmqMPknmJ7CxYihZT8EapWI3qhB",
+    "news_item_snippet": "Live foi feita ap\u00f3s o &#39;embaixador&#39; ser indiciado por lavagem de dinheiro e organiza\u00e7\u00e3o criminosa. Gusttavo nega todas as acusa\u00e7\u00f5es.",
+    "news_item_url": "https://g1.globo.com/go/goias/noticia/2024/09/30/gusttavo-lima-faz-live-apos-indiciamento.ghtml",
+    "picture_source": "EBC",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Brazil",
+    "title": "Guarani x Ava\u00ed",
+    "pubDate": "Mon, 30 Sep 2024 14:00:00 -0500",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSFCGdWKyiCmPQdd2ZIEEjM6WFfZ6TRpW_sTa1Fs39f6snDOL6tA5LwCZx4y8gDHsD9qnakG1d3",
+    "news_item_snippet": "Veja tamb\u00e9m desfalques, arbitragem e outras informa\u00e7\u00f5es para a partida pela 29\u00aa rodada da S\u00e9rie B do Brasileiro.",
+    "news_item_url": "https://ge.globo.com/sp/campinas-e-regiao/futebol/brasileirao-serie-b/noticia/2024/09/30/guarani-x-avai-onde-assistir-ao-vivo-horario-e-escalacoes.ghtml",
+    "picture_source": "CNN Brasil",
     "approx_traffic": "50,000+"
   },
   {
@@ -320,43 +350,23 @@
     "approx_traffic": "50,000+"
   },
   {
-    "country": "Brazil",
-    "title": "Guarani x Ava\u00ed",
-    "pubDate": "Mon, 30 Sep 2024 14:00:00 -0500",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSFCGdWKyiCmPQdd2ZIEEjM6WFfZ6TRpW_sTa1Fs39f6snDOL6tA5LwCZx4y8gDHsD9qnakG1d3",
-    "news_item_snippet": "Veja tamb\u00e9m desfalques, arbitragem e outras informa\u00e7\u00f5es para a partida pela 29\u00aa rodada da S\u00e9rie B do Brasileiro.",
-    "news_item_url": "https://ge.globo.com/sp/campinas-e-regiao/futebol/brasileirao-serie-b/noticia/2024/09/30/guarani-x-avai-onde-assistir-ao-vivo-horario-e-escalacoes.ghtml",
-    "picture_source": "CNN Brasil",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Brazil",
-    "title": "Palmeiras Sub-20",
-    "pubDate": "Mon, 30 Sep 2024 17:00:00 -0500",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcT3oIAqPBWARmrgndVWAoDSu_aXkvLCfj_wRHKJMkYToimDmM3j6mnBmvf7mmvseUxDI7ZyQEks",
-    "news_item_snippet": "Sob o olhar de Abel Ferreira, Allan e Rafael Coutinho marcaram os gols no Allianz Parque.",
-    "news_item_url": "https://www.terra.com.br/esportes/palmeiras/palmeiras-goleia-cruzeiro-e-e-tricampeao-brasileiro-sub-20,52463ba76d198bd0ba92bbdbbb0a158fi4v9jvnn.html",
-    "picture_source": "globoesporte.com",
-    "approx_traffic": "50,000+"
-  },
-  {
     "country": "Canada",
     "title": "Dikembe Mutombo",
     "pubDate": "Mon, 30 Sep 2024 12:00:00 -0400",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRiAe35TKsgx46kKSbdvdq2x1-mNd0P9OSJrDj5cCY4RT41MnpCTGd8V0httDcMEHTa2AHJjh8_",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQDPO-g0_dEk_a8WExTshPTcAfpfcsCKTLY6wXwnuhE95pu3RpEWlAglv5lXC1b5csCXqsFIcv_",
     "news_item_snippet": "Dikembe Mutombo (SLL &#39;91, H &#39;10), a Georgetown University men&#39;s basketball icon who became a basketball Hall of Famer for his rebounding and blocking&nbsp;...",
     "news_item_url": "https://thehoya.com/news/dikembe-mutombo-gu-basketball-legend-and-nba-hall-of-famer-dies-at-58/",
-    "picture_source": "Georgetown University The Hoya",
+    "picture_source": "Squamish Chief",
     "approx_traffic": "50,000+"
   },
   {
     "country": "Canada",
     "title": "Pete Rose",
     "pubDate": "Mon, 30 Sep 2024 20:00:00 -0400",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSY8BPlOPWBFzjbMi2OqBPUNWIt3h12H1uhRkL0NMhMNEd57dzkPrrN4MG-1Kd5wfEEUUAGrymz",
-    "news_item_snippet": "NEW YORK (AP) - Pete Rose, baseball&#39;s career hits leader and fallen idol who undermined his historic achieveme...",
-    "news_item_url": "https://ckpgtoday.ca/2024/09/30/pete-rose-baseballs-banned-hits-leader-has-died-at-age-83/",
-    "picture_source": "Fort McMurray Today",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTukD1o3tCqKUoe_CD9Xd9cw6LGOp7KzWAu9GD2fH86aGxg-x0V5MNrW04sGVA4PQSWk9XYwIo9",
+    "news_item_snippet": "L&#39;ancien joueur de baseball Pete Rose est d\u00e9c\u00e9d\u00e9 selon TMZ Il \u00e9tait \u00e2g\u00e9 de 83 ans. Il est mort chez lui durant la journ\u00e9e \u00e0 sa r\u00e9sidence de Las Vegas.",
+    "news_item_url": "https://www.957kyk.com/nouvelles/650955/pete-rose-est-decede-a-l-age-de-83-ans",
+    "picture_source": "CKPGToday.ca",
     "approx_traffic": "50,000+"
   },
   {
@@ -364,8 +374,8 @@
     "title": "\ub9e8\uc720 \ub300 \ud1a0\ud2b8\ub118",
     "pubDate": "Sun, 29 Sep 2024 22:00:00 +0900",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTOjwpgScWkGFxe_OmZyLRDccSgFMXdHn8eCWwM5ix1tQLf86jsq0OBlT_46yB9DDYdJ8Zy1KbL",
-    "news_item_snippet": "\uc5d0\uc774\uc2a4 \uc190\ud765\ubbfc\uc774 \ubd80\uc0c1\uc73c\ub85c \uacb0\uc7a5\ud55c \ud1a0\ud2b8\ub118\uc774 \ub9e8\uccb4\uc2a4\ud130 \uc720\ub098\uc774\ud2f0\ub4dc\ub97c 3\ub300 0\uc73c\ub85c \uaebe\uace0 \uc21c\uc704\ub97c 8\uc704\ub85c \ub04c\uc5b4\uc62c\ub838...",
-    "news_item_url": "https://news.kbs.co.kr/news/view.do?ncd=8070077",
+    "news_item_snippet": "\ud1a0\ud2b8\ub118 \ud64b\uc2a4\ud37c\ub294 \uc7a0\uc2dc \ud6c4 30\uc77c \uc624\uc804 0\uc2dc 30\ubd84(\ud55c\uad6d\uc2dc\uac04) \uc601\uad6d \ub9e8\uccb4\uc2a4\ud130\uc758 \uc62c\ub4dc \ud2b8\ub798\ud3ec\ub4dc\uc5d0\uc11c \uc5f4\ub9ac\ub294 2024-2025\uc2dc\uc98c \ud504\ub9ac\ubbf8\uc5b4\ub9ac\uadf8 6\ub77c\uc6b4\ub4dc\uc5d0\uc11c \ub9e8\uccb4\uc2a4\ud130 \uc720\ub098\uc774\ud2f0\ub4dc\uc640&nbsp;...",
+    "news_item_url": "https://www.chosun.com/sports/world-football/2024/09/29/SF6BCSMXGAEX6EXSHYGW4ZKKPU/",
     "picture_source": "Manchester United",
     "approx_traffic": "500,000+"
   },
@@ -421,7 +431,7 @@
   },
   {
     "country": "Germany",
-    "title": "\u00d6sterreich-Wahl",
+    "title": "\u00d6sterreich Wahl",
     "pubDate": "Sun, 29 Sep 2024 12:00:00 +0200",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTaODzJjjMUoEE6bGxcUzC9Pmc-0qdU51q8lkVtrKkKcNNWyNpLY-RCK9oCItVHaP1K3g47KvjW",
     "news_item_snippet": "Die rechtspopulistische FP\u00d6 hat nicht trotz, sondern wegen ihrer Radikalit\u00e4t die Nationalratswahl in \u00d6sterreich gewonnen, meint Silke Hahne.",
@@ -481,22 +491,32 @@
   },
   {
     "country": "Mexico",
-    "title": "Que se celebra el 1 de octubre",
-    "pubDate": "Mon, 30 Sep 2024 08:00:00 -0600",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTo4BvH1cg4vH5ca5oJxcZz1fCPnH_Qq-YtHJoHnuLhuivf372Q0zTXfw6UzFTqbiu2W_BEZRMs",
-    "news_item_snippet": "Arranca el d\u00e9cimo mes del a\u00f1o y varias celebraciones se llevan a cabo este martes.",
-    "news_item_url": "https://www.rcnradio.com/estilo-de-vida/que-se-celebra-el-1-de-octubre",
-    "picture_source": "Milenio.com",
+    "title": "Pumas vs america",
+    "pubDate": "Mon, 30 Sep 2024 14:00:00 -0600",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQPvf8O5ob78gTc-2Cwb91swUJa0VhxBUmC6zZImFxUECO_7XMNw8crw43Z_ROUrj4ZFL3NwPsV",
+    "news_item_snippet": "El analista de SportsCenter habl\u00f3 de la rivalidad que existe entre Am\u00e9rica y Pumas, comparando con la que existe entre las \u00c1guilas y Chivas.",
+    "news_item_url": "https://espndeportes.espn.com/video/clip/_/id/14246704",
+    "picture_source": "ESPN Deportes",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Mexico",
+    "title": "Claudia Sheinbaum",
+    "pubDate": "Mon, 30 Sep 2024 10:00:00 -0600",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRM62eIGCO1GrISgCb1M6LYfa3tUZx1pqVJH-hjiRhftQcoKukH6o1oYkY2HeVrZN_KSRHIHhf0",
+    "news_item_snippet": "Ciudad de M\u00e9xico.- Este martes 1 de octubre Claudia Sheinbaum Pardo iniciar\u00e1 su gobierno como la primera presidenta de M\u00e9xico, un cargo que desde 1994 han&nbsp;...",
+    "news_item_url": "https://cambiodemichoacan.com.mx/2024/09/30/donde-y-a-que-hora-sera-la-toma-de-protesta-de-claudia-sheinbaum/",
+    "picture_source": "emeequis",
     "approx_traffic": "50,000+"
   },
   {
     "country": "Spain",
     "title": "Unicaja",
     "pubDate": "Mon, 30 Sep 2024 14:00:00 +0200",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTA8UNqILUP_4ZbOc_8oyzGeLXBJRKOcKIYyKvLz5W0Cy-FP9HsUJrnoKPl14fAKwwAd_IiXsbH",
-    "news_item_snippet": "Este tipo de operaciones son habituales entre las entidades bancarias para equilibrar su balance y reducir su tasa de mora.",
-    "news_item_url": "https://www.idealista.com/news/finanzas/economia/2024/09/30/820141-unicaja-vende-al-fondo-lcm-partners-una-cartera-de-hipotecas-con-problemas-por-200",
-    "picture_source": "Funds People",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTg4HxnXJ6spIqDzimf1a7ww-Zug_jB4jX02naBFLZUIuOCy68tj3B6R4xr73C1VvrB_vRIGghw",
+    "news_item_snippet": "Compatibilizar\u00e1 este cargo con el de consejero delegado de Unicorp Patrimonio, la divisi\u00f3n especializada en banca privada del banco.",
+    "news_item_url": "https://fundspeople.com/es/unicaja-unifica-en-emilio-mejia-la-direccion-de-sus-negocios-de-banca-privada-y-gestion-de-activos/",
+    "picture_source": "Expansi\u00f3n.com",
     "approx_traffic": "50,000+"
   },
   {
@@ -513,7 +533,7 @@
     "country": "Spain",
     "title": "Natalia S\u00e1nchez",
     "pubDate": "Mon, 30 Sep 2024 23:00:00 +0200",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTq49BUkBvTXZV_fmRwfSsGW62h1t4hKktvgfiko56rW7K6VKmUKtRMIO2vpByik2gMM9uTolm_",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQ9ekCYeJjd_QZ3evRsU2p-NpWI6Gc01SFT4TdINA4ygf0z5S85-INdYa4qK-FsGaDEkOpj49Sg",
     "news_item_snippet": "Natalia S\u00e1nchez y Andr\u00e9s Velencoso son los protagonistas de uno de los proyectos m\u00e1s ambiciosos de Disney + hasta la fecha. La serie El ...",
     "news_item_url": "https://www.eleconomista.es/informalia/television/noticias/13010734/09/24/quien-es-natalia-sanchez-invitada-a-el-hormiguero-la-actriz-que-paso-de-tete-en-los-serrano-a-ser-madre-de-familia.html",
     "picture_source": "Antena 3",
