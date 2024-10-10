@@ -1,6 +1,26 @@
 [
   {
     "country": "United States",
+    "title": "Hurricane Nadine",
+    "pubDate": "Thu, 10 Oct 2024 08:00:00 -0700",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTr2uhdyu_uc7IlJQoKYIU6cm9Z3FSxIceWPKnGZ2ZheGuNV1lOUvaPYCMRI7dzJqP8ACKdg9jU",
+    "news_item_snippet": "Is hurricane Nadine real? Rumors of &quot;Nadine&quot; flooded social media in the days leading up to Milton&#39;s landfall.",
+    "news_item_url": "https://www.wesh.com/article/tropics-gulf-florida-nadine/62568833",
+    "picture_source": "Newsweek",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Tropicana Field roof ripped off",
+    "pubDate": "Thu, 10 Oct 2024 07:00:00 -0700",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQ5vsigFXUei1Ppb9aI2_vbGZmEt_QTecCEneT__RvRbBbPIoKiQIdLdOVEsSNQK66wOD7LX6BM",
+    "news_item_snippet": "Videos posted on social media showed the roof ripped to shreds with debris all over the field after Hurricane Milton slammed the area.",
+    "news_item_url": "https://www.cbsnews.com/news/hurricane-milton-tropicana-field-roof-destroyed-tampa-bay-rays-stadium/",
+    "picture_source": "NBC News",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
     "title": "Rafael Nadal",
     "pubDate": "Thu, 10 Oct 2024 08:00:00 -0700",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQf7wKmahZCCuYMW6Pm9Mrd08zH7Uu9UrWK_rFQxDE_c65VG5vORLpV09RnfjSdihZY12596oG3",
@@ -11,13 +31,53 @@
   },
   {
     "country": "United States",
+    "title": "Aurora forecast",
+    "pubDate": "Thu, 10 Oct 2024 07:00:00 -0700",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRvoNyI1BLQN2QmewyDs_qVZIL0E5F9h14a-_tlGmeT-enwScrFZd19PTZGPHiGQFrTebAe4wpc",
+    "news_item_snippet": "A &quot;severe&quot; solar storm could make the aurora borealis visible across much of Iowa tonight and in portions of the state tomorrow.",
+    "news_item_url": "https://www.desmoinesregister.com/story/news/2024/10/10/aurora-borealis-forecast-iowa-noaa/75603437007/",
+    "picture_source": "CBS News",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Seahawks",
+    "pubDate": "Thu, 10 Oct 2024 13:00:00 -0700",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTx6xuVh7sWJbMKzMHvg1gVP8hDe7pFh68f6epJxHsYplBkEIVhujEDB3TRei1lLJukqL7LWM7D",
+    "news_item_snippet": "The Seattle Seahawks face the 49ers on October 10 at Lumen Field as part of Week 6 of the 2024 season. Kickoff is set for 5:15 p.m. PT.",
+    "news_item_url": "https://www.seahawks.com/news/picks-and-predictions-for-week-6-vs-the-san-francisco-49ers",
+    "picture_source": "Seahawks.com",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Yung Filly",
+    "pubDate": "Thu, 10 Oct 2024 06:00:00 -0700",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcR41RDepSDCvwooOpB15Qi64IS4s57O4cFpS2DWQhmdX5_ugS6CSd5IZUWxV0ifHB1AQN5bp-vz",
+    "news_item_snippet": "The internet personality, whose real name is Andres Felipe Valencia Barrientos, is known for his work with the Beta Squad and has over 3.2 million followers on&nbsp;...",
+    "news_item_url": "https://www.hollywoodreporter.com/business/digital/british-youtube-yung-filly-arrest-rape-allegations-1236029306/",
+    "picture_source": "Los Angeles Times",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Milton Hurricane update",
+    "pubDate": "Wed, 09 Oct 2024 08:00:00 -0700",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRZq-jyzXe7mR6m2G_5lr6Ue1gNtlUTfCIRUaVpIa2-hrGQOPHFAwxg-TvYWW9Qck24z0IgIVxz",
+    "news_item_snippet": "Barrier islands were battered, and over three million customers were without power. All of the deaths reported so far were in St. Lucie County,&nbsp;...",
+    "news_item_url": "https://www.nytimes.com/live/2024/10/10/weather/hurricane-milton-florida-live-news",
+    "picture_source": "The New York Times",
+    "approx_traffic": "2,000,000+"
+  },
+  {
+    "country": "United States",
     "title": "Yankees",
-    "pubDate": "Wed, 09 Oct 2024 22:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcT9yWFStwMeXyEjFxLTXHKKslDSgjywu6KY7ypnzvb7jYqLanp-9-aliskDG5JIA_XXPkF_PLXI",
+    "pubDate": "Wed, 09 Oct 2024 17:00:00 -0700",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSxhCjOTyzjqBQPHJANhVyRDsk1LqvSC7HqJAihRWT8bqS-Jm9h5QXe5HDvOZ2zghobH_OR85BF",
     "news_item_snippet": "KANSAS CITY -- Giancarlo Stanton has said he lives for the moments that only the postseason can provide, savoring its brighter spotlight and an opportunity&nbsp;...",
     "news_item_url": "https://www.mlb.com/news/yankees-win-alds-game-3-2024",
     "picture_source": "MLB.com",
-    "approx_traffic": "200,000+"
+    "approx_traffic": "500,000+"
   },
   {
     "country": "United States",
@@ -34,88 +94,18 @@
     "title": "Ratan Tata",
     "pubDate": "Wed, 09 Oct 2024 12:00:00 -0700",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQZWcBm5mPRwRbq9YisenXfgI0q-Ib8kSef8qhLYowl19GVQ1nzaIeWgPVQT9J1N2LTzBsG6lMy",
-    "news_item_snippet": "The patriarch of a powerful family, his Tata Group put an indelible stamp on Indian life while acquiring British brand names like Tetley Tea and Jaguar.",
-    "news_item_url": "https://www.nytimes.com/2024/10/09/business/ratan-tata-dead.html",
+    "news_item_snippet": "The funeral has taken place in Mumbai of Ratan Tata, the former chairman of one of India&#39;s biggest conglomerates, Tata Group, who died on Wednesday aged 86.",
+    "news_item_url": "https://www.bbc.com/news/articles/crm211ez121o",
     "picture_source": "Starbucks Stories",
     "approx_traffic": "200,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Witherspoon",
-    "pubDate": "Wed, 09 Oct 2024 04:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcT3TudoyPA1Va-Vs_a_SnMEiMizwZg1p9W1Hsnc7Npna6fQoFbB089k14KglGCl_UisOx0kmGU9",
-    "news_item_snippet": "Meet Cortly Witherspoon, a community school liaison at Baltimore County&#39;s Winfield Elementary School. He&#39;s a longtime social and political activist and now,&nbsp;...",
-    "news_item_url": "https://marylandeducators.org/my-turn-baltimore-county-care-liaison-cortly-witherspoon/",
-    "picture_source": "Maryland State Education Association",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Guardians vs Tigers",
-    "pubDate": "Wed, 09 Oct 2024 14:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSdSQXLhZ3FiFsppigF3SztXJqsax7WPMr8Un6XdcEG1QEbVWiHPBrRVhGWSZUR7XbtBpPyirbW",
-    "news_item_snippet": "SportsLine&#39;s model simulated Thursday&#39;s ALDS Game 4 Cleveland Guardians vs. Detroit Tigers matchup 10000 times.",
-    "news_item_url": "https://www.cbssports.com/mlb/news/guardians-vs-tigers-prediction-odds-line-time-2024-alds-game-4-picks-mlb-playoff-bets-by-proven-model/",
-    "picture_source": "MLB.com",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Lieutenant Dan",
-    "pubDate": "Wed, 09 Oct 2024 17:00:00 -0700",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRb0PjBvxd1uHp6A2ULj1I6SKuCYc8Ygrmxvq-o8wjH0ouY9zvwfeYvSjUbEFTpClkVtT9al5W3",
-    "news_item_snippet": "Fans gathered to check on Lt. Dan, real name Joe Malinowski, to see if he weathered Hurricane Milton on his 22-foot sailboat.",
-    "news_item_url": "https://www.usatoday.com/story/news/nation/2024/10/10/lt-dan-tiktok-hurricane-milton-sailor/75602596007/",
-    "picture_source": "Forbes",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Outer Banks Season 4",
-    "pubDate": "Wed, 09 Oct 2024 16:00:00 -0700",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcT_MOCUWeD12YvNUxldL4zD2MbxKVualkGew64fty4DpLSbvWh8KxAJTeGSv2HP2aM4KRUwRhOx",
-    "news_item_snippet": "Part 1 of the &quot;Outer Banks&quot; Season 4 is streaming on Netflix. Find out when Part 2 will be released so you can watch the Pogues continue their hunt for&nbsp;...",
-    "news_item_url": "https://www.forbes.com/sites/monicamercuri/2024/10/10/when-does-the-outer-banks-season-4-part-2-drop-on-netflix-full-release-schedule/",
-    "picture_source": "AZCentral.com",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Tropicana implosion",
-    "pubDate": "Wed, 09 Oct 2024 03:00:00 -0700",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQkv7v4dWWqjRUrcMMo3TB_NiStJ_8XvCxN58mTx3P-4KLL66lNnFslOMvDfhk45zUpWqpAVhbX",
-    "news_item_snippet": "As Las Vegas pushes to offer more high-end experiences beyond gambling, the resort hotel was demolished to make way for a new baseball stadium.",
-    "news_item_url": "https://www.nbcnews.com/business/economy/tropicana-las-vegas-casino-implosion-sports-rcna172749",
-    "picture_source": "NPR",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Ethel Kennedy",
-    "pubDate": "Wed, 09 Oct 2024 05:00:00 -0700",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQItnLNISBWw4ktYot4XnsN34MbEUCEBucZL8VceXzmRjp1JKEiZB4tzdAeKJBivm7EItkzTFFr",
-    "news_item_snippet": "The widow of Robert F. Kennedy had suffered a stroke last week and was receiving treatment when she died, her grandson, former Rep. Joe Kennedy III, said.",
-    "news_item_url": "https://www.nbcnews.com/news/obituaries/ethel-kennedy-dies-96-rcna102978",
-    "picture_source": "NPR",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
-    "title": "New York Yankees",
-    "pubDate": "Wed, 09 Oct 2024 22:00:00 -0700",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRdOXFKbRQ83Cy09KBeB2brO0KYQrdDZ52HK4hSweMX9dTu3C9OfkKOO85q03kmUgXe7fZN7t_H",
-    "news_item_snippet": "\u201cJesus, I trust in you.\u201d These are the words given to us by St. Faustina Kowalska as revealed to her by Christ in his Divine Mercy appearances.",
-    "news_item_url": "https://www.ncregister.com/blog/bill-maher-tribute-to-george-rose",
-    "picture_source": "National Catholic Register",
-    "approx_traffic": "50,000+"
   },
   {
     "country": "India",
     "title": "Ratan Tata Son",
     "pubDate": "Thu, 10 Oct 2024 00:30:00 +0530",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcS9YgHYnHeKT7v-W62Vz7RhrWpaQtCcgjhD6IlI_GHp7BNGxuxE9I4RqPh7fizb_EBkF865hG-H",
-    "news_item_snippet": "Ratan Tata, former Tata Group chairman, passed away at 86. Tata&#39;s vision and leadership transformed the Tata Group into a global brand.",
-    "news_item_url": "https://m.economictimes.com/news/india/ratan-tata-no-more-tata-sons-chairman-emeritus-passes-away/articleshow/114095711.cms",
+    "news_item_snippet": "Ratan Tata breathed his last on Wednesday, October 9, after being in critical condition at the intensive care unit at Mumbai&#39;s Breach Candy Hospital.",
+    "news_item_url": "https://www.livemint.com/companies/people/ratan-tata-passes-away-at-86-top-business-tycoon-to-philanthropist-icon-a-look-at-his-life-and-legacy-11728494406639.html",
     "picture_source": "The Hindu",
     "approx_traffic": "500,000+"
   },
@@ -131,6 +121,16 @@
   },
   {
     "country": "India",
+    "title": "Bangladesh Women vs West Indies Women",
+    "pubDate": "Thu, 10 Oct 2024 10:30:00 +0530",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTP7D0gf3mhrmW2TphU7NiCyi9FtIEcVuNY0gcXggqicpsqvs4iogdfrITzRvKkX9aC69RBT_od",
+    "news_item_snippet": "Both sides are coming into the match with 2 points each and need a win to solidify their chances for the knockouts in the Women&#39;s T20 World Cup.",
+    "news_item_url": "https://www.business-standard.com/cricket/icc-womens-t20-world-cup/women-s-t20-world-cup-2024-ban-w-vs-wi-w-playing-11-live-time-streaming-124100900807_1.html",
+    "picture_source": "Sportstar",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "India",
     "title": "Sports",
     "pubDate": "Thu, 10 Oct 2024 08:30:00 +0530",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcR-qvlaMZ69MEPJOGD72mlkjtXrBetY_62UV1XGpgf0xPidTig61zswr9RmJZ5-oCEPPniWeyhP",
@@ -138,16 +138,6 @@
     "news_item_url": "https://dipr.mizoram.gov.in/post/khawzawlah-district-sports-committee-meeting-neih-a-ni",
     "picture_source": "EastMojo",
     "approx_traffic": "200,000+"
-  },
-  {
-    "country": "India",
-    "title": "Bangladesh Women vs West Indies Women",
-    "pubDate": "Thu, 10 Oct 2024 19:30:00 +0530",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTP7D0gf3mhrmW2TphU7NiCyi9FtIEcVuNY0gcXggqicpsqvs4iogdfrITzRvKkX9aC69RBT_od",
-    "news_item_snippet": "Both sides are coming into the match with 2 points each and need a win to solidify their chances for the knockouts in the Women&#39;s T20 World Cup.",
-    "news_item_url": "https://www.business-standard.com/cricket/icc-womens-t20-world-cup/women-s-t20-world-cup-2024-ban-w-vs-wi-w-playing-11-live-time-streaming-124100900807_1.html",
-    "picture_source": "Sportstar",
-    "approx_traffic": "100,000+"
   },
   {
     "country": "India",
@@ -161,11 +151,31 @@
   },
   {
     "country": "India",
+    "title": "TCS",
+    "pubDate": "Thu, 10 Oct 2024 07:30:00 +0530",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSQw1Jgd_BCI7JRzHkync80F6YVIZCbUt1lNyn1WePHTGsR4oe4CMHTWVGCBPgmNteJ2gG5vr_b",
+    "news_item_snippet": "TCS Q2 Results: Tata Consultancy Services (TCS), India&#39;s leading software exporter, reported a 5% growth in consolidated net profit, reaching Rs 11909 crore&nbsp;...",
+    "news_item_url": "https://m.economictimes.com/markets/stocks/earnings/tcs-q2-results-profit-rises-5-yoy-to-rs-11909-crore-misses-estimates/articleshow/114119023.cms",
+    "picture_source": "Business Standard",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "India",
     "title": "Murasoli Selvam",
     "pubDate": "Thu, 10 Oct 2024 14:30:00 +0530",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTV1O0Z9lGxjnVwyd6e01DXYtvWtDEGxSqQAVortUy871C-BAcgz1kIbyPaC4JKWMWgJ2_L-UwY",
-    "news_item_snippet": "Chennai: Selvam, former editor of Murasoli the mouthpiece of Tamil Nadu&#39;s ruling Dravida Munnetra Kazhagam (DMK) and son-in-law of late party patriarch M&nbsp;...",
-    "news_item_url": "https://www.deccanherald.com/india/tamil-nadu/murasoli-selvam-son-in-law-of-karunanidhi-passes-away-at-82-3227143",
+    "news_item_snippet": "Selvam was the younger brother of former Union minister Murasoli Maran and Stalin&#39;s younger sister Selvi&#39;s husband.",
+    "news_item_url": "https://timesofindia.indiatimes.com/city/chennai/murasoli-selvam-m-k-stalins-brother-in-law-dies-aged-85/articleshow/114126793.cms",
+    "picture_source": "Livemint",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "India",
+    "title": "Latest News",
+    "pubDate": "Thu, 10 Oct 2024 08:30:00 +0530",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcS0fnmAScsVqSldIHNgU18gdEp7_oIhaErCkVwYoDti8Rettz526aRVq0z_mxYaWcxHuRjgZQBc",
+    "news_item_snippet": "Disclaimer: This is an AI-generated live blog and has not been edited by LiveMint staff. 10 Oct 2024, 09:25:30 PM IST. Stock Markets Today Live Updates&nbsp;...",
+    "news_item_url": "https://www.livemint.com/market/latest-markets-today-live-updates-october-10-2024-11728507807582.html",
     "picture_source": "Livemint",
     "approx_traffic": "50,000+"
   },
@@ -180,16 +190,6 @@
     "approx_traffic": "50,000+"
   },
   {
-    "country": "India",
-    "title": "TCS",
-    "pubDate": "Thu, 10 Oct 2024 07:30:00 +0530",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQPALAla8GfZtUp3UhpeFLK320gZsMWHafVBVLAmgZ71tSM8GxDfpvkShbHLEokdqVZ6Saej69j",
-    "news_item_snippet": "\u0bb5\u0bbf\u0b9a\u0bbe\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bae\u0bcd: \u0b9f\u0bbf\u0b9a\u0bbf\u0b8e\u0bb8\u0bcd \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bae\u0bcd \u0b86\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0 \u0bae\u0bbe\u0ba8\u0bbf\u0bb2\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0bae\u0bbf\u0b95\u0baa\u0bcd\u0baa\u0bc6\u0bb0\u0bbf\u0baf \u0b90\u0b9f\u0bbf \u0b85\u0bb2\u0bc1\u0bb5\u0bb2\u0b95\u0ba4\u0bcd\u0ba4\u0bc8 \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5 \u0b87\u0bb0\u0bc1\u0baa\u0bcd\u0baa\u0ba4\u0bbe\u0b95 \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1 \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbf\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1.",
-    "news_item_url": "https://tamil.goodreturns.in/news/tcs-to-open-an-it-facility-in-visakhapatnam-052471.html",
-    "picture_source": "Livemint",
-    "approx_traffic": "50,000+"
-  },
-  {
     "country": "Argentina",
     "title": "Huracan Milton trayectoria",
     "pubDate": "Wed, 09 Oct 2024 08:00:00 -0300",
@@ -200,23 +200,13 @@
     "approx_traffic": "100,000+"
   },
   {
-    "country": "Argentina",
-    "title": "Veto universitario",
-    "pubDate": "Wed, 09 Oct 2024 11:00:00 -0300",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSuY2O5IBH4HkN6mRKN6wVjQLATyGcGKgR2I7PlL7IkTjqD_PFDuwRmSZ5FPN2jZ4UcVzMoWpMj",
-    "news_item_snippet": "La C\u00e1mara de Diputados no pudo revertir el veto presidencial a la Ley de Financiamiento Universitario. En la sesi\u00f3n especial de hoy, 159 diputados votaron a&nbsp;...",
-    "news_item_url": "https://chequeado.com/el-explicador/ley-de-financiamiento-universitario-en-vivo-el-congreso-trata-el-veto-de-milei/",
-    "picture_source": "Infobae.com",
-    "approx_traffic": "50,000+"
-  },
-  {
     "country": "Australia",
     "title": "Socceroos",
     "pubDate": "Thu, 10 Oct 2024 10:00:00 +1100",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQ5tItpOE5GgPc8Dml9FReC2nXuaOdUIGOzZ2408YRwhnEOgnzpLmwyltXnCVVPJXy_5LgRhHMI",
-    "news_item_snippet": "Tony Popovic&#39;s tenure begins with a critical home match against China that will go some way to determining Australia&#39;s qualifying path through Asia.",
-    "news_item_url": "https://www.smh.com.au/sport/soccer/fifa-world-cup-qualifiers-live-updates-socceroos-v-china-at-adelaide-oval-20241010-p5kh8s.html",
-    "picture_source": "Fox Sports",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSIIEFoEzNcPl_w3_Jx1Var9pDa7vYyb8PixZb82z0Smw4u9DlT-fAf9z6GQWLOmooBH76jrKNr",
+    "news_item_snippet": "Socceroos avoid WC qualifying disaster after &#39;catastrophic&#39; start in new coach&#39;s first game.",
+    "news_item_url": "https://www.foxsports.com.au/football/socceroos/socceroos-2024-australia-vs-china-world-cup-qualifier-live-scores-updates-start-time-aedt-2026-qualifying-updates-football-latest-news/news-story/8dc871a9f65332fb3c4550aa2e345521",
+    "picture_source": "The Sydney Morning Herald",
     "approx_traffic": "100,000+"
   },
   {
@@ -224,8 +214,8 @@
     "title": "Yung Filly",
     "pubDate": "Thu, 10 Oct 2024 14:00:00 +1100",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQTFiLppEkPwxeTEahkmVuqRrJPrhlI91kztw2qfwrLvE2qSd8ceY8Pk4vradgkN7YpDt5ECou4",
-    "news_item_snippet": "Former BBC host, with millions of social media followers, was arrested in Australia following alleged attack on woman in Perth hotel room.",
-    "news_item_url": "https://www.theguardian.com/music/2024/oct/10/yung-filly-rapper-youtuber-charged-rape-assault",
+    "news_item_snippet": "British YouTube personality and rapper Yung Filly is granted bail by a Perth court after being accused of sexually assaulting a woman in his hotel room&nbsp;...",
+    "news_item_url": "https://www.abc.net.au/news/2024-10-10/uk-rapper-yung-filly-charged-with-raping-woman-in-perth-hotel/104455780",
     "picture_source": "BBC News",
     "approx_traffic": "50,000+"
   },
@@ -241,11 +231,31 @@
   },
   {
     "country": "Brazil",
+    "title": "Serie a",
+    "pubDate": "Thu, 10 Oct 2024 08:00:00 -0500",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQ3CBQlPH2FMVxfB9quKCF-kcIobfgEBfcAeVlbxM1OEU7S1quxWKKZO2R488qqkJsRt4qZsCbh",
+    "news_item_snippet": "Empres\u00e1rio Edgilson Dantas Santos, de 53 anos, dono de uma empresa de constru\u00e7\u00e3o e imobili\u00e1ria em Roraima, foi denunciado por agredir a ex-esposa,&nbsp;...",
+    "news_item_url": "https://g1.globo.com/rr/roraima/noticia/2024/10/10/mulher-denuncia-ex-marido-dono-de-construtora-por-serie-de-agressoes-e-violencia-psicologica.ghtml",
+    "picture_source": "G1",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Brazil",
+    "title": "Fran\u00e7a",
+    "pubDate": "Thu, 10 Oct 2024 14:00:00 -0500",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcROdh6_3DjPPXeuepL8JJhYgN-hwvalCPo5kx_9nfAiZeaQo2pXmX7nPsNaTh_0nEy6hK021itX",
+    "news_item_snippet": "A comitiva de docentes do Mestrado Acad\u00eamico Intercampi em Educa\u00e7\u00e3o e Ensino (MAIE/Uece), composta pelo professor Jos\u00e9 Ernandi Mendes, pelas professoras&nbsp;...",
+    "news_item_url": "https://www.uece.br/noticias/docentes-do-maie-realizam-missao-academica-no-reino-unido-franca-e-inglaterra/",
+    "picture_source": "ESPN.com.br",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Brazil",
     "title": "Florida",
     "pubDate": "Wed, 09 Oct 2024 05:00:00 -0500",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTAwofhiy2XRa_pPh5IVpesjQftWC4AmdZqJbIwT3nHhUGDfFsChEAhYb1FI5Tc4f6k4dBHYQO1",
-    "news_item_snippet": "O furac\u00e3o Milton avan\u00e7ou pela Fl\u00f3rida nesta quinta-feira (10), provocando tornados que destru\u00edram casas e deixaram mais de 3 milh\u00f5es de consumidores sem&nbsp;...",
-    "news_item_url": "https://g1.globo.com/mundo/noticia/2024/10/10/moradores-registram-tornados-em-diversas-partes-da-florida-video.ghtml",
+    "news_item_snippet": "Milton chegou a ser um furac\u00e3o de categoria cinco (a mais grave) \u2014 foi rebaixado para categoria 1, mas ainda est\u00e1 causando estragos. Ele est\u00e1 atingindo a&nbsp;...",
+    "news_item_url": "https://www.bbc.com/portuguese/articles/cvgl08xk0klo",
     "picture_source": "CNN Brasil",
     "approx_traffic": "1,000,000+"
   },
@@ -260,83 +270,23 @@
     "approx_traffic": "1,000,000+"
   },
   {
-    "country": "Brazil",
-    "title": "Edital Correios 2024",
-    "pubDate": "Wed, 09 Oct 2024 00:00:00 -0500",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRjwbJqDz5VoCmSxKcnuzOJL7sLE2jP7clC4I92zBsWPvkbuNff0XtCmyZnqiDoqEsHTCsyKTVf",
-    "news_item_snippet": "Buscador do GLOBO mostra os cargos por localidade e por especialidade/forma\u00e7\u00e3o.",
-    "news_item_url": "https://oglobo.globo.com/economia/concurso-publico/noticia/2024/10/10/concurso-dos-correios-2024-veja-onde-estao-as-vagas-para-ensino-medio-e-nivel-superior.ghtml",
-    "picture_source": "Exame Not\u00edcias",
-    "approx_traffic": "500,000+"
-  },
-  {
-    "country": "Brazil",
-    "title": "Brasileirao",
-    "pubDate": "Wed, 09 Oct 2024 21:00:00 -0500",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQxg3QKIlFtEX7lazM8L1qsM7oetJntWtDs1rLmTibhIomSW66f6d0EJRm20yuMnQOiUz0KPKuX",
-    "news_item_snippet": "O YouTube confirmou que os usu\u00e1rios poder\u00e3o assistir a 38 jogos gr\u00e1tis no Campeonato Brasileiro 2025; confira os detalhes e times exibidos!",
-    "news_item_url": "https://www.tecmundo.com.br/internet/290586-gratis-serie-a-brasileirao-2025-tera-transmissao-cazetv.htm",
-    "picture_source": "Tecmundo",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "Brazil",
-    "title": "Libertad x Corinthians",
-    "pubDate": "Wed, 09 Oct 2024 15:00:00 -0500",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSDp482xyJlwns1e03aRKEAbkWMNFduODQx-A542WOz5NVXSPs1G62RqO_IM6rtugg3RYc-oRBh",
-    "news_item_snippet": "Partida ser\u00e1 quarta (09), \u00e0s 17h30 (de Bras\u00edlia), pela fase de grupos da Libertadores feminina, no Est\u00e1dio Arsenio Erico, no Paraguai.",
-    "news_item_url": "https://www.uol.com.br/esporte/ultimas-noticias/2024/10/09/libertad-x-corinthians-onde-assistir-ao-jogo-da-libertadores-feminina.htm",
-    "picture_source": "globoesporte.com",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "Brazil",
-    "title": "Botafogo-SP x Guarani",
-    "pubDate": "Wed, 09 Oct 2024 11:00:00 -0500",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRTfrio8bDkenVZjUoheGQ1yFyKt8uWSpXCO5QL69MfeGM0t1bzaQzTMvu2APKBVEwkZHHEDVzG",
-    "news_item_snippet": "Nesta quarta, Botafogo-SP e Guarani se enfrentam pela 23\u00aa rodada, atrasada, da S\u00e9rie B. Confira as estat\u00edsticas do confronto entre as equipes.",
-    "news_item_url": "https://www.lance.com.br/onde-assistir/botafogo-sp-guarani-estatisticas-escalacoes-e-onde-assistir.html",
-    "picture_source": "globoesporte.com",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "Brazil",
-    "title": "Sarcoma sinovial",
-    "pubDate": "Wed, 09 Oct 2024 21:00:00 -0500",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQqYpS-bMmsWDqD99OJUnvGUdtj8gbmEV-7tHWYCJOAHr9ZE6CpT_uQOY9AmWmVn3swZeLx0v3s",
-    "news_item_snippet": "Atriz, que \u00e9 casada com Rodrigo Faro, publicou nas redes sociais o comunicado sobre a cirurgia que realiza em 11 de outubro.",
-    "news_item_url": "https://gshow.globo.com/tudo-mais/tv-e-famosos/noticia/sarcoma-sinovial-oncologista-explica-quadro-de-cancer-de-vera-viel.ghtml",
-    "picture_source": "CNN Brasil",
-    "approx_traffic": "50,000+"
-  },
-  {
     "country": "Canada",
     "title": "Ratan Tata",
     "pubDate": "Wed, 09 Oct 2024 15:00:00 -0400",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRMpCkWexzKoZFjrpoIHBqhcjoeA6vpdmhRQa8xaCM44UiQRdtG8jtsOs7A25JysTu2RX_bojEe",
-    "news_item_snippet": "The funeral has taken place in Mumbai of Ratan Tata, the former chairman of one of India&#39;s biggest conglomerates, Tata Group, who died on Wednesday aged 86.",
-    "news_item_url": "https://www.bbc.com/news/articles/crm211ez121o",
+    "news_item_snippet": "Tata was one of India&#39;s most internationally recognised business leaders.",
+    "news_item_url": "https://www.bbc.com/news/live/c5yw80xv4wjt",
     "picture_source": "CBC.ca",
     "approx_traffic": "100,000+"
   },
   {
     "country": "Canada",
-    "title": "Toronto Maple Leafs",
+    "title": "Leafs",
     "pubDate": "Wed, 09 Oct 2024 19:00:00 -0400",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSQyoMZIvO4HTZmn3j3AIoC99QhtfBmQIpmgw9_B6dVkR_uxj488x7pxuXkwJAf61Wg5q8AEEHr",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQhq293CiUoL6a10LjCQQZrYB6Uz4N5hntFOfTO32w2kB3qwn8LasjCLtmI-cxW-dJlLzw05t4D",
     "news_item_snippet": "Caufield scores lone goal for Montreal; Stolarz stops 26 in debut for Toronto.",
     "news_item_url": "https://www.nhl.com/news/toronto-maple-leafs-montreal-canadiens-game-recap-october-9",
-    "picture_source": "Globalnews.ca",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "Canada",
-    "title": "Oilers",
-    "pubDate": "Wed, 09 Oct 2024 19:00:00 -0400",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcT8unIuExIrbIlNRIg9ScvcEX1Btf_a2fmSrwS33_rdC4HOTu3FibA-Csw0rImM0ovpk6j5ljLm",
-    "news_item_snippet": "It&#39;s no big deal. Just one loss. Just the first game, and a defeat to a team with something to prove, the Winnipeg Jets, unceremoniously dumped out of the&nbsp;...",
-    "news_item_url": "https://edmontonjournal.com/sports/hockey/nhl/cult-of-hockey/three-moves-the-edmonton-oilers-can-make-pronto-to-get-their-season-going",
-    "picture_source": "Edmonton Journal",
+    "picture_source": "ICI.Radio-Canada.ca",
     "approx_traffic": "100,000+"
   },
   {
@@ -344,8 +294,8 @@
     "title": "Canucks",
     "pubDate": "Wed, 09 Oct 2024 23:00:00 -0400",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSgb27g-tRAh8Iw1xfgSPdVEaluBQo6rEA0GTDV1GUow7K2w5GHqXdl1mWeOSF0G7fpbhsN3_Qv",
-    "news_item_snippet": "Zary scored the game-winner 92 seconds into overtime.",
-    "news_item_url": "https://globalnews.ca/news/10805011/calgary-flames-vancouver-canucks-season-opener-overtime/",
+    "news_item_snippet": "How did it end up like this? https://twitter.com/noahstrang_/status...",
+    "news_item_url": "https://canucksarmy.com/news/statsies-elias-pettersson-quiet-vancouver-canucks-calgary-flames",
     "picture_source": "NHL.com",
     "approx_traffic": "50,000+"
   },
@@ -353,81 +303,51 @@
     "country": "South Korea",
     "title": "\ud55c\uac15",
     "pubDate": "Thu, 10 Oct 2024 16:00:00 +0900",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQkSExsGBnglEded5jZuqrtMoxDdCUnmLbmI5hfbrqZA42-7BkqYlNHyyumk3Q7jJq402bewEB0",
-    "news_item_snippet": "\uc2a4\uc6e8\ub374 \ud55c\ub9bc\uc6d0\uc740 \ubb3c\uc5c8\ub2e4. \u201c\ud55c\uad6d \ucd5c\ucd08\uc758 \ub178\ubca8\ubb38\ud559\uc0c1 \uc218\uc0c1\uc790\uc778\ub370, \uae30\ubd84\uc774 \uc5b4\ub5a0\uc2e0\uac00\uc694?\u201d \uc791\uac00 \ud55c\uac15(54)\uc740 \ub2f5\ud588\ub2e4. \u201c\uc800\ub294 \uc5b4\ub838\uc744 \ub54c\ubd80\ud130 \ucc45\uacfc \ud568\uaed8 \uc790\ub790\uc5b4\uc694.",
-    "news_item_url": "https://www.hani.co.kr/arti/culture/book/1162024.html",
-    "picture_source": "BBC News \ucf54\ub9ac\uc544",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRVh5fy7GQGUilQXrP1ztY8Lst6J8t7KBwvQG2epav_hMHPSFbe4i6paVNnaPqIlMSkpt94_wbK",
+    "news_item_snippet": "\uc62c\ud574\ub85c 53\uc138\uc778 \ud55c\uac15 \uc791\uac00\ub294 \uc9c0\ub09c 2016\ub144 \uc18c\uc124 &#39;\ucc44\uc2dd\uc8fc\uc758\uc790&#39;\ub85c \uc138\uacc4 3\ub300 \ubb38\ud559\uc0c1 \uc911 \ud558\ub098\ub85c \uaf3d\ud788\ub294 \ub9e8\ubd80\ucee4\uc0c1 \uc778\ud130\ub0b4\uc154\ub110 \ubd80\ubb38\uc744 \uc218\uc0c1\ud55c \ubc14 \uc788\ub2e4. \ub178\ubca8\uc0c1\uc744 \uc8fc\uad00\ud558\ub294 \uc2a4\uc6e8\ub374&nbsp;...",
+    "news_item_url": "https://www.bbc.com/korean/articles/c93yewwr666o",
+    "picture_source": "\ud55c\uaca8\ub808",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "France",
+    "title": "Michel Blanc",
+    "pubDate": "Thu, 10 Oct 2024 14:00:00 +0200",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSKhbI_j5hG2XG97cEl_SS_grJ5zBV8HvD62GL_nYc1en_bn86QadGRLkuGA7R9DmiO_LfjNVV1",
+    "news_item_snippet": "Les obs\u00e8ques de Michel Blanc, mort brutalement \u00e0 72 ans le 3 octobre dernier, ont eu lieu ce jeudi \u00e0 Paris en l&#39;\u00e9glise Saint-Eustache, en pr\u00e9sence de&nbsp;...",
+    "news_item_url": "https://www.bfmtv.com/people/cinema/direct-obseques-de-michel-blanc-la-ceremonie-se-tient-a-l-eglise-saint-eustache-a-paris_LN-202410100579.html",
+    "picture_source": "Franceinfo",
     "approx_traffic": "200,000+"
   },
   {
     "country": "France",
     "title": "Nadal",
     "pubDate": "Thu, 10 Oct 2024 12:00:00 +0200",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQYaGiYDRaXDw9iXARmnWr_gtLyD3LP9R2G32507282QF70QtuQ8RAzCbGSM7-WtaMwY_11MOHM",
-    "news_item_snippet": "Il avait annonc\u00e9, en mai, que la saison 2024 serait probablement la derni\u00e8re, Rafael Nadal a tenu parole. Il prendra sa retraite apr\u00e8s la finale de Coupe&nbsp;...",
-    "news_item_url": "https://www.eurosport.fr/tennis/officiel-rafael-nadal-prendra-sa-retraite-apres-la-finale-de-la-coupe-davis_sto20044133/story.shtml",
-    "picture_source": "TV5MONDE Info",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTZyqrDPOU-pIkkocun4kCAyQ7xjglfM4Em253X-WXi6bo-qX5H0qlEFe2FRIGrEjXk9vNviQc_",
+    "news_item_snippet": "Rafael Nadal, roi de la terre battue, a remport\u00e9 14 de ses 22 titres du Grand Chelem \u00e0 Roland-Garros, mais il a livr\u00e9 des combats \u00e9piques sur toutes les&nbsp;...",
+    "news_item_url": "https://information.tv5monde.com/sport/retraite-de-nadal-les-matches-qui-ont-forge-sa-legende-2743697",
+    "picture_source": "L'\u00c9quipe.fr",
     "approx_traffic": "50,000+"
   },
   {
-    "country": "France",
-    "title": "Obseques Michel Blanc",
-    "pubDate": "Thu, 10 Oct 2024 14:00:00 +0200",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRITefMI3NquzUwBu1KK_EoRhRd8ivRa1Bkmwg4V4y_pf6Np6876yZYp3SoHvm32L63mIwMPeBH",
-    "news_item_snippet": "Les obs\u00e8ques de Michel Blanc, mort brutalement \u00e0 72 ans le 3 octobre dernier, ont eu lieu ce jeudi \u00e0 Paris en l&#39;\u00e9glise Saint-Eustache, en pr\u00e9sence de&nbsp;...",
-    "news_item_url": "https://www.bfmtv.com/people/cinema/direct-obseques-de-michel-blanc-la-ceremonie-se-tient-a-l-eglise-saint-eustache-a-paris_LN-202410100579.html",
-    "picture_source": "Franceinfo",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "France",
-    "title": "Kirk",
-    "pubDate": "Wed, 09 Oct 2024 16:00:00 +0200",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRtL9htZPFRziNDa6ITalMUgyibM2KBWln8JOL8HiQieTiOon9bWtRvSZPh_KGcM-QJYW3bg6X3",
-    "news_item_snippet": "En raison du passage de l&#39;ex-ouragan &quot;Kirk&quot;, la Seine-et-Marne a \u00e9t\u00e9 plac\u00e9e le mercredi 9 octobre 2024 en vigilance rouge pluie-inondation et crues.",
-    "news_item_url": "https://seine-et-marne.fr/fr/actualites/tempete-kirk-le-grand-morin-sous-surveillance-renforcee-risque-inondation",
-    "picture_source": "| Conseil d\u00e9partemental du Loiret",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "France",
-    "title": "France israel",
-    "pubDate": "Wed, 09 Oct 2024 13:00:00 +0200",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQqE0AChX5sUZhDlmHZ0Ls3oWlvvIONOY4KuxjJ8M9OLXnV_Wnyep8zcdBuiBfNp0_F5Z902lvc",
-    "news_item_snippet": "\u00ab La France a \u00e9t\u00e9 l&#39;un des premiers pays \u00e0 \u00e9tablir des relations diplomatiques avec Isra\u00ebl, le 11 mai 1949 \u00bb, rappelle le minist\u00e8re des Affaires \u00e9trang\u00e8res&nbsp;...",
-    "news_item_url": "https://www.ina.fr/ina-eclaire-actu/france-israel-de-gaulle-mitterrand-chirac-macron",
-    "picture_source": "Le Monde",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "France",
-    "title": "Paris FC",
-    "pubDate": "Wed, 09 Oct 2024 19:00:00 +0200",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTVqt9MwKHBe1_4cbfWRRZRqaGoyo5FbcEZabSYv2B-FDwYdl-OQETXzfiFUF_INWwbHxLHcAUo",
-    "news_item_snippet": "Le Paris FC se pr\u00e9pare \u00e0 une nouvelle \u00e8re. Le leader de Ligue 2 est sur le point de changer d&#39;actionnaire majoritaire avec l&#39;arriv\u00e9e des propri\u00e9taires de&nbsp;...",
-    "news_item_url": "https://www.lequipe.fr/Football/Actualites/Apres-le-rachat-du-paris-fc-une-rivalite-avec-le-psg-a-la-hauteur-d-autres-villes-europeennes/1513086",
-    "picture_source": "L'Humanit\u00e9",
-    "approx_traffic": "50,000+"
+    "country": "Germany",
+    "title": "Hurrikan Milton",
+    "pubDate": "Wed, 09 Oct 2024 15:00:00 +0200",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcR-7-uic_Tw05YEjH-WSzLSWYLyVr-yJWy8vVNiiQmJRLNQEhn17Kn1FghgWKltMxt-S5g847Cl",
+    "news_item_snippet": "Hurrikan &quot;Milton&quot; befindet sich nach seinem verheerenden Zug quer durch den US-Bundesstaat Florida wieder \u00fcber dem Meer. Er hinterl\u00e4sst Tote und Verletzte.",
+    "news_item_url": "https://www.deutschlandfunk.de/hurrikan-milton-hinterlaesst-verwuestung-in-florida-biden-warnt-vor-weiteren-gefahren-100.html",
+    "picture_source": "tagesschau.de",
+    "approx_traffic": "500,000+"
   },
   {
     "country": "Germany",
     "title": "J\u00fcrgen Klopp",
     "pubDate": "Wed, 09 Oct 2024 09:00:00 +0200",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcS_krJk_QydFxxJ0Rzjk2PJMSyAcdWPUn_EnZkfmWTNeGiZGwC2PJjrDTUzY2CHVBWGx6JCVvvQ",
-    "news_item_snippet": "J\u00fcrgen Klopps neuer Job bei Red Bull \u00bbDie kaufen sich eine Galionsfigur. Das ist eine Bedrohung\u00ab. Warum wechselt J\u00fcrgen&nbsp;...",
-    "news_item_url": "https://www.spiegel.de/sport/juergen-klopp-und-red-bull-verschieben-sich-die-machtverhaeltnisse-in-der-bundesliga-a-0b8cc8e9-026f-40ae-9938-b7ac3d3599dd",
+    "news_item_snippet": "J\u00fcrgen Klopp wird \u201eHead of Global Soccer\u201c bei Red Bull. Die Nachricht sorgt f\u00fcr Emp\u00f6rung bei vielen Fans. Bereits in der Vergangenheit hatte es bei Klopps&nbsp;...",
+    "news_item_url": "https://www.sport1.de/news/fussball/2024/10/klopp-hammer-was-er-fruher-von-red-bull-hielt",
     "picture_source": "ZEIT ONLINE",
     "approx_traffic": "200,000+"
-  },
-  {
-    "country": "Germany",
-    "title": "Hurrikan Milton",
-    "pubDate": "Tue, 08 Oct 2024 21:00:00 +0200",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcR-7-uic_Tw05YEjH-WSzLSWYLyVr-yJWy8vVNiiQmJRLNQEhn17Kn1FghgWKltMxt-S5g847Cl",
-    "news_item_snippet": "Der Hurrikan war noch nicht an der K\u00fcste, da verw\u00fcsteten Tornados bereits das Land. Jetzt drohen den Menschen in Florida Sturzfluten.",
-    "news_item_url": "https://www.spiegel.de/panorama/hurrikan-milton-in-florida-demoliertes-stadiondach-tote-im-seniorenheim-bilder-einer-katastrophe-a-96208329-552a-4603-af36-9f01aef521e2",
-    "picture_source": "tagesschau.de",
-    "approx_traffic": "500,000+"
   },
   {
     "country": "Germany",
@@ -461,6 +381,16 @@
   },
   {
     "country": "Germany",
+    "title": "Hurrikan",
+    "pubDate": "Tue, 08 Oct 2024 21:00:00 +0200",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcR-7-uic_Tw05YEjH-WSzLSWYLyVr-yJWy8vVNiiQmJRLNQEhn17Kn1FghgWKltMxt-S5g847Cl",
+    "news_item_snippet": "Hurrikan &quot;Milton&quot; befindet sich nach seinem verheerenden Zug quer durch den US-Bundesstaat Florida wieder \u00fcber dem Meer. Er hinterl\u00e4sst Tote und Verletzte.",
+    "news_item_url": "https://www.deutschlandfunk.de/hurrikan-milton-hinterlaesst-verwuestung-in-florida-biden-warnt-vor-weiteren-gefahren-100.html",
+    "picture_source": "tagesschau.de",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Germany",
     "title": "Kevin K\u00fchnert",
     "pubDate": "Mon, 07 Oct 2024 13:00:00 +0200",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTZMP_63dIYvi-mw7k4LbtDMXM6RTL95OvMXT7AMCf7sKZWI7UBM7KAbYz5-z3DAIAwvLXOc5mb",
@@ -471,22 +401,22 @@
   },
   {
     "country": "Italy",
+    "title": "Nadal",
+    "pubDate": "Thu, 10 Oct 2024 12:00:00 +0200",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSXX8RHcRGuMbkWqqT3OgklMrKrGGfgz-pol-Ql5WttUJO9CJRyYcYSugw6lMdUtKGb7fePjFIB",
+    "news_item_snippet": "Leggi su Sky Sport l&#39;articolo Nadal annuncia il ritiro dal tennis: &#39;\u00c8 il momento giusto&#39;",
+    "news_item_url": "https://sport.sky.it/tennis/2024/10/10/nadal-ritiro-tennis-diretta-news",
+    "picture_source": "Avvenire.it",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "Italy",
     "title": "Stefano Tacconi",
     "pubDate": "Thu, 10 Oct 2024 06:00:00 +0200",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQneWPM9GzF9EtcDKQFojjANQ5YjjkgD47MGkQDq4aFQcHYCaXTvXCHjs_1X2AlkPVEi0_vwqtn",
     "news_item_snippet": "Il campione, storico portiere della Juventus, descrive la malattia come una partita ai rigori e ha raccontato la sua avventura nel libro L&#39;arte di parare,&nbsp;...",
     "news_item_url": "https://notizie.virgilio.it/stefano-tacconi-racconta-la-riabilitazione-mi-legavano-al-letto-il-cervello-era-andato-indietro-di-anni-1641965",
     "picture_source": "Corriere dell'Umbria",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Italy",
-    "title": "Nadal",
-    "pubDate": "Thu, 10 Oct 2024 12:00:00 +0200",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRuNjaK_3Pk4_l6qhykqP0KuiWPmGUDRXlvsxLcwZXHKunsooqhpsKLvIO1Cm3yBkLd9_66ZLdC",
-    "news_item_snippet": "Secondo le nostre stime, Nadal \u00e8 stata la sesta stella del tennis pi\u00f9 pagata del 2024 con un reddito di 23,3 milioni di $.",
-    "news_item_url": "https://forbes.it/2024/10/10/rafael-nadal-si-ritira-il-suo-ultimo-match-sara-la-finale-di-coppa-davis/",
-    "picture_source": "Rai News",
     "approx_traffic": "50,000+"
   },
   {
@@ -504,49 +434,29 @@
     "title": "Yung Filly",
     "pubDate": "Thu, 10 Oct 2024 07:00:00 +0100",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQTFiLppEkPwxeTEahkmVuqRrJPrhlI91kztw2qfwrLvE2qSd8ceY8Pk4vradgkN7YpDt5ECou4",
-    "news_item_snippet": "Rapper and internet personality rose to fame through a series of viral YouTube videos that received millions of views, along with his music releases and TV&nbsp;...",
-    "news_item_url": "https://www.independent.co.uk/arts-entertainment/music/news/yung-filly-rapper-arrested-rape-australia-youtube-b2627075.html",
+    "news_item_snippet": "The internet star - who has played over the years in charity football matches - is accused of sexually assaulting a woman in her 20s in his Perth hotel room&nbsp;...",
+    "news_item_url": "https://news.sky.com/story/fa-pulls-england-team-cooking-series-featuring-youtuber-yung-filly-after-rape-charge-13231466",
     "picture_source": "BBC News",
     "approx_traffic": "200,000+"
   },
   {
     "country": "United Kingdom",
-    "title": "George Baldock",
-    "pubDate": "Wed, 09 Oct 2024 22:00:00 +0100",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQTWxqd1sFw2zU1telrQfCoAo9Q1v-VhWwtOVqybUU6tO-okjSq-M2nJKbgZkgIRb1dU0lBtXTy",
-    "news_item_snippet": "The former Premier League footballer George Baldock &#39;most likely&#39; died after drowning in the pool of his apartment in Athens, Greek authorities believe.",
-    "news_item_url": "https://www.theguardian.com/football/2024/oct/10/george-baldock-greek-police-no-evidence-criminal-activity-caused-death",
-    "picture_source": "Sky Sports",
+    "title": "England vs Greece",
+    "pubDate": "Thu, 10 Oct 2024 14:00:00 +0100",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcT3EHuBy2l4YItLxgsQyLsA7aL7fCzge5l55pZnz9iTz03p2oIjG4_k6cfetzovo843yCkAA1ci",
+    "news_item_snippet": "England have work to do if they are to maintain their winning start to life under Lee Carsley as they host Greece at Wembley. The Three Lions won their first&nbsp;...",
+    "news_item_url": "https://www.standard.co.uk/sport/football/england-vs-greece-live-stream-nations-league-2024-latest-score-result-watch-tv-team-news-b1187148.html",
+    "picture_source": "The Guardian",
     "approx_traffic": "200,000+"
   },
   {
     "country": "United Kingdom",
-    "title": "Ratan Tata",
-    "pubDate": "Wed, 09 Oct 2024 20:00:00 +0100",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQ4PdDK4DO724Ix2cdqCtobNpGbu3kvX_hMN2kCgjAEDPtMHEvXeCiWwYbxRIAUnCtjN3imCzak",
-    "news_item_snippet": "Coventry Council notes with considerable regret the death of the Indian industrialist and philanthropist Ratan Tata - and honorary freeman of the city - on&nbsp;...",
-    "news_item_url": "https://www.coventry.gov.uk/news/article/5071/ratan-tata",
-    "picture_source": "BBC News",
+    "title": "Hurricane Milton live",
+    "pubDate": "Thu, 10 Oct 2024 10:00:00 +0100",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQh4jXPc-vOzIVczK0gRDjIEghz9oR5Y77NL6W0pdaTgyHUlggv63Koayp6h5X2taCSlV8OJ8ZV",
+    "news_item_snippet": "Residents of Siesta Key, where Milton made landfall, are forced to wade through flooded. Milton leaves a trail of deaths across the state. At least two people&nbsp;...",
+    "news_item_url": "https://www.usatoday.com/story/news/nation/2024/10/10/hurricane-milton-live-updates-florida-aftermath-thursday/75599239007/",
+    "picture_source": "Evening Standard",
     "approx_traffic": "100,000+"
-  },
-  {
-    "country": "United Kingdom",
-    "title": "England",
-    "pubDate": "Wed, 09 Oct 2024 10:00:00 +0100",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQGVEDGJEKy5nfe4Z-04Uapd2456vIOaPsHXuWQlLGMJfYNfB9LqkocxZSvTl2caOEQLGwtScfe",
-    "news_item_snippet": "Around 3.8 million people were in contact with NHS mental health, learning disability and autism services over the last year, up almost two fifths compared&nbsp;...",
-    "news_item_url": "https://www.england.nhs.uk/2024/10/englands-nhs-mental-health-services-treat-record-3-8-million-people-last-year/",
-    "picture_source": "BBC Sport",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "United Kingdom",
-    "title": "World Mental Health Day",
-    "pubDate": "Wed, 09 Oct 2024 23:00:00 +0100",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQI1eP17LZUwrLJRS9zykdiH25rEQU4NcyEWAA91yMvW4gehgfQ_ORbu4JlKzSb5VPFEOmUOUyO",
-    "news_item_snippet": "World Mental Health Day is a chance to raise awareness of mental health and remind everyone of the support available to help you prioritise your wellbeing.",
-    "news_item_url": "https://www.royalgreenwich.gov.uk/news/2024/how-take-care-yourself-world-mental-health-day",
-    "picture_source": "Shropshire Council Newsroom",
-    "approx_traffic": "50,000+"
   }
 ]
