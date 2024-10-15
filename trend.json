@@ -1,13 +1,23 @@
 [
   {
     "country": "United States",
-    "title": "Jets",
+    "title": "Bills vs Jets",
     "pubDate": "Mon, 14 Oct 2024 14:00:00 -0700",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQISS5VVvQz4fkLhVVGNwl1t3wmP513Cojv3Xgq4WQqqUBfioqoUBDnnvZXXCrMfrIx5qo0iykX",
-    "news_item_snippet": "Aaron Rodgers outdueled Josh Allen, the Jets started fast offensively, the defense tightened up late and Breece Hall and Garrett Wilson exploded with a huge&nbsp;...",
-    "news_item_url": "https://www.newyorkjets.com/news/jets-vs-bills-game-recap-aaron-rodgers-week-6-2024",
-    "picture_source": "ESPN",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQZNqJDY8T3LoP9CZCz3BrGUv-zpkrjMpmhFojBsMYpHCC3yXPVjM6kqTVcHS7KcLKBtyJGWevg",
+    "news_item_snippet": "Aaron Rodgers and the Jets will kick off a new era in New York when they host the Bills on Monday Night Football. Here&#39;s what to know for the game.",
+    "news_item_url": "https://www.nbclosangeles.com/news/sports/nfl/bills-jets-monday-night-football-how-to-watch-live-stream/3535075/",
+    "picture_source": "Rochester Democrat and Chronicle",
     "approx_traffic": "1,000,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Jets",
+    "pubDate": "Mon, 14 Oct 2024 18:00:00 -0700",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRuceRWUWkvfz7H7w6Gi0T1ZyD09KAkWS2QDfHmR5aaxCrJzL1QPN_yZ9uV5mSExdPLhZgH1d7U",
+    "news_item_snippet": "The Bills play their fourth prime-time game in six weeks when they face the Jets Monday night. Can Josh Allen carry Buffalo past NY and Aaron Rodgers?",
+    "news_item_url": "https://www.democratandchronicle.com/story/sports/football/nfl/bills/2024/10/14/buffalo-bills-vs-ny-jets-score-stats-updates-highlights-monday-night-football/75660924007/",
+    "picture_source": "newyorkjets.com",
+    "approx_traffic": "200,000+"
   },
   {
     "country": "United States",
@@ -23,21 +33,11 @@
     "country": "United States",
     "title": "Guardians vs Yankees",
     "pubDate": "Mon, 14 Oct 2024 17:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcS6TFRWIBsOf2dCbQax5Ks2X8eyN-7dJ8B686XHtSbHKqUsLTFzarcb138z-DZsLvkixl6u3NOT",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRUCGSXOdRWMdgA7Iil0dE9Mv3SINJVt3ysgrBpXXsoSpfe0kTK84A2pHU2YvWBBwhdWLxanHzr",
     "news_item_snippet": "The New York Yankees won Game 1 of the ALCS over the Cleveland Guardians, 5-2.",
     "news_item_url": "https://www.northjersey.com/story/sports/mlb/yankees/2024/10/14/new-york-yankees-cleveland-guardians-live-score-updates-alcs-game-1/75650799007/",
     "picture_source": "MLB.com",
     "approx_traffic": "100,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Ny Mets",
-    "pubDate": "Mon, 14 Oct 2024 16:00:00 -0700",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcR9NoxpPdtW1LyCM8gRzaTNGWEEivatsZZZJ4uHveS2ARee4VXE1ZBvOwgPt657TCP4oJmix5LQ",
-    "news_item_snippet": "Things got dicey in the late innings but the Mets kept the Dodgers&#39; powerful lineup at bay in 7-3 win.",
-    "news_item_url": "https://www.usatoday.com/story/sports/mlb/2024/10/14/dodgers-vs-mets-nlcs-game-2-score-highlights/75672476007/",
-    "picture_source": "NorthJersey.com",
-    "approx_traffic": "50,000+"
   },
   {
     "country": "United States",
@@ -51,6 +51,16 @@
   },
   {
     "country": "United States",
+    "title": "Mets score",
+    "pubDate": "Mon, 14 Oct 2024 15:00:00 -0700",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcR9NoxpPdtW1LyCM8gRzaTNGWEEivatsZZZJ4uHveS2ARee4VXE1ZBvOwgPt657TCP4oJmix5LQ",
+    "news_item_snippet": "Things got dicey in the late innings but the Mets kept the Dodgers&#39; powerful lineup at bay in 7-3 win.",
+    "news_item_url": "https://www.usatoday.com/story/sports/mlb/2024/10/14/dodgers-vs-mets-nlcs-game-2-score-highlights/75672476007/",
+    "picture_source": "NorthJersey.com",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
     "title": "Bill Clinton",
     "pubDate": "Mon, 14 Oct 2024 15:00:00 -0700",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSSoNcEpBtTrESpKqY0N8cAii4teHeX_UFzmmcgXjnmP0rSdR7cS8RRKFYr2-sBSPA-HG3d7NJ4",
@@ -60,24 +70,14 @@
     "approx_traffic": "50,000+"
   },
   {
-    "country": "United States",
-    "title": "Lions vs Cowboys",
-    "pubDate": "Sun, 13 Oct 2024 14:00:00 -0700",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQXPn7_5mEdSleLJFu6Cp6leXsOXhKCtEaciATy8Qqu9tP4tWDQveL410gq6KHnC7Xy81Z3KtvK",
-    "news_item_snippet": "Lions defensive end Aidan Hutchinson suffered a broken tibia on Sunday against the Cowboys, marking a significant setback for Detroit&#39;s defense.",
-    "news_item_url": "https://www.usatoday.com/story/sports/nfl/2024/10/13/aidan-hutchinson-injury-update-lions-cowboys/75664514007/",
-    "picture_source": "NFL.com",
-    "approx_traffic": "2,000,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Dodgers",
-    "pubDate": "Sun, 13 Oct 2024 18:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSHe_DHDzZW6c9DdTv7rEXDjWv-mK4zNYcWDXr3Ou-nJxRYD7xPpUQnctNs4toqJH2v9OsQ-LMc",
-    "news_item_snippet": "LOS ANGELES -- With the inconsistencies and injuries in the starting rotation, the Dodgers came into the postseason knowing they were going to have to&nbsp;...",
-    "news_item_url": "https://www.mlb.com/news/dodgers-lose-nlcs-game-2-2024",
-    "picture_source": "MLB.com",
-    "approx_traffic": "1,000,000+"
+    "country": "India",
+    "title": "IND vs NZ",
+    "pubDate": "Tue, 15 Oct 2024 11:30:00 +0530",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcR4uYtnd0ZLDjrshwZOwOLzugT5PVFbhHbFsENBfhzH3DpdDK2i6pKyf-RcMUqIlfR60fmQqZbR",
+    "news_item_snippet": "Rain is likely to hamper the India vs New Zealand first Test.\u0c2d\u0c3e\u0c30\u0c24\u0c4d \u0c35\u0c30\u0c4d\u0c38\u0c46\u0c38\u0c4d \u0c28\u0c4d\u0c2f\u0c42\u0c1c\u0c3f\u0c32\u0c3e\u0c02\u0c21\u0c4d \u0c24\u0c4a\u0c32\u0c3f \u0c1f\u0c46\u0c38\u0c4d\u0c1f\u0c41\u0c15\u0c41 \u0c35\u0c30\u0c4d\u0c37\u0c02 \u0c06\u0c1f\u0c02\u0c15\u0c02 \u0c15\u0c32\u0c3f\u0c17\u0c3f\u0c02\u0c1a\u0c47 \u0c05\u0c35\u0c15\u0c3e\u0c36\u0c02 \u0c09\u0c02\u0c26\u0c3f.",
+    "news_item_url": "https://telugu.mykhel.com/cricket/india-vs-new-zealand-1st-test-in-bengaluru-will-rain-disrupt-the-series-opener-078163.html",
+    "picture_source": "Business Standard",
+    "approx_traffic": "50,000+"
   },
   {
     "country": "India",
@@ -94,8 +94,8 @@
     "title": "Atul Parchure",
     "pubDate": "Mon, 14 Oct 2024 20:30:00 +0530",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTneH1X9_q6JksBjXWCb5OxDgo54saQpdMAqYRBdHlf6KbSjXKBS1H6rv-TufhRWr5ez4PFNCw4",
-    "news_item_snippet": "Veteran actor Atul Parchure, known for his roles in The Kapil Sharma Show, passed away on October 14 at age 57. He had been battling cancer for years.",
-    "news_item_url": "https://m.economictimes.com/news/india/atul-parchure-the-kapil-sharma-show-star-passes-away-at-57/articleshow/114222943.cms",
+    "news_item_snippet": "Atul Parchure, beloved Marathi actor, passes away after battling health complications, leaving fans and colleagues mourning his loss.",
+    "news_item_url": "https://www.thehindu.com/news/cities/mumbai/marathi-actor-atul-parchure-passes-away-at-57-cm-shinde-among-his-fans/article68755239.ece",
     "picture_source": "Hindustan Times",
     "approx_traffic": "200,000+"
   },
@@ -113,21 +113,31 @@
     "country": "India",
     "title": "North Korean",
     "pubDate": "Mon, 14 Oct 2024 10:30:00 +0530",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRNSbEpWhZniIQyx0OOv8EoMM8YQA7LUK1je7Lcf-7dPpNz7ZsLCHbkabwihOQOyTQGR0951NCb",
-    "news_item_snippet": "North Korea destroyed parts of roads connecting it to South Korea amidst escalating tensions over alleged drone flights by South Korea.",
-    "news_item_url": "https://m.economictimes.com/news/defence/north-korea-blows-up-parts-of-inter-korean-roads-as-tensions-with-south-korea-soar/articleshow/114235040.cms",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSuoOztggS8XV-UfTtRva9yT5QMnlAev1xKlpW8cjBcz7E1EIdSVnyIGMzT7xVsu3yIu7m5yoOF",
+    "news_item_snippet": "Destroying the roads would be in line with Kim Jong Un&#39;s push to cut off ties with South Korea and abandon the decades-long objective to seek a peaceful&nbsp;...",
+    "news_item_url": "https://www.npr.org/2024/10/15/g-s1-28242/north-korea-south-roads-tensions-pyongyang-seoul",
     "picture_source": "Aljazeera.com",
     "approx_traffic": "100,000+"
   },
   {
     "country": "India",
-    "title": "APJ Abdul Kalam",
-    "pubDate": "Mon, 14 Oct 2024 14:30:00 +0530",
+    "title": "Indian",
+    "pubDate": "Mon, 14 Oct 2024 11:30:00 +0530",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRuukTNRvylFHJNuWpoOdhBhEg3uvTOe0ihZ1ahUCutCMOY72Upk-Cnz8QqNDbwNcjTQFTBYSIq",
+    "news_item_snippet": "Canada accuses Indian government agents of being involved in &#39;serious criminal activity&#39;, a claim India rejects.",
+    "news_item_url": "https://www.aljazeera.com/news/2024/10/14/india-canada-diplomatic-row-reignites-what-to-know-and-what-comes-next",
+    "picture_source": "Ministry of External Affairs",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "India",
+    "title": "Abdul Kalam",
+    "pubDate": "Mon, 14 Oct 2024 18:30:00 +0530",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcS40VNpYK6SdfS10-LQjoMpCZeO1zzoYXaMbooiqP2ARZJjQs4pA3oAHgVSHJzPv2mra1DfeLfy",
     "news_item_snippet": "apj abdul kalam jayanti \u0921\u0949 \u090f\u092a\u0940\u091c\u0947 \u0915\u0932\u093e\u092e \u0926\u0947\u0936 \u0915\u0947 11\u0935\u0947\u0902 \u0930\u093e\u0937\u094d\u091f\u094d\u0930\u092a\u0924\u093f \u0925\u0947\u0964 \u0926\u0947\u0936 \u0915\u0947 \u092e\u093f\u0938\u093e\u0907\u0932 \u092e\u0947\u0928 \u0915\u0947 \u0928\u093e\u092e \u0938\u0947 \u092a\u094d\u0930\u0938\u093f\u0926\u094d\u0927 \u0915\u0932\u093e\u092e \u0915\u0947 \u091c\u0928\u094d\u092e\u0926\u093f\u0928 \u0915\u094b \u0935\u0930\u094d\u0932\u094d\u0921&nbsp;...",
     "news_item_url": "https://www.livehindustan.com/career/apj-abdul-kalam-jayanti-on-world-students-day-15-october-inspirational-quotes-201728956340676.html",
     "picture_source": "Business Standard",
-    "approx_traffic": "100,000+"
+    "approx_traffic": "50,000+"
   },
   {
     "country": "India",
@@ -150,43 +160,23 @@
     "approx_traffic": "500,000+"
   },
   {
-    "country": "India",
-    "title": "IND vs AUS Women",
-    "pubDate": "Sun, 13 Oct 2024 19:30:00 +0530",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTDTEaRQAoqs1ObjnEN350o3qqZ5tRxaRwK5hwmvXsC97-PYpDnvt5WTmnSdIgXGdsg0zt7nfR3",
-    "news_item_snippet": "IND vs AUS: Check the highlights from the India vs Australia Women&#39;s T20 World Cup 2024 match at the Sharjah Cricket Stadium on Sunday.",
-    "news_item_url": "https://sportstar.thehindu.com/cricket/womens-cricket/india-vs-australia-live-score-updates-highlights-womens-t20-world-cup-2024-ind-v-aus/article68749020.ece",
-    "picture_source": "ESPNcricinfo.com",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "India",
-    "title": "Sports",
-    "pubDate": "Sun, 13 Oct 2024 10:30:00 +0530",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRqE208CP19HyI6okHMpqR95C5gUiOIDRf_jS6zqGeN0FoBejwiyHJiBVxGAo4YtvstJbZ7G0Nx",
-    "news_item_snippet": "The second edition of Climate Cup, a football tournament that aims to increase awareness about the environment and climate change, was held in Ladakh in&nbsp;...",
-    "news_item_url": "https://india.mongabay.com/2024/10/a-football-tournament-kicks-off-conversations-about-sports-and-climate/",
-    "picture_source": "Mongabay-India",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "India",
-    "title": "Chennai weather",
-    "pubDate": "Sun, 13 Oct 2024 20:30:00 +0530",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTadcio7V9L_Fp92D7SwdsQ7fSHLKpj-EL8RowgppjWgjzBpIIpvZNcCCs4B67WNIqaUZzcqN4m",
-    "news_item_snippet": "Tamil Nadu Rains LIVE: Follow The Hindu&#39;s latest updates as Chennai braces for heavy rains today.",
-    "news_item_url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-monsoon-chennai-rains-imd-alert-schools-shut-live-updates/article68754389.ece",
-    "picture_source": "Business Today",
-    "approx_traffic": "100,000+"
-  },
-  {
     "country": "Australia",
     "title": "Oasis tickets",
     "pubDate": "Mon, 14 Oct 2024 13:00:00 +1100",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQWLsZ760O7GBv6XBLtYc0hOznULB-VSQK_XREHBjQG5hgTvQFR7H-8mvyIQfGKqvCowdD6ujNv",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcR0GiDJGKALoCmFxpkspBOY3hFO3mrwJIy-FbqPE1wOFySlCxgDSaRMqWrDhQRfHopobte_-fVs",
     "news_item_snippet": "Australian fans will soon have their first chance to secure tickets to the highly anticipated Oasis Live &#39;2...",
     "news_item_url": "https://www.9news.com.au/national/how-to-get-oasis-tickets-australia-explainer/43f3ffbf-6570-4059-95cb-4fca96f44adb",
     "picture_source": "Ticketmaster Discover",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Australia",
+    "title": "Westpac",
+    "pubDate": "Mon, 14 Oct 2024 15:00:00 +1100",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcS0Ic3ZUU4QDi4kgcLp5TrfqeukRPkkrn-EThiqwtOBQYrwvBxepyIBoam_qpAeh8EgLYBVcDjA",
+    "news_item_snippet": "Westpac has been hit by its second outage in two days, leaving thousands of customers unable to access internet banking once again.",
+    "news_item_url": "https://au.finance.yahoo.com/news/second-westpac-outage-as-online-banking-customers-hit-again-were-sorry-035137408.html",
+    "picture_source": "9News",
     "approx_traffic": "50,000+"
   },
   {
@@ -244,8 +234,8 @@
     "title": "Buffalo Bills",
     "pubDate": "Mon, 14 Oct 2024 17:00:00 -0400",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcReT6vNomqLEwQbTgQ7mlCCspcnKyjuG6bwJ6eb_-e_ubHaWM3IJT5tFnU0vlpIjdwmVvJEb5dg",
-    "news_item_snippet": "Taron Johnson intercepts the Aaron Rodgers pass vs. New York Jets, 10/14/2024.",
-    "news_item_url": "https://www.buffalobills.com/video/can-t-miss-play-taron-johnson-seals-game-with-this-interception-of-aaron-rodgers-bills-at-jets-week-6",
+    "news_item_snippet": "The off-kilter Buffalo defense slowed down Aaron Rodgers and company in the red zone. A Breece Hall drop on third down led to a sigh of relief for Bills fans&nbsp;...",
+    "news_item_url": "https://www.buffalorumblings.com/2024/10/14/24270416/buffalo-bills-best-new-york-jets-23-20-in-sloppy-week-6-contest",
     "picture_source": "BuffaloBills.com",
     "approx_traffic": "50,000+"
   },
@@ -387,7 +377,7 @@
     "news_item_snippet": "Si possono acquistare, fra l&#39;altro libri, riviste, ingressi nei musei, biglietti per eventi culturali, teatro e cinema o per iscriverti a corsi di laurea e&nbsp;...",
     "news_item_url": "https://www.ilsole24ore.com/art/scuola-oggi-carta-docente-ecco-chi-spetta-e-quali-acquisti-possono-essere-fatti-AGFxGEX",
     "picture_source": "Orizzonte Scuola",
-    "approx_traffic": "50,000+"
+    "approx_traffic": "100,000+"
   },
   {
     "country": "Italy",
@@ -403,10 +393,10 @@
     "country": "Mexico",
     "title": "Ticketmaster",
     "pubDate": "Mon, 14 Oct 2024 15:00:00 -0600",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSOhck4H6GotoOclYwoA9iMZ-kWP5g9UI8y0ikhkM_p0pD_0wq5q-ULzxitKyx6stmg7LwJUXNm",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQclgk8Ikjv8yLLv_K4K07WeY0DpEA0DQtci5AYCpF_R-VFLUTyipcFS6qBqCVD2iYzqZoJnkYz",
     "news_item_snippet": "La empresa es acusada de negligencia por no implementar medidas de seguridad adecuadas para prevenir el ataque inform\u00e1tico.",
     "news_item_url": "https://sipse.com/mundo/ticketmaster-enfrenta-demanda-colectiva-california-por-hackeo-datos-479103.html",
-    "picture_source": "Industria Musical",
+    "picture_source": "Luces del Siglo",
     "approx_traffic": "50,000+"
   },
   {
@@ -424,8 +414,8 @@
     "title": "Alemania - Pa\u00edses Bajos",
     "pubDate": "Mon, 14 Oct 2024 10:00:00 -0600",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQjwLasdoq79BqkGHqhkUZnaIKCg7hpgPunEwWvLkDA4W75w0O43_7ug5rT_5qn4xzCHWJmpEr5",
-    "news_item_snippet": "Los germanos y los neerlandeses se juegan el liderato del grupo en la Nations League en el Allianz Arena.",
-    "news_item_url": "https://www.record.com.mx/futbol-futbol-internacional-internacionales/alemania-vs-paises-bajos-en-vivo-online-jornada-3-uefa",
+    "news_item_snippet": "Los teutones se alejaron en la punta de su zona y siguen invictos. | Selecciones Nacionales | futbolred.com.",
+    "news_item_url": "https://www.futbolred.com/selecciones-nacionales/alemania-vs-paises-bajos-resumen-y-goles-del-juego-de-la-uefa-nations-league-225121",
     "picture_source": "MARCA.com",
     "approx_traffic": "50,000+"
   },
@@ -433,20 +423,30 @@
     "country": "Mexico",
     "title": "Chivas",
     "pubDate": "Mon, 14 Oct 2024 02:00:00 -0600",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcS7lliNKl_Qxoha3JcNZwvcinGUKLVKNweMOGjkoeX-KFIiY_6G2uIc2da1z9_6B_oKVjQ56C5D",
-    "news_item_snippet": "El argentino se dijo emocionado por llegar a su casa durante su presentaci\u00f3n como t\u00e9cnico de Boca Juniors. | TUDN Liga MX | TUDN.",
-    "news_item_url": "https://www.tudn.com/futbol/liga-mx/fernando-gago-sobre-su-salida-de-chivas-fue-una-decision-muy-facil",
-    "picture_source": "El Financiero",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRZYaPMhAs9_i91Q532phXlR6DcKQ3_9ZNXyndCB29BqCpR64zjbJvKd8c3CeVrB7tnj2Q0Vxoj",
+    "news_item_snippet": "El flamante t\u00e9cnico de Boca Juniors Fernando Gago afirm\u00f3 el lunes en su presentaci\u00f3n que actu\u00f3 \u201cde manera correcta\u201d cuando decidi\u00f3 desvincularse de las&nbsp;...",
+    "news_item_url": "https://www.latimes.com/espanol/deportes/articulo/2024-10-14/gago-nuevo-dt-de-boca-juniors-actue-de-manera-correcta-con-chivas",
+    "picture_source": "TUDN",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Mexico",
+    "title": "Jets  Bills",
+    "pubDate": "Mon, 14 Oct 2024 17:00:00 -0600",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSrWDKp72pGUPKmhw7ozew916t5Dyi8JvffEPX4EG0ENiCP4jkQn_AvONHlEfZKqcowaPggjjAg",
+    "news_item_snippet": "Josh Allen y los Bills de Buffalo se sobrepusieron a un Hail Mary para touchdown de Aaron Rodgers al final de la primera mitad y superaron 23-20 el lunes a&nbsp;...",
+    "news_item_url": "https://www.latimes.com/espanol/deportes/articulo/2024-10-14/bills-remontan-para-vencer-a-jets-que-no-se-salvan-ni-con-un-hail-mary-de-rodgers",
+    "picture_source": "ESPN",
     "approx_traffic": "50,000+"
   },
   {
     "country": "Spain",
     "title": "La Oreja de Van Gogh",
     "pubDate": "Mon, 14 Oct 2024 15:00:00 +0200",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTPQvQ7MtRl2vuX9ifOYXQTC7-N9k6_pzzLaF8kqCGAdkn_XP_wmkAbHWKCIfxSoyeUj6Jglm5t",
-    "news_item_snippet": "El cierre de gira de La Oreja de Van Gogh la pasada semana en Zaragoza dej\u00f3 por imagen la ruptura de su cantante, Leire Mart\u00ednez, hasta dos veces sobre el&nbsp;...",
-    "news_item_url": "https://www.elmundo.es/cultura/musica/2024/10/14/670d053ce4d4d8ee278b4599.html",
-    "picture_source": "El Confidencial",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSu5p_Xsn5e2Xo-68lWeeUadBYvBJi38n7vrAVXPbFCxgsYrqWrgW8jGLZrN0HWvcRzmI5KEJzw",
+    "news_item_snippet": "Una serie de coincidencias que han ido surgiendo en los \u00faltimos meses llevan a los fans a pensar que podr\u00eda haber un reencuentro con la cantante original de&nbsp;...",
+    "news_item_url": "https://www.elconfidencial.com/cultura/2024-10-14/leire-martinez-oreja-van-gogh-amaia-pistas_3982783/",
+    "picture_source": "El Mundo",
     "approx_traffic": "100,000+"
   },
   {
