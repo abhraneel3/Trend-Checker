@@ -1,32 +1,42 @@
 [
   {
     "country": "United States",
+    "title": "Jets",
+    "pubDate": "Mon, 14 Oct 2024 14:00:00 -0700",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQ-wSzfHsk-ge7N_hxW-3fck8edwTgmeBzupEuQUR0sQIDpg3eqcW45pz1SVxy4qy79JOucdfs3",
+    "news_item_snippet": "The Bills play their fourth prime-time game in six weeks when they face the Jets Monday night. Can Josh Allen carry Buffalo past NY and Aaron Rodgers?",
+    "news_item_url": "https://www.democratandchronicle.com/story/sports/football/nfl/bills/2024/10/14/buffalo-bills-vs-ny-jets-score-stats-updates-highlights-monday-night-football/75660924007/",
+    "picture_source": "NBC Southern California",
+    "approx_traffic": "500,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Guardians vs Yankees",
+    "pubDate": "Mon, 14 Oct 2024 17:00:00 -0700",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQvBl5ZkbG2CtodLxtiG5ylf5gBHBB1fXrAAQQ4nNMIsjMhUPRD4OlUHFHEpjkCojN1xe2ptxltfg",
+    "news_item_snippet": "The New York Yankees host the Cleveland Guardians in Game 1 of the ALCS. Follow here for live analysis.",
+    "news_item_url": "https://www.northjersey.com/story/sports/mlb/yankees/2024/10/14/new-york-yankees-cleveland-guardians-live-score-updates-alcs-game-1/75650799007/",
+    "picture_source": "MLB.com",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Lions vs Cowboys",
+    "pubDate": "Sun, 13 Oct 2024 14:00:00 -0700",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSKgL0aXQsy4rfp15QWV1gQZa7cNJe9YIH0HddjivqgOmmelH6xUvEbQNg9V0Txbd35c4Axu_MR",
+    "news_item_snippet": "Detroit Lions defensive end Aidan Hutchinson had successful surgery to repair a fractured tibia and fibula he sustained against the Dallas Cowboys.",
+    "news_item_url": "https://apnews.com/article/lions-aidan-hutchinson-injury-b5f91b7fef2430278c9dcdda1f014478",
+    "picture_source": "USA TODAY",
+    "approx_traffic": "2,000,000+"
+  },
+  {
+    "country": "United States",
     "title": "Dodgers",
     "pubDate": "Sun, 13 Oct 2024 18:00:00 -0700",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQQNlvEWudNtrAmec9xItaHLlYCpobRm7k2loNsr4pgt-Nb-CWxA8wtfxsE_f0-MORilSVVDXGP",
-    "news_item_snippet": "Entering Monday, the Dodgers had pitched 33 straight scoreless innings, an NL postseason record, tying the 1966 Baltimore Orioles for the MLB record.",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTrXJmIPxFHfE1IzM_HFvWi8ZDAIwm25rNoxDuyAsqYl9XCRS8is4_lhIb0aXRb4A1lnhgrbXZx",
+    "news_item_snippet": "Heading into Game 2 of the National League Championship Series, the Los Angeles Dodgers were three scoreless outs away from setting an MLB record.",
     "news_item_url": "https://www.nbcnews.com/sports/mlb/dodgers-mets-pitching-record-rcna175354",
     "picture_source": "MLB.com",
-    "approx_traffic": "1,000,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Aidan Hutchinson",
-    "pubDate": "Sun, 13 Oct 2024 16:00:00 -0700",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRGOJj2nh1cXDzlA58_lStIZ97HIm5W2mEg_CpFZhhOC0gk1e6THte4ddcRU-w-Q4Kq4QEA1VrD",
-    "news_item_snippet": "Detroit Lions star pass rusher Aidan Hutchinson was carted off the field with a broken tibia in the team&#39;s 47-9 blowout victory against the Dallas Cowboys&nbsp;...",
-    "news_item_url": "https://www.cnn.com/2024/10/14/sport/aidan-hutchinson-detroit-lions-injury-spt-intl/index.html",
-    "picture_source": "detroitlions.com",
-    "approx_traffic": "1,000,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Cowboys",
-    "pubDate": "Sun, 13 Oct 2024 14:00:00 -0700",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQJp4N571Q7-9UMUyUraIX1YdYEJMuOWxbWKRNXcZjq3Auny_NC-QSlEiX20yDhOBCelO5tqOjX",
-    "news_item_snippet": "FRISCO, Texas \u2014 When you fall to 0-3 at home, winless in the last four games when also considering the playoff loss to the Green Bay Packers in January,&nbsp;...",
-    "news_item_url": "https://www.dallascowboys.com/news/jerry-jones-candid-about-cowboys-third-home-loss-in-2024-very-concerning-humbling",
-    "picture_source": "detroitlions.com",
     "approx_traffic": "1,000,000+"
   },
   {
@@ -51,8 +61,8 @@
   },
   {
     "country": "United States",
-    "title": "Dallas Cowboys",
-    "pubDate": "Sun, 13 Oct 2024 16:00:00 -0700",
+    "title": "Cowboys",
+    "pubDate": "Sun, 13 Oct 2024 15:00:00 -0700",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQJp4N571Q7-9UMUyUraIX1YdYEJMuOWxbWKRNXcZjq3Auny_NC-QSlEiX20yDhOBCelO5tqOjX",
     "news_item_snippet": "FRISCO, Texas \u2014 When you fall to 0-3 at home, winless in the last four games when also considering the playoff loss to the Green Bay Packers in January,&nbsp;...",
     "news_item_url": "https://www.dallascowboys.com/news/jerry-jones-candid-about-cowboys-third-home-loss-in-2024-very-concerning-humbling",
@@ -64,40 +74,30 @@
     "title": "Columbus Day",
     "pubDate": "Sun, 13 Oct 2024 17:00:00 -0700",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRsQenClYHtDrfxiYZB3rBzrJ7y4O6UY7w780x9ClKojgTdxhEcIODJSWra6OBEV00ToBOMFXCZ",
-    "news_item_snippet": "The second Monday in October is a federal holiday but what it&#39;s called depends on where you live.",
-    "news_item_url": "https://www.axios.com/2024/10/14/columbus-day-2024-indigenous-peoples-day-holiday",
+    "news_item_snippet": "Which businesses are open and closed this Indigenous Peoples&#39; and Columbus Day? We&#39;ve got you covered. President Franklin Delano Roosevelt designated&nbsp;...",
+    "news_item_url": "https://www.desmoinesregister.com/story/money/business/retail/2024/10/14/what-is-columbus-day-2024-what-is-closed-open-in-iowa-indigenious-peoples-day/75671757007/",
     "picture_source": "syracuse.com",
+    "approx_traffic": "500,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Dallas Cowboys",
+    "pubDate": "Sun, 13 Oct 2024 16:00:00 -0700",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQJp4N571Q7-9UMUyUraIX1YdYEJMuOWxbWKRNXcZjq3Auny_NC-QSlEiX20yDhOBCelO5tqOjX",
+    "news_item_snippet": "FRISCO, Texas \u2014 When you fall to 0-3 at home, winless in the last four games when also considering the playoff loss to the Green Bay Packers in January,&nbsp;...",
+    "news_item_url": "https://www.dallascowboys.com/news/jerry-jones-candid-about-cowboys-third-home-loss-in-2024-very-concerning-humbling",
+    "picture_source": "detroitlions.com",
     "approx_traffic": "500,000+"
   },
   {
     "country": "United States",
     "title": "Eagles",
     "pubDate": "Sun, 13 Oct 2024 11:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcT-gDcuJSKM5Me-Ls46VXfy5s7sVw6V_dutZMaRCJBgIaBHlXZGyBukYJWMtQ77ynFGFDkdpUnN",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQceTLljySWWiiayUlTDK92yZEU_hn0JxRt7PC8qquN4gKr6ye9u8TTmSjY1O5r8nqDCg6JQQZj",
     "news_item_snippet": "Eagles coach Nick Sirianni apologized for his interaction with a group of fans at the end of Sunday&#39;s home game against the Cleveland Browns.",
     "news_item_url": "https://www.espn.com/nfl/story/_/id/41796398/sirianni-disappointed-jawed-eagles-boo-birds-sunday-game",
-    "picture_source": "clevelandbrowns.com",
+    "picture_source": "NBC News",
     "approx_traffic": "500,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Commanders vs Ravens",
-    "pubDate": "Sun, 13 Oct 2024 11:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQV3kIPJWt2Fx67JjfwJnt0S9oCnM0BDtMOTc6Z-Vd1dBhxkP7mRIUhhyO2CJCG1p1q0wXPtzJ7",
-    "news_item_snippet": "The Commanders have learned plenty of lessons to start the season. The biggest takeaways from the Ravens game: they must capitalize on every opportunity to&nbsp;...",
-    "news_item_url": "https://www.commanders.com/news/commanders-want-to-learn-from-missed-opportunities-vs-ravens",
-    "picture_source": "Ravens Wire",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Spencer Rattler",
-    "pubDate": "Sun, 13 Oct 2024 11:00:00 -0700",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRJPPtnqVSqIQK0KQuekqEP_8bnhuhXrh0aTd8tAEdqAU1h7M36GuzwV3C1QaQeBHp0Xf8qRpxI",
-    "news_item_snippet": "After the Saints&#39; loss to the Buccaneers on Sunday, coach Dennis Allen said the team plans to stick with Spencer Rattler as the starting quarterback in&nbsp;...",
-    "news_item_url": "https://www.espn.com/nfl/story/_/id/41779156/saints-qb-spencer-rattler-throws-td-2-ints-uneven-debut",
-    "picture_source": "FOX 8 Live WVUE",
-    "approx_traffic": "200,000+"
   },
   {
     "country": "India",
@@ -113,10 +113,10 @@
     "country": "India",
     "title": "Atul Parchure Death",
     "pubDate": "Mon, 14 Oct 2024 20:30:00 +0530",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcToEpJgo8tjBhrK8DCiJKyvC_7C8C4_LQtkWICRo1S8TJuWovIM8ie9oUfWbOYT0YOgHuBD3IIJ",
-    "news_item_snippet": "Atul Parchure, who was known for his roles in The Kapil Sharma Show, has died at the age of 57. He had been fighting cancer for several years.",
-    "news_item_url": "https://www.hindustantimes.com/entertainment/others/veteran-marathi-actor-atul-parchure-who-worked-in-the-kapil-sharma-show-dies-at-57-101728918384717.html",
-    "picture_source": "\u0926\u0948\u0928\u093f\u0915 \u091c\u093e\u0917\u0930\u0923",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQhQ1KFVSIPuSPi_d1ZwwiX_cn9tdpLAenXxC99ynr5m-7TeO0wJbNc57xAiOB-c9qnf0sRgZHf",
+    "news_item_snippet": "\u092c\u093e\u092c\u093e \u0938\u093f\u0926\u094d\u0926\u0940\u0915\u0940 \u0915\u0940 \u092e\u094c\u0924 \u0915\u0947 \u092c\u093e\u0926 \u092b\u093f\u0932\u094d\u092e\u0940 \u0926\u0941\u0928\u093f\u092f\u093e \u0938\u0947 \u090f\u0915 \u0914\u0930 \u091d\u0915\u091d\u094b\u0930 \u0926\u0947\u0928\u0947 \u0935\u093e\u0932\u0940 \u0916\u092c\u0930 \u0938\u093e\u092e\u0928\u0947 \u0906 \u0930\u0939\u0940 \u0939\u0948\u0964 \u091c\u093e\u0928\u0947-\u092e\u093e\u0928\u0947 \u0905\u092d\u093f\u0928\u0947\u0924\u093e \u0905\u0924\u0941\u0932 \u092a\u0930\u091a\u0941\u0930\u0947 \u0915\u093e \u0928\u093f\u0927\u0928 \u0939\u094b \u0917\u092f\u093e&nbsp;...",
+    "news_item_url": "https://www.jagran.com/entertainment/bollywood-atul-parchure-death-partner-actor-dies-at-57-after-overcame-cancer-know-about-more-23815685.html",
+    "picture_source": "Hindustan Times",
     "approx_traffic": "200,000+"
   },
   {
@@ -134,8 +134,8 @@
     "title": "Hyundai IPO GMP",
     "pubDate": "Mon, 14 Oct 2024 11:30:00 +0530",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRdeX16AJUJLMTI3vx6NGv0QBobkbRXj5kLBDOUD0x13PgD_7DejZRcgJH1bohdrMrLYPjBuZIp",
-    "news_item_snippet": "Hyundai Motors India is losing its steam in the grey market as the premium has been slumping gradually as the latest GMP is suggesting a miniscule listing&nbsp;...",
-    "news_item_url": "https://www.businesstoday.in/markets/ipo-corner/story/hyundai-motor-ipo-gmp-falls-below-rs-100-what-is-hurting-indias-no-2-pv-player-449871-2024-10-14",
+    "news_item_snippet": "Hyundai IPO GMP Today: Hyundai India&#39;s IPO opens tomorrow with shares trading at a 3% premium over the issue price in the grey market.",
+    "news_item_url": "https://m.economictimes.com/markets/ipos/fpos/hyundai-india-gmp-down-to-just-3-over-issue-price-as-ipo-opens-tomorrow/articleshow/114208112.cms",
     "picture_source": "Moneycontrol.com",
     "approx_traffic": "100,000+"
   },
@@ -143,9 +143,9 @@
     "country": "India",
     "title": "Indian",
     "pubDate": "Mon, 14 Oct 2024 11:30:00 +0530",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQ1ZOqYaJsUjPRUuHysi6cPgPOCQEeZ9C-Y0uX7W10h_F0ZRfjj_zeYLSnA1abZZt96rb04STNk",
-    "news_item_snippet": "Canada has expelled six Indian diplomats after federal police said an investigation found that Indian government agents were involved in a \u201ccampaign of&nbsp;...",
-    "news_item_url": "https://www.aljazeera.com/news/2024/10/14/india-furious-as-diplomats-declared-persons-of-interest-in-canada-probe",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSs_FwqlvVylvYFxmgRfRsNtxmK6e9GN5DCX38yrdoA7EZOrs3JkFQ8sAhbdqUPyAJtCBRW22V9",
+    "news_item_snippet": "Canada accuses Indian government agents of being involved in &#39;serious criminal activity&#39;, a claim India rejects.",
+    "news_item_url": "https://www.aljazeera.com/news/2024/10/14/india-canada-diplomatic-row-reignites-what-to-know-and-what-comes-next",
     "picture_source": "Aljazeera.com",
     "approx_traffic": "50,000+"
   },
@@ -153,20 +153,10 @@
     "country": "India",
     "title": "SpaceX",
     "pubDate": "Mon, 14 Oct 2024 05:30:00 +0530",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQVXiWjy9E0X0GLLUa5EIlSoQuT3lyYIs-sUP5PgPByMZQNbxNVNJwchweiXcOPQsJlDxk_7alo",
-    "news_item_snippet": "SpaceX continues to push the boundaries of space exploration and reusable rocket technology. In a historic feat, the company has successfully caught the&nbsp;...",
-    "news_item_url": "https://www.moneycontrol.com/news/business/startup/from-falcon-1-to-starship-a-timeline-of-spacexs-achievements-12841643.html",
-    "picture_source": "India Today",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "India",
-    "title": "Christopher Columbus",
-    "pubDate": "Mon, 14 Oct 2024 11:30:00 +0530",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRIchDjRxn1Sb4S_eXUzxjalo52qIgSPN8fIK7u60HGUMfsKd-stZvJM1fdoIpdwAwQgZSQ8HQ-",
-    "news_item_snippet": "For centuries it&#39;s been widely believed that Christopher Columbus was from the Italian city of Genoa, but new DNA evidence from an ongoing study into his&nbsp;...",
-    "news_item_url": "https://www.thelocal.com/20241014/new-evidence-suggests-christopher-columbus-was-spanish-and-jewish",
-    "picture_source": "The Hindu",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQTdFzPJ_pjSfZ3LswWgiIws6z9MofKCOH9M80KhcV8vYBTCNb8EnlDMv5rzy8JoEgY-Sw1ZOgH",
+    "news_item_snippet": "The Super Heavy booster was caught by the launch pad&#39;s mechanical arms, affectionately referred to as \u201cchopsticks\u201d, just seven minutes after lift-off from&nbsp;...",
+    "news_item_url": "https://www.indiatoday.in/science/story/elon-musk-spacex-relaunch-super-heavy-rocket-booster-return-starship-2616356-2024-10-14",
+    "picture_source": "Spaceflight Now",
     "approx_traffic": "50,000+"
   },
   {
@@ -234,8 +224,8 @@
     "title": "Alemanha x Holanda",
     "pubDate": "Mon, 14 Oct 2024 10:00:00 -0500",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcR5dnPkkfcDyOoEXaMD-8zGPWhqiftyFUB6dXu_VITA5mB6xZav8SgY5Q1ngn7rzHxtg9Q0Xsrt",
-    "news_item_snippet": "Com gol de Leweling, donos da casa superam rivais na Allianz Arena e confirmam classifica\u00e7\u00e3o com duas rodadas de anteced\u00eancia.",
-    "news_item_url": "https://placar.com.br/futebol-europeu/ao-vivo-alemanha-x-holanda-pela-nations-league/",
+    "news_item_snippet": "A Alemanha recebe a Holanda \u00e0s 15h45 (de Bras\u00edlia) desta segunda (14), na Allianz Arena, pela 4\u00aa rodada Liga das Na\u00e7\u00f5es. Confira como assistir.",
+    "news_item_url": "https://www.uol.com.br/esporte/ultimas-noticias/2024/10/14/alemanha-x-holanda-onde-assistir-e-horario-do-jogo-da-liga-das-nacoes.htm",
     "picture_source": "ESPN.com.br",
     "approx_traffic": "100,000+"
   },
@@ -254,8 +244,8 @@
     "title": "Pix",
     "pubDate": "Mon, 14 Oct 2024 09:00:00 -0500",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcS8PZEM527Z4MwzeOHKtZWEZoTAZRY5peQh1nsJSqbazIX_vNg5-92vUz032-dAqBZLkZyd47s1",
-    "news_item_snippet": "Durante toda a manh\u00e3, clientes de v\u00e1rias institui\u00e7\u00f5es financeiras reclamaram que o sistema de pagamentos instant\u00e2neos estava fora do ar.",
-    "news_item_url": "https://agenciabrasil.ebc.com.br/economia/noticia/2024-10/pix-volta-funcionar-apos-apresentar-falhas",
+    "news_item_snippet": "O PIX \u00e9 f\u00e1cil de usar e pr\u00e1tico, mas \u00e9 preciso tomar alguns cuidados. De janeiro a setembro de 2024, o Banco Central do Brasil registrou o vazamento de quase&nbsp;...",
+    "news_item_url": "https://g1.globo.com/jornal-nacional/noticia/2024/10/14/aumenta-vazamentos-de-dados-de-chaves-pix-diz-banco-central.ghtml",
     "picture_source": "UOL Economia",
     "approx_traffic": "50,000+"
   },
@@ -263,10 +253,10 @@
     "country": "South Korea",
     "title": "\uc774\uc9c4\ud638",
     "pubDate": "Mon, 14 Oct 2024 11:00:00 +0900",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTfn8QKTdTFVwoG_GI868eueEN8Obs8xg6svwDJVoTA7JMAbPaiI2QCMHzxTPm7ptR48Q87lrDg",
-    "news_item_snippet": "\ucf54\ubbf8\ub514\uc5b8 \uc774\uc9c4\ud638\uac00 \uc778\ud130\ub137 \ubd88\ubc95 \ub3c4\ubc15\uc73c\ub85c \ud070 \ube5a\uc744 \uc84c\ub2e4\ub294 \uc0ac\uc2e4\uc744 \uace0\ubc31\ud558\uba70 \uc0ac\uacfc\ud588\ub2e4. \uc774\uc9c4\ud638\ub294 14\uc77c \uc0ac\ud68c\uad00\uacc4\ub9dd\uc11c\ube44\uc2a4(SNS)\uc5d0\uc11c \u201c\uc800\uc758 \uc798\ubabb\ub41c \ud310\ub2e8\uc5d0\uc11c \ube44\ub86f\ub41c&nbsp;...",
-    "news_item_url": "https://www.khan.co.kr/culture/culture-general/article/202410141746001",
-    "picture_source": "\ud55c\uaca8\ub808",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTOsCmdU9jyeE11nPLIRal8xmhluQkv_QsAP5l6Z_EFdo5wFUwi7-p9XzgtRE140jIWiRIZgCeR",
+    "news_item_snippet": "\ubd88\ubc95 \ub3c4\ubc15\uc73c\ub85c \uac70\uc561\uc758 \ube5a\uc744 \uc84c\ub2e4\uace0 \uace0\ubc31\ud55c \uac1c\uadf8\ub9e8 \uc774\uc9c4\ud638\uac00 \uc9c0\uc778\uc5d0\uac8c \ub3c8\uc744 \ube4c\ub9b0 \ub4a4 \uac1a\uc9c0 \uc54a\uc544 \uace0\uc18c\ub2f9\ud55c \uc801 \uc788\ub294 \uac83\uc73c\ub85c \uc54c\ub824\uc84c\ub2e4. 14\uc77c YTN\uc5d0 \ub530\ub974\uba74, \uc9c0\ub09c 6\uc6d4 \ucd08&nbsp;...",
+    "news_item_url": "https://www.chosun.com/national/national_general/2024/10/14/Y2CIKKJST5E3RE7PMVKYLFZUJ4/",
+    "picture_source": "\uc870\uc120\uc77c\ubcf4",
     "approx_traffic": "50,000+"
   },
   {
@@ -283,51 +273,21 @@
     "country": "France",
     "title": "Belgique \u2013 France",
     "pubDate": "Mon, 14 Oct 2024 15:00:00 +0200",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSsHL1k2c50oPh7znqizrw7E7o0JYU1FLES3xl4YHVzGsJr5fw_xrLEhcGU-vN1Hgu8DFEmNl4z",
-    "news_item_snippet": "L&#39;\u00e9quipe de France de football se d\u00e9place en Belgique ce lundi soir pour la 4e journ\u00e9e de la Ligue des nations. Didier Deschamps a choisi de l\u00e9g\u00e8rement&nbsp;...",
-    "news_item_url": "https://www.ouest-france.fr/sport/football/equipe-de-france/belgique-france-avec-kolo-muani-et-manu-kone-la-composition-des-deux-equipes-17bcb80a-8a4d-11ef-9d95-9a2a8aa75177",
-    "picture_source": "Franceinfo",
-    "approx_traffic": "500,000+"
-  },
-  {
-    "country": "France",
-    "title": "France Belgique",
-    "pubDate": "Sun, 13 Oct 2024 01:00:00 +0200",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSRIlapOthKN5vHU7vi7fF2lAQ87xnVRjjnfOu7_L09n86ZkjMT5M1IqoUd1AhEPYUn8ZvwtH6r",
     "news_item_snippet": "La Belgique accueille la France \u00e0 Bruxelles, ce lundi 14 octobre, pour la 4e journ\u00e9e de Ligue des nations. D\u00e8s la 23e minute de jeu, les Belges ont eu une&nbsp;...",
     "news_item_url": "https://www.ouest-france.fr/sport/football/ligue-des-nations/videos-belgique-france-tielemans-rate-completement-son-penalty-kolo-muani-marque-le-sien-011e3372-8a60-11ef-9d95-9a2a8aa75177",
     "picture_source": "L'\u00c9quipe.fr",
-    "approx_traffic": "100,000+"
+    "approx_traffic": "500,000+"
   },
   {
     "country": "Germany",
     "title": "Deutschland \u2013 Niederlande",
     "pubDate": "Mon, 14 Oct 2024 15:00:00 +0200",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTHrTgdM4IklGIuSNCnw3LR_VBTos_9H50kwXGnC-CJi7Hx4W6EpNypk-miyvX0BqUAd959A6mQ",
-    "news_item_snippet": "Deutschland gewinnt das Nations-League-Spiel gegen die Niederlande 1:0 und steht damit im Viertelfinale - die Highlights. Die deutschen Spieler jubeln.",
+    "news_item_snippet": "Deutschland gewinnt das Nations-League-Spiel gegen die Niederlande 1:0 und steht damit im Viertelfinale - die Highlights.",
     "news_item_url": "https://www.sportschau.de/fussball/nationalmannschaft/deutschland-gegen-die-niederlande-die-zusammenfassung,video-zusammenfassung-deutschland-niederlande-100.html",
     "picture_source": "Sportschau",
-    "approx_traffic": "500,000+"
-  },
-  {
-    "country": "Germany",
-    "title": "ZDF",
-    "pubDate": "Mon, 14 Oct 2024 21:00:00 +0200",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTKVXMW9I79QidakRrOudQWI0ok8Fw9cV1ZafxOKYGq7L_qJF8Ol-Oxs2IrW8StZpFmHXJRNfWP",
-    "news_item_snippet": "Mit diesen Themen: Geheimdienste warnen vor Russland; Scholz fordert EU-Beitritt des Westbalkans; weiteren Nachrichten, dem Sport und dem Wetter.",
-    "news_item_url": "https://www.zdf.de/nachrichten/heute-19-uhr/heute-19-uhr-vom-14-oktober-2024-102.html",
-    "picture_source": "ZDFheute",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Germany",
-    "title": "Nina Chuba",
-    "pubDate": "Sun, 13 Oct 2024 14:00:00 +0200",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRWzUbwgpHeBzDLy1WokKcG6UejWVIGi36bPhuM7ics-Fsl7xRITK9etxsUSVFHs0qIfTqGmBPR",
-    "news_item_snippet": "Wer ist wieder daaaaa? Nina, Nina, Nina! Und zwar mit einer eigenen Show und einem eigenen, verdammt guten, Opening. Und denkt dran: das hier ist nur der&nbsp;...",
-    "news_item_url": "https://www.prosieben.de/serien/wer-stiehlt-mir-die-show/videos/nina-chuba-eroeffnet-die-show-mit-einem-bombastischen-auftritt-v_wqu6xrgbqreb",
-    "picture_source": "ProSieben",
-    "approx_traffic": "50,000+"
+    "approx_traffic": "1,000,000+"
   },
   {
     "country": "Germany",
@@ -400,6 +360,16 @@
     "approx_traffic": "50,000+"
   },
   {
+    "country": "Germany",
+    "title": "Kevin K\u00fchnert",
+    "pubDate": "Mon, 07 Oct 2024 13:00:00 +0200",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTZMP_63dIYvi-mw7k4LbtDMXM6RTL95OvMXT7AMCf7sKZWI7UBM7KAbYz5-z3DAIAwvLXOc5mb",
+    "news_item_snippet": "Michael Roth, Peter Tauber, Kevin K\u00fchnert: Die Spitzenpolitik mit ihrem oft brutalen Alltag h\u00e4lt nur kurz inne, wenn jemandem die Kraft ausgeht.",
+    "news_item_url": "https://www.zeit.de/politik/deutschland/2024-10/krankheit-politiker-kevin-kuehnert-berlin-psychische-probleme-isolation",
+    "picture_source": "tagesschau.de",
+    "approx_traffic": "200,000+"
+  },
+  {
     "country": "Italy",
     "title": "Carta del docente",
     "pubDate": "Mon, 14 Oct 2024 16:00:00 +0200",
@@ -414,8 +384,8 @@
     "title": "Daniel Maldini",
     "pubDate": "Mon, 14 Oct 2024 23:00:00 +0200",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQvOSXMwMCwQZe8pP4ZzG9XoJ_QicI17Ryb_rg7VHk6WvFEQY0ieXtkLh4PemzUNpyKSznknJ0K",
-    "news_item_snippet": "CALCIO - Una serata indimenticabile per la famiglia Maldini: dopo nonno Cesare e pap\u00e0 Paolo, \u00e8 la volta di Daniel Maldini che entra in campo per la prima&nbsp;...",
-    "news_item_url": "https://www.eurosport.it/calcio/uefa-nations-league/2024-2025/daniel-maldini-esordisce-in-nazionale-22-anni-dopo-lultima-presenza-azzurra-di-papa-paolo_sto20045327/story.shtml",
+    "news_item_snippet": "Il trequartista del Monza, nipote e figlio d&#39;arte, ha commentato il suo debutto con la maglia dell&#39;Italia: &quot;\u00c8 stata un&#39;emozione forte, sono contento di&nbsp;...",
+    "news_item_url": "https://sport.sky.it/calcio/nations-league/2024/10/14/daniel-maldini-italia-israele-intervista-video",
     "picture_source": "AC Monza",
     "approx_traffic": "50,000+"
   },
@@ -424,8 +394,8 @@
     "title": "Ticketmaster",
     "pubDate": "Mon, 14 Oct 2024 15:00:00 -0600",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSOhck4H6GotoOclYwoA9iMZ-kWP5g9UI8y0ikhkM_p0pD_0wq5q-ULzxitKyx6stmg7LwJUXNm",
-    "news_item_snippet": "Ticketmaster enfrenta una demanda colectiva por negligencia tras la vulneraci\u00f3n de datos de 560 millones de usuarios, registrado en abril.",
-    "news_item_url": "https://www.reforma.com/enfrenta-ticketmaster-demanda-colectiva-tras-hackeo/ar2889911",
+    "news_item_snippet": "CIUDAD DE M\u00c9XICO.- La empresa boletera Ticketmaster enfrenta una demanda colectiva en California por la vulneraci\u00f3n de datos de unos 560 millones de&nbsp;...",
+    "news_item_url": "https://lucesdelsiglo.com/2024/10/14/enfrenta-ticketmaster-demanda-colectiva-tras-hackeo-farandula/",
     "picture_source": "Industria Musical",
     "approx_traffic": "50,000+"
   },
@@ -440,6 +410,16 @@
     "approx_traffic": "50,000+"
   },
   {
+    "country": "Mexico",
+    "title": "Alemania - Pa\u00edses Bajos",
+    "pubDate": "Mon, 14 Oct 2024 10:00:00 -0600",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQjwLasdoq79BqkGHqhkUZnaIKCg7hpgPunEwWvLkDA4W75w0O43_7ug5rT_5qn4xzCHWJmpEr5",
+    "news_item_snippet": "Los germanos y los neerlandeses se juegan el liderato del grupo en la Nations League en el Allianz Arena.",
+    "news_item_url": "https://www.record.com.mx/futbol-futbol-internacional-internacionales/alemania-vs-paises-bajos-en-vivo-online-jornada-3-uefa",
+    "picture_source": "MARCA.com",
+    "approx_traffic": "50,000+"
+  },
+  {
     "country": "Spain",
     "title": "La Oreja de Van Gogh",
     "pubDate": "Mon, 14 Oct 2024 15:00:00 +0200",
@@ -448,15 +428,5 @@
     "news_item_url": "https://www.elconfidencial.com/cultura/2024-10-14/leire-martinez-oreja-van-gogh-amaia-pistas_3982783/",
     "picture_source": "El Mundo",
     "approx_traffic": "100,000+"
-  },
-  {
-    "country": "United Kingdom",
-    "title": "Finland vs England",
-    "pubDate": "Sun, 13 Oct 2024 14:00:00 +0100",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQCcPcroOrtwPMDAoepEwaXvCHCtCTuV_xk1QmUSM9dLEqYw6jo7O5vk4Bxa-YIeZx9Va2raFrz",
-    "news_item_snippet": "All the football updates as England beat Finland in Helsinki to get their UEFA Nations League campaign back on track.",
-    "news_item_url": "https://www.aljazeera.com/sports/liveblog/2024/10/13/live-finland-vs-england-uefa-nations-league-group-b2",
-    "picture_source": "The Independent",
-    "approx_traffic": "200,000+"
   }
 ]
