@@ -1,22 +1,52 @@
 [
   {
     "country": "United States",
-    "title": "Boss Day",
-    "pubDate": "Wed, 16 Oct 2024 07:00:00 -0700",
+    "title": "One Direction",
+    "pubDate": "Wed, 16 Oct 2024 15:00:00 -0700",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQPPyMm-uuOnyGdM11VgXscq3q_4ACyCxK7pgPYz8UMNKegIBWndPtjhmWY9_HKvPKcIx1HBCxs",
+    "news_item_snippet": "Liam Payne of One Direction died Wednesday at age 31 in Buenos Aires, Argentina.",
+    "news_item_url": "https://www.rollingstone.com/music/music-news/liam-payne-dead-at-31-one-direction-member-1235135586/",
+    "picture_source": "Variety",
+    "approx_traffic": "5,000,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Liam One Direction",
+    "pubDate": "Wed, 16 Oct 2024 15:00:00 -0700",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQKrMUUc1Iz1iIfmsOnlgpNe28cUScK784GNyy-FNeXzKETZr-XUgegUZgrY-gu9gbSZHwh9N43",
+    "news_item_snippet": "Former One Direction star Liam Payne died after falling from the third floor of his hotel room in Argentina, according to state police.",
+    "news_item_url": "https://abcnews.go.com/GMA/Culture/former-direction-star-liam-payne-dies-after-fall/story?id=114872963",
+    "picture_source": "Reuters",
+    "approx_traffic": "500,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Bosses Day",
+    "pubDate": "Wed, 16 Oct 2024 04:00:00 -0700",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQEvLtT0Q2BmYXMKVaW3zViiKPPi1P6DXas5a6TJCShGb_prI0sGZfTs9MsNPt2l7l6ZD_Wo743",
     "news_item_snippet": "Boss&#39;s Day began in 1958 when a State Farm employee registered the holiday with the U.S. Chamber of Commerce.",
     "news_item_url": "https://www.courier-journal.com/story/life/2024/10/16/boss-day-2024-commemoration-gifts-cards-history-workplace-careers/75699810007/",
     "picture_source": "Tri-County Independent",
-    "approx_traffic": "100,000+"
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Christy Martin",
+    "pubDate": "Wed, 16 Oct 2024 09:00:00 -0700",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSW5NHv4SXKLTbAR_S2TSlk_Gu910CR639jgj5_6f1QkXGdDYMSKUpcgrw1_NGHvEXuyri4v3zO",
+    "news_item_snippet": "Sydney Sweeney revealed her physical transformation into boxer Christy Martin as she prepares for the biopic about the famous 1990s athlete.",
+    "news_item_url": "https://www.hollywoodreporter.com/movies/movie-news/sydney-sweeney-transformation-boxer-christy-martin-biopic-1236033404/",
+    "picture_source": "Deadline",
+    "approx_traffic": "50,000+"
   },
   {
     "country": "United States",
     "title": "Victoria Secret Fashion Show 2024",
     "pubDate": "Tue, 15 Oct 2024 12:00:00 -0700",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSSxv-8rK0tc64swYwoFC2TQ9NHMnz7UrdYD99bQx4N41gWh9brCj2N9KS51Z6Sn8U0yvIT3E2n",
-    "news_item_snippet": "Also in attendance were Ice Spice, Queen Latifah, Tyga, Coco Jones and Phoebe Dynevor, as well as Dylan Sprouse, who is married to Palvin. The Suite Life of&nbsp;...",
-    "news_item_url": "https://www.billboard.com/photos/victorias-secret-fashion-show-best-photos-lisa-cher-1235802581/",
-    "picture_source": "NPR",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSn-u5prwHEIILklHLPaIBWjfuEGzl78Bsf-BqrI9hRombrwAZq2pAMBMN1G2G9h816SLxBZzHb",
+    "news_item_snippet": "Bella Hadid on the runway at the Victoria&#39;s Secret [+][-] Fashion Show held at the Brooklyn Navy Yard on October 15, 2024 in New York, New York.",
+    "news_item_url": "https://www.forbes.com/sites/jeetendrsehdev/2024/10/16/victorias-secret-fashion-show-2024-can-the-fallen-angels-rise-again/",
+    "picture_source": "Allure Magazine",
     "approx_traffic": "500,000+"
   },
   {
@@ -27,156 +57,26 @@
     "news_item_snippet": "Mauricio Pochettino had his first setback as USMNT coach, a 2-0 loss to a Ra\u00fal Jim\u00e9nez-inspired Mexico. ESPN&#39;s writers cover the key talking points.",
     "news_item_url": "https://www.espn.com/soccer/story/_/id/41815636/mexico-vs-usa-el-tri-inflicts-dos-cero-pochettino",
     "picture_source": "U.S. Soccer",
-    "approx_traffic": "500,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Argentina vs Bolivia",
-    "pubDate": "Tue, 15 Oct 2024 17:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQlJzx-nv-EEwVHAlBthfruqvCn-cilFFP6qHE5XpAGc6WEryWC7hpawYYt5Fglf8Jok6AQ9bR9",
-    "news_item_snippet": "Lionel Messi recorded five-goal contributions as Argentina thrashed Bolivia 6-0 in an stunning display in front of his home fans.",
-    "news_item_url": "https://www.goal.com/en-us/lists/argentina-player-ratings-vs-bolivia-lionel-messi-hat-trick-la-albiceleste-world-cup-qualifying/bltb4e9b5e9103ea4ac",
-    "picture_source": "USA TODAY",
     "approx_traffic": "200,000+"
   },
   {
-    "country": "United States",
-    "title": "Red Flag fire weather warning",
-    "pubDate": "Tue, 15 Oct 2024 11:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTeFGV_ojVLi4rK_NgfKVM9IyexVQ6pq5_12mYtxVkXVlcOleQ9xByrLFOP6d1DeajQ0__qTeU1",
-    "news_item_snippet": "The Bay Area is expected to experience fire weather conditions Thursday through Saturday.",
-    "news_item_url": "https://www.nbcbayarea.com/news/local/bay-area-fire-weather-conditions/3679825/",
-    "picture_source": "The City of Berkeley",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Russell Wilson",
-    "pubDate": "Tue, 15 Oct 2024 19:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTRomzNQ5IWpVUO9N4_IFW6P2p1QVLkfPJweFBbIVWNhmQXh-NL6QtgLwgo-1iISIzbwgVhLH8a",
-    "news_item_snippet": "Justin Fields has guided the Steelers to a 4-2 record to start the season. Could Russell Wilson replace him as the veteran QB returns from injury?",
-    "news_item_url": "https://www.usatoday.com/story/sports/nfl/2024/10/16/russell-wilson-playing-week-7-steelers-jets/75698590007/",
-    "picture_source": "The New York Times",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Johnny Gaudreau",
-    "pubDate": "Tue, 15 Oct 2024 19:00:00 -0700",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcT-ettnRWJ0uoKMBUgf7SxpxUvNj0NcsjksWhATGiu71nVStE2Cpobtk92PrWvOYILUWaPhe1S-mQ",
-    "news_item_snippet": "Johnny Gaudreau and his brother Matthew Gaudreau were honored at the Columbus Blue Jackets opening home game.",
-    "news_item_url": "https://www.today.com/news/sports/johnny-gaudreau-honored-blue-jackets-home-opener-rcna175576",
-    "picture_source": "NHL.com",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Ted Cruz",
-    "pubDate": "Tue, 15 Oct 2024 19:00:00 -0700",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTohknGo3qvOwASqMzFsoOPjcVKXjn2lObR40O7rA2ZM95BrjqR3QDIOJMxj2bdcWhsD2Lf4d0s",
-    "news_item_snippet": "The two candidates in the U.S. Senate race in Texas exchanged barbs during a primetime debate Tuesday, Oct. 15, only weeks before the election.",
-    "news_item_url": "https://www.elpasotimes.com/story/news/politics/elections/2024/10/16/4-takeaways-from-us-senate-debate-between-colin-allred-ted-cruz/75695288007/",
-    "picture_source": "Texas Tribune",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Cher",
-    "pubDate": "Tue, 15 Oct 2024 17:00:00 -0700",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRkBmUxztqGzyAZWLDa87d1Fr1Mj4NNBqoFkmsrTUSnVVHl9WXppzk-wt7tzPHHBQq3ubkLYwBq",
-    "news_item_snippet": "As far as the demand to hear the music and experience the style of Cher, \u201cThe Beat Goes On\u201d as far as Lisa McClowry is concerned. That&#39;s what local au.",
-    "news_item_url": "https://www.springfieldnewssun.com/what-to-do/award-winning-cher-tribute-coming-saturday-to-urbanas-gloria-theatre/NNLAVKHZ5ZC6JC6IMHVKOZUUTY/",
-    "picture_source": "GMA",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Jake E. Lee",
-    "pubDate": "Tue, 15 Oct 2024 15:00:00 -0700",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcS8JZcRNKGHluDz_wDExrkK7aDIVaCxVYrJJsgPK3fY45Utdo0kJ1yYbUZAUp2BbGayG2IP7RqS",
-    "news_item_snippet": "Lee is &quot;fully conscious and doing well&quot; in the hospital, where he is expected to make a full recovery, his management said. American Guitarist and&nbsp;...",
-    "news_item_url": "https://www.nbcnews.com/pop-culture/celebrity/rock-guitarist-jake-e-lee-hit-multiple-random-las-vegas-shooting-rcna175600",
-    "picture_source": "Rolling Stone",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Derek Hough",
-    "pubDate": "Tue, 15 Oct 2024 19:00:00 -0700",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRCrrJIC-9NUQ4-zlN5Vk111cYQYObSmkECMwI71PJ2X4W_iOZtotDjgz9XBOIjnSM2d9JXNzf_",
-    "news_item_snippet": "The married dancers are working on a documentary that will take a look back at the moment when Erbert collapsed backstage while performing on tour.",
-    "news_item_url": "https://deadline.com/2024/10/derek-hough-hayley-erbert-making-documentary-emergency-craniectomy-1236117153/",
-    "picture_source": "USA TODAY",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Jimmy Carter",
-    "pubDate": "Tue, 15 Oct 2024 21:00:00 -0700",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQZHr-b0hfYjpoY-5gSKeMEHV0E3TbK8t-BnhtN8_kiVDF4Tc6VGdX_oC6SkuwIP0xh-CRw_fhe",
-    "news_item_snippet": "Former President Jimmy Carter, the first president in U.S. history to reach the age of 100, cast an early vote in Georgia.",
-    "news_item_url": "https://www.cbsnews.com/news/jimmy-carter-vote-kamala-harris/",
-    "picture_source": "The Guardian",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Mbappe",
-    "pubDate": "Tue, 15 Oct 2024 11:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQGRArU_IRc2CmGAYubkxU_lYAjPJI0ywdUrrHyHtHzOy4hH3IEz1ZXvPgkwgbinO701cT8mlCh",
-    "news_item_snippet": "Allegations of rape against Kylian Mbapp\u00e9 are &quot;totally false&quot; and &quot;a slanderous rumour,&quot; his representatives said Tuesday, following media reports that he&nbsp;...",
-    "news_item_url": "https://www.espn.com/soccer/story/_/id/41813625/kylian-mbappe-pr-firm-denies-rumours-rape-allegations",
-    "picture_source": "BBC News",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
-    "title": "ASML",
-    "pubDate": "Tue, 15 Oct 2024 16:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSfjwqK8bVd-a_eVaRUuR9vR-6-Xqw6yzuEmXGcG51D6QSdRyM7horRlh_uK2y88ekZGKmqkUiz",
-    "news_item_snippet": "ASML on Tuesday offered the first glimpse into how U.S. restrictions on exports of its advanced chip manufacturing tools to China will impact its sales in&nbsp;...",
-    "news_item_url": "https://www.cnbc.com/2024/10/16/asml-2025-outlook-shows-us-chip-export-curbs-impacting-china-sales.html",
-    "picture_source": "Reuters",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Charlamagne Tha God",
-    "pubDate": "Tue, 15 Oct 2024 15:00:00 -0700",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSLwzOvmBiP7lt3htEdHar6NbH4be0z2IUJYNG4GgyQgmQ8kfIxiI0aSDSw8d4V6LcvBPoADKlZ",
-    "news_item_snippet": "In an interview with Charlamagne Tha God, co-host of \u201cThe Breakfast Club,\u201d Vice President and presidential nominee Kamala Harris slams former President&nbsp;...",
-    "news_item_url": "https://www.cnn.com/2024/10/16/politics/video/kamala-harris-the-breakfast-club-interview-trump-fascism-digvid",
-    "picture_source": "NPR",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
-    "title": "D.E.I",
-    "pubDate": "Tue, 15 Oct 2024 01:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSNOuqMs7bvaiJT727d1zQPlyi2EEruDdh7wnksq-QPuGOafpXOKZ9QT9TCN5_D33PuewSEDH0j",
-    "news_item_snippet": "U.S. workers tend to be more sensitive to DEI issues than their non-U.S. counterparts. What should an employer with U.S. and non-U.S. workforces do about&nbsp;...",
-    "news_item_url": "https://www.littler.com/publication-press/publication/how-can-employers-address-varying-sensitivities-dei-issues",
-    "picture_source": "The New York Times",
-    "approx_traffic": "50,000+"
-  },
-  {
     "country": "India",
-    "title": "Sunita Williams",
-    "pubDate": "Wed, 16 Oct 2024 10:30:00 +0530",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcROOtHUoleKDywBD273WpcMI-NTC848kx-9kOemgzyyn33BVj1zqF-EzUcMHjJvhyAhJz9iu3Av",
-    "news_item_snippet": "NASA astronauts Sunita Williams and Butch Wilmore are on an extended mission aboard the ISS due to delays with Boeing&#39;s Starliner spacecraft. Misinfor.",
-    "news_item_url": "https://timesofindia.indiatimes.com/etimes/trending/is-nasa-making-arrangements-for-the-return-of-sunita-williams-soon-detailed-report/articleshow/114268752.cms",
-    "picture_source": "Economic Times",
-    "approx_traffic": "50,000+"
+    "title": "Sri Lanka vs West Indies",
+    "pubDate": "Wed, 16 Oct 2024 00:30:00 +0530",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRngH5z5onysExCwXRFqsBBr2GyI084KFvi4H2CJfXQ8SaTB2_HQTstMrGwSN_GDAOEQdBg-ZbP",
+    "news_item_snippet": "Sri Lanka vs West Indies Live Score: First Innings Sri Lanka Score - 162/5 in 20.0 overs. Sri Lanka batting performance. Pathum Nissanka 54(49)",
+    "news_item_url": "https://www.hindustantimes.com/cricket/sri-lanka-vs-west-indies-live-score-2nd-t20i-of-west-indies-tour-of-sri-lanka-2024-final-updates-today-15-oct-2024-101728995609368.html",
+    "picture_source": "ESPNcricinfo.com",
+    "approx_traffic": "500,000+"
   },
   {
     "country": "India",
     "title": "Argentina",
     "pubDate": "Wed, 16 Oct 2024 07:30:00 +0530",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcR69DswifpY58-oluCTC9kBWV1Sja8MTDdOdbn3L-ZlHzPXNDJJBKo_eAqz92B3zgtFgqra87nb",
-    "news_item_snippet": "Lionel Messi came back in style for Argentina with a hat trick and two assists in its 6-0 home win in a South American World Cup qualifying match.",
-    "news_item_url": "https://www.thehindu.com/sport/football/messi-scores-hat-trick-as-argentina-outclasses-bolivia-in-south-american-world-cup-qualifying/article68759392.ece",
-    "picture_source": "Aljazeera.com",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTzJVXKqbe1KT_UHczzBKKvKZiw4YBoySQDv12qEUzrJytHiV0JaUfHh5Jr089_GDmoSpX19sy2",
+    "news_item_snippet": "Pop star Liam Payne of One Direction died after falling into an interior patio of a hotel in Buenos Aires, officials said.",
+    "news_item_url": "https://www.cbsnews.com/news/liam-payne-one-direction-singer-dies-argentina/",
+    "picture_source": "The Hindu",
     "approx_traffic": "50,000+"
   },
   {
@@ -194,19 +94,9 @@
     "title": "Sharad Purnima 2024",
     "pubDate": "Tue, 15 Oct 2024 08:30:00 +0530",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTLsRmGJNzy-46FlErwsDIw0IDldoMZwVgOJ0b2I0NTntFxtTTww1CCJM9MsPKIESmkqWwJ41deSg",
-    "news_item_snippet": "Sharad Purnima 2024: Sharad Purnima is an auspicious Hindu festival celebrated across the country. It is believed that on this day, nectar rains from the&nbsp;...",
-    "news_item_url": "https://www.business-standard.com/lifestyle/sharad-purnima-2024-why-is-it-celebrated-know-date-significance-and-more-nc-124101500890_1.html",
+    "news_item_snippet": "Sharad Purnima 2024 falls on 16th October. Check the moonrise time and special Goddess Laxmi mantra for students to seek blessings on this auspicious day.",
+    "news_item_url": "https://www.jagranjosh.com/general-knowledge/sharad-purnima-2024-check-moon-rise-time-today-and-goddess-laxmi-mantra-for-students-1729077343-1",
     "picture_source": "\u0906\u091c \u0924\u0915",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "India",
-    "title": "Kamran Ghulam",
-    "pubDate": "Tue, 15 Oct 2024 11:30:00 +0530",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSoPDRforAF3X3VJlzul274l4_MODPD1GEzjodYPV4tqeYBO-MaheJGwuxwMiAdOhZv-igb_xlBdg",
-    "news_item_snippet": "Kamran Ghulam Babar Azam: \u092c\u093e\u092c\u0930 \u0906\u091c\u092e \u0915\u0940 \u091c\u0917\u0939 \u092a\u093e\u0915\u093f\u0938\u094d\u0924\u093e\u0928 \u0915\u094d\u0930\u093f\u0915\u0947\u091f \u091f\u0940\u092e \u092e\u0947\u0902 \u0915\u093e\u092e\u0930\u093e\u0928 \u0917\u0941\u0932\u093e\u092e \u0906\u090f \u0939\u0948\u0902. \u0915\u093e\u092e\u0930\u093e\u0928 \u0928\u0947 \u0905\u092a\u0928\u0947 \u0921\u0947\u092c\u094d\u092f\u0942 \u092e\u0948\u091a \u092e\u0947\u0902 \u0939\u0940 \u0936\u0924\u0915 \u0932\u0917\u093e \u0926\u093f\u092f\u093e&nbsp;...",
-    "news_item_url": "https://www.abplive.com/sports/cricket/3-ways-pakistan-can-adjust-babar-azam-kamran-ghulam-in-same-team-shan-masood-drop-agha-salman-2804710",
-    "picture_source": "Hindustan Times",
     "approx_traffic": "200,000+"
   },
   {
@@ -214,29 +104,39 @@
     "title": "England Women vs West Indies Women",
     "pubDate": "Tue, 15 Oct 2024 19:30:00 +0530",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcT9jD6daQdiy0QUqrpvQEzv7UvnTr5UU0ig1nkFEGr-yuST5Eo7gOAzdrNEd1skkR0oqGiKQD7v",
-    "news_item_snippet": "Deandra Dottin is out and West Indies Women at 136/4 after 17.2 overs. England Women vs West Indies Women Live Score: OUT! b Sophie Ecclestone.",
-    "news_item_url": "https://www.hindustantimes.com/cricket/england-women-vs-west-indies-women-live-score-match-20-of-icc-womens-t20-world-cup-2024-final-updates-today-15-oct-2024-101728997409450.html",
+    "news_item_snippet": "England Women vs West Indies Women Live Score: West Indies Women beat England Women by 6 wickets.",
+    "news_item_url": "https://www.livemint.com/sports/cricket-news/england-women-vs-west-indies-women-live-score-match-20-of-icc-womens-t20-world-cup-2024-final-updates-today-15-oct-2024-11728997409530.html",
     "picture_source": "ESPNcricinfo.com",
     "approx_traffic": "100,000+"
+  },
+  {
+    "country": "India",
+    "title": "China",
+    "pubDate": "Tue, 15 Oct 2024 18:30:00 +0530",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSw4ptNB-8TT4xExJ6GpgyqvninM8HFZHmQh9AxCGuN6q6zgPvjPEshSAqFcyOvQa7ESQXzQaqS",
+    "news_item_snippet": "The most powerful ally of US Vice President Kamala Harris is Rony Busby, who has met with several officials of the Chinese Communist Party during his&nbsp;...",
+    "news_item_url": "https://m.economictimes.com/news/international/us/kamala-harris-ally-sharing-resources-with-china-communist-party-heres-what-report-reveals/articleshow/114291011.cms",
+    "picture_source": "Business Standard",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "Argentina",
+    "title": "One Direction",
+    "pubDate": "Wed, 16 Oct 2024 19:00:00 -0300",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQU_AJLqiQuqX9qdjKGSeohiKgw1n-9qzRaqiOB6f_cUDvyDcqzUIiYLtjMIZqlUbfkLprur57n",
+    "news_item_snippet": "El cantante iba a presentarse en el Movistar Arena el 9 de septiembre del 2023.Y debi\u00f3 levantar toda la gira sudamericana.",
+    "news_item_url": "https://www.clarin.com/espectaculos/musica/murio-liam-payne-ex-one-direction-cancelo-visita-argentina-problemas-salud_0_NosdTLwPrS.html",
+    "picture_source": "LA NACION",
+    "approx_traffic": "500,000+"
   },
   {
     "country": "Argentina",
     "title": "Eliminatorias",
     "pubDate": "Tue, 15 Oct 2024 00:00:00 -0300",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRjpCzfiIpV61eVVXnU73uOMxBuowu18ffQGLfwd4MtjcQlLmgpq6y28VcXeE_gvK3FgFe4gIvP",
-    "news_item_snippet": "La selecci\u00f3n argentina y Colombia golearon y se mantienen en lo m\u00e1s alto de la general; Uruguay empat\u00f3 y sigue tercero - LA NACION.",
-    "news_item_url": "https://www.lanacion.com.ar/deportes/futbol/asi-quedo-la-tabla-de-posiciones-de-las-eliminatorias-sudamericanas-tras-la-fecha-10-nid15102024/",
-    "picture_source": "Clar\u00edn.com",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "Argentina",
-    "title": "Colombia  Chile",
-    "pubDate": "Tue, 15 Oct 2024 18:00:00 -0300",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRMs0ef-Kh3uSW9y5ym6-HaG633w_KPLdRUDdh62sHEihXbKgg4dz_r9LIU8R9JsO5_GGGUfS0U",
-    "news_item_snippet": "Barranquilla fue un infierno para Ricardo Gareca y no por los 37\u00b0 de sensaci\u00f3n t\u00e9rmica que se sent\u00edan al mediod\u00eda, apenas un par de horas antes de que Chile&nbsp;...",
-    "news_item_url": "https://www.clarin.com/deportes/colombia-vs-chile-eliminatorias-sudamericanas-minuto-minuto-directo_0_1tLxYoxe6f.html",
-    "picture_source": "Ol\u00e9",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRR3nAHUvvtquBjxBe14FDCILpQs6atH0V3_SF22UFt3-f2I6G5dtvkEJ3HQas_I572R6ci7UBU",
+    "news_item_snippet": "La fecha 10 de las Eliminatorias Sudamericanas dio inicio a la segunda mitad del certamen que dar\u00e1 seis plazas para el Mundial 2026, m\u00e1s un repechaje.",
+    "news_item_url": "https://www.clarin.com/deportes/tabla-posiciones-eliminatorias-fecha-10-colombia-alcanzo-argentina-chile-hunde_0_3agM19TyL1.html",
+    "picture_source": "P\u00e1gina 12",
     "approx_traffic": "200,000+"
   },
   {
@@ -244,19 +144,29 @@
     "title": "Nico Paz",
     "pubDate": "Tue, 15 Oct 2024 23:00:00 -0300",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSNsBIbHEefE33JJ8XZdb-EYogSwFzgg-UIBOnPdh8TnRlW0YuHlRTNDy6Idi5EqeBPYCuBNk-J",
-    "news_item_snippet": "El mediocampista ofensivo del Como 1907 debut\u00f3 con la Mayor dejando buenas sensaciones e incluso asisti\u00f3 a Messi.",
-    "news_item_url": "https://www.ole.com.ar/seleccion/nicolas-paz-1907-argentina-debut-espana-italia_0_6eOWP4Ro4m.html",
+    "news_item_snippet": "Lionel Scaloni le dio sus primeros minutos en la Mayor. Carrera, goles, n\u00fameros y estad\u00edsticas del delantero de 20 a\u00f1os de edad.",
+    "news_item_url": "https://www.pagina12.com.ar/775132-donde-juega-y-cuantos-anos-tiene-nico-paz-el-jugador-que-deb",
     "picture_source": "ESPN",
     "approx_traffic": "200,000+"
   },
   {
     "country": "Argentina",
+    "title": "Colombia  Chile",
+    "pubDate": "Tue, 15 Oct 2024 18:00:00 -0300",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQp7AXedyTxWJl2e2oDrubKsZ3wke5YgecPlzXQjYjDZY_a9u2FvCV6E_asu0Yd8didSjXn0Wk7",
+    "news_item_snippet": "Con goles de Davinson S\u00e1nchez, Luis D\u00edaz, Jhon Dur\u00e1n y Luis Sinisterra, los de Lorenzo vencieron a La Roja, que sigue \u00faltimo.",
+    "news_item_url": "https://www.ole.com.ar/futbol-internacional/eliminatorias/eliminatorias-sudamericanas-chile-colombia_0_h0v3Sa5p4b.html",
+    "picture_source": "Clar\u00edn.com",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "Argentina",
     "title": "Paraguay  Venezuela",
     "pubDate": "Tue, 15 Oct 2024 18:00:00 -0300",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRnkgMyRdASBLfSSlzN2wfjTWyCtWm71f44GT50LZxttcT1T-20ovYCi92fqOGuUxV7Q_wga0Rg",
-    "news_item_snippet": "La Albirroja de Gustavo Alfaro se recuper\u00f3 a tiempo y consigui\u00f3 un triunfo de oro.",
-    "news_item_url": "https://www.espn.com.ar/futbol/mundial/nota/_/id/14311950/paraguay-se-lo-dio-vuelta-a-venezuela-y-se-metio-en-puestos-de-clasificacion",
-    "picture_source": "canchallena.com",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTuKsq0783cRHcI_47-doGMKtR4j77ijVrV8Mqi3kyFUT-Av_Bf8HGYXD6f68KL48SZDMX9l-yj",
+    "news_item_snippet": "El encuentro se disputa este martes desde las 20 en el estadio Defensores del Chaco de Asunci\u00f3n y lo arbitra el chileno Piero Maza - LA NACION.",
+    "news_item_url": "https://www.lanacion.com.ar/deportes/futbol/paraguay-vs-venezuela-en-vivo-como-ver-online-el-partido-por-las-eliminatorias-sudamericanas-nid15102024/",
+    "picture_source": "ESPN",
     "approx_traffic": "100,000+"
   },
   {
@@ -264,26 +174,16 @@
     "title": "Brasil vs",
     "pubDate": "Tue, 15 Oct 2024 20:00:00 -0300",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQXe6ZT7pFIp4DReLNUplbGL2FS2oqWpgH2pp3ANU8O3pfM5ExWyAHZ9HAOBIkY8vq7plYYO_kI",
-    "news_item_snippet": "Fue 4 a 0 con un doblete de Raphinha, ambos de penal, un gol de Andreas Pereira y otro de Luiz Henrique.Jugaron en el estadio Man\u00e9 Garrincha con el&nbsp;...",
-    "news_item_url": "https://www.clarin.com/deportes/brasil-vs-peru-eliminatorias-sudamericanas-minuto-minuto-directo_0_ekafdcENHv.html",
+    "news_item_snippet": "En el Arena Man\u00e9 Garrincha, la Verdeamarela vapule\u00f3 por 4-0 a la Blanquirroja, que qued\u00f3 a solo un punto de Chile, en el fondo de la tabla, por la jornada&nbsp;...",
+    "news_item_url": "https://www.tycsports.com/eliminatorias/brasil-vs-peru-en-vivo-hora-donde-ver-y-formaciones-id612998.html",
     "picture_source": "canchallena.com",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "Argentina",
-    "title": "Argentina",
-    "pubDate": "Tue, 15 Oct 2024 16:00:00 -0300",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRw7RxIAcMnhWGjGzYtxPArWp0qBnJzPeXAB4EfXtx_yVQLN5r4s2NTTf6VMKgchcNhKzSW1MJ3",
-    "news_item_snippet": "En una reuni\u00f3n virtual con m\u00e1s de 30 participantes se avanz\u00f3 en el fortalecimiento del senderismo.",
-    "news_item_url": "https://www.argentina.gob.ar/noticias/primer-encuentro-federal-de-senderos-de-argentina",
-    "picture_source": "Argentina.gob.ar Presidencia de la Naci\u00f3n",
     "approx_traffic": "100,000+"
   },
   {
     "country": "Argentina",
     "title": "Uruguay  Ecuador",
     "pubDate": "Tue, 15 Oct 2024 20:00:00 -0300",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTQ3yW-rC8AW3yHqTBM29GO53ZGt_BKREu5XNshodjGAevTOt3ToHv5M50PxHbLM8YpSF2Ipj9i",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQZqi1rxz8VNxjRUqriHc3ywm3pRUElQiwu5gZ6XbXxkKuSf63M-KMPKrEX5F85yy971vk4gt3N",
     "news_item_snippet": "Uruguay y Ecuador se encuentran este martes en Montevideo, en un partido m\u00e1s que especial en el marco de la fecha 10 de las eliminatorias sudamericanas&nbsp;...",
     "news_item_url": "https://www.lanacion.com.ar/deportes/futbol/uruguay-vs-ecuador-en-vivo-como-ver-online-el-partido-por-las-eliminatorias-sudamericanas-nid15102024/",
     "picture_source": "Infobae.com",
@@ -294,20 +194,30 @@
     "title": "Telefe",
     "pubDate": "Tue, 15 Oct 2024 22:00:00 -0300",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRPYnpHmugu128x8of3tL1Gr7_3iBG0wDmGnil7tPdZj3-Kt582j6fB6vU91q3NV6is_1Ct84v2",
-    "news_item_snippet": "Comienza un nuevo formato de m\u00faltiples personajes relevantes que nos cuentas sus experiencias en cada destino. Juan lmhoff, jugador de los pumas es el gran&nbsp;...",
-    "news_item_url": "https://www.on24.com.ar/vida-ocio/portadas-festeja-sus-10-anos-con-un-cambio-de-formato-por-telefe-rosario/",
+    "news_item_snippet": "El ganador del programa expres\u00f3 lo que sucedi\u00f3 con el dinero que gan\u00f3 tras el reality.",
+    "news_item_url": "https://viapais.com.ar/entretenimiento/bautista-mascia-apunto-hacia-telefe-y-revelo-que-ocurrio-con-los-70-millones-que-gano-en-gran-hermano/",
     "picture_source": "Revista Paparazzi",
     "approx_traffic": "50,000+"
   },
   {
-    "country": "Argentina",
-    "title": "Cher",
-    "pubDate": "Tue, 15 Oct 2024 15:00:00 -0300",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQiWEXBAoszUVcaxSby1-YrbQ8HNPySa8H7UBkzaq0O_qN5ehcmrIjX4tbKYFIgOiWA-l_gTi6f",
-    "news_item_snippet": "Carla Bruni, Tyra Banks e Irina Shayk, tres de las ic\u00f3nicas modelos que desfilaron en el gran regreso del Victoria&#39;s Secret Fashion ShowEvan Agostini -&nbsp;...",
-    "news_item_url": "https://www.lanacion.com.ar/espectaculos/personajes/del-debut-de-kate-moss-a-las-deslumbrantes-participaciones-de-cher-tyra-banks-y-carla-bruni-todas-nid16102024/",
-    "picture_source": "La Voz del Interior",
-    "approx_traffic": "50,000+"
+    "country": "Australia",
+    "title": "One Direction",
+    "pubDate": "Wed, 16 Oct 2024 14:00:00 +1100",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSFCRSfRwt2n2oKqTuU_UmVOSKK_7D0ij71W6XYT5a3UPvma6KoVXDK-R7DBPihxCRw-NeA6Xwn",
+    "news_item_snippet": "The 31-year-old British musician was found dead after falling from the hotel&#39;s third floor, according to local newspaper La Nacion, citing emergency services.",
+    "news_item_url": "https://www.smh.com.au/culture/music/one-direction-singer-liam-payne-found-dead-in-buenos-aires-reports-20241017-p5kj03.html",
+    "picture_source": "ABC News",
+    "approx_traffic": "500,000+"
+  },
+  {
+    "country": "Brazil",
+    "title": "One Direction",
+    "pubDate": "Wed, 16 Oct 2024 17:00:00 -0500",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSeB7B5iHP2kExidgx0D9RKyQbiGJYBVs7Z-wBT5Kf5ypvihjK0Q0VVfYK1KDUckINf2zyYtsd0",
+    "news_item_snippet": "O cantor brit\u00e2nico Liam Payne foi encontrado morto na Argentina nesta quarta-feira (16). Leia na \u00edntegra na Forbes Brasil.",
+    "news_item_url": "https://forbes.com.br/geral/2024/10/morre-liam-payne-ex-one-direction-aos-31-anos/",
+    "picture_source": "G1",
+    "approx_traffic": "500,000+"
   },
   {
     "country": "Brazil",
@@ -321,102 +231,32 @@
   },
   {
     "country": "Brazil",
-    "title": "Globoplay",
-    "pubDate": "Wed, 16 Oct 2024 08:00:00 -0500",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRPiNGiUs2BD2kkfn2l7oDVEqRDQm9V5gAnKzCO9-diWpcGk3lnAmnblGpt9mNnMkKo4bQYle7v",
-    "news_item_snippet": "Projeto est\u00e1 todo gravado desde janeiro e deveria ter sido disponibilizado na plataforma de streaming em 2024.",
-    "news_item_url": "https://portalleodias.com/colunas/carla-bittencourt/globoplay-define-data-de-estreia-da-novela-guerreiros-do-sol-apos-adiamentos",
-    "picture_source": "SporTV",
+    "title": "Chapecoense x Santos",
+    "pubDate": "Wed, 16 Oct 2024 14:00:00 -0500",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQYQ1OoCXx5eOyLIQG5_lEOSFghNVbr7_SgSVFXt4HC4n4KYqdppWTXcmhj1J9hQspnMTq9O4t_",
+    "news_item_snippet": "Chapecoense e Santos duelam hoje (16), \u00e0s 20h (de Bras\u00edlia), na Arena Cond\u00e1, em Chapec\u00f3 (SC), em jogo v\u00e1lido pela 33\u00aa rodada do Campeonato Brasileiro.",
+    "news_item_url": "https://www.uol.com.br/esporte/ultimas-noticias/2024/10/16/transmissao-ao-vivo-de-chapecoense-x-santos-veja-onde-assistir.htm",
+    "picture_source": "ESPN.com.br",
     "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Brazil",
-    "title": "Brasil x Peru",
-    "pubDate": "Tue, 15 Oct 2024 13:00:00 -0500",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcS2XcDBlyj70VUIm9QyHf2HhaohpAHY_-DoWJPWgc5ngHQVv4YMu8yIKcD-scGL65SkHQMfjhbB",
-    "news_item_snippet": "De acordo com o Departamento de Tr\u00e2nsito do Distrito Federal (Detran-DF), pontos de travessia de pedestres v\u00e3o ser implantados na altura do Planet\u00e1rio, na via&nbsp;...",
-    "news_item_url": "https://g1.globo.com/df/distrito-federal/noticia/2024/10/15/brasil-x-peru-transito-no-eixo-monumental-tem-alteracao-para-jogo-da-selecao-brasileira-nesta-terca-feira-15.ghtml",
-    "picture_source": "CNN Brasil",
-    "approx_traffic": "2,000,000+"
-  },
-  {
-    "country": "Brazil",
-    "title": "Argentina",
-    "pubDate": "Tue, 15 Oct 2024 18:00:00 -0500",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQamBFKo6KZbayA--42sqOmNOuNgfZFPpzs_baXkPw32sZS9q3XzeKR5rmvQBiT2Q-9xYxkPgti",
-    "news_item_snippet": "Camisa 10 da Argentina, Lionel Messi falou sobre o futuro com a camisa albiceleste ap\u00f3s a goleada por 6 a 0 sobre a Bol\u00edvia.",
-    "news_item_url": "https://www.espn.com.br/futebol/artigo/_/id/14311633/messi-jogar-copa-de-2026-camisa-10-argentina-nao-tem-prazo-para-deixar-selecao",
-    "picture_source": "G1",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "Brazil",
-    "title": "Col\u00f4mbia x Chile",
-    "pubDate": "Tue, 15 Oct 2024 16:00:00 -0500",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSIc_Wiz2EO6tMznIBT8PsCGWXL39HITVoauQbvTNyyi6FhEbhJlHfGeYNu3i7PnIKdwz8pfQ4s",
-    "news_item_snippet": "A Col\u00f4mbia goleou o Chile, por 4 a 0, pela 10\u00aa rodada das Eliminat\u00f3rias para a Copa do Mundo 2026. Com gols de Davinson S\u00e1nchez, Luis D\u00edaz, Jhon Dur\u00e1n e&nbsp;...",
-    "news_item_url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/eliminatorias/eliminatorias-colombia-goleia-chile-e-frustra-planos-do-brasil/",
-    "picture_source": "ESPN.com.br",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "Brazil",
-    "title": "Esc\u00f3cia x Portugal",
-    "pubDate": "Tue, 15 Oct 2024 13:00:00 -0500",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTCLdM5rFb9W3jMLH1fTLCSCehyd1q0mMRXR4B0VwBkyy8He5sWtMyVseOiH2_luParWPi6AqT2",
-    "news_item_snippet": "A partida v\u00e1lida pela quarta rodada da fase de grupos da Liga das Na\u00e7\u00f5es ter\u00e1 transmiss\u00e3o do streaming Disney+.",
-    "news_item_url": "https://www.lance.com.br/onde-assistir/escocia-x-portugal-onde-assistir-horario-e-escalacoes-do-jogo-pela-liga-das-nacoes.html",
-    "picture_source": "ESPN.com.br",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "Brazil",
-    "title": "Menino de 9 anos mata animais",
-    "pubDate": "Tue, 15 Oct 2024 07:00:00 -0500",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSdLraS5NLLyOIhs7pJDgbcTxuAmvZEX0y5Bk2fAwHzjF6uSKMXyMcBh9pRKsvcjezxq22n3HUf",
-    "news_item_snippet": "Menino invadiu a fazendinha de um hospital veterin\u00e1rio em Nova F\u00e1tima, no interior do Paran\u00e1, e matou 23 animais de pequeno porte no domingo (13).",
-    "news_item_url": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2024/10/16/cena-horrivel-dizem-donos-de-hospital-veterinario-onde-crianca-de-9-anos-matou-23-animais.htm",
-    "picture_source": "CNN Brasil",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "Brazil",
-    "title": "Corinthians x Boca Juniors",
-    "pubDate": "Tue, 15 Oct 2024 15:00:00 -0500",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRbMbI9O-gzVm6D0B4GSzhhzvJo1SEVIkihez_E0JhL-gBLNr5Q1YmapknFGv6El2TaPF8WqpnO",
-    "news_item_snippet": "Confira onde assistir, hor\u00e1rio e escala\u00e7\u00f5es de Corinthians e Boca Juniors; jogo vale pela semifinal da Copa Libertadores Feminina.",
-    "news_item_url": "https://olhardigital.com.br/2024/10/15/internet-e-redes-sociais/corinthians-x-boca-juniors-onde-assistir-e-horario-da-semifinal-da-libertadores-feminina/",
-    "picture_source": "globoesporte.com",
-    "approx_traffic": "100,000+"
   },
   {
     "country": "Canada",
     "title": "Oilers",
-    "pubDate": "Tue, 15 Oct 2024 23:00:00 -0400",
+    "pubDate": "Wed, 16 Oct 2024 00:00:00 -0400",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQuWcxrc18yqpA12vo7gWEl2mi4g1qclvnQyM3p-tYIhRrUzFjDHfcLlF_qau9ebmRjtLhaBKnL",
-    "news_item_snippet": "A number of Edmonton Oilers forwards could find themselves in different roles in the team&#39;s lineup on Tuesday night as the hockey club tries to end a&nbsp;...",
-    "news_item_url": "https://globalnews.ca/news/10812560/edmonton-oilers-philadelphia-flyers-game-preview-october/",
+    "news_item_snippet": "The Edmonton Oilers found themselves down 2-0 early in Tuesday&#39;s game against the Philadelphia Flyers because of penalties.",
+    "news_item_url": "https://edmonton.ctvnews.ca/oilers-grit-helps-produce-come-from-behind-victory-over-flyers-1.7075968",
     "picture_source": "Globalnews.ca",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "Canada",
-    "title": "Victoria Secret Fashion Show 2024",
-    "pubDate": "Tue, 15 Oct 2024 14:00:00 -0400",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQu45jDznaltZ9cY_cYsbvxjikTzJDdZ_gK3__WT6aVC2viQSdLiSHGF6Wd8QNdi8X-_Uyg0NPc",
-    "news_item_snippet": "See Adriana Lima, Alessandra Ambrosio, Ashley Graham and more at the 2024 Victoria&#39;s Secret Fashion Show after party in New York.",
-    "news_item_url": "https://wwd.com/fashion-news/fashion-scoops/gallery/victorias-secret-fashion-show-2024-after-party-photos-1236686376/",
-    "picture_source": "Forbes",
     "approx_traffic": "50,000+"
   },
   {
     "country": "South Korea",
     "title": "\uc6d4\ub4dc\ucef5 \uc608\uc120",
     "pubDate": "Tue, 15 Oct 2024 20:00:00 +0900",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQF-TG2_uoQYlYq7EV4Fv1j_mvH_DL1huukY4BAYR3BtQWNdE9E_OK9XH7bv9TlJUEQ_1syxRGy",
-    "news_item_snippet": "\ud654\uc694\uc77c \uc800\ub141 \uacbd\uae30\ub3c4 \uc6a9\uc778\uc5d0\uc11c \uc5f4\ub9b0 2026 \uad6d\uc81c\ucd95\uad6c\uc5f0\ub9f9(FIFA) \uc6d4\ub4dc\ucef5 \uc544\uc2dc\uc544 \uc9c0\uc5ed \uc608\uc120 3\ub77c\uc6b4\ub4dc B\uc870 4\ucc28\uc804\uc5d0\uc11c \uacbd\uae30 \uacb0\uacfc\ub97c \uc54c\uc544\ubcf4\uc138\uc694.",
-    "news_item_url": "https://olympics.com/ko/news/korea-v-iraq-football-world-cup-qualifier-third-round",
-    "picture_source": "\uc804\uad6d\ub9e4\uc77c\uc2e0\ubb38",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSWqiPH_cr_PEQS7oo0iQk-1RTNDX9sl_48NGuWJERHkQW_5KtjIHbmctcrXJhBYeATF1vNg8po",
+    "news_item_snippet": "\uc624\ud604\uaddc\u00b7\uc624\uc138\ud6c8\u00b7\ubc30\uc900\ud638\u00b7\uc124\uc601\uc6b0 \ub4f1 &#39;\uc80a\uc740 \ud53c&#39; \ud65c\uc57d \uace0\ubb34\uc801 \ud64d\uba85\ubcf4 \uac10\ub3c5 \ubd80\uc784 \ub54c \uc678\uce5c \uc810\uc9c4\uc801 &#39;\uc138\ub300\uad50\uccb4&#39; \uc798 \uc774\ub904\uc838.",
+    "news_item_url": "https://www.newsis.com/view/NISX20241016_0002922793",
+    "picture_source": "\ud5e4\ub7f4\ub4dc\uacbd\uc81c \ubbf8\uc8fc\ud310",
     "approx_traffic": "50,000+"
   },
   {
@@ -431,32 +271,52 @@
   },
   {
     "country": "France",
+    "title": "One Direction",
+    "pubDate": "Thu, 17 Oct 2024 00:00:00 +0200",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTqTgmV9QB__YuabyTtPJIzWW9zH1yOBtcYxZJ7t3zqKkoVh7zBJzEbMzwO_Q2Rbwq8QsuL-aBb",
+    "news_item_snippet": "&quot;Liam James Payne, auteur-compositeur et guitariste, ancien membre du groupe One Direction, est d\u00e9c\u00e9d\u00e9 aujourd&#39;hui apr\u00e8s avoir chut\u00e9 du troisi\u00e8me \u00e9tage d&#39;un&nbsp;...",
+    "news_item_url": "https://www.bfmtv.com/people/musique/liam-payne-ex-membre-de-one-direction-est-mort-en-argentine_AD-202410160981.html",
+    "picture_source": "Franceinfo",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "France",
     "title": "Lina",
     "pubDate": "Wed, 16 Oct 2024 20:00:00 +0200",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQxGK58IxnFU4W0ykXAF7uMeUXo1VPNA21vWvuARS5T-KGqtcW1u4PEDV_tSBQeifqb0zvTty-0",
-    "news_item_snippet": "Le corps a \u00e9t\u00e9 retrouv\u00e9 immerg\u00e9 dans un cours d&#39;eau situ\u00e9 en contrebas d&#39;un talus\u00bb, a d\u00e9clar\u00e9 le parquet.",
-    "news_item_url": "https://www.lefigaro.fr/faits-divers/affaire-lina-le-corps-de-l-adolescente-a-ete-retrouve-dans-la-nievre-20241016",
-    "picture_source": "Franceinfo",
-    "approx_traffic": "50,000+"
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSuS82QH1zVb-614ojJS-v90XihWVvTl1ojfRhcu4YF6ZJ3w5FEx5-I-jvNr_CgqfELb6cREeLz",
+    "news_item_snippet": "La jeune fille avait disparu le 23 septembre 2023. Le principal suspect, Samuel Gonin, s&#39;est suicid\u00e9 le 10 juillet dernier.",
+    "news_item_url": "https://www.francetvinfo.fr/faits-divers/disparition-de-lina/affaire-lina-le-corps-sans-vie-de-l-adolescente-a-ete-retrouve-dans-la-nievre-annonce-le-parquet_6841883.html",
+    "picture_source": "Europe1",
+    "approx_traffic": "200,000+"
   },
   {
     "country": "France",
     "title": "Mbappe",
     "pubDate": "Tue, 15 Oct 2024 00:00:00 +0200",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcT19aVy08jX-rbQGO2YGkqb1AO8JxEKzKNcwSi4gY3pghGnToBz_Pux8CovtXrXcUXpt-C24Z2P",
-    "news_item_snippet": "Kylian Mbapp\u00e9 est &quot;stup\u00e9fait&quot; de voir son nom cit\u00e9 par les m\u00e9dias en lien avec une enqu\u00eate pour viol ouverte \u00e0 Stockholm, mais il est &quot;serein&quot; car &quot;il n&#39;a&nbsp;...",
-    "news_item_url": "https://www.europe1.fr/sport/affaire-mbappe-son-avocate-prend-la-parole-et-affirme-que-son-client-na-rien-a-se-reprocher-4273188",
-    "picture_source": "Le Figaro",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcS5-CFYLgCBHCeS-ufaLWSNVx3eK6OtCpBwwAklNsUbpyvydHwhEaQfeU_T3LZ9wMTFIzp0urNA",
+    "news_item_snippet": "D\u00c9CRYPTAGE - La destination du capitaine des Bleus, vis\u00e9 par une enqu\u00eate pour viol selon les m\u00e9dias su\u00e9dois, est depuis peu tr\u00e8s appr\u00e9ci\u00e9e des footballeurs.",
+    "news_item_url": "https://www.lefigaro.fr/sports/football/pourquoi-kylian-mbappe-avait-choisi-la-suede-pour-son-escapade-20241016",
+    "picture_source": "Europe1",
     "approx_traffic": "200,000+"
+  },
+  {
+    "country": "Germany",
+    "title": "One Direction",
+    "pubDate": "Thu, 17 Oct 2024 00:00:00 +0200",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcS0D5leHSBnOX58kzqVNUxfi2sGdJW5BE1myucOGJca2tUHAvln3UCGQvl6SqcB0ftCeCo5rxcl",
+    "news_item_snippet": "An der Seite von Harry Styles feierte er mit der Boyband One Direction Charterfolge \u2013 und bezauberte Millionen von Fans: Nun ist Liam Payne in Argentinien&nbsp;...",
+    "news_item_url": "https://www.spiegel.de/panorama/leute/frueherer-one-direction-star-liam-payne-stirbt-bei-sturz-von-balkon-a-38405032-204f-429e-9470-5614fed21c7a",
+    "picture_source": "tagesschau.de",
+    "approx_traffic": "100,000+"
   },
   {
     "country": "Germany",
     "title": "Tuchel",
     "pubDate": "Tue, 15 Oct 2024 21:00:00 +0200",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSu-CROxAvnzkIhA6CyaMvKHKrg4w2l12pSnUebM2fV7fLdtacbY64Le69V-wbncwI0uAgBGjL1",
-    "news_item_snippet": "Thomas Tuchel war zuletzt kein Mann f\u00fcr langfristige Jobs. Deswegen ist sein neuer befristeter Vertrag als englischer Nationaltrainer nur konsequent.",
-    "news_item_url": "https://www.deutschlandfunk.de/thomas-tuchel-neuer-trainer-england-100.html",
-    "picture_source": "ZDFheute",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRvPSCedBxLXKAsKfsI-CkJ4T5XWaAcx7L5xhVI5QgQ7CMHMDPdcPVm9KhJdkbQI9gfjYDqzcXW",
+    "news_item_snippet": "Dass sich der englische Verband mit Thomas Tuchel f\u00fcr einen Deutschen als Nationaltrainer entschieden hat, kratzt vor allem beim Boulevard am Nationalstolz.",
+    "news_item_url": "https://www.sportschau.de/fussball/tuchel-uebernimmt-england-es-kratzt-am-nationalstolz,tuchel-england-analyse-100.html",
+    "picture_source": "Deutschlandfunk",
     "approx_traffic": "50,000+"
   },
   {
@@ -541,63 +401,103 @@
   },
   {
     "country": "Italy",
+    "title": "One Direction",
+    "pubDate": "Wed, 16 Oct 2024 10:00:00 +0200",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRWhyPNXKLV_acRzMM0VEouuhOL7duidviiCly1QSenjl0KI-RgDgwx8phvckkahr3iS4YvGofw",
+    "news_item_snippet": "L&#39;ex componente della boyband britannica sarebbe caduto dal terzo piano di un albergo nella capitale argentina.",
+    "news_item_url": "https://www.corriere.it/spettacoli/24_ottobre_16/liam-payne-degli-one-direction-morto-a-buenos-aires-aveva-31-anni-34c70c1d-a7ca-4539-9455-8bce3febexlk.shtml",
+    "picture_source": "Rai News",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "Italy",
     "title": "Sinner Medvedev",
     "pubDate": "Wed, 16 Oct 2024 08:00:00 +0200",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSbwxnUg-ggI83K6q-0iXRHqKV2Eo96m3rTlL6t87RiitkxxAOQd-YWl8MxJqO0f4DlSgJFsws_",
-    "news_item_snippet": "Appuntamento alle 18.30 con la prima sfida tra il campione italiano e il russo. Il torneo, che si disputa a Riyad, in Arabia Saudita, consentir\u00e0 al&nbsp;...",
-    "news_item_url": "https://startupitalia.eu/lifestyle/sport-tech/sinner-six-kings-slam/",
+    "news_item_snippet": "Leggi su Sky TG24 l&#39;articolo Sinner-Medvedev al Six Kings Slam: Jannik vince a Riyad, \u00e8 in semifinale contro Djokovic.",
+    "news_item_url": "https://tg24.sky.it/sport/2024/10/16/sinner-medvedev-six-kings-slam",
     "picture_source": "Rai News",
-    "approx_traffic": "50,000+"
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "Italy",
+    "title": "Superenalotto",
+    "pubDate": "Wed, 16 Oct 2024 12:00:00 +0200",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTf_uIsSRSN0XFFKXAOx1ACauhgiQHsILuBE-LwduNCkcNX-umPchRYhu0Mx_HCpS9gc4QluohVVA",
+    "news_item_snippet": "A Riva del Garda con una schedina da 3 euro qualcuno ha centrato un 6 da 89,2 milioni di euro al Superenalotto.",
+    "news_item_url": "https://www.r101.it/news/fuori-onda-news/1376019/superenalotto-centrato-un-6-da-89-2-milioni-di-euro.html",
+    "picture_source": "Rai News",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "Mexico",
+    "title": "One Direction",
+    "pubDate": "Wed, 16 Oct 2024 16:00:00 -0600",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcS4NK42SnCXRuZrcMOhM5JAjCaPds9e4lTgl0wygS0uNa1kdMxHP9DMb7RC4h-f4zrH6NwrUWU_",
+    "news_item_snippet": "Liam Payne, cantante brit\u00e1nico de 31 a\u00f1os, ha fallecido este mi\u00e9rcoles al precipitarse de un hotel en Buenos Aires, Argentina. Se desconocen las causas por&nbsp;...",
+    "news_item_url": "https://elpais.com/gente/2024-10-16/muere-liam-payne-exmiembro-de-one-direction-al-precipitarse-de-un-hotel-en-buenos-aires.html",
+    "picture_source": "El Financiero",
+    "approx_traffic": "500,000+"
   },
   {
     "country": "Mexico",
     "title": "Argentina  Bolivia",
     "pubDate": "Tue, 15 Oct 2024 00:00:00 -0600",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQOj3ccSRCX6mTvOviBdtiFkTSK9_TBgtKBNQzfkEH8V6kYx4Wel0Oui8_2z5EvCe4Di7ycFNPA",
-    "news_item_snippet": "El 10 de la Albiceleste tuvo una noche hist\u00f3rica ante La Verde por Eliminatorias Sudamericanas.",
-    "news_item_url": "https://espndeportes.espn.com/futbol/mundial/nota/_/id/14310930/video-gol-argentina-gol-de-lionel-messi-ante-bolivia-eliminatorias",
-    "picture_source": "TUDN",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQzpk1DvaDPPbsTRVcKMWmg3BOmVdJsciCzVTPtrQcbh5v-seFrMhhY8-YwevP66pfq34fEO_fP",
+    "news_item_snippet": "El delantero del Atl\u00e9tico Madrid recibi\u00f3 una nueva asistencia de Lionel Messi para poner a golear a los de Scaloni.",
+    "news_item_url": "https://www.espn.com.mx/futbol/mundial/nota/_/id/14311115/julian-alvarez-marco-el-tercero-de-argentina-ante-bolivia-eliminatorias",
+    "picture_source": "ESPN Deportes",
     "approx_traffic": "100,000+"
   },
   {
     "country": "Mexico",
     "title": "Eliminatorias Conmebol",
     "pubDate": "Tue, 15 Oct 2024 15:00:00 -0600",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRuLMnZRBuL83QSVjDJg_bhzSX_ddnHhju0tQwZ5cbZCxoU0XU_p09hwKlYPg5A394C1HcyLocA",
-    "news_item_snippet": "La campeona del mundo lidera hasta el momento la tabla general. La pr\u00f3xima jornada se llevar\u00e1 a cabo en el mes de noviembre.",
-    "news_item_url": "https://www.elimparcial.com/deporte/2024/10/16/eliminatorias-conmebol-resultados-de-la-fecha-10-y-tabla-de-posiciones-hasta-el-momento/",
-    "picture_source": "LA NACION",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTMDsywUHJCoSRzokiWxTNBotcN9qRzB0ykYaVvFTHTuiWwD0YHePG_IiQmnQshHM8S1SLP9bvt",
+    "news_item_snippet": "Despu\u00e9s de un mes de pausa, el f\u00fatbol sudamericano retoma su emoci\u00f3n con la disputa de las fechas nueve y diez de las Eliminatorias para el Mundial 2026,&nbsp;...",
+    "news_item_url": "https://www.lanacion.com.ar/estados-unidos/como-ver-en-vivo-los-partidos-de-eliminatorias-conmebol-hoy-desde-estados-unidos-nid15102024/",
+    "picture_source": "Diario Deportivo Record",
     "approx_traffic": "100,000+"
   },
   {
     "country": "Mexico",
     "title": "Victoria Secret",
     "pubDate": "Tue, 15 Oct 2024 09:00:00 -0600",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSAJ74jY93l34qSerap7nI8HGqw5IEhYrPmqvcUv10AIgMjGI5-8cJllkI1U4FgTinVhDREWUdV",
-    "news_item_snippet": "Kate Moss, quien cumpli\u00f3 50 a\u00f1os en enero, hizo su debut en el Victoria&#39;s Secret Fashion Show con su hija Lila tambi\u00e9n modelando. Ad Feedback.",
-    "news_item_url": "https://cnnespanol.cnn.com/2024/10/16/victorias-secret-criticas-inclusion-nueva-estrategia-desfile-2024-trax",
-    "picture_source": "Vogue Spain",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSWF2CCTTxhLD3eoCdFsg7DyYKfvNjJN6Qr61hXOqWV8FUbWa8ObvzGyJVJESXFn9psx53Rcvae",
+    "news_item_snippet": "Desde el elenco de supermodelos hasta la actuaci\u00f3n de Cher, pasando por todos los momentos que te hayas podido perder, as\u00ed fue el renovado desfile de&nbsp;...",
+    "news_item_url": "https://www.vogue.es/articulos/victorias-secret-2024-desfile-mejores-momentos",
+    "picture_source": "CNN",
     "approx_traffic": "100,000+"
+  },
+  {
+    "country": "Mexico",
+    "title": "Mexico",
+    "pubDate": "Tue, 15 Oct 2024 18:00:00 -0600",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQXwKhmp44q4f4B1k1BhfDcAH-EZ2wA-sRUe0x6XFTqXNIW-gLkcdL3LiaYegqhCMLvMXrLXBCD",
+    "news_item_snippet": "La Selecci\u00f3n Mexicana rompi\u00f3 una sequ\u00eda de cinco a\u00f1os sin vencer a Estados Unidos con un triunfo s\u00f3lido en el Akron.",
+    "news_item_url": "https://www.espn.com.mx/futbol/selecciones/nota/_/id/14311155/mexico-vs-estados-unidos-2024-calificaciones-seleccion-mexicana-victoria",
+    "picture_source": "Los Angeles Times",
+    "approx_traffic": "50,000+"
   },
   {
     "country": "Mexico",
     "title": "Colombia  Chile",
     "pubDate": "Tue, 15 Oct 2024 13:00:00 -0600",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQ3EzAoAGnJVE8tmn9Hm1RRTHqfBVAWPmjGWoJJfEYbVKVDPoMuhbLmjiZzmcwYstZg9Q8iYJZW",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSu6uo18U0QOXNSCX4JGnVmwvFZxbzQrjk9mWei0Aw4pzGkbV56FnoU_yjhRmCW2yOYhkOGHcjn",
     "news_item_snippet": "ChatGPT analiz\u00f3 desde las estad\u00edsticas, historial reciente y presente los posibles resultados y los goleadores para el encuentro por la fecha 10 de las&nbsp;...",
     "news_item_url": "https://www.infobae.com/colombia/2024/10/15/este-seria-el-resultado-y-los-goleadores-del-colombia-vs-chile-segun-la-inteligencia-artificial/",
     "picture_source": "EL PA\u00cdS",
-    "approx_traffic": "100,000+"
+    "approx_traffic": "50,000+"
   },
   {
     "country": "Mexico",
     "title": "Escocia  Portugal",
-    "pubDate": "Tue, 15 Oct 2024 11:00:00 -0600",
+    "pubDate": "Tue, 15 Oct 2024 12:00:00 -0600",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRHId75PrlWzirYKxgVuxDfTmv6qgYSN2L4RMDZr8ldgdrbkb2pL9QffidkXzt2hc0VqO5dE68M",
     "news_item_snippet": "La escuadra de Cristiano Ronaldo, Portugal, viajar\u00e1 a Glasgow para jugar contra Escocia con la intenci\u00f3n de mantener su racha invicta de tres partidos en el&nbsp;...",
     "news_item_url": "https://www.tudn.com/futbol/uefa-nations-league/escocia-vs-portugal-horario-y-donde-ver-partido-de-uefa-nations-league",
     "picture_source": "ESPN",
-    "approx_traffic": "100,000+"
+    "approx_traffic": "50,000+"
   },
   {
     "country": "Mexico",
@@ -610,43 +510,33 @@
     "approx_traffic": "50,000+"
   },
   {
-    "country": "United Kingdom",
-    "title": "Victoria Secret",
-    "pubDate": "Wed, 16 Oct 2024 01:00:00 +0100",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQu45jDznaltZ9cY_cYsbvxjikTzJDdZ_gK3__WT6aVC2viQSdLiSHGF6Wd8QNdi8X-_Uyg0NPc",
-    "news_item_snippet": "Fan-favourite Angels like Adriana Lima, Candice Swanepoel, Joan Smalls and Doutzen Kroes were joined by VS newcomers including Vittoria Ceretti, Paloma Elsesser&nbsp;...",
-    "news_item_url": "https://www.harpersbazaar.com/uk/fashion/fashion-news/g62619253/victorias-secret-fashion-show-catwalk-photos-2024/",
-    "picture_source": "Forbes",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United Kingdom",
-    "title": "Thomas Tuchel",
-    "pubDate": "Tue, 15 Oct 2024 16:00:00 +0100",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRATEVnYn-44lyGkubjGlIrkvtK2-Qn9Tf3hw1oVzfRuCvTg4XYLnrUcavdxqP8Im6kIiLeYTfd",
-    "news_item_snippet": "New head coach Thomas Tuchel says England have a sixth gear to reach in order to achieve their target of winning the World Cup in 2026; Football Association&nbsp;...",
-    "news_item_url": "https://www.skysports.com/football/news/12016/13234541/thomas-tuchel-england-can-reach-higher-gear-and-achieve-target-of-winning-world-cup",
-    "picture_source": "Sky Sports",
+    "country": "Spain",
+    "title": "One Direction",
+    "pubDate": "Thu, 17 Oct 2024 00:00:00 +0200",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQ1QFui5m0RV64ES2bhykqn96fB33oaNnR0RQNKv3bAq1bJbF6bm-SQc1qx9bkzMOWeoKUzrDHC",
+    "news_item_snippet": "Liam Payne, cantante brit\u00e1nico de 31 a\u00f1os, ha fallecido este mi\u00e9rcoles al precipitarse de un hotel en Buenos Aires, Argentina. Se desconocen las causas por&nbsp;...",
+    "news_item_url": "https://elpais.com/gente/2024-10-16/muere-liam-payne-exmiembro-de-one-direction-al-precipitarse-de-un-hotel-en-buenos-aires.html",
+    "picture_source": "El Mundo",
     "approx_traffic": "200,000+"
   },
   {
     "country": "United Kingdom",
-    "title": "Scotland vs Portugal",
-    "pubDate": "Tue, 15 Oct 2024 17:00:00 +0100",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTD3Tg6y6dRC0sXbyLzwXmlvClUPTCUlOEEgbI9zJJGVh-3dMDXCFNa5pHtsPZMFEkZR8LK7KUJ",
-    "news_item_snippet": "Scotland 0-0 Portugal: The Scots lifted the gloom with a strong defensive performance to frustrate Cristiano Ronaldo and co.",
-    "news_item_url": "https://www.independent.co.uk/sport/football/scotland-portugal-live-stream-score-result-b2629059.html",
-    "picture_source": "The Guardian",
-    "approx_traffic": "100,000+"
+    "title": "Liam Payne dead",
+    "pubDate": "Wed, 16 Oct 2024 16:00:00 +0100",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcT5R5n9A1aTUB_ZuE-vodomlC8NQFHTEfp-yGlbQSXuuiZdn-i-7UwBkbsdxS17OMDJVBGBlCiG",
+    "news_item_snippet": "Former One Direction member Liam Payne has died in Buenos Aires after falling from a hotel in Buenos Aires. Police have launched an investigation into his&nbsp;...",
+    "news_item_url": "https://www.dailymail.co.uk/news/article-13968405/Liam-Payne-dead-One-Direction-hotel-roof-Buenos-Aires.html",
+    "picture_source": "The Independent",
+    "approx_traffic": "2,000,000+"
   },
   {
     "country": "United Kingdom",
-    "title": "Al Pacino",
-    "pubDate": "Tue, 15 Oct 2024 08:00:00 +0100",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSK9nohIrWfV_yUzlggijR5V13uNzWO-mW-PeiuV_CuSZoocJlgTlsrqus3dZ_tQgpvcSKygEyf",
-    "news_item_snippet": "Could the Church of Al Pacino Make Me a Convert? One of cinema&#39;s greatest actors is also one of its weirdest. His memoir helped me understand him. By Imogen&nbsp;...",
-    "news_item_url": "https://slate.com/culture/2024/10/al-pacino-godfather-scarface-heat-jack-jill-movie.html",
-    "picture_source": "The Guardian",
+    "title": "Victoria Secret",
+    "pubDate": "Wed, 16 Oct 2024 01:00:00 +0100",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSn-u5prwHEIILklHLPaIBWjfuEGzl78Bsf-BqrI9hRombrwAZq2pAMBMN1G2G9h816SLxBZzHb",
+    "news_item_snippet": "I wasn&#39;t invited to this year&#39;s Victoria&#39;s Secret Fashion Show. So I watched it from Penn Station, where fans, tourists, and finance bros gathered to watch&nbsp;...",
+    "news_item_url": "https://www.thecut.com/article/inside-victorias-secret-fashion-show-penn-station-party.html",
+    "picture_source": "Allure Magazine",
     "approx_traffic": "50,000+"
   }
 ]
