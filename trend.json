@@ -324,7 +324,7 @@
     "title": "Givors",
     "pubDate": "Thu, 17 Oct 2024 14:00:00 +0200",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQtPX5IbwLAUKP8dQiLLGwP3Fh7w9M_HUfg0M-AWsW-3J4-c7yQ3463clPJaB8r1_cofOZKHcQn",
-    "news_item_snippet": "D&#39;importantes inondations ont touch\u00e9 les communes de Rive-de-Gier, dans la Loire, et de Givors, dans le Rh\u00f4ne, jeudi 17 octobre. Le parking d&#39;un centre&nbsp;...",
+    "news_item_snippet": "D&#39;importantes inondations ont touch\u00e9 les communes de Rive-de-Gier, dans la Loire, et de Givors, dans le Rh\u00f4ne, jeudi 17 octobre.",
     "news_item_url": "https://www.francetvinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/intemperies-les-villes-de-rive-de-gier-et-givors-sous-les-eaux_6845288.html",
     "picture_source": "France 3 R\u00e9gions",
     "approx_traffic": "100,000+"
@@ -371,13 +371,13 @@
   },
   {
     "country": "Germany",
-    "title": "Podolski",
+    "title": "Lukas Podolski",
     "pubDate": "Thu, 10 Oct 2024 19:00:00 +0200",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTjfm0o8nwmC_ejTRlZTmLBUuAzQ5aCYH4kLxchPBFK6CIZWGCFifuA47rF8Rc8p7I1J1VVd_2c",
     "news_item_snippet": "Geheiratet wurde am 18. April 2011. Er selbst ist im polnischen Gliwice zur Welt gekommen und lebt heute mit seiner Familie wieder in Polen, wo er beim&nbsp;...",
     "news_item_url": "https://www.prosieben.ch/themen/stars/news/lukas-podolski-verraet-darum-sind-der-fussballer-und-seine-ehefrau-monika-nach-ueber20-jahren-noch-so-gluecklich-358683",
     "picture_source": "ProSieben",
-    "approx_traffic": "50,000+"
+    "approx_traffic": "100,000+"
   },
   {
     "country": "Germany",
@@ -398,16 +398,6 @@
     "news_item_url": "https://www.prosieben.de/themen/stars/news/lukas-podolski-das-ist-ueber-seinen-sohn-louis-sowie-seine-toechter-maya-und-ella-bekannt-443441",
     "picture_source": "ProSieben",
     "approx_traffic": "100,000+"
-  },
-  {
-    "country": "Germany",
-    "title": "Hurrikan Milton",
-    "pubDate": "Tue, 08 Oct 2024 21:00:00 +0200",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcS1WnDwJ8qcRfg3uagldg5qezsNY5i5NgwDPGRSk_uE0rhdVlwIHVT9x3UQnif3FV-bOsNxqXaZ",
-    "news_item_snippet": "<b>Hurrikan</b> &quot;<b>Milton</b>&quot; befindet sich nach seinem Zug quer durch den US-Bundesstaat Florida wieder \u00fcber dem Meer. Der Sturm sei am fr\u00fchen Donnerstagmorgen (Ortszeit) etwa 15 Kilometer nord\u00f6stlich von Cape Canaveral, teilte das US-Hurrikanzentrum mit. Dennoch&nbsp;...",
-    "news_item_url": "https://www.prosieben.de/serien/newstime/news/hurrikan-milton-fordert-mindestens-vier-todesopfer-in-florida-443044",
-    "picture_source": "tagesschau.de",
-    "approx_traffic": "200,000+"
   },
   {
     "country": "Germany",
@@ -436,6 +426,16 @@
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRrO-QaDitJyUJwogVtsvDz3dKUCckWKvJUacPJfGlZQWSBAeGYL-yKQQqfopt49DvYA1a7our4",
     "news_item_snippet": "Joe Biden und Kamala Harris mahnen Menschen in Florida, sich vor Hurrikan Milton in Sicherheit zu bringen. Ex-Pr\u00e4sident Donald Trump emp\u00f6rt mit&nbsp;...",
     "news_item_url": "https://www.zeit.de/wissen/umwelt/2024-10/hurrikan-milton-joe-biden-kamala-harris-appell-florida",
+    "picture_source": "tagesschau.de",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Germany",
+    "title": "Hurrikan",
+    "pubDate": "Tue, 08 Oct 2024 21:00:00 +0200",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcR-7-uic_Tw05YEjH-WSzLSWYLyVr-yJWy8vVNiiQmJRLNQEhn17Kn1FghgWKltMxt-S5g847Cl",
+    "news_item_snippet": "Hurrikan &quot;Milton&quot; befindet sich nach seinem verheerenden Zug quer durch den US-Bundesstaat Florida wieder \u00fcber dem Meer. Er hinterl\u00e4sst Tote und Verletzte.",
+    "news_item_url": "https://www.deutschlandfunk.de/hurrikan-milton-hinterlaesst-verwuestung-in-florida-biden-warnt-vor-weiteren-gefahren-100.html",
     "picture_source": "tagesschau.de",
     "approx_traffic": "50,000+"
   },
