@@ -1,23 +1,43 @@
 [
   {
     "country": "United States",
-    "title": "Indiana football",
+    "title": "Nebraska football",
     "pubDate": "Sat, 19 Oct 2024 07:00:00 -0700",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQbihMeXaObub-a1K_1rRV9pPiNuj0pjyCUWiuxpKxx7wsPifSZXXi1bq6kw0HfOwWP9f4PoGsv",
     "news_item_snippet": "Indiana football vs Nebraska score, live updates today: Hoosiers lead 28-7 at halftime &middot; IU football tacks on another TD before the half: 1:09 left 2Q &middot; Ty Son&nbsp;...",
     "news_item_url": "https://www.indystar.com/story/sports/college/indiana/2024/10/19/indiana-nebraska-college-football-game-today-2024-oct-19-live-scores-updates-highlights-schedule/75722118007/",
     "picture_source": "oregonlive.com",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Real Madrid",
+    "pubDate": "Sat, 19 Oct 2024 11:00:00 -0700",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSK26CokAt9Jg-QOr6CwY7pe3FWMzqDIwvm-sv06kf9NBGlWkuSOWQAUmsDWyEkSx4oxr4EET7t",
+    "news_item_snippet": "Real Madrid unveiled a new bus this weekend to coincide with their LaLiga clash with Celta Vigo at Bala\u00eddos. The Whites will be travelling with a vehicle&nbsp;...",
+    "news_item_url": "https://www.realmadrid.com/en-US/news/football/first-team/latest-news/nuevo-autobus-real-madrid-19-10-2024",
+    "picture_source": "CNET",
     "approx_traffic": "50,000+"
   },
   {
     "country": "United States",
-    "title": "Oregon football",
-    "pubDate": "Fri, 18 Oct 2024 13:00:00 -0700",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSQbEWbQFYm-lhQko8EGoszg2YQitxs-2Ou3miSzIRVTkR9wATDseYu52C-7ugPBdOJla7XlQUe",
-    "news_item_snippet": "What is being said and predicted nationally about No. 2 Oregon&#39;s upcoming game against one-win Purdue in West Lafayette, Indiana, Friday night?",
-    "news_item_url": "https://www.registerguard.com/story/sports/college/football/2024/10/18/oregon-football-vs-purdue-predictions-odds/75703116007/",
-    "picture_source": "GoDucks.com",
-    "approx_traffic": "200,000+"
+    "title": "Louisville football",
+    "pubDate": "Sat, 19 Oct 2024 10:00:00 -0700",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTtid3m6ep6OPZe0np4jRNJxMGCmHCIIRl-PNpThrerpph6Z-E9Ju5HUxi0FQmmBe_mPtfl1O6M",
+    "news_item_snippet": "It&#39;s Louisville vs Miami in Week 8 of the 2024 college football season. Follow along for live score and game updates at L&amp;N Stadium.",
+    "news_item_url": "https://www.courier-journal.com/story/sports/college/louisville/2024/10/19/louisville-miami-game-score-live-updates-college-football/75646748007/",
+    "picture_source": "Miami Herald",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Tottenham vs West Ham",
+    "pubDate": "Sat, 19 Oct 2024 08:00:00 -0700",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcT0IM6FrLVMejkpksZByLrAON6CXkLFebg_y4cOq9V_l_sKhj92g_uen07aTb8tHEzLtyf3DH-v",
+    "news_item_snippet": "The weekend&#39;s EPL action kicks off with an intriguing London derby.",
+    "news_item_url": "https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-tottenham-vs-west-ham-from-anywhere/",
+    "picture_source": "The Athletic",
+    "approx_traffic": "50,000+"
   },
   {
     "country": "United States",
@@ -41,11 +61,21 @@
   },
   {
     "country": "United States",
+    "title": "Oregon football",
+    "pubDate": "Fri, 18 Oct 2024 13:00:00 -0700",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSQbEWbQFYm-lhQko8EGoszg2YQitxs-2Ou3miSzIRVTkR9wATDseYu52C-7ugPBdOJla7XlQUe",
+    "news_item_snippet": "The Ducks went into Ross-Ade Stadium in West Lafayette, Indiana, and walloped the overmatched Boilermakers Friday night as Oregon improved to 7-0.",
+    "news_item_url": "https://www.registerguard.com/story/sports/college/football/2024/10/18/the-ducks-went-into-ross-ade-stadium-in-west-lafayette-indiana-and-walloped-the-overmatched-boilerma/75735492007/",
+    "picture_source": "GoDucks.com",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "United States",
     "title": "Premier League",
     "pubDate": "Fri, 18 Oct 2024 22:00:00 -0700",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRTG-SWkkp54evGM4Zfr7xAh083CnYioM18bCXYjrPhCeHf9YPnkY70yCp8hM9fHXo1S7-B5TdQ",
-    "news_item_snippet": "Saturday&#39;s Bournemouth vs. Arsenal match is streaming on Peacock. You&#39;ll need a Peacock Premium or Premium Plus account to catch the game live.",
-    "news_item_url": "https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-bournemouth-vs-arsenal-from-anywhere/",
+    "news_item_snippet": "Having made their worst-ever start to a Premier League season, Manchester United will go in search of just their third win of the campaign as they host&nbsp;...",
+    "news_item_url": "https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-man-united-vs-brentford-from-anywhere/",
     "picture_source": "Aljazeera.com",
     "approx_traffic": "200,000+"
   },
@@ -53,10 +83,10 @@
     "country": "United States",
     "title": "Jay Cutler",
     "pubDate": "Fri, 18 Oct 2024 08:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQ54vnZcubMb2b8ewhyoixJEdpsBqmYKm7cMYXw8_O1VOuFmqTE_mqDA1ywTEpVgJfhvpPaaZ9w",
-    "news_item_snippet": "(WSMV) - Jay Cutler, a&nbsp;...",
-    "news_item_url": "https://www.wsmv.com/2024/10/18/former-nfl-quarterback-jay-cutler-arrested-dui-williamson-county/",
-    "picture_source": "WGN-TV",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQcnh31IrNw6De_E321uiuG9uAMoJezIOaJzXZZnQAJuME3OpxveG2Dz9QHRkAVjb4XINA_tKYb",
+    "news_item_snippet": "FRANKLIN, Tenn. \u2014 Former Chicago Bears quarterback Jay Cutler was arrested Thursday in Tennessee for allegedly driving intoxicated and allegedly offered the&nbsp;...",
+    "news_item_url": "https://wgntv.com/news/chicago-news/former-bears-quarterback-jay-cutler-arrested-for-dui-gun-charge/",
+    "picture_source": "NBC Chicago",
     "approx_traffic": "200,000+"
   },
   {
@@ -67,7 +97,7 @@
     "news_item_snippet": "Minnesota&#39;s defense showed out, Breanna Stewart missed 15 shots and Sandy Brondello wasn&#39;t a fan of the officiating in the Lynx&#39;s Game 4 win.",
     "news_item_url": "https://www.espn.com/wnba/story/_/id/41877119/wnba-finals-2024-new-york-liberty-minnesota-lynx-game-4-series-tied-force-game-5",
     "picture_source": "USA TODAY",
-    "approx_traffic": "100,000+"
+    "approx_traffic": "200,000+"
   },
   {
     "country": "United States",
@@ -80,53 +110,23 @@
     "approx_traffic": "100,000+"
   },
   {
-    "country": "United States",
-    "title": "Andrew Garfield",
-    "pubDate": "Fri, 18 Oct 2024 16:00:00 -0700",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRW9n1kS2XAv0wfDanpAWc3Gv7UwFUWNmSghiZr8aAT75gPSzReQjY6MGYTAIwFUGrfj15PxRr3",
-    "news_item_snippet": "On a highly anticipated episode of Dimoldenberg&#39;s YouTube series &#39;Chicken Shop Date,&#39; the pair brought back the flirty chemistry that set the internet on&nbsp;...",
-    "news_item_url": "https://www.vanityfair.com/hollywood/story/andrew-garfield-thinks-he-and-amelia-dimoldenberg-could-have-dated",
-    "picture_source": "Today.com",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Oakland Fire",
-    "pubDate": "Fri, 18 Oct 2024 17:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcT26uk6aWq4oE8GpI78XU5ln6PTQXPAqrBXLW07djqPeySEaaddsy6qix9hcL6VAjz9ALRqo6st",
-    "news_item_snippet": "A five-alarm brush fire in Oakland, California, sparked evacuation orders as it burned two homes on Friday.",
-    "news_item_url": "https://www.nbcnews.com/news/us-news/oakland-hills-fire-rcna176220",
-    "picture_source": "City of Oakland",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
-    "title": "F1",
-    "pubDate": "Fri, 18 Oct 2024 14:00:00 -0700",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRKuxZ2-M0CUcl459IaLQC0HFepJ7WG3pxmOgWKoGJXZDF16aL3Xn7K9M15QxQwpAvxN-Hapn8f",
-    "news_item_snippet": "Follow live reaction to sprint race qualifying at Circuit of The Americas, ahead of the 2024 U.S. Grand Prix.",
-    "news_item_url": "https://www.nytimes.com/athletic/live-blogs/f1-united-states-gp-live-updates-fp1-sprint-qualifying-results/TaV1v2E7fpT9/",
-    "picture_source": "FIA",
-    "approx_traffic": "50,000+"
-  },
-  {
     "country": "India",
     "title": "Sarfaraz Khan",
     "pubDate": "Sat, 19 Oct 2024 10:30:00 +0530",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRtVHTfObwnnLOp8AOJ8_LPm748bCLiVcfBhs_eknc1oc1mqtUAAaC4OvBtjNRjPAKhMtZrYJyG",
-    "news_item_snippet": "Sarfaraz Khan brought up his first Test ton on Day 4 of the ongoing Test vs New Zealand. Ex-India batter has now made this comment about him. | Crickit.",
-    "news_item_url": "https://www.hindustantimes.com/cricket/sarfaraz-khan-is-giving-finger-to-manjrekars-striking-tweet-after-javed-miandad-comparison-with-centurion-101729313762714.html",
+    "news_item_snippet": "Sarfaraz said it was decided that they won&#39;t go for quick runs while batting with Pant but the excitement of getting to his maiden Test century got to him.",
+    "news_item_url": "https://www.hindustantimes.com/cricket/i-screamed-stop-stop-but-rishabh-pant-didnt-look-at-me-sarfaraz-khan-on-mix-up-that-nearly-ended-indias-fightback-101729345978606.html",
     "picture_source": "Business Standard",
     "approx_traffic": "1,000,000+"
   },
   {
     "country": "India",
-    "title": "Emerging Asia Cup",
+    "title": "IND vs PAK",
     "pubDate": "Sat, 19 Oct 2024 11:30:00 +0530",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTQYR5aJ4EaD9n2cDknBSbjO3zkMM410FnBxS8Ynd8rhtFw1ywVOS5gbtRaAEm4XCFTjukJUdTS",
-    "news_item_snippet": "IND vs PAK: Follow for score, updates and highlights of the ACC Emerging Teams Asia Cup match between India and Pakistan at the Oman Cricket Academy Ground&nbsp;...",
-    "news_item_url": "https://sportstar.thehindu.com/cricket/india-pakistan-live-score-acc-emerging-teams-asia-cup-2024-t20-scorecard-highlights/article68772459.ece",
-    "picture_source": "NDTVSports.com",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcT_iruDOsrD0H9PARaBDvf7r7kiimVvEwxbBItKUaChDUcFp_V2lZasT3z2mS0N_zvYiNF-14qX",
+    "news_item_snippet": "India A vs Pakistan A (IND VS PAK) T20 Emerging Teams Asia Cup 2024 LIVE Score (\u092d\u093e\u0930\u0924 \u092c\u0928\u093e\u092e \u092a\u093e\u0915\u093f\u0938\u094d\u0924\u093e\u0928 T20 \u0907\u092e\u0930\u094d\u091c\u093f\u0902\u0917 \u091f\u0940\u092e\u094d\u0938 \u090f\u0936\u093f\u092f\u093e \u0915\u092a 2024 \u092e\u0948\u091a \u0932\u093e\u0907\u0935&nbsp;...",
+    "news_item_url": "https://www.jansatta.com/khel/india-a-vs-pakistan-a-india-vs-pakistan-match-result-ind-vs-pak-t20-emerging-teams-asia-cup-2024-tilak-verma-abhishek-verma/3638972/",
+    "picture_source": "Sportstar",
     "approx_traffic": "200,000+"
   },
   {
@@ -134,8 +134,8 @@
     "title": "Premier League",
     "pubDate": "Sat, 19 Oct 2024 17:30:00 +0530",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRTG-SWkkp54evGM4Zfr7xAh083CnYioM18bCXYjrPhCeHf9YPnkY70yCp8hM9fHXo1S7-B5TdQ",
-    "news_item_snippet": "Watch Bournemouth vs Arsenal, Wolves vs Man City, Liverpool vs Chelsea &amp; Nottingham Forest vs Crystal Palace live on Sky Sports this weekend;&nbsp;...",
-    "news_item_url": "https://www.skysports.com/football/news/11095/13235681/premier-league-predictions-best-bets-manchester-united-and-manchester-city-both-to-lose",
+    "news_item_snippet": "Brentford will be looking to take the game to United, who have not been in good form recently. The visitors will be keen to extend the 2-point advantage&nbsp;...",
+    "news_item_url": "https://www.business-standard.com/sports/football-news/premier-league-preview-injury-hit-man-united-take-on-brentford-test-124101900343_1.html",
     "picture_source": "Aljazeera.com",
     "approx_traffic": "200,000+"
   },
@@ -143,7 +143,7 @@
     "country": "India",
     "title": "East Bengal vs Mohun Bagan",
     "pubDate": "Sat, 19 Oct 2024 19:30:00 +0530",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSvNIeRcTgmUX3Kj11knaPUb2txGR3kXDJQnjWtuJXqV8e5392DHsApV4zArcxYa-a1u2rVmIxW",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcR6QssQ5tW326HaEdVZX80GZvsGtkwE2ImRBzbkRrFboBWRKDWVpP8AOm9kpsVq3If3CJ6eINOo",
     "news_item_snippet": "East Bengal FC vs Mohun Bagan SG Highlights: Jamie Maclaren and Dimitri Petratos bagged a goal each as Mohun Bagan beat East Bengal 2-0 in their Indian&nbsp;...",
     "news_item_url": "https://sports.ndtv.com/indian-super-league/east-bengal-vs-mohun-bagan-live-score-indian-super-league-2024-ebfc-vs-mbsg-football-match-live-scorecard-updates-6825532",
     "picture_source": "Sportstar",
@@ -151,33 +151,13 @@
   },
   {
     "country": "India",
-    "title": "Karwa Chauth",
-    "pubDate": "Sat, 19 Oct 2024 18:30:00 +0530",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQa417tsSv37-GZ0rmH_VIg8XozD5xjZKOQlMnBw2Fo163as5l2vQLdA2FasaLliDdG15HGYaL-",
-    "news_item_snippet": "Happy Karwa Chauth wishes 2024: On this auspicious occasion of Karwa Chauth, you can wish your friends, family members, relatives and husband.",
-    "news_item_url": "https://www.livemint.com/news/india/karwa-chauth-wishes-2024-top-20-facebook-whatsapp-messages-to-share-with-your-husband-wife-and-family-11729337505099.html",
-    "picture_source": "The Economic Times",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "India",
-    "title": "Tottenham vs West Ham",
-    "pubDate": "Sat, 19 Oct 2024 17:30:00 +0530",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQvDjrj43RWmqYTw07oPyT24n1c7YeMmidbe-D8uKXEc6to9B_JwIrEncTtlBQEuFaCxKxINDjQ",
-    "news_item_snippet": "Follow all the reaction as Tottenham came back from a goal down to thrash ten-man London rivals West Ham 4-1 in an entertaining clash.",
-    "news_item_url": "https://www.nytimes.com/athletic/live-blogs/tottenham-west-ham-live-updates-premier-league-score-result/2wfHpl52DThq/",
-    "picture_source": "CNET",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "India",
-    "title": "Mehndi design",
-    "pubDate": "Fri, 18 Oct 2024 22:30:00 +0530",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTIP2QckQdYF4g2JT5xjierk2bXD-6F9IrQiMvDimFS37fPjaU3i3blCkcNqnBEcuKqwpArpDgP",
+    "title": "Mehndi",
+    "pubDate": "Sat, 19 Oct 2024 11:30:00 +0530",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSEsZWSBlxh2XRr3-9lL1FQUqv-AoBoJonAAN1If-f4IbEqngvZ7VLFBeSKkq8cXCOEH2akekkm",
     "news_item_snippet": "Full Hand Mehndi Design: \u092d\u0930\u0947-\u092d\u0930\u0947 \u0939\u093e\u0925\u094b\u0902 \u0915\u0940 \u092e\u0947\u0939\u0902\u0926\u0940 \u0915\u094b \u0906\u091c\u0915\u0932 \u0938\u092c\u0938\u0947 \u091c\u094d\u092f\u093e\u0926\u093e \u092a\u0938\u0902\u0926 \u0915\u093f\u092f\u093e \u091c\u093e \u0930\u0939\u093e \u0939\u0948\u0964 \u0907\u0938\u092e\u0947\u0902 \u0906\u092a\u0915\u094b \u0905\u0932\u0917-\u0905\u0932\u0917 \u0924\u0930\u0939 \u0915\u0940 \u0916\u0942\u092c\u0938\u0942\u0930\u0924 \u091c\u093e\u0932,&nbsp;...",
     "news_item_url": "https://www.herzindagi.com/hindi/beauty/karwa-chauth-easy-and-simple-full-hand-mehndi-designs-article-1004669",
     "picture_source": "\u0926\u0948\u0928\u093f\u0915 \u091c\u093e\u0917\u0930\u0923",
-    "approx_traffic": "500,000+"
+    "approx_traffic": "50,000+"
   },
   {
     "country": "India",
@@ -194,8 +174,8 @@
     "title": "Virat Kohli",
     "pubDate": "Fri, 18 Oct 2024 00:30:00 +0530",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSVbuUC4s5ViL2gfXiKaVhKvWKiYPiR9VNnK-p5ZKwIjY_-_FleiNk8ttbDQwZpt6uHpPzQhYP8",
-    "news_item_snippet": "The former Pakistan cricketer has criticised Yashasvi Jaiswal&#39;s poor shot selection, deeming him inexperienced. He stressed the importance of staying at the&nbsp;...",
-    "news_item_url": "https://www.livemint.com/sports/cricket-news/yashasvi-jaiswal-kaccha-player-virat-kohli-shaky-former-pakistan-cricketer-comments-on-india-s-performance-11729330491582.html",
+    "news_item_snippet": "Sarfaraz Khan&#39;s maiden Test century that brought India back in the game against New Zealand made Virat Kohli and Rohit Sharma cheer loudly in the dressing&nbsp;...",
+    "news_item_url": "https://www.hindustantimes.com/cricket/virat-kohli-bowed-to-sarfaraz-khan-in-2015-rohit-sharma-joins-him-9-years-later-in-india-vs-new-zealand-test-101729325841319.html",
     "picture_source": "\u0928\u0935\u092d\u093e\u0930\u0924 \u091f\u093e\u0907\u092e\u094d\u0938",
     "approx_traffic": "200,000+"
   },
@@ -208,16 +188,6 @@
     "news_item_url": "https://www.hindustantimes.com/cricket/rohit-sharma-reaction-takes-the-cake-chinnaswamy-spectator-rcb-mein-ajao-ipl-chat-ind-captain-ind-vs-nz-1st-test-101729325510750.html",
     "picture_source": "Hindustan Times",
     "approx_traffic": "100,000+"
-  },
-  {
-    "country": "Argentina",
-    "title": "River Plate  V\u00e9lez",
-    "pubDate": "Fri, 18 Oct 2024 01:00:00 -0300",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQFZTu6hDkpg2VIqzPI1UqewXgAqaGjlpDtAKrj0qs16P-5jhFny7emEOC1jW82HVlkr6J0uTC_",
-    "news_item_snippet": "El encuentro correspondiente a la fecha 18 se disputa este viernes en el estadio Monumental y se transmite en vivo por TNT Sports - LA NACION.",
-    "news_item_url": "https://www.lanacion.com.ar/deportes/futbol/a-que-hora-juega-river-plate-vs-velez-por-la-liga-profesional-2024-nid18102024/",
-    "picture_source": "Infobae.com",
-    "approx_traffic": "500,000+"
   },
   {
     "country": "Australia",
@@ -233,10 +203,10 @@
     "country": "Australia",
     "title": "Premier League",
     "pubDate": "Sat, 19 Oct 2024 22:00:00 +1100",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSR99EIQWfboszMhVgZ9lZ9omyqSxb363eKiLw1WLNDUIohySR4I_4wfoexCWUmGC8BDIEheEf5",
-    "news_item_snippet": "West Ham United return to Premier League action following the October international break with a mouthwatering London derby at Tottenham Hotspur.",
-    "news_item_url": "https://www.whufc.com/news/matchday-gallery-premier-league-returns-tottenham-derby",
-    "picture_source": "Premier League",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRTG-SWkkp54evGM4Zfr7xAh083CnYioM18bCXYjrPhCeHf9YPnkY70yCp8hM9fHXo1S7-B5TdQ",
+    "news_item_snippet": "Watch Bournemouth vs Arsenal, Wolves vs Man City, Liverpool vs Chelsea &amp; Nottingham Forest vs Crystal Palace live on Sky Sports this weekend;&nbsp;...",
+    "news_item_url": "https://www.skysports.com/football/news/11095/13235681/premier-league-predictions-best-bets-manchester-united-and-manchester-city-both-to-lose",
+    "picture_source": "Aljazeera.com",
     "approx_traffic": "50,000+"
   },
   {
@@ -244,10 +214,10 @@
     "title": "Premier League",
     "pubDate": "Sat, 19 Oct 2024 00:00:00 -0500",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcS9JhX7VVr6zA7sUjBtZrrvSxf7g-7PH09N89aLxyoF1GjGT9Yn36AfCeVtTtwO9PescV6nSHo2",
-    "news_item_snippet": "Equipes se enfrentam na tarde de segunda-feira (21), no City Ground, em Nottingham, na Inglaterra.",
-    "news_item_url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-ingles/forest-x-crystal-palace-horario-e-onde-assistir-ao-jogo-da-premier-league/",
+    "news_item_snippet": "O Tottenham goleou o West Ham por 4 a 1 neste s\u00e1bado (19) pela oitava rodada da Premier League. E foi de virada. No Tottenham Hotspur Stadium, os visitantes&nbsp;...",
+    "news_item_url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-ingles/em-volta-de-richarlison-tottenham-goleia-west-ham-de-virada-na-premier-league/",
     "picture_source": "Ag\u00eancia Bras\u00edlia",
-    "approx_traffic": "100,000+"
+    "approx_traffic": "200,000+"
   },
   {
     "country": "Brazil",
@@ -257,16 +227,46 @@
     "news_item_snippet": "Equipes se enfrentam neste s\u00e1bado (19), pela oitava rodada; confira a transmiss\u00e3o e outras informa\u00e7\u00f5es do jogo.",
     "news_item_url": "https://www.goal.com/br/not%C3%ADcias/onde-assistir-manchester-united-brentford-ao-vivo-internet-tv-escalacoes-campeonato-ingles-2024-25/blt729bd3a7fe1f7745",
     "picture_source": "LANCE!",
-    "approx_traffic": "50,000+"
+    "approx_traffic": "100,000+"
   },
   {
     "country": "Brazil",
     "title": "Arsenal",
     "pubDate": "Sat, 19 Oct 2024 06:00:00 -0500",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRZ5hevOJFGhHCGqzGFNE_7zGyzshEoFGwGYcr-SmJAjhsJ4LjELj9kYfjmy8uufTbMa8Iuj1XB",
-    "news_item_snippet": "Tavernier finaliza, mas n\u00e3o acerta o alvo. 13&#39;. 2T. Havertz Arsenal Football Club. Havertz. Atacante. Falta cometida por Havertz.",
-    "news_item_url": "https://ge.globo.com/futebol/futebol-internacional/futebol-ingles/jogo/19-10-2024/bournemouth-arsenal.ghtml",
+    "news_item_snippet": "Neste s\u00e1bado (19), o Bournemouth derrotou o Arsenal por 2 a 0, no Vitality Stadium, em jogo v\u00e1lido pela 8\u00aa rodada da Premier League.",
+    "news_item_url": "https://www.terra.com.br/esportes/futebol/internacional/com-um-jogador-a-menos-arsenal-e-derrotado-pelo-bournemouth,3609ff639af01ae4c71d5b8bad6ca123aia97lpg.html",
     "picture_source": "UOL",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "Brazil",
+    "title": "Bayer Leverkusen",
+    "pubDate": "Sat, 19 Oct 2024 08:00:00 -0500",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQPYFOTq704HRkywttANpPqGiPxTqllz3t9-o4gaBbaRLrqpfv_eDdAz9l-7AQessZWPCU-PLmw",
+    "news_item_snippet": "Marmoush abriu o placar para os visitantes, mas Andrich deixou tudo igual ainda na primeira etapa. No segundo tempo, a equipe de Xabi Alonso virou com Boniface&nbsp;...",
+    "news_item_url": "https://www.terra.com.br/esportes/futebol/internacional/em-confronto-direto-bayer-leverkusen-sai-atras-e-vira-sobre-eintrach-frankfurt,fca3a39f4ce3630ca1a6a626b0098071z7o7lgdd.html",
+    "picture_source": "globoesporte.com",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Brazil",
+    "title": "Real Madrid",
+    "pubDate": "Sat, 19 Oct 2024 13:00:00 -0500",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSBO8AM0rOjMrVXLKa5zaj_ce2rA53BbzxJ8Ud0OMZJcSi5KBs83jMILbWINiyba1cRfIOrEdHJ",
+    "news_item_snippet": "Celta de Vigo e Real Madrid v\u00e3o entrar em campo em partida v\u00e1lida pela d\u00e9cima rodada da La Liga. O jogo vai acontecer \u00e0s 16 horas de hoje, dia 19,&nbsp;...",
+    "news_item_url": "https://veja.abril.com.br/esporte/celta-de-vigo-x-real-madrid-horario-onde-assistir-e-provaveis-escalacoes",
+    "picture_source": "ESPN.com.br",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Canada",
+    "title": "Premier League",
+    "pubDate": "Sat, 19 Oct 2024 03:00:00 -0400",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRTG-SWkkp54evGM4Zfr7xAh083CnYioM18bCXYjrPhCeHf9YPnkY70yCp8hM9fHXo1S7-B5TdQ",
+    "news_item_snippet": "Watch Bournemouth vs Arsenal, Wolves vs Man City, Liverpool vs Chelsea &amp; Nottingham Forest vs Crystal Palace live on Sky Sports this weekend;&nbsp;...",
+    "news_item_url": "https://www.skysports.com/football/news/11095/13235681/premier-league-predictions-best-bets-manchester-united-and-manchester-city-both-to-lose",
+    "picture_source": "Aljazeera.com",
     "approx_traffic": "50,000+"
   },
   {
@@ -281,12 +281,22 @@
   },
   {
     "country": "France",
+    "title": "Simon Fieschi",
+    "pubDate": "Sat, 19 Oct 2024 14:00:00 +0200",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQEHZD3wUpBP1DrGfVWclyPgThvr4G5UcX2D7l8xUaWDh8QgE4k3iZN8ehmRJcqJG7abnJbHquX",
+    "news_item_snippet": "L&#39;ancien webmaster de Charlie Hebdo, tr\u00e8s gri\u00e8vement touch\u00e9 dans l&#39;attentat du 7 janvier 2015, a \u00e9t\u00e9 retrouv\u00e9 mort jeudi 17 octobre \u00e0 Paris. ...",
+    "news_item_url": "https://www.humanite.fr/medias/attentats-du-7-et-9-janvier-2015/simon-fieschi-victime-de-lattentat-a-charlie-hebdo-est-decede",
+    "picture_source": "Franceinfo",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "France",
     "title": "Ligue 1",
     "pubDate": "Fri, 18 Oct 2024 21:00:00 +0200",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQhrUWkLA0CH0W8bU7LRN_mwaGgrfR4keyOMb14hwrBg17INJmvXq0DnDuUcLMhbYDdxP_3RnMQ",
-    "news_item_snippet": "Longtemps domin\u00e9 et peu productif dans le jeu, le Stade Rennais a r\u00e9ussi \u00e0 arracher le point du match nul face \u00e0 Brest en toute fin de rencontre gr\u00e2ce au&nbsp;...",
-    "news_item_url": "https://www.francebleu.fr/sports/football/direct-ligue-1-le-derby-breton-brest-rennes-suivez-la-8eme-journee-de-championnat-en-direct-6777061",
-    "picture_source": "Ouest-France",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTNxjiqnaLTpu0hbG4xaSoj7e6JOki1irqAFSHOpVKIchRXn7T4AeqV5n4O6rBre8I3lGIPmXpm",
+    "news_item_snippet": "Le Stade Brestois et le Stade Rennais se sont neutralis\u00e9s, ce samedi 19 octobre, dans le cadre de la huiti\u00e8me journ\u00e9e de Ligue 1. Avant de retrouver la&nbsp;...",
+    "news_item_url": "https://www.ouest-france.fr/sport/football/ligue-1/direct-stade-brestois-stade-rennais-suivez-le-match-de-la-8e-journee-de-ligue-1-en-live-6f047b3e-00e1-4426-99f5-756bebbfbe02",
+    "picture_source": "L'\u00c9quipe.fr",
     "approx_traffic": "200,000+"
   },
   {
@@ -302,12 +312,12 @@
   {
     "country": "Germany",
     "title": "Bayern \u2013 VfB Stuttgart",
-    "pubDate": "Sat, 19 Oct 2024 15:00:00 +0200",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTJxchpWdU0qEXqeM3g9EawpgWAX2LlvvU3DNxnXJw8TGunof_pvKVC--8P8fysdnvrsGu3HDAZ",
+    "pubDate": "Sat, 19 Oct 2024 18:00:00 +0200",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSFcSL5v8rdQeShl9p-uErucTrvdmVmVbnTYQsZE2OxjdajpDTK8O68H1zrKYHVprQx0yu7InKk",
     "news_item_snippet": "S\u00fcdschlager, Topspiel, FC Bayern gegen den VfB Stuttgart - und das live und exklusiv auf Sky! Wer setzt sich durch? Die Sky Reporter Torben Hoffmann und&nbsp;...",
     "news_item_url": "https://sport.sky.de/fussball/artikel/fc-bayern-gegen-den-vfb-stuttgart-die-sky-prognosen-zum-topspiel/13235170/34423",
     "picture_source": "kicker",
-    "approx_traffic": "100,000+"
+    "approx_traffic": "200,000+"
   },
   {
     "country": "Germany",
@@ -361,9 +371,9 @@
   },
   {
     "country": "Italy",
-    "title": "Genoa  Bologna",
+    "title": "Genoa-Bologna",
     "pubDate": "Sat, 19 Oct 2024 14:00:00 +0200",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTmnJtlMSTNAkLT2l5upIQrTFpiWyTwlrH9efvKvjsPYJ6YdQWmTOJxdQFXDO754abOC5CRyyOw",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQcfCbc3o7Qlz8RH1wUQcsAeGg6UCpN1v40uauYB0ggj_irNdMSfAGQj61OgzJmu1ProIjoleiH",
     "news_item_snippet": "Grazie per aver seguito la diretta di questa gara ed arrivederci ai prossimi appuntamenti con la Serie A.",
     "news_item_url": "https://www.repubblica.it/sport/dirette/calcio/serie-a-2024/diretta-genoa-bologna-g2456177/",
     "picture_source": "Sky Sport",
@@ -384,50 +394,10 @@
     "title": "Liga MX",
     "pubDate": "Fri, 18 Oct 2024 09:00:00 -0600",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTJN-4wP00hLoDGtfIk3Z3bQ-99nKakZ9_qvGpryOKjEy1w0Ys8A_xPb-KYIAVWP9WSuf5987IE",
-    "news_item_snippet": "Cu\u00e1ndo es el Cl\u00e1sico Tigres vs. Monterrey 2024? Los equipos del norte se enfrentan este s\u00e1bado 19 de octubre. Estos son todos los partidos y horarios de la&nbsp;...",
-    "news_item_url": "https://www.elfinanciero.com.mx/deportes/2024/10/19/horarios-jornada-12-apertura-2024-liga-mx-quien-juega-el-19-de-octubre-y-donde-ver/",
+    "news_item_snippet": "La Liga MX reanuda sus actividades tras la pausa de la Fecha FIFA donde M\u00e9xico se enfrent\u00f3 a Valencia y a la selecci\u00f3n de Estados Unidos.",
+    "news_item_url": "https://www.elfinanciero.com.mx/deportes/2024/10/18/liga-mx-apertura-2024-como-va-la-jornada-12-del-futbol-mexicano-tabla-de-resultados-finales-hoy/",
     "picture_source": "Diario Deportivo Record",
     "approx_traffic": "500,000+"
-  },
-  {
-    "country": "Mexico",
-    "title": "Premier League",
-    "pubDate": "Fri, 18 Oct 2024 20:00:00 -0600",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcR8r5Z-CqnPhFMrUyUHpNKRxMbDWFQNdJYXKmpdyEm578vgzfwcPOGIILASmc6IMNJqwxc0jigA",
-    "news_item_snippet": "Tras el par\u00f3n FIFA la Premier League vuelve a la acci\u00f3n con los Hammers visitando a los Spurs.",
-    "news_item_url": "https://www.record.com.mx/futbol-futbol-internacional-internacionales/tottenham-vs-west-ham-en-vivo-online-premier-league",
-    "picture_source": "Diario Deportivo Record",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "Mexico",
-    "title": "Queretaro vs Toluca",
-    "pubDate": "Fri, 18 Oct 2024 18:00:00 -0600",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQLVDIJho4mpchKQ34oSZ0E2755Eg3RebdjMEvVbn564SBsD1oFCdeFDeXbhnA_ygGytLygu5o6",
-    "news_item_snippet": "Partido Quer\u00e9taro - Toluca En Vivo Online: minuto a minuto del juego de Gallos Blancos hoy, desde el Estadio Corregidora.",
-    "news_item_url": "https://www.marca.com/mx/futbol/liga-mx/queretaro-toluca/2024/10/19/01_0159_20241019_4047_1286-directo.html",
-    "picture_source": "TUDN",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "Mexico",
-    "title": "Atlas - Mazatl\u00e1n",
-    "pubDate": "Fri, 18 Oct 2024 18:00:00 -0600",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSNkYJ45ZOmd8MM5z3Ulho2gQltuFE3c8KVbgcfRBygRDMK0Yv1w9nxUA3zYd1mTN3tgfns8chb",
-    "news_item_snippet": "En un partido decepcionante para la tribuna, empataron 0-0 en la jornada 12 del Torneo Apertura 2024 de la Liga MX.",
-    "news_item_url": "https://mexico.as.com/futbol/futbol-mexicano/atlas-vs-mazatlan-en-vivo-liga-mx-apertura-2024-hoy-en-directo-n/",
-    "picture_source": "Diario Deportivo Record",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "Mexico",
-    "title": "Necaxa - Tijuana",
-    "pubDate": "Fri, 18 Oct 2024 18:00:00 -0600",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRw_MN01PxTzZtdpOm_g1vpq84l9M6U2n743BjC9JwFdQ8rFb3IorYywkWQa8lq2NZiMkNB1FKR",
-    "news_item_snippet": "Juego Necaxa - Tijuana En Vivo Online: minuto a minuto del partido de los Xolos hoy, desde el Estadio Victoria. A qu\u00e9 hora juegan Necaxa - Tijuana.",
-    "news_item_url": "https://www.marca.com/mx/futbol/liga-mx/necaxa-tijuana/2024/10/19/01_0159_20241019_1174_4690-directo.html",
-    "picture_source": "TUDN",
-    "approx_traffic": "50,000+"
   },
   {
     "country": "Spain",
@@ -450,23 +420,43 @@
     "approx_traffic": "100,000+"
   },
   {
+    "country": "Spain",
+    "title": "Girona  Real Sociedad",
+    "pubDate": "Sat, 19 Oct 2024 18:00:00 +0200",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQY6Gm0pTDVYly9UkJnOBtArDGWPxNPfF3277mEy-t_h4YAovavvc_M-eEgIm7LKdYREqSpjmQx",
+    "news_item_snippet": "Finalizan los primeros 45 minutos con victoria moment\u00e1nea de la Real Sociedad gracias a un gol de Oyarzabal (0-1). Un gol del delantero &#39;txuri-urdin&#39; mantiene&nbsp;...",
+    "news_item_url": "https://www.lavanguardia.com/deportes/futbol/20241019/6300/girona-real-sociedad-laliga-primera-division-ca-en-directo-ctx.html",
+    "picture_source": "MARCA",
+    "approx_traffic": "50,000+"
+  },
+  {
     "country": "United Kingdom",
     "title": "Premier League",
     "pubDate": "Sat, 19 Oct 2024 10:00:00 +0100",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQX4kXzCjGysdf4xrRVuXyH9SxWAtqfrQn5jKxGfchBW9tjZyhTCrsK-CimbUTaLC3Qg0v-TKKG",
-    "news_item_snippet": "Watch Bournemouth vs Arsenal, Wolves vs Man City, Liverpool vs Chelsea &amp; Nottingham Forest vs Crystal Palace live on Sky Sports this weekend;&nbsp;...",
-    "news_item_url": "https://www.skysports.com/football/news/11095/13235681/premier-league-predictions-best-bets-manchester-united-and-manchester-city-both-to-lose",
-    "picture_source": "The Guardian",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTi6Ovlxp7n2nMOiJD4_gAZ700FYqQUqO3jPMoPHNEVelQrwJ_opy_vM8yae44osIiGHKL8uje6",
+    "news_item_snippet": "Manchester United come from a goal down to beat Brentford in the Premier League at Old Trafford.",
+    "news_item_url": "https://www.aljazeera.com/sports/liveblog/2024/10/19/live-manchester-united-vs-brentford-english-premier-league-football",
+    "picture_source": "Sky Sports",
     "approx_traffic": "200,000+"
   },
   {
     "country": "United Kingdom",
     "title": "Man United vs Brentford",
-    "pubDate": "Sat, 19 Oct 2024 15:00:00 +0100",
+    "pubDate": "Sat, 19 Oct 2024 11:00:00 +0100",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRTG-SWkkp54evGM4Zfr7xAh083CnYioM18bCXYjrPhCeHf9YPnkY70yCp8hM9fHXo1S7-B5TdQ",
     "news_item_snippet": "Manchester United 2-1 Brentford: Erik ten Hag&#39;s side came from behind to claim their first win in six attempts.",
-    "news_item_url": "https://sports.yahoo.com/manchester-united-vs-brentford-live-120020104.html",
+    "news_item_url": "https://www.independent.co.uk/sport/football/manchester-united-brentford-live-stream-score-result-b2632093.html",
     "picture_source": "Aljazeera.com",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "United Kingdom",
+    "title": "Arsenal",
+    "pubDate": "Sat, 19 Oct 2024 17:00:00 +0100",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRCvjUtchCpB-q2aWcjRGyUmAlHwdC6QehentpI9e11Zj3j9z_MmYrbeF0FEdlXaDszzQgfySFy",
+    "news_item_snippet": "Ryan Christie smashed Bournemouth into the lead with a first-time finish from a clever corner routine, before Justin Kluivert doubled their lead from the&nbsp;...",
+    "news_item_url": "https://www.independent.co.uk/sport/football/bournemouth-arsenal-live-stream-score-premier-league-b2631060.html",
+    "picture_source": "Arsenal.com",
     "approx_traffic": "100,000+"
   },
   {
@@ -477,36 +467,6 @@
     "news_item_snippet": "A win at St. James&#39; Park would see the Magpies leapfrog the Seagulls.",
     "news_item_url": "https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-newcastle-vs-brighton-from-anywhere/",
     "picture_source": "The Independent",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United Kingdom",
-    "title": "Celtic",
-    "pubDate": "Sat, 19 Oct 2024 15:00:00 +0100",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQscCp5ZimcjGBesFnOpNYKOKqDCmrhRVGQU7fTkX0O3KGm3AB8SAkt0b1zBkbCx2SJ0JA3AgpN",
-    "news_item_snippet": "Rodgers&#39; side lead on goal difference but Jimmy Thelin&#39;s squad have yet to taste defeat in all competitions this season. Kasper Schmeichel starts in goal for&nbsp;...",
-    "news_item_url": "https://www.celticway.co.uk/features/24664256.brendan-rodgers-names-celtic-side-face-aberdeen/",
-    "picture_source": "The Guardian",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United Kingdom",
-    "title": "Man utd",
-    "pubDate": "Sat, 19 Oct 2024 15:00:00 +0100",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQaITsCh6pVC4WyF7TPAGuzxGpO1Dg0jaJLNFzNKZuMpv5EjmsnPWJmHeqIMUVDjjmbY1PVSEqR",
-    "news_item_snippet": "Manchester United&#39;s Under-18s maintained our 100 per cent start at league level this term, with a hard-fought 4-3 victory away to Sunderland.",
-    "news_item_url": "https://www.manutd.com/en/news/detail/under-18s-match-summary-sunderland-v-man-utd-19-oct-2024",
-    "picture_source": "Manchester United",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United Kingdom",
-    "title": "Arsenal",
-    "pubDate": "Sat, 19 Oct 2024 18:00:00 +0100",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQX4kXzCjGysdf4xrRVuXyH9SxWAtqfrQn5jKxGfchBW9tjZyhTCrsK-CimbUTaLC3Qg0v-TKKG",
-    "news_item_snippet": "Join Rob Smyth for the latest as the high-flying Gunners visit the south coast to face Bournemouth.",
-    "news_item_url": "https://www.theguardian.com/football/live/2024/oct/19/bournemouth-v-arsenal-premier-league-live",
-    "picture_source": "The Guardian",
     "approx_traffic": "50,000+"
   },
   {
