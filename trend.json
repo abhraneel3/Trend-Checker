@@ -1,6 +1,26 @@
 [
   {
     "country": "United States",
+    "title": "Oregon football",
+    "pubDate": "Fri, 18 Oct 2024 13:00:00 -0700",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQj6vz_4cfTazQ1zF55JjPtnnJ0Yiln6h-v50PDWGKD4n1mrsX4Y4J-ar5gnwPLPgcgCnfw1e5A",
+    "news_item_snippet": "SportsLine&#39;s model revealed its CFB picks and predictions for Purdue Boilermakers vs. No. 2 Oregon Ducks on Friday.",
+    "news_item_url": "https://www.cbssports.com/college-football/news/oregon-vs-purdue-prediction-odds-line-2024-week-8-college-football-picks-friday-bets-by-proven-model/",
+    "picture_source": "The Register-Guard",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Duke football",
+    "pubDate": "Fri, 18 Oct 2024 16:00:00 -0700",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQvJFMxGMOrBuxxJCyCG0ww9HtPOQht5ZiVsr2S_UW7DKXXUnferqUcDpUXTa_YVZ6W5BnsuWRC",
+    "news_item_snippet": "It&#39;s Duke football vs. Florida State in Week 8 of the 2024 college football season. Follow along for live score and game updates.",
+    "news_item_url": "https://www.fayobserver.com/story/sports/college/acc/2024/10/18/duke-fsu-game-score-live-updates-highlights-college-football/75664196007/",
+    "picture_source": "Tallahassee.com",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United States",
     "title": "Jay Cutler",
     "pubDate": "Fri, 18 Oct 2024 08:00:00 -0700",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRN85x7PnlgB3hWpD-xAJX54an09hMZZfpiZnkdkacgSIydbeLVCZQw_apfIRyGClFN3Hep0jod",
@@ -11,33 +31,13 @@
   },
   {
     "country": "United States",
-    "title": "Oregon football",
-    "pubDate": "Fri, 18 Oct 2024 13:00:00 -0700",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQj6vz_4cfTazQ1zF55JjPtnnJ0Yiln6h-v50PDWGKD4n1mrsX4Y4J-ar5gnwPLPgcgCnfw1e5A",
-    "news_item_snippet": "SportsLine&#39;s model revealed its CFB picks and predictions for Purdue Boilermakers vs. No. 2 Oregon Ducks on Friday.",
-    "news_item_url": "https://www.cbssports.com/college-football/news/oregon-vs-purdue-prediction-odds-line-2024-week-8-college-football-picks-friday-bets-by-proven-model/",
-    "picture_source": "The Register-Guard",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Duke football",
-    "pubDate": "Fri, 18 Oct 2024 16:00:00 -0700",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQKzwgKJJY798Hks9AXKL9vZdn72lIA_hnznTPT9MetCGlDpTNem7FrtxZz6TuOgi15VQ8Ovndc",
-    "news_item_snippet": "It&#39;s Florida State vs Duke on Friday night in Week 8 of the 2024 college football season. Can Brock Glenn lead an upset over Maalik Murphy?",
-    "news_item_url": "https://www.tallahassee.com/story/sports/college/fsu/football/2024/10/18/fsu-duke-game-score-live-updates-highlights-florida-state-football/75645649007/",
-    "picture_source": "The Fayetteville Observer",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "United States",
     "title": "Woman of the Hour",
     "pubDate": "Fri, 18 Oct 2024 11:00:00 -0700",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSXXyKOftdpDJkQl2bC8cmF-i0igDkbjt4hX6AXI6ZnlTH9xS6RvnTXNRnmcYxwxIxQbsMbnFmH",
     "news_item_snippet": "&#39;Woman of the Hour&#39; is based on the true story of &quot;Dating Game Killer&quot; Rodney Alcala. Does the Netflix movie get all of the facts right? Find out here.",
     "news_item_url": "https://www.menshealth.com/entertainment/a62649381/woman-of-the-hour-true-story/",
     "picture_source": "Vulture",
-    "approx_traffic": "50,000+"
+    "approx_traffic": "100,000+"
   },
   {
     "country": "United States",
@@ -45,7 +45,7 @@
     "pubDate": "Fri, 18 Oct 2024 00:00:00 -0700",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTzlZlg0D-svdaVEfaGU2NgEfeaKT_tIr-u3uTnGh3KcK3VDRppnry81VBiDmz6y66vQxO_lK14",
     "news_item_snippet": "Dalton Knecht, who fell in the draft to the Lakers at No. 17, made eight three-pointers while scoring 35 points in preseason defeat of the Suns.",
-    "news_item_url": "https://sports.yahoo.com/rookie-dalton-knecht-shows-why-225800827.html",
+    "news_item_url": "https://www.latimes.com/sports/lakers/story/2024-10-18/lakers-rookie-dalton-knecht-shows-why-he-could-steal",
     "picture_source": "Knoxville News Sentinel",
     "approx_traffic": "50,000+"
   },
@@ -57,6 +57,26 @@
     "news_item_snippet": "Andrew Garfield finally went on &#39;Chicken Shop Date,&#39; where he flirted with Amelia Dimoldenberg like his life depended on it.",
     "news_item_url": "https://www.thecut.com/article/andrew-garfield-chicken-shop-date-amelia-dimoldenberg.html",
     "picture_source": "USA TODAY",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
+    "title": "BYU football",
+    "pubDate": "Fri, 18 Oct 2024 13:00:00 -0700",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQu8Fw3pUwRxawV10I6O51I_dRBGo3UqsvTUBQS-g1eCY52XdjUQ09CZ6oDHspZAZvfqedLTSfo",
+    "news_item_snippet": "Oklahoma State @ 13BYU7:15 PM ESPNTickets as low as $70 LaVell Edwards Stadium, Provo, UTLine: BYU -10O/U: 55.5.",
+    "news_item_url": "https://www.oregonlive.com/sports/2024/10/where-to-watch-byu-vs-oklahoma-state-football-streaming-free-today-tv-channel-spread-game-odds.html",
+    "picture_source": "Deseret News",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
+    "title": "NYSE",
+    "pubDate": "Fri, 18 Oct 2024 06:00:00 -0700",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSxLSzxVP-vpAaixmWIM3iUd-mq-8XgGzdFkBsed5rNrRv0Y_3ZyQML0j6tgrPdmyM7Tx5cBDNL",
+    "news_item_snippet": "Investors are often guided by the idea of discovering &#39;the next big thing&#39;, even if that means buying &#39;story stocks&#39; without any revenue, let alone profit.",
+    "news_item_url": "https://finance.yahoo.com/news/corpays-nyse-cpay-earnings-warrant-140903941.html",
+    "picture_source": "Yahoo Movies",
     "approx_traffic": "50,000+"
   },
   {
@@ -84,8 +104,8 @@
     "title": "Yahya Sinwar",
     "pubDate": "Thu, 17 Oct 2024 08:00:00 -0700",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSqRJThxHiJ5CGiArZrujPBVjQ5NgEipPASc0RKI0IsA8eNrCptHZklH90ZsUCVBJKrjs3DJYQd",
-    "news_item_snippet": "The leader of Hamas, Yahya Sinwar, is dead, the Israeli military confirmed. This leaves behind very important questions about what is next for the group and&nbsp;...",
-    "news_item_url": "https://www.npr.org/2024/10/18/g-s1-28883/up-first-newsletter-hamas-leader-yahya-sinwar-dead-joe-biden-germany-visit",
+    "news_item_snippet": "What does the death of Hamas leader Yahya Sinwar mean for the war in Gaza and the region beyond, and will it revive the chances of cease-fire and the&nbsp;...",
+    "news_item_url": "https://www.npr.org/2024/10/18/nx-s1-5157608/israel-hamas-sinwar-gaza-future",
     "picture_source": "The New York Times",
     "approx_traffic": "500,000+"
   },
@@ -104,10 +124,10 @@
     "title": "Al Smith dinner",
     "pubDate": "Thu, 17 Oct 2024 19:00:00 -0700",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQQZMYdpksnWKnnhc_hKRNN3n_-EZoQZBhiV0aIcIL9gUjiN2b7T99R-Aj-GhYs6csSD_vt33Y5",
-    "news_item_snippet": "Former President Donald J. Trump and Vice President Kamala Harris both delivered remarks to the Alfred E. Smith Memorial Foundation Dinner, Ms. Harris in a&nbsp;...",
-    "news_item_url": "https://www.nytimes.com/2024/10/18/us/politics/trump-harris-al-smith-dinner.html",
+    "news_item_snippet": "Former President Donald Trump said Friday that Fox News staffers helped him write his Al Smith charity dinner speech, in which he cracked jokes and insulted&nbsp;...",
+    "news_item_url": "https://www.cnn.com/2024/10/18/media/trump-fox-al-smith-dinner-speech/index.html",
     "picture_source": "National Catholic Reporter",
-    "approx_traffic": "200,000+"
+    "approx_traffic": "100,000+"
   },
   {
     "country": "United States",
@@ -123,11 +143,31 @@
     "country": "India",
     "title": "New Zealand Women vs West Indies Women",
     "pubDate": "Fri, 18 Oct 2024 15:30:00 +0530",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSW3ANB4vgC3gkaFRnwOhRgBFEp6ymCvQ9_6Ghfro-7b2z_YK7Z0t6ICqPHFsZGMuDqzS3qw03e",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcR7s4iPe49ssuNxb9fa-0kax7LVvFi0jNQlzOG1OFZ0PrQOpBNHES6bcbsg76b7gruCURRZybk-",
     "news_item_snippet": "Women&#39;s T20 World Cup 2024/25, NZ Women vs WI Women Match Report: Dottin picked up four wickets and then blitzed 33 off 22 but New Zealand&#39;s spinners undid&nbsp;...",
     "news_item_url": "https://www.espncricinfo.com/series/icc-women-s-t20-world-cup-2024-25-1432420/new-zealand-women-vs-west-indies-women-2nd-semi-final-1432443/match-report",
-    "picture_source": "Livemint",
+    "picture_source": "Aljazeera.com",
     "approx_traffic": "200,000+"
+  },
+  {
+    "country": "India",
+    "title": "PKL",
+    "pubDate": "Fri, 18 Oct 2024 12:30:00 +0530",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcR7UA9ZFy1OICmGhCOjpH-mFNCXg3W8To7_clgnd6kDB30JI9fzdSIXkhh75K3wuE8KuIizGzOt",
+    "news_item_snippet": "The new season of the Pro Kabaddi League promises to be a thrilling one as the teams are all set to battle it out for the coveted title.",
+    "news_item_url": "https://www.indiatoday.in/sports/other-sports/story/pro-kabaddi-league-2024-pkl-full-schedule-venues-time-squads-2619180-2024-10-18",
+    "picture_source": "Business Standard",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "India",
+    "title": "ISL",
+    "pubDate": "Fri, 18 Oct 2024 00:30:00 +0530",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQ444I90G1Pb0sOfvHNT_8cvtxDnvTA-nVvYkKhOY5wALe0J6hrt52N6dIrwNL8HykDUk4KnzNA",
+    "news_item_snippet": "Bengaluru FC&#39;s 19-year-old midfielder Vinith Venkatesh has won the Emerging Player of the Month award for September for his impressive performances in a&nbsp;...",
+    "news_item_url": "https://nagalandpost.com/index.php/2024/10/19/isl-bengaluru-fcs-venkatesh-wins-emerging-player-of-the-month/",
+    "picture_source": "Indian Super League",
+    "approx_traffic": "100,000+"
   },
   {
     "country": "India",
@@ -148,16 +188,6 @@
     "news_item_url": "https://www.livemint.com/sports/cricket-news/india-vs-new-zealand-1st-test-day-1-live-score-ind-vs-nz-national-cricket-team-match-scorecard-bengaluru-weather-16-oct-11729039604782.html",
     "picture_source": "The Hindu",
     "approx_traffic": "500,000+"
-  },
-  {
-    "country": "India",
-    "title": "PKL",
-    "pubDate": "Thu, 17 Oct 2024 10:30:00 +0530",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcR7UA9ZFy1OICmGhCOjpH-mFNCXg3W8To7_clgnd6kDB30JI9fzdSIXkhh75K3wuE8KuIizGzOt",
-    "news_item_snippet": "The new season of the Pro Kabaddi League promises to be a thrilling one as the teams are all set to battle it out for the coveted title.",
-    "news_item_url": "https://www.indiatoday.in/sports/other-sports/story/pro-kabaddi-league-2024-pkl-full-schedule-venues-time-squads-2619180-2024-10-18",
-    "picture_source": "Business Standard",
-    "approx_traffic": "200,000+"
   },
   {
     "country": "India",
@@ -201,22 +231,22 @@
   },
   {
     "country": "India",
-    "title": "Rishabh Pant",
-    "pubDate": "Thu, 17 Oct 2024 11:30:00 +0530",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQr8buCISnyH6jUET3YmeklntwzzeRTry_7JEUpUhYV_M37umjyEbfFjKoGEHwNzpY5US48ZuoK",
-    "news_item_snippet": "Rishabh Pant IND vs NZ: \u090b\u0937\u092d \u092a\u0902\u0924 \u092d\u093e\u0930\u0924-\u0928\u094d\u092f\u0942\u091c\u0940\u0932\u0948\u0902\u0921 \u091f\u0947\u0938\u094d\u091f \u092e\u0948\u091a \u0915\u0947 \u0926\u094c\u0930\u093e\u0928 \u091a\u094b\u091f \u0932\u0917\u0928\u0947 \u0915\u0940 \u0935\u091c\u0939 \u0938\u0947 \u092e\u0948\u0926\u093e\u0928 \u0938\u0947 \u092c\u093e\u0939\u0930 \u0939\u094b \u0917\u090f \u0925\u0947. \u0932\u0947\u0915\u093f\u0928 \u0935\u0947 \u092c\u0948\u0902\u0917\u0932\u094b\u0930 \u091f\u0947\u0938\u094d\u091f&nbsp;...",
-    "news_item_url": "https://www.abplive.com/sports/cricket/rishabh-pant-ready-for-batting-after-knee-injury-for-team-india-against-new-zealand-1st-test-2806292",
-    "picture_source": "ESPNcricinfo.com",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "India",
     "title": "UGC NET Result 2024",
     "pubDate": "Thu, 17 Oct 2024 22:30:00 +0530",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQ7Ymk25bmeUDB2YURN-gdinhFeeYCeFREE53pqigA9kDPqhDPzRpQlhE4Zobdnsi2ccUF1x57n",
     "news_item_snippet": "UGC NET Result Date 2024 Kab Aayega, Cut-Off, Sarkari Result 2024 LIVE News:: \u0928\u0947\u0936\u0928\u0932 \u091f\u0947\u0938\u094d\u091f\u093f\u0902\u0917 \u090f\u091c\u0947\u0902\u0938\u0940 \u0926\u094d\u0935\u093e\u0930\u093e \u092f\u0942\u091c\u0940\u0938\u0940 \u0928\u0947\u091f \u0930\u093f\u091c\u0932\u094d\u091f 2024 \u0915\u094b \u091c\u093e\u0930\u0940 \u0915\u0930\u0928\u0947 \u0915\u0940&nbsp;...",
     "news_item_url": "https://www.jansatta.com/education/ugc-net-result-2024-live-news-nta-may-release-scorecard-today-at-ugcnet-nta-ac-in-direct-link/3633938/",
     "picture_source": "\u0926\u0948\u0928\u093f\u0915 \u091c\u093e\u0917\u0930\u0923",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "India",
+    "title": "Rishabh Pant",
+    "pubDate": "Thu, 17 Oct 2024 11:30:00 +0530",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQr8buCISnyH6jUET3YmeklntwzzeRTry_7JEUpUhYV_M37umjyEbfFjKoGEHwNzpY5US48ZuoK",
+    "news_item_snippet": "Rishabh Pant IND vs NZ: \u090b\u0937\u092d \u092a\u0902\u0924 \u092d\u093e\u0930\u0924-\u0928\u094d\u092f\u0942\u091c\u0940\u0932\u0948\u0902\u0921 \u091f\u0947\u0938\u094d\u091f \u092e\u0948\u091a \u0915\u0947 \u0926\u094c\u0930\u093e\u0928 \u091a\u094b\u091f \u0932\u0917\u0928\u0947 \u0915\u0940 \u0935\u091c\u0939 \u0938\u0947 \u092e\u0948\u0926\u093e\u0928 \u0938\u0947 \u092c\u093e\u0939\u0930 \u0939\u094b \u0917\u090f \u0925\u0947. \u0932\u0947\u0915\u093f\u0928 \u0935\u0947 \u092c\u0948\u0902\u0917\u0932\u094b\u0930 \u091f\u0947\u0938\u094d\u091f&nbsp;...",
+    "news_item_url": "https://www.abplive.com/sports/cricket/rishabh-pant-ready-for-batting-after-knee-injury-for-team-india-against-new-zealand-1st-test-2806292",
+    "picture_source": "ESPNcricinfo.com",
     "approx_traffic": "50,000+"
   },
   {
@@ -244,16 +274,16 @@
     "title": "River",
     "pubDate": "Fri, 18 Oct 2024 01:00:00 -0300",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTS9IieskIoC5BxhQsfG-lXIEEQazCWdLIXo9nawadqibnNsT88zWoau5z-ZxoyV8ghYONZmtfK",
-    "news_item_snippet": "El \u00fanico equipo argentino que sigue en carrera en la Copa Libertadores contra el l\u00edder indiscutido del certamen local. Un partido de alto vuelo que se disputar\u00e1&nbsp;...",
-    "news_item_url": "https://www.lanacion.com.ar/deportes/futbol/en-que-canal-pasan-river-vs-velez-por-la-liga-profesional-2024-hoy-nid18102024/",
+    "news_item_snippet": "En el Monumental fue 1-1 por los goles de Romero y Borja. En el descuento, Marchiori hizo un atajad\u00f3n y Colidio perdi\u00f3 otra clara. El Millo sigue a 11 del&nbsp;...",
+    "news_item_url": "https://www.ole.com.ar/futbol-de-primera/river-velez-hora-ver-tv-online-formaciones-liga-profesional-videos-resumen_0_riFG3BkMgb.html",
     "picture_source": "V\u00e9lez Sarsfield",
-    "approx_traffic": "200,000+"
+    "approx_traffic": "500,000+"
   },
   {
     "country": "Argentina",
     "title": "F1",
     "pubDate": "Fri, 18 Oct 2024 07:00:00 -0300",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRNOwLhEiqiK1OTkvo_Nmb8Zj9Ah_DOz3CG9Yq303u1QQtWRdAVp_wX8x7u887pK6KxZ4NYcudJ",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSz_OaHwze0EjUbk1Hb78QkkLp9BSJEpbzazU7F6l2x_RzfUqw-BIz6EKkuA-o1yy_l62fNwh_5",
     "news_item_snippet": "Apunta los horarios de ambas sesiones para no perderte nada de lo que suceda en Austin. A qu\u00e9 hora es la carrera al sprint del GP de Estados Unidos de F1 2024.",
     "news_item_url": "https://es.motorsport.com/f1/news/hora-clasificacion-carrera-sprint-austin-eeuu-sabado/10663924/",
     "picture_source": "ESPN",
@@ -263,20 +293,20 @@
     "country": "Argentina",
     "title": "Lan\u00fas  Independiente",
     "pubDate": "Fri, 18 Oct 2024 17:00:00 -0300",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcS3CbRekf6cRaUGtKrnb23x44VgazWm99pSpA2Djr1k0vDcC9V065TRNDt5vBXSwdjG_HmYvzWp",
-    "news_item_snippet": "Este viernes en la Fortaleza, el Granate de Ricardo Zielinski se enfrenta al Rojo por la fecha 18. Seguilo en vivo, minuto a minuto.",
-    "news_item_url": "https://www.tycsports.com/liga-profesional-de-futbol/lanus-vs-independiente-en-vivo-hora-donde-ver-y-formaciones-id613495.html",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcS0PxFb-d-3Hmm3zVEdiRt5-FPy598b9EJ6F8Akm8ahYK1thA7OGNXMYxGaENZlZEnco0dpw7t1",
+    "news_item_snippet": "El Rojo venci\u00f3 2-0 de visitante al Granate, con goles de Mancuello y \u00c1valos, por la 18\u00aa fecha, para seguir recuperando terreno.",
+    "news_item_url": "https://www.espn.com.ar/futbol/champions-league/nota/_/id/14308907/independiente-le-gano-a-lanus-y-estiro-su-racha-invicta-en-el-torneo-de-la-liga",
     "picture_source": "Ol\u00e9",
-    "approx_traffic": "50,000+"
+    "approx_traffic": "100,000+"
   },
   {
     "country": "Argentina",
     "title": "Gines",
     "pubDate": "Fri, 18 Oct 2024 14:00:00 -0300",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSSd-FnV3wZhYTFcsaKIdU34uIKRpPvdo59F7xh-4i6_8Sfrke4ldvqzITMon5heLbHCJEKD174",
-    "news_item_snippet": "El ex funcionario estaba internado en el Instituto Quir\u00fargico del Callao ... Gin\u00e9s Gonz\u00e1lez Garc\u00eda falleci\u00f3 este viernes en Buenos Aires a los 79 a\u00f1os. El ex&nbsp;...",
-    "news_item_url": "https://www.infobae.com/politica/2024/10/18/murio-gines-gonzalez-garcia-a-los-79-anos/",
-    "picture_source": "LA NACION",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSqoogbDILrwvSG7J5viBFSRVc8hNKslKZcbsgGFxAd3c4c4I-K3nUI52Za6OC3sIQ0N8SXG7d6",
+    "news_item_snippet": "El centro m\u00e9dico donde permanec\u00eda internado difundi\u00f3 esta tarde el comunicado confirmando la muerte del exministro. \u201cLamentamos informar que en el d\u00eda de la&nbsp;...",
+    "news_item_url": "https://www.lanacion.com.ar/politica/murio-gines-gonzalez-garcia-el-exministro-de-salud-de-alberto-fernandez-nid18102024/",
+    "picture_source": "Infobae.com",
     "approx_traffic": "50,000+"
   },
   {
@@ -313,10 +343,10 @@
     "country": "Brazil",
     "title": "Atl\u00e9tico-GO x Cuiab\u00e1",
     "pubDate": "Fri, 18 Oct 2024 16:00:00 -0500",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSNR-XqrygksNiw04AeiR_Jl9vs62EkqANBBRxdUSWWRvQztibjPYBZtioomDpEGWXWfmXDKtxV",
-    "news_item_snippet": "Na reta final do campeonato, o Drag\u00e3o ocupa a lanterna com 21 pontos. J\u00e1 o Cuiab\u00e1 segue na vice lanterna com 26. Os times far\u00e3o um duelo dos desesperados&nbsp;...",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSRZ46rf8OUrNe2Bu5H_oth__j88aDUHmOYA7_A-oiLpWYdbD-axUIAWE2FBhgk3TMKhPjrWnAb",
+    "news_item_snippet": "Disputa direta na parte de baixo da tabela, o jogo dos desesperados acontece nesta sexta, entre Cuiab\u00e1 x Atl\u00e9tico-GO.",
     "news_item_url": "https://www.terra.com.br/esportes/cuiaba/atletico-go-x-cuiaba-duelo-dos-desesperados-no-brasileirao-serie-a,da548e8487c3dab7fb3ecfcb965df671jbbajlib.html",
-    "picture_source": "globoesporte.com",
+    "picture_source": "Terra",
     "approx_traffic": "100,000+"
   },
   {
@@ -330,20 +360,20 @@
     "approx_traffic": "50,000+"
   },
   {
-    "country": "Canada",
-    "title": "Yahya Sinwar",
-    "pubDate": "Thu, 17 Oct 2024 11:00:00 -0400",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSqRJThxHiJ5CGiArZrujPBVjQ5NgEipPASc0RKI0IsA8eNrCptHZklH90ZsUCVBJKrjs3DJYQd",
-    "news_item_snippet": "Hamas leader Yahya Sinwar, believed to be an architect of the militant group&#39;s deadly October 7, 2023, terror attack that set off the war in Gaza,&nbsp;...",
-    "news_item_url": "https://www.cnn.com/world/live-news/israel-hamas-lebanon-sinwar-gaza-iran-10-18-24-intl-hnk/index.html",
-    "picture_source": "The New York Times",
+    "country": "Brazil",
+    "title": "Maniaco do Parque",
+    "pubDate": "Fri, 18 Oct 2024 08:00:00 -0500",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTqJTTGZHvql0g1wD1kwSJgevZiFnz6yhpC_VQwcSVyRk9mtbf47EKFs0KfdV84fIWgyGRlHDxD",
+    "news_item_snippet": "Aao g1, ator fala sobre mistura de fic\u00e7\u00e3o e realidade em filme sobre assassino condenado por matar dez mulheres e estuprar outras nove em 1998, que estreia&nbsp;...",
+    "news_item_url": "https://g1.globo.com/pop-arte/cinema/noticia/2024/10/18/maniaco-do-parque-cria-heroina-ficticia-para-ter-uma-mulher-no-mesmo-patamar-que-o-serial-killer-diz-silvero-pereira.ghtml",
+    "picture_source": "CNN Brasil",
     "approx_traffic": "50,000+"
   },
   {
     "country": "South Korea",
     "title": "\ub0a0\uc528",
     "pubDate": "Fri, 18 Oct 2024 09:00:00 +0900",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTdf1KK_-BfuCKnL8BgmGHoktdFI0C6WLir-veaRbmREpLCvoBCMB-Hnzoi51SEsjEwByIx8XI6",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcS5z0aJOSczQ66VgPOdKrUk3DePGYmUYZRJ6rSo7blYIHBXEZFo_fWLn4dAxk-q2jcrWmKLIHMx",
     "news_item_snippet": "\ud3ed\uc6b0\ub97c \uc3df\uc544\ub0b4\ub358 \ube44\uad6c\ub984\uc740 \ub300\ubd80\ubd84 \ube60\uc838\ub098\uac00\uace0 \ud604\uc7ac\ub294 \ub3d9\ud574\uc548 \uc9c0\uc5ed\uc744 \uc911\uc2ec\uc73c\ub85c\ub9cc \ube44\uac00 \ub0b4\ub9ac\uace0 \uc788\uc2b5\ub2c8\ub2e4. \ub0b4\ub959 \uc9c0\uc5ed\uc758 \ube44\ub294 \ub300\ubd80\ubd84 \uc57d\ud558\uac70\ub098 \ube57\ubc29\uc6b8 \uc815\ub3c4\ub9cc \ub5a8\uc5b4\uc9c0\uace0&nbsp;...",
     "news_item_url": "https://imnews.imbc.com/replay/2024/nwtoday/article/6647847_36523.html",
     "picture_source": "\uc5f0\ud569\ub274\uc2a4TV",
@@ -354,8 +384,8 @@
     "title": "\u0627\u0644\u0646\u0635\u0631",
     "pubDate": "Thu, 17 Oct 2024 19:00:00 +0300",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTpOKgwCYbUTFOK2KBpAvZAghrxNTUMUcMXOe8psxXviIqj2ashMS48bQwkSAVnAp0ZVX0S_vGJ",
-    "news_item_snippet": "\u0642\u0627\u062f \u0627\u0644\u0646\u062c\u0645 \u0627\u0644\u0628\u0631\u062a\u063a\u0627\u0644\u064a \u0643\u0631\u064a\u0633\u062a\u064a\u0627\u0646\u0648 \u0631\u0648\u0646\u0627\u0644\u062f\u0648 \u0641\u0631\u064a\u0642\u0647 \u0627\u0644\u0646\u0635\u0631 \u0644\u0644\u0641\u0648\u0632 \u0639\u0644\u0649 \u0627\u0644\u0634\u0628\u0627\u0628 2-1\u060c \u064a\u0648\u0645 \u0627\u0644\u062c\u0645\u0639\u0629\u060c \u0636\u0645\u0646 \u0645\u0646\u0627\u0641\u0633\u0627\u062a \u0627\u0644\u062c\u0648\u0644\u0629 \u0627\u0644\u0633\u0627\u0628\u0639\u0629 \u0645\u0646 \u062f\u0648\u0631\u064a \u0631\u0648\u0634\u0646 \u0627\u0644\u0633\u0639\u0648\u062f\u064a \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062f\u0645.\u0648\u062a\u0642\u062f\u0645 \u0627\u0644\u0646\u0635\u0631.",
-    "news_item_url": "https://www.alarabiya.net/sport/2024/10/19/%D8%B1%D9%88%D9%86%D8%A7%D9%84%D8%AF%D9%88-%D9%8A%D9%86%D9%82%D8%B0-%D8%A7%D9%84%D9%86%D8%B5%D8%B1-%D9%85%D9%86-%D8%A7%D9%84%D8%B4%D8%A8%D8%A7%D8%A8-%D9%88%D8%AD%D9%85%D8%AF%D9%84%D9%84%D9%87-%D9%8A%D9%87%D8%AF%D8%B1-%D8%AC%D8%B2%D8%A7%D8%A6%D9%8A%D8%A9-%D9%82%D8%A7%D8%AA%D9%84%D8%A9-",
+    "news_item_snippet": "\u062a\u062f\u0627\u0648\u0644 \u0645\u0633\u062a\u062e\u062f\u0645\u0648\u0646 \u0644\u0645\u0646\u0635\u0629 &quot;\u0625\u0643\u0633&quot; (\u062a\u0648\u064a\u062a\u0631 \u0633\u0627\u0628\u0642\u0627) \u0641\u064a\u062f\u064a\u0648 \u064a\u0638\u0647\u0631 \u0645\u0627 \u0641\u0639\u0644\u0647 \u0644\u0627\u0639\u0628 \u0627\u0644\u0646\u0635\u0631 \u0627\u0644\u0633\u0639\u0648\u062f\u064a \u0643\u0631\u064a\u0633\u062a\u064a\u0627\u0646\u0648 \u0631\u0648\u0646\u0627\u0644\u062f\u0648 \u0645\u0639 \u062d\u0627\u0631\u0633 \u0645\u0631\u0645\u0649 \u0627\u0644\u0641\u0631\u064a\u0642\u060c \u0628\u064a\u0646\u062a\u0648\u060c \u062e\u0644\u0627\u0644 \u0645\u0628\u0627\u0631\u0627\u0629 &quot;\u0627\u0644\u0639\u0627\u0644\u0645\u064a&quot; \u0648\u0627\u0644\u0634\u0628\u0627\u0628\u060c&nbsp;...",
+    "news_item_url": "https://arabic.cnn.com/sport/article/2024/10/19/bento-cristiano-ronaldo-al-nasser",
     "picture_source": "\u0627\u0644\u062c\u0632\u064a\u0631\u0629 \u0646\u062a",
     "approx_traffic": "200,000+"
   },
@@ -363,10 +393,10 @@
     "country": "Saudi Arabia",
     "title": "\u0627\u0644\u0647\u0644\u0627\u0644",
     "pubDate": "Thu, 17 Oct 2024 11:00:00 +0300",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSmXucAmzF_Op5JXWI6Ntot6Q3ULC4pehzCqjfFfJojfXtAKE-imdKQ40LdxgFSoTZ2o0ar0RpX",
-    "news_item_snippet": "\u0648\u0644\u0645 \u064a\u0634\u0627\u0631\u0643 \u0627\u0644\u0628\u0631\u0627\u0632\u064a\u0644\u064a \u0646\u064a\u0645\u0627\u0631 \u062f\u0627 \u0633\u064a\u0644\u0641\u0627 \u0645\u0639 \u0627\u0644\u0647\u0644\u0627\u0644 \u0641\u064a \u0628\u0637\u0648\u0644\u0629 \u0627\u0644\u062f\u0648\u0631\u064a \u0627\u0644\u0633\u0639\u0648\u062f\u064a \u062d\u062a\u064a \u064a\u0646\u0627\u064a\u0631\u060c \u0644\u0631\u0641\u0639\u0647 \u0645\u0646 \u0627\u0644\u0642\u0627\u0626\u0645\u0629 \u0627\u0644\u0645\u062d\u0644\u064a\u0629 \u0648\u0627\u0644\u0625\u0643\u062a\u0641\u0627\u0621 \u0628\u062a\u0633\u062c\u064a\u0644\u0647 \u0636\u0645\u0646 \u0627\u0644\u0645\u062c\u0645\u0648\u0639\u0629 \u0627\u0644\u0645\u0634\u0627\u0631\u0643\u0629 \u0641\u064a \u062f\u0648\u0631\u064a \u0623\u0628\u0637\u0627\u0644&nbsp;...",
-    "news_item_url": "https://www.youm7.com/story/2024/10/18/%D8%A7%D9%84%D9%87%D9%84%D8%A7%D9%84-%D9%8A%D9%87%D8%B2%D9%85-%D8%A7%D9%84%D9%81%D9%8A%D8%AD%D8%A7%D8%A1-%D8%A8%D8%AB%D9%84%D8%A7%D8%AB%D9%8A%D8%A9-%D9%86%D8%B8%D9%8A%D9%81%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D9%8A-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A/6746078",
-    "picture_source": "\u0627\u0644\u0639\u0631\u0628\u064a\u0629",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRot_er2CspVT5kLviLfv7B_WACYH2xbZz2HkVik6zqBzxgSntzPlc6Jo09Hhuacf4ny54-gPXl",
+    "news_item_snippet": "\u0639\u0632\u0632 \u0627\u0644\u0647\u0644\u0627\u0644 \u0635\u062f\u0627\u0631\u062a\u0647 \u0644\u062a\u0631\u062a\u064a\u0628 \u062f\u0648\u0631\u064a \u0631\u0648\u0634\u0646 \u0627\u0644\u0633\u0639\u0648\u062f\u064a\u060c \u0648\u0630\u0644\u0643 \u0639\u0642\u0628 \u0641\u0648\u0632\u0647 \u0639\u0644\u0649 \u0636\u064a\u0641\u0647 \u0627\u0644\u0641\u064a\u062d\u0627\u0621 3/\u0635\u0641\u0631\u060c \u064a\u0648\u0645 \u0627\u0644\u062c\u0645\u0639\u0629\u060c \u0636\u0645\u0646 \u0645\u0646\u0627\u0641\u0633\u0627\u062a \u0627\u0644\u062c\u0648\u0644\u0629 \u0627\u0644\u0633\u0627\u0628\u0639\u0629 \u0645\u0646 \u0627\u0644\u0645\u0633\u0627\u0628\u0642\u0629.\u0648\u0631\u0641\u0639 \u0627\u0644\u0647\u0644\u0627\u0644 \u0631\u0635\u064a\u062f\u0647 \u0625\u0644\u0649.",
+    "news_item_url": "https://www.alarabiya.net/sport/2024/10/18/%D8%A7%D9%84%D9%87%D9%84%D8%A7%D9%84-%D9%8A%D8%B9%D8%B2%D8%B2-%D8%B5%D8%AF%D8%A7%D8%B1%D8%AA%D9%87-%D8%A8%D8%AB%D9%84%D8%A7%D8%AB%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D9%81%D9%8A%D8%AD%D8%A7%D8%A1",
+    "picture_source": "\u0627\u0644\u064a\u0648\u0645 \u0627\u0644\u0633\u0627\u0628\u0639",
     "approx_traffic": "200,000+"
   },
   {
@@ -374,20 +404,10 @@
     "title": "Ligue 1",
     "pubDate": "Fri, 18 Oct 2024 21:00:00 +0200",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQ4KmryNzZX94HlJfW-Bze7pTqfdW6laffstN6yaWH-jU1WIyAxFOJQ5sQMYCIhM962GtDngAFY",
-    "news_item_snippet": "Dans un match sans rythme apr\u00e8s la tr\u00eave internationale, Monaco n&#39;a pas su concr\u00e9tiser ses occasions face \u00e0 un LOSC timor\u00e9. Les Mon\u00e9gasques se retrouvent \u00e0&nbsp;...",
-    "news_item_url": "https://www.lequipe.fr/Football/Actualites/Le-leader-monaco-tenu-en-echec-par-le-losc-sur-sa-pelouse-en-ligue-1/1514675",
+    "news_item_snippet": "L&#39;actuel leader du championnat de France n&#39;a pas r\u00e9ussi \u00e0 faire mieux qu&#39;un match nul (0-0), vendredi, apr\u00e8s avoir domin\u00e9 pendant pr\u00e8s d&#39;une heure.",
+    "news_item_url": "https://www.francetvinfo.fr/sports/foot/ligue-1/direct-monaco-lille-un-cinquieme-succes-de-rang-pour-les-monegasques-suivez-le-match-de-ligue-1_6843488.html",
     "picture_source": "Ouest-France",
     "approx_traffic": "100,000+"
-  },
-  {
-    "country": "France",
-    "title": "One Direction",
-    "pubDate": "Thu, 17 Oct 2024 00:00:00 +0200",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRdLmk9lYzaafW1gW0CbT_zDW2fjcJ1ZkeS9AmZQri7VcsRtgLbQLyjFkiGoE2W2FF6h-bcQE14",
-    "news_item_snippet": "L&#39;artiste a chut\u00e9 du troisi\u00e8me \u00e9tage d&#39;un h\u00f4tel \u00e0 Buenos Aires, selon la police argentine qui a indiqu\u00e9, jeudi, qu&#39;il est mort des suites de sa chute.",
-    "news_item_url": "https://www.francetvinfo.fr/culture/musique/le-chanteur-britannique-liam-payne-ex-membre-du-groupe-one-direction-est-mort-a-l-age-de-31-ans_6842669.html",
-    "picture_source": "BFMTV",
-    "approx_traffic": "1,000,000+"
   },
   {
     "country": "Germany",
@@ -414,20 +434,20 @@
     "title": "Sinwar",
     "pubDate": "Thu, 17 Oct 2024 17:00:00 +0200",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRlEWSMN7OZVwHwlJACDMJoEL--Xib3f5V87x-pJfTKndDtrAfSfGSUHG3MpRVUD0Z-M5m3WsMG",
-    "news_item_snippet": "Der Hamas-Chef ist tot. Es w\u00e4re die Gelegenheit, eine friedliche L\u00f6sung f\u00fcr den Konflikt anzusto\u00dfen. Denn milit\u00e4risch wird er sich nie l\u00f6sen lassen.",
-    "news_item_url": "https://www.spiegel.de/ausland/yahya-sinwar-der-tod-des-hamas-chefs-sollte-ein-wendepunkt-in-gaza-sein-a-081a6eb1-d73b-4f8e-840a-e8686fdfd172",
+    "news_item_snippet": "Eine Wunde am Arm versuchte Yahya Sinwar noch abzuklemmen, dann traf ihn ein t\u00f6dlicher Schuss: Ein Gerichtsmediziner berichtet, was die Untersuchung der&nbsp;...",
+    "news_item_url": "https://www.spiegel.de/ausland/new-york-times-yahya-sinwar-starb-offenbar-duch-einen-kopfschuss-a-45ac0bfc-73e1-4fab-94d2-e5764256dd2b",
     "picture_source": "tagesschau.de",
     "approx_traffic": "50,000+"
   },
   {
     "country": "Germany",
-    "title": "Podolski",
+    "title": "Lukas Podolski",
     "pubDate": "Thu, 10 Oct 2024 19:00:00 +0200",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTjfm0o8nwmC_ejTRlZTmLBUuAzQ5aCYH4kLxchPBFK6CIZWGCFifuA47rF8Rc8p7I1J1VVd_2c",
     "news_item_snippet": "Geheiratet wurde am 18. April 2011. Er selbst ist im polnischen Gliwice zur Welt gekommen und lebt heute mit seiner Familie wieder in Polen, wo er beim&nbsp;...",
     "news_item_url": "https://www.prosieben.ch/themen/stars/news/lukas-podolski-verraet-darum-sind-der-fussballer-und-seine-ehefrau-monika-nach-ueber20-jahren-noch-so-gluecklich-358683",
     "picture_source": "ProSieben",
-    "approx_traffic": "50,000+"
+    "approx_traffic": "100,000+"
   },
   {
     "country": "Germany",
@@ -450,13 +470,23 @@
     "approx_traffic": "100,000+"
   },
   {
+    "country": "Germany",
+    "title": "Milton",
+    "pubDate": "Tue, 08 Oct 2024 10:00:00 +0200",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRrO-QaDitJyUJwogVtsvDz3dKUCckWKvJUacPJfGlZQWSBAeGYL-yKQQqfopt49DvYA1a7our4",
+    "news_item_snippet": "Mit hohen Windgeschwindigkeiten ist Hurrikan Milton im US-Bundesstaat Florida auf Land getroffen. Laut Gouverneur DeSantis hat der Sturm bereits rund 125&nbsp;...",
+    "news_item_url": "https://www.zeit.de/gesellschaft/2024-10/hurrikan-milton-florida-usa-stromausfaelle",
+    "picture_source": "tagesschau.de",
+    "approx_traffic": "100,000+"
+  },
+  {
     "country": "Italy",
     "title": "Serie A",
     "pubDate": "Fri, 18 Oct 2024 23:00:00 +0200",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTR84J9ModnByUmQKHsd_1R1663KFuHyNuSX6kxmn5Bpux0ARWs_3b-sBJLqAlWn2VR7qPgJ7Vm",
-    "news_item_snippet": "In occasione dell&#39;ottava giornata di Serie A il mondo del calcio scende in campo per la campagna &#39;Emergenza Fame&#39; di Save the Children per dare cibo&nbsp;...",
-    "news_item_url": "https://sport.sky.it/calcio/serie-a/2024/10/18/serie-a-save-the-children-fame-mondo",
-    "picture_source": "HTML.it",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRe8cKOAJjsNtxWQO0-jbRMS7AedfyB62aI-sCo1RxC5anc3rO2gtP2iY6EPlC_Oh64qANC_gfO",
+    "news_item_snippet": "Il weekend di Serie A inizia sabato 19 ottobre con due partite in programma alle 15 (Como-Parma e Genoa Bologna) e terminer\u00e0 luned\u00ec 21 con il monday night&nbsp;...",
+    "news_item_url": "https://www.adnkronos.com/sport/probabili-formazioni-serie-a-ottava-giornata-juve-lazio-roma-inter-milan-napoli_70uhfwLfKHWhUVnPPUb0OW",
+    "picture_source": "Sky Sport",
     "approx_traffic": "100,000+"
   },
   {
@@ -477,6 +507,36 @@
     "news_item_snippet": "Max torna in alto e si prende le qualifiche per la gara sprint, la Ferrari si spegne sul pi\u00f9 bello. Vasseur attacca la Red Bull: \u00abNoi sempre nei limiti,&nbsp;...",
     "news_item_url": "https://www.corriere.it/sport/formula-1/diretta-live/24_ottobre_18/f1-gp-austin-prove-libere-qualifiche-sprint-diretta.shtml",
     "picture_source": "La Gazzetta dello Sport",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Mexico",
+    "title": "Liga MX",
+    "pubDate": "Fri, 18 Oct 2024 18:00:00 -0600",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTQxxXTN5CxN9ETOGvtBRuZPXH-FIF7oaiVO-DhuFX7MkLgxHmDs0clIvil_u12RrBEBzAvPPpi",
+    "news_item_snippet": "Este viernes 18 de octubre inicia la jornada 12 del torneo Apertura 2024 de la Liga MX con cuatro partidos, destacando el juego de Cruz Azul, l\u00edder general,&nbsp;...",
+    "news_item_url": "https://www.marca.com/mx/futbol/liga-mx/2024/10/18/6712b274268e3e6a4c8b459f.html",
+    "picture_source": "El Financiero",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "Mexico",
+    "title": "Queretaro vs Toluca",
+    "pubDate": "Fri, 18 Oct 2024 19:00:00 -0600",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTIcv-MMXKKupeu23zE-l1vIwdcJHskyQJORzMW4XR9GurHqyhs8N90hDUR-feWJ3QHe4VtIdG8",
+    "news_item_snippet": "Quer\u00e9taro, que viene de cuatro partidos consecutivos sin perder, recibe a unos Diablos Rojos del Toluca que han sido de los mejores equipos en el Apertura&nbsp;...",
+    "news_item_url": "https://www.mediotiempo.com/futbol/liga-mx/queretaro-vs-toluca-en-vivo-transmision-online-liga-mx-2024",
+    "picture_source": "MARCA.com",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Mexico",
+    "title": "Atlas - Mazatl\u00e1n",
+    "pubDate": "Fri, 18 Oct 2024 18:00:00 -0600",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSNkYJ45ZOmd8MM5z3Ulho2gQltuFE3c8KVbgcfRBygRDMK0Yv1w9nxUA3zYd1mTN3tgfns8chb",
+    "news_item_snippet": "Cambio en Mazatl\u00e1n, entra al campo Nicol\u00e1s Benedetti sustituyendo a Jordan Sierra. Mart\u00edn Nervo (Atlas) ha recibido una falta en la zona defensiva. Fa.",
+    "news_item_url": "https://www.marca.com/mx/futbol/liga-mx/atlas-mazatlan/2024/10/19/01_0159_20241019_1284_16906-directo.html",
+    "picture_source": "Diario Deportivo Record",
     "approx_traffic": "50,000+"
   },
   {
@@ -504,8 +564,8 @@
     "title": "Leeds United",
     "pubDate": "Fri, 18 Oct 2024 20:00:00 +0100",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRQyN_l2r35A0F6CKrRIsddSCEjKYa_q_pNcMjg8YZRRkozyQO7oNn7frlEEKFktfhDVPWmRNhx",
-    "news_item_snippet": "Daniel Farke has chosen to stick with the same starting line-up for the match, but we have Daniel James and Manor Solomon back in the squad and on the&nbsp;...",
-    "news_item_url": "https://www.leedsunited.com/en/news/team-news-daniel-farke-names-xi-to-face-sheffield-united",
+    "news_item_snippet": "Leeds: Meslier (GK), Bogle, Firpo (Byram 90&#39;), Struijk (C), Rodon, Rothwell, Piroe (Bamford 10&#39;), Aaronson (James 68&#39;), Ramazani (Joseph 79&#39;), Tanaka, Gnonto (&nbsp;...",
+    "news_item_url": "https://www.leedsunited.com/en/news/report-leeds-united-2-0-sheffield-united",
     "picture_source": "The Guardian",
     "approx_traffic": "100,000+"
   },
@@ -514,19 +574,9 @@
     "title": "Woman of the Hour",
     "pubDate": "Fri, 18 Oct 2024 17:00:00 +0100",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSXXyKOftdpDJkQl2bC8cmF-i0igDkbjt4hX6AXI6ZnlTH9xS6RvnTXNRnmcYxwxIxQbsMbnFmH",
-    "news_item_snippet": "When Cheryl Bradshaw appeared on \u201cThe Dating Game\u201d in 1978, little did she know that the bachelor she chose to go on a date with, Rodney Alcala,&nbsp;...",
-    "news_item_url": "https://www.today.com/popculture/movies/woman-of-the-hour-true-story-rodney-alcala-rcna175484",
+    "news_item_snippet": "Does this Netflix film have anything to say? It&#39;s not clear what its parade of tragedy can tell us.",
+    "news_item_url": "https://www.newstatesman.com/culture/film/2024/10/woman-of-the-hour-anna-kendricks-incoherent-true-crime-drama",
     "picture_source": "Vulture",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United Kingdom",
-    "title": "Fog warning",
-    "pubDate": "Fri, 18 Oct 2024 06:00:00 +0100",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQ8JFrKubX0CZYIjYrTNoiioBdttdgtz_janjTAk3K0UN0HOikqPOFHMsS6losAyiLo6tMpAkb9",
-    "news_item_snippet": "Motorists and commuters are being warned of fog which could affect travel across the East of England. A yellow weather warning from the Met Office began at&nbsp;...",
-    "news_item_url": "https://www.bbc.com/news/articles/c2kdexl9392o",
-    "picture_source": "Oxford Mail",
     "approx_traffic": "50,000+"
   }
 ]
