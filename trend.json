@@ -1,6 +1,16 @@
 [
   {
     "country": "United States",
+    "title": "Chiefs vs 49ers",
+    "pubDate": "Sun, 20 Oct 2024 07:00:00 -0700",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSgZfOBq4Mr3y5cw6yPyvW9M4tqITgTwNpK-YRqRidctvd0Q7pOcEPf6t_cq3Ye82CwyWLvn15v",
+    "news_item_snippet": "The 49ers host the Chiefs in a rematch of Super Bowl LVIII with Tom Brady on the call. Here are the top plays and live analysis of the game!",
+    "news_item_url": "https://www.foxsports.com/live-blog/nfl/chiefs-vs-49ers-live-updates-score-top-moments-analysis-more-from-super-bowl-rematch",
+    "picture_source": "49ers.com",
+    "approx_traffic": "1,000,000+"
+  },
+  {
+    "country": "United States",
     "title": "Vikings",
     "pubDate": "Sun, 20 Oct 2024 10:00:00 -0700",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRqwmT17JuTGtL_VIs6lU3BVN3vkbrbEbBuiWlr84XBg01qEfTqTknjodHZJpDlhxXqVHd7iMe4",
@@ -8,16 +18,6 @@
     "news_item_url": "https://www.detroitlions.com/news/inactives-lions-at-vikings-zeitler-thomas-williams",
     "picture_source": "detroitlions.com",
     "approx_traffic": "1,000,000+"
-  },
-  {
-    "country": "United States",
-    "title": "49ers",
-    "pubDate": "Sun, 20 Oct 2024 12:00:00 -0700",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSwlT_X5XsvISjXPHAxLCpN5EwVmoSVewArWx5R0e9PgBe0OpLIm4ofGvw-P48xy6RzWPw4TuVR",
-    "news_item_snippet": "The 49ers fear that wide receiver Brandon Aiyuk suffered a torn ACL during Sunday&#39;s loss to the Chiefs, according to coach Kyle Shanahan, but he will have&nbsp;...",
-    "news_item_url": "https://www.espn.com/nfl/story/_/id/41910688/san-francisco-49ers-receivers-deebo-samuel-brandon-aiyuk-exit-vs-chiefs",
-    "picture_source": "49ers.com",
-    "approx_traffic": "500,000+"
   },
   {
     "country": "United States",
@@ -31,21 +31,11 @@
   },
   {
     "country": "United States",
-    "title": "Seahawks",
-    "pubDate": "Sun, 20 Oct 2024 10:00:00 -0700",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSAL458elpDfqOxiMYy7HauiQs4AYOB6PMJmRN2XI5xXYvqu6u01s3mfhZ-UgyLdj8yqh9wfOZL",
-    "news_item_snippet": "Falcons rookie quarterback Michael Penix Jr. made his NFL debut late in the fourth quarter with the game out of reach. He completed one pass for 14 yards. Here&nbsp;...",
-    "news_item_url": "https://www.atlantafalcons.com/news/falcons-takeaways-seattle-seahawks-week-7",
-    "picture_source": "Seahawks.com",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "United States",
     "title": "Buffalo Bills",
     "pubDate": "Sun, 20 Oct 2024 11:00:00 -0700",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcS3Yf_sBTKNj9vf6DtSKgtBDAGmGIJkL0kq-MKkoHA2jGbGaDHjCu8DLaPN3LpM7jzB47bLEJ2a",
-    "news_item_snippet": "Josh Allen completed 21 of 33 passes for 323 yards and two touchdowns and Ray Davis and James Cook each rushed for a touchdown. Keon Coleman had 125 receiving&nbsp;...",
-    "news_item_url": "https://www.democratandchronicle.com/story/sports/football/nfl/bills/2024/10/20/buffalo-bills-vs-tennessee-titans-score-stats-updates-highlights-nfl-week-7/75756534007/",
+    "news_item_snippet": "Mason Rudolph started at quarterback for the Titans, in place of an injured Will Levis.",
+    "news_item_url": "https://www.tennesseetitans.com/news/titans-lose-34-10-to-the-bills-drop-to-1-5",
     "picture_source": "BuffaloBills.com",
     "approx_traffic": "200,000+"
   },
@@ -61,12 +51,22 @@
   },
   {
     "country": "United States",
-    "title": "Barcelona",
-    "pubDate": "Sun, 20 Oct 2024 12:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQZhM7b6PLDZuIwMwnvYXuso_hldNvuw1pEVvUL3bJrC22oDFKedabgQcqH-sio-54uZYlIQTs8",
-    "news_item_snippet": "MADRID (AP) \u2014 Robert Lewandowski scored two more goals to extend his league-leading tally to 12 and Barcelona comfortably beat Sevilla 5-1 to open a&nbsp;...",
-    "news_item_url": "https://wtop.com/sports/2024/10/atletico-madrid-beats-leganes-in-spanish-league-in-partially-closed-stadium-because-of-fan-trouble/",
-    "picture_source": "CNET",
+    "title": "Seahawks",
+    "pubDate": "Sun, 20 Oct 2024 10:00:00 -0700",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSAL458elpDfqOxiMYy7HauiQs4AYOB6PMJmRN2XI5xXYvqu6u01s3mfhZ-UgyLdj8yqh9wfOZL",
+    "news_item_snippet": "Falcons rookie quarterback Michael Penix Jr. made his NFL debut late in the fourth quarter with the game out of reach. He completed one pass for 14 yards. Here&nbsp;...",
+    "news_item_url": "https://www.atlantafalcons.com/news/falcons-takeaways-seattle-seahawks-week-7",
+    "picture_source": "Seahawks.com",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Jets",
+    "pubDate": "Sun, 20 Oct 2024 17:00:00 -0700",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQyCDpFgo2QqnIqjvCBBazij2QFlbt06k4C0upbBsge36gFMgl_zMVY9PCRe19oQ2171PO7T7WN",
+    "news_item_snippet": "Today&#39;s 2024 NFL Week 7 games wrap up with Sunday Night Football as the Pittsburgh Steelers host the New York Jets. Start time, channel and how to stream.",
+    "news_item_url": "https://www.oklahoman.com/story/sports/nfl/2024/10/20/jets-steelers-channel-today-time-tv-schedule-streaming-info-nfl-sunday-night-football-week-7/75766170007/",
+    "picture_source": "CBSSports.com",
     "approx_traffic": "200,000+"
   },
   {
@@ -74,19 +74,59 @@
     "title": "Deshaun Watson",
     "pubDate": "Sun, 20 Oct 2024 12:00:00 -0700",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcS_a-JUW1YoqbcYSKFBQ40IgPWjKclq_Z8eUYrI71GH9hg8ziCj0MkV5vcXdVJZw5ASJ9xFVhFJ",
-    "news_item_snippet": "Browns quarterback Deshaun Watson suffered a right Achilles injury toward the end of the first half of Sunday&#39;s game against the Bengals.",
-    "news_item_url": "https://www.espn.com/nfl/story/_/id/41906271/browns-deshaun-watson-carted-noncontact-leg-injury",
+    "news_item_snippet": "Cleveland Browns quarterback Deshaun Watson suffered an Achilles injury on Sunday and it comes amid increased attention placed on his $230M Contract.",
+    "news_item_url": "https://www.sportico.com/law/analysis/2024/deshaun-watson-achilles-injury-contract-1234801908/",
     "picture_source": "clevelandbrowns.com",
     "approx_traffic": "200,000+"
   },
   {
     "country": "United States",
-    "title": "Bills",
+    "title": "Mets vs Dodgers",
+    "pubDate": "Sun, 20 Oct 2024 18:00:00 -0700",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRdtAckM1y5JnaAj9Ak2cn-9rOLvhNh_Z7uLi7hBF53xIXt4p7qafbHS0U0Tf-7C-tpE9YKrHUF",
+    "news_item_snippet": "The Mets are looking to force a Game 7 on Monday at Dodger Stadium.",
+    "news_item_url": "https://sports.yahoo.com/live/mets-vs-dodgers-score-live-updates-back-at-home-los-angeles-looks-to-advance-to-world-series-in-nlcs-game-6-231020513.html",
+    "picture_source": "NorthJersey.com",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Eagles vs Giants",
     "pubDate": "Sun, 20 Oct 2024 11:00:00 -0700",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTia9RzgA-cR1FzI0yWBRZ8KyJeyTngdVkRT924ydmrDTtNH2Efe7QcNp01A7avIDjOimOghINx",
-    "news_item_snippet": "Josh Allen&#39;s 100<sup>th</sup> start was a success as the Buffalo Bills improved to 5-2 after defeating the Tennessee Titans 27-10 on Sunday afternoon. Allen picked apart&nbsp;...",
-    "news_item_url": "https://www.buffalobills.com/news/bills-34-titans-10-final-score-stats-to-know-game-highlights",
-    "picture_source": "Titansonline.com",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSJLl54SQz0DJWxXbZAF0sn9TWHufzqMpcexKY2OZ6rFIqVypRDahAGY-3hkzvC7Hzl-f7QPzjT",
+    "news_item_snippet": "The New York Giants lost to former teammate Saquon Barkley and the Eagles at MetLife Stadium on Sunday.",
+    "news_item_url": "https://www.northjersey.com/story/sports/nfl/giants/2024/10/20/new-york-giants-philadelphia-eagles-live-score-highlights-channel/75730751007/",
+    "picture_source": "PhiladelphiaEagles.com",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Raiders vs Rams",
+    "pubDate": "Sun, 20 Oct 2024 14:00:00 -0700",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQGzPQgNgta0VSqlG_Q_YfyyRDFaACS6C-CJbw-k4wN1W9QVaP5mN7PjAZbIDiPK-_zNNp2TPpd",
+    "news_item_snippet": "It&#39;s TeamA vs TeamB in Week xx of the 2024 NFL season. Here&#39;s how to watch, including time, channel, TV schedule and streaming info.",
+    "news_item_url": "https://raiderswire.usatoday.com/2024/10/20/raiders-rams-channel-time-tv-streaming-nfl-week-7/",
+    "picture_source": "CBS News",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Texans vs Packers",
+    "pubDate": "Sun, 20 Oct 2024 11:00:00 -0700",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRHubMsU8aA2XZFIaphQh79cRhzI3NaqclRUznP7u_pDl_hsDfNGxerhx_QvvXtQo7NI3SodtwT",
+    "news_item_snippet": "The Texans got on the board first after Neville Hewitt intercepted Jordan Love and returned the ball to the Green Bay 11-yard line. Ka&#39;imi Fairbairn punched&nbsp;...",
+    "news_item_url": "https://www.houstontexans.com/news/texans-give-green-bay-all-they-can-handle-fall-24-22-at-lambeau-field",
+    "picture_source": "Texans Wire",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Dolphins vs Colts",
+    "pubDate": "Sun, 20 Oct 2024 11:00:00 -0700",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSaKd4qqSN9QxnAz4lJw5016rKL6NRPHNFjtLNuuOoAo-xnL5SOpcjpfNz9VsgwuySTKeNVFAKG",
+    "news_item_snippet": "The second-year quarterback, who missed most of last season, left early in Week 4 with an oblique injury but was back to full strength Sunday.",
+    "news_item_url": "https://www.indystar.com/story/sports/nfl/colts/2024/10/20/anthony-richardson-stats-highlights-for-colts-vs-dolphins-in-week-7/75722593007/",
+    "picture_source": "Colts.com",
     "approx_traffic": "100,000+"
   },
   {
@@ -101,22 +141,12 @@
   },
   {
     "country": "United States",
-    "title": "Texans vs Packers",
+    "title": "Bengals vs Browns",
     "pubDate": "Sun, 20 Oct 2024 11:00:00 -0700",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRHubMsU8aA2XZFIaphQh79cRhzI3NaqclRUznP7u_pDl_hsDfNGxerhx_QvvXtQo7NI3SodtwT",
-    "news_item_snippet": "Follow the Green Bay Packers vs. Houston Texans game with live updates from Lambeau Field.",
-    "news_item_url": "https://www.packers.com/news/live-blog-packers-texans-week-7-2024",
-    "picture_source": "Texans Wire",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Dolphins vs Colts",
-    "pubDate": "Sun, 20 Oct 2024 11:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSaKd4qqSN9QxnAz4lJw5016rKL6NRPHNFjtLNuuOoAo-xnL5SOpcjpfNz9VsgwuySTKeNVFAKG",
-    "news_item_snippet": "It&#39;s Miami Dolphins vs Indianapolis Colts in Week 7 of the 2024 NFL season. Follow live game updates as Tyler Huntley faces Anthony Richardson.",
-    "news_item_url": "https://www.palmbeachpost.com/story/sports/nfl/dolphins/2024/10/20/dolphins-colts-score-updates-highlights-tv-channel/75690410007/",
-    "picture_source": "Colts.com",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQ-yxGXjU6amQlFoyxZknnt9y8IBgDz2n_QDWPHYSe8XCCHoOqQRRIpai3WEFgfZ0JeYmqg1MLE",
+    "news_item_snippet": "Watch highlights from the Week 7 matchup between the Cincinnati Bengals and the Cleveland Browns during the 2024 NFL season.",
+    "news_item_url": "https://sports.yahoo.com/bengals-vs-browns-highlights-week-210447200.html",
+    "picture_source": "Bengals.com",
     "approx_traffic": "100,000+"
   },
   {
@@ -144,59 +174,29 @@
     "title": "Alabama",
     "pubDate": "Sun, 20 Oct 2024 13:00:00 -0700",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSWHpQBCiX0gd5w1R2pYkRrrqfPK63Xh9TGCDW5HlcqteV8oRSc0NjMoz5ziA3PkV7wmJpkAN0x",
-    "news_item_snippet": "The Crimson Tide (5-2) has lost two of its last three games, including Saturday&#39;s 24-17 defeat to Tennessee. Alabama was ranked No. 1 following a 41-34 win over&nbsp;...",
-    "news_item_url": "https://www.al.com/alabamafootball/2024/10/alabama-falls-to-lowest-ap-poll-ranking-in-14-years-after-tennessee-loss.html",
+    "news_item_snippet": "With just one day left&nbsp;...",
+    "news_item_url": "https://www.wsfa.com/2024/10/20/aclu-alabama-holds-food-drive-encourage-voter-registration/",
     "picture_source": "Alabama Daily News",
     "approx_traffic": "50,000+"
   },
   {
     "country": "United States",
-    "title": "Texas A&M football",
-    "pubDate": "Sun, 20 Oct 2024 11:00:00 -0700",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTR1W91FkKaRfXFaHHw8Q9JZe2k0cQuB8ZoKQien_3YlS5_PfYPKdZkKogXeGDB8si5f3oJq4tr",
-    "news_item_snippet": "These three stats help explain why Mississippi State football&#39;s defense has been so bad in 2024.",
-    "news_item_url": "https://www.clarionledger.com/story/sports/college/mississippi-state/2024/10/20/mississippi-state-football-defense-struggles-jeff-lebby/75616409007/",
-    "picture_source": "Jackson Clarion Ledger",
+    "title": "Michigan State football",
+    "pubDate": "Sun, 20 Oct 2024 10:00:00 -0700",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRgPHWfN0-K8YDwE--XrQ-PyZyqwI73DWKbg01EllwqlMTBTFp8jcPqZvduzoQpmaY_Bze5gkZ5",
+    "news_item_snippet": "Michigan State football came out of the bye week with the mentality that it was a new season, where they had a fresh 0-0 record and six games to show who&nbsp;...",
+    "news_item_url": "https://spartanswire.usatoday.com/lists/ranking-michigan-state-footballs-remaining-games-by-difficulty/",
+    "picture_source": "Spartans Wire",
     "approx_traffic": "50,000+"
   },
   {
     "country": "United States",
-    "title": "Saquon Barkley",
+    "title": "Jameis Winston",
     "pubDate": "Sun, 20 Oct 2024 13:00:00 -0700",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcS6aWWexfFgE-vmU8PTxTffo2gSdJE1nctWFMtLfaJY3mp_AH744gMIAj36uUlJr2r-OSv-IPZt",
-    "news_item_snippet": "Philadelphia Eagles running back Saquon Barkley ran for 176 yards on 17 carries against the New York Giants, his former team, outgaining their offense by&nbsp;...",
-    "news_item_url": "https://www.nbcnews.com/sports/nfl/eagles-rb-saquon-barkley-outgains-giants-first-game-former-team-rcna176300",
-    "picture_source": "PhiladelphiaEagles.com",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Panthers vs Commanders",
-    "pubDate": "Sun, 20 Oct 2024 14:00:00 -0700",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQ1cXajvaYc-s_ZxzFImZhWfHAfXANnRl2k_5pieW66mqP0VaHMuVyXrFwDBXJupDKOZh1t1F6P",
-    "news_item_snippet": "Washington, who returned to Northwest Stadium after suffering a Week 6 loss against the Baltimore Ravens to take on the Carolina Panthers and retire Hall of&nbsp;...",
-    "news_item_url": "https://www.commanders.com/news/instant-analysis-commanders-cruise-to-5-2-with-40-7-vs-panthers",
-    "picture_source": "Redskins.com",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Rams",
-    "pubDate": "Sun, 20 Oct 2024 15:00:00 -0700",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQR6JM0dxTlZYlNK4HakL93h-EbLvsyTpVFlqbBxf7wh9lZxYKABPE7XKzguT1bzvp-FjRxx-z2",
-    "news_item_snippet": "For the Raiders, wide receiver Jakobi Meyers (ankle) is inactive after being listed as doubtful on Friday&#39;s injury report. Below are the inactives for both&nbsp;...",
-    "news_item_url": "https://www.therams.com/news/rams-raiders-inactives-week-7-2024-cooper-kupp-tre-davious-white",
-    "picture_source": "Raiders.com",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
-    "title": "MSU Football",
-    "pubDate": "Sun, 20 Oct 2024 06:00:00 -0700",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSo08L4tGyvmBUJIgTMEid9L3qf4BJk8kzrepkvglAMI8a_AVpt4oLintusOoBoAwxFdl0mZqSR",
-    "news_item_snippet": "After a star performance against Iowa, freshman wide receiver Nick Marsh had an insightful message for Michigan State recruits.",
-    "news_item_url": "https://www.si.com/college/michiganstate/msu-recruiting/msu-football-s-nick-marsh-has-message-for-recruits-01jan9k9ea85",
-    "picture_source": "Sports Illustrated",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTRhT9EnFVU1TAQ4O4d2H-GKV7WZBtVYP8MIgPm63cgJfcFA0tD3vP6ob4keQ3Q_OVSn-IBn7_a",
+    "news_item_snippet": "The Browns have elected to make Dorian Thompson-Robinson their backup quarterback and Jameis Winston their No. 3 against the Bengals.",
+    "news_item_url": "https://www.beaconjournal.com/story/sports/pro/browns/2024/10/20/browns-injury-news-jameis-winston-will-be-no-3-qb-against-bengals/75763865007/",
+    "picture_source": "BrownsZone with Scott Petrak -",
     "approx_traffic": "50,000+"
   },
   {
@@ -217,27 +217,7 @@
     "news_item_snippet": "Sri Lanka vs West Indies Live Score: First Innings West Indies Score - 185/4 in 38.3 overs. West Indies batting performance. Sherfane Rutherford 74(82)",
     "news_item_url": "https://www.hindustantimes.com/cricket/sri-lanka-vs-west-indies-live-score-1st-odi-of-west-indies-tour-of-sri-lanka-2024-final-updates-today-20-oct-2024-101729411151369.html",
     "picture_source": "ESPNcricinfo.com",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "India",
-    "title": "Liverpool vs Chelsea",
-    "pubDate": "Sun, 20 Oct 2024 20:30:00 +0530",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcS-Z7TQBiikvfqEBBjPnFaT-4DDRyxTGuFYN95mBHspF4x-p09HmXXCTgRhabEfuIKrg1w6R8KB",
-    "news_item_snippet": "LIV vs CHE Highlights: Catch the highlights of the Liverpool vs Chelsea Premier League 2024-25 match played at the Anfield Stadium in Liverpool, England.",
-    "news_item_url": "https://sportstar.thehindu.com/football/epl/liverpool-vs-chelsea-live-score-updates-premier-league-2024-25-liv-v-che-highlights-streaming-info-news/article68775773.ece",
-    "picture_source": "Aljazeera.com",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "India",
-    "title": "Wolves vs Man City",
-    "pubDate": "Sun, 20 Oct 2024 18:30:00 +0530",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQi1GAsPzDCW1buQAmyX8urn7RUhy435rmXAfMeL-MAcaJR38sOeBkMASkHjPxB7EgjwfHd75lB",
-    "news_item_snippet": "Pep Guardiola&#39;s side look to reclaim top spot in the EPL as they travel to Molineux to take on the Old Gold.",
-    "news_item_url": "https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-wolves-vs-man-city-from-anywhere/",
-    "picture_source": "Yahoo Sports",
-    "approx_traffic": "100,000+"
+    "approx_traffic": "500,000+"
   },
   {
     "country": "India",
@@ -251,32 +231,32 @@
   },
   {
     "country": "India",
-    "title": "MLS",
-    "pubDate": "Sun, 20 Oct 2024 05:30:00 +0530",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcT82CbwUuO0GpiYA5XvL71-HLUYFQNn2rCGUaI4HBQ8YYPUCUdarJsXx25ufEl3HRVNv293O2mb",
-    "news_item_snippet": "Major League Soccer announced Sunday the full schedule for the Audi 2024 MLS Cup Playoffs Round One Best-of-3 series. No. 3 FC Cincinnati will hold home&nbsp;...",
-    "news_item_url": "https://www.fccincinnati.com/news/fc-cincinnati-s-audi-2024-mls-cup-playoffs-round-one-schedule-announced",
-    "picture_source": "FC Cincinnati",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "India",
-    "title": "Real Madrid",
-    "pubDate": "Sun, 20 Oct 2024 00:30:00 +0530",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQEQ18uFEEfLOP_jjUqdy33G-xqsRkw2LbYrF5KAX4Fs-0Vc5qlw74W1tOIhveqK8VKFyjQoeaj",
-    "news_item_snippet": "Misa on goal with the back three of Lakrar, Roc\u00edo, and M\u00e9ndez make up the defense. Olga and Shei are playing as wingbacks, while Tere, Leupolz, and Angeldahl&nbsp;...",
-    "news_item_url": "https://www.managingmadrid.com/2024/10/20/24274956/starting-lineups-madrid-cff-vs-real-madrid-femenino-how-to-watch-liga-f",
-    "picture_source": "Managing Madrid",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "India",
     "title": "Shalini Passi",
     "pubDate": "Sun, 20 Oct 2024 21:30:00 +0530",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRodvAmMtN8kaxaKy1g2z96IHcvM_vyTZpv4I-3IkAk9ltIoaAuQ7xZCIhKLs92IHyrmnuwy3Jt",
     "news_item_snippet": "\u0928\u0947\u091f\u092b\u094d\u0932\u093f\u0915\u094d\u0938 \u092a\u0930 \u0906 \u0930\u0939\u0947 \u0936\u094b &#39;\u092b\u0948\u092c\u0941\u0932\u0938 \u0932\u093e\u0907\u0935\u094d\u0938 \u0935\u0930\u094d\u0938\u0947\u0938 \u092c\u0949\u0932\u0940\u0935\u0941\u0921 \u0935\u093e\u0907\u0935\u094d\u0938&#39; (Fabulous Lives Vs. Bollywood Wives) \u092e\u0947\u0902 \u0936\u093e\u0932\u093f\u0928\u0940 \u092a\u093e\u0938\u0940 (Shalini Passi) \u0915\u093e\u092b\u0940&nbsp;...",
     "news_item_url": "https://hindi.news18.com/news/business/success-story-who-is-delhi-businessman-sanjay-passi-husband-of-fabulous-lives-vs-bollywood-wives-star-shalini-passi-8784532.html",
     "picture_source": "News18 \u0907\u0902\u0921\u093f\u092f\u093e",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "India",
+    "title": "Karwa Chauth katha",
+    "pubDate": "Sat, 19 Oct 2024 21:30:00 +0530",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTldLgddTMxFkLN6XlHjvrW_pPY2jQdC4WzTkILtjOFMgXFJ7mf9o9zpqhW_vZ41FCRS81Ca91Z",
+    "news_item_snippet": "Karwa Chauth 2024: \u0915\u0930\u0935\u093e \u091a\u094c\u0925 \u0938\u0947 \u091c\u0941\u0921\u093c\u0940 \u090f\u0915 \u0928\u0939\u0940\u0902 \u092c\u0932\u094d\u0915\u093f \u091a\u093e\u0930 \u0932\u094b\u0915 \u0915\u0925\u093e\u090f\u0902 \u092a\u094d\u0930\u091a\u0932\u093f\u0924 \u0939\u0948\u0902, \u091c\u093f\u0928\u0938\u0947 \u092a\u0924\u093e \u091a\u0932\u0924\u093e \u0939\u0948 \u0915\u093f \u0907\u0938 \u0935\u094d\u0930\u0924 \u0915\u0940 \u092a\u0930\u0902\u092a\u0930\u093e \u0915\u093f\u0924\u0928\u0940 \u092a\u0941\u0930\u093e\u0928\u0940 \u0939\u0948.",
+    "news_item_url": "https://www.aajtak.in/religion/news/story/karwa-chauth-2024-date-katha-significance-mahabharat-katha-veervati-katha-tlifdu-dskc-2076073-2024-10-20",
+    "picture_source": "\u091c\u093e\u0917\u0930\u0923 \u091c\u094b\u0936",
+    "approx_traffic": "500,000+"
+  },
+  {
+    "country": "Argentina",
+    "title": "San Lorenzo",
+    "pubDate": "Sun, 20 Oct 2024 19:00:00 -0300",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSSSyKAGOl18wyankwe3bFUbjzhXXXOxBNyyQ-p5s3Zuw09kyg9Z_X9nvZHbslUIaXhHA4cAJ7F",
+    "news_item_snippet": "Pese a que el \u00e1rbitro Lobo Medina lo perjudic\u00f3, el Cicl\u00f3n pudo superar al Guapo con el gol de Cuello y calm\u00f3 un poco las aguas.",
+    "news_item_url": "https://www.ole.com.ar/futbol-de-primera/san-lorenzo-barracas-central-liga-profesional_0_UdPf4MqgcP.html",
+    "picture_source": "San Lorenzo",
     "approx_traffic": "50,000+"
   },
   {
@@ -293,9 +273,19 @@
     "country": "Argentina",
     "title": "Rosario Central  Banfield",
     "pubDate": "Sun, 20 Oct 2024 15:00:00 -0300",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSwVLZu5w4VO4A1dlA7uiB7q4vAvGMSpCUVYUPpoU5Py56EDvatzG4fVoGWBrAJ2Ddu8L7KhdGG",
-    "news_item_snippet": "A Marco Ruben le anularon un gol en la \u00faltima por posici\u00f3n adelantada. Fue una igualdad con sabor a poco para ambos.",
-    "news_item_url": "https://www.ole.com.ar/futbol-de-primera/central-banfield-primera-futbol_0_ioG0WavXHS.html",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRmuFReuYhBheXwdV9YctiZvfsd-KStXW3rdLDrempL_izki-mS1N2WKzchPdA8r1BAZh1-D2yO",
+    "news_item_snippet": "El Canalla y el Taladro igualaron 1-1 en el Gigante.Abri\u00f3 la cuenta Garate y lo empat\u00f3 Campaz.Mensaje mafioso en la tribuna luego de una interrupci\u00f3n por&nbsp;...",
+    "news_item_url": "https://www.clarin.com/deportes/rosario-central-vs-banfield-liga-profesional-minuto-minuto-directo_0_prxcQlIH3t.html",
+    "picture_source": "TyC Sports",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Argentina",
+    "title": "Estudiantes  Instituto",
+    "pubDate": "Sun, 20 Oct 2024 16:00:00 -0300",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQS_0ct_-xEWSvFtNDtZmVe3VZMxFPUWZ9A8ikB1wRysAMEX7sNg8WqXfsGfXnw797lHrCTW-bB",
+    "news_item_snippet": "El equipo de Dom\u00ednguez sufri\u00f3 en los minutos finales, pero consigui\u00f3 sumar los tres puntos ante la Gloria.",
+    "news_item_url": "https://www.ole.com.ar/equipos/estudiantes/instituto-visita-estudiantes-busca-arrimarse-velez_0_H29ExGQgtY.html",
     "picture_source": "Clar\u00edn.com",
     "approx_traffic": "50,000+"
   },
@@ -303,10 +293,10 @@
     "country": "Australia",
     "title": "F1",
     "pubDate": "Sun, 20 Oct 2024 08:00:00 +1100",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcR0-PpAB9NRkAa31RNXIjkRzCEYp22DrhRvZsNPFh6bXw-xPlAnk--Cj9E49tIjNhppxoK0FTFR",
-    "news_item_snippet": "&#39;Shame&#39;: Stunning title scrap turns sour as &#39;inappropriate&#39; call leaves Max rival fuming.",
-    "news_item_url": "https://www.foxsports.com.au/motorsport/f1-2024-lando-norris-and-max-verstappen-austin-grand-prix-lap-52-drama-turn-12-norris-exceeding-track-limits-f1-stewards-controversy-andrea-stella-christian-horner-f1-title/news-story/62426dc1881507296c9dea418ee119a9",
-    "picture_source": "The Guardian",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSA1SWGFyj7PvQg8VXJziDTWLqh_g9lE3-LO3hICjX0FwcAnR1U7hFSJbgAQnzCGaN7bqyDOhqT",
+    "news_item_snippet": "Charles Leclerc won the United States F1 GP for Ferrari, while Max Verstappen won a duel for third place with Lando Norris.",
+    "news_item_url": "https://www.theguardian.com/sport/2024/oct/20/head-inc-united-states-f1-gp",
+    "picture_source": "Fox Sports",
     "approx_traffic": "50,000+"
   },
   {
@@ -314,10 +304,30 @@
     "title": "Mega sena",
     "pubDate": "Sun, 20 Oct 2024 08:00:00 -0500",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRalJKc-CjzoODpA70p7DJDHI_lW5KOfc4nV0AJ6m-ZKsqtl-Q1RT--k1EfVQcEy6luY6qr-TUX",
-    "news_item_snippet": "Dezenas sorteadas foram 08-10-23-34-36-50. Noventa apostas acertaram a quina e v\u00e3o levar R$ 48.723,85 cada.",
-    "news_item_url": "https://agenciabrasil.ebc.com.br/geral/noticia/2024-10/mega-sena-nao-tem-ganhador-premio-acumula-e-vai-r-51-milhoes",
+    "news_item_snippet": "O rep\u00f3rter soube do Minist\u00e9rio dos Transportes que o Comit\u00ea de Gerenciamento de Fundo de Dano de Dano Navio da China foi estabelecido no dia 18 e o&nbsp;...",
+    "news_item_url": "https://www.agenciabrasilia.df.gov.br/resultado-mega-sena-24-02-2018/8000023ijv.html",
     "picture_source": "G1",
     "approx_traffic": "200,000+"
+  },
+  {
+    "country": "Brazil",
+    "title": "Sport Recife x Botafogo-SP",
+    "pubDate": "Sun, 20 Oct 2024 17:00:00 -0500",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQgf0fSjLSisPCTJTSfYLGXIZ55L-QiODL-A8c8RcQfQHyjYLDh-NtMZCWyXubWRR1mrdWr4BVR",
+    "news_item_snippet": "Fim do Jogo, Sport Recife 3, Botafogo SP 1. 2\u00ba Tempo.",
+    "news_item_url": "https://www.terra.com.br/esportes/futebol/brasileiro-serie-b/ao-vivo/sport-x-botafogo-sp/86290/",
+    "picture_source": "globoesporte.com",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "Brazil",
+    "title": "Lula",
+    "pubDate": "Sun, 20 Oct 2024 13:00:00 -0500",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRgu29oSTbDKHIK7JV-6Gbf719Mqpnl4FIXhCNGXJb4HQzGbH7R3lupI938xchssiJK3ELJ_P4R",
+    "news_item_snippet": "Presidente sofreu um corte na parte de tr\u00e1s da cabe\u00e7a e levou cinco pontos, e vai participar da C\u00fapula dos Brics por videoconfer\u00eancia.",
+    "news_item_url": "https://oglobo.globo.com/economia/noticia/2024/10/20/lula-cancela-viagem-a-russia-por-orientacao-medica.ghtml",
+    "picture_source": "CNN Brasil",
+    "approx_traffic": "100,000+"
   },
   {
     "country": "Brazil",
@@ -331,22 +341,52 @@
   },
   {
     "country": "Brazil",
-    "title": "Lula",
-    "pubDate": "Sun, 20 Oct 2024 13:00:00 -0500",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRgu29oSTbDKHIK7JV-6Gbf719Mqpnl4FIXhCNGXJb4HQzGbH7R3lupI938xchssiJK3ELJ_P4R",
-    "news_item_snippet": "O caso n\u00e3o \u00e9 grave, mas a recomenda\u00e7\u00e3o m\u00e9dica \u00e9 que o presidente evite viagens de longa dura\u00e7\u00e3o.",
-    "news_item_url": "https://www.brasildefato.com.br/2024/10/20/lula-cancela-viagem-a-russia-apos-acidente-domestico-e-participa-de-cupula-do-brics-por-videoconferencia",
-    "picture_source": "CNN Brasil",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Brazil",
     "title": "Ponte Preta x Guarani",
     "pubDate": "Sun, 20 Oct 2024 16:00:00 -0500",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQIV5lSPlC0G8WCvPLca2FnOpy2oWP3SekZknszQpgHu18BaLa6cAlJgVhi56OOyAwaB_Pcnh36",
     "news_item_snippet": "A partida ser\u00e1 realizada no Est\u00e1dio Mois\u00e9s Lucarelli, em Campinas (SP), \u00e0s 18h30 , e ter\u00e1 transmiss\u00e3o do Premiere, da TV Brasil e canal GOAT.",
     "news_item_url": "https://www.lance.com.br/onde-assistir/ponte-preta-x-guarani-onde-assistir-horario-e-escalacoes-do-jogo-pela-serie-b.html",
     "picture_source": "globoesporte.com",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "Brazil",
+    "title": "Corinthians hoje",
+    "pubDate": "Sun, 20 Oct 2024 11:00:00 -0500",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcT-1vFdFeFWGXUW0A2uyQcpHH8RL4fixh8KXkYpoN0yIZgm-Q0xMjfJYG8ekV2a1AwJTfBE8AzQ",
+    "news_item_snippet": "horario jogo do corinthians hoje A primeira rodada do grego e a festa certa do credor terminou no 5\u00ba.",
+    "news_item_url": "https://www.agenciabrasilia.df.gov.br/horario-jogo-do-corinthians-hoje/8000023bsd.html",
+    "picture_source": "Ag\u00eancia Bras\u00edlia",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Brazil",
+    "title": "Resultado da mega-sena",
+    "pubDate": "Sun, 20 Oct 2024 10:00:00 -0500",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQanMd0Lhw9glNDe9M7a3JR3jMt59mhabgdECeohlWfCvwg-nTGjM6aypm7PSA8qD_5R6Q2PArf",
+    "news_item_snippet": "A Cor\u00e9ia do Norte estabeleceu um comit\u00ea de investiga\u00e7\u00e3o especial para investigar as v\u00edtimas sequestradas pelos japoneses.O governo japon\u00eas sempre alegou que&nbsp;...",
+    "news_item_url": "https://www.agenciabrasilia.df.gov.br/o-resultado-da-mega-sena-os-n%C3%BAmeros/8000023br0.html",
+    "picture_source": "Ag\u00eancia Bras\u00edlia",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Brazil",
+    "title": "Jogo do flamengo hoje",
+    "pubDate": "Sun, 20 Oct 2024 11:00:00 -0500",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcT0w6b6Psloo1iTD1brkv-Y0yqd1obAn8Oag2GQJbeLgaQR7Cb1co1hijM7yiGWyMRkqG0mLajL",
+    "news_item_snippet": "\u00c0s 7 horas do dia 2 de julho, um carro de licen\u00e7a &quot;Ji H&quot; navegou para a pista retr\u00f3grada no condado de Miyun, no Condado de Miyun, colidindo com um \u00f4nibus.",
+    "news_item_url": "https://www.agenciabrasilia.df.gov.br/jogo-do-flamengo-hoje-transmiss%C3%A3o-em-qual-canal/8000023npt.html",
+    "picture_source": "Ag\u00eancia Bras\u00edlia",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Brazil",
+    "title": "Roma x Inter",
+    "pubDate": "Sun, 20 Oct 2024 13:00:00 -0500",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQ8h_hVTvgmVK90-yFEDe8L6vqOb6JyWmam4b5WWQA7sSmq8SypV3V01OkX05ZtcjbG6_4q2L92",
+    "news_item_snippet": "Roma e Inter de Mil\u00e3o v\u00e3o realizar o jogo mais esperado do Campeonato Italiano neste fim de semana. A partida vai ocorrer no Est\u00e1dio Ol\u00edmpico de Roma,&nbsp;...",
+    "news_item_url": "https://veja.abril.com.br/esporte/roma-x-inter-de-milao-horario-onde-assistir-e-provaveis-escalacoes",
+    "picture_source": "ESPN.com.br",
     "approx_traffic": "50,000+"
   },
   {
@@ -370,19 +410,9 @@
     "approx_traffic": "100,000+"
   },
   {
-    "country": "Saudi Arabia",
-    "title": "\u0644\u064a\u0641\u0631\u0628\u0648\u0644 \u0636\u062f \u062a\u0634\u064a\u0644\u0633\u064a",
-    "pubDate": "Sat, 19 Oct 2024 21:00:00 +0300",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTxqF9Ky3ctRA52dqwylVxVnDiWdbcyuWLc2F9WQQwFsiip34ZTwssBILMkdPydplIlVuC26ixS",
-    "news_item_snippet": "\u0633\u062c\u0644 \u0645\u062d\u0645\u062f \u0635\u0644\u0627\u062d \u0647\u062f\u0641\u0627 \u0648\u0635\u0646\u0639 \u0622\u062e\u0631 \u0644\u064a\u0642\u0648\u062f \u0641\u0631\u064a\u0642\u0647 \u0644\u064a\u0641\u0631\u0628\u0648\u0644 \u0644\u0641\u0648\u0632 \u062b\u0645\u064a\u0646 \u0639\u0644\u0649 \u0636\u064a\u0641\u0647 \u062a\u0634\u0644\u0633\u064a \u0628\u0646\u062a\u064a\u062c\u0629 2-1 \u060c\u0639\u0644\u0649 \u0645\u0644\u0639\u0628 &quot;\u0623\u0646\u0641\u064a\u0644\u062f \u0631\u0648\u062f&quot; \u0641\u064a \u0642\u0645\u0629 \u0645\u0646\u0627\u0641\u0633\u0627\u062a \u0627\u0644\u062c\u0648\u0644\u0629 \u0627\u0644\u062b\u0627\u0645\u0646\u0629 \u0628\u0627\u0644\u062f\u0648\u0631\u064a \u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a&nbsp;...",
-    "news_item_url": "https://www.aljazeera.net/sport/liveblog/2024/10/20/liverpool-chelsea-premier-league",
-    "picture_source": "\u0627\u0644\u064a\u0648\u0645 \u0627\u0644\u0633\u0627\u0628\u0639",
-    "approx_traffic": "50,000+"
-  },
-  {
     "country": "France",
     "title": "Montpellier \u2013 Marseille",
-    "pubDate": "Sun, 20 Oct 2024 11:00:00 +0200",
+    "pubDate": "Sun, 20 Oct 2024 21:00:00 +0200",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQAgU1hdSonaptZ8fUhtV2JrLCvWmXy2pmUkIkBc3NCSiCesRqz4Rry9n3cogJdFE8PbJhngBAJ",
     "news_item_snippet": "Dimanche, Montpellier accueille l&#39;OM. Un match qui compte pour la 8e journ\u00e9e de Ligue 1. Retrouvez toutes les informations de diffusion pour suivre ce match&nbsp;...",
     "news_item_url": "https://www.lequipe.fr/Football/Actualites/Montpellier-marseille-sur-quelle-chaine-voir-le-match-de-la-ligue-1/1515000",
@@ -401,13 +431,33 @@
   },
   {
     "country": "France",
-    "title": "Celta Vigo \u2013 Real Madrid",
+    "title": "Barcelone \u2013 S\u00e9ville",
+    "pubDate": "Sat, 19 Oct 2024 17:00:00 +0200",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcR55Mqu-x-zkY6lhmiH3f6wLTJmxzjrIM-t58BlhpSd1I8_BPjFHz-CfiuCQLOHVD207fPyg_qH",
+    "news_item_snippet": "Rendez-vous important pour le FC Barcelone qui re\u00e7oit S\u00e9ville dans le cadre de la 10e journ\u00e9e de Liga. Leader du classement avec le m\u00eame nombre d (.",
+    "news_item_url": "https://www.footmercato.net/a6032970193084795081-fc-barcelone-seville-les-compositions-officielles",
+    "picture_source": "L'\u00c9quipe.fr",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "France",
+    "title": "F1",
     "pubDate": "Sat, 19 Oct 2024 20:00:00 +0200",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSRRf4897nNZITxXAe7yopVolAl-ATsYL1lX0ccUo2X6XQcRULsWzsOzNlWRcR3FsUnljog7Xfp",
-    "news_item_snippet": "Retrouvez toute l&#39;actualit\u00e9 du Championnat d&#39;Espagne de football: derni\u00e8res infos, interviews, vid\u00e9os des plus beaux buts, buteurs, passeurs calendrier et&nbsp;...",
-    "news_item_url": "https://rmcsport.bfmtv.com/football/liga/direct-celta-de-vigo-real-madrid-suivez-en-live-le-match-de-liga-avec-kylian-mbappe_LS-202410190374.html",
-    "picture_source": "Le HuffPost",
-    "approx_traffic": "200,000+"
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTHPVhD9Kt9WOpSNV8KgXujd36CXfYa5j5fR5xgnACVS-Ot8wSTmd_7Pi_kF5eMo6c-Uw1JVtQC",
+    "news_item_snippet": "Sur une autre plan\u00e8te. Charles Leclerc a facilement remport\u00e9 dimanche devant son \u00e9quipier chez Ferrari Carlos Sainz le Grand Prix des Etats-Unis tandis que&nbsp;...",
+    "news_item_url": "https://www.la-croix.com/f1-double-ferrari-aux-etats-unis-devant-verstappen-qui-resiste-a-norris-20241020",
+    "picture_source": "Ouest-France",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "France",
+    "title": "Real Madrid",
+    "pubDate": "Sat, 19 Oct 2024 20:00:00 +0200",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSVrlatkwV8gxc2ZJep6uOZmJKMEpAfJW_4oANxollSZYrZppBPORNL2WOh2in-nuKb5LAw-d1o",
+    "news_item_snippet": "Cit\u00e9 dans une affaire de viol par la presse su\u00e9doise lors de son voyage pol\u00e9mique \u00e0 Stockholm, Kylian Mbapp\u00e9 a ouvert le score en faveur du Real Madrid ce&nbsp;...",
+    "news_item_url": "https://rmcsport.bfmtv.com/football/liga/celta-de-vigo-real-madrid-le-but-magnifique-de-mbappe-apres-sa-semaine-tres-agitee_AV-202410190433.html",
+    "picture_source": "Le Figaro",
+    "approx_traffic": "100,000+"
   },
   {
     "country": "Germany",
@@ -424,8 +474,8 @@
     "title": "Formel-1",
     "pubDate": "Sat, 19 Oct 2024 09:00:00 +0200",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQuqG7sKQI-Grh7lwgPCS1MiN72Jms6B5SjpbxYTv6ycXMTjlc67AeUq589H56NWY4QtSHDFIxW",
-    "news_item_snippet": "Im Kampf um die Formel-1-Weltmeisterschaft wird es dramatisch. Verfolger Lando Norris jagt Max Verstappen in der Schlussphase, sein \u00dcberholman\u00f6ver soll&nbsp;...",
-    "news_item_url": "https://www.spiegel.de/sport/formel1/formel-1-charles-leclerc-siegt-in-austin-max-verstappen-rettet-platz-drei-a-124c0205-b284-457f-bbc8-c50afb7c976c",
+    "news_item_snippet": "Formel 1 heute LIVE: Ferrari mit dominantem Sieg, dahinter gibt es \u00c4rger ums Podium. Verstappen, Norris, McLaren, Track Limits - Stimmen zu frustrierenden&nbsp;...",
+    "news_item_url": "https://www.motorsport-magazin.com/formel1/news-291017-formel-1-heute-live-f1-liveticker-austin-das-rennen-news-usa-gp-aktuell-2024-ergebnis-sieger-reaktionen/",
     "picture_source": "Motorsport-Total.com",
     "approx_traffic": "50,000+"
   },
@@ -463,9 +513,19 @@
     "country": "Italy",
     "title": "Lecce-Fiorentina",
     "pubDate": "Sun, 20 Oct 2024 15:00:00 +0200",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTSUFQgsWa-BJtTu1GOjxSLAvC_j47VYE4PyyETSnUsCCd-mUtj-lknA9ng9L5Fp5Eaa9FCDrUq",
+    "news_item_snippet": "Fiorentina scatenata, sei reti al Lecce. Protagonisti del match Cataldi e Colpani, entrambi autori di una doppietta. In gol anche Beltran e Parisi.",
+    "news_item_url": "https://www.repubblica.it/sport/dirette/calcio/serie-a-2024/diretta-lecce-fiorentina-g2456180/",
+    "picture_source": "Sky Sport",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "Italy",
+    "title": "Cagliari-Torino",
+    "pubDate": "Sun, 20 Oct 2024 16:00:00 +0200",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcT5uExKtms0kUnia_nFFw8hQDzyGwoYRByyZmtx-lsasZy7D4S8UUc3juUo4a3cU2uzPxJ7RXE3",
-    "news_item_snippet": "La Fiorentina affronta il Lecce al Via del Mare in Serie A. Dopo 45&#39; viola avanti 3-0 con la doppietta di Cataldi e la rete di Colpani (Gudmundsson \u00e8 dovuto&nbsp;...",
-    "news_item_url": "https://www.acffiorentina.com/it/news/tutte/prima-squadra-maschile/2024-10-20/live-lecce-fiorentina",
+    "news_item_snippet": "Il Cagliari vince un match tiratissimo contro il Torino: avanti i rossobl\u00f9 con Viola, rimonta Sanabria-Linetty, pari di Palomino e autorete di Coco a dare i&nbsp;...",
+    "news_item_url": "https://www.repubblica.it/sport/dirette/calcio/serie-a-2024/diretta-cagliari-torino-g2456174/",
     "picture_source": "La Repubblica",
     "approx_traffic": "100,000+"
   },
@@ -507,6 +567,16 @@
     "news_item_snippet": "Partido Chiefs - 49ers En Vivo Online: minuto a minuto del juego de KC Chiefs hoy con Patrick Mahomes, desde el Arrowhead Stadium.",
     "news_item_url": "https://www.marca.com/mx/nfl/san-francisco-49ers-kansas-city-chiefs/2024/10/20/08_0801_20241020_9958_9953-directo.html",
     "picture_source": "Diario Deportivo Record",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Mexico",
+    "title": "Inundaciones en Chiapas",
+    "pubDate": "Sun, 20 Oct 2024 14:00:00 -0600",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTVmFZVAdMCr8YC_6wZAbOlGY_WAw8rA49-VaomOyxiP8zYKtn8LcTlP1IJ_EUkZ0qhh8sLWpBA",
+    "news_item_snippet": "Deslizamientos de tierra y crecida de r\u00edos afectan a m\u00e1s de 20 municipios, con viviendas da\u00f1adas y familias evacuadas; se espera que las lluvias contin\u00faen&nbsp;...",
+    "news_item_url": "https://www.eluniversal.com.mx/estados/tres-muertos-y-graves-danos-en-chiapas-por-desbordamientos-e-inundaciones-tras-el-paso-de-nadine/",
+    "picture_source": "Infobae.com",
     "approx_traffic": "50,000+"
   },
   {
@@ -554,8 +624,8 @@
     "title": "Mario Vaquerizo",
     "pubDate": "Sun, 20 Oct 2024 16:00:00 +0200",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQyWaI0e1Qb9n55DfnK6gR4cIX8wrxzaiiuoOhvOJXaOg3i5Pw3K2LCkBz-e7TGH1xWrVMDj_uc",
-    "news_item_snippet": "El cantante y colaborador de televisi\u00f3n se encuentra en observaci\u00f3n en el Hospital Universitario de C\u00e1ceres, despu\u00e9s de sufrir una fuerte ca\u00edda en un&nbsp;...",
-    "news_item_url": "https://www.eldiario.es/vertele/noticias/mario-vaquerizo-ingresado-hospital-caerse-escenario-durante-actuacion-nancys-rubias_1_11748465.html",
+    "news_item_snippet": "Mario Vaquerizo (50) sufri\u00f3 en la noche de este s\u00e1bado una brutal ca\u00edda mientras actuaba en el Festival Horteralia, en C\u00e1ceres. El ...",
+    "news_item_url": "https://www.eleconomista.es/informalia/famosos/noticias/13042423/10/24/nuevos-datos-sobre-elestado-de-salud-de-mario-vaquerizo-tras-su-aparatosa-caida-esta-fuera-de-peligro.html",
     "picture_source": "La Vanguardia",
     "approx_traffic": "50,000+"
   },
@@ -581,22 +651,22 @@
   },
   {
     "country": "United Kingdom",
-    "title": "Clocks go back",
-    "pubDate": "Sun, 20 Oct 2024 05:00:00 +0100",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSbUwN_9qYGjCUQToitAFyk2uwaPGoz7ii53tAMWybIpIu1QP5pnRUUjCiijEFyMZ0WdDjYyPi3",
-    "news_item_snippet": "Winter drawing in, the days are getting shorter, and November is fast approaching, with clocks going back across the UK to give us an extra hour of&nbsp;...",
-    "news_item_url": "https://www.thecomet.net/news/24664052.clocks-go-back-uk-exact-date-change-2024/",
-    "picture_source": "BBC News",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United Kingdom",
     "title": "Premier League",
     "pubDate": "Sat, 19 Oct 2024 10:00:00 +0100",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcR_rA6xF6hk1oUeSi63T8xEpp5PF2yUtp431UAoCN6bpezTZV4HfRxMKE-cCnDz7HMY-vVB1DT3",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTf0ZtyEzhe0RfI-0IOun9fymOhPZays02L_-h69Sdd2ZisM58q0XEFxRTFX38ybZz4q7Aoagsc",
     "news_item_snippet": "All the updates as Liverpool beat Chelsea in a feisty clash at Anfield to leapfrog Man City and go top of the league.",
     "news_item_url": "https://www.aljazeera.com/sports/liveblog/2024/10/20/live-liverpool-vs-chelsea-english-premier-league",
     "picture_source": "Premier League",
     "approx_traffic": "500,000+"
+  },
+  {
+    "country": "United Kingdom",
+    "title": "Chris Hoy",
+    "pubDate": "Sat, 19 Oct 2024 23:00:00 +0100",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSvi8rgS-9HAWIWoth-YxxNRFs85_itXG5y178X_9F9AJ3Sy6sr46oB3k8-M7SYj8YoRvi2UVRk",
+    "news_item_snippet": "The courage with which he faces his diagnosis is typical of a man who engages with life in his own way, with perspective.",
+    "news_item_url": "https://www.theguardian.com/sport/2024/oct/20/chris-hoy-a-remarkable-determined-human-being-unchanged-by-success",
+    "picture_source": "BBC News",
+    "approx_traffic": "200,000+"
   }
 ]
