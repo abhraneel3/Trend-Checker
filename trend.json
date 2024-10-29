@@ -1,21 +1,31 @@
 [
   {
     "country": "United States",
-    "title": "Celtics",
-    "pubDate": "Tue, 29 Oct 2024 04:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTOD5DhQDkN3gjodz9nNe0R_lffQANIA9mO0skKUzGEl2YOT8PzZeYSc9iNUyAzEMHtEj0FHFAV",
-    "news_item_snippet": "BOSTON (AP) \u2014 Jaylen Brown scored 30 points, Payton Pritchard came off the bench and hit eight 3-pointers en route to 28 points, and the Boston Celtics.",
-    "news_item_url": "https://wausaupilotandreview.com/2024/10/29/jaylen-brown-scores-30-points-payton-pritchard-makes-8-3s-as-celtics-beat-bucks-119-108/",
+    "title": "Pittsburgh Steelers",
+    "pubDate": "Tue, 29 Oct 2024 01:00:00 -0700",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTYQVMTSVrfqVqbiiwxd26GN0BtfAfTdHoZ8aWl8-RvbX56kugMYG4DthRxflgGSkW3KcAPfACb",
+    "news_item_snippet": "The Pittsburgh Steelers star has no plans to prematurely end his career.",
+    "news_item_url": "https://www.si.com/nfl/steelers/news/pittsburgh-steelers-tj-watt-closes-early-retirement-talks",
     "picture_source": "Sports Illustrated",
     "approx_traffic": "100,000+"
   },
   {
     "country": "United States",
+    "title": "Dodgers vs Yankees",
+    "pubDate": "Mon, 28 Oct 2024 21:00:00 -0700",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTSFMN-6N_Xf6-tUhvvEtazK5qrgOp6TzETcl472jgXvVhkQ7cvRmWJVwSxOBMQxaAsO0KN_wmV",
+    "news_item_snippet": "The Los Angeles Dodgers look to complete a 2024 World Series sweep of the New York Yankees. Here&#39;s where to watch Game 4 live on TV and online.",
+    "news_item_url": "https://www.nbclosangeles.com/news/sports/mlb/dodgers-yankees-game-4-world-series-when-time-channel-stream/3546378/",
+    "picture_source": "MLB.com",
+    "approx_traffic": "1,000,000+"
+  },
+  {
+    "country": "United States",
     "title": "Dodgers",
     "pubDate": "Mon, 28 Oct 2024 21:00:00 -0700",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQ5XeAWGeJcB2zrqA2Mkn1ALkrhzRDrKgAkLXY-t_f-ZqwOE4ViEbjA2ayJLd2gtS_coiwDAozg",
-    "news_item_snippet": "NEW YORK -- After days of speculation, Shohei Ohtani was in the Dodgers&#39; starting lineup as their leadoff hitter in a 4-2 win over the Yankees in Game 3 of&nbsp;...",
-    "news_item_url": "https://www.mlb.com/news/shohei-ohtani-injury-update-world-series-game-3-lineup",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTSFMN-6N_Xf6-tUhvvEtazK5qrgOp6TzETcl472jgXvVhkQ7cvRmWJVwSxOBMQxaAsO0KN_wmV",
+    "news_item_snippet": "NEW YORK \u2013 They crammed in crowded 4 and D trains, packed the Bronx&#39;s sports bars and streamed through the Yankee Stadium gates, ready to lend their voices&nbsp;...",
+    "news_item_url": "https://www.mlb.com/news/dodgers-win-world-series-game-3-2024",
     "picture_source": "MLB.com",
     "approx_traffic": "1,000,000+"
   },
@@ -33,10 +43,10 @@
     "country": "United States",
     "title": "Ballon d'Or 2024",
     "pubDate": "Mon, 28 Oct 2024 07:00:00 -0700",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRSjnt7E_lVshBoVHWr4H2_BLq-vN3cWzvsFMIU0Cs-JQK3k9BV-zwnHigyb4Z-yCz0SOt6JZoq",
-    "news_item_snippet": "After months of anticipation, the 2024 Ballon d&#39;Or ceremony is finally here to crown soccer&#39;s best players, clubs and managers.",
-    "news_item_url": "https://www.si.com/soccer/ballon-d-or-2024-winners-full-list",
-    "picture_source": "Eurosport.com",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcReZtSgIuURGh_H36viVIsiifnUShCXkAeHT--b4v21t19C11bsNvYy5MlDIz6-zDiGcQqg5dLc",
+    "news_item_snippet": "Joleon Lescott has picked out what separates Rodri from the rest after the Manchester City and Spain midfielder claimed the 2024 Ballon d&#39;Or award in Paris.",
+    "news_item_url": "https://www.eurosport.com/football/ballon-d-or/2024/manchester-city-joleon-lescott-rodri-rivals_sto20049246/story.shtml",
+    "picture_source": "Sports Illustrated",
     "approx_traffic": "500,000+"
   },
   {
@@ -51,11 +61,21 @@
   },
   {
     "country": "United States",
+    "title": "Lakers",
+    "pubDate": "Mon, 28 Oct 2024 20:00:00 -0700",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTX5bAl1cMWhqCtiicAnpZQ4LEEXOwpJTjb2AmhjuPcAK0003HOZgrltgXbD2YgqcX5nnigPGb4",
+    "news_item_snippet": "PHOENIX - Devin Booker scored 33 points, Kevin Durant added 30 and the Phoenix Suns rallied to beat the Los Angeles Lakers 109-105 on Monday night.",
+    "news_item_url": "https://www.fox10phoenix.com/sports/booker-scores-33-durant-adds-30-suns-rally-109-105-win-over-lakers",
+    "picture_source": "Bleacher Report",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "United States",
     "title": "Chromakopia",
     "pubDate": "Mon, 28 Oct 2024 05:00:00 -0700",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQkbO36JzogMo4urg2FiSrB91k-PpCtRfQu2Xd6Fd7YRTmiUrnZv1_attcMTa7Z2bzc07qo0BsO",
-    "news_item_snippet": "Tyler, The Creator is an artist who doesn&#39;t just release albums \u2014 he has eras. On his new album &#39;Chromakopia,&#39; the GRAMMY-winning rapper takes risks,&nbsp;...",
-    "news_item_url": "https://www.grammy.com/news/tyler-the-creator-chromakopia-new-album-review-takeaways",
+    "news_item_snippet": "Tyler, The Creator gave a hometown crowd an early listen of his album &quot;Chromakopia&quot; at the Intuit Dome in Los Angeles, hours before its release.",
+    "news_item_url": "https://www.rollingstone.com/music/music-news/tyler-the-creator-chromakopia-listening-party-intuit-dome-1235144559/",
     "picture_source": "OSU - The Lantern",
     "approx_traffic": "200,000+"
   },
@@ -63,49 +83,19 @@
     "country": "United States",
     "title": "Gisele B\u00fcndchen",
     "pubDate": "Mon, 28 Oct 2024 15:00:00 -0700",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTlJB3re7Je5OOcRKAdNRhJ2e_sqFP9J4-VA_-yPHX4D9BKMqx6Gqf76ZQGU5-IUuHYlcCHHFDQ",
-    "news_item_snippet": "Watch: Gisele B\u00fcndchen Is Pregnant With Baby No. 3: Expecting First Child With Boyfriend Joaquim Valente! Tom&nbsp;...",
-    "news_item_url": "https://www.eonline.com/news/1409227/what-tom-brady-was-up-to-amid-gisele-buendchen-pregnancy-news",
-    "picture_source": "NBC 10 Philadelphia",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQ0CrVi7S1H_C2BgU8Sd2RDClkF7qn4Rlz2om1q0FTi5RCm6aGnlQ5CajLKWLWhItKFP1DIBAQR",
+    "news_item_snippet": "Gisele B\u00fcndchen \u2014 who shares son Benjamin and daughter Vivian with ex Tom Brady \u2014 is expecting her first baby with her boyfriend Joaquin Valente.",
+    "news_item_url": "https://www.nbcphiladelphia.com/entertainment/entertainment-news/gisele-bundchen-is-pregnant-expecting-baby-with-joaquim-valente/4011709/",
+    "picture_source": "Los Angeles Times",
     "approx_traffic": "200,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Lakers",
-    "pubDate": "Mon, 28 Oct 2024 20:00:00 -0700",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcR8ZRj0B0VQQnBNqrmLnaHxSfhEI1AwUWeJdsdNFrBoSwA8BN5n1kM-GACyRJd3Hr70ahhlERSZ",
-    "news_item_snippet": "PHOENIX - Devin Booker scored 33 points, Kevin Durant added 30 and the Phoenix Suns rallied to beat the Los Angeles Lakers 109-105 on Monday night.",
-    "news_item_url": "https://www.fox10phoenix.com/sports/booker-scores-33-durant-adds-30-suns-rally-109-105-win-over-lakers",
-    "picture_source": "Yahoo Sports",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "United States",
-    "title": "La Dodgers",
-    "pubDate": "Mon, 28 Oct 2024 19:00:00 -0700",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTVimUUDnlJpbtXrSVBg_Q_IPdYRC2plgMYjjeUpzUHup1yWlFTExvBDbK27A2eM1kWUByURelC",
-    "news_item_snippet": "Freddie Freeman hit a home run for the third straight game and the Los Angeles Dodgers beat the New York Yankees 4-2 on Monday, taking a 3-0 lead in the&nbsp;...",
-    "news_item_url": "https://www.nbcnews.com/sports/mlb/live-blog/world-series-dodgers-yankees-live-updates-rcna177571",
-    "picture_source": "The Guardian",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Wordle hint",
-    "pubDate": "Mon, 28 Oct 2024 10:00:00 -0700",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSWNjPiuctw3dUCcJqAh1U4vZYFBDE89WFrVhCQYfVfPxsHqduZWwHoQO8oTjg7DG5vmRLr1ADq",
-    "news_item_snippet": "Tuesday&#39;s Wordle isn&#39;t the easiest, with a combination of letters that some players may find difficult to turn into the winning word.",
-    "news_item_url": "https://www.newsweek.com/wordle-1975835",
-    "picture_source": "Forbes",
-    "approx_traffic": "100,000+"
   },
   {
     "country": "United States",
     "title": "Freddie Freeman",
     "pubDate": "Mon, 28 Oct 2024 20:00:00 -0700",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRaF7rKgAY6o6LY9o2UVxxizanzjCkUEwj87lACQqzIVvWYdOcaJk5u-bH6d4Mjj2hU1HTn9giE",
-    "news_item_snippet": "The Dodgers&#39; Freddie Freeman, who homered in Atlanta&#39;s last two games against Houston in the 2021 World Series, has connected in all three games of this one&nbsp;...",
-    "news_item_url": "https://www.espn.com/mlb/story/_/id/42061893/freddie-freeman-latest-hr-dodgers-ties-george-springer-world-series-record",
+    "news_item_snippet": "An overjoyed Zachary holds the ball the Dodgers&#39; Freddie Freeman hit for a walk-off grand slam in Game 1 of the World Series. (Courtesy of Nico Ruderman).",
+    "news_item_url": "https://www.latimes.com/sports/story/2024-10-28/freddie-freeman-grand-slam-ball-dodgers-fan-zachary-world-series",
     "picture_source": "MLB.com",
     "approx_traffic": "100,000+"
   },
@@ -121,11 +111,21 @@
   },
   {
     "country": "United States",
+    "title": "Knicks",
+    "pubDate": "Mon, 28 Oct 2024 20:00:00 -0700",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcR5BLr5GjGqu7ySji4XO4564LmTPZb8w-r1ResVbTLn-v0lM6E8ezsKcoWbuRutO2hq-j3--Rmm",
+    "news_item_snippet": "NEW YORK (AP) \u2014 Darius Garland scored a season-high 34 points, 15 in the fourth quarter, and the Cleveland Cavaliers improved to 4-0 by beating the New York&nbsp;...",
+    "news_item_url": "https://spectrumnews1.com/oh/columbus/news/2024/10/29/cavaliers-beat-knicks-110-104",
+    "picture_source": "NorthJersey.com",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
     "title": "Paolo Banchero",
     "pubDate": "Mon, 28 Oct 2024 02:00:00 -0700",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSVa6grX05WgJ5hr9gMs4zw4yn-gktwKtYa8HiYGT4OHP4q-G-2Oqp6oLoQCRfMYx5DWjXhM_ty",
-    "news_item_snippet": "Orlando Magic rising star Paolo Banchero had the best game of his young career on Monday, recording the NBA&#39;s first 50-point game this season in a win over&nbsp;...",
-    "news_item_url": "https://www.cnn.com/2024/10/29/sport/paolo-banchero-50-point-game-nba-roundup-spt/index.html",
+    "news_item_snippet": "Banchero&#39;s magical Monday headlines a night full of buckets, two teams improve to 4-0, top two picks meet and more.",
+    "news_item_url": "https://www.nba.com/news/starting-5-oct-29-historic-night-for-paolo-banchero-big-names-drop-big-buckets",
     "picture_source": "ESPN",
     "approx_traffic": "50,000+"
   },
@@ -133,10 +133,10 @@
     "country": "United States",
     "title": "Tim Walz",
     "pubDate": "Mon, 28 Oct 2024 21:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSyCog0365AH3EbO11fDB-fdc46PnXonqwx0NGvrXnmYJouMUszMVI0PbwJDK8qnVoopQ5UxEsX",
-    "news_item_snippet": "The Democratic vice presidential candidate is making his way to Manitowoc Monday for an event at 10:30 a.m..",
-    "news_item_url": "https://fox11online.com/news/local/minnesota-governor-tim-walz-visits-manitowoc-to-boost-early-voting-efforts-wisconsin-vice-president-kamala-harris-democrats-donald-trump-jd-vance-green-bay-austin-straubel-airport-milwaukee-waukesha",
-    "picture_source": "FOX 6 Milwaukee",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQ79FNkxiExN1Cr_e8UyH955vAW-LIThzWNJWj-oD_Oq4wCXLDIBsT730ov-bMd7vGnpZ0a0vG4",
+    "news_item_snippet": "SAVANNAH, Ga. (WTOC) -&nbsp;...",
+    "news_item_url": "https://www.wtoc.com/2024/10/29/among-historic-early-voting-number-governor-tim-walz-makes-campaign-stop-hostess-city/",
+    "picture_source": "Newsweek",
     "approx_traffic": "50,000+"
   },
   {
@@ -154,8 +154,8 @@
     "title": "Dhanteras 2024",
     "pubDate": "Mon, 28 Oct 2024 14:30:00 +0530",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRbCnjZik17TsE8sCDcu0VYOYy4FoSOSILrBWMYoQkh82xY9aUt4KwpNYCIAaYCY8tsgWysipfZ",
-    "news_item_snippet": "\u0927\u0928\u0924\u0947\u0930\u0938 \u092a\u0930 \u0932\u0915\u094d\u0937\u094d\u092e\u0940 \u091c\u0940 \u0915\u0940 \u092a\u0942\u091c\u093e \u092d\u0940 \u0915\u0940 \u091c\u093e\u0924\u0940 \u0939\u0948 \u091c\u094b \u0927\u0928 \u0914\u0930 \u0938\u092e\u0943\u0926\u094d\u0927\u093f \u0915\u0940 \u0926\u0947\u0935\u0940 \u0939\u0948\u0902\u0964 \u0927\u0928\u0924\u0947\u0930\u0938 \u0915\u0940 \u092a\u0942\u091c\u093e \u0915\u0930\u0928\u0947 \u0938\u0947 \u0938\u094d\u0935\u093e\u0938\u094d\u0925\u094d\u092f \u0914\u0930 \u0927\u0928 \u0915\u0940 \u092a\u094d\u0930\u093e\u092a\u094d\u0924\u093f \u0939\u094b\u0924\u0940 \u0939\u0948\u0964",
-    "news_item_url": "https://www.jagran.com/bihar/patna-city-dhanteras-2024-shubh-muhurat-dhanteras-shopping-time-puja-vidhi-maithili-panchang-23823283.html",
+    "news_item_snippet": "\u0938\u0928\u093e\u0924\u0928 \u0927\u0930\u094d\u092e \u092e\u0947\u0902 \u0927\u0928\u0924\u0947\u0930\u0938 \u0915\u0947 \u092a\u0930\u094d\u0935 \u0915\u093e \u0916\u093e\u0938 \u092e\u0939\u0924\u094d\u0935 \u0939\u0948\u0964 \u092a\u0902\u091a\u093e\u0902\u0917 \u0915\u0947 \u0905\u0928\u0941\u0938\u093e\u0930 \u092f\u0939 \u092a\u0930\u094d\u0935 \u0939\u0930 \u0938\u093e\u0932 \u0915\u093e\u0930\u094d\u0924\u093f\u0915 \u092e\u093e\u0939 \u0915\u0947 \u0915\u0943\u0937\u094d\u0923 \u092a\u0915\u094d\u0937 \u0915\u0940 \u0924\u094d\u0930\u092f\u094b\u0926\u0936\u0940 \u0924\u093f\u0925\u093f&nbsp;...",
+    "news_item_url": "https://www.jagran.com/spiritual/religion-happy-dhanteras-2024-wishes-messages-quotes-images-whatsapp-status-dhanteras-ki-hardik-shubhkamnaye-in-hindi-23823052.html",
     "picture_source": "Business Today",
     "approx_traffic": "1,000,000+"
   },
@@ -214,8 +214,8 @@
     "title": "JEE Mains 2025",
     "pubDate": "Mon, 28 Oct 2024 20:30:00 +0530",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTd_InnkBNNxXrMlpUzm7N-7nCJqtlaIQ0T0Kbae-gzRzoP-0iOXUY8aQsURF3luyFjhUmtIwQr",
-    "news_item_snippet": "NTA JEE Mains 2025 Registration: \u0905\u0902\u0921\u0930\u0917\u094d\u0930\u0947\u091c\u0941\u090f\u091f \u0907\u0902\u091c\u0940\u0928\u093f\u092f\u0930\u093f\u0902\u0917 \u0915\u094b\u0930\u094d\u0938 \u092e\u0947\u0902 \u090f\u0921\u092e\u093f\u0936\u0928 \u0915\u0947 \u0932\u093f\u090f \u091c\u0947\u0908\u0908 \u092e\u0947\u0928\u094d\u0938 \u091c\u0928\u0935\u0930\u0940 2025 \u0915\u0947 \u0932\u093f\u090f \u0911\u0928\u0932\u093e\u0907\u0928 \u0906\u0935\u0947\u0926\u0928&nbsp;...",
-    "news_item_url": "https://www.aajtak.in/education/admission/story/nta-jee-mains-2025-registration-session-1-begins-at-jeemain-nta-nic-in-till-november-22-check-exam-date-dskc-2084259-2024-10-29",
+    "news_item_snippet": "\u0928\u0947\u0936\u0928\u0932 \u091f\u0947\u0938\u094d\u091f\u093f\u0902\u0917 \u090f\u091c\u0947\u0902\u0938\u0940 (NTA) \u0928\u0947 \u0907\u0902\u091c\u0940\u0928\u093f\u092f\u0930\u093f\u0902\u0917 \u090f\u0902\u091f\u094d\u0930\u0947\u0902\u0938 \u090f\u0917\u094d\u091c\u093e\u092e \u092f\u093e\u0928\u0940 IIT-JEE Mains 2025 \u092a\u0939\u0932\u0947 \u0938\u0947\u0936\u0928 \u0915\u0947 \u0911\u0928\u0932\u093e\u0907\u0928 \u0906\u0935\u0947\u0926\u0928 \u0936\u0941\u0930\u0942 \u0915\u0930 \u0926\u093f\u090f \u0939\u0948\u0902,&nbsp;...",
+    "news_item_url": "https://www.aajtak.in/visualstories/education/jee-mains-2025-registration-keep-these-ten-things-in-mind-before-online-apply-edv-183012-29-10-2024",
     "picture_source": "News18 \u0907\u0902\u0921\u093f\u092f\u093e",
     "approx_traffic": "50,000+"
   },
@@ -241,13 +241,13 @@
   },
   {
     "country": "Brazil",
-    "title": "Serie a",
-    "pubDate": "Tue, 29 Oct 2024 06:00:00 -0500",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcR5bw59DE5tCmIWKpGvFJhYwHPMU-RMA0dwNrW68QxI7dLsFg54pv46J65e0EybDzjMIyOQlGvo",
-    "news_item_snippet": "Os gols foram marcados por Richard, Vagner, Vilela, Deiv\u00e3o e Salah. No jogo de volta, o Atl\u00e2ntico poder\u00e1 jogar por um empate para se classificar. Leia Mais&nbsp;...",
-    "news_item_url": "https://gauchazh.clicrbs.com.br/passo-fundo/esportes/futsal/noticia/2024/10/atlantico-goleia-a-sercesa-e-larga-em-vantagem-nas-quartas-da-serie-ouro-cm2uh30st002401ex3w6yn8gr.html",
+    "title": "Cuiab\u00e1 x Corinthians",
+    "pubDate": "Mon, 28 Oct 2024 06:00:00 -0500",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTgTQZXNGHB5yFhA1KNJ3p9-pTBdDmcUi3J9jaAzN5yUfpDzS6lkLgGyw32llWorNYd3DIE1dG0",
+    "news_item_snippet": "Cuiab\u00e1 e Corinthians entram em campo nesta segunda-feira, 28, em partida v\u00e1lida pela 31\u00aa rodada do Campeonato Brasileiro S\u00e9rie A, em um &#39;jogo de 6 pontos&#39;.",
+    "news_item_url": "https://veja.abril.com.br/esporte/cuiaba-x-corinthians-horario-onde-assistir-e-provaveis-escalacoes",
     "picture_source": "globoesporte.com",
-    "approx_traffic": "100,000+"
+    "approx_traffic": "2,000,000+"
   },
   {
     "country": "Brazil",
@@ -282,12 +282,12 @@
   {
     "country": "Brazil",
     "title": "Gisele bundchen",
-    "pubDate": "Mon, 28 Oct 2024 03:00:00 -0500",
+    "pubDate": "Mon, 28 Oct 2024 17:00:00 -0500",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTZlgXpMkPwBSH0gni4FwF10ZXcxO1Rn0-s640CXhdOEgDJ43v6bIbScWj_EFO3t2lTCpDDOaWU",
     "news_item_snippet": "Uma fonte pr\u00f3xima \u00e0 modelo contou \u00e0 People que o casal est\u00e1 extremamente feliz e que j\u00e1 sabe da gesta\u00e7\u00e3o h\u00e1 alguns meses.",
     "news_item_url": "https://gshow.globo.com/tudo-mais/tv-e-famosos/noticia/gisele-bundchen-pretende-dar-a-luz-em-casa-e-nao-quer-descobrir-o-sexo-do-bebe-diz-site.ghtml",
     "picture_source": "G1",
-    "approx_traffic": "100,000+"
+    "approx_traffic": "200,000+"
   },
   {
     "country": "Brazil",
@@ -334,8 +334,8 @@
     "title": "MLB",
     "pubDate": "Tue, 29 Oct 2024 02:00:00 -0400",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcS3VLu0e4qZLjq51vdrfeC9CSeNY-HuMk5SqGdEPJXRRe91g74Udoorxkd54B7D3c5PUl1ZqOrT",
-    "news_item_snippet": "Texas Rangers 30, Baltimore Orioles 3 (Aug. 22, 2007) &middot; Boston Red Sox 29, St. Louis Browns 4 (Jun. 8, 1950) &middot; Los Angeles Angels 25, Colorado Rockies 1 (Jun. 24,&nbsp;...",
-    "news_item_url": "https://theanalyst.com/2024/10/the-biggest-blowouts-in-mlb-history",
+    "news_item_snippet": "White Sox are taking a hard look at Rangers bench coach Will Venable. No word it&#39;s done or close yet, or even that he&#39;s certain to accept if offered. He&#39;s&nbsp;...",
+    "news_item_url": "https://passionmlb.com/mlb-en-bref-skip-schumaker-nira-pas-a-chicago-kevin-pillar-a-sportsnet/",
     "picture_source": "MLB.com",
     "approx_traffic": "50,000+"
   },
@@ -343,30 +343,50 @@
     "country": "Canada",
     "title": "Saskatchewan election",
     "pubDate": "Mon, 28 Oct 2024 16:00:00 -0400",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQpsFmx6oaXyJcSIq9yxwKclLwjr8JiUXSicydhQyxE_HjAh7q_yZbaGi4uPpxGUZMmVnAki01E",
-    "news_item_snippet": "Only 2 races too close to call on Sask. election night, despite close finish &middot; CTV News declares Sask. Party majority &middot; A look back on the 2024 Sask election&nbsp;...",
-    "news_item_url": "https://regina.ctvnews.ca/only-2-races-too-close-to-call-on-sask-election-night-despite-close-finish-1.7090644",
-    "picture_source": "Globalnews.ca",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcT7ZgYbxcNsDJrolPpY7zIAA2HjE43zY3iBl3TVJ1oe6ebvuFmJqn9cufxfnE5ZuSGIutmxEsQp",
+    "news_item_snippet": "For the last 17 years, the Saskatchewan Party has held a majority government, but the Saskatchewan NDP gained momentum this campaign.",
+    "news_item_url": "https://globalnews.ca/news/10831409/saskatchewan-election-2024/",
+    "picture_source": "CTV News",
     "approx_traffic": "100,000+"
+  },
+  {
+    "country": "Canada",
+    "title": "Oilers",
+    "pubDate": "Mon, 28 Oct 2024 01:00:00 -0400",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRdtZhiptdyntIRmthrJDGb90ZJQahVT1MIifgsWztoNCfJ-u5zYE7GOeHsHVxBn6oJPp3S_1mM",
+    "news_item_snippet": "The Columbus Blue Jackets quickly got up by three goals in the first. The rest of the game was uneventful, CBJ eventually winning 6-1. As for McDavid, at the&nbsp;...",
+    "news_item_url": "https://edmontonjournal.com/sports/hockey/nhl/cult-of-hockey/connor-mcdavid-injured-player-grades-edmonton-oilers-columbus-blue-jackets",
+    "picture_source": "NHL.com",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Canada",
+    "title": "Dodgers",
+    "pubDate": "Mon, 28 Oct 2024 23:00:00 -0400",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTnr19UauBhFC2LzffUxxPCayanpzOkFhvWAyfM-nFpQwuky3zvLQP0TuZcCrDH3niyZVSYvIRq",
+    "news_item_snippet": "The Los Angeles Dodgers look to complete a 2024 World Series sweep of the New York Yankees. Here&#39;s where to watch Game 4 live on TV and online.",
+    "news_item_url": "https://www.nbclosangeles.com/news/sports/mlb/dodgers-yankees-game-4-world-series-when-time-channel-stream/3546378/",
+    "picture_source": "La Presse",
+    "approx_traffic": "50,000+"
   },
   {
     "country": "Saudi Arabia",
     "title": "\u0631\u0648\u062f\u0631\u064a",
     "pubDate": "Mon, 28 Oct 2024 18:00:00 +0300",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTBAAD76nI5nNkB-9zcxa3nxPy7zwaNtF4-7kcY01BmRKKHrDoHvY1M3_Q5bxxw_uVh6rA-SRwn",
-    "news_item_snippet": "\u062a\u0648\u0651\u062c \u0631\u0648\u062f\u0631\u064a \u0644\u0627\u0639\u0628 \u062e\u0637 \u0648\u0633\u0637 \u0625\u0633\u0628\u0627\u0646\u064a\u0627 \u0648\u0645\u0627\u0646\u0634\u0633\u062a\u0631 \u0633\u064a\u062a\u064a \u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a \u0645\u0633\u0627\u0621 \u0627\u0644\u0625\u062b\u0646\u064a\u0646 \u0644\u0644\u0645\u0631\u0629 \u0627\u0644\u0623\u0648\u0644\u0649 \u0628\u062c\u0627\u0626\u0632\u0629 \u0627\u0644\u0643\u0631\u0629 \u0627\u0644\u0630\u0647\u0628\u064a\u0629 \u0644\u0623\u0641\u0636\u0644 \u0644\u0627\u0639\u0628 \u0641\u064a \u0627\u0644\u0639\u0627\u0644\u0645\u060c \u0648\u0630\u0644\u0643 \u062e\u0644\u0627\u0644 \u0627\u0644\u0646\u0633\u062e\u0629 68 \u0645\u0646 \u062d\u0641\u0644 \u062c\u0648\u0627\u0626\u0632&nbsp;...",
-    "news_item_url": "https://www.skynewsarabia.com/sport/1751074-%D8%B1%D9%88%D8%AF%D8%B1%D9%8A-%D9%81%D9%88%D8%B2%D9%8A-%D8%A8%D8%AC%D8%A7%D9%8A%D9%94%D8%B2%D8%A9-%D8%A7%D9%94%D9%81%D8%B6%D9%84-%D9%84%D8%A7%D8%B9%D8%A8-%D8%A8%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%86%D8%AA%D8%B5%D8%A7%D8%B1-%D9%84%D9%84%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D8%A7%D9%95%D8%B3%D8%A8%D8%A7%D9%86%D9%8A%D8%A9",
-    "picture_source": "\u0627\u0644\u062d\u0631\u0629",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSDDB-AfihHa1P-wDimgvTLy2zxGM1pWJRKPMmcH0QQhMfD8kTEfSaOIuj2Qp0hMtD3gHVwzxMy",
+    "news_item_snippet": "\u062d\u0635\u062f \u0644\u0627\u0639\u0628 \u0648\u0633\u0637 \u0645\u0627\u0646\u0634\u0633\u062a\u0631 \u0633\u064a\u062a\u064a \u0648\u0627\u0644\u0645\u0646\u062a\u062e\u0628 \u0627\u0644\u0625\u0633\u0628\u0627\u0646\u064a\u060c \u0631\u0648\u062f\u0631\u064a\u063a\u0648 \u0647\u064a\u0631\u0646\u0627\u0646\u062f\u064a\u0632\u060c \u062c\u0627\u0626\u0632\u0629 \u0627\u0644\u0643\u0631\u0629 \u0627\u0644\u0630\u0647\u0628\u064a\u0629 \u0644\u0623\u0641\u0636\u0644 \u0644\u0627\u0639\u0628 \u0641\u064a \u0627\u0644\u0639\u0627\u0644\u0645\u060c \u0645\u062a\u0641\u0648\u0642\u0627 \u0639\u0644\u0649 \u0645\u0647\u0627\u062c\u0645 \u0631\u064a\u0627\u0644 \u0645\u062f\u0631\u064a\u062f \u0648\u0627\u0644\u0645\u0646\u062a\u062e\u0628 \u0627\u0644\u0628\u0631\u0627\u0632\u064a\u0644\u064a&nbsp;...",
+    "news_item_url": "https://www.alhurra.com/sport/2024/10/29/%D8%B1%D9%88%D8%AF%D8%B1%D9%8A-%D9%8A%D8%AD%D8%B5%D8%AF-%D8%A7%D9%84%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D8%B0%D9%87%D8%A8%D9%8A%D8%A9-%D8%BA%D8%B6%D8%A8-%D9%85%D8%AF%D8%B1%D9%8A%D8%AF%D9%8A",
+    "picture_source": "\u0627\u0644\u062c\u0632\u064a\u0631\u0629 \u0646\u062a",
     "approx_traffic": "100,000+"
   },
   {
     "country": "Saudi Arabia",
-    "title": "\u0627\u0644\u0627\u062a\u062d\u0627\u062f",
-    "pubDate": "Mon, 28 Oct 2024 10:00:00 +0300",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSd3ARF-6-fKUYUNdae9diTyxDnLLBDwOF-t5EthIYkvRgJFbv9NrtkVjclAVCAnNZEMhUmN2qX",
-    "news_item_snippet": "\u0623\u0628\u062f\u0649 \u0627\u0644\u0641\u0631\u0646\u0633\u064a \u0644\u0648\u0631\u0627\u0646 \u0628\u0644\u0627\u0646\u060c \u0627\u0644\u0645\u062f\u064a\u0631 \u0627\u0644\u0641\u0646\u064a \u0644\u0641\u0631\u064a\u0642 \u0627\u0644\u0627\u062a\u062d\u0627\u062f\u060c \u0631\u0636\u0627\u0647 \u0639\u0646 \u0623\u062f\u0627\u0621 \u0627\u0644\u0641\u0631\u064a\u0642 \u0648\u0627\u0644\u0646\u062a\u064a\u062c\u0629 \u0627\u0644\u062a\u064a \u062d\u0642\u0642\u0647\u0627 \u0628\u0627\u0644\u0641\u0648\u0632 \u0639\u0644\u0649 \u0627\u0644\u062c\u0646\u062f\u0644 2-0 \u0636\u0645\u0646 \u0645\u0646\u0627\u0641\u0633\u0627\u062a \u062f\u0648\u0631 \u0627\u0644\u064016 \u0628\u0628\u0637\u0648\u0644\u0629 \u0643\u0623\u0633 \u0627\u0644\u0645\u0644\u0643.",
-    "news_item_url": "https://aawsat.com/%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9-%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9/5075834-%D9%85%D8%AF%D8%B1%D8%A8-%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF-%D9%84%D9%85%D8%A7%D8%B0%D8%A7-%D8%AA%D9%83%D8%B1%D8%B1%D9%88%D9%86-%D8%A7%D9%84%D8%B3%D8%A4%D8%A7%D9%84-%D8%B9%D9%86-%D8%A7%D9%84%D8%BA%D8%A7%D9%85%D8%AF%D9%8A%D8%9F",
-    "picture_source": "Goal.com",
+    "title": "\u0627\u0644\u0637\u0627\u0626\u064a \u0636\u062f \u0627\u0644\u0647\u0644\u0627\u0644",
+    "pubDate": "Mon, 28 Oct 2024 01:00:00 +0300",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTFjSt9xeHk-dbn_tvBDER0J6fu9UYO4I9o0c-H3FG4-xvVy1TMAU8cE-qGwUOceVFJyEYIJx_D",
+    "news_item_snippet": "\u064a\u0648\u0627\u062c\u0647 \u0641\u0631\u064a\u0642 \u0627\u0644\u0647\u0644\u0627\u0644 \u0645\u0646\u0627\u0641\u0633\u0647 \u0627\u0644\u0637\u0627\u0626\u064a\u060c \u0645\u0633\u0627\u0621 \u0627\u0644\u064a\u0648\u0645 \u0627\u0644\u062b\u0644\u0627\u062b\u0627\u0621\u060c \u0639\u0644\u0649 \u0645\u0644\u0639\u0628 \u0627\u0633\u062a\u0627\u062f \u0627\u0644\u0623\u0645\u064a\u0631 \u0639\u0628\u062f\u0627\u0644\u0639\u0632\u064a\u0632 \u0628\u0646 \u0645\u0633\u0627\u0639\u062f \u0628\u0646 \u062c\u0644\u0648\u064a \u0636\u0645\u0646 \u0645\u0646\u0627\u0641\u0633\u0627\u062a \u062f\u0648\u0631 \u0627\u0644\u064016.",
+    "news_item_url": "https://www.eremnews.com/sports/6ocgeil",
+    "picture_source": "\u0645\u0635\u0631 \u0645\u0643\u0633",
     "approx_traffic": "50,000+"
   },
   {
@@ -374,8 +394,8 @@
     "title": "Tour de France 2025",
     "pubDate": "Tue, 29 Oct 2024 02:00:00 +0100",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQtWnDySIhuA-CiikNciIBu5P8qobNflZqiUIw9pkdRItkLt0Vzt_sphkH2OCY8pn236g3oJMja",
-    "news_item_snippet": "Le parcours complet de la 112\u00e8me \u00e9dition de la plus c\u00e9l\u00e8bre course cycliste au monde a \u00e9t\u00e9 d\u00e9voil\u00e9 ce matin \u00e0 Paris par Christian Prudhomme, directeur d...",
-    "news_item_url": "https://www.amiens.fr/Actualites/La-4eme-etape-du-Tour-de-France-2025-s-elancera-depuis-l-agglomeration-amienoise-le-8-juillet",
+    "news_item_snippet": "Samedi 5 juillet 2025 : Grand d\u00e9part de Lille. &middot; Dimanche 6 juillet : Lauwin-Planque - Boulogne-sur-Mer (212 km) &middot; Lundi 7 juillet : Valenciennes - Dunkerque (172&nbsp;...",
+    "news_item_url": "https://www.hautsdefrance.fr/tour-de-france-2025/",
     "picture_source": "rouen.fr",
     "approx_traffic": "50,000+"
   },
@@ -383,10 +403,10 @@
     "country": "France",
     "title": "Ballon d'Or 2024",
     "pubDate": "Mon, 28 Oct 2024 00:00:00 +0100",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRHoUKIpTvT31JesQN0B4wCwVuSuTaC-vz19RG6KeYQELwFBaahUI0iPqHARxz_BhQbHGW0RUC6",
-    "news_item_snippet": "Alors que le Br\u00e9silien Vinicius Junior \u00e9tait annonc\u00e9 comme favori, c&#39;est finalement l&#39;Espagnol Rodri qui a remport\u00e9 le Ballon d&#39;Or 2024, lundi 28 octobre.",
-    "news_item_url": "https://www.la-croix.com/ballon-d-or-2024-rodri-roi-surprise-vinicius-et-le-real-madrid-dauphins-vexes-20241028",
-    "picture_source": "L'\u00c9quipe.fr",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSvf0fxTED3M4Ng-Sz2kiklke-Fz90IrdseC7h-ya3CiYrWQGbvJi7aa4QfDCCrXbkMnFlogs6g",
+    "news_item_snippet": "Vainqueur de l&#39;Euro 2024 avec sa s\u00e9lection et de la Premier League avec son club, Rodri a remport\u00e9 le Ballon d&#39;or ce lundi soir. Une cons\u00e9cration pour le&nbsp;...",
+    "news_item_url": "https://www.leparisien.fr/sports/football/ballon-dor-2024-le-milieu-espagnol-rodri-sacre-a-la-surprise-generale-28-10-2024-MXWUCMEAQBCPNBUD55ULN73V4Q.php",
+    "picture_source": "Midi Libre",
     "approx_traffic": "1,000,000+"
   },
   {
@@ -414,10 +434,10 @@
     "title": "VW",
     "pubDate": "Mon, 28 Oct 2024 13:00:00 +0100",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSwTDGKRgxXclw9A3bOTi9V8CaQqq3YZMFULWy0sugxDkW6WKl_oibCpUSdPVO1JbnScNmCZ1fb",
-    "news_item_snippet": "Drei VW-Werke in Deutschland stehen vor dem Aus \u2013 ob Baunatal betroffen ist, ist ungewiss. K\u00fcndigungen und Einkommenseinbu\u00dfen stehen bevor.",
-    "news_item_url": "https://www.hessenschau.de/wirtschaft/moegliche-schliessung-von-werken-vw-mitarbeiter-in-baunatal-zwischen-angst-und-hoffnung-v1,vw-baunatal-betriebsversammlung-beschaeftigte-100.html",
+    "news_item_snippet": "VW ist ein Sanierungsfall. Der Kampf um Werke und Jobs bei Europas gr\u00f6\u00dftem Autohersteller ist ein H\u00e4rtetest f\u00fcr den Standort Deutschland und f\u00fcr das&nbsp;...",
+    "news_item_url": "https://www.manager-magazin.de/unternehmen/autoindustrie/volkswagen-die-vw-krise-im-ueberblick-a-abfb9aab-ad47-416f-9e4f-31d74bd9d43e",
     "picture_source": "NDR.de",
-    "approx_traffic": "100,000+"
+    "approx_traffic": "50,000+"
   },
   {
     "country": "Germany",
@@ -461,23 +481,43 @@
   },
   {
     "country": "Italy",
-    "title": "Probabili formazioni",
-    "pubDate": "Mon, 28 Oct 2024 13:00:00 +0100",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRTqC4t1n5rd16B2KBXXr7uq2cLUg1FaIYtub765e38P73tqfOgvKLWmZfwBs44jJNIvCTgLCGJ",
-    "news_item_snippet": "Mercoled\u00ec 30 ottobre l&#39;Empoli ospita l&#39;Inter alle 18:30 nella 10^ giornata di Sere A. Calhanoglu e Acerbi ancora out per infortunio: De Vrij verso la&nbsp;...",
-    "news_item_url": "https://sport.sky.it/calcio/serie-a/2024/10/29/empoli-inter-probabili-formazioni",
-    "picture_source": "Sky Sport",
+    "title": "Roma",
+    "pubDate": "Mon, 28 Oct 2024 02:00:00 +0100",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSmXqjj86ilNYEqUbhX7UxPgdsDB2NH7Ugj5yX_rytjich_SaBqOzSWR23c3lbNoEtN6IkGjkT1",
+    "news_item_snippet": "Dopo De Rossi e la scelta di Juric sulla panchina giallorossa, i Friedkin devono rapidamente scegliere il futuro allenatore capitolino e soprattutto&nbsp;...",
+    "news_item_url": "https://www.rainews.it/articoli/2024/10/as-roma-anno-zero-juric-de-rossi-allenatore-sconfitta-fiorentina-f90ef4ea-51f1-4444-bdd2-380132c7eb14.html",
+    "picture_source": "Rai News",
     "approx_traffic": "50,000+"
   },
   {
     "country": "Mexico",
-    "title": "MLB",
+    "title": "Yankees  Dodgers",
     "pubDate": "Mon, 28 Oct 2024 19:00:00 -0600",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcT3r2ICq8y9OmItlHfkP9HWqiDXyVNBuhONivL46xRyR740pudsdrwCsO2wOGIxaFK2QfbcO192",
-    "news_item_snippet": "NUEVA YORK \u2013 Cuando Freddie Freeman le dio jonr\u00f3n a Clarke Schmidt el lunes en la primera entrada del Juego 3 de la Serie Mundial, en el que los Dodgers&nbsp;...",
-    "news_item_url": "https://www.mlb.com/es/news/freeman-hizo-historia-con-su-cuadrangular-frente-a-schmidt",
-    "picture_source": "MARCA.com",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSyo4Gccxvx8yC-uWGMt3J_ILcHCzampghBqgHSo7Zt9qdJAWYBQg67V6qbzndeM6Wc5zp5VlL4",
+    "news_item_snippet": "Los Angeles Dodgers se impusieron 4-2 a los New York Yankees en el tercer juego de la Serie Mundial 2024, los Bombarderos del Bronx despertaron hasta la&nbsp;...",
+    "news_item_url": "https://www.tudn.com/mlb/serie-mundial-2024-dodgers-vs-yankees-juego-tres-los-angeles-derrotan-new-york",
+    "picture_source": "Telemundo 52",
     "approx_traffic": "200,000+"
+  },
+  {
+    "country": "Mexico",
+    "title": "Quien gano el balon de Oro 2024",
+    "pubDate": "Mon, 28 Oct 2024 10:00:00 -0600",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSZTvJSANGP3344qnAEGM41iNDQPNlEwLYejSmodIc8VHYpHnKKWtwxZkbRMVwouTOA-Ei3Gyb8",
+    "news_item_snippet": "La ceremonia de entrega del premio Bal\u00f3n de Oro 2024 se llev\u00f3 a cabo este lunes 28 de octubre. Como ya es tradici\u00f3n, la revista France Football reconoci\u00f3 a&nbsp;...",
+    "news_item_url": "https://www.marca.com/mx/futbol/balon-oro/2024/10/28/671fef03268e3ed61c8b4577.html",
+    "picture_source": "ESPN Deportes",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "Mexico",
+    "title": "MLB",
+    "pubDate": "Mon, 28 Oct 2024 22:00:00 -0600",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQrMDYgvUu71dpMhz9Nn-e3Y0DbGczXumYTS0Hwbz3USe2jTyaQ66wna93c00lthMtJHw24lN-J",
+    "news_item_snippet": "Sigue los resultados de MLB GRATIS con marcadores en vivo, los lanzadores probables de hoy, informaci\u00f3n de la zona de strike y datos de Statcast para&nbsp;...",
+    "news_item_url": "https://www.mlb.com/es/gameday/dodgers-vs-yankees/2024/10/28/775298/final/box",
+    "picture_source": "Al Bat",
+    "approx_traffic": "100,000+"
   },
   {
     "country": "Mexico",
@@ -533,10 +573,10 @@
     "country": "United Kingdom",
     "title": "Anna Maxwell Martin",
     "pubDate": "Mon, 28 Oct 2024 18:00:00 +0000",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQDMPQ6Xh_oT5W3QMSMhBxTUyOknsl2_JQ9pB9Rp1wi3meYTO6X0Qh87K82StlYFtD3ZalZIlBo",
-    "news_item_snippet": "Anna Maxwell Martin has opened up about the aftermath of her ex-husband Roger Michell&#39;s death, revealing it caused her &#39;financial terror&#39;.",
-    "news_item_url": "https://metro.co.uk/2024/10/29/anna-maxwell-martin-says-husband-roger-michells-difficult-death-caused-financial-terror-21882989/",
-    "picture_source": "Daily Mail",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRxOmemZzJ-h_216MFWbNlcZmPZWrV2E9vXbeJ3sudF4Mzx7kc60dl3orRvKBXwkmHjL9EgSRQ2",
+    "news_item_snippet": "Anna Maxwell Martin has opened up about her experience of grief following the death of her husband Roger Michell.",
+    "news_item_url": "https://www.digitalspy.com/tv/a62746797/anna-maxwell-martin-grief-husband-death/",
+    "picture_source": "Metro",
     "approx_traffic": "50,000+"
   }
 ]
