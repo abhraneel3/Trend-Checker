@@ -1,12 +1,22 @@
 [
   {
     "country": "United States",
+    "title": "Biden",
+    "pubDate": "Wed, 30 Oct 2024 04:00:00 -0700",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQyyh-8t1apJUdDEAJs_Dm3Lxv_KJyVMfnHZi21fLD9fKesRo1BNgIes8vHt4iSf6gFA1OEEpHL",
+    "news_item_snippet": "President <b>Biden</b> tried to clarify his remarks about his predecessor&#39;s supporters, as Republicans latched onto his comments, saying he was calling half the country &quot;garbage.&quot; The dispute gave additional momentum to the controversy unleashed by a \u201cjoke\u201d&nbsp;...",
+    "news_item_url": "https://www.npr.org/2024/10/30/nx-s1-5172187/biden-garbage",
+    "picture_source": "ABC News",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
     "title": "Teri Garr",
     "pubDate": "Tue, 29 Oct 2024 11:00:00 -0700",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRygDbm67uMzwnFYpn0luUjEy2d5XxMjvamWvpnH7NINpzeIHjTMAwSupHBvcNWwfgm7t1nwE5X",
-    "news_item_snippet": "Garr&#39;s breakout role was as sexy Inga in Young Frankenstein. She earned an Oscar nomination for her role in the 1982 film Tootsie, and played Phoebe&#39;s mom&nbsp;...",
-    "news_item_url": "https://www.npr.org/2024/10/29/850826324/teri-garr-dead",
-    "picture_source": "BBC News",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTJRhf9NzZ9e9FAVGIIUXqz-2rUHJI1zxeIQkbmcmVgC9UmCtMndA4v6bfulr2gJ4esvrffEaCu",
+    "news_item_snippet": "Kudrow says the Oscar-nominated actress, who played her on-screen mum, was &quot;a comedic acting genius&quot;.",
+    "news_item_url": "https://www.bbc.com/news/articles/cje09595v5ko",
+    "picture_source": "NPR",
     "approx_traffic": "1,000,000+"
   },
   {
@@ -21,12 +31,12 @@
   },
   {
     "country": "United States",
-    "title": "Warriors",
-    "pubDate": "Tue, 29 Oct 2024 20:00:00 -0700",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTmccXRRSjk_Xd_P4a35da-tyFCjq4xHZflHRzd8TrX9KTGSGGAAXOU56F0XTVo0mFk335uILU8",
-    "news_item_snippet": "Buddy Hield and Lindy Waters III combined for 49 points and 10 3-pointers in the Warriors&#39; 124-106 comeback victory over the New Orleans Pelicans at Chase&nbsp;...",
-    "news_item_url": "https://www.nba.com/warriors/news/gameday-recap-20241029",
-    "picture_source": "ESPN",
+    "title": "Mavericks vs Timberwolves",
+    "pubDate": "Tue, 29 Oct 2024 06:00:00 -0700",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSNOO5JyzzgNtZcOUsH9CrdZRT1k95FqIT4KBpkSlUXRPglf5bQWw_PLJNfuOaNAl2Eb54APqPu",
+    "news_item_snippet": "Here&#39;s everything you need to know about Timberwolves vs. Mavericks on Tuesday, including how to get tickets, the start time, and how to watch or listen to&nbsp;...",
+    "news_item_url": "https://www.nba.com/timberwolves/news/timberwolves-mavericks-preview-tickets-tv-channel-radio-injury-report-time",
+    "picture_source": "Mavs Moneyball",
     "approx_traffic": "200,000+"
   },
   {
@@ -41,12 +51,22 @@
   },
   {
     "country": "United States",
-    "title": "Dallas Mavericks",
-    "pubDate": "Tue, 29 Oct 2024 06:00:00 -0700",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSBKZMUhg8LKjuvV1-4YJKHmjcm8cunUM9cSzOzkWBxFPpgvCKbu37LUeoNEBT_d91NcFn8HJp9",
-    "news_item_snippet": "The Dallas Mavericks get a Western Conference Finals rematch on the second night of their back-to-back.",
-    "news_item_url": "https://www.si.com/nba/mavericks/news/3-prop-bets-for-dallas-mavericks-vs-minnesota-timberwolves",
-    "picture_source": "Minneapolis Star Tribune",
+    "title": "Warriors",
+    "pubDate": "Tue, 29 Oct 2024 22:00:00 -0700",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTmccXRRSjk_Xd_P4a35da-tyFCjq4xHZflHRzd8TrX9KTGSGGAAXOU56F0XTVo0mFk335uILU8",
+    "news_item_snippet": "Kuminga ended up playing a season-high 28 minutes in Golden State&#39;s win over the Pelicans.",
+    "news_item_url": "https://www.si.com/nba/warriors-jonathan-kuminga-steve-kerr-benched-text-message",
+    "picture_source": "ESPN",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Ted Cruz",
+    "pubDate": "Tue, 29 Oct 2024 12:00:00 -0700",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQfy2rwEgl5Fd28oTlb5r1IqZuN9XyAY7II5WNKiw7iwmO8N3llSHk4ZYZe5c2WXQqjtZFwJYpt",
+    "news_item_snippet": "The Texas senator thinks it will take a decade for America to &quot;overcome the failures&quot; of Biden&#39;s economic policies.",
+    "news_item_url": "https://www.newsweek.com/america-needs-ten-years-trump-ted-cruz-1976469",
+    "picture_source": "Chron",
     "approx_traffic": "100,000+"
   },
   {
@@ -63,10 +83,10 @@
     "country": "United States",
     "title": "Celtics",
     "pubDate": "Tue, 29 Oct 2024 04:00:00 -0700",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRRHKaeJ7lKkUAfSxsY2DAtJFcLn9xMioaVotBtW35WAohZN5pTgDZn4LMFvnTV4VZsYYDzwCT6",
-    "news_item_snippet": "Mazzulla&#39;s plans might not be the best for his players but he understands what the people want.",
-    "news_item_url": "https://www.cbssports.com/nba/news/celtics-joe-mazzulla-wants-to-bring-fighting-back-to-nba-whats-more-entertaining-than-a-little-scuffle/",
-    "picture_source": "Fox News",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSNpkgXTbD0x3sDVQcxcBSE0yB9jH6G8DHSHq5TwTN7CgJMTFZyqcsaZCEnoTrLhtDCgpzH5l8-",
+    "news_item_snippet": "Steve Pagliuca, who owns about 20% of the reigning NBA champs, has pressed minority shareholders who own roughly another 30% to fall in with him in bidding&nbsp;...",
+    "news_item_url": "https://nypost.com/2024/10/29/business/boston-celtics-minority-owner-angling-to-buy-nba-champs-at-a-discount-sources/",
+    "picture_source": "NESN.com",
     "approx_traffic": "100,000+"
   },
   {
@@ -77,7 +97,7 @@
     "news_item_snippet": "The 1-year-old daughter of 49ers cornerback Charvarius Ward has died after battling heart problems.",
     "news_item_url": "https://www.espn.com/nfl/story/_/id/42076510/49ers-charvarius-ward-announces-death-1-year-old-daughter",
     "picture_source": "CNN",
-    "approx_traffic": "50,000+"
+    "approx_traffic": "100,000+"
   },
   {
     "country": "United States",
@@ -101,22 +121,22 @@
   },
   {
     "country": "United States",
-    "title": "Steve Bannon",
-    "pubDate": "Tue, 29 Oct 2024 09:00:00 -0700",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQk3rkqU2Kd3ph8rpDeUcyiFCZUKCUSu7O2-0sWBmb64QRUP_RSepAixD2ONiEniNa4poPro0kE",
-    "news_item_snippet": "Within hours of being freed from a low-security prison where he&#39;d been serving time on contempt charges, the MAGA architect was rallying his troops on a&nbsp;...",
-    "news_item_url": "https://www.wired.com/story/steve-bannon-is-out-of-prison-and-spreading-lies-online/",
-    "picture_source": "NPR",
+    "title": "AMD stock",
+    "pubDate": "Tue, 29 Oct 2024 14:00:00 -0700",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRNvsBO1dzcHv7vD3ue0yro-hOOdqc_jLow5oGgI5mz_MQKRlJ4xiAy9nIWikFmjwYAUoN5Utxj",
+    "news_item_snippet": "The company&#39;s forecast implies revenue of $7.5 billion in the current quarter, slightly short of Wall Street&#39;s estimate.",
+    "news_item_url": "https://www.barrons.com/articles/amd-earnings-stock-price-8122d159",
+    "picture_source": "CNBC",
     "approx_traffic": "50,000+"
   },
   {
     "country": "United States",
-    "title": "AMD stock",
-    "pubDate": "Tue, 29 Oct 2024 14:00:00 -0700",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRr5zLnda91sQj1QeQqdgH1NE9aRevtC55oomtN6VbfIFzEewtDd1momCfGClq_aDb5U3lb2L12",
-    "news_item_snippet": "AMD shares are up about 20% so far in 2024, although rivals such as Nvidia and Broadcom have had much greater gains during the same period,&nbsp;...",
-    "news_item_url": "https://www.cnbc.com/2024/10/29/amd-earnings-report-q3-2024.html",
-    "picture_source": "Barron's",
+    "title": "Steve Bannon",
+    "pubDate": "Tue, 29 Oct 2024 09:00:00 -0700",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSIj_oTl0THAP_bTcZiVKf5v62p3IUXhW0KrGEQabMvMBpR3iqVCK9llynJOOSQM1lAuFzvCCt9",
+    "news_item_snippet": "Former Trump adviser Steve Bannon was back to hosting his daily podcast &quot;War Room&quot; just hours after his release from federal prison.",
+    "news_item_url": "https://www.npr.org/2024/10/29/g-s1-30684/steve-bannon-release-prison",
+    "picture_source": "BBC News",
     "approx_traffic": "50,000+"
   },
   {
@@ -130,14 +150,24 @@
     "approx_traffic": "50,000+"
   },
   {
+    "country": "United States",
+    "title": "Google stock",
+    "pubDate": "Tue, 29 Oct 2024 14:00:00 -0700",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcR9-kuLKUNX9WWXNEo3U4KgDnbVijIQoVFMdTwFLZlaKQ6AjGpjRCishYQo1pNYAUeZFypoylf2",
+    "news_item_snippet": "Shares of Alphabet rallied almost 7% by midmorning, adding more than$130 billion in market capitalization as the stock got a boost from bumper third-quarter&nbsp;...",
+    "news_item_url": "https://www.forbes.com/sites/dereksaul/2024/10/29/google-earnings-search-engine-giant-reports-record-profit-and-sales-on-66-billion-ad-revenue/",
+    "picture_source": "Forbes",
+    "approx_traffic": "50,000+"
+  },
+  {
     "country": "India",
     "title": "Narak Chaturdashi",
     "pubDate": "Wed, 30 Oct 2024 07:30:00 +0530",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSE4cwaucEle--UfvDWcNgXyt15GKS7EfHEH52WEDK3tsdwoD_xNFJKBdPWG-QOO7NedTyGlQ6g",
-    "news_item_snippet": "Narak Chaturdashi 2024: \u0907\u0938 \u0938\u093e\u0932 \u0928\u0930\u0915 \u091a\u0924\u0941\u0930\u094d\u0926\u0936\u0940 \u0915\u0940 \u0936\u0941\u0930\u0941\u0906\u0924 30 \u0905\u0915\u094d\u091f\u0942\u092c\u0930 \u0915\u094b \u0926\u094b\u092a\u0939\u0930 01.15 \u092c\u091c\u0947 \u0939\u094b \u0930\u0939\u0940 \u0939\u0948. \u0907\u0938\u0915\u093e \u0938\u092e\u093e\u092a\u0928 \u0905\u0917\u0932\u0947 \u0926\u093f\u0928 31 \u0905\u0915\u094d\u091f\u0942\u092c\u0930&nbsp;...",
-    "news_item_url": "https://www.aajtak.in/religion/news/story/narak-chaturdashi-2024-date-chhoti-diwali-upay-for-money-and-prosperity-tlifdu-dskc-2084283-2024-10-30",
-    "picture_source": "\u0926\u0948\u0928\u093f\u0915 \u091c\u093e\u0917\u0930\u0923",
-    "approx_traffic": "100,000+"
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQeZ4OA-ZBlHoQpryiIDXCOFhBKs6A9YIwMn2SA2umWBIK3dXYOsVRX4Ga-VtOllClyrrujgwYU",
+    "news_item_snippet": "\u091b\u094b\u091f\u0940 \u0926\u0940\u0935\u093e\u0932\u0940 \u0915\u0947 \u0926\u093f\u0928 \u0928\u0930\u0915 \u091a\u0924\u0941\u0930\u094d\u0926\u0936\u0940 (Narak Chaturdashi 2024) \u0915\u093e \u092a\u0930\u094d\u0935 \u092e\u0928\u093e\u092f\u093e \u091c\u093e\u0924\u093e \u0939\u0948\u0964 \u0927\u093e\u0930\u094d\u092e\u093f\u0915 \u092e\u093e\u0928\u094d\u092f\u0924\u093e \u0939\u0948 \u0915\u093f \u0907\u0938 \u0926\u093f\u0928 \u0936\u0941\u092d \u092e\u0941\u0939\u0942\u0930\u094d\u0924 (Today Shubh&nbsp;...",
+    "news_item_url": "https://www.jagran.com/spiritual/religion-kab-hai-narak-chaturdashi-2024-shubh-muhurat-what-to-do-and-what-not-to-do-on-narak-chaturdashi-23823892.html",
+    "picture_source": "\u0906\u091c \u0924\u0915",
+    "approx_traffic": "200,000+"
   },
   {
     "country": "India",
@@ -151,33 +181,73 @@
   },
   {
     "country": "India",
-    "title": "New Zealand Women vs India Women",
-    "pubDate": "Tue, 29 Oct 2024 20:30:00 +0530",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQAT6PbQNdDxW7mvv20qYgKdCrPNgeqfWrBmzOf57p26mV-Le13iGYkdAsSLDzsVDy4bjrf-ccw",
-    "news_item_snippet": "IND-W vs NZ-W, 3rd ODI Highlights: Smriti Mandhana hundred helps India clinch the ODI series 2-1 against New Zealand.",
-    "news_item_url": "https://www.indiatoday.in/sports/cricket/story/india-women-vs-new-zealand-women-3rd-odi-harmanpreet-kaur-sophie-devine-ahmedabad-2624947-2024-10-29",
-    "picture_source": "Hindustan Times",
-    "approx_traffic": "1,000,000+"
+    "title": "Nawab Malik",
+    "pubDate": "Wed, 30 Oct 2024 14:30:00 +0530",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRsyQFtwtZdLPXOJlZKBsH3jmvOrCM_WEEjSroU1pney7tig_Ww6bSO-tg83hS3d0MySIdSeP0E",
+    "news_item_snippet": "Nawab Malik | \u0c2e\u0c39\u0c3e\u0c30\u0c3e\u0c37\u0c4d\u0c1f\u0c4d\u0c30\u0c32\u0c4b\u0c28\u0c3f \u0c2e\u0c3e\u0c28\u0c4d\u200c\u0c16\u0c41\u0c30\u0c4d\u0c26\u0c4d\u200c \u0c36\u0c3f\u0c35\u0c3e\u0c1c\u0c40 \u0c28\u0c17\u0c30\u0c4d\u200c \u0c05\u0c38\u0c46\u0c02\u0c2c\u0c4d\u0c32\u0c40 \u0c28\u0c3f\u0c2f\u0c4b\u0c1c\u0c15\u0c35\u0c30\u0c4d\u0c17\u0c02 \u0c28\u0c41\u0c02\u0c1a\u0c3f \u0c0e\u0c28\u0c4d\u0c38\u0c40\u0c2a\u0c40 (\u0c05\u0c1c\u0c3f\u0c24\u0c4d\u200c\u0c2a\u0c35\u0c3e\u0c30\u0c4d\u200c \u0c35\u0c30\u0c4d\u0c17\u0c02) \u0c05\u0c2d\u0c4d\u0c2f\u0c30\u0c4d\u0c25\u0c3f\u0c17\u0c3e \u0c2c\u0c30\u0c3f\u0c32\u0c4b \u0c26\u0c3f\u0c17\u0c41\u0c24\u0c41\u0c28\u0c4d\u0c28&nbsp;...",
+    "news_item_url": "https://www.ntnews.com/national/bjp-or-shiv-senas-shinde-faction-is-opposing-me-it-is-not-a-matter-of-concern-for-us-nawab-malik-1777923",
+    "picture_source": "Namasthe Telangana",
+    "approx_traffic": "50,000+"
   },
   {
     "country": "India",
-    "title": "South Africa vs Bangladesh",
-    "pubDate": "Tue, 29 Oct 2024 09:30:00 +0530",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSKfiBbuZlnMSPcon1cWF_1zvcBEUEBhJK8R6ILmjyCezRar5mReVHpqhVzVL0mOeeNEtfKHK-1",
-    "news_item_snippet": "BAN vs SA 2024/25 Bangladesh vs South Africa Match Preview: While South Africa will continue to be without regular captain Temba Bavuma, Bangladesh will&nbsp;...",
-    "news_item_url": "https://www.espncricinfo.com/series/south-africa-in-bangladesh-2024-25-1453291/bangladesh-vs-south-africa-2nd-test-1453294/match-preview",
-    "picture_source": "Livemint",
-    "approx_traffic": "500,000+"
+    "title": "New Zealand Women vs India Women",
+    "pubDate": "Tue, 29 Oct 2024 20:30:00 +0530",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQAT6PbQNdDxW7mvv20qYgKdCrPNgeqfWrBmzOf57p26mV-Le13iGYkdAsSLDzsVDy4bjrf-ccw",
+    "news_item_snippet": "IND Women vs NZ Women 2024/25, IND Women vs NZ Women Match Report: India put on a chasing masterclass in Ahmedabad after their bowlers - led by Deepti&nbsp;...",
+    "news_item_url": "https://www.espncricinfo.com/series/new-zealand-women-in-india-2024-25-1454389/india-women-vs-new-zealand-women-3rd-odi-1454393/match-report",
+    "picture_source": "Hindustan Times",
+    "approx_traffic": "1,000,000+"
   },
   {
     "country": "India",
     "title": "Elcid Investment",
     "pubDate": "Tue, 29 Oct 2024 15:30:00 +0530",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSvgnJOU2uJsI3G395xEqZBqofr_R9WsdiDDpOsg_9i8o3xrRZWoHvhA_MqxGoB7cDC5VQFGSmU",
-    "news_item_snippet": "In FY24, the company gave a dividend of Rs 25 in FY24, which translates into an industry best dividend yield of over 708%. Dividend yield is calculated by&nbsp;...",
-    "news_item_url": "https://m.economictimes.com/markets/stocks/news/elcid-investments-the-microcap-stock-which-paid-dividend-7-times-its-share-price/articleshow/114763604.cms",
+    "news_item_snippet": "Elcid Investments has made headlines after its stock price skyrocketed, turning a Rs 10,000 investment into a staggering Rs 67 crore in just a few months.",
+    "news_item_url": "https://m.economictimes.com/markets/stocks/news/rs-10000-turns-into-rs-67-crore-how-elcid-made-investors-millionaires-overnight/articleshow/114769506.cms",
     "picture_source": "Hindustan Times",
     "approx_traffic": "200,000+"
+  },
+  {
+    "country": "India",
+    "title": "Dhanteras 2024",
+    "pubDate": "Mon, 28 Oct 2024 14:30:00 +0530",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQByc4l37Vggr2znrYuo0uLhbfIffCG_TSxbMDqxo2voGBqcZwpCnJ1NRoSXzsXmXsuD2RGGcp_",
+    "news_item_snippet": "Dhanteras 2024: Dhanteras is traditionally seen as highly auspicious for purchasing gold, silver, and valuables to welcome wealth and fortune into homes.",
+    "news_item_url": "https://www.business-standard.com/india-news/dhanteras-2024-history-traditions-and-what-to-buy-for-good-fortune-124102901027_1.html",
+    "picture_source": "\u0926\u0948\u0928\u093f\u0915 \u091c\u093e\u0917\u0930\u0923",
+    "approx_traffic": "1,000,000+"
+  },
+  {
+    "country": "India",
+    "title": "Happy Diwali",
+    "pubDate": "Mon, 28 Oct 2024 21:30:00 +0530",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcT0DO177_aEOuoiqHXIKcERrISmp5bbTBOOeH9q_7mqalP9yS3eXGvAXGVgHhYD5miFBbUEjkJc",
+    "news_item_snippet": "Happy Diwali (Deepavali) 2024 Wishes Images, Quotes, Status, Messages, Photos in Hindi (\u0926\u0940\u092a\u093e\u0935\u0932\u0940 \u0915\u0940 \u0939\u093e\u0930\u094d\u0926\u093f\u0915 \u0936\u0941\u092d\u0915\u093e\u092e\u0928\u093e\u092f\u0947) LIVE: \u0939\u0948\u092a\u094d\u092a\u0940 \u0926\u093f\u0935\u093e\u0932\u0940\u2026",
+    "news_item_url": "https://www.jansatta.com/lifestyle/happy-diwali-2024-wishes-images-quotes-status-messages-photos-gif-pics-in-hindi-shubhkamnaye-sandesh-live/3654385/",
+    "picture_source": "Hindustan \u0939\u093f\u0902\u0926\u0940",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "India",
+    "title": "Rodri",
+    "pubDate": "Mon, 28 Oct 2024 20:30:00 +0530",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQj0HodN6FiqN51isBg93TXV4Le_tkBDXW72naQtmVUNNrK4lQb5nzY3T6V2iGgr-GjwVPpCHNO",
+    "news_item_snippet": "Rodri scored 9 goals and provided 14 assists in 50 appearances across all competitions for City last season, which gave him the edge over Real Madrid&nbsp;...",
+    "news_item_url": "https://sportstar.thehindu.com/football/rodri-career-timeline-stats-spain-manchester-city-ballon-dor-2024/article68803262.ece",
+    "picture_source": "Aljazeera.com",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "India",
+    "title": "Waaree Energies share price",
+    "pubDate": "Mon, 28 Oct 2024 10:30:00 +0530",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQ7wW2wqN6CB0OrP_0M_KuY2bi9i_ZLpUIAJLSZ0iKcDnplg9VOdGmxHVmmyXcjQtMnL6XhNQC0",
+    "news_item_snippet": "Waaree Energies&#39; shares surged on debut, listing at a premium on BSE and NSE following a highly successful IPO. Attracting bids worth Rs 2.41 lakh crore,&nbsp;...",
+    "news_item_url": "https://m.economictimes.com/markets/stocks/news/waaree-energies-shares-to-list-on-exchanges-today-heres-what-gmp-indicates/articleshow/114671555.cms",
+    "picture_source": "Livemint",
+    "approx_traffic": "100,000+"
   },
   {
     "country": "Argentina",
@@ -193,49 +263,39 @@
     "country": "Argentina",
     "title": "Hotel Dubrovnik Villa Gesell",
     "pubDate": "Tue, 29 Oct 2024 08:00:00 -0300",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRSmxPzzvLv0f0ig4d-UTYtk6HgqYEbE5lI1EGsIPksanYGU4GqxFc_d8u_E9CsTcrmp23ZdggQ",
-    "news_item_snippet": "El derrumbe fue durante la madrugada, en un edificio ubicado en la avenida 1 y la avenida Buenos Aires. Los bomberos que trabajan en el lugar lograron r...",
-    "news_item_url": "https://www.pagina12.com.ar/778425-derrumbe-en-un-edificio-de-villa-gesell-buscan-personas-desa",
-    "picture_source": "Clar\u00edn.com",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSHYyqBUEa1j30cTR7giuhzFBLEUYmAH5-unW7v9pdQIq-ARFWwpMacqMF5ZdvhLF7fYWMsvn5D",
+    "news_item_snippet": "Tragedia en Villa Gesell: Mariano Troiano, Mar\u00eda Rosa Stefanic, Nahuel Stefanic, Mat\u00edas Chaspman y Dana Desimone, buscados entre los escombros del hotel&nbsp;...",
+    "news_item_url": "https://www.clarin.com/sociedad/derrumbe-hotel-dubrovnik-villa-gesell-desaparecidos_0_iSo2oDOgbx.html",
+    "picture_source": "P\u00e1gina 12",
     "approx_traffic": "100,000+"
-  },
-  {
-    "country": "Australia",
-    "title": "Rodri",
-    "pubDate": "Tue, 29 Oct 2024 00:00:00 +1100",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRtrzqdVzBBItf5v-TYprFscUV6RZOUPX2sVs42mmAPuop5j4qQgSCbWmPag7OAedYYmPJGc3Pd",
-    "news_item_snippet": "Manchester City&#39;s coach, Pep Guardiola, expressed that he&#39;s \u201cvery proud\u201d of Spanish midfielder Rodrigo Hern\u00e1ndez for winning the 2024 Ballon d&#39;Or but didn&#39;t&nbsp;...",
-    "news_item_url": "https://www.beinsports.com/en-us/soccer/premier-league/articles-video/pep-guardiola-praises-rodri-and-sidesteps-real-madrid-drama-2024-10-29",
-    "picture_source": "ESPN Australia",
-    "approx_traffic": "50,000+"
   },
   {
     "country": "Brazil",
     "title": "River Plate x Atl\u00e9tico-MG",
     "pubDate": "Tue, 29 Oct 2024 10:00:00 -0500",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRXnDmsIoWKFyIXtuP5yhVv-WHfIVr-Jqj1Bu__M-19HBbEkuUvXUb6M0Ui8o7lfr93gFEt6zOO",
-    "news_item_snippet": "River Plate e Atl\u00e9tico-MG entram em campo nesta ter\u00e7a-feira, dia 29, \u00e0s 21h30 (hor\u00e1rio de Bras\u00edlia), pelo jogo de volta da semifinal da Libertadores.",
+    "news_item_snippet": "ESPN e Disney+ (streaming) transmitem ao vivo o confronto no Monumental de N\u00fa\u00f1ez, em Buenos Aires (ARG). No jogo de ida, em Belo Horizonte, o Galo venceu por 3&nbsp;...",
     "news_item_url": "https://oglobo.globo.com/esportes/noticia/2024/10/29/river-plate-x-atletico-mg-horario-e-onde-assistir-ao-vivo-ao-jogo-de-volta-da-semifinal-da-libertadores.ghtml",
     "picture_source": "globoesporte.com",
     "approx_traffic": "1,000,000+"
   },
   {
     "country": "Brazil",
-    "title": "Classifica\u00e7\u00f5es de Brasileir\u00e3o S\u00e9rie A",
+    "title": "Classifica\u00e7\u00f5es de brasileir\u00e3o S\u00e9rie A",
     "pubDate": "Tue, 29 Oct 2024 06:00:00 -0500",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRJgzT188v3O2jwNEDiMCPEYxWMDaPqKdGfe_Fa37--dQd-s_5kL5YNLgmoltJ11WbK3Fy2GS8n",
-    "news_item_snippet": "Infogr\u00e1fico mostra como est\u00e1 a evolu\u00e7\u00e3o no segundo turno das equipes que far\u00e3o confrontos diretos na luta para permanecer na S\u00e9rie A no ano que vem.",
-    "news_item_url": "https://ge.globo.com/espiao-estatistico/noticia/2024/10/29/classificacao-do-returno-inter-empata-em-pontos-com-lider-palmeiras-botafogo-sobe-para-3o.ghtml",
-    "picture_source": "globoesporte.com",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcT_AyMsnrerApH9qx28YVsAXwdKe0ycPnDH73nFgH4ZFnrNDZSdlWZbvO_qYRL4ewm7cE7Aftzf",
+    "news_item_snippet": "Celulares disputaram uma vaga na final da 4\u00aa Fase Eliminat\u00f3ria do Campeonato Rio-Verdense de Futebol, S\u00e9rie A2, Categoria Livre, edi\u00e7\u00e3o 2024. Al\u00e9m disso, fique&nbsp;...",
+    "news_item_url": "https://www.rioverde.go.gov.br/resultados-da-semifinal-e-tabela-da-grande-final-da-serie-a2-campeonato-rio-verdense-2024/",
+    "picture_source": "Prefeitura de Rio Verde",
     "approx_traffic": "200,000+"
   },
   {
     "country": "Brazil",
-    "title": "Serie a",
-    "pubDate": "Tue, 29 Oct 2024 06:00:00 -0500",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcR5bw59DE5tCmIWKpGvFJhYwHPMU-RMA0dwNrW68QxI7dLsFg54pv46J65e0EybDzjMIyOQlGvo",
-    "news_item_snippet": "O time vencedor disputou 14 jogos ao longo do torneio, somando 35 pontos, com 11 vit\u00f3rias, dois empates e uma apenas uma derrota, 75 gols marcados e 25 sofridos&nbsp;...",
-    "news_item_url": "https://www.sjc.sp.gov.br/noticias/2024/outubro/29/madruga-e-o-campeao-da-serie-ouro-da-copa-popular-de-futsal/",
+    "title": "Guarani x Novorizontino",
+    "pubDate": "Tue, 29 Oct 2024 07:00:00 -0500",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcT4fMvPRFPxtr0OPlZqr4stSL3k-krwFGNDW6AHY9-6ZMBMb5pdFtl8Q2jd5PHK2-UveNQ28RUe",
+    "news_item_snippet": "Guarani e Novorizontino se enfrentam nesta ter\u00e7a-feira, pela 34\u00aa rodada da S\u00e9rie B. O confronto ser\u00e1 realizado no Brinco de Ouro da Princesa.",
+    "news_item_url": "https://www.lance.com.br/onde-assistir/guarani-x-novorizontino-onde-assistir-horario-e-escalacoes.html",
     "picture_source": "globoesporte.com",
     "approx_traffic": "100,000+"
   },
@@ -254,8 +314,8 @@
     "title": "Goi\u00e1s x Oper\u00e1rio",
     "pubDate": "Tue, 29 Oct 2024 17:00:00 -0500",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQae6zvfUn8qynfwrC4QOl2ppiIPi3ts5OTz1fGkugHjK-dG_gPz342n2t50C6-PgJHnJVVwRa2",
-    "news_item_snippet": "A partida, realizada no est\u00e1dio da Serrinha, foi parte da 34\u00aa rodada do torneio. Os gols de Bruno Herculano, Lucas Ribeiro e Paulo Baya garantiram a terceira&nbsp;...",
-    "news_item_url": "https://placar.com.br/placar/ao-vivo-goias-x-operario-pr-pela-serie-b/",
+    "news_item_snippet": "Nesta ter\u00e7a-feira, \u00e0s 19h (de Bras\u00edlia), Goi\u00e1s e Oper\u00e1rio se enfrentam no Est\u00e1dio da Serrinha, em jogo v\u00e1lido pela 34\u00aa rodada da S\u00e9rie B do Campeonato.",
+    "news_item_url": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/goias-x-operario-veja-provaveis-escalacoes-e-onde-assistir-ao-jogo-da-serie-b/",
     "picture_source": "globoesporte.com",
     "approx_traffic": "100,000+"
   },
@@ -281,22 +341,22 @@
   },
   {
     "country": "Brazil",
-    "title": "Leverkusen x Elversberg",
-    "pubDate": "Tue, 29 Oct 2024 12:00:00 -0500",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRD1jvvvtBLfaL3QL50mi7UwxGFIri2fb14z_ud4Bji-SjerMNU__SixZ_wwYM_tOdWmcyCVMm6",
-    "news_item_snippet": "O Bayern Leverkusen n\u00e3o precisou de todos seus titulares para se vingar do Elversberg e avan\u00e7ar \u00e0 terceira rodada da Copa da Alemanha.",
-    "news_item_url": "https://www.uol.com.br/esporte/ultimas-noticias/agencia/2024/10/29/com-inicio-arrasador-bayer-leverkusen-se-vinga-do-elversberg-e-avanca-na-copa-da-alemanha.htm",
-    "picture_source": "Gazeta Esportiva",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Brazil",
     "title": "Amazonas FC x Botafogo-SP",
     "pubDate": "Tue, 29 Oct 2024 16:00:00 -0500",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTA6zEQYsKNJSggJ4me3lk4e3nXEJ_gPWPlEqNO_5RwWrZl5jtGevBbWYBAzj7Hgxbjg_lglolK",
     "news_item_snippet": "Amazonas e Botafogo-SP, v\u00e1lido pela S\u00e9rie B do Campeonato Brasileiro, com destaques para lances decisivos e impacto de expuls\u00e3o.",
     "news_item_url": "https://placar.com.br/placar/ao-vivo-amazonas-x-botafogo-sp-pela-serie-b/",
     "picture_source": "globoesporte.com",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Brazil",
+    "title": "Leverkusen x Elversberg",
+    "pubDate": "Tue, 29 Oct 2024 12:00:00 -0500",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRD1jvvvtBLfaL3QL50mi7UwxGFIri2fb14z_ud4Bji-SjerMNU__SixZ_wwYM_tOdWmcyCVMm6",
+    "news_item_snippet": "O Bayern Leverkusen n\u00e3o precisou de todos seus titulares para se vingar do Elversberg e avan\u00e7ar \u00e0 terceira rodada da Copa da Alemanha.",
+    "news_item_url": "https://www.uol.com.br/esporte/ultimas-noticias/agencia/2024/10/29/com-inicio-arrasador-bayer-leverkusen-se-vinga-do-elversberg-e-avanca-na-copa-da-alemanha.htm",
+    "picture_source": "Gazeta Esportiva",
     "approx_traffic": "50,000+"
   },
   {
@@ -314,7 +374,7 @@
     "title": "Al-Nassr x Al Taawon",
     "pubDate": "Tue, 29 Oct 2024 13:00:00 -0500",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTB5Wx-ajLxUW4PKwl5HybGRa52ppLd8iZ6woW7sQL5EgnyXPt8RyfMaIFJRECxWFzcoOh4lZZ9",
-    "news_item_snippet": "O Al-Nassr foi derrotado pelo Al-Taawoun, nesta ter\u00e7a-feira, e est\u00e1 eliminado da Copa do Rei Saudita. Com direito a p\u00eanalti perdido por Cristiano Ronaldo na&nbsp;...",
+    "news_item_snippet": "Equipe \u00e9 derrotada pelo Al-Taawoun, por 1 a 0, nas oitavas de final da competi\u00e7\u00e3o nacional.",
     "news_item_url": "https://ge.globo.com/futebol/futebol-internacional/noticia/2024/10/29/com-cristiano-ronaldo-em-campo-al-nassr-e-eliminado-da-copa-do-rei-saudita.ghtml",
     "picture_source": "ESPN.com.br",
     "approx_traffic": "50,000+"
@@ -331,31 +391,11 @@
   },
   {
     "country": "Brazil",
-    "title": "Jogos de brasileir\u00e3o S\u00e9rie A",
-    "pubDate": "Tue, 29 Oct 2024 15:00:00 -0500",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcT_AyMsnrerApH9qx28YVsAXwdKe0ycPnDH73nFgH4ZFnrNDZSdlWZbvO_qYRL4ewm7cE7Aftzf",
-    "news_item_snippet": "Confira a tabela dos jogos v\u00e1lidos pela 1\u00aa Rodada da 1\u00aa Fase do Campeonato Rio-Verdense de Futebol, S\u00e9rie A3, Categoria Livre, edi\u00e7\u00e3o 2024!",
-    "news_item_url": "https://www.rioverde.go.gov.br/tabela-de-jogos-da-1a-rodada-campeonato-rio-verdense-de-futebol-serie-a3-2024/",
-    "picture_source": "Prefeitura de Rio Verde",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Brazil",
-    "title": "Tabela serie a",
-    "pubDate": "Tue, 29 Oct 2024 06:00:00 -0500",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcT_AyMsnrerApH9qx28YVsAXwdKe0ycPnDH73nFgH4ZFnrNDZSdlWZbvO_qYRL4ewm7cE7Aftzf",
-    "news_item_snippet": "Confira a tabela dos jogos v\u00e1lidos pela 1\u00aa Rodada da 1\u00aa Fase do Campeonato Rio-Verdense de Futebol, S\u00e9rie A3, Categoria Livre, edi\u00e7\u00e3o 2024!",
-    "news_item_url": "https://www.rioverde.go.gov.br/tabela-de-jogos-da-1a-rodada-campeonato-rio-verdense-de-futebol-serie-a3-2024/",
-    "picture_source": "Prefeitura de Rio Verde",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Brazil",
     "title": "Bitcoin",
     "pubDate": "Tue, 29 Oct 2024 11:00:00 -0500",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcT63H3DUzLmHTKH7vewFhufyXcwGTDIbqRIaCyesXoJiEBgFqJ6p9JczbEucOgv-N09g-ko6G7c",
-    "news_item_snippet": "O Bitcoin (BTC) encostou nos R$ 423 mil pela primeira vez na hist\u00f3ria na tarde desta ter\u00e7a-feira (29). Se um investidor tivesse investido R$ 1.000 na moeda&nbsp;...",
-    "news_item_url": "https://www.infomoney.com.br/onde-investir/quanto-voce-teria-se-tivesse-comprado-r-1-000-em-bitcoin-ha-10-anos/",
+    "news_item_snippet": "O valor de mercado somado de todas as criptomoedas do mundo \u00e9 de US$ 2,51 trilh\u00f5es. Em reais, o bitcoin apresenta ganhos de 3,14% a R$ 405.407, enquanto o ether&nbsp;...",
+    "news_item_url": "https://valor.globo.com/financas/criptomoedas/noticia/2024/10/29/bitcoin-ultrapassa-os-us-71-mil-pela-primeira-vez-desde-junho-e-se-aproxima-de-mxima-histrica.ghtml",
     "picture_source": "Exame Not\u00edcias",
     "approx_traffic": "50,000+"
   },
@@ -383,39 +423,49 @@
     "country": "Canada",
     "title": "Teri Garr",
     "pubDate": "Tue, 29 Oct 2024 14:00:00 -0400",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcT8YiUe8krrXWhVK7nzJNgS2LqIfJdaxb0a2KoUQ4ngs4b2ABSGndGojw8C9eapsc1OCVYV46-6",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTJRhf9NzZ9e9FAVGIIUXqz-2rUHJI1zxeIQkbmcmVgC9UmCtMndA4v6bfulr2gJ4esvrffEaCu",
     "news_item_snippet": "Kudrow says the Oscar-nominated actress, who played her on-screen mum, was &quot;a comedic acting genius&quot;.",
     "news_item_url": "https://www.bbc.com/news/articles/cje09595v5ko",
-    "picture_source": "CBC.ca",
+    "picture_source": "NPR",
     "approx_traffic": "50,000+"
   },
   {
     "country": "Canada",
-    "title": "Yankees",
-    "pubDate": "Tue, 29 Oct 2024 00:00:00 -0400",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRYmLhYQUe0VhgkRh_d1ZvYidNJFbt3RVy3mOnXcQXdoqqxDBvrUWFTOYxXUSSMRHydi9qkDpcY",
-    "news_item_snippet": "NEW YORK -- Anthony Volpe&#39;s wildest baseball dreams as a New Jersey lad didn&#39;t end with his beloved Yankees getting swept in the World Series.",
-    "news_item_url": "https://www.mlb.com/news/yankees-win-world-series-game-4-2024",
-    "picture_source": "La Presse",
+    "title": "World Series",
+    "pubDate": "Tue, 29 Oct 2024 09:00:00 -0400",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQpRUEMqWfMi3aReiDnOh51ol33jWroSxZ0tt4_IOGBZZh20w5NLhonMxFIGBdQWKv_LtCXJZBL",
+    "news_item_snippet": "The Los Angeles Dodgers will again try to close out the 2024 World Series in Game 5 vs. the New York Yankees. Here&#39;s when it is and where to watch.",
+    "news_item_url": "https://www.nbclosangeles.com/news/sports/mlb/world-series-game-5-dodgers-yankees-when-time-channel-stream/3547360/",
+    "picture_source": "MLB.com",
     "approx_traffic": "50,000+"
   },
   {
     "country": "South Korea",
     "title": "\ud2b8\ub9ac\ud50c\uc2a4\ud0c0",
     "pubDate": "Wed, 30 Oct 2024 12:00:00 +0900",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcT81ogHyZwG5gZVUYQUbaqs77rdJ5m8jltTovQeChnq-rQoGrk0OEuosk5qgEqm_su4loX0caIE",
-    "news_item_snippet": "\uc0ac\uc0dd\ud65c \ub17c\ub780\uc5d0 \ud718\ub9d0\ub9b0 &#39;\ud2b8\ub9ac\ud50c\uc2a4\ud0c0&#39; \uac15\uc2b9\uc6d0 \uc170\ud504\uac00 SNS \ub313\uae00\ucc3d\uc744 \ud3d0\uc1c4\ud588\ub2e4. iMBC \uc5f0\uc608\ub274\uc2a4 \uc0ac\uc9c4. 30\uc77c \uc624\ud6c4 \uae30\uc900 \ud2b8\ub9ac\ud50c\uc2a4\ud0c0\uc758 \uc778\uc2a4\ud0c0\uadf8\ub7a8 \ub313\uae00\ucc3d\uc740 \ub313\uae00\uc744 \uc785\ub825\ud560 \uc218&nbsp;...",
-    "news_item_url": "https://imnews.imbc.com/news/2024/enter/article/6651385_36473.html",
-    "picture_source": "\uc5f0\ud569\ub274\uc2a4TV",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcS4vWBXxIWjbO4egdcg0H7EDDszkSNNP9MZvw9r66fpGvbOvFnyBg8dSzWwIt8-fsy7z0uwbx4n",
+    "news_item_snippet": "[\uc52c\uc18d\ub274\uc2a4] \ud751\ubc31\uc694\ub9ac\uc0ac &#39;\ud2b8\ub9ac\ud50c\uc2a4\ud0c0&#39; \ub36e\uce5c \ub17c\ub780\u2026&quot;\ud589\uc0ac\ucd9c\uc5f0 \ucde8\uc18c\ud558\ub77c&quot; \ubbfc\uc6d0\uae4c\uc9c0?!",
+    "news_item_url": "https://www.yonhapnewstv.co.kr/news/MYH20241030018200640",
+    "picture_source": "MBC\ub274\uc2a4",
     "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Saudi Arabia",
+    "title": "\u062d\u0633\u0627\u0628 \u0627\u0644\u0645\u0648\u0627\u0637\u0646",
+    "pubDate": "Wed, 30 Oct 2024 02:00:00 +0300",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQXGtgyMlKkLb4eiqgnZdOw8DfaA4VaIYep08SPlU0vBf7KA6HyTwxdyS2X3ww7SHIlE-AqxDCB",
+    "news_item_snippet": "\u0625\u0643\u0633: \u0635\u0628\u0631\u0629 \u0623\u0639\u0644\u0646 \u062d\u0633\u0627\u0628 \u0627\u0644\u0645\u0648\u0627\u0637\u0646\u060c \u0627\u0644\u064a\u0648\u0645 \u0627\u0644\u062b\u0644\u0627\u062b\u0627\u0621\u060c \u0639\u0646 \u0635\u062f\u0648\u0631 \u0646\u062a\u0627\u0626\u062c \u0627\u0644\u0623\u0647\u0644\u064a\u0629 \u0644\u0644\u062f\u0648\u0631\u0629 84 &quot;\u0634\u0647\u0631 \u0646\u0648\u0641\u0645\u0628\u0631 2024&quot;. \u0648\u0623\u0643\u062f \u062d\u0633\u0627\u0628 \u0627\u0644\u0645\u0648\u0627\u0637\u0646\u060c \u0625\u0645\u0643\u0627\u0646\u064a\u0629 \u0627\u0644\u062a\u062d\u0642\u0642 \u0645\u0646 \u0627\u0644\u0623\u0647\u0644\u064a\u0629 \u0639\u0628\u0631 \u0627\u0644\u062f\u062e\u0648.",
+    "news_item_url": "https://www.sobranews.com/sobra/293807",
+    "picture_source": "\u0633\u0628\u0642",
+    "approx_traffic": "100,000+"
   },
   {
     "country": "Saudi Arabia",
     "title": "\u0627\u0644\u0647\u0644\u0627\u0644",
     "pubDate": "Tue, 29 Oct 2024 16:00:00 +0300",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQTUPcQwF8qBV3NeWkyl3JCyVSmMSxoE55GWWbqEBolsU6jQuwCcrhZBK7uQ2JeQQC1ZnRFMEIC",
-    "news_item_snippet": "\u062a\u0623\u0647\u0644 \u0627\u0644\u0647\u0644\u0627\u0644 \u0644\u062f\u0648\u0631 \u0627\u0644\u062b\u0645\u0627\u0646\u064a\u0629 \u0628\u0643\u0623\u0633 \u0627\u0644\u0645\u0644\u0643 \u0628\u0641\u0648\u0632\u0647 \u0627\u0644\u0639\u0631\u064a\u0636 \u0639\u0644\u0649 \u0645\u0636\u064a\u0641\u0647 \u0627\u0644\u0637\u0627\u0626\u064a 4-1\u060c \u064a\u0648\u0645 \u0627\u0644\u062b\u0644\u0627\u062b\u0627\u0621\u060c \u0641\u064a \u062f\u0648\u0631 \u0627\u0644\u0633\u062a\u0629 \u0639\u0634\u0631.\u0648\u062a\u0642\u062f\u0645 \u0627\u0644\u0647\u0644\u0627\u0644 \u0628\u0647\u062f\u0641 \u0645\u0628\u0643\u0631 \u0633\u062c\u0644\u0647 \u0639\u0628\u062f \u0627\u0644\u0644\u0647 \u0627\u0644\u062d\u0645\u062f\u0627\u0646 \u0641\u064a.",
-    "news_item_url": "https://www.alarabiya.net/sport/2024/10/29/%D9%83%D8%A3%D8%B3-%D8%A7%D9%84%D9%85%D9%84%D9%83-%D8%A7%D9%84%D9%87%D9%84%D8%A7%D9%84-%D9%8A%D9%87%D8%B2%D9%85-%D8%A7%D9%84%D8%B7%D8%A7%D8%A6%D9%8A-%D8%A8%D8%B1%D8%A8%D8%A7%D8%B9%D9%8A%D8%A9",
+    "news_item_snippet": "\u0633\u062c\u0644 \u0644\u0644\u0647\u0644\u0627\u0644 \u0639\u0628\u062f \u0627\u0644\u0644\u0647 \u0627\u0644\u062d\u0645\u062f\u0627\u0646 \u0648\u062e\u0627\u0644\u062f \u0627\u0644\u063a\u0646\u0627\u0645 \u0641\u064a \u0627\u0644\u062f\u0642\u064a\u0642\u062a\u064a\u0646 5 \u064837\u060c \u0641\u064a\u0645\u0627 \u062c\u0627\u0621 \u0647\u062f\u0641 \u0627\u0644\u0637\u0627\u0626\u0649 \u0639\u0646 \u0637\u0631\u064a\u0642 \u0623\u062d\u0645\u062f \u0627\u0644\u062c\u0648\u064a\u062f \u0641\u0649 \u0627\u0644\u062f\u0642\u064a\u0642\u0629 6\u060c \u0648\u0623\u0636\u0627\u0641 \u0639\u0628\u062f \u0627\u0644\u0644\u0647 \u0627\u0644\u062d\u0645\u062f\u0627\u0646 \u0648\u0645\u0627\u0631\u0643\u0648\u0633 \u0644\u064a\u0648\u0646\u0627\u0631\u062f\u0648&nbsp;...",
+    "news_item_url": "https://www.youm7.com/story/2024/10/30/%D9%85%D9%84%D8%AE%D8%B5-%D9%88%D8%A3%D9%87%D8%AF%D8%A7%D9%81-%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9-%D8%A7%D9%84%D8%B7%D8%A7%D8%A6%D9%8A-%D8%B6%D8%AF-%D8%A7%D9%84%D9%87%D9%84%D8%A7%D9%84-%D9%81%D9%89-%D9%83%D8%A3%D8%B3-%D8%AE%D8%A7%D8%AF%D9%85-%D8%A7%D9%84%D8%AD%D8%B1%D9%85%D9%8A%D9%86/6759039",
     "picture_source": "\u0627\u0644\u062c\u0632\u064a\u0631\u0629 \u0646\u062a",
     "approx_traffic": "200,000+"
   },
@@ -424,18 +474,18 @@
     "title": "Valence Espagne",
     "pubDate": "Wed, 30 Oct 2024 08:00:00 +0100",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSY1pyXmEupkzUCls1HXLNq9vDkFyzQLKOYzqpgQrluy6B8mJapuzFQn9StstsukEKN5CEXA22N",
-    "news_item_snippet": "Des pluies torrentielles ont provoqu\u00e9 des inondations dans une grande partie du sud et de l&#39;est de l&#39;Espagne, de Malaga \u00e0 Valence.",
-    "news_item_url": "https://www.lemonde.fr/climat/article/2024/10/30/inondations-en-espagne-des-corps-retrouves-selon-les-autorites_6366199_1652612.html",
+    "news_item_snippet": "Des crues soudaines ont touch\u00e9 la r\u00e9gion de Valence dans le sud de l&#39;Espagne. Les pluies torrentielles ont caus\u00e9 des inondations, dont le bilan s&#39;\u00e9l\u00e8ve \u00e0 au&nbsp;...",
+    "news_item_url": "https://www.france24.com/fr/info-en-continu/20241030-violentes-inondations-en-espagne-plusieurs-corps-retrouv%C3%A9s",
     "picture_source": "France Bleu",
-    "approx_traffic": "50,000+"
+    "approx_traffic": "100,000+"
   },
   {
     "country": "France",
     "title": "Tour de France 2025",
     "pubDate": "Tue, 29 Oct 2024 02:00:00 +0100",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQeLK9PtEEHX9MS_FclwS5jscgpuQ-Y9Amiz3SeFp_25DtsvD83Rnf_JtyDYorrbzUytapnjeCb",
-    "news_item_snippet": "Samedi 5 juillet 2025 : Grand d\u00e9part de Lille. &middot; Dimanche 6 juillet : Lauwin-Planque - Boulogne-sur-Mer (212 km) &middot; Lundi 7 juillet : Valenciennes - Dunkerque (172&nbsp;...",
-    "news_item_url": "https://www.hautsdefrance.fr/tour-de-france-2025/",
+    "news_item_snippet": "&quot;Parce que la Bretagne est sans doute la r\u00e9gion o\u00f9 le cyclisme est le plus fort, souligne Christian Prudhomme. Et en 2021, lorsqu&#39;il a fallu nous dire oui et&nbsp;...",
+    "news_item_url": "https://www.francebleu.fr/sports/cyclisme/tour-de-france-2025-on-voulait-aller-dans-toute-la-bretagne-pour-dire-merci-confie-christian-prudhomme-1368223",
     "picture_source": "Vozer",
     "approx_traffic": "100,000+"
   },
@@ -443,17 +493,27 @@
     "country": "France",
     "title": "Slimane",
     "pubDate": "Tue, 29 Oct 2024 17:00:00 +0100",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQMFMaSc7Bbiy3h-VZFyECVRTmnTMyaV45MyKwOHmo375CpgYk0aIEKu3Y7w9993RNPbAg5euok",
-    "news_item_snippet": "La plainte concerne des faits survenus en d\u00e9cembre 2023, apr\u00e8s un show \u00e0 Saint-Etienne.",
-    "news_item_url": "https://www.telerama.fr/debats-reportages/le-chanteur-slimane-vise-par-une-plainte-pour-harcelement-sexuel-lors-de-sa-tournee-7022807.php",
-    "picture_source": "L'Union",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQ9j8cMIkTmcooKnPGJaIainOjpVCFslJ3y9KzCSNFqi-thvco1hDHH-7fICQ7Grfg4lcyKANFf",
+    "news_item_snippet": "Le populaire chanteur Slimane est accus\u00e9 d&#39;agression sexuelle par un technicien de sa tourn\u00e9e. On fait le point sur ce que l&#39;on sait.",
+    "news_item_url": "https://www.lunion.fr/id656001/article/2024-10-30/slimane-ce-que-lon-sait-de-laccusation-dagression-sexuelle-contre-le-chanteur",
+    "picture_source": "T\u00e9l\u00e9rama.fr",
     "approx_traffic": "100,000+"
+  },
+  {
+    "country": "Germany",
+    "title": "Valencia",
+    "pubDate": "Wed, 30 Oct 2024 03:00:00 +0100",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTQSPFb1O5j1m3BLGMcN7kdTT30Ehpvur2wjCYqBmT_wFsyr0JGYr4-XE8lqjngWoMY6sahF_w_",
+    "news_item_snippet": "Spanien tr\u00e4gt Trauer: Ein Wetterph\u00e4nomen, das als \u201ekalter Tropfen\u201c bekannt ist, forderte Dutzende Menschenleben. Dabei ist das ganze Ausma\u00df der&nbsp;...",
+    "news_item_url": "https://www.wz.de/panorama/ueber-60-tote-bei-unwetter-in-valencia-ganz-spanien-weint_aid-120600505",
+    "picture_source": "tagesschau.de",
+    "approx_traffic": "50,000+"
   },
   {
     "country": "Germany",
     "title": "RB Leipzig \u2013 St. Pauli",
     "pubDate": "Tue, 29 Oct 2024 18:00:00 +0100",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRCj7_-rNYdQxwb7yNMV8uAsmh5rlY9-kOOTb9ukcZ-E0TWCY2SiylBgVdQC4iGlCe79vbCBtFg",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRVlHNYSMw9rb6zsjd-b8XMTHPpbsfYzUqmCJ6lwCRXimkmBaz9i_AabSnl6UPs2mmDVDGR9LQo",
     "news_item_snippet": "Fu\u00dfball-Bundesligist FC St. Pauli ist in der zweiten Runde des DFB-Pokals ausgeschieden. Die Hamburger verloren am Dienstagabend bei Ligakonkurrent RB&nbsp;...",
     "news_item_url": "https://www.ndr.de/sport/fussball/Aus-im-DFB-Pokal-St-Pauli-verliert-ungluecklich-bei-RB-Leipzig,pauli8148.html",
     "picture_source": "RB Leipzig",
@@ -467,7 +527,7 @@
     "news_item_snippet": "Der VfL Wolfsburg hat dank eines ganz sp\u00e4ten K.o.-Treffers von Joker Jonas Wind Borussia Dortmund aus dem Pokal geschossen - und den BVB damit noch tiefer&nbsp;...",
     "news_item_url": "https://www.sportschau.de/fussball/dfbpokal/spaeter-ko-wolfsburgs-wind-stuerzt-dortmund-tiefer-in-die-krise,pokal-vflw-bvb-100.html",
     "picture_source": "ZDFheute",
-    "approx_traffic": "500,000+"
+    "approx_traffic": "200,000+"
   },
   {
     "country": "Germany",
@@ -510,66 +570,6 @@
     "approx_traffic": "200,000+"
   },
   {
-    "country": "Italy",
-    "title": "Partite di Serie A",
-    "pubDate": "Wed, 30 Oct 2024 00:00:00 +0100",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQ4opUZ84pyj_hKHnqRPNCsXiWGdWNXATTJZbGAIccvxuZgfsondYnYlWsYaWqbODlqW_kgMVBD",
-    "news_item_snippet": "QUANTE PARTITE CI SONO ANCORA DA GIOCARE? Essendo alla decima giornata di Serie A, le venti squadre del campionato italiano devono ancora disputare 28 o 29&nbsp;...",
-    "news_item_url": "https://www.goal.com/it/liste/quante-partite-mancano-alla-fine-campionato-serie-a-punti-si-possono-fare/blt41aa916b3c5a44ea",
-    "picture_source": "Rai News",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Italy",
-    "title": "Classifica serie a",
-    "pubDate": "Tue, 29 Oct 2024 22:00:00 +0100",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQ4opUZ84pyj_hKHnqRPNCsXiWGdWNXATTJZbGAIccvxuZgfsondYnYlWsYaWqbODlqW_kgMVBD",
-    "news_item_snippet": "Dopo la debordante vittoria del Napoli a San Siro, oggi alle 18.30 Empoli-Inter e Venezia-Udinese. La Juventus in casa alle 20.45 sfida il Parma di Pecchia,&nbsp;...",
-    "news_item_url": "https://www.rainews.it/maratona/2024/10/calcio-serie-a-tutte-le-partite-della-decima-giornata-con-highlights-video-sintesi-cronaca-testuale-diretta-live-3c071d15-469c-44ec-84d1-3cfb2409fc6a.html",
-    "picture_source": "Rai News",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "Italy",
-    "title": "Valencia",
-    "pubDate": "Tue, 29 Oct 2024 19:00:00 +0100",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcR95PX8hY2o3SsdcPdzCxzyDKToTt8-QDlLHThdZafN33StiHliKXvDRR9Tpv2JS0JNoDAGVJJk",
-    "news_item_snippet": "Il numero delle vittime potrebbe essere pi\u00f9 pesante, poich\u00e9 sono molte le persone disperse a causa delle inondazioni che hanno isolato alcune localit\u00e0.",
-    "news_item_url": "https://www.ilsole24ore.com/art/spagna-almeno-13-vittime-regione-valencia-le-piogge-torrenziali-AGp6xhp",
-    "picture_source": "Rai News",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "Italy",
-    "title": "Cagliari-Bologna",
-    "pubDate": "Tue, 29 Oct 2024 14:00:00 +0100",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTIc-O-BxD98qJmIXe7D21QxbbFLkPo7FTbMGZiEr6atH-H1tynLvwsAin7SDaZamXH138uJDaD",
-    "news_item_snippet": "Il Bologna supera il Cagliari 2-0 nella gara valida per la decima giornata di serie A, disputata all&#39;Unipol Domus del capoluogo sardo.",
-    "news_item_url": "https://www.rainews.it/video/2024/10/cagliari-bologna-0-2-la-sintesi-della-partita-bbb4660f-0d9b-490b-a435-e631bea90643.html",
-    "picture_source": "Rai News",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "Italy",
-    "title": "Lecce Verona",
-    "pubDate": "Tue, 29 Oct 2024 18:00:00 +0100",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRAPL154sOp1RbxuVPxkWYIe7Pu5dJdPXHPTE0nE7MhR92wsm9fsh-Ph5YOzwAkmCM4uj5Xjivh",
-    "news_item_snippet": "Grazie per aver seguito la diretta scritta di Lecce-Hellas Verona 1-0 e arrivederci ai prossimi appuntamenti della Serie A Enilive 2024-25.",
-    "news_item_url": "https://www.repubblica.it/sport/dirette/calcio/serie-a-2024/diretta-lecce-verona-g2456200/",
-    "picture_source": "Sky Sport",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "Italy",
-    "title": "Serie B",
-    "pubDate": "Tue, 29 Oct 2024 23:00:00 +0100",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQ4nfk2d4ZH0usS88umpcJzFaMBMICVs7-YjUoC1ivgX0YXeyAkZRq4eZzdcyaG5GhL0Z4sHp8b",
-    "news_item_snippet": "La Lega Nazionale Professionisti Serie B ha ufficializzato date e orari fino alla ventiquattresima giornata di campionato. Ecco nel dettaglio il cammino che&nbsp;...",
-    "news_item_url": "https://www.pisatoday.it/sport/calcio/calendario-serie-b-pisa-sporting-club-11-24-giornata.html",
-    "picture_source": "Sky Sport",
-    "approx_traffic": "50,000+"
-  },
-  {
     "country": "Mexico",
     "title": "River",
     "pubDate": "Tue, 29 Oct 2024 13:00:00 -0600",
@@ -591,42 +591,22 @@
   },
   {
     "country": "Spain",
-    "title": "Alerta por precipitaciones",
-    "pubDate": "Tue, 29 Oct 2024 12:00:00 +0100",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTBUa9xp7PtcobJhLAJNN3Mhx9VgU6n1DXUPXi05_GxI1TSjyDcfuiJPeQMynFYiWavDmQDjY2A",
-    "news_item_snippet": "La Agencia Estatal de Meteorolog\u00eda (AEMET) advierte de que las precipitaciones podr\u00edan prolongarse hasta el domingo. M\u00e1s informaci\u00f3n: La DANA golpea con&nbsp;...",
-    "news_item_url": "https://www.elespanol.com/ciencia/meteorologia/20241030/aemet-alerta-dana-dejara-fuertes-tormentas-miercoles-zonas-afectadas/897160750_0.html",
-    "picture_source": "Ondacero",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "Spain",
-    "title": "Copa del Rey",
-    "pubDate": "Tue, 29 Oct 2024 21:00:00 +0100",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRkxIfmfOlPvuYGCgnGwHr-RA-bndV35kpcGoXNEe--Y12ZxP8lY4rfeGm4rcXFSo3X4_6GmhU0",
-    "news_item_snippet": "La DANA ha provocado que la competici\u00f3n del K.O. quede en un segundo plano con la tragedia que se vive en la Comunidad Valenciana. De 18.30 a 21.30 era la&nbsp;...",
-    "news_item_url": "https://www.marca.com/futbol/copa-rey/2024/10/30/partidos-copa-rey-hoy-30-octubre-horarios-ver-suspenden-dana.html",
-    "picture_source": "El Mundo",
+    "title": "Tiempo Barcelona",
+    "pubDate": "Wed, 30 Oct 2024 13:00:00 +0100",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRc2eWtuPNrevQBoGxlPAwm7-02QzflSvCa2Q7cd0nBaMfq89_ALQG_OntdBDduYyKc8rgJCf89",
+    "news_item_snippet": "Se ha activado la alerta del Plan B\u00e1sico de Emergencia Municipal por mal estado del mar y la previsi\u00f3n de olas de 2,5 metros.   \u00daltima hora de la DANA: m\u00e1s&nbsp;...",
+    "news_item_url": "https://www.ondacero.es/noticias/eltiempo/alerta-maxima-barcelona-meteocat-avisa-riesgo-granizo-posibles-tornados_202410306722308a2914190001e63669.html",
+    "picture_source": "Barcelona Secreta",
     "approx_traffic": "50,000+"
   },
   {
-    "country": "Spain",
-    "title": "Letur",
-    "pubDate": "Tue, 29 Oct 2024 18:00:00 +0100",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSjDbSJFT0P27IhjuSzrmBwQumBxKQPzw8Te1QZeJtJIvjiSeU7kHJsaNgK3ryaaV7ZxjlBenZN",
-    "news_item_snippet": "&#39;Lo \u00fanico importante es que todos est\u00e9n sanos y salvos&#39;, ha se\u00f1alado la cantante ... La localidad albacete\u00f1a de Letur, de 929 habitantes, vive con angustia la&nbsp;...",
-    "news_item_url": "https://www.hola.com/actualidad/20241030727102/rozalen-letur-desaparecidos-riada/",
-    "picture_source": "La Vanguardia",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Spain",
-    "title": "Carlos Alcaraz",
-    "pubDate": "Tue, 29 Oct 2024 20:00:00 +0100",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRoKdz3R7Z9kljChtOIJ6QIIiFST5F9OdfiI8IKAWlnVMiAcU84Jf8j1b6FjpScqbG3W8o4Oo6v",
-    "news_item_snippet": "Carlos Alcaraz juega este jueves 30 de octubre su pr\u00f3ximo partido en el Masters 1000 de Par\u00eds-Bercy 2024 tras haber superado al chileno Nicol\u00e1s Jarry en su&nbsp;...",
-    "news_item_url": "https://www.elmundo.es/como/2024/10/30/6722084c21efa0de468b459d.html",
-    "picture_source": "El Mundo",
+    "country": "United Kingdom",
+    "title": "Valencia",
+    "pubDate": "Wed, 30 Oct 2024 08:00:00 +0000",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSowGs-jp-ArYbCO2PvsN-Yv2Z1k1AUZdtkG4jRdU-qdoJmeoiQKJVr7UFuuQfvHDCzyWhie6EQ",
+    "news_item_snippet": "At least 64 people have died after torrential rainfall impacted eastern Spain late Tuesday, with some areas experiencing a year&#39;s worth of rain overnight,&nbsp;...",
+    "news_item_url": "https://www.forbes.com/sites/tylerroush/2024/10/30/valencia-flooding-severe-weather-kills-at-least-64-in-spain-photos/",
+    "picture_source": "The Independent",
     "approx_traffic": "50,000+"
   },
   {
@@ -641,22 +621,22 @@
   },
   {
     "country": "United Kingdom",
-    "title": "Teri Garr",
-    "pubDate": "Tue, 29 Oct 2024 19:00:00 +0000",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRygDbm67uMzwnFYpn0luUjEy2d5XxMjvamWvpnH7NINpzeIHjTMAwSupHBvcNWwfgm7t1nwE5X",
-    "news_item_snippet": "Oscar-nominated actor was also known for roles in Close Encounters of the Third Kind and Young Frankenstein.",
-    "news_item_url": "https://www.theguardian.com/film/2024/oct/29/teri-garr-dead-tootsie-friends",
-    "picture_source": "BBC News",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United Kingdom",
     "title": "Ricin",
     "pubDate": "Tue, 29 Oct 2024 18:00:00 +0000",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRQGSe-Bco2z69f6doeanfNriHJaelRVJin6EAV3hG6be3Mo2euVtnZ9pZaTqSUChtXg7Bvjgwm",
     "news_item_snippet": "&quot;Today the Crown Prosecution Service has authorised Axel Rudakubana, aged 18, from Banks in Lancashire, to be charged with two further offences. &quot;Axel&nbsp;...",
     "news_item_url": "https://www.merseyside.police.uk/news/merseyside/news/2024/october/statement-from-chief-constable-serena-kennedy-and-partners-following-further-charges-for-axel-rudakubana/",
     "picture_source": "Sky News",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United Kingdom",
+    "title": "Teri Garr",
+    "pubDate": "Tue, 29 Oct 2024 19:00:00 +0000",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRygDbm67uMzwnFYpn0luUjEy2d5XxMjvamWvpnH7NINpzeIHjTMAwSupHBvcNWwfgm7t1nwE5X",
+    "news_item_snippet": "Garr&#39;s breakout role was as sexy Inga in Young Frankenstein. She earned an Oscar nomination for her role in the 1982 film Tootsie, and played Phoebe&#39;s mom&nbsp;...",
+    "news_item_url": "https://www.npr.org/2024/10/29/850826324/teri-garr-dead",
+    "picture_source": "BBC News",
     "approx_traffic": "50,000+"
   }
 ]
