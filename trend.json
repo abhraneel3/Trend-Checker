@@ -1,22 +1,22 @@
 [
   {
     "country": "United States",
-    "title": "Quincy Jones",
-    "pubDate": "Mon, 04 Nov 2024 01:00:00 -0800",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTKLGTl0aGNu3GoZftpkxETesWXZ2YdO8M-rDHzwCTbPVtzFF20ovUIJC15HqjAh8KzdeuW2PBB",
-    "news_item_snippet": "Jones rose from music school dropout to the very heights of show business, becoming one of the first Black executives to thrive in Hollywood.",
-    "news_item_url": "https://www.pbs.org/newshour/arts/quincy-jones-music-titan-who-worked-with-artists-from-frank-sinatra-to-michael-jackson-dies-at-91",
-    "picture_source": "Rolling Stone",
-    "approx_traffic": "500,000+"
-  },
-  {
-    "country": "United States",
     "title": "Election Day 2024",
     "pubDate": "Mon, 04 Nov 2024 04:00:00 -0800",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRuS8GPOuhh4f-E9gM-AE8ezhRI11N7c4iC-ljDQrjohxeMEKMKPy_DoEzO3muW7KnJdrzditQV",
-    "news_item_snippet": "State and federal races are on the ballot, including President/Vice President, U.S. House and Senate, and local elections for Herndon town residents, as well as&nbsp;...",
-    "news_item_url": "https://www.fairfaxcounty.gov/news/fairfax-county-voter-guide-2024",
+    "news_item_snippet": "Vice President Kamala Harris and former President Donald Trump are blitzing battleground states the day before polls open for Election Day 2024.",
+    "news_item_url": "https://www.cbsnews.com/live-updates/election-2024-campaign-final-day/",
     "picture_source": "Fairfax County Government NewsCenter",
+    "approx_traffic": "1,000,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Quincy Jones",
+    "pubDate": "Mon, 04 Nov 2024 01:00:00 -0800",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTKLGTl0aGNu3GoZftpkxETesWXZ2YdO8M-rDHzwCTbPVtzFF20ovUIJC15HqjAh8KzdeuW2PBB",
+    "news_item_snippet": "Jones was best known as the producer of three Michael Jackson albums - Off the Wall, Thriller and Bad.",
+    "news_item_url": "https://www.bbc.com/news/articles/cjr4n2490r9o",
+    "picture_source": "Rolling Stone",
     "approx_traffic": "500,000+"
   },
   {
@@ -24,16 +24,46 @@
     "title": "Election Day",
     "pubDate": "Mon, 04 Nov 2024 06:00:00 -0800",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRoI0-vIdU6uf-X_E_VkIbgTH9-xm9pYnLpNLUzywSlOy4ielGEYEjkujbfdkOTH5S_d8WLupSK",
-    "news_item_snippet": "Any voter in line at their assigned polling place at 7:30 p.m. will be able to vote. Registered voters can find their polling place and sample ballot here:&nbsp;...",
-    "news_item_url": "https://today.duke.edu/2024/11/what-you-need-know-election-day-tuesday",
+    "news_item_snippet": "Carolina has information on how to vote on campus or elsewhere this Election Day. By University Communications, Monday, November 4th, 2024. Election Day&nbsp;...",
+    "news_item_url": "https://www.unc.edu/posts/2024/11/04/what-to-know-about-voting-on-election-day/",
     "picture_source": "UNC Chapell Hill",
     "approx_traffic": "200,000+"
   },
   {
     "country": "United States",
+    "title": "Colts",
+    "pubDate": "Mon, 04 Nov 2024 10:00:00 -0800",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRK5YhAGak-9cFfx7bvd6NlghNtcB606Aed_4iWH3IiYnM-CLjfd3F3_1ELWcpbRgvOATgMF_U",
+    "news_item_snippet": "Indianapolis Colts head coach Shane Steichen faced the music after a brutal offensive showing against the Minnesota Vikings.",
+    "news_item_url": "https://www.si.com/nfl/colts/news/colts-shane-steichen-blame-vikings-joe-flacco",
+    "picture_source": "ESPN",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Where do i vote",
+    "pubDate": "Mon, 04 Nov 2024 08:00:00 -0800",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQSS2w34BwYBljF9sCDWHrQ7c4zaPKNNZyvAbm4WRqBJPX27euN1eSnUUUSRtWVkUcz_6bkV-8U",
+    "news_item_snippet": "Can you vote in another NY polling place? Not on Election Day. Voters must go to their designated polling site to cast an in-person ballot on Tuesday, Nov. 5.",
+    "news_item_url": "https://www.democratandchronicle.com/story/news/politics/elections/2024/11/04/where-to-vote-in-new-york-how-to-find-your-polling-location-election-day-2024/76042412007/",
+    "picture_source": "Fortune",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Philadelphia Eagles",
+    "pubDate": "Mon, 04 Nov 2024 12:00:00 -0800",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQByvqXrki1nNVnx717_8TJe1f_ZTYZOOXexbEwp--z7ZgAcpBxW3x-18v0aJIC3O7koavY6CfT",
+    "news_item_snippet": "The Philadelphia Eagles clearly have a well-built roster but that doesn&#39;t mean that the team can get complacent. Philadelphia is 6-2 on the season and is&nbsp;...",
+    "news_item_url": "https://www.si.com/nfl/eagles/news/raiders-1-8-million-super-bowl-champion-told-to-leave-l-v-to-join-eagles-pat3",
+    "picture_source": "Sports Illustrated",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United States",
     "title": "Dennis Allen",
     "pubDate": "Mon, 04 Nov 2024 08:00:00 -0800",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRSkwmgy-3ESo_8MyxYsxRTI8ByAcCM5NUtP0cXUt-Gv5NsogTjLoCPNA8SEQJ3RUWkVOBRRjb6",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRy4rSTbvcbMoOPpIMkinrxH_GSdWGiOOhOVBDrPn5995A0CqGcVedkxiMm4Y1tjne0v2r-QBPP",
     "news_item_snippet": "Dennis Allen was fired by the Saints on Monday after posting an 18-25 record as the team&#39;s head coach since 2022.",
     "news_item_url": "https://www.nbcphiladelphia.com/news/sports/nfl/saints-fire-dennis-allen-head-coach-darren-rizzi-reports/4017839/",
     "picture_source": "NewOrleansSaints.com",
@@ -42,121 +72,91 @@
   {
     "country": "United States",
     "title": "Vikings",
-    "pubDate": "Sun, 03 Nov 2024 09:00:00 -0800",
+    "pubDate": "Sun, 03 Nov 2024 17:00:00 -0800",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTOP_v7lESKFRmpH5V6_IprkX9VgeH1l13D-Dz3Awe4GUcNqotC81afH2gJ952T4x0C5AOua9fz",
-    "news_item_snippet": "Sam Darnold threw 3 touchdown passes for Minnesota but also had two interceptions and a lost fumble.",
-    "news_item_url": "https://www.nbcnews.com/sports/nfl/live-blog/sunday-night-football-vikings-colts-live-updates-rcna178451",
+    "news_item_snippet": "The Vikings can confirm. Minnesota overcame some significant mistakes on offense and special teams \u2014 and a defensive touchdown by Indianapolis \u2014 in the first&nbsp;...",
+    "news_item_url": "https://www.vikings.com/news/win-colts-week-9-sunday-night-football-game-observations",
     "picture_source": "Colts.com",
     "approx_traffic": "500,000+"
   },
   {
-    "country": "United States",
-    "title": "Cowboys",
-    "pubDate": "Sun, 03 Nov 2024 14:00:00 -0800",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRXdE0bBpxmg6jkcslFgAgNOHIDhmS2iSeU_58OcgwYMAEMSmIV2CchJi9-M8emeBd1bd4377TB",
-    "news_item_snippet": "The Cowboys fall 27-21 to the Falcons but also suffer key injuries to Dak Prescott and potentially CeeDee Lamb.",
-    "news_item_url": "https://www.dallascowboys.com/news/game-recap-cowboys-lose-to-atlanta-27-21",
-    "picture_source": "DallasCowboys.com",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Michael Thomas",
-    "pubDate": "Sun, 03 Nov 2024 11:00:00 -0800",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRA953-vr6nS8aBQB_RmKB15B2iHnCe7bMza17DmhYMfjrafGrfZ8f0tzGtiCRRw9skh6YrQm7v",
-    "news_item_snippet": "It&#39;s safe to say that Michael Thomas didn&#39;t enjoy his experience playing with Derek Carr.",
-    "news_item_url": "https://www.usatoday.com/story/sports/nfl/2024/11/03/michael-thomas-derek-carr-twitter-x-saints/76032365007/",
-    "picture_source": "WDSU New Orleans",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Chappell Roan",
-    "pubDate": "Sun, 03 Nov 2024 06:00:00 -0800",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQRYuUQRPf41OOUDSavu3hNNhXnALWdgAGrwur4PoA0s2PnBJ1G01CLoMh7ecTMKyCki6-Nxwnm",
-    "news_item_snippet": "Chappell Roan went from the \u201cPink Pony Club\u201d to the country club on \u201cSaturday Night Live,\u201d surprising fans with the new song song &quot;The Giver.&quot;",
-    "news_item_url": "https://www.nbcnews.com/nbc-out/out-pop-culture/chappell-roan-debuts-lesbian-country-song-giver-saturday-night-live-rcna178563",
-    "picture_source": "Vogue.com",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Lions vs Packers",
-    "pubDate": "Sun, 03 Nov 2024 14:00:00 -0800",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRVEb-ix2aGORt_Ezkqx2ZOZohOtxtUv-m-72vE-5GwMEGhyuloYEqcc6fqc8TAdUadYVgtxE8e",
-    "news_item_snippet": "Detroit Lions wide receiver Amon-Ra St. Brown (14) makes a catch for a touchdown against Green Bay Packers cornerback Keisean Nixon (25) during the first half&nbsp;...",
-    "news_item_url": "https://lionswire.usatoday.com/lists/lions-vs-packers-everything-we-know-stats-stars-injuries-game-summary/",
-    "picture_source": "detroitlions.com",
-    "approx_traffic": "200,000+"
+    "country": "India",
+    "title": "US election 2024",
+    "pubDate": "Mon, 04 Nov 2024 11:30:00 +0530",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcR4WFNkIsEgbaDnJWKfxtbqugQ3fRtjFiPmIQAhSpRnjwBJgZTeejcZwjuEd6-AQIC3bCJmPPob",
+    "news_item_snippet": "The United States (US) will vote on November 5 \u2013 &quot;Election Day&quot; \u2013 to elect its next President. Will it be Democrat Kamala Harris and Republican Donald Trump&nbsp;...",
+    "news_item_url": "https://www.livemint.com/elections/us-elections/us-presidential-election-results-2024-when-will-it-be-announced-your-complete-guide-donald-trump-kamala-harris-11730729732237.html",
+    "picture_source": "Economic Times",
+    "approx_traffic": "100,000+"
   },
   {
     "country": "India",
-    "title": "US election 2024",
-    "pubDate": "Mon, 04 Nov 2024 09:30:00 +0530",
+    "title": "US Election",
+    "pubDate": "Mon, 04 Nov 2024 10:30:00 +0530",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRgIno4438vQm8mQ3yW4wZ4WwYMa8THKl16_dvFgi6NXHdc9yLsEzyO5whoK3yDA1V8fqfwOZ34",
     "news_item_snippet": "In the November 5 US presidential election, Democratic nominee Kamala Harris, the current Vice President, will face Republican Donald Trump,&nbsp;...",
     "news_item_url": "https://www.hindustantimes.com/world-news/us-election-2024-live-updates-donald-trump-kamala-harris-prepare-for-final-push-in-battleground-states-101730722931506.html",
     "picture_source": "Livemint",
-    "approx_traffic": "200,000+"
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "India",
+    "title": "US election results",
+    "pubDate": "Mon, 04 Nov 2024 09:30:00 +0530",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRgIno4438vQm8mQ3yW4wZ4WwYMa8THKl16_dvFgi6NXHdc9yLsEzyO5whoK3yDA1V8fqfwOZ34",
+    "news_item_snippet": "US election 2024 result date and time are nearing as the electoral fate of Donald Trump and Kamala Harris will be decided after November 5 polling day.",
+    "news_item_url": "https://m.economictimes.com/news/international/us/us-election-2024-result-date-and-time-will-it-take-weeks-to-announce-winner-between-donald-trump-and-kamala-harris/articleshow/114922815.cms",
+    "picture_source": "Livemint",
+    "approx_traffic": "50,000+"
   },
   {
     "country": "India",
     "title": "AP TET Results 2024",
     "pubDate": "Mon, 04 Nov 2024 12:30:00 +0530",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQzkRictyCAdjMX3ZExmHeLNV0VsRHYotjqnYXXnq0NPyj42n3vX8y7VIhXvKNvdEUsglMjOSp8",
-    "news_item_snippet": "AP TET Results 2024 LIVE Updates: Candidates can now check their scorecard on the official website i.e. aptet.apcfss.in. Last week, the final answer key of&nbsp;...",
-    "news_item_url": "https://www.livemint.com/education/news/ap-tet-result-2024-live-aptet-apcfss-in-manabadi-ap-result-direct-link-download-scorecard-andhra-pradesh-november-4-11730689153642.html",
+    "news_item_snippet": "AP TET Results 2024 Manabadi: The Andhra Pradesh Department of School Education has released the Teacher Eligibility Test 2024 results on November 4.",
+    "news_item_url": "https://m.economictimes.com/jobs/exams-results/ap-tet-results-2024-manabadi-out-at-aptet-apcfss-in-check-how-to-download-marksheet-certificate/articleshow/114935206.cms",
     "picture_source": "Business Standard",
     "approx_traffic": "50,000+"
   },
   {
-    "country": "India",
-    "title": "Pakistan vs Australia",
-    "pubDate": "Sun, 03 Nov 2024 13:30:00 +0530",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcS8mvZsVokQiVBIfvS6A88Of_0vd-DoXBfSGWyFH-VsCHNBOD3ybwkRsF70OTD7hFclo2EmgBei",
-    "news_item_snippet": "AUS vs PAK Highlights: Get the updates, scorecard and highlights from the first ODI between Australia and Pakistan at the Melbourne Cricket Ground.",
-    "news_item_url": "https://sportstar.thehindu.com/cricket/aus-vs-pak-live-score-1st-odi-scorecard-updates-highlights-pakistan-tour-of-australia-2024-streaming-info-squads/article68826738.ece",
-    "picture_source": "ESPNcricinfo.com",
-    "approx_traffic": "1,000,000+"
-  },
-  {
-    "country": "India",
-    "title": "Man United vs Chelsea",
-    "pubDate": "Sun, 03 Nov 2024 21:30:00 +0530",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcT7qm9VlZ5hh_utLoGWRd4iXzxKHkBczWwX0LnBMT6rOo32oJpw9CckDq7UzD53xt0e2nuQrP_Q",
-    "news_item_snippet": "MUN vs CHE: Catch the highlights of the Premier League match between Manchester United and Chelsea, being played at the Old Trafford Stadium in Manchester,&nbsp;...",
-    "news_item_url": "https://sportstar.thehindu.com/football/epl/manchester-united-vs-chelsea-live-score-mun-v-che-goals-updates-premier-league-highlights/article68826208.ece",
-    "picture_source": "Goal India",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "India",
-    "title": "Guruprasad",
-    "pubDate": "Sun, 03 Nov 2024 13:30:00 +0530",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQqqteFTiNw_Um7TavSr3zCfSfbV3If6yqsIZGxVle0oj6nSDcheVEqlxaRNZoJcs0xF28Qgbwe",
-    "news_item_snippet": "The 52-year-old director, best known for his films \u201cMata\u201d, \u201cEddelu Manjunatha\u201d, and \u201cDirector&#39;s Special\u201d, was reportedly struggling with financial issues at&nbsp;...",
-    "news_item_url": "https://www.hindustantimes.com/india-news/guruprasad-found-dead-at-his-home-police-suspect-suicide-101730661363822.html",
-    "picture_source": "Business Today",
-    "approx_traffic": "100,000+"
-  },
-  {
     "country": "Argentina",
     "title": "Clima",
-    "pubDate": "Mon, 04 Nov 2024 13:00:00 -0300",
+    "pubDate": "Mon, 04 Nov 2024 12:00:00 -0300",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSHooLccFO8bBI5VXZwySGVaZUSmDUE7bxcAz0AjU8GrI6WG8Czr5IDsJ3-EDk2lyCvm0-jba5c",
-    "news_item_snippet": "Este lunes, seg\u00fan el SMN, existen altas chances de tormentas fuertes por la ma\u00f1ana y tarde. Si bien el s\u00e1bado cayeron algunas gotas aisladas, se tratar\u00eda de&nbsp;...",
-    "news_item_url": "https://www.el1digital.com.ar/sociedad/clima-en-la-matanza-llega-la-primera-lluvia-de-noviembre/",
+    "news_item_snippet": "El Servicio Meteorol\u00f3gico Nacional anticipa que este lunes 4 de noviembre, la temperatura rondar\u00e1 entre 22 y 35;descartan lluvias durante la jornada - LA&nbsp;...",
+    "news_item_url": "https://www.lanacion.com.ar/clima/santa-fe/rosario/clima-en-rosario-hoy-cual-es-el-pronostico-del-tiempo-para-el-4-de-noviembre-nid04112024/",
     "picture_source": "El1Digital",
     "approx_traffic": "1,000,000+"
   },
   {
     "country": "Argentina",
-    "title": "Pronostico",
+    "title": "Tiempo",
     "pubDate": "Mon, 04 Nov 2024 14:00:00 -0300",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQ4OEqoVNW7E0waDru2_Tp48TPTEH9f3qc6agt5n1IlgH1b4aPp0qmyqQUPO2mkZMZ9fNnIOP_N",
+    "news_item_snippet": "El servicio de Satelmet pronostica para este martes 5 de noviembre una jornada con una temperatura m\u00ednima de 12 grados y una m\u00e1xima de 31 en Bah\u00eda Blanca.",
+    "news_item_url": "https://www.lanueva.com/nota/2024-11-4-17-28-0-el-pronostico-asi-estara-el-tiempo-este-martes-en-la-ciudad",
+    "picture_source": "Memo",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "Argentina",
+    "title": "Pronostico",
+    "pubDate": "Mon, 04 Nov 2024 12:00:00 -0300",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTT1zVE9tP6dlRdahOGuHJMr0HP-7QPv_34H6hsVsrdY8HB3ctEnSyUrRy-Mz3BMCukz1QXj8vJ",
-    "news_item_snippet": "Este lunes, 4 de noviembre de 2024, el clima en Santiago de Quer\u00e9taro registrar\u00e1 una temperatura m\u00ednima de 9 grados y una m\u00e1xima de 28 grados,&nbsp;...",
-    "news_item_url": "https://www.cronista.com/mexico/clima/pronostico-del-tiempo-para-queretaro-como-estara-el-clima-este-lunes-4-de-noviembre/",
+    "news_item_snippet": "El Servicio Meteorol\u00f3gico Nacional anticipa que este lunes 4 de noviembre, la temperatura rondar\u00e1 entre 16 y 25;descartan lluvias durante la jornada - LA&nbsp;...",
+    "news_item_url": "https://www.lanacion.com.ar/clima/buenos-aires/pergamino/clima-en-pergamino-hoy-cual-es-el-pronostico-del-tiempo-para-el-4-de-noviembre-nid04112024/",
     "picture_source": "El Cronista",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "Argentina",
+    "title": "Adidas",
+    "pubDate": "Mon, 04 Nov 2024 09:00:00 -0300",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQWAlBDek_DAyzwIuLzQqORW13lK0H9nRc-mRwyzmbkoGPBXh93DIQ4bPAobPH3xfE0Ukkicwdh",
+    "news_item_snippet": "Especialmente pensada para practicar deporte en la monta\u00f1a y estas zapatillas Eastrail, con su tejido Gore-Tex son perfectas para trail running o trekking.",
+    "news_item_url": "https://www.esquire.com/es/moda-hombre/a62800011/adidas-terrex-eastrail-gore-tex-zapatillas-hombre/",
+    "picture_source": "GQ M\u00e9xico",
     "approx_traffic": "50,000+"
   },
   {
@@ -164,8 +164,8 @@
     "title": "Melbourne Cup 2024",
     "pubDate": "Mon, 04 Nov 2024 10:00:00 +1100",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQcTkbDUkgYwKIY1920NujfdALdBLZcKleHHkNJwM9qpLrvjNOghQWWTeFCYJJkTweUnfRqK5oC",
-    "news_item_snippet": "Here we are, spring has completely sprung, the air is warm and thick with the scent of the Flemington roses. It is the first Tuesday in November,&nbsp;...",
-    "news_item_url": "https://www.espn.com.au/betting/story/_/id/41968115/2024-melbourne-cup-field-complete-guide-jockeys-trainers-tips-odds-form",
+    "news_item_snippet": "FOR: Master Irish trainer in Willie Mullins who&#39;s been here several times and is hellbent on winning the Cup. Top international jockey from England in William&nbsp;...",
+    "news_item_url": "https://www.foxsports.com.au/horse-racing/melbourne-cup/melbourne-cup-2024-cheat-sheet-why-every-horse-can-and-cant-win-analysis-form-guide-tips-form-best-prediction/news-story/5922e7b4d263266e4636f9bffde22b37",
     "picture_source": "The Age",
     "approx_traffic": "200,000+"
   },
@@ -173,7 +173,7 @@
     "country": "Australia",
     "title": "Pakistan vs Australia",
     "pubDate": "Mon, 04 Nov 2024 10:00:00 +1100",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSmw1BgfhHZU_4aURo_30MWDWGsFUEmuo4qyj232NinqvtMwehGIfSv683R_sPwf609-rbj8i_7",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSfG3t1RJxtG8JnFtHta0kuNwXhMlvuhGWu6w4P2B2Dysr1UEsfInhfmQ97yUesqmhfoui31A0Q",
     "news_item_snippet": "AUS vs PAK 2024/25, Australia vs Pakistan Match Report: A scorching spell from Starc restricted the visitors to 203, but Rauf nearly stole the game away.",
     "news_item_url": "https://www.espncricinfo.com/series/australia-vs-pakistan-2024-25-1426544/australia-vs-pakistan-1st-odi-1426549/match-report",
     "picture_source": "Fox Sports",
@@ -181,42 +181,32 @@
   },
   {
     "country": "Brazil",
-    "title": "Flamengo x Atl\u00e9tico-MG",
-    "pubDate": "Mon, 04 Nov 2024 12:00:00 -0500",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSFWIkrgRzG_Sjx9wjnMcGIQ-t3-YbjsjQIKa_8b_NMsIr2skir33ZfPOaCdIR2t24unDFtc1DB",
-    "news_item_snippet": "Como o t\u00e9cnico, os jogadores e a torcida alvinegra se comportaram nos momentos decisivos da partida de ida da decis\u00e3o da Copa do Brasil.",
-    "news_item_url": "https://ge.globo.com/futebol/times/atletico-mg/noticia/2024/11/04/flamengo-x-atletico-mg-da-agitacao-de-milito-a-esperanca-de-kardec-veja-reacoes-do-time-do-galo.ghtml",
+    "title": "Al-Hilal",
+    "pubDate": "Mon, 04 Nov 2024 10:00:00 -0500",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSKhJVqqH-r30xyCZmwWZMnJXnd_JoJw7jGljY1WI_ImTqAS6bYNb0-6T3YCiv1DB91c7nRfIyo",
+    "news_item_snippet": "Craque do time saudita come\u00e7ar\u00e1 a partida mais uma vez no banco de reservas.",
+    "news_item_url": "https://www.espn.com.br/futebol/artigo/_/id/14401947/neymar-titular-jorge-jesus-define-al-hilal-jogo-champions-league-asiatica-veja-time",
     "picture_source": "globoesporte.com",
-    "approx_traffic": "1,000,000+"
+    "approx_traffic": "200,000+"
   },
   {
     "country": "Brazil",
     "title": "Agnaldo Rayol",
     "pubDate": "Mon, 04 Nov 2024 08:00:00 -0500",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcR0VINhxHMeBTUTgiKFsKAvdcDmd8xLQEXOX3RHSZYLRoMHhGKMrlna6L5t2i3ZM5RqiYWfpuax",
-    "news_item_snippet": "Cantor morreu ap\u00f3s uma queda em casa, segundo a fam\u00edlia. Ele chegou a ser levado ao hospital, mas n\u00e3o resistiu.",
-    "news_item_url": "https://g1.globo.com/sp/sao-paulo/noticia/2024/11/04/cantor-agnaldo-rayol-morre-em-sp-aos-86-anos.ghtml",
-    "picture_source": "Forbes Brasil",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "Brazil",
-    "title": "Al-Hilal",
-    "pubDate": "Mon, 04 Nov 2024 10:00:00 -0500",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRuBhY3Kr2ni0azAOw6BaN2fGlpGOx3-03tXT2BpyQ4oy0HI8f4Efo-38aNPqlGTglodOKn0FAA",
-    "news_item_snippet": "Jogo ser\u00e1 nesta segunda-feira (04), \u00e0s 15h (de Bras\u00edlia), pela quarta rodada da Champions Asi\u00e1tica. O duelo ser\u00e1 na Kingdom Arena.",
-    "news_item_url": "https://www.uol.com.br/esporte/ultimas-noticias/2024/11/04/al-hilal-x-esteghlal-onde-assistir-e-horario-do-jogo-da-champions-asiatica.htm",
-    "picture_source": "ESPN.com.br",
-    "approx_traffic": "100,000+"
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSQPmtnjnZoonJX7Eg5B345Xm1G4yT6EFwj_b9RrrE96jOCDpwqPo1HcV9hA8szcPU-dr_rSsBL",
+    "news_item_snippet": "Cantor e ator sofreu uma queda em casa durante a madrugada; carreira durou sete d\u00e9cadas e incluiu r\u00e1dio, cinema e televis\u00e3o.",
+    "news_item_url": "https://forbes.com.br/forbeslife/2024/11/rei-da-voz-agnaldo-rayol-morre-aos-86-anos/",
+    "picture_source": "EBC",
+    "approx_traffic": "200,000+"
   },
   {
     "country": "Canada",
     "title": "Quincy Jones",
     "pubDate": "Mon, 04 Nov 2024 05:00:00 -0500",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQqV_FV16AigM5mg9vj8nihQmVBcyO-ZLLqW13jaNK8w639ZoM3o4uvQJ6rSKK8OS9p9HM11NB4",
-    "news_item_snippet": "De Frank Sinatra \u00e0 Michael Jackson, du jazz au hip-hop, Quincy Jones a su suivre le pouls de la pop au cours d&#39;une carri\u00e8re longue de plus de sept&nbsp;...",
-    "news_item_url": "https://ici.radio-canada.ca/nouvelle/2117340/quincy-jones-mort",
-    "picture_source": "Globalnews.ca",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcS3IVh17_STSVcAXibUYoME9LvOQKgQEnYAwlYMqxQ8Jou-Pm-o441rpoGBMhkEHcg_96p6-f5S",
+    "news_item_snippet": "Quincy Jones transformed leadership with adaptability and collaboration. His evolution from jazz to super producer teaches timeless lessons in resilience&nbsp;...",
+    "news_item_url": "https://www.forbes.com/sites/jeetendrsehdev/2024/11/04/quincy-jones-lessons-in-leadership-collaboration-and-effortless-cool/",
+    "picture_source": "CBC.ca",
     "approx_traffic": "50,000+"
   },
   {
@@ -233,11 +223,21 @@
     "country": "Canada",
     "title": "US election",
     "pubDate": "Sun, 03 Nov 2024 17:00:00 -0500",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQkbEWb23rcWHRYtxFYTP9kKszXjels3yGwusjDBERn53i0Yc4a0U00YRtd--z4BIdpcO69zW6Z",
-    "news_item_snippet": "In November 2020, when Americans last went to the polls to elect a president, it took four days after voting closed for Joe Biden to be declared the winner.",
-    "news_item_url": "https://theconversation.com/us-election-what-time-do-the-polls-close-and-when-will-the-results-be-known-an-expert-explains-242635",
-    "picture_source": "Aljazeera.com",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQhsYohM4YOSjnz9z-iyNcj5LGESTpVLvv3glrCzItGxjz210kk7MPmogpeGKVbTEtH81FqeTrB",
+    "news_item_snippet": "One day before Election Day, Trump and Harris focus on swing states as they aim to sway undecided voters.",
+    "news_item_url": "https://www.aljazeera.com/news/2024/11/4/us-election-1-day-left-what-polls-say-what-harris-and-trump-are-up-to",
+    "picture_source": "The Conversation CA",
     "approx_traffic": "100,000+"
+  },
+  {
+    "country": "South Korea",
+    "title": "\ubbf8\uad6d \ub300\uc120",
+    "pubDate": "Mon, 04 Nov 2024 10:00:00 +0900",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSjYEriBefitynDyYf3rothKtB8dXfSqTcd1WI_f2xaAgR3M88qI_zFJLvIaEtiuWnxH3syuODZ",
+    "news_item_snippet": "\ubbf8\uad6d \ub300\uc120\uc774, \uc6b0\ub9ac \uc2dc\uac04\uc73c\ub85c \ub0b4\uc77c \uc800\ub141\ubd80\ud130 \uc2dc\uc791\ud569\ub2c8\ub2e4. \ub450 \ud6c4\ubcf4\ub294 \ub9c8\uc9c0\ub9c9 \uc8fc\ub9d0\ub3c4 \uacbd\ud569\uc8fc \uc720\uc138\uc5d0 \ub098\uc130\ub294\ub370 \uc5ec\uc804\ud788 \ucd08\ubc15\ube59 \uc2b9\ubd80\uac00 \uc810\uccd0\uc9c0\uace0 \uc788\uc2b5\ub2c8\ub2e4.",
+    "news_item_url": "https://imnews.imbc.com/replay/2024/nw930/article/6652597_36507.html",
+    "picture_source": "BBC News \ucf54\ub9ac\uc544",
+    "approx_traffic": "50,000+"
   },
   {
     "country": "South Korea",
@@ -251,13 +251,23 @@
   },
   {
     "country": "Saudi Arabia",
+    "title": "\u0627\u0644\u0647\u0644\u0627\u0644",
+    "pubDate": "Sun, 03 Nov 2024 16:00:00 +0300",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRxhF5m7nBBsNtX0rK2ATw-QeNf5R084M1goPlMTl0Tlql36FcLiWrLjb_pDeQaFBt67aZ3vMtA",
+    "news_item_snippet": "\u064a\u0648\u0627\u062c\u0647 \u0627\u0644\u062c\u0646\u0648\u0628 \u0625\u0641\u0631\u064a\u0642\u064a \u0628\u064a\u062a\u0633\u0648 \u0645\u0648\u0633\u064a\u0645\u0627\u0646\u064a\u060c \u0645\u062f\u0631\u0628 \u0641\u0631\u064a\u0642 \u0627\u0644\u0627\u0633\u062a\u0642\u0644\u0627\u0644 \u0627\u0644\u0625\u064a\u0631\u0627\u0646\u064a \u0627\u0644\u0623\u0648\u0644 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062f\u0645\u060c \u0627\u0644\u0625\u062b\u0646\u064a\u0646\u060c \u0627\u0644\u0647\u0644\u0627\u0644 \u0627\u0644\u0633\u0639\u0648\u062f\u064a ...",
+    "news_item_url": "https://arriyadiyah.com/853302/%D9%85%D9%88%D8%B3%D9%8A%D9%85%D8%A7%D9%86%D9%8A-%D9%8A%D9%88%D8%A7%D8%AC%D9%87-%D8%A7%D9%84%D9%87%D9%84%D8%A7%D9%84-%D8%A8%D8%B0%D9%83%D8%B1%D9%89-%D8%B1%D8%A8%D8%A7%D8%B9%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D9%88%D9%86%D8%AF%D9%8A%D8%A7%D9%84",
+    "picture_source": "\u0627\u0644\u062c\u0632\u064a\u0631\u0629 \u0646\u062a",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "Saudi Arabia",
     "title": "\u0627\u0644\u0623\u0647\u0644\u064a \u0636\u062f \u0627\u0644\u0634\u0631\u0637\u0629",
     "pubDate": "Sun, 03 Nov 2024 11:00:00 +0300",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTjZV787oD2kDWOG1T9zKqniu3dR8eeF-i6vqL59VcEo1wdS8T-XGNfeue6JuWENYyU9fc2MG-l",
-    "news_item_snippet": "\u064a\u0633\u062a\u0636\u064a\u0641 \u0627\u0644\u0641\u0631\u064a\u0642 \u0627\u0644\u0623\u0648\u0644 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062f\u0645\u060c \u0628\u0627\u0644\u0646\u0627\u062f\u064a \u0627\u0644\u0623\u0647\u0644\u064a \u0627\u0644\u0633\u0639\u0648\u062f\u064a\u060c \u0646\u0638\u064a\u0631\u0647 \u0627\u0644\u0634\u0631\u0637\u0629 \u0627\u0644\u0639\u0631\u0627\u0642\u064a \u0641\u064a \u0627\u0644\u062c\u0648\u0644\u0629 \u0627\u0644\u0631\u0627\u0628\u0639\u0629 \u0645\u0646 \u062f\u0648\u0631\u064a \u0623\u0628\u0637\u0627\u0644 \u0622\u0633\u064a\u0627 \u0644\u0644\u0646\u062e\u0628\u0629 \u0645\u0633\u0627\u0621 \u0627\u0644\u064a\u0648\u0645 \u0627\u0644\u0627\u062b\u0646\u064a\u0646.",
-    "news_item_url": "https://www.eremnews.com/sports/gg90g2l",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSmpPtzUUIeJr5_RTWuLWA12qv8QISI2JjMCDyshdAlfTHjSWuiE9Zm9rOevV5ZvjgnQvVJ0c2E",
+    "news_item_snippet": "\u062a\u0642\u062f\u0645 \u0623\u0647\u0644\u064a \u062c\u062f\u0629 \u0639\u0646 \u0637\u0631\u064a\u0642 \u0641\u064a\u0631\u0645\u064a\u0646\u064a\u0648 \u0641\u0649 \u0627\u0644\u062f\u0642\u064a\u0642\u0629 14 \u060c \u0648\u0623\u0647\u062f\u0631 \u0641\u0631\u0627\u0646\u0643 \u0643\u064a\u0633\u064a \u0631\u0643\u0629 \u062c\u0632\u0627\u0621 \u0641\u0649 \u0627\u0644\u062f\u0642\u064a\u0642\u0629 25 \u060c \u0642\u0628\u0644 \u0623\u0646 \u064a\u062a\u0639\u0627\u062f\u0644 \u0627\u0644\u0634\u0631\u0637\u0629 \u0627\u0644\u0639\u0631\u0627\u0642\u064a \u0641\u0649 \u0627\u0644\u062f\u0642\u064a\u0642\u0629 29 \u0639\u0646 \u0637\u0631\u064a\u0642 \u0633\u062c\u0627\u062f \u062c\u0627\u0633\u0645\u060c \u0648\u0642\u0628\u0644&nbsp;...",
+    "news_item_url": "https://www.youm7.com/story/2024/11/4/%D8%A7%D9%84%D8%A3%D9%87%D9%84%D9%8A-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A-%D9%8A%D8%AA%D9%82%D8%AF%D9%85-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%B4%D8%B1%D8%B7%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%89-%D8%A8%D8%AB%D9%86%D8%A7%D8%A6%D9%8A%D8%A9-%D9%81%D9%8A%D8%B1%D9%85%D9%8A%D9%86%D9%88-%D8%A8%D8%A7%D9%84%D8%B4%D9%88%D8%B7-%D8%A7%D9%84%D8%A3%D9%88%D9%84/6765902",
     "picture_source": "\u0627\u0644\u062c\u0632\u064a\u0631\u0629 \u0646\u062a",
-    "approx_traffic": "50,000+"
+    "approx_traffic": "100,000+"
   },
   {
     "country": "Saudi Arabia",
@@ -273,19 +283,19 @@
     "country": "France",
     "title": "CAF",
     "pubDate": "Mon, 04 Nov 2024 16:00:00 +0100",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcT-Rk_XZ6b-rSlVDxw_V2lM9zzXSMQQN19UxpiuS63A2YlKECdZgMQLD_1C2j3BwB7bEqgTMW_z",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTT5JFnzvXI-b48KsKbO7726gkymEDajOx1hmoWsLo7hZqpsvP1Kd1EuY7eWSVLGSQsWeqAt2vn",
     "news_item_snippet": "Depuis plusieurs jours, le site internet de la Caisse d&#39;allocations familiales (CAF) est tr\u00e8s souvent inaccessible. Certains b\u00e9n\u00e9ficiaires commencent \u00e0&nbsp;...",
     "news_item_url": "https://www.clubic.com/actualite-542504-le-site-de-la-caf-ne-fonctionne-plus-ou-mal-depuis-plusieurs-jours-que-se-passe-t-il.html",
-    "picture_source": "Clubic",
+    "picture_source": "Mes Allocs",
     "approx_traffic": "200,000+"
   },
   {
     "country": "France",
     "title": "Nekfeu",
     "pubDate": "Mon, 04 Nov 2024 00:00:00 +0100",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRTrLV71-udOGYXaxKaZDsjLU18VawQMMYZsWOPs7vIgMDUWjT6lzvu82dF8iA5R1lBQNoBkmmH",
-    "news_item_snippet": "Un communiqu\u00e9 publi\u00e9 dimanche soir par l&#39;avocate de son ex-\u00e9pouse accuse le rappeur Nekfeu de violences et de viols.",
-    "news_item_url": "https://www.bienpublic.com/faits-divers-justice/2024/11/04/le-rappeur-nekfeu-accuse-de-viols-et-violences-par-son-ex-femme",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSfIoF8kevGDVU2KdEqajHhxojGZ3gnCkxCyIUM_rT3HS6nsYFLDaTFYuEtLpWEZYdM29grLSE7",
+    "news_item_snippet": "Le rappeur Nekfeu, de son vrai nom Ken Samaras, est accus\u00e9 par son ex-compagne de viols et de violences conjugales, a confirm\u00e9 aupr\u00e8s de l&#39;Humanit\u00e9 son&nbsp;...",
+    "news_item_url": "https://www.humanite.fr/societe/metoo/lepouse-du-rappeur-nekfeu-laccuse-de-viols-et-de-violences-conjugales-et-souhaite-etre-protegee-par-la-justice-lartiste-replique",
     "picture_source": "BFMTV",
     "approx_traffic": "100,000+"
   },
@@ -293,9 +303,9 @@
     "country": "France",
     "title": "Quincy Jones",
     "pubDate": "Mon, 04 Nov 2024 10:00:00 +0100",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSPXJikF3IYQE02QBvWgr8t_5LxqNY9a5FwZJIHtDSA--mbzJsr7eXhOZV_E8lqcF6kl8pciMH4",
-    "news_item_snippet": "Le producteur am\u00e9ricain \u00e0 qui l&#39;on doit le \u201cThriller\u201d de Michael Jackson passa du jazz au hip-hop toujours avec succ\u00e8s. Une exceptionnelle carri\u00e8re qui a&nbsp;...",
-    "news_item_url": "https://www.telerama.fr/musique/quincy-jones-trompettiste-compositeur-et-genie-du-son-est-mort-7022863.php",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcR7hAFsZ5x6JlHFxlq4EXtDUCMK1Vzcdcomxi7KZDdFN8_ETiMtaw2mApPqSiP88ceBxFS7b5H7",
+    "news_item_snippet": "&quot;La musique de Quincy Jones a beaucoup inspir\u00e9 en tant que musiciens.&quot; Robinson Khoury. Programmation musicale. 19h00.",
+    "news_item_url": "https://www.radiofrance.fr/francemusique/podcasts/au-coeur-du-jazz/hommage-a-quincy-jones-5434266",
     "picture_source": "Franceinfo",
     "approx_traffic": "100,000+"
   },
@@ -303,21 +313,11 @@
     "country": "France",
     "title": "Kamel Daoud",
     "pubDate": "Mon, 04 Nov 2024 14:00:00 +0100",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRW0ax2nqVNCPT0oMJnah3sSZ-DTHfVtj72sPNef2DgtGZ3bNlNEG6rKumTfK4SJFz9fuAap64r",
-    "news_item_snippet": "L&#39;\u00e9crivain franco-alg\u00e9rien a re\u00e7u le prix Goncourt ce lundi pour Houris. Un roman sur le destin d&#39;Aube, jeune femme muette depuis qu&#39;un islamiste lui a&nbsp;...",
-    "news_item_url": "https://www.bfmtv.com/people/kamel-daoud-prix-goncourt-2024-remercie-la-france-un-pays-qui-protege-les-ecrivains_AD-202411040572.html",
-    "picture_source": "Franceinfo",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQlltBgs1TiebsTaB-D0FZ9lKomU78kBtHWlbdui1nBRnigWSoEZy4e1SA2LX5NwanrD0aRfxjx",
+    "news_item_snippet": "Ce lundi 24 octobre a \u00e9t\u00e9 remis le du prix Goncourt 2024. Kamel Daoud remporte le titre au premier tour, avec six voix. Qui est cet \u00e9crivain alg\u00e9rien qui a&nbsp;...",
+    "news_item_url": "https://www.rtl.fr/culture/arts-spectacles/goncourt-2024-qui-est-kamel-daoud-laureat-du-prestigieux-prix-litteraire-francais-7900436165",
+    "picture_source": "Le Monde",
     "approx_traffic": "50,000+"
-  },
-  {
-    "country": "France",
-    "title": "Election americaine",
-    "pubDate": "Sun, 03 Nov 2024 23:00:00 +0100",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRMD45Qd6tgpi3BAb4kqW2ep85yld4nT7438W1S9aAhl39n2BJY-n1vSh-sJ-Plj0CWeAjO9Lpn",
-    "news_item_snippet": "Le 5 novembre, les Am\u00e9ricains sont appel\u00e9s aux urnes. Que disent les instituts de sondage \u00e0 quelques heures du moment fatidique ? Donald Trump et Kamala&nbsp;...",
-    "news_item_url": "https://www.rtl.fr/actu/international/election-americaine-2024-trump-ou-harris-les-resultats-des-sondages-a-j-1-du-scrutin-7900436037",
-    "picture_source": "BFMTV",
-    "approx_traffic": "100,000+"
   },
   {
     "country": "Germany",
@@ -391,6 +391,26 @@
   },
   {
     "country": "Italy",
+    "title": "Parma-Genoa",
+    "pubDate": "Mon, 04 Nov 2024 13:00:00 +0100",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSErB9DUXYWLy1cWpsrMaan0ANbSX458VWbV7tlzu-Pe3Os7R6y3JXZ7JulavX6W8MMon2YiJda",
+    "news_item_snippet": "Il Genoa batte 1-0 il Parma nel posticipo dell&#39;undicesima giornata di Serie A disputato allo stadio &#39;Tardini&#39; della citt\u00e0 emiliana, sotto una nebbia via via&nbsp;...",
+    "news_item_url": "https://www.adnkronos.com/sport/parma-genoa-risultato-serie-a_1wlrR3O0qElKhnWdNTNXTX",
+    "picture_source": "Sky Sport",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "Italy",
+    "title": "Empoli-Como",
+    "pubDate": "Mon, 04 Nov 2024 18:00:00 +0100",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQ_zdJ0KT48qTBppZ5rYOHLZnLdDEN8AYp_ABUVcM8P2JhQsBVgaq2DIX1vE0BxKcLAgxNslNpr",
+    "news_item_snippet": "L&#39;Empoli sconfigge 1-0 il Como nel posticipo dell&#39;undicesima giornata di Serie A, disputato allo stadio &#39;Castellani&#39; della citt\u00e0 toscana.",
+    "news_item_url": "https://www.adnkronos.com/sport/empoli-como-1-0-gol-di-pellegri_3SINH6Ukw7KAF4jqKWkkRr",
+    "picture_source": "Sky Sport",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Italy",
     "title": "Quincy Jones",
     "pubDate": "Mon, 04 Nov 2024 10:00:00 +0100",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRQo0PmJeKV30KcCVGNV6aJAfCPWWGq15lSwdDXt1o4t-ZrcZlyDx95-chmPm1wgM45Rl1bGCJE",
@@ -414,8 +434,8 @@
     "title": "Elecciones Estados Unidos",
     "pubDate": "Sun, 03 Nov 2024 17:00:00 -0600",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRgh4PFOvo1c5-qnUcQhCbo_cK-2vyTp8DGuGj16f5mPfOBySGHsIh5xcgfWqMr4MxxyjrRtugK",
-    "news_item_snippet": "Descubre c\u00f3mo podr\u00e1s seguir en espa\u00f1ol y en vivo los resultados de las Elecciones en Estados Unidos. Las mejores apps y webs para Android y iPhone.",
-    "news_item_url": "https://as.com/meristation/betech/como-seguir-los-resultados-de-las-elecciones-en-estados-unidos-las-mejores-apps-y-webs-para-android-y-iphone-n/",
+    "news_item_snippet": "Kamala Harris y Donald Trump no tienen ventaja clara en encuestas para el voto popular ni en las proyecciones rumbo al Colegio Electoral; cualquiera puede&nbsp;...",
+    "news_item_url": "https://unamglobal.unam.mx/global_tv/elecciones-en-estados-unidos-se-proyecta-un-cerrado-duelo/",
     "picture_source": "New York Times en Espa\u00f1ol",
     "approx_traffic": "50,000+"
   },
@@ -433,10 +453,10 @@
     "country": "Spain",
     "title": "Bono Comercio Xunta",
     "pubDate": "Mon, 04 Nov 2024 01:00:00 +0100",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcT4kA8o7RkNnJH-hWcgdYvhsvfE5l0Iwod458M3ZNvXmcASA9qTVKW_5q1Pnjy19noioj-Z1o9l",
-    "news_item_snippet": "Por quinto a\u00f1o consecutivo, la Xunta de Galicia ha decidido repetir su iniciativa de los Bonos Activa Comercio en su edici\u00f3n invernal y as\u00ed, despu\u00e9s de&nbsp;...",
-    "news_item_url": "https://www.lavanguardia.com/andro4all/internet/ya-disponibles-los-bono-activa-comercio-2024-de-invierno-de-galicia-asi-puedes-solicitarlos-desde-el-movil",
-    "picture_source": "La Raz\u00f3n",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQJXnj6ProSAhfKwNcO4pabJK93zqmyaK84zGbvIbmX4BSDtXlcdRbWiPu32Z2pDClOgha7OQ15",
+    "news_item_snippet": "Cada bono otorga un descuento total de 30 euros, aplicable en compras realizadas en los comercios gallegos que se hayan inscrito en la campa\u00f1a. Los consumidores&nbsp;...",
+    "news_item_url": "https://www.larazon.es/galicia/asi-bono-comercio-xunta-que-puede-solicitar-hoy_2024110467288a5cd8f8950001d99293.html",
+    "picture_source": "Andro4all",
     "approx_traffic": "50,000+"
   },
   {
@@ -444,8 +464,8 @@
     "title": "Noticias",
     "pubDate": "Mon, 04 Nov 2024 11:00:00 +0100",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRmNBWIwCPX8ZBs7J2aUEL14_4jdBDVP9b0vMXid2fxODsLjK340wmXA9_E95GZtukZDGZeScWW",
-    "news_item_snippet": "Estas son algunas de las noticias del d\u00eda en Castilla-La Mancha. Puedes consultar m\u00e1s en nuestra portada de NoticiasCMM.es, en el informativo de televisi\u00f3n&nbsp;...",
-    "news_item_url": "https://www.cmmedia.es/noticias/castilla-la-mancha/noticias-dia-castilla-mancha-4-noviembre-2024.html",
+    "news_item_snippet": "Varios sucesos y detenciones en la provincia, la sangrienta fuga de Burgos: dos polic\u00edas asesinados y un criminal en libertad y la \u00faltima hora de la DANA,&nbsp;...",
+    "news_item_url": "https://www.burgosconecta.es/provincia/diez-noticias-imprescindibles-burgos-lunes-noviembre-20241104201227-nt.html",
     "picture_source": "euronews",
     "approx_traffic": "50,000+"
   },
@@ -454,8 +474,8 @@
     "title": "Quincy Jones",
     "pubDate": "Mon, 04 Nov 2024 09:00:00 +0000",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRMdVd-CZKIRBy0suJnmDJBYY1ru8usUd0jOKG4g9_zk8V_mheOAYHLcIPs3Tlg71YhTSmV1_Fk",
-    "news_item_snippet": "Widely and wildly talented musician and industry mogul worked with Michael Jackson, Frank Sinatra, Will Smith and others.",
-    "news_item_url": "https://www.theguardian.com/music/2024/nov/04/quincy-jones-musician-michael-jackson-producer-dies",
+    "news_item_snippet": "He was in a gang as a child but became Michael Jackson and Frank Sinatra&#39;s favourite collaborator.",
+    "news_item_url": "https://www.bbc.co.uk/news/articles/ckg74zn1dy9o",
     "picture_source": "BBC News",
     "approx_traffic": "100,000+"
   },
@@ -463,11 +483,11 @@
     "country": "United Kingdom",
     "title": "US election",
     "pubDate": "Mon, 04 Nov 2024 11:00:00 +0000",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQkbEWb23rcWHRYtxFYTP9kKszXjels3yGwusjDBERn53i0Yc4a0U00YRtd--z4BIdpcO69zW6Z",
-    "news_item_snippet": "In November 2020, when Americans last went to the polls to elect a president, it took four days after voting closed for Joe Biden to be declared the winner.",
-    "news_item_url": "https://theconversation.com/us-election-what-time-do-the-polls-close-and-when-will-the-results-be-known-an-expert-explains-242635",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSIa0M-piTNISan7IBZqkFChWvuy62hP2E7cCrXlMliTv8779gSTNfdI6WaP0LgNG6Xd9UTtqup",
+    "news_item_snippet": "Donald Trump is polling better than in 2016 and 2020, either because the pollsters are compensating for past errors or because he&#39;s emerged as a stronger&nbsp;...",
+    "news_item_url": "https://www.telegraph.co.uk/us/politics/0/who-win-2024-us-election-expert-predictions-new-president/",
     "picture_source": "Aljazeera.com",
-    "approx_traffic": "50,000+"
+    "approx_traffic": "100,000+"
   },
   {
     "country": "United Kingdom",
@@ -477,66 +497,6 @@
     "news_item_snippet": "London Underground strikes planned by the train drivers&#39; union Aslef will still go ahead, however, the RMT union announced on Friday afternoon their strike&nbsp;...",
     "news_item_url": "https://www.independent.co.uk/travel/news-and-advice/november-tube-strikes-2024-dates-london-rmt-aslef-b2640787.html",
     "picture_source": "Evening Standard",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United Kingdom",
-    "title": "Man United vs Chelsea",
-    "pubDate": "Sun, 03 Nov 2024 16:00:00 +0000",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRQbTCzMLcglw0H5GBI5P-_ougghqNqWgI9pDyW7zXFg5DCc1n7vKb4kwEH4AfCTpBUXwOTMCC8",
-    "news_item_snippet": "All the football updates as Manchester United and Chelsea shared the points in a Premier League clash at Old Trafford.",
-    "news_item_url": "https://www.aljazeera.com/sports/liveblog/2024/11/3/live-manchester-united-vs-chelsea-english-premier-league",
-    "picture_source": "BBC Sport",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "United Kingdom",
-    "title": "Until I Kill You",
-    "pubDate": "Sun, 03 Nov 2024 14:00:00 +0000",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRgn-OEjCMWhOdWQ-w6rcVZVVhunJMyToCzzo71jfwGG8wkpsJap2t8dqYKXd4BXrmtcGNLziRd",
-    "news_item_snippet": "The powerful true story of Delia Balmer - narrated by Anna Maxwell Martin. Discover how she bravely faced the brutality of serial killer John Sweeney and&nbsp;...",
-    "news_item_url": "https://www.itv.com/watch/until-i-kill-you:-the-real-story/10a3963/10a3963a0001",
-    "picture_source": "The Guardian",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "United Kingdom",
-    "title": "Edinburgh",
-    "pubDate": "Sun, 03 Nov 2024 00:00:00 +0000",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTt0uxLfS3sBUDQJpPzcNqWP7MpZCSn4W354sodNRnsM6TMUMzD4uak78Sw3aIkgQLaANwuCocx",
-    "news_item_snippet": "Tyre Extinguishers group stencils &#39;These cars kill Valencians&#39; on 4x4s in city to highlight SUVs&#39; role in climate crisis.",
-    "news_item_url": "https://www.theguardian.com/environment/2024/nov/04/edinburgh-activists-tyre-extinguishers-target-suvs-in-solidarity-with-spains-flood-victims",
-    "picture_source": "BBC News",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "United Kingdom",
-    "title": "Tottenham vs Aston Villa",
-    "pubDate": "Sun, 03 Nov 2024 14:00:00 +0000",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcR2i8DInJN3hxI6OXVA9kOW2SlUOZVIrm0JiO4UF3CWOW7vxyd_SeNUd23MnTJZby0gX9SlpG5g",
-    "news_item_snippet": "Dominic Solanke scored twice as Tottenham came from behind to beat Aston Villa in the Premier League. The \u00a365m summer signing doubled his league goal tally&nbsp;...",
-    "news_item_url": "https://www.bbc.co.uk/sport/football/live/cwy5j89dgjyt",
-    "picture_source": "Aston Villa",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "United Kingdom",
-    "title": "Man City",
-    "pubDate": "Sun, 03 Nov 2024 12:00:00 +0000",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQz2jpRbVEa-wYDMRsxbanWAoPZn6tfKaebm9f5xrSHBrmyiUd2510MBBF9NLtZxelGs0NcHAzZ",
-    "news_item_snippet": "City travel to Portugal on Monday afternoon, but ahead of the trip the team will take part in an open training session at the CFA. Our live stream on the Man&nbsp;...",
-    "news_item_url": "https://www.mancity.com/news/club/monday-marker-4-november-63866263",
-    "picture_source": "Manchester City FC",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "United Kingdom",
-    "title": "The Cure",
-    "pubDate": "Sun, 03 Nov 2024 12:00:00 +0000",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRWpNXG39L6p0bixuriAz7lK55e7SAoPvUNVbSkdmk6JziAFekIvYWcwim7wtrcXDm9t0Qd8gzX",
-    "news_item_snippet": "SCOTT DETROW, HOST: The Cure, the English rock band that for decades has ruled over a dark and mysterious corner of music, has just released its first album in&nbsp;...",
-    "news_item_url": "https://www.npr.org/2024/11/03/nx-s1-5172590/the-cures-first-album-in-16-years-is-romantic-and-melodic-says-npr-critic",
-    "picture_source": "The Guardian",
     "approx_traffic": "50,000+"
   }
 ]
