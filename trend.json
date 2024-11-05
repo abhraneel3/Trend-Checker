@@ -3,10 +3,10 @@
     "country": "United States",
     "title": "Election polls",
     "pubDate": "Mon, 04 Nov 2024 04:00:00 -0800",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTZtOMMkO9-JOC6sLHaUo6aIWx2TjjrCODbloC23XZvYnNFHTzp_yjeVNozVcr85jMXmFO721co",
-    "news_item_snippet": "Republican nominee attacks critics and vilifies migrants while Democratic rival lays out positive vision for America.",
-    "news_item_url": "https://www.theguardian.com/us-news/2024/nov/04/trump-harris-voters-us-election",
-    "picture_source": "Aljazeera.com",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSdOZfE4xpHCuwCutvPrlzzEmyApfoOhqYZr3L1PBn7MTBFpET7o6x4bvKrHU4s4RfWu_frOqRd",
+    "news_item_snippet": "American voters go to the polls on Tuesday to choose their next president. US election results are sometimes declared within hours of the polls closing,&nbsp;...",
+    "news_item_url": "https://www.bbc.com/news/articles/cde7ng85jwgo",
+    "picture_source": "Courier Journal",
     "approx_traffic": "2,000,000+"
   },
   {
@@ -17,6 +17,16 @@
     "news_item_snippet": "Patrick Mahomes tweaked his ankle but stayed in to lead Kansas City to 8-0.",
     "news_item_url": "https://www.espn.com/nfl/story/_/id/42199598/chiefs-hold-ot-win-buccaneers",
     "picture_source": "Buccaneers.com",
+    "approx_traffic": "2,000,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Election results",
+    "pubDate": "Mon, 04 Nov 2024 06:00:00 -0800",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTnsXCnfjR8dSBvvSb1IJvD-JuywXz61Xdews1x2vv84lhJuR3BdtwG4rxKwbbgDETR9J-PHLkt",
+    "news_item_snippet": "Calling the Harris-Trump race could take days \u2013 here&#39;s what to know about the presidential and congressional results.",
+    "news_item_url": "https://www.theguardian.com/us-news/2024/nov/05/harris-trump-election-results-when",
+    "picture_source": "BBC News",
     "approx_traffic": "1,000,000+"
   },
   {
@@ -31,41 +41,11 @@
   },
   {
     "country": "United States",
-    "title": "Election results",
-    "pubDate": "Mon, 04 Nov 2024 06:00:00 -0800",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTnsXCnfjR8dSBvvSb1IJvD-JuywXz61Xdews1x2vv84lhJuR3BdtwG4rxKwbbgDETR9J-PHLkt",
-    "news_item_snippet": "Here&#39;s how PBS News will cover election night and what could be a slow march to final results.",
-    "news_item_url": "https://www.pbs.org/newshour/politics/how-to-watch-2024-election-results",
-    "picture_source": "BBC News",
-    "approx_traffic": "500,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Where do i vote",
-    "pubDate": "Mon, 04 Nov 2024 08:00:00 -0800",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQISyy6HisYisEUOk8Dg86NQBmOKZHTkcog7rGI2KBpOMuQUbGeIODFDE5N3fZQiA_JSdIHAV6d",
-    "news_item_snippet": "PEORIA, Ill. -- It&#39;s time to vote for the Prairie Farms Bradley Athlete of the Month! Now that the calendar has shifted to November, it&#39;s time to look back&nbsp;...",
-    "news_item_url": "https://bradleybraves.com/news/2024/11/4/general-vote-for-october-prairie-farms-athlete-of-the-month.aspx",
-    "picture_source": "Bradley University Athletics",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Detroit Lions",
-    "pubDate": "Mon, 04 Nov 2024 13:00:00 -0800",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQJPwp37mtcyPDPhzE034sAAcFYwbuJ8j7xSyUz6pf0y6UfaamH0IMulHi8706Q6aEpBZ1vpTPz",
-    "news_item_snippet": "Early celebration: Fourth-year right tackle Penei Sewell is worth every penny of the contract extension he signed this offseason.",
-    "news_item_url": "https://www.detroitlions.com/news/detroit-lions-week-9-observations-goff-sewell-joseph",
-    "picture_source": "detroitlions.com",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "United States",
     "title": "Lions",
     "pubDate": "Mon, 04 Nov 2024 13:00:00 -0800",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTzVyqNVerSkXUMFXVWN4QrSgpgAUeF2AgoDsfGZ3ZjLWai-G6xcsFhbbaaWEOQvXMhSrNoJGtV",
-    "news_item_snippet": "If you simply glanced at the statistics from Sunday&#39;s Green Bay-Detroit game, you might have thought the Packers ran away with the win.",
-    "news_item_url": "https://www.nfl.com/news/packers-lament-self-inflicted-wounds-blowout-loss-lions-best-team-didnt-win",
+    "news_item_snippet": "GREEN BAY, Wis. \u2014 In their first outdoor game of the season, the Detroit Lions showed they could thrive even in lousy conditions as they took command of the&nbsp;...",
+    "news_item_url": "https://www.mininggazette.com/sports/2024/11/josephs-pick-6-helps-lions-beat-packers-24-14-and-take-command-of-nfc-north/",
     "picture_source": "detroitlions.com",
     "approx_traffic": "200,000+"
   },
@@ -73,10 +53,10 @@
     "country": "United States",
     "title": "Joe Rogan",
     "pubDate": "Mon, 04 Nov 2024 20:00:00 -0800",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTmYV_5bxrFy9EXQBWO_RBBe51cFcLoL1O8Xn4VEGzV7PwPLMjKQ8KRxz3tW3jQCpRGLSGveaN7",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSubW5byevYOxK_kf1seDuEU78dItPQVFEwWkflTLhJZyA2DuzlvO7tXTaEnhx3H0c4H1-G49kS",
     "news_item_snippet": "Rogan said Elon Musk made &quot;the most compelling case for Trump you&#39;ll hear&quot; as he shared an interview with the billionaire.",
     "news_item_url": "https://www.axios.com/2024/11/05/joe-rogan-endorses-trump-on-eve-of-election-day",
-    "picture_source": "CNN",
+    "picture_source": "BBC News",
     "approx_traffic": "200,000+"
   },
   {
@@ -111,12 +91,12 @@
   },
   {
     "country": "United States",
-    "title": "Current presidential polls",
-    "pubDate": "Mon, 04 Nov 2024 17:00:00 -0800",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQSXpdSlNJNK2p8vZHqK3-7nU9TMEPzimASiNA_piRkMsdZu8AUrFlI58T-k9NOk4TjSJ5bYyry",
-    "news_item_snippet": "Who&#39;s winning the latest 2024 U.S. presidential election polls? Current poll results ahead of Election Day 2024.",
-    "news_item_url": "https://www.indystar.com/story/news/politics/elections/2024/11/04/who-winning-us-presidential-election-day-polls-today-2024-current-trump-harris-voting-odds-indiana/76042775007/",
-    "picture_source": "The Indianapolis Star",
+    "title": "Election results so far",
+    "pubDate": "Mon, 04 Nov 2024 07:00:00 -0800",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTydsobwF7vE8NqPQlwTPQBfrkwzvm6Oszl192DSvuETLH-tJwmEOJs_vcnBlqczM-r0CblNiW6",
+    "news_item_snippet": "Here&#39;s how we will bring you the latest vote totals and estimates of the outcome on the presidential race and other contests around the country.",
+    "news_item_url": "https://www.nytimes.com/article/election-2024-results-needle.html",
+    "picture_source": "The New York Times",
     "approx_traffic": "100,000+"
   },
   {
@@ -152,41 +132,31 @@
   {
     "country": "United States",
     "title": "Duke basketball",
-    "pubDate": "Mon, 04 Nov 2024 16:00:00 -0800",
+    "pubDate": "Mon, 04 Nov 2024 18:00:00 -0800",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcR5ElanTU_jPTKMMVml1ml3nvdOYx1pQYvMA0TIB1BB87bSjtXBF1H07uoWpfUzyzIA5WRHXAuQ",
-    "news_item_snippet": "In its season opener against Maine, Duke debuted a trio of freshmen in the starting lineup who combined for 46 points in a wire-to-wire 96-62 win.",
-    "news_item_url": "https://www.dukechronicle.com/article/2024/11/duke-maine-mens-basketball-game-recap-jon-scheyer-cooper-flagg-khaman-maluach-kon-knueppel",
+    "news_item_snippet": "The University of Maine men&#39;s basketball program was defeated by #7 Duke on opening night at Cameron Indoor Stadium, 96-62.",
+    "news_item_url": "https://goblackbears.com/news/2024/11/4/mens-basketball-falls-at-7-duke-on-opening-night.aspx",
     "picture_source": "GoDuke.com",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
-    "title": "2024 election",
-    "pubDate": "Mon, 04 Nov 2024 09:00:00 -0800",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSXAXLZXNU7nzesr5PVCp_mVeK0NcSHj5K7Ma1lGRpRKmcaye-Kl_UzQpo8dneQbS4J4RzGXK0e",
-    "news_item_snippet": "On the eve of the 2024 U.S. presidential election, Stanford University President Jonathan Levin, four undergraduate student leaders, and Stanford alum and&nbsp;...",
-    "news_item_url": "https://news.stanford.edu/stories/2024/11/panel-reflects-on-civic-purpose-the-2024-election-and-beyond",
-    "picture_source": "CSUF News",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Electoral College",
-    "pubDate": "Mon, 04 Nov 2024 13:00:00 -0800",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTaQpGph4d5oX3misDt9nd6BqJ-utZBznjGPMrMM70exvL3c3u1RPR78WEiaeklTX7B5YYxnGFz",
-    "news_item_snippet": "Republicans Trump and Bush lost the popular vote during their presidential runs but won the Electoral College to claim the nation&#39;s top office. Some Democrats&nbsp;...",
-    "news_item_url": "https://www.nbcnewyork.com/decision-2024/what-is-the-electoral-college-how-many-votes-to-win/5952093/",
-    "picture_source": "NPR",
     "approx_traffic": "50,000+"
   },
   {
     "country": "United States",
     "title": "NFL trade deadline",
     "pubDate": "Mon, 04 Nov 2024 08:00:00 -0800",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQOu7M-GQ_8-Abwas8sEVpFLLUoCOxEAxe1mfh2CKUU6MzuYF22N8q-bzLVeMk7WtTwVvDecswG",
-    "news_item_snippet": "The 2024 NFL trade deadline is quickly approaching. Here are the latest trade rumors from around the NFL.",
-    "news_item_url": "https://www.freep.com/story/sports/nfl/2024/11/04/nfl-trade-deadline-rumors-teams-updates/76048314007/",
-    "picture_source": "NBC Southern California",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcR1UiagLuNaNsNnvUDY6lBnl9dFB6IMtiQYJ7PMO_mOFQlr36plFmUfz1zoVUoRJiuOURkletSx",
+    "news_item_snippet": "Marshon Lattimore, Myles Garrett, Maxx Crosby, Za&#39;Darius Smith and Azeez Ojulari are among the top players to watch at the 2024 NFL trade deadline.",
+    "news_item_url": "https://www.nbclosangeles.com/news/sports/nfl/2024-nfl-trade-deadline-time/3552527/",
+    "picture_source": "The Athletic",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Megyn Kelly",
+    "pubDate": "Mon, 04 Nov 2024 19:00:00 -0800",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcToiODEqSatPRT_s_gOb1BwT4IH_0M0p4iiPQNJ5oY9YKKgWwL5cXq-NoBW8Ts4G0-P-0QvBVNk",
+    "news_item_snippet": "Journalist and podcast host Megyn Kelly confirmed on Monday that she would speak at a rally for former President Donald Trump in Pittsburgh, Pennsylvania.",
+    "news_item_url": "https://gazette.com/news/wex/megyn-kelly-to-speak-at-trump-rally-in-pittsburgh/article_0f0350f3-bd02-5c97-af48-ec7aa84151c4.html",
+    "picture_source": "ABC News",
     "approx_traffic": "50,000+"
   },
   {
@@ -200,44 +170,74 @@
     "approx_traffic": "50,000+"
   },
   {
-    "country": "India",
-    "title": "US election 2024",
-    "pubDate": "Mon, 04 Nov 2024 09:30:00 +0530",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSxpX6WY_1swYYIiEZ06KnYzFvZOe4l6OK4yP0-w_3q6ZyEszCHj3RX6Yvea-GrWoKuNzlvnD_j",
-    "news_item_snippet": "US Election 2024 live: Kamala Harris and Donald Trump closed out this year&#39;s presidential race with a fierce battle for Pennsylvania on Monday.",
-    "news_item_url": "https://www.hindustantimes.com/world-news/us-election-2024-live-updates-donald-trump-kamala-harris-prepare-for-final-push-in-battleground-states-101730722931506.html",
-    "picture_source": "Business Today",
-    "approx_traffic": "500,000+"
+    "country": "United States",
+    "title": "Register to vote",
+    "pubDate": "Mon, 04 Nov 2024 16:00:00 -0800",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRsQpFXZ79TlrZQRNHByWao9NQjhpIl0Q6ZGfflx5GYNUtlYpeuc-Fsh6qmqe0TwMQbReIIu_gr",
+    "news_item_snippet": "Registration is a vital part of the voting process for Americans, but data taken over the years has shown that many eligible voters in the US might not be&nbsp;...",
+    "news_item_url": "https://www.cnet.com/news/politics/election-day-2024-which-states-will-let-you-register-to-vote-on-nov-5/",
+    "picture_source": "CBS News",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Ballot drop box near me",
+    "pubDate": "Mon, 04 Nov 2024 12:00:00 -0800",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRX6vsw8urjXdNweEkrAWxoaY3WvJndXf5TPmrxcGKWonIkFKkPfeICFhv2W_hEzC4xuwkF9iIG",
+    "news_item_snippet": "I dropped my ballot here Saturday evening and received a text Monday morning saying it has been counted. This is how voting should work in every state.",
+    "news_item_url": "https://www.seattlebikeblog.com/2024/11/04/which-ballot-dropbox-is-the-most-bike-friendly-its-not-too-late-to-register-or-get-a-replacement-ballot/",
+    "picture_source": "phoenix.gov",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Lakers vs Pistons",
+    "pubDate": "Mon, 04 Nov 2024 18:00:00 -0800",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcShtVMWN1N74thvbNGmWXhlxW8mzARSg_vCzrno5stkNtYh8hYxA3jB2xOlpJFShTpsAdx2VoBk",
+    "news_item_snippet": "The Lakers relied on the efforts of Anthony Davis, who dropped a double-double on 38 points and 12 rebounds, and LeBron James, who shot 5-for-8 from deep and&nbsp;...",
+    "news_item_url": "https://www.cbssports.com/nba/news/detroit-pistons-vs-los-angeles-lakers-how-to-watch-nba-online-tv-channel-live-stream-info-start-time-29446117/",
+    "picture_source": "ESPN",
+    "approx_traffic": "50,000+"
   },
   {
     "country": "India",
-    "title": "Virat Kohli",
-    "pubDate": "Mon, 04 Nov 2024 08:30:00 +0530",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRZx0IgdAfu2GehNcDWwi6CgzVziG_E0WZIfTynQ_M-XHmOY4ymFoqMJRv2w8CpDUAuw_a98Zhg",
-    "news_item_snippet": "Virat Kohli Birthday \u092d\u093e\u0930\u0924\u0940\u092f \u091f\u0940\u092e \u0915\u0947 \u0938\u094d\u091f\u093e\u0930 \u092c\u0932\u094d\u0932\u0947\u092c\u093e\u091c \u0935\u093f\u0930\u093e\u091f \u0915\u094b\u0939\u0932\u0940 \u0906\u091c \u092f\u093e\u0928\u0940 5 \u0928\u0935\u0902\u092c\u0930 \u0915\u094b \u0905\u092a\u0928\u093e 36\u0935\u093e\u0902 \u091c\u0928\u094d\u092e\u0926\u093f\u0928 \u092e\u0928\u093e \u0930\u0939\u0947 \u0939\u0948\u0902\u0964 \u0915\u093f\u0902\u0917 \u0915\u094b\u0939\u0932\u0940 \u0915\u0947 \u092c\u0930\u094d\u0925\u0921\u0947&nbsp;...",
-    "news_item_url": "https://www.jagran.com/cricket/headlines-virat-kohli-36th-birthday-see-top-10-records-made-by-team-india-star-cricketer-happy-birthday-king-kohli-23826063.html",
-    "picture_source": "Business Standard",
+    "title": "Sharda Sinha",
+    "pubDate": "Tue, 05 Nov 2024 08:30:00 +0530",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRTqAWVtNk5zdvsOnJBxxCrDhJn_MpYVz1A5fe-l0BUfacFLBlvAS0ghowNApPoVnJym9Riuxur",
+    "news_item_snippet": "\u0932\u094b\u0915 \u0917\u093e\u092f\u093f\u0915\u093e \u0936\u093e\u0930\u0926\u093e \u0938\u093f\u0928\u094d\u0939\u093e \u0915\u0940 \u0939\u093e\u0932\u0924 \u0917\u0902\u092d\u0940\u0930\u0964 \u092b\u094b\u091f\u094b- \u091c\u093e\u0917\u0930\u0923 \u0917\u094d\u0930\u093e\u092b\u093f\u0915\u094d\u0938\u0964 \u0930\u093e\u091c\u094d\u092f \u092c\u094d\u092f\u0942\u0930\u094b, \u0928\u0908 \u0926\u093f\u0932\u094d\u0932\u0940\u0964 \u0926\u093f\u0932\u094d\u0932\u0940 \u090f\u092e\u094d\u0938 \u092e\u0947\u0902 \u092d\u0930\u094d\u0924\u0940 \u092a\u0926\u094d\u092e \u092d\u0942\u0937\u0923 \u0938\u0947 \u0938\u092e\u094d\u092e\u093e\u0928\u093f\u0924 \u0932\u094b\u0915&nbsp;...",
+    "news_item_url": "https://www.jagran.com/delhi/new-delhi-city-ncr-bhojpuri-singer-sharda-sinha-is-battling-multiple-myeloma-what-is-this-disease-23826218.html",
+    "picture_source": "ABP News",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "India",
+    "title": "US election 2024",
+    "pubDate": "Mon, 04 Nov 2024 09:30:00 +0530",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSFccM5rA1DdxLZqy50YMGNt1nHwf9QeMmPtww_Ghj2tBLTAqnDJKg0A9zVh2ivHSvlsGpL-CVr",
+    "news_item_snippet": "American voters go to the polls on Tuesday to choose their next president. US election results are sometimes declared within hours of the polls closing,&nbsp;...",
+    "news_item_url": "https://www.bbc.com/news/articles/cde7ng85jwgo",
+    "picture_source": "The Hindu",
     "approx_traffic": "200,000+"
   },
   {
     "country": "India",
-    "title": "US election Results date",
-    "pubDate": "Mon, 04 Nov 2024 08:30:00 +0530",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcR4WFNkIsEgbaDnJWKfxtbqugQ3fRtjFiPmIQAhSpRnjwBJgZTeejcZwjuEd6-AQIC3bCJmPPob",
-    "news_item_snippet": "US election result date: As Election Day approaches, Kamala Harris and Donald Trump push their campaigns in swing states. Polls indicate a tight race.",
-    "news_item_url": "https://www.hindustantimes.com/world-news/us-news/us-election-when-will-each-state-announce-results-of-trump-vs-harris-contest-101730782463136.html",
-    "picture_source": "Economic Times",
-    "approx_traffic": "50,000+"
+    "title": "US election",
+    "pubDate": "Mon, 04 Nov 2024 10:30:00 +0530",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcT2aDTsOu11oRGvnic0e3qcoKcOal41LEwTawA1De6BWy8DkTMLzhGh5AhGCZQatAXmgBhb72qd",
+    "news_item_snippet": "Over 186 million Americans are eligible to vote as the countdown for U.S. election day has begun to decide the country&#39;s 47th president.",
+    "news_item_url": "https://www.thehindu.com/news/international/us-elections/us-elections-results-2024-voting-live/article68831198.ece",
+    "picture_source": "Business Standard",
+    "approx_traffic": "100,000+"
   },
   {
     "country": "India",
-    "title": "Barcelona",
-    "pubDate": "Mon, 04 Nov 2024 10:30:00 +0530",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRvKuXSDmhwWK2Oc3xCxj610uxnFBAj9w6Aq5NwHv3cPL0KV-PhASKa1DYf6zxYXT36qq5Y-VXH",
-    "news_item_snippet": "More than 85 aspirants are hoping to join the blaugrana community of football trainers.",
-    "news_item_url": "https://www.fcbarcelona.com/en/news/4162723/barca-academy-coach-selection-process-opens",
-    "picture_source": "FC Barcelona",
-    "approx_traffic": "50,000+"
+    "title": "Virat Kohli Birthday",
+    "pubDate": "Mon, 04 Nov 2024 08:30:00 +0530",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRZx0IgdAfu2GehNcDWwi6CgzVziG_E0WZIfTynQ_M-XHmOY4ymFoqMJRv2w8CpDUAuw_a98Zhg",
+    "news_item_snippet": "Happy Birthday Virat Kohli: \u0c35\u0c3f\u0c30\u0c3e\u0c1f\u0c4d \u0c15\u0c4b\u0c39\u0c4d\u0c32\u0c40 36\u0c35 \u0c2a\u0c41\u0c1f\u0c4d\u0c1f\u0c3f\u0c28\u0c30\u0c4b\u0c1c\u0c41 \u0c38\u0c02\u0c26\u0c30\u0c4d\u0c2d\u0c02\u0c17\u0c3e \u0c2f\u0c41\u0c35\u0c30\u0c3e\u0c1c\u0c4d \u0c38\u0c3f\u0c02\u0c17\u0c4d \u0c36\u0c41\u0c2d\u0c3e\u0c15\u0c3e\u0c02\u0c15\u0c4d\u0c37\u0c32\u0c41 \u0c24\u0c46\u0c32\u0c3f\u0c2a\u0c3e\u0c21\u0c41. \u0c08 \u0c38\u0c02\u0c26\u0c30\u0c4d\u0c2d\u0c02\u0c32\u0c4b \u0c13 \u0c21\u0c3f\u0c2e\u0c3e\u0c02\u0c21\u0c4d \u0c15\u0c42\u0c21\u0c3e \u0c1a\u0c47\u0c36\u0c3e\u0c21\u0c41.",
+    "news_item_url": "https://tv9telugu.com/sports/cricket-news/yuvraj-singh-wish-happy-birthday-to-virat-kohli-and-demand-for-big-innings-in-australia-1390649.html",
+    "picture_source": "Business Standard",
+    "approx_traffic": "100,000+"
   },
   {
     "country": "India",
@@ -247,6 +247,16 @@
     "news_item_snippet": "Swiggy IPO is a combination of a fresh issue of 11.54 crore equity shares aggregating to \u20b94499 crore and an offer for sale of 17.51 crore shares worth&nbsp;...",
     "news_item_url": "https://www.livemint.com/market/ipo/swiggy-ipo-gmp-price-band-review-among-10-key-things-to-know-as-issue-opens-tomorrow-11730786475499.html",
     "picture_source": "Business Standard",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "India",
+    "title": "US election Results date",
+    "pubDate": "Mon, 04 Nov 2024 08:30:00 +0530",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcR4WFNkIsEgbaDnJWKfxtbqugQ3fRtjFiPmIQAhSpRnjwBJgZTeejcZwjuEd6-AQIC3bCJmPPob",
+    "news_item_snippet": "US election result date: As Election Day approaches, Kamala Harris and Donald Trump push their campaigns in swing states. Polls indicate a tight race.",
+    "news_item_url": "https://www.hindustantimes.com/world-news/us-news/us-election-when-will-each-state-announce-results-of-trump-vs-harris-contest-101730782463136.html",
+    "picture_source": "Economic Times",
     "approx_traffic": "50,000+"
   },
   {
@@ -264,8 +274,8 @@
     "title": "Clima",
     "pubDate": "Mon, 04 Nov 2024 13:00:00 -0300",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcT01NIo4Frdh70L8JTlGLFAvXZcoAbygg2Jjlnepi7s1b3cmtsSGvv_gyNJrXgBGyASa2zbzrZW",
-    "news_item_snippet": "El Servicio Meteorol\u00f3gico Nacional anticipa que este martes 5 de noviembre, la temperatura rondar\u00e1 entre 17 y 22;descartan lluvias durante la jornada - LA&nbsp;...",
-    "news_item_url": "https://www.lanacion.com.ar/clima/tucuman/clima-en-tucuman-hoy-cual-es-el-pronostico-del-tiempo-para-el-5-de-noviembre-nid04112024/",
+    "news_item_snippet": "Este lunes, seg\u00fan el SMN, existen altas chances de tormentas fuertes por la ma\u00f1ana y tarde. Si bien el s\u00e1bado cayeron algunas gotas aisladas, se tratar\u00eda de&nbsp;...",
+    "news_item_url": "https://www.el1digital.com.ar/sociedad/clima-en-la-matanza-llega-la-primera-lluvia-de-noviembre/",
     "picture_source": "Infobae.com",
     "approx_traffic": "1,000,000+"
   },
@@ -282,21 +292,31 @@
   {
     "country": "Argentina",
     "title": "Pronostico",
-    "pubDate": "Mon, 04 Nov 2024 12:00:00 -0300",
+    "pubDate": "Mon, 04 Nov 2024 14:00:00 -0300",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRQprBxEQR4z0vxNf_r0q-MpBWoWDZ_Mm_a-Hv0zl4TtsuSpeLUupVfbMzLQ0g-qWSjcgv8krtf",
-    "news_item_snippet": "El Servicio Meteorol\u00f3gico Nacional anticipa que este martes 5 de noviembre, la temperatura rondar\u00e1 entre 22 y 26;descartan lluvias durante la jornada - LA&nbsp;...",
-    "news_item_url": "https://www.lanacion.com.ar/clima/chaco/clima-en-resistencia-hoy-cual-es-el-pronostico-del-tiempo-para-el-5-de-noviembre-nid04112024/",
+    "news_item_snippet": "El Servicio Meteorol\u00f3gico Nacional anticipa que este martes 5 de noviembre, la temperatura rondar\u00e1 entre 16 y 22;descartan lluvias durante la jornada - LA&nbsp;...",
+    "news_item_url": "https://www.lanacion.com.ar/clima/tucuman/clima-en-tucuman-hoy-cual-es-el-pronostico-del-tiempo-para-el-5-de-noviembre-nid04112024/",
     "picture_source": "LA NACION",
-    "approx_traffic": "100,000+"
+    "approx_traffic": "50,000+"
   },
   {
     "country": "Argentina",
     "title": "Independiente  Rosario Central",
     "pubDate": "Mon, 04 Nov 2024 20:00:00 -0300",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcR7mfYcOELjSGgzfBt6_D8509SMAPHwRlTVCmj9tfIBDm-IhgHyJM8PdZ_KVKfcFjukKI5d_OBK",
-    "news_item_snippet": "Cuerpo arbitral. \u00c1rbitro: Nicol\u00e1s Ram\u00edrez Asistente 1: Gabriel Chade Asistente 2: Federico Cano Cuarto \u00e1rbitro: Emanuel Ejarque VAR: Franco Acita",
-    "news_item_url": "https://www.afa.com.ar/es/posts/desde-las-21-independiente-rivadavia-rosario-central",
+    "news_item_snippet": "Independiente Rivadavia y Rosario Central empataron 1-1 en el estadio Bautista Garganti este lunes 4 de noviembre, en un partido de la jornada 21 de la Liga&nbsp;...",
+    "news_item_url": "https://www.lanacion.com.ar/deportes/futbol/independiente-rivadavia-y-rosario-central-empataron-1-1-en-la-liga-profesional-argentina-nid04112024/",
     "picture_source": "TyC Sports",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Argentina",
+    "title": "Colon",
+    "pubDate": "Mon, 04 Nov 2024 20:00:00 -0300",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSYcsHd9xMHO8XwrfS0gqXEldFgGDMrR6zCgPmYIjlrMwZngJd0hBcC5s8nqk-yWEUopWrR-N0w3g",
+    "news_item_snippet": "Resultado, goles y resumen del partido All Boys vs. Col\u00f3n, por la llave 3 de Primera Nacional de Argentina. 04/11/2024 11:52 pm&nbsp;...",
+    "news_item_url": "https://www.tycsports.com/primera-nacional/all-boys-vs-colon-en-vivo-hora-donde-ver-y-formaciones-id616977.html",
+    "picture_source": "Ol\u00e9",
     "approx_traffic": "50,000+"
   },
   {
@@ -310,13 +330,43 @@
     "approx_traffic": "50,000+"
   },
   {
-    "country": "Argentina",
-    "title": "Colon",
-    "pubDate": "Mon, 04 Nov 2024 20:00:00 -0300",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRI6yzGuRrmzny4KL2A0Dclwf2bm7IDuFTZGEUrTZOMZ9Yt0cWaIJL94Q0cuEveZZSANpwFkI32",
-    "news_item_snippet": "Resultado, goles y resumen del partido All Boys vs. Col\u00f3n, por la llave 3 de Primera Nacional de Argentina. 04/11/2024 11:52 pm&nbsp;...",
-    "news_item_url": "https://www.tycsports.com/primera-nacional/all-boys-vs-colon-en-vivo-hora-donde-ver-y-formaciones-id616977.html",
-    "picture_source": "Ol\u00e9",
+    "country": "Australia",
+    "title": "Melbourne Cup 2024",
+    "pubDate": "Mon, 04 Nov 2024 10:00:00 +1100",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTRIXn5vNDWAP64zZMoD-1ZLT16a3lH3QSWKd29Qz2KSQT_pUetbBe95RMHlXF3PG_dbC0gAmk-",
+    "news_item_snippet": "Australian-bred horse Knight&#39;s Choice has stunned a strong international contingent to win the 2024 Melbourne Cup.",
+    "news_item_url": "https://www.abc.net.au/news/2024-11-05/melbourne-cup-updates-flemington-knights-choice-wins/104503272",
+    "picture_source": "The Age",
+    "approx_traffic": "1,000,000+"
+  },
+  {
+    "country": "Australia",
+    "title": "Melbourne Cup results",
+    "pubDate": "Mon, 04 Nov 2024 22:00:00 +1100",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQr4q2mokJu-aGIwZulkoA2hJby0WdEpGRe6-OXKdPBRNZPxTGIRJGGWfqKb4OExcUbhdst5Uai",
+    "news_item_snippet": "View the results, finishing positions and replay for the 2024 Melbourne Cup. The Melbourne Cup was raced at Flemington racecourse on Tuesday,&nbsp;...",
+    "news_item_url": "https://www.justhorseracing.com.au/fields-results/results/melbourne-cup-results-replay-and-finishing-positions-knights-choice-2024/832203",
+    "picture_source": "The Age",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "Australia",
+    "title": "US election results",
+    "pubDate": "Mon, 04 Nov 2024 09:00:00 +1100",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSqXgSTRr3T1tioSroW27MeVWB3r3QkF2XDfiK5ZUacSV7SobYw43uUtl99FAEjbPlfFmttrWGx",
+    "news_item_snippet": "Calling the Harris-Trump race could take days \u2013 here&#39;s what to know about the presidential and congressional results.",
+    "news_item_url": "https://www.theguardian.com/us-news/2024/nov/05/harris-trump-election-results-when",
+    "picture_source": "The Sydney Morning Herald",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "Australia",
+    "title": "Pakistan vs Australia",
+    "pubDate": "Mon, 04 Nov 2024 13:00:00 +1100",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSfG3t1RJxtG8JnFtHta0kuNwXhMlvuhGWu6w4P2B2Dysr1UEsfInhfmQ97yUesqmhfoui31A0Q",
+    "news_item_snippet": "AUS vs PAK 2024/25, Australia vs Pakistan Match Report: A scorching spell from Starc restricted the visitors to 203, but Rauf nearly stole the game away.",
+    "news_item_url": "https://www.espncricinfo.com/series/australia-vs-pakistan-2024-25-1426544/australia-vs-pakistan-1st-odi-1426549/match-report",
+    "picture_source": "Fox Sports",
     "approx_traffic": "50,000+"
   },
   {
@@ -334,8 +384,8 @@
     "title": "Agnaldo Rayol",
     "pubDate": "Mon, 04 Nov 2024 08:00:00 -0500",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSQPmtnjnZoonJX7Eg5B345Xm1G4yT6EFwj_b9RrrE96jOCDpwqPo1HcV9hA8szcPU-dr_rSsBL",
-    "news_item_snippet": "A morte do cantor, segundo a assessoria, foi em decorr\u00eancia de uma queda em casa.",
-    "news_item_url": "https://g1.globo.com/jornal-nacional/noticia/2024/11/04/agnaldo-rayol-morre-aos-86-anos.ghtml",
+    "news_item_snippet": "Vel\u00f3rio acontece at\u00e9 \u00e0s 13h, no Hall Monumental da Alesp. Sepultamento ser\u00e1 restrito apenas \u00e0 fam\u00edlia. Cantor morreu nesta segunda (4), ap\u00f3s uma queda em&nbsp;...",
+    "news_item_url": "https://g1.globo.com/sp/sao-paulo/noticia/2024/11/05/corpo-do-cantor-agnaldo-rayol-e-velado-na-alesp-nesta-terca-feira-em-cerimonia-aberta-ao-publico.ghtml",
     "picture_source": "EBC",
     "approx_traffic": "200,000+"
   },
@@ -344,8 +394,8 @@
     "title": "Oper\u00e1rio x Sport Recife",
     "pubDate": "Mon, 04 Nov 2024 16:00:00 -0500",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSEKZbPqeIWJMhn1bhcTZeKzh_KccD8rgW2xohA3rCCdGzDzd1Z6IxU9D2ZWT8JYhvRGfqpBhyb",
-    "news_item_snippet": "Oper\u00e1rio-PR e Sport Recife se encontram nesta segunda-feira, 4 de novembro de 2024, em um duelo decisivo pela 35\u00aa rodada do Campeonato Brasileiro S\u00e9rie B.",
-    "news_item_url": "https://www.mixvale.com.br/2024/11/04/operario-pr-x-sport-recife-onde-assistir-ao-vivo-escalacoes-provaveis-e-detalhes-para-hoje/",
+    "news_item_snippet": "Fim do Jogo, Oper\u00e1rio PR 2, Sport Recife 1. 2\u00ba Tempo.",
+    "news_item_url": "https://www.terra.com.br/esportes/futebol/brasileiro-serie-b/ao-vivo/operario-pr-x-sport/86538/",
     "picture_source": "Di\u00e1rio do Nordeste",
     "approx_traffic": "200,000+"
   },
@@ -373,10 +423,20 @@
     "country": "Brazil",
     "title": "Quincy Jones",
     "pubDate": "Mon, 04 Nov 2024 06:00:00 -0500",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRVGqbP4JtRTT412Jh_zbxVwNHbmEHzW_2Gp6DduxihKz64kuYlX1nwryJVVyrUpnjA5bN5Obq5",
-    "news_item_snippet": "Quincy Jones trabalhou com Frank Sinatra, Michael Jackson e outras estrelas em mais de 65 anos de carreira. Leia na \u00edntegra na Forbes Brasil.",
-    "news_item_url": "https://forbes.com.br/forbeslife/2024/11/morre-quincy-jones-lenda-da-musica-que-trabalhou-com-sinatra-e-michael-jackson-aos-91-anos/",
-    "picture_source": "G1",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTck0abRo-eMsvqBthc5qOjUirU_-s823dDJKRo2OvADuFlYoc9-Qra9BjC3iXscfCDWxoJoWYu",
+    "news_item_snippet": "Produtor e arranjador, um dos mais bem-sucedidos de todos os tempos, morreu aos 91 anos em sua casa em Bel Air, em Los Angeles.",
+    "news_item_url": "https://g1.globo.com/pop-arte/noticia/2024/11/04/morte-de-quincy-jones-famosos-prestam-homenagens-ao-musico.ghtml",
+    "picture_source": "Meio & Mensagem",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Brazil",
+    "title": "Sed",
+    "pubDate": "Mon, 04 Nov 2024 07:00:00 -0500",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQujATLYYR_7mISFca5XS0CUV7kZ7-NkpjT586L9Nv6QLZezyCZZZsDv_V7kN1jBzIZhM5bpnjB",
+    "news_item_snippet": "b) CPF do estudante; c) Hist\u00f3rico Escolar (no m\u00e1ximo 30 dias ap\u00f3s o in\u00edcio do ano letivo de 2025); d) Atestado de Frequ\u00eancia com indica\u00e7\u00e3o do ano/etapa que o(a)&nbsp;...",
+    "news_item_url": "https://estado.sc.gov.br/noticias/transferencias-internas-de-estudantes-da-rede-estadual-podem-ser-realizadas-a-partir-desta-terca-feira/",
+    "picture_source": "Santa Catarina",
     "approx_traffic": "50,000+"
   },
   {
@@ -384,10 +444,20 @@
     "title": "Lazio",
     "pubDate": "Mon, 04 Nov 2024 11:00:00 -0500",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQITApCZ2Lta4Ae0Su_wMllmcUxQfKrM9aIJjoUmzRaMxQCNSL6EsJhvZKdjBmTNb7HAk5z6tMW",
-    "news_item_snippet": "A Lazio (5\u00aa) encostou nos l\u00edderes do Campeonato Italiano ao vencer o Cagliari (16\u00ba) por 2 a 1 nesta segunda-feira (4), no jogo que fechou a 11\u00aa rodada.",
-    "news_item_url": "https://gauchazh.clicrbs.com.br/esportes/noticia/2024/11/lazio-vence-cagliari-e-encosta-no-lider-napoli-cm33hzb73005101ci8scjecmk.html",
+    "news_item_snippet": "Em uma das primeiras a\u00e7\u00f5es do confronto, a equipe da capital abriu o placar com Boulaye Dia, mas Zito Luvumbo igualou o marcador gra\u00e7as a um gol que teve um&nbsp;...",
+    "news_item_url": "https://www.terra.com.br/esportes/lazio-vence-cagliari-e-se-aproxima-da-lideranca-da-serie-a,9826cd6a9e6913ba8b3492e6b8e4314c48uwzj6v.html",
     "picture_source": "Terra",
     "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Canada",
+    "title": "US election polls",
+    "pubDate": "Mon, 04 Nov 2024 06:00:00 -0500",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTnsXCnfjR8dSBvvSb1IJvD-JuywXz61Xdews1x2vv84lhJuR3BdtwG4rxKwbbgDETR9J-PHLkt",
+    "news_item_snippet": "This Election Day culminates a campaign season defined by historic twists, but the results may be slow in coming.",
+    "news_item_url": "https://www.aljazeera.com/news/2024/11/5/polls-open-for-2024-us-election-day-as-kamala-harris-donald-trump-face-off",
+    "picture_source": "BBC News",
+    "approx_traffic": "200,000+"
   },
   {
     "country": "Canada",
@@ -413,10 +483,10 @@
     "country": "South Korea",
     "title": "\ubbf8\uad6d \ub300\uc120",
     "pubDate": "Mon, 04 Nov 2024 10:00:00 +0900",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQnxEvxK-Pzs4CdIXXvhlmXlGBYCcjaaTidXQlEYXcoVwPGL7nsyEiMuR3O85-73aIQTvGvVZGi",
-    "news_item_snippet": "2024\ub144 \uc81c47\ub300 \ubbf8\uad6d \ub300\ud1b5\ub839\uc744 \ubf51\ub294 \ud22c\ud45c\uac00 \ub3d9\ubd80 \uc2dc\uac01 5\uc77c \uc624\uc804 0\uc2dc(\ud55c\uad6d\uc2dc\uac01 5\uc77c \uc624\ud6c4 2\uc2dc) \ub3d9\ubd80 \ub274\ud584\ud504\uc154\uc8fc \ub515\uc2a4\ube4c\ub178\uce58\ub97c \uc2dc\uc791\uc73c\ub85c \ub9c9\uc744 \uc62c\ub838\ub2e4.",
-    "news_item_url": "https://www.hani.co.kr/arti/international/america/1165874.html",
-    "picture_source": "BBC News \ucf54\ub9ac\uc544",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQGkmkQ2KT1YM3djqL-9LqhVzZWJto0urLB4oso43CCBTuYBtAAkqoPHFb4aV7ZCsEFcTTEG6Wy",
+    "news_item_snippet": "\uc804\ubb38\uac00\ub4e4\uc774 \uce74\uba40\ub77c \ud574\ub9ac\uc2a4 \ubbfc\uc8fc\ub2f9 \ud6c4\ubcf4\ub3c4, \ub3c4\ub110\ub4dc \ud2b8\ub7fc\ud504 \uacf5\ud654\ub2f9 \ud6c4\ubcf4\ub3c4 \ub2f9\uc120\ub420 \uac00\ub2a5\uc131\uc774 \uacf5\uc874\ud558\ub294 \uc774\ub978\ubc14 &#39;\uacbd\ud569&#39;\uc8fc\ub85c \uaf3d\ub294 \uacf3\uc740 \uba87 \uad70\ub370 \ub418\uc9c0 \uc54a\ub294\ub2e4. \ud2b9\ud788 \uc560\ub9ac\uc870\ub098,&nbsp;...",
+    "news_item_url": "https://www.bbc.com/korean/articles/cvg7djn857eo",
+    "picture_source": "VOA Korea",
     "approx_traffic": "100,000+"
   },
   {
@@ -453,19 +523,19 @@
     "country": "France",
     "title": "Quincy Jones",
     "pubDate": "Mon, 04 Nov 2024 10:00:00 +0100",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQOYe-pgpkDuJTVOFJJv6IBoSkg2w0JhlsdN2D-Jj4MTftoO86qhEp9D4VRuQzqylYaL--vaGkg",
-    "news_item_snippet": "Compositeur, arrangeur, musicien et producteur, Quincy Jones a travaill\u00e9 avec les plus grands, comme Michael Jackson ou Frank Sinatra. Il est mort dimanche&nbsp;...",
-    "news_item_url": "https://www.francetvinfo.fr/culture/musique/mort-de-quincy-jones-disparition-d-un-producteur-de-genie_6877982.html",
-    "picture_source": "France Musique",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTZ7mJY89-6p3VkzS5JSL0Lwc5Rg2ogGXBWRcTLmc8zYrCQVJknRwQTKjji1Kds1GYxaiXL4DUC",
+    "news_item_snippet": "Le musicien et producteur am\u00e9ricain Quincy Jones est mort, \u00e0 l&#39;\u00e2ge de 91 ans, apr\u00e8s plus de 70 ans d&#39;une carri\u00e8re immense, en solo ou aupr\u00e8s des plus grands&nbsp;...",
+    "news_item_url": "https://www.francetvinfo.fr/culture/musique/jazz/mort-de-quincy-jones-cette-autre-carriere-du-producteur-americain_6877664.html",
+    "picture_source": "Europe1",
     "approx_traffic": "100,000+"
   },
   {
     "country": "France",
     "title": "Kamel Daoud",
     "pubDate": "Mon, 04 Nov 2024 14:00:00 +0100",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQqkPFKGiGGf8h69b-ntH5pTHhRFeq9pJpKoyku8rlvjgtAHR7MIBkMYuofUThqOAzoQXIXR4zB",
-    "news_item_snippet": "Ce lundi 24 octobre a \u00e9t\u00e9 remis le du prix Goncourt 2024. Kamel Daoud remporte le titre au premier tour, avec six voix. Qui est cet \u00e9crivain alg\u00e9rien qui a&nbsp;...",
-    "news_item_url": "https://www.rtl.fr/culture/arts-spectacles/goncourt-2024-qui-est-kamel-daoud-laureat-du-prestigieux-prix-litteraire-francais-7900436165",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQtbuGCZOxaV0-2NT_oR5JGER1bX1ruGa7Jo2icZOmfSLoRLAzGl99gMkwLoY2YNOsDdZWaow7v",
+    "news_item_snippet": "Comme chaque ann\u00e9e \u00e0 la m\u00eame p\u00e9riode, la litt\u00e9rature est \u00e0 l&#39;honneur avec l&#39;attribution des prix Goncourt et Renaudot. Anne Marie Reval revient sur les&nbsp;...",
+    "news_item_url": "https://www.francetvinfo.fr/culture/livres/prix-litteraires/litterature-kamel-daoud-et-gael-faye-recompenses-par-les-prix-goncourt-et-renaudot_6879092.html",
     "picture_source": "Le Figaro",
     "approx_traffic": "100,000+"
   },
@@ -473,21 +543,11 @@
     "country": "France",
     "title": "Yves Parlier",
     "pubDate": "Mon, 04 Nov 2024 19:00:00 +0100",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQY3QRbrt2eJTG4_HGK06x6aeuub1eskFJaEhN6hlCFi2i2B9JEjQfPB-h8LrWoDyUTib8MsXvA",
-    "news_item_snippet": "Dans Seul, sur France 2, Samuel Le Bihan incarne le navigateur en solitaire Yves Parlier, victime d&#39;une grave avarie lors du Vend\u00e9e Globe 2000-2001.",
-    "news_item_url": "https://www.programme-tv.net/news/series-tv/364107-seul-j-ai-beaucoup-pleure-samuel-le-bihan-et-yves-parlier-se-confient-sur-le-telefilm-inedit-de-france-2/",
-    "picture_source": "Alouette",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRnbp5kwPo7aaHRQX1OlF1iO9nZdsOjfJg86Y-LO-phnbmZJyw8DXngEk5u_T0OSO6mCa2YCIFX",
+    "news_item_snippet": "France 2 diffuse ce lundi 4 novembre, \u00e0 21h10, le t\u00e9l\u00e9film &quot;Seul&quot;, qui raconte l&#39;aventure du skipper Yves Parlier lors du Vend\u00e9e Globe 2000.",
+    "news_item_url": "https://www.alouette.fr/samuel-le-bihan-dans-la-peau-d-yves-parlier-je-suis-ressorti-du-tournage-epuise",
+    "picture_source": "T\u00e9l\u00e9 Loisirs.fr",
     "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Germany",
-    "title": "Wahl USA",
-    "pubDate": "Mon, 04 Nov 2024 09:00:00 +0100",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTtoUyEjQx_ifQN-hk4TLsSsbs7t6jxMB4plIRtGWy9qBjJ2AQS54wejcMGZptx-J26jisKWoW4",
-    "news_item_snippet": "Wer folgt auf Joe Biden? Nach einem spektakul\u00e4ren US-Wahlkampf steht die Entscheidung im Duell zwischen Donald Trump und Kamala Harris an.",
-    "news_item_url": "https://www.stern.de/politik/ausland/liveticker-zur-us-wahl-2024--alle-news-zum-rennen-ums-weisse-haus-35177284.html",
-    "picture_source": "tagesschau.de",
-    "approx_traffic": "100,000+"
   },
   {
     "country": "Germany",
@@ -498,6 +558,26 @@
     "news_item_url": "https://www.spiegel.de/kultur/quincy-jones-ist-tot-vom-gauner-zur-legende-nachruf-a-c8431385-26ed-482e-8315-32eff82b518f",
     "picture_source": "tagesschau.de",
     "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Germany",
+    "title": "Wahl USA",
+    "pubDate": "Sun, 03 Nov 2024 23:00:00 +0100",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTtoUyEjQx_ifQN-hk4TLsSsbs7t6jxMB4plIRtGWy9qBjJ2AQS54wejcMGZptx-J26jisKWoW4",
+    "news_item_snippet": "Bei der US-Pr\u00e4sidentschaftswahl treten der Republikaner Donald Trump und die Demokratin Kamala Harris gegeneinander an. Gew\u00e4hlt wird auch ein neuer Kongress.",
+    "news_item_url": "https://www.zeit.de/politik/ausland/2024-11/us-wahl-kamala-harris-donald-trump-live",
+    "picture_source": "tagesschau.de",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "Germany",
+    "title": "US wahlen",
+    "pubDate": "Sun, 03 Nov 2024 13:00:00 +0100",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTi_CBjfaoumwXAKGU1pU1MqC049fsQyWU369No1ZjQNrQqhC6R8ERTFpNpXaGnp0y_8SOk1PyD",
+    "news_item_snippet": "Michelle Obama hat eindringlich davor gewarnt, Trump zum n\u00e4chsten US-Pr\u00e4sidenten zu w\u00e4hlen. In einem kleinen Dorf in New Hampshire steht das Ergebnis&nbsp;...",
+    "news_item_url": "https://www.tagesschau.de/newsticker/liveblog-uswahl-dienstag-102.html",
+    "picture_source": "tagesschau.de",
+    "approx_traffic": "100,000+"
   },
   {
     "country": "Germany",
@@ -514,7 +594,7 @@
     "title": "Reformationstag",
     "pubDate": "Wed, 30 Oct 2024 18:00:00 +0100",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTGboZzyJethf9owg9CvKMcifcHvLuaXXoiOvhtLNdeqsYFLNx9DObJrdfFFRDHeSCL1cpPG7lK",
-    "news_item_snippet": "31. Oktober 2024, 10:39 Uhr. In den evangelischen Kirchen wird heute der Reformationstag gefeiert. Der ist hierzulande mit dem Namen Martin Luther und der&nbsp;...",
+    "news_item_snippet": "Vor 500 Jahren spielte Luther vor allem in Magdeburg eine Rolle, denn im Sommer 1524 predigte er in der Stadt. Dank eines Zufallsfunds ist nun klar,&nbsp;...",
     "news_item_url": "https://www.mdr.de/nachrichten/sachsen-anhalt/magdeburg/magdeburg/lutherturm-reformationstag-kloster-100.html",
     "picture_source": "MDR",
     "approx_traffic": "50,000+"
@@ -561,22 +641,22 @@
   },
   {
     "country": "Italy",
+    "title": "SuperEnalotto",
+    "pubDate": "Tue, 05 Nov 2024 06:00:00 +0100",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQw8RS1frWNgFKJtEgSZs35FuS1yCbxZK2PAYFEcMigJJooHsK6wQEq-J_0vw8DE-5O2UoaMzOu",
+    "news_item_snippet": "59.073,65 euro la somma vinta con una giocata da soli 2,5 euro. La schedina vincente \u00e8 stata convalidata presso il punto vendita Sisal.",
+    "news_item_url": "https://www.leccenews24.it/attualita/vinti-59mila-euro-superenalotto-lecce.htm",
+    "picture_source": "Quotidiano di Puglia",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Italy",
     "title": "Parma-Genoa",
     "pubDate": "Mon, 04 Nov 2024 13:00:00 +0100",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSErB9DUXYWLy1cWpsrMaan0ANbSX458VWbV7tlzu-Pe3Os7R6y3JXZ7JulavX6W8MMon2YiJda",
     "news_item_snippet": "Dopo due reti annullate - prima a Thorsby, poi a Ekhator - il Genoa riesce a sbloccare il match con la rete di Andrea Pinamonti, grazie a una conclusione&nbsp;...",
     "news_item_url": "https://www.repubblica.it/sport/dirette/calcio/serie-a-2024/diretta-parma-genoa-g2456211/",
     "picture_source": "Sky Sport",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "Italy",
-    "title": "Inter",
-    "pubDate": "Mon, 04 Nov 2024 20:00:00 +0100",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcS3_4Slnd1X0t7B1UoTq6VvVP9jIm1CG9kEGBV1OB1T1m6PKZDwv0Y7gAVlmbf7TOHM1H9QrQDK",
-    "news_item_snippet": "I nerazzurri scenderanno in campo mercoled\u00ec 6 novembre per la quarta giornata di UEFA Champions League 2024/25: fischio d&#39;inizio alle ore 21&nbsp;...",
-    "news_item_url": "https://www.inter.it/it/notizie/inter-arsenal-dove-vederla-in-tv-2024",
-    "picture_source": "Inter Sito Ufficiale",
     "approx_traffic": "100,000+"
   },
   {
@@ -591,21 +671,31 @@
   },
   {
     "country": "Italy",
+    "title": "Inter",
+    "pubDate": "Mon, 04 Nov 2024 20:00:00 +0100",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcT6GkbzBWAsxkR2hkRwkV6j_2QMqo4E5Df42w0iHUOcZ-IxxzV5fKfMz4iVYGJ60rDvBwY2OyfX",
+    "news_item_snippet": "Questo prodotto rappresenta un ulteriore passo nella collaborazione tra il Club nerazzurro e BPER, Official Banking Partner di FC Internazionale Milano, che gi\u00e0&nbsp;...",
+    "news_item_url": "https://www.inter.it/it/notizie/carta-inter-bper",
+    "picture_source": "Inter Sito Ufficiale",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "Italy",
     "title": "Barcellona",
     "pubDate": "Mon, 04 Nov 2024 13:00:00 +0100",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQL2vCJxOenEBeo9TrguHwWGX9WinkZTRjf9RCtS1H1_cpPse8OjjwpUgDneu_majAoG6dtRYJ6",
-    "news_item_snippet": "Il presidente catalano Salvador Illa ha chiesto ai cittadini di tutte le province catalane interessate dall&#39;allerta rossa di Protezione civile &quot;il massimo&nbsp;...",
-    "news_item_url": "https://www.la7.it/intanto/video/alluvione-in-spagna-allarme-per-la-dana-a-barcellona-e-in-catalogna-i-video-dai-social-04-11-2024-565934",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcS7g9-1IFeTevFUZOq3Xl3DEXe8V4D7HrJepFQ2BRVwW3AZR_OojmBsWLg7vF3e6CGyDUMjKQz9",
+    "news_item_snippet": "Il risarcimento in denaro non si applica quando le cancellazioni o i ritardi sono attribuiti a &quot;circostanze straordinarie&quot;, ossia a eventi che sfuggono al&nbsp;...",
+    "news_item_url": "https://startupitalia.eu/impact/alluvione-in-spagna-aeroporto-barcellona/",
     "picture_source": "Sky Tg24",
-    "approx_traffic": "50,000+"
+    "approx_traffic": "100,000+"
   },
   {
     "country": "Italy",
     "title": "Empoli-Como",
     "pubDate": "Mon, 04 Nov 2024 18:00:00 +0100",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQ_zdJ0KT48qTBppZ5rYOHLZnLdDEN8AYp_ABUVcM8P2JhQsBVgaq2DIX1vE0BxKcLAgxNslNpr",
-    "news_item_snippet": "Grazie per aver seguito la diretta scritta di Empoli-Como 1-0 e arrivederci ai prossimi appuntamenti della Serie A Enilive 2024-25.",
-    "news_item_url": "https://www.repubblica.it/sport/dirette/calcio/serie-a-2024/diretta-empoli-como-g2456205/",
+    "news_item_snippet": "SERIE A - Diamo i voti al match del &quot;Castellani&quot;, terminato con la vittoria di mistura dell&#39;Empoli contro il Como. Ismajli baluardo difensivo dei toscani.",
+    "news_item_url": "https://www.eurosport.it/calcio/serie-a/2024-2025/serie-a-le-pagelle-di-empoli-como-1-0-pagelle-ismajli-baluardo-belotti-stecca-ancora.-disastro-barba_sto20051240/story.shtml",
     "picture_source": "Sky Sport",
     "approx_traffic": "50,000+"
   },
@@ -614,18 +704,18 @@
     "title": "Quincy Jones",
     "pubDate": "Mon, 04 Nov 2024 10:00:00 +0100",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRQo0PmJeKV30KcCVGNV6aJAfCPWWGq15lSwdDXt1o4t-ZrcZlyDx95-chmPm1wgM45Rl1bGCJE",
-    "news_item_snippet": "Fu lo storico produttore di Michael Jackson e uno dei pi\u00f9 famosi musicisti afroamericani del Novecento: aveva 91 anni.",
-    "news_item_url": "https://www.ilpost.it/2024/11/04/quincy-jones-morto/",
+    "news_item_snippet": "Muore il 3 novembre 2024 il polistrumentista, arrangiatore e signore dell&#39;industria musicale americana Quincy Jones, artefice del successo di Michael&nbsp;...",
+    "news_item_url": "https://www.artribune.com/arti-performative/musica/2024/11/muore-91-anni-quincy-jones/",
     "picture_source": "Il Sole 24 ORE",
     "approx_traffic": "50,000+"
   },
   {
     "country": "Italy",
     "title": "Champions League",
-    "pubDate": "Mon, 04 Nov 2024 13:00:00 +0100",
+    "pubDate": "Mon, 04 Nov 2024 14:00:00 +0100",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQmk27J8IqBdCSGun_e6XnlZdxE_oj6AaRU_nBU4vU1J5q1uDl5xAGyd932i7P2Fwp-3T77Gz6g",
-    "news_item_snippet": "Chi potrebbe partire titolare? Chi \u00e8 indisponibile e chi in dubbio? UEFA.com svela le probabili formazioni della quarta giornata.",
-    "news_item_url": "https://it.uefa.com/uefachampionsleague/news/0293-1c41462a0ea7-9b757d60ed5f-1000--quarta-giornata-champions-league-probabili-formazioni-e-ulti/",
+    "news_item_snippet": "Tre squadre italiane oggi in campo per la 4\u00aa giornata della fase a girone unico: Milan a Madrid, bianconeri in Francia, il Bologna di Italiano sfida il&nbsp;...",
+    "news_item_url": "https://www.rainews.it/maratona/2024/11/champions-league-4-giornata-diretta-cronaca-testuale-milan-real-madrid-lille-juventus-bologna-monaco-inter-arsenal-stoccarda-atalanta-d53d2a4e-1d38-4d5f-94f1-ffb7e02757a4.html",
     "picture_source": "Sky Sport",
     "approx_traffic": "50,000+"
   },
@@ -663,10 +753,10 @@
     "country": "Mexico",
     "title": "Champions League",
     "pubDate": "Mon, 04 Nov 2024 15:00:00 -0600",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTnWZ0ftA-qv0m_l9jr_x5nT7pk_QTASRzrlnucsU2oEbtnm8J2OSbEaFt8dU6C1PvJqn3o0uIz",
-    "news_item_snippet": "Este martes el futbol tendr\u00e1 una jornada larga con la fecha cuatro de la Champions League y parte de la jornada 16 de la Liga MX en su Apertura 2024,&nbsp;...",
-    "news_item_url": "https://www.tudn.com/futbol/partidos-de-hoy-martes-5-de-noviembre-champions-league-y-liga-mx",
-    "picture_source": "CNN",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcT5cXnUAz4bFzjIEbfM-wxcjWbUI5tUY5AyTD8-70UQikWdat8cGU-8b0UaZ96tELtEB-pwcp7x",
+    "news_item_snippet": "La Champions League sigue adelante con su nuevo formato ampliado y la cuarta jornada se disputar\u00e1 el martes 5 y mi\u00e9rcoles 6 de noviembre.",
+    "news_item_url": "https://cnnespanol.cnn.com/2024/11/04/jornada-4-champions-league-partidos-horarios-orix",
+    "picture_source": "TUDN",
     "approx_traffic": "50,000+"
   },
   {
@@ -681,32 +771,22 @@
   },
   {
     "country": "Spain",
-    "title": "Tiempo Barcelona",
-    "pubDate": "Mon, 04 Nov 2024 09:00:00 +0100",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcT2I3Fnz6VUd9gKOwts1Vpg4xz7XpGWQgntXDzYhD_jT5lQBFKkFms2V1ybewlRXef-jhceMRvw",
-    "news_item_snippet": "Temperatura, probabilidad de lluvia, nubosidad y rayos ultravioleta son algunos de los datos que debes de saber antes de salir de casa.",
-    "news_item_url": "https://www.infobae.com/espana/2024/11/05/clima-en-barcelona-cual-sera-la-temperatura-maxima-y-minima-este-5-de-noviembre/",
-    "picture_source": "El Confidencial",
+    "title": "Arturo perez Reverte",
+    "pubDate": "Mon, 04 Nov 2024 23:00:00 +0100",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQ_j8ZiOP-l7vCyi20wWDfeHTpthteBt_0-w-YXoJkz7YiP8ExUSOleKcYwnctNZVleRcXATckN",
+    "news_item_snippet": "El periodista ha asegurado que lo m\u00e1s importante para el aprendizaje es tener el valor para cuestionarlo todo.",
+    "news_item_url": "https://www.antena3.com/programas/el-hormiguero/entrevista/muy-interesante-escuchar-mal-consejo-arturo-perezreverte-jovenes_202411056729de6b6566420001980759.html",
+    "picture_source": "El Mundo",
     "approx_traffic": "100,000+"
   },
   {
     "country": "Spain",
-    "title": "Arturo perez Reverte",
-    "pubDate": "Mon, 04 Nov 2024 23:00:00 +0100",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQ_j8ZiOP-l7vCyi20wWDfeHTpthteBt_0-w-YXoJkz7YiP8ExUSOleKcYwnctNZVleRcXATckN",
-    "news_item_snippet": "El periodista ha hablado sin pelos en la lengua sobre el presidente del Gobierno dejando claro lo separado que est\u00e1 de su ideolog\u00eda.",
-    "news_item_url": "https://www.antena3.com/programas/el-hormiguero/entrevista/arturo-perezreverte-pedro-sanchez-falta-escrupulos-convierten-personaje-unico_2024110467294298d8f8950001da6d9a.html",
-    "picture_source": "El Mundo",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Spain",
-    "title": "Luis Tosar",
-    "pubDate": "Mon, 04 Nov 2024 23:00:00 +0100",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSr3u6YU0TAPneh-p67eU8Plqg1dV7JAez5Y3c89WZIHpyH8WvqRHyR61vS7Kk4PhE806llkAiz",
-    "news_item_snippet": "El \u00faltimo programa de &#39;La Revuelta&#39; rindi\u00f3 un emotivo homenaje a los afectados por la DANA en Valencia. En un gesto solidario, el ic\u00f3nico bombo del programa&nbsp;...",
-    "news_item_url": "https://www.lavanguardia.com/television/20241104/10078502/luis-tosar-mujer-luisa-mayol-desvelan-problema-conyugal-revuelta.html",
-    "picture_source": "Hola",
+    "title": "Champions League",
+    "pubDate": "Mon, 04 Nov 2024 21:00:00 +0100",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRICFHANf3wUYbwmspxnpsU7VP9Izdat-0084hLOqFtqTP5VPqN96ZtRUpNpvqGhCpaJaUZfuaa",
+    "news_item_snippet": "Tras la suspensi\u00f3n de su partido de Liga en Mestalla ante el Valencia, que deb\u00eda jugarse el pasado s\u00e1bado y que fue aplazado por las graves consecuencias de&nbsp;...",
+    "news_item_url": "https://as.com/futbol/champions/alineacion-posible-del-real-madrid-contra-el-milan-en-la-champions-league-n-2/",
+    "picture_source": "MARCA",
     "approx_traffic": "50,000+"
   },
   {
@@ -721,42 +801,42 @@
   },
   {
     "country": "Spain",
-    "title": "Champions League",
+    "title": "Amancio Ortega",
     "pubDate": "Mon, 04 Nov 2024 21:00:00 +0100",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRICFHANf3wUYbwmspxnpsU7VP9Izdat-0084hLOqFtqTP5VPqN96ZtRUpNpvqGhCpaJaUZfuaa",
-    "news_item_snippet": "Los onces de Carlo Ancelotti y Paulo Fonseca para el partido en el Santiago Bernab\u00e9u.",
-    "news_item_url": "https://www.marca.com/futbol/champions-league/2024/11/04/alineaciones-probables-real-madrid-milan-champions-league.html",
-    "picture_source": "MARCA",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQ0bmVkmWthFG9iGaFgZuO5ZzqFDRKakdYWj2zDuam7i5ztbrgJFeJP0JdJ5By3ZCfHV6vHDQFy",
+    "news_item_snippet": "Las 100 fortunas de Espa\u00f1a aumentan su riqueza un 27,7%. MADRID, 5 Nov. (EUROPA PRESS) -. Amancio Ortega y su hija Sandra, Rafael del Pino, Juan Roig e Isak&nbsp;...",
+    "news_item_url": "https://www.europapress.es/economia/noticia-amancio-ortega-hija-sandra-pino-roig-andik-mas-ricos-espana-forbes-20241105104134.html",
+    "picture_source": "ABC.es",
     "approx_traffic": "50,000+"
   },
   {
     "country": "Spain",
     "title": "Noticias",
     "pubDate": "Mon, 04 Nov 2024 11:00:00 +0100",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRems1xWAAqQnUOQ4TQrGbZ1ZgckpjJ4AQH5IY9GAE_kFKenddvf5iQWM5DnfY28U0LkkPofYar",
-    "news_item_snippet": "Varios sucesos y detenciones en la provincia, la sangrienta fuga de Burgos: dos polic\u00edas asesinados y un criminal en libertad y la \u00faltima hora de la DANA,&nbsp;...",
-    "news_item_url": "https://www.burgosconecta.es/provincia/diez-noticias-imprescindibles-burgos-lunes-noviembre-20241104201227-nt.html",
-    "picture_source": "leonoticias.com",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcS6IrQ66E9GPTa0g4HkeNiGkZ-xE4LbQaKX3Hs8WvEtNDezmU5O8a6T0f1nFVToaEAm5-O5HDFb",
+    "news_item_snippet": "La Fundaci\u00f3n de Ciencias de la Salud se renueva con el estreno de su web y nuevas actividades en su 33 aniversario &middot; Seqcml, la primera sociedad cient\u00edfica&nbsp;...",
+    "news_item_url": "https://isanidad.com/298538/noticias-breves-04-de-noviembre-de-2024/",
+    "picture_source": "BurgosConecta.es",
     "approx_traffic": "50,000+"
   },
   {
     "country": "United Kingdom",
     "title": "Quincy Jones",
     "pubDate": "Mon, 04 Nov 2024 09:00:00 +0000",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRMdVd-CZKIRBy0suJnmDJBYY1ru8usUd0jOKG4g9_zk8V_mheOAYHLcIPs3Tlg71YhTSmV1_Fk",
-    "news_item_snippet": "Music and film stars celebrate late entertainment icon, with Wonder saying &#39;Quincy should remembered as one of God&#39;s greatest gifts to the world&#39;",
-    "news_item_url": "https://www.theguardian.com/music/2024/nov/05/quincy-jones-tributes-will-smith-oprah-winfrey-paul-mccartney",
-    "picture_source": "BBC News",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRj5HKQGJIbFINTq-GnVolIkh1OSxHigC2w2m1Lh_t8OzThJHg6JleOdWXxj-WCCN2Fzx41qQ3Z",
+    "news_item_snippet": "He was in a gang as a child but became Michael Jackson and Frank Sinatra&#39;s favourite collaborator.",
+    "news_item_url": "https://www.bbc.co.uk/news/articles/ckg74zn1dy9o",
+    "picture_source": "Forbes",
     "approx_traffic": "100,000+"
   },
   {
     "country": "United Kingdom",
-    "title": "US election",
-    "pubDate": "Mon, 04 Nov 2024 11:00:00 +0000",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQnpTOKVud0A55pNf_UNdIJJyWK_9Oz7HRRYmZjTuTf2eQL5q5u4cJM6cJrU1lUvFpq2lQgmWIv",
-    "news_item_snippet": "We should know how at least some swing states voted before morning \u2013 and in some scenarios the winner \u2013 whether Trump or Harris \u2013 should be apparent.",
-    "news_item_url": "https://www.theguardian.com/us-news/2024/nov/05/how-the-us-elections-trump-harris-will-unfold-overnight-for-british-viewers",
-    "picture_source": "The Guardian",
+    "title": "U.S election results",
+    "pubDate": "Mon, 04 Nov 2024 12:00:00 +0000",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTnsXCnfjR8dSBvvSb1IJvD-JuywXz61Xdews1x2vv84lhJuR3BdtwG4rxKwbbgDETR9J-PHLkt",
+    "news_item_snippet": "Calling the Harris-Trump race could take days \u2013 here&#39;s what to know about the presidential and congressional results.",
+    "news_item_url": "https://www.theguardian.com/us-news/2024/nov/05/harris-trump-election-results-when",
+    "picture_source": "BBC News",
     "approx_traffic": "100,000+"
   },
   {
@@ -774,19 +854,19 @@
     "title": "US election polls",
     "pubDate": "Mon, 04 Nov 2024 20:00:00 +0000",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTnsXCnfjR8dSBvvSb1IJvD-JuywXz61Xdews1x2vv84lhJuR3BdtwG4rxKwbbgDETR9J-PHLkt",
-    "news_item_snippet": "Polls show Republican and Democratic presidential candidates locked in close fight as Election Day voting set to begin.",
+    "news_item_snippet": "Polls show Republican and Democratic presidential candidates are locked in close battle as Election Day kicks off.",
     "news_item_url": "https://www.aljazeera.com/news/liveblog/2024/11/5/us-election-live-latest-polls-show-harris-trump-tied-on-election-eve",
     "picture_source": "BBC News",
-    "approx_traffic": "100,000+"
+    "approx_traffic": "50,000+"
   },
   {
     "country": "United Kingdom",
     "title": "Tube strikes",
     "pubDate": "Mon, 04 Nov 2024 08:00:00 +0000",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTnyo8tT-Yly0UPhAy7TXnz_rk4-I8XCNrFjUIBiXdHb_UAHJDluB14XuyKHdKcOZk2k4bu2BMu",
-    "news_item_snippet": "Fuller&#39;s, Greene King, Drake &amp; Morgan, C\u00f4te Brasserie, Tossed and Wasabi are among those warning strikes could cost venues 70% of their daily income. It comes&nbsp;...",
-    "news_item_url": "https://www.thecaterer.com/news/tube-strikes-hospitality-warns-businesses-put-at-risk",
-    "picture_source": "The Independent",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSC3Ln9NLclv-I0lCfLqONr-2WxGs7y1HoBkFI4chi2FxSH88SKR_pH3UtAb4RJ4bDQr0fVnGi6",
+    "news_item_snippet": "Industrial action on the London Underground impacts regular, hard-working people, writes Emma Clarke \u2013 but none more so than women.",
+    "news_item_url": "https://www.independent.co.uk/voices/london-tube-strikes-november-status-dates-b2641495.html",
+    "picture_source": "Evening Standard",
     "approx_traffic": "50,000+"
   }
 ]
