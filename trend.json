@@ -1,6 +1,26 @@
 [
   {
     "country": "United States",
+    "title": "Kamala Harris",
+    "pubDate": "Tue, 05 Nov 2024 06:00:00 -0800",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQ0Z2JKs0zifPgPlvAffEU27vScqSJ5wu0zYBYHbr7GBH7M0nq9jgz5JLVnd_gLulgBJBMqV21H",
+    "news_item_snippet": "The race between Donald Trump and Kamala Harris to be the next US president is coming down to the crucial swing states. Follow the latest results from&nbsp;...",
+    "news_item_url": "https://www.theguardian.com/us-news/ng-interactive/2024/nov/06/us-election-results-map-2024-live-donald-trump-kamala-harris-president",
+    "picture_source": "NewsNation Now",
+    "approx_traffic": "5,000,000+"
+  },
+  {
+    "country": "United States",
+    "title": "CNN",
+    "pubDate": "Tue, 05 Nov 2024 11:00:00 -0800",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRaivs92SXbBlmiw661C7ZNOawOnvhcjTkiDZzcacxxfEpJealbvJY2Fkcw-JwMLwmjpdP_KvOP",
+    "news_item_snippet": "Millions of Americans will be tuning in to CNN and other networks on election night as returns roll in. They&#39;ll be waiting to see who wins, something CNN&nbsp;...",
+    "news_item_url": "https://www.cnn.com/2024/11/05/politics/how-cnn-projects-elections-what-matters/index.html",
+    "picture_source": "CNN",
+    "approx_traffic": "1,000,000+"
+  },
+  {
+    "country": "United States",
     "title": "Robert Kennedy",
     "pubDate": "Tue, 05 Nov 2024 06:00:00 -0800",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcT_kHLkk3Kab9GfQNmWSzIdJxfgm2t7VxsHFxXoMo6k0eZRs_eymoNrQbURle-eLyA3yYNnXOa3",
@@ -11,41 +31,61 @@
   },
   {
     "country": "United States",
-    "title": "Florida election results 2024",
+    "title": "MSNBC",
+    "pubDate": "Tue, 05 Nov 2024 04:00:00 -0800",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQCd5inDXPR7alqiAc3Ncvt55ExcTU03K1pz57a4pe_hTudZD749yi_p373ZnDGITGR8-R9uYZ6",
+    "news_item_snippet": "&#39;A big loss&#39;: Republicans flip Ohio Senate seat, NBC News projects. 02:48. Florida ballot measure to enshrine abortion rights in state constitution&nbsp;...",
+    "news_item_url": "https://www.msnbc.com/msnbc/watch/watch-live-kornacki-cam-on-election-night-2024-223355461569",
+    "picture_source": "USA TODAY",
+    "approx_traffic": "500,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Trump",
+    "pubDate": "Tue, 05 Nov 2024 17:00:00 -0800",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRuzQXbvOery4Vy_g9KnCB3dsWJ1aWwjmnAUO1TbRn-Z5TSfcQG9wBJZEL6JZqKvC0hCHd3Kd_2",
+    "news_item_snippet": "Sol\u00eda pensar en Trump como un demagogo peligroso pero reconocible. Ahora lo veo como una aut\u00e9ntica aberraci\u00f3n en nuestra historia, y una amenaza \u00fanica para&nbsp;...",
+    "news_item_url": "https://www.nytimes.com/es/2024/11/05/espanol/opinion/trump-harris-elecciones.html",
+    "picture_source": "New York Times en Espa\u00f1ol",
+    "approx_traffic": "500,000+"
+  },
+  {
+    "country": "United States",
+    "title": "How many electoral votes are needed To win the presidency",
+    "pubDate": "Tue, 05 Nov 2024 13:00:00 -0800",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRbneDbXp-3VKCr0BLlZ0ETK5eP4CTRssWv8eMpNlCYajKistsmnBb_qkKLZDcp1KFCys4EvH8t",
+    "news_item_snippet": "Vice President Kamala Harris and former President Donald Trump remain locked in a dead heat in national and battleground state polls, with all eyes on who&nbsp;...",
+    "news_item_url": "https://abc7.com/post/what-need-know-electoral-college-2024-race-nears-end/15512604/",
+    "picture_source": "WUSA9.com",
+    "approx_traffic": "500,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Ted Cruz",
+    "pubDate": "Tue, 05 Nov 2024 15:00:00 -0800",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTXdTJLXbJkj_j2bLvmxwh6q8TCIQ8ZUtt5mJKS1cUlRoVwxrfjSNMhm2uUsbQMlQMIgMm18IbM",
+    "news_item_snippet": "Republican U.S. Sen. Ted Cruz has won reelection in Texas to a third term after a campaign in which he criticized his Democratic challenger as too liberal.",
+    "news_item_url": "https://apnews.com/article/senate-texas-ted-cruz-colin-allred-e791c362621efac9fac78a3a146f77d1",
+    "picture_source": "Texas Tribune",
+    "approx_traffic": "500,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Amendment 4 Florida 2024",
     "pubDate": "Tue, 05 Nov 2024 10:00:00 -0800",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSAdD4JeKp35PGW9Bd6uDpdUvQdXUXcca68OaWLnpoix3MM8DmKlequL6DV9XsLYturfZhDGHSn",
-    "news_item_snippet": "Florida voters will decide two high-profile ballot referendums and vote on whether to retain two Supreme Court justices. The first ballot referendum would&nbsp;...",
-    "news_item_url": "https://www.nbcnews.com/politics/2024-elections/florida-ballot-measures",
+    "news_item_snippet": "The Florida measure failed to clear the required 60% voter approval threshold to pass constitutional amendments in Florida. Most states require a simple&nbsp;...",
+    "news_item_url": "https://www.cbsnews.com/miami/news/result-florida-amendment-4-abortion-ballot-2024-election/",
     "picture_source": "Pensacola News Journal",
     "approx_traffic": "500,000+"
   },
   {
     "country": "United States",
-    "title": "How many electoral votes are There",
-    "pubDate": "Tue, 05 Nov 2024 07:00:00 -0800",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQePr6h5pVqABlvlE-lX3F2C1vsUdAbGcPMCzusp6GaXwvD4w8u56iw6ozk8ZCfXNc7kssi6azo",
-    "news_item_snippet": "Georgia is one of the 10 states with the most electoral votes, making it a key state in the 2024 presidential election.",
-    "news_item_url": "https://www.savannahnow.com/story/news/2024/11/05/how-many-electoral-votes-does-georgia-have/76079833007/",
-    "picture_source": "NBC Chicago",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Elecciones Estados Unidos",
-    "pubDate": "Tue, 05 Nov 2024 06:00:00 -0800",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQm0QOTvtpsaZpufOdrgC037kXA7A0TieHyNd8tCqnqpK2okZ7t1dWSGoh1VDUJt2gRwgpPtlbR",
-    "news_item_snippet": "Los estadounidenses esperan saber qui\u00e9n ganar\u00e1 las elecciones: Kamala Harris o Donald Trump.",
-    "news_item_url": "https://apnews.com/en-vivo/elecciones-eeuu-trump-harris",
-    "picture_source": "BBC Mundo",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "United States",
-    "title": "New York Times",
-    "pubDate": "Tue, 05 Nov 2024 11:00:00 -0800",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQfx5l5IaGnz4sFPxcPzJMmolbzwKFazw27E44KGCl9kIiEoEuKJV8k7JneSCi12V8qX8vAO7jS",
-    "news_item_snippet": "Follow our real-time estimates to see who&#39;s ahead in the race between Kamala Harris and Donald J. Trump.",
-    "news_item_url": "https://www.nytimes.com/interactive/2024/11/05/us/elections/results-president-forecast-needle.html",
+    "title": "2024 united states presidential election in georgia",
+    "pubDate": "Tue, 05 Nov 2024 17:00:00 -0800",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcS9nxYxXiR9vzmvTc-I-iDKGx7-GHxIjP4NcmR8AfdzA8DsYpkXfIM1EyeJHbnMRvArqKf81i_k",
+    "news_item_snippet": "After years of Republican dominance, the state&#39;s rapidly growing and diversifying population helped lead to the narrowest of wins for President Biden in&nbsp;...",
+    "news_item_url": "https://www.nytimes.com/interactive/2024/11/05/us/elections/results-georgia-president.html",
     "picture_source": "The New York Times",
     "approx_traffic": "200,000+"
   },
@@ -63,10 +103,10 @@
     "country": "United States",
     "title": "Republican Party",
     "pubDate": "Tue, 05 Nov 2024 04:00:00 -0800",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRRe60RtTMSl0cQeryCHKxEM0bnktLw6zDsJxKvfRlm4NzpoDz4lo5n3lHzkiU8NkC1JArsVlf0",
-    "news_item_snippet": "With the world&#39;s oldest democracy voting to elect its 47th President, let us take a quick trip down American history to understand what is the republican&nbsp;...",
-    "news_item_url": "https://www.indiatoday.in/world/story/who-are-the-republicans-the-republican-party-and-its-many-factions-2628793-2024-11-06",
-    "picture_source": "Midland Daily News",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRjJp-g0dXCZcCONr0LvmfCh4zhccBDBSLXw1rV_qg8HW32he61n6a1E1dYGxD3T3Mxqu4KrFYa",
+    "news_item_snippet": "Daily News: How are you feeling as the campaign heads toward its last hours? &middot; From the top of the ticket to the local races, Republican candidates are going to&nbsp;...",
+    "news_item_url": "https://www.ourmidland.com/news/article/q-a-midland-county-republican-party-chair-cathy-19886502.php",
+    "picture_source": "India Today",
     "approx_traffic": "200,000+"
   },
   {
@@ -74,49 +114,69 @@
     "title": "Mark Robinson",
     "pubDate": "Tue, 05 Nov 2024 17:00:00 -0800",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTJr-heoYiWwvC_vUJ4Jg2TmmwidiMsmleM_JYP46CGptj2hVnOuZuuEHURtvTo2Um3GV-Q3-2Y",
-    "news_item_snippet": "Trump-endorsed Republican Mark Robinson has lost his race for North Carolina governor to Democratic Attorney General Josh Stein.",
-    "news_item_url": "https://www.rollingstone.com/politics/politics-news/mark-robinson-north-carolina-election-2024-1235154549/",
+    "news_item_snippet": "North Carolina Attorney General Josh Stein defeated scandal-plagued Republican Lt. Gov. Mark Robinson in the state&#39;s gubernatorial race, NBC News projects.",
+    "news_item_url": "https://www.nbcnews.com/politics/2024-election/mark-robinson-loses-north-carolina-governor-josh-stein-rcna173891",
     "picture_source": "NPR",
     "approx_traffic": "200,000+"
   },
   {
     "country": "United States",
-    "title": "California electoral votes",
-    "pubDate": "Tue, 05 Nov 2024 18:00:00 -0800",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRpZ60XPGOEGkF9jDo2jfZ5hqs9LJUP_8Ptjni2GvqPVnqY_5M573BEBAPyk3d5_0lr85pP7v8P",
-    "news_item_snippet": "President Joe Biden won the state by some 30 points over Trump in 2020, the fourth consecutive election in which the Democratic nominee got more than 60% of the&nbsp;...",
-    "news_item_url": "https://www.npr.org/2024/11/05/g-s1-32763/california-electoral-votes-harris-trump",
-    "picture_source": "KTVU San Francisco",
+    "title": "Bernie Moreno",
+    "pubDate": "Tue, 05 Nov 2024 17:00:00 -0800",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSHDUx2XTadYnjt5XU9yEXMPIgy83eg_TgR0X4tGxSCz0TWuc3oQ47OvePBbJirRLWx1Gr1dIOa",
+    "news_item_snippet": "Republican Bernie Moreno, a Colombian immigrant who became a high-profile Cleveland car dealer, has unseated Sen. Sherrod Brown, D-Ohio, NBC News projects.",
+    "news_item_url": "https://www.nbcnews.com/politics/2024-election/bernie-moreno-ohio-senate-win-election-sherrod-brown-rcna173881",
+    "picture_source": "Axios",
     "approx_traffic": "200,000+"
   },
   {
     "country": "United States",
-    "title": "How many electoral votes does California have",
+    "title": "New York Times",
     "pubDate": "Tue, 05 Nov 2024 18:00:00 -0800",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRpZ60XPGOEGkF9jDo2jfZ5hqs9LJUP_8Ptjni2GvqPVnqY_5M573BEBAPyk3d5_0lr85pP7v8P",
-    "news_item_snippet": "The Electoral College is made up of 538 electors. A 270 majority is needed for a candidate to win the presidency. In 2020, President Joe Biden earned 306&nbsp;...",
-    "news_item_url": "https://www.ktvu.com/election/electoral-votes-state-by-state",
-    "picture_source": "KTVU San Francisco",
-    "approx_traffic": "100,000+"
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSSDtuzguIsYftvbi7WAWJATPNajqeu2kgc8ZSEJEHWW4uui1PquNz2DW-z8yOsXPH2dRboUkzg",
+    "news_item_snippet": "Get live Senate results and maps from the battleground states in the 2024 election.",
+    "news_item_url": "https://www.nytimes.com/interactive/2024/11/05/us/elections/results-senate.html",
+    "picture_source": "The New York Times",
+    "approx_traffic": "200,000+"
   },
   {
     "country": "United States",
-    "title": "Texas Senate race",
+    "title": "Associated Press",
+    "pubDate": "Tue, 05 Nov 2024 08:00:00 -0800",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQNHLpk0Sss7BRxOFXwg6PR9ZFouIbfNlQi1_sFQy2pb3XWodr39AgbyGztBOrSDR3u5jI42iJf",
+    "news_item_snippet": "On election night, the AP will count the vote in nearly 7,000 races, delivering the results up and down the ballot from president, governor and Congress to&nbsp;...",
+    "news_item_url": "https://www.wdtn.com/news/your-local-election-hq/how-the-associated-press-determines-race-winners-on-election-day/",
+    "picture_source": "WDTN.com",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Battleground states",
+    "pubDate": "Tue, 05 Nov 2024 17:00:00 -0800",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQ0aV6PbbMRELwgUnB3LUMRUWYpK4fMi6XtcPK4mFlD68Q9YXZd5mY4pO3I_IYJbCuNij4SfMR6",
+    "news_item_snippet": "Several key states known as &quot;swing states&quot; will be at the center of the 2024 presidential election, with the results in each one playing a massive role in.",
+    "news_item_url": "https://www.nbcchicago.com/decision-2024/swing-states-2024-map-whos-winning-the-election-so-far/3593222/",
+    "picture_source": "NPR",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "United States",
+    "title": "2016 election results",
     "pubDate": "Tue, 05 Nov 2024 15:00:00 -0800",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRAnIag6gePoEfBA10QPGVcrwG03cz9aSFgJqa15h6_ye-YiP-MPdQT_rI9czkeKthbY6RtyTOh",
-    "news_item_snippet": "On Nov. 5, Texas voters will choose the next president, a U.S. Senator, and candidates for federal, state, and local offices. Follow our live updates.",
-    "news_item_url": "https://www.statesman.com/story/news/politics/elections/local/2024/11/05/live-updates-texas-election-results-2024-austin-tx-travis-county-bastrop-hays-williamson/75846411007/",
-    "picture_source": "Texas Tribune",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSsOCdxhnYHkx5IJSHYPg8GV_XXQzqkw7RYaeOhoSfP0xyxrwHmlsvjl_uoMR-We_vXEUJ5Z6HI",
+    "news_item_snippet": "Electors cast their ballots for the candidate that won the popular vote in their state, and whichever candidate receives 270 votes wins. The popular vote on the&nbsp;...",
+    "news_item_url": "https://www.usatoday.com/story/news/politics/elections/2024/11/05/election-popular-vote-results/76080574007/",
+    "picture_source": "USA TODAY",
     "approx_traffic": "100,000+"
   },
   {
     "country": "United States",
-    "title": "Kornacki",
-    "pubDate": "Tue, 05 Nov 2024 04:00:00 -0800",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSxneahqk891NEIAWsR-bdPCdNKYVRYoDBV-9aqw9f1dLeVRjEQmCyA68YgEmf0y-a2W029blnA",
-    "news_item_snippet": "Steve Kornacki, everyone&#39;s favorite election night nerd, is one of the many analysts using technology to break down results. Here&#39;s where to find him.",
-    "news_item_url": "https://www.azcentral.com/story/entertainment/media/2024/11/05/where-to-watch-steve-kornacki-on-election-night-2024/76081452007/",
-    "picture_source": "The Tennessean",
+    "title": "DJT stock",
+    "pubDate": "Tue, 05 Nov 2024 14:00:00 -0800",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcR_NIcB9hApF4XmXPwRSZfFZP1tGpLwptVT_aRQjMvR5CIwTV_zOh2zdF_MjtDO01ODp7vyczDZ",
+    "news_item_snippet": "Trump Media&#39;s stock took an afternoon dive in volatile trading Tuesday, as investors in the social-media company appeared to suddenly turn pessimistic about&nbsp;...",
+    "news_item_url": "https://www.marketwatch.com/story/trump-medias-djt-stock-is-rising-above-this-key-level-on-election-day-1ca9804e",
+    "picture_source": "USA TODAY",
     "approx_traffic": "100,000+"
   },
   {
@@ -140,72 +200,12 @@
     "approx_traffic": "100,000+"
   },
   {
-    "country": "United States",
-    "title": "DJT stock",
-    "pubDate": "Tue, 05 Nov 2024 14:00:00 -0800",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTa239TY1CSHQn2XZRu_Ah8yOjhqBhhxdIeOIEV7BEUMhbyPQEtKr2xTXPnC_aSJRURSpm2S36p",
-    "news_item_snippet": "Volatility in the <b>stock</b> is expected to continue. One investor has warned that if Trump loses the election, <b>shares</b> of <b>DJT</b> could plunge to $0. &quot;It&#39;s a binary bet on the election,&quot;&nbsp;...",
-    "news_item_url": "https://finance.yahoo.com/news/djt-stock-jumps-in-after-hours-trading-as-early-election-results-roll-in-005921008.html",
-    "picture_source": "MarketWatch",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "United States",
-    "title": "AP",
-    "pubDate": "Tue, 05 Nov 2024 12:00:00 -0800",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQTJxNF6Ep5W9IaKsqwQD3fZjKeNkmvcafLe6-eGmSaDmyv3Lj9CVWNhhW7AKoV8BBOEixXy2HZ",
-    "news_item_snippet": "Sometimes it&#39;s possible to declare winners at poll closing time in noncompetitive races with multiple candidates in areas where one political party has an&nbsp;...",
-    "news_item_url": "https://www.pbs.org/newshour/politics/how-the-ap-is-able-to-declare-winners-in-states-where-polls-just-closed",
-    "picture_source": "Houston Public Media",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Liverpool",
-    "pubDate": "Tue, 05 Nov 2024 13:00:00 -0800",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSRsStKMxqy8uBEkzSmfqwyc1PcYLXxRbZG9s5N6xCqKxXOcjfu6eFPTSN6131FKjzjVF3uJ4HF",
-    "news_item_snippet": "Follow live reaction to Liverpool&#39;s dominant 4-0 win over Bayer Leverkusen as Xabi Alonso&#39;s return to Anfield was spoiled.",
-    "news_item_url": "https://www.nytimes.com/athletic/live-blogs/liverpool-leverkusen-live-updates-champions-league-score-result/64Sjnlw66EMt/",
-    "picture_source": "ESPN",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "United States",
-    "title": "North Carolina",
-    "pubDate": "Tue, 05 Nov 2024 17:00:00 -0800",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTJr-heoYiWwvC_vUJ4Jg2TmmwidiMsmleM_JYP46CGptj2hVnOuZuuEHURtvTo2Um3GV-Q3-2Y",
-    "news_item_snippet": "Here in North Carolina, with its juicy trove of 16 Electoral College votes, Kamala Harris and Donald Trump haven&#39;t so much sweet-talked as stalked us. She&nbsp;...",
-    "news_item_url": "https://www.nytimes.com/2024/11/05/opinion/north-carolina-harris-trump.html",
-    "picture_source": "NPR",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "United States",
-    "title": "2016 election results",
-    "pubDate": "Tue, 05 Nov 2024 15:00:00 -0800",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSsOCdxhnYHkx5IJSHYPg8GV_XXQzqkw7RYaeOhoSfP0xyxrwHmlsvjl_uoMR-We_vXEUJ5Z6HI",
-    "news_item_snippet": "Votes are being counted in the 2024 presidential election. Look back at the results of the 2016 race between Donald Trump and Hillary Clinton.",
-    "news_item_url": "https://www.usatoday.com/story/news/politics/elections/2024/11/05/results-of-2016-presidential-election-trump-vs-clinton/76080839007/",
-    "picture_source": "USA TODAY",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Virginia election results",
-    "pubDate": "Tue, 05 Nov 2024 18:00:00 -0800",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQda3bN4dy3dE_cDHm7CSo5C85nHmBmShl97fEluBhvu9VAatiXSjm1FFi0GGyPzjuCw1ELItQv",
-    "news_item_snippet": "VIRGINIA (DC News Now) \u2014 Below are the most up-to-date results for Virginia&#39;s 2024 elections. You can find results for Virginia&#39;s ballot measures here.",
-    "news_item_url": "https://www.dcnewsnow.com/news/politics/election-virginia/2024-virginia-election-results/",
-    "picture_source": "NBC4 Washington",
-    "approx_traffic": "50,000+"
-  },
-  {
     "country": "India",
     "title": "Sporting vs Man City",
     "pubDate": "Wed, 06 Nov 2024 01:30:00 +0530",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcT96goxPW62cpTHZQ8iVJzF1Ey8ycWxz85SduUvN0ynLQ33lnWHnbeN-efYzU9thZnZsAr6Inga",
-    "news_item_snippet": "Sporting CP 4-1 Man City: Gyokeres scores a hat-trick as City lose their third match in a row.",
-    "news_item_url": "https://sports.yahoo.com/sporting-vs-man-city-live-170626839.html",
+    "news_item_snippet": "City suffered a night of Champions League disappointment, losing out 4-1 at Sporting CP with Viktor Gyokeres hitting a hat-trick for the hosts.",
+    "news_item_url": "https://www.mancity.com/news/mens/sporting-cp-v-city-champions-league-match-report-63866430",
     "picture_source": "Aljazeera.com",
     "approx_traffic": "100,000+"
   },
@@ -221,22 +221,22 @@
   },
   {
     "country": "India",
+    "title": "Champions League",
+    "pubDate": "Tue, 05 Nov 2024 06:30:00 +0530",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRbGp2SQpzxIDtdH3K7uJhWYtKoGLB4UJYOoyvbTmODOmV0sOtRpoNE5NAMSw2ixTDYa3Gs4j0c",
+    "news_item_snippet": "City suffered a night of Champions League disappointment, losing out 4-1 at Sporting CP with Viktor Gyokeres hitting a hat-trick for the hosts.",
+    "news_item_url": "https://www.mancity.com/news/mens/sporting-cp-v-city-champions-league-match-report-63866430",
+    "picture_source": "Business Standard",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "India",
     "title": "CAT Admit Card",
     "pubDate": "Tue, 05 Nov 2024 11:30:00 +0530",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcREcby6Ye8g_Khpeq8VtGycA0nGI7gRTID7kyOMDiNUGz5TG7Yw6S5PXSJRLQPlSgXtNN2EkMkO",
     "news_item_snippet": "To download their admit cards, candidates must log in using the user ID and password created during the registration process for the CAT 2024 examination.",
     "news_item_url": "https://www.businesstoday.in/education/story/cat-2024-admit-card-iim-cat-admit-card-to-be-out-today-on-iimcatacin-how-to-download-key-dates-more-452579-2024-11-05",
     "picture_source": "Hindustan Times",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "India",
-    "title": "Champions League",
-    "pubDate": "Tue, 05 Nov 2024 06:30:00 +0530",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcT96goxPW62cpTHZQ8iVJzF1Ey8ycWxz85SduUvN0ynLQ33lnWHnbeN-efYzU9thZnZsAr6Inga",
-    "news_item_snippet": "Liverpool vs Bayer Leverkusen: Xabi Alonso is set to return to his former club as a visiting manager. Alonso was part of the Reds&#39; UCL-winning campaign in&nbsp;...",
-    "news_item_url": "https://www.business-standard.com/sports/football-news/uefa-champions-league-liverpool-vs-bayer-leverkusen-live-time-streaming-124110500921_1.html",
-    "picture_source": "Aljazeera.com",
     "approx_traffic": "100,000+"
   },
   {
@@ -252,12 +252,22 @@
   {
     "country": "India",
     "title": "US Election Results",
+    "pubDate": "Mon, 04 Nov 2024 11:30:00 +0530",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQXNvr2iLKZ7P-OndcicQ0bJpcO6R_kVoiai1cV8BVvV26oisq9t84EQC0-yKmr6lUXMFP1mWDd",
+    "news_item_snippet": "US Election Results 2024 are keenly watched out for as the final voting to elect the next US president took place on November 5.",
+    "news_item_url": "https://www.livemint.com/elections/us-elections/us-presidential-election-results-2024-when-will-it-be-announced-your-complete-guide-donald-trump-kamala-harris-11730729732237.html",
+    "picture_source": "\u0905\u092e\u0930 \u0909\u091c\u093e\u0932\u093e",
+    "approx_traffic": "2,000,000+"
+  },
+  {
+    "country": "India",
+    "title": "US Election Results",
     "pubDate": "Mon, 04 Nov 2024 09:30:00 +0530",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQXwn0u-K7pOmPHNEtKDTY7d3hMFPQJsxD437Z5bswka2z8LIQ8aoPc8P6WX-iA7bfwXTXjawAH",
     "news_item_snippet": "US News: Former President Donald Trump and vice president Kamala Harris faced off in a pivotal election that drew millions of voters.",
     "news_item_url": "https://timesofindia.indiatimes.com/world/us/us-election-results-key-takeaways-winners-losers-us-elections-highlights/articleshow/114996958.cms",
     "picture_source": "Livemint",
-    "approx_traffic": "1,000,000+"
+    "approx_traffic": "500,000+"
   },
   {
     "country": "India",
@@ -280,53 +290,13 @@
     "approx_traffic": "200,000+"
   },
   {
-    "country": "India",
-    "title": "US Elections",
-    "pubDate": "Mon, 04 Nov 2024 13:30:00 +0530",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTH7yl50cPn4H7M5glozYDFjHi1iwUyVKfSFm_p20PlIPMhdKPoWvggegu1pOblgFXzndG2kGJO",
-    "news_item_snippet": "\u0907\u0928 \u0926\u093f\u0928\u094b\u0902 \u0905\u092e\u0947\u0930\u093f\u0915\u093e \u092e\u0947\u0902 \u091a\u0941\u0928\u093e\u0935\u0940 \u0938\u0930\u0917\u0930\u094d\u092e\u093f\u092f\u093e\u0902 \u0924\u0947\u091c \u0939\u0948\u0902, \u0910\u0938\u0947 \u092e\u0947\u0902 \u0915\u094d\u092f\u093e \u0906\u092a \u091c\u093e\u0928\u0924\u0947 \u0939\u0948\u0902 \u0915\u093f \u0905\u092e\u0947\u0930\u093f\u0915\u093e \u092e\u0947\u0902 \u090f\u0915 \u0910\u0938\u093e \u0928\u093f\u092f\u092e \u0939\u0948 \u091c\u093f\u0938\u0947 \u091c\u093e\u0928\u0915\u0930 \u0906\u092a \u092d\u0940 \u091a\u094c\u0902\u0915 \u091c\u093e\u090f\u0902\u0917\u0947.",
-    "news_item_url": "https://www.abplive.com/gk/us-elections-2024-in-america-lost-seats-go-to-the-leading-party-only-know-this-rule-2817334",
-    "picture_source": "TV9 Hindi",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "India",
-    "title": "US Election results date",
-    "pubDate": "Mon, 04 Nov 2024 08:30:00 +0530",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQXwn0u-K7pOmPHNEtKDTY7d3hMFPQJsxD437Z5bswka2z8LIQ8aoPc8P6WX-iA7bfwXTXjawAH",
-    "news_item_snippet": "Fifty-one separate elections, one in every US state, and each with its own rules and practices for counting the votes makes the presidential election a&nbsp;...",
-    "news_item_url": "https://www.indiatoday.in/world/us-election-2024/story/us-election-results-2024-date-time-donald-trump-kamala-harris-2628511-2024-11-05",
-    "picture_source": "Livemint",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "India",
-    "title": "Barcelona",
-    "pubDate": "Mon, 04 Nov 2024 10:30:00 +0530",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRvKuXSDmhwWK2Oc3xCxj610uxnFBAj9w6Aq5NwHv3cPL0KV-PhASKa1DYf6zxYXT36qq5Y-VXH",
-    "news_item_snippet": "More than 85 aspirants are hoping to join the blaugrana community of football trainers.",
-    "news_item_url": "https://www.fcbarcelona.com/en/news/4162723/barca-academy-coach-selection-process-opens",
-    "picture_source": "FC Barcelona",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "India",
-    "title": "Swiggy IPO GMP",
-    "pubDate": "Mon, 04 Nov 2024 13:30:00 +0530",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcS0qjAfyfQqm2f5sRs2pFGk8wsEmTGtVtepiAd7Jhm2yZF53PMd3VBUiWMGo_KwMBsKlzhgKUKt",
-    "news_item_snippet": "Swiggy IPO: The unlisted shares of Softbank-backed online food delivery giant Swiggy are trading at a premium in the grey market ahead of the launch of its&nbsp;...",
-    "news_item_url": "https://www.business-standard.com/markets/news/swiggy-ipo-gmp-stays-positive-ahead-of-launch-should-you-subscribe-124110500237_1.html",
-    "picture_source": "The Economic Times",
-    "approx_traffic": "50,000+"
-  },
-  {
     "country": "Argentina",
     "title": "Real Madrid  Milan",
     "pubDate": "Tue, 05 Nov 2024 17:00:00 -0300",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcR8DyYXi_CbAjeuNjszMrq50MdEO4rn9QHulycIYNL9w-wIWFRYfdWXBWNE6OmsKsJybTHWNqKI",
-    "news_item_snippet": "El encuentro se disputa este martes a las 17 (horario argentino) en el estadio Santiago Bernab\u00e9u, con arbitraje del esloveno Slavko Vincic - LA NACION.",
-    "news_item_url": "https://www.lanacion.com.ar/deportes/futbol/en-que-canal-pasan-real-madrid-vs-milan-por-la-champions-league-2024-2025-hoy-nid05112024/",
-    "picture_source": "Ol\u00e9",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcR9kb098m8gU3cvd0cSoxnDtdCu2bajqCmIrG8g_5XPm5ebubyNNxIPqmnF3K4dnp1sAN7ZLsVA",
+    "news_item_snippet": "El Merengue no pudo con el Rossonero, que se impuso por 3 a 1 en un Bernab\u00e9u que silb\u00f3 a sus estrellas; los de Ancelloti quedaron 17\u00b0 en la tabla de&nbsp;...",
+    "news_item_url": "https://www.ole.com.ar/usa/champions-league/real-madrid-vs-milan-hoy-en-vivo-partido-champions-league-hora-donde-ver-tv-alineacion-resumen_0_JxeFPNZTJU.html",
+    "picture_source": "canchallena.com",
     "approx_traffic": "100,000+"
   },
   {
@@ -343,10 +313,10 @@
     "country": "Argentina",
     "title": "San Lorenzo  Estudiantes",
     "pubDate": "Tue, 05 Nov 2024 19:00:00 -0300",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQrgfJ2anDx7gHKdl4T-abWHZoLowqPzMJFGSw9vb4mYfiUdMK7RFHRWH92pi4Z55D5ygU5PJ6i",
-    "news_item_snippet": "Los Gauchos de Boedo y el Pincha empataron 1-1 por la fecha 21 del torneo local en el estadio Pedro Bidegain.",
-    "news_item_url": "https://www.tycsports.com/liga-profesional-de-futbol/san-lorenzo-vs-estudiantes-en-vivo-hora-donde-ver-y-formaciones-id617077.html",
-    "picture_source": "ESPN",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcT4VIKenSNuxdUzYL1w2gzk7z_A8DxYs4kJmFV4vU25U6--WogrifBEKuU0elZp5wtrlzI1mBTs",
+    "news_item_snippet": "En el Nuevo Gas\u00f3metro, el Cicl\u00f3n de Russo igual\u00f3 con el Pincha de Dom\u00ednguez, por la 21\u00aa fecha del Torneo de la Liga Profesional.",
+    "news_item_url": "https://www.espn.com.ar/futbol/argentina/nota/_/id/14401494/en-un-partido-intenso-y-con-pierna-fuerte-san-lorenzo-y-estudiantes-quedaron-a-mano",
+    "picture_source": "TyC Sports",
     "approx_traffic": "100,000+"
   },
   {
@@ -354,30 +324,50 @@
     "title": "Champions",
     "pubDate": "Tue, 05 Nov 2024 06:00:00 -0300",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQ4zfX5WYdjWDgeS6iYpLYn91XtRa08P4-Aqm00i8ZT38zxzi09m24Kcq6FzT9_U8CHckWGqPJ4",
-    "news_item_snippet": "Paulo Gazzaniga (Girona): el otro arquero argentino que tuvo acci\u00f3n este martes se llev\u00f3 la peor parte. Su equipo fue goleado 4-0 en los Pa\u00edses Bajos y, encima,&nbsp;...",
-    "news_item_url": "https://www.ole.com.ar/internacional/champions/argentinos-seleccion-champions-league-fecha-4_0_nevUaJhsyj.html",
+    "news_item_snippet": "Gy\u00f6keres destroz\u00f3 al City con un hat-trick para acabar de consolidarse en la \u00e9lite y su primer penalti lo tir\u00f3 as\u00ed. Brutal.",
+    "news_item_url": "https://as.com/videos/champions-league/el-mejor-9-de-la-champions-con-diferencia-y-encima-tira-los-penaltis-asi-que-escandalo-v/",
     "picture_source": "ESPN",
     "approx_traffic": "50,000+"
   },
   {
     "country": "Australia",
+    "title": "ABC News",
+    "pubDate": "Wed, 06 Nov 2024 12:00:00 +1100",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRSYlgFWAXJ_ChPZ3ARv_v0f7YMz67oqXbGHuDcMa5xURbAOlFNEliqqRpq7_jO7qi5GNzm-o-z",
+    "news_item_snippet": "The federal government has quietly delayed plans to introduce local content requirements for major streaming platforms, with no indication of when it might&nbsp;...",
+    "news_item_url": "https://www.abc.net.au/news/2024-11-06/government-quietly-shelves-plans-for-local-content-requirements/104564654",
+    "picture_source": "About the ABC",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "Australia",
     "title": "CNN",
     "pubDate": "Wed, 06 Nov 2024 07:00:00 +1100",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSsAZux9rHCsMmLPnyVbL5f-5-cKsNM0CC2IwROqxIognOPGWm88diTChDMfX_Y_OSSL71VazsQ",
-    "news_item_snippet": "Amelia Dimoldenberg speaking with actor Andrew Garfield on &#39;Chicken Shop Date.&#39; From Dimz Inc. CNN \u2014. It&#39;s been&nbsp;...",
-    "news_item_url": "https://www.cnn.com/2024/11/05/entertainment/binge-worthy-youtube-series/index.html",
-    "picture_source": "USA TODAY",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRaivs92SXbBlmiw661C7ZNOawOnvhcjTkiDZzcacxxfEpJealbvJY2Fkcw-JwMLwmjpdP_KvOP",
+    "news_item_snippet": "Millions of Americans will be tuning in to CNN and other networks on election night as returns roll in. They&#39;ll be waiting to see who wins, something CNN&nbsp;...",
+    "news_item_url": "https://www.cnn.com/2024/11/05/politics/how-cnn-projects-elections-what-matters/index.html",
+    "picture_source": "CNN",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Australia",
+    "title": "Trump",
+    "pubDate": "Wed, 06 Nov 2024 11:00:00 +1100",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQn-RN4RHIkFVNP6Qm7s2vLdF5uoeHD_IkBDQZVO7Z7DLXPOiuzj7jK3nKLu6GNrg0Kkfyjmq0L",
+    "news_item_snippet": "WATCH LIVE: North Carolina called for Donald Trump; Republicans win two Senate seats; Anthony Albanese vows to work with president, whoever it is.",
+    "news_item_url": "https://www.afr.com/world/north-america/election-day-dawns-as-tens-of-millions-have-already-cast-their-vote-20241105-p5ko7x",
+    "picture_source": "BBC News",
     "approx_traffic": "50,000+"
   },
   {
     "country": "Brazil",
-    "title": "Botafogo x Vasco da Gama",
-    "pubDate": "Tue, 05 Nov 2024 07:00:00 -0500",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTr4LJ3fTvEobIIWdOwDFXzEaG91w96iH89iZUPqCDXtGJUvTvozAFBPHqTxTUK8lHQ1xAZGDkO",
-    "news_item_snippet": "Botafogo e Vasco da Gama se enfrentam na noite de hoje, 5, no Est\u00e1dio Nilton Santos, no Rio de Janeiro, em partida v\u00e1lida pela 32\u00aa rodada do Campeonato&nbsp;...",
-    "news_item_url": "https://veja.abril.com.br/esporte/botafogo-x-vasco-horario-onde-assistir-e-provaveis-escalacoes",
-    "picture_source": "Ag\u00eancia Brasil",
-    "approx_traffic": "1,000,000+"
+    "title": "Bahia x S\u00e3o Paulo",
+    "pubDate": "Tue, 05 Nov 2024 13:00:00 -0500",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcT18uRja5BmoGTGNS3TduktZQytmmO79DJOB6rHPrIo5Tuu9GTx6Yne3Y0PqJGJecgbXisUCC2N",
+    "news_item_snippet": "Partida do Campeonato Brasileiro acontece nesta ter\u00e7a-feira (5) em Salvador.",
+    "news_item_url": "https://www.uol.com.br/esporte/ultimas-noticias/2024/11/05/transmissao-ao-vivo-de-bahia-x-sao-paulo-veja-onde-assistir.htm",
+    "picture_source": "CNN Brasil",
+    "approx_traffic": "500,000+"
   },
   {
     "country": "Brazil",
@@ -391,19 +381,9 @@
   },
   {
     "country": "Brazil",
-    "title": "Bahia x S\u00e3o Paulo",
-    "pubDate": "Tue, 05 Nov 2024 13:00:00 -0500",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcT18uRja5BmoGTGNS3TduktZQytmmO79DJOB6rHPrIo5Tuu9GTx6Yne3Y0PqJGJecgbXisUCC2N",
-    "news_item_snippet": "Equipes protagonizam briga direta pela Libertadores em partida com campanha contra viol\u00eancia no futebol.",
-    "news_item_url": "https://www.terra.com.br/esportes/sao-paulo/bahia-x-sao-paulo-pelo-brasileirao-onde-assistir-ao-vivo-horario-e-escalacao,f6a30f668dac47317cfcea13703477bc9lkd96xs.html",
-    "picture_source": "CNN Brasil",
-    "approx_traffic": "500,000+"
-  },
-  {
-    "country": "Brazil",
     "title": "Internacional x Crici\u00fama",
     "pubDate": "Tue, 05 Nov 2024 13:00:00 -0500",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQ-T2HJwzKq3RBMm6SCztCN2nPG05LvjEKBLq3eRPvtI7qMCBJPkWDb4oD4z4AFu4BUI0Etg3LM",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQGfZzL5rn3MPA1qcWhc3lmv6cjNibYYfmx7DAmnIOLL7PjWpcQoyJMR-UDnybVdDU0TFfdg5G8",
     "news_item_snippet": "O Internacional enfrenta o Crici\u00fama nesta ter\u00e7a-feira, 5, \u00e0s 21h30, no Est\u00e1dio Beira-Rio, em Porto Alegre. O jogo \u00e9 v\u00e1lido pelo Campeonato Brasileiro e ter\u00e1&nbsp;...",
     "news_item_url": "https://exame.com/esporte/internacional-x-criciuma-onde-assistir-e-horario-do-jogo-pelo-brasileirao/",
     "picture_source": "globoesporte.com",
@@ -433,20 +413,20 @@
     "country": "Brazil",
     "title": "Mirassol x Coritiba",
     "pubDate": "Tue, 05 Nov 2024 18:00:00 -0500",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSP002GJhiMCnzBTZ_wbmK3GEe-lrKWtrqWEDNQ9fNrz-EMokdajNImcd_5odLDBf5UOGo5AGR6",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSp0rqFjnh8iXBseJ666QUY2-lv9VibSNkoJmouwRe-ackgl99ZNAxVLnRUVDJMeZtzLJthIhjm",
     "news_item_snippet": "Mirassol x Coritiba se enfrentam em partida v\u00e1lida pela 35\u00aa rodada do Brasileir\u00e3o S\u00e9rie B. O duelo acontecer\u00e1 nesta ter\u00e7a-feira (05), \u00e0s 21:30 (hor\u00e1rio de&nbsp;...",
     "news_item_url": "https://www.gazetaesportiva.com/apostas/prognosticos/futebol/mirassol-x-coritiba-05-11-2024",
-    "picture_source": "Placar",
+    "picture_source": "globoesporte.com",
     "approx_traffic": "100,000+"
   },
   {
     "country": "Brazil",
     "title": "Bruno Henrique",
     "pubDate": "Tue, 05 Nov 2024 06:00:00 -0500",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcT2hUOiVgwQbGyg_F6rRH-pEpZFQQk7ZsHfYqsA6sNXnp8AfhoAeMrs5TA0IGxlrcokp4oktXS6",
-    "news_item_snippet": "Jogador \u00e9 um dos alvos da opera\u00e7\u00e3o Spot-Fixing, da Pol\u00edcia Federal, para investigar manipula\u00e7\u00e3o em apostas esportivas. PF investiga se ele levou cart\u00e3o&nbsp;...",
-    "news_item_url": "https://agenciabrasil.ebc.com.br/geral/noticia/2024-11/flamengo-diz-que-confia-em-bruno-henrique-e-dara-suporte-ao-atleta",
-    "picture_source": "UOL",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcS7vaZB6lhOMyvy84n5w2frXIwaHBKX89JWFJ3w9XzxKXsnB69Vgnfgqg_HwYjQ56BwlwlalbZq",
+    "news_item_snippet": "O atacante Bruno Henrique, do Flamengo, \u00e9 alvo de uma opera\u00e7\u00e3o da Pol\u00edcia Federal e do Minist\u00e9rio P\u00fablico do Rio de Janeiro (MPRJ) que apura poss\u00edvel&nbsp;...",
+    "news_item_url": "https://www.uol.com.br/esporte/colunas/lei-em-campo/2024/11/05/manipulacao-de-resultado-o-que-pode-acontecer-com-bruno-henrique.htm",
+    "picture_source": "EBC",
     "approx_traffic": "50,000+"
   },
   {
@@ -470,23 +450,63 @@
     "approx_traffic": "50,000+"
   },
   {
+    "country": "Brazil",
+    "title": "Amazonas FC x Am\u00e9rica-MG",
+    "pubDate": "Tue, 05 Nov 2024 17:00:00 -0500",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTkfVBM5hN4D4QmsWSl9owvw3lGnrMqo1eiFfsQPwpbn9Mu0KtJgAfBn58y0K-V2tIsDCDOj7UZ",
+    "news_item_snippet": "Na reta final da S\u00e9rie B do Campeonato Brasileiro de 2024, Amazonas FC e Am\u00e9rica-MG se enfrentam nesta ter\u00e7a-feira, 5 de novembro, em uma partida que.",
+    "news_item_url": "https://www.mixvale.com.br/2024/11/05/amazonas-fc-x-america-mg-hoje-as-19h-em-partida-decisiva-pela-serie-b-onde-assistir-escalacoes-e-mais/",
+    "picture_source": "globoesporte.com",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Brazil",
+    "title": "Carol Dartora",
+    "pubDate": "Tue, 05 Nov 2024 11:00:00 -0500",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTul2wQbqMNRA5BEbVkMguO_aytbL-XcIkoZLuOTV4GGTapPIhGDcnjW4cJqizTJC2FsrEsoXF6",
+    "news_item_snippet": "Deputada relata que vem recebendo e-mails com amea\u00e7as e mensagens de \u00f3dio desde o dia 14 de outubro. Leia em Poder360.",
+    "news_item_url": "https://www.poder360.com.br/poder-congresso/deputada-carol-dartora-e-ameacada-de-morte-por-e-mail/",
+    "picture_source": "Ag\u00eancia Brasil",
+    "approx_traffic": "50,000+"
+  },
+  {
     "country": "Canada",
     "title": "CNN",
     "pubDate": "Tue, 05 Nov 2024 09:00:00 -0500",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSsAZux9rHCsMmLPnyVbL5f-5-cKsNM0CC2IwROqxIognOPGWm88diTChDMfX_Y_OSSL71VazsQ",
-    "news_item_snippet": "On Nov. 5, CNN&#39;s John King will be reporting live on election results with his famous \u201cmagic wall.\u201d Here&#39;s what to know about the CNN anchor.",
-    "news_item_url": "https://www.usatoday.com/story/entertainment/tv/2024/11/05/who-is-john-king-cnn/75969171007/",
+    "news_item_snippet": "Millions of Americans will be tuning in to CNN and other networks on election night as returns roll in. They&#39;ll be waiting to see who wins, something CNN&nbsp;...",
+    "news_item_url": "https://www.cnn.com/2024/11/05/politics/how-cnn-projects-elections-what-matters/index.html",
     "picture_source": "USA TODAY",
     "approx_traffic": "200,000+"
+  },
+  {
+    "country": "Canada",
+    "title": "Robert Kennedy",
+    "pubDate": "Tue, 05 Nov 2024 15:00:00 -0500",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcT_kHLkk3Kab9GfQNmWSzIdJxfgm2t7VxsHFxXoMo6k0eZRs_eymoNrQbURle-eLyA3yYNnXOa3",
+    "news_item_snippet": "Scores of Illinois residents made their way to the polls Tuesday for the 2024 presidential election, pitting former President Donald Trump and Vice&nbsp;...",
+    "news_item_url": "https://www.nbcchicago.com/news/local/why-is-robert-f-kennedy-jr-still-on-the-ballot-in-illinois/3592984/",
+    "picture_source": "NBC Chicago",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "Canada",
+    "title": "California electoral votes",
+    "pubDate": "Tue, 05 Nov 2024 21:00:00 -0500",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcR9qwFpjiTcVx7wNNcPq1dKq9HMO1gBKwSVPUKrSATztKBp1hKDyQZtMruWEDwjENtd4eRnLqBR",
+    "news_item_snippet": "California has the most electoral votes of any state \u2014 54. Here&#39;s how the Golden State will affect the Electoral College in upcoming presidential election.",
+    "news_item_url": "https://www.cbsnews.com/sanfrancisco/news/california-electoral-college-votes-2024-election/",
+    "picture_source": "ABC10.com KXTV",
+    "approx_traffic": "50,000+"
   },
   {
     "country": "South Korea",
     "title": "\ubbf8\uad6d \ub300\uc120",
     "pubDate": "Mon, 04 Nov 2024 15:00:00 +0900",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcT1sZXbX3VxhKsZgXtLB6_K4AVsE-uESra9VEKpY6_gMx5NEzVNO27AjIYJ5qXLmrjRhGeEUNM0",
-    "news_item_snippet": "\uc5ed\ub300\uae09 \ucd08\uc811\uc804 \uc2b9\ubd80\ub85c \ubd88\ub9ac\ub294 \ubbf8\uad6d \ub300\uc120 \ud22c\ud45c\uac00 \ub05d\ub098\uac00\uace0 \uc788\ub2e4. 6\uc77c \uc624\uc804 9\uc2dc(\ud55c\uad6d\uc2dc\uac01)\ubd80\ud130 \ud5a5\ubc30\ub97c \uac00\ub97c \uc8fc\uc694 \uacbd\ud569\uc8fc\ub4e4\uc758 \ud22c\ud45c\uac00 \uc885\ub8cc\ub418\uae30 \uc2dc\uc791\ud588\ub2e4.",
-    "news_item_url": "https://www.hani.co.kr/arti/international/america/1166042.html",
-    "picture_source": "VOA Korea",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRdmUZO5KyqV1DFdY8VNVgSpm4oJS_jEKV26TTJJnPOx4-uXF6OQcYQaaWtZCJXjWG1brgZC_9s",
+    "news_item_snippet": "\uc62c\ud574 \ubbf8\uad6d \ub300\ud1b5\ub839 \uc120\uac70\ub294 \uadf8 \uc5b4\ub290 \ub54c\ubcf4\ub2e4 \ubbf8\uad6d\uc758 \uc815\uce58, \uc0ac\ud68c\uc801 \ubd84\uc5f4\uacfc \uc591\uadf9\ud654\uac00 \uc2ec\ud55c \uac00\uc6b4\ub370 \uce58\ub7ec\uc84c\ub2e4\ub294 \ud3c9\uac00\uac00 \ub9ce\uc558\uc2b5\ub2c8\ub2e4. \ud2b9\ud788 \uc815\uce58\uc801 \ub300\ub9bd\uc744 \ub118\uc5b4 \uc9c4\uc601, \uc131\ubcc4,&nbsp;...",
+    "news_item_url": "https://www.voakorea.com/a/7852867.html",
+    "picture_source": "BBC News \ucf54\ub9ac\uc544",
     "approx_traffic": "200,000+"
   },
   {
@@ -502,41 +522,21 @@
   {
     "country": "Saudi Arabia",
     "title": "\u0627\u0644\u0646\u0635\u0631 \u0636\u062f \u0627\u0644\u0639\u064a\u0646",
-    "pubDate": "Mon, 04 Nov 2024 07:00:00 +0300",
+    "pubDate": "Mon, 04 Nov 2024 14:00:00 +0300",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSr1PnnAk9AUJYG94HXdEbEkdupJkCQR9WSjJmnpEP14st5cFCFGYYWFVKWpWAeONTfDtVmH8-f",
-    "news_item_snippet": "\u0623\u0639\u0644\u0646 \u0641\u0631\u064a\u0642\u0627 \u0627\u0644\u0646\u0635\u0631 \u0627\u0644\u0633\u0639\u0648\u062f\u064a \u0648\u0627\u0644\u0639\u064a\u0646 \u0627\u0644\u0627\u0645\u0627\u0631\u0627\u062a\u064a \u062a\u0634\u0643\u064a\u0644 \u0645\u0648\u0627\u062c\u0647\u0629 \u0627\u0644\u0641\u0631\u064a\u0642\u064a\u0646 \u0627\u0644\u0645\u0642\u0631\u0631 \u0627\u0646\u0637\u0644\u0627\u0642\u0647\u0627 \u0641\u064a \u0627\u0644\u062a\u0627\u0633\u0639\u0629 \u0645\u0646 \u0645\u0633\u0627\u0621 \u0627\u0644\u064a\u0648\u0645 \u0639\u0644\u064a \u0645\u0644\u0639\u0628 \u0627\u0644\u0623\u0648\u0644 \u0628\u0627\u0631\u0643 \u0641\u064a \u0627\u0644\u0631\u064a\u0627\u0636 \u0636\u0645\u0646 \u0627\u0644\u062c\u0648\u0644\u0629 \u0627\u0644\u0631\u0627\u0628\u0639\u0629 \u0645\u0646&nbsp;...",
-    "news_item_url": "https://www.youm7.com/story/2024/11/5/%D8%B1%D9%88%D9%86%D8%A7%D9%84%D8%AF%D9%88-%D9%88%D8%AC%D9%87%D8%A7-%D9%84%D9%88%D8%AC%D9%87-%D8%A3%D9%85%D8%A7%D9%85-%D8%B1%D8%AD%D9%8A%D9%85%D9%8A-%D9%81%D9%8A-%D9%82%D9%85%D8%A9-%D8%A7%D9%84%D9%86%D8%B5%D8%B1-%D8%B6%D8%AF-%D8%A7%D9%84%D8%B9%D9%8A%D9%86/6767180",
+    "news_item_snippet": "\u0648\u0642\u0627\u0644 \u0628\u064a\u0648\u0644\u064a \u0625\u0646\u0647 \u062a\u0648\u0635\u0644 \u0625\u0644\u0649 \u062f\u0631\u0627\u064a\u0629 \u0643\u0627\u0645\u0644\u0629 \u0628\u0627\u0644\u0641\u0631\u064a\u0642 \u0648\u0644\u0627\u0639\u0628\u064a\u0647 \u0628\u0639\u062f \u0645\u0631\u0648\u0631 \u0634\u0647\u0631\u064a\u0646 \u0639\u0644\u0649 \u062a\u0648\u0627\u062c\u062f\u0647 \u0645\u0639 \u0627\u0644\u0641\u0631\u064a\u0642\u060c \u0648\u0623\u0646 \u0623\u062f\u0627\u0621 \u0627\u0644\u0646\u0635\u0631 \u0623\u0635\u0628\u062d \u062a\u0635\u0627\u0639\u062f\u064a\u0627\u060c \u0648\u0623\u0648\u0636\u062d \u0641\u064a \u0627\u0644\u0645\u0624\u062a\u0645\u0631 \u0627\u0644\u0635\u062d\u0641\u064a: &quot;\u0646\u0631\u0641\u0639 \u0648\u062a\u064a\u0631\u0629 \u0627\u0644\u0639\u0645\u0644&nbsp;...",
+    "news_item_url": "https://www.youm7.com/story/2024/11/6/%D8%A8%D9%8A%D9%88%D9%84%D9%89-%D8%A8%D8%B9%D8%AF-%D8%AE%D9%85%D8%A7%D8%B3%D9%8A%D8%A9-%D8%A7%D9%84%D9%86%D8%B5%D8%B1-%D8%B6%D8%AF-%D8%A7%D9%84%D8%B9%D9%8A%D9%86-%D8%B9%D9%84%D9%8A%D9%86%D8%A7-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D9%81%D8%B3%D8%A9-%D8%B9%D9%84%D9%89-%D9%83%D9%84/6767430",
     "picture_source": "\u0627\u0644\u062c\u0632\u064a\u0631\u0629 \u0646\u062a",
     "approx_traffic": "200,000+"
   },
   {
     "country": "Saudi Arabia",
     "title": "\u0627\u0644\u0647\u0644\u0627\u0644",
-    "pubDate": "Mon, 04 Nov 2024 12:00:00 +0300",
+    "pubDate": "Mon, 04 Nov 2024 18:00:00 +0300",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcR9v02pM1j7cvBSZ48CPjsnqo7WjuHA0j6kOExoSPIrUcsgkdthgRL9vG24j4oyr22j0HTZcyxw",
     "news_item_snippet": "\u0639\u0627\u062f \u0627\u0644\u0646\u062c\u0645 \u0627\u0644\u0628\u0631\u0627\u0632\u064a\u0644\u064a \u0646\u064a\u0645\u0627\u0631 \u0625\u0644\u0649 \u0639\u0627\u0644\u0645 \u0627\u0644\u0625\u0635\u0627\u0628\u0627\u062a \u0645\u062c\u062f\u062f\u0627 \u0628\u0633\u0628\u0628 \u0625\u0635\u0627\u0628\u0629 \u0639\u0636\u0644\u064a\u0629 \u0623\u062b\u0646\u0627\u0621 \u0645\u0628\u0627\u0631\u0627\u0629 \u0641\u0631\u064a\u0642\u0647 \u0627\u0644\u0647\u0644\u0627\u0644 \u0627\u0644\u0633\u0639\u0648\u062f\u064a \u0648\u062e\u0635\u0645\u0647 \u0627\u0633\u062a\u0642\u0644\u0627\u0644 \u0637\u0647\u0631\u0627\u0646 \u0627\u0644\u0625\u064a\u0631\u0627\u0646\u064a. \u0648\u0643\u0627\u0646 \u0646\u064a\u0645\u0627\u0631 \u0627\u0633\u062a\u0623\u0646\u0641 \u0627\u0644\u0644\u0639\u0628&nbsp;...",
     "news_item_url": "https://www.france24.com/ar/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9/20241105-%D8%A7%D9%84%D9%87%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A-%D9%8A%D9%88%D8%A7%D8%B5%D9%84-%D8%B9%D8%B1%D9%88%D8%B6%D9%87-%D8%A7%D9%84%D9%85%D8%AB%D8%A7%D9%84%D9%8A%D8%A9-%D9%81%D9%8A-%D8%AF%D9%88%D8%B1%D9%8A-%D8%A3%D8%A8%D8%B7%D8%A7%D9%84-%D8%A2%D8%B3%D9%8A%D8%A7-%D9%88%D9%8A%D8%AE%D8%B3%D8%B1-%D9%85%D8%AC%D9%87%D9%88%D8%AF%D8%A7%D8%AA-%D9%86%D9%8A%D9%85%D8%A7%D8%B1-%D9%85%D8%AC%D8%AF%D8%AF%D8%A7-%D8%A8%D8%B9%D8%AF-%D8%A5%D8%B5%D8%A7%D8%A8%D8%AA%D9%87",
     "picture_source": "\u0627\u0644\u062c\u0632\u064a\u0631\u0629 \u0646\u062a",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "Saudi Arabia",
-    "title": "\u0627\u0644\u0623\u0647\u0644\u064a \u0636\u062f \u0627\u0644\u0634\u0631\u0637\u0629",
-    "pubDate": "Mon, 04 Nov 2024 00:00:00 +0300",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcS3doZeNdqCT07PbDKp8-yPQMx2bKiNYwNp0Ec7dODcDXmKgeEQHN6NuVQtVka6XzmtXSCsBvXO",
-    "news_item_snippet": "\u0633\u062c\u0644 \u0643\u0644 \u0645\u0646 \u0631\u0648\u0628\u0631\u062a\u0648 \u0641\u064a\u0631\u0645\u064a\u0646\u0648 \u0648\u0631\u064a\u0627\u0636 \u0645\u062d\u0631\u0632 \u062b\u0646\u0627\u0626\u064a\u0629 \u0644\u064a\u0642\u0648\u062f\u0627 \u0627\u0644\u0623\u0647\u0644\u064a \u0627\u0644\u0633\u0639\u0648\u062f\u064a \u0644\u0641\u0648\u0632 \u0643\u0628\u064a\u0631 5-1 \u0639\u0644\u0649 \u0627\u0644\u0634\u0631\u0637\u0629 \u0627\u0644\u0639\u0631\u0627\u0642\u064a -\u0627\u0644\u0627\u062b\u0646\u064a\u0646- \u0641\u064a \u0627\u0644\u062c\u0648\u0644\u0629 \u0627\u0644\u0631\u0627\u0628\u0639\u0629 \u0645\u0646 \u0645\u0628\u0627\u0631\u064a\u0627\u062a \u0645\u062c\u0645\u0648\u0639\u0629 \u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u063a\u0631\u0628&nbsp;...",
-    "news_item_url": "https://www.aljazeera.net/sport/liveblog/2024/11/4/al-ahli-vs-al-shorta",
-    "picture_source": "\u0627\u0644\u064a\u0648\u0645 \u0627\u0644\u0633\u0627\u0628\u0639",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "Saudi Arabia",
-    "title": "\u0627\u0644\u0631\u064a\u0627\u0644 \u0636\u062f \u0645\u064a\u0644\u0627\u0646",
-    "pubDate": "Mon, 04 Nov 2024 11:00:00 +0300",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTB4lx5yrfc1_j9_y2ZBiUDMSIVtK-6NPHkLzWxtBditGEivWdRlMsnaPXseeDdv3kZlYtDaqRc",
-    "news_item_snippet": "\u0627\u0644\u062f\u0642\u064a\u0642\u0629 89: \u0645\u0627\u064a\u0646\u0627\u0646 \u062d\u0627\u0631\u0633 \u0645\u064a\u0644\u0627\u0646 \u064a\u0646\u0642\u0630 \u0641\u0631\u0635\u0629 \u062e\u0637\u064a\u0631\u0629 \u0628\u062a\u0635\u062f\u064a\u0647 \u0644\u0631\u0623\u0633\u064a\u0629 \u0627\u0644\u0628\u062f\u064a\u0644 \u0628\u0631\u0627\u0647\u064a\u0645 \u062f\u064a\u0627\u0632 \u0639\u0644\u0649 \u0628\u0639\u062f \u062e\u0637\u0648\u0627\u062a \u0645\u0646 \u0645\u0631\u0645\u0627\u0647\u060c \u0648\u0627\u0644\u0646\u062a\u064a\u062c\u0629 \u062a\u0642\u062f\u0645 \u0645\u064a\u0644\u0627\u0646 3-1. \u0645\u0627\u064a\u0646\u0627\u0646 \u0648\u062f\u064a\u0627\u0632 \u0648\u062c\u0647\u0627 \u0644\u0648\u062c\u0647 (\u063a\u064a\u062a\u064a).",
-    "news_item_url": "https://www.aljazeera.net/sport/liveblog/2024/11/5/real-madrid-v-milan",
-    "picture_source": "\u0627\u0644\u064a\u0648\u0645 \u0627\u0644\u0633\u0627\u0628\u0639",
     "approx_traffic": "100,000+"
   },
   {
@@ -544,8 +544,8 @@
     "title": "Ligue des champions",
     "pubDate": "Tue, 05 Nov 2024 07:00:00 +0100",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRvitOubis382-xsm3yMqYdc4qnVITgoGfskaDL6woeHB1Mvr_W-sVUxkiJEIoJu28PhnA9Gv3r",
-    "news_item_snippet": "Victorieux du Real Madrid et de l&#39;Atl\u00e9tico, Lille \u00e9tait attendu et a d\u00e9croch\u00e9 un match nul en ayant \u00e9t\u00e9 domin\u00e9, mardi soir, par la Juventus (1-1).",
-    "news_item_url": "https://www.francetvinfo.fr/sports/foot/ligue-des-champions/direct-lille-juventus-apres-le-real-et-l-atletico-les-lillois-peuvent-ils-faire-tomber-un-troisieme-grand-d-europe-suivez-le-match-de-ligue-des-champions_6877358.html",
+    "news_item_snippet": "Domin\u00e9 dans la globalit\u00e9 de la rencontre, le LOSC conc\u00e8de le nul sur sa pelouse face \u00e0 la Juventus Turin ce mardi soir et reste en course pour une&nbsp;...",
+    "news_item_url": "https://www.francebleu.fr/sports/football/direct-ligue-des-champions-lille-veut-continuer-d-epater-face-a-la-juventus-turin-3389200",
     "picture_source": "L'\u00c9quipe.fr",
     "approx_traffic": "200,000+"
   },
@@ -574,10 +574,10 @@
     "title": "Election americaine",
     "pubDate": "Mon, 04 Nov 2024 08:00:00 +0100",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRqjoO1CDEJ7WAUWfzl5_ySTa1eRutOS1eGDQQmfRhpQ2-kLoHkBZbBnZ8IBPhtWvJUmek4urLy",
-    "news_item_snippet": "L&#39;ESSENTIEL &middot; Donald Trump est donn\u00e9 vainqueur dans 21 \u00c9tats contre 9 pour Kamala Harris. &middot; Le candidat r\u00e9publicain passe la soir\u00e9e \u00e0 Palm Beach en Floride, o\u00f9 il&nbsp;...",
-    "news_item_url": "https://www.bfmtv.com/international/amerique-nord/etats-unis/elections-americaines/direct-election-americaine-suivez-les-premiers-resultats-du-duel-entre-donald-trump-et-kamala-harris_LN-202411050973.html",
+    "news_item_snippet": "Traditionnellement r\u00e9publicaine, la Caroline du Nord, au sud-est des \u00c9tats-Unis, a plac\u00e9 Donald Trump en t\u00eate face \u00e0 Kamala Harris ce mardi 5 novembre.",
+    "news_item_url": "https://www.bfmtv.com/international/amerique-nord/etats-unis/elections-americaines/election-americaine-2024-donald-trump-remporte-l-etat-cle-de-caroline-du-nord_AN-202411060101.html",
     "picture_source": "RTL.fr",
-    "approx_traffic": "1,000,000+"
+    "approx_traffic": "2,000,000+"
   },
   {
     "country": "France",
@@ -593,9 +593,9 @@
     "country": "Germany",
     "title": "Liverpool \u2013 Leverkusen",
     "pubDate": "Tue, 05 Nov 2024 20:00:00 +0100",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQidcfWose2sEVLQ4CVvML6s7I01txj0LUqecpB7oROzJoPMhSbKx6taYmUKIVjX7DLDQ3VT8HL",
-    "news_item_snippet": "Zum Topspiel war die Werkself nach Liverpool gereist, mit einer 0:4-Abreibung wurde sie nach Hause geschickt. R\u00fcckkehrer Xabi Alonso machte den Knackpunkt&nbsp;...",
-    "news_item_url": "https://www.kicker.de/darf-auf-diesem-niveau-nicht-passieren-leverkusen-faellt-in-liverpool-auseinander-1065458/artikel",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRIvfm29JfrgT_I5sf5tAYvRwidsoWntnCjyg37tXuheOBdTHWXkkhHXcg28Sgy34RZqmqzd4zx",
+    "news_item_snippet": "Bei der R\u00fcckkehr von Xabi Alonso an die Anfield Road kassierte Bayer Leverkusen die erste Niederlage in der aktuellen Champions-League-Saison.",
+    "news_item_url": "https://www.sportschau.de/fussball/championsleague/leverkusen-geht-bei-alonso-rueckkehr-in-anfield-unter,cl-liverpool-leverkusen-100.html",
     "picture_source": "ZDFheute",
     "approx_traffic": "100,000+"
   },
@@ -604,8 +604,8 @@
     "title": "Wahl USA",
     "pubDate": "Mon, 04 Nov 2024 09:00:00 +0100",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcT6uvVWJxFoobwdI0vJghJyINHlRdxD1_dfjbhXt7qaWrmRc6_VEr2Y0g7rvI4S3vV7aqK2dS19",
-    "news_item_snippet": "Donald Trump und Kamala Harris wollen US-Pr\u00e4sident werden. Alle aktuellen Prognosen und Ergebnisse erfahren Sie hier im Live-Ticker zur US-Wahl 2024.",
-    "news_item_url": "https://www.fr.de/politik/us-wahl-live-ergebnisse-prognosen-trump-harris-umfragen-gewinner-verlierer-sieg-news-zr-93393745.html",
+    "news_item_snippet": "Die US-Wahl 2024 live: Das Rennen zwischen Kamala Harris und Donald Trump ist v\u00f6llig offen. Ein Ergebnis l\u00e4sst sich nicht vorhersagen. Der Ticker.",
+    "news_item_url": "https://www.fr.de/politik/us-wahl-2024-donald-trump-kamala-harris-sieger-ergebnis-live-ticker-news-aktuell-zr-93393662.html",
     "picture_source": "tagesschau.de",
     "approx_traffic": "2,000,000+"
   },
@@ -650,6 +650,26 @@
     "approx_traffic": "100,000+"
   },
   {
+    "country": "Germany",
+    "title": "Reformationstag",
+    "pubDate": "Wed, 30 Oct 2024 18:00:00 +0100",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTGboZzyJethf9owg9CvKMcifcHvLuaXXoiOvhtLNdeqsYFLNx9DObJrdfFFRDHeSCL1cpPG7lK",
+    "news_item_snippet": "Vor 500 Jahren spielte Luther vor allem in Magdeburg eine Rolle, denn im Sommer 1524 predigte er in der Stadt. Dank eines Zufallsfunds ist nun klar,&nbsp;...",
+    "news_item_url": "https://www.mdr.de/nachrichten/sachsen-anhalt/magdeburg/magdeburg/lutherturm-reformationstag-kloster-100.html",
+    "picture_source": "MDR",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Germany",
+    "title": "Halloween 2024",
+    "pubDate": "Wed, 30 Oct 2024 16:00:00 +0100",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTZ1_BhEK8yAmS5UviTkEkieA59UdbGP8Ladts3A-4LTmiU8O7aWIrx5X-ISaqcHqrJsExBfFnj",
+    "news_item_snippet": "Partys, Gruselfilme und Aktionen f\u00fcr Kinder: Zwischen Calw, T\u00fcbingen und Zollernalbkreis finden an Halloween einige Events statt. Ein \u00dcberblick.",
+    "news_item_url": "https://www.swr.de/swraktuell/baden-wuerttemberg/tuebingen/halloween-2024-in-reutlingen-tuebingen-zollernalbkreis-100.html",
+    "picture_source": "SWR",
+    "approx_traffic": "50,000+"
+  },
+  {
     "country": "Italy",
     "title": "Superenalotto",
     "pubDate": "Tue, 05 Nov 2024 06:00:00 +0100",
@@ -663,10 +683,20 @@
     "country": "Italy",
     "title": "Bologna  Monaco",
     "pubDate": "Tue, 05 Nov 2024 18:00:00 +0100",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQpihYJtBcWnzn2TUTNg6FlJqQvoEvCkQ0bxaVvIYFLVgT3ZQn7-DM-BeMBldvOczAUuDai48id",
-    "news_item_snippet": "Ricevi le ultime notizie di Calcio su Eurosport. Accedi al Bologna - Monaco live su 05/11/2024. Qui trovi risultati, statistiche e commenti in tempo reale.",
-    "news_item_url": "https://www.eurosport.it/calcio/champions-league/2024-2025/live-bologna-monaco_mtc1525270/live-commentary.shtml",
-    "picture_source": "Sky Sport",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcT5uExKtms0kUnia_nFFw8hQDzyGwoYRByyZmtx-lsasZy7D4S8UUc3juUo4a3cU2uzPxJ7RXE3",
+    "news_item_snippet": "Il Bologna viene beffato nel finale dal Monaco, con il gol all&#39;87&#39; di Kehrer. Ma la prestazione della squadra di Italiano \u00e8 molto positiva: nessun giocatore&nbsp;...",
+    "news_item_url": "https://sport.sky.it/calcio/champions-league/2024/11/05/bologna-monaco-pagelle",
+    "picture_source": "La Repubblica",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "Italy",
+    "title": "Sporting  Manchester City",
+    "pubDate": "Tue, 05 Nov 2024 21:00:00 +0100",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcT5uExKtms0kUnia_nFFw8hQDzyGwoYRByyZmtx-lsasZy7D4S8UUc3juUo4a3cU2uzPxJ7RXE3",
+    "news_item_snippet": "Avvio di ripresa pazzesco quello dello Sporting che batte il calcio d&#39;inizio a centrocampo e con 8 passaggi va in gol senza che il Manchester City tocchi&nbsp;...",
+    "news_item_url": "https://sport.sky.it/calcio/champions-league/2024/11/05/sporting-manchester-city-gol-in-20-secondi-video",
+    "picture_source": "La Repubblica",
     "approx_traffic": "50,000+"
   },
   {
@@ -691,32 +721,42 @@
   },
   {
     "country": "Mexico",
+    "title": "Pumas - Quer\u00e9taro",
+    "pubDate": "Tue, 05 Nov 2024 13:00:00 -0600",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRPrAj2ICrTZ6v-DpHl87EoeBcv9yhsN0XGrt8KUlzdAzA6HuPaSdEh7J5qEsPmUHkMsgpWJsof",
+    "news_item_snippet": "Los felinos buscan sellar su boleto directo a Liguilla ante el sotanero del Apertura 2024; el duelo se disputar\u00e1 el martes 5 de noviembre en el Estadio&nbsp;...",
+    "news_item_url": "https://www.tudn.com/futbol/liga-mx/pumas-vs-queretaro-horario-donde-ver-partido-jornada-16-apertura-2024-liga-mx",
+    "picture_source": "Diario Deportivo Record",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "Mexico",
     "title": "Sporting Lisboa  Manchester City",
     "pubDate": "Tue, 05 Nov 2024 14:00:00 -0600",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSFtQZOCxu4mcymkbsZCnoV0hhwkLYb-SMxnoXzLULjpU2UuFtUNC799LWOOrlJhV-xJ3AAk3nF",
-    "news_item_snippet": "Ambos equipos llegan invictos a este duelo de la Jornada 4 de la Champions League 2024-2025, fecha en la que se llegar\u00e1 a la mitad del recorrido de la primera&nbsp;...",
-    "news_item_url": "https://www.foxsports.com.mx/2024/11/05/sporting-lisboa-vs-manchester-city-en-vivo-mira-aqui-el-minuto-a-minuto-partido-uefa-champions-league-2024-25/",
-    "picture_source": "Univision",
+    "news_item_snippet": "Los dirigidos por Pep Guardiola se metieron al Jos\u00e9 Alvalade y todo parec\u00eda que la victoria se gestar\u00eda para los Citizens al 4&#39; ya lo ganaba por conducto de&nbsp;...",
+    "news_item_url": "https://www.record.com.mx/futbol-futbol-internacional-internacionales/champions-league-maxi-araujo-encamina-goleada-del",
+    "picture_source": "TUDN",
     "approx_traffic": "100,000+"
   },
   {
     "country": "Mexico",
-    "title": "Pumas - Quer\u00e9taro",
-    "pubDate": "Tue, 05 Nov 2024 13:00:00 -0600",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQxrsJaPoQI7TFHqu4EpQLrjDigaynlfZshin14OhioSPsSOx4ju8C17ATt_txur0xAA2NbyckF",
-    "news_item_snippet": "UNAM recibe a Gallos en fecha doble de la Liga MX correspondiente a la Jornada 16 del Apertura 2024 de cara a la siguiente fase del futbol mexicano.",
-    "news_item_url": "https://www.foxsports.com.mx/2024/11/05/pumas-vs-queretaro-en-vivo-mira-aqui-el-minuto-a-minuto-partido-jornada-16-liga-mx-apertura-2024/",
-    "picture_source": "TUDN",
-    "approx_traffic": "50,000+"
+    "title": "Leon Vs mazatlan",
+    "pubDate": "Tue, 05 Nov 2024 18:00:00 -0600",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQdXttif6fsO4n7bviLD7NKuQZ6oeRGIBcyt8ToHdSUI4ydtfYj8_c1ydNEOYvNZMZV02UNQ0Tm",
+    "news_item_snippet": "Le\u00f3n enfrenta al Mazatl\u00e1n con una alineaci\u00f3n renovada, buscando acercarse al Play In del Apertura 2024 de la Liga MX.",
+    "news_item_url": "https://www.soyfiera.com/news/2024/11/05/leon-vs-mazatlan-jhonder-cadiz-falla-un-penal-ridiculo-21693.html",
+    "picture_source": "Fox Sports",
+    "approx_traffic": "100,000+"
   },
   {
     "country": "Mexico",
-    "title": "Leon vs mazatlan",
-    "pubDate": "Tue, 05 Nov 2024 18:00:00 -0600",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSyuMRCrRCJFiBafmC-LuJmK1F5tVkRIMhs4fzBwHIY0mA4K8t4vN1XPb6vw3YanuaCdCAIc6xs",
-    "news_item_snippet": "Le\u00f3n y Mazatl\u00e1n se enfrentar\u00e1n en la pen\u00faltima jornada del Apertura 2024. Los Esmeraldas no pierden la esperanza de clasificar al Play In, pero no dependen&nbsp;...",
-    "news_item_url": "https://www.foxsports.com.mx/2024/11/05/leon-vs-mazatlan-en-vivo-mira-aqui-el-minuto-a-minuto-partido-jornada-16-liga-mx-apertura-2024/",
-    "picture_source": "AS Mexico",
+    "title": "Liverpool  Leverkusen",
+    "pubDate": "Tue, 05 Nov 2024 12:00:00 -0600",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRggNC4TfH2onEKnxymV6DNh6cuhtyGtrCq-qgjjNjmmksl5OSMly_LLPSq_RL1t3JuU-9XbE63",
+    "news_item_snippet": "Uno podr\u00eda perder el invicto y el otro posicionarse en lo m\u00e1s alto de la tabla de la Fase de Liga de la Champions League cuando se enfrenten este martes 5&nbsp;...",
+    "news_item_url": "https://www.tudn.com/futbol/uefa-champions-league/liverpool-vs-bayer-leverkusen-horario-donde-ver-partido-jornada-4-champions-league",
+    "picture_source": "AS Colombia",
     "approx_traffic": "50,000+"
   },
   {
@@ -763,20 +803,20 @@
     "country": "United Kingdom",
     "title": "Sporting vs Man City",
     "pubDate": "Tue, 05 Nov 2024 20:00:00 +0000",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcS4KGP2WABpd_TPB7C1MXWLNWCL5_79Mtz6_nytaxejlg2gB0FvvomVZEcvvOekB79fGtXbZxcH",
-    "news_item_snippet": "City suffered a night of Champions League disappointment, losing out 4-1 at Sporting CP with Viktor Gyokeres hitting a hat-trick for the hosts.",
-    "news_item_url": "https://www.mancity.com/news/mens/sporting-cp-v-city-champions-league-match-report-63866430",
-    "picture_source": "Sky Sports",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRlwuFYVBO4mtHWDlErGniy1Y6KQBgHrmGy28CwEkSThPwuhhfhJGXGHuF9neK1lSm8Q_CYuhAM",
+    "news_item_snippet": "Report as Ruben Amorim makes the perfect impression on Man Utd fans by beating their local rivals, who fall to a third consecutive defeat after losses at&nbsp;...",
+    "news_item_url": "https://www.skysports.com/football/sporting-vs-man-city/report/521661",
+    "picture_source": "Manchester City FC",
     "approx_traffic": "200,000+"
   },
   {
     "country": "United Kingdom",
-    "title": "Presidential election 2024",
-    "pubDate": "Tue, 05 Nov 2024 09:00:00 +0000",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcStdsJkbrp9Ijb_j6Nym5RO-IQiZjph1xBvKjC3arqsbeMQ9KQyM6MmRY3igYeNEySnVVQ0cbd8",
-    "news_item_snippet": "The first polls have closed as Vice President Kamala Harris and former president Donald Trump conclude their campaigns for the White House.",
-    "news_item_url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-harris-election-results-live-polls-b2642093.html",
-    "picture_source": "BBC News",
+    "title": "CNN",
+    "pubDate": "Tue, 05 Nov 2024 12:00:00 +0000",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRaivs92SXbBlmiw661C7ZNOawOnvhcjTkiDZzcacxxfEpJealbvJY2Fkcw-JwMLwmjpdP_KvOP",
+    "news_item_snippet": "Millions of Americans will be tuning in to CNN and other networks on election night as returns roll in. They&#39;ll be waiting to see who wins, something CNN&nbsp;...",
+    "news_item_url": "https://www.cnn.com/2024/11/05/politics/how-cnn-projects-elections-what-matters/index.html",
+    "picture_source": "CNN",
     "approx_traffic": "100,000+"
   },
   {
@@ -791,12 +831,12 @@
   },
   {
     "country": "United Kingdom",
-    "title": "CNN",
-    "pubDate": "Tue, 05 Nov 2024 12:00:00 +0000",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSsAZux9rHCsMmLPnyVbL5f-5-cKsNM0CC2IwROqxIognOPGWm88diTChDMfX_Y_OSSL71VazsQ",
-    "news_item_snippet": "Amelia Dimoldenberg speaking with actor Andrew Garfield on &#39;Chicken Shop Date.&#39; From Dimz Inc. CNN \u2014. It&#39;s been&nbsp;...",
-    "news_item_url": "https://www.cnn.com/2024/11/05/entertainment/binge-worthy-youtube-series/index.html",
-    "picture_source": "USA TODAY",
+    "title": "Trump",
+    "pubDate": "Tue, 05 Nov 2024 15:00:00 +0000",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQn-RN4RHIkFVNP6Qm7s2vLdF5uoeHD_IkBDQZVO7Z7DLXPOiuzj7jK3nKLu6GNrg0Kkfyjmq0L",
+    "news_item_snippet": "Republican showing strength in other battlegrounds needed by Harris to keep White House for Democrats.",
+    "news_item_url": "https://www.ft.com/content/3122eb74-e942-4209-a5ce-d150b2ca5692",
+    "picture_source": "BBC News",
     "approx_traffic": "100,000+"
   },
   {
@@ -807,7 +847,7 @@
     "news_item_snippet": "Get the latest Football updates on TNT Sports. Catch Real Madrid - AC Milan live on 05/11/2024. Find scores, stats and comments in real time.",
     "news_item_url": "https://www.tntsports.co.uk/football/champions-league/2024-2025/live-real-madrid-ac-milan_mtc1525258/live-commentary.shtml",
     "picture_source": "AC Milan",
-    "approx_traffic": "50,000+"
+    "approx_traffic": "100,000+"
   },
   {
     "country": "United Kingdom",
