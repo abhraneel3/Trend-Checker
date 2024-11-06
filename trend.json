@@ -1,13 +1,33 @@
 [
   {
     "country": "United States",
+    "title": "Stock market today",
+    "pubDate": "Wed, 06 Nov 2024 01:00:00 -0800",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQqn2ZTtaVDsjC3604AwKLbvCUprlHe-l8IJ5a3u75dJ-chIr6HkTJWM1qAkddC23upeyLs1L0L",
+    "news_item_snippet": "Stocks rallied Wednesday, with some major benchmarks hitting record highs, as Donald Trump won the 2024 presidential election.",
+    "news_item_url": "https://www.cnbc.com/2024/11/05/stock-market-today-live-updates.html",
+    "picture_source": "CNBC",
+    "approx_traffic": "500,000+"
+  },
+  {
+    "country": "United States",
     "title": "Bitcoin price",
     "pubDate": "Wed, 06 Nov 2024 00:00:00 -0800",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSiHuUYtKM6_J8bvRdIQTl-cvowpor4_jvzq_2Po3ayThGY55Ut2P6zORiYNsXL-sduskAJfd0m",
-    "news_item_snippet": "Bitcoin jumped nearly 8% to a record $75345.00 in early trading, before falling back to about $73500.00.",
+    "news_item_snippet": "AP explains after Donald Trump was elected the 47th president of the United States on Wednesday in an extraordinary comeback for a former president who refused&nbsp;...",
     "news_item_url": "https://apnews.com/article/bitcoin-crypto-donald-trump-election-c2e2a1a895288c5e9c0df2721012a5bb",
     "picture_source": "Forbes",
     "approx_traffic": "500,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Elon Musk",
+    "pubDate": "Wed, 06 Nov 2024 01:00:00 -0800",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSqLdkg7xGK56qwaM_3c9yBQK9r2m8iSGcXW55A-qAzzavada5JfCmAffyvaN2C17d8pQVoEZ8R",
+    "news_item_snippet": "The candidate largely let the billionaire run his $175 million ground game \u2014 a gamble that future candidates could look to emulate.",
+    "news_item_url": "https://www.nytimes.com/2024/11/06/us/elections/trump-musk-america-pac.html",
+    "picture_source": "Axios",
+    "approx_traffic": "200,000+"
   },
   {
     "country": "United States",
@@ -21,32 +41,12 @@
   },
   {
     "country": "United States",
-    "title": "Vote",
-    "pubDate": "Wed, 06 Nov 2024 08:00:00 -0800",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQeEoleacZmsnO0_NrJRTZ8Mp2lLo7NYM8HKwAqYtP6GRJYDQ5493WFG1ltSkzCv-fr-fVwkDzU",
-    "news_item_snippet": "Who won the popular vote in the presidential election? Here&#39;s a look at whose won it in recent elections.",
-    "news_item_url": "https://www.burlingtonfreepress.com/story/news/politics/elections/2024/11/06/popular-vote-2024-kamala-harris-donald-trump-win-popular-vote/76089663007/",
-    "picture_source": "Green Bay Press Gazette",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Elon Musk",
-    "pubDate": "Wed, 06 Nov 2024 05:00:00 -0800",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSqLdkg7xGK56qwaM_3c9yBQK9r2m8iSGcXW55A-qAzzavada5JfCmAffyvaN2C17d8pQVoEZ8R",
-    "news_item_snippet": "The Tesla CEO is a rising force in the Republican Party after playing a pivotal role in helping Donald Trump cruise to victory in Tuesday&#39;s election.",
-    "news_item_url": "https://fortune.com/2024/11/06/donald-trump-president-elect-elon-musk-tesla-republican-star-election/",
-    "picture_source": "Axios",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Tesla stock",
-    "pubDate": "Wed, 06 Nov 2024 06:00:00 -0800",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcT-vPcikXpMrr8aeFLO9gnn9UYeHJW6NGVEtDrw1cwZNzb7pFahp2vkj1thi2R739lazI-B_6TG",
-    "news_item_snippet": "Donald Trump is heading back to the White House, and Tesla could be one of the biggest winners. Tesla CEO Elon Musk played a pivotal role in Trump&#39;s 2024&nbsp;...",
-    "news_item_url": "https://www.forbes.com/sites/greatspeculations/2024/11/06/tesla-stock-1000/",
-    "picture_source": "The New York Times",
+    "title": "Voting",
+    "pubDate": "Wed, 06 Nov 2024 09:00:00 -0800",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQT0JjPC5hFzyYZxYY5ddPsyMMXSldunSUhqqGEKHGQvoIFIkqd_U54CberOC9phCmjVoPx2U0B",
+    "news_item_snippet": "To take effect, Wisconsin constitutional amendments must pass two consecutive legislative sessions and a statewide referendum. Republican lawmakers passed the&nbsp;...",
+    "news_item_url": "https://www.cbsnews.com/minnesota/news/wisconsin-ballot-question-noncitizens-voting-results/",
+    "picture_source": "PBS Wisconsin",
     "approx_traffic": "200,000+"
   },
   {
@@ -73,31 +73,51 @@
     "country": "United States",
     "title": "Inauguration Day 2025",
     "pubDate": "Wed, 06 Nov 2024 00:00:00 -0800",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTkFjoOTZM4C0AX9s30LKHAUnq3h2LWb1GSoq4dQblF05OAVGWkUvFMRsQo2VsRmMx_0OMjdo_N",
-    "news_item_snippet": "Former President Donald Trump was elected to another term defeating Vice President Kamala Harris. Here&#39;s when he will take office in 2025.",
-    "news_item_url": "https://www.cincinnati.com/story/news/politics/2024/11/06/when-is-inauguration-day-2025-heres-when-trump-will-take-office/76087504007/",
-    "picture_source": "Rochester Democrat and Chronicle",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRyjUu1E6M3eL34ka6ZFY9lx8_C99Q-_MIWiy2tm71_kWVqauBZVD9SYUCjzOOMzDME3U-8-56c",
+    "news_item_snippet": "After a historic campaign season, former President Donald Trump has been elected to a second presidential term. Here&#39;s what to know about his swearing-in&nbsp;...",
+    "news_item_url": "https://www.tennessean.com/story/news/politics/elections/2024/11/06/when-is-inauguration-day-when-donald-trump-will-take-office/76090559007/",
+    "picture_source": "Cincinnati.com",
     "approx_traffic": "50,000+"
   },
   {
     "country": "United States",
     "title": "San Francisco election results",
     "pubDate": "Wed, 06 Nov 2024 09:00:00 -0800",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSS8pyUwJQQjxwC9JZLDKOlOhLUYETnIB2fIWXchMDGUc_l9Disu4tQhjcIoRpfrlNFjZdNtVZ7",
-    "news_item_snippet": "Lurie, a philanthropist and Levi Strauss heir, was ahead of incumbent Mayor London Breed as initial votes in the ranked choice mayoral race came Tuesday&nbsp;...",
-    "news_item_url": "https://www.kqed.org/news/12012353/daniel-lurie-leads-as-early-results-for-san-franciscos-mayors-race-come-in",
-    "picture_source": "KGO-TV",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTVsp1GtV4m35BgRyBAQLfjIAtRzVGrWpLgs9p5eb5pM2oKSpI6LgGgTQtu2t4wqA8QTYSkan97",
+    "news_item_snippet": "Daniel Lurie has a commanding lead over incumbent London Breed in the race for San Francisco mayor with preliminary numbers in.",
+    "news_item_url": "https://abc7news.com/post/sf-mayoral-race-daniel-lurie-leads-london-breed-after-final-round-ranked-choice-voting/15517468/",
+    "picture_source": "KQED",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Nevada Senate race",
+    "pubDate": "Wed, 06 Nov 2024 10:00:00 -0800",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQkzf2YQLXUD8Q9Mf6z1SRRq70KUMk2U9SGDPBHnOqF0zsnmrF3an-rRqD3Ktnvke6AQ_VK6iP7",
+    "news_item_snippet": "Nevada&#39;s U.S. Senate race and most House races are too early to call. Democratic Sen. Jacky Rosen has outspent Republican challenger Sam Brown by more than&nbsp;...",
+    "news_item_url": "https://apnews.com/article/nevada-senate-2024-election-race-bdc2116c1e111c7d703d77dbb8fb4098",
+    "picture_source": "The Nevada Independent",
     "approx_traffic": "50,000+"
   },
   {
     "country": "India",
     "title": "Afghanistan vs Bangladesh",
     "pubDate": "Wed, 06 Nov 2024 15:30:00 +0530",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQAT6PbQNdDxW7mvv20qYgKdCrPNgeqfWrBmzOf57p26mV-Le13iGYkdAsSLDzsVDy4bjrf-ccw",
-    "news_item_snippet": "Afghanistan vs Bangladesh Live Score, 1st ODI: The first ODI will be played in Sharjah on Wednesday. Bangladesh vs Afghanistan (BAN vs AFG) 1st ODI Updates:&nbsp;...",
-    "news_item_url": "https://indianexpress.com/article/sports/cricket/afghanistan-vs-bangladesh-1st-odi-live-cricket-score-afg-ban-updates-9655935/",
-    "picture_source": "Hindustan Times",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSrCp4hdhZ8T7Olj-dfJYpIEqnigo_Hkpy1drdADxP6rafOjLpi-pJt3AFZ7eLEMKo9kSoCbsHG",
+    "news_item_snippet": "Afghanistan vs Bangladesh Live Score: First Innings Afghanistan Score - 235/10 in 49.4 overs. Afghanistan batting performance. Mohammad Nabi 84(79)",
+    "news_item_url": "https://www.hindustantimes.com/cricket/afghanistan-vs-bangladesh-live-score-1st-odi-of-afghanistan-and-bangladesh-tour-of-uae-2024-final-updates-today-06-nov-2024-101730889489723.html",
+    "picture_source": "The Indian Express",
     "approx_traffic": "500,000+"
+  },
+  {
+    "country": "India",
+    "title": "Sporting vs Man City",
+    "pubDate": "Wed, 06 Nov 2024 01:30:00 +0530",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcT96goxPW62cpTHZQ8iVJzF1Ey8ycWxz85SduUvN0ynLQ33lnWHnbeN-efYzU9thZnZsAr6Inga",
+    "news_item_snippet": "Erling Haaland wasted numerous chances, including a penalty, as Manchester City were left dumbstruck by Sporting CP, but his fellow Scandinavian Viktor&nbsp;...",
+    "news_item_url": "https://www.goal.com/en-in/lists/man-city-player-ratings-vs-sporting-cp-erling-haaland-phil-foden-viktor-gyokeres/blt8172f07d97e77c94",
+    "picture_source": "Aljazeera.com",
+    "approx_traffic": "100,000+"
   },
   {
     "country": "India",
@@ -111,33 +131,23 @@
   },
   {
     "country": "India",
-    "title": "UEFA Champions League",
-    "pubDate": "Wed, 06 Nov 2024 21:30:00 +0530",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRVX04b5OovCirNOAR_oBbz1JJ7dBh1E1yKiEXMjpqj-gfAsmoQTTvOP1n9KwtxwwfW_1E7miu_",
-    "news_item_snippet": "Follow the build-up and live text commentary as Inter Milan host Arsenal for a Champions League clash at the San Siro.",
-    "news_item_url": "https://www.aljazeera.com/sports/liveblog/2024/11/6/live-inter-milan-vs-arsenal-uefa-champions-league-football",
-    "picture_source": "Business Standard",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "India",
     "title": "Skoda Kylaq",
     "pubDate": "Wed, 06 Nov 2024 13:30:00 +0530",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSh6vHZ4L44dfkh6OafnyWoKPD9waEYSwUTG_Wpza4NVjsd9hkib-p5Yd7pqT1iXNvk6amyJaC4",
-    "news_item_snippet": "It has a 10.1-inch touchscreen, a sunroof, and electrically adjustable and ventilated front seats. The safety suite includes six airbags (as standard), a TPMS&nbsp;...",
-    "news_item_url": "https://www.cardekho.com/india-car-news/skoda-kylaq-is-available-in-a-total-of-5-colours-33461.htm",
-    "picture_source": "\u0160KODA Storyboard",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQkEtmYFWoA2OpYdeM8H-GGcjFFSHxF5UpHBvFVSOkB27mfsP-NGbtd2O8t6xQOYWsroSQmVfRh",
+    "news_item_snippet": "The Kylaq SUV is the first model in India to adopt elements of \u0160koda&#39;s new Modern Solid design language. It is powered by an efficient 1.0 TSI engine and&nbsp;...",
+    "news_item_url": "https://www.skoda-storyboard.com/en/press-releases/the-all-new-skoda-kylaq-a-new-era-for-skoda-in-indias-popular-sub-4-metre-suv-segment/",
+    "picture_source": "CarDekho",
     "approx_traffic": "100,000+"
   },
   {
     "country": "India",
-    "title": "Elon Musk",
-    "pubDate": "Wed, 06 Nov 2024 10:30:00 +0530",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTtiKdy3wSp1kDp2ykCzXPcjT7i9C4lC-hefb3w82N07tfNnZt4r3wfUIvgu44em3bjjSiYrRql",
-    "news_item_snippet": "As Donald Trump prepares for his return to the White House, he took a moment to offer high praise for one of his most prominent supporters,&nbsp;...",
-    "news_item_url": "https://m.economictimes.com/news/international/us/us-president-elect-donald-trump-hails-elon-musk-as-a-special-guy-in-victory-speech/articleshow/115024837.cms",
-    "picture_source": "Business Standard",
-    "approx_traffic": "50,000+"
+    "title": "Tesla share price",
+    "pubDate": "Wed, 06 Nov 2024 12:30:00 +0530",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSNCJVbs3K_SlLaGDkzUznImWD-C9IifzKitKc_QxY_J0BGf6v1on_klJRm1vtIgDAMXlpIIsoz",
+    "news_item_snippet": "Elon Musk, Tesla&#39;s CEO and a vocal Trump supporter, could potentially gain more influence in a Trump administration, impacting the future of electric vehicle&nbsp;...",
+    "news_item_url": "https://m.economictimes.com/markets/stocks/news/tesla-pops-14-in-frankfurt-as-early-us-vote-results-lift-trump-trades/articleshow/115014882.cms",
+    "picture_source": "Livemint",
+    "approx_traffic": "100,000+"
   },
   {
     "country": "India",
@@ -151,12 +161,12 @@
   },
   {
     "country": "India",
-    "title": "Tesla share price",
-    "pubDate": "Wed, 06 Nov 2024 12:30:00 +0530",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSNCJVbs3K_SlLaGDkzUznImWD-C9IifzKitKc_QxY_J0BGf6v1on_klJRm1vtIgDAMXlpIIsoz",
-    "news_item_snippet": "Elon Musk, Tesla&#39;s CEO and a vocal Trump supporter, could potentially gain more influence in a Trump administration, impacting the future of electric vehicle&nbsp;...",
-    "news_item_url": "https://m.economictimes.com/markets/stocks/news/tesla-pops-14-in-frankfurt-as-early-us-vote-results-lift-trump-trades/articleshow/115014882.cms",
-    "picture_source": "Livemint",
+    "title": "CNN",
+    "pubDate": "Wed, 06 Nov 2024 00:30:00 +0530",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRaivs92SXbBlmiw661C7ZNOawOnvhcjTkiDZzcacxxfEpJealbvJY2Fkcw-JwMLwmjpdP_KvOP",
+    "news_item_snippet": "Millions of Americans will be tuning in to CNN and other networks on election night as returns roll in. They&#39;ll be waiting to see who wins, something CNN&nbsp;...",
+    "news_item_url": "https://www.cnn.com/2024/11/05/politics/how-cnn-projects-elections-what-matters/index.html",
+    "picture_source": "CNN",
     "approx_traffic": "50,000+"
   },
   {
@@ -170,23 +180,33 @@
     "approx_traffic": "50,000+"
   },
   {
-    "country": "Argentina",
-    "title": "Elecciones Estados Unidos",
-    "pubDate": "Tue, 05 Nov 2024 02:00:00 -0300",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRwfd3pAAIkxcF_sEW9i6whxu_WKD45AjNoGaPXoeo0UctZtD7XS16YULsAs8xnWrwnMQfGcvi9",
-    "news_item_snippet": "El republicano se consagr\u00f3 presidente otra vez. Los c\u00f3mputos definitivos demorar\u00e1n porque la elecci\u00f3n es por medio de un Colegio Electoral pero Trump ya...",
-    "news_item_url": "https://www.pagina12.com.ar/780410-resultados-elecciones-estados-unidos-a-que-hora-se-sabe-quie",
-    "picture_source": "LA NACION",
-    "approx_traffic": "500,000+"
+    "country": "India",
+    "title": "Joe Biden",
+    "pubDate": "Wed, 06 Nov 2024 09:30:00 +0530",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTlseV6jSZLA4nvG2UIMCPxEk2rNAoa_91Hnu26T1-7Etfjd-QCPIKqeENP0EQZkYGgWrTBovLu",
+    "news_item_snippet": "US News: US President Joe Biden called president-elect Donald Trump on Thursday to congratulate him on his electoral victory, according to a statement from&nbsp;...",
+    "news_item_url": "https://timesofindia.indiatimes.com/world/us/us-elections-joe-biden-congratulates-donald-trump-on-victory-invites-him-to-white-house-to-address-nation-on-thursday/articleshow/115030028.cms",
+    "picture_source": "Hindustan Times",
+    "approx_traffic": "50,000+"
   },
   {
-    "country": "Argentina",
-    "title": "Real Madrid  Milan",
-    "pubDate": "Tue, 05 Nov 2024 17:00:00 -0300",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQeiXaq6OfAS5sWVRo7EYUEh5lDiuSxVXHeSblME_OHDW-1zGvgFxOHeJAN82AAose7xgJuguVc",
-    "news_item_snippet": "Sigue, en directo, todas las reacciones, an\u00e1lisis y comentarios que deriven de este Real Madrid - Milan de la fase de liga de Champions League en AS.",
-    "news_item_url": "https://as.com/futbol/champions/reacciones-analisis-y-comentarios-del-real-madrid-milan-champions-league-hoy-en-vivo-n/",
-    "picture_source": "Infobae.com",
+    "country": "India",
+    "title": "US Result",
+    "pubDate": "Wed, 06 Nov 2024 10:30:00 +0530",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcR-1uPu5b_5eZn1EgGZK9PYavm1YdHuxkNr51BzHzlj1swdJjZFrO-_mSTrnxeaScY8GxCOrRLB",
+    "news_item_snippet": "\u0921\u094b\u0928\u093e\u0932\u094d\u0921 \u091f\u094d\u0930\u092e\u094d\u092a \u092b\u093f\u0930 \u0938\u0947 \u0905\u092e\u0947\u0930\u093f\u0915\u093e \u0915\u0947 \u0930\u093e\u0937\u094d\u091f\u094d\u0930\u092a\u0924\u093f \u091a\u0941\u0928\u0947 \u0917\u090f \u0939\u0948\u0902\u0964 \u0909\u0928\u094d\u0939\u0947\u0902 50 \u0930\u093e\u091c\u094d\u092f\u094b\u0902 \u0915\u0940 538 \u092e\u0947\u0902 \u0938\u0947 277 \u0938\u0940\u091f\u0947\u0902 \u092e\u093f\u0932\u0940 \u0939\u0948\u0902, \u092c\u0939\u0941\u092e\u0924 \u0915\u0947 \u0932\u093f\u090f 270 \u0938\u0940\u091f\u0947\u0902 \u091c\u0930\u0942\u0930\u0940 \u0939\u094b\u0924\u0940 \u0939\u0948\u0902\u0964",
+    "news_item_url": "https://www.bhaskar.com/international/news/us-election-2024-result-live-updates-donald-trump-kamala-harris-133915342.html",
+    "picture_source": "\u0905\u092e\u0930 \u0909\u091c\u093e\u0932\u093e",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Australia",
+    "title": "ABC news",
+    "pubDate": "Wed, 06 Nov 2024 12:00:00 +1100",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRSYlgFWAXJ_ChPZ3ARv_v0f7YMz67oqXbGHuDcMa5xURbAOlFNEliqqRpq7_jO7qi5GNzm-o-z",
+    "news_item_snippet": "Kat joined the ABC in 2013 as Live Music Producer for ABC Classic, first in Adelaide and then Melbourne. She held roles at ABC Classic as Content Director and&nbsp;...",
+    "news_item_url": "https://www.abc.net.au/about/media-centre/press-releases/kat-mcguffie-to-depart-the-abc/104566544",
+    "picture_source": "About the ABC",
     "approx_traffic": "100,000+"
   },
   {
@@ -201,16 +221,6 @@
   },
   {
     "country": "Australia",
-    "title": "Fox News",
-    "pubDate": "Wed, 06 Nov 2024 08:00:00 +1100",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcR-h5gJoxs-7Ec5kcSJjVYjxuSCgYtuLUMvnjPhW9Mz-lNUJ15jrS_4t9bWp-HHl0t55BVm4FDZ",
-    "news_item_snippet": "Even before the votes were tallied, there was at least one clear winner from the US presidential election: the media. And no outlet more so than the Murdoch&nbsp;...",
-    "news_item_url": "https://www.afr.com/companies/media-and-marketing/there-s-already-one-winner-from-the-us-election-fox-news-20241106-p5ko9k",
-    "picture_source": "The Australian Financial Review",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Australia",
     "title": "Bitcoin price",
     "pubDate": "Wed, 06 Nov 2024 17:00:00 +1100",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSiHuUYtKM6_J8bvRdIQTl-cvowpor4_jvzq_2Po3ayThGY55Ut2P6zORiYNsXL-sduskAJfd0m",
@@ -220,10 +230,20 @@
     "approx_traffic": "50,000+"
   },
   {
+    "country": "Australia",
+    "title": "Fox News",
+    "pubDate": "Wed, 06 Nov 2024 08:00:00 +1100",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcR-h5gJoxs-7Ec5kcSJjVYjxuSCgYtuLUMvnjPhW9Mz-lNUJ15jrS_4t9bWp-HHl0t55BVm4FDZ",
+    "news_item_snippet": "Even before the votes were tallied, there was at least one clear winner from the US presidential election: the media. And no outlet more so than the Murdoch&nbsp;...",
+    "news_item_url": "https://www.afr.com/companies/media-and-marketing/there-s-already-one-winner-from-the-us-election-fox-news-20241106-p5ko9k",
+    "picture_source": "The Australian Financial Review",
+    "approx_traffic": "50,000+"
+  },
+  {
     "country": "Brazil",
     "title": "Liga dos Campe\u00f5es",
     "pubDate": "Wed, 06 Nov 2024 14:00:00 -0500",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSRtN_28qZzwDkqnkAMx8qDysCXE-PxWwQHvHCo0kqxU4UOQJBGoLU10fPS9LHQFdeN60bAa6Gr",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSrVDmoq_YL29lGd_t53KuS5u87bPWfYTv5cH5BjFAmDq22lDkCiM-TkHzAVr97H4FlaHkMvlKT",
     "news_item_snippet": "Ap\u00f3s ter empatado sem gols contra o Manchester City na rodada inaugural da Champions, a Inter de Mil\u00e3o somou todos os pontos poss\u00edveis na competi\u00e7\u00e3o, vencendo o&nbsp;...",
     "news_item_url": "https://www.terra.com.br/apostas/palpites-e-odds/palpite-inter-de-milao-x-arsenal-liga-dos-campeoes-6112024,6fafcd51ac55b3dc2a681f3f65282681ik2n3u65.html",
     "picture_source": "UOL",
@@ -260,23 +280,13 @@
     "approx_traffic": "50,000+"
   },
   {
-    "country": "Canada",
-    "title": "U.S elections",
-    "pubDate": "Wed, 06 Nov 2024 10:00:00 -0500",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRVQhtKxhLcMHjSg7XlXtY-Uv35d709EGByukzsIvyl2JU4BFRNbHFpKBdholZSd7BB5Vmvii_p",
-    "news_item_snippet": "Letter from First Minister John Swinney to Vice President-Elect J.D. Vance following the election in the United States of America.",
-    "news_item_url": "https://www.gov.scot/publications/us-election-letter-to-vice-president-elect/",
-    "picture_source": "CTV News",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "Canada",
-    "title": "CBC News",
-    "pubDate": "Wed, 06 Nov 2024 03:00:00 -0500",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSWLFPlR89vz91UO2nZjeg9vxRX22XtpYBg3cceR55e_6XEhbq_tfKkSat5eG8V2vvfGYifDB23",
-    "news_item_snippet": "Learn, connect and illuminate with CBC News Edmonton and digitally stream all of our local content at your fingertips, live and on-demand.",
-    "news_item_url": "https://www.cbc.ca/news/canada/edmonton/community/cbc-edmonton-streaming-channel-1.7361151",
-    "picture_source": "CBC.ca",
+    "country": "Brazil",
+    "title": "Aston Villa",
+    "pubDate": "Wed, 06 Nov 2024 07:00:00 -0500",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQOdz-TAh70Iji2RhLj54KazUpMELdkb6i0L7KZg53Ha-F71UoOGQZXwqyFvKwahrELlnRYNtOW",
+    "news_item_snippet": "Ingleses visitam os belgas em busca de retomar a lideran\u00e7a nesta quarta (06), com transmiss\u00e3o ao vivo e exclusiva da TNT e da Max.",
+    "news_item_url": "https://tntsports.com.br/championsleague/Club-Brugge-x-Aston-Villa-veja-os-lances-do-jogo-pela-Fase-de-Liga-da-Champions-20241106-0011.html",
+    "picture_source": "ESPN.com.br",
     "approx_traffic": "50,000+"
   },
   {
@@ -290,6 +300,26 @@
     "approx_traffic": "50,000+"
   },
   {
+    "country": "Canada",
+    "title": "CBC News",
+    "pubDate": "Wed, 06 Nov 2024 03:00:00 -0500",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSWLFPlR89vz91UO2nZjeg9vxRX22XtpYBg3cceR55e_6XEhbq_tfKkSat5eG8V2vvfGYifDB23",
+    "news_item_snippet": "Learn, connect and illuminate with CBC News Edmonton and digitally stream all of our local content at your fingertips, live and on-demand.",
+    "news_item_url": "https://www.cbc.ca/news/canada/edmonton/community/cbc-edmonton-streaming-channel-1.7361151",
+    "picture_source": "CBC.ca",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Canada",
+    "title": "Tesla stock",
+    "pubDate": "Wed, 06 Nov 2024 03:00:00 -0500",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSJsfelOiWkcAjKfX8v7gOTpTV-kYOPLBLbvOMIv8298qKAnq3ZDBtSjSuK7m8nJ6dcoTVdbyXL",
+    "news_item_snippet": "stock soared Wednesday with Republican nominee Donald Trump winning the U.S. presidential election. A Trump victory will very likely mean less support for&nbsp;...",
+    "news_item_url": "https://www.barrons.com/articles/tesla-stock-musk-trump-election-rivian-1086ba9f",
+    "picture_source": "Forbes",
+    "approx_traffic": "50,000+"
+  },
+  {
     "country": "South Korea",
     "title": "\ube44\ud2b8\ucf54\uc778",
     "pubDate": "Wed, 06 Nov 2024 13:00:00 +0900",
@@ -300,6 +330,26 @@
     "approx_traffic": "50,000+"
   },
   {
+    "country": "France",
+    "title": "Elon Musk",
+    "pubDate": "Wed, 06 Nov 2024 15:00:00 +0100",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSUJiTaBWLexy10y6szic7m4Fe3WcSiLfiPBWdM316ph9HCLK9Brp4DHPdwCsOV-938jtIdiZCq",
+    "news_item_snippet": "Mission accomplie pour Elon Musk qui a vu son favori Donald Trump remporter l&#39;\u00e9lection am\u00e9ricaine mardi 5 novembre. Soutien ind\u00e9fectible du candidat&nbsp;...",
+    "news_item_url": "https://www.rfi.fr/fr/am%C3%A9riques/20241106-pr%C3%A9sidentielle-am%C3%A9ricaine-la-victoire-de-donald-trump-pari-gagnant-d-elon-musk",
+    "picture_source": "Franceinfo",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "France",
+    "title": "Bitcoin",
+    "pubDate": "Wed, 06 Nov 2024 11:00:00 +0100",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRA39xlQooot0np-fbGqPqd1LDIGf3hgD5qL-mNkQgJQtkjqPK2ag4UEJCPIIiXevJrCA_-rMp6",
+    "news_item_snippet": "La valeur du bitcoin et d&#39;autres cryptomonnaies s&#39;est envol\u00e9e dans la nuit de mardi \u00e0 mercredi. Le monde des monnaies num\u00e9riques, amplement courtis\u00e9 par&nbsp;...",
+    "news_item_url": "https://www.lemonde.fr/pixels/article/2024/11/06/le-secteur-du-bitcoin-et-des-cryptoactifs-se-rejouit-de-la-victoire-de-donald-trump_6379408_4408996.html",
+    "picture_source": "Franceinfo",
+    "approx_traffic": "50,000+"
+  },
+  {
     "country": "Germany",
     "title": "Champions League",
     "pubDate": "Wed, 06 Nov 2024 17:00:00 +0100",
@@ -307,17 +357,7 @@
     "news_item_snippet": "Der FC Bayern M\u00fcnchen empf\u00e4ngt am 4. Spieltag der UEFA Champions League Benfica Lissabon. Wo k\u00f6nnt ihr die Partie live sehen?",
     "news_item_url": "https://www.ran.de/sports/fussball/champions-league/news/fc-bayern-muenchen-vs-benfica-lissabon-heute-live-champions-league-im-tv-stream-und-ticker-455243",
     "picture_source": "SPORT1",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "Germany",
-    "title": "US Wahlen",
-    "pubDate": "Wed, 06 Nov 2024 10:00:00 +0100",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTg5K930uNZYeFvdt-mo76pujKKVDLiC16B1c1fdOEJ-4j9txXc7iL50eXOJNfA-5h1i3NZrqWR",
-    "news_item_snippet": "Donald Trump hat die US-Pr\u00e4sidentschaftswahl gewonnen. Viele Politikerinnen und Politiker aus Niedersachsen, Schleswig-Holstein, Mecklenburg-Vorpommern und&nbsp;...",
-    "news_item_url": "https://www.ndr.de/nachrichten/info/Donald-Trump-siegt-bei-der-US-Wahl-2024-gegen-Kamala-Harris-die-Reaktionen,uswahlnordreaktionen100.html",
-    "picture_source": "tagesschau.de",
-    "approx_traffic": "200,000+"
+    "approx_traffic": "500,000+"
   },
   {
     "country": "Germany",
@@ -327,6 +367,16 @@
     "news_item_snippet": "Vermeintlich stammten die vielen E-Mails von besorgten B\u00fcrgern, tats\u00e4chlich wohl von Russen: Mit L\u00fcgen \u00fcber Kamala Harris haben sie offenbar versucht,&nbsp;...",
     "news_item_url": "https://www.spiegel.de/netzwelt/web/operation-overload-russische-kampagne-flutet-faktenchecker-mit-fake-news-a-13d6072d-403c-4238-a850-207a29a1976c",
     "picture_source": "DER SPIEGEL",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "Germany",
+    "title": "Lindner",
+    "pubDate": "Wed, 06 Nov 2024 18:00:00 +0100",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQRsPRZiAddVTUC6Apch4iAlsNISjtnCm_xBKlj0FUNKTv6N9acKnSFsFoISiPwId7uoauYZvjC",
+    "news_item_snippet": "Die Ampel-Koalition ist offenbar am Ende. Finanzminister Christian Lindner (FDP) ist am Abend von Bundeskanzler Olaf Scholz (SPD) entlassen worden.",
+    "news_item_url": "https://www.rbb24.de/politik/beitrag/2024/11/berlin-bundeskanzler-scholz-entlaesst-finanzminister-lindner-fdp-ampel.html",
+    "picture_source": "tagesschau.de",
     "approx_traffic": "100,000+"
   },
   {
@@ -368,16 +418,6 @@
     "news_item_url": "https://www.kicker.de/liverpool-gegen-leverkusen-2024-champions-league-4962741/analyse",
     "picture_source": "ZDFheute",
     "approx_traffic": "100,000+"
-  },
-  {
-    "country": "Germany",
-    "title": "Wahlen",
-    "pubDate": "Tue, 05 Nov 2024 15:00:00 +0100",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSZRSrS53y6oBE9eRJOHZ4GmGsOO9yu4WjV5QgD95Ql6Px6CO7X2iBJYllXMx-u3r6rW5Oprrr2",
-    "news_item_snippet": "&quot;America First&quot;: Was das Wahlergebnis aus Sicht der BW-Unternehmen bedeutet. Die Entscheidungen, die im Oval Office getroffen werden, haben auch hier&nbsp;...",
-    "news_item_url": "https://www.swr.de/swraktuell/baden-wuerttemberg/praesidenten-wahl-usa-trump-harris-reaktionen-bw-100.html",
-    "picture_source": "rbb24",
-    "approx_traffic": "50,000+"
   },
   {
     "country": "Germany",
@@ -430,6 +470,16 @@
     "approx_traffic": "50,000+"
   },
   {
+    "country": "Germany",
+    "title": "US-Wahl 2024",
+    "pubDate": "Sun, 03 Nov 2024 23:00:00 +0100",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSLJi9ntteRllqXwk5nffOLsXyI8SlZCSZuy3IqLOhMkznt8Q42eBT5Vu6QBB7TdaYcz2t60ptD",
+    "news_item_snippet": "Wo hat Kamala Harris die Nase vorn, wo Donald Trump? Was genau passiert, wenn dieser eine Swing State kippt? Der Informationsdurst zur US-Wahl ist brennend.",
+    "news_item_url": "https://netzpolitik.org/2024/trump-vs-harris-spannende-grafiken-zur-us-wahl-2024/",
+    "picture_source": "tagesschau.de",
+    "approx_traffic": "200,000+"
+  },
+  {
     "country": "Italy",
     "title": "Elon Musk",
     "pubDate": "Wed, 06 Nov 2024 08:00:00 +0100",
@@ -453,61 +503,21 @@
     "country": "Mexico",
     "title": "Real Madrid  Milan",
     "pubDate": "Tue, 05 Nov 2024 11:00:00 -0600",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRmCtmf8em5ICxqnQSPNf1j7AknlbvrKLBRlehqRBd-EZIQcjzlT_KZMOO01_AHxAm508kjuxq5",
-    "news_item_snippet": "Sigue, en directo, todas las reacciones, an\u00e1lisis y comentarios que deriven de este Real Madrid - Milan de la fase de liga de Champions League en AS.",
-    "news_item_url": "https://as.com/futbol/champions/reacciones-analisis-y-comentarios-del-real-madrid-milan-champions-league-hoy-en-vivo-n/",
-    "picture_source": "TUDN",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTzt747mt5e-GEVqdINDnjDrMIhQ0KuVMe8-2HKXp88nw6d2FIIlz_1DNGtrGBjWS2FMxwHjef-",
+    "news_item_snippet": "El Real Madrid sum\u00f3 su segunda derrota en cuatro jornadas de la Champions League ante un Milan que mostr\u00f3 un gran futbol.",
+    "news_item_url": "https://www.espn.com.mx/futbol/champions-league/nota/_/id/14407004/real-madrid-milan-victoria-personalidad-champions-league",
+    "picture_source": "AS",
     "approx_traffic": "200,000+"
   },
   {
     "country": "Mexico",
-    "title": "Pumas - Quer\u00e9taro",
-    "pubDate": "Tue, 05 Nov 2024 13:00:00 -0600",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRPrAj2ICrTZ6v-DpHl87EoeBcv9yhsN0XGrt8KUlzdAzA6HuPaSdEh7J5qEsPmUHkMsgpWJsof",
-    "news_item_snippet": "Los felinos buscan sellar su boleto directo a Liguilla ante el sotanero del Apertura 2024; el duelo se disputar\u00e1 el martes 5 de noviembre en el Estadio&nbsp;...",
-    "news_item_url": "https://www.tudn.com/futbol/liga-mx/pumas-vs-queretaro-horario-donde-ver-partido-jornada-16-apertura-2024-liga-mx",
+    "title": "Liga MX",
+    "pubDate": "Tue, 05 Nov 2024 22:00:00 -0600",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRajkzVO3viLeKirDvKURMHBE0j-FEnNjiOSKzItA3dcD5sFK8TPuW4dawKvVhpILcnoisvwYkD",
+    "news_item_snippet": "Hoy s\u00ed hay futbol. Este mi\u00e9rcoles 6 de noviembre tenemos cinco partidos correspondientes a la jornada 16 del torneo Apertura 2024 de la Liga MX.",
+    "news_item_url": "https://www.marca.com/mx/futbol/2024/11/06/672b944522601ddf7e8b457a.html",
     "picture_source": "Diario Deportivo Record",
     "approx_traffic": "200,000+"
-  },
-  {
-    "country": "Mexico",
-    "title": "Dolar hoy",
-    "pubDate": "Tue, 05 Nov 2024 09:00:00 -0600",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQzfgPwoBDTQGxJPadgjTdYcMr1ObpF5sroRSP7_-d2f653TepZ23RAluJGBftgza-BETJtcDlb",
-    "news_item_snippet": "Las elecciones presidenciales en Estados Unidos generaron una considerable incertidumbre en los mercados financieros globales, lo que afect\u00f3 directamente el&nbsp;...",
-    "news_item_url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-miercoles-6-de-noviembre-tras-las-nid06112024/",
-    "picture_source": "Exc\u00e9lsior",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "Mexico",
-    "title": "Sporting Lisboa  Manchester City",
-    "pubDate": "Tue, 05 Nov 2024 14:00:00 -0600",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcS0ZEc_xZfW5iBjSmzkf9n8YXSD0pCIL8qMrFEQHzkIS70D3i8Qr0BuiA9HT6JZmxVdjWz_FQy0",
-    "news_item_snippet": "Los dirigidos por Pep Guardiola se metieron al Jos\u00e9 Alvalade y todo parec\u00eda que la victoria se gestar\u00eda para los Citizens al 4&#39; ya lo ganaba por conducto de&nbsp;...",
-    "news_item_url": "https://www.record.com.mx/futbol-futbol-internacional-internacionales/champions-league-maxi-araujo-encamina-goleada-del",
-    "picture_source": "Fox Sports",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "Mexico",
-    "title": "Real Madrid",
-    "pubDate": "Tue, 05 Nov 2024 14:00:00 -0600",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcS6xH8fAaPZ5d65sBHIe6lIVT5faR97w2429U2U3fNwBMpNS0vcleGndLcLL0peWxaygk_O5DwG",
-    "news_item_snippet": "MADRID (AP) \u2014 El mediocampista del Real Madrid Aurelien Tchouameni estar\u00e1 un mes de baja aproximadamente tras sufrir un esguince en el tobillo izquierdo.",
-    "news_item_url": "https://apnews.com/article/real-madrid-aurelien-tchouameni-7e42e54a672413e1388385758efb2519",
-    "picture_source": "ESPN",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "Mexico",
-    "title": "Leon vs mazatlan",
-    "pubDate": "Tue, 05 Nov 2024 18:00:00 -0600",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQdXttif6fsO4n7bviLD7NKuQZ6oeRGIBcyt8ToHdSUI4ydtfYj8_c1ydNEOYvNZMZV02UNQ0Tm",
-    "news_item_snippet": "Le\u00f3n llega con una buena racha. Los felinos suman siete partidos consecutivos sin derrota, su \u00faltimo descalabro fue el 18 de septiembre ante el Reba\u00f1o. Hoy&nbsp;...",
-    "news_item_url": "https://www.record.com.mx/futbol-liga-mx-leon-mazatlan-fc/leon-vs-mazatlan-en-vivo-liga-mx-apertura-2024-jornada-16",
-    "picture_source": "Fox Sports",
-    "approx_traffic": "100,000+"
   },
   {
     "country": "Spain",
@@ -547,6 +557,26 @@
     "news_item_snippet": "Bitcoin (BTC) soared over 7% to a new all-time high of $75407 on Wednesday as Donald Trump was elected as the 47th President of the United States,&nbsp;...",
     "news_item_url": "https://www.fxstreet.com/cryptocurrencies/news/bitcoin-price-forecast-btc-soars-to-a-new-all-time-of-75-407-as-trump-wins-us-presidential-election-202411061247",
     "picture_source": "Forbes",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United Kingdom",
+    "title": "Club Brugge vs Aston Villa",
+    "pubDate": "Wed, 06 Nov 2024 18:00:00 +0000",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQa6AjiN2Iog3u5UiiuNESVdVToIPk0bDyl6ianoH0m-yTUgoXGooEBJhmrIJPvmiu4qgCB3h4E",
+    "news_item_snippet": "Follow live coverage of match week four in the Champions League as Aston Villa travel to Club Brugge followed by seven other fixtures including Arsenal&#39;s&nbsp;...",
+    "news_item_url": "https://www.bbc.com/sport/football/live/c3e890j3125t",
+    "picture_source": "Aston Villa",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United Kingdom",
+    "title": "Elon Musk",
+    "pubDate": "Wed, 06 Nov 2024 08:00:00 +0000",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRh2UdBLGnnMXv-OsNtmh1hpW7jHXX9UrVYVPRU2dLM18RAaavw-Q8tn6T8IqjLKU9BGNBbkVRS",
+    "news_item_snippet": "The tech billionaire has aggressively campaigned for the Republican candidate in swing states across the country.",
+    "news_item_url": "https://www.bbc.co.uk/news/articles/c9dlg1v7jevo",
+    "picture_source": "BBC News",
     "approx_traffic": "50,000+"
   },
   {
@@ -554,8 +584,8 @@
     "title": "Project 2025",
     "pubDate": "Wed, 06 Nov 2024 01:00:00 +0000",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTIkVRZdPDHM5dmx5kz8vDVpT4m4WKJRKzo2zin6rVkO6QbKNi6D1SH99D4PsHAyAtXQ9oxCwdJ",
-    "news_item_snippet": "Democrats had attacked Donald J. Trump&#39;s ties to the conservative policy blueprint for reshaping the federal government. Several of its authors served in&nbsp;...",
-    "news_item_url": "https://www.nytimes.com/2024/11/06/us/politics/trump-project-2025.html",
+    "news_item_snippet": "A 900-page plan drawn up by former Donald Trump aides and endorsed by a powerful right-wing think tank has long been seens as giving the former president a&nbsp;...",
+    "news_item_url": "https://www.independent.co.uk/news/world/americas/us-politics/project-2025-summary-trump-win-b2642369.html",
     "picture_source": "The Independent",
     "approx_traffic": "50,000+"
   },
@@ -567,16 +597,6 @@
     "news_item_snippet": "Just two years after winning his first run for political office, Ohio Sen. JD Vance is set to become vice president \u2014 ushering a new generation into power&nbsp;...",
     "news_item_url": "https://www.cnn.com/2024/11/06/politics/jd-vance-elected-vice-president/index.html",
     "picture_source": "The Guardian",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United Kingdom",
-    "title": "2024 united states elections/results",
-    "pubDate": "Wed, 06 Nov 2024 01:00:00 +0000",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQfx5l5IaGnz4sFPxcPzJMmolbzwKFazw27E44KGCl9kIiEoEuKJV8k7JneSCi12V8qX8vAO7jS",
-    "news_item_snippet": "Note: Maps showing partisan shift compare the results from places that have reported almost all of their votes with the 2020 presidential vote.",
-    "news_item_url": "https://www.nytimes.com/interactive/2024/11/05/us/elections/results-president.html",
-    "picture_source": "The New York Times",
     "approx_traffic": "50,000+"
   }
 ]
