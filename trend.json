@@ -3,18 +3,18 @@
     "country": "United States",
     "title": "Stock market today",
     "pubDate": "Wed, 06 Nov 2024 01:00:00 -0800",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQqn2ZTtaVDsjC3604AwKLbvCUprlHe-l8IJ5a3u75dJ-chIr6HkTJWM1qAkddC23upeyLs1L0L",
-    "news_item_snippet": "Stocks rallied Wednesday, with some major benchmarks hitting record highs, as Donald Trump won the 2024 presidential election.",
-    "news_item_url": "https://www.cnbc.com/2024/11/05/stock-market-today-live-updates.html",
-    "picture_source": "CNBC",
-    "approx_traffic": "500,000+"
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQjKUxizCSjALsySlefDYs4gW6RnjP5u2ljij7IuMLYzyYAqWUjgzfz374eP-Ms2LiPmWPR_JPz",
+    "news_item_snippet": "<b>Stock market today</b>: Dow, Nasdaq, S&amp;P 500 all soar to records after Trump triumphs in election &middot; In This Article: &middot; Kamala Harris gives concession speech &middot; Dow surges 1500 points, major averages hit records after Trump victory &middot; Clean energy, renewables stocks&nbsp;...",
+    "news_item_url": "https://finance.yahoo.com/news/live/stock-market-today-dow-nasdaq-sp-500-all-soar-to-records-after-trump-triumphs-in-election-210032237.html",
+    "picture_source": "Yahoo Finance",
+    "approx_traffic": "1,000,000+"
   },
   {
     "country": "United States",
     "title": "Bitcoin price",
     "pubDate": "Wed, 06 Nov 2024 00:00:00 -0800",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSiHuUYtKM6_J8bvRdIQTl-cvowpor4_jvzq_2Po3ayThGY55Ut2P6zORiYNsXL-sduskAJfd0m",
-    "news_item_snippet": "Bitcoin jumped nearly 8% to a record $75345.00 in early trading, before falling back to about $73500.00.",
+    "news_item_snippet": "AP explains after Donald Trump was elected the 47th president of the United States on Wednesday in an extraordinary comeback for a former president who refused&nbsp;...",
     "news_item_url": "https://apnews.com/article/bitcoin-crypto-donald-trump-election-c2e2a1a895288c5e9c0df2721012a5bb",
     "picture_source": "Forbes",
     "approx_traffic": "500,000+"
@@ -24,50 +24,60 @@
     "title": "Elon Musk",
     "pubDate": "Wed, 06 Nov 2024 01:00:00 -0800",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSqLdkg7xGK56qwaM_3c9yBQK9r2m8iSGcXW55A-qAzzavada5JfCmAffyvaN2C17d8pQVoEZ8R",
-    "news_item_snippet": "The candidate largely let the billionaire run his $175 million ground game \u2014 a gamble that future candidates could look to emulate.",
-    "news_item_url": "https://www.nytimes.com/2024/11/06/us/elections/trump-musk-america-pac.html",
+    "news_item_snippet": "There&#39;s no overstating how good election night was for Elon Musk. With Donald Trump&#39;s victory, Musk\u2014already the richest man in the world, thanks in part to&nbsp;...",
+    "news_item_url": "https://www.motherjones.com/politics/2024/11/elon-musk-donald-trump-win/",
     "picture_source": "Axios",
+    "approx_traffic": "500,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Election news",
+    "pubDate": "Wed, 06 Nov 2024 12:00:00 -0800",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQC3NDi6GPlKFOjviOCXzkY7wsO4x9nEjudGEa122VIQgtuevPal3Br6BX9fPiiXB_d5DJNoZ3P",
+    "news_item_snippet": "Users donned their virtual avatars and took to services like Horizon Worlds and VRChat to celebrate or bemoan the election. It was chaos.",
+    "news_item_url": "https://www.wired.com/story/the-election-was-even-weirder-in-vr/",
+    "picture_source": "WIRED",
     "approx_traffic": "200,000+"
   },
   {
     "country": "United States",
     "title": "The View",
     "pubDate": "Wed, 06 Nov 2024 06:00:00 -0800",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSfjjVz-QDfCBc4--yHcVR4SX03z5Q3lw_9O_Ts06b-oRZjkJIVqL1xIzthSwZtl-IG7iWt_RoF",
-    "news_item_snippet": "Whoopi Goldberg refused to say Donald Trump&#39;s name on &quot;The View&quot; after he beat Kamala Harris and was reelected president of the United States.",
-    "news_item_url": "https://variety.com/2024/tv/news/the-view-whoopi-goldberg-refuses-trump-name-election-win-1236202564/",
-    "picture_source": "Hollywood Reporter",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTtJdsd9K7Uhbo-GUcRF1C2ERhnZDOFNBJDx00G8LBu6Tmraq91A3FJPr0578nVUw1v5_atDdQa",
+    "news_item_snippet": "Meghan McCain calls out ABC and The View for not having any Trump voters on the show to share their perspective on the 2024 election results.",
+    "news_item_url": "https://variety.com/2024/tv/news/meghan-mccain-calls-out-the-view-trump-supporters-1236202567/",
+    "picture_source": "Variety",
     "approx_traffic": "200,000+"
   },
   {
     "country": "United States",
     "title": "Voting",
     "pubDate": "Wed, 06 Nov 2024 09:00:00 -0800",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQT0JjPC5hFzyYZxYY5ddPsyMMXSldunSUhqqGEKHGQvoIFIkqd_U54CberOC9phCmjVoPx2U0B",
-    "news_item_snippet": "To take effect, Wisconsin constitutional amendments must pass two consecutive legislative sessions and a statewide referendum. Republican lawmakers passed the&nbsp;...",
-    "news_item_url": "https://www.cbsnews.com/minnesota/news/wisconsin-ballot-question-noncitizens-voting-results/",
-    "picture_source": "PBS Wisconsin",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQ5Odwr5xQ3tJ4VAQqQerSOgcwyeToPe3Cf9F6kGHpVZCK6Ocj_5Cyrzxgqsk0BzScHYSPsgobm",
+    "news_item_snippet": "Though Election Day in Houston had a rainy start, nothing could dampen the spirits of members of the Rice University community as they came out to celebrate&nbsp;...",
+    "news_item_url": "https://news.rice.edu/news/2024/rice-community-celebrates-democracy-election-day-voting-and-campus-activities",
+    "picture_source": "Rice News",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Barcelona",
+    "pubDate": "Wed, 06 Nov 2024 13:00:00 -0800",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQ_kGSYcgfiNUt9migp6YG2EkczL3luY_9ZgLzCodni2cSs4-K2vx3CfGu3ReUgm9upCt1rWgQ-",
+    "news_item_snippet": "In-form Barca travel to Serbian capital in search of a third straight UCL win.",
+    "news_item_url": "https://www.cnet.com/tech/services-and-software/champions-league-soccer-livestream-red-star-belgrade-vs-barcelona-from-anywhere/",
+    "picture_source": "Sports Illustrated",
     "approx_traffic": "200,000+"
   },
   {
     "country": "United States",
     "title": "Tim Walz",
     "pubDate": "Wed, 06 Nov 2024 02:00:00 -0800",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRdQkXZFOvBzp0xePGjA0u3fuOOgLl9jswKHmnrwOQS3duh0uq3Jw4nvSLOpB46gyI4sA78Dl5P",
-    "news_item_snippet": "Democratic vice presidential candidate Minnesota Gov. Tim Walz speaks during a campaign event in York, Pa., Wednesday, Oct. 2, 2024. Matt Rourke | AP.",
-    "news_item_url": "https://www.mprnews.org/story/2024/11/06/tim-walz-loses-attempt-to-be-third-minnesotan-vice-president",
-    "picture_source": "WCCO",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcS92QoextcUEti_HCG27261Z_dkjh5g5rg51TrdcCd3HW4g2rirUjm_WvpF72N7oZXIlHDy33dp",
+    "news_item_snippet": "Minnesota Gov. Tim Walz will return home after an anti-climactic end on the national political stage as Kamala Harris&#39; VP running mate.",
+    "news_item_url": "https://www.usatoday.com/story/news/politics/elections/2024/11/06/tim-walz-loses-election/75719431007/",
+    "picture_source": "Valley News Live",
     "approx_traffic": "100,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Prop. 36",
-    "pubDate": "Wed, 06 Nov 2024 05:00:00 -0800",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSCjsZPaBWxkhgiINUw1WKcHmCRhQo_LwbpGBAneysGklSPcTMl61auRwBPU1Tn9Wrs1L1MCV7y",
-    "news_item_snippet": "Anger over retail theft drives California voters to make certain shoplifting crimes felonies again. Author: CalMatters, Associated Press, Staff (ABC10).",
-    "news_item_url": "https://www.abc10.com/article/news/local/california/california-crime-bill-how-did-prop-36-increasing-certain-theft-drug-penalties-fare/103-f3a218a5-c7d8-4b81-ae07-6484d0a2f24b",
-    "picture_source": "CALmatters",
-    "approx_traffic": "50,000+"
   },
   {
     "country": "United States",
@@ -76,27 +86,37 @@
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRyjUu1E6M3eL34ka6ZFY9lx8_C99Q-_MIWiy2tm71_kWVqauBZVD9SYUCjzOOMzDME3U-8-56c",
     "news_item_snippet": "After a historic campaign season, former President Donald Trump has been elected to a second presidential term. Here&#39;s what to know about his swearing-in&nbsp;...",
     "news_item_url": "https://www.tennessean.com/story/news/politics/elections/2024/11/06/when-is-inauguration-day-when-donald-trump-will-take-office/76090559007/",
-    "picture_source": "Cincinnati.com",
-    "approx_traffic": "50,000+"
+    "picture_source": "Zanesville Times Recorder",
+    "approx_traffic": "100,000+"
   },
   {
     "country": "United States",
     "title": "San Francisco election results",
     "pubDate": "Wed, 06 Nov 2024 09:00:00 -0800",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTVsp1GtV4m35BgRyBAQLfjIAtRzVGrWpLgs9p5eb5pM2oKSpI6LgGgTQtu2t4wqA8QTYSkan97",
-    "news_item_snippet": "Daniel Lurie has a commanding lead over incumbent London Breed in the race for San Francisco mayor with preliminary numbers in.",
-    "news_item_url": "https://abc7news.com/post/sf-mayoral-race-daniel-lurie-leads-london-breed-after-final-round-ranked-choice-voting/15517468/",
+    "news_item_snippet": "With thousands of ballots left to count, Levi Strauss heir and nonprofit founder Daniel Lurie held an early lead in the San Francisco mayoral race after the&nbsp;...",
+    "news_item_url": "https://www.sfexaminer.com/news/politics/2024-sf-election-results-daniel-lurie-leads-in-mayoral-race/article_cef7bc80-9b97-11ef-a8a4-0fed42edbdf7.html",
     "picture_source": "KQED",
     "approx_traffic": "50,000+"
   },
   {
     "country": "United States",
-    "title": "Nevada Senate race",
-    "pubDate": "Wed, 06 Nov 2024 10:00:00 -0800",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQkzf2YQLXUD8Q9Mf6z1SRRq70KUMk2U9SGDPBHnOqF0zsnmrF3an-rRqD3Ktnvke6AQ_VK6iP7",
-    "news_item_snippet": "Nevada&#39;s U.S. Senate race and most House races are too early to call. Democratic Sen. Jacky Rosen has outspent Republican challenger Sam Brown by more than&nbsp;...",
-    "news_item_url": "https://apnews.com/article/nevada-senate-2024-election-race-bdc2116c1e111c7d703d77dbb8fb4098",
-    "picture_source": "The Nevada Independent",
+    "title": "Estrella Roja  Barcelona",
+    "pubDate": "Wed, 06 Nov 2024 12:00:00 -0800",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQQ0f-udzSy4nzi7AS9HSRyHYNcE-rI4qlPgOcvKAF3wqSd2qtJaHUF0gR7mKqqbSIF8jV2UFZB",
+    "news_item_snippet": "Un doblete de Lewandowski y los goles de I\u00f1igo Mart\u00ednez, Raphinha y Ferm\u00edn permiten a los cul\u00e9s sumar la tercera victoria en cuatro partidos y asaltar las&nbsp;...",
+    "news_item_url": "https://www.fcbarcelona.es/es/futbol/primer-equipo/noticias/4164175/estrella-roja-fc-barcelona-un-barca-con-estrella-2-5",
+    "picture_source": "TUDN",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "India",
+    "title": "Crvena Zvezda vs Barcelona",
+    "pubDate": "Thu, 07 Nov 2024 01:30:00 +0530",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQYph5qsO6A51IKIZqbr6uAkgXLpEMvSCv7mYfmbt9rFhXgPLz3YMOSmcvimADZRg3sCRyOvUMc",
+    "news_item_snippet": "Barcelona will aim for a third consecutive Champions League victory as they face Crvena Zvezda or otherwise known as the Red Star Belgrade in Serbia.",
+    "news_item_url": "https://www.mykhel.com/football/crvena-zvezda-vs-barcelona-live-streaming-ucl-2024-25-match-details-318603.html",
+    "picture_source": "BT Sport",
     "approx_traffic": "50,000+"
   },
   {
@@ -111,16 +131,6 @@
   },
   {
     "country": "India",
-    "title": "Sporting vs Man City",
-    "pubDate": "Wed, 06 Nov 2024 01:30:00 +0530",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcT96goxPW62cpTHZQ8iVJzF1Ey8ycWxz85SduUvN0ynLQ33lnWHnbeN-efYzU9thZnZsAr6Inga",
-    "news_item_snippet": "Erling Haaland wasted numerous chances, including a penalty, as Manchester City were left dumbstruck by Sporting CP, but his fellow Scandinavian Viktor&nbsp;...",
-    "news_item_url": "https://www.goal.com/en-in/lists/man-city-player-ratings-vs-sporting-cp-erling-haaland-phil-foden-viktor-gyokeres/blt8172f07d97e77c94",
-    "picture_source": "Aljazeera.com",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "India",
     "title": "Robert Kennedy",
     "pubDate": "Wed, 06 Nov 2024 04:30:00 +0530",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTcJifcn1r9Vvj_Q0TJayqvpNGnmW5iaXyd0YmuQQ3jfCkvQYy-ybq7C5MkHGxzkFYp7QlqsWOO",
@@ -131,12 +141,22 @@
   },
   {
     "country": "India",
+    "title": "England vs West Indies",
+    "pubDate": "Wed, 06 Nov 2024 21:30:00 +0530",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSw7XxsvVI2tciZJ1tAk7jeDRFh3ZH9XU-xBj4J0NxzIxld_OqkLay-3vnhuXaRsq4PMwSN322r",
+    "news_item_snippet": "P Salt 5th ODI Fifty: 50 runs in 79 balls (3x4) (1x6); 6th Wicket Partnership: 53 off 66 balls between P Salt (23) and S Curran (29); England&nbsp;...",
+    "news_item_url": "https://www.livemint.com/sports/cricket-news/west-indies-vs-england-live-score-3rd-odi-of-england-tour-of-west-indies-2024-final-updates-today-06-nov-2024-11730912890894.html",
+    "picture_source": "ESPNcricinfo.com",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "India",
     "title": "Skoda Kylaq",
     "pubDate": "Wed, 06 Nov 2024 13:30:00 +0530",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQkEtmYFWoA2OpYdeM8H-GGcjFFSHxF5UpHBvFVSOkB27mfsP-NGbtd2O8t6xQOYWsroSQmVfRh",
-    "news_item_snippet": "The Kylaq SUV is the first model in India to adopt elements of \u0160koda&#39;s new Modern Solid design language. It is powered by an efficient 1.0 TSI engine and&nbsp;...",
-    "news_item_url": "https://www.skoda-storyboard.com/en/press-releases/the-all-new-skoda-kylaq-a-new-era-for-skoda-in-indias-popular-sub-4-metre-suv-segment/",
-    "picture_source": "CarDekho",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSh6vHZ4L44dfkh6OafnyWoKPD9waEYSwUTG_Wpza4NVjsd9hkib-p5Yd7pqT1iXNvk6amyJaC4",
+    "news_item_snippet": "It has a 10.1-inch touchscreen, a sunroof, and electrically adjustable and ventilated front seats. The safety suite includes six airbags (as standard), a TPMS&nbsp;...",
+    "news_item_url": "https://www.cardekho.com/india-car-news/skoda-kylaq-is-available-in-a-total-of-5-colours-33461.htm",
+    "picture_source": "\u0160KODA Storyboard",
     "approx_traffic": "100,000+"
   },
   {
@@ -144,7 +164,7 @@
     "title": "Tesla share price",
     "pubDate": "Wed, 06 Nov 2024 12:30:00 +0530",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSNCJVbs3K_SlLaGDkzUznImWD-C9IifzKitKc_QxY_J0BGf6v1on_klJRm1vtIgDAMXlpIIsoz",
-    "news_item_snippet": "Elon Musk, Tesla&#39;s CEO and a vocal Trump supporter, could potentially gain more influence in a Trump administration, impacting the future of electric vehicle&nbsp;...",
+    "news_item_snippet": "Tesla Share Price: Tesla shares saw a significant jump in premarket trading following Donald Trump&#39;s claimed victory in the U.S. presidential election.",
     "news_item_url": "https://m.economictimes.com/markets/stocks/news/tesla-pops-14-in-frankfurt-as-early-us-vote-results-lift-trump-trades/articleshow/115014882.cms",
     "picture_source": "Livemint",
     "approx_traffic": "100,000+"
@@ -161,22 +181,12 @@
   },
   {
     "country": "India",
-    "title": "CNN",
-    "pubDate": "Wed, 06 Nov 2024 00:30:00 +0530",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRaivs92SXbBlmiw661C7ZNOawOnvhcjTkiDZzcacxxfEpJealbvJY2Fkcw-JwMLwmjpdP_KvOP",
-    "news_item_snippet": "Millions of Americans will be tuning in to CNN and other networks on election night as returns roll in. They&#39;ll be waiting to see who wins, something CNN&nbsp;...",
-    "news_item_url": "https://www.cnn.com/2024/11/05/politics/how-cnn-projects-elections-what-matters/index.html",
-    "picture_source": "CNN",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "India",
     "title": "Real Madrid",
     "pubDate": "Wed, 06 Nov 2024 03:30:00 +0530",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQw1U6T1EzrSfnHR2yAlsw8fn6upjUm01TfcIacpBM6DHo33IYPx7aC9Dbtxg30A-x0oeZOVTBU",
-    "news_item_snippet": "Real Madrid&#39;s leaders, led by Florentino Perez, are calm about Carlo Ancelotti. The concern exists about what the team is offering in the last few games.",
-    "news_item_url": "https://www.marca.com/en/football/real-madrid/2024/11/06/672b909746163f7f2e8b45aa.html",
-    "picture_source": "India Today",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQw5wswDxKjD-OQAQ0x_vQuHTCBhy9pMR5wU_-zdCaazwNVhvieue6-QyKHX0Fo1SHc0d8Yxzs9",
+    "news_item_snippet": "Real Madrid manager Carlo Ancelotti has voiced his concerns following the team&#39;s rare consecutive defeats, including a recent loss to AC Milan.",
+    "news_item_url": "https://www.indiatoday.in/sports/football/story/uefa-champions-league-real-madrid-vs-ac-milan-carlo-ancelotti-reaction-2628911-2024-11-06",
+    "picture_source": "beIN SPORTS USA",
     "approx_traffic": "50,000+"
   },
   {
@@ -190,13 +200,23 @@
     "approx_traffic": "50,000+"
   },
   {
-    "country": "India",
-    "title": "US Result",
-    "pubDate": "Wed, 06 Nov 2024 10:30:00 +0530",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcR-1uPu5b_5eZn1EgGZK9PYavm1YdHuxkNr51BzHzlj1swdJjZFrO-_mSTrnxeaScY8GxCOrRLB",
-    "news_item_snippet": "\u0921\u094b\u0928\u093e\u0932\u094d\u0921 \u091f\u094d\u0930\u092e\u094d\u092a \u092b\u093f\u0930 \u0938\u0947 \u0905\u092e\u0947\u0930\u093f\u0915\u093e \u0915\u0947 \u0930\u093e\u0937\u094d\u091f\u094d\u0930\u092a\u0924\u093f \u091a\u0941\u0928\u0947 \u0917\u090f \u0939\u0948\u0902\u0964 \u0909\u0928\u094d\u0939\u0947\u0902 50 \u0930\u093e\u091c\u094d\u092f\u094b\u0902 \u0915\u0940 538 \u092e\u0947\u0902 \u0938\u0947 277 \u0938\u0940\u091f\u0947\u0902 \u092e\u093f\u0932\u0940 \u0939\u0948\u0902, \u092c\u0939\u0941\u092e\u0924 \u0915\u0947 \u0932\u093f\u090f 270 \u0938\u0940\u091f\u0947\u0902 \u091c\u0930\u0942\u0930\u0940 \u0939\u094b\u0924\u0940 \u0939\u0948\u0902\u0964",
-    "news_item_url": "https://www.bhaskar.com/international/news/us-election-2024-result-live-updates-donald-trump-kamala-harris-133915342.html",
-    "picture_source": "\u0905\u092e\u0930 \u0909\u091c\u093e\u0932\u093e",
+    "country": "Argentina",
+    "title": "Boca",
+    "pubDate": "Wed, 06 Nov 2024 14:00:00 -0300",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQ0s9ss7r3tjezLJM1dq7Im0MVeo1Z7toEy-7YarXIfvKhZX_L2lmVY18yhM7AUw0NHiOwEBXxF",
+    "news_item_snippet": "El partido de la fecha 21 se disputa este mi\u00e9rcoles desde las 19.30 en la Bombonera con arbitraje de Ariel Penel - LA NACION.",
+    "news_item_url": "https://www.lanacion.com.ar/deportes/futbol/en-que-canal-pasan-boca-vs-godoy-cruz-por-la-liga-profesional-2024-hoy-nid06112024/",
+    "picture_source": "Ol\u00e9",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "Argentina",
+    "title": "Barracas Central  Racing",
+    "pubDate": "Wed, 06 Nov 2024 16:00:00 -0300",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcT6dabbjifCxEBYckX3huKymd1ouY5hHFHIyXbIrxSvnG-apuXxrhQVf4yymQ0__fs8i_t5DnAw",
+    "news_item_snippet": "Con goles de Agust\u00edn Almendra y Maravilla Mart\u00ednez, La Academia se impuso por 2-0 sobre el Guapo en el Guillermo Laza y qued\u00f3 a cinco de V\u00e9lez y Hurac\u00e1n,&nbsp;...",
+    "news_item_url": "https://www.tycsports.com/liga-profesional-de-futbol/barracas-central-vs-racing-club-en-vivo-hora-donde-ver-y-formaciones-id617210.html",
+    "picture_source": "El Economista",
     "approx_traffic": "50,000+"
   },
   {
@@ -221,6 +241,26 @@
   },
   {
     "country": "Australia",
+    "title": "Robert Kennedy",
+    "pubDate": "Wed, 06 Nov 2024 08:00:00 +1100",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcR_DfAio3l_IR9ow4nh1op6EwhwKf6MOO7Q2VdRmaMv7vFQr0FIigDxQOSAjJ-2qjUYOy3PpMmy",
+    "news_item_snippet": "Former presidential candidate Robert F. Kennedy Jr., who is slated to hold a potentially big role in a new Trump administration, said Wednesday there are&nbsp;...",
+    "news_item_url": "https://thehill.com/homenews/campaign/4976746-robert-kennedy-potential-role-trump-administration/",
+    "picture_source": "The New York Times",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "Australia",
+    "title": "Jill Stein",
+    "pubDate": "Wed, 06 Nov 2024 07:00:00 +1100",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQBq188lAv4oCY2NzLfiJdpOv3Hx-c8nA7R_6B_DREvKkqtCybj2Uty3sBKsNEgIBmQvxvtbboh",
+    "news_item_snippet": "The Green Party candidate garnered 0.4% of the national vote and collected just more than 628000 votes from Americans.",
+    "news_item_url": "https://www.newsnationnow.com/politics/2024-election/how-jill-stein-fared-2024-election/",
+    "picture_source": "NewsNation Now",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "Australia",
     "title": "Bitcoin price",
     "pubDate": "Wed, 06 Nov 2024 17:00:00 +1100",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSiHuUYtKM6_J8bvRdIQTl-cvowpor4_jvzq_2Po3ayThGY55Ut2P6zORiYNsXL-sduskAJfd0m",
@@ -230,43 +270,23 @@
     "approx_traffic": "50,000+"
   },
   {
-    "country": "Australia",
-    "title": "Fox News",
-    "pubDate": "Wed, 06 Nov 2024 08:00:00 +1100",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcR-h5gJoxs-7Ec5kcSJjVYjxuSCgYtuLUMvnjPhW9Mz-lNUJ15jrS_4t9bWp-HHl0t55BVm4FDZ",
-    "news_item_snippet": "Even before the votes were tallied, there was at least one clear winner from the US presidential election: the media. And no outlet more so than the Murdoch&nbsp;...",
-    "news_item_url": "https://www.afr.com/companies/media-and-marketing/there-s-already-one-winner-from-the-us-election-fox-news-20241106-p5ko9k",
-    "picture_source": "The Australian Financial Review",
-    "approx_traffic": "50,000+"
+    "country": "Brazil",
+    "title": "Bitcoin",
+    "pubDate": "Wed, 06 Nov 2024 10:00:00 -0500",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSnO4m6HggJv7m3OAds2sEwf8rNeIo3e1K-Kr3MBiucqlrTPSrHd4OxwF9ywPwr-i7lvW3DtkIk",
+    "news_item_snippet": "Popular criptomoeda disparou. No momento, supera os US$ 74 mil (R$ 458 mil). A princ\u00edpio, o republicano era contra as moedas digitais. Chegou a dizer que eram &quot;&nbsp;...",
+    "news_item_url": "https://economia.uol.com.br/noticias/redacao/2024/11/06/bitcoin-tem-alta-recorde-com-trump-o-que-esperar-da-moeda.htm",
+    "picture_source": "G1",
+    "approx_traffic": "200,000+"
   },
   {
     "country": "Brazil",
-    "title": "Liga dos Campe\u00f5es",
-    "pubDate": "Wed, 06 Nov 2024 14:00:00 -0500",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSrVDmoq_YL29lGd_t53KuS5u87bPWfYTv5cH5BjFAmDq22lDkCiM-TkHzAVr97H4FlaHkMvlKT",
-    "news_item_snippet": "Ap\u00f3s ter empatado sem gols contra o Manchester City na rodada inaugural da Champions, a Inter de Mil\u00e3o somou todos os pontos poss\u00edveis na competi\u00e7\u00e3o, vencendo o&nbsp;...",
-    "news_item_url": "https://www.terra.com.br/apostas/palpites-e-odds/palpite-inter-de-milao-x-arsenal-liga-dos-campeoes-6112024,6fafcd51ac55b3dc2a681f3f65282681ik2n3u65.html",
-    "picture_source": "UOL",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "Brazil",
-    "title": "Euro hoje",
-    "pubDate": "Wed, 06 Nov 2024 09:00:00 -0500",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRx5LTa5ENRAsWv8b00mtGiypDI9A8bFI4l_iCZOpmyd1aXEZomEhL2Zs6IGs6wf51XIoLXzH5U",
-    "news_item_snippet": "J\u00e1 o euro turismo, \u00e9 a taxa de c\u00e2mbio utilizada em transa\u00e7\u00f5es envolvendo viagens internacionais, como troca de moeda para viajar ao exterior, compra de pacotes&nbsp;...",
-    "news_item_url": "https://diariodonordeste.verdesmares.com.br/negocios/euro-hoje-06x2f11-veja-o-valor-da-cotacao-comercial-e-turismo-1.3580030",
-    "picture_source": "Di\u00e1rio do Nordeste",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "Brazil",
-    "title": "Bitcoin hoje",
-    "pubDate": "Wed, 06 Nov 2024 11:00:00 -0500",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRRb6AxvwbCHZ8FBctXmtA16v0jKx2460JaPrL4qzg5ljtP1qJwe2qSo4c3ElTW8r1HFR5-u8nl",
-    "news_item_snippet": "Donald Trump eleito: o que ser\u00e1 do bitcoin? O candidato republicano, que j\u00e1 havia declarado investir em criptomoedas e possui suas pr\u00f3prias cole\u00e7\u00f5es de tokens&nbsp;...",
-    "news_item_url": "https://exame.com/future-of-money/bitcoin-atinge-nova-maxima-historica-com-vitoria-de-donald-trump-para-presidencia-dos-eua/",
-    "picture_source": "BBC Brasil",
+    "title": "PSG x Atl\u00e9tico Madrid",
+    "pubDate": "Wed, 06 Nov 2024 01:00:00 -0500",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSAIgX8ZcDPrDV2IZRKstbBBJWASEIHWuGAa9acHyu1H5sSmXu0tX1WB-1HSGiv7XI_fRjmkef3",
+    "news_item_snippet": "Partida da Champions League acontece nesta quarta-feira (6) em Paris.",
+    "news_item_url": "https://www.uol.com.br/esporte/ultimas-noticias/2024/11/06/transmissao-ao-vivo-de-psg-x-atletico-de-madrid-veja-onde-assistir.htm",
+    "picture_source": "ESPN.com.br",
     "approx_traffic": "100,000+"
   },
   {
@@ -302,10 +322,10 @@
   {
     "country": "Canada",
     "title": "CBC News",
-    "pubDate": "Wed, 06 Nov 2024 03:00:00 -0500",
+    "pubDate": "Wed, 06 Nov 2024 02:00:00 -0500",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSWLFPlR89vz91UO2nZjeg9vxRX22XtpYBg3cceR55e_6XEhbq_tfKkSat5eG8V2vvfGYifDB23",
-    "news_item_snippet": "Learn, connect and illuminate with CBC News Edmonton and digitally stream all of our local content at your fingertips, live and on-demand.",
-    "news_item_url": "https://www.cbc.ca/news/canada/edmonton/community/cbc-edmonton-streaming-channel-1.7361151",
+    "news_item_snippet": "New Brunswickers living within sight of the United States reacted with unease and bewilderment Tuesday as the re-election of Donald Trump as U.S. president&nbsp;...",
+    "news_item_url": "https://www.cbc.ca/news/canada/new-brunswick/residents-st-stephen-nb-trump-1.7375716",
     "picture_source": "CBC.ca",
     "approx_traffic": "50,000+"
   },
@@ -314,7 +334,7 @@
     "title": "Tesla stock",
     "pubDate": "Wed, 06 Nov 2024 03:00:00 -0500",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSJsfelOiWkcAjKfX8v7gOTpTV-kYOPLBLbvOMIv8298qKAnq3ZDBtSjSuK7m8nJ6dcoTVdbyXL",
-    "news_item_snippet": "A Trump victory will very likely mean less support for electric vehicles. It also means more work for Elon Musk, the already incredibly busy CEO of Tesla.",
+    "news_item_snippet": "stock soared Wednesday with Republican nominee Donald Trump winning the U.S. presidential election. A Trump victory will very likely mean less support for&nbsp;...",
     "news_item_url": "https://www.barrons.com/articles/tesla-stock-musk-trump-election-rivian-1086ba9f",
     "picture_source": "Forbes",
     "approx_traffic": "50,000+"
@@ -331,52 +351,62 @@
   },
   {
     "country": "France",
+    "title": "Brest Ligue des champions",
+    "pubDate": "Wed, 06 Nov 2024 09:00:00 +0100",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQLyWggBr6hLV8K9-0tn16P3qA6RgKjr3GFehlPu1bZN1Y5A6JCcISO8VToe1D0yJKKLe0vJOpT",
+    "news_item_snippet": "Toujours invaincu en Ligue des champions, le Stade Brestois n&#39;en finit plus d&#39;\u00e9tonner sur la sc\u00e8ne europ\u00e9enne. Sur la pelouse du Sparta Prague,&nbsp;...",
+    "news_item_url": "https://www.ouest-france.fr/sport/football/ligue-des-champions/video-ligue-des-champions-la-reprise-dedimilson-fernandes-qui-ouvre-le-score-pour-brest-a-prague-ba8869dc-9c7f-11ef-ad61-4b47559018ee",
+    "picture_source": "Franceinfo",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "France",
     "title": "Elon Musk",
     "pubDate": "Wed, 06 Nov 2024 15:00:00 +0100",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSUJiTaBWLexy10y6szic7m4Fe3WcSiLfiPBWdM316ph9HCLK9Brp4DHPdwCsOV-938jtIdiZCq",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcT6YLGRGSQrzqeEglq3K7bjQi--8LtvQFlapTVjBa_hVMQ-2fqXRJulcTBBxKjCrMik3yzabfGx",
     "news_item_snippet": "Mission accomplie pour Elon Musk qui a vu son favori Donald Trump remporter l&#39;\u00e9lection am\u00e9ricaine mardi 5 novembre. Soutien ind\u00e9fectible du candidat&nbsp;...",
     "news_item_url": "https://www.rfi.fr/fr/am%C3%A9riques/20241106-pr%C3%A9sidentielle-am%C3%A9ricaine-la-victoire-de-donald-trump-pari-gagnant-d-elon-musk",
-    "picture_source": "Franceinfo",
+    "picture_source": "TV5MONDE Info",
     "approx_traffic": "50,000+"
   },
   {
     "country": "France",
     "title": "Bitcoin",
     "pubDate": "Wed, 06 Nov 2024 11:00:00 +0100",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRA39xlQooot0np-fbGqPqd1LDIGf3hgD5qL-mNkQgJQtkjqPK2ag4UEJCPIIiXevJrCA_-rMp6",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTlD84vt9LGZknNBSaYPGg0ySuKTJ08X5_AP6dKcAKtNN7E0xpksJRVYPVWXZuHQfIVa6w1HeSR",
     "news_item_snippet": "La valeur du bitcoin et d&#39;autres cryptomonnaies s&#39;est envol\u00e9e dans la nuit de mardi \u00e0 mercredi. Le monde des monnaies num\u00e9riques, amplement courtis\u00e9 par&nbsp;...",
     "news_item_url": "https://www.lemonde.fr/pixels/article/2024/11/06/le-secteur-du-bitcoin-et-des-cryptoactifs-se-rejouit-de-la-victoire-de-donald-trump_6379408_4408996.html",
-    "picture_source": "Franceinfo",
+    "picture_source": "Le Grand Continent",
     "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Germany",
-    "title": "Champions League",
-    "pubDate": "Wed, 06 Nov 2024 17:00:00 +0100",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQAxBDnYZ4GNHE5sEQNgXVqH7pZJdfkbCMEPT7cGl5aayM-qcELSt0whmx0ltwkqzNq4o7GvgpE",
-    "news_item_snippet": "Der FC Bayern M\u00fcnchen empf\u00e4ngt am 4. Spieltag der UEFA Champions League Benfica Lissabon. Wo k\u00f6nnt ihr die Partie live sehen?",
-    "news_item_url": "https://www.ran.de/sports/fussball/champions-league/news/fc-bayern-muenchen-vs-benfica-lissabon-heute-live-champions-league-im-tv-stream-und-ticker-455243",
-    "picture_source": "SPORT1",
-    "approx_traffic": "500,000+"
-  },
-  {
-    "country": "Germany",
-    "title": "News",
-    "pubDate": "Wed, 06 Nov 2024 11:00:00 +0100",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRdsSl_Ndty3brB14mqWoOLStnETAPB10qLWsA7Zd5-_7WWXiAb1EEjQis4SjILJslAseGNTKOz",
-    "news_item_snippet": "Vermeintlich stammten die vielen E-Mails von besorgten B\u00fcrgern, tats\u00e4chlich wohl von Russen: Mit L\u00fcgen \u00fcber Kamala Harris haben sie offenbar versucht,&nbsp;...",
-    "news_item_url": "https://www.spiegel.de/netzwelt/web/operation-overload-russische-kampagne-flutet-faktenchecker-mit-fake-news-a-13d6072d-403c-4238-a850-207a29a1976c",
-    "picture_source": "DER SPIEGEL",
-    "approx_traffic": "100,000+"
   },
   {
     "country": "Germany",
     "title": "Lindner",
     "pubDate": "Wed, 06 Nov 2024 18:00:00 +0100",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQRsPRZiAddVTUC6Apch4iAlsNISjtnCm_xBKlj0FUNKTv6N9acKnSFsFoISiPwId7uoauYZvjC",
-    "news_item_snippet": "Die Ampel-Koalition ist am Ende. Finanzminister Christian Lindner (FDP) ist am Abend von Bundeskanzler Olaf Scholz (SPD) entlassen worden. Scholz will am 15&nbsp;...",
-    "news_item_url": "https://www.rbb24.de/politik/beitrag/2024/11/berlin-bundeskanzler-scholz-entlaesst-finanzminister-lindner-fdp-ampel.html",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcR0-Y7ji4vNH025ap9FuVawh0xDdFraNU835_oaqAU0dNuMi_jYrtIQ72sLrLtVO-neTLEb-ay6",
+    "news_item_snippet": "Die Ampel ist am Ende: Der Bundeskanzler hat angek\u00fcndigt, Finanzminister Lindner zu entlassen und am 15. Januar die Vertrauensfrage zu stellen.",
+    "news_item_url": "https://www.spiegel.de/politik/ampelkoalition-krise-news-scholz-erklaert-die-entlassung-von-lindner-a-6b511cea-1657-4315-a747-7626cc08cc79",
     "picture_source": "tagesschau.de",
+    "approx_traffic": "500,000+"
+  },
+  {
+    "country": "Germany",
+    "title": "Champions League",
+    "pubDate": "Wed, 06 Nov 2024 17:00:00 +0100",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQ4GtULH8FQa4c2ozPVnh6TcY1J4b3xtGtNkghN5Q48HVts6-nCpInNF-3VZ6itWhUd94oMHZLd",
+    "news_item_snippet": "Der VfB Stuttgart hat im Kampf um die K.o.-Phase der Champions League einen R\u00fcckschlag erlitten. Gegen Atalanta Bergamo fehlte vor allem offensiv jeglicher&nbsp;...",
+    "news_item_url": "https://www.sportschau.de/fussball/championsleague/planlose-stuttgarter-unterliegen-bergamo,stuttgart-bergamo-champions-league-100.html",
+    "picture_source": "Sportschau",
+    "approx_traffic": "500,000+"
+  },
+  {
+    "country": "Germany",
+    "title": "VfB Stuttgart \u2013 Atalanta",
+    "pubDate": "Wed, 06 Nov 2024 21:00:00 +0100",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRVjphYqqrAaiXSolmVolMkBSJ9CrzJBLtlQkht2QnwUuFfOXtKt3PtVIY41587x2AU-jyxh3ZY",
+    "news_item_snippet": "F\u00fcr den VfB Stuttgart steht am Mittwoch in der neuen Champions League das vierte Spiel an. Gegen Atalanta Bergamo hofft der VfB auf den zweiten Sieg.",
+    "news_item_url": "https://www.sport1.de/news/fussball/champions-league/2024/11/champions-league-vfb-stuttgart-gegen-atalanta-heute-live-im-tv-stream-ticker",
+    "picture_source": "VfB Stuttgart",
     "approx_traffic": "100,000+"
   },
   {
@@ -401,33 +431,13 @@
   },
   {
     "country": "Germany",
-    "title": "Wahl USA",
+    "title": "Donald Trump",
     "pubDate": "Tue, 05 Nov 2024 07:00:00 +0100",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSZRSrS53y6oBE9eRJOHZ4GmGsOO9yu4WjV5QgD95Ql6Px6CO7X2iBJYllXMx-u3r6rW5Oprrr2",
-    "news_item_snippet": "Donald Trump hat die US-Pr\u00e4sidentschaftswahl gewonnen. Viele Politikerinnen und Politiker aus Niedersachsen, Schleswig-Holstein, Mecklenburg-Vorpommern und&nbsp;...",
-    "news_item_url": "https://www.ndr.de/nachrichten/info/Donald-Trump-siegt-bei-der-US-Wahl-2024-gegen-Kamala-Harris-die-Reaktionen,uswahlnordreaktionen100.html",
-    "picture_source": "rbb24",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRonEVrjRyp6V9DbSt4_ugeRcVu_wfyl29OD0D3rNsI4P8SNaCeMAiUd6mFcw8Wu8C4F3KNOhfV",
+    "news_item_snippet": "Donald Trump hat das Comeback ins Wei\u00dfe Haus geschafft. Das hat nicht nur Folgen f\u00fcr Amerika, sondern auch f\u00fcr Deutschland. \u00d6konomen sind sich sicher:&nbsp;...",
+    "news_item_url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/trump-us-wahl-folgen-deutschland-protektionismus-100.html",
+    "picture_source": "tagesschau.de",
     "approx_traffic": "2,000,000+"
-  },
-  {
-    "country": "Germany",
-    "title": "Liverpool \u2013 Leverkusen",
-    "pubDate": "Tue, 05 Nov 2024 20:00:00 +0100",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRIvfm29JfrgT_I5sf5tAYvRwidsoWntnCjyg37tXuheOBdTHWXkkhHXcg28Sgy34RZqmqzd4zx",
-    "news_item_snippet": "Das Topspiel in der Champions League hat der FC Liverpool am Dienstagabend f\u00fcr sich entschieden und Bayer 04 Leverkusen die erste Niederlage in der&nbsp;...",
-    "news_item_url": "https://www.kicker.de/liverpool-gegen-leverkusen-2024-champions-league-4962741/analyse",
-    "picture_source": "ZDFheute",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "Germany",
-    "title": "Real Madrid",
-    "pubDate": "Tue, 05 Nov 2024 22:00:00 +0100",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQS_zf8aVB9E3buuKKGVuCiTXZ77gpMniU3GrIldfda8WM-EsKZRQZBgbXM_YsIkQfiEtiowdxo",
-    "news_item_snippet": "Real Madrid kann in der Champions League nicht verlieren? Dieses scheinbare Naturgesetz gilt in dieser Saison nicht mehr. Zwei Niederlagen in vier Partien&nbsp;...",
-    "news_item_url": "https://www.faz.net/aktuell/sport/fussball/champions-league/real-madrid-verliert-in-champions-league-gegen-milan-und-macht-sich-sorgen-110092828.html",
-    "picture_source": "Sky Sport",
-    "approx_traffic": "50,000+"
   },
   {
     "country": "Germany",
@@ -470,14 +480,14 @@
     "approx_traffic": "50,000+"
   },
   {
-    "country": "Germany",
-    "title": "US-Wahl 2024",
-    "pubDate": "Sun, 03 Nov 2024 23:00:00 +0100",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSLJi9ntteRllqXwk5nffOLsXyI8SlZCSZuy3IqLOhMkznt8Q42eBT5Vu6QBB7TdaYcz2t60ptD",
-    "news_item_snippet": "Wo hat Kamala Harris die Nase vorn, wo Donald Trump? Was genau passiert, wenn dieser eine Swing State kippt? Der Informationsdurst zur US-Wahl ist brennend.",
-    "news_item_url": "https://netzpolitik.org/2024/trump-vs-harris-spannende-grafiken-zur-us-wahl-2024/",
-    "picture_source": "tagesschau.de",
-    "approx_traffic": "200,000+"
+    "country": "Italy",
+    "title": "Stoccarda-Atalanta",
+    "pubDate": "Wed, 06 Nov 2024 20:00:00 +0100",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQnffiLHkbpl8Lk6GaIdpdXX840AliHkWYJYCgwrEtXbDSneSNjBsCSEokQKlYlWGJVdwiHNhbn",
+    "news_item_snippet": "CHAMPIONS LEAGUE - De Ketelaere e Lookman lanciano l&#39;Atalanta, Zaniolo si riscatta. Stoccarda e l&#39;ex Tour\u00e9 poco pericolosi.",
+    "news_item_url": "https://www.eurosport.it/calcio/champions-league/2024-2025/champions-league-le-pagelle-di-stoccarda-atalanta-0-2-sempre-lookman-che-impatto-di-de-ketelaere_sto20051727/story.shtml",
+    "picture_source": "Atalanta",
+    "approx_traffic": "50,000+"
   },
   {
     "country": "Italy",
@@ -510,16 +520,6 @@
     "approx_traffic": "200,000+"
   },
   {
-    "country": "Mexico",
-    "title": "Liga MX",
-    "pubDate": "Tue, 05 Nov 2024 22:00:00 -0600",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRajkzVO3viLeKirDvKURMHBE0j-FEnNjiOSKzItA3dcD5sFK8TPuW4dawKvVhpILcnoisvwYkD",
-    "news_item_snippet": "Hoy s\u00ed hay futbol. Este mi\u00e9rcoles 6 de noviembre tenemos cinco partidos correspondientes a la jornada 16 del torneo Apertura 2024 de la Liga MX.",
-    "news_item_url": "https://www.marca.com/mx/futbol/2024/11/06/672b944522601ddf7e8b457a.html",
-    "picture_source": "Diario Deportivo Record",
-    "approx_traffic": "200,000+"
-  },
-  {
     "country": "Spain",
     "title": "Bitcoin",
     "pubDate": "Wed, 06 Nov 2024 10:00:00 +0100",
@@ -541,12 +541,22 @@
   },
   {
     "country": "United Kingdom",
+    "title": "Election",
+    "pubDate": "Wed, 06 Nov 2024 08:00:00 +0000",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQC3NDi6GPlKFOjviOCXzkY7wsO4x9nEjudGEa122VIQgtuevPal3Br6BX9fPiiXB_d5DJNoZ3P",
+    "news_item_snippet": "Users donned their virtual avatars and took to services like Horizon Worlds and VRChat to celebrate or bemoan the election. It was chaos.",
+    "news_item_url": "https://www.wired.com/story/the-election-was-even-weirder-in-vr/",
+    "picture_source": "WIRED",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United Kingdom",
     "title": "News",
     "pubDate": "Wed, 06 Nov 2024 09:00:00 +0000",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcS8Hm5wUdo-Kv8PbcHiSLn5DWiTuOR9w7yNF0nGbv5oQK4k3sLTzHcFuZunPDH3LZf6z8PEWOp_",
-    "news_item_snippet": "Proposal would extend powers to call in media mergers to online news sites and news magazines; The move builds upon existing powers which already apply in&nbsp;...",
-    "news_item_url": "https://www.gov.uk/government/news/media-merger-laws-to-be-modernised-for-the-digital-age",
-    "picture_source": "GOV.UK",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRY9ofEXeVrYCfJOamyIraPeuSj6I8-gGHOIvcV813TxZJh_0ybNsWtoncG_e4z3n6TRdcNROeR",
+    "news_item_snippet": "As winter approaches, healthcare services across Shropshire, Telford and Wrekin are preparing for a season of increased demand.",
+    "news_item_url": "https://newsroom.shropshire.gov.uk/2024/11/news-from-our-partners-countys-health-and-care-services-prepare-for-winter-with-relaunch-of-think-which-service/",
+    "picture_source": "Shropshire Council Newsroom",
     "approx_traffic": "100,000+"
   },
   {
@@ -561,21 +571,21 @@
   },
   {
     "country": "United Kingdom",
-    "title": "Club Brugge vs Aston Villa",
+    "title": "Aston Villa",
     "pubDate": "Wed, 06 Nov 2024 18:00:00 +0000",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQa6AjiN2Iog3u5UiiuNESVdVToIPk0bDyl6ianoH0m-yTUgoXGooEBJhmrIJPvmiu4qgCB3h4E",
-    "news_item_snippet": "Follow live coverage of match week four in the Champions League as Aston Villa travel to Club Brugge followed by seven other fixtures including Arsenal&#39;s&nbsp;...",
-    "news_item_url": "https://www.bbc.com/sport/football/live/c3e890j3125t",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSWf4my9G7jpuJ9uobtgwq73YDXP5gR05sfcBMQYG83yDqc6qRYBMliD0jFFtc_w_amuOMN8cfs",
+    "news_item_snippet": "Young Lions claim thrilling victory after eight-goal encounter in Belgium.",
+    "news_item_url": "https://www.avfc.co.uk/news/2024/november/06/youth-league--club-brugge-aston-villa/",
     "picture_source": "Aston Villa",
-    "approx_traffic": "50,000+"
+    "approx_traffic": "100,000+"
   },
   {
     "country": "United Kingdom",
     "title": "Elon Musk",
     "pubDate": "Wed, 06 Nov 2024 08:00:00 +0000",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRh2UdBLGnnMXv-OsNtmh1hpW7jHXX9UrVYVPRU2dLM18RAaavw-Q8tn6T8IqjLKU9BGNBbkVRS",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQKCg_j8Ln3C6MxW3ZnFz97O0tWwM2OPADX2PFJ6lR1hOMTeg-wDym4ybhZdJHlzGyVFyhlZ_-Q",
     "news_item_snippet": "The tech billionaire has aggressively campaigned for the Republican candidate in swing states across the country.",
-    "news_item_url": "https://www.bbc.co.uk/news/articles/c9dlg1v7jevo",
+    "news_item_url": "https://www.bbc.com/news/articles/c9dlg1v7jevo",
     "picture_source": "BBC News",
     "approx_traffic": "50,000+"
   },
@@ -584,8 +594,8 @@
     "title": "Project 2025",
     "pubDate": "Wed, 06 Nov 2024 01:00:00 +0000",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTIkVRZdPDHM5dmx5kz8vDVpT4m4WKJRKzo2zin6rVkO6QbKNi6D1SH99D4PsHAyAtXQ9oxCwdJ",
-    "news_item_snippet": "A 900-page plan drawn up by former Donald Trump aides and endorsed by a powerful right-wing think tank has long been seens as giving the former president a&nbsp;...",
-    "news_item_url": "https://www.independent.co.uk/news/world/americas/us-politics/project-2025-summary-trump-win-b2642369.html",
+    "news_item_snippet": "Democrats had attacked Donald J. Trump&#39;s ties to the conservative policy blueprint for reshaping the federal government. Several of its authors served in&nbsp;...",
+    "news_item_url": "https://www.nytimes.com/2024/11/06/us/politics/trump-project-2025.html",
     "picture_source": "The Independent",
     "approx_traffic": "50,000+"
   },
@@ -594,9 +604,19 @@
     "title": "JD Vance",
     "pubDate": "Wed, 06 Nov 2024 08:00:00 +0000",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTf72zAJoe-Sqg8pEN7imprmUL1-OZSI2m_OH9Atc1hzFsrHo_IkV5RerJ6qwTaTeF-WGu6RsGM",
-    "news_item_snippet": "Just two years after winning his first run for political office, Ohio Sen. JD Vance is set to become vice president \u2014 ushering a new generation into power&nbsp;...",
-    "news_item_url": "https://www.cnn.com/2024/11/06/politics/jd-vance-elected-vice-president/index.html",
+    "news_item_snippet": "Usha Vance was thrust into the spotlight after her husband, JD Vance, was chosen as Donald Trump&#39;s running mate in the 2024 presidential election.",
+    "news_item_url": "https://news.sky.com/story/usha-vance-the-lawyer-who-is-now-americas-second-lady-13180260",
     "picture_source": "The Guardian",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United Kingdom",
+    "title": "Gary Barlow son",
+    "pubDate": "Wed, 06 Nov 2024 02:00:00 +0000",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSi7HlTLqhrn6AcBSOJ41C1uveV9zwMsBMbPx9PFrHgFrUySUGojtHbjuczNl1CjM35vS8xRB8k",
+    "news_item_snippet": "Gary Barlow&#39;s son Daniel Barlow, 24, has become an internet sensation - but which other celebrity children have overtaken their parents?",
+    "news_item_url": "https://metro.co.uk/2024/11/06/celebrities-kids-tower-like-gary-barlows-son-daniel-21939894/",
+    "picture_source": "Heart",
     "approx_traffic": "50,000+"
   }
 ]
