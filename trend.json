@@ -1,7 +1,7 @@
 [
   {
     "country": "United States",
-    "title": "LSU football",
+    "title": "LSU Football",
     "pubDate": "Sat, 09 Nov 2024 11:00:00 -0800",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcT78ruB4zwuC1D7Mab2AabtZGI87sTmg9r8gCN2_PgjtgVAoyw9ECHoYRDy2EF4kQZpaaGLHTOQ",
     "news_item_snippet": "The Bayou Bengals square off against the Tide with a chance to keep their College Football Playoff hopes alive.",
@@ -17,16 +17,16 @@
     "news_item_snippet": "Check out the scene when Ole Miss football fans tore down the goalposts at Vaught-Hemingway Stadium after Lane Kiffin&#39;s team beat Georgia.",
     "news_item_url": "https://www.clarionledger.com/story/sports/college/ole-miss/2024/11/09/ole-miss-georgia-football-goal-posts-oxford-square/76166867007/",
     "picture_source": "Ole Miss Athletics",
-    "approx_traffic": "500,000+"
+    "approx_traffic": "200,000+"
   },
   {
     "country": "United States",
     "title": "BYU Football",
     "pubDate": "Sat, 09 Nov 2024 19:00:00 -0800",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRa6oV3PN3cLwKDXMC5X0r7Ie-bPUU8A7nUNr1F2OW1tT8TaRaEMRBoA2IezS67G2GBAtwuGjfU",
-    "news_item_snippet": "The No. 9 BYU Cougars renews its rivalry with the Utah Utes as the storied programs meet as Big XII Conference members for the first time.",
-    "news_item_url": "https://kslsports.com/530437/utah-byu-football-blog-updates-analysis/",
-    "picture_source": "Salt Lake Tribune",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRhxEtzPdDqPZfTeBi-ZU10mE6sN0JUg7NgAfNuiobjL3eMIZjiTMaYvvSQWl9Wb52rTl4jfRWy",
+    "news_item_snippet": "Utah&#39;s athletic director issued a scathing rebuke of the officials after the Utes lost to the rival Cougars.",
+    "news_item_url": "https://www.sltrib.com/sports/utah-utes/2024/11/10/utah-vs-byu-football-penalty-helps/",
+    "picture_source": "ESPN",
     "approx_traffic": "200,000+"
   },
   {
@@ -51,16 +51,6 @@
   },
   {
     "country": "United States",
-    "title": "Mizzou football",
-    "pubDate": "Sat, 09 Nov 2024 18:00:00 -0800",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSLXjQjw6HaJ0vKVgRDzrsnTUDRYyKEou3YZ1jAJIN1X4tUnSx-n4EY55h9QuOI-Gm247OLw82ZKQ",
-    "news_item_snippet": "Anyone order Tiger twists and Sooner turns? You got &#39;em. Let&#39;s begin with the score: Missouri football defeated Oklahoma 30-23 on Saturday in Columbia in&nbsp;...",
-    "news_item_url": "https://www.columbiatribune.com/story/sports/college/tiger-extra/2024/11/09/missouri-football-live-score-updates-for-game-vs-oklahoma/76074440007/",
-    "picture_source": "Truman's Tales",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "United States",
     "title": "Arcane season 2",
     "pubDate": "Sat, 09 Nov 2024 10:00:00 -0800",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTV6wvTwYdX-jHMbt6G-CqqT1f721F9_yoTsy4hRw-Bt-3Zb2yos0HwO1PU4r9xdr4Az5vDMXul",
@@ -71,12 +61,22 @@
   },
   {
     "country": "United States",
-    "title": "Prospect Park fire",
-    "pubDate": "Sat, 09 Nov 2024 04:00:00 -0800",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTYSJWZHhuXMMkosbozEcl-NYnEBOF5qqaf7g6rRYzxW30ViySyi0XhZfV_eFhqRsOE0_3BnEGU",
-    "news_item_snippet": "FDNY crews in Brooklyn&#39;s Prospect Park were monitoring for hot spots after putting out a brush fire that consumed approximately two acres.",
-    "news_item_url": "https://www.cbsnews.com/newyork/news/prospect-park-brush-fire-brooklyn/",
-    "picture_source": "USA TODAY",
+    "title": "Georgia Tech football",
+    "pubDate": "Sat, 09 Nov 2024 11:00:00 -0800",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQTWpn7Y-OyKL91zVuIkdcL-SokYvzojDE6siOtaXAZrWtzjcHbG7GpwoLvGzqkId1ODIxmDg01",
+    "news_item_snippet": "Follow along for live score updates, analysis and commentary from the Miami Hurricanes vs. Georgia Tech Yellow Jackets college football game.",
+    "news_item_url": "https://www.miamiherald.com/sports/college/acc/university-of-miami/article295298579.html",
+    "picture_source": "ESPN",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Florida vs Texas",
+    "pubDate": "Sat, 09 Nov 2024 10:00:00 -0800",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSda-46hcb7XGMIrTZt36yTlZUewM1wfiblSff06nhExKOb1M0cHMYQLx6rUrAdsQwf577Nv12N",
+    "news_item_snippet": "The Florida Gators football team (4-4, 2-3 SEC) is on the road to take on the No. 5 Texas Longhorns (7-1, 3-1 SEC) at Darrell Royal K. Texas Stadium in&nbsp;...",
+    "news_item_url": "https://www.alligator.org/article/2024/11/florida-vs-no-5-texas-live-updates",
+    "picture_source": "Florida Gators",
     "approx_traffic": "100,000+"
   },
   {
@@ -91,12 +91,12 @@
   },
   {
     "country": "United States",
-    "title": "Georgia Tech football",
-    "pubDate": "Sat, 09 Nov 2024 11:00:00 -0800",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQTWpn7Y-OyKL91zVuIkdcL-SokYvzojDE6siOtaXAZrWtzjcHbG7GpwoLvGzqkId1ODIxmDg01",
-    "news_item_snippet": "Follow along for live score updates, analysis and commentary from the Miami Hurricanes vs. Georgia Tech Yellow Jackets college football game.",
-    "news_item_url": "https://www.miamiherald.com/sports/college/acc/university-of-miami/article295298579.html",
-    "picture_source": "ESPN",
+    "title": "Prospect Park fire",
+    "pubDate": "Sat, 09 Nov 2024 04:00:00 -0800",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTYSJWZHhuXMMkosbozEcl-NYnEBOF5qqaf7g6rRYzxW30ViySyi0XhZfV_eFhqRsOE0_3BnEGU",
+    "news_item_snippet": "FDNY crews in Brooklyn&#39;s Prospect Park were monitoring for hot spots after putting out a brush fire that consumed approximately two acres.",
+    "news_item_url": "https://www.cbsnews.com/newyork/news/prospect-park-brush-fire-brooklyn/",
+    "picture_source": "USA TODAY",
     "approx_traffic": "100,000+"
   },
   {
@@ -114,9 +114,19 @@
     "title": "Cleveland Cavaliers",
     "pubDate": "Sat, 09 Nov 2024 09:00:00 -0800",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTQwGUWjjvqg3q4a9brhW5tV1KdbKFy6of7JLfax4VIlZJrAPal-VIsGZjM3IT_wOS4jeioF4sF",
-    "news_item_snippet": "The Cavs bested the Nets 105-100, becoming just the 13th team in NBA history to start 11-0.",
-    "news_item_url": "https://www.cleveland.com/cavs/2024/11/cavs-outlast-nets-105-100-improving-their-unprecedented-start-to-11-0.html",
+    "news_item_snippet": "At times, Kenny Atkinson was able to experience enjoyable moments coaching the Brooklyn Nets, notably the surprising 2018-19 team that won 42 games and made&nbsp;...",
+    "news_item_url": "https://www.nba.com/game/undefined-vs-undefined-0022400199?watchFullGame",
     "picture_source": "Fear the Sword",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Mizzou football",
+    "pubDate": "Sat, 09 Nov 2024 19:00:00 -0800",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSLXjQjw6HaJ0vKVgRDzrsnTUDRYyKEou3YZ1jAJIN1X4tUnSx-n4EY55h9QuOI-Gm247OLw82ZKQ",
+    "news_item_snippet": "Anyone order Tiger twists and Sooner turns? You got &#39;em. Let&#39;s begin with the score: Missouri football defeated Oklahoma 30-23 on Saturday in Columbia in&nbsp;...",
+    "news_item_url": "https://www.columbiatribune.com/story/sports/college/tiger-extra/2024/11/09/missouri-football-live-score-updates-for-game-vs-oklahoma/76074440007/",
+    "picture_source": "Truman's Tales",
     "approx_traffic": "100,000+"
   },
   {
@@ -124,8 +134,8 @@
     "title": "Boise State football",
     "pubDate": "Sat, 09 Nov 2024 22:00:00 -0800",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSvBBYt6Foth3uK_SwKhLUV4In2azBFjU3bWwii26nS8USBegDdC9qC7HLIIsqKEPaYYfP55Wd1",
-    "news_item_snippet": "The blue artificial turf at Albertsons Stadium has become synonymous with the Broncos, to the point it&#39;s arguably the program&#39;s defining trait. Fans from across&nbsp;...",
-    "news_item_url": "https://www.usatoday.com/story/sports/ncaaf/2024/11/09/boise-state-football-field-blue-albertsons-stadium-smurf-turf/76120276007/",
+    "news_item_snippet": "Mountain West opponents face off as the No. 12 Boise State Broncos host the Nevada Wolfpack in the Week 11 evening slate.",
+    "news_item_url": "https://www.oregonlive.com/collegefootball/2024/11/where-to-watch-boise-state-broncos-vs-nevada-football-streaming-free-today-tv-channel-spread-game-odds.html",
     "picture_source": "oregonlive.com",
     "approx_traffic": "50,000+"
   },
@@ -171,16 +181,6 @@
   },
   {
     "country": "United States",
-    "title": "Rutgers football",
-    "pubDate": "Sat, 09 Nov 2024 11:00:00 -0800",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQIdhPNueKz64U8fYiInZqp8AiqU8SkTecXZh8CN7Zwt6TTCcSqUzI2y7RCCzJpa4AG1MDjdKRH",
-    "news_item_snippet": "Expert recap and game analysis of the Rutgers Scarlet Knights vs. Minnesota Golden Gophers NCAAF game from November 9, 2024 on ESPN.",
-    "news_item_url": "https://www.espn.com/college-football/recap?gameId=401628544",
-    "picture_source": "Asbury Park Press",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
     "title": "Maryland vs Oregon",
     "pubDate": "Sat, 09 Nov 2024 17:00:00 -0800",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQFFPFskDbwVn7o0NEr-q6Z8u-6kAmfEkbC4_EdkiRFAEPZNTmiqypWk8S58d6uxm0i5Kq_Fmhc",
@@ -198,6 +198,16 @@
     "news_item_url": "https://www.hindutamil.in/news/cinema/tamil-cinema/1337907-actor-delhi-ganesh-passed-away.html",
     "picture_source": "The Economic Times",
     "approx_traffic": "50,000+"
+  },
+  {
+    "country": "India",
+    "title": "New Zealand vs Sri Lanka",
+    "pubDate": "Sat, 09 Nov 2024 19:30:00 +0530",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQ6svyt-A84nXSM12Pb0t_G5YcyGWTRwZS5E7Fl0kHkM_f3f4bYFD1Oyl3BFnpKywUfqQb-0Qei",
+    "news_item_snippet": "Sri Lanka vs New Zealand Live Score: First Innings New Zealand Score - 135/10 in 19.3 overs. New Zealand batting performance. Zakary Foulkes 27(16)",
+    "news_item_url": "https://www.hindustantimes.com/cricket/sri-lanka-vs-new-zealand-live-score-1st-t20i-of-new-zealand-tour-of-sri-lanka-2024-final-updates-today-09-nov-2024-101731155755994.html",
+    "picture_source": "NDTVSports.com",
+    "approx_traffic": "500,000+"
   },
   {
     "country": "India",
@@ -233,10 +243,10 @@
     "country": "India",
     "title": "New Dzire",
     "pubDate": "Sat, 09 Nov 2024 09:30:00 +0530",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQth1jQDajc6x65_HdOwcvwPxAb2HczUGxOUZa5p23ODvBQpnGIDkJgCT85FWPYMP93NOzrtYBc",
-    "news_item_snippet": "Maruti Suzuki is all set to launch the new-gen Dzire in the country tomorrow, 11 November, 2024.",
-    "news_item_url": "https://www.carwale.com/news/new-maruti-dzire-to-be-launched-in-india-tomorrow/",
-    "picture_source": "Global NCAP",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQQxsau_uXs3FCiUsso7uitPcxzKlyz-OOrer_XBKrE2B3EvV22lCd3yvtcO9T17FVc3wy9FKbq",
+    "news_item_snippet": "Fitted with six airbags, Electronic Stability Control and pedestrian protection as standard, the new Dzire is the first Maruti Suzuki to achieve a five star&nbsp;...",
+    "news_item_url": "https://www.globalncap.org/news/new-dzire-from-maruti-suzuki-achieves-five-star-rating-in-global-ncap-voluntary-test",
+    "picture_source": "CarWale",
     "approx_traffic": "50,000+"
   },
   {
@@ -247,13 +257,13 @@
     "news_item_snippet": "It is expected to rain before the second T20I, and also during the second innings in Port Elizabeth. | Crickit.",
     "news_item_url": "https://www.hindustantimes.com/cricket/india-vs-south-africa-2nd-t20i-weather-report-rain-expected-to-strike-in-port-elizabeth-during-ind-vs-sa-101731203351934.html",
     "picture_source": "Sportstar",
-    "approx_traffic": "2,000,000+"
+    "approx_traffic": "5,000,000+"
   },
   {
     "country": "India",
     "title": "South Africa vs India",
     "pubDate": "Fri, 08 Nov 2024 16:30:00 +0530",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSO2Y7Phs-9TNbVDCoZKd8wQp6WWZ0CPuBSPEJXAtNW7-LMJ_MigliFPkTC6plWoDRzlEBuIRqQ",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQYWwiJ_0FyiALPHzHlt4sgC-7VQXjicfvo8IQBkbxpemc-0bmi1JZS5s-Lbb3Nij_3Iopfuxzr",
     "news_item_snippet": "Sanju Samson shines, India seeks top-order stability against South Africa in second T20I clash on November 10, 2024.",
     "news_item_url": "https://www.thehindu.com/sport/cricket/india-vs-south-africa-second-twenty20-international/article68848627.ece",
     "picture_source": "Business Standard",
@@ -281,7 +291,17 @@
   },
   {
     "country": "India",
-    "title": "Abhishek Sharma",
+    "title": "Indian",
+    "pubDate": "Fri, 08 Nov 2024 17:30:00 +0530",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTCQ0_iRxHGXfA6oorgcQzL6IX6Xp5vQckEJinLolOKervIUZHL9PUSJWEI1tv7aveRoBYg0dBG",
+    "news_item_snippet": "Turkish Airlines is partnering with India to double weekly direct flights from 14 to accommodate the surge in Indian tourists.",
+    "news_item_url": "https://m.economictimes.com/industry/transportation/airlines-/-aviation/turkish-airlines-aims-for-bigger-pie-of-indian-skies/articleshow/115122315.cms",
+    "picture_source": "Livemint",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "India",
+    "title": "Abhishek sharma",
     "pubDate": "Fri, 08 Nov 2024 20:30:00 +0530",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSrWyaJY_YLbtBXJtL8WSKxYRaLN64AkMsHWOWLrUmfEcJYOEb1AQjIgM7Hn3UM6fVG8jW0sQE7",
     "news_item_snippet": "Abhishek Sharma has once again disappointed. He is failing to cement his place in the Indian team as the opener and successor to Rohit Sharma.",
@@ -290,23 +310,13 @@
     "approx_traffic": "50,000+"
   },
   {
-    "country": "India",
-    "title": "The Buckingham Murders",
-    "pubDate": "Fri, 08 Nov 2024 12:30:00 +0530",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQIxu7zavjBaXfZDtJ1zpc6HheuwPkl76er-OwQkuSPsQR3VU8YcyCsM3K_KXgf2v4RihgMyp6u",
-    "news_item_snippet": "\u0c21\u0c3f\u0c1f\u0c46\u0c15\u0c4d\u0c1f\u0c3f\u0c35\u0c4d\u200c\u0c17\u0c3e \u0c15\u0c30\u0c40\u0c28\u0c3e \u0c15\u0c2a\u0c42\u0c30\u0c4d\u200c \u0c28\u0c1f\u0c3f\u0c02\u0c1a\u0c3f\u0c28 \u0c1a\u0c3f\u0c24\u0c4d\u0c30\u0c02 &#39;\u0c26\u0c3f \u0c2c\u0c15\u0c3f\u0c02\u0c17\u0c4d\u200c\u0c39\u0c3e\u0c2e\u0c4d\u200c \u0c2e\u0c30\u0c4d\u0c21\u0c30\u0c4d\u0c38\u0c4d\u200c&#39;. \u0c13\u0c1f\u0c40\u0c1f\u0c40 &#39;\u0c28\u0c46\u0c1f\u0c4d\u200c\u0c2b\u0c4d\u0c32\u0c3f\u0c15\u0c4d\u0c38\u0c4d\u200c&#39;\u0c32\u0c4b \u0c38\u0c4d\u0c1f\u0c4d\u0c30\u0c40\u0c2e\u0c3f\u0c02\u0c17\u0c4d\u200c \u0c05\u0c35\u0c41\u0c24\u0c4b\u0c02\u0c26\u0c3f. \u0c39\u0c28\u0c4d\u0c38\u0c32\u0c4d\u200c \u0c2e\u0c46\u0c39\u0c24\u0c3e \u0c26\u0c30\u0c4d\u0c36\u0c15\u0c24\u0c4d\u0c35\u0c02\u0c32\u0c4b&nbsp;...",
-    "news_item_url": "https://www.eenadu.net/telugu-news/movies/the-buckingham-murders-review-starring-kareena-kapoor-khan/0203/124201289",
-    "picture_source": "\u0c08\u0c28\u0c3e\u0c21\u0c41",
-    "approx_traffic": "50,000+"
-  },
-  {
     "country": "Argentina",
     "title": "Hurac\u00e1n  Independiente",
     "pubDate": "Sat, 09 Nov 2024 21:00:00 -0300",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRc-Yq0EFeoQjBcAilECq1bNkIBmDuiLVngWJIfjqbpYA-aSpiOE8stbOIhdieDpgcGrev7NE6c",
-    "news_item_snippet": "Venci\u00f3 por 1-0 en su estadio con el gol de Mazzanti y le volvi\u00f3 a meter presi\u00f3n al l\u00edder de la Liga Profesional, al que igual\u00f3 en las posiciones&nbsp;...",
-    "news_item_url": "https://www.lanacion.com.ar/deportes/futbol/huracan-fue-oportuno-golpeo-a-independiente-y-no-le-da-respiro-a-velez-nid09112024/",
-    "picture_source": "Infobae.com",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQI7TvA4suxd6ZCu1uu1XUq4b4amJvioI3o61N9DvcFiQuLeoNr-1n6n_9wjEajUd7BLTaWiFYZ",
+    "news_item_snippet": "Con gol de Walter Mazzanti, el Globo obtuvo una victoria clave ante el Rojo y se ilusiona con el t\u00edtulo.",
+    "news_item_url": "https://www.infobae.com/deportes/2024/11/09/independiente-y-huracan-chocan-en-un-cruce-decisivo-por-el-torneo-y-la-clasificacion-a-las-copas-hora-tv-y-formaciones/",
+    "picture_source": "canchallena.com",
     "approx_traffic": "100,000+"
   },
   {
@@ -333,10 +343,10 @@
     "country": "Argentina",
     "title": "Inter Miami  Atlanta United",
     "pubDate": "Sat, 09 Nov 2024 22:00:00 -0300",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQd1-3Ud8HL7FPKg2dt2CqgAnmtWJDw_QEiD_mtpSAcdsHg4seswqGWwZn_MwHBq6Ok3OWfz9Lo",
-    "news_item_snippet": "La Pulga anot\u00f3 uno de los tantos de las Garzas, pero no alcanz\u00f3 para evitar la ca\u00edda en el Chase Stadium. Su rival se medir\u00e1 a Orlando City en las&nbsp;...",
-    "news_item_url": "https://www.infobae.com/deportes/2024/11/09/el-inter-miami-de-messi-va-por-un-triunfo-ante-atlanta-united-que-lo-clasifique-a-las-semifinales-de-la-conferencia-este-hora-tv-y-formaciones/",
-    "picture_source": "TNT Sports",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSakx3BX73N99QUhzJrGwkhVwLVHiSYMyVO-xy2VRYLD3EGXa6oa71kzmV4cR70-2TQiJpRfT-y",
+    "news_item_snippet": "Por el tercer partido de la MLS Cup, Inter Miami choca contra Atlanta United y busca el pasaje a la siguiente fase.",
+    "news_item_url": "https://tntsports.com.ar/internacional/en-vivo-inter-miami-atlanta-united-mls-20241109-0040.html",
+    "picture_source": "Infobae.com",
     "approx_traffic": "50,000+"
   },
   {
@@ -344,9 +354,19 @@
     "title": "Gimnasia  Newell's",
     "pubDate": "Sat, 09 Nov 2024 17:00:00 -0300",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTA-2BQaGQl-Tjy6Y-aimefhf4zQt8HdXvV0FNwrPUEFLzu_Xqoa2ba4zH6O0orpnXOKbFbc2VL",
-    "news_item_snippet": "Un grupo de personas se tom\u00f3 a golpes de pu\u00f1os y una termin\u00f3 en el hospital con una convulsi\u00f3n. El problema estar\u00eda originado en una interna por la UOCRA:",
-    "news_item_url": "https://www.tycsports.com/liga-profesional-de-futbol/violento-enfrentamiento-entre-hinchas-de-gimnasia-en-el-partido-ante-newells-id618275.html",
+    "news_item_snippet": "El equipo de Lunari cay\u00f3 ante Gimnasia con un gol en los primeros minutos. Nada pudo hacer la Lepra para lograr el empate. El equipo corri\u00f3 mucho pero nadie&nbsp;...",
+    "news_item_url": "https://www.pagina12.com.ar/781512-newells-solo-suma-derrotas",
     "picture_source": "TyC Sports",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Australia",
+    "title": "Australia vs Tonga",
+    "pubDate": "Sat, 09 Nov 2024 15:00:00 +1100",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTlgW1b_M-tE-6Mqjk9nWlHY0jHbWRfHg2zXQQIiV4dTw3uhJHtkxHblLkjp9v8vjPJL1v2ufQo",
+    "news_item_snippet": "The Kangaroos have won the Pacific Cup for the first time after surviving a late scare from a fast-finishing Tongan side to claim Sunday&#39;s final in Sydney&nbsp;...",
+    "news_item_url": "https://www.nrl.com/news/2024/11/10/kangaroos-hold-off-tonga-to-claim-pacific-cup-title/",
+    "picture_source": "Fox Sports",
     "approx_traffic": "50,000+"
   },
   {
@@ -493,10 +513,10 @@
     "country": "Canada",
     "title": "Oilers",
     "pubDate": "Sat, 09 Nov 2024 23:00:00 -0500",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRvQfGSfEog5RuTfS9PYfaF2fgK5bd9fcD8sLpCyISXJMA2Wh-74CvvVN8iJf5lRzPWv4wwV5Y7",
-    "news_item_snippet": "Connor McDavid scored and notched a pair of assists as the Edmonton Oilers trounced the Vancouver Canucks 7-3 on Saturday.",
-    "news_item_url": "https://www.sportsnet.ca/nhl/article/mcdavid-puts-up-three-points-oilers-rout-listless-canucks/",
-    "picture_source": "Edmonton Journal",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSgWZUDhknpt6FpBSotLb4seq2NO567OoIFfj4bNAfySbjcU-wdhjvA686fZt-rclvlx-YRAvOS",
+    "news_item_snippet": "The visiting Oilers destroyed the Canucks in their own building Saturday coasting to a 7-3 slap in the face.",
+    "news_item_url": "https://edmontonjournal.com/sports/hockey/nhl/edmonton-oilers-vancouver-canucks-7-3",
+    "picture_source": "Globalnews.ca",
     "approx_traffic": "50,000+"
   },
   {
@@ -541,32 +561,42 @@
   },
   {
     "country": "France",
-    "title": "Real Madrid \u2013 Osasuna",
-    "pubDate": "Sat, 09 Nov 2024 14:00:00 +0100",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcR0w3aPqtn8h6RDS7j3Nz0UdumBjpQEzMPQAZDaLkCj1iI0vSMHd-KeggMcQ7ewKTNJe_V08LGx",
-    "news_item_snippet": "Malgr\u00e9 une cascade de blessures en premi\u00e8re p\u00e9riode, les Madril\u00e8nes ont \u00e9trill\u00e9 Osasuna (4-0), ce samedi pour la 13e journ\u00e9e de Liga.",
-    "news_item_url": "https://www.lequipe.fr/Football/Actualites/Le-real-madrid-cartonne-face-a-osasuna-en-liga-triple-pour-vinicius/1519307",
-    "picture_source": "BFMTV.COM",
+    "title": "France-Japon",
+    "pubDate": "Sat, 09 Nov 2024 01:00:00 +0100",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcT-EIRquCoRaqcxe5vKYVtR7H99r8YATqThWJkBX46Ctf4xUtH1PQwuUfMPATBVwR5_EeUI35jY",
+    "news_item_snippet": "Bonsoir et bienvenue sur Rugbyrama pour revivre le direct comment\u00e9 de la rencontre entre la France et le Japon. Un match qui compte pour l&#39;Automn Nation&nbsp;...",
+    "news_item_url": "https://www.rugbyrama.fr/2024/11/09/direct-france-japon-suivez-le-retour-du-xv-de-france-et-dantoine-dupont-face-aux-japonais-12313538.php",
+    "picture_source": "Eurosport.fr",
     "approx_traffic": "200,000+"
   },
   {
     "country": "France",
-    "title": "France-Japon",
-    "pubDate": "Sat, 09 Nov 2024 01:00:00 +0100",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSGmzOtllfjkSjRi5wFH7fSBMJZB9EqinMcm0viSPHWv_acx9FUCCczJAR7Wb9M0gv6C5PrYA1l",
-    "news_item_snippet": "Le XV de France a fait sa rentr\u00e9e avec une prestation r\u00e9ussie contre le Japon (52-12) pour le premier match des Autumn Nations Series samedi au Stade de&nbsp;...",
-    "news_item_url": "https://www.eurosport.fr/rugby/test-match/2024/lantiseche-de-france-japon-52-12-pas-encore-une-revolution-mais-ces-bleus-ont-plus-dallure_sto20052763/story.shtml",
-    "picture_source": "Rugbyrama.fr",
+    "title": "Real Madrid \u2013 Osasuna",
+    "pubDate": "Sat, 09 Nov 2024 14:00:00 +0100",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRNF5jz4GS3wojy72OO1kymg336-z5_Sa5xte5XqzXHiUj7ZefKpTJuksFb07vSlRTtMuEOVvLv",
+    "news_item_snippet": "Retrouvez toute l&#39;actualit\u00e9 du Championnat d&#39;Espagne de football: derni\u00e8res infos, interviews, vid\u00e9os des plus beaux buts, buteurs, passeurs calendrier et&nbsp;...",
+    "news_item_url": "https://rmcsport.bfmtv.com/football/liga/direct-real-madrid-osasuna-suivez-le-match-de-la-13e-journee-de-liga-avec-kylian-mbappe-en-live_LS-202411090167.html",
+    "picture_source": "L'\u00c9quipe.fr",
     "approx_traffic": "200,000+"
   },
   {
     "country": "France",
     "title": "PSG Angers",
     "pubDate": "Sat, 09 Nov 2024 21:00:00 +0100",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQQgTrnSTyyoZWNUmNTk4U5E0PRQeLAn1CHMIkIPcIgMVFL9FqkBj0Cw9Jv1peIFrUpWu8fM19K",
-    "news_item_snippet": "M\u00eame si Luis Enrique proc\u00e8de \u00e0 un large turn-over, cela ne change rien au sort de Randal Kolo Muani qui d\u00e9marrera, une fois de plus, sur le banc. Sa derni\u00e8re&nbsp;...",
-    "news_item_url": "https://www.leparisien.fr/sports/football/ligue-1/angers-psg-la-compo-officielle-avec-skriniar-barcola-et-mayulu-titulaires-kolo-muani-encore-sur-le-banc-09-11-2024-KNHCWG6G2NGELOG2P2UT3R66BI.php",
-    "picture_source": "BFMTV.COM",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSZE03Ar8L_9rojPT7R3nA72ybuXstk0YguzbGoubs2nOjgE5WNU0NFcRuqJ7nU28rRhq2LVCl0",
+    "news_item_snippet": "Battu par l&#39;Atl\u00e9tico en Ligue des champions cette semaine, le PSG s&#39;est rassur\u00e9 en s&#39;imposant tranquillement \u00e0 Angers ce samedi (2-4).",
+    "news_item_url": "https://rmcsport.bfmtv.com/football/ligue-1/direct-angers-psg-suivez-le-match-de-la-11e-journee-de-ligue-1-en-live_LS-202411090179.html",
+    "picture_source": "Le Parisien",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "France",
+    "title": "Real Madrid",
+    "pubDate": "Sat, 09 Nov 2024 15:00:00 +0100",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSO5zotaK53bxZM9Q-zGhK72e9kKhyedhbM420oFlEShU0ew5XM1yPsTwe5Q_ubGa5rCpCqtZSH",
+    "news_item_snippet": "Malgr\u00e9 une cascade de blessures en premi\u00e8re p\u00e9riode, les Madril\u00e8nes ont \u00e9trill\u00e9 Osasuna (4-0), ce samedi pour la 13e journ\u00e9e de Liga.",
+    "news_item_url": "https://www.lequipe.fr/Football/Actualites/Le-real-madrid-cartonne-face-a-osasuna-en-liga-triple-pour-vinicius/1519307",
+    "picture_source": "Ouest-France",
     "approx_traffic": "100,000+"
   },
   {
@@ -583,10 +613,30 @@
     "country": "France",
     "title": "Star Academy",
     "pubDate": "Sat, 09 Nov 2024 01:00:00 +0100",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSKCvLOP8CT319JpcJTXDf-QXMPgwOVPl4olwmpxx6iLcYMNxVkQs6tNRI0Q_8So9Z3KoZmssaC",
-    "news_item_snippet": "[VID\u00c9O] \u00c9mission \u25b6\ufe0f 34m58s - La quotidienne du jour est l&#39;occasion de revenir sur le prime qui s&#39;est d\u00e9roul\u00e9 exceptionnellement vendredi.",
-    "news_item_url": "https://www.tf1.fr/tf1/star-academy/videos/star-academy-2024-quotidienne-du-9-novembre-2024-27428878.html",
-    "picture_source": "Europe1",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTpmVBfTliMC-yfrBLIUXAByZgCiqAyBwrnfUu-r_UP7LI663pCuvikVl-zbL0WpcCEAcIdzaZ0",
+    "news_item_snippet": "Le cinqui\u00e8me prime de la &quot;Star Academy&quot; est exceptionnellement diffus\u00e9 ce vendredi soir et non pas samedi, comme c&#39;est normalement le cas.",
+    "news_item_url": "https://www.europe1.fr/medias-tele/star-academy-pourquoi-le-prime-est-il-exceptionnellement-diffuse-ce-vendredi-soir-4277833",
+    "picture_source": "TF1",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "France",
+    "title": "Vendee Globe",
+    "pubDate": "Sat, 09 Nov 2024 11:00:00 +0100",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQ_GBn930hmZ3RrabPQIvN34j-cs60z_pfzvf5cHK2BEQEbbO27gZD3OsYiEeYMqVxetQJ4AVJ9",
+    "news_item_snippet": "Le coup d&#39;envoi du Vend\u00e9e Globe 2024 est donn\u00e9 ce dimanche 10 novembre \u00e0 13h02, avec 40 skippers engag\u00e9s, un record. Pour vivre cet \u00e9v\u00e9nement exceptionnel,&nbsp;...",
+    "news_item_url": "https://france3-regions.francetvinfo.fr/pays-de-la-loire/vendee/sables-olonne-0/vendee-globe-2024-vivez-en-direct-la-descente-du-chenal-des-skippers-et-le-top-depart-de-cette-10e-edition-3055015.html",
+    "picture_source": "Ouest-France",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Germany",
+    "title": "DSDS",
+    "pubDate": "Sun, 10 Nov 2024 03:00:00 +0100",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRaLRhT5aeohUthaIopt8_4OdbhZATJ8tfZNTRRKsiMeQvvy-VJP6IlMOJuGEKHhQ9host3TofH",
+    "news_item_snippet": "Der Gewinner der diesj\u00e4hrigen Staffel von DSDS steht fest. Kurz nach Ausstrahlung des Finales macht die Nachricht die Runde.",
+    "news_item_url": "https://www.derwesten.de/panorama/promi-tv/dsds-2024-finale-gewinner-pietro-quote-id301211336.html",
+    "picture_source": "Augsburger Allgemeine",
     "approx_traffic": "50,000+"
   },
   {
@@ -604,8 +654,8 @@
     "title": "Mainz Dortmund",
     "pubDate": "Sat, 09 Nov 2024 15:00:00 +0100",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQRjGB8amvce037t1dDGNk3OeCL0lZWlXD2aUgOI64mFn8Cwdm9sCPfn-VtACYnRpx8vuIVHI9Z",
-    "news_item_snippet": "Liveticker mit allen Spielereignissen, Toren und Statistiken zum Spiel 1. FSV Mainz 05 - Borussia Dortmund.",
-    "news_item_url": "https://www.kicker.de/mainz-gegen-dortmund-2024-bundesliga-4936871/ticker",
+    "news_item_snippet": "Nuri Sahin ist der Nachfolger von Edin Terzic als Trainer von Borussia Dortmund. Der ehemalige t\u00fcrkische Nationalspieler ist ein BVB-Urgestein.",
+    "news_item_url": "https://www.derwesten.de/sport/fussball/bvb/mainz-borussia-dortmund-bvb-kader-ryerson-erloesung-id301210144.html",
     "picture_source": "Sportschau",
     "approx_traffic": "100,000+"
   },
@@ -701,23 +751,13 @@
   },
   {
     "country": "Italy",
-    "title": "Real Madrid  Osasuna",
+    "title": "REAL MADRID-OSASUNA",
     "pubDate": "Sat, 09 Nov 2024 14:00:00 +0100",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTrUQKw33tMtfmuTV3bnJaq267X9mWjdr-k19k7y72VNC5I5XXsfzCbM_kPoyQeeTvvHfv2-gbx",
     "news_item_snippet": "I blancos ok dopo la sconfitta col Milan: al Bernabeu travolto 4-0 l&#39;Osasuna in serie positiva, col primo gol stagionale dell&#39;inglese.",
     "news_item_url": "https://www.gazzetta.it/Calcio/Liga/09-11-2024/real-madrid-osasuna-4-0-gol-di-bellingham-e-tripletta-vinicius-ko-rodrygo-e-militao.shtml",
     "picture_source": "Sky Sport",
     "approx_traffic": "100,000+"
-  },
-  {
-    "country": "Italy",
-    "title": "Alessandro Del Piero mamma",
-    "pubDate": "Sat, 09 Nov 2024 00:00:00 +0100",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQALnIdad6S9Rzidy6aMNlF8s6CGZ7QNdX0qSDw0s9x8OYv7h-2emg7kg7WjilZ1qDzOBuTg9XR",
-    "news_item_snippet": "Bruna Furlan: \u00abMai esagerato coi complimenti ma ora lo dico che \u00e8 un bravo figlio. Il momento pi\u00f9 brutto? L&#39;infortunio a Udine, nel 1998 poteva finire la&nbsp;...",
-    "news_item_url": "https://corrieredelveneto.corriere.it/notizie/treviso/sport/24_novembre_08/alessandro-del-piero-compie-50-anni-la-mamma-un-regalo-non-posso-compragli-vestiti-gli-preparero-il-pasticcio-b8773019-8027-4397-a697-bf7208a6cxlk.shtml",
-    "picture_source": "Il Mattino",
-    "approx_traffic": "50,000+"
   },
   {
     "country": "Mexico",
@@ -738,16 +778,6 @@
     "news_item_url": "https://elpais.com/deportes/futbol/2024-11-09/real-madrid-osasuna-en-directo-partido-de-la-liga-en-vivo.html",
     "picture_source": "TUDN",
     "approx_traffic": "200,000+"
-  },
-  {
-    "country": "Mexico",
-    "title": "Ernestina Sodi",
-    "pubDate": "Sat, 09 Nov 2024 08:00:00 -0600",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcS2L8K5vZaI6vjT0hmEKSWevzYY_KK1oxpe-judlYDTb4VrmqJ3JxTcsU_ONfMATyHSAqWxQuPj",
-    "news_item_snippet": "Camila Sodi confirm\u00f3 la muerte de su mam\u00e1, Ernestina Sodi, quien pas\u00f3 semanas hospitalizada por complicaciones cardiovasculares derivadas de dos infartos.",
-    "news_item_url": "https://www.elfinanciero.com.mx/espectaculos/2024/11/09/muere-ernestina-sodi-hermana-de-thalia-y-laura-zapata-quien-era-que-le-paso/",
-    "picture_source": "Infobae.com",
-    "approx_traffic": "100,000+"
   },
   {
     "country": "Mexico",
@@ -784,8 +814,8 @@
     "title": "Inter Miami - Atlanta United",
     "pubDate": "Sat, 09 Nov 2024 19:00:00 -0600",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcS8UmL2i4giWurHdRKwkSXNcALjRDUU350Y8bB1jGe6xIVGlyXvw-VvB7x-a3xd9l6rFiWHQM7G",
-    "news_item_snippet": "Jamal Thiar\u00e9 anot\u00f3 dos veces, un cabezazo de Bartosz Slisz a los 76 minutos signific\u00f3 el gol de la victoria, y el visitante Atlanta United super\u00f3 el s\u00e1bado&nbsp;...",
-    "news_item_url": "https://www.proceso.com.mx/deportes/2024/11/9/messi-inter-miami-se-estrellan-en-playoffs-de-la-mls-al-caer-3-2-ante-atlanta-united-340083.html",
+    "news_item_snippet": "La Pulga anot\u00f3 uno de los tantos de las Garzas, pero no alcanz\u00f3 para evitar la ca\u00edda en el Chase Stadium. Su rival se medir\u00e1 a Orlando City en las&nbsp;...",
+    "news_item_url": "https://www.infobae.com/deportes/2024/11/09/el-inter-miami-de-messi-va-por-un-triunfo-ante-atlanta-united-que-lo-clasifique-a-las-semifinales-de-la-conferencia-este-hora-tv-y-formaciones/",
     "picture_source": "MARCA.com",
     "approx_traffic": "50,000+"
   },
