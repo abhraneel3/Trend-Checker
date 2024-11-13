@@ -1,16 +1,6 @@
 [
   {
     "country": "United States",
-    "title": "Warriors",
-    "pubDate": "Tue, 12 Nov 2024 17:00:00 -0800",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRAgX8yH3d1g-i55FLH3gE5CCyVA-ZCDYYQP88lrZ3jdhNHC6_XIDXXwE0sP35HMnbV6POUslMq",
-    "news_item_snippet": "Klay Thompson&#39;s return to the Bay turned into an instant classic, with Steph Curry leading a rally to earn a 120-117 Warriors victory over the Mavericks.",
-    "news_item_url": "https://www.nytimes.com/athletic/live-blogs/mavericks-vs-warriors-live-updates-klay-thompson/MeU9FBKpzrKT/",
-    "picture_source": "Warriors.com",
-    "approx_traffic": "500,000+"
-  },
-  {
-    "country": "United States",
     "title": "Kristi Noem",
     "pubDate": "Tue, 12 Nov 2024 04:00:00 -0800",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcT8RGn9gq0eMldQ7lZwF_LMj6k9tll_0xkXqgzD1nDW9QIz-RTk2lvEnqbvztdMkgebX9R4z-Lu",
@@ -21,22 +11,32 @@
   },
   {
     "country": "United States",
+    "title": "Knicks",
+    "pubDate": "Tue, 12 Nov 2024 20:00:00 -0800",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTD0TRkmGC3IoOUcSK-m6O8tfqPVYN7rUERUlM3Fx2KKHaAV1WWhaj_-OeN-Ejcr8ojx4UnMPVN",
+    "news_item_snippet": "OG Anunoby scored 24 points and the New York Knicks spoiled 76ers star Joel Embiid&#39;s season debut, beating Philadelphia 109-99.",
+    "news_item_url": "https://6abc.com/post/joel-embiid-set-make-76ers-season-debut-knicks-wells-fargo-center/15541025/",
+    "picture_source": "NBA.com",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Kyle Singler",
+    "pubDate": "Tue, 12 Nov 2024 13:00:00 -0800",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQZ94aByq0tapk9cbWv3MZNDMKwz3UT0WCG0LUfOjwtYwjLVpnjDTiZqzEbLYsIPVlUYKVvzE_N",
+    "news_item_snippet": "During the first post, a shirtless Singler said, &quot;I have been mistreated and abused, neglected, made into a mental example. And I fear for my life every day.",
+    "news_item_url": "https://www.si.com/nba/kevin-love-kyle-singler-concerning-cryptic-instagram-posts",
+    "picture_source": "NBC 10 Philadelphia",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United States",
     "title": "Duke basketball",
     "pubDate": "Tue, 12 Nov 2024 19:00:00 -0800",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTDVQnpLq7lK2pP8exMTgCYWDhH0M1He-12krR4m86WGIvDTwQd7p-tt60iw2oe_J1mkeW-cErr",
     "news_item_snippet": "No. 18 Kentucky picked up an early signature win over No. 6 Duke in the Champions Classic Tuesday. Follow for a recap of scores, highlights and more:",
     "news_item_url": "https://www.usatoday.com/story/sports/ncaab/2024/11/12/duke-kentucky-game-live-updates-college-basketball-champions-classic-game/76212489007/",
     "picture_source": "GoDuke.com",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Kyle Singler",
-    "pubDate": "Tue, 12 Nov 2024 13:00:00 -0800",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQmnBwYhDZdUSS3hG-vPGgonpm4QPYhM2vsPtBflA3t-82vNdqFBN9YEjBbaONpSqzhKAbHlFoq",
-    "news_item_snippet": "During the first post, a shirtless Singler said, &quot;I have been mistreated and abused, neglected, made into a mental example. And I fear for my life every day.",
-    "news_item_url": "https://www.si.com/nba/kevin-love-kyle-singler-concerning-cryptic-instagram-posts",
-    "picture_source": "ESPN",
     "approx_traffic": "100,000+"
   },
   {
@@ -61,6 +61,16 @@
   },
   {
     "country": "United States",
+    "title": "Celtics",
+    "pubDate": "Tue, 12 Nov 2024 20:00:00 -0800",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRlucvmfKjeIq2FdSBfCuJ5sRcLyFSAVktfW6w0hYFJ3UsqEkBJ-hivjCBwbx2XVCt4lWOO2YrD",
+    "news_item_snippet": "The Celtics blew a 15-point second half lead at home to the shorthanded Hawks in the loss.",
+    "news_item_url": "https://www.masslive.com/celtics/2024/11/4-takeaways-as-celtics-lose-to-hawks-in-stunning-nba-cup-upset.html",
+    "picture_source": "Fear the Sword",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United States",
     "title": "Skai Jackson",
     "pubDate": "Tue, 12 Nov 2024 12:00:00 -0800",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcR-QBwbkPzJWs78_WDpUd6ExgI5IIY5pzj-RHLvM5x772qh2N6PNBuoiSOz63Hii3TlmgwVb7qg",
@@ -71,23 +81,23 @@
   },
   {
     "country": "United States",
-    "title": "Mike Huckabee",
-    "pubDate": "Tue, 12 Nov 2024 12:00:00 -0800",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRZQvkmHEaSBya8HL8BmXvoYASWKKcSt8N_J5lRRIXSlvvTpjYDF-HtKxE-s0NqwrwudEBQGWdA",
-    "news_item_snippet": "President-elect Donald Trump announced Tuesday that he has nominated former Arkansas Gov. Mike Huckabee to serve as United States ambassador to Israel.",
-    "news_item_url": "https://www.cnn.com/2024/11/12/politics/mike-huckabee-israel/index.html",
-    "picture_source": "Spectrum News NY1",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
     "title": "Dancing with the Stars",
     "pubDate": "Tue, 12 Nov 2024 18:00:00 -0800",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTRqOkvW3Gz-IpC6x0MhLTX2bDWIjD92vddbSh8BMYyhF9gRzfPi95N1NMPqegsAmMl5yhrmwsz",
     "news_item_snippet": "The semi-finalists were revealed during the 500th episode of &#39;Dancing With the Stars.&#39;",
     "news_item_url": "https://variety.com/2024/tv/news/dancing-with-the-stars-dwight-howard-eliminated-semi-finalists-revealed-500-1236208571/",
     "picture_source": "KFSN-TV",
-    "approx_traffic": "50,000+"
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Mike Huckabee",
+    "pubDate": "Tue, 12 Nov 2024 12:00:00 -0800",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRdPeGP_8iAASecCXbnoHP6ZqIsRP0FPpPaugXThX56Sbi-yIWXTZojIgwb-hyY5fffXdF8WTxY",
+    "news_item_snippet": "Huckabee is a supporter of Israeli annexation of the West Bank and a longtime leader in the evangelical Christian wing of the Republican Party.",
+    "news_item_url": "https://ny1.com/nyc/all-boroughs/politics/2024/11/12/trump-israel-gaza-mike-huckabee-ambassador",
+    "picture_source": "CNN",
+    "approx_traffic": "100,000+"
   },
   {
     "country": "United States",
@@ -124,8 +134,8 @@
     "title": "Miami Heat",
     "pubDate": "Tue, 12 Nov 2024 20:00:00 -0800",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcT9ywVGC0PJ54X5u6HYmHmamI18X6A0MpsIztbB60oz21wPlMEdDOjqzPd4AlDSdpTZuDrTofzM",
-    "news_item_snippet": "Malik Beasley made a tiebreaking free throw with 1.1 seconds left in overtime after Miami was given a technical foul for calling a timeout when it had none&nbsp;...",
-    "news_item_url": "https://www.cbsnews.com/miami/news/pistons-win-first-nba-cup-game-after-heat-call-phantom-timeout-in-ot/",
+    "news_item_snippet": "Miami Heat head coach Erik Spoelstra admitted that his own \u201chorrendous mistake\u201d cost the team in its 123-121 defeat to the Detroit Pistons in the NBA Cup on&nbsp;...",
+    "news_item_url": "https://www.cnn.com/2024/11/13/sport/miami-heat-erik-spoelstra-time-out-error-detroit-pistons-spt-intl/index.html",
     "picture_source": "Sports Illustrated",
     "approx_traffic": "50,000+"
   },
@@ -153,10 +163,20 @@
     "country": "United States",
     "title": "Shane Waldron",
     "pubDate": "Tue, 12 Nov 2024 08:00:00 -0800",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTnlFvbRr4yLtNYO5FNrcds6EVAjLY1phoHlaEANQXnyHNGr1jdRNfa5dOHakBRfgOeu8E_Ga3S",
-    "news_item_snippet": "Bears fire OC WaldronThis move comes just a few days after the team&#39;s third loss in a row. CHICAGO (WLS) --&nbsp;...",
-    "news_item_url": "https://abc7chicago.com/post/chicago-bears-fire-offensive-coordinator-shane-waldron-espn-reports/15540326/",
-    "picture_source": "ESPN",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRW-Yn_Ldzcou01UsmgUJOkObrqAMyHUU4oAjJ8fmb5jxvLt3BA-81aMamCADtQOJr2Wf5K1Aws",
+    "news_item_snippet": "Waldron was hired to develop Williams, but the rookie QB has been regressing in recent weeks, leading to a change.",
+    "news_item_url": "https://www.espn.com/nfl/story/_/id/42346375/nfl-bears-caleb-williams-shane-waldron-offensive-coordinator",
+    "picture_source": "WLS-TV",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
+    "title": "John Krasinski",
+    "pubDate": "Tue, 12 Nov 2024 23:00:00 -0800",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRsAP80s2dph14SWvfthO-3eGryjCCuVzS-BKlkp9BoOvPK_SuPC9dmQgeArg3pC7lwwPQ9CRUQ",
+    "news_item_snippet": "&#39;People&#39; magazine has declared John Krasinski as the &quot;Sexist Man Alive&quot; for 2024.",
+    "news_item_url": "https://www.rollingstone.com/tv-movies/tv-movie-news/john-krasinski-sexiest-man-alive-people-magazine-2024-1235164369/",
+    "picture_source": "CBS News",
     "approx_traffic": "50,000+"
   },
   {
@@ -174,8 +194,8 @@
     "title": "Tulsi Vivah 2024",
     "pubDate": "Tue, 12 Nov 2024 07:30:00 +0530",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQCFYL9Td6rwEYjKIINzAsTwWwl0iGVQZW4WsakjHp3tMhQu4yQlWLTfxOSpzBfua6UAHp2OhWD",
-    "news_item_snippet": "Happy Tulsi Vivah 2024 Wishes: \u0915\u093e\u0930\u094d\u0924\u093f\u0915 \u092e\u093e\u0939 \u092e\u0947\u0902 \u0924\u0941\u0932\u0938\u0940 \u0935\u093f\u0935\u093e\u0939 \u0915\u0940 \u0924\u094d\u092f\u094b\u0939\u093e\u0930 \u092e\u0928\u093e\u092f\u093e \u091c\u093e\u0924\u093e \u0939\u0948. \u0907\u0938 \u0926\u093f\u0928 \u0924\u0941\u0932\u0938\u0940 \u0914\u0930 \u0936\u093e\u0932\u093f\u0917\u094d\u0930\u093e\u092e \u091c\u0940 \u0915\u093e \u0935\u093f\u0935\u093e\u0939 \u0915\u0930\u0928\u0947 \u0938\u0947 \u091c\u0940\u0935\u0928 \u092e\u0947\u0902&nbsp;...",
-    "news_item_url": "https://www.abplive.com/lifestyle/religion/happy-tulsi-vivah-2024-wishes-shubhkamnayen-in-hindi-images-2822015",
+    "news_item_snippet": "Tulsi Vivah 2024: \u0915\u093e\u0930\u094d\u0924\u093f\u0915 \u092e\u093e\u0938 \u0915\u0940 \u0926\u094d\u0935\u093e\u0926\u0936\u0940 \u0924\u093f\u0925\u093f \u0915\u0940 \u0936\u0941\u0930\u0941\u0906\u0924 \u092e\u0902\u0917\u0932\u0935\u093e\u0930, 12 \u0928\u0935\u092c\u0930, 2024 \u0915\u094b \u0936\u093e\u092e 4 \u092c\u091c\u0915\u0930 2 \u092e\u093f\u0928\u091f \u092a\u0930 \u0939\u094b\u0917\u0940. \u0907\u0938\u0915\u093e \u0938\u092e\u093e\u092a\u0928 \u092c\u0941\u0927\u0935\u093e\u0930&nbsp;...",
+    "news_item_url": "https://www.aajtak.in/religion/news/story/tulsi-vivah-2024-date-significance-tulsi-shaligram-vivah-katha-tlifdu-dskc-2094042-2024-11-13",
     "picture_source": "\u0926\u0948\u0928\u093f\u0915 \u091c\u093e\u0917\u0930\u0923",
     "approx_traffic": "100,000+"
   },
@@ -224,8 +244,8 @@
     "title": "Song Jae-rim",
     "pubDate": "Tue, 12 Nov 2024 07:00:00 -0500",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSB82TsNa3AvkNtjDhzRgNKVw5_y3TmQpd8KK4qmEU6tmbeDU66D1UDgTEqB-mXHXYwVb7wFYYA",
-    "news_item_snippet": "Artista ficou conhecido por s\u00e9ries de televis\u00e3o e reality show; causa da morte ainda \u00e9 desconhecida.",
-    "news_item_url": "https://www.cnnbrasil.com.br/internacional/ator-sul-coreano-song-jae-rim-e-encontrado-morto-aos-39-anos/",
+    "news_item_snippet": "A causa da morte do artista ainda \u00e9 desconhecida; segundo relatos, ele foi encontrado em seu apartamento.",
+    "news_item_url": "https://extra.globo.com/entretenimento/noticia/2024/11/ator-sul-coreano-song-jae-rim-morre-aos-39-anos.ghtml",
     "picture_source": "G1",
     "approx_traffic": "100,000+"
   },
@@ -253,10 +273,10 @@
     "country": "South Korea",
     "title": "\uc1a1\uc7ac\ub9bc",
     "pubDate": "Tue, 12 Nov 2024 19:00:00 +0900",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSA3AnKxaA1FxC0S5LKTPkH_sCzh0Am5yTYK31OqnFimcenzg_srp4VfHYkkdcSNnp446SX_lkM",
-    "news_item_snippet": "\ubc30\uc6b0 \uc1a1\uc7ac\ub9bc(39)\uc774 \uc11c\uc6b8 \uc790\ud0dd\uc5d0\uc11c \uc0ac\ub9dd\ud55c \uac00\uc6b4\ub370 \uace0\uc778\uc774 \uc601\ud654 &#39;\uc548\ub155\ud558\uc138\uc694&#39; \ucd2c\uc601 \ub2f9\uc2dc \uc9c4\ud589\ud588\ub358 \uc778\ud130\ubdf0 \ub0b4\uc6a9\uc774 \uc7ac\uc870\uba85\ub418\uace0 \uc788\ub2e4. \uc720\ud29c\ube0c \ucc44\ub110 &#39;MK\uc2a4\ud29c\ub514\uc624&#39;\uc5d0\ub294 \uc9c0\ub09c&nbsp;...",
-    "news_item_url": "https://www.chosun.com/national/people/2024/11/13/5I3KMJQDHZCM5FLE3MXSK6X7NM/",
-    "picture_source": "\ud55c\uad6d\uacbd\uc81c",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQ005r33Kgw7mTqKRSfnR-5Pc8sUBhjiZVr6rDEPLsxFsKgGgRqDyp5tf5oUwQi7mHG_yoLEAag",
+    "news_item_snippet": "\ubc30\uc6b0 \uc1a1\uc7ac\ub9bc/\uc0ac\uc9c4=\ud55c\uacbdDB \uace0\uc778\uc774 \ub41c \ubc30\uc6b0 \uc1a1\uc7ac\ub9bc\uc774 \uc0dd\uc804\uc5d0 \uc77c\ubcf8\uc778 \uc0ac\uc0dd\ud32c\uc5d0\uac8c \uad34\ub86d\ud798\uc744 \ub2f9\ud588\ub2e4\ub294 \uc0ac\uc2e4\uc774 \ub4dc\ub7ec\ub0ac\ub2e4. \uc1a1\uc7ac\ub9bc\uc740 12\uc77c \uc11c\uc6b8 \uc131\ub3d9\uad6c \uc790\ud0dd\uc5d0\uc11c \uc228\uc9c4 \ucc44 \ubc1c\uacac&nbsp;...",
+    "news_item_url": "https://www.hankyung.com/article/2024111394337",
+    "picture_source": "\uc870\uc120\uc77c\ubcf4",
     "approx_traffic": "200,000+"
   },
   {
@@ -344,8 +364,8 @@
     "title": "Ranieri",
     "pubDate": "Tue, 12 Nov 2024 23:00:00 +0100",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRzkVSPl2HPE7pJvNVqpSEXhyV1SlAzJB4TKouwxqLWxrmZoI4qC5eZZhj3k2xFmF-93amBw0yu",
-    "news_item_snippet": "Varie ipotesi sul tavolo: dal ritorno in panchina come &#39;traghettatore&#39; per portare la squadra a fine stagione, alla conferma di un ruolo dirigenziale.",
-    "news_item_url": "https://www.rainews.it/articoli/2024/11/ranieri-a-londra-da-friedkin-possibile-svolta-per-la-panchina-della-roma-0e8fd691-404b-4d0f-aee7-59a30dde8c37.html",
+    "news_item_snippet": "Dan e Ryan Friedkin e Claudio Ranieri devono trovare un&#39;intesa che non \u00e8 scontata. Per arrivare a un accordo sulla guida tecnica della Roma servono condizioni&nbsp;...",
+    "news_item_url": "https://www.adnkronos.com/sport/friedkin-e-ranieri-cercano-lintesa-non-e-scontato-laccordo_5SlqH5IWTojncywOkJR1dE",
     "picture_source": "Sky Sport",
     "approx_traffic": "50,000+"
   },
@@ -358,5 +378,15 @@
     "news_item_url": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20241113/ultima-hora-de-la-nueva-dana-en-barcelona-directo-alerta-por-precipitaciones-el-litoral/901009891_10.html",
     "picture_source": "Detalle - Ministerio del Interior",
     "approx_traffic": "200,000+"
+  },
+  {
+    "country": "United Kingdom",
+    "title": "Timothy West",
+    "pubDate": "Wed, 13 Nov 2024 12:00:00 +0000",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQt9HvFPreZY-FLNfYOePSfDquX4CkougUgy-SWAy2h8Cb2DiVkJPD9TSBYnonr-4Pnuiv-JwCv",
+    "news_item_snippet": "With a career ranging from Shakespeare to EastEnders and the series Great Canal Journeys, actor was a familiar face from the 1960s onwards.",
+    "news_item_url": "https://www.theguardian.com/stage/2024/nov/13/timothy-west-star-of-stage-screen-and-television-dies-aged-90",
+    "picture_source": "BBC News",
+    "approx_traffic": "50,000+"
   }
 ]
