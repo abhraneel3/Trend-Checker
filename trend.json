@@ -1,12 +1,32 @@
 [
   {
     "country": "United States",
+    "title": "John Thune",
+    "pubDate": "Wed, 13 Nov 2024 10:00:00 -0800",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQuiTEjiFSGrY_KquvRF4tZpYwhUIihTkjqBeW9EVA4Rh9U88p49FXVWwfc4BIJokIYLc-mBpMo",
+    "news_item_snippet": "Thune, of South Dakota, beat out Sens. John Cornyn of Texas and Rick Scott of Florida in a secret ballot election to replace Mitch McConnell.",
+    "news_item_url": "https://www.nbcnews.com/politics/congress/senate-republicans-choose-new-leader-mitch-mcconnell-steps-rcna179670",
+    "picture_source": "NPR",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United States",
     "title": "Pangolin",
     "pubDate": "Wed, 13 Nov 2024 05:00:00 -0800",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTQSTlyDBUCwJRGChkERBt4AckR2aMNupeq8cPVpDIgS1cf9fdiyCFV50ty0DncJur8wtTx9oCR",
     "news_item_snippet": "Pangolins are facing the very real threat of extinction, driven by ruthless poachers. Thanks to the dedicated work of our teams, this baby was saved. With your&nbsp;...",
     "news_item_url": "https://animalsurvival.org/unlisted/asi-giving-tuesday-2024/",
     "picture_source": "Animal Survival International",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Annex",
+    "pubDate": "Wed, 13 Nov 2024 06:00:00 -0800",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTVXlW_kWMkRc_ui-_DLeWpha-C9Apd-xaCf6VJJGd28DvYNXXtZTBztEd3EZmTvPaF1AMtr06A",
+    "news_item_snippet": "An Indianapolis man wanted on multiple warrants was arrested Wednesday in the parking lot of a county government building in Franklin after a \u201ctense\u201d&nbsp;...",
+    "news_item_url": "https://dailyjournal.net/2024/11/13/standoff-in-johnson-county-courthouse-annex-parking-lot-ends-in-arrest/",
+    "picture_source": "Daily Journal",
     "approx_traffic": "50,000+"
   },
   {
@@ -23,40 +43,30 @@
     "country": "United States",
     "title": "Warriors",
     "pubDate": "Tue, 12 Nov 2024 17:00:00 -0800",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRAgX8yH3d1g-i55FLH3gE5CCyVA-ZCDYYQP88lrZ3jdhNHC6_XIDXXwE0sP35HMnbV6POUslMq",
-    "news_item_snippet": "Klay Thompson&#39;s return to the Bay Area included Warriors fans in boat captain&#39;s hats, a tribute video and a swipe of former teammate Stephen Curry&#39;s&nbsp;...",
-    "news_item_url": "https://www.espn.com/nba/story/_/id/42362342/mavericks-klay-thompson-celebrated-warriors-surreal-return-bay-area",
-    "picture_source": "Warriors.com",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTLKAH2wgH0y8xQwycQgDsPM8gswhd_sI1c3QN4YyX8Aiw3E1_d9OpnTF-DCrrJKH8q64Px2l_C",
+    "news_item_snippet": "Thompson&#39;s willingness to share warm feelings about the Warriors organization signaled a thawing of the iciness in the relationship.",
+    "news_item_url": "https://www.nytimes.com/athletic/5919247/2024/11/13/klay-thompson-warriors-steph-curry-homecoming/",
+    "picture_source": "ESPN",
     "approx_traffic": "500,000+"
   },
   {
     "country": "United States",
     "title": "Vivek Ramaswamy",
     "pubDate": "Tue, 12 Nov 2024 18:00:00 -0800",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRYsw3QTB5ekGuMD6rmllZSXY6BatvHzHmZervQbr8kSAy-lQXnkj1UvuQI1x2gNczXQ0bCRLkf",
-    "news_item_snippet": "Donald Trump has announced that Elon Musk and Vivek Ramaswamy, a former presidential candidate and ally of Trump, will lead a new &quot;Department of Government&nbsp;...",
-    "news_item_url": "https://abcnews.go.com/Politics/trump-elon-musk-vivek-ramaswamy-lead-department-government/story?id=115796327",
-    "picture_source": "WHYY",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSK2GQsYprF6X2mYkYLwOuFbcqLP4HSTDQYe202drToxzs2nRdRrZKm8zn1Ze7N6v7ti24hLd6v",
+    "news_item_snippet": "Musk has been a constant presence at Mar-a-Lago since Trump won the presidential election.",
+    "news_item_url": "https://whyy.org/articles/trump-musk-department-government-efficiency-doge/",
+    "picture_source": "NPR",
     "approx_traffic": "200,000+"
   },
   {
     "country": "United States",
     "title": "Kristi Noem",
     "pubDate": "Tue, 12 Nov 2024 04:00:00 -0800",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcT8RGn9gq0eMldQ7lZwF_LMj6k9tll_0xkXqgzD1nDW9QIz-RTk2lvEnqbvztdMkgebX9R4z-Lu",
-    "news_item_snippet": "Donald Trump has selected South Dakota Gov. Kristi Noem to head the Department of Homeland Security, one of the biggest government agencies that will be&nbsp;...",
-    "news_item_url": "https://www.pbs.org/newshour/politics/trump-picks-kristi-noem-for-homeland-security-secretary-heres-what-to-know",
-    "picture_source": "CNN",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Bitcoin price",
-    "pubDate": "Tue, 12 Nov 2024 00:00:00 -0800",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRq4SLf4k6q36EXBCf04D_v7uaqRYthiVxyF-e9h3Vp1HrmuARoL2_SpY54U14HwEFaCIalT1dj",
-    "news_item_snippet": "Bitcoin rallied above $89000 Monday, marking another record after the U.S. elections. Analysts say it&#39;s time to buy cryptos, but with caution.",
-    "news_item_url": "https://www.investors.com/news/bitcoin-price-90000-trump-election-victory-buy-crypto/",
-    "picture_source": "The Associated Press",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTwCyGlPFExG_gRJWg2NxABVVwl5jrP2Isp7fdAud36WqUBQ92fSt6U6rhjvMvMxYpuLKUmYwBX",
+    "news_item_snippet": "President-elect Donald Trump has selected South Dakota Gov. Kristi Noem as his next secretary of the Department of Homeland Security, according to two&nbsp;...",
+    "news_item_url": "https://www.cnn.com/2024/11/12/politics/kristi-noem-homeland-security-secretary/index.html",
+    "picture_source": "PBS NewsHour",
     "approx_traffic": "200,000+"
   },
   {
@@ -71,13 +81,13 @@
   },
   {
     "country": "United States",
-    "title": "Kyle Singler",
-    "pubDate": "Tue, 12 Nov 2024 13:00:00 -0800",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQZ94aByq0tapk9cbWv3MZNDMKwz3UT0WCG0LUfOjwtYwjLVpnjDTiZqzEbLYsIPVlUYKVvzE_N",
-    "news_item_snippet": "Ex-NBA player and Duke star Kyle Singler received concern and support from the basketball world after posting a cryptic message on social media.",
-    "news_item_url": "https://www.usatoday.com/story/sports/nba/2024/11/13/kyle-singler-concern-social-media-post/76251708007/",
-    "picture_source": "NBC 10 Philadelphia",
-    "approx_traffic": "100,000+"
+    "title": "Bitcoin price",
+    "pubDate": "Tue, 12 Nov 2024 00:00:00 -0800",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRq4SLf4k6q36EXBCf04D_v7uaqRYthiVxyF-e9h3Vp1HrmuARoL2_SpY54U14HwEFaCIalT1dj",
+    "news_item_snippet": "Bitcoin rallied above $89000 Monday, marking another record after the U.S. elections. Analysts say it&#39;s time to buy cryptos, but with caution.",
+    "news_item_url": "https://www.investors.com/news/bitcoin-price-90000-trump-election-victory-buy-crypto/",
+    "picture_source": "The Associated Press",
+    "approx_traffic": "200,000+"
   },
   {
     "country": "United States",
@@ -87,6 +97,16 @@
     "news_item_snippet": "Joel Embiid&#39;s return gives the 76ers a much-needed boost after going 2-7 to start the 2024-25 season.",
     "news_item_url": "https://www.nba.com/news/joel-embiid-season-debut-knicks-76ers",
     "picture_source": "ESPN",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Kyle Singler",
+    "pubDate": "Tue, 12 Nov 2024 13:00:00 -0800",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQcHeXhWgZwNQ1x4MF-iShSprvfyP9yxVbax3AFskptJYb017aI-Vu7d1XVFfz2ei3xJF8BQuZT",
+    "news_item_snippet": "Ex-NBA player and Duke star Kyle Singler received concern and support from the basketball world after posting a cryptic message on social media.",
+    "news_item_url": "https://www.usatoday.com/story/sports/nba/2024/11/13/kyle-singler-concern-social-media-post/76251708007/",
+    "picture_source": "NBC News",
     "approx_traffic": "100,000+"
   },
   {
@@ -113,10 +133,10 @@
     "country": "United States",
     "title": "Mike Huckabee",
     "pubDate": "Tue, 12 Nov 2024 12:00:00 -0800",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRdPeGP_8iAASecCXbnoHP6ZqIsRP0FPpPaugXThX56Sbi-yIWXTZojIgwb-hyY5fffXdF8WTxY",
-    "news_item_snippet": "Former Arkansas Gov. Mike Huckabee has long rejected a Palestinian state in territory previously seized by Israel and has repeatedly signaled his staunch&nbsp;...",
-    "news_item_url": "https://www.pbs.org/newshour/world/trump-picks-mike-huckabee-for-ambassador-to-israel-here-are-4-things-to-know",
-    "picture_source": "CNN",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQwN5sVh7oa1OjHp9yxALARJQVk_6BlaNVXB6xTZSN4OYNtDBk77pUipcXNDZRGNX6qQDMz4js1",
+    "news_item_snippet": "The former Arkansas governor has previously questioned Palestinian identity and is opposed to a two-state solution.",
+    "news_item_url": "https://www.aljazeera.com/news/2024/11/13/who-is-mike-huckabee-the-evangelical-pro-settlement-envoy-to-israel",
+    "picture_source": "PBS NewsHour",
     "approx_traffic": "100,000+"
   },
   {
@@ -130,48 +150,48 @@
     "approx_traffic": "100,000+"
   },
   {
-    "country": "United States",
-    "title": "Celtics",
-    "pubDate": "Tue, 12 Nov 2024 20:00:00 -0800",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRQxHjPTBaA6gOP-AA21YqnhQaOc45YLvrrjiTnVswP2AAesw0NStUbkBtiicL1h7SJXesTq_qQ",
-    "news_item_snippet": "The Celtics blew a 15-point second half lead at home to the shorthanded Hawks in the loss.",
-    "news_item_url": "https://www.masslive.com/celtics/2024/11/4-takeaways-as-celtics-lose-to-hawks-in-stunning-nba-cup-upset.html",
-    "picture_source": "CBS Boston",
-    "approx_traffic": "100,000+"
+    "country": "India",
+    "title": "Tilak Varma",
+    "pubDate": "Wed, 13 Nov 2024 20:30:00 +0530",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTuU0JBzHwZABYLdw7T5A1el4qhxCkQcJoZThf3it6Db6JX_UPNKU-K7voTsUxKmngW7isENQ3w",
+    "news_item_snippet": "South Africa vs India, 3rd T20I: Tilak Varma got to his maiden hundred in the shortest format in 51 balls on November 13. He became the second youngest&nbsp;...",
+    "news_item_url": "https://www.indiatoday.in/sports/cricket/story/south-africa-vs-india-tilak-varma-youngest-t20i-hundreds-centurion-abhishek-2633046-2024-11-13",
+    "picture_source": "Sportstar",
+    "approx_traffic": "500,000+"
   },
   {
-    "country": "United States",
-    "title": "Song Jae Rim",
-    "pubDate": "Tue, 12 Nov 2024 08:00:00 -0800",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcR_bOd6fKqigzx4abjSo2JPSKsyDftuwCIaXZTJ2XfRpObWma0rEe9xk_WFA5deH5v96iBuyDfH",
-    "news_item_snippet": "Song Jae-Rim death: Song Jae-Rim, the famous South Korean actor and model died yesterday. He was found dead at his Seoul apartment, police said.",
-    "news_item_url": "https://m.economictimes.com/news/international/global-trends/song-jae-rim-south-korean-actors-k-dramas-moon-embracing-the-sun-queen-woo-we-got-married-my-military-valentine-our-gap-soon/articleshow/115260166.cms",
-    "picture_source": "BBC News",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "United States",
-    "title": "My Chemical Romance",
-    "pubDate": "Tue, 12 Nov 2024 12:00:00 -0800",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTz7_6BnW-QJhHx_9l6bkIVUMVluWNzpTrsPfRJQmJo7r5x_ayYrshE-yhkaFbsX9VD-_k57eWn",
-    "news_item_snippet": "Want tickets to see My Chemical Romance and Alice Cooper at Citizens Bank Park on Aug. 15, 2025? Here&#39;s how to get yours.",
-    "news_item_url": "https://www.nbcphiladelphia.com/entertainment/the-scene/my-chemical-romance-the-black-parade-tour-philadelphia/4026264/",
-    "picture_source": "MLB.com",
-    "approx_traffic": "50,000+"
+    "country": "India",
+    "title": "Sri Lanka vs New Zealand",
+    "pubDate": "Wed, 13 Nov 2024 14:30:00 +0530",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcR250YFbZ_3aVluHJJBa3Fz6VBhRAGjUBIcutkByNrZ-CWUqRRRyGgz8owd69TYT404ILBExSXi",
+    "news_item_snippet": "Sri Lanka vs New Zealand Live Score: First Innings Sri Lanka Score - 324/5 in 49.2 overs. Sri Lanka batting performance. Kusal Mendis 143(128)",
+    "news_item_url": "https://www.livemint.com/sports/cricket-news/sri-lanka-vs-new-zealand-live-score-1st-odi-of-new-zealand-tour-of-sri-lanka-2024-final-updates-today-13-nov-2024-11731485173708.html",
+    "picture_source": "ESPNcricinfo.com",
+    "approx_traffic": "500,000+"
   },
   {
     "country": "India",
     "title": "Ramandeep Singh",
     "pubDate": "Wed, 13 Nov 2024 18:30:00 +0530",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTURhTBFojsx1BABMisZQ2WCDbAkkSdb8xnt58FcYEHgOsyQRENMikzpwv-z743gFEycVj2wL3P",
-    "news_item_snippet": "Ramandeep Singh became the latest Indian player to receive an international cap when he was named in the XI for the 3rd T20I vs South Africa in Centurion.",
-    "news_item_url": "https://www.hindustantimes.com/cricket/ramandeep-singh-makes-his-india-debut-gets-cap-and-speech-from-hardik-pandya-heres-his-story-101731510514329.html",
-    "picture_source": "Sportstar",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQUjTMooNgNb_JhaXDomZvbG4LP3ZhD-9BquMYvBPggIBrnOQs4b5lsav6LZ6WMpbCdNv5Nl-n4",
+    "news_item_snippet": "All-rounder Ramandeep Singh was handed his T20I debut during the third T20I between India and South Africa at SuperSport Park in Centurion on Wednesday.",
+    "news_item_url": "https://sportstar.thehindu.com/cricket/ramandeep-singh-stats-t20-debut-india-vs-south-africa-3rd-t20i-ind-sa/article68863881.ece",
+    "picture_source": "myKhel Telugu",
     "approx_traffic": "200,000+"
   },
   {
     "country": "India",
-    "title": "Swiggy Share Price",
+    "title": "Children's Day",
+    "pubDate": "Wed, 13 Nov 2024 09:30:00 +0530",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTVHzvOY-DiAExE6ZLVcj9vtzW2YxC_KQMk3KEkrdp2XdMoCeHofMaGHOLDHebgFqK38shvrLXH",
+    "news_item_snippet": "Celebrate Children&#39;s Day 2024 with 50+ heartfelt quotes, wishes, messages, and greetings. Perfect for parents, teachers, and kids to share on Facebook,&nbsp;...",
+    "news_item_url": "https://www.jagranjosh.com/general-knowledge/childrens-day-2024-top-quotes-wishes-messages-greetings-to-share-on-bal-diwas-from-parents-and-teachers-1731491138-1",
+    "picture_source": "Business Standard",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "India",
+    "title": "Swiggy share price",
     "pubDate": "Wed, 13 Nov 2024 14:30:00 +0530",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRr9W7ciZMmKTQ1oQ2OnhwfXj6IoQJfoRn4iM0tsYbMcXw90qV271UMhKzfpbPYiEp0dmtJzlyJ",
     "news_item_snippet": "Swiggy Share Price Listing Live Updates: Following its high-profile IPO last week, food delivery company Swiggy is set to debut on the stock exchanges today&nbsp;...",
@@ -181,12 +201,12 @@
   },
   {
     "country": "India",
-    "title": "Children's Day",
-    "pubDate": "Wed, 13 Nov 2024 09:30:00 +0530",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTVHzvOY-DiAExE6ZLVcj9vtzW2YxC_KQMk3KEkrdp2XdMoCeHofMaGHOLDHebgFqK38shvrLXH",
-    "news_item_snippet": "Happy Children&#39;s Day 2024: Children&#39;s Day is on November 14. Celebrate it by sending best wishes, images, quotes, and greetings to your loved ones.",
-    "news_item_url": "https://www.hindustantimes.com/lifestyle/festivals/happy-childrens-day-2024-30-wishes-images-greetings-quotes-facebook-and-whatsapp-status-to-share-on-november-14-101731476678639.html",
-    "picture_source": "Business Standard",
+    "title": "ICC",
+    "pubDate": "Wed, 13 Nov 2024 23:30:00 +0530",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTTad0MNfSmItT_9rUkONb-MMjGZMWFHN-fVRjWIDpNJFva6CpaxfRNzr_GfudpuvYssxgTldIG",
+    "news_item_snippet": "\u0906\u0908\u0938\u0940\u0938\u0940 \u0905\u0902\u0921\u0930-19 \u0935\u093f\u092e\u0947\u0902\u0938 \u091f\u094020 \u0935\u0930\u094d\u0932\u094d\u0921 \u0915\u092a \u090f\u0936\u093f\u092f\u093e \u0915\u094d\u0935\u093e\u0932\u0940\u092b\u093e\u092f\u0930 2024 \u0915\u0947 \u090f\u0915 \u092e\u0941\u0915\u093e\u092c\u0932\u0947 \u092e\u0947\u0902 \u092f\u0942\u090f\u0908 \u0915\u094b \u0939\u0930\u093e\u0915\u0930 \u0907\u0924\u093f\u0939\u093e\u0938 \u0930\u091a \u0926\u093f\u092f\u093e\u0964 \u0928\u0947\u092a\u093e\u0932 \u0915\u0940 \u092e\u0939\u093f\u0932\u093e \u091f\u0940\u092e \u0928\u0947&nbsp;...",
+    "news_item_url": "https://www.jagran.com/cricket/headlines-nepal-women-qualify-for-the-icc-women-u19-world-cup-first-time-ever-23830589.html",
+    "picture_source": "\u0926\u0948\u0928\u093f\u0915 \u091c\u093e\u0917\u0930\u0923",
     "approx_traffic": "100,000+"
   },
   {
@@ -204,8 +224,8 @@
     "title": "Russia",
     "pubDate": "Wed, 13 Nov 2024 00:30:00 +0530",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRq_7_NoPdo_iuwzWR7NHMO8n7P5K2anfOv-vW0g3TV5s8CakZhy7ki7PERszrZp2AgnUDzOriF",
-    "news_item_snippet": "Russian First Deputy Prime Minister Denis Manturov noted that in the last five years, the trade turnover has grown more than fivefold and India is now the&nbsp;...",
-    "news_item_url": "https://www.thehindu.com/news/national/progress-made-with-regard-to-payments-and-logistics-between-india-and-russia-says-jaishankar/article68861065.ece",
+    "news_item_snippet": "After being lured into the Russian military with promises of &quot;helper&quot; jobs, young men from India find themselves training to fire weapons and getting caught&nbsp;...",
+    "news_item_url": "https://theworld.org/stories/2024/11/13/why-indian-men-are-fighting-for-russia-in-ukraine",
     "picture_source": "Voice of America",
     "approx_traffic": "50,000+"
   },
@@ -221,21 +241,21 @@
   },
   {
     "country": "India",
-    "title": "Tilak Varma",
-    "pubDate": "Wed, 13 Nov 2024 21:30:00 +0530",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTuU0JBzHwZABYLdw7T5A1el4qhxCkQcJoZThf3it6Db6JX_UPNKU-K7voTsUxKmngW7isENQ3w",
-    "news_item_snippet": "South Africa vs India, 3rd T20I: Tilak Varma got to his maiden hundred in the shortest format in 51 balls on November 13. He became the second youngest&nbsp;...",
-    "news_item_url": "https://www.indiatoday.in/sports/cricket/story/south-africa-vs-india-tilak-varma-youngest-t20i-hundreds-centurion-abhishek-2633046-2024-11-13",
-    "picture_source": "Sportstar",
+    "title": "\u092d\u093e\u0930\u0924 \u092c\u0928\u093e\u092e \u0926\u0915\u094d\u0937\u093f\u0923 \u0905\u092b\u094d\u0930\u0940\u0915\u093e",
+    "pubDate": "Wed, 13 Nov 2024 20:30:00 +0530",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcT1VIiKeytHD6q5umcpZ3YSoYvwDBCgLAByj3zwOhKJP5OmLucQbV6mEZqfqYNU91tz2NC2dGaA",
+    "news_item_snippet": "IND vs SA T20 LIVE Score: \u0924\u093f\u0932\u0915 \u0935\u0930\u094d\u092e\u093e \u0928\u0947 \u091f\u094020 \u0915\u0930\u093f\u092f\u0930 \u0915\u093e \u092a\u0939\u0932\u093e \u0936\u0924\u0915 \u091c\u0921\u093c\u093e. \u0909\u0928\u094d\u0939\u094b\u0902\u0928\u0947 \u090f\u0915 \u091b\u094b\u0930 \u0938\u0902\u092d\u093e\u0932\u0947 \u0930\u0916\u093e. \u0913\u092a\u0928\u0930 \u0905\u092d\u093f\u0937\u0947\u0915 \u0936\u0930\u094d\u092e\u093e 25 \u0917\u0947\u0902\u0926\u094b\u0902 \u092a\u0930 50&nbsp;...",
+    "news_item_url": "https://hindi.news18.com/cricket/india-vs-south-africa-3rd-t20-live-scoreboard-pitch-report-ind-vs-sa-cricket-match-centurion-suryakuar-yadav-news-livenews-8832495.html",
+    "picture_source": "\u0905\u092e\u0930 \u0909\u091c\u093e\u0932\u093e",
     "approx_traffic": "50,000+"
   },
   {
     "country": "Argentina",
     "title": "Cristina",
     "pubDate": "Wed, 13 Nov 2024 00:00:00 -0300",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQBaQSOGxzc1ovaQqgscaWve97kI94lGhdPhRIPxaxabFijoeycPM-UTd8ZpMG3yn0Re0MSKVjV",
-    "news_item_snippet": "La resoluci\u00f3n judicial se conoci\u00f3 minutos despu\u00e9s de las 11 de la ma\u00f1ana, mientras la ex presidenta se encontraba en la localidad de Moreno.",
-    "news_item_url": "https://www.infobae.com/politica/2024/11/13/causa-vialidad-en-vivo-las-ultimas-noticias-del-fallo-de-casacion-y-la-condena-a-cristina-kirchner/",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSLxIVKehMBgD1UlXCZH7peeG6sCC6_YtJ-OSFv7rVNAYLYOFAgjt1KGRj-GCL_94kRct5iwO-o",
+    "news_item_snippet": "La Sala IV de la C\u00e1mara Federal de Casaci\u00f3n Penal confirm\u00f3 la condena a 6 a\u00f1os de prisi\u00f3n contra la ex presidenta Cristina Fern\u00e1ndez de Kirchner (Frente&nbsp;...",
+    "news_item_url": "https://chequeado.com/el-explicador/causa-vialidad-la-camara-de-casacion-confirmo-la-condena-contra-cristina-fernandez-de-kirchner/",
     "picture_source": "LA NACION",
     "approx_traffic": "50,000+"
   },
@@ -283,9 +303,9 @@
     "country": "Canada",
     "title": "John Horgan",
     "pubDate": "Tue, 12 Nov 2024 15:00:00 -0500",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQd5lmbmru6q25aBXJsFQmF2WaJADo9dLZfkuQc17HHrfEy3SpdYqTRphrokeQAo-TmtQrVZh0-",
-    "news_item_snippet": "Remembering the team player, talker, social justice champion \u2014 and Star Trek fan.",
-    "news_item_url": "https://thetyee.ca/Opinion/2024/11/12/John-Horgan-People-Politician/",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcS6YwNR0laGLRWq-bz1tcAL13hbqR6Pi21yG2uCAO5ZU0nlMCiuzXbS7JDH7NpYHIDwQAS2-G5n",
+    "news_item_snippet": "\u201cAs Premier, John guided British Columbia through the COVID\u201119 pandemic, unprecedented floods, and wildfires. He championed the economy and clean energy. He&nbsp;...",
+    "news_item_url": "https://www.pm.gc.ca/en/news/statements/2024/11/12/statement-prime-minister-passing-john-horgan",
     "picture_source": "TheTyee.ca",
     "approx_traffic": "50,000+"
   },
@@ -294,8 +314,8 @@
     "title": "Pete Hegseth",
     "pubDate": "Tue, 12 Nov 2024 20:00:00 -0500",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSnsbEsdk53aPP_3RINWCOAzdXythoVFYH86phuZC7vIH5NM5fQYEtLPbyS03aVfeJYaXpprP8c",
-    "news_item_snippet": "Trump says he will nominate Fox News host Pete Hegseth, 44, an Army veteran, to be secretary of defense.",
-    "news_item_url": "https://www.cbsnews.com/news/trump-pete-hegseth-defense-secretary/",
+    "news_item_snippet": "The news was met with bewilderment and worry among many in Washington as President-elect Donald Trump passed on a number of established national security&nbsp;...",
+    "news_item_url": "https://www.pbs.org/newshour/politics/trump-chooses-fox-news-host-pete-hegseth-for-defense-secretary",
     "picture_source": "BBC News",
     "approx_traffic": "50,000+"
   },
@@ -327,6 +347,16 @@
     "news_item_snippet": "\u00c0 13 jours de son second proc\u00e8s en appel - apr\u00e8s cassation partielle de sa condamnation - dans l&#39;affaire des emplois fictifs concernant son \u00e9pouse Penelope&nbsp;...",
     "news_item_url": "https://www.humanite.fr/politique/assemblee-nationale/affaire-penelope-avant-son-proces-en-appel-francois-fillon-propose-de-rendre-largent",
     "picture_source": "L'Union",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Germany",
+    "title": "Pete Hegseth",
+    "pubDate": "Wed, 13 Nov 2024 06:00:00 +0100",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTGk34_-YBo4K0l27fB8aNFwISx15ZxW0T9eekBqoKgtFrHHU1pGcUjLkeGGMjg4ka8554uuBDO",
+    "news_item_snippet": "Pete Hegseth, ein Veteran und Fox-News-Moderator ohne politische Erfahrung, soll das US-Verteidigungsministerum f\u00fchren. Dort will er \u201epolitisch korrekten&nbsp;...",
+    "news_item_url": "https://www.faz.net/aktuell/politik/us-wahl/trumps-mann-fuers-pentagon-pete-hegseth-ist-das-militaer-zu-woke-110108790.html",
+    "picture_source": "tagesschau.de",
     "approx_traffic": "50,000+"
   },
   {
@@ -390,43 +420,33 @@
     "approx_traffic": "1,000,000+"
   },
   {
-    "country": "Italy",
-    "title": "Sinner oggi",
-    "pubDate": "Tue, 12 Nov 2024 17:00:00 +0100",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTsBhJBSSonXr_t4CUTD1zNVpXbN3Bwz-IS8w-Ns80piPHnIsmrCajTOkuo7BqVIe6XB4XHYebP",
-    "news_item_snippet": "Jannik Sinner batte Taylor Fritz oggi alle Atp Finals nel match della seconda giornata del Gruppo Ilie Nastase. L&#39;azzurro, numero 1 del mondo,&nbsp;...",
-    "news_item_url": "https://www.adnkronos.com/sport/sinner-batte-fritz-semifinale-atp-finals-a-un-passo_ZWvmvBqKltzPjTV3cbkme",
-    "picture_source": "Sky Tg24",
-    "approx_traffic": "200,000+"
+    "country": "Germany",
+    "title": "Europa League",
+    "pubDate": "Wed, 06 Nov 2024 00:00:00 +0100",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTze1mTh7tDY8-5zKcfp7H8muw7FaJKmvG-7NKfIWF1RQzpv9FMGagXJssw1KAi98Mj-0x0U8QJ",
+    "news_item_snippet": "Eintracht Frankfurt will den Schwung aus der Bundesliga mit auf die internationale B\u00fchne nehmen. Am vierten Spieltag der Europa-League-Ligaphase geht es&nbsp;...",
+    "news_item_url": "https://www.sport1.de/news/fussball/europa-league/2024/11/europa-league-eintracht-frankfurt-slavia-prag-heute-live-im-tv-stream-ticker",
+    "picture_source": "hessenschau.de",
+    "approx_traffic": "100,000+"
   },
   {
     "country": "Italy",
-    "title": "Ranieri",
-    "pubDate": "Tue, 12 Nov 2024 23:00:00 +0100",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRzkVSPl2HPE7pJvNVqpSEXhyV1SlAzJB4TKouwxqLWxrmZoI4qC5eZZhj3k2xFmF-93amBw0yu",
-    "news_item_snippet": "Ranieri sostituisce l&#39;esonerato Ivan Juric, sollevato dall&#39;incarico dopo la sconfitta casalinga che i giallorossi hanno incassato domenica per 3-2 contro il&nbsp;...",
-    "news_item_url": "https://www.adnkronos.com/sport/roma-claudio-ranieri-e-il-nuovo-allenatore_1G1nao1Fy3pAUtyR3TCKro",
-    "picture_source": "Sky Sport",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Mexico",
-    "title": "Liga MX Femenil",
-    "pubDate": "Tue, 12 Nov 2024 00:00:00 -0600",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSWO5gIxOtG_qZdLBI3Tlrre89qPjcTIzE7dGZ7byi9p4yHXMJpE0QQUjsXhsRuKxUvTnMXU8yB",
-    "news_item_snippet": "Rayadas de Monterrey busca el bicampeonato, pero primero tendr\u00e1 que superar a Pachuca, que cuenta con la actual campeona de goleo, Charlyn Corral.",
-    "news_item_url": "https://www.elfinanciero.com.mx/deportes/2024/11/12/semifinales-del-apertura-2024-de-la-liga-mx-femenil-fechas-y-horarios-de-los-duelos/",
-    "picture_source": "ESPN",
+    "title": "Carlos Alcaraz",
+    "pubDate": "Wed, 13 Nov 2024 17:00:00 +0100",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTGHzixJ7fZn5x8Mz12JDkrE8xepMJPpt2VyuFlvXeFBFFyLX8hoNOBYoe4AhtiQeWFo3hAhdvl",
+    "news_item_snippet": "Leggi su Sky Sport l&#39;articolo Alcaraz batte Rublev 6-3, 7-6 alle Atp Finals: prima vittoria per lo spagnolo. HIGHLIGHTS.",
+    "news_item_url": "https://sport.sky.it/tennis/2024/11/13/rublev-alcaraz-atp-finals-risultato",
+    "picture_source": "Corriere dello Sport.it",
     "approx_traffic": "50,000+"
   },
   {
     "country": "Spain",
     "title": "Carlos Alcaraz",
     "pubDate": "Wed, 13 Nov 2024 17:00:00 +0100",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQh7ZFeXyBplB4b90J63H93tVWUivMR7yMbOzaxNsB5dP_xQxmJEjC6BIbnVgeY9yaManEvptZJ",
-    "news_item_snippet": "El tenista murciano se llev\u00f3 la victoria ante Andrey Rublev a pesar de seguir enfermo. Hasta \u00e9l mismo se mostr\u00f3 sorprendido por su nivel de tenis.",
-    "news_item_url": "https://www.lasexta.com/noticias/deportes/tenis/asi-olvidado-carlos-alcaraz-estado-fisico-atp-finals-vez-sales-pista_202411136734cfbfb747ad0001802c02.html",
-    "picture_source": "RTVE",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRNzwsPRZ_ERONaZsAPkOSyfKZtCGm7KpT5PWP7tr7S5mt9SUP-3XmBFAwxu1O9O_lnfa85RcDS",
+    "news_item_snippet": "El espa\u00f1ol Carlos Alcaraz logra su primera victoria en las ATP Finals de Tur\u00edn con un 6-3 y 7-6 ante el ruso Andrey Rublev. Su siguiente rival ser\u00e1 el&nbsp;...",
+    "news_item_url": "https://www.rtve.es/deportes/20241113/carlos-alcaraz-rublev-directo-resumen-resultado-atp-finals-2024/16326824.shtml",
+    "picture_source": "ATP Tour",
     "approx_traffic": "50,000+"
   },
   {
