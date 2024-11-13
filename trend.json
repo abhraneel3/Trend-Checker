@@ -1,22 +1,42 @@
 [
   {
     "country": "United States",
+    "title": "Pete Hegseth",
+    "pubDate": "Tue, 12 Nov 2024 17:00:00 -0800",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcT9Jvsx-UL1LHgoM2cCIi6r1d8oPOlingrmO1BKE5XbjrwnE8dJi1aMH5qopFs6VBNkAuY_VnGR",
+    "news_item_snippet": "One of the Fox &amp; Friends may have a new job \u2026 in President-elect Donald Trump&#39;s cabinet. Trump on Tuesday said that he intends to nominate Fox &amp; Friends&nbsp;...",
+    "news_item_url": "https://www.hollywoodreporter.com/news/politics-news/trump-nominates-fox-news-host-pete-hegseth-secretary-of-defense-1236060307/",
+    "picture_source": "NPR",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "United States",
     "title": "Kristi Noem",
     "pubDate": "Tue, 12 Nov 2024 04:00:00 -0800",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcT8RGn9gq0eMldQ7lZwF_LMj6k9tll_0xkXqgzD1nDW9QIz-RTk2lvEnqbvztdMkgebX9R4z-Lu",
-    "news_item_snippet": "Gov. Kristi Noem is President-elect Trump&#39;s choice to run the Department of Homeland Security, according to a report from CNN.",
-    "news_item_url": "https://southdakotasearchlight.com/2024/11/12/trump-reportedly-picks-south-dakota-gov-kristi-noem-to-run-homeland-security/",
+    "news_item_snippet": "President-elect Donald Trump plans to nominate South Dakota Republican Gov.",
+    "news_item_url": "https://www.nbcnews.com/politics/national-security/trump-expected-nominate-kristi-noem-homeland-security-secretary-rcna179746",
     "picture_source": "CNN",
     "approx_traffic": "200,000+"
   },
   {
     "country": "United States",
-    "title": "Song Jae Rim",
-    "pubDate": "Tue, 12 Nov 2024 08:00:00 -0800",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQ4Ou4hqU8woqCVEqa35pcQ4zlGgUeHXOOy90YO8q7HMmKlDDoDLyI0sJryk6xbnDBKI07Nc8xn",
-    "news_item_snippet": "Song Jae Rim found dead: South Korean actor Song Jae Rim&#39;s untimely death has sent shockwaves across the Korean entertainment industry.",
-    "news_item_url": "https://m.economictimes.com/news/international/global-trends/song-jae-rim-death-south-korean-actors-last-instagram-post-sparks-concern-over-his-mental-health/articleshow/115223166.cms",
-    "picture_source": "Cincinnati.com",
+    "title": "Kyle Singler",
+    "pubDate": "Tue, 12 Nov 2024 13:00:00 -0800",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQmnBwYhDZdUSS3hG-vPGgonpm4QPYhM2vsPtBflA3t-82vNdqFBN9YEjBbaONpSqzhKAbHlFoq",
+    "news_item_snippet": "Singler said he has &quot;been mistreated and abused, neglected, made into a mental example.&quot;",
+    "news_item_url": "https://sports.yahoo.com/ex-duke-star-kyle-singler-draws-concern-after-pair-of-cryptic-instagram-videos-231212613.html",
+    "picture_source": "ESPN",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
+    "title": "John Ratcliffe",
+    "pubDate": "Tue, 12 Nov 2024 16:00:00 -0800",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQ3mLeQ03iQWTp-xA5X6U-GoXhm8AdwgmZk9itWMch0GL0IgQwAX4FBW1FQjgdZD-pZYjCUFW7m",
+    "news_item_snippet": "The former director of national intelligence is likely to be confirmed to preside over the powerful spy agency.",
+    "news_item_url": "https://www.politico.com/news/2024/11/12/john-ratcliffe-cia-trump-00189143",
+    "picture_source": "Texas Tribune",
     "approx_traffic": "50,000+"
   },
   {
@@ -31,62 +51,32 @@
   },
   {
     "country": "United States",
-    "title": "Kyle Singler",
-    "pubDate": "Tue, 12 Nov 2024 13:00:00 -0800",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQmnBwYhDZdUSS3hG-vPGgonpm4QPYhM2vsPtBflA3t-82vNdqFBN9YEjBbaONpSqzhKAbHlFoq",
-    "news_item_snippet": "Miami Heat star Kevin Love offered support on Tuesday to his former high school rival and ex-Duke standout Kyle Singler after he posted an alarming&nbsp;...",
-    "news_item_url": "https://nypost.com/2024/11/12/sports/kevin-love-offers-support-after-ex-duke-star-kyle-singler-sparks-worry-with-alarming-video/",
-    "picture_source": "ESPN",
+    "title": "Song Jae Rim",
+    "pubDate": "Tue, 12 Nov 2024 08:00:00 -0800",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQ4Ou4hqU8woqCVEqa35pcQ4zlGgUeHXOOy90YO8q7HMmKlDDoDLyI0sJryk6xbnDBKI07Nc8xn",
+    "news_item_snippet": "Song Jae Rim found dead: South Korean actor Song Jae Rim&#39;s untimely death has sent shockwaves across the Korean entertainment industry.",
+    "news_item_url": "https://m.economictimes.com/news/international/global-trends/song-jae-rim-death-south-korean-actors-last-instagram-post-sparks-concern-over-his-mental-health/articleshow/115223166.cms",
+    "picture_source": "Cincinnati.com",
     "approx_traffic": "50,000+"
   },
   {
     "country": "United States",
-    "title": "Dolphins vs Rams",
-    "pubDate": "Mon, 11 Nov 2024 17:00:00 -0800",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSVbJFld_KyqHG2TCO-6VTzpjs4IlweD261REn5CfdsNwmH2-fQbFy52vZsZqb68hIQMIzXzdZw",
-    "news_item_snippet": "Kicker Joshua Karty&#39;s five made field goals of 34, 55, 53, 22 and 31 yards accounted for Los Angeles&#39; (4-5) only points of the contest against Miami (3-6).",
-    "news_item_url": "https://www.therams.com/news/game-recap-rams-fall-to-dolphins-23-15-on-monday-night-football",
-    "picture_source": "ESPN",
-    "approx_traffic": "500,000+"
+    "title": "Skai Jackson",
+    "pubDate": "Tue, 12 Nov 2024 12:00:00 -0800",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRpeTYqGGcTG8l89VmkWIddw1Ey4mgUTPJUWzT_QdwyMsSb86qjVyXVvmdCV1aRpzR2QZ_iUyp4",
+    "news_item_snippet": "Skai Jackson revealed she&#39;s pregnant with her first child in an announcement to People magazine on Tuesday.",
+    "news_item_url": "https://www.usatoday.com/story/entertainment/celebrities/2024/11/12/skai-jackson-pregnant-disney-channel-jessie/76229614007/",
+    "picture_source": "Los Angeles Times",
+    "approx_traffic": "50,000+"
   },
   {
-    "country": "United States",
-    "title": "Marco Rubio Secretary of State",
-    "pubDate": "Mon, 11 Nov 2024 18:00:00 -0800",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTiqyad3fNIMt7JDx7djIHJoAT2xuD4JwPKqWPmJslZ7iXjq17xuwHZJMzru_JTdqCOtwKRZo4x",
-    "news_item_snippet": "Rubio opposed $95 bln military aid to Ukraine &middot; Senator is a top China hawk, sanctioned by Beijing &middot; Top role for Rubio could bolster Republicans&#39; Latino gains.",
-    "news_item_url": "https://www.reuters.com/world/us/trump-taps-us-senator-marco-rubio-secretary-state-2024-11-12/",
-    "picture_source": "Tallahassee.com",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Stefanik",
-    "pubDate": "Mon, 11 Nov 2024 01:00:00 -0800",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQlF6ysmpDvDGMldJbxccpS_lk9bjgv_AHn6CWQpUUjC5v2kCUD7slMvxIVYbrrOTkrpD0BWDsp",
-    "news_item_snippet": "Stefanik, who is the House Republican Conference Chair, has been a key ally of Trump&#39;s over the years and was reported to have been a contender as his&nbsp;...",
-    "news_item_url": "https://www.npr.org/2024/11/11/g-s1-33696/trump-stefanik-un-ambassador",
-    "picture_source": "The Associated Press",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Lee Zeldin",
-    "pubDate": "Mon, 11 Nov 2024 13:00:00 -0800",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcREurQxpIE0yI36v1la_vOB_O7LirmpVqrl2k8WN6axOY5acyNmfyJLlWb5aMu5vhhwF0IwZ2T5",
-    "news_item_snippet": "The Trump administration will likely roll back EPA regulations affecting fossil-fuel power plants, including a carbon emissions rule, according to Michelle&nbsp;...",
-    "news_item_url": "https://www.utilitydive.com/news/trump-zeldin-epa-power-plant-carbon-ash-remand-stay/732616/",
-    "picture_source": "Earthjustice",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Barcelona",
-    "pubDate": "Mon, 11 Nov 2024 08:00:00 -0800",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTkH7LYombqWWGKDGEbiWBWgFqCDFTlDtV1CP7qmRoK-bk01GKvoABAaUPRoIKWYVZx0VJUMD5n",
-    "news_item_snippet": "Three players from Bar\u00e7a Academy Pro Arizona train with the FC Barcelona U19 and U16 teams.",
-    "news_item_url": "https://www.fcbarcelona.com/en/news/4167122/from-arizona-to-the-ciutat-esportiva",
-    "picture_source": "FC Barcelona",
+    "country": "India",
+    "title": "Mukesh Khanna",
+    "pubDate": "Tue, 12 Nov 2024 05:30:00 +0530",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSlLIR5zP9Kqwwv-alFAuIDEMA_WAmgdNmu-pYZ4fLg4leJecg6vWMuzaKxUQDqHVJTc-ZP5XPB",
+    "news_item_snippet": "Mukesh Khanna announces the return of iconic superhero Shaktimaan to Indian screens, reflecting on his deep connection with the role.",
+    "news_item_url": "https://www.thehindu.com/entertainment/movies/mukesh-khanna-returns-as-shaktimaan-shares-teaser-of-beloved-heros-reprisal/article68858332.ece",
+    "picture_source": "Hindustan Times",
     "approx_traffic": "100,000+"
   },
   {
@@ -103,7 +93,7 @@
     "country": "India",
     "title": "Dev Uthani Ekadashi 2024",
     "pubDate": "Tue, 12 Nov 2024 07:30:00 +0530",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcR9W2JPEzklcxY4ekr9afQbenCzoNm7cisnIqgsSe17LBr5_FK62BIi2TWYS3mmrZ8x-2xizYtA",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRnrF2e7S0t4eLWKOxkRFsV2OP6t36YXJPKIXMOcy-_fYXKjo0gVTNumGWdZ2xJrKmk6qiSF4pe",
     "news_item_snippet": "Dev Uthani Ekadashi 2024: \u0907\u0938 \u0935\u0930\u094d\u0937 \u0926\u0947\u0935 \u092a\u094d\u0930\u092c\u094b\u0927\u093f\u0928\u0940 \u090f\u0915\u093e\u0926\u0936\u0940 \u092a\u0930 \u0915\u0908 \u0924\u0930\u0939 \u0915\u0947 \u0936\u0941\u092d \u092f\u094b\u0917\u094b\u0902 \u0915\u093e \u0928\u093f\u0930\u094d\u092e\u093e\u0923 \u0939\u0941\u0906 \u0939\u0948\u0964 \u0907\u0938 \u0926\u093f\u0928 \u0939\u0930\u094d\u0937\u0923 \u092f\u094b\u0917,&nbsp;...",
     "news_item_url": "https://www.amarujala.com/spirituality/festivals/dev-uthani-ekadashi-today-shubh-muhurat-importance-and-puja-vidhi-2024-11-12",
     "picture_source": "\u0928\u0935\u092d\u093e\u0930\u0924 \u091f\u093e\u0907\u092e\u094d\u0938",
@@ -112,42 +102,12 @@
   {
     "country": "India",
     "title": "Bangladesh vs Afghanistan",
-    "pubDate": "Mon, 11 Nov 2024 21:30:00 +0530",
+    "pubDate": "Mon, 11 Nov 2024 22:30:00 +0530",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcR0G6zUYTTtU98dls7yaKXaaFmD2WI7don8BIsUZR68htwGxB3IxknBMWqJv8KlEhyS9AAxmCqI",
     "news_item_snippet": "Bangladesh vs Afghanistan (BAN vs AFG) 3rd ODI Live Cricket Scorecard and Updates: Batting first, Mahmudullah and Mehidy Hasan Miraz had helped BAN post&nbsp;...",
     "news_item_url": "https://indianexpress.com/article/sports/cricket/ban-vs-afg-3rd-odi-live-cricket-score-sharjah-cricket-stadium-bangladesh-vs-afghanistan-today-odi-match-live-scorecard-updates-9664032/",
     "picture_source": "ESPNcricinfo.com",
     "approx_traffic": "500,000+"
-  },
-  {
-    "country": "India",
-    "title": "Cricket",
-    "pubDate": "Mon, 11 Nov 2024 12:30:00 +0530",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTsdKnukOttDtiT14ZgxJYsHP-va87w1vdauGZz7OXMfTqk00pEx6E9Prgv6CyD5-EZlyAFdkq_",
-    "news_item_snippet": "The intense India-Pakistan cricket rivalry has been shaped by historical events, political tensions, and moments of cricket diplomacy, from partition in&nbsp;...",
-    "news_item_url": "https://www.business-standard.com/cricket/news/india-vs-pakistan-a-cricket-rivalry-shaped-by-politics-wars-and-diplomacy-124111200677_1.html",
-    "picture_source": "Business Standard",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "India",
-    "title": "Bitcoin price",
-    "pubDate": "Mon, 11 Nov 2024 08:30:00 +0530",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSwkzuEQf94i4yMr3I6IO2gJ68eUOOPa_MBH29XJ6kLbH3bMwfXv0bNY-gq3NSWHq0XLSYBxjuS",
-    "news_item_snippet": "Price has more than doubled in a year as traders hope Trump will favour crypto when he returns to White House.",
-    "news_item_url": "https://www.theguardian.com/technology/2024/nov/11/bitcoin-price-tops-81000-trump-cryptocurrencies",
-    "picture_source": "India Today",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Argentina",
-    "title": "Belgrano  Instituto",
-    "pubDate": "Mon, 11 Nov 2024 14:00:00 -0300",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcS9QIEiV2h2qVNyDCK5hY2d8PwU-AchEM5m3PzzuY1BShWDgUi5_AnLsLLqpujvzOy2Yq_uHkB02A",
-    "news_item_snippet": "Con goles de Jara, Lucco -de taco- y Chavarr\u00eda, el cl\u00e1sico cordob\u00e9s fue para el Pirata, con un contundente 3-1 por la fecha 22 de la Ligas Profesional.",
-    "news_item_url": "https://www.tycsports.com/liga-profesional-de-futbol/belgrano-vs-instituto-en-vivo-hora-donde-ver-y-formaciones-id618281.html",
-    "picture_source": "Infobae.com",
-    "approx_traffic": "50,000+"
   },
   {
     "country": "Argentina",
@@ -157,6 +117,16 @@
     "news_item_snippet": "La Fiscal\u00eda Especializada en Juegos de Azar inici\u00f3 una causa de oficio luego de la inclusi\u00f3n del influencer en el encuentro de ayer entre Riestra y V\u00e9lez.",
     "news_item_url": "https://www.infobae.com/deportes/2024/11/12/investigan-al-streamer-spreen-y-al-dt-cristian-fabbiani-por-apuestas-ilegales/",
     "picture_source": "P\u00e1gina 12",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "Argentina",
+    "title": "Belgrano  Instituto",
+    "pubDate": "Mon, 11 Nov 2024 14:00:00 -0300",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcS9QIEiV2h2qVNyDCK5hY2d8PwU-AchEM5m3PzzuY1BShWDgUi5_AnLsLLqpujvzOy2Yq_uHkB02A",
+    "news_item_snippet": "Con goles de Jara, Lucco -de taco- y Chavarr\u00eda, el cl\u00e1sico cordob\u00e9s fue para el Pirata, con un contundente 3-1 por la fecha 22 de la Ligas Profesional.",
+    "news_item_url": "https://www.tycsports.com/liga-profesional-de-futbol/belgrano-vs-instituto-en-vivo-hora-donde-ver-y-formaciones-id618281.html",
+    "picture_source": "Infobae.com",
     "approx_traffic": "50,000+"
   },
   {
@@ -187,6 +157,26 @@
     "news_item_snippet": "A bola \u00e0s 21h (de Bras\u00edlia), no Est\u00e1dio Mineir\u00e3o, em Belo Horizonte (MG), com transmiss\u00e3o do SporTV, Premiere (pay-per-view) e Prime Video.",
     "news_item_url": "https://www.lance.com.br/onde-assistir/america-mg-x-ituano-onde-assistir-horario-e-escalacoes-do-jogo-pela-serie-b.html",
     "picture_source": "PBH",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "Brazil",
+    "title": "Ceara",
+    "pubDate": "Tue, 12 Nov 2024 15:00:00 -0500",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTA8Rl7TZK2985WIcYOJ3Kdw0uUTUzJLX1kxG8P8BtEwH2NgESPkII4sO3it7FWzDtAEcEQ-IAY",
+    "news_item_snippet": "Evento gratuito ter\u00e1 formato h\u00edbrido e ocorrer\u00e1 nos dias 18 e 19 de novembro, em Fortaleza, reunindo gestores, institui\u00e7\u00f5es e profissionais do audiovisual&nbsp;...",
+    "news_item_url": "https://www.ceara.gov.br/2024/11/12/secult-ceara-ultimos-dias-para-as-inscricoes-no-seminario-ceara-filmes/",
+    "picture_source": "Cear\u00e1",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Canada",
+    "title": "John Horgan",
+    "pubDate": "Tue, 12 Nov 2024 15:00:00 -0500",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSWrJxKAk4KJkopRCbv-oxbJ6-NX_jacSY3HowrMMM-TL8BRsHC_l8DQPWh5bxx27otjRXLI8wI",
+    "news_item_snippet": "Former B.C. premier John Horgan has died at the age of 65, CBC News has confirmed. In June this year, Horgan told CBC that he had been diagnosed with cancer&nbsp;...",
+    "news_item_url": "https://www.cbc.ca/news/canada/british-columbia/john-horgan-dead-bc-premier-1.7381286",
+    "picture_source": "CBC.ca",
     "approx_traffic": "50,000+"
   },
   {
@@ -231,19 +221,9 @@
   },
   {
     "country": "Germany",
-    "title": "Eurojackpot",
-    "pubDate": "Tue, 12 Nov 2024 21:00:00 +0100",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQ1WCozX7h2YZdRN7dduRHyli3HNDy7_p_QBszjxxiKl5Nsw0bGDKIOUK_sOmTziUZ3LbnhAVb6",
-    "news_item_snippet": "Wurde der Mega-Eurojackpot von 105 Millionen Euro am 12.11.2024 geknackt? Hier erfahrt ihr die Gewinnzahlen und Quoten zur Ziehung am Dienstag.",
-    "news_item_url": "https://www.swp.de/panorama/eurojackpot-zahlen-heute-das-sind-die-gewinnzahlen-am-dienstag-12-11-24-77647641.html",
-    "picture_source": "Berliner Morgenpost",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "Germany",
     "title": "Neuwahlen",
     "pubDate": "Tue, 12 Nov 2024 12:00:00 +0100",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcR1jUVDn3X2u9Ighz3IGaB7Ujph_yE0W1kgqaJnEn0EgISNmwEJ1uKtMFlbKwuttlz4niP2P1AG",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSP_lzHHt7FqIPCHiLSwE5mnzBV06S51jwGECREkk5ccKE056fueESId4hFU6TSXNUuAx_ykwAe",
     "news_item_snippet": "Am 23. Februar soll ein neuer Bundestag gew\u00e4hlt werden. Bundespr\u00e4sident Steinmeier h\u00e4lt den von den Fraktionschefs von Union, SPD und Gr\u00fcnen ins Auge&nbsp;...",
     "news_item_url": "https://www.hessenschau.de/politik/bundestagswahl/neuwahlen-am-23-februar-steinmeier-mit-zeitplan-einverstanden-v5,wahltermin-bundestagswahl-100.html",
     "picture_source": "tagesschau.de",
@@ -253,7 +233,7 @@
     "country": "Germany",
     "title": "IG Metall",
     "pubDate": "Mon, 11 Nov 2024 16:00:00 +0100",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcScK5Aec3iEJDAVcEvN4cKPX7_0Wr462GV62aBD6jOdQoehTvdpQ28FRIlYMeeX521_gOxcnXrG",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSBrW194ZGPN90YaYRJG8sYJyu7LqVadkc2JNveUuiXrHHFNGNFSHGzvaYdcCNLe03aY6BOsitT",
     "news_item_snippet": "Darauf haben sich die Gewerkschaft IG Metall und die Arbeitgeber in einem Pilotabschluss f\u00fcr die Tarifgebiete Nord und Bayern geeinigt. Die Lohnsteigerung um&nbsp;...",
     "news_item_url": "https://www.mdr.de/nachrichten/deutschland/wirtschaft/ig-metall-tarif-abschluss-metallindustrie-100.html",
     "picture_source": "tagesschau.de",
@@ -334,9 +314,9 @@
     "title": "Liga MX Femenil",
     "pubDate": "Mon, 11 Nov 2024 22:00:00 -0600",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSWO5gIxOtG_qZdLBI3Tlrre89qPjcTIzE7dGZ7byi9p4yHXMJpE0QQUjsXhsRuKxUvTnMXU8yB",
-    "news_item_snippet": "Am\u00e9rica, Monterrey, Pachuca y Tigres son los equipos que buscar\u00e1n su boleto a la Gran Final del torneo.",
-    "news_item_url": "https://www.infobae.com/mexico/deportes/2024/11/12/liga-mx-femenil-confirman-los-horarios-de-las-semifinales-del-apertura-2024/",
-    "picture_source": "ESPN Deportes",
+    "news_item_snippet": "Ya se conoce cu\u00e1ndo Am\u00e9rica, Tigres, Rayadas y Pachuca disputar\u00e1n los partidos de ida y vuelta en busca de logar el boleto a la gran Final de la Liga MX&nbsp;...",
+    "news_item_url": "https://www.tudn.com/futbol-femenino/liga-mx-femenil/liga-mx-femenil-fechas-horarios-para-semifinales-apertura-2024",
+    "picture_source": "ESPN",
     "approx_traffic": "50,000+"
   },
   {
