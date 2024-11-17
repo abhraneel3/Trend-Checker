@@ -1,22 +1,32 @@
 [
   {
     "country": "United States",
+    "title": "Tom Aspinall",
+    "pubDate": "Sun, 17 Nov 2024 06:00:00 -0800",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQLHyO-A-MBa5cR7fMrZXhY0ThzQdX6gpJ-Rjx7sAwH5oAC7DS27G54u56rBaER_z8d3LmjRrXU",
+    "news_item_snippet": "Jon Jones won&#39;t retire after UFC 309. He also set the record straight about what he&#39;ll demand to fight Tom Aspinall next.",
+    "news_item_url": "https://athlonsports.com/fighting/jon-jones-ready-fight-tom-aspinall-on-one-condition",
+    "picture_source": "MMA Junkie",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
     "title": "Tennessee vs Georgia",
     "pubDate": "Sat, 16 Nov 2024 16:00:00 -0800",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQoR4FtaIiiOmI3JVtApE8fUPZmMycj4ck130CrSFkSKiXoRdHmSxccRoWyaUyQwGCDpJnrzMe0",
-    "news_item_snippet": "It&#39;s Tennessee vs Georgia in Week 12 of the 2024 college football season. Follow along for live score and game updates from Sanford Stadium in Athens.",
-    "news_item_url": "https://www.knoxnews.com/story/sports/college/university-of-tennessee/football/2024/11/16/tennessee-georgia-game-live-updates-college-football-week-12-game-nico-iamaleava/76101057007/",
+    "news_item_snippet": "It&#39;s Georgia vs Tennessee in Week 12 of the 2024 college football season. Follow along for live score and game updates at Sanford Stadium.",
+    "news_item_url": "https://www.onlineathens.com/story/sports/college/bulldogs-extra/2024/11/16/georgia-tennessee-game-live-updates-college-football-week-12-game/76116915007/",
     "picture_source": "Online Athens",
-    "approx_traffic": "200,000+"
+    "approx_traffic": "500,000+"
   },
   {
     "country": "United States",
     "title": "Miss Universe 2024",
     "pubDate": "Sat, 16 Nov 2024 19:00:00 -0800",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcR8C2RRHm6UtSDtUaouXaL7NJoqHgUUPTkr-jTdQTsgWJGR_d9i0iVtEk2ZTcTYhwPgYo_kJAMP",
-    "news_item_snippet": "Kjaer, an animal protection advocate who works in the diamond selling business, beat out Miss Nigeria at the end of 73rd edition of the competition in&nbsp;...",
-    "news_item_url": "https://apnews.com/article/miss-universe-victoria-kjaer-denmark-mexico-5e0101a9176caadd7aa710db4e603b48",
-    "picture_source": "CNN",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQe8LWdparARsxu71EImr_xwuaQV2AAf39-ja9Kp2QpF51Cz_zbA84tE1AuQrdeXh1nDCAhnuju",
+    "news_item_snippet": "Miss Denmark Victoria Kjaer Theilvig is Miss Universe 2024. The 21-year-old former pro dancer is the first Danish contestant to take the crown.",
+    "news_item_url": "https://www.usatoday.com/story/entertainment/celebrities/2024/11/17/miss-universe-2024-victoria-kjaer-theilvig-winner/76383634007/",
+    "picture_source": "ABC7 Los Angeles",
     "approx_traffic": "200,000+"
   },
   {
@@ -31,16 +41,6 @@
   },
   {
     "country": "United States",
-    "title": "Utah vs Colorado",
-    "pubDate": "Sat, 16 Nov 2024 10:00:00 -0800",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRQM85lvrNq4eo4SiCnjF4xzuzA6VxR1VyvEwFR6qqurO6SyFGJRVa3XuodD5db7s0iu82x8v1-",
-    "news_item_snippet": "Total - Yds. 5-309, 8-470. Avg. Yds. / Kickoff, 61.8, 58.8. Touchbacks&nbsp;...",
-    "news_item_url": "https://utahutes.com/sports/football/stats/2024/colorado/boxscore/23177",
-    "picture_source": "CUBuffs.com",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "United States",
     "title": "Texas vs Arkansas",
     "pubDate": "Sat, 16 Nov 2024 10:00:00 -0800",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQnyDxz-sKWOgfMZmn1jkP3k0tWtfPrLIHG_hPZGToTvFIVnrW1G-aPlnIcw-07PPxxqvZtIcWD",
@@ -48,6 +48,16 @@
     "news_item_url": "https://www.burntorangenation.com/2024/11/16/24298244/texas-longhorns-football-arkansas-razorbacks-quinn-ewers-alfred-collins",
     "picture_source": "Austin American-Statesman",
     "approx_traffic": "200,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Utah vs Colorado",
+    "pubDate": "Sat, 16 Nov 2024 10:00:00 -0800",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRQM85lvrNq4eo4SiCnjF4xzuzA6VxR1VyvEwFR6qqurO6SyFGJRVa3XuodD5db7s0iu82x8v1-",
+    "news_item_snippet": "Total - Yds. 5-309, 8-470. Avg. Yds. / Kickoff, 61.8, 58.8. Touchbacks&nbsp;...",
+    "news_item_url": "https://utahutes.com/sports/football/stats/2024/colorado/boxscore/23177",
+    "picture_source": "CUBuffs.com",
+    "approx_traffic": "100,000+"
   },
   {
     "country": "United States",
@@ -83,20 +93,10 @@
     "country": "United States",
     "title": "Bo Nickal",
     "pubDate": "Sat, 16 Nov 2024 16:00:00 -0800",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcT-RUb71R6y45hqJej0iabKCRrevYln7a79aSe-xYiaxVEEPQKLYB-xjTGrKytPwixPW_Qz29ix",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRGBIJx8rByo7NAhcb03MumAXlg470iwXrdek_QLZvzWSrhCeXZSDBh3BZ8A9JF666HD7WNUfUZ",
     "news_item_snippet": "Penn State wrestling great and three-time NCAA national champion Bo Nickal was in action again at UFC 309 on Saturday, November 16, at Madison Square Garden&nbsp;...",
     "news_item_url": "https://onwardstate.com/2024/11/17/bo-nickal-defeats-paul-craig-by-unanimous-decision-to-maintain-unblemished-record/",
-    "picture_source": "Yahoo Eurosport UK",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Celtics",
-    "pubDate": "Sat, 16 Nov 2024 21:00:00 -0800",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTUw-aCNkMZdawHp2Lvu7ZpSG0DsUBXZrwZ-b4SB-udlQ5KHAfd6Vm7YgpDDYGZS-dxA1i2LdXK",
-    "news_item_snippet": "Tatum had two chances at a game-winning shot and didn&#39;t miss the second one.",
-    "news_item_url": "https://sports.yahoo.com/jayson-tatum-hits-buzzer-beating-3-in-celtics-win-over-raptors-after-missing-last-second-shot-in-regulation-053041931.html",
-    "picture_source": "ESPN",
+    "picture_source": "Fox News",
     "approx_traffic": "50,000+"
   },
   {
@@ -104,9 +104,29 @@
     "title": "Charli XCX",
     "pubDate": "Sat, 16 Nov 2024 21:00:00 -0800",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQF2PgirauOrl9rqKAGrd5Pfxop641dnJq6hEHAwGu2KKooqguVv1ouqPSsDR41Pt4xHQ80jX4b",
-    "news_item_snippet": "&quot;SNL&quot; recap: The best moments from the latest episode of Saturday Night Live (November 16, 2024) featuring host and musical guest Charli XCX.",
-    "news_item_url": "https://www.boston.com/culture/tv/2024/11/17/snl-recap-saturday-night-live-charli-xcx-november-16-2024/",
+    "news_item_snippet": "Singer Charli XCX slayed her first time as a Saturday Night Live Host on November 16, pulling double duty as Musical Guest with performances of &quot;360&quot; and&nbsp;...",
+    "news_item_url": "https://www.nbc.com/nbc-insider/watch-charli-xcx-snl-sketches-and-monologue-november-16-2024",
     "picture_source": "Paste Magazine",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Celtics",
+    "pubDate": "Sat, 16 Nov 2024 21:00:00 -0800",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTZjTPyCJF_kOVS9F291ycaDiO4HcCGT79Qh71bb5yDLW3kgq0CKg9evGsR3dt0BgTY9cosxGDc",
+    "news_item_snippet": "Tatum had two chances at a game-winning shot and didn&#39;t miss the second one.",
+    "news_item_url": "https://sports.yahoo.com/jayson-tatum-hits-buzzer-beating-3-in-celtics-win-over-raptors-after-missing-last-second-shot-in-regulation-053041931.html",
+    "picture_source": "ESPN",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Miss Universe 2024 winner",
+    "pubDate": "Sat, 16 Nov 2024 20:00:00 -0800",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRTtv5zrw9k3YeRri6zapI150g_XULxBBBTLgstSA9mOuNBneksnyX5p3dwVv_6P5rPEoroNomT",
+    "news_item_snippet": "Victoria Kj\u00e6r Theilvig of Denmark has been crowned Miss Universe 2024, becoming the first Dane to ever win the competition.",
+    "news_item_url": "https://www.cnn.com/2024/11/16/style/miss-universe-2024-winner-denmark-intl-hnk/index.html",
+    "picture_source": "USA TODAY",
     "approx_traffic": "50,000+"
   },
   {
@@ -121,19 +141,9 @@
   },
   {
     "country": "United States",
-    "title": "Miss Universe 2024 winner",
-    "pubDate": "Sat, 16 Nov 2024 20:00:00 -0800",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcR8C2RRHm6UtSDtUaouXaL7NJoqHgUUPTkr-jTdQTsgWJGR_d9i0iVtEk2ZTcTYhwPgYo_kJAMP",
-    "news_item_snippet": "The Miss Universe 2024 winner is Miss Denmark Victoria Kj\u00e6r Theilvig. The 21-year-old competed against 124 other women for the iconic crown.",
-    "news_item_url": "https://www.businessinsider.com/miss-universe-2024-winner-miss-denmark-2024-11",
-    "picture_source": "CNN",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
     "title": "Kansas State football",
     "pubDate": "Sat, 16 Nov 2024 18:00:00 -0800",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTjSkiOvzomzSAyTo06CLf5aMi7Ax8P8VjFJxwJngUQ-vCf8u_aknQmSyY5fLEFsjJyjXa0fp7t",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcS7CLCFuUfpeO-a2JerKbQ_Lbo82E17kpVihSmav0dYmA1EIB5GaagqrwuyLUA-NTH4zlk4i_Ew",
     "news_item_snippet": "What was the Arizona State vs Kansas State score? Look back at our college football updates from Big 12 Conference game between Sun Devils, Wildcats.",
     "news_item_url": "https://www.azcentral.com/story/sports/college/asu/2024/11/16/arizona-state-kansas-state-score-updates-college-football-game-today/76225314007/",
     "picture_source": "The Topeka Capital-Journal",
@@ -141,12 +151,12 @@
   },
   {
     "country": "United States",
-    "title": "Bucks vs Hornets",
-    "pubDate": "Sat, 16 Nov 2024 15:00:00 -0800",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTTd3tRus0NGgXPS8NsHt-7iRb1TvjdXl_1SNAfoCVjSlgVORoIAp34Nrdg9h0IZm_jUv900_nH",
-    "news_item_snippet": "Giannis Antetokounmpo was called for another controversial foul late in game, but this time Bucks lose 115-114 to Hornets.",
-    "news_item_url": "https://www.jsonline.com/story/sports/nba/bucks/2024/11/16/milwaukee-bucks-injury-report-giannis-antetokounmpo-status-charlotte-hornets-live-update/76206606007/",
-    "picture_source": "Yahoo Sports",
+    "title": "Bela Karolyi",
+    "pubDate": "Sat, 16 Nov 2024 19:00:00 -0800",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTV1ZCEb_Y8qRkjDUjHu7qcjZML47VHUKqAkvSOV-1BKt3Il9aQGZQ4UoK_aAsZjX2F8hQMLG4C",
+    "news_item_snippet": "USA Gymnastics said Karolyi died Friday. No cause of death was given. Karolyi and wife Martha trained multiple Olympic gold medalists and world champions in the&nbsp;...",
+    "news_item_url": "https://www.pbs.org/newshour/nation/gymnastics-coach-bela-karolyi-who-came-under-fire-during-nassar-scandal-dies-at-82",
+    "picture_source": "NBC News",
     "approx_traffic": "50,000+"
   },
   {
@@ -161,12 +171,12 @@
   },
   {
     "country": "United States",
-    "title": "Jimmy Carter",
-    "pubDate": "Sat, 16 Nov 2024 15:00:00 -0800",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSWeR6SlbhOEVOzPJ7cepRMdD-WS4qqQvxRy33rlpXxHRp1SdhVpuuYZ45DQl_BYd4QyT86e5_N",
-    "news_item_snippet": "Construction of the 13-story, high-rise apartment tower began in November 1976. The 226 units were part of a 26-acre urban renewal project, Mt. Vernon Plaza&nbsp;...",
-    "news_item_url": "https://www.dispatch.com/story/news/history/2024/11/17/mt-vernon-plaza-dedication-brought-president-jimmy-carter-a-crowd-of-thousands-and-hope/75946051007/",
-    "picture_source": "The Columbus Dispatch",
+    "title": "Paul Craig",
+    "pubDate": "Sat, 16 Nov 2024 19:00:00 -0800",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRGBIJx8rByo7NAhcb03MumAXlg470iwXrdek_QLZvzWSrhCeXZSDBh3BZ8A9JF666HD7WNUfUZ",
+    "news_item_snippet": "Bo Nickal defeated Paul Craig in a middleweight fight on Saturday night via decision \u2013 much to the chagrin of the UFC crowd.",
+    "news_item_url": "https://www.foxnews.com/sports/trump-marveled-size-difference-between-bo-nickal-paul-craig-ufc-president-dana-white-says",
+    "picture_source": "Fox News",
     "approx_traffic": "50,000+"
   },
   {
@@ -181,22 +191,12 @@
   },
   {
     "country": "United States",
-    "title": "Missouri vs South Carolina",
+    "title": "Jimmy Carter",
     "pubDate": "Sat, 16 Nov 2024 15:00:00 -0800",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQErQHfq6PGWuGzBjikDSAXoapv5B9d9aSSqAAZ0KXE1L_lLRPM4x24LXZuzeZ1ZZPpci4KH88x",
-    "news_item_snippet": "It&#39;s South Carolina vs. Missouri in Week 12 of the 2024 college football season. Follow our live game and score updates for Gamecocks&#39; last SEC game.",
-    "news_item_url": "https://www.greenvilleonline.com/story/sports/college/usc/2024/11/16/south-carolina-mizzou-game-live-updates-college-football-week-12/76158166007/",
-    "picture_source": "Alton Telegraph",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Travis Hunter",
-    "pubDate": "Sat, 16 Nov 2024 13:00:00 -0800",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcShuufJNU-vHnbav74WoY4dXeHnz6jmZ-En_q2ZKZzATPJvLxTdmy_s8J9wKWuBjoub4ZIvaIbf",
-    "news_item_snippet": "Travis Hunter and the No. 17-ranked Colorado Buffaloes are one step closer to playing for a Big 12 championship after a resounding 49-24 win over Utah.",
-    "news_item_url": "https://www.foxsports.com/stories/college-football/travis-hunter-epitome-football-player-has-heisman-worthy-showing-win",
-    "picture_source": "FOX31 Denver",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSWeR6SlbhOEVOzPJ7cepRMdD-WS4qqQvxRy33rlpXxHRp1SdhVpuuYZ45DQl_BYd4QyT86e5_N",
+    "news_item_snippet": "Construction of the 13-story, high-rise apartment tower began in November 1976. The 226 units were part of a 26-acre urban renewal project, Mt. Vernon Plaza&nbsp;...",
+    "news_item_url": "https://www.dispatch.com/story/news/history/2024/11/17/mt-vernon-plaza-dedication-brought-president-jimmy-carter-a-crowd-of-thousands-and-hope/75946051007/",
+    "picture_source": "The Columbus Dispatch",
     "approx_traffic": "50,000+"
   },
   {
@@ -221,13 +221,43 @@
   },
   {
     "country": "India",
-    "title": "Australia vs Pakistan",
-    "pubDate": "Sat, 16 Nov 2024 18:30:00 +0530",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTsotcVOuWvxXkmYbLVGU9cxDzm2KmswmjxGzSkdYzxH1PriH2jLt75vpV0MsTYgZPQEO55CXkZ",
-    "news_item_snippet": "AUS vs PAK 2024/25, Australia vs Pakistan Match Report: Pakistan fought back after poor starts in either innings of the game but fell well short.",
-    "news_item_url": "https://www.espncricinfo.com/series/australia-vs-pakistan-2024-25-1426544/australia-vs-pakistan-2nd-t20i-1426553/match-report",
+    "title": "Pushpa",
+    "pubDate": "Sun, 17 Nov 2024 19:30:00 +0530",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcThe-4a-A78HWGJBsVFsEKddOaONN0IaY_opqwWMymgGEBDHwNGLwwpswEAaJIRYssJ7su8z8En",
+    "news_item_snippet": "\u0906\u091c \u0907\u0938 \u092b\u093f\u0932\u094d\u092e \u0915\u093e \u091f\u094d\u0930\u0947\u0932\u0930 \u0930\u093f\u0932\u0940\u091c \u0939\u094b\u0928\u093e \u0925\u093e\u0964 \u0915\u093e\u0930\u094d\u092f\u0915\u094d\u0930\u092e \u092e\u0947\u0902 \u0936\u093e\u092e\u093f\u0932 \u0939\u094b\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u0938\u0941&nbsp;...",
+    "news_item_url": "https://www.amarujala.com/bihar/bihar-news-trailer-of-pushpa-2-film-is-being-launched-today-superstar-allu-arjun-rashmika-mandannam-patna-2024-11-17",
+    "picture_source": "\u0c08\u0c28\u0c3e\u0c21\u0c41",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "India",
+    "title": "Ayatollah Ali Khamenei",
+    "pubDate": "Sun, 17 Nov 2024 16:30:00 +0530",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTCnzuEjryCvUHjJU0x9bvN7OLxb_4u6x-5EV-cs4LzzW471X1cG-StbOLy_AV79bGBbM9goOTC",
+    "news_item_snippet": "Middle East News: Iran&#39;s Supreme Leader, Ali Khamenei, reportedly chose his son, Mojtaba, as his successor during a secret meeting of the Assembly of&nbsp;...",
+    "news_item_url": "https://timesofindia.indiatimes.com/world/middle-east/ali-khameneis-son-mojtaba-set-to-take-over-as-irans-supreme-leader-report/articleshow/115385642.cms",
     "picture_source": "Livemint",
-    "approx_traffic": "1,000,000+"
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "India",
+    "title": "Dog",
+    "pubDate": "Sun, 17 Nov 2024 22:30:00 +0530",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcR8XTcztssaNIKS9Q_h4jGYmm-6r90-YNMLpluUr-tVksEzd_KwMP9Hnk3woIVnyAuewOeJeSiE",
+    "news_item_snippet": "Laika, a Soviet dog, earned her place in history as the first living being to orbit Earth in 1957. Launched aboard Sputnik 2 during the Space Race, he.",
+    "news_item_url": "https://timesofindia.indiatimes.com/etimes/trending/how-a-street-dog-made-a-space-history-but-never-returned-to-earth/articleshow/115386512.cms",
+    "picture_source": "Times of India",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "India",
+    "title": "AUS vs PAK",
+    "pubDate": "Sat, 16 Nov 2024 18:30:00 +0530",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRISuy_TcEzBDiTgiMrW206krlGXjdV2wRCV3n5Vf_uLQC5dAEm-gJt8irzsOY0IGenVGt-3VOj",
+    "news_item_snippet": "Australia vs Pakistan highlights, 2nd T20I: Spencer Johnson&#39;s 5/26 overshadowed Haris Rauf&#39;s four-wicket haul as Pakistan defeated Australia by 13 runs to&nbsp;...",
+    "news_item_url": "https://www.livemint.com/sports/news/aus-vs-pak-2nd-t20i-live-score-australia-national-cricket-team-vs-pakistan-national-cricket-team-t20i-scorecard-sydney-11731742450769.html",
+    "picture_source": "Jansatta",
+    "approx_traffic": "100,000+"
   },
   {
     "country": "India",
@@ -247,6 +277,16 @@
     "news_item_snippet": "With Coldplay planning to hold its biggest ever show in Ahmedabad in January 2025, room tariffs in hotels have gone up to \u20b91.60 lakh for a two-night stay.",
     "news_item_url": "https://www.hindustantimes.com/real-estate/coldplay-ahmedabad-concert-2025-hotel-room-rents-go-through-the-roof-much-beyond-new-year-rates-101731736482109.html",
     "picture_source": "Times of India",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "India",
+    "title": "Dhanush",
+    "pubDate": "Sat, 16 Nov 2024 14:30:00 +0530",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcR8KTOZP2y_cKYhAR-ZMddY_NHCVj350GyG3sktsjQ2tntA9RBy3cI64_GZT0waXzlp0eMmWy3d8w",
+    "news_item_snippet": "Hours after Nayanthara published open letter accusing actor-producer Dhanush of &#39;festering vengeance&#39; against her forthcoming Netflix documentary,&nbsp;...",
+    "news_item_url": "https://www.thehindu.com/entertainment/nayanthara-beyond-the-fairy-tale-dhanushs-former-co-stars-including-shruti-haasan-parvathy-and-nazriya-extend-support-to-nayanthara/article68878451.ece",
+    "picture_source": "Hindustan Times",
     "approx_traffic": "50,000+"
   },
   {
@@ -271,6 +311,16 @@
   },
   {
     "country": "Brazil",
+    "title": "Brusque x Guarani",
+    "pubDate": "Sun, 17 Nov 2024 09:00:00 -0500",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQ1S7z8H3KnQANr8_a1b-L9EqlZtN3SrIaaEZkRACGADF7XHIhmvt8LLT0HoxDfXOdM23hE1vYx",
+    "news_item_snippet": "O Brusque venceu por 2 a 1 o Guarani, em confronto v\u00e1lido pela 37\u00aa rodada da S\u00e9rie B do Campeonato Brasileiro. Apesar das duas equipes j\u00e1 estarem rebaixadas&nbsp;...",
+    "news_item_url": "https://ge.globo.com/sc/futebol/times/brusque/noticia/2024/11/17/video-melhores-momentos-de-brusque-2-x-1-guarani.ghtml",
+    "picture_source": "Correio Braziliense",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Brazil",
     "title": "Athletico-PR x Atl\u00e9tico-MG",
     "pubDate": "Sat, 16 Nov 2024 16:00:00 -0500",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQ64xJOcXJUrYkwciJsC2FZtilzpB0iCU9JdMGiKRP1zvqZ-JnSpS-cxMOJooz_Z4_NFSYN_ekE",
@@ -283,21 +333,11 @@
     "country": "Brazil",
     "title": "Ponte Preta x Sport Recife",
     "pubDate": "Sat, 16 Nov 2024 07:00:00 -0500",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcT8uiK2aetWiNMDcnFoMePvgfjxBllvic8pA4TGUEp9onD2SJFYoV5JtXProhc2qwfQcnQ7Up7D",
-    "news_item_snippet": "Fim do Jogo, Ponte Preta 0, Sport Recife 4. 2\u00ba Tempo.",
-    "news_item_url": "https://www.terra.com.br/esportes/futebol/brasileiro-serie-b/ao-vivo/ponte-preta-x-sport/86736/",
-    "picture_source": "globoesporte.com",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSiqRRyeYaz8VKLFV-KaNP9qt3x4OScGwzRm-2OnMBQ7GbqpGm6TLAa7JIWZH9rLc2-v-sxh_Wh",
+    "news_item_snippet": "O Sport brilhou fora de casa ao vencer a Ponte Preta por 4 a 0, no est\u00e1dio Mois\u00e9s Lucarelli, pela 37\u00aa rodada da S\u00e9rie B. Os gols do triunfo rubro-negro&nbsp;...",
+    "news_item_url": "https://sportrecife.com.br/o-clube/sport-goleia-ponte-preta-fora-de-casa/",
+    "picture_source": "Terra",
     "approx_traffic": "200,000+"
-  },
-  {
-    "country": "Brazil",
-    "title": "Atletico MG",
-    "pubDate": "Sat, 16 Nov 2024 17:00:00 -0500",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTR3YK96yKRAOmoelcT6nvAeCATwoTrTYyqr-NMg9h32PGCLPTB4bt6hFKbrJ3VUOgNtCQ_P1zx",
-    "news_item_snippet": "O Atl\u00e9tico-MG chegou a cinco jogos seguidos sem vencer no Campeonato Brasileiro. Na noite deste s\u00e1bado (16), o Galo perdeu por 1 a 0 para o Athletico-PR e&nbsp;...",
-    "news_item_url": "https://www.cnnbrasil.com.br/esportes/futebol/atletico-mineiro/atletico-mg-esta-a-cinco-pontos-do-z4-e-do-g7-no-brasileirao/",
-    "picture_source": "G1",
-    "approx_traffic": "100,000+"
   },
   {
     "country": "Brazil",
@@ -307,6 +347,16 @@
     "news_item_snippet": "O jogo aconteceu na noite deste s\u00e1bado, no est\u00e1dio On\u00e9sio Brasileiro Alvarenga (OBA), em Goi\u00e2nia, e deixou o time paulista ainda vivo na disputa contra o&nbsp;...",
     "news_item_url": "https://www.uol.com.br/esporte/ultimas-noticias/agencia/2024/11/16/ituano-conquista-vitoria-memoravel-contra-vila-nova-e-evita-rebaixamento-antecipado-na-serie-b.htm",
     "picture_source": "Terra",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "Brazil",
+    "title": "Janja",
+    "pubDate": "Sat, 16 Nov 2024 18:00:00 -0500",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSAr4zyqHu-DC3DcJlrABkYu7hxRZJsRwWrdwXRSFGTxo12Mc1s05msfTSt-1f2XlevPSe-t5dH",
+    "news_item_snippet": "Presidente afirma que \u00e9 preciso apenas &#39;indignar a sociedade&#39;, sem &#39;ofender ningu\u00e9m&#39;. Declara\u00e7\u00e3o foi feita horas depois de Janja atacar bilion\u00e1rio,&nbsp;...",
+    "news_item_url": "https://oglobo.globo.com/rio/noticia/2024/11/17/apos-polemica-envolvendo-janja-e-elon-musk-lula-defende-campanha-sem-xingamentos.ghtml",
+    "picture_source": "CNN Brasil",
     "approx_traffic": "100,000+"
   },
   {
@@ -321,18 +371,18 @@
   },
   {
     "country": "Brazil",
-    "title": "Janja",
-    "pubDate": "Sat, 16 Nov 2024 18:00:00 -0500",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSBs3hJOyHRhnmmRy3zWtz5FAxGczA_DMgAnZnV5KHwmIEB_POgeaVp0dWupheF50TYohwPcNK8",
-    "news_item_snippet": "A agress\u00e3o da primeira-dama Ros\u00e2ngela da Silva, a Janja, ao empres\u00e1rio Elon Musk pode impactar negativamente as rela\u00e7\u00f5es do Brasil com o futuro governo de&nbsp;...",
-    "news_item_url": "https://www.bbc.com/portuguese/articles/c4gv7k0298wo",
-    "picture_source": "Jornal O Globo",
+    "title": "Atletico",
+    "pubDate": "Sat, 16 Nov 2024 17:00:00 -0500",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRHthgzdvf-IxgXvt1xsH5WfD4JAC0EbFuXrEvIpTiGESPDytGPKsdp5PpTbp71VeWLtIM5J8ao",
+    "news_item_snippet": "O caso aconteceu em 10 de novembro, na Arena MRV, em Belo Horizonte, no jogo de volta que sagrou o time rubro-negro campe\u00e3o.",
+    "news_item_url": "https://ge.globo.com/futebol/times/atletico-mg/noticia/2024/11/17/suspeito-de-jogar-bomba-que-feriu-fotojornalista-em-jogo-entre-atletico-mg-e-flamengo-e-preso.ghtml",
+    "picture_source": "CNN Brasil",
     "approx_traffic": "50,000+"
   },
   {
     "country": "Canada",
     "title": "UFC",
-    "pubDate": "Sat, 16 Nov 2024 00:00:00 -0500",
+    "pubDate": "Sat, 16 Nov 2024 02:00:00 -0500",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRXSdtObt2boGLBRiEy8Lb3E-LhM5LXhOxDj0VEY91ypl-ks0g2GfVylI4we0FwSqg_Z8SMfWNu",
     "news_item_snippet": "See The Fight Results, Watch Post-Fight Interviews With The Main Card Winners And More From UFC 309: Jones vs Miocic, Live From Madison Square Garden In New&nbsp;...",
     "news_item_url": "https://www.ufc.com/news/main-card-results-highlights-winner-interviews-ufc-309-jones-vs-miocic",
@@ -361,16 +411,6 @@
   },
   {
     "country": "France",
-    "title": "Combat Mike Tyson",
-    "pubDate": "Sat, 16 Nov 2024 19:00:00 +0100",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRRoXcUZb6KI4ymwWJIqJ2OwXpGXim_ffmMjuSxHQcuHIMAQBVNrwybZA-ws7fC4D2MNGbH2_X_",
-    "news_item_snippet": "La l\u00e9gende des poids lourds Mike Tyson, \u00e2g\u00e9 de 58 ans, a perdu son combat contre le YouTuber devenu boxeur Jake Paul ce vendredi. Mike Tyson n&#39;avait plus&nbsp;...",
-    "news_item_url": "https://www.europe1.fr/sport/boxe-mike-tyson-58-ans-battu-sur-decision-des-juges-par-le-youtuber-jake-paul-4279350",
-    "picture_source": "Ouest-France",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "France",
     "title": "Prise d'otage Issy-les-Moulineaux",
     "pubDate": "Sat, 16 Nov 2024 15:00:00 +0100",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSLEV2LY0eS_SM901E_cozoYQH1gCw2uYubAUJkf5O0gtome4O-nSkaaqxzoqAIGnBC0I0p6LEn",
@@ -384,7 +424,7 @@
     "title": "Adam Szalai",
     "pubDate": "Sat, 16 Nov 2024 23:00:00 +0100",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTk-DrpLMpJlcu8UPvUGgVSQlYmzcxfZoB3mVppbGNO4yfydeeAIgtftu3uW0kZnbFksPTw2OKI",
-    "news_item_snippet": "Der fr\u00fchere Bundesliga-Profi Adam Szalai hat sich wenige Stunden nach seinem Zusammenbruch via sozialer Netzwerke gemeldet.",
+    "news_item_snippet": "Der fr\u00fchere Bundesliga-Profi Adam Szalai hat sich wenige Stunden nach seinem Zusammenbruch via sozialer Netzwerke gemeldet und mittlerweile das Krankenhaus&nbsp;...",
     "news_item_url": "https://sport.sky.de/fussball/artikel/adam-szalai-gibt-entwarnung-nach-zusammenbruch-bei-ungarn-spiel/13255500/35311",
     "picture_source": "kicker",
     "approx_traffic": "50,000+"
@@ -397,16 +437,6 @@
     "news_item_snippet": "Der Streamingdienst Netflix will gro\u00df in den Livesport einsteigen. Doch die \u00dcbertragung des Boxkampfs zwischen Mike Tyson und Jake Paul wird zum Desaster.",
     "news_item_url": "https://www.spiegel.de/netzwelt/mike-tyson-vs-jake-paul-auf-netflix-viele-kunden-koennen-den-kampf-nicht-sehen-a-8d1ebd82-e8dd-4f18-bbf9-e3cfe40ae1ce",
     "picture_source": "RAN",
-    "approx_traffic": "500,000+"
-  },
-  {
-    "country": "Germany",
-    "title": "Deutschland Bosnien",
-    "pubDate": "Fri, 15 Nov 2024 21:00:00 +0100",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcT-WJdYqZvOalZaSkIT7iHxvmHjyT5UIaxBN-0gLaK_aZ8FRoOHH66Y7oI4jvL65QI58ZJJ3YPE",
-    "news_item_snippet": "Mit einem Fu\u00dfball-Feuerwerk gegen Bosnien-Herzegowina hat sich Deutschland vorzeitig den Gruppensieg in der Nations League gesichert.",
-    "news_item_url": "https://www.sportschau.de/fussball/nationalmannschaft/deutschland-feiert-fussball-feuerwerk-gegen-bosnien,deutschland-bosnien-spielbericht-104.html",
-    "picture_source": "Sportschau",
     "approx_traffic": "500,000+"
   },
   {
@@ -453,40 +483,20 @@
     "country": "Italy",
     "title": "Italia-Francia",
     "pubDate": "Sun, 17 Nov 2024 11:00:00 +0100",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTG2FHvP5XR9WUfdTdDQ6mEruf6bGZ5FUiknRDKC2kPL2ZALJVwm-rUCzEyN2Z7uNE3BojjDwF_",
-    "news_item_snippet": "Torna in campo l&#39;Italia. La Nazionale di Luciano Spalletti, dopo la sofferta vittoria contro il Belgio e la conseguente qualificazione ai quarti di finale&nbsp;...",
-    "news_item_url": "https://www.adnkronos.com/sport/italia-francia-nations-league-orario-probabili-formazioni-dove-vederla-in-tv_UPpcbuPLKJFfsztk5K4ye",
-    "picture_source": "La Gazzetta dello Sport",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQIXoKg9-1saAjUMPY7CMZEcbbfJn4nH4sU4XgRKjL8jDDt2PQb-1XPySIRX_vMrqUwHFZMuRn9",
+    "news_item_snippet": "Basta un pari, o anche una sconfitta con un gol di scarto. Ma vogliamo completare la rinascita col nuovo calcio totale di Spalletti.",
+    "news_item_url": "https://www.gazzetta.it/Calcio/nazionali/17-11-2024/italia-con-la-francia-missione-primo-posto-nel-girone-di-nations-league.shtml",
+    "picture_source": "Sky Tg24",
     "approx_traffic": "50,000+"
   },
   {
     "country": "Italy",
     "title": "Elezioni regionali Emilia-Romagna",
     "pubDate": "Sun, 17 Nov 2024 07:00:00 +0100",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQpgEJIb8TNt6HoCMr75bzspUb8I32GHsQg6qNsGIivMAsJQk7Zr5Hv79X_jpcpxCy1icdj-wCI",
-    "news_item_snippet": "Tutto quello che c&#39;\u00e8 da sapere sulle elezioni regionali 2024 in Emilia-Romagna e Umbria: chi sono i candidati, come si vota e i dati dell&#39;affluenza.",
-    "news_item_url": "https://www.gazzetta.it/attualita/17-11-2024/elezioni-regionali-2024-in-emilia-romagna-e-umbria-candidati-affluenza-e-come-si-vota.shtml",
-    "picture_source": "Sky Tg24",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Italy",
-    "title": "MotoGP",
-    "pubDate": "Sat, 16 Nov 2024 12:00:00 +0100",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSaw6f8xjYd0DagVSBhn7HIMTgX_pvZurrLcL75KpfDqdrfdXGBIaEBLWnbFjonw1QFBvwVI_IL",
-    "news_item_snippet": "Pecco, dopo due titoli iridati consecutivi, cede lo scettro allo spagnolo della Ducati Pramac, che il prossimo anno andr\u00e0 in Aprilia.",
-    "news_item_url": "https://www.gazzetta.it/Moto/moto-GP/17-11-2024/motogp-barcellona-vince-bagnaia-martin-campione-del-mondo.shtml",
-    "picture_source": "Sky Sport",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "Italy",
-    "title": "Quanti anni ha Dalila Di Lazzaro",
-    "pubDate": "Sat, 16 Nov 2024 18:00:00 +0100",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQ5LADC05mkNrsNsIU3iK7xJ1sN3mpolx6liEQ5uK1YaiwakkTgRhkCzv5DVvT4VQwEQ-r292ul",
-    "news_item_snippet": "Dalila Di Lazzaro \u00e8 stata ospite nel salotto di \u201cVerissimo\u201d e ha presentato a Silvia Toffanin e ai telespettatori di Canale 5 il suo compagno e chitarrista&nbsp;...",
-    "news_item_url": "https://www.ilfattoquotidiano.it/2024/11/17/dalila-di-lazzaro-manuel-pia-verissimo-fidanzato-violenza-sessuale/7770549/",
-    "picture_source": "Vanity Fair.it",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSna4wsa8VhLHJvim_XXKTAOInp8W3QwpXzU4n9IhpiQk-zsYsa2zb-QOvO6f9zzclGR5tIKjLo",
+    "news_item_snippet": "Urne aperte nelle due Regioni fino alle 23 di oggi, domani dalle 7 alle 15. Subito dopo comincer\u00e0 lo spoglio. In totale, chiamati alle urne 4,3 milioni di&nbsp;...",
+    "news_item_url": "https://www.rainews.it/maratona/2024/11/elezioni-regionali-novembre-2024-emilia-romagna-umbria-voto-tesei-proietti-ugolini-depascale-c595eeaa-cd36-4943-ab43-10e412474178.html",
+    "picture_source": "La Gazzetta dello Sport",
     "approx_traffic": "50,000+"
   },
   {
@@ -494,8 +504,8 @@
     "title": "Miss Universo 2024",
     "pubDate": "Sat, 16 Nov 2024 20:00:00 -0600",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQu1q74Na7WBZAM_VBT8JDIlBDCtgp8UfBNKZGdXIscVEBC5yYMrSfNqpNjv1bBDD0QsdaMy21r",
-    "news_item_snippet": "Tras ingresar al segundo corte, la candidata peruana no logr\u00f3 clasificar a las 5 finalistas. Miss\u00f3logos y portales especializados la daban como ganadora en&nbsp;...",
-    "news_item_url": "https://www.infobae.com/peru/2024/11/17/miss-universo-2024-tatiana-calmell-es-anunciada-entre-las-30-finalistas-del-certamen/",
+    "news_item_snippet": "Aunque nos dio mucha tristeza que Miss M\u00e9xico, Mar\u00eda Fernanda Beltr\u00e1n, no se llevara la corona de Miss Universo 2024, especialmente porque el certamen se&nbsp;...",
+    "news_item_url": "https://www.chicmagazine.com.mx/personajes/victoria-kjaer-ganadora-de-miss-universo-2024-sin-maquillaje",
     "picture_source": "El Financiero",
     "approx_traffic": "100,000+"
   },
@@ -504,8 +514,8 @@
     "title": "UFC",
     "pubDate": "Sat, 16 Nov 2024 11:00:00 -0600",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSVylsdaRH5gQgb2hxKhxZFFekM5uhfuvhBgJFfNn2pFRxC8FC2kyB3613FylwE-zk1pHnRFx8X",
-    "news_item_snippet": "Jon Jones (28-1) sum\u00f3 un nuevo triunfo en su regreso a la UFC ante Stipe Miocic (20-5), el mejor peso pesado de todos los tiempos, y defendi\u00f3 su cintur\u00f3n. &#39;&nbsp;...",
-    "news_item_url": "https://www.marca.com/combates-ufc/2024/11/17/jon-jones-destruye-miocic-confirma-goat-ufc.html",
+    "news_item_snippet": "El presidente electo fue acompa\u00f1ado por Elon Musk para ver el combate entre los pesos pesados estadounidenses Jon Jones y Stipe Miocic.",
+    "news_item_url": "https://www.infobae.com/estados-unidos/2024/11/17/tras-su-triunfo-en-las-elecciones-de-eeuu-donald-trump-volvio-al-madison-square-garden-para-asistir-a-una-pelea-de-ufc/",
     "picture_source": "AP News",
     "approx_traffic": "50,000+"
   },
@@ -521,42 +531,32 @@
   },
   {
     "country": "Spain",
-    "title": "MotoGP",
+    "title": "Jorge Mart\u00edn",
     "pubDate": "Sat, 16 Nov 2024 09:00:00 +0100",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQV9PGmN08n-VESIXKbrBxbvinIdhvjTG7tZXPkEXpSkZVOkEIkZ_p7JO6WDI-tRymx-8tnxMt3",
-    "news_item_snippet": "Nadie fall\u00f3 en el Gran Premio Barcelona Solidaridad de MotoGP, en el que el italiano Francesco &#39;Pecco&#39; Bagnaia (Ducati Desmosedici GP24) hizo lo que deb\u00eda,&nbsp;...",
-    "news_item_url": "https://www.dxtcampeon.com/articulo/motor/jorge-martin-campeon-mundo-moto-gp-5073562",
-    "picture_source": "RTVE",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRHHogEDdy_BPYjw37ERoWZ0FZUxs7znq7ZyaaeDmqtfktVGc6keo7UalesmP6jYXSqMkcMPWBM",
+    "news_item_snippet": "Heredero de la pasi\u00f3n de su padre \u00c1ngel por las dos ruedas y el coraz\u00f3n de su madre Susana, el flamante campe\u00f3n del mundo aprendi\u00f3 de bien peque\u00f1o a vivir&nbsp;...",
+    "news_item_url": "https://elpais.com/deportes/motociclismo/2024-11-17/jorge-martin-un-culo-inquieto-que-crecio-entre-revistas-de-motos-y-el-ruido-del-jarama.html",
+    "picture_source": "Motorsport.com, Edici\u00f3n: Espa\u00f1a",
     "approx_traffic": "100,000+"
   },
   {
     "country": "Spain",
     "title": "Jake Paul",
     "pubDate": "Sat, 16 Nov 2024 09:00:00 +0100",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcT-X_33FpaBkQPYa6zjkYgWCEnWbf03dZwgx4jAo-tJcr_jSKYROimW9yaVW5FdAMiSI98yCScv",
-    "news_item_snippet": "El hecho record\u00f3 el altercado con Holyfield, en el cual descalificaron a Tyson por morder la oreja de su contrincante.",
-    "news_item_url": "https://espndeportes.espn.com/boxeo/nota/_/id/14451977/mike-tyson-por-que-mordio-sus-guantes-ante-jake-paul",
-    "picture_source": "Los Angeles Times",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRdmAx113cLFGBI17zcsxURGEa9lTFZ0G5wPlN5aNvuNot7epQnSBWvQnXK6-gtLsglex16iVOS",
+    "news_item_snippet": "Mike Tyson en su combate de la categor\u00eda pesopesado ante Jake Paul en el Estadio AT&amp;T el viernes 15 de noviembre del 2024. (Julio Cortez / Associated Press).",
+    "news_item_url": "https://www.latimes.com/espanol/deportes/articulo/2024-11-16/jake-paul-cree-que-puede-luchar-por-un-titulo-y-mike-tyson-no-se-considera-acabado-a-los-58",
+    "picture_source": "ESPN Deportes",
     "approx_traffic": "50,000+"
   },
   {
     "country": "Spain",
-    "title": "Real Madrid c F Femenino  Barcelona",
+    "title": "Real Madrid c f Femenino  Barcelona",
     "pubDate": "Sat, 16 Nov 2024 20:00:00 +0100",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcT15flyYC529ryBECH-NxXgBJ95E_wn3alRXXQzcWRqKvXCH79vYXczR1lqAvQfcV0seqnHAdR7",
     "news_item_snippet": "El Real Madrid y el FC Barcelona se enfrentan hoy en el estadio Alfredo Di St\u00e9fano en un partido de lo m\u00e1s igualado, entre primera y segunda de la Liga F.",
     "news_item_url": "https://www.rtve.es/deportes/20241116/real-madrid-fc-barcelona-liga-femenina/16332321.shtml",
     "picture_source": "ADSLZone",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Spain",
-    "title": "Gladiator 2",
-    "pubDate": "Sat, 16 Nov 2024 02:00:00 +0100",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQo-OoKpFBUDZTnSepunAh_XDjWNVpoSFJ71mu2D_j71HQqnvsHry1RZG5deIXN2ZGVqlioTK9h",
-    "news_item_snippet": "Espect\u00e1culos imposibles y fantas\u00edas que superan las imaginaciones m\u00e1s calenturientas de la antigua Roma. Mar\u00eda Engracia Mu\u00f1oz-Santos, especialista en&nbsp;...",
-    "news_item_url": "https://www.larazon.es/cultura/historia/gladiator-2-pelicula-gustara-mary-beard/20241117/1135151.html",
-    "picture_source": "Diario de Sevilla",
     "approx_traffic": "50,000+"
   },
   {
@@ -568,6 +568,16 @@
     "news_item_url": "https://news.sky.com/story/glastonbury-festival-tickets-sell-out-in-less-than-half-an-hour-13255525",
     "picture_source": "BBC News",
     "approx_traffic": "200,000+"
+  },
+  {
+    "country": "United Kingdom",
+    "title": "England vs Ireland",
+    "pubDate": "Sun, 17 Nov 2024 12:00:00 +0000",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRO2F_3g3Aw2oEFaYb8imleXxIPgacBDkCvrAjFYCSKFyFAhxqwQc9I_zXNPrHAcXdMfnmItZBj",
+    "news_item_snippet": "Lee Carsley takes charge of his final match as interim head coach before Thomas Tuchel takes over in January.",
+    "news_item_url": "https://www.standard.co.uk/sport/football/england-vs-ireland-live-stream-nations-league-2024-latest-score-result-watch-tv-team-news-b1194501.html",
+    "picture_source": "The Independent",
+    "approx_traffic": "100,000+"
   },
   {
     "country": "United Kingdom",
@@ -583,7 +593,7 @@
     "country": "United Kingdom",
     "title": "Snow warning",
     "pubDate": "Sat, 16 Nov 2024 16:00:00 +0000",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQLyCCzBhBuQ1KphdTPIhR92F6w23wFDkx2Yg84Osl2OqxBY6zqYAQEkUMqGc4TJEGOCy-PKnOw",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRiZqarKEwFEv3IzfgPi0ZacWJbTkytHTEDGqR6otB_qV4vFOZ0jKQufJXJqNb54XPwJhIrw0Kk",
     "news_item_snippet": "Snow to affect parts of Scotland from Sunday afternoon, and further snow forecast for large parts of Northern England and North Wales from Monday evening.",
     "news_item_url": "https://www.metoffice.gov.uk/about-us/news-and-media/media-centre/weather-and-climate-news/2024/snow-warnings-updated",
     "picture_source": "BBC News",
@@ -594,8 +604,8 @@
     "title": "England vs South Africa",
     "pubDate": "Sat, 16 Nov 2024 14:00:00 +0000",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRJXEYB4JXF1HBhT3-9p9HtiaQjdt4qMHcFbScwzhV7742Du6ldBGRmMPbFDx_rKapphhNuMGri",
-    "news_item_snippet": "England succumbed to their third defeat in a row in the Autumn Nations Series as world champions South Africa held them off in a 29-20 victory.",
-    "news_item_url": "https://www.skysports.com/rugby-union/england-vs-south-africa/report/108208",
+    "news_item_snippet": "Steve Borthwick&#39;s side have now lost five games in a row including the summer defeats to New Zealand.",
+    "news_item_url": "https://www.independent.co.uk/sport/rugby/rugby-union/england-south-africa-live-stream-score-result-springboks-b2647798.html",
     "picture_source": "The Independent",
     "approx_traffic": "100,000+"
   },
