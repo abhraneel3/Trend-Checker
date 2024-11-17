@@ -1,6 +1,16 @@
 [
   {
     "country": "United States",
+    "title": "Packers",
+    "pubDate": "Sun, 17 Nov 2024 11:00:00 -0800",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQlWqzjIQnwkS6GdjcOmPrMHLN35inDR730_InPS6EveOxBqEkLXgZVgLZfD79LrSCmblKsnAL4",
+    "news_item_snippet": "Follow the Green Bay Packers vs. Chicago Bears game with live updates from Soldier Field.",
+    "news_item_url": "https://www.packers.com/news/live-blog-packers-bears-week-11-2024",
+    "picture_source": "Milwaukee Journal Sentinel",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "United States",
     "title": "Ravens vs Steelers",
     "pubDate": "Sun, 17 Nov 2024 10:00:00 -0800",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTKlvA6Sr97qzphNEkTr0fK1zxXSfhgYlPD8zbFAkA8FjZfKuBKNPuDspwUOfK_h1SRL4SpsDA_",
@@ -11,62 +21,72 @@
   },
   {
     "country": "United States",
-    "title": "Packers",
+    "title": "Lions",
     "pubDate": "Sun, 17 Nov 2024 11:00:00 -0800",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSWxvV3O2bBoCgsc_6fhq8pqfHmWuBNpLmdPJMinHZysz8NRGKOo3Hsklve57xYMTiBiliX5dOx",
-    "news_item_snippet": "Regardless if the Bears win or lose the change in offensive coordinator appears to have helped Caleb Williams today. His option keeper on 4th and 1 keeps the&nbsp;...",
-    "news_item_url": "https://www.jsonline.com/live-story/sports/nfl/packers/2024/11/17/packers-vs-bears-score-live-game-updates-highlights-week-11/76267029007/",
-    "picture_source": "Packers.com",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQXc-KXYqdKJk0MvUqqY4fbT1-LCpUzmhe9TH2DnlFDxEbroxeCrr0xUpUu2NI-r2dv1Mfbjrzw",
+    "news_item_snippet": "Real time game updates right at your fingertips. Don&#39;t miss a moment of the MIN vs. JAX matchup at EverBank Stadium.",
+    "news_item_url": "https://www.jaguars.com/news/jaguars-vs-lions-live-game-blog-week-11-2024",
+    "picture_source": "detroitlions.com",
     "approx_traffic": "200,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Miami Dolphins",
+    "pubDate": "Sun, 17 Nov 2024 11:00:00 -0800",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSJFWZGMpwKPXZDL7fqGwR6MT_0pVqUUvEQCiQ85J3oKsgBvI0vZIHnk6AE5-3w-X_M5rL29ory",
+    "news_item_snippet": "The Miami Dolphins defense came up big in a much-needed victory at SoFi Stadium.",
+    "news_item_url": "https://www.si.com/nfl/dolphins/dolphins-raiders-2024-week-11-instant-takeaways-01jcxvvtwtbz",
+    "picture_source": "Palm Beach Post",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Browns",
+    "pubDate": "Sun, 17 Nov 2024 11:00:00 -0800",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSwqYeln_1ePjDKyM55NuEalscFO0QK5DicAZGeFHGpxmBMbv6-0zQF_roLE4GMioqHxMisLi9M",
+    "news_item_snippet": "QB Jameis Winston finished with 395 passing yards in the loss.",
+    "news_item_url": "https://www.clevelandbrowns.com/news/saints-35-browns-14-final-score-stats-game-recap",
+    "picture_source": "clevelandbrowns.com",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Rams",
+    "pubDate": "Sun, 17 Nov 2024 11:00:00 -0800",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSeZD2apfYfPt2AhcH82xRkuJNuuSa4X7ATnUWNr4JkdGyP1nlG6rA6PzuZ7bCilNK8JVO7iip2",
+    "news_item_snippet": "It&#39;s Rams vs. Patriots in Week 11 of the 2024 NFL season. Here&#39;s how to watch, including time, channel, TV schedule and streaming info.",
+    "news_item_url": "https://theramswire.usatoday.com/2024/11/17/rams-patriots-channel-time-tv-streaking-nfl-week-11/",
+    "picture_source": "Patriots.com",
+    "approx_traffic": "50,000+"
   },
   {
     "country": "United States",
     "title": "Tom Aspinall",
     "pubDate": "Sun, 17 Nov 2024 06:00:00 -0800",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTfd0q7FRBlBXUQ1KFQfwJ7rXCCqHBN3t3jm4KFPmnrcee2hAUaaGnlP3rcZP7oUugcOVVVt3rJ",
-    "news_item_snippet": "Interim UFC heavyweight champion Tom Aspinall believes he&#39;s next up for champion Jon Jones following UFC 309.",
-    "news_item_url": "https://mmajunkie.usatoday.com/2024/11/tom-aspinall-confident-jon-jones-ufc-heavyweight-title-fight-next",
+    "news_item_snippet": "Jon Jones may claim Tom Aspinall lacks notoriety, but UFC CEO Dana White clearly thinks otherwise.",
+    "news_item_url": "https://mmajunkie.usatoday.com/2024/11/ufc-309-dana-white-jon-jones-vs-tom-aspinall-biggest-fight-history",
     "picture_source": "Bleacher Report",
     "approx_traffic": "50,000+"
   },
   {
     "country": "United States",
-    "title": "Raiders vs Dolphins",
+    "title": "Vikings vs Titans",
     "pubDate": "Sun, 17 Nov 2024 11:00:00 -0800",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcT7H-97dVxKr3YIEi2KhMPoplL8C3CeHG2-BSAyBokcDdDBK2SyeRn6IE1axKI-fcL6vZDtOkTb",
-    "news_item_snippet": "Live stream Las Vegas Raiders vs. Miami Dolphins in the NFL from anywhere in the U.S..",
-    "news_item_url": "https://mashable.com/article/raiders-dolphins-2024-nfl-live-stream",
-    "picture_source": "Newsweek",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Rams",
-    "pubDate": "Sun, 17 Nov 2024 11:00:00 -0800",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSqEl3A1IEcOyiVq05SIYmQZIJlxxLwKbc1VicHW-lA8gcezaOI01ek00-A3Uhno-vO0h9Zl-Ij",
-    "news_item_snippet": "1. Drop seven into coverage. The Patriots have one of the worst offensive lines in football, allowing rookie QB Drake Maye to hit the turf time and time again.",
-    "news_item_url": "https://theramswire.usatoday.com/lists/rams-patriots-week-11-keys-victory-preview/",
-    "picture_source": "Patriots.com",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Jaguars vs Lions",
-    "pubDate": "Sun, 17 Nov 2024 11:00:00 -0800",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQXc-KXYqdKJk0MvUqqY4fbT1-LCpUzmhe9TH2DnlFDxEbroxeCrr0xUpUu2NI-r2dv1Mfbjrzw",
-    "news_item_snippet": "Real time game updates right at your fingertips. Don&#39;t miss a moment of the MIN vs. JAX matchup at EverBank Stadium.",
-    "news_item_url": "https://www.jaguars.com/news/jaguars-vs-lions-live-game-blog-week-11-2024",
-    "picture_source": "detroitlions.com",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSLup1nbGXlhXnwVy2lXwmSpCRIZF8ZdFm61eisht8FyPQpN4YXfOdvHt8QoxM3p5Y0O4br0ts2",
+    "news_item_snippet": "The Tennessee Titans are coming into their Week 11 matchup against the Minnesota Vikings with one of the worst records in the league at 2-7.",
+    "news_item_url": "https://www.si.com/nfl/titans/news/tennessee-titans-vikings-prediction-much-closer-expected",
+    "picture_source": "Mashable",
     "approx_traffic": "50,000+"
   },
   {
     "country": "United States",
     "title": "Illinois football",
     "pubDate": "Sun, 17 Nov 2024 09:00:00 -0800",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTxrSQr4b_46peYO4TEHJMyZrz2XsIBh-O-mgu2-g8jSbmn7sc1bnS3fels8fvz9oxMDI1vkDV2",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTJLRcajUTDNsH9cxPw5HAMhb6kJSOr5ie6WrPK9NMdqdWz63o7OwjyQyJ_v0dg2cH-1xvJ6HzO",
     "news_item_snippet": "CHAMPAIGN \u2014 The Illinois football team is back in the AP Top 25. The Illini cracked the rankings after a two-week absence on Sunday with Bret Bielema&#39;s team&nbsp;...",
     "news_item_url": "https://www.news-gazette.com/sports/illini-move-back-into-ap-top-25/article_5a9f2772-a517-11ef-b35e-fb493100c4ca.html",
-    "picture_source": "Champaign/Urbana News-Gazette",
+    "picture_source": "Fighting Illini",
     "approx_traffic": "50,000+"
   },
   {
@@ -82,11 +102,11 @@
   {
     "country": "United States",
     "title": "Miss Universe 2024",
-    "pubDate": "Sat, 16 Nov 2024 20:00:00 -0800",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSaAlM3TYyevG48yth_T9J0cOv3xZHg6Q6hhi2GikUy0ou7pikpv8SiCGvfpImE6yEHfcku0J0z",
-    "news_item_snippet": "Victoria Kj\u00e6r Theilvig of Denmark has been crowned Miss Universe 2024, becoming the first Dane to ever win the competition.",
-    "news_item_url": "https://abc7.com/post/denmarks-victoria-kjr-theilvig-wins-miss-universe-2024/15553038/",
-    "picture_source": "USA TODAY",
+    "pubDate": "Sat, 16 Nov 2024 19:00:00 -0800",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQe8LWdparARsxu71EImr_xwuaQV2AAf39-ja9Kp2QpF51Cz_zbA84tE1AuQrdeXh1nDCAhnuju",
+    "news_item_snippet": "Miss Denmark Victoria Kjaer Theilvig is Miss Universe 2024. The 21-year-old former pro dancer is the first Danish contestant to take the crown.",
+    "news_item_url": "https://www.usatoday.com/story/entertainment/celebrities/2024/11/17/miss-universe-2024-victoria-kjaer-theilvig-winner/76383634007/",
+    "picture_source": "ABC7 Los Angeles",
     "approx_traffic": "200,000+"
   },
   {
@@ -97,16 +117,6 @@
     "news_item_snippet": "Wisconsin football went toe-to-toe with Oregon before falling, 16-13, Saturday night at Camp Randall Stadium. Here are all the scoring plays and highlights.",
     "news_item_url": "https://www.jsonline.com/live-story/sports/college/uw/2024/11/16/wisconsin-vs-oregon-score-football-live-game-updates-highlights-camp-randall-stadium/76366213007/",
     "picture_source": "ESPN",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Texas vs Arkansas",
-    "pubDate": "Sat, 16 Nov 2024 10:00:00 -0800",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQnyDxz-sKWOgfMZmn1jkP3k0tWtfPrLIHG_hPZGToTvFIVnrW1G-aPlnIcw-07PPxxqvZtIcWD",
-    "news_item_snippet": "It wasn&#39;t the prettiest game of the year, but the No. 3 Texas Longhorns are in \u201cwin and you&#39;re in\u201d mode for the SEC Championship game and did just that&nbsp;...",
-    "news_item_url": "https://www.burntorangenation.com/2024/11/16/24298244/texas-longhorns-football-arkansas-razorbacks-quinn-ewers-alfred-collins",
-    "picture_source": "Austin American-Statesman",
     "approx_traffic": "200,000+"
   },
   {
@@ -184,8 +194,8 @@
     "title": "Colapinto edad",
     "pubDate": "Sun, 17 Nov 2024 00:00:00 -0300",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRcu7BJIu2y46uo88d5bnP5CKao1nWfGi7yq1vW9nvT-_3PG7US7BHtfbA2EdLAPTsViiUpYZh7",
-    "news_item_snippet": "En las \u00faltimas horas se viraliz\u00f3 un video entre la actriz y el piloto de f\u00f3rmula 1 en el que se los ve juntos en Madrid, por lo que algunos internautas&nbsp;...",
-    "news_item_url": "https://www.minutouno.com/espectaculos/que-diferencia-edad-hay-china-suarez-y-franco-colapinto-n6082997",
+    "news_item_snippet": "Una influencer argentina capt\u00f3 el momento en el que la actriz y el automovilista caminaban por las calles de la capital espa\u00f1ola. Luego de esto, cont\u00f3 en&nbsp;...",
+    "news_item_url": "https://www.infobae.com/teleshow/2024/11/17/los-detalles-exclusivos-del-encuentro-de-la-china-suarez-y-franco-colapinto-en-madrid-muy-acaramelados/",
     "picture_source": "Clar\u00edn.com",
     "approx_traffic": "50,000+"
   },
@@ -211,22 +221,42 @@
   },
   {
     "country": "Brazil",
-    "title": "Neymar",
-    "pubDate": "Sun, 17 Nov 2024 12:00:00 -0500",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSuuTZumA5jbV8s92s24F_L5BEZkHTDxA8W9c4YzXNWJIMpRWK2B9yQgQat2AU4tsBmmF42ekPa",
-    "news_item_snippet": "As fortes palavras da presidente do Palmeiras, Leila Pereira, sobre o atacante Neymar ecoaram na Europa neste final de semana.",
-    "news_item_url": "https://www.espn.com.br/futebol/palmeiras/artigo/_/id/14455071/neymar-palmeiras-forte-declaracao-leila-pereira-repercute-europa-ate-doi",
-    "picture_source": "globoesporte.com",
+    "title": "Brusque x Guarani",
+    "pubDate": "Sun, 17 Nov 2024 09:00:00 -0500",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQ1S7z8H3KnQANr8_a1b-L9EqlZtN3SrIaaEZkRACGADF7XHIhmvt8LLT0HoxDfXOdM23hE1vYx",
+    "news_item_snippet": "O Brusque venceu por 2 a 1 o Guarani, em confronto v\u00e1lido pela 37\u00aa rodada da S\u00e9rie B do Campeonato Brasileiro. Apesar das duas equipes j\u00e1 estarem rebaixadas&nbsp;...",
+    "news_item_url": "https://ge.globo.com/sc/futebol/times/brusque/noticia/2024/11/17/video-melhores-momentos-de-brusque-2-x-1-guarani.ghtml",
+    "picture_source": "Correio Braziliense",
     "approx_traffic": "50,000+"
   },
   {
-    "country": "Canada",
-    "title": "Grey Cup 2024",
-    "pubDate": "Sun, 17 Nov 2024 13:00:00 -0500",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRvTr3g3xCzxYZUt2uY_mQ2t5_0IAbbNQA94jBkL4x-sZlBskgeguV7s7AWa9SzHM8M49ziY6po",
-    "news_item_snippet": "That&#39;s right, the Jonas Brothers are going to be &quot;Burnin&#39; Up&quot; the stage at the CFL championship classic between the Toronto Argonauts and Winnipeg Blue Bombers&nbsp;...",
-    "news_item_url": "https://www.sportingnews.com/ca/tsn/news/grey-cup-halftime-show-2024-jonas-brothers-cfl-game/51379cf8d3a2f0d6a79b4e53",
-    "picture_source": "Sporting News",
+    "country": "Brazil",
+    "title": "Neymar",
+    "pubDate": "Sun, 17 Nov 2024 12:00:00 -0500",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQ3xusqOn9DdHk4TuWE9uY-wDPzZjnTT77loKn2PwwpaqkR4Gvwa9FkwYExjjUCq7uRHLp_Vl1q",
+    "news_item_snippet": "O Neymar \u00e9 um dos maiores jogadores que eu j\u00e1 vi jogar, ele \u00e9 do n\u00edvel de Messi e muito melhor que Cristiano Ronaldo, mas estragou com a carreira dele, o que&nbsp;...",
+    "news_item_url": "https://ge.globo.com/futebol/times/botafogo/noticia/2024/11/17/presidente-do-botafogo-diz-que-nao-gostaria-de-neymar-no-clube-estragou-a-carreira-dele.ghtml",
+    "picture_source": "CNN Brasil",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Brazil",
+    "title": "It\u00e1lia x Fran\u00e7a",
+    "pubDate": "Sun, 17 Nov 2024 14:00:00 -0500",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTiVgJ44xmRM_YOGIjnrCZ9Wm8RvLxhRvvJy06kTcbzFl3LSh8p_ApQGaiJKn-Aka2GoNrOcVcZ",
+    "news_item_snippet": "It\u00e1lia e Fran\u00e7a se enfrentam neste domingo (17), em confronto v\u00e1lido pela sexta rodada da Liga das Na\u00e7\u00f5es. A bola rola a partir das 16h45 (hor\u00e1rio de&nbsp;...",
+    "news_item_url": "https://www.lance.com.br/onde-assistir/italia-x-franca-onde-assistir-horario-e-escalacoes-do-jogo-pela-liga-das-nacoes.html",
+    "picture_source": "Exame Not\u00edcias",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Brazil",
+    "title": "Chapecoense x Coritiba",
+    "pubDate": "Sun, 17 Nov 2024 14:00:00 -0500",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSue8enUK0HidoDHUYAj7tIIDGplJhegPCbXkz3OENvAssg-vw8yQTQIvpaXfrs7_HGJrA2blKd",
+    "news_item_snippet": "Fim do Jogo, Chapecoense 2, Coritiba 1. 2\u00ba Tempo. 7&#39;&nbsp;...",
+    "news_item_url": "https://www.terra.com.br/esportes/futebol/brasileiro-serie-b/ao-vivo/chapecoense-x-coritiba/86743/",
+    "picture_source": "Gazeta Esportiva",
     "approx_traffic": "50,000+"
   },
   {
@@ -261,42 +291,22 @@
   },
   {
     "country": "France",
-    "title": "France-Nouvelle zelande",
-    "pubDate": "Sat, 16 Nov 2024 02:00:00 +0100",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRMG8ug92bn7akd1MHubxJ3TNNr7OzfvCnoM4Yvh1otVkrDpSqb2me3qfChBd002ZvHe8hMFWlJ",
-    "news_item_snippet": "Le s\u00e9lectionneur du XV de France savoure pleinement le succ\u00e8s de son \u00e9quipe sur les All Blacks, samedi, au Stade de France. \u00abC&#39;est 100% de joie, de plaisir,&nbsp;...",
-    "news_item_url": "https://www.lefigaro.fr/sports/rugby/xv-de-france/fabien-galthie-apres-france-nouvelle-zelande-une-victoire-de-prestige-20241117",
-    "picture_source": "BFMTV.COM",
-    "approx_traffic": "500,000+"
-  },
-  {
-    "country": "France",
-    "title": "Italie \u2013 France",
-    "pubDate": "Sat, 16 Nov 2024 23:00:00 +0100",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRLsILxB3HmMjpQoEJwlgCl3J_Y24TZrBEFQoHh7B_9yMFK1D6JLtF3-6rrEgT17tsW14ROSDWm",
-    "news_item_snippet": "Italie - France. Ce dimanche 17 novembre, l&#39;\u00e9quipe de France affronte la Squadra Azzurra dans un choc de la Ligue des Nations. Le match s&#39;emballe \u00e0 San Siro&nbsp;...",
-    "news_item_url": "https://www.linternaute.com/sport/foot/6638127-direct-italie-france-suivez-le-match/",
-    "picture_source": "L'\u00c9quipe.fr",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "France",
-    "title": "Miss Univers 2024",
-    "pubDate": "Sat, 16 Nov 2024 13:00:00 +0100",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRcRWy0cojkikJD6fzlH2BJLL6iNRoJPLV57xTbp50tW9Wcn-wVdUE1_k6fxa7lP34lqBnKZT43",
-    "news_item_snippet": "Miss Danemark a \u00e9t\u00e9 sacr\u00e9e Miss Univers 2024 ce dimanche 17 novembre lors de la 73e \u00e9dition du concours. La Fran\u00e7aise, Indira Ampiot, a termin\u00e9 dans le Top&nbsp;...",
-    "news_item_url": "https://www.rtl.fr/culture/medias-people/miss-univers-2024-victoria-kjaer-theilvig-miss-danemark-couronnee-7900441212",
-    "picture_source": "Le HuffPost",
-    "approx_traffic": "100,000+"
+    "title": "Mercosur",
+    "pubDate": "Sun, 17 Nov 2024 19:00:00 +0100",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTxC78HtFEzdstGuSXSZYabL4sR3J7PyKW8kSbiNs_F1P4kmb12aVI_L8KspIyU79u1Opy3ldc4",
+    "news_item_snippet": "Le projet d&#39;accord de libre-\u00e9change entre l&#39;Union europ\u00e9enne et les pays sud-am\u00e9ricains du Mercosur est l&#39;une des raisons de la mobilisation des syndicats&nbsp;...",
+    "news_item_url": "https://www.bfmtv.com/economie/entreprises/agriculture/mobilisation-des-agriculteurs-quelles-consequences-de-l-accord-ue-mercosur-pour-l-agriculture_AD-202411170259.html",
+    "picture_source": "France Bleu",
+    "approx_traffic": "50,000+"
   },
   {
     "country": "Germany",
     "title": "Nations League",
     "pubDate": "Sun, 17 Nov 2024 07:00:00 +0100",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRqvEbkuA1J-aFNdmoFOKOVqsj2-W2fXeMT70ZqbguBEJF9bycuLpQS97kfgkZWL0X_pUV2UcJ6",
-    "news_item_snippet": "Mit einem Kantersieg gegen Irland steigt England in die A-Gruppe der Nations League auf. Knackpunkt war ein Platzverweis Anfang der zweiten H\u00e4lfte.",
-    "news_item_url": "https://www.sportschau.de/fussball/nationsleague/england-demontiert-irland-und-steigt-auf,fussball-1430.html",
-    "picture_source": "SPORT1",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSzYe6ZmpzbEoLfthrw6G8q75Dfg4DTwrdSmPebyo19Vgj3dwWcxbdaWEPE5MOaXmQ-SSmzhvGD",
+    "news_item_snippet": "In der Nations League kann England am Sonntag den Aufstieg in die A-Liga perfekt machen. Die Three Lions treffen am letzten Spieltag auf Irland.",
+    "news_item_url": "https://www.sport1.de/news/fussball/uefa-nations-league/2024/11/nations-league-mit-england-irland-live-im-tv-stream-ticker",
+    "picture_source": "Sportschau",
     "approx_traffic": "100,000+"
   },
   {
@@ -341,31 +351,31 @@
   },
   {
     "country": "Italy",
-    "title": "Chi ha vinto Tu si che vales 2024",
-    "pubDate": "Sun, 17 Nov 2024 06:00:00 +0100",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRXLAjiDBhVuUmXVuRuQtL7OG3EstxXudCaznj_huX7tTt9bjyZEoAKXWjpCRrkfMBP2PmL24dm",
-    "news_item_snippet": "Il 17enne di Creto era inserito nella prima sessione di voti insieme a I Ssaulabi, che hanno ottenuto pi\u00f9 preferenze.",
-    "news_item_url": "https://www.genovatoday.it/social/tu-si-que-vales-chi-ha-vinto.html",
-    "picture_source": "La Gazzetta dello Sport",
+    "title": "Elezioni regionali Emilia-Romagna",
+    "pubDate": "Sun, 17 Nov 2024 07:00:00 +0100",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSUpskCzDOc--VvsYAMj0xg5q8wZCCrOoKP0tkzXuDx0DFUoApLKQ_Tmj4OtyPi-bGxA1Qf3U1X",
+    "news_item_snippet": "Urne aperte anche luned\u00ec 18 novembre dalle 7 alle 15. Poi il via alla conta dei voti nelle oltre 4.500 sezioni allestite nei 330 comuni.",
+    "news_item_url": "https://www.ilrestodelcarlino.it/elezioni-emilia-romagna/quando-risultati-elezioni-regionali-2024-959f6ba0",
+    "picture_source": "Corriere della Sera",
     "approx_traffic": "100,000+"
   },
   {
     "country": "Italy",
-    "title": "Elezioni regionali Emilia-Romagna",
-    "pubDate": "Sun, 17 Nov 2024 07:00:00 +0100",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSna4wsa8VhLHJvim_XXKTAOInp8W3QwpXzU4n9IhpiQk-zsYsa2zb-QOvO6f9zzclGR5tIKjLo",
-    "news_item_snippet": "Nel 2020, alla stessa ora, aveva votato il 58,82% degli aventi diritto. Pi\u00f9 votanti nelle zone alluvionate.",
-    "news_item_url": "https://corrieredibologna.corriere.it/notizie/politica/elezioni-2024/24_novembre_17/affluenza-in-emilia-romagna-alle-elezioni-regionali-2024-alle-12-ha-votato-solo-il-10-degli-elettori-e31f5abc-24b3-48f4-9216-d475b7520xlk.shtml",
-    "picture_source": "La Gazzetta dello Sport",
-    "approx_traffic": "50,000+"
+    "title": "Chi ha vinto Tu si che vales 2024",
+    "pubDate": "Sun, 17 Nov 2024 06:00:00 +0100",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTfeRefgZfqxTnbAqOpz2XvRwwD3X5sHD_OBa5KOU2-c0KnTMhg3Axusj3RPiINW53IU7c6RYqK",
+    "news_item_snippet": "A condurre la puntata sono stati Giulia Stabile e Martin Castrogiovanni ma naturalmente l&#39;anima di Tu Si Que Vales sono i giudici Maria De Filippi, Gerry Scotti&nbsp;...",
+    "news_item_url": "https://www.gazzetta.it/tv/storie/17-11-2024/tu-si-que-vales-2024-chi-ha-vinto-il-riassunto-della-finale/la-serata-finale.shtml",
+    "picture_source": "GenovaToday",
+    "approx_traffic": "100,000+"
   },
   {
     "country": "Italy",
     "title": "Nitto",
     "pubDate": "Sun, 17 Nov 2024 08:00:00 +0100",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRE31KMkZF4bszxFZ83OCbJY-T85wLTrSt369fDI0GgVjzn4CJtUghfuWVs9_WDwAutoYa2JAs6",
-    "news_item_snippet": "Assicuratevi subito il biglietto per il 2025. Nel momento in cui il match point tra Jannik Sinner e Taylor Fritz sancir\u00e0 la fine dell&#39;edizione 2024,&nbsp;...",
-    "news_item_url": "https://www.fitp.it/Federazione/News/Attivita-internazionale/nitto-atp-finals-2025-apertura-biglietteria",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSC5kKGlL6KwNB69uUhrntCEQuoRqQDg8Ir4aWgNFMuf5t4f6SyqR6-20M9zVKULtX2hZEt6wiW",
+    "news_item_snippet": "Tennis - ATP | &quot;Siamo sconosciuti all&#39;utente finale perch\u00e9 lavoriamo in maniera invisibile&quot;, le parole di Luca Villa, EMEA General Manager Channel di Nitto.",
+    "news_item_url": "https://www.ubitennis.com/blog/2024/11/17/nitto-alla-scoperta-di-uno-sponsor-onnipresente-ma-poco-conosciuto/",
     "picture_source": "FIT",
     "approx_traffic": "50,000+"
   },
@@ -384,8 +394,8 @@
     "title": "UFC",
     "pubDate": "Sat, 16 Nov 2024 11:00:00 -0600",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSVylsdaRH5gQgb2hxKhxZFFekM5uhfuvhBgJFfNn2pFRxC8FC2kyB3613FylwE-zk1pHnRFx8X",
-    "news_item_snippet": "Sigue en directo el UFC 309 en el Madison Square Garden de Nueva York, con la defensa del cintur\u00f3n de los pesos pesados de Jon Jones ante Stipe Miocic.",
-    "news_item_url": "https://as.com/masdeporte/polideportivo/ufc-309-en-directo-jones-vs-miocic-y-oliveira-vs-chandler-hoy-en-vivo-n/",
+    "news_item_snippet": "Jon Jones envi\u00f3 a Stipe Miocic al retiro con una impresionante patada hacia atr\u00e1s a las costillas, y se vali\u00f3 de una serie de golpes en la cabeza en el&nbsp;...",
+    "news_item_url": "https://www.record.com.mx/empelotados/donald-trump-asistio-a-combate-de-ufc-en-new-york",
     "picture_source": "AP News",
     "approx_traffic": "50,000+"
   },
@@ -397,7 +407,7 @@
     "news_item_snippet": "Lee Carsley takes charge of his final match as interim head coach before Thomas Tuchel takes over in January.",
     "news_item_url": "https://www.standard.co.uk/sport/football/england-vs-ireland-live-stream-nations-league-2024-latest-score-result-watch-tv-team-news-b1194501.html",
     "picture_source": "The Independent",
-    "approx_traffic": "500,000+"
+    "approx_traffic": "200,000+"
   },
   {
     "country": "United Kingdom",
@@ -423,30 +433,40 @@
     "country": "United Kingdom",
     "title": "Roy Keane daughter",
     "pubDate": "Sun, 17 Nov 2024 19:00:00 +0000",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTQJN_xHd94DvQ_Qe7P5TszWnKMwtVFPRd5yPoMa2kE1Etb9V8x5h4Faywdt95Tu_Ru-uRyRnhg",
-    "news_item_snippet": "Taylor Harwood-Bellis scored on his England debut in a 5-0 thumping of the Republic of Ireland - and the Southampton defender is engaged to the daughter of&nbsp;...",
-    "news_item_url": "https://www.liverpool.com/premier-league/roy-keane-daughter-harwood-bellis-30391730",
-    "picture_source": "Metro",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRTOPyEsEKR1mWZlaWPGIIOFYSzpv2xf-7pEm-2E9Zwe2HGp1UiRj7MWp9sjAMbrbTlsjCASskh",
+    "news_item_snippet": "Taylor Harwood-Bellis scored for England in the 5-0 thrashing of Ireland, as future father-in-law Keane watched on.",
+    "news_item_url": "https://www.independent.co.uk/sport/football/roy-keane-taylor-harwood-bellis-daughter-father-b2648674.html",
+    "picture_source": "Liverpool.com",
     "approx_traffic": "100,000+"
   },
   {
     "country": "United Kingdom",
-    "title": "I'm A Celebrity 2024",
-    "pubDate": "Sun, 17 Nov 2024 15:00:00 +0000",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQ3ei1_oNDvH6_szAHzVdqbNADDUqsds86wIta0r86svjW58A6jeKMB91y2RigA3vEil-ImoYId",
-    "news_item_snippet": "The ITV jungle show, I&#39;m a Celebrity... Get Me Out of Here! is set to return with a fresh batch of celebrities heading to Australia. Since its debut in 2002,&nbsp;...",
-    "news_item_url": "https://www.walesonline.co.uk/lifestyle/tv/im-celebrity-2024-start-finish-30378051",
-    "picture_source": "Echo",
+    "title": "ITV",
+    "pubDate": "Sun, 17 Nov 2024 17:00:00 +0000",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTJDZCDjLkKFh1m0D1Tgw9mQ0ETjX2egUoglEb_W6CtwijK0oP3wIUlMrwxgi14aJdWhULTtuhf",
+    "news_item_snippet": "This is how you can watch I&#39;m a Celebrity\u2026 Get Me Out of Here! on TV as 2024 series begins, hosted by Ant and Dec on ITV - see time and line-up.",
+    "news_item_url": "https://www.echo-news.co.uk/news/24729436.watch-itv-celebrity-2024---time-starts/",
+    "picture_source": "Western Telegraph",
     "approx_traffic": "50,000+"
   },
   {
     "country": "United Kingdom",
     "title": "Wales vs Australia",
     "pubDate": "Sun, 17 Nov 2024 14:00:00 +0000",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQ6gvVXfFiMXnmTVWzOT302jj-GfooE7pbR3NOh5YJQ3-5npSyuyDvhHDZkByVJ-vzqdOLmh1sX",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQdEfQlhpd4CeqsLFgE5kPR0PKZg00w4IffhmXzR5lFdbr6dq3qiUO-gF4OpU2gzBOiycy7g62R",
     "news_item_snippet": "Tom Wright and Matt Faessler inspire Australia to score the most points the team ever have against Wales in Cardiff, who fall to a record 11th straight&nbsp;...",
     "news_item_url": "https://www.theguardian.com/sport/live/2024/nov/17/wales-australia-autumn-nations-series-rugby-union-live",
     "picture_source": "The Independent",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United Kingdom",
+    "title": "Darts",
+    "pubDate": "Sun, 17 Nov 2024 00:00:00 +0000",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTw8FdUQqlRDjCXaOgdVGnmTK_Y9pZdloPNlLIaGXL6ta8B_WLa5cdP92nAQafOFW8m6y3l37vf",
+    "news_item_snippet": "Luke Littler wins Grand Slam of Darts champion on his debut; It is his first major TV ranking title; the next live darts on Sky Sports is the World Darts&nbsp;...",
+    "news_item_url": "https://www.skysports.com/darts/news/12288/13255630/grand-slam-of-darts-2024-luke-littler-crowned-champion-in-sensationally-quick-fashion-after-16-3-victory-over-martin-lukeman",
+    "picture_source": "PDC.tv",
     "approx_traffic": "50,000+"
   }
 ]
