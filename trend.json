@@ -11,19 +11,29 @@
   },
   {
     "country": "United States",
+    "title": "Chiefs vs Bills",
+    "pubDate": "Sun, 17 Nov 2024 13:00:00 -0800",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQPEK5sea1uAUoTgzrEs1O7Q4d6Odwh-pAfZgCpzdco1SIBDb6a6BTBrJWyuKR-qwNmjF5vAJa9",
+    "news_item_snippet": "Kansas City returns to Buffalo for the first time since last year&#39;s AFC Divisional Round game.",
+    "news_item_url": "https://www.kmbc.com/article/kansas-city-chiefs-buffalo-bills-week-11-live-updates/62930828",
+    "picture_source": "Rochester Democrat and Chronicle",
+    "approx_traffic": "500,000+"
+  },
+  {
+    "country": "United States",
     "title": "Packers",
     "pubDate": "Sun, 17 Nov 2024 11:00:00 -0800",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSfz_C75SQ4QNoHFnGs1xxP_6LbfkRj34GO_khWpav14b0mf7CIMm1d6KVUN0JISEjGBlUR8aHS",
-    "news_item_snippet": "Expert recap and game analysis of the Green Bay Packers vs. Chicago Bears NFL game from November 17, 2024 on ESPN.",
-    "news_item_url": "https://www.espn.com/nfl/recap?gameId=401671869",
+    "news_item_snippet": "The Bears nearly pulled off a remarkable comeback win over the rival Packers Sunday at Soldier Field. But Cairo Santos&#39; 46-yard field goal attempt was&nbsp;...",
+    "news_item_url": "https://www.chicagobears.com/news/rapid-recap-bears-drop-heartbreaker-to-packers-at-soldier-field-blocked-field-goal-caleb-williams-offense-2024-week-11",
     "picture_source": "Packers.com",
-    "approx_traffic": "500,000+"
+    "approx_traffic": "200,000+"
   },
   {
     "country": "United States",
     "title": "Lions",
     "pubDate": "Sun, 17 Nov 2024 11:00:00 -0800",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQXc-KXYqdKJk0MvUqqY4fbT1-LCpUzmhe9TH2DnlFDxEbroxeCrr0xUpUu2NI-r2dv1Mfbjrzw",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRHQTSfB2Lcxk1SWUO_gnON6fkb8wIwWTVFj2elaPKiVThRVEZEvUnFYSzaySCc0IoXr4wqnT3f",
     "news_item_snippet": "A quick look at the Jaguars&#39; 52-6 loss to the Detroit Lions in a 2024 Week 11 game at Ford Field in Detroit, Mich., Sunday.",
     "news_item_url": "https://www.jaguars.com/news/k000060-game-report-2024-week-11-lions-52-jaguars-6",
     "picture_source": "detroitlions.com",
@@ -31,22 +41,22 @@
   },
   {
     "country": "United States",
-    "title": "Raiders vs Dolphins",
-    "pubDate": "Sun, 17 Nov 2024 11:00:00 -0800",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcR7ZVf5eFtN58yn4sqDYshShYo_KZoIK9h1ZxJRCeu7qGoHYTfC1UxM8HpLmIu3oV6i2lsvMMYo",
-    "news_item_snippet": "The Raiders fell behind 10-3 but cut the deficit with a late field goal before the end of the half.",
-    "news_item_url": "https://www.raiders.com/news/halftime-report-raiders-score-on-both-possessions-trail-dolphins-by-4",
-    "picture_source": "Mashable",
+    "title": "Seahawks vs 49ers",
+    "pubDate": "Sun, 17 Nov 2024 14:00:00 -0800",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTGIIhAiQiTe3UAhRHPsavwBOrbRLj7_8fH1B6pRsja8OMP7S5ysIkF-arNcHgWDOl233UnqqeR",
+    "news_item_snippet": "The Seattle Seahawks take on the San Francisco 49ers in Week 11 of the 2024 NFL season. Here&#39;s what you need to know.",
+    "news_item_url": "https://www.usatoday.com/story/sports/nfl/2024/11/17/seahawks-49ers-time-tv-channel-live-stream/76263734007/",
+    "picture_source": "Seahawks Wire",
     "approx_traffic": "200,000+"
   },
   {
     "country": "United States",
-    "title": "Chiefs vs Bills",
-    "pubDate": "Sun, 17 Nov 2024 13:00:00 -0800",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQPEK5sea1uAUoTgzrEs1O7Q4d6Odwh-pAfZgCpzdco1SIBDb6a6BTBrJWyuKR-qwNmjF5vAJa9",
-    "news_item_snippet": "The Sporting News is keeping tabs on whether Taylor Swift is in the building for the Chiefs&#39; game against the Bills on Sunday.",
-    "news_item_url": "https://www.sportingnews.com/us/nfl/news/taylor-swift-chiefs-bills-updates-travis-kelce/cdc185e961d6cea18769b98c",
-    "picture_source": "Rochester Democrat and Chronicle",
+    "title": "Raiders vs Dolphins",
+    "pubDate": "Sun, 17 Nov 2024 11:00:00 -0800",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQiwwVkcyJH7IZc8Ko3NJPdb_ZNEswKMbuES7dT5vHgd8YlFCQLmbjTpr3uW36Xv9usO3Ga_W1B",
+    "news_item_snippet": "The Raiders fell behind 10-3 but cut the deficit with a late field goal before the end of the half.",
+    "news_item_url": "https://www.raiders.com/news/halftime-report-raiders-score-on-both-possessions-trail-dolphins-by-4",
+    "picture_source": "Yahoo Sports",
     "approx_traffic": "200,000+"
   },
   {
@@ -63,29 +73,59 @@
     "country": "United States",
     "title": "Rams vs Patriots",
     "pubDate": "Sun, 17 Nov 2024 11:00:00 -0800",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSTvLRJp4o3dTY4P8KUDvI86eOizHBc-eUrIBMrUX5CBaO4wW8DN1B9OFxsaeV3d75qZrjATmit",
-    "news_item_snippet": "FOXBOROUGH - The Patriots grabbed an early 7-0 lead over the Rams on Sunday, but that&#39;s when Matthew Stafford and the Los Angeles Rams woke up, scoring four&nbsp;...",
-    "news_item_url": "https://www.patriots.com/news/rapid-recap-patriots-fall-short-vs-rams",
-    "picture_source": "Sports Illustrated",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSeZD2apfYfPt2AhcH82xRkuJNuuSa4X7ATnUWNr4JkdGyP1nlG6rA6PzuZ7bCilNK8JVO7iip2",
+    "news_item_snippet": "Get all the latest regular season action with our Los Angeles Rams vs. New England Patriots live game updates thread.",
+    "news_item_url": "https://www.si.com/nfl/rams/news/rams-vs-patriots-live-game-thread-01jcr9rwjwkj",
+    "picture_source": "Patriots.com",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Green Bay Packers",
+    "pubDate": "Sun, 17 Nov 2024 13:00:00 -0800",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTy9X_12LmaFXSJAEjvZXPLPuaM55hJcBJHMGTS4bF1tmcOJFDgZ6hpTEBYQBy4umsQV7VYf6sl",
+    "news_item_snippet": "The Chicago Bears lost to the Green Bay Packers on a failed field goal Sunday despite an improved Caleb Williams with new OC play caller Thomas Brown.",
+    "news_item_url": "https://abc7chicago.com/post/chicago-bears-game-today-green-bay-packers-look-keep-pace-tight-nfc-north-continue-dominance-struggling/15552832/",
+    "picture_source": "Milwaukee Journal Sentinel",
     "approx_traffic": "100,000+"
   },
   {
     "country": "United States",
     "title": "Bengals",
     "pubDate": "Sun, 17 Nov 2024 14:00:00 -0800",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTDdGhK5MyMISc2FZPu_Be46qJacf6C_InBrvV5GtGnFbdQ4EKexB0Wd3VwyNxYCmoeHdlpsGL6",
-    "news_item_snippet": "R.J. White, on an 18-6 run on Bengals picks, has revealed his Sunday Night Football expert picks for Cincinnati vs. Los Angeles.",
-    "news_item_url": "https://www.cbssports.com/nfl/news/sunday-night-football-prediction-odds-line-spread-bengals-vs-chargers-picks-by-nfl-expert-on-18-6-roll/",
-    "picture_source": "Courier Journal",
-    "approx_traffic": "50,000+"
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRffXP4rASDMFpJn3mQwnV8M-fWwu0UYDs73BIBRZBUQOyeQlZeKeyJVuClrpXJHNLAiHHvERBo",
+    "news_item_snippet": "2024 NFL Week 11&#39;s Sunday closes with Sunday Night Football as the Cincinnati Bengals visit SoFi Stadium and the Los Angeles Chargers. Time and how to&nbsp;...",
+    "news_item_url": "https://www.courier-journal.com/story/sports/nfl/2024/11/17/what-channel-sunday-night-football-chargers-bengals-game-tonight-nov-11-2024-time-watch-stream-snf/76377670007/",
+    "picture_source": "Chargers.com",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Josh Allen",
+    "pubDate": "Sun, 17 Nov 2024 16:00:00 -0800",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQ3szbUe9KfeqevDNhWs8U4ufafCty8gZq5WzjbeXWArf5ljRtDXH0Wv9Rwj6B4mnn7ljifrPqf",
+    "news_item_snippet": "Josh Allen ran for a 26-yard touchdown on fourth down with 2:17 left, sealing the Buffalo Bills&#39; 30-21 win over the Kansas City Chiefs and handing the&nbsp;...",
+    "news_item_url": "https://www.foxsports.com/stories/nfl/josh-allen-bills-end-chiefs-bid-perfect-season-30-21-win",
+    "picture_source": "Rochester Democrat and Chronicle",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Falcons vs Broncos",
+    "pubDate": "Sun, 17 Nov 2024 14:00:00 -0800",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQYwbWQQsYoSeOTyLj6OV_dDvsr6kOwe8JFkcsTYj3BhRbNUJBoSJKrRwsvpFHwCzGOQjP579hO",
+    "news_item_snippet": "The Atlanta Falcons and Denver Broncos do battle in Week 11 of the 2024 NFL season. Here&#39;s what you need to know.",
+    "news_item_url": "https://www.usatoday.com/story/sports/nfl/2024/11/17/falcons-broncos-time-tv-channel-live-stream/76229741007/",
+    "picture_source": "DenverBroncos.com",
+    "approx_traffic": "100,000+"
   },
   {
     "country": "United States",
     "title": "Tom Aspinall",
     "pubDate": "Sun, 17 Nov 2024 06:00:00 -0800",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTfd0q7FRBlBXUQ1KFQfwJ7rXCCqHBN3t3jm4KFPmnrcee2hAUaaGnlP3rcZP7oUugcOVVVt3rJ",
-    "news_item_snippet": "Jon Jones may claim Tom Aspinall lacks notoriety, but UFC CEO Dana White clearly thinks otherwise.",
-    "news_item_url": "https://mmajunkie.usatoday.com/2024/11/ufc-309-dana-white-jon-jones-vs-tom-aspinall-biggest-fight-history",
+    "news_item_snippet": "A potential UFC heavyweight title unification bout between Jon Jones and Tom Aspinall got opening betting odds following Jones&#39; title defense over Stipe&nbsp;...",
+    "news_item_url": "https://www.forbes.com/sites/trentreinsmith/2024/11/17/tom-aspinall-opens-as-betting-favorite-over-jon-jones-after-ufc-309/",
     "picture_source": "Bleacher Report",
     "approx_traffic": "50,000+"
   },
@@ -103,40 +143,50 @@
     "country": "United States",
     "title": "Colts vs Jets",
     "pubDate": "Sun, 17 Nov 2024 12:00:00 -0800",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRXzDJkCOfelk2ZF-_7xDNfpjmfq8ydjBQHVveAEEtgl8KwGNGa2kp9K2sLJZjpAjkIOwt9Jrq-",
-    "news_item_snippet": "Anthony Richardson and the Indianapolis Colts face Aaron Rodgers and the New York Jets at MetLife Stadium Sunday. Here&#39;s everything you need to know&nbsp;...",
-    "news_item_url": "https://www.si.com/nfl/colts/news/colts-jets-week-11-preview-anthony-richardson-back",
-    "picture_source": "The Indianapolis Star",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTonioqFVa4hzUNRaRkRIWONQoqoEScuStzGkmnDQ_x1O9HEyN9EiX33_QBXtY1aHE2doI8PjHo",
+    "news_item_snippet": "Hard to imagine a better return as the starting quarterback for Anthony Richardson than what we saw vs Jets.",
+    "news_item_url": "https://www.indystar.com/story/sports/nfl/colts/2024/11/17/colts-vs-jets-thoughts-on-anthony-richardsons-comeback-win/76181281007/",
+    "picture_source": "Colts.com",
     "approx_traffic": "50,000+"
   },
   {
     "country": "United States",
-    "title": "Falcons vs Broncos",
-    "pubDate": "Sun, 17 Nov 2024 14:00:00 -0800",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQYwbWQQsYoSeOTyLj6OV_dDvsr6kOwe8JFkcsTYj3BhRbNUJBoSJKrRwsvpFHwCzGOQjP579hO",
-    "news_item_snippet": "The Atlanta Falcons and Denver Broncos do battle in Week 11 of the 2024 NFL season. Here&#39;s what you need to know.",
-    "news_item_url": "https://www.usatoday.com/story/sports/nfl/2024/11/17/falcons-broncos-time-tv-channel-live-stream/76229741007/",
-    "picture_source": "DenverBroncos.com",
+    "title": "Dune: Prophecy",
+    "pubDate": "Sun, 17 Nov 2024 17:00:00 -0800",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTL62x1ZjjekUImT9XyeGBbZa0RP8YR8hiurCdWuGd6d2UeAOTBUaUTe6xqx0e_RW28rWLjhuHk",
+    "news_item_snippet": "HBO&#39;s Dune: Prophecy is set 10000 years before the events of the &#39;Dune&#39; films, and dives into the history and establishment of the Bene Gesserit.",
+    "news_item_url": "https://www.menshealth.com/entertainment/a62871204/dune-prophecy-hbo-max-release-schedule/",
+    "picture_source": "Variety",
     "approx_traffic": "50,000+"
   },
   {
     "country": "India",
     "title": "England vs West Indies",
     "pubDate": "Sun, 17 Nov 2024 01:30:00 +0530",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQAT6PbQNdDxW7mvv20qYgKdCrPNgeqfWrBmzOf57p26mV-Le13iGYkdAsSLDzsVDy4bjrf-ccw",
-    "news_item_snippet": "WI vs ENG 2024/25, West Indies vs England Match Report: England battle back in three-wicket over but are unable to rein in free-scoring opponents.",
-    "news_item_url": "https://www.espncricinfo.com/series/west-indies-vs-england-2024-25-1433354/west-indies-vs-england-4th-t20i-1433376/match-report",
-    "picture_source": "Hindustan Times",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQVUuiRAFe0nSwx5bw5GUoS0HQ1JgLjPpLRzdml2nlvg5tC-AAPhIQ-eTuSFzsX3y8dgXkABpHn",
+    "news_item_snippet": "West Indies vs England Live Score: Welcome to the live coverage of 5th T20I of England tour of West Indies, 2024. Match will start on 18 Nov 2024 at 01:30&nbsp;...",
+    "news_item_url": "https://www.hindustantimes.com/cricket/west-indies-vs-england-live-score-5th-t20i-of-england-tour-of-west-indies-2024-final-updates-today-18-nov-2024-101731870671977.html",
+    "picture_source": "ESPNcricinfo.com",
     "approx_traffic": "500,000+"
   },
   {
     "country": "India",
     "title": "Pushpa",
     "pubDate": "Sun, 17 Nov 2024 19:30:00 +0530",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcThe-4a-A78HWGJBsVFsEKddOaONN0IaY_opqwWMymgGEBDHwNGLwwpswEAaJIRYssJ7su8z8En",
-    "news_item_snippet": "\u092a\u091f\u0928\u093e \u0915\u0947 \u0917\u093e\u0902\u0927\u0940 \u092e\u0948\u0926\u093e\u0928 \u092e\u0947\u0902 \u0905\u092d\u093f\u0928\u0947\u0924\u093e \u0905\u0932\u094d\u0932\u0942 \u0905\u0930\u094d\u091c\u0941\u0928 \u0914\u0930 \u0930\u0936\u094d\u092e\u093f\u0915\u093e \u092e\u0902\u0926\u093e\u0928\u093e \u0915\u0940 \u092b\u093f\u0932\u094d\u092e \u092a\u0941\u0937\u094d\u092a\u093e-2 \u0915\u093e \u091f\u094d\u0930\u0947\u0932\u0930 \u0932\u0949\u0928\u094d\u091a \u0915\u093f\u092f\u093e \u0917\u092f\u093e \u091c\u093f\u0938\u092e\u0947\u0902 \u0905\u0932\u094d\u0932\u0942 \u0905\u0930\u094d\u091c\u0941\u0928 \u0914\u0930 \u0930\u0936\u094d\u092e\u093f\u0915\u093e&nbsp;...",
-    "news_item_url": "https://www.jagran.com/bihar/patna-city-pushpa-2-trailer-launch-allu-arjun-rashmika-mandanna-in-gandhi-maidan-patna-23832744.html",
-    "picture_source": "\u0c08\u0c28\u0c3e\u0c21\u0c41",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSzIuC25ZhwSRfW5pHqLCI971nU9oVageqV6OkIDoM9UDyGGiNiTANyAh5n-kEGD396qtPYR1rZ",
+    "news_item_snippet": "Pushpa 2 The Rule trailer: Allu Arjun&#39;s Pushpa Raj promises an epic face-off with Fahadh Faasil&#39;s Sekhawat. It will release in theatres on December 5.",
+    "news_item_url": "https://www.hindustantimes.com/entertainment/telugu-cinema/pushpa-2-the-rule-trailer-allu-arjuns-pushpa-raj-returns-with-double-the-swag-fahadh-faasil-vows-to-catch-him-watch-101731841980130.html",
+    "picture_source": "\u0926\u0948\u0928\u093f\u0915 \u091c\u093e\u0917\u0930\u0923",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "India",
+    "title": "Iran Supreme Leader Khamenei",
+    "pubDate": "Sun, 17 Nov 2024 16:30:00 +0530",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRzFwPptBWPkIeej-ZJhRi_k_8JZoXkmJtHPyl0yyYD15ag6chURlj3Cu_Sw2xKn4qUNq8x2Zpr",
+    "news_item_snippet": "Middle East News: Iran&#39;s Supreme Leader, Ali Khamenei, reportedly chose his son, Mojtaba, as his successor during a secret meeting of the Assembly of&nbsp;...",
+    "news_item_url": "https://timesofindia.indiatimes.com/world/middle-east/ali-khameneis-son-mojtaba-set-to-take-over-as-irans-supreme-leader-report/articleshow/115385642.cms",
+    "picture_source": "Economic Times",
     "approx_traffic": "100,000+"
   },
   {
@@ -151,22 +201,22 @@
   },
   {
     "country": "India",
-    "title": "Iran Supreme Leader Khamenei",
-    "pubDate": "Sun, 17 Nov 2024 16:30:00 +0530",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRzFwPptBWPkIeej-ZJhRi_k_8JZoXkmJtHPyl0yyYD15ag6chURlj3Cu_Sw2xKn4qUNq8x2Zpr",
-    "news_item_snippet": "Reports indicate that Ali Khamenei is in poor health and may pass leadership to his son Mojtaba to ensure a smooth transition. Secret meetings have been&nbsp;...",
-    "news_item_url": "https://www.livemint.com/news/world/iran-supreme-leader-ayatollah-ali-khamenei-in-a-coma-everything-about-succession-plans-amid-clashes-with-israel-11731840949626.html",
-    "picture_source": "Economic Times",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "India",
     "title": "Dog",
     "pubDate": "Sun, 17 Nov 2024 22:30:00 +0530",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcR8XTcztssaNIKS9Q_h4jGYmm-6r90-YNMLpluUr-tVksEzd_KwMP9Hnk3woIVnyAuewOeJeSiE",
     "news_item_snippet": "On November 5, 2024, I received an official copy of U.S. Design Patent #D1,050634 from the U.S. Patent and Trademark Office (USPTO).",
     "news_item_url": "https://ipwatchdog.com/2024/11/17/the-ultimate-ipwatchdog-story-notice-of-allowance-issued-for-renee-quinns-dog-toy-design-patent/id=183242/",
     "picture_source": "Times of India",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "India",
+    "title": "GRAP-4",
+    "pubDate": "Sun, 17 Nov 2024 22:30:00 +0530",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcT9QcuReUVmDbGW4zLySvb_9673WI0kuCUlkW4s47LGu16UK7dn0U7rJb1AKM1tEhCBv34Y5oOR",
+    "news_item_snippet": "Delhi Grap 4 Restriction: Due to Delhi&#39;s worsening air quality, reaching the &#39;Severe+&#39; category, the CAQM has implemented Stage-IV GRAP measures.",
+    "news_item_url": "https://m.economictimes.com/news/india/grap-4-restrictions-in-delhi-due-to-severe-air-pollution-check-whats-allowed-and-whats-not/articleshow/115389241.cms",
+    "picture_source": "Hindustan Times",
     "approx_traffic": "50,000+"
   },
   {
@@ -193,9 +243,9 @@
     "country": "Argentina",
     "title": "San Lorenzo  Racing",
     "pubDate": "Sun, 17 Nov 2024 18:00:00 -0300",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTGqOkDqznTfbuBRmXA_4Th-w9We1JSKUhc6lFI_e-F6ppT65jnsxwhsl8WAdsFLD0UNzJZC7cR",
-    "news_item_snippet": "Como si incluso le salieron aquellas que ni siquiera se propone, como esos dos cabezazos potreros de Facundo Mura para dar vuelta el resultado como visitante&nbsp;...",
-    "news_item_url": "https://www.lanacion.com.ar/deportes/futbol/racing-llega-ganador-a-la-final-de-la-sudamericana-vencio-a-san-lorenzo-con-dos-cabezazos-de-facundo-nid17112024/",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTg3R3A_70pz4vk8OljRxeQZyBWUqtNhf2lsaPqoo39TJxHsJfncHUJZbhCNc_VnFmPyeIQ3h4U",
+    "news_item_snippet": "Sigue el San Lorenzo - Racing, en vivo y en directo online, correspondiente a la Liga Profesional de F\u00fatbol de Argentina, en AS.com.",
+    "news_item_url": "https://as.com/futbol/internacional/san-lorenzo-racing-en-vivo-liga-profesional-de-futbol-de-argentina-en-directo-hoy-n/",
     "picture_source": "Ol\u00e9",
     "approx_traffic": "100,000+"
   },
@@ -203,10 +253,10 @@
     "country": "Argentina",
     "title": "Colapinto edad",
     "pubDate": "Sun, 17 Nov 2024 00:00:00 -0300",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRcu7BJIu2y46uo88d5bnP5CKao1nWfGi7yq1vW9nvT-_3PG7US7BHtfbA2EdLAPTsViiUpYZh7",
-    "news_item_snippet": "La actriz us\u00f3 su cuenta de Instagram para poner fin a las especulaciones sobre su relaci\u00f3n con el corredor de F\u00f3rmula 1.",
-    "news_item_url": "https://www.infobae.com/teleshow/2024/11/17/la-china-suarez-hablo-tras-la-viralizacion-de-sus-videos-con-franco-colapinto-en-madrid-yo-soy-feliz/",
-    "picture_source": "Clar\u00edn.com",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSG8k6PbkB8jj8DOr3FD0Z_OC18k9Z8dowvzY6CQF5aZ2Gc3UtJ4iayHwoj0jSfh5212Br93HYy",
+    "news_item_snippet": "La actriz y el piloto de F1 fueron captados saliendo juntos de un restaurante de Madrid.El video viral gener\u00f3 todo tipo de cr\u00edticas hacia ella y sali\u00f3 a&nbsp;...",
+    "news_item_url": "https://www.clarin.com/fama/china-suarez-rompio-silencio-medio-rumores-romance-franco-colapinto_0_wyNAywfcSC.html",
+    "picture_source": "Infobae.com",
     "approx_traffic": "50,000+"
   },
   {
@@ -221,13 +271,23 @@
   },
   {
     "country": "Australia",
-    "title": "Australia vs Pakistan",
-    "pubDate": "Sun, 17 Nov 2024 00:00:00 +1100",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRUSX6op6P6K7B35WnrVLTrI1hlEoRDxIz3tOxWMVEJZ_AwvmO3XKzbN402Rh2LUXarO6ZAuytd",
-    "news_item_snippet": "AUS vs PAK 2024/25, Australia vs Pakistan Match Report: Pakistan fought back after poor starts in either innings of the game but fell well short.",
-    "news_item_url": "https://www.espncricinfo.com/series/australia-vs-pakistan-2024-25-1426544/australia-vs-pakistan-2nd-t20i-1426553/match-report",
-    "picture_source": "Fox Sports",
+    "title": "Alan Jones",
+    "pubDate": "Mon, 18 Nov 2024 09:00:00 +1100",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcReLORYtT2ccPr7QIzU0RM4sxreFcW4Px8Qb1DtpENSO5NnjEhMP_k3uK-GC7BfwJ9FMdj99foP",
+    "news_item_snippet": "Former Sydney radio host \u2013 who has previously denied all allegations against him \u2013 taken into custody by specialist detectives.",
+    "news_item_url": "https://www.theguardian.com/media/2024/nov/18/alan-jones-arrested-alleged-indecent-assaults-ntwnfb",
+    "picture_source": "The Sydney Morning Herald",
     "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Brazil",
+    "title": "Santos x CRB",
+    "pubDate": "Sun, 17 Nov 2024 09:00:00 -0500",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTBnmOU3AJMUbfiKCabAapn1j3n-3BWQGjdiDYK76re2sZQfFoCSDeH9Y1BrUChmMbG2PUWSh0w",
+    "news_item_snippet": "Santos e CRB entram em campo hoje (17), \u00e0s 16h (de Bras\u00edlia), na Vila Belmiro, em jogo atrasado da 37\u00aa rodada da S\u00e9rie B do Campeonato Brasileiro.",
+    "news_item_url": "https://www.uol.com.br/esporte/ultimas-noticias/2024/11/17/transmissao-ao-vivo-de-santos-x-crb-veja-onde-assistir.htm",
+    "picture_source": "Exame Not\u00edcias",
+    "approx_traffic": "500,000+"
   },
   {
     "country": "Brazil",
@@ -251,6 +311,16 @@
   },
   {
     "country": "Brazil",
+    "title": "Chapecoense x Coritiba",
+    "pubDate": "Sun, 17 Nov 2024 11:00:00 -0500",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSue8enUK0HidoDHUYAj7tIIDGplJhegPCbXkz3OENvAssg-vw8yQTQIvpaXfrs7_HGJrA2blKd",
+    "news_item_snippet": "O Coritiba saiu na frente da Chapecoense, neste domingo, pela 37\u00aa rodada da S\u00e9rie B, mas o time catarinense reagiu para conseguir a virada por 2 a 1,&nbsp;...",
+    "news_item_url": "https://ge.globo.com/pr/futebol/brasileirao-serie-b/noticia/2024/11/17/chapecoense-2-x-1-coritiba-gols-e-melhores-momentos-do-jogo-do-brasileiro-serie-b.ghtml",
+    "picture_source": "Gazeta Esportiva",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "Brazil",
     "title": "Inglaterra x Irlanda",
     "pubDate": "Sun, 17 Nov 2024 12:00:00 -0500",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTAd-n5uOCiU45Qy-jtJ9EYalJ9G9I6DVQt4KxJ8B5F01JACuemdNjVjJuddgJ6g8LGJXFyD5Dm",
@@ -261,21 +331,11 @@
   },
   {
     "country": "Brazil",
-    "title": "Chapecoense x Coritiba",
-    "pubDate": "Sun, 17 Nov 2024 14:00:00 -0500",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSue8enUK0HidoDHUYAj7tIIDGplJhegPCbXkz3OENvAssg-vw8yQTQIvpaXfrs7_HGJrA2blKd",
-    "news_item_snippet": "Fim do Jogo, Chapecoense 2, Coritiba 1. 2\u00ba Tempo. 7&#39;&nbsp;...",
-    "news_item_url": "https://www.terra.com.br/esportes/futebol/brasileiro-serie-b/ao-vivo/chapecoense-x-coritiba/86743/",
-    "picture_source": "Gazeta Esportiva",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Brazil",
     "title": "Neymar",
     "pubDate": "Sun, 17 Nov 2024 12:00:00 -0500",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQ3xusqOn9DdHk4TuWE9uY-wDPzZjnTT77loKn2PwwpaqkR4Gvwa9FkwYExjjUCq7uRHLp_Vl1q",
-    "news_item_snippet": "O Neymar \u00e9 um dos maiores jogadores que eu j\u00e1 vi jogar, ele \u00e9 do n\u00edvel de Messi e muito melhor que Cristiano Ronaldo, mas estragou com a carreira dele, o que&nbsp;...",
-    "news_item_url": "https://ge.globo.com/futebol/times/botafogo/noticia/2024/11/17/presidente-do-botafogo-diz-que-nao-gostaria-de-neymar-no-clube-estragou-a-carreira-dele.ghtml",
+    "news_item_snippet": "Comentarista da CNN Brasil revela informa\u00e7\u00f5es exclusivas sobre o futuro do craque brasileiro, incluindo poss\u00edvel aquisi\u00e7\u00e3o do Santos FC pela fam\u00edlia.",
+    "news_item_url": "https://www.cnnbrasil.com.br/esportes/futebol/santos/michel-bastos-revela-reuniao-para-volta-de-neymar-e-compra-do-santos/",
     "picture_source": "CNN Brasil",
     "approx_traffic": "50,000+"
   },
@@ -294,10 +354,10 @@
     "title": "Grey Cup 2024",
     "pubDate": "Sun, 17 Nov 2024 13:00:00 -0500",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcT_Hkx5BtlREdPp9vDwEhej9pHcZ805fyLjxqmRpwxvfj_VKecjHt31QAdiZc5mQAwocop7sT7P",
-    "news_item_snippet": "Here&#39;s a look at the 2024 Grey Cup by the numbers, as the Toronto Argonauts and Winnipeg Blue Bombers meet for an eighth time in the CFL championship game.",
-    "news_item_url": "https://globalnews.ca/news/10873850/toronto-argonauts-winnipeg-blue-bombers-grey-cup-score/",
+    "news_item_snippet": "VANCOUVER \u2014 The Winnipeg Blue Bombers and Toronto Argonauts played a close first half at BC Place in the 111th Grey Cup. The Argonauts were able to move the&nbsp;...",
+    "news_item_url": "https://www.cfl.ca/2024/11/17/3-stats-that-defined-the-first-half-of-the-111th-grey-cup/",
     "picture_source": "Sporting News",
-    "approx_traffic": "100,000+"
+    "approx_traffic": "200,000+"
   },
   {
     "country": "South Korea",
@@ -321,6 +381,16 @@
   },
   {
     "country": "France",
+    "title": "Mercosur",
+    "pubDate": "Sun, 17 Nov 2024 19:00:00 +0100",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTGQZ81_WDba3HLjHW1x4LVAL3K5vXmxkPAhKpvxjhOCDj89pY0TKhY-XBhTeAxwxA7TfB89fUC",
+    "news_item_snippet": "Marc Ferracci a r\u00e9affirm\u00e9 ce dimanche la position du gouvernement fran\u00e7ais, qui continue de s&#39;opposer \u00e0 l&#39;accord de libre-\u00e9change que l&#39;Union europ\u00e9enne&nbsp;...",
+    "news_item_url": "https://www.lefigaro.fr/conjoncture/l-accord-avec-le-mercosur-est-inacceptable-en-l-etat-martele-le-ministre-de-l-industrie-20241117",
+    "picture_source": "BFMTV",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "France",
     "title": "Italie \u2013 France",
     "pubDate": "Sat, 16 Nov 2024 23:00:00 +0100",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTiyQql7x72OYh_ExptURCtJRh-unIWSFTYI5Mt7JBw7wi4_NaIiRBbw_x20VZ_0g4W6F7VxGCh",
@@ -330,24 +400,34 @@
     "approx_traffic": "500,000+"
   },
   {
-    "country": "Germany",
-    "title": "Nations League",
-    "pubDate": "Sun, 17 Nov 2024 07:00:00 +0100",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQ8xx2SgtGf7u2qUhd6zQmvGrWKb9hn0BV_NecrO1x3EJhPBND7Q88SUzbzzvqdRtxh_fWyOZvG",
-    "news_item_snippet": "Mit einem Kantersieg gegen Irland steigt England in die A-Gruppe der Nations League auf. Auch Norwegen schafft das - weil Erling Haaland trifft und&nbsp;...",
-    "news_item_url": "https://www.sportschau.de/fussball/nationsleague/england-demontiert-irland-und-steigt-auf,fussball-1430.html",
-    "picture_source": "SPORT1",
+    "country": "France",
+    "title": "France-Nouvelle zelande",
+    "pubDate": "Sat, 16 Nov 2024 02:00:00 +0100",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcT-s_D5HGURvqF4XzsNw0OQWZjhWVqQzYYigYYSWXH4n0OVdPQcGQNvlktSZxz9GbQzPPq5BmKr",
+    "news_item_snippet": "Le s\u00e9lectionneur du XV de France savoure pleinement le succ\u00e8s de son \u00e9quipe sur les All Blacks, samedi, au Stade de France. \u00abC&#39;est 100% de joie, de plaisir,&nbsp;...",
+    "news_item_url": "https://www.lefigaro.fr/sports/rugby/xv-de-france/fabien-galthie-apres-france-nouvelle-zelande-une-victoire-de-prestige-20241117",
+    "picture_source": "Europe1",
+    "approx_traffic": "500,000+"
+  },
+  {
+    "country": "France",
+    "title": "Miss Univers 2024",
+    "pubDate": "Sat, 16 Nov 2024 13:00:00 +0100",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQKIA_Ng-pKNIWFkhy6pjuPZ0a7Ki6IYCCanBQ0f8LdYtTdKukgwaWlKt39cblNLz1jF0UePsX1",
+    "news_item_snippet": "Trois Fran\u00e7aises \u00e9taient en lice. Indira Ampiot, Miss France en 2023, mais \u00e9galement Coraly Desplan pour la Guadeloupe et Catherine Edouard pour la&nbsp;...",
+    "news_item_url": "https://www.huffingtonpost.fr/divertissement/article/miss-univers-2024-la-danoise-victoria-kjaer-theilvig-sacree-voici-le-classement-des-trois-francaises_242334.html",
+    "picture_source": "RTL.fr",
     "approx_traffic": "100,000+"
   },
   {
     "country": "Germany",
-    "title": "Adam Szalai",
-    "pubDate": "Sat, 16 Nov 2024 23:00:00 +0100",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTk-DrpLMpJlcu8UPvUGgVSQlYmzcxfZoB3mVppbGNO4yfydeeAIgtftu3uW0kZnbFksPTw2OKI",
-    "news_item_snippet": "Der fr\u00fchere Bundesliga-St\u00fcrmer Adam Szalai brach am Rande des Nations-League-Spiels zwischen den Niederlanden und Ungarn zusammen.",
-    "news_item_url": "https://www.ran.de/sports/fussball/nations-league-a/news/adam-szalai-ex-bundesliga-profi-musste-laut-ungarischem-fussballverband-nicht-reanimiert-werden-461203",
-    "picture_source": "kicker",
-    "approx_traffic": "50,000+"
+    "title": "Nations League",
+    "pubDate": "Sun, 17 Nov 2024 07:00:00 +0100",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQQuMDG5XETabVcxc7Fq18Bgq4NUqBQU6yS34J5X3r1POhGVU-WwXwLDcoCc4H54VIizxC9sODz",
+    "news_item_snippet": "Italien verliert im letzten Gruppenspiel gegen Frankreich \u2013 und ist ein m\u00f6glicher Viertelfinalgegner der DFB-Elf. England schl\u00e4gt Irland deutlich und steigt&nbsp;...",
+    "news_item_url": "https://www.faz.net/aktuell/sport/fussball/nations-league-frankreich-holt-gruppensieg-gegen-italien-110117777.html",
+    "picture_source": "Sportschau",
+    "approx_traffic": "200,000+"
   },
   {
     "country": "Germany",
@@ -370,10 +450,20 @@
     "approx_traffic": "200,000+"
   },
   {
+    "country": "Germany",
+    "title": "IG Metall",
+    "pubDate": "Mon, 11 Nov 2024 16:00:00 +0100",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSBrW194ZGPN90YaYRJG8sYJyu7LqVadkc2JNveUuiXrHHFNGNFSHGzvaYdcCNLe03aY6BOsitT",
+    "news_item_snippet": "IG Metall verk\u00fcndet Durchbruch im Tarifstreit ... Arbeitgeber und Gewerkschaft haben in Hamburg einen Tarifabschluss f\u00fcr die Besch\u00e4ftigten der Metall- und&nbsp;...",
+    "news_item_url": "https://www.ndr.de/nachrichten/info/Tarifrunde-IG-Metall-verkuendet-Durchbruch-im-Tarifstreit,warnstreiks486.html",
+    "picture_source": "tagesschau.de",
+    "approx_traffic": "50,000+"
+  },
+  {
     "country": "Italy",
     "title": "Italia-Francia",
     "pubDate": "Sun, 17 Nov 2024 11:00:00 +0100",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRV3HRmqYXfA2OOsp6AuMl7nlnT8prB4kb_uwGcccTj4HOCg01IzTaSWsuwFVWkdKaBcnTQidIa",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRrbSD2hkwTif6woEtriPocNG9LM4DIbZTOgoKIy5hU2ACHtJc7A5PUM4WomKdusGVdlhnqeKGR",
     "news_item_snippet": "A San Siro la nazionale di Spalletti ha perso contro la squadra di Deschamps nella sesta e ultima giornata della fase a gironi del gruppo 2 della Lega A&nbsp;...",
     "news_item_url": "https://tg24.sky.it/sport/2024/11/17/italia-francia-nations-league-risultato-gol",
     "picture_source": "Rai News",
@@ -383,10 +473,10 @@
     "country": "Italy",
     "title": "Elezioni regionali Emilia-Romagna",
     "pubDate": "Sun, 17 Nov 2024 07:00:00 +0100",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSUpskCzDOc--VvsYAMj0xg5q8wZCCrOoKP0tkzXuDx0DFUoApLKQ_Tmj4OtyPi-bGxA1Qf3U1X",
-    "news_item_snippet": "Urne aperte anche luned\u00ec 18 novembre dalle 7 alle 15. Poi il via alla conta dei voti nelle oltre 4.500 sezioni allestite nei 330 comuni.",
-    "news_item_url": "https://www.ilrestodelcarlino.it/elezioni-emilia-romagna/quando-risultati-elezioni-regionali-2024-959f6ba0",
-    "picture_source": "Corriere della Sera",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRiArqjRE0E-_qHlAlvBWLIaMa5JHkk5MoVDxmERf75xhPlzyDU-gL3BOwPN-TVdTcGo3iHPkzU",
+    "news_item_snippet": "Nel 2020, alla stessa ora, aveva votato il 67,67% degli aventi diritto. Pi\u00f9 votanti nelle zone alluvionate.",
+    "news_item_url": "https://corrieredibologna.corriere.it/notizie/politica/elezioni-2024/24_novembre_17/affluenza-in-emilia-romagna-alle-elezioni-regionali-2024-alle-12-ha-votato-solo-il-10-degli-elettori-e31f5abc-24b3-48f4-9216-d475b7520xlk.shtml",
+    "picture_source": "Rai News",
     "approx_traffic": "100,000+"
   },
   {
@@ -401,12 +491,22 @@
   },
   {
     "country": "Mexico",
-    "title": "Italia  Francia",
+    "title": "Italia - Francia",
     "pubDate": "Sun, 17 Nov 2024 13:00:00 -0600",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSqt2pQFaHfhP1h0c2pq2Ew9r12Lc_SlFxXBpaDItmFtmmtLw1wGMws0FphJzJz1WTCxNJClW9G",
-    "news_item_snippet": "Los de Didier Deschamps ganaron 3-1 en San Siro para arrebatar al conjunto italiano el primer puesto de su grupo de la Nations League. Rabiot, de cabeza, y&nbsp;...",
-    "news_item_url": "https://as.com/futbol/internacional/italia-francia-en-directo-nations-league-hoy-en-vivo-n/",
-    "picture_source": "ESPN",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcT8fCsKFD3jJGMkWe-cRsfIQQ95QkVewwXpnJfCddvg_yzyZK1SqZLEs0ErZG3Tvuv-anrLOT0Z",
+    "news_item_snippet": "La Azzurra llega como l\u00edder de la zona, con su rival directo siendo escolta, por lo que hay promesa de partidazo en San Siro.",
+    "news_item_url": "https://espndeportes.espn.com/futbol/nota/_/id/14448382/italia-francia-nations-league-definen-grupo-equipo-fecha-hora-tv-en-vivo",
+    "picture_source": "AS",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Mexico",
+    "title": "Bills  Chiefs",
+    "pubDate": "Sun, 17 Nov 2024 16:00:00 -0600",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQod86bwNa71FOZbaRphtkYhhfb30uxNJ3_NBDHgVZqz-j-0XHp8JM8t0WNgEBA10_FIJIfg8TW",
+    "news_item_snippet": "Resumen y an\u00e1lisis experto del partido de NFL entre Buffalo Bills vs. Kansas City Chiefs jugado el 17 de Noviembre, 2024 en ESPN (CO)",
+    "news_item_url": "https://www.espn.com.co/futbol-americano/nfl/cronica/_/juegoId/401671665",
+    "picture_source": "MARCA.com",
     "approx_traffic": "50,000+"
   },
   {
@@ -431,13 +531,33 @@
   },
   {
     "country": "United Kingdom",
+    "title": "Snow warning",
+    "pubDate": "Sun, 17 Nov 2024 00:00:00 +0000",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRiZqarKEwFEv3IzfgPi0ZacWJbTkytHTEDGqR6otB_qV4vFOZ0jKQufJXJqNb54XPwJhIrw0Kk",
+    "news_item_snippet": "Snow to affect parts of Scotland from Sunday afternoon, and further snow forecast for large parts of Northern England and North Wales from Monday evening.",
+    "news_item_url": "https://www.metoffice.gov.uk/about-us/news-and-media/media-centre/weather-and-climate-news/2024/snow-warnings-updated",
+    "picture_source": "BBC News",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "United Kingdom",
+    "title": "I'm A Celebrity 2024",
+    "pubDate": "Sun, 17 Nov 2024 15:00:00 +0000",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRYBFfppeFYwm237_lNwxIZ3TDH1erZqevzjQYVpa8D9_aK3TOn7KvoteddryODHuMXrHHh8E23",
+    "news_item_snippet": "This is how you can watch I&#39;m a Celebrity\u2026 Get Me Out of Here! on TV as 2024 series begins, hosted by Ant and Dec on ITV - see time and line-up.",
+    "news_item_url": "https://www.echo-news.co.uk/news/24729436.watch-itv-celebrity-2024---time-starts/",
+    "picture_source": "The Independent",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "United Kingdom",
     "title": "Tulisa",
     "pubDate": "Sun, 17 Nov 2024 22:00:00 +0000",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRgX9SR2WjB4eQmXmqUBiZAG04sMI66s-BpyVYbrMoh7HrWX7eW5acXlKKjt4VYuWxaArcW9Glb",
     "news_item_snippet": "As Tulisa Contostavlos joins I&#39;m A Celebrity\u2026Get Me Out Of Here! We want to know more about her. From her age, real name, net worth and ethnicity to her&nbsp;...",
     "news_item_url": "https://www.capitalfm.com/news/tv-film/im-a-celebrity/tulisa-age-name-net-worth-ethnicity/",
     "picture_source": "The Independent",
-    "approx_traffic": "100,000+"
+    "approx_traffic": "200,000+"
   },
   {
     "country": "United Kingdom",
@@ -451,19 +571,9 @@
   },
   {
     "country": "United Kingdom",
-    "title": "I'm A Celebrity 2024",
-    "pubDate": "Sun, 17 Nov 2024 15:00:00 +0000",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQ3ei1_oNDvH6_szAHzVdqbNADDUqsds86wIta0r86svjW58A6jeKMB91y2RigA3vEil-ImoYId",
-    "news_item_snippet": "I&#39;m A Celebrity 2024 will air for three weeks, as we watch Ant and Dec put the famous faces through their paces. Picture: ITV. Alice Dear. By Alice Dear.",
-    "news_item_url": "https://www.heart.co.uk/showbiz/tv-movies/im-a-celebrity/how-long-on-for-end-final-date/",
-    "picture_source": "Echo",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "United Kingdom",
     "title": "GK Barry",
     "pubDate": "Sun, 17 Nov 2024 22:00:00 +0000",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcR6FCttb7oJN3zEpJbQE1gfDGi9MtmTFXo6NE7tzVx-lU3J0puSn4D_sXu_aG4hSOt6ypM-Po_R",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTqJHE2jrrEWrzoA21_FcSSyZH5Y8Le9ujOy13PyfjvrpgLphWLQu-Yvx5BuD1-8qpY-IFBaDEl",
     "news_item_snippet": "Here is everything you need to know about I&#39;m a Celebrity 2024 contestant GK Barry, including her age, Instagram and why she has signed up.",
     "news_item_url": "https://www.radiotimes.com/tv/entertainment/reality-tv/gk-barry-im-a-celebrity-2024-contestant/",
     "picture_source": "Evening Standard",
@@ -472,21 +582,11 @@
   {
     "country": "United Kingdom",
     "title": "Coleen Rooney",
-    "pubDate": "Sun, 17 Nov 2024 21:00:00 +0000",
+    "pubDate": "Sun, 17 Nov 2024 22:00:00 +0000",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQWSSV4byZKKKthHzY0_PZtYwd8N13jvNw93EpYt49ogt9Mn92rds3FQWQ3qV11dw73dlVSpZsg",
     "news_item_snippet": "The TV personality, 38, has been married to the former Manchester United striker Wayne Rooney since 2008 and the couple share four sons; Kai, 13, Klay, 10, Kit,&nbsp;...",
     "news_item_url": "https://www.independent.co.uk/arts-entertainment/tv/news/coleen-rooney-im-a-celebrity-wayne-b2648507.html",
     "picture_source": "The Guardian",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United Kingdom",
-    "title": "Darts",
-    "pubDate": "Sun, 17 Nov 2024 00:00:00 +0000",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRrfJmQ9Fe9lLv-TKzDj6kQr8l4k1TjU92rB94j3If0PnkOAqC0clL-oxVww9K8gjNKuOnqsGN8",
-    "news_item_snippet": "The \u00a3650,000 event will conclude with a bumper double session at WV Active Aldersley, as Luke Littler, Gary Anderson, Mickey Mansell and Martin Lukeman compete&nbsp;...",
-    "news_item_url": "https://www.pdc.tv/news/2024/11/17/2024-mr-vegas-grand-slam-darts-finals-day-latest",
-    "picture_source": "BBC Sport",
     "approx_traffic": "50,000+"
   },
   {
@@ -497,6 +597,16 @@
     "news_item_snippet": "Tom Wright and Matt Faessler inspire Australia to score the most points the team ever have against Wales in Cardiff, who fall to a record 11th straight&nbsp;...",
     "news_item_url": "https://www.theguardian.com/sport/live/2024/nov/17/wales-australia-autumn-nations-series-rugby-union-live",
     "picture_source": "The Independent",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United Kingdom",
+    "title": "Darts",
+    "pubDate": "Sun, 17 Nov 2024 00:00:00 +0000",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRrfJmQ9Fe9lLv-TKzDj6kQr8l4k1TjU92rB94j3If0PnkOAqC0clL-oxVww9K8gjNKuOnqsGN8",
+    "news_item_snippet": "Luke Littler wins Grand Slam of Darts on debut to secure first major TV ranking title; watch the World Darts Championship, starting on Sunday December 15&nbsp;...",
+    "news_item_url": "https://www.skysports.com/darts/news/12288/13255630/grand-slam-of-darts-2024-luke-littler-crowned-champion-in-sensationally-quick-fashion-after-16-3-victory-over-martin-lukeman",
+    "picture_source": "BBC News",
     "approx_traffic": "50,000+"
   },
   {
@@ -514,8 +624,8 @@
     "title": "Girls Aloud",
     "pubDate": "Sun, 17 Nov 2024 23:00:00 +0000",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTaIyKxtNNAB3szMTTbHucX5Vw1NrSkbwGaI4-qzFkJeFc3rXkHMXtFo3erxUdIFlWYCtpHUZ04",
-    "news_item_snippet": "Nadine Coyle, Cheryl, Kimberley Walsh and Nicola Roberts filemd their reunion tour, The Girls Aloud Show, for the ITV special.",
-    "news_item_url": "https://www.manchestereveningnews.co.uk/news/tv/moving-reason-girls-aloud-show-30387834",
+    "news_item_snippet": "Nicola Roberts shot to fame as one fifth of Girls Aloud but it hasn&#39;t all been plain sailing for the singer.",
+    "news_item_url": "https://www.dailyrecord.co.uk/news/uk-world-news/inside-nicola-roberts-life-girls-34129924",
     "picture_source": "Daily Express",
     "approx_traffic": "50,000+"
   }
