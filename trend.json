@@ -1,16 +1,6 @@
 [
   {
     "country": "United States",
-    "title": "Bengals",
-    "pubDate": "Sun, 17 Nov 2024 14:00:00 -0800",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSYRTHuPEnEeBCaEqr0SSw5s0AVG3P1i3bn5FQhnE5IyEWKIfKb-uDdFZe9mmW3dM5RRbMaaGUX",
-    "news_item_snippet": "In what has been a familiar sight this season, the Bengals saw a potential win slip away Sunday night against the Chargers. Ja&#39;Marr Chase was among those&nbsp;...",
-    "news_item_url": "https://www.espn.com/nfl/story/_/id/42459036/jamarr-chase-bengals-short-answers-another-close-loss-chargers",
-    "picture_source": "Bengals.com",
-    "approx_traffic": "500,000+"
-  },
-  {
-    "country": "United States",
     "title": "Ravens vs Steelers",
     "pubDate": "Sun, 17 Nov 2024 10:00:00 -0800",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSP8csmgMs3-zeV9zUTFgzd9yZdBB-jt1xDI8c-fLXEuA5PEdu6JH2I1p8O6evRrk4uPiDxE4dY",
@@ -21,11 +11,21 @@
   },
   {
     "country": "United States",
+    "title": "Bengals",
+    "pubDate": "Sun, 17 Nov 2024 14:00:00 -0800",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSYRTHuPEnEeBCaEqr0SSw5s0AVG3P1i3bn5FQhnE5IyEWKIfKb-uDdFZe9mmW3dM5RRbMaaGUX",
+    "news_item_snippet": "Cincinnati kicker Evan McPherson missed 2 crucial field goal attempts late in defeat. joe burrow justin herbert nfl football. Joe Burrow of&nbsp;...",
+    "news_item_url": "https://www.nbcnews.com/sports/nfl/live-blog/thursday-night-football-live-updates-cincinnati-bengals-vs-los-angeles-rcna180429",
+    "picture_source": "Bengals.com",
+    "approx_traffic": "500,000+"
+  },
+  {
+    "country": "United States",
     "title": "Bills",
     "pubDate": "Sun, 17 Nov 2024 16:00:00 -0800",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQdLbeVc3GbWUgRBwuWkPL_eGcIaH_imlv6rffr_p_uajnoRe_c85w4j0uk_VTLv7qZvI9bcRc1",
-    "news_item_snippet": "Josh Allen&#39;s huge late touchdown salted away a thrilling 30-21 Bills victory over the no longer undefeated Chiefs.",
-    "news_item_url": "https://www.democratandchronicle.com/story/sports/football/nfl/bills/2024/11/17/buffalo-bills-kansas-city-chiefs-score-josh-allen-touchdown-perfect-season/76335878007/",
+    "news_item_snippet": "Expert recap and game analysis of the Buffalo Bills vs. Kansas City Chiefs NFL game from November 17, 2024 on ESPN.",
+    "news_item_url": "https://www.espn.com/nfl/recap?gameId=401671665",
     "picture_source": "BuffaloBills.com",
     "approx_traffic": "500,000+"
   },
@@ -44,7 +44,7 @@
     "title": "Packers",
     "pubDate": "Sun, 17 Nov 2024 11:00:00 -0800",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSny3WP4nsmHUueOO5WQ2Qgevnztj5PMFmD4mwf0DuqRgMQes5hIiB8-FqyvklT_CoaHnKuGQJn",
-    "news_item_snippet": "CHICAGO \u2013 The Packers hung on to beat the Bears on Sunday thanks to Karl Brooks blocking Chicago&#39;s 46-yard field goal try on the last play of the game at&nbsp;...",
+    "news_item_snippet": "&quot;Rich said to our team last night, &#39;I will not understand if we come out of this game without a block,&#39; either field goal or PAT,&quot; Head Coach Matt LaFleur said.",
     "news_item_url": "https://www.packers.com/news/game-recap-5-takeaways-from-packers-dramatic-win-over-bears-2024",
     "picture_source": "ChicagoBears.com",
     "approx_traffic": "200,000+"
@@ -61,6 +61,26 @@
   },
   {
     "country": "United States",
+    "title": "Chargers",
+    "pubDate": "Sun, 17 Nov 2024 18:00:00 -0800",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSYRTHuPEnEeBCaEqr0SSw5s0AVG3P1i3bn5FQhnE5IyEWKIfKb-uDdFZe9mmW3dM5RRbMaaGUX",
+    "news_item_snippet": "Cincinnati kicker Evan McPherson missed 2 crucial field goal attempts late in defeat. joe burrow justin herbert nfl football. Joe Burrow of&nbsp;...",
+    "news_item_url": "https://www.nbcnews.com/sports/nfl/live-blog/thursday-night-football-live-updates-cincinnati-bengals-vs-los-angeles-rcna180429",
+    "picture_source": "Bengals.com",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Chiefs vs Bills",
+    "pubDate": "Sun, 17 Nov 2024 13:00:00 -0800",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQdLbeVc3GbWUgRBwuWkPL_eGcIaH_imlv6rffr_p_uajnoRe_c85w4j0uk_VTLv7qZvI9bcRc1",
+    "news_item_snippet": "Taylor Swift&#39;s Eras Tour is on the road. Did she decide to take her Chiefs fandom on the road for her first game away game this season?",
+    "news_item_url": "https://www.democratandchronicle.com/story/sports/football/nfl/bills/2024/11/17/taylor-swift-at-kansas-city-chiefs-buffalo-bills-game-today/76387850007/",
+    "picture_source": "BuffaloBills.com",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "United States",
     "title": "Raiders vs Dolphins",
     "pubDate": "Sun, 17 Nov 2024 11:00:00 -0800",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSm9b6P2dgGTeqsVjrjhHz9AC1NxPQAUoGQyAZPwjcn6GxhK26lXd3xYV5fvuSnheegVshtdDny",
@@ -71,33 +91,13 @@
   },
   {
     "country": "United States",
-    "title": "Joe Burrow",
-    "pubDate": "Sun, 17 Nov 2024 18:00:00 -0800",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSYgqJy6oz64p8wukil14MguP4CQd8S11_FOYo155EzcZwDD5rms3XfJ2gyYr21ZLQSheweU0yL",
-    "news_item_snippet": "Still, the two missed field goals loomed large for the Bengals. Cincinnati Bengals kicker Evan McPherson warms up during a preseason training camp practice at&nbsp;...",
-    "news_item_url": "https://athlonsports.com/nfl/cincinnati-bengals/fans-feel-bad-joe-burrow-viral-postgame-message-bengals",
-    "picture_source": "Sports Illustrated",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Bills vs Chiefs",
-    "pubDate": "Sun, 17 Nov 2024 14:00:00 -0800",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQTgnzQHeFRZHkcEIbNlyjdLgzwMyWDTqGmlZpsaCR59n3lp8OF6SU5w3t1Llodm90XLQ7_ao7_",
-    "news_item_snippet": "Which is why CBS Sports will feature special coverage of this Sunday&#39;s affair, airing &quot;The NFL Today&quot; live from Buffalo ahead of the game broadcast. Fans can&nbsp;...",
-    "news_item_url": "https://www.cbssports.com/nfl/news/bills-vs-chiefs-where-to-watch-nfl-kickoff-time-tv-channel-live-stream-odds-prediction-for-week-11/",
-    "picture_source": "BuffaloBills.com",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "United States",
     "title": "Supreme Leader, Ayatollah Ali Khamenei",
-    "pubDate": "Sun, 17 Nov 2024 10:00:00 -0800",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTzhoYunnXIF0bw_9qrBbIYKPKm-95lPf7b0bPts70rLaXDwkcU4_SQoc1mIAXmBl7uw46jdok2",
-    "news_item_snippet": "Israeli media outlet Ynet News, citing Iran International, reports that Iran&#39;s Supreme Leader Ayatollah Ali Khamenei is in a coma. The Assembly of Experts&nbsp;...",
-    "news_item_url": "https://m.economictimes.com/news/international/world-news/irans-supreme-leader-ali-khamenei-reportedly-in-coma-son-chosen-as-successor/articleshow/115390568.cms",
+    "pubDate": "Sun, 17 Nov 2024 06:00:00 -0800",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQ033l1YtS07eQxKFqWSJ_gbl5J8fGunhPY5uaVL8QxZBvM4K_UcY5Hzo-tXl-B5YcoouPLI5rd",
+    "news_item_snippet": "Iran&#39;s supreme leader Ali Khamenei is reported to be seriously unwell. Amid concerns over his health, reports emerged of a succession battle.",
+    "news_item_url": "https://www.indiatoday.in/world/story/iran-supreme-leader-ali-khamenei-health-crisis-succession-battle-second-son-mojtaba-khamenei-to-lead-shia-islamic-2635188-2024-11-18",
     "picture_source": "The Economic Times",
-    "approx_traffic": "100,000+"
+    "approx_traffic": "200,000+"
   },
   {
     "country": "United States",
@@ -107,6 +107,16 @@
     "news_item_snippet": "Billy Bob Thornton leads the ensemble cast playing Tommy Norris, the rugged and unabashed oil company executive tasked with securing land and mineral rights so&nbsp;...",
     "news_item_url": "https://www.cnn.com/2024/11/17/entertainment/taylor-sheridan-landman/index.html",
     "picture_source": "Variety",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Green Bay Packers",
+    "pubDate": "Sun, 17 Nov 2024 13:00:00 -0800",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRumNycyNoJSE9WoZweuxqPyNtlVkTNKvW3rRXsShCiTFxuMTOU3dNH8UKonpOjK04F50SBHzPW",
+    "news_item_snippet": "&quot;Rich said to our team last night, &#39;I will not understand if we come out of this game without a block,&#39; either field goal or PAT,&quot; Head Coach Matt LaFleur said.",
+    "news_item_url": "https://www.packers.com/news/game-recap-5-takeaways-from-packers-dramatic-win-over-bears-2024",
+    "picture_source": "WLS-TV",
     "approx_traffic": "100,000+"
   },
   {
@@ -121,22 +131,22 @@
   },
   {
     "country": "United States",
-    "title": "Green Bay Packers",
-    "pubDate": "Sun, 17 Nov 2024 13:00:00 -0800",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRumNycyNoJSE9WoZweuxqPyNtlVkTNKvW3rRXsShCiTFxuMTOU3dNH8UKonpOjK04F50SBHzPW",
-    "news_item_snippet": "CHICAGO \u2013 The Packers hung on to beat the Bears on Sunday thanks to Karl Brooks blocking Chicago&#39;s 46-yard field goal try on the last play of the game at&nbsp;...",
-    "news_item_url": "https://www.packers.com/news/game-recap-5-takeaways-from-packers-dramatic-win-over-bears-2024",
-    "picture_source": "WLS-TV",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "United States",
     "title": "Falcons vs Broncos",
     "pubDate": "Sun, 17 Nov 2024 14:00:00 -0800",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQD--5MlFXaJCBZT2Ae_2LdISGw8uEoh8ucEDLfL2ncxuzYCgTC2kKiiUC8eI48asgshatFNB21",
     "news_item_snippet": "Denver will wear its Sunset Orange jerseys and pants as the team faces the Atlanta Falcons in Week 11.",
     "news_item_url": "https://www.denverbroncos.com/news/broncos-to-wear-sunset-orange-jerseys-and-pants-vs-falcons",
     "picture_source": "DenverBroncos.com",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Cavs",
+    "pubDate": "Sun, 17 Nov 2024 19:00:00 -0800",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSVCbeT-TGQw2bj--ZJMwUNp2cOqU24xKrj1L3p18nU4QY76VLDaFnmgZLe-YUBFL9rjvKXenfr",
+    "news_item_snippet": "The Cleveland Cavaliers made history with a 128-114 win over the Charlotte Hornets on Sunday evening. They&#39;ve tied the 1993-94 Houston Rockets and 1948-49&nbsp;...",
+    "news_item_url": "https://www.fearthesword.com/2024/11/17/24299097/cavs-swat-hornets-128-114-tie-second-longest-winning-streak-to-start-a-season-in-nba-history",
+    "picture_source": "ESPN",
     "approx_traffic": "100,000+"
   },
   {
@@ -167,16 +177,6 @@
     "news_item_snippet": "Recap the New Orleans Saints vs. Cleveland Browns game from Week 11 of the 2024 NFL season. Summary of the game&#39;s key moments and final score.",
     "news_item_url": "https://www.neworleanssaints.com/game-day/2024/reg-week11/browns-at-saints/recap",
     "picture_source": "clevelandbrowns.com",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Cavs",
-    "pubDate": "Sun, 17 Nov 2024 22:00:00 -0800",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSVCbeT-TGQw2bj--ZJMwUNp2cOqU24xKrj1L3p18nU4QY76VLDaFnmgZLe-YUBFL9rjvKXenfr",
-    "news_item_snippet": "The Cleveland Cavaliers made history with a 128-114 win over the Charlotte Hornets on Sunday evening. They&#39;ve tied the 1993-94 Houston Rockets and 1948-49&nbsp;...",
-    "news_item_url": "https://www.fearthesword.com/2024/11/17/24299097/cavs-swat-hornets-128-114-tie-second-longest-winning-streak-to-start-a-season-in-nba-history",
-    "picture_source": "ESPN",
     "approx_traffic": "50,000+"
   },
   {
@@ -223,10 +223,10 @@
     "country": "India",
     "title": "AQI",
     "pubDate": "Sun, 17 Nov 2024 22:30:00 +0530",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQq7YfCsLwqaxyu0J92lHaXT4qWOE5HHV_CbNoUFIdMKMxVFlIxm9HlxKtu_gckcb9bFQaQV8F2",
-    "news_item_snippet": "\u0930\u093e\u091c\u0927\u093e\u0928\u0940 \u0926\u093f\u0932\u094d\u0932\u0940 \u092e\u0947\u0902 \u0935\u093e\u092f\u0941 \u092a\u094d\u0930\u0926\u0942\u0937\u0923 \u0905\u092a\u0928\u0940 \u091a\u0930\u092e \u0938\u0940\u092e\u093e \u092a\u0930 \u092a\u0939\u0941\u0902\u091a \u091a\u0941\u0915\u093e \u0939\u0948\u0964 \u0915\u0941\u091b \u0938\u092e\u092f \u092a\u0939\u0932\u0947 \u090f\u092f\u0930 \u090f\u092f\u0930 \u0915\u094d\u0935\u093e\u0932\u093f\u091f\u0940 \u0907\u0902\u0921\u0947\u0915\u094d\u0938 (AQI) \u0915\u0947 \u0905\u0928\u0941\u0938\u093e\u0930, \u0926\u093f\u0932\u094d\u0932\u0940 \u0915\u0940 \u0939\u0935\u093e&nbsp;...",
-    "news_item_url": "https://navbharattimes.indiatimes.com/travel/travel-tips/delhi-beats-lahore-pakistan-to-become-the-world-most-polluted-city-air-quality-turned-severe-here/articleshow/115416270.cms",
-    "picture_source": "The Indian Express",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTsUMrRjJT3NuIOx0Mt1t1X7mWyFVJMYhDHVXVe6kzg7d5Ith59ll9Jd_yPdfo9_YCp-QPD0cFc",
+    "news_item_snippet": "The average PM2.5 level was 354 micrograms per cubic metre, which is over 20 times the standard set by the World Health Organization (WHO).",
+    "news_item_url": "https://indianexpress.com/article/cities/delhi/delhi-aqi-worst-pollution-episodes-november-9675775/",
+    "picture_source": "\u0928\u0935\u092d\u093e\u0930\u0924 \u091f\u093e\u0907\u092e\u094d\u0938",
     "approx_traffic": "200,000+"
   },
   {
@@ -241,12 +241,12 @@
   },
   {
     "country": "India",
-    "title": "Supreme Leader Ayatollah Ali Khamenei",
+    "title": "Supreme Leader, Ayatollah Ali Khamenei",
     "pubDate": "Sun, 17 Nov 2024 16:30:00 +0530",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTzhoYunnXIF0bw_9qrBbIYKPKm-95lPf7b0bPts70rLaXDwkcU4_SQoc1mIAXmBl7uw46jdok2",
-    "news_item_snippet": "Israeli media outlet Ynet News, citing Iran International, reports that Iran&#39;s Supreme Leader Ayatollah Ali Khamenei is in a coma. The Assembly of Experts&nbsp;...",
-    "news_item_url": "https://m.economictimes.com/news/international/world-news/irans-supreme-leader-ali-khamenei-reportedly-in-coma-son-chosen-as-successor/articleshow/115390568.cms",
-    "picture_source": "The Economic Times",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRmQGkmb-sdUMh08_YSlnnAmdTry5DPBpa-LrlZwy2XyNL23m1C09e6lzM93hSdmL_owS7_etga",
+    "news_item_snippet": "Mojtaba Khamenei: Iran&#39;s Supreme Leader, Ayatollah Ali Khamenei, is reportedly unwell. Israeli media reports suggest that he is in a coma.",
+    "news_item_url": "https://m.economictimes.com/news/international/global-trends/who-is-mojtaba-khamenei-irans-next-likely-supreme-leader/articleshow/115404330.cms",
+    "picture_source": "India Today",
     "approx_traffic": "100,000+"
   },
   {
@@ -254,14 +254,14 @@
     "title": "Pushpa",
     "pubDate": "Sun, 17 Nov 2024 19:30:00 +0530",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSDVamZEvSAPwDZxji2uN2faGmrTAY0kBvS8OCW4CHIOGFJ-xhsUT-kaS6qPWI649kRRlkRYuU6",
-    "news_item_snippet": "Much-awaited movie Pushpa 2&#39;s trailer was finally released on November 17, 2024. The Allu Arjun, Rashmika Mandanna starrer movie is set to release in&nbsp;...",
-    "news_item_url": "https://www.business-standard.com/entertainment/pushpa-2-trailer-launched-amidst-massive-fan-frenzy-in-bihar-s-patna-nc-124111800260_1.html",
+    "news_item_snippet": "\u092a\u091f\u0928\u093e \u0915\u0947 \u0917\u093e\u0902\u0927\u0940 \u092e\u0948\u0926\u093e\u0928 \u092e\u0947\u0902 \u0905\u092d\u093f\u0928\u0947\u0924\u093e \u0905\u0932\u094d\u0932\u0942 \u0905\u0930\u094d\u091c\u0941\u0928 \u0914\u0930 \u0930\u0936\u094d\u092e\u093f\u0915\u093e \u092e\u0902\u0926\u093e\u0928\u093e \u0915\u0940 \u092b\u093f\u0932\u094d\u092e \u092a\u0941\u0937\u094d\u092a\u093e-2 \u0915\u093e \u091f\u094d\u0930\u0947\u0932\u0930 \u0932\u0949\u0928\u094d\u091a \u0915\u093f\u092f\u093e \u0917\u092f\u093e \u091c\u093f\u0938\u092e\u0947\u0902 \u0905\u0932\u094d\u0932\u0942 \u0905\u0930\u094d\u091c\u0941\u0928 \u0914\u0930 \u0930\u0936\u094d\u092e\u093f\u0915\u093e&nbsp;...",
+    "news_item_url": "https://www.jagran.com/bihar/patna-city-pushpa-2-trailer-launch-allu-arjun-rashmika-mandanna-in-gandhi-maidan-patna-23832744.html",
     "picture_source": "The Hindu",
     "approx_traffic": "100,000+"
   },
   {
     "country": "India",
-    "title": "Kailash Gahlot",
+    "title": "Kailash Gahlot AAP",
     "pubDate": "Sun, 17 Nov 2024 15:30:00 +0530",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQOWTAEgafVz_FDBQcVi1yUYMyWz9MTxNURtOtKEri0zz_WNf6xPgoXMy7WE2TOfKrSy7WqbF5J",
     "news_item_snippet": "Kailash Gehlot quits AAP, joined BJP &middot; He cites unfulfilled promises in resignation &middot; Resignation is a setback for AAP ahead of Delhi elections.",
@@ -297,16 +297,16 @@
     "news_item_snippet": "La actriz us\u00f3 su cuenta de Instagram para poner fin a las especulaciones sobre su relaci\u00f3n con el corredor de F\u00f3rmula 1.",
     "news_item_url": "https://www.infobae.com/teleshow/2024/11/17/la-china-suarez-hablo-tras-la-viralizacion-de-sus-videos-con-franco-colapinto-en-madrid-yo-soy-feliz/",
     "picture_source": "Clar\u00edn.com",
-    "approx_traffic": "50,000+"
+    "approx_traffic": "100,000+"
   },
   {
     "country": "Argentina",
     "title": "Colapinto",
     "pubDate": "Sun, 17 Nov 2024 12:00:00 -0300",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSG8k6PbkB8jj8DOr3FD0Z_OC18k9Z8dowvzY6CQF5aZ2Gc3UtJ4iayHwoj0jSfh5212Br93HYy",
-    "news_item_snippet": "Una argentina que vacaciona en Madrid film\u00f3 a la actriz y al piloto de F\u00f3rmula 1 mientras caminaban por pleno centro de la capital espa\u00f1ola; la reacci\u00f3n de&nbsp;...",
-    "news_item_url": "https://www.lanacion.com.ar/espectaculos/filtraron-mas-imagenes-de-la-china-suarez-y-franco-colapinto-en-espana-nid17112024/",
-    "picture_source": "Infobae.com",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTUJLwQsodAbRnAKrHLvGshGckfX4Tp4UfxnhM7Q_Fn14CYJm6wUPyV9l3exkKFehhXmHVS5r2L",
+    "news_item_snippet": "La actriz us\u00f3 su cuenta de Instagram para poner fin a las especulaciones sobre su relaci\u00f3n con el corredor de F\u00f3rmula 1.",
+    "news_item_url": "https://www.infobae.com/teleshow/2024/11/17/la-china-suarez-hablo-tras-la-viralizacion-de-sus-videos-con-franco-colapinto-en-madrid-yo-soy-feliz/",
+    "picture_source": "TyC Sports",
     "approx_traffic": "50,000+"
   },
   {
@@ -332,22 +332,12 @@
   {
     "country": "Brazil",
     "title": "Santos x CRB",
-    "pubDate": "Sun, 17 Nov 2024 10:00:00 -0500",
+    "pubDate": "Sun, 17 Nov 2024 09:00:00 -0500",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTBnmOU3AJMUbfiKCabAapn1j3n-3BWQGjdiDYK76re2sZQfFoCSDeH9Y1BrUChmMbG2PUWSh0w",
     "news_item_snippet": "Santos e CRB entram em campo hoje (17), \u00e0s 16h (de Bras\u00edlia), na Vila Belmiro, em jogo atrasado da 37\u00aa rodada da S\u00e9rie B do Campeonato Brasileiro.",
     "news_item_url": "https://www.uol.com.br/esporte/ultimas-noticias/2024/11/17/transmissao-ao-vivo-de-santos-x-crb-veja-onde-assistir.htm",
     "picture_source": "Exame Not\u00edcias",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "Brazil",
-    "title": "Santos",
-    "pubDate": "Sun, 17 Nov 2024 11:00:00 -0500",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcR_T-i-l_g7UG2c7i5xdYTfC-TLGBobVOkxbzLTDQdj3YM1Ib5gdE7tgPnTHQRgneoYmCRtXscm",
-    "news_item_snippet": "A volta de Neymar seria um neg\u00f3cio &#39;muito complicado&#39; para o Santos, afirmou o comentarista Vitor Guedes no Fim de Papo.",
-    "news_item_url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2024/11/17/neymar-no-santos-e-um-negocio-muito-complicado-diz-vitao.htm",
-    "picture_source": "globoesporte.com",
-    "approx_traffic": "200,000+"
+    "approx_traffic": "500,000+"
   },
   {
     "country": "Brazil",
@@ -357,6 +347,16 @@
     "news_item_snippet": "Apelidado de \u201cThe Super Samoan\u201d, o neozeland\u00eas Mark Hunt processou o UFC, Dana White e seu oponente no UFC 200, Brock Lesnar, por uma s\u00e9rie de viola\u00e7\u00f5es. O&nbsp;...",
     "news_item_url": "https://www.conjur.com.br/2024-nov-17/826224/",
     "picture_source": "ESPN.com.br",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "Brazil",
+    "title": "Apostolo Rina",
+    "pubDate": "Sun, 17 Nov 2024 19:00:00 -0500",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQ38rx6ONbTofIuB0z9T2WSUXEaSj2Tm4TR_nAf81GuM2Ta6kd0mpI8w2M4tevWvPRXJgB2GeW1",
+    "news_item_snippet": "Rinaldo Pereira Seixas tinha 52 anos e fundou a Bola de Neve Church. Ap\u00f3stolo Rina ou AP, como era conhecido, nasceu em S\u00e3o Paulo e ficou famoso por ser o l\u00edder&nbsp;...",
+    "news_item_url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2024/11/18/quem-era-apostolo-rina-fundador-da-igreja-bola-de-neve-que-morreu-em-sp.htm",
+    "picture_source": "G1",
     "approx_traffic": "100,000+"
   },
   {
@@ -371,12 +371,12 @@
   },
   {
     "country": "Brazil",
-    "title": "Apostolo Rina",
-    "pubDate": "Sun, 17 Nov 2024 19:00:00 -0500",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQ38rx6ONbTofIuB0z9T2WSUXEaSj2Tm4TR_nAf81GuM2Ta6kd0mpI8w2M4tevWvPRXJgB2GeW1",
-    "news_item_snippet": "Rinaldo Seixas Pereira, conhecido como ap\u00f3stolo Rina, nasceu em 15 de abril de 1972, em S\u00e3o Paulo. Filho de e L\u00eddia Colomietz e de Rinaldo Pereira, e irm\u00e3o das&nbsp;...",
-    "news_item_url": "https://www.cnnbrasil.com.br/nacional/quem-era-apostolo-rina-fundador-da-igreja-bola-de-neve-que-morreu-em-sp/",
-    "picture_source": "G1",
+    "title": "20 de novembro \u00e9 feriado",
+    "pubDate": "Sun, 17 Nov 2024 21:00:00 -0500",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSP9SlycAmGS_iwqjV0K2CZPaTgMALMfQUUIrdI-Jp-6j18_ZxFE5iwKVdAw1Qmue0k4fbrbaPe",
+    "news_item_snippet": "Antes do projeto de lei que fez com que o dia da &#39;Consci\u00eancia Negra&#39; fosse feriado nacional em novembro de 2023, a data era considerado feriado apenas em&nbsp;...",
+    "news_item_url": "https://www.diariodepernambuco.com.br/noticia/brasil/2024/11/consciencia-negra-dia-20-de-novembro-sera-feriado-nacional-confira.html",
+    "picture_source": "Jornal O Globo",
     "approx_traffic": "100,000+"
   },
   {
@@ -391,22 +391,22 @@
   },
   {
     "country": "Brazil",
-    "title": "Inglaterra x Irlanda",
+    "title": "Neymar",
     "pubDate": "Sun, 17 Nov 2024 12:00:00 -0500",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTAd-n5uOCiU45Qy-jtJ9EYalJ9G9I6DVQt4KxJ8B5F01JACuemdNjVjJuddgJ6g8LGJXFyD5Dm",
-    "news_item_snippet": "A bola rola a partir das 14h (hor\u00e1rio de Bras\u00edlia), no Est\u00e1dio de Wembley, e ter\u00e1 transmiss\u00e3o ao vivo do SporTV.",
-    "news_item_url": "https://www.lance.com.br/onde-assistir/inglaterra-x-irlanda-onde-assistir-horario-e-escalacoes-do-jogo-pela-liga-das-nacoes.html",
-    "picture_source": "Exame Not\u00edcias",
-    "approx_traffic": "50,000+"
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcR_T-i-l_g7UG2c7i5xdYTfC-TLGBobVOkxbzLTDQdj3YM1Ib5gdE7tgPnTHQRgneoYmCRtXscm",
+    "news_item_snippet": "Ao ver a movimenta\u00e7\u00e3o com o nome do camisa 10 da sele\u00e7\u00e3o alguns dirigentes do futebol brasileiro se manifestaram diante a possibilidade de ter o jogador em seus&nbsp;...",
+    "news_item_url": "https://www.cnnbrasil.com.br/esportes/futebol/botafoguense-irma-de-neymar-rebate-presidente-do-clube/",
+    "picture_source": "globoesporte.com",
+    "approx_traffic": "100,000+"
   },
   {
     "country": "Brazil",
-    "title": "Consci\u00eancia Negra",
-    "pubDate": "Sun, 17 Nov 2024 21:00:00 -0500",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTNBlNcuh0DJe4dVrSc7U8GL7-DDILzrdpXSbL5sxxpkiF63ba4eUrH6R46ehlZtKJbsVmT90uc",
-    "news_item_snippet": "O evento \u00e9 voltado aos servidores da Reitoria e do Cefor e ter\u00e1 como convidados Alessandro Gon\u00e7alves de Assis, ouvidor do Ifes; Josian Pereira, assistente em&nbsp;...",
-    "news_item_url": "https://www.ifes.edu.br/noticias/21670-campi-do-ifes-promovem-atividades-para-marcar-o-dia-da-consciencia-negra",
-    "picture_source": "G1",
+    "title": "Inglaterra x Irlanda",
+    "pubDate": "Sun, 17 Nov 2024 12:00:00 -0500",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSm4XIju2iIro_RdlJUPJSGaMC3PJGHsuznu2gVLyGaRfPp3_nPiB3BR2paVAHkUJ6STkETFhBe",
+    "news_item_snippet": "A Inglaterra e Irlanda se enfrentam neste domingo, 17, \u00e0s 14h, no Est\u00e1dio de Wembley, em Londres. A partida \u00e9 v\u00e1lida pela 6\u00aa rodada da Liga das Na\u00e7\u00f5es da&nbsp;...",
+    "news_item_url": "https://exame.com/esporte/inglaterra-x-irlanda-onde-assistir-e-horario-pela-liga-das-nacoes/",
+    "picture_source": "LANCE!",
     "approx_traffic": "50,000+"
   },
   {
@@ -421,9 +421,9 @@
   },
   {
     "country": "Canada",
-    "title": "Grey Cup 2024",
+    "title": "Grey Cup. 2024",
     "pubDate": "Sun, 17 Nov 2024 13:00:00 -0500",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSD0q02GV8zMzn8ZhLYZ_Y0gVVDDtJBze8yVhE31c03WF3K0APlnnUHOxj0oxmIQcHZfj_p5W6z",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcT2NiHz69beB17kRYjA3x77fTXlcfj0rR3fYo3_o7nOgnYN0562Jg_u7jLxSCYSGh6_fvsedaN4",
     "news_item_snippet": "TORONTO \u2013 The Toronto Argonauts have won the 111<sup>th</sup> Grey Cup with a 41-24 win over the Winnipeg Blue Bombers on Sunday at B.C. Place in Vancouver.",
     "news_item_url": "https://www.argonauts.ca/2024/11/17/toronto-argonauts-are-2024-grey-cup-champions/",
     "picture_source": "CTV Toronto",
@@ -444,8 +444,8 @@
     "title": "Mercosur",
     "pubDate": "Sun, 17 Nov 2024 19:00:00 +0100",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRLgpF8ZrOp0fKVr3x7AHTKtUjPa53_fMKbNZ-qXLH7gQhdSu_5z-HKaCGoaMm6RvZSdX22umeI",
-    "news_item_snippet": "C&#39;est pourquoi la F\u00e9d\u00e9ration nationale des syndicats d&#39;exploitants agricoles (FNSEA) et son alli\u00e9 Jeunes agriculteurs (JA) ont choisi de relancer la&nbsp;...",
-    "news_item_url": "https://www.bfmtv.com/economie/entreprises/agriculture/mercosur-revenus-normes-pourquoi-la-colere-des-agriculteurs-persiste_AV-202411180288.html",
+    "news_item_snippet": "La France s&#39;oppose, &quot;en l&#39;\u00e9tat&quot;, au projet d&#39;accord de libre-\u00e9change entre l&#39;UE et le Mercosur, d\u00e9cri\u00e9 par les syndicats agricoles.",
+    "news_item_url": "https://www.bfmtv.com/economie/entreprises/agriculture/colere-des-agriculteurs-l-accord-ue-mercosur-pourra-t-il-etre-adopte-malgre-l-opposition-de-la-france_AD-202411180427.html",
     "picture_source": "Europe1",
     "approx_traffic": "100,000+"
   },
@@ -504,8 +504,8 @@
     "title": "Italia-Francia",
     "pubDate": "Sun, 17 Nov 2024 11:00:00 +0100",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRrbSD2hkwTif6woEtriPocNG9LM4DIbZTOgoKIy5hU2ACHtJc7A5PUM4WomKdusGVdlhnqeKGR",
-    "news_item_snippet": "Leggi su Sky Sport l&#39;articolo Italia-Francia 1-3, le pagelle di Stefano De Grandis.",
-    "news_item_url": "https://sport.sky.it/calcio/nations-league/2024/11/17/italia-francia-pagelle-nations-league",
+    "news_item_snippet": "Di Lorenzo non corre troppi rischi, Vicario non d\u00e0 quasi mai sicurezza. Kean ha un guizzo, Retegui non \u00e8 in serata: voti e giudizi dei protagonisti.",
+    "news_item_url": "https://www.corriere.it/sport/cards/pagelle-italia-francia-nations-league-24-novembre-17/italia-francia-1-3_principale.shtml",
     "picture_source": "Rai News",
     "approx_traffic": "1,000,000+"
   },
@@ -534,8 +534,8 @@
     "title": "Liga MX Femenil",
     "pubDate": "Sun, 17 Nov 2024 16:00:00 -0600",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRy1HRWeiCVoTmtZ4f4WknDKjmscMNHQDExcwDXXhkHUBiLaEvGD68kD4XUYP3OUjHkN2M7NmXM",
-    "news_item_snippet": "Tigres y Am\u00e9rica igualaron 3-3 en la eliminatoria y, por mejor posici\u00f3n en la tabla, las Amazonas se convirtieron en las primeras invitadas a la Final del&nbsp;...",
-    "news_item_url": "https://www.excelsior.com.mx/adrenalina/tigres-elimina-al-america-y-se-instala-en-final-de-liga-mx-femenil/1684885",
+    "news_item_snippet": "Tigres se convirti\u00f3 en el primer finalista del torneo Apertura 2024 de la Liga Mx Femenil pese a empatar 2-2 ante el Am\u00e9rica este domingo en el duelo de&nbsp;...",
+    "news_item_url": "https://www.jornada.com.mx/noticia/2024/11/17/deportes/tigres-primer-finalista-de-la-liga-mx-femenil-2165",
     "picture_source": "ESPN Deportes",
     "approx_traffic": "100,000+"
   },
@@ -567,7 +567,7 @@
     "news_item_snippet": "Report as England thrash 10-player Republic of Ireland 5-0 at Wembley; Three Lions promoted back to League A of Nations League; second-half goals from Harry&nbsp;...",
     "news_item_url": "https://www.skysports.com/football/england-vs-rep-ire/report/503657",
     "picture_source": "The Independent",
-    "approx_traffic": "500,000+"
+    "approx_traffic": "200,000+"
   },
   {
     "country": "United Kingdom",
@@ -577,16 +577,6 @@
     "news_item_snippet": "Tickets for the famous festival in Somerset were snapped up swiftly through a new online queue.",
     "news_item_url": "https://news.sky.com/story/glastonbury-festival-tickets-sell-out-in-less-than-half-an-hour-13255525",
     "picture_source": "BBC News",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "United Kingdom",
-    "title": "Roy Keane daughter",
-    "pubDate": "Sun, 17 Nov 2024 19:00:00 +0000",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQ4H4-hgeFzNor7cY6-NJO1RmVePqz-9uZyYxLKaopx-2RkSlufli-rBoAQF5bgWqgN_KIpu46s",
-    "news_item_snippet": "LEAH KEANE is the daughter of Roy Keane - but is also engaged to a new England star.The former Manchester United captain, 53, has five children with w.",
-    "news_item_url": "https://www.thesun.co.uk/sport/31772641/roy-keane-daughter-leah-tattoo-engaged-harwood-bellis/",
-    "picture_source": "Liverpool.com",
     "approx_traffic": "200,000+"
   },
   {
@@ -603,10 +593,30 @@
     "country": "United Kingdom",
     "title": "GK Barry",
     "pubDate": "Sun, 17 Nov 2024 22:00:00 +0000",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcR6FCttb7oJN3zEpJbQE1gfDGi9MtmTFXo6NE7tzVx-lU3J0puSn4D_sXu_aG4hSOt6ypM-Po_R",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQuZjtSPadDq6w6uqYyXtxCfS4xUN6iR-w1t0Tn8nl-HKho97mDgJk-o4V0iYDR8eIt-kAw-rzA",
     "news_item_snippet": "ITV I&#39;m A Celebrity fans are already calling for a rule change after the first challenge was revealed, which saw GK Barry break down in the jungle.",
     "news_item_url": "https://www.dailyrecord.co.uk/tv/itv-im-celebritys-gk-barry-34131242",
-    "picture_source": "Evening Standard",
+    "picture_source": "Leeds Live",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United Kingdom",
+    "title": "Harwood-Bellis",
+    "pubDate": "Sun, 17 Nov 2024 19:00:00 +0000",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQNAmr7N77y2VAlsQWtDdS9JPHG1YnlLI7NwnXS1gjvyLV1rVHACJmuIiK6X5tb6jIxw2zM2cwY",
+    "news_item_snippet": "Harry Kane revealed Southampton&#39;s Taylor Harwood-Bellis had a hand in two England goals against Ireland on Sunday evening.",
+    "news_item_url": "https://www.dailyecho.co.uk/sport/24730987.kane-reveals-harwood-bellis-hand-two-england-goals/",
+    "picture_source": "Daily Echo",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United Kingdom",
+    "title": "England",
+    "pubDate": "Sun, 17 Nov 2024 16:00:00 +0000",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSY4g_oOc2JfwPHwNUgrKw8L_XidSDoL8gyZq9hxnRLnYiMu7jRj6Zl0MLbRgPQVBglO-WtNnFM",
+    "news_item_snippet": "By Samantha Johnson-Roberts, Natural England Wildlife Inspector. Background. There aren&#39;t many jobs that combine tackling crime with protecting species like&nbsp;...",
+    "news_item_url": "https://naturalengland.blog.gov.uk/2024/11/18/inspectors-tackling-wildlife-crime/",
+    "picture_source": "England Football",
     "approx_traffic": "100,000+"
   },
   {
@@ -621,11 +631,21 @@
   },
   {
     "country": "United Kingdom",
+    "title": "Roy Keane",
+    "pubDate": "Sun, 17 Nov 2024 19:00:00 +0000",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRRtBzuO5rH5ZBqRmAZpUadhhgyKnV6pHpSw4NKMh9WdKLtzxN7CSQ1U3xUcfXPI7_RakpX0Wsk",
+    "news_item_snippet": "Taylor Harwood-Bellis scored for England in the 5-0 thrashing of Ireland, as future father-in-law Keane watched on.",
+    "news_item_url": "https://www.independent.co.uk/sport/football/roy-keane-taylor-harwood-bellis-daughter-father-b2648674.html",
+    "picture_source": "The Guardian",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United Kingdom",
     "title": "Coleen Rooney",
     "pubDate": "Sun, 17 Nov 2024 22:00:00 +0000",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQWSSV4byZKKKthHzY0_PZtYwd8N13jvNw93EpYt49ogt9Mn92rds3FQWQ3qV11dw73dlVSpZsg",
-    "news_item_snippet": "It comes after the 38-year-old was nicknamed Wagatha Christie back in 2019, when she accused Rebekah Vardy of leaking stories about her following a &#39;sting&#39;&nbsp;...",
-    "news_item_url": "https://www.lbc.co.uk/news/coleen-rooney-im-a-celeb-codename-revealed/",
+    "news_item_snippet": "The TV personality, 38, has been married to the former Manchester United striker Wayne Rooney since 2008 and the couple share four sons; Kai, 13, Klay, 10, Kit,&nbsp;...",
+    "news_item_url": "https://www.independent.co.uk/arts-entertainment/tv/news/coleen-rooney-im-a-celebrity-wayne-b2648507.html",
     "picture_source": "The Guardian",
     "approx_traffic": "50,000+"
   },
@@ -663,20 +683,20 @@
     "country": "United Kingdom",
     "title": "Barry McGuigan",
     "pubDate": "Sun, 17 Nov 2024 22:00:00 +0000",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRIUwmWOblA9jaYbmHsGLROlJiQPe2DiTRkp_zzafsYgk3uhcYpHfQLOpI8nQR7Uyp4O_ug89l8",
-    "news_item_snippet": "The former featherweight boxer is entering the I&#39;m A Celebrity jungle for the new series of the hit ITV show.",
-    "news_item_url": "https://www.walesonline.co.uk/sport/boxing/im-celebrity-star-barry-mcguigan-30374281",
-    "picture_source": "Heart",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRhMWFYwHli_ePxdXquVHzNA0cDcjYda_CG2-jynG1h4j5lPrQ8YGhwcgv7VlqsIzptD8aHyXOV",
+    "news_item_snippet": "How old is Barry McGuigan, who is he married to and how many children does he have? Everything you need to know about the I&#39;m A Celebrity star,&nbsp;...",
+    "news_item_url": "https://www.heart.co.uk/showbiz/barry-mcguigan-age-boxing-career-wife-children/",
+    "picture_source": "WalesOnline",
     "approx_traffic": "50,000+"
   },
   {
     "country": "United Kingdom",
     "title": "Girls Aloud",
     "pubDate": "Sun, 17 Nov 2024 23:00:00 +0000",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTaIyKxtNNAB3szMTTbHucX5Vw1NrSkbwGaI4-qzFkJeFc3rXkHMXtFo3erxUdIFlWYCtpHUZ04",
-    "news_item_snippet": "Nicola Roberts shot to fame as one fifth of Girls Aloud but it hasn&#39;t all been plain sailing for the singer.",
-    "news_item_url": "https://www.dailyrecord.co.uk/news/uk-world-news/inside-nicola-roberts-life-girls-34129924",
-    "picture_source": "Daily Express",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcT27m9wJbiz6Q8czPtxNAMIwNbXVGeLLrbUXiLtYkmLonMT60Fbu37Pifpdv4IU3zB7abeeR1An",
+    "news_item_snippet": "The Girls Aloud Show: Live at The O2, which saw the band reunite to perform together for the first time in 11 years, aired on ITV this evening.",
+    "news_item_url": "https://www.express.co.uk/showbiz/tv-radio/1977238/ITV-girls-aloud-show-cheryl-cole-sarah-harding",
+    "picture_source": "Evening Standard",
     "approx_traffic": "50,000+"
   },
   {
@@ -694,8 +714,8 @@
     "title": "Dean McCullough",
     "pubDate": "Sun, 17 Nov 2024 22:00:00 +0000",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQtyOjK8VSSICTM9OflGy_LCjTcJkesBJfUQ44Pg3PQrt8kpVEenmsf-XZR_X--7l7nV9a_IRNc",
-    "news_item_snippet": "BBC Radio 1 presenter Dean McCullough has become a household name over the past few years but it hasn&#39;t been an easy road for the I&#39;m A Celebrity star.",
-    "news_item_url": "https://www.lancs.live/news/celebs-tv/itv-im-celebrity-dean-mcculloughs-30372455",
+    "news_item_snippet": "The 32-year-old wants to bring &#39;positive vibes&#39; to the camp.",
+    "news_item_url": "https://www.standard.co.uk/showbiz/dean-mccullough-radio-1-dj-im-a-celebrity-campmate-b1193978.html",
     "picture_source": "Belfast Live",
     "approx_traffic": "50,000+"
   },
@@ -703,10 +723,10 @@
     "country": "United Kingdom",
     "title": "Luke Stoltman",
     "pubDate": "Sun, 17 Nov 2024 09:00:00 +0000",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQBYZ77Bm3bh3bhdS7VzPVZBPLnUoXy27ak4q9D8pdbyhehnOc6wSovMzlWkLs9IGmSEQYPOv2k",
-    "news_item_snippet": "Responding on his own Instagram account, Stoltman wrote: &quot;I want to acknowledge the pain caused to my family, friends and community by recent social media&nbsp;...",
-    "news_item_url": "https://www.edinburghlive.co.uk/news/edinburgh-news/scottish-strongman-luke-stoltman-breaks-30392869",
-    "picture_source": "Press and Journal",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRsOHtcIW541aUS0yEZOVhgRem5oBP7rA3HWeTNLURTq_545_ZGHAcHWS4ghl7_e_Z8vp-MP1fN",
+    "news_item_snippet": "Luke Stoltman has shared a statement, saying he &#39;regrets&#39; mistakes he has made after his wife Kushi Stoltman claimed he had multiple affairs.",
+    "news_item_url": "https://www.pressandjournal.co.uk/fp/news/highlands-islands/6630513/luke-stoltman-kushi-cheating-claims/",
+    "picture_source": "Edinburgh Live",
     "approx_traffic": "50,000+"
   }
 ]
