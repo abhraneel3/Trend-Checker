@@ -1,6 +1,46 @@
 [
   {
     "country": "United States",
+    "title": "Laken Riley",
+    "pubDate": "Wed, 20 Nov 2024 10:00:00 -0800",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRsFxNGV365fwuMnOKc9oYJ_jUv-Z22hGMea1Fvnp7mnbvdHwHCppqvbxkiZvivOfH-Z1mh98jH",
+    "news_item_snippet": "The case over the killing of a Georgia nursing student fueled the national debate over immigration during this year&#39;s presidential race.",
+    "news_item_url": "https://www.npr.org/2024/11/20/nx-s1-5197834/laken-riley-trial-guilty-murder",
+    "picture_source": "NBC News",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Susan Smith",
+    "pubDate": "Wed, 20 Nov 2024 06:00:00 -0800",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSMewEXWFhUgGIzZ3Jm0bCYOScAIANK-vwdccTvaglekFy21cKhupTYN_UoAy4QmXY470rHsFpJ",
+    "news_item_snippet": "Susan Smith, the young mom who shocked the nation 30 years ago when she rolled her car into a lake with her two sons inside and watched them drown,&nbsp;...",
+    "news_item_url": "https://www.nbcnews.com/news/us-news/susan-smith-drowned-two-children-30-years-ago-denied-parole-rcna180988",
+    "picture_source": "ABC News",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
+    "title": "STALKER 2",
+    "pubDate": "Wed, 20 Nov 2024 07:00:00 -0800",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRB6pGx8pss1p6l_iuPoHCJP-2edXLZn7EfN8RUYGhDBXiRVmXA1vtLQ4mNes7Ez3q3-mmT-OAJ",
+    "news_item_snippet": "The experience is comparable to Fallout 3 or New Vegas. Stalker 2 is set in a large, open world with points of interest scattered about. The main gameplay loop&nbsp;...",
+    "news_item_url": "https://www.thegamer.com/stalker-2-heart-of-chornobyl-review/",
+    "picture_source": "Polygon",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Dr Oz",
+    "pubDate": "Tue, 19 Nov 2024 14:00:00 -0800",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRUWmuS_Tn7WiUR-s_h_dm-iTpG5GXEUdHPk1kzuWxp4tAQkjdSkYn2j1DmNvmMfZW_bzWaBcyV",
+    "news_item_snippet": "President-elect Donald Trump has nominated Dr. Mehmet Oz, a physician, TV personality and former Republican candidate for Senate, to run Medicare and Medicaid&nbsp;...",
+    "news_item_url": "https://www.healthcaredive.com/news/trump-dr-oz-nominate-medicare-medicaid-cms/733416/",
+    "picture_source": "NPR",
+    "approx_traffic": "500,000+"
+  },
+  {
+    "country": "United States",
     "title": "Mexico vs Honduras",
     "pubDate": "Tue, 19 Nov 2024 11:00:00 -0800",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRWGbA-vx9xw1taw4GrGkdMeqMqBA6bxN6DUUL6rbDdXb8tK_CptT96SvEPKTCL_I_ly-V1WQm3",
@@ -11,31 +51,21 @@
   },
   {
     "country": "United States",
-    "title": "Dr. Oz",
-    "pubDate": "Tue, 19 Nov 2024 14:00:00 -0800",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRUWmuS_Tn7WiUR-s_h_dm-iTpG5GXEUdHPk1kzuWxp4tAQkjdSkYn2j1DmNvmMfZW_bzWaBcyV",
-    "news_item_snippet": "The Hollywood Reporter, which of course is where one now goes to find news of incoming Executive Branch appointments and nominations, \u201cTrump Nominates Dr.",
-    "news_item_url": "https://daringfireball.net/2024/11/dr_oz",
-    "picture_source": "NPR",
-    "approx_traffic": "500,000+"
-  },
-  {
-    "country": "United States",
     "title": "Linda McMahon",
     "pubDate": "Tue, 19 Nov 2024 16:00:00 -0800",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTrn7x4Z7YuyL86X4d8VWiKqylXAq7d5YnCGhJIT-8VKbA07V0jT40xhk5bFK-ReoDTcCKaeGLJ",
     "news_item_snippet": "US President-elect Donald Trump has picked former World Wrestling Entertainment (WWE) CEO and his transition co-chair, Linda McMahon, as his nominee for&nbsp;...",
     "news_item_url": "https://www.bbc.com/news/articles/c8rl8knmg8eo",
     "picture_source": "NPR",
-    "approx_traffic": "200,000+"
+    "approx_traffic": "500,000+"
   },
   {
     "country": "United States",
-    "title": "Lakers",
-    "pubDate": "Tue, 19 Nov 2024 22:00:00 -0800",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRFQsTHIZd_bfbTfZwNADAWkqbyyWJhI5t1BePB10kGdlw9x1-lc_NJVUQyNk88kmp8Cq7ZANEn",
-    "news_item_snippet": "Los Angeles Lakers star LeBron James heaped praise on rookie wing Dalton Knecht on Tuesday night after Knecht erupted for a team-high 37 points in a&nbsp;...",
-    "news_item_url": "https://bleacherreport.com/articles/10144128-lebron-james-talks-dalton-knecht-falling-to-lakers-in-draft-16-teams-f--ked-it-up",
+    "title": "Cavs",
+    "pubDate": "Tue, 19 Nov 2024 17:00:00 -0800",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQwWtnN0vXS49dQj22smutx5-wUdYByNVGk5PtODiFRCdkVutHrbx-v9mLY3YRFZqHoZMIINRHQ",
+    "news_item_snippet": "BOSTON (AP) \u2014 This one wasn&#39;t about their perfect season or a 15-game winning streak or even the NBA Cup. This was a chance for the undefeated Cleveland&nbsp;...",
+    "news_item_url": "https://www.nba.com/news/celtics-hand-cavaliers-1st-loss-of-season",
     "picture_source": "ESPN",
     "approx_traffic": "200,000+"
   },
@@ -43,10 +73,20 @@
     "country": "United States",
     "title": "Bomb cyclone",
     "pubDate": "Tue, 19 Nov 2024 01:00:00 -0800",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTGq9em43gPYbojD2nvW5-GenYFxdSrjL7D8SucP6B7gvtkDG-YiR1X_JS8EuCzs1pkwjxM1lMK",
-    "news_item_snippet": "The storm is bringing damaging winds, snow and excessive rainfall that could lead to landslides.",
-    "news_item_url": "https://www.bbc.com/news/articles/cjdlp5klz77o",
-    "picture_source": "NBC News",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcS8KYr09FReZFBmYAZ2t84JC6aRdOoQI68qtQdkSVJRNNFOWitIPU3Ge3YY2bc0NqsIaQvUZOFg",
+    "news_item_snippet": "A major storm was sweeping across the northwest U.S., battering the region with strong winds and rain. It caused widespread power outages and downed trees&nbsp;...",
+    "news_item_url": "https://www.pbs.org/newshour/nation/northwest-u-s-sees-bomb-cyclone-kill-1-and-knock-out-power-to-half-a-million-homes",
+    "picture_source": "BBC News",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Lakers",
+    "pubDate": "Tue, 19 Nov 2024 22:00:00 -0800",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQP85H6mz0lUIb3A2o9GD5jF2b6-BwdD_iB2pk5MtcJnK2jGyUCEzozHtdhIMwHJWTl_4Oidqnn",
+    "news_item_snippet": "Los Angeles Lakers star LeBron James heaped praise on rookie wing Dalton Knecht on Tuesday night after Knecht erupted for a team-high 37 points in a&nbsp;...",
+    "news_item_url": "https://bleacherreport.com/articles/10144128-lebron-james-talks-dalton-knecht-falling-to-lakers-in-draft-16-teams-f--ked-it-up",
+    "picture_source": "ESPN",
     "approx_traffic": "200,000+"
   },
   {
@@ -64,19 +104,9 @@
     "title": "Matt Gaetz",
     "pubDate": "Tue, 19 Nov 2024 08:00:00 -0800",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQoWOA33UgJFT95ryaOSbm8hiyRfBMpMfnamcdqawBnnyYs2m5JJk-yj6fGOXbchV-abG5pNhTj",
-    "news_item_snippet": "Records show Gaetz allegedly paid more than $10K to 2 women who later testified in front of the panel, ABC News has learned.",
-    "news_item_url": "https://abc7news.com/post/gaetz-sent-10k-payments-2-women-testified-house-probe-records-suggest/15561721/",
+    "news_item_snippet": "WASHINGTON -- The House Ethics Committee obtained records, including a check and records of Venmo payments, that appear to show that then-Rep.",
+    "news_item_url": "https://abc7ny.com/post/matt-gaetz-sent-10k-venmo-payments-2-women-testified-house-probe-records-suggest/15561721/",
     "picture_source": "GovExec.com",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Argentina vs Peru",
-    "pubDate": "Tue, 19 Nov 2024 16:00:00 -0800",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQDp-ONd8w8ZWgj67RIjFLEnrIzNiypcB8J8J4KG5AtjnLQfjcvkLjQNtMdP2sbV-7QYfi50h7l",
-    "news_item_snippet": "Argentina scraped a narrow 1-0 victory over Peru in World Cup qualifying, with Lionel Messi and Lautaro Martinez bailing them out in the second half.",
-    "news_item_url": "https://www.goal.com/en-us/lists/argentina-player-ratings-vs-peru-lionel-messi-s-outrageous-assist-lifts-la-albiceleste-to-conmebol-world-cup-qualifying-victory/blt4cb02c74bbd8b860",
-    "picture_source": "NBC 6 South Florida",
     "approx_traffic": "200,000+"
   },
   {
@@ -101,33 +131,13 @@
   },
   {
     "country": "United States",
-    "title": "Russia",
-    "pubDate": "Tue, 19 Nov 2024 20:00:00 -0800",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTAeIhR_ew90Zm3eb-uhkQWBCTv3SZjuzlzE3ntP4SZawM9GortqGZIISQfPRokFOy5zaBYnb9t",
-    "news_item_snippet": "On Tuesday (19 November 2024), Secretary General Mark Rutte marked the 1000th day of Russia&#39;s war against Ukraine in a video message to the people of&nbsp;...",
-    "news_item_url": "https://www.nato.int/cps/en/natohq/news_230664.htm",
-    "picture_source": "Aljazeera.com",
+    "title": "Argentina vs Peru",
+    "pubDate": "Tue, 19 Nov 2024 16:00:00 -0800",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQDp-ONd8w8ZWgj67RIjFLEnrIzNiypcB8J8J4KG5AtjnLQfjcvkLjQNtMdP2sbV-7QYfi50h7l",
+    "news_item_snippet": "Argentina scraped a narrow 1-0 victory over Peru in World Cup qualifying, with Lionel Messi and Lautaro Martinez bailing them out in the second half.",
+    "news_item_url": "https://www.goal.com/en-us/lists/argentina-player-ratings-vs-peru-lionel-messi-s-outrageous-assist-lifts-la-albiceleste-to-conmebol-world-cup-qualifying-victory/blt4cb02c74bbd8b860",
+    "picture_source": "NBC 6 South Florida",
     "approx_traffic": "100,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Brazil vs Uruguay",
-    "pubDate": "Tue, 19 Nov 2024 17:00:00 -0800",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQMLqCSuLFVMpZQtNt10YwAwh-QYhidWnjzF-2T7LlH89aFxVMA_RPpuwrCVWi8nthdwhNFC8Xp",
-    "news_item_snippet": "Viewers can watch Brazil vs. Uruguay&#39;s 2026 FIFA World Cup Qualifier on UNIVERSO, Vix and FuboTV in the United States.",
-    "news_item_url": "https://www.si.com/soccer/how-to-watch-brazil-vs-uruguay-2026-fifa-world-cup-qualifiers-11-19-24",
-    "picture_source": "Sporting News",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Warriors",
-    "pubDate": "Tue, 19 Nov 2024 03:00:00 -0800",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTQFnI_DNLy7nEsGpSRA9QPWs3KPnMk2GcWQy-smeCiW7iXCFUgx-A_Ire7H1uaB6mbpNSfYLY3",
-    "news_item_snippet": "The Lady Warriors bounced back from a slow first half and outscored Hanceville 30-8 in the second half to earn a 59-35 win and in the boys&#39; game, Maddox Chapman&nbsp;...",
-    "news_item_url": "https://www.cullmantribune.com/2024/11/19/prep-basketball-warriors-lady-warriors-sweep-hanceville-in-home-opener/",
-    "picture_source": "Hendrix College Athletics",
-    "approx_traffic": "50,000+"
   },
   {
     "country": "India",
@@ -135,7 +145,7 @@
     "pubDate": "Wed, 20 Nov 2024 05:30:00 +0530",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRWT0w2e6AIPMUnHOiVCWM3JdLlm-Iy-Fk95zwmyE_N3Le1WXefJruE7wGuDYFCvDmUDs4Kk0V5",
     "news_item_snippet": "Argentina scraped a narrow 1-0 victory over Peru in World Cup qualifying, with Lionel Messi and Lautaro Martinez bailing them out in the second half.",
-    "news_item_url": "https://www.goal.com/en-in/lists/argentina-player-ratings-vs-peru-lionel-messi-s-outrageous-assist-lifts-la-albiceleste-to-conmebol-world-cup-qualifying-victory/blt4cb02c74bbd8b860",
+    "news_item_url": "https://www.goal.com/en/lists/argentina-player-ratings-vs-peru-lionel-messi-s-outrageous-assist-lifts-la-albiceleste-to-conmebol-world-cup-qualifying-victory/blt4cb02c74bbd8b860",
     "picture_source": "Sportstar",
     "approx_traffic": "200,000+"
   },
@@ -151,11 +161,21 @@
   },
   {
     "country": "India",
-    "title": "NSE holidays",
-    "pubDate": "Wed, 20 Nov 2024 00:30:00 +0530",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSfqfr09REEyMHxz7QwvfKyh3E1b3tq-pywgmdxshRjIje76-Xouin9osafrDvIEXUte__qWc87",
-    "news_item_snippet": "Stock Market Holiday Today: Indian stock exchanges closed on Monday for Maharashtra Assembly Election 2024, marking the 14th trading holiday this year.",
-    "news_item_url": "https://m.economictimes.com/markets/stocks/news/is-bse-nse-keeping-stock-market-closed-for-maharashtra-elections-today/articleshow/115449307.cms",
+    "title": "CBSE",
+    "pubDate": "Wed, 20 Nov 2024 22:30:00 +0530",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRA8mZtQIRGH-jTkNlaG1RMPOTAmLPmq0H8tNXTPRodTuKztxwFxxUricrdcfhJ7eS7uf5q7rtU",
+    "news_item_snippet": "CBSE Date Sheet 2025: \u0938\u0940\u092c\u0940\u090f\u0938\u0908 \u0926\u094d\u0935\u093e\u0930\u093e 10\u0935\u0940\u0902 \u0914\u0930 12\u0935\u0940\u0902 \u0915\u0940 \u092c\u094b\u0930\u094d\u0921 \u092a\u0930\u0940\u0915\u094d\u0937\u093e\u0913\u0902 \u0915\u0947 \u0932\u093f\u090f \u0921\u0947\u091f\u0936\u0940\u091f 2025 \u091c\u093e\u0930\u0940 \u0915\u0930 \u0926\u0940 \u0917\u0908 \u0939\u0948. \u0938\u0940\u092c\u0940\u090f\u0938\u0908 \u0915\u0940 \u092a\u0930\u0940\u0915\u094d\u0937\u093e\u090f\u0902 15 \u092b\u0930\u0935\u0930\u0940&nbsp;...",
+    "news_item_url": "https://zeenews.india.com/hindi/career/education/cbse-date-sheet-2025-out-download-cbse-12th-10th-timetable-at-cbse-gov-in-exams-from-february-15-to-april-4/2523227",
+    "picture_source": "\u0928\u0935\u092d\u093e\u0930\u0924 \u091f\u093e\u0907\u092e\u094d\u0938",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "India",
+    "title": "Share market today",
+    "pubDate": "Wed, 20 Nov 2024 09:30:00 +0530",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcT9WGwkrgpxzhQuftxBzWZDTS6_BzN0w_tWDetpVE3RzepmMTDer6niFIGCgnIWUy8iNUQgUh2R",
+    "news_item_snippet": "Is the share market today open or not during the voting in Mumbai for the Maharashtra assembly election? Check details here.",
+    "news_item_url": "https://www.hindustantimes.com/business/stock-market-holiday-on-maharashtra-election-is-the-bse-and-nse-open-or-closed-on-november-20-101731996763094.html",
     "picture_source": "Moneycontrol.com",
     "approx_traffic": "50,000+"
   },
@@ -164,8 +184,8 @@
     "title": "Maharashtra election",
     "pubDate": "Tue, 19 Nov 2024 19:30:00 +0530",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcReUqEAvnh3OQXi5vikTsJRa7fktXhaybKK-SoBtOK_RjrgWv37s4zvp7w0kBPhy5OEv5BkE2A4",
-    "news_item_snippet": "Maharashtra Assembly Election, Vidhan Sabha Chunav 2024 Exit Polls Live Updates: \u092e\u0939\u093e\u0930\u093e\u0937\u094d\u091f\u094d\u0930 \u092e\u0947\u0902 \u0935\u093f\u0927\u093e\u0928\u0938\u092d\u093e \u091a\u0941\u0928\u093e\u0935 \u0915\u0947 \u0932\u093f\u090f \u092e\u0924\u0926\u093e\u0928 \u0939\u094b \u0917\u092f\u093e \u0939\u0948\u0964",
-    "news_item_url": "https://www.amarujala.com/live/india-news/maharashtra-election-2024-live-updates-voting-percentage-288-seats-bjp-congress-evm-glitch-exit-poll-news-2024-11-20",
+    "news_item_snippet": "Voter Turnout in Maharashtra, Jharkhand Election: Voting for all 288 Maharashtra assembly seats and the remaining 38 Jharkhand constituencies took place on&nbsp;...",
+    "news_item_url": "https://m.economictimes.com/news/elections/assembly-elections/maharashtra/maharashtra-election-voter-turnout-eci-assembly-elections-jharkhand-voting-percentage-today/articleshow/115471120.cms",
     "picture_source": "India Today",
     "approx_traffic": "500,000+"
   },
@@ -183,10 +203,10 @@
     "country": "India",
     "title": "Election Commission",
     "pubDate": "Tue, 19 Nov 2024 12:30:00 +0530",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTgTLkbzgVQchM9a0CYzfWHEOzDmM2kVDWVqFLe8neJuTqTZ82npMTvp086FMHT2lGXWt28KxjZ",
-    "news_item_snippet": "Election Commission suspends police officers for voter suppression in Uttar Pradesh bypolls, sparking controversy between SP and BJP.",
-    "news_item_url": "https://www.thehindu.com/news/national/uttar-pradesh/up-bypolls-sp-says-cops-deterring-voters-election-commission-cracks-down-on-policemen/article68889562.ece",
-    "picture_source": "Hindustan Times",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTd0yuvIfn3EEn_C1vNheUOSrBtCHbbk7uRD3Sj4z4PTjdZWuIBAXbUuuEoZbtL4JqPmgKW_TM2",
+    "news_item_snippet": "CEC Rajiv Kumar, taking serious note of Samajwadi Party&#39;s complaints, directed UP election officials to ensure a fair and impartial voting process.",
+    "news_item_url": "https://www.hindustantimes.com/india-news/up-bypolls-election-commission-takes-action-against-policemen-after-akhilesh-yadavs-complaint-2-suspended-101732090911891.html",
+    "picture_source": "The Hindu",
     "approx_traffic": "100,000+"
   },
   {
@@ -203,10 +223,10 @@
     "country": "India",
     "title": "Russia",
     "pubDate": "Tue, 19 Nov 2024 20:30:00 +0530",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRndmS7PkRAzUPhCRW-dCSfux1zmkLVsVidB69jXlIrpws5ChWhAPqNlritoMP03L6oGywZXXTk",
-    "news_item_snippet": "On Tuesday (19 November 2024), Secretary General Mark Rutte marked the 1000th day of Russia&#39;s war against Ukraine in a video message to the people of&nbsp;...",
-    "news_item_url": "https://www.nato.int/cps/en/natohq/news_230664.htm",
-    "picture_source": "Aljazeera.com",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSQhe1rDpgy8nDUgwKytKjZOR3ZmbDjoUB8EoEGY5dfxol9Wkd7CyWOQYTm_zu9k-WBrgZ1UMr3",
+    "news_item_snippet": "Better known as Russia&#39;s nuclear doctrine, the revamped version that was signed Tuesday by President Vladimir Putin spells out the circumstances that allow him&nbsp;...",
+    "news_item_url": "https://www.business-standard.com/world-news/russia-revises-nuclear-policy-is-it-likely-to-use-its-atomic-weapons-now-124112000012_1.html",
+    "picture_source": "Economic Times",
     "approx_traffic": "50,000+"
   },
   {
@@ -224,8 +244,8 @@
     "title": "Bolivia  Paraguay",
     "pubDate": "Tue, 19 Nov 2024 16:00:00 -0300",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcT54ngsi_9AgzchYB_pqX_EJTahUxx4-E-l6O_Evt8iYLa0zSPPWwWsqazBfizifVq0CKhJK-Ms",
-    "news_item_snippet": "La planificaci\u00f3n del entrenador argentino funcion\u00f3 en los 4150 metros de El Alto, donde por primera vez el local no gan\u00f3 en la eliminatoria - LA NACION.",
-    "news_item_url": "https://www.lanacion.com.ar/deportes/futbol/gustavo-alfaro-lo-consiguio-paraguay-le-robo-a-bolivia-un-punto-muy-cerca-de-las-nubes-nid19112024/",
+    "news_item_snippet": "La Verde, que necesita recuperarse en la tabla de posiciones para meterse en zona de clasificaci\u00f3n, recibe a un inspirado equipo guaran\u00ed - LA NACION.",
+    "news_item_url": "https://www.lanacion.com.ar/deportes/futbol/en-que-canal-pasan-bolivia-vs-paraguay-por-las-eliminatorias-sudamericanas-2026-hoy-nid19112024/",
     "picture_source": "ESPN",
     "approx_traffic": "200,000+"
   },
@@ -261,22 +281,32 @@
   },
   {
     "country": "Argentina",
+    "title": "Telefe",
+    "pubDate": "Tue, 19 Nov 2024 23:00:00 -0300",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTr_ojizBKF_Fl0FxixWN0o6mfkoV1bEomqrlJzyt27CzTi2p40f8CMfa_F5Ozdfb4Gw1r_PgKD",
+    "news_item_snippet": "Los fan\u00e1ticos del reality est\u00e1n ansiosos por la nueva edici\u00f3n, que comenzar\u00e1 a principios de diciembre.",
+    "news_item_url": "https://www.airedesantafe.com.ar/espectaculos/gran-hermano-regresa-la-pantalla-telefe-nuevas-sorpresas-n601346",
+    "picture_source": "LA NACION",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Argentina",
     "title": "Posiciones de Eliminatorias Copa del Mundo",
     "pubDate": "Tue, 19 Nov 2024 20:00:00 -0300",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTQ2URudanImZvKs1W7ePF2QXT3Rl9Ul9neRMBUiI5SwGZLLw8GkjLsmmqD73dg4uj-HrNE29qQ",
-    "news_item_snippet": "El certamen otorga seis boletos directos al Mundial Estados Unidos-Canad\u00e1-M\u00e9xico 2026 m\u00e1s otro a un repechaje - LA NACION.",
-    "news_item_url": "https://www.lanacion.com.ar/deportes/futbol/tabla-de-posiciones-de-las-eliminatorias-en-vivo-asi-se-juega-la-fecha-12-nid19112024/",
-    "picture_source": "Infobae.com",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTjAGJuaKtl1221BWqe3iP7Y2YiizoiNLMS_OfR5oy-u9WyoDAz9Z2469zJkxE0ciRNADW7UDYb",
+    "news_item_snippet": "Se complet\u00f3 las \u00faltima jornada de las clasificatorias sudamericanas del presente a\u00f1o. Per\u00fa sum\u00f3 su s\u00e9ptima derrota ante Argentina. Ecuador venci\u00f3 a Colombia&nbsp;...",
+    "news_item_url": "https://www.infobae.com/peru/deportes/2024/11/19/tabla-posiciones-eliminatorias-2026-en-vivo-hoy-actualizado-fecha-12-partidos-peru-argentina-uruguay-brasil-chile-venezuela-bolivia-paraguay-ecuador-colombia/",
+    "picture_source": "LA NACION",
     "approx_traffic": "50,000+"
   },
   {
     "country": "Australia",
     "title": "AFL Draft",
     "pubDate": "Wed, 20 Nov 2024 19:00:00 +1100",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTOeCOKeJr9KSFFeatD9CXWZPuz8HJkkkqdqNi10dzFZt7Kl3Mcon_vPpC1d9oXVSSyaFz59qlv",
-    "news_item_snippet": "The 2024 Telstra AFL Draft kicks off tonight in Melbourne with the Swans having two first round picks in this year&#39;s draft.",
-    "news_item_url": "https://www.sydneyswans.com.au/news/1694684/2024-telstra-afl-draft-what-you-need-to-know",
-    "picture_source": "Geelong Cats",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRPBLUUvTKO9pw8s5qNTuExnBFrXA0mSQO2RD3jzsXmKQajcvT6GPSYSEy-pc-XGD150lw6BMl0",
+    "news_item_snippet": "Everything you need to know as the Telstra AFL Draft kicks off tonight and where the Cats can pick.",
+    "news_item_url": "https://www.geelongcats.com.au/news/1694588/telstra-afl-draft-preview",
+    "picture_source": "Sydney Swans",
     "approx_traffic": "50,000+"
   },
   {
@@ -288,16 +318,6 @@
     "news_item_url": "https://ge.globo.com/ce/futebol/brasileirao-serie-a/noticia/2024/11/20/artilheiro-do-brasileirao-2024-veja-ranking-atualizado.ghtml",
     "picture_source": "globoesporte.com",
     "approx_traffic": "200,000+"
-  },
-  {
-    "country": "Brazil",
-    "title": "Brasileir\u00e3o s\u00e9rie a",
-    "pubDate": "Wed, 20 Nov 2024 11:00:00 -0500",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTXIz3j5Meh79StgoDPQmHxy4Wef6imknY6RWJ9Lh-amy8cMKLyuLC0UEfydRJ95auvZ6Js1L_7",
-    "news_item_snippet": "Confira quem s\u00e3o os principais artilheiros do Campeonato Brasileiro 2024.",
-    "news_item_url": "https://ge.globo.com/ce/futebol/brasileirao-serie-a/noticia/2024/11/20/artilheiro-do-brasileirao-2024-veja-ranking-atualizado.ghtml",
-    "picture_source": "globoesporte.com",
-    "approx_traffic": "100,000+"
   },
   {
     "country": "Brazil",
@@ -364,8 +384,8 @@
     "title": "Nadal",
     "pubDate": "Tue, 19 Nov 2024 12:00:00 +0100",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQ6uteRN2zVeQuS2mkF-JCPjj2XIGYmOoz2DnpvdbCftwLJhXJlEX2L8XLVmRnFuZmPaWubPblY",
-    "news_item_snippet": "Apr\u00e8s un ultime match de Coupe Davis ce mardi, Rafael Nadal a mis un terme \u00e0 sa carri\u00e8re. Ce mercredi matin, la presse internationale lui rend hommage.",
-    "news_item_url": "https://www.lequipe.fr/Tennis/Actualites/-eternel-ce-fut-un-honneur-merci-rafa-la-presse-internationale-salue-les-adieux-de-rafael-nadal/1521493",
+    "news_item_snippet": "Apr\u00e8s l&#39;\u00e9limination de l&#39;Espagne face aux Pays-Bas, en quart de finale de Coupe Davis, dans la nuit de mardi \u00e0 mercredi 20 novembre, l&#39;Espagnol a&nbsp;...",
+    "news_item_url": "https://www.humanite.fr/sports/coupe-davis/rafael-nadal-tire-definitivement-sa-reverence",
     "picture_source": "Franceinfo",
     "approx_traffic": "50,000+"
   },
@@ -390,6 +410,16 @@
     "approx_traffic": "200,000+"
   },
   {
+    "country": "Italy",
+    "title": "Allerta neve",
+    "pubDate": "Wed, 20 Nov 2024 08:00:00 +0100",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTeuOfTIrth5JYVxYowWJBboI5GPAHDReO38n99Y_2knNa_44hRPnA60p43ATK_1-pTVxxNpz46",
+    "news_item_snippet": "Abbondanti nevicate a basse quote al Nord nelle zone di confine. A Livorno sospesi i traghetti dalla Sardegna e dalla Corsica. Disagi per il maltempo anche&nbsp;...",
+    "news_item_url": "https://www.corriere.it/cronache/24_novembre_20/allerta-neve-meteo-previsioni-30689a31-6e93-4a0c-8080-5eb831485xlk.shtml",
+    "picture_source": "Italia Oggi",
+    "approx_traffic": "50,000+"
+  },
+  {
     "country": "Mexico",
     "title": "Brasil  Uruguay",
     "pubDate": "Tue, 19 Nov 2024 10:00:00 -0600",
@@ -404,8 +434,8 @@
     "title": "Colombia  Ecuador",
     "pubDate": "Tue, 19 Nov 2024 16:00:00 -0600",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQNW5iaus1LRtSViteRPJQy1qd3bJMlT5Hna87R256hdQnAymBBVrT6rzxr6PWmCuh4Hvksvl0Q",
-    "news_item_snippet": "Tras el sufrido encuentro con Uruguay, la Tricolor busca avanzar en las eliminatorias rumbo al Mundial.",
-    "news_item_url": "https://elpais.com/america-colombia/2024-11-19/colombia-ecuador-donde-y-cuando-ver-el-proximo-partido-de-la-seleccion.html",
+    "news_item_snippet": "En el gol pudo frenar el ataque de Valencia con una falta, pero lo dej\u00f3 avanzar sin poner mucha resistencia. Despu\u00e9s de la expulsi\u00f3n del jugador ecuatoriano&nbsp;...",
+    "news_item_url": "https://espndeportes.espn.com/futbol/mundial/nota/_/id/14464438/el-uno-por-uno-de-la-seleccion-colombia-en-su-derrota-ante-ecuador",
     "picture_source": "ESPN",
     "approx_traffic": "50,000+"
   },
@@ -443,19 +473,19 @@
     "country": "United Kingdom",
     "title": "Liam Payne funeral",
     "pubDate": "Wed, 20 Nov 2024 14:00:00 +0000",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTfx_rSCpTkMgrkd3MrV1aD5YhCjB-Xa_DvxOnA9rrD7-TE4N2zqz_B-WK1v_0AhEAghaQe_Q-a",
-    "news_item_snippet": "X-Factor judge Simon Cowell and Payne&#39;s former partner Cheryl Tweedy also attend Buckinghamshire service.",
-    "news_item_url": "https://www.theguardian.com/music/2024/nov/20/liam-payne-one-direction-bandmates-among-mourners-at-his-funeral",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRKu9GvQgiELxgyD0kpmZj-erhmDGGh59mO8lUBIIhJSg-vAPwNsXvuGiqWnTXXdSlOEs9VQcHG",
+    "news_item_snippet": "Payne&#39;s girlfriend Kate Cassidy among the mourners to pay respects to singer at church service.",
+    "news_item_url": "https://www.standard.co.uk/showbiz/liam-payne-funeral-latest-celebrities-one-direction-harry-styles-kate-cassidy-b1195105.html",
     "picture_source": "The Independent",
-    "approx_traffic": "100,000+"
+    "approx_traffic": "200,000+"
   },
   {
     "country": "United Kingdom",
     "title": "Scott Mills",
     "pubDate": "Tue, 19 Nov 2024 09:00:00 +0000",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRpo2gHV_OJmy1aAfZyeF1_ZRS5RCuvaLisIjzp4WB55v2I0kEaXT0TvF-G1YbPN9NQFDkfbAM-",
-    "news_item_snippet": "Trevor Nelson, who currently presents Rhythm Nation Monday \u2013 Thursday, will move to the 2-4pm weekday afternoon show from January replacing Scott. DJ Spoony&#39;s&nbsp;...",
-    "news_item_url": "https://radiotoday.co.uk/2024/11/scott-mills-for-breakfast-trevor-nelson-for-afternoons-spoony-for-evenings-at-bbc-radio-2/",
+    "news_item_snippet": "Zoe Ball revealed on Tuesday (November 19) morning she was stepping down from her Radio 2 Breakfast Show in December 2020 after nearly six years in the role&nbsp;...",
+    "news_item_url": "https://www.impartialreporter.com/news/national/uk-today/24733656.trevor-nelson-replace-scott-mills-bbc-radio-2-show/",
     "picture_source": "The Independent",
     "approx_traffic": "50,000+"
   },
@@ -463,17 +493,17 @@
     "country": "United Kingdom",
     "title": "Alan Halsall",
     "pubDate": "Tue, 19 Nov 2024 23:00:00 +0000",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRL1uDf2TE3Jej5IlLtzQplJtX5uJohu9-_E0dKbAXxXdgpjcVGa1FcqSjwVc7TD3jsbz9znQE8",
-    "news_item_snippet": "Coronation Street actor Halsall, who plays Tyrone Dobbs in the ITV series, entered the jungle for the 2024 series on Sunday (16 November). He&nbsp;...",
-    "news_item_url": "https://www.independent.co.uk/arts-entertainment/tv/news/im-a-celeb-alan-halsall-ex-girlfriend-relationship-b2650687.html",
-    "picture_source": "Capital FM",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSSsba86pCf8yNdgKDNW-lsk9kcX45UlcQVedDPIeYh-OvIlICddVucPfdklTROmxG-4K_gIqUD",
+    "news_item_snippet": "I&#39;m A Celebrity&#39;s Alan Halsall addressed his divorce from Lucy Jo Hudson and his relationship with their daughter Sienna.",
+    "news_item_url": "https://www.capitalfm.com/news/tv-film/im-a-celebrity/alan-halsall-ex-wife-lucy-jo-hudson-divorce/",
+    "picture_source": "The Independent",
     "approx_traffic": "50,000+"
   },
   {
     "country": "United Kingdom",
     "title": "Demisexual",
     "pubDate": "Tue, 19 Nov 2024 23:00:00 +0000",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQvOI88sNuMGCEQFx_5KJnosVFgUz7ZCTuMEHLYMpCg-JpFExmkosbgFaf_wsuXhi1fshcIcYbw",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSTguUAWyvQVxNRPGyBHfdr3PFiN_9CdZ7iV_mdHL2xvGPHZTExCeYN-hSp5GlXsj5Ajo5KqfUw",
     "news_item_snippet": "I know how the former X Factor judge feels \u2013 I don&#39;t feel sexually attracted to people either, unless they meet this strict condition, says Izzie Price.",
     "news_item_url": "https://www.independent.co.uk/voices/tulisa-i-m-a-celeb-demisexual-dating-celibate-b2650442.html",
     "picture_source": "BBC News",
