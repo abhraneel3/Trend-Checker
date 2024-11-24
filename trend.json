@@ -1,6 +1,16 @@
 [
   {
     "country": "United States",
+    "title": "Alabama Football",
+    "pubDate": "Sat, 23 Nov 2024 17:00:00 -0800",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSUdFDay6Fuhh8uN041djqLLw6bAR7ABs2oU4SLb3jDKcPCaIZYrhZs-HXNGK03xD6iPzOxUinl",
+    "news_item_snippet": "What&#39;s next for the Crimson Tide after it suffered an embarrassing 24-3 loss to unranked Oklahoma.",
+    "news_item_url": "https://www.cbssports.com/college-football/news/alabama-coach-kalen-deboer-has-critical-decisions-to-make-after-subpar-year-1-including-finding-answer-at-qb/",
+    "picture_source": "al.com",
+    "approx_traffic": "1,000,000+"
+  },
+  {
+    "country": "United States",
     "title": "Indiana football",
     "pubDate": "Sat, 23 Nov 2024 10:00:00 -0800",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcToLPsOmtdNkg8pfQgOTA40QbQtgX5wKwpPJN2DAN-ww6s6fgL9bqHXe8L07uIL0YQvEMgXWA9d",
@@ -11,23 +21,13 @@
   },
   {
     "country": "United States",
-    "title": "Ole Miss Football",
+    "title": "Ole Miss football",
     "pubDate": "Sat, 23 Nov 2024 10:00:00 -0800",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSda-46hcb7XGMIrTZt36yTlZUewM1wfiblSff06nhExKOb1M0cHMYQLx6rUrAdsQwf577Nv12N",
-    "news_item_snippet": "Ole Miss football lost 24-17 to Florida on Saturday at Ben Hill Griffin Stadium. The third loss takes all the air out of the Rebels&#39; season.",
-    "news_item_url": "https://www.clarionledger.com/story/sports/college/ole-miss/2024/11/23/ole-miss-football-playoffs-lane-kiffin-jaxson-dart-florida/76303574007/",
+    "news_item_snippet": "Expert recap and game analysis of the Florida Gators vs. Ole Miss Rebels NCAAF game from November 23, 2024 on ESPN.",
+    "news_item_url": "https://www.espn.com/college-football/recap?gameId=401628429",
     "picture_source": "Florida Gators",
     "approx_traffic": "500,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Alabama vs Oklahoma",
-    "pubDate": "Sat, 23 Nov 2024 17:00:00 -0800",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSgosNIS5DJniNWgNZDWwZvnvckkJjPPAqP2Om8gx7DZ042rkR0f_4jt9h6WEqQ4kRhpexHFKro",
-    "news_item_snippet": "The Crimson Tide will put their top-10 status on the line against one of the SEC&#39;s newcomers.",
-    "news_item_url": "https://www.cbssports.com/college-football/news/alabama-vs-oklahoma-live-stream-where-to-watch-tv-channel-pick-spread-football-game-odds/",
-    "picture_source": "Tuscaloosa News",
-    "approx_traffic": "200,000+"
   },
   {
     "country": "United States",
@@ -74,19 +74,29 @@
     "title": "Army football",
     "pubDate": "Sat, 23 Nov 2024 16:00:00 -0800",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRFOjMX7olBLoxiT6jKiPIrbre0l5P6Fdqh5pGRZI9SYj_5FHgyPvtp_txW21fnJIVV2_9HR-SW",
-    "news_item_snippet": "Expert recap and game analysis of the Notre Dame Fighting Irish vs. Army Black Knights NCAAF game from November 23, 2024 on ESPN.",
-    "news_item_url": "https://www.espn.com/college-football/recap?gameId=401640959",
+    "news_item_snippet": "Notre Dame gained 462 total yards, nearly double Army&#39;s output, even with third-string Irish defenders out there for the consolation scoring drive.",
+    "news_item_url": "https://www.southbendtribune.com/story/sports/college/football/2024/11/24/analysis-army-coach-jeff-monken-sings-the-praises-of-notre-dame-football-marcus-freeman-cfp-rankings/76334567007/",
     "picture_source": "Times Herald-Record",
     "approx_traffic": "200,000+"
   },
   {
     "country": "United States",
-    "title": "F1 Las Vegas",
-    "pubDate": "Sat, 23 Nov 2024 15:00:00 -0800",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTPc95MbwJVgk9NyuwpdyhDxmSSd8VEyHWQeuEyFUve5joIMzWnPUOT7Arp7di08tUPHiuVygAv",
-    "news_item_snippet": "This unwittingly granted Hamilton an undercut for a second set of hard tyres as the Ferrari duo stopped later, having lost grip on their first set of the white-&nbsp;...",
-    "news_item_url": "https://www.motorsport.com/f1/news/f1-las-vegas-gp-verstappen-seals-fourth-title-as-russell-dominates-race/10675980/",
-    "picture_source": "ESPN",
+    "title": "USC vs UCLA",
+    "pubDate": "Sat, 23 Nov 2024 19:00:00 -0800",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcT2Dan86g-9cDjCQiv8NtakkZYd947SJh_sYf8xTrPLRf6qz2a1_EJGm199cFhjGBrCUE0iszBX",
+    "news_item_snippet": "Redshirt sophomore quarterback Jayden Maiava and the Trojans will aim to bring the Victory Bell back home and secure a bowl game birth in the process.",
+    "news_item_url": "https://dailytrojan.com/2024/11/23/usc-vs-ucla-live-updates-2/",
+    "picture_source": "University of Southern California Official Athletic Site",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Chuck Woolery",
+    "pubDate": "Sat, 23 Nov 2024 23:00:00 -0800",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTMG7GIdwUSoZegclNousSa1au9ssGxQvivhIIOdmwqI6kR0tAcBfOpvKT86MTikhOnJkQDmTUG",
+    "news_item_snippet": "Game show veteran Chuck Woolery who hosted the original versions of Wheel Of Fortune and Love Connection, died Nov. 23. He was 83.",
+    "news_item_url": "https://deadline.com/2024/11/chuck-woolery-dead-wheel-of-fortune-love-connection-1236186354/",
+    "picture_source": "CBS News",
     "approx_traffic": "100,000+"
   },
   {
@@ -101,26 +111,6 @@
   },
   {
     "country": "United States",
-    "title": "Chuck Woolery",
-    "pubDate": "Sat, 23 Nov 2024 23:00:00 -0800",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSIVXP4nMJ0bHnhNqzXVxpTmkndpMa37Q8F_AGyj4WGfTy11IyQsYwfS3S4OULWG5hchpzZgsfv",
-    "news_item_snippet": "Chuck Woolery, the game show host behind the dating show &quot;Love Connection,&quot; has died. He was 83.",
-    "news_item_url": "https://variety.com/2024/tv/news/chuck-woolery-dead-dies-love-connection-game-show-host-1236221573/",
-    "picture_source": "Fox 59",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Barcelona",
-    "pubDate": "Sat, 23 Nov 2024 11:00:00 -0800",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTbNIPdQyGWSwwGaJxVRS8Dna0ROWcC-mYpTChugFWTJbXleU-eYBBGGlUrgG6WvwUsGSgcAvAf",
-    "news_item_snippet": "Details of what a furious Hansi Flick said to his FC Barcelona players in a post-match scolding following the Celta Vigo collapse have been revealed the&nbsp;...",
-    "news_item_url": "https://www.forbes.com/sites/tomsanderson/2024/11/24/details-of-flicks-fc-barcelona-players-scolding-revealed-by-as-we-cant-go-on-like-this/",
-    "picture_source": "Yahoo Sports",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
     "title": "Nuggets vs Lakers",
     "pubDate": "Sat, 23 Nov 2024 19:00:00 -0800",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRrTPkW9-664kf30AJaRmrzDepeICueF1c8BzuL_7WqSwNiHDoIMnpCOnIs6hZ2WXrWRpB4pGtW",
@@ -131,42 +121,32 @@
   },
   {
     "country": "United States",
+    "title": "Barcelona",
+    "pubDate": "Sat, 23 Nov 2024 11:00:00 -0800",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTbNIPdQyGWSwwGaJxVRS8Dna0ROWcC-mYpTChugFWTJbXleU-eYBBGGlUrgG6WvwUsGSgcAvAf",
+    "news_item_snippet": "Furious FC Barcelona head coach Hansi Flick criticized his players following what could prove to be a costly collapse at Celta Vigo on Saturday.",
+    "news_item_url": "https://www.forbes.com/sites/tomsanderson/2024/11/23/furious-flick-slams-fc-barcelona-players-for-celta-vigo-collapse-we-played-very-badly/",
+    "picture_source": "Yahoo Sports",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Liverpool",
+    "pubDate": "Sat, 23 Nov 2024 12:00:00 -0800",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTwNnwDYgc738o8VjWYhvaFSZ1DSwuh2Q6SeBVEcC6VooYWx68rNQvnPYcSen4qVqS43VXaOiBe",
+    "news_item_snippet": "Southampton 2-3 Liverpool: Salah scored twice as Liverpool came from behind to go eight points clear.",
+    "news_item_url": "https://sports.yahoo.com/southampton-vs-liverpool-live-premier-123926406.html",
+    "picture_source": "ESPN",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
     "title": "Texas Tech football",
     "pubDate": "Sat, 23 Nov 2024 17:00:00 -0800",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQgptKB9Hzl4D3paplijNbZY-o5u80zkWxhk5phD8QOdUdcChEQT3obnaDVre-v67-ByZl_LkXs",
-    "news_item_snippet": "The Tech defense looked vulnerable, and defensive tackles De&#39;Braylon Carroll and Quincy Ledet were sidelined with ankle injuries they suffered in the first half&nbsp;...",
-    "news_item_url": "https://www.lubbockonline.com/story/sports/college/red-raiders/2024/11/23/texas-tech-football-wins-a-wild-one-at-oklahoma-state-football/76313538007/",
+    "news_item_snippet": "Texas Tech football team notched only its second win in past 11 trips to Oklahoma State. The Red Raiders moved within one game of first in the Big 12.",
+    "news_item_url": "https://www.lubbockonline.com/story/sports/college/red-raiders/2024/11/23/texas-tech-football-report-card-red-raiders-win-at-oklahoma-state-football/76313477007/",
     "picture_source": "Oklahoman.com",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
-    "title": "USC vs UCLA",
-    "pubDate": "Sat, 23 Nov 2024 19:00:00 -0800",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcT2Dan86g-9cDjCQiv8NtakkZYd947SJh_sYf8xTrPLRf6qz2a1_EJGm199cFhjGBrCUE0iszBX",
-    "news_item_snippet": "Redshirt sophomore quarterback Jayden Maiava and the Trojans will aim to bring the Victory Bell back home and secure a bowl game birth in the process.",
-    "news_item_url": "https://dailytrojan.com/2024/11/23/usc-vs-ucla-live-updates-2/",
-    "picture_source": "University of Southern California Official Athletic Site",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Northwestern vs Michigan",
-    "pubDate": "Sat, 23 Nov 2024 14:00:00 -0800",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTsmyrEi2ATuKDKMZK22uW-SI1OYfQAGgPrU-0Ia1hPcRBHhdYcBUpdVZuNiXXh1zGE-g71jU3s",
-    "news_item_snippet": "Catch Northwestern and Michigan in college football action on Saturday afternoon in a Big Ten matchup.",
-    "news_item_url": "https://www.newsweek.com/sports/ncaa/how-watch-northwestern-vs-michigan-live-stream-ncaa-football-tv-channel-1990552",
-    "picture_source": "Inside NU",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
-    "title": "MLS",
-    "pubDate": "Sat, 23 Nov 2024 17:00:00 -0800",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSIMyfVbBT5z1LxLHuXkItELbYzNwuFRtBUbgGgYlfgk7D1StFm3lxi2YiGIFGMKstx3SgDvgy8",
-    "news_item_snippet": "Find out which players are not available for the Black &amp; Gold&#39;s next match.",
-    "news_item_url": "https://www.lafc.com/news/player-status-report-lafc-vs-seattle-sounders-2024-mls-cup-playoffs-western-conference-semifinals",
-    "picture_source": "SoundersFC.com",
     "approx_traffic": "50,000+"
   },
   {
@@ -181,50 +161,40 @@
   },
   {
     "country": "United States",
-    "title": "Kentucky vs Texas",
+    "title": "Northwestern vs Michigan",
     "pubDate": "Sat, 23 Nov 2024 14:00:00 -0800",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcS4EIxP_I1HvBUmfx_P4oKob5UrmyzN09ryaXNXVQH1xLWZodmfgB9yjAXqCH89_TmgcspCcDbE",
-    "news_item_snippet": "Score, statistics and analysis for the SEC game between Steve Sarkisian and the Texas Longhorns vs. Mark Stoops and the Kentucky Wildcats.",
-    "news_item_url": "https://www.kentucky.com/sports/spt-columns-blogs/sidelines-with-john-clay/article296041309.html",
-    "picture_source": "Lexington Herald Leader",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQhFkA3MNbBNwOWQcinOjFRiu0SHVwztDxGHGc6u5DA1BgbzI4RnKXQ4GMbX8To3OPjgUmKp6RT",
+    "news_item_snippet": "Expert recap and game analysis of the Michigan Wolverines vs. Northwestern Wildcats NCAAF game from November 23, 2024 on ESPN.",
+    "news_item_url": "https://www.espn.com/college-football/recap?gameId=401628557",
+    "picture_source": "Inside NU",
     "approx_traffic": "50,000+"
   },
   {
-    "country": "United States",
-    "title": "Vanderbilt football",
-    "pubDate": "Sat, 23 Nov 2024 19:00:00 -0800",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQVqfkeKiBtjf16JPrVrgweHvc1teUX_OE5YPh3d8WDZmyLlIrNpP70BAKM6ojqEbTAuThxOnM1",
-    "news_item_snippet": "Chaos reigned throughout the SEC on Saturday night. An Oklahoma team that was tracking to miss a bowl game ended up upsetting Alabama in Norman.",
-    "news_item_url": "https://www.tennessean.com/story/sports/college/vanderbilt/2024/11/24/vanderbilt-football-tennessee-vols-college-football-playoff-lsu-loss-sec/76405147007/",
-    "picture_source": "The Tennessean",
-    "approx_traffic": "50,000+"
+    "country": "India",
+    "title": "Virat Kohli",
+    "pubDate": "Sun, 24 Nov 2024 08:30:00 +0530",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRAJo7lmUWx6yd3xNQIRsjG5rMbZzHG_xS2C0BHzdMXgofuRiDL_obXJ0T2B-T_dwjzqTrPbxzL",
+    "news_item_snippet": "AUS vs IND: Virat Kohli scored his 30th Test hundred and helped India set a massive target of 534 to chase down at the Perth Stadium. Kohli made an unbeaten&nbsp;...",
+    "news_item_url": "https://www.indiatoday.in/sports/story/cricket-australia-vs-india-virat-kohli-perth-test-records-stat-pack-2639309-2024-11-24",
+    "picture_source": "ICC Cricket",
+    "approx_traffic": "500,000+"
   },
   {
     "country": "India",
     "title": "Zimbabwe vs Pakistan",
     "pubDate": "Sun, 24 Nov 2024 12:30:00 +0530",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRHcZzi4kr-y_C0iiKOIzw1C832YAbPzg5XMo4ecGqu4ANUmojFz3Ekf2i7RpW9mnZv11RN0zd9",
-    "news_item_snippet": "ZIM vs PAK 2024/25, Zimbabwe vs Pakistan Match Report: Aamer Jamal is back in the side for Pakistan, while Brian Bennett and Trevor Gwandu will play their&nbsp;...",
-    "news_item_url": "https://www.espncricinfo.com/series/pakistan-in-zimbabwe-2024-25-1444642/zimbabwe-vs-pakistan-1st-odi-1444649/match-report",
-    "picture_source": "Hindustan \u0939\u093f\u0902\u0926\u0940",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSJKTXdX7m5cG9_czN7C0-n4T84D533H03Go97WeTKBD8-Jr2NVZ0cE8eEhMeS0c2RdN2ByypMG",
+    "news_item_snippet": "Zimbabwe vs Pakistan Live Score: First Innings Zimbabwe Score - 205/10 in 40.2 overs. Zimbabwe batting performance. Richard Ngarava 48(52)",
+    "news_item_url": "https://www.hindustantimes.com/cricket/zimbabwe-vs-pakistan-live-score-1st-odi-of-pakistan-tour-of-zimbabwe-2024-final-updates-today-24-nov-2024-101732429845324.html",
+    "picture_source": "ESPNcricinfo.com",
     "approx_traffic": "500,000+"
-  },
-  {
-    "country": "India",
-    "title": "Celta Vigo vs Barcelona",
-    "pubDate": "Sun, 24 Nov 2024 01:30:00 +0530",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQ0TVU8KhkX5nYJuP5UUIPIopxEJADVea_CKTUzdmp7MU21c59zxR2vSw1zS0kdoMbFjkupaQlc",
-    "news_item_snippet": "RCV vs FCB: Catch the highlights from the La Liga 2024-25 match between Celta Vigo and Barcelona at the Estadio de Balaidos stadium in Vigo.",
-    "news_item_url": "https://sportstar.thehindu.com/football/la-liga/celta-vigo-vs-barcelona-live-score-updates-highlights-la-liga-2024-25-result-fcb/article68903463.ece",
-    "picture_source": "Barca Blaugranes",
-    "approx_traffic": "100,000+"
   },
   {
     "country": "India",
     "title": "IPL Auction 2025 Time and date",
     "pubDate": "Sun, 24 Nov 2024 10:30:00 +0530",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRGDEvp2qRHXv4LfmKaeAGWgieF9jczBQZJJ2DjVO9sPYW2AqCDUuVpdr2FZeA-gUM0T-ujkqI1",
-    "news_item_snippet": "Day one of the Indian Premier League player auction witnessed some expensive buying and new records as Indian wicket-keeper Rishabh Pant became the most&nbsp;...",
+    "news_item_snippet": "IPL 2025 Mega Auction LIVE news, IPL auction players list with price :The Indian Premier League mega auction will take place in Jeddah, Saudi Arabia on 24th&nbsp;...",
     "news_item_url": "https://www.thehindu.com/sport/cricket/ipl-auction-2025-live-updates-november-24-day-1/article68904665.ece",
     "picture_source": "NDTVSports.com",
     "approx_traffic": "100,000+"
@@ -243,39 +213,49 @@
     "country": "India",
     "title": "RCB",
     "pubDate": "Sun, 24 Nov 2024 17:30:00 +0530",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQxoP48FViOsXv7z-PNb8PwDLt4jQTWl9fD7YREsiNOSc4xAkKksDJImqdN9WMw9fvusXbOcOW4",
-    "news_item_snippet": "RCB IPL Team 2025 Players List, Royal Challengers Bengalore Team Players List, Squad 2025: \u0906\u0930\u0938\u0940\u092c\u0940 \u0928\u0947 \u0905\u0917\u0932\u0947 \u0938\u0940\u091c\u0928 \u0915\u0947 \u0932\u093f\u090f \u0907\u0928 \u0916\u093f\u0932\u093e\u0921\u093c\u093f\u092f\u094b\u0902 \u0915\u094b \u0905\u092a\u0928\u0940 \u091f\u0940\u092e \u092e\u0947\u0902&nbsp;...",
-    "news_item_url": "https://www.jansatta.com/khel/rcb-full-team-for-ipl-2025-ipl-mega-auction-2025-royal-challengers-bangalore-virat-kohli/3695009/",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTeaUqq_VZuyBDNfi3jOgCOZ7vr2KbrJtSG9mwGd0gFjCR6diZCVGK6ruWSBwEiLlHjpT8UQ0Fu",
+    "news_item_snippet": "Legendary Indian cricket team batter Kris Srikkanth blasted Royal Challengers Bengaluru for their early performance in the Indian Premier League (IPL) 2025&nbsp;...",
+    "news_item_url": "https://sports.ndtv.com/ipl-2025/naive-baffling-india-great-blasts-rcb-after-early-ipl-2025-auction-performance-7095376",
+    "picture_source": "Jansatta",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "India",
+    "title": "Ipswich Town vs Man United",
+    "pubDate": "Sun, 24 Nov 2024 21:30:00 +0530",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcT5eLnXfz7IuzynpWru-fiff0tKQtgV1eIAfzFHEci4txyc_VqFXYkmFZ-Khdzrq74jByN0C5-X",
+    "news_item_snippet": "Follow the build-up and live text commentary as Ipswich host Ruben Amorim&#39;s Manchester United at Portman Road.",
+    "news_item_url": "https://www.aljazeera.com/sports/liveblog/2024/11/24/live-ipswich-town-vs-manchester-united-english-premier-league",
+    "picture_source": "Sportstar",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "India",
+    "title": "Real Madrid",
+    "pubDate": "Sun, 24 Nov 2024 10:30:00 +0530",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRWbJPRs3ovmLBVobWqyaInFSKmEElxVTMWFW4fJ1jIfDnGAOnjePnHmGuNkT8rqF_eLut0jbNd",
+    "news_item_snippet": "The Whites are in action on matchday 14 of LaLiga at the Municipal de Butarque stadium (Sunday, 6.30 pm CET).",
+    "news_item_url": "https://www.realmadrid.com/en-US/news/football/first-team/squad-call/convocatoria-del-real-madrid-contra-el-leganes-23-11-2024",
     "picture_source": "NDTVSports.com",
     "approx_traffic": "50,000+"
   },
   {
-    "country": "India",
-    "title": "South Africa Women vs England Women",
-    "pubDate": "Sun, 24 Nov 2024 18:30:00 +0530",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQAT6PbQNdDxW7mvv20qYgKdCrPNgeqfWrBmzOf57p26mV-Le13iGYkdAsSLDzsVDy4bjrf-ccw",
-    "news_item_snippet": "South Africa Women vs England Women Live Score: Nat Sciver-Brunt smashed a Four on Nadine De Klerk bowling . England Women at 126/5 after 17.1 overs. South&nbsp;...",
-    "news_item_url": "https://www.livemint.com/sports/cricket-news/south-africa-women-vs-england-women-live-score-1st-t20i-of-england-women-tour-of-south-africa-2024-final-updates-today-24-nov-2024-11732446046289.html",
-    "picture_source": "Hindustan Times",
+    "country": "Argentina",
+    "title": "F1",
+    "pubDate": "Sun, 24 Nov 2024 10:00:00 -0300",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTLSP2V6rQkkQO0IfnPq0ABwdMx3FJ4Gjtm4VPOaaFghWT189AV011OLS5oH1OvCzDJTmS2IQHx",
+    "news_item_snippet": "Los fan\u00e1ticos de la m\u00e1xima categor\u00eda del automovilismo aprovecharon para reaccionar en las redes tras la carrera del piloto argentino y el t\u00edtulo del&nbsp;...",
+    "news_item_url": "https://www.infobae.com/deportes/2024/11/24/los-mejores-memes-del-gp-de-las-vegas-de-f1-de-la-recuperacion-de-colapinto-a-la-consagracion-de-verstappen/",
+    "picture_source": "Infobae.com",
     "approx_traffic": "50,000+"
-  },
-  {
-    "country": "India",
-    "title": "Maharashtra Election Result",
-    "pubDate": "Sat, 23 Nov 2024 08:30:00 +0530",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQYNtU5yPqCOrAc-hpfVrHANEb30KwzqNxVDWWFRFAeIa2kk1QzsMHKAVoJ8jckQ0lXExH_Zf5T",
-    "news_item_snippet": "The Maharashtra Assembly election results will have repercussions way beyond the state. From Hindutva politics to reforms push, to alliance arithmetic,&nbsp;...",
-    "news_item_url": "https://www.indiatoday.in/elections/assembly/story/maharashtra-assembly-election-result-mahayuti-victory-means-for-national-politica-india-bloc-loss-2638866-2024-11-23",
-    "picture_source": "\u0928\u0935\u092d\u093e\u0930\u0924 \u091f\u093e\u0907\u092e\u094d\u0938",
-    "approx_traffic": "2,000,000+"
   },
   {
     "country": "Argentina",
     "title": "Racing",
     "pubDate": "Sat, 23 Nov 2024 00:00:00 -0300",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRiOsWDkGWKFegoS8qiUgmnVIfixNItU8XvfuP4QDQ5KUUENaNwUw46ENE1MELIzvu-sLoNxtE",
-    "news_item_snippet": "Desde Asunci\u00f3n, el actor celebr\u00f3 la victoria de La Academia contra Cruzeiro y grab\u00f3 un video en alusi\u00f3n a la conquista de la Copa Sudamericana - LA NACION.",
-    "news_item_url": "https://www.lanacion.com.ar/deportes/el-nuevo-video-de-guillermo-francella-tras-la-consagracion-de-racing-en-paraguay-hermosa-manana-nid24112024/",
+    "news_item_snippet": "Luego de coronarse en Asunci\u00f3n, el plantel dirigido por Gustavo Costas arribar\u00e1 al pa\u00eds alrededor de las 16. Habr\u00e1 festejo en el Obelisco y se espera una&nbsp;...",
+    "news_item_url": "https://www.infobae.com/deportes/2024/11/24/el-plantel-de-racing-vuelve-a-la-argentina-tras-ganar-la-copa-sudamericana-y-se-espera-una-celebracion-historica/",
     "picture_source": "Conmebol",
     "approx_traffic": "1,000,000+"
   },
@@ -301,16 +281,6 @@
   },
   {
     "country": "Argentina",
-    "title": "F1",
-    "pubDate": "Sat, 23 Nov 2024 17:00:00 -0300",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRnN9NuYGMcUa_Va3_ZQxhvFNZK1dpRmY41xsIs7b9LaKVZL1keMpjuVLV_fjtBNAuyNX-RInCE",
-    "news_item_snippet": "El piloto neerland\u00e9s de Red Bull dej\u00f3 en claro su felicidad tras un nuevo t\u00edtulo en la F\u00f3rmula 1, luego del Gran Premio de Las Vegas.",
-    "news_item_url": "https://www.tycsports.com/automovilismo/la-emocion-de-verstappen-tras-coronarse-tetracampeon-de-la-f1-esto-es-increible-id620961.html",
-    "picture_source": "Infobae.com",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Argentina",
     "title": "Manchester City - Tottenham",
     "pubDate": "Sat, 23 Nov 2024 01:00:00 -0300",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRCo52JXIObfMmC3q9sEzg7k1d0WLvoxlcUH4-cZN3s6_G-7v2BUADK70BPtR2i8awXvw7koCoVAw",
@@ -324,19 +294,9 @@
     "title": "Celta de Vigo  Barcelona",
     "pubDate": "Sat, 23 Nov 2024 15:00:00 -0300",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSF-8Sl994EGDAUr6cuW9u3gNodNg2j02HIF-bbft0pC6--ZzLltRdGo3Rynq1sE2jYVFSf0HXb",
-    "news_item_snippet": "El Celta empata el partido en dos minutos con los goles de Alfon y Hugo \u00c1lvarez | Flick: \u201cNo han sido solo diez minutos, jugamos realmente un mal partido\u201d",
-    "news_item_url": "https://elpais.com/deportes/futbol/2024-11-23/celta-barcelona-en-directo-el-partido-de-la-liga-en-vivo.html",
+    "news_item_snippet": "Madrid, 23 de noviembre de 2024. El Celta de Vigo, situado en la und\u00e9cima posici\u00f3n de la tabla se enfrenta en la jornada 14 de LaLiga EA Sports en el Abanca&nbsp;...",
+    "news_item_url": "https://www.europapress.es/deportes/noticia-celta-vigo-barcelona-directo-resumen-goles-resultado-hoy-20241123203240.html",
     "picture_source": "LA NACION",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Argentina",
-    "title": "Atl\u00e9tico Madrid  Alav\u00e9s",
-    "pubDate": "Sat, 23 Nov 2024 12:00:00 -0300",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSFQ4V0Gvx5Zd4eSURgXhG9Q9c5Erz95OO9ZwCVr7u9rtfcEh5OfO4fpsHKR-VP1HyoQiqfyPom",
-    "news_item_snippet": "El Motorcito habilit\u00f3 a Sorloth en el segundo gol del Aleti, que hab\u00eda empezado el segundo tiempo perdiendo 1-0.",
-    "news_item_url": "https://www.espn.com.ar/futbol/espana/nota/_/id/14479109/con-gran-asistencia-de-paul-atletico-madrid-lo-dio-vuelta-a-alaves-es-nuevo-escolta",
-    "picture_source": "TyC Sports",
     "approx_traffic": "50,000+"
   },
   {
@@ -344,7 +304,7 @@
     "title": "F1",
     "pubDate": "Sat, 23 Nov 2024 03:00:00 +1100",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQ9hJJ7Iv4bIXCyhSVfITIXZbZ1PlqjfAfrE1ytUZedrOUGq8BnfcIv0oBPps0ufSV8xWJVWFlH",
-    "news_item_snippet": "Max Verstappen is the Formula One world champion for a fourth season in a row after finishing ahead of Lando Norris.",
+    "news_item_snippet": "Max Verstappen is the Formula One world champion for a fourth season after finishing ahead of Lando Norris at the Las Vegas Grand Prix.",
     "news_item_url": "https://www.theguardian.com/sport/2024/nov/24/max-verstappen-fourth-consecutive-f1-world-title-las-vegas-gp-race-report",
     "picture_source": "Fox Sports",
     "approx_traffic": "50,000+"
@@ -391,11 +351,11 @@
   },
   {
     "country": "Brazil",
-    "title": "Brasileir\u00e3o S\u00e9rie A",
+    "title": "Brasileir\u00e3o S\u00e9rie a",
     "pubDate": "Sat, 23 Nov 2024 20:00:00 -0500",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSOC25J1mBHQhwSCbflwC6HR6XOsHbZtWNY4NS6-OI5oHvx8K3ggX3Q0xWLhV7adXdGLE7b-M2Q",
-    "news_item_snippet": "Veja tamb\u00e9m desfalques, arbitragem e outras informa\u00e7\u00f5es do duelo da 38\u00aa rodada da S\u00e9rie B.",
-    "news_item_url": "https://ge.globo.com/pe/futebol/brasileirao-serie-b/noticia/2024/11/24/sport-x-santos-onde-assistir-ao-vivo-horario-e-escalacoes.ghtml",
+    "news_item_snippet": "Neste artigo, vamos explorar os resultados dos jogos de hoje, analisar o desempenho das equipes e discutir as implica\u00e7\u00f5es para o restante da temporada. No&nbsp;...",
+    "news_item_url": "https://defesacivil.itajai.sc.gov.br/resultado-dos-jogos-de-hoje-do-brasileir%C3%A3o-s%C3%A9rie-b/800003lacq.html",
     "picture_source": "Olhar Digital",
     "approx_traffic": "200,000+"
   },
@@ -413,10 +373,10 @@
     "country": "Brazil",
     "title": "Premier League",
     "pubDate": "Sat, 23 Nov 2024 06:00:00 -0500",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQfkT2BxnkN1UKwp8M0cjHzYx1f0sT9ck4P0uOayx8EUMIpHpEf2r5T8Bd6EFrfAAZOal1Q3qrH",
-    "news_item_snippet": "Southampton x Liverpool: onde assistir, hor\u00e1rio e escala\u00e7\u00f5es do jogo pela Premier League &middot; Partida coloca frente a frente o l\u00edder e o \u00faltimo colocado da&nbsp;...",
-    "news_item_url": "https://www.lance.com.br/onde-assistir/southampton-x-liverpool-onde-assistir-horario-e-escalacoes-do-jogo-pela-premier-league.html",
-    "picture_source": "globoesporte.com",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTrrfirOCYoofewoiXVyWQYOc0806olEuXide5VJAtC8N6IlM2wyCMk8_LB_J344N4qy4WxwfmU",
+    "news_item_snippet": "Time de Arne Slot quer ampliar a vantagem na lideran\u00e7a contra os lanternas do torneio. O ge acompanha a partida em Tempo Real a partir das 11h (hor\u00e1rio de&nbsp;...",
+    "news_item_url": "https://ge.globo.com/futebol/futebol-internacional/futebol-ingles/noticia/2024/11/24/southampton-x-liverpool-na-premier-league-onde-assistir-ao-vivo-e-horario.ghtml",
+    "picture_source": "ESPN.com.br",
     "approx_traffic": "200,000+"
   },
   {
@@ -433,21 +393,11 @@
     "country": "Brazil",
     "title": "Al Khaleej x Alhilal",
     "pubDate": "Sat, 23 Nov 2024 12:00:00 -0500",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQSnf0HgZdfrp1mBKirQDP06gnPKF6L3AOAKKxQUj6prT3uVsHMM1fHK6ndF_rTW7NdfgJjqP6s",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQTipX9MZB1adP5zZ-7Dcmz3ByAOrMFpgG-_UcwJ906x34aCXBIy-FNWvI-TlCEPX8iyVARegA5yA",
     "news_item_snippet": "Como as equipes chegam para o jogo? Al Khaleej \u00e9 o 6\u00b0 colocado do Campeonato Saudita com 5 vit\u00f3rias, 1 empate, 4 derrotas, 12 gols marcados e 12 gols sofridos.",
     "news_item_url": "https://www.oliberal.com/esportes/futebol/al-khaleej-x-al-hilal-onde-assistir-ao-vivo-e-escalacoes-do-jogo-hoje-23-pelo-campeonato-saudita-1.890256",
     "picture_source": "globoesporte.com",
     "approx_traffic": "100,000+"
-  },
-  {
-    "country": "Brazil",
-    "title": "F1",
-    "pubDate": "Sat, 23 Nov 2024 08:00:00 -0500",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcS7SWOIU3HgylNMrpFi6mpTvU1uitWM0MuUH-dWFyd8qMmblatNFxh9yNy0psP4nSYW4EGWVtHQ",
-    "news_item_snippet": "George Russell liderou a dobradinha da Mercedes, seguido por Lewis Hamilton. Carlos Sainz, da Ferrari, completou o p\u00f3dio. Max Verstappen garantiu o t\u00edtulo com&nbsp;...",
-    "news_item_url": "https://www.uol.com.br/esporte/ultimas-noticias/2024/11/24/f1-gp-de-las-vegas.htm",
-    "picture_source": "globoesporte.com",
-    "approx_traffic": "50,000+"
   },
   {
     "country": "Brazil",
@@ -462,11 +412,31 @@
   {
     "country": "Brazil",
     "title": "Formula 1",
+    "pubDate": "Sat, 23 Nov 2024 18:00:00 -0500",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcR60mMx-wcu7gS7psVLy9C2UjJZkfZBp9Gnfo3oyvl_Mzz5_co12Aqvo9v4JyGjmOdwK_hrzWCF",
+    "news_item_snippet": "Em uma corrida vencida por George Russell, o holand\u00eas terminou em quinto lugar no GP de Las Vegas.",
+    "news_item_url": "https://www.cnnbrasil.com.br/esportes/max-verstappen-conquista-tetracampeonato-de-formula-1/",
+    "picture_source": "ESPN.com.br",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Brazil",
+    "title": "F1",
     "pubDate": "Sat, 23 Nov 2024 08:00:00 -0500",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRZ0-UjuG48NK7cWEDu8r63PjFGg1qk2UIB_hwwXYp0ILFn8-boU4k3Yh3d3sRfl7vfHtXXgkqr",
-    "news_item_snippet": "O piloto holand\u00eas da Red Bull terminou a corrida na quinta coloca\u00e7\u00e3o e conseguiu a combina\u00e7\u00e3o de resultados que precisava envolvendo Lando Norris, da McLaren,&nbsp;...",
-    "news_item_url": "https://www.espn.com.br/f1/artigo/_/id/14482731/formula-1-max-verstappen-tetracampeao-mundial-gp-las-vegas",
-    "picture_source": "CNN Brasil",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcS7SWOIU3HgylNMrpFi6mpTvU1uitWM0MuUH-dWFyd8qMmblatNFxh9yNy0psP4nSYW4EGWVtHQ",
+    "news_item_snippet": "Michael Schumacher det\u00e9m o recorde de maior n\u00famero de campeonatos consecutivos de pilotos de F1, j\u00e1 que venceu cinco consecutivos de 2000 a 2004. Tudo come\u00e7ou&nbsp;...",
+    "news_item_url": "https://motorsport.uol.com.br/f1/news/qual-piloto-conquistou-maior-numero-de-campeonatos-consecutivos-na-f1/10676191/",
+    "picture_source": "globoesporte.com",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Brazil",
+    "title": "Real Madrid",
+    "pubDate": "Sat, 23 Nov 2024 14:00:00 -0500",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQQhyL2rVwf7dScgnT2ABEP5AIX8E3heonrbbTPsvt69ZQPyDGIlhJOidjhDK0J9VpyqhFGkj7q",
+    "news_item_snippet": "Legan\u00e9s e Real Madrid se enfrentam neste domingo, \u00e0s 14h30 (de Bras\u00edlia), no Est\u00e1dio Municipal de Butarque, em duelo pela 14\u00aa rodada do Campeonato Espanhol.",
+    "news_item_url": "https://ge.globo.com/futebol/futebol-internacional/futebol-espanhol/noticia/2024/11/24/leganes-x-real-madrid-em-laliga-onde-assistir-e-horario.ghtml",
+    "picture_source": "ESPN.com.br",
     "approx_traffic": "50,000+"
   },
   {
@@ -480,32 +450,12 @@
     "approx_traffic": "50,000+"
   },
   {
-    "country": "Brazil",
-    "title": "Real Madrid",
-    "pubDate": "Sat, 23 Nov 2024 12:00:00 -0500",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQQhyL2rVwf7dScgnT2ABEP5AIX8E3heonrbbTPsvt69ZQPyDGIlhJOidjhDK0J9VpyqhFGkj7q",
-    "news_item_snippet": "Legan\u00e9s e Real Madrid se enfrentam neste domingo, \u00e0s 14h30 (de Bras\u00edlia), no Est\u00e1dio Municipal de Butarque, em duelo pela 14\u00aa rodada do Campeonato Espanhol.",
-    "news_item_url": "https://ge.globo.com/futebol/futebol-internacional/futebol-espanhol/noticia/2024/11/24/leganes-x-real-madrid-em-laliga-onde-assistir-e-horario.ghtml",
-    "picture_source": "ESPN.com.br",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Brazil",
-    "title": "La Liga",
-    "pubDate": "Sat, 23 Nov 2024 07:00:00 -0500",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQ-BA2N6pqH7P4PwNiNrSmMTRUDAHW4Xydfr9FwLc9dwSdc0FAtHodYQrCp3rtwVFh-xxJdwgLs",
-    "news_item_snippet": "O futebol \u00e9 uma paix\u00e3o que transcende fronteiras, e na Argentina, essa paix\u00e3o \u00e9 vividamente expressa na Liga de Reservas. Esta competi\u00e7\u00e3o, que re\u00fane jovens&nbsp;...",
-    "news_item_url": "https://defesacivil.itajai.sc.gov.br/argentina-liga-de-reservas-jogos-de-hoje/800003ljul.html",
-    "picture_source": "Defesa Civil de Itaja\u00ed",
-    "approx_traffic": "50,000+"
-  },
-  {
     "country": "Canada",
     "title": "Premier League",
     "pubDate": "Sat, 23 Nov 2024 03:00:00 -0500",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQT1-lGkUxrPcC4WTPYSR2lalOIqRZyITnbX6oyqryznPINRBsza6C-il9bbW1mxiSiPUdSzfI-",
-    "news_item_snippet": "They led 1-0, trailed 2-1 and won 3-2 after two goals from the inevitable Mo Salah. Southampton contributed plenty to an enjoyable if error-strewn game, with&nbsp;...",
-    "news_item_url": "https://www.theguardian.com/football/live/2024/nov/24/southampton-v-liverpool-premier-league-live",
+    "news_item_snippet": "Mohamed Salah sent Liverpool eight points clear at the top of the table to help his team rally to a 3-2 win over last-place Southampton on Sunday.",
+    "news_item_url": "https://www.sportsnet.ca/premier-league/article/premier-league-roundup-salah-double-gives-liverpool-gap-at-top-of-table/",
     "picture_source": "TSN",
     "approx_traffic": "50,000+"
   },
@@ -514,56 +464,46 @@
     "title": "\ubb38\uac00\ube44",
     "pubDate": "Sat, 23 Nov 2024 17:00:00 +0900",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRIbbyx0z9h4_o_6UlkFJf575j4oO0c6Zwzz_EW7OvZL4FX7vm8D1XhvGtNHcEzNbl1r2Vy0vpT",
-    "news_item_snippet": "\uc815\uc6b0\uc131, \ubb38\uac00\ube44 \u5b50 \uce5c\ubd80\uc600\ub098..\uc18c\uc18d\uc0ac \uc0ac\uc2e4 \ud655\uc778\uc911 \uacf5\uc2dd \ubc30\uc6b0 \uc815\uc6b0\uc131\uc774 \ubaa8\ub378 \ubb38\uac00\ube44\uac00 \ub0b3\uc740 \uc544\uc774\uc758 \uce5c\ubd80\ub77c\ub294 \uc124\uc774 \uc81c\uae30\ub410\ub2e4. 24\uc77c \uc815\uc6b0\uc131\uc758 \uc18c\uc18d\uc0ac \uc544\ud2f0\uc2a4\ud2b8\ucef4\ud37c\ub2c8 \uce21\uc740&nbsp;...",
-    "news_item_url": "https://biz.chosun.com/entertainment/enter_general/2024/11/24/W4BQFSA5NR433AM23HM37HLIQE/",
+    "news_item_snippet": "\uc815\uc6b0\uc131 \uc18c\uc18d\uc0ac \uc544\ud2f0\uc2a4\ud2b8\ucef4\ud37c\ub2c8\ub294 24\uc77c \u201c\ubb38\uac00\ube44\uac00 \uc18c\uc15c\ubbf8\ub514\uc5b4\ub97c \ud1b5\ud574 \uacf5\uac1c\ud55c \uc544\uc774\ub294 \uc815\uc6b0\uc131\uc758 \uce5c\uc790\uac00 \ub9de\ub2e4\u201d\uba70 \u201c\uc544\uc774\uc758 \uc591\uc721 \ubc29\uc2dd\uc5d0 \ub300\ud574\uc11c \ucd5c\uc120\uc758 \ubc29\ud5a5\uc73c\ub85c \ub17c\uc758 \uc911\uc774\ub2e4.",
+    "news_item_url": "https://www.chosun.com/national/people/2024/11/24/UHSY43FNEFF3TNT2T5TUOZ4UWM/",
     "picture_source": "\ud55c\uaca8\ub808",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "Saudi Arabia",
-    "title": "\u0633\u0644\u062a\u0627 \u0641\u064a\u063a\u0648 \u0636\u062f \u0628\u0631\u0634\u0644\u0648\u0646\u0629",
-    "pubDate": "Sat, 23 Nov 2024 09:00:00 +0300",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSZSCEm30Qa9x3EmU1w3UUUOh_MTppjQMlw0QukYpORg34iFSXvgdR_2chM13DjiaW1z5G6jfDB",
-    "news_item_snippet": "\u0623\u0639\u0644\u0646 \u0627\u0644\u0623\u0644\u0645\u0627\u0646\u064a \u0647\u0627\u0646\u0632 \u0641\u0644\u064a\u0643\u060c \u0627\u0644\u0645\u062f\u064a\u0631 \u0627\u0644\u0641\u0646\u064a \u0644\u0644\u0641\u0631\u064a\u0642 \u0627\u0644\u0643\u062a\u0627\u0644\u0648\u0646\u064a\u060c \u062a\u0634\u0643\u064a\u0644 \u0628\u0631\u0634\u0644\u0648\u0646\u0629 \u0636\u062f \u0633\u0644\u062a\u0627 \u0641\u064a\u062c\u0648 \u0645\u0633\u0627\u0621 \u0627\u0644\u064a\u0648\u0645 \u0627\u0644\u0633\u0628\u062a\u060c \u0641\u064a \u0625\u0637\u0627\u0631 \u0645\u0646\u0627\u0641\u0633\u0627\u062a \u0645\u0633\u0627\u0628\u0642\u0629 \u0627\u0644\u062f\u0648\u0631\u064a \u0627\u0644\u0625\u0633\u0628\u0627\u0646\u064a \u0645\u0648\u0633\u0645 2024-25.",
-    "news_item_url": "https://www.almasryalyoum.com/news/details/3313293",
-    "picture_source": "\u0627\u0644\u062c\u0632\u064a\u0631\u0629 \u0646\u062a",
-    "approx_traffic": "50,000+"
+    "approx_traffic": "200,000+"
   },
   {
     "country": "France",
     "title": "Star Academy",
     "pubDate": "Sun, 24 Nov 2024 10:00:00 +0100",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQB79Q_iGpjeRs5zbX9eHpm8Xb3hbQjWpjA4iGhoGP7fuixEFnFE7nm9L0TBMBcL0h4rouS9FkV",
-    "news_item_snippet": "Une chanson exclusive de Gr\u00e9gory Lemarchal a \u00e9t\u00e9 d\u00e9voil\u00e9e ce samedi 23 novembre lors du prime de la Star Academy, l&#39;un des derniers textes qu&#39;il a \u00e9crit&nbsp;...",
-    "news_item_url": "https://www.ladepeche.fr/2024/11/24/video-star-academy-et-si-tu-sens-la-derniere-chanson-ecrite-par-gregory-lemarchal-devoilee-lors-de-lemission-12343985.php",
-    "picture_source": "BFMTV",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTLQT7vIrHhudYT0XhSnzI4ie99K_aKTpKFr8O4WXumaGaO4CzcyaIGKX1JxLuEPQUztKEbgzgO",
+    "news_item_snippet": "Les \u00e9l\u00e8ves de la Star Academy ont chant\u00e9 samedi une chanson \u00e9crite par Gr\u00e9gory Lemarchal avant sa mort.",
+    "news_item_url": "https://www.bfmtv.com/people/musique/et-si-tu-sens-une-chanson-inedite-de-gregory-lemarchal-devoilee-a-la-star-academy_AN-202411240200.html",
+    "picture_source": "ladepeche.fr",
     "approx_traffic": "50,000+"
   },
   {
     "country": "France",
-    "title": "Lens \u2013 Marseille",
-    "pubDate": "Sat, 23 Nov 2024 16:00:00 +0100",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRFSBbJcBf7eLJkWLW3_y2xje7wyu-JjDJ6YEqyMfTE9pgW75KLRRUOykvUR5hTKEZsytWKFSDY",
-    "news_item_snippet": "Nettement domin\u00e9s par le RC Lens en premi\u00e8re p\u00e9riode, les Olympiens ont chang\u00e9 de braquet apr\u00e8s la pause pour s&#39;offrir une victoire importante samedi,&nbsp;...",
-    "news_item_url": "https://www.lequipe.fr/Football/Actualites/L1-marseille-s-impose-a-lens-3-1-grace-a-une-seconde-periode-parfaite/1522262",
-    "picture_source": "RC Lens",
-    "approx_traffic": "200,000+"
+    "title": "Lille \u2013 Rennes",
+    "pubDate": "Sun, 24 Nov 2024 15:00:00 +0100",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSkq8UMdXuEBUqUt3i1g4Y-y223pNjbgdyxYWUgg5KgH18NTDglyjg0YHJ0nz_fJJr31n-fQQjt",
+    "news_item_snippet": "Pas de miracle rennais pour la premi\u00e8re de Jorge Sampaoli sur le banc avec une d\u00e9faite 1-0. Avant la Ligue des champions, les Lillois se rassurent et restent au&nbsp;...",
+    "news_item_url": "https://rmcsport.bfmtv.com/football/ligue-1/direct-lille-rennes-suivez-le-match-de-la-12e-journee-de-ligue-1-en-live_LS-202411240279.html",
+    "picture_source": "La Voix du Nord",
+    "approx_traffic": "50,000+"
   },
   {
     "country": "France",
-    "title": "F1",
-    "pubDate": "Sat, 23 Nov 2024 13:00:00 +0100",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcS--cB3HFgweiSQ0MrXcYONaf9C5Ra7FoDgV5EKaK3tLPBX9Q2t5JN2O1QNSU2sQY_UBvGiNMki",
-    "news_item_snippet": "Max Verstappen a remport\u00e9 son quatri\u00e8me titre cons\u00e9cutif de champion du monde de Formule 1 \u00e0 l&#39;issue du Grand Prix de Las Vegas, mettant fin aux espoirs de&nbsp;...",
-    "news_item_url": "https://www.leparisien.fr/sports/formule-1/f1-le-classement-des-championnats-du-monde-pilotes-et-constructeurs-apres-le-gp-de-las-vegas-24-11-2024-XDR2AEFZNRFTFMVAXET2D6IAXA.php",
-    "picture_source": "Europe1",
+    "title": "Manchester City \u2013 Tottenham",
+    "pubDate": "Sat, 23 Nov 2024 18:00:00 +0100",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcS-2wIuJLCtTr3i3GkAnYkKHEsxaoSTZyGBPHM33WhgIaKIDf7GLTmRumGzlOG6MOvYttgOOTUT",
+    "news_item_snippet": "Manchester City s&#39;est inclin\u00e9 4-0 \u00e0 domicile contre Tottenham. Les hommes de Pep Guardiola en sont \u00e0 trois d\u00e9faites de suite en Premier League,&nbsp;...",
+    "news_item_url": "https://rmcsport.bfmtv.com/football/premier-league/cinquieme-defaite-de-suite-pour-manchester-city-humilie-par-tottenham-a-domicile-et-en-pleine-serie-noire_AV-202411230509.html",
+    "picture_source": "L'\u00c9quipe.fr",
     "approx_traffic": "50,000+"
   },
   {
     "country": "France",
     "title": "Top 14",
     "pubDate": "Sat, 23 Nov 2024 11:00:00 +0100",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRDKS_7YyCrKLoQJQ5bPj6WVBj3Oz45vZsfnkXvlE4jvvMf1M2K2GuVWB_Rry6baEC2R4ZepG0v",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRPOCUM-DMRgpyYJNyz9PKWIMXR_3jsRs20tZzu-9Px0l9p3dq8Prhks28JW2s96XXQApepUKaw",
     "news_item_snippet": "Pendant 40 minutes, Castres a martyris\u00e9 La Rochelle et livr\u00e9 une copie aboutie ce samedi (28-24). Tout a fonctionn\u00e9 ou presque, et cela alimentera le&nbsp;...",
     "news_item_url": "https://www.ladepeche.fr/2024/11/24/top-14-castres-la-rochelle-une-moitie-pleine-pour-le-co-12343351.php",
     "picture_source": "Le Figaro",
@@ -571,22 +511,12 @@
   },
   {
     "country": "France",
-    "title": "Saint-\u00e9tienne \u2013 Montpellier",
-    "pubDate": "Sat, 23 Nov 2024 19:00:00 +0100",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQSAyfDS9LP3lV6mIqhay-IZtTHSOwQaFUe2sFxrqkwFs9JMN0_Oj8uL4yrm1jpUz9b-6J9TGHU",
-    "news_item_snippet": "Les supporters de Montpellier, battu 1-0 samedi soir \u00e0 Saint-Etienne lors de la 12e journ\u00e9e de Ligue 1, ont \u00e9t\u00e9 renvoy\u00e9s chez eux avant la rencontre \u00e0 cause&nbsp;...",
-    "news_item_url": "https://www.midilibre.fr/2024/11/23/les-supporters-de-montpellier-renvoyes-chez-eux-apres-des-violences-avant-saint-etienne-mhsc-12343310.php",
-    "picture_source": "Le Figaro",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "France",
-    "title": "Reims - Lyon",
-    "pubDate": "Sat, 23 Nov 2024 21:00:00 +0100",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQCupSN6cC5E8nAQHUnF3xWduEy6FyaMt7ct6PbYyUqbjkTNWz0fYpq9UrhN9IUgogb07mKpKZ8",
-    "news_item_snippet": "L&#39;OL n&#39;a pu faire mieux que match nul (1-1) sur la pelouse de Reims, samedi soir. Oumar Diakit\u00e9 a r\u00e9pondu \u00e0 l&#39;ouverture du score de Rayan Cherki.",
-    "news_item_url": "https://www.lequipe.fr/Football/Actualites/Malgre-un-but-de-cherki-lyon-ralenti-par-reims/1522347",
-    "picture_source": "BFMTV.COM",
+    "title": "F1",
+    "pubDate": "Sat, 23 Nov 2024 13:00:00 +0100",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcS--cB3HFgweiSQ0MrXcYONaf9C5Ra7FoDgV5EKaK3tLPBX9Q2t5JN2O1QNSU2sQY_UBvGiNMki",
+    "news_item_snippet": "Fils prodige de parents pilotes, le N\u00e9erlandais Max Verstappen suit, avec brio, un chemin tout trac\u00e9 depuis son enfance, celui d&#39;un talent immense au&nbsp;...",
+    "news_item_url": "https://information.tv5monde.com/sport/f1-verstappen-un-max-de-talent-et-un-caractere-bien-trempe-2749935",
+    "picture_source": "Europe1",
     "approx_traffic": "50,000+"
   },
   {
@@ -603,20 +533,10 @@
     "country": "Germany",
     "title": "Formel-1",
     "pubDate": "Sat, 23 Nov 2024 10:00:00 +0100",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTppMdYhZDqR6_-1q77puA7PRFKyULTkcQ-1rodo_C8m2hvCZv_tBKmBmKGs2zh4u7rIHxsfI-SEw",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRNhPI68fqBKTC73vaKZirD5SB9nw4Hf3bRHqw2MlUo8G4yOBTwZFcm2eK48OrXKQJDZkvi9TDE",
     "news_item_snippet": "Max Verstappen hat es geschafft. Nach 2021, 2022 und 2023 gewinnt der Niederl\u00e4nder im Red Bull auch in dieser Saison den Formel-1-Titel.",
     "news_item_url": "https://www.radiobielefeld.de/sport/sportnachrichten/detailansicht/las-vegas-max-verstappen-zum-vierten-mal-formel-1-weltmeister.html",
     "picture_source": "Motorsport-Total.com",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Germany",
-    "title": "BVB",
-    "pubDate": "Sat, 23 Nov 2024 17:00:00 +0100",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTfDMwTFnb3SLxKuTvCvCDzQXVTt3Ea7LmbMaZ6jwYN4QvTn-ofuA9K6yWtGUbOdSFPwTEBoMM9",
-    "news_item_snippet": "Borussia Dortmund hat wohl ein Auge auf ein spanisches Mega-Juwel geworfen. Das Problem: Den BVB erwartet wohl Konkurrenz aus der Bundesliga!",
-    "news_item_url": "https://www.derwesten.de/sport/fussball/bvb/borussia-dortmund-yeremay-hernandez-ausstiegsklausel-id301232332.html",
-    "picture_source": "Derwesten.de",
     "approx_traffic": "50,000+"
   },
   {
@@ -630,34 +550,54 @@
     "approx_traffic": "50,000+"
   },
   {
-    "country": "Germany",
-    "title": "Mike Tyson Jake Paul",
-    "pubDate": "Fri, 15 Nov 2024 03:00:00 +0100",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRLZhXKB3NKQpp1jlSGLgD5OnVvTknj0zbgLQw3AjfrA_itjnXPFLDxvVZzhFuknYSWFw7wdReg",
-    "news_item_snippet": "Der Streamingdienst Netflix will gro\u00df in den Livesport einsteigen. Doch die \u00dcbertragung des Boxkampfs zwischen Mike Tyson und Jake Paul wird zum Desaster.",
-    "news_item_url": "https://www.spiegel.de/netzwelt/mike-tyson-vs-jake-paul-auf-netflix-viele-kunden-koennen-den-kampf-nicht-sehen-a-8d1ebd82-e8dd-4f18-bbf9-e3cfe40ae1ce",
-    "picture_source": "RAN",
-    "approx_traffic": "500,000+"
-  },
-  {
-    "country": "Germany",
-    "title": "Jake Paul",
-    "pubDate": "Fri, 15 Nov 2024 10:00:00 +0100",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTCygXDhnaLatoyVo-RX64VPzMxC3mWfahDRfwvDdHbdgwKikXmvvCRG8bWA73aF2h031QqC0qf",
-    "news_item_snippet": "Box-Legende Mike Tyson hat gegen Social-Media-Star Jake Paul bei seiner R\u00fcckkehr in den Ring klar verloren - aber dessen Bruder wartet schon.",
-    "news_item_url": "https://www.spox.com/de/sport/mehrsport/boxen/2411/Artikel/Mike-tyson-vs-jake-paul-boxen-der-kampf-heute-nacht-im-liveticker.html",
-    "picture_source": "Frankfurter Rundschau",
-    "approx_traffic": "200,000+"
-  },
-  {
     "country": "Italy",
-    "title": "Como-Fiorentina",
+    "title": "Como  Fiorentina",
     "pubDate": "Sun, 24 Nov 2024 15:00:00 +0100",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSqd80ADun0oNszHZfqyFESsmlcc0CDTB5i8sFiws5I_kULdhHvfXb1N0MSN1-PCAsEDf_DSuFJ",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRtYlV9-ZmjTTS-JmIvVicihG_8XqMQ21Z9x7m9KtXehpUc_itiUF7uX40TtEvMQyjE--fegSW0",
     "news_item_snippet": "La Viola passa anche a Como e si porta a quota 28, prima con Inter e Atalanta aspettando il Napoli. Apre Adli, gol anche per Kean che certifica il suo grande&nbsp;...",
     "news_item_url": "https://www.repubblica.it/sport/dirette/calcio/serie-a-2024/diretta-como-fiorentina-g2456224/",
     "picture_source": "Sky Sport",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "Italy",
+    "title": "Torino-Monza",
+    "pubDate": "Sun, 24 Nov 2024 15:00:00 +0100",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQoC8tWFk9EqTscZn7RIzB0wPuNp-WNANGTTxhkgK6JGlUORq8I77DzAS8h_uQaB_jc1AlesDSc",
+    "news_item_snippet": "1-1 \u00e8 il risultato maturato nei 90 minuti con entrambe le squadre che muovono la classifica dopo 3 sconfitte consecutive per parte.",
+    "news_item_url": "https://www.repubblica.it/sport/dirette/calcio/serie-a-2024/diretta-torino-monza-g2456232/",
+    "picture_source": "Sky Sport",
     "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Mexico",
+    "title": "Celta de Vigo  Barcelona",
+    "pubDate": "Sat, 23 Nov 2024 09:00:00 -0600",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQCYkHwpNbDV50N2jBWHdRXsCu7bniQcQLmOFT37Q5OysCY0ZBaItEO2HWsp24qj5sY-Ql6nX4g",
+    "news_item_snippet": "Los Celtistas intentar\u00e1n sorprender a los Blaugranas en el Estadio de Bala\u00eddos, y con ello darle una oportunidad a los Merengues, luego de la \u00faltima Fecha FIFA&nbsp;...",
+    "news_item_url": "https://www.milenio.com/deportes/futbol-internacional/celta-de-vigo-vs-barcelona-ver-en-vivo-partido-hoy-liga-de-espana-2024",
+    "picture_source": "TUDN",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "Mexico",
+    "title": "F1",
+    "pubDate": "Sat, 23 Nov 2024 00:00:00 -0600",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSRDQ9bIUyhXwq1bPIFsJcgH2NX6to5YE66JoZ9XmpvpkWLy2CFtN4sYal0ETtRULuwJdX3jfKx",
+    "news_item_snippet": "&quot;Hemos puesto todo como equipo, trabajamos juntos y con eso logramos este objetivo&quot;, dijo Max para Fox Sports. Tambi\u00e9n, el neerland\u00e9s, coment\u00f3 sobre la carrera&nbsp;...",
+    "news_item_url": "https://www.record.com.mx/formula1/verstappen-tras-convertirse-en-tetracampeon-de-f1-trabajamos-juntos-y-logramos-el-objetivo",
+    "picture_source": "ESPN",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "Mexico",
+    "title": "Real Madrid",
+    "pubDate": "Sat, 23 Nov 2024 12:00:00 -0600",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQarB5V4PFcTEJjMTKocD8lgVn4bYnSk44T9rPtEzG2wxCW0lIQUTvTA3CT3xmTioFDZjdJg5kWBQ",
+    "news_item_snippet": "Luego del par\u00f3n por la Fecha FIFA las actividades en LaLiga se reanudan y Real Madrid se medir\u00e1 ante Legan\u00e9s tratando de recortar distancias con Barcelona,&nbsp;...",
+    "news_item_url": "https://www.record.com.mx/futbol-futbol-internacional/leganes-vs-real-madrid-donde-ver-la-jornada-14-de-laliga",
+    "picture_source": "ESPN Deportes",
+    "approx_traffic": "100,000+"
   },
   {
     "country": "Mexico",
@@ -681,22 +621,32 @@
   },
   {
     "country": "Spain",
-    "title": "Osasuna  Villarreal",
+    "title": "Osasuna - Villarreal",
     "pubDate": "Sun, 24 Nov 2024 14:00:00 +0100",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRjHsBCZAUFkJXqXS-tOLP3nBK1NsKbUoypWNCF73XEBhGwQVgwFDbMUPsjcVXt0IWA7fB5bUh2",
-    "news_item_snippet": "90 &#39; \u00a1Penalti para el Villarreal! C\u00f3rner para el conjunto amarillo y, cuando parec\u00eda la jugada terminada, pita Munuera Montero un agarr\u00f3n de Torr\u00f3 a Logan Costa&nbsp;...",
-    "news_item_url": "https://www.lavanguardia.com/deportes/futbol/20241124/6429/osasuna-villarreal-laliga-primera-division-ca-en-directo-ctx.html",
-    "picture_source": "MARCA",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRfopimOWKYbYjsLmWkP9_NvjO3nqyk_jXjZnpUnbBw73f1I05t-DeeCurfWg0LjrgrNCabNJgt",
+    "news_item_snippet": "El Sadar es testigo de un aut\u00e9ntico partidazo entre dos equipos que sue\u00f1an con alcanzar plazas europeas.",
+    "news_item_url": "https://www.estadiodeportivo.com/futbol/primera-division/osasuna-villarreal-directo-partido-liga-vivo-online-20241124-472257.html",
+    "picture_source": "AS",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Spain",
+    "title": "Sevilla - Rayo Vallecano",
+    "pubDate": "Sun, 24 Nov 2024 15:00:00 +0100",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQ1EAI94kmfewBxDMjNHYbI_BG7v7gaS9Dc-GbE2PebdE738RUGgUyemPtlUmxyUKyGpnTxn9B8",
+    "news_item_snippet": "Garc\u00eda Pimienta en DAZN: \u00bfContento? Much\u00edsimo hemos ganado un partido en primera Divisi\u00f3n, mirad lo que cuesta, el Rayo todo el segundo tiempo con uno.",
+    "news_item_url": "https://www.marca.com/futbol/laliga-ea-sports/sevilla-rayo/2024/11/24/01_0101_20241124_179_184-directo.html",
+    "picture_source": "AS",
     "approx_traffic": "50,000+"
   },
   {
     "country": "Spain",
     "title": "Celta de Vigo  Barcelona",
     "pubDate": "Sat, 23 Nov 2024 17:00:00 +0100",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRgtDFWocZyagIJV0LmK3q7V3bquuDOBVTy6tgx9_TFSK87kyN9B5TAk09D0Ni6DetvA60nBLdo",
-    "news_item_snippet": "Los cul\u00e9s regresan del par\u00f3n de selecciones y tras la derrota en Anoeta, en b\u00fasqueda de aumentar la ventaja en la primera posici\u00f3n de la tabla.",
-    "news_item_url": "https://www.larazon.es/deportes/futbol/celta-vigo-barcelona-horario-donde-ver-online-laliga-sports_2024112367406336488d6900010559c5.html",
-    "picture_source": "FC Barcelona",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTKg7HZ4RLceitjwFhHqRkJmm6QWuqmL0JN2gskZFP9P5HOp45_Sv00j6O2DPGiDLOY5N_JEj_t",
+    "news_item_snippet": "La expulsi\u00f3n de Casad\u00f3 y dos goles del Celta en los \u00faltimos 10 minutos le cuestan dos puntos a un Bar\u00e7a que se hab\u00eda adelantado mediante Raphinha y Lewy.",
+    "news_item_url": "https://www.fcbarcelona.es/es/futbol/primer-equipo/noticias/4174758/celta-de-vigo-fc-barcelona-castigo-final-2-2",
+    "picture_source": "Europa Press",
     "approx_traffic": "500,000+"
   },
   {
@@ -724,9 +674,19 @@
     "title": "Manchester City - Tottenham",
     "pubDate": "Sat, 23 Nov 2024 11:00:00 +0100",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSpu5LiAhru2l1m4wXtgLJK8XreHV3BG3jUsuwdjQXBEqiAm7zfHRXUGhC9jr69mFrevtsKzXHn",
-    "news_item_snippet": "Los Citizens demuestran otra cara desde la inesperada lesi\u00f3n de Rodri, flamante Bal\u00f3n de Oro, que se rompi\u00f3 los ligamentos el 22 de septiembre ante Arsenal.",
+    "news_item_snippet": "Manchester City recibi\u00f3 a Tottenham en la fecha 12 de la Premier League y recibi\u00f3 una dura goleada por 4-0 que profundiz\u00f3 su crisis, ya que acumul\u00f3 su&nbsp;...",
     "news_item_url": "https://espndeportes.espn.com/futbol/inglaterra/nota/_/id/14479462/manchester-city-pierde-por-goleada-tottenham-quinta-derrota-consecutiva",
     "picture_source": "MARCA",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "Spain",
+    "title": "F1",
+    "pubDate": "Sat, 23 Nov 2024 10:00:00 +0100",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRNiDmcrJa9VYR2cykhXHuVB_KFWcj2pLkAqDKt5Z7-n3NqT8cDzPmcDCtaNe9Z_NmWgTSKmVIB",
+    "news_item_snippet": "Se acerca el final. Se acab\u00f3 la gira americana y entramos en la recta final de este Mundial de F\u00f3rmula 1 2024. Este fin de semana del 29 de noviembre al 1&nbsp;...",
+    "news_item_url": "https://www.marca.com/motor/formula1/gp-qatar-f1/2024/11/24/67431c0c22601dc51c8b45b7.html",
+    "picture_source": "Motorsport.com, Edici\u00f3n: Espa\u00f1a",
     "approx_traffic": "100,000+"
   },
   {
@@ -741,16 +701,6 @@
   },
   {
     "country": "Spain",
-    "title": "F1",
-    "pubDate": "Sat, 23 Nov 2024 10:00:00 +0100",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRNiDmcrJa9VYR2cykhXHuVB_KFWcj2pLkAqDKt5Z7-n3NqT8cDzPmcDCtaNe9Z_NmWgTSKmVIB",
-    "news_item_snippet": "Se acerca el final. Se acab\u00f3 la gira americana y entramos en la recta final de este Mundial de F\u00f3rmula 1 2024. Este fin de semana del 29 de noviembre al 1&nbsp;...",
-    "news_item_url": "https://www.marca.com/motor/formula1/gp-qatar-f1/2024/11/24/67431c0c22601dc51c8b45b7.html",
-    "picture_source": "Motorsport.com, Edici\u00f3n: Espa\u00f1a",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Spain",
     "title": "UD Las Palmas  RCD Mallorca",
     "pubDate": "Sat, 23 Nov 2024 18:00:00 +0100",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQYlZZk3oo9zslZJt9zkykt-Bb1j1hagTV44As2LnFdBBy_mGW_d9zQqZl1w-mnk0WF9IbXh_5i",
@@ -761,38 +711,48 @@
   },
   {
     "country": "United Kingdom",
-    "title": "General Election petition",
-    "pubDate": "Sun, 24 Nov 2024 10:00:00 +0000",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcR65wPD-YxIIVZYvR_StwPr3ZuBh_iaiCSsRKe3tB-e8i556uRDgRYZKkOAzX4poXn6K31DzK2H",
-    "news_item_snippet": "A petition calling for another general election has been launched, racking up hundreds of thousands of signatures \u2013 and people online have responded by&nbsp;...",
-    "news_item_url": "https://www.indy100.com/politics/petition-call-general-election",
-    "picture_source": "The National",
-    "approx_traffic": "50,000+"
+    "title": "Ipswich Town vs Man United",
+    "pubDate": "Sun, 24 Nov 2024 01:00:00 +0000",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSR2lsNgKsQ0hJSCdko_LPzQVcb2Mas0lzSxMt-JZsVZjeaAs1nk24_2rfMMpXe--jCJhAjI5CY",
+    "news_item_snippet": "Follow the build-up and live text commentary as Ipswich host Ruben Amorim&#39;s Manchester United at Portman Road.",
+    "news_item_url": "https://www.aljazeera.com/sports/liveblog/2024/11/24/live-ipswich-town-vs-manchester-united-english-premier-league",
+    "picture_source": "Manchester United",
+    "approx_traffic": "200,000+"
   },
   {
     "country": "United Kingdom",
-    "title": "Man Utd",
-    "pubDate": "Sun, 24 Nov 2024 01:00:00 +0000",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcT38V4aK7dJk0y4_0J0zM8JdGi24NDW-KHaZrnPeFzLbYKC-6HZobIcykfCvQpp0kOUKf8_ULRy",
-    "news_item_snippet": "Follow live commentary on this page &middot; Man Utd&#39;s first game under Ruben Amorim &middot; Ipswich would move out of bottom three with win &middot; Get Involved: #bbcfootball, via&nbsp;...",
-    "news_item_url": "https://www.bbc.co.uk/sport/football/live/c0en20qjjv8t",
-    "picture_source": "Sky Sports",
+    "title": "Petition for General Election",
+    "pubDate": "Sun, 24 Nov 2024 10:00:00 +0000",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSm8dxLXKyRZCLtzDhEamqKBCAYTp8p3BC53H5cwVhx_ujIRc6MUte3BkOXBHHDD1uizSLkXvlI",
+    "news_item_snippet": "A mere 143 days since Labour won the General Election on July 4, the party is facing criticism for policies such as the axing of the Winter Fuel Payment and&nbsp;...",
+    "news_item_url": "https://www.thenational.scot/news/24746501.general-election-petition-gathers-300k-signatures/",
+    "picture_source": "Harrow Online",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United Kingdom",
+    "title": "Leeds United",
+    "pubDate": "Sun, 24 Nov 2024 15:00:00 +0000",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQEUVG_39t7CwwWMaRUKYLglW3ZMecgYjCPV_QxrxYqHwreErtWkjjaEfqXNMy5ZZwGZjHTBmLg",
+    "news_item_snippet": "Returning to action after the international break, Daniel Farke has named his starting XI at the Swansea.Com Stadium for today&#39;s game. Illan Meslier is between&nbsp;...",
+    "news_item_url": "https://www.leedsunited.com/en/news/team-news-daniel-farke-names-xi-to-face-swansea-city-away",
+    "picture_source": "Swansea City",
     "approx_traffic": "50,000+"
   },
   {
     "country": "United Kingdom",
     "title": "Premier League",
     "pubDate": "Sat, 23 Nov 2024 12:00:00 +0000",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcS-SpfegyzKWxGr0cB7S3INlX7cYYmRteLmgUZffAveO9o09-AXngV1D-PPAaVQ1ROe2T0F73We",
-    "news_item_snippet": "Watch Southampton vs Liverpool, Ipswich vs Man Utd &amp; Newcastle vs West Ham live on Sky Sports.",
-    "news_item_url": "https://www.skysports.com/football/news/11095/13257280/premier-league-predictions-best-bets-ruben-amorims-party-to-be-spoiled-by-ipswich-on-super-sunday",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTXyUi01D493kmgHguyJlOnIt2NWC5t7p3NBjcQWi3NV1fDmNSBcBt2aWncn6NS_uqZP8z81Y3q",
+    "news_item_snippet": "Southampton vs Liverpool LIVE: Premier League result and final score as Mohamed Salah strikes twice in thriller.",
+    "news_item_url": "https://www.independent.co.uk/sport/football/southampton-liverpool-live-stream-score-result-b2651934.html",
     "picture_source": "The Guardian",
     "approx_traffic": "500,000+"
   },
   {
     "country": "United Kingdom",
     "title": "Man City vs Tottenham",
-    "pubDate": "Sat, 23 Nov 2024 17:00:00 +0000",
+    "pubDate": "Sat, 23 Nov 2024 13:00:00 +0000",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQj-qSin_0ljK87Da-osc_8Q3JzlTDAP04D04cEE1mtEhbp5AYwB9AvUa1QWbmhyjyhTO97UQaO",
     "news_item_snippet": "Report and highlights as Spurs inflicted fifth straight defeat on Manchester City; goals from Maddison (2), Porro and Johnson secured 4-0 win; first time in&nbsp;...",
     "news_item_url": "https://www.skysports.com/football/man-city-vs-tottenham/report/505924",
@@ -808,16 +768,6 @@
     "news_item_url": "https://www.espn.co.uk/football/report/_/gameId/704393",
     "picture_source": "Arsenal.com",
     "approx_traffic": "200,000+"
-  },
-  {
-    "country": "United Kingdom",
-    "title": "Leicester City vs Chelsea",
-    "pubDate": "Sat, 23 Nov 2024 12:00:00 +0000",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQZnaYXV5kwZX11vj_NZR_nV3K4Fj_WLFr-cvf5vBbk2nez3-oGTAVt1OGHyniB2T_k3btNHZl2",
-    "news_item_snippet": "Jordan Blackwell assesses the Foxes players as promotion manager Enzo Maresca claimed victory on his return to the King Power Stadium.",
-    "news_item_url": "https://www.leicestermercury.co.uk/sport/football/match-reports/leicester-city-chelsea-player-ratings-9739207",
-    "picture_source": "We Ain't Got No History",
-    "approx_traffic": "100,000+"
   },
   {
     "country": "United Kingdom",
@@ -841,6 +791,16 @@
   },
   {
     "country": "United Kingdom",
+    "title": "Leicester City vs Chelsea",
+    "pubDate": "Sat, 23 Nov 2024 12:00:00 +0000",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQZnaYXV5kwZX11vj_NZR_nV3K4Fj_WLFr-cvf5vBbk2nez3-oGTAVt1OGHyniB2T_k3btNHZl2",
+    "news_item_snippet": "Jordan Blackwell assesses the Foxes players as promotion manager Enzo Maresca claimed victory on his return to the King Power Stadium.",
+    "news_item_url": "https://www.leicestermercury.co.uk/sport/football/match-reports/leicester-city-chelsea-player-ratings-9739207",
+    "picture_source": "We Ain't Got No History",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United Kingdom",
     "title": "Rangers",
     "pubDate": "Sat, 23 Nov 2024 15:00:00 +0000",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQNCn5qcW8GQRCtjIoQ7y_o_N-9BX1hprNDNVuDtX7QjVBAqbhW3XLabOMhwvCIRsG-zDSYCxp9",
@@ -851,22 +811,22 @@
   },
   {
     "country": "United Kingdom",
+    "title": "Chelsea",
+    "pubDate": "Sat, 23 Nov 2024 13:00:00 +0000",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQsRwc5c_WKsLhghHqO_Nyi3UkYqDcmK49hcQj4Y50AF_FN74V1IYnp0zDtL3j96a87KnPBY54U",
+    "news_item_snippet": "The Blues now sit five points clear at the top of the Women&#39;s Super League table thanks to a 1-0 win against Manchester United at Kingsmeadow.",
+    "news_item_url": "https://www.chelseafc.com/en/news/article/match-report-chelsea-1-0-manchester-united",
+    "picture_source": "BBC Sport",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United Kingdom",
     "title": "Aston Villa vs Crystal Palace",
     "pubDate": "Sat, 23 Nov 2024 15:00:00 +0000",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcR5CZKJp2mFtgDf0sgK_QSHM7_wFkzBiBr6_pd_Y8UuXmGpRprvY1Vv-zOvVbjTgRfbg5aqJI2Q",
     "news_item_snippet": "Justin Devenny scored in just his second Premier League appearance as Crystal Palace earned a hard-fought point at Villa Park, in a game packed with&nbsp;...",
     "news_item_url": "https://www.cpfc.co.uk/news/match-reports/aston-villa-crystal-palace-premier-league-match-report-live-blog-highlights-reaction/",
     "picture_source": "Yahoo Sports",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United Kingdom",
-    "title": "Millwall vs Sunderland",
-    "pubDate": "Sat, 23 Nov 2024 17:00:00 +0000",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSrR6mxe_9Po-dzFeMvyJDy9VkB3paCZ5USyNmgJTakE7VzTJvEeVCPEEWU1geTtgi-jHvRH4Ml",
-    "news_item_snippet": "Championship match at the Den had to be called off for nearly half an hour.",
-    "news_item_url": "https://www.football.london/millwall-fc/millwall-vs-sunderland-championship-clash-30437389",
-    "picture_source": "Daily Star",
     "approx_traffic": "50,000+"
   }
 ]
