@@ -12,12 +12,22 @@
   {
     "country": "United States",
     "title": "Eagles",
-    "pubDate": "Sun, 24 Nov 2024 08:00:00 -0800",
+    "pubDate": "Sun, 24 Nov 2024 16:00:00 -0800",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSAfuj_XewZOYKAIUr0OtDjFowZ3X-DXLZGx3GVOnn8CndqqHvz49hKbk63vr1J4Zm-16i--uqL",
     "news_item_snippet": "Los Angeles answered with a 1-yard touchdown run by Williams to pull ahead 7-3 late in the first quarter. Another Philadelphia field goal, this time from 31&nbsp;...",
     "news_item_url": "https://www.therams.com/news/game-recap-rams-fall-to-eagles-37-20-on-sunday-night-football",
     "picture_source": "PhiladelphiaEagles.com",
     "approx_traffic": "500,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Chiefs vs Panthers",
+    "pubDate": "Sun, 24 Nov 2024 11:00:00 -0800",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTqtEU6AYAO46J_DhQJpPBAwTsjHnLAGdO4x7B6pJa6Ngrq7EKr3-VTud-Mc3bIEWpJCx3xg-tO",
+    "news_item_snippet": "2:18: The Chiefs responded with an impressive 10-play, 75-yard touchdown drive, extending their lead to 27-16 over the Carolina Panthers. Patrick Mahomes&nbsp;...",
+    "news_item_url": "https://www.kmbc.com/article/kansas-city-chiefs-carolina-panthers-live-updates/63000009",
+    "picture_source": "Panthers.com",
+    "approx_traffic": "200,000+"
   },
   {
     "country": "United States",
@@ -31,12 +41,12 @@
   },
   {
     "country": "United States",
-    "title": "Chiefs vs Panthers",
-    "pubDate": "Sun, 24 Nov 2024 11:00:00 -0800",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTqtEU6AYAO46J_DhQJpPBAwTsjHnLAGdO4x7B6pJa6Ngrq7EKr3-VTud-Mc3bIEWpJCx3xg-tO",
-    "news_item_snippet": "2:18: The Chiefs responded with an impressive 10-play, 75-yard touchdown drive, extending their lead to 27-16 over the Carolina Panthers. Patrick Mahomes&nbsp;...",
-    "news_item_url": "https://www.kmbc.com/article/kansas-city-chiefs-carolina-panthers-live-updates/63000009",
-    "picture_source": "Panthers.com",
+    "title": "Eagles game",
+    "pubDate": "Sun, 24 Nov 2024 08:00:00 -0800",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSAfuj_XewZOYKAIUr0OtDjFowZ3X-DXLZGx3GVOnn8CndqqHvz49hKbk63vr1J4Zm-16i--uqL",
+    "news_item_snippet": "Los Angeles answered with a 1-yard touchdown run by Williams to pull ahead 7-3 late in the first quarter. Another Philadelphia field goal, this time from 31&nbsp;...",
+    "news_item_url": "https://www.therams.com/news/game-recap-rams-fall-to-eagles-37-20-on-sunday-night-football",
+    "picture_source": "PhiladelphiaEagles.com",
     "approx_traffic": "200,000+"
   },
   {
@@ -123,10 +133,20 @@
     "country": "United States",
     "title": "Vikings vs Bears",
     "pubDate": "Sun, 24 Nov 2024 11:00:00 -0800",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRVwHCwn3wFmnL5iHA59AOu8R7Wx3q_aUkaAupDaTLMxAjupoRGgahj5VFm6MumNTK3cgdI5TmA",
-    "news_item_snippet": "Expert recap and game analysis of the Minnesota Vikings vs. Chicago Bears NFL game from November 24, 2024 on ESPN.",
-    "news_item_url": "https://www.espn.com/nfl/recap?gameId=401671870",
-    "picture_source": "ChicagoBears.com",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRms_qPkygVrlEhPyaWIpbxntVl3valtnidoAk1mvj11j96RgNCv7uS2JYJ6FIszNyl4egUZvfj",
+    "news_item_snippet": "The Bears rallied in dramatic fashion to force overtime Sunday at Soldier Field, but the Vikings escaped with a 30-27 victory.",
+    "news_item_url": "https://www.chicagobears.com/news/rapid-recap-bears-stage-incredible-comeback-but-fall-to-vikings-in-ot-caleb-williams-onside-kick-2024-week-12",
+    "picture_source": "ESPN",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Celtics",
+    "pubDate": "Sun, 24 Nov 2024 15:00:00 -0800",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQh9-qIK-YLpVLLPaD5WgkcbgTawErQTw7lM2afjPL7FzP9PYdEydE4saPA6NZe9acuxbQOXezI",
+    "news_item_snippet": "Naz Reid had a good look at a potential game-winning 3-pointer. It bounced off the rim. A furious fourth-quarter rally from the Timberwolves came up just&nbsp;...",
+    "news_item_url": "https://www.si.com/nba/timberwolves/minnesota-timberwolves-news/wolves-rally-falls-just-short-in-loss-to-defending-champion-celtics-01jdg4fr28fn",
+    "picture_source": "WCCO | CBS Minnesota",
     "approx_traffic": "100,000+"
   },
   {
@@ -137,16 +157,6 @@
     "news_item_snippet": "On a day when the Chiefs were determined to stop the run game, the Panthers made key plays there to tie the game in the late stages.",
     "news_item_url": "https://www.panthers.com/news/stymied-early-chuba-hubbard-and-the-line-delivered-late",
     "picture_source": "Panthers.com",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Saquon Barkley",
-    "pubDate": "Sun, 24 Nov 2024 19:00:00 -0800",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTSWhKtN5YqwEm3-TszLO4MkkWFHTICq0xxRkQzNdrY5lZpdIE_UMqeSvdpcE3hD3JgKXMfIN7S",
-    "news_item_snippet": "Saquon Barkley set an Eagles single-game rushing record with two 70-plus yard TD runs.",
-    "news_item_url": "https://www.delawareonline.com/story/sports/nfl/eagles/2024/11/24/instant-analysis-saquon-barkleys-record-night-leads-eagles-over-rams/76429459007/",
-    "picture_source": "Yahoo Sports",
     "approx_traffic": "100,000+"
   },
   {
@@ -174,8 +184,8 @@
     "title": "Chess",
     "pubDate": "Mon, 25 Nov 2024 01:30:00 +0530",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQ4l-gvH91GTbE3a_RZGdXlgdo1cteJ43S-8__Wuj52fLnllUJ5ejHrNQTAHIeiLh8vRvbF4N5i",
-    "news_item_snippet": "The 2024 FIDE World Championship between defending World Champion Ding Liren and Challenger Gukesh Dommaraju begins on Monday, November 25, at 4:00 a.m. ET&nbsp;...",
-    "news_item_url": "https://www.chess.com/news/view/fide-world-chess-championship-2024-game-1",
+    "news_item_snippet": "After all the buildup, it&#39;s finally here. The youngest challenger a chess World Championship has seen is up against it as he takes on one of the best&nbsp;...",
+    "news_item_url": "https://www.espn.in/chess/story/_/id/42588014/chess-world-championship-gukesh-vs-ding-liren-live-updates-score-commentary-news-2024-match-1",
     "picture_source": "The Indian Express",
     "approx_traffic": "500,000+"
   },
@@ -201,7 +211,7 @@
   },
   {
     "country": "India",
-    "title": "IPL Auction Time",
+    "title": "IPL auction Time",
     "pubDate": "Sun, 24 Nov 2024 07:30:00 +0530",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRGfB2ofJL-XI4cdCuzYkKaMSJ94Pli3gJi4_TvAJcdLyMXthPmroKMCTqe4N1Aw8EdWToLwhQS",
     "news_item_snippet": "The second day of the IPL mega auction will take place in Jeddah, Saud Arabia, on Monday. There are plenty of players still up for grabs.",
@@ -231,13 +241,13 @@
   },
   {
     "country": "India",
-    "title": "Washington Sundar",
-    "pubDate": "Sun, 24 Nov 2024 14:30:00 +0530",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRXL-yAcJKEMi65yKqPBy5mVT9jWNwwvKAcy13emRceMwsav1xxOmcBHT3x5-VrvlIFJlV62g7B",
-    "news_item_snippet": "India National Cricket Team all-rounder Washington Sundar played a vital role for his team in the ongoing first Test against the Australia National Cricket&nbsp;...",
-    "news_item_url": "https://cricketaddictor.com/cricket-news/watch-washington-sundar-gets-castled-by-nathan-lyons-brilliant-delivery-in-perth-test/",
-    "picture_source": "Hindustan Times",
-    "approx_traffic": "100,000+"
+    "title": "Southampton vs Liverpool",
+    "pubDate": "Sun, 24 Nov 2024 19:30:00 +0530",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSLJ2JJeLeG60H-njM_O21OlfVHSsvtRoUXvzdlbWeolukyLZbCwLnOb3uzhGQT9YWikQxaPz4M",
+    "news_item_snippet": "Liverpool boss Arne Slot praised his team for mounting a second-half comeback in a 3-2 win at Southampton.",
+    "news_item_url": "https://www.espn.in/football/story/_/id/42584613/southampton-vs-liverpool-arne-slot-hails-comeback-victory",
+    "picture_source": "Sportstar",
+    "approx_traffic": "50,000+"
   },
   {
     "country": "India",
@@ -274,20 +284,10 @@
     "title": "Venkatesh Iyer",
     "pubDate": "Sun, 24 Nov 2024 19:30:00 +0530",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTj1BzDwWzJUnL4mTlFwV8MVHFRD80Hc_KFgfhL7-hAy8OYgrAvYNV8Y05FX2E-CJKt3ROGXZXi",
-    "news_item_snippet": "Madhya Pradesh opener Venkatesh Iyer was signed by Kolkata Knight Riders for Rs. 23.75 cr at the Indian Premier League 2025 mega auction at the Abady Al&nbsp;...",
-    "news_item_url": "https://sportstar.thehindu.com/cricket/ipl/ipl-news/venkatesh-iyer-sold-to-kolkata-knight-riders-ipl-2025-auction-23-75-cr-indian-premier-league-purse-news/article68905911.ece",
+    "news_item_snippet": "Venkatesh Iyer&#39;s claim came hours after he was roped in by KKR for an unexpected price of INR 23.75 crore at the at the mega auction | Crickit.",
+    "news_item_url": "https://www.hindustantimes.com/cricket/venkatesh-iyer-to-captain-kkr-all-rounder-drops-staggering-hint-after-unexpected-23-75-crore-bid-by-franchise-101732469799158.html",
     "picture_source": "ESPNcricinfo.com",
     "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Brazil",
-    "title": "Corinthians x Vasco da Gama",
-    "pubDate": "Sun, 24 Nov 2024 09:00:00 -0500",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSKbp0Oikett8_ZuiGftPknlidd3aKhANjQffel9aokp8tbDlNJBMp5iO93Uo7su6dC8UZqD68F",
-    "news_item_snippet": "Na tarde deste domingo, o Corinthians recebeu a equipe do Vasco da Gama em partida v\u00e1lida pela 35\u00aa rodada do Campeonato Brasileiro. O Tim\u00e3o venceu o clube&nbsp;...",
-    "news_item_url": "https://www.meutimao.com.br/noticias-do-corinthians/493634/inicio-avassalador-garante-vitoria-do-corinthians-sobre-o-vasco-da-gama-pelo-brasileirao",
-    "picture_source": "Terra",
-    "approx_traffic": "1,000,000+"
   },
   {
     "country": "Brazil",
@@ -333,21 +333,11 @@
     "country": "South Korea",
     "title": "\ubb38\uac00\ube44",
     "pubDate": "Sat, 23 Nov 2024 17:00:00 +0900",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRjpCarPa9IkUxeE5aFzUB0tBywDwuyAR-gKDN0nvOAERTdZHRHnp5J320Zmr7CIzvqT640Oz0B",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTiY_vrEJoVl-bZ1M4Lc3aDWQixiaoPtmAsCYhrnF_XmeRK-Jr4oDq2BFQn31Qmo4u7njvFXidE",
     "news_item_snippet": "\uc774\ud6c4 24\uc77c \uc5b8\ub860\ubcf4\ub3c4\ub97c \ud1b5\ud574 \uc774 \uc544\uc774\uac00 \uc815\uc6b0\uc131\uc758 \uce5c\uc790\ub77c\ub294 \uc0ac\uc2e4\uc774 \uc54c\ub824\uc84c\uace0, \uc815\uc6b0\uc131 \uc18c\uc18d\uc0ac \uc544\ud2f0\uc2a4\ud2b8\ucef4\ud37c\ub2c8\ub294 \uac19\uc740 \ub0a0 \uacf5\uc2dd\uc785\uc7a5\uc744 \ub0b4\uace0 \u201c\ubb38\uac00\ube44\uac00 SNS\ub97c \ud1b5\ud574 \uacf5\uac1c\ud55c \uc544\uc774\ub294&nbsp;...",
     "news_item_url": "https://www.chosun.com/culture-life/culture_general/2024/11/25/TP4WUFCLD5FYTGBRIXCTV3PZJU/",
-    "picture_source": "MBC\ub274\uc2a4",
+    "picture_source": "\uc870\uc120\ube44\uc988",
     "approx_traffic": "200,000+"
-  },
-  {
-    "country": "France",
-    "title": "Lille \u2013 Rennes",
-    "pubDate": "Sun, 24 Nov 2024 15:00:00 +0100",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQ0_bHjARZOV7FkyZk7rnf8Fxx-QBBxehcJ98f01c-3GkjuuArWwN7LRochlEG9LoHn1TXpwRn-",
-    "news_item_snippet": "Les Lillois n&#39;ont pas rat\u00e9 leur rendez-vous avec l&#39;histoire. Un petit but d&#39;Edon Zhegrova leur a suffi pour croquer des Rennais sans id\u00e9es, \u00e0 faire le&nbsp;...",
-    "news_item_url": "https://www.lavoixdunord.fr/1526435/article/2024-11-24/lille-rennes-80-ans-et-tous-leurs-crocs-pour-les-dogues",
-    "picture_source": "Le T\u00e9l\u00e9gramme",
-    "approx_traffic": "50,000+"
   },
   {
     "country": "France",
@@ -373,11 +363,11 @@
     "country": "Germany",
     "title": "M\u00f6nchengladbach \u2013 St. Pauli",
     "pubDate": "Sun, 24 Nov 2024 18:00:00 +0100",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTasN9g_Zw_vs3sAAT_3pto58ANQPWcN3YvhYkCU2IUBa5hk3H_SRC55FFY3ud2qClThrIzfsyq",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSPYQ97PDF_cOoQsjja0frDasF435pi80a3oHUccof4aw0Z2dGoS7wHLlOrOsHje3a8KdF5DGYP",
     "news_item_snippet": "Der FC St. Pauli hat sein zweites Bundesliga-Spiel in Folge verloren und es vers\u00e4umt, den Relegationsplatz zu verlassen. Die Braun-Wei\u00dfen unterlagen am&nbsp;...",
     "news_item_url": "https://www.ndr.de/sport/fussball/Schwacher-FC-St-Pauli-verliert-02-bei-Borussia-Moenchengladbach,pauli8188.html",
     "picture_source": "Sportschau",
-    "approx_traffic": "100,000+"
+    "approx_traffic": "50,000+"
   },
   {
     "country": "Germany",
@@ -393,10 +383,10 @@
     "country": "Germany",
     "title": "Formel-1",
     "pubDate": "Sat, 23 Nov 2024 10:00:00 +0100",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSDKt22AArTC8WiAVSal9Pq_wb6lsPMndeBhG3TIM5n_Wc_5HkGE80w3RKQCOutZuBLfLA1jtPm",
-    "news_item_snippet": "Anders als in den Vorjahren musste Max Verstappen f\u00fcr seinen Formel-1-Triumph k\u00e4mpfen, sagte Ex-Fahrer Christian Danner. Der Titel sei deshalb wertvoll.",
-    "news_item_url": "https://www.deutschlandfunk.de/formel-1-interview-mit-christian-danner-zum-4-wm-titel-von-max-verstappen-dlf-3d9839d2-100.html",
-    "picture_source": "Derwesten.de",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSJuio92x8MF1S80HomWn6U_mxdsKFpswTD3OPWf9v9KgTjNdMTvjCKTmtMbgQ2rRaKKxpEcbir",
+    "news_item_snippet": "Max Verstappen bleibt in der Formel 1 unantastbar. Doch nach seinem Titel stellt sich pl\u00f6tzlich die Frage: Macht er weiter?",
+    "news_item_url": "https://www.derwesten.de/sport/sportmix/formel-1-max-verstappen-zukunft-karriereende-id301233744.html",
+    "picture_source": "Deutschlandfunk",
     "approx_traffic": "50,000+"
   },
   {
@@ -411,11 +401,11 @@
   },
   {
     "country": "Italy",
-    "title": "Genoa-Cagliari",
+    "title": "Genoa  Cagliari",
     "pubDate": "Sun, 24 Nov 2024 12:00:00 +0100",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcST_TZlJaKXUtax2JIGMGYJ3IgISmdOq5XjYl-oRr2uSw2FXRzEkHvql_cBikba6GoMNXZQOn45",
-    "news_item_snippet": "Il match viene sbloccato dagli ospiti dopo appena otto minuti, con Marin che realizza centralmente un calcio di rigore. Passano appena quattro minuti e&nbsp;...",
-    "news_item_url": "https://www.repubblica.it/sport/dirette/calcio/serie-a-2024/diretta-genoa-cagliari-g2456226/",
+    "news_item_snippet": "Si infrange nel finale dal dischetto il sogno dei tre punti in casa, mai conquistati quest&#39;anno, per il Genoa, che chiude con il Cagliari sul 2-2 dopo aver&nbsp;...",
+    "news_item_url": "https://www.rainews.it/video/2024/11/genoa---cagliari---2-2-la-sintesi-della-partita-2bd9bc7e-4e28-4b57-985e-a8a22d7f50af.html",
     "picture_source": "Sky Sport",
     "approx_traffic": "200,000+"
   },
@@ -423,9 +413,9 @@
     "country": "Italy",
     "title": "Lazio-Bologna",
     "pubDate": "Sun, 24 Nov 2024 12:00:00 +0100",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRY8lgHvSsAeNJA0Xt-9J_cgUBdU4gG6MQjOuh3Sj3sZnT1JN_idmyyrlmjbyYRkXXkPS94KTuP",
-    "news_item_snippet": "Baroni supera Italiano nella tredicesima giornata di campionato: rivivi il match su Il Corriere dello Sport - Stadio.",
-    "news_item_url": "https://www.corrieredellosport.it/news/calcio/serie-a/2024/11/24-135716237/lazio-bologna_diretta_serie_a_segui_la_partita_di_campionato_oggi_live",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRoT3w-yWCvhPS9fJwITV-MdCFJlWOl8riJoMibmgf34BjCCO2rkQNXz54oKlriBlycaXb4X5AY",
+    "news_item_snippet": "Il sogno, per la Lazio, continua. La squadra di Baroni, dopo le vittorie delle rivali nel gruppone di testa, non poteva sbagliare.",
+    "news_item_url": "https://www.rainews.it/video/2024/11/lazio---bologna-3-0-la-sintesi-della-partita-05cf6391-55b8-4487-a1e9-b6395963dd73.html",
     "picture_source": "Sky Sport",
     "approx_traffic": "100,000+"
   },
@@ -441,22 +431,22 @@
   },
   {
     "country": "Italy",
-    "title": "Banca Mediolanum",
-    "pubDate": "Sun, 24 Nov 2024 19:00:00 +0100",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQD2gnSBXnpnjlzOA-Lrc2_IXG4einkWsvWxILTwyue1hHVHNVMiC0KjPQy_5Xvhk6fn9O7K7wB",
-    "news_item_snippet": "Ma una malattia ai reni lo rese gracile e la famiglia decise cos\u00ec di farlo studiare. Da ragioniere trov\u00f2 il suo primo impiego come venditore porta a porta&nbsp;...",
-    "news_item_url": "https://www.famigliacristiana.it/articolo/la-storia-di-ennio-doris-nato-povero-e--ma-che-sognava-in-grande.aspx",
-    "picture_source": "Napoli Fanpage",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "Italy",
     "title": "Torino-Monza",
     "pubDate": "Sun, 24 Nov 2024 15:00:00 +0100",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRDET4bKIcyresDz56B6pRkR6i0OXLT04U1oJmsiXt2ZrkgUO-toZj1kpokwhulNv6pSYIOhfpJ",
     "news_item_snippet": "E&#39; pareggio per 1-1 all&#39;Olimpico granata fra il Torino e il Monza.Succede tutto nel giro di quattro minuti nel secondo tempo: al 14&#39; della ripresa segna&nbsp;...",
     "news_item_url": "https://www.rainews.it/video/2024/11/torino---monza--1-1-la-sintesi-della-partita-41aa092d-4b27-470b-bdb4-9317e5917b4c.html",
     "picture_source": "Sky Sport",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Mexico",
+    "title": "F1",
+    "pubDate": "Sun, 24 Nov 2024 03:00:00 -0600",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSRDQ9bIUyhXwq1bPIFsJcgH2NX6to5YE66JoZ9XmpvpkWLy2CFtN4sYal0ETtRULuwJdX3jfKx",
+    "news_item_snippet": "El campe\u00f3n del mundo Max Verstappen, Red Bull Racing, celebra con su equipo. Foto de: Red Bull Content Pool. &quot;Ha sido una temporada muy desafiante. Creo que&nbsp;...",
+    "news_item_url": "https://lat.motorsport.com/f1/news/f1-verstappen-aliviado-cuarto-campeonato-vegas-2024/10676027/",
+    "picture_source": "ESPN",
     "approx_traffic": "50,000+"
   },
   {
@@ -494,8 +484,8 @@
     "title": "Chess",
     "pubDate": "Mon, 25 Nov 2024 01:00:00 +0000",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSYtQHu6hcoE6y4fIuYGtARS50scvImrqi0TGn6By-J_I2pqEO8hFiZgGUiNeRrVP40FupTQg4F",
-    "news_item_snippet": "FIDE World Championship 2024 Guide: The ultimate guide to the world chess championship, including form guide, ranking match-up, and reasons why each player will&nbsp;...",
-    "news_item_url": "https://indianexpress.com/article/sports/chess/world-chess-championship-2024-all-you-need-to-know-rules-guidelines-rules-and-regulations-ding-liren-gukesh-9688308/",
+    "news_item_snippet": "After all the buildup, it&#39;s finally here. The youngest challenger a chess World Championship has seen is up against it as he takes on one of the best&nbsp;...",
+    "news_item_url": "https://www.espn.in/chess/story/_/id/42588014/chess-world-championship-gukesh-vs-ding-liren-live-updates-score-commentary-news-2024-match-1",
     "picture_source": "Chess.com",
     "approx_traffic": "50,000+"
   },
@@ -534,8 +524,8 @@
     "title": "Leeds United",
     "pubDate": "Sun, 24 Nov 2024 15:00:00 +0000",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcR6lbqpXgM9AkJiJRU2jT04k_omFdlt5wRmwLDSBb3d8havkC6XWC-OTVK27EVj2J8YtWGcxogW",
-    "news_item_snippet": "Returning to action after the international break, Daniel Farke has named his starting XI at the Swansea.Com Stadium for today&#39;s game. Illan Meslier is between&nbsp;...",
-    "news_item_url": "https://www.leedsunited.com/en/news/team-news-daniel-farke-names-xi-to-face-swansea-city-away",
+    "news_item_snippet": "Swansea: Vigouroux (GK), Key, Cabango, Darling, Allen (Fulton 56&#39;), Grimes (C), Tymon, Franco (Bianchini 75&#39;), Cullen, Peart-Harris, Ronald (Abdulai 84&#39;).Subs&nbsp;...",
+    "news_item_url": "https://www.leedsunited.com/en/news/report-swansea-city-3-4-leeds-united",
     "picture_source": "Swansea City",
     "approx_traffic": "50,000+"
   },
