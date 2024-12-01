@@ -1,13 +1,23 @@
 [
   {
     "country": "United States",
-    "title": "Michigan football",
+    "title": "Michigan vs Ohio State",
     "pubDate": "Sat, 30 Nov 2024 05:00:00 -0800",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcS_xdv5KqWn9wByoY3w6ILQoKgNM9QmIUuyrbk4QGCo25E4dGuROGJU30IG7Lpps_v8kjfIHhW4",
-    "news_item_snippet": "Expert recap and game analysis of the Michigan Wolverines vs. Ohio State Buckeyes NCAAF game from November 30, 2024 on ESPN.",
-    "news_item_url": "https://www.espn.com/college-football/recap?gameId=401628566",
-    "picture_source": "Detroit Free Press",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcT3lOaVtWCTFIC-4DdnTMIxeP_b_5RllVQk7xRVbfC-o7NjRWCVPdn9_lfdiw_kL6wMc-Ht738d",
+    "news_item_snippet": "The victory improves U-M to 29-28-2 in games played in Columbus, including a 26-24-1 all-time record at Ohio Stadium. \u2022 The team that has won the rushing&nbsp;...",
+    "news_item_url": "https://mgoblue.com/news/2024/11/30/football-postgame-notes-michigan-at-ohio-state",
+    "picture_source": "ohiostatebuckeyes.com",
     "approx_traffic": "1,000,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Osu Michigan game",
+    "pubDate": "Sat, 30 Nov 2024 10:00:00 -0800",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTW_O9wGwF-ghVfqBCrclOno9u1YYXlDT3z_cBFv1R3vQ2k6Fx-7_j9uyPgZBKEKo4xr64sISG0",
+    "news_item_snippet": "Ohio State quarterback Will Howard completed 19-of-33 passes for 175 yards and a touchdown. Quinshon Judkins rushed 12 times for 46 yards while receiver Carnell&nbsp;...",
+    "news_item_url": "https://ohiostatebuckeyes.com/news/2024/11/30/football-post-game-story",
+    "picture_source": "MGoBlue",
+    "approx_traffic": "200,000+"
   },
   {
     "country": "United States",
@@ -17,6 +27,26 @@
     "news_item_snippet": "It&#39;s Tennessee vs Vanderbilt in Week 14 of the 2024 college football season. Follow along for live score and game updates at FirstBank Stadium.",
     "news_item_url": "https://www.knoxnews.com/story/sports/college/university-of-tennessee/football/2024/11/30/tennessee-vanderbilt-game-live-updates-college-football-week-14-game/76456210007/",
     "picture_source": "Knoxville News Sentinel",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "United States",
+    "title": "USC Football",
+    "pubDate": "Sat, 30 Nov 2024 14:00:00 -0800",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTQfEsUQoH0pi5DYA84l-Sbb96JFR6K6FCddrM8Y7R2rRJMX8ltZiCxHwMBgmXjnufjL4uQL8L_",
+    "news_item_snippet": "SportsLine&#39;s model revealed its CFB picks and predictions for USC Trojans vs. Notre Dame Fighting Irish on CBS and Paramount+.",
+    "news_item_url": "https://www.cbssports.com/college-football/news/notre-dame-vs-usc-odds-betting-line-2024-college-football-picks-week-14-predictions-by-proven-model/",
+    "picture_source": "University of Southern California Official Athletic Site",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Miami Football",
+    "pubDate": "Sat, 30 Nov 2024 17:00:00 -0800",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcReG6aAOXv5Q5PbeWenQ_QbztoqH_N7WdsDw7EInoxt-8wVYmTQNnIrPIf2jhXe3cmArmxh8ZIN",
+    "news_item_snippet": "Follow along with score and in-game updates as the Orange hosts the Hurricanes on Saturday afternoon in the JMA Dome.",
+    "news_item_url": "https://www.syracuse.com/orangefootball/2024/11/syracuse-football-vs-no-6-miami-live-score-updates.html",
+    "picture_source": "Miami Herald",
     "approx_traffic": "200,000+"
   },
   {
@@ -31,16 +61,6 @@
   },
   {
     "country": "United States",
-    "title": "Osu Michigan game",
-    "pubDate": "Sat, 30 Nov 2024 10:00:00 -0800",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcR964tplskEPjNFEAEUdwwHbeR4BzIYj5om8HwCd2F8FLMIOgckI3nN5_H9TwwmJ_k0TyVpHXvS",
-    "news_item_snippet": "Ohio State quarterback Will Howard completed 19-of-33 passes for 175 yards and a touchdown. Quinshon Judkins rushed 12 times for 46 yards while receiver Carnell&nbsp;...",
-    "news_item_url": "https://ohiostatebuckeyes.com/news/2024/11/30/football-post-game-story",
-    "picture_source": "MGoBlue",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "United States",
     "title": "Lakers",
     "pubDate": "Sat, 30 Nov 2024 08:00:00 -0800",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQ6eEa-mDn4Jm5UfpUQ6_O4PR6VPugLnCt3pgOwridBzUBoGufHbRYwIqHM27uxj1x8R2ZKLW9p",
@@ -51,12 +71,12 @@
   },
   {
     "country": "United States",
-    "title": "USC Football",
-    "pubDate": "Sat, 30 Nov 2024 14:00:00 -0800",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRPLE5nQsoCSabBffKDSpAti51WxgRHo0NAADZyimNOL9mCM6-iIlftA5Zl59xsO3TcMIYO8mG-",
-    "news_item_snippet": "The USC Trojans will play the Notre Dame Fighting Irish this Saturday \u2014 here&#39;s what to know and how to tune in.",
-    "news_item_url": "https://sports.yahoo.com/notre-dame-vs-usc-how-to-watch-ncaaf-today-kickoff-time-channel-and-more-123544418.html",
-    "picture_source": "pennlive.com",
+    "title": "Big 10 championship game",
+    "pubDate": "Sat, 30 Nov 2024 13:00:00 -0800",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRSppQjqVk2n_lorqcPrfnGiJXmqzlKfLnghhXoXH4lFRfRu9Z-sFu1nokRQ_XZHrXGB05rKdXR",
+    "news_item_snippet": "It&#39;s Penn State vs Oregon in the Big Ten Football Championship Game. Here&#39;s how to get tickets for the big game in Indianapolis.",
+    "news_item_url": "https://www.indystar.com/story/sports/college/2024/11/30/oregon-penn-state-tickets-big-ten-championship-game-2024-big-10-football/76681149007/",
+    "picture_source": "Big Ten Conference",
     "approx_traffic": "100,000+"
   },
   {
@@ -64,9 +84,39 @@
     "title": "Survivor Series 2024",
     "pubDate": "Sat, 30 Nov 2024 03:00:00 -0800",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQra4DX72Bkhag7tD2Z0k6gIixsyBVcwsGC1GMN8Ra-YgRtkbel-MoE9oY7PlvTxkoSa9itKWEd",
-    "news_item_snippet": "WWE Survivor Series 2024 could be a huge night for Roman Reigns, Jey Uso, CM Punk, Gunther and more top stars.",
-    "news_item_url": "https://www.forbes.com/sites/blakeoestriecher/2024/11/30/wwe-survivor-series-2024-jey-uso-winning-and-5-smart-booking-decisions/",
+    "news_item_snippet": "WWE Survivor Series 2024 WarGames featuring Team Liv Morgan vs. Team Rhea Ripley. Ripley recently returned to action after suffering an orbital bone injury.",
+    "news_item_url": "https://www.forbes.com/sites/alfredkonuwa/2024/11/30/wwe-survivor-series-2024-results-everything-that-happened-in-womens-wargames/",
     "picture_source": "USA TODAY",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Kash Patel",
+    "pubDate": "Sat, 30 Nov 2024 17:00:00 -0800",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRuqM2arMcSJFRl3kMJX4SUicqwUSn0KsVkuooPokUBAj5GxpEk6tz7zgrUX8Y_Te35EF6kLdTM",
+    "news_item_snippet": "&quot;I am proud to announce that Kashyap &quot;Kash&quot; Patel will serve as the next Director of the Federal Bureau of Investigation,&quot; Trump posted Saturday night on Truth&nbsp;...",
+    "news_item_url": "https://abc30.com/post/trump-names-loyalist-kash-patel-serve-fbi-director/15607640/",
+    "picture_source": "NPR",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Arizona State football",
+    "pubDate": "Sat, 30 Nov 2024 08:00:00 -0800",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcR9MoRKjA7lCI0jIBR42sAutGeX1uOjQbbN2XXA4LGLTiiWqIUmJmRMkMnqS9lymUtT15Hig3u2",
+    "news_item_snippet": "What was the Arizona State vs Arizona score? Look back at our live updates for highlights from Big 12 Territorial Cup college football game Saturday.",
+    "news_item_url": "https://www.azcentral.com/story/sports/college/asu/2024/11/30/asu-arizona-score-updates-highlights-college-football-game-today/76581462007/",
+    "picture_source": "AZCentral.com",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Toluca - Am\u00e9rica",
+    "pubDate": "Sat, 30 Nov 2024 15:00:00 -0800",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTZQu7VBbwwtsxhbLRZUik5iYm3snvmMOnnk8slebHzPth3AF3nxaHu1MfHIgiiB6XE0Y8QukDg",
+    "news_item_snippet": "Los Diablos Rojos regresan a casa para la Vuelta de los Cuartos de Final de Liga MX con la misi\u00f3n de revertir la desventaja ante las \u00c1guilas.",
+    "news_item_url": "https://www.tudn.com/futbol/liga-mx/toluca-vs-america-en-vivo-cuartos-final-vuelta-liga-mx-apertura-2024-minuto-a-minuto-partido",
+    "picture_source": "Sporting News",
     "approx_traffic": "50,000+"
   },
   {
@@ -81,22 +131,12 @@
   },
   {
     "country": "United States",
-    "title": "Baylor football",
+    "title": "Baylor Football",
     "pubDate": "Sat, 30 Nov 2024 11:00:00 -0800",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRBqW3zivEDVt_6CjdYIjoXusPP0zOwjLWdA3bVZctN64pJ4MYdVoC2psccDLYqRkYDOa3IH18C",
     "news_item_snippet": "How did Kansas football perform against Baylor as Big 12 Conference play continued? Here is what happened during the game on Saturday.",
     "news_item_url": "https://www.cjonline.com/story/sports/college/hawk-zone/2024/11/30/kansas-football-vs-baylor-live-score-updates-jayhawks-battle-for-big-12-conference-win-in-2024/76484000007/",
     "picture_source": "Kansas Jayhawks",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Louisville football",
-    "pubDate": "Sat, 30 Nov 2024 12:00:00 -0800",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQOGlunklJlOw_GoSn7flB0G-3mv9pTFqzMv04_UyqIgUT2lNvSxOwhw7-mTaGLwtAbAk7-mdXt",
-    "news_item_snippet": "Tyler Shough only had one season with Louisville football, but he made it count as Louisville beat Kentucky football to reclaim the Governor&#39;s Cup.",
-    "news_item_url": "https://www.courier-journal.com/story/sports/college/louisville/2024/11/30/tyler-shough-louisville-kentucky-football-game-transfer-portal/76602843007/",
-    "picture_source": "A Sea of Blue",
     "approx_traffic": "50,000+"
   },
   {
@@ -131,23 +171,23 @@
   },
   {
     "country": "India",
-    "title": "Cyclonic Storm Fengal",
-    "pubDate": "Fri, 29 Nov 2024 21:30:00 +0530",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQ2D2m8mQTmmNlJ0YX4GdXsNN1Sjgi1BkalPtHu7APhsHltiAKbQnqpquQxLGqCtzMM9y3qQCdP",
-    "news_item_snippet": "Cyclonic storm Fengal makes landfall near Puducherry, taking approximately 4 hours to cross coast, according to IMD official.",
-    "news_item_url": "https://www.thehindubusinessline.com/news/national/cyclonic-storm-fengal-begins-making-landfall-imd/article68931989.ece",
-    "picture_source": "The Hindu",
-    "approx_traffic": "500,000+"
+    "title": "West Ham vs Arsenal",
+    "pubDate": "Sat, 30 Nov 2024 22:30:00 +0530",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcT-haLwk_opwonspYG-mrub_Fix51tGG3Sk4bc-Zg85hi0PlvQJHsT1n5CE5HCibmid731fpI-D",
+    "news_item_snippet": "All our updates as seven goals are scored in a the first-half of a Premier League game for only the fourth time.",
+    "news_item_url": "https://www.aljazeera.com/sports/liveblog/2024/11/30/live-west-ham-vs-arsenal-premier-league-build-up-team-news-commentary",
+    "picture_source": "Sportstar",
+    "approx_traffic": "50,000+"
   },
   {
     "country": "India",
-    "title": "CAT 2024",
-    "pubDate": "Fri, 29 Nov 2024 12:30:00 +0530",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQollm_u-DuE5vXssPOZLZsItRhPTjYgrEC0OjR_Rq47afLzEu_bqskU_IF775ljzzi5y0eq1Z2",
-    "news_item_snippet": "CAT 2024 introduced a simpler paper this year, but with the exam conducted in multiple slots, percentile scores will be calculated using a detailed&nbsp;...",
-    "news_item_url": "https://www.indiatoday.in/education-today/notification/story/cat-2024-understanding-score-vs-percentile-calculation-process-2642751-2024-11-30",
-    "picture_source": "Hindustan Times",
-    "approx_traffic": "50,000+"
+    "title": "Cyclonic Storm Fengal",
+    "pubDate": "Fri, 29 Nov 2024 21:30:00 +0530",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQ2D2m8mQTmmNlJ0YX4GdXsNN1Sjgi1BkalPtHu7APhsHltiAKbQnqpquQxLGqCtzMM9y3qQCdP",
+    "news_item_snippet": "Cyclone Fengal live updates: A visitor takes pictures as sea waves crash amid strong winds at the Marina beach, in Chennai, Saturday, Nov. 30, 2024. Cyclone&nbsp;...",
+    "news_item_url": "https://www.hindustantimes.com/india-news/cyclone-fengal-live-updates-tracker-landfall-today-november-30-red-alert-tamil-nadu-andhra-puducherry-schools-closed-101732925670316.html",
+    "picture_source": "The Hindu",
+    "approx_traffic": "500,000+"
   },
   {
     "country": "India",
@@ -161,11 +201,31 @@
   },
   {
     "country": "Argentina",
+    "title": "Rosario Central  Racing",
+    "pubDate": "Sat, 30 Nov 2024 18:00:00 -0300",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRDYfARFJRk-X_o9X5uKfrfSKdIRNfzd637m5e_n_WLKva1VcOR9ajZ7kDb9Ve52Moe-Gm2l_UD",
+    "news_item_snippet": "A una semana de ganar la Sudamericana, con goles de Vietto y de Maravilla, la Academia derrot\u00f3 a Central y qued\u00f3 a dos de V\u00e9lez.",
+    "news_item_url": "https://www.ole.com.ar/futbol-de-primera/racing-rosario-central_0_tjBhd0MyIf.html",
+    "picture_source": "Infobae.com",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "Argentina",
     "title": "Barcelona  UD Las Palmas",
     "pubDate": "Sat, 30 Nov 2024 10:00:00 -0300",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSLnhiT4_UrNuMmd-kUNbeuvsHWficykvxrAymMvq-psh8_9lI9jaRTch7RZwTZJUQYBNtykZb0",
-    "news_item_snippet": "La primera de ellas, en un disparo de Pedri detenido por Cillessen tras el que Raphinha vio puerta, acci\u00f3n anulada por fuera de juego del brasile\u00f1o. Ya en el&nbsp;...",
-    "news_item_url": "https://www.infobae.com/america/agencias/2024/11/30/cronica-del-fc-barcelona-ud-las-palmas-1-2/",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTgXa5mhMaHTuIVUJon6kn276j7zigUDWPoFTqxvsGa8XAHdE-VA-ljdB06pE7YxlxlcH5lHL5K",
+    "news_item_snippet": "El Barcelona encaden\u00f3 la tercera jornada sin ganar en LaLiga EA Sports tras perder frente a la UD Las Palmas (1-2).",
+    "news_item_url": "https://efe.com/deportes/2024-11-30/barcelona-pierde-las-palmas-laliga/",
+    "picture_source": "Infobae.com",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Argentina",
+    "title": "Valladolid  Atl\u00e9tico Madrid",
+    "pubDate": "Sat, 30 Nov 2024 17:00:00 -0300",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSBgL4hEXQZWUjNufFzjFZHQAWJfFE9Fu8NPxbfFNoUiaR03VAo7DayIL6rnap-n1jMJ2-14TOE",
+    "news_item_snippet": "Sigue en directo el partido de la decimoquinta jornada de La Liga entre el Valladolid y Atl\u00e9tico de Madrid, desde el Estadio Jos\u00e9 Zorrilla.",
+    "news_item_url": "https://www.rtve.es/deportes/20241130/valladolid-atleti-directo-resumen-resultado-liga/16350312.shtml",
     "picture_source": "TyC Sports",
     "approx_traffic": "50,000+"
   },
@@ -183,11 +243,31 @@
     "country": "Brazil",
     "title": "Crici\u00fama x Corinthians",
     "pubDate": "Sat, 30 Nov 2024 13:00:00 -0500",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcR8KGmoYkXu4NV9RrH13CMhj1g3TWD_0bS6h9l4ytDTkHF6kuQdHkcqugJ9F2b6k-JBQl_y03PS",
-    "news_item_snippet": "Crici\u00fama e Corinthians se enfrentam neste s\u00e1bado (30), em jogo v\u00e1lido pela 36\u00aa rodada do Campeonato Brasileiro. A bola rola \u00e0s 19h30 (de Bras\u00edlia),&nbsp;...",
-    "news_item_url": "https://www.lance.com.br/onde-assistir/criciuma-x-corinthians-onde-assistir-ao-vivo-horario-e-escalacoes-do-jogo-pelo-brasileirao.html",
-    "picture_source": "UOL",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRH-wMCbGCCK2SvFV_TzhJqHTfU7aZLHAr5t8tI34ouNB3zkmJf66pgs-tt0kZ6E5NeeXvmloTp",
+    "news_item_snippet": "Crici\u00fama e Corinthians entram em campo hoje (30), \u00e0s 19h30 (de Bras\u00edlia), no Heriberto H\u00fclse, em partida v\u00e1lida pela 36\u00aa rodada do Campeonato Brasileiro.",
+    "news_item_url": "https://www.uol.com.br/esporte/ultimas-noticias/2024/11/30/onde-vai-passar-criciuma-x-corinthians-como-assistir-ao-vivo-com-imagens.htm",
+    "picture_source": "globoesporte.com",
+    "approx_traffic": "1,000,000+"
+  },
+  {
+    "country": "Brazil",
+    "title": "Corinthians",
+    "pubDate": "Sat, 30 Nov 2024 18:00:00 -0500",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRH-wMCbGCCK2SvFV_TzhJqHTfU7aZLHAr5t8tI34ouNB3zkmJf66pgs-tt0kZ6E5NeeXvmloTp",
+    "news_item_snippet": "Crici\u00fama e Corinthians se enfrentaram neste s\u00e1bado (30), pela 36\u00aa rodada do Campeonato Brasileiro, no Heriberto H\u00fclse.",
+    "news_item_url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2024/11/30/criciuma-x-corinthians-36-rodada-brasileirao.htm",
+    "picture_source": "globoesporte.com",
     "approx_traffic": "500,000+"
+  },
+  {
+    "country": "Brazil",
+    "title": "Cuiab\u00e1 x Bahia",
+    "pubDate": "Sat, 30 Nov 2024 17:00:00 -0500",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQmEjbXLZqCXvott2L_1hf-FAIgUE5RfP_7mIcEikRz2usFasLaVLcC85axNwVQpwzE-Bj2SAnE",
+    "news_item_snippet": "Cuiab\u00e1 e Bahia se enfrentam neste s\u00e1bado (30), em jogo v\u00e1lido pela 36\u00aa rodada do Brasileir\u00e3o. A bola rola \u00e0s 19h30, na Arena Pantanal.",
+    "news_item_url": "https://www.lance.com.br/onde-assistir/cuiaba-x-bahia-onde-assistir-ao-vivo-horario-e-escalacoes-do-jogo-pelo-brasileirao.html",
+    "picture_source": "globoesporte.com",
+    "approx_traffic": "200,000+"
   },
   {
     "country": "Brazil",
@@ -201,23 +281,13 @@
   },
   {
     "country": "Brazil",
-    "title": "Corinthians",
+    "title": "Vasco da Gama x Atl\u00e9tico-GO",
     "pubDate": "Sat, 30 Nov 2024 18:00:00 -0500",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcR8KGmoYkXu4NV9RrH13CMhj1g3TWD_0bS6h9l4ytDTkHF6kuQdHkcqugJ9F2b6k-JBQl_y03PS",
-    "news_item_snippet": "Campanha come\u00e7ou na \u00faltima quarta-feira (27) e foi lan\u00e7ada pela Gavi\u00f5es da Fiel para quitar da Neo Qu\u00edmica Arena.",
-    "news_item_url": "https://www.cnnbrasil.com.br/esportes/futebol/corinthians/vaquinha-do-corinthians-tem-nova-atualizacao-veja-valores/",
-    "picture_source": "UOL",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQFPW04pgIfWawA-Pl4p30Bhwm2vrWlzLweHAwWCVgoxvw_FrnUFTQC8VsDCb6F89onZQSJNO6b",
+    "news_item_snippet": "Escrito por A. Seraphim, 18:30 / 30 de Novembro de 2024. Partida acontece pela 36\u00aa rodada do Campeonato Brasileiro S\u00e9rie A.",
+    "news_item_url": "https://diariodonordeste.verdesmares.com.br/jogada/vasco-da-gama-x-atletico-goianiense-confira-horario-palpites-e-provaveis-escalacoes-1.3588237",
+    "picture_source": "Gazeta Esportiva",
     "approx_traffic": "200,000+"
-  },
-  {
-    "country": "Brazil",
-    "title": "Cuiab\u00e1 x Bahia",
-    "pubDate": "Sat, 30 Nov 2024 17:00:00 -0500",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQmEjbXLZqCXvott2L_1hf-FAIgUE5RfP_7mIcEikRz2usFasLaVLcC85axNwVQpwzE-Bj2SAnE",
-    "news_item_snippet": "Cuiab\u00e1 e Bahia se enfrentam neste s\u00e1bado (30), em jogo v\u00e1lido pela 36\u00aa rodada do Brasileir\u00e3o. A bola rola \u00e0s 19h30, na Arena Pantanal.",
-    "news_item_url": "https://www.lance.com.br/onde-assistir/cuiaba-x-bahia-onde-assistir-ao-vivo-horario-e-escalacoes-do-jogo-pelo-brasileirao.html",
-    "picture_source": "globoesporte.com",
-    "approx_traffic": "100,000+"
   },
   {
     "country": "Brazil",
@@ -237,7 +307,7 @@
     "news_item_snippet": "West Ham e Arsenal se enfrentam neste s\u00e1bado (30), \u00e0s 14h30 (hor\u00e1rio de Bras\u00edlia), em duelo v\u00e1lido pela 13\u00aa rodada da Premier League 2024/25.",
     "news_item_url": "https://www.nsctotal.com.br/noticias/west-ham-x-arsenal-pela-premier-league-onde-assistir-e-provaveis-escalacoes",
     "picture_source": "UOL",
-    "approx_traffic": "50,000+"
+    "approx_traffic": "100,000+"
   },
   {
     "country": "Brazil",
@@ -263,30 +333,10 @@
     "country": "Brazil",
     "title": "PSG x Nantes",
     "pubDate": "Sat, 30 Nov 2024 15:00:00 -0500",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQXFX-Uq9bs3MhBbjtt1AH01Q591mem83w1vMzCOaR24ukXqGSY-cRiL4PIPBYna3p9PTMUgUL4",
-    "news_item_snippet": "Equipes se enfrentam neste s\u00e1bado (30/11), no Parque dos Pr\u00edncipes; bola rola a partir das 17h (de Bras\u00edlia) pelo Campeonato Franc\u00eas.",
-    "news_item_url": "https://noataque.com.br/futebol/campeonato-frances/noticia/2024/11/30/psg-x-nantes-onde-assistir-horario-e-escalacoes-pelo-frances/",
-    "picture_source": "Estad\u00e3o",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Canada",
-    "title": "Black Friday deals",
-    "pubDate": "Fri, 29 Nov 2024 08:00:00 -0500",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcT2JLJdMa4JEYvcCNPtCEXc-hNszFFhbmW4yP4J7PnNOPlvLIu0stj_wRf-jY4ivE9GtCQJAydJ",
-    "news_item_snippet": "Montrealers hit the shops for Black Friday sales, but some stores manipulate the prices.",
-    "news_item_url": "https://montreal.ctvnews.ca/are-black-friday-deals-in-montreal-worth-it-1.7128729",
-    "picture_source": "CTV Montreal",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "South Korea",
-    "title": "\ub274\uc9c4\uc2a4",
-    "pubDate": "Thu, 28 Nov 2024 22:00:00 +0900",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcThCG-5tIA5TBCnnDP8orrGhGWY4ZaDLWRLRT26aJQPzm8fGLZil1LDCIuPooQPWL0LDV8xcTxF",
-    "news_item_snippet": "\uc778\uae30 \ucf00\uc774\ud31d \uadf8\ub8f9 \ub274\uc9c4\uc2a4\uac00 \uc790\uc2e0\ub4e4\uc744 \ubcf4\ud638\ud558\uc9c0 \uc54a\ub294 \uc18c\uc18d\uc0ac\ub97c \ub5a0\ub098\uaca0\ub2e4\uace0 \uc120\uc5b8\ud588\uc2b5\ub2c8\ub2e4. \ubc18\uba74 \uc18c\uc18d\uc0ac\ub294 \uacc4\uc57d\uae30\uac04\uc774 5\ub144 \ub0a8\uc558\ub2e4, \uc9c0\uae08\uc774\ub77c\ub3c4 \ub9cc\ub098\uc11c \ub300\ud654\ud558\uc790\ub294 \uc785\uc7a5&nbsp;...",
-    "news_item_url": "https://imnews.imbc.com/replay/2024/nwdesk/article/6661383_36515.html",
-    "picture_source": "BBC News \ucf54\ub9ac\uc544",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQX9CLebwg3t4EJ9vC5nqSfML6NT_xkIreksY3CMoKdgYs-LMMPzT0SpkVWWlo3SwOlIFbHub8-",
+    "news_item_snippet": "Paris Saint-Germain e Nantes se enfrentam na tarde deste s\u00e1bado, 30, \u00e0s 17h (de Bras\u00edlia), no Parque dos Pr\u00edncipes, pela 13\u00aa rodada do Campeonato Franc\u00eas.",
+    "news_item_url": "https://contilnetnoticias.com.br/2024/11/psg-x-nantes-no-campeonato-frances-onde-assistir-ao-vivo-horario-e-escalacao/",
+    "picture_source": "No Ataque",
     "approx_traffic": "50,000+"
   },
   {
@@ -314,8 +364,8 @@
     "title": "\u0627\u0644\u0627\u062a\u062d\u0627\u062f",
     "pubDate": "Fri, 29 Nov 2024 19:00:00 +0300",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRjb8MgbBU8uMdHPol_KH6tb7NoIPgxzLz8hlrfY71EEOs1ze4tKd8T8Yc_zl___BiolKd2ZCID",
-    "news_item_snippet": "\u0623\u062d\u0631\u0632 \u0643\u0627\u0646\u062a\u0649 \u0627\u0644\u0647\u062f\u0641 \u0627\u0644\u0623\u0648\u0644 \u0644\u0635\u0627\u0644\u062d \u0627\u0644\u0627\u062a\u062d\u0627\u062f \u0636\u062f \u0627\u0644\u0627\u062a\u0641\u0627\u0642 \u0641\u0649 \u0627\u0644\u0634\u0648\u0637 \u0627\u0644\u0623\u0648\u0644 \u0628\u0627\u0644\u062f\u0642\u064a\u0642\u0629 35 \u0645\u0646 \u0627\u0644\u0644\u0642\u0627\u0621. \u0648\u0623\u0636\u0627\u0641 \u0627\u0644\u062b\u0644\u0627\u062b\u0649 \u0643\u0631\u064a\u0645 \u0628\u0646\u0632\u064a\u0645\u0627\u060c \u062d\u0633\u0627\u0645 \u0639\u0648\u0627\u0631\u060c \u0633\u062a\u064a\u0641\u0646 \u0628\u064a\u0631\u062c\u0648\u064a\u0646 \u0628\u0642\u064a\u0629 \u0623\u0647\u062f\u0627\u0641 \u0627\u0644\u0645\u0628\u0627\u0631\u0627\u0629 \u0641\u064a&nbsp;...",
-    "news_item_url": "https://www.youm7.com/story/2024/11/30/%D9%85%D9%84%D8%AE%D8%B5-%D9%88%D8%A3%D9%87%D8%AF%D8%A7%D9%81-%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9-%D8%A7%D9%84%D8%A7%D8%AA%D9%81%D8%A7%D9%82-%D8%B6%D8%AF-%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF-%D9%81%D9%8A-%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D9%8A-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A/6795408",
+    "news_item_snippet": "\u062d\u0627\u0641\u0638 \u0627\u0644\u0641\u0631\u064a\u0642 \u0627\u0644\u0643\u0631\u0648\u064a \u0627\u0644\u0623\u0648\u0644 \u0628\u0646\u0627\u062f\u064a \u0627\u0644\u0627\u062a\u062d\u0627\u062f\u060c \u0639\u0644\u0649 \u0635\u062f\u0627\u0631\u0629 \u062f\u0648\u0631\u064a \u0631\u0648\u0634\u0646 \u0627\u0644\u0633\u0639\u0648\u062f\u064a \u0644\u0644\u0645\u062d\u062a\u0631\u0641\u064a\u0646 \u0645\u0639 \u062e\u062a\u0627\u0645 \u0627\u0644\u062c\u0648\u0644\u0629 12\u060c \u0628\u0639\u062f \u0623\u0646 \u062a\u062c\u0627\u0648\u0632 \u0645\u0633\u062a\u0636\u064a\u0641\u064e\u0647 \u0627\u0644\u0627\u062a\u0641\u0627\u0642 \u0628\u0631\u0628\u0627\u0639\u064a\u0629 \u062f\u0648\u0646 \u0645\u0642\u0627\u0628\u0644\u060c \u0641\u064a \u0627\u0644\u0644\u0642\u0627\u0621&nbsp;...",
+    "news_item_url": "https://sabq.org/sports/zvzglpjgbi",
     "picture_source": "\u0633\u064a \u0627\u0646 \u0627\u0646 \u0627\u0644\u0639\u0631\u0628\u064a\u0629",
     "approx_traffic": "100,000+"
   },
@@ -333,11 +383,11 @@
     "country": "France",
     "title": "Paris-sg \u2013 Nantes",
     "pubDate": "Sat, 30 Nov 2024 18:00:00 +0100",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRRoB6bgAoaPvO8sJgxkAP18yfVKMc-hajbyQ8MxLX_nEG_KtXsT_qiyJ1jb_-EmlEmm2KME-Xr",
-    "news_item_snippet": "Apr\u00e8s sa d\u00e9faite \u00e0 Munich, le PSG est frein\u00e9 en L1 par un FC Nantes bien organis\u00e9 en d\u00e9fense. Surpris par Abline en contre avant la pause, les Parisiens ont&nbsp;...",
-    "news_item_url": "https://www.lequipe.fr/Football/match-direct/ligue-1/2024-2025/psg-nantes-live/655972",
-    "picture_source": "Foot Mercato",
-    "approx_traffic": "100,000+"
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSfq6CZ8MFhesVCO8krJUTYldM2fcvRxx05tWDEYC5tbkiZg1XVlwmvLoBLzVtMO6xpAO2ZsymL",
+    "news_item_snippet": "Les Nantais ont stopp\u00e9, samedi, la belle s\u00e9rie des Parisiens qui restaient sur cinq victoires cons\u00e9cutives en Ligue 1.",
+    "news_item_url": "https://www.francetvinfo.fr/sports/foot/ligue-1/direct-psg-nantes-en-difficulte-en-ligue-des-champions-les-parisiens-veulent-rester-invaincus-en-championnat-suivez-le-match-de-ligue-1_6926360.html",
+    "picture_source": "Ouest-France",
+    "approx_traffic": "200,000+"
   },
   {
     "country": "France",
@@ -383,10 +433,10 @@
     "country": "Germany",
     "title": "Bayern Dortmund",
     "pubDate": "Fri, 29 Nov 2024 23:00:00 +0100",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQog_Kkb0cMRBQvRMSwGQZYs5TuVBU-HuH5F-VZhLFgFilQ3VPeZVjckIK9uICA4LUvuCIPTte7",
-    "news_item_snippet": "Das Spiel Borussia Dortmund - Bayern M\u00fcnchen hat eine Menge geboten! Die Fans von Schwarz-Gelb waren bei einer Szene v\u00f6llig au\u00dfer sich.",
-    "news_item_url": "https://www.derwesten.de/sport/fussball/bvb/borussia-dortmund-bvb-bayern-muenchen-jablosnki-id301243854.html",
-    "picture_source": "kicker",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQtL629m4K0u56_wOKEciYdpFILpONJe_Rvhgvh3ycMcZEB-zAIn7SzApDf9EozE-uflQpV36bN",
+    "news_item_snippet": "Das 111. Bundesliga-Duell zwischen den beiden gr\u00f6\u00dften deutschen Vereinen endet 1:1. Nach F\u00fchrung von Borussia Dortmund hat sich der FC Bayern M\u00fcnchen nach der&nbsp;...",
+    "news_item_url": "https://www.kicker.de/dortmund-gegen-bayern-2024-bundesliga-4936885/ticker",
+    "picture_source": "Sportschau",
     "approx_traffic": "100,000+"
   },
   {
@@ -413,7 +463,7 @@
     "country": "Italy",
     "title": "Milan-Empoli",
     "pubDate": "Sat, 30 Nov 2024 09:00:00 +0100",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQaoHi8vPL4YL9_zWkKNdqky-5oNEf0X8Z5UG_L0r4twh6Z-_wz3yOANocotD1SrcqYwq6EBaGr",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSvPbNBmeMagNnFFIvbJpUjrMg74JlRrzYtaOTO0nJCMIr4ISpEkNNiE7-tAIix957e-H-oqmh4",
     "news_item_snippet": "Le scelte di formazione di Fonseca e D&#39;Aversa per il match delle 18.00 &middot; MILAN (4-2-3-1): Maignan; E. Royal, Gabbia, Thiaw, Hern\u00e1ndez; Fofana, Reijnders; Musah,&nbsp;...",
     "news_item_url": "https://www.acmilan.com/it/news/articoli/serie-a/2024-11-30/milan-empoli-le-formazioni-ufficiali",
     "picture_source": "Sky Sport",
@@ -421,13 +471,13 @@
   },
   {
     "country": "Italy",
-    "title": "Bologna-Venezia",
+    "title": "Bologna  Venezia",
     "pubDate": "Sat, 30 Nov 2024 20:00:00 +0100",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSVmody44WLHKl93VBOmmZt_Qbgo0FSJex5yuWdLj7PD_f-4KZkPm8UGPXgDYMRuDkSMWsxYgsW",
     "news_item_snippet": "Tre punti per il Bologna e nemmeno troppo sofferti. I ragazzi di Vincenzo Italiano dovevano gettarsi alle spalle l&#39;ennesimo ko in Champions League e sono&nbsp;...",
     "news_item_url": "https://www.rainews.it/video/2024/11/bologna---venezia-3-0-la-sintesi-della-partita-b0e5b612-327a-4f1b-8816-3689dcf868a0.html",
     "picture_source": "Sky Sport",
-    "approx_traffic": "50,000+"
+    "approx_traffic": "100,000+"
   },
   {
     "country": "Italy",
@@ -437,17 +487,17 @@
     "news_item_snippet": "Como e Monza pareggiano 1-1 allo stadio Sinigaglia. Gli azzurri passano in vantaggio con Engelhardt su assist di Goldaniga al 36&#39;, i \u201cbagai\u201d pareggiano con&nbsp;...",
     "news_item_url": "https://www.rainews.it/video/2024/11/como-monza-1-1-la-sintesi-della-partita-5e9d9aef-4685-4718-be48-8a115580e865.html",
     "picture_source": "Sky Sport",
-    "approx_traffic": "50,000+"
+    "approx_traffic": "100,000+"
   },
   {
     "country": "Mexico",
     "title": "America vs Toluca",
     "pubDate": "Sat, 30 Nov 2024 13:00:00 -0600",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTHRLZHEOshfIw0RLgXOMF3NA6zchRzoui5IZZyiATcwExjBKBZCQl9KAvIrONAA4Tu7B2jwYxN",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSYwT2NO5rezylX5bOUY9MN8Od1chxLSt4bArz87PkIqF5MfPM-eWNo6Q36xfY_h5R16bQQLcp7",
     "news_item_snippet": "Los Diablos Rojos regresan a casa para la Vuelta de los Cuartos de Final de Liga MX con la misi\u00f3n de revertir la desventaja ante las \u00c1guilas.",
     "news_item_url": "https://www.tudn.com/futbol/liga-mx/toluca-vs-america-en-vivo-cuartos-final-vuelta-liga-mx-apertura-2024-minuto-a-minuto-partido",
     "picture_source": "El Financiero",
-    "approx_traffic": "200,000+"
+    "approx_traffic": "1,000,000+"
   },
   {
     "country": "Mexico",
@@ -461,12 +511,12 @@
   },
   {
     "country": "Mexico",
-    "title": "Becas Benito juarez",
-    "pubDate": "Sat, 30 Nov 2024 03:00:00 -0600",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSK5Dg3lrxh5LNfIK2LhqHzg7gQbU4-Jm4wyci8VDgbMVLLN4cS9ZmFJ_IVPAz7Smob3K_0mpeK",
-    "news_item_snippet": "El Gobierno Federal ofrece el programa de la Beca Benito Ju\u00e1rez para apoyar a madres y padres con hijos estudiantes en las primeras etapas de la escuela.",
-    "news_item_url": "https://www.ejecentral.com.mx/nuestro-eje/beca-benito-juarez-a-este-limite-pueden-tener-becas-puedes-tus-hijos",
-    "picture_source": "Uno TV Noticias",
+    "title": "Cruz Azul  Tijuana",
+    "pubDate": "Sat, 30 Nov 2024 16:00:00 -0600",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQUZ3LLyDdFvFrhxjKKOcslQmaRpj1EADuM6hq9ycM6Cd7BSFrrzZ1OYdbDA4yaFSu-oyJDUF4M",
+    "news_item_snippet": "La M\u00e1quina deber\u00e1 remontar un marcador de tres goles en contra para instalarse en Semifinales del Apertura 2024 tras un sorpresivo Xolos en la ida de&nbsp;...",
+    "news_item_url": "https://www.tudn.com/futbol/liga-mx/horario-donde-ver-cruz-azul-vs-tijuana-partido-vuelta-cuartos-de-final",
+    "picture_source": "TUDN",
     "approx_traffic": "100,000+"
   },
   {
@@ -484,8 +534,8 @@
     "title": "Copa Libertadores",
     "pubDate": "Sat, 30 Nov 2024 10:00:00 -0600",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQlzUiUWgsEhse_zv6RMiWWkQfb_KUzBp_m80A74jF_ZdGRAwklMcNYCvDRHzQjXIwO8M1qQS2W",
-    "news_item_snippet": "El cuadro brasile\u00f1o consigui\u00f3 un triunfo hist\u00f3rico tras jugar pr\u00e1cticamente todo el partido con 10 jugadores frente al Atl\u00e9tico Mineiro en casa de River&nbsp;...",
-    "news_item_url": "https://www.tudn.com/futbol/copa-libertadores/cuantas-copa-libertadores-tiene-botafogo-historia",
+    "news_item_snippet": "El equipo carioca vence por 1-3 al tambi\u00e9n brasile\u00f1o Atl\u00e9tico Mineiro, en Argentina, tras disputar casi todo el partido con 10 futbolistas.",
+    "news_item_url": "https://elpais.com/america/2024-11-30/el-botafogo-conquista-su-primera-copa-libertadores-en-una-final-epica.html",
     "picture_source": "CNN",
     "approx_traffic": "50,000+"
   },
@@ -504,8 +554,8 @@
     "title": "Barcelona  UD Las Palmas",
     "pubDate": "Sat, 30 Nov 2024 14:00:00 +0100",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTYoRvF3B4PuzNZBdX_hno93flNflOXK-Kx_OP62gX1NsNeoad563hjS8YOY9E_w9wg0OVNwewO",
-    "news_item_snippet": "El conjunto amarillo se impuso al conjunto azulgrana en el Estadio Ol\u00edmpico Llu\u00eds Companys de Montjuic.",
-    "news_item_url": "https://www.tribunasalamanca.com/noticias/387096/la-ud-las-palmas-amarga-la-celebracion-del-125-aniversario-del-barcelona",
+    "news_item_snippet": "La UD Las Palmas consigui\u00f3 ganar al FC Barcelona en su estadio en la jornada 15\u00aa de LaLiga EA SPORTS, gracias a los tantos de Sandro Ram\u00edrez y F\u00e1bio Silva. Una&nbsp;...",
+    "news_item_url": "https://www.udlaspalmas.net/2024/11/30/video-fc-barcelona-1-2-ud-las-palmas-resumen-goles-y-ocasiones/",
     "picture_source": "Agencia EFE",
     "approx_traffic": "500,000+"
   },
@@ -513,20 +563,20 @@
     "country": "Spain",
     "title": "Valladolid  Atl\u00e9tico Madrid",
     "pubDate": "Sat, 30 Nov 2024 21:00:00 +0100",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQu47dDS4DUugmGmhAwPSzP5dZZdCp3noEqPslR_VPvlCqz1TqSCtZuPkRUlx5HNjWIGsPkRVBB",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcS9xp1d9bdPog00pfrHm2_2nXdkinNGYNWGfLTe7Lb8S-Wot9FTE52bdYN35FINGxKA285HXIJ_",
     "news_item_snippet": "Sigue en directo el partido de la decimoquinta jornada de La Liga entre el Valladolid y Atl\u00e9tico de Madrid, desde el Estadio Jos\u00e9 Zorrilla.",
     "news_item_url": "https://www.rtve.es/deportes/20241130/valladolid-atleti-directo-resumen-resultado-liga/16350312.shtml",
-    "picture_source": "Atl\u00e9tico de Madrid",
+    "picture_source": "RTVE",
     "approx_traffic": "100,000+"
   },
   {
     "country": "Spain",
     "title": "RCD Espanyol  Celta de Vigo",
     "pubDate": "Sat, 30 Nov 2024 18:00:00 +0100",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTzYerwBwY0jSP-YE5NjyAJ-P4lv0VLucvOhM19U6Tf-qL6n0QDgdUDr2Ef4XSDRDtxeByuzfrh",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcR6YxhgtmHYKOCN6XAROo2soTcm6gS1QgwpowLD1blPVHeq2b4vQP4EHoxpXlVM45if25l5myRq",
     "news_item_snippet": "La alineaci\u00f3n confirmada del RCD Espanyol y Celta de Vigo en la jornada 15 de LaLiga EA Sports en el RCD Stadium.",
     "news_item_url": "https://www.eldesmarque.com/futbol/liga-1a-division/20241130/alineacion-confirmada-espanyol-celta-vigo_300517239.html",
-    "picture_source": "Mundo Deportivo",
+    "picture_source": "estadiodeportivo.com",
     "approx_traffic": "50,000+"
   },
   {
@@ -544,8 +594,8 @@
     "title": "St Andrew's Day",
     "pubDate": "Sat, 30 Nov 2024 01:00:00 +0000",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSo1E9YFGD2SZ49Cj4z6mu0ELp9RYI5hdrpjVWov1ALLd1aDdZF88p7x7ubu9IXczfYKaKREP6g",
-    "news_item_snippet": "November 30, 2007 - Tartan-clad kids and staff at a Greenock centre celebrated St Andrew&#39;s Day with international flair.",
-    "news_item_url": "https://www.greenocktelegraph.co.uk/news/24751072.archives-st-andrews-day-celebrations-larkfield/",
+    "news_item_snippet": "The letter dates from 1300 and was written by the King of France in support of the Scottish independence leader.",
+    "news_item_url": "https://www.richmondandtwickenhamtimes.co.uk/news/national/24762982.historic-letter-urging-support-william-wallace-displayed-st-andrews-day/",
     "picture_source": "Greenock Telegraph",
     "approx_traffic": "1,000,000+"
   },
@@ -554,7 +604,7 @@
     "title": "West Ham vs Arsenal",
     "pubDate": "Sat, 30 Nov 2024 17:00:00 +0000",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSjYuw0xoy_7WN23bywtPdy-7Ro2hKW-bJNmiy75JfxZiRn0liFYFfOph_iw0_EMIfX5nVXchbR",
-    "news_item_snippet": "Live score as Arsenal travel across London to take on West Ham in the Premier League.",
+    "news_item_snippet": "The Gunners started off brilliantly, with a Gabriel header opening the scoring before a sublime team move put them 2-0 up.",
     "news_item_url": "https://www.independent.co.uk/sport/football/west-ham-arsenal-live-stream-score-result-b2655909.html",
     "picture_source": "Arsenal.com",
     "approx_traffic": "100,000+"
@@ -574,8 +624,8 @@
     "title": "Crystal Palace vs Newcastle",
     "pubDate": "Sat, 30 Nov 2024 15:00:00 +0000",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcScdyWn2IbsypIdQz0x5rnuaZ1lVVIUh3aM3yLLALuvgCNwmJiXpAWtJpJBWOBENVpqDde9c-HI",
-    "news_item_snippet": "Daniel Mu\u00f1oz&#39;s towering header deep into injury-time \u2013 the Colombian&#39;s first goal for the club \u2013 earned Palace a fully-deserved point against Newcastle&nbsp;...",
-    "news_item_url": "https://www.cpfc.co.uk/news/match-reports/live-blog-report-highlights-crystal-palace-newcastle-united-november-2024/",
+    "news_item_snippet": "The likes of Arsenal and Liverpool will be chasing Pep Guardiola&#39;s side, but just as fascinating will be the race for Champions League places, with more teams&nbsp;...",
+    "news_item_url": "https://sports.yahoo.com/crystal-palace-vs-newcastle-united-130023978.html",
     "picture_source": "Sky Sports",
     "approx_traffic": "50,000+"
   },
@@ -584,8 +634,8 @@
     "title": "Barcelona vs Las Palmas",
     "pubDate": "Sat, 30 Nov 2024 13:00:00 +0000",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRdpO_7V3oWGSl5skx3blQwf_VdybSk9Jxd1yTIZVDDMihKs4jgeHylB9z9rxBnhh9Ht56DQHTG",
-    "news_item_snippet": "A win for Barca could see them reopen a seven-point lead at the top of the Spanish Primera.",
-    "news_item_url": "https://www.cnet.com/tech/services-and-software/la-liga-soccer-livestream-how-to-watch-barcelona-vs-las-palmas-from-anywhere/",
+    "news_item_snippet": "Expert recap and game analysis of the Las Palmas vs. Barcelona Spanish Laliga game from 30 November 2024 on ESPN (UK).",
+    "news_item_url": "https://www.espn.co.uk/football/report/_/gameId/704801",
     "picture_source": "Barca Blaugranes",
     "approx_traffic": "50,000+"
   }
