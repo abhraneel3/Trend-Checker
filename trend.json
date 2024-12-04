@@ -1,6 +1,16 @@
 [
   {
     "country": "United States",
+    "title": "Brian Thompson",
+    "pubDate": "Wed, 04 Dec 2024 07:00:00 -0800",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRxee9tThTNPZ87Z8APL7jRMazNfxsk8PI7_puj0L1dNF5G-_6qs_6Ihw8ICc6rWipeekmxrBNW",
+    "news_item_snippet": "The 50-year-old CEO was fatally shot outside a Hilton hotel Wednesday morning, according to multiple reports. Here&#39;s what we know about him.",
+    "news_item_url": "https://www.usatoday.com/story/money/2024/12/04/who-is-brian-thompson-unitedhealthcare-ceo-shot/76763536007/",
+    "picture_source": "Healthcare Dive",
+    "approx_traffic": "1,000,000+"
+  },
+  {
+    "country": "United States",
     "title": "Pete Hegseth",
     "pubDate": "Wed, 04 Dec 2024 02:00:00 -0800",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQ446o_ECc_aZCv_9E5RAEIKTwKUlOZ3dagj54QRWEr9dVmQ4Z0lHwSvLBtnCPTI0bj1q3quOHD",
@@ -11,20 +21,10 @@
   },
   {
     "country": "United States",
-    "title": "UnitedHealthcare",
-    "pubDate": "Wed, 04 Dec 2024 07:00:00 -0800",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTc_H4ffoxLXZpK7J-12egA199FJ0Vdtim3HxtoPrkdgFeiudaLitKW8aQY7f6DwHENx0C-P-oJ",
-    "news_item_snippet": "The NYPD confirmed the shooting, which cut UnitedHealth&#39;s investor conference short on Wednesday morning, though not Thompson&#39;s identity.",
-    "news_item_url": "https://www.healthcaredive.com/news/unitedhealthcare-ceo-brian-thompson-fatally-shot-nyc/734557/",
-    "picture_source": "Reuters",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Lake-effect snow warning",
+    "title": "Lake Effect Snow Warning",
     "pubDate": "Wed, 04 Dec 2024 03:00:00 -0800",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRcZoyER4vKjiMWqpDwViAZJE3e8jNbiUy-IZC-BNn7DDuH_FJ0LV2gbKbS_WYAItc0G5RoF_OU",
-    "news_item_snippet": "Northern communities along the snowbelt are still digging out after multiple days of lake-effect snow. Now, more lake-effect snow is on the way as well as a&nbsp;...",
+    "news_item_snippet": "We&#39;re tracking a clipper system, most of today will be dry cloudy skies before it moves in. Temperatures will be in the mid 30s but gusty. Winds will gust up to&nbsp;...",
     "news_item_url": "https://fox8.com/weather/lake-effect-snow-warning-see-how-far-south-snow-will-reach/",
     "picture_source": "GoErie.com",
     "approx_traffic": "100,000+"
@@ -41,17 +41,27 @@
   },
   {
     "country": "United States",
+    "title": "Spotify Wrapped 2024",
+    "pubDate": "Tue, 03 Dec 2024 21:00:00 -0800",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSvv983JX_Y433ZgNWWhhFuL9FkeW80ZERTwmmimWgNNMS36FJ0WzD5prWyUIdlRqKH9VsVOE3m",
+    "news_item_snippet": "Spotify Wrapped \u2014 the platform&#39;s personalized end-of-year user streaming data\u2013 is here, and with it comes the flood of social media posts from listeners.",
+    "news_item_url": "https://www.nbcnews.com/pop-culture/spotify-wrapped-2024-new-features-what-to-know-rcna182702",
+    "picture_source": "spotify.com",
+    "approx_traffic": "1,000,000+"
+  },
+  {
+    "country": "United States",
     "title": "Apple Music Replay",
     "pubDate": "Tue, 03 Dec 2024 09:00:00 -0800",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcR5jcMCeVvHSxYZvWhYzY8Bqc0ufJ4IMn2vDf_xV62k948Nfzv1ooVUepV9R6ooC-539yXFZZ12",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTdPHPfF47n-vYxTJoiicem_xPODZZSsOmPt57G55IwCetXhuel3UjtpMwP6yVfsxGWL87pRq79",
     "news_item_snippet": "How to see Apple Music Replay: Get ready to press rewind on your favorite music this year, because Apple Music&#39;s 2024 Replay dropped Dec. 3.",
     "news_item_url": "https://www.today.com/popculture/music/how-to-find-apple-music-replay-2024-rcna182410",
-    "picture_source": "News 5 Cleveland",
+    "picture_source": "TeenVogue.com",
     "approx_traffic": "500,000+"
   },
   {
     "country": "United States",
-    "title": "Cfp rankings",
+    "title": "CFP rankings",
     "pubDate": "Tue, 03 Dec 2024 17:00:00 -0800",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRQ-Cv8VN7yrV01JgLqc4GNqhFWqe5ebnseGQWDdj6RwwanfjgSnkzsYbEj8quAacFoyXxywtnQ",
     "news_item_snippet": "A first look at the new bracket based on the College Football Playoff committee&#39;s penultimate set of rankings.",
@@ -100,56 +110,6 @@
     "approx_traffic": "100,000+"
   },
   {
-    "country": "United States",
-    "title": "Asteroid hitting Earth",
-    "pubDate": "Tue, 03 Dec 2024 14:00:00 -0800",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRdadvJ-Bx92aW5adfGD4_7M3yYsWaIYfnKldEf_hMkzt68xyf6O1gi-AOs1D7IvOkxfba0m5lx",
-    "news_item_snippet": "The asteroid entered Earth&#39;s atmosphere at 11:15 a.m. ET over Yakutia in northeastern Siberia, creating a massive fireball.",
-    "news_item_url": "https://abcnews.go.com/International/asteroid-creates-fireball-siberia-larger-version/story?id=116422005",
-    "picture_source": "Pensacola News Journal",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Kendrick Lamar Tour 2025",
-    "pubDate": "Tue, 03 Dec 2024 12:00:00 -0800",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQqbqNySwKfRavf7aTwinJCJ0YeTtmDUM4mfrO78onP4nwm-EbF_f_oOf3TAmfORwjiTQ5ooNQn",
-    "news_item_snippet": "Kendrick Lamar and SZA will take over 19 stadiums across North America for the Grand National Tour, presented by Live Nation, pgLang and Top Dawg&nbsp;...",
-    "news_item_url": "https://www.livenationentertainment.com/2024/12/kendrick-lamar-and-sza-to-hit-stadiums-on-the-2025-north-american-grand-national-tour/",
-    "picture_source": "SoFi Stadium",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Knicks",
-    "pubDate": "Tue, 03 Dec 2024 22:00:00 -0800",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSZ4w3QAywpcP4JXQui2Kp4rI-BEyyYEI0dHfGPRDc7tAXI7vrKLyzOmNPnkZ_u-X9PA5dR1CeCZA",
-    "news_item_snippet": "The Orlando Magic are set to take the floor in one of most highly anticipated NBA Cup group play contests in the competition&#39;s history when they face the&nbsp;...",
-    "news_item_url": "https://www.nba.com/magic/news/orlando-magic-new-york-knicks-game-preview-nba-cup-injury-report-20241203",
-    "picture_source": "ESPN",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
-    "title": "O.J. Simpson",
-    "pubDate": "Tue, 03 Dec 2024 16:00:00 -0800",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTxmrroMJDYFgU16HuSH3g036FsZio9B7DgZZ_Ieifxy5sH5mSCpUxwq9qDMPsFXqvFudY-0b9f",
-    "news_item_snippet": "There was allegedly no evidence of Simpson in the recordings and that it was mostly just audio of Iroc Avelli, Simpson&#39;s former bodyguard, speaking to himself.",
-    "news_item_url": "https://www.fox7austin.com/news/oj-simpson-supposedly-confessed-murders-recording-tmz-reports-2024",
-    "picture_source": "FOX 9",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Hannah Kobayashi update",
-    "pubDate": "Tue, 03 Dec 2024 11:00:00 -0800",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcR7gjfG_MFJG1PUmHVmDTAXBGX0P4GL0hKWUHJnNXj44MHK4YGY7TBeJ-qgvlDOp33-7_vndnlE",
-    "news_item_snippet": "The highly publicized missing person case of Hannah Kobayashi came to a screeching halt Monday when police said she voluntarily entered Mexico.",
-    "news_item_url": "https://www.usatoday.com/story/news/nation/2024/12/03/hannah-kobayashi-missing-person-case-update/76727694007/",
-    "picture_source": "NBC News",
-    "approx_traffic": "50,000+"
-  },
-  {
     "country": "India",
     "title": "Earthquake in Hyderabad",
     "pubDate": "Wed, 04 Dec 2024 10:30:00 +0530",
@@ -157,16 +117,6 @@
     "news_item_snippet": "An earthquake measuring 5.3 on the Richter scale strikes Mulugu district in Telangana, causing tremors across multiple regions including Hyderabad. Th.",
     "news_item_url": "https://timesofindia.indiatimes.com/city/hyderabad/earthquake-of-5-3-magnitude-hits-telanganas-mulugu-tremors-felt-in-multiple-districts/articleshow/115957324.cms",
     "picture_source": "Livemint",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "India",
-    "title": "Barcelona",
-    "pubDate": "Wed, 04 Dec 2024 00:30:00 +0530",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRFV4RSsYiuCLIAoMnj5GJIcDJSpaeimrHxGP1vZpcao_zUndKQQyJFW9BlKUsuL6ujhK7MXFVG",
-    "news_item_snippet": "FC Barcelona youngster Lamine Yamal helped his team turn around their form in the LaLiga. Barcelona broke their 3-match winless run and slammed 5 goals&nbsp;...",
-    "news_item_url": "https://www.indiatoday.in/sports/football/story/lamine-yamal-inspired-fc-barcelona-vs-mallorca-comeback-laliga-hansi-flick-2644872-2024-12-04",
-    "picture_source": "Business Standard",
     "approx_traffic": "50,000+"
   },
   {
@@ -181,6 +131,26 @@
   },
   {
     "country": "India",
+    "title": "Barcelona",
+    "pubDate": "Wed, 04 Dec 2024 00:30:00 +0530",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRFV4RSsYiuCLIAoMnj5GJIcDJSpaeimrHxGP1vZpcao_zUndKQQyJFW9BlKUsuL6ujhK7MXFVG",
+    "news_item_snippet": "FC Barcelona youngster Lamine Yamal helped his team turn around their form in the LaLiga. Barcelona broke their 3-match winless run and slammed 5 goals&nbsp;...",
+    "news_item_url": "https://www.indiatoday.in/sports/football/story/lamine-yamal-inspired-fc-barcelona-vs-mallorca-comeback-laliga-hansi-flick-2644872-2024-12-04",
+    "picture_source": "Business Standard",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "India",
+    "title": "Navy Day",
+    "pubDate": "Wed, 04 Dec 2024 09:30:00 +0530",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRU-z_3GwZdhsn0ToIVtIc09yYGLYrLFvaSp_DvUms-qmZB6ECOK4HqFS8r94RTqYvePuKloRyg",
+    "news_item_snippet": "Celebrate Indian Navy Day 2024 with key highlights, naval parades, new ships and submarines, and a focus on innovation and self-reliance.",
+    "news_item_url": "https://www.jagranjosh.com/general-knowledge/indian-navy-day-2024-1733301544-1",
+    "picture_source": "The Indian Express",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "India",
     "title": "Sukhbir Badal",
     "pubDate": "Wed, 04 Dec 2024 08:30:00 +0530",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRYk-M3npHOGkB8WlBwkeE2wzYhp9Szh-UFJ8fcsgIU_c1K6HI2PadqZupQEoTN1CpYcWcfPSxA",
@@ -191,11 +161,21 @@
   },
   {
     "country": "India",
+    "title": "Pushpa 2 review",
+    "pubDate": "Wed, 04 Dec 2024 08:30:00 +0530",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcT0mwvjIr8V1Z9pIdKvAs1AwFtvgmNVSTpGKliR_jXm0jld72TWXKWsOqSrrZz9WdxuhVzWPKwc",
+    "news_item_snippet": "Live Blog Description: Pushpa 2: The Rule Gears Up for Release&#39;Pushpa 2: The Rule&#39;, the highly anticipated sequel to Allu Arjun&#39;s 2021 blockbuster &#39;P.",
+    "news_item_url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/pushpa-2-movie-review-and-release-live-updates-pushpa-2-allu-arjun-rashmika-mandanna-fahadh-faasil-pushpa-2-the-rule-review/liveblog/115964499.cms",
+    "picture_source": "Hindustan Times",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "India",
     "title": "South Korea",
     "pubDate": "Tue, 03 Dec 2024 20:30:00 +0530",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcST91RUMEsXVdb9OZQCoX5xqIQ53MEJr9eN-XP6NauygtRzJku-GtVsE2m7ajlWTHy9a8ebSF4j",
-    "news_item_snippet": "South Korean President Yoon Suk Yeol announced the first martial law in over 40 years, reversing it hours later following a Parliamentary vote.",
-    "news_item_url": "https://www.business-standard.com/world-news/south-korea-s-midnight-martial-law-a-dramatic-move-reversed-in-hours-124120400183_1.html",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQsBSmlocn_xBgFNXOfse2hlsGJm-svfZtKyydksyqRDCT75muDP36t-jz_FouFZQV4tbgbBgs5",
+    "news_item_snippet": "South Korean stocks plummet as President Yoon declares martial law, causing political turmoil and economic uncertainty in Asia.",
+    "news_item_url": "https://www.thehindu.com/business/markets/seoul-stocks-sink-amid-south-korea-drama-as-asian-markets-mixed/article68946126.ece",
     "picture_source": "BBC News",
     "approx_traffic": "100,000+"
   },
@@ -210,13 +190,13 @@
     "approx_traffic": "100,000+"
   },
   {
-    "country": "India",
-    "title": "Syed Mushtaq Ali Trophy",
-    "pubDate": "Tue, 03 Dec 2024 20:30:00 +0530",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRWwnbPs_cG8W979X1kpDIPWy1TGYuavQSjcP_AktBjX1mpn8WIEQoV2x-qilK6icCLDHQQj64v",
-    "news_item_snippet": "\u0c05\u0c30\u0c4d\u0c1c\u0c41\u0c28\u0c4d \u0c1f\u0c46\u0c02\u0c21\u0c42\u0c32\u0c4d\u0c15\u0c30\u0c4d \u0c38\u0c2f\u0c4d\u0c2f\u0c26\u0c4d \u0c2e\u0c41\u0c38\u0c4d\u0c24\u0c3e\u0c15\u0c4d \u0c05\u0c32\u0c40 \u0c1f\u0c4d\u0c30\u0c4b\u0c2b\u0c40\u0c32\u0c4b \u0c17\u0c4b\u0c35\u0c3e \u0c1c\u0c1f\u0c4d\u0c1f\u0c41\u0c32\u0c4b \u0c24\u0c28 \u0c38\u0c4d\u0c25\u0c3e\u0c28\u0c3e\u0c28\u0c4d\u0c28\u0c3f \u0c15\u0c4b\u0c32\u0c4d\u0c2a\u0c4b\u0c2f\u0c3e\u0c21\u0c41. \u0c35\u0c30\u0c41\u0c38 \u0c35\u0c48\u0c2b\u0c32\u0c4d\u0c2f\u0c3e\u0c32\u0c41, \u0c2e\u0c41\u0c16\u0c4d\u0c2f\u0c02\u0c17\u0c3e \u0c2c\u0c4c\u0c32\u0c3f\u0c02\u0c17\u0c4d, \u0c2c\u0c4d\u0c2f\u0c3e\u0c1f\u0c3f\u0c02\u0c17\u0c4d\u200c\u0c32\u0c4b \u0c2e\u0c46\u0c30\u0c41\u0c17\u0c48\u0c28&nbsp;...",
-    "news_item_url": "https://tv9telugu.com/sports/cricket-news/sachins-son-arjun-tendulkar-faces-tough-times-dropped-amidst-criticism-1414153.html",
-    "picture_source": "Rajasthan Royals",
+    "country": "Argentina",
+    "title": "Spotify Wrapped",
+    "pubDate": "Wed, 04 Dec 2024 11:00:00 -0300",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRExHjAzs429JU4W7juSgQl4vhXMcSAZLkOCatYFraPqPAm_YkJ83yV7HTmKc8gsXRT2GCwehMz",
+    "news_item_snippet": "Ya est\u00e1 disponible el Spotify Wrapped 2024. El servicio de streaming ha lanzado su resumen anual con las estad\u00edsticas de lo que m\u00e1s has escuchado en la...",
+    "news_item_url": "https://www.xataka.com/basics/spotify-wrapped-2024-como-ver-tu-resumen-tus-estadisticas-artistas-canciones-escuchadas-ano",
+    "picture_source": "Infobae.com",
     "approx_traffic": "50,000+"
   },
   {
@@ -233,10 +213,10 @@
     "country": "Argentina",
     "title": "Ley marcial",
     "pubDate": "Tue, 03 Dec 2024 13:00:00 -0300",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQpK-fhpnhm2RvxCki1QmPjcCRmJPmAcXG-c1HaJaW_MOyRhtiD9EvKV5RDGY_nP0e-2qdyA5q7",
-    "news_item_snippet": "El presidente de Corea del Sur, Yoon Suk Yeol, declar\u00f3 este martes la ley marcial en un discurso sorpresa pronunciado a altas horas de la noche.",
-    "news_item_url": "https://cnnespanol.cnn.com/2024/12/04/corea-sur-declaracion-ley-marcial-en-vivo/",
-    "picture_source": "elDiarioAR.com",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSvOPzoj_exf2jpW26PIsEkT16BSm1HNiOgPcmFIKebRqoxVtq-zbzC7TnK5TBiqIUFV5MDYfSJ",
+    "news_item_snippet": "El presidente de Corea del Sur, Yoon Suk-yeol, declar\u00f3 el martes la ley marcial, tildando a la oposici\u00f3n de \u201cfuerzas antiestatales\u201d que amenazan la&nbsp;...",
+    "news_item_url": "https://www.eldiarioar.com/mundo/the-guardian/caos-corea-sur-ley-marcial-pasa-ahora-marcha-yoon-suk-yeol_1_11874748.html",
+    "picture_source": "CNN",
     "approx_traffic": "50,000+"
   },
   {
@@ -254,8 +234,8 @@
     "title": "South Korea",
     "pubDate": "Wed, 04 Dec 2024 02:00:00 +1100",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSYj_bLq-L7HAV1Nk8A1keoun9Arn5Yb6afgRLqUsOs9_S1oTPvpnon8fCDWONRwKViA4xxgqon",
-    "news_item_snippet": "President Yoon Suk Yeol&#39;s surprise declaration of martial law triggered a political crisis in South Korea.",
-    "news_item_url": "https://www.sbs.com.au/news/article/how-south-koreas-martial-law-chaos-unfolded-and-what-could-happen-next/grhkt67md",
+    "news_item_snippet": "A recap of a dramatic night that saw South Koreans rush to overturn the president&#39;s shock martial law order.",
+    "news_item_url": "https://www.bbc.com/news/articles/c98lygwd837o",
     "picture_source": "The Interpreter",
     "approx_traffic": "200,000+"
   },
@@ -324,8 +304,8 @@
     "title": "Leicester City x West Ham",
     "pubDate": "Tue, 03 Dec 2024 15:00:00 -0500",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcS9uyQql3V39UI5XaI2oG_XpSMo3Su2Nl0vizzijJIUWF54roun5jltQLKO3ni354ySGvedWawc",
-    "news_item_snippet": "Saiba tudo sobre o jogo Leicester 3 x 1 West Ham (Premier League, Rodada 14): placar, escala\u00e7\u00e3o, fotos, gols e lances da partida.",
-    "news_item_url": "https://ge.globo.com/futebol/futebol-internacional/futebol-ingles/jogo/03-12-2024/leicester-west-ham.ghtml",
+    "news_item_snippet": "A era de Ruud van Nistelrooy no Leicester come\u00e7ou com o p\u00e9 direito. Nesta ter\u00e7a-feira (3), os Foxes venceram o West Ham por 3 a 1, em partida v\u00e1lida pela&nbsp;...",
+    "news_item_url": "https://www.terra.com.br/esportes/futebol/internacional/premier-league-leicester-vence-west-ham-na-estreia-do-tecnico-van-nistelrooy,d45f61b56ef7e4008f9def1d359fbef8ma51p8ek.html",
     "picture_source": "Gizmodo Brasil",
     "approx_traffic": "50,000+"
   },
@@ -333,9 +313,9 @@
     "country": "Canada",
     "title": "South Korea",
     "pubDate": "Tue, 03 Dec 2024 10:00:00 -0500",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcST91RUMEsXVdb9OZQCoX5xqIQ53MEJr9eN-XP6NauygtRzJku-GtVsE2m7ajlWTHy9a8ebSF4j",
-    "news_item_snippet": "Opposition parties have filed a motion to impeach President Yoon Suk Yeol and plans for rallies in major cities are underway.",
-    "news_item_url": "https://www.npr.org/2024/12/04/g-s1-36730/south-korea-president-martial-law",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQsBSmlocn_xBgFNXOfse2hlsGJm-svfZtKyydksyqRDCT75muDP36t-jz_FouFZQV4tbgbBgs5",
+    "news_item_snippet": "Global Affairs Canada is warning Canadians in South Korea to avoid demonstrations and exercise caution after the country&#39;s president imposed an hours-long&nbsp;...",
+    "news_item_url": "https://discoverhumboldt.com/articles/canadians-warned-to-use-caution-in-south-korea-after-martial-law-declared-then-lifted",
     "picture_source": "BBC News",
     "approx_traffic": "200,000+"
   },
@@ -344,8 +324,8 @@
     "title": "Spotify Wrapped 2024",
     "pubDate": "Tue, 03 Dec 2024 22:00:00 -0500",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSvv983JX_Y433ZgNWWhhFuL9FkeW80ZERTwmmimWgNNMS36FJ0WzD5prWyUIdlRqKH9VsVOE3m",
-    "news_item_snippet": "Spotify Wrapped \u2014 the platform&#39;s personalized end-of-year user streaming data\u2013 is here, and with it comes the flood of social media posts from listeners.",
-    "news_item_url": "https://www.nbcnews.com/pop-culture/spotify-wrapped-2024-new-features-what-to-know-rcna182702",
+    "news_item_snippet": "RELATED LINKS &middot; 1. Taylor Swift &middot; 2. Drake &middot; 3. Zach Bryan &middot; 4. Morgan Wallen &middot; 5. Travis Scott &middot; 6. Kanye West &middot; 7. The Weeknd &middot; 8. Future.",
+    "news_item_url": "https://www.ctvnews.ca/entertainment/these-are-canada-s-favourite-musicians-according-to-spotify-wrapped-2024-1.7133321",
     "picture_source": "spotify.com",
     "approx_traffic": "100,000+"
   },
@@ -353,10 +333,10 @@
     "country": "South Korea",
     "title": "\ud658\uc728",
     "pubDate": "Wed, 04 Dec 2024 00:00:00 +0900",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTSy2UHrweLf_mv2hpmOG1WXmlxvcZ14ShDQJBtQhHl9JX_gfCZtEqncOlkt99q_SFojKm9zSIS",
-    "news_item_snippet": "&#39;12\u00b73 \ube44\uc0c1\uacc4\uc5c4 \uc0ac\ud0dc&#39;\ub85c \uad6d\ub0b4 \uae08\uc735\uc2dc\uc7a5\ub3c4 \ud06c\uac8c \ucd9c\ub801\uc600\ub2e4. \uac04\ubc24 \ube44\uc0c1\uacc4\uc5c4 \uc120\ud3ec \uc9c1\ud6c4 \ub098\ud0c0\ub09c \ud658\uc728 \ubc0f \uac00\uc0c1\uc790\uc0b0 \uac00\uaca9 \uae09\ub4f1\ub77d\uc740 \uacc4\uc5c4 \ud574\uc81c\uc640 \uae08\uc735\ub2f9\uad6d\uc758 \uc2dc\uc7a5 \uc548\uc815\ud654 \uc870\uce58&nbsp;...",
-    "news_item_url": "https://www.khan.co.kr/article/202412042040035",
-    "picture_source": "\uc870\uc120\ube44\uc988",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQZ6SmWBRJhRlFSLgk8PuoQdskOW2QL698aHygahusFPH9BYagPXaKoLae8w97Qr9MGOs7AHe2k",
+    "news_item_snippet": "\uae08\uc735\u00b7\uc678\ud658\ub2f9\uad6d \ub300\uc751\uc5d0 1418.1\uc6d0 \uac1c\uc7a5 \ud6c4 \ud558\ub77d 50\uc870\uc6d0 \ucc44\uc548\u00b7\uc99d\uc548\ud380\ub4dc, \ube44\uc815\ub840 RP\ub9e4\uc785 \ub4f1 \uc2e4\uc2dc \u201c\uc815\uad6d \ubd88\uc548 \ud655\ub300\uc2dc \uad6d\uace0\ucc44 \ub4f1 \uc6d0\ud654\uc790\uc0b0 \ud22c\uc2ec \uc57d\ud654\u201d.",
+    "news_item_url": "https://biz.chosun.com/policy/policy_sub/2024/12/04/CQDR7BFMZZBFZE2QDFRFDBZHTA/",
+    "picture_source": "\ud5ec\ub85c\ud2f0",
     "approx_traffic": "200,000+"
   },
   {
@@ -371,12 +351,32 @@
   },
   {
     "country": "South Korea",
-    "title": "\uacc4\uc5c4\uc0ac\ub839\ubd80 \ud3ec\uace0\ub839",
+    "title": "\ud3ec\uace0\ub839",
     "pubDate": "Wed, 04 Dec 2024 00:00:00 +0900",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTsO7PgNiw1tOZw5f4xhqWyyRNg9u5q_dAMvNDfO35TyQJ2QnHml4u5u8RAh8Ttx-76u3-jk6tA",
-    "news_item_snippet": "155\ubd84 \ub9cc\uc5d0 \uc9c4\uc555\ub41c \uc724\uc11d\uc5f4 \ub300\ud1b5\ub839\uc758 &#39;\ube44\uc0c1\uacc4\uc5c4 \uc0ac\ud0dc&#39; \uacfc\uc815\uc5d0\uc11c \uacc4\uc5c4\uc0ac\ub839\ubd80\uac00 \ub0b8 \ud3ec\uace0\ub839 \ub0b4\uc6a9\uc744 \ub450\uace0\ub3c4 \uacf5\ubd84\uc774 \uc77c\uace0 \uc788\uc2b5\ub2c8\ub2e4. \uacc4\uc5c4\uc0ac\ub839\ubd80\ub294 \uc5b4\uc82f\ubc24 11\uc2dc\ub97c \uae30\ud574 &quot;\uc790\uc720&nbsp;...",
-    "news_item_url": "https://imnews.imbc.com/news/2024/politics/article/6663166_36431.html",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTjZx8EhwYIWN_sqbsmbqB8Cq9SKYZOwPtugY5qzfcLWQ9P3QPTwUXoYEDK0uaHKoMsQyLQ3PKn",
+    "news_item_snippet": "\ud3ec\uace0\ub839, 10\u00b726 \ub54c\ub3c4 \uc5c6\ub358 \uad6d\ud68c\u00b7\uc815\ub2f9 \ud65c\ub3d9 \uae08\uc9c0 \ub2f4\uaca8 \ube44\uc0c1\uacc4\uc5c4 \ud30c\ub3d9 \uad70\uc0ac\uc815\uad8c \ub54c\ubcf4\ub2e4 \uae30\ubcf8\uad8c \uc81c\ud55c \ub17c\ub780 \uc724\uc11d\uc5f4 \ub300\ud1b5\ub839\uc774 3\uc77c \ubc24 \ube44\uc0c1\uacc4\uc5c4\uc744 \uc120\ud3ec\ud55c \ud6c4 \uacc4\uc5c4\uc0ac\ub839\ubd80\uac00&nbsp;...",
+    "news_item_url": "https://www.chosun.com/politics/politics_general/2024/12/05/55AVRY5P2FDABLKXLBQWOCFWLA/",
+    "picture_source": "MBC\ub274\uc2a4",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "South Korea",
+    "title": "\ud734\uad50",
+    "pubDate": "Wed, 04 Dec 2024 00:00:00 +0900",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRNYALBDCB0-gj3VHN7t1mx-2CZOu57ulKUcJa4v6NPC1Pro71y4xr2I4du5a9jePA30V5vIlfr",
+    "news_item_snippet": "\uc724\uc11d\uc5f4 \ub300\ud1b5\ub839\uc774 3\uc77c \ubc24 \uae34\uae09 \ub2f4\ud654\ub97c \ud1b5\ud574 \ube44\uc0c1\uacc4\uc5c4\uc744 \uc120\ud3ec\ud558\uba74\uc11c, \ub2f9\uc7a5 4\uc77c \ub4f1\uad50 \uc5ec\ubd80\ub97c \ub450\uace0 \uad50\uc721\ubd80\uc640 \uc2dc\uad50\uc721\uccad\uc774 \uc785\uc7a5\uc774 \ub2ec\ub9ac\ud558\ub294 \ub4f1 \ud63c\ub780\uc774 \uc77c\uace0 \uc788\ub2e4.",
+    "news_item_url": "https://www.hani.co.kr/arti/society/schooling/1170617.html",
     "picture_source": "\ud55c\uaca8\ub808",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Saudi Arabia",
+    "title": "\u0627\u0644\u0647\u0644\u0627\u0644 \u0636\u062f \u0627\u0644\u063a\u0631\u0627\u0641\u0629",
+    "pubDate": "Tue, 03 Dec 2024 16:00:00 +0300",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcS-6V9UB2UdRrQ2lKk_Zpjo8rKP2H821GOgpp6o7s-Q7WEliUQI_n33Bs8D3OAtxGKC5gLgJKAK",
+    "news_item_snippet": "\u062d\u0642\u0642 \u0641\u0631\u064a\u0642 \u0627\u0644\u0647\u0644\u0627\u0644 \u0627\u0644\u0633\u0639\u0648\u062f\u064a \u0641\u0648\u0632\u064b\u0627 \u0645\u0633\u062a\u062d\u0642\u064b\u0627 \u0639\u0644\u0649 \u062d\u0633\u0627\u0628 \u0646\u0638\u064a\u0631\u0647 \u0627\u0644\u063a\u0631\u0627\u0641\u0629 \u0627\u0644\u0642\u0637\u0631\u064a \u0628\u0646\u062a\u064a\u062c\u0629 3-0 \u0641\u064a \u0627\u0644\u0645\u0628\u0627\u0631\u0627\u0629 \u0627\u0644\u062a\u064a \u0623\u0642\u064a\u0645\u062a \u0628\u064a\u0646\u0647\u0645\u0627 \u0645\u0633\u0627\u0621 \u0627\u0644\u064a\u0648\u0645 \u0627\u0644\u062b\u0644\u0627\u062b\u0627\u0621 \u0639\u0644\u0649 \u0645\u0644\u0639\u0628 \u0627\u0633\u062a\u0627\u062f \u0627\u0644\u0645\u0645\u0644\u0643\u0629 \u0622\u0631\u064a\u0646\u0627&nbsp;...",
+    "news_item_url": "https://www.youm7.com/story/2024/12/3/%D9%85%D9%84%D8%AE%D8%B5-%D9%88%D8%A3%D9%87%D8%AF%D8%A7%D9%81-%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9-%D8%A7%D9%84%D9%87%D9%84%D8%A7%D9%84-%D8%B6%D8%AF-%D8%A7%D9%84%D8%BA%D8%B1%D8%A7%D9%81%D8%A9-3-0-%D9%81%D9%89-%D8%AF%D9%88%D8%B1%D9%89/6799269",
+    "picture_source": "\u0627\u0644\u062c\u0632\u064a\u0631\u0629 \u0646\u062a",
     "approx_traffic": "50,000+"
   },
   {
@@ -393,10 +393,20 @@
     "country": "France",
     "title": "Koh-Lanta",
     "pubDate": "Wed, 04 Dec 2024 02:00:00 +0100",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTvl_9lzZ_7BLD3BjftybtLZhxYnADq3vovkCtK_BrvXlXRapUFOMNsjMbKTy6DCoAM3L3W9Xyf",
-    "news_item_snippet": "\u00c0 l&#39;issue de la finale du jeu de survie diffus\u00e9e en direct sur TF1 ce mardi 3 d\u00e9cembre 2024, c&#39;est Thibault qui a remport\u00e9 cette \u00e9dition de \u00ab Koh-Lanta&nbsp;...",
-    "news_item_url": "https://www.ouest-france.fr/medias/television/koh-lanta/koh-lanta-thibault-gagnant-de-la-tribu-maudite-on-vous-resume-la-finale-7515417e-b0a0-11ef-bb0b-2fe80bd2ed0f",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSMkVwosxqYJjloS6X2g_JO-XFh0h9I2COnw01WOmHMMSJXOmteLU5191y2QpbN2Nt3RPLq9R3X",
+    "news_item_snippet": "Au micro de Sud Radio le mercredi 4 d\u00e9cembre 2024, Thibault, qui a remport\u00e9 100 000 euros apr\u00e8s avoir gagn\u00e9 Koh-Lanta : la tribu maudite, a fait savoir&nbsp;...",
+    "news_item_url": "https://www.allocine.fr/tvactu/articles/article-1000117357.html",
     "picture_source": "Ouest-France",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "France",
+    "title": "Censure gouvernement",
+    "pubDate": "Wed, 04 Dec 2024 14:00:00 +0100",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTYDV6F3NJZBa1zl_n5kgOczMPrFGVXlVIlnVH9zEtZMN-4uhv3fgdMv2lGcb-qH7V4-p4wkQnf",
+    "news_item_snippet": "Les deux textes d\u00e9pos\u00e9s par la gauche et le RN sont d\u00e9battus avant le scrutin sur la motion du NFP, attendu dans la soir\u00e9e, qui pourrait \u00eatre fatal au&nbsp;...",
+    "news_item_url": "https://www.francetvinfo.fr/politique/gouvernement-de-michel-barnier/direct-gouvernement-barnier-menace-de-censure-les-motions-seront-examinees-a-partir-de-16-heures-a-l-assemblee-nationale_6935261.html",
+    "picture_source": "Public S\u00e9nat",
     "approx_traffic": "50,000+"
   },
   {
@@ -404,8 +414,8 @@
     "title": "Loi martiale",
     "pubDate": "Tue, 03 Dec 2024 17:00:00 +0100",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQ2wizBl_MR4Ym--bSTWBLCWju0URkHQxFVoiy8f_V2548Vizh3An_PEeZIxZpVuQutVqOWrqvy",
-    "news_item_snippet": "L&#39;annonce du pr\u00e9sident sud-cor\u00e9en Yoon Suk Yeol a g\u00e9n\u00e9r\u00e9 de profondes inqui\u00e9tudes dans le pays mardi 3 d\u00e9cembre. Ses soutiens r\u00e9clament qu&#39;il rende des&nbsp;...",
-    "news_item_url": "https://www.liberation.fr/international/asie-pacifique/coree-du-sud-le-president-pousse-a-la-demission-apres-sa-tentative-dimposer-la-loi-martiale-20241204_7SIJK4IYIFCE5GRRSHFUHZEZGM/",
+    "news_item_snippet": "Les Sud-Cor\u00e9ens sont descendus dans les rues mercredi, en col\u00e8re contre le pr\u00e9sident sud-cor\u00e9en Yoon Suk-yeol apr\u00e8s sa tentative rat\u00e9e d&#39;imposer la loi&nbsp;...",
+    "news_item_url": "https://www.france24.com/fr/asie-pacifique/20241203-malgr%C3%A9-la-lev%C3%A9e-de-la-loi-martiale-en-cor%C3%A9e-du-sud-la-d%C3%A9mission-du-pr%C3%A9sident-r%C3%A9clam%C3%A9e",
     "picture_source": "Franceinfo",
     "approx_traffic": "200,000+"
   },
@@ -414,39 +424,39 @@
     "title": "Notre-Dame de Paris",
     "pubDate": "Tue, 03 Dec 2024 14:00:00 +0100",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcS85myKAvYvXidKw4yc4ueEiBBr0JjMipFBrvGhuXq0gtYMhdFCYkGoTv66nMs7Qz3EyctdwvY1",
-    "news_item_snippet": "Ma\u00efeul Bouzereau souhaitait prier \u00e0 Notre-Dame dimanche, mais grosse d\u00e9ception, mardi midi, les 12 000 places \u00e9taient parties. &quot;C&#39;est une grosse d\u00e9ception, je m&nbsp;...",
-    "news_item_url": "https://www.francetvinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/notre-dame-de-paris-reservations-nouvelles-regles-ce-qui-vous-attend-pour-visiter-la-cathedrale_6935360.html",
+    "news_item_snippet": "Apr\u00e8s cinq ans de restauration, Notre-Dame de Paris s&#39;appr\u00eate \u00e0 rouvrir ses portes, marquant une \u00e9tape historique depuis l&#39;incendie de 2019.",
+    "news_item_url": "https://www.info.gouv.fr/actualite/la-reouverture-historique-de-notre-dame-de-paris",
     "picture_source": "Ville de Paris",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "France",
+    "title": "Greve 5 decembre",
+    "pubDate": "Tue, 03 Dec 2024 21:00:00 +0100",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcT-g_QEebQNvjSkBDjSv2t_GkZpoE_ALaqP2vIZ9ziFN3LqXTFp_hWKlT_XQdMP9TcKdsliNdSH",
+    "news_item_snippet": "Les \u00e9coles et les transports seront les plus touch\u00e9s, sans que la mobilisation ne s&#39;y limite.",
+    "news_item_url": "https://www.bfmtv.com/economie/economie-social/greves-du-5-decembre-a-quoi-s-attendre_AV-202412040628.html",
+    "picture_source": "France Bleu",
     "approx_traffic": "50,000+"
   },
   {
     "country": "Germany",
     "title": "Spotify Wrapped",
     "pubDate": "Wed, 04 Dec 2024 10:00:00 +0100",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSEmSUFTbUUSe9iJxv_XB-aOOonWOAIjqlGvbxmvoCpWEpRT9yAxX0nK_xTpR0cYbJf5wBRVblb",
-    "news_item_snippet": "Spotify Wrapped ist da. Jetzt wei\u00df ich, welche Musik ich in diesem Jahr gestreamt habe. Hilft mir das? N\u00f6! Aber Spotify Wrapped f\u00fcr mein Leben w\u00e4re cool.",
-    "news_item_url": "https://www.stern.de/digital/online/spotify-wrapped-geht-mir-nicht-weit-genug---ich-will-mehr--35278254.html",
-    "picture_source": "DER SPIEGEL",
-    "approx_traffic": "100,000+"
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRn5v651QPQR-hr20sgOTAr2Y_7ziTjCjK9qAOr1ChLeeaSvaFQnVdXU3_Wy3mdotF8XF10TFGZ",
+    "news_item_snippet": "Der Jahresr\u00fcckblick des Audiostreamers Spotify ist da. In Deutschland war erstmals seit 2017 kein Deutschrapper der meistgestreamte Act, sondern Taylor&nbsp;...",
+    "news_item_url": "https://www.spiegel.de/kultur/musik/spotify-wrapped-taylor-swift-kuenstlerin-des-jahres-streamingbilanz-fuer-2024-a-080d5dd4-b6f3-4877-88ae-e877d454a361",
+    "picture_source": "Netzpolitik.org",
+    "approx_traffic": "200,000+"
   },
   {
     "country": "Germany",
     "title": "S\u00fcdkorea",
     "pubDate": "Tue, 03 Dec 2024 16:00:00 +0100",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRKK39-QrVs1C4csZS62MMYI15s6H7AzOYb0VB1YIIkzewVHkOFWbIFz_d-gKSvE5P_zU3ZLkZf",
-    "news_item_snippet": "Erst Kriegsrecht, dann nicht. S\u00fcdkoreas B\u00f6rse wird nun noch mehr das, was sie immer war: unberechenbar. Aber auch billig.",
-    "news_item_url": "https://www.wiwo.de/finanzen/boerse/maerkte-in-asien-das-bedeutet-das-beben-in-suedkorea-fuer-anleger/30115408.html",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSvIVB_f5Q-DewobmyD_8QBfxEhsYd7r7u8J82PW9Oqe0a51lqtoeEaCwiEePucqjIlANhTCvqm",
+    "news_item_snippet": "In S\u00fcdkorea galt sechs Stunden das Kriegsrecht. Wegen starkem Widerstand nahm Pr\u00e4sident Yoon Suk Yeol die Ma\u00dfnahme zur\u00fcck. Freiheit.org sprach mit Frederic&nbsp;...",
+    "news_item_url": "https://www.freiheit.org/de/nord-und-suedkorea/suedkorea-die-demokratie-kann-gestaerkt-aus-dieser-krise-hervorgehen",
     "picture_source": "tagesschau.de",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "Germany",
-    "title": "Jahn Regensburg \u2013 VfB Stuttgart",
-    "pubDate": "Tue, 03 Dec 2024 18:00:00 +0100",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTTHEAI8xohnY09s9SAAql9zu7zq05GoK8uMMmAZGGsOBYsU-iizTcQn_nD3CmY0omUrXz0HnwY",
-    "news_item_snippet": "Der VfB Stuttgart wird seiner Favoritenrolle gerecht und gewinnt beim SSV Jahn Regensburg mit 3:0.",
-    "news_item_url": "https://www.spox.com/de/sport/fussball/dfbpokal/2411/Artikel/jahn-regensburg-vs-vfb-stuttgart-das-pokal-achtelfinale-heute-im-liveticker.html",
-    "picture_source": "VfB Stuttgart",
     "approx_traffic": "100,000+"
   },
   {
@@ -454,8 +464,8 @@
     "title": "Werder Bremen \u2013 Darmstadt 98",
     "pubDate": "Tue, 03 Dec 2024 21:00:00 +0100",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTQ6_rM8yBq8Wj7yQd3tYWFpdUkibjs-LfmwAxyxG4oXg19myVdL5rHDXWb0cUh1JLHofGRT7r9",
-    "news_item_snippet": "Bitterer Moment f\u00fcr Florian Kohfeldt bei der R\u00fcckkehr nach Bremen: Der Trainer schied mit Darmstadt 98 im Achtelfinale des DFB-Pokals aus, weil Werder&nbsp;...",
-    "news_item_url": "https://www.sportschau.de/fussball/dfbpokal/werder-versetzt-kohfeldts-darmstadt-spaeten-ko,bremen-darmstadt-124.html",
+    "news_item_snippet": "Werder Bremen hat durch einen sp\u00e4ten Treffer von Anthony Jung das Viertelfinale des DFB-Pokals erreicht. Der Verteidiger erzielte am Dienstagabend im Duell&nbsp;...",
+    "news_item_url": "https://www.ndr.de/sport/fussball/Werder-Bremen-gewinnt-Pokal-Krimi-gegen-Darmstadt-98-in-Nachspielzeit,werder16208.html",
     "picture_source": "hessenschau.de",
     "approx_traffic": "100,000+"
   },
@@ -463,9 +473,9 @@
     "country": "Germany",
     "title": "DFB-Pokal",
     "pubDate": "Mon, 02 Dec 2024 20:00:00 +0100",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSGBeh9sAl8h2qfuvKMnuXOAa1XzRFVyKRNJC4pT8ekkHv2AsfGLgA56dHUR6cZMb-FWkelY849",
-    "news_item_snippet": "Eintracht Frankfurt schwebt weiter auf Wolke sieben durch diese Saison und will nun im DFB-Pokal RB Leipzig aus dem Weg r\u00e4umen.",
-    "news_item_url": "https://www.hessenschau.de/sport/fussball/eintracht-frankfurt/das-wichtigste-zum-dfb-pokal-befluegelte-eintracht-trifft-fluegellahmes-leipzig-v2,leipzig-eintracht-wichtigste100.html",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQYnGZIUuAzUlU3ffGMvS5W-pewTJZ17IGq1CtfSYyRhaBFe9M0abaFQsPkge2x_gcxn9CJjfMS",
+    "news_item_snippet": "Beim Pokalspiel in Bremen fehlt Darmstadt 98 in den entscheidenden Momenten das Gl\u00fcck. Das Spiel h\u00e4tte auch in ihre Richtung kippen k\u00f6nnen.",
+    "news_item_url": "https://www.faz.net/aktuell/sport/rhein-main-sport/darmstadt-98/darmstadt-im-dfb-pokal-mutmacher-fuer-die-lilien-trotz-klassenunterschied-110153606.html",
     "picture_source": "hessenschau.de",
     "approx_traffic": "500,000+"
   },
@@ -493,10 +503,10 @@
     "country": "Italy",
     "title": "Spotify Wrapped",
     "pubDate": "Wed, 04 Dec 2024 09:00:00 +0100",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcS3qt93iyNvAJtRG1scrK1P412bYWdDoZnETtEMUx1acSTIdm47F0hkkRwt_NHkwcNxJfWVdy9f",
-    "news_item_snippet": "Il rapper napoletano primeggia in Italia davanti a Sfera Ebbasta e Lazza, la popstar americana nel mondo. Tra i podcast prevale il \u00abtrue crime\u00bb",
-    "news_item_url": "https://www.ilsole24ore.com/art/spotify-wrapped-2024-geolier-e-taylor-swift-artisti-piu-ascoltati-dell-anno-AGzorHYB",
-    "picture_source": "Sky Tg24",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcR-7G6ixNQPUO2jPIMNVqxOYFDNASsk6FOpEjwWY88IIhZI1IYt-19LoIvc24YT7TbygCDMsvu6",
+    "news_item_snippet": "\u00c8 arrivato uno dei momenti pi\u00f9 attesi dell&#39;anno dagli appassionati di musica. Sull&#39;app \u00e8 disponibile l&#39;ormai tradizionale appuntamento con il riepilogo&nbsp;...",
+    "news_item_url": "https://tg24.sky.it/tecnologia/2024/12/04/spotify-wrapped-2024-come-vedere",
+    "picture_source": "Il Sole 24 ORE",
     "approx_traffic": "200,000+"
   },
   {
@@ -513,31 +523,31 @@
     "country": "Italy",
     "title": "Legge marziale",
     "pubDate": "Tue, 03 Dec 2024 16:00:00 +0100",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSqOsn5WyReVWfvkcxduCog-fp4r8gfI18dwS_gaIHFlXf5fCw0n9BHz2Jv8xRu2LhIikhS45r2",
-    "news_item_snippet": "Proclamata dal presidente Yoon Suk-yeol, \u00e8 stata revocata poche ore dopo. La crisi nasce dalle difficolt\u00e0 del leader ultraconservatore. Leggi.",
-    "news_item_url": "https://www.internazionale.it/opinione/pierre-haski/2024/12/04/legge-marziale-corea-del-sud",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRtXjPeOMghIhO1Ce6VFouzCBcgHZhxvISK_ryrNN4V7J-JaRw7x8jgd6slMQWyCeSksItQ1N8n",
+    "news_item_snippet": "Legge marziale: cos&#39;\u00e8, come funziona e quando si applica questo sistema di governo d&#39;emergenza che sospende temporaneamente il normale funzionamento delle&nbsp;...",
+    "news_item_url": "https://www.studenti.it/legge-marziale-cos-e-quando-si-applica-come-funziona.html",
     "picture_source": "Rai News",
     "approx_traffic": "100,000+"
   },
   {
     "country": "Italy",
-    "title": "Bologna Monza",
+    "title": "Bologna-Monza",
     "pubDate": "Tue, 03 Dec 2024 18:00:00 +0100",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSmMfFOreErJGzHqnudIK6etLCIimr8rUr4PO_wrj-gAcSWzX-DYtXNSOa-Lxo91rcO5e9LazDa",
-    "news_item_snippet": "A spianare la strada del successo, una sassata da fuori di Pobega e un tocco poetico di Orsolini appena dopo il 30&#39; di gioco. Il tap-in di Dominguez al 63&#39; e la&nbsp;...",
-    "news_item_url": "https://www.bolognatoday.it/sport/calcio/coppa-italia-bologna-monza-4-0.html",
-    "picture_source": "AC Monza",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRcBEpLD2EDQmVpw_0TPuyc2heTzXRemel0ycyfE4EmdDYV1_DpoopAiKzmms-WEOJGcIVBRFBo",
+    "news_item_snippet": "Al termine della rifinitura della vigilia, Mister Nesta ha convocato 26 calciatori per Bologna-Monza, gara degli ottavi di Coppa Italia Frecciarossa,&nbsp;...",
+    "news_item_url": "https://www.acmonza.com/it/news/bologna-monza-i-convocati-02122024/",
+    "picture_source": "Corriere dello Sport.it",
     "approx_traffic": "100,000+"
   },
   {
-    "country": "Italy",
-    "title": "Paolo Bonolis",
-    "pubDate": "Tue, 03 Dec 2024 22:00:00 +0100",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSx5Tv9KSfCGA-U51QxK-V6nYswyQa3pUfi4m3IT0wpjSCUn1wezMmADx7LFCPX1TOY_oOKIVbl",
-    "news_item_snippet": "Dopo la partecipazione della ex moglie di Paolo Bonolis a Belve, e le accuse rivolte all&#39;ex collaboratore del presentatore, la questione rischia di finire&nbsp;...",
-    "news_item_url": "https://www.ilmattino.it/spettacoli/televisione/sonia_bruganelli_marco_salvati_cosa_e_successo_belve_cosa_ha_detto_bonolis_replica-8518956.html",
-    "picture_source": "Rai News",
-    "approx_traffic": "50,000+"
+    "country": "Mexico",
+    "title": "Spotify Wrapped 2024",
+    "pubDate": "Wed, 04 Dec 2024 08:00:00 -0600",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRUuaUIz_3aIzE4VXUY4edQUqCaqjvxtD02VeT3YM79dg8_dp9zBFq_2WHQY_TuzSJ1ErGVj42t",
+    "news_item_snippet": "Ya est\u00e1 disponible el Spotify Wrapped 2024. El servicio de streaming ha lanzado su resumen anual con las estad\u00edsticas de lo que m\u00e1s has escuchado en la...",
+    "news_item_url": "https://www.xataka.com/basics/spotify-wrapped-2024-como-ver-tu-resumen-tus-estadisticas-artistas-canciones-escuchadas-ano",
+    "picture_source": "Expansi\u00f3n",
+    "approx_traffic": "100,000+"
   },
   {
     "country": "Mexico",
@@ -553,10 +563,10 @@
     "country": "Mexico",
     "title": "Ley marcial",
     "pubDate": "Tue, 03 Dec 2024 10:00:00 -0600",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRRghK9jlVmeoYK1iplW4pYVpZhi6sEYAWTIxWTSn3I5UN5C_eQPtct1_DDjqpG3qZHjKa0gvJi",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcR2MoyW654qbHGgR7A8ohfWSNN5VRDwtrOE9rfDqpI6UnxuKTGDP-mceBGpzo4RsHtAxzotnY7f",
     "news_item_snippet": "El presidente de Corea del Sur, Yoon Suk Yeol, declar\u00f3 este martes la ley marcial en un discurso sorpresa pronunciado a altas horas de la noche.",
     "news_item_url": "https://cnnespanol.cnn.com/2024/12/04/corea-sur-declaracion-ley-marcial-en-vivo/",
-    "picture_source": "BBC Mundo",
+    "picture_source": "El Financiero",
     "approx_traffic": "100,000+"
   },
   {
@@ -571,16 +581,6 @@
   },
   {
     "country": "Spain",
-    "title": "Spotify Wrapped",
-    "pubDate": "Wed, 04 Dec 2024 14:00:00 +0100",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSHtfEawH-DSXfUh4zDbjXWQqf2zMVepHToA7f0fbzEYJsE65YHxiM1txIuXu4PLkZ9wY7RJZ1h",
-    "news_item_snippet": "El Spotify Wrapped 2024 es oficial, uno de los eventos del a\u00f1o acaba de dar su pistoletazo de salida. A lo largo de las siguientes horas las redes se&nbsp;...",
-    "news_item_url": "https://www.lavanguardia.com/andro4all/aplicaciones-de-musica/spotify-wrapped-2024-ya-disponible-como-ver-tus-canciones-y-podcast-mas-escuchados-del-ano",
-    "picture_source": "Xataka",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "Spain",
     "title": "Barcelona",
     "pubDate": "Tue, 03 Dec 2024 18:00:00 +0100",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRee-lWOHKuc251RTneQXVOYqlHMQyuces1Hhv68nOUmLzL_JmrxydRDlOXyWwXN7YOh8eREq07",
@@ -591,12 +591,22 @@
   },
   {
     "country": "Spain",
+    "title": "Spotify Wrapped",
+    "pubDate": "Tue, 03 Dec 2024 15:00:00 +0100",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTWpQiwga__SRjv9vpGXw8bRlGkdzyWh79343I875q3RCAV1A-mBGIIN1mJxrcNY7zkRa7fXNb7",
+    "news_item_snippet": "El Spotify Wrapped 2024 es oficial, uno de los eventos del a\u00f1o acaba de dar su pistoletazo de salida. A lo largo de las siguientes horas las redes se&nbsp;...",
+    "news_item_url": "https://www.lavanguardia.com/andro4all/aplicaciones-de-musica/spotify-wrapped-2024-ya-disponible-como-ver-tus-canciones-y-podcast-mas-escuchados-del-ano",
+    "picture_source": "Xataka",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "Spain",
     "title": "Ley marcial",
     "pubDate": "Tue, 03 Dec 2024 16:00:00 +0100",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRkzkEXwfghBAt3sVCimfZNuhozx_ofsabhcL0EZKOUAQE6OegYAMZGJdpDBpCiiYpGB47g86SY",
-    "news_item_snippet": "M\u00e1s de cinco horas pasaron desde que el presidente de Corea del Sur paraliz\u00f3 el pa\u00eds al lanzar una draconiana ley marcial hasta que levant\u00f3 el decreto tras&nbsp;...",
-    "news_item_url": "https://www.elmundo.es/internacional/2024/12/04/674f8ef4e4d4d822648b45bb.html",
-    "picture_source": "euronews",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTbNkmYxaDMq0KAZCDogyOIycZAdqyp0OsNHItoFX0wNk-Tj12akgaAjDdQ2TlfAqJQX5LhR-Mz",
+    "news_item_snippet": "El presidente Yoon Suk Yeol caus\u00f3 conmoci\u00f3n en todo el pa\u00eds tras declarar la Ley Marcial tras una investigaci\u00f3n del Parlamento a su mujer.",
+    "news_item_url": "https://es.euronews.com/2024/12/04/el-parlamento-de-corea-del-sur-levanta-la-ley-marcial-tras-el-voto-en-contra-de-los-legisl",
+    "picture_source": "EL PA\u00cdS",
     "approx_traffic": "200,000+"
   },
   {
@@ -604,8 +614,8 @@
     "title": "Copa del Rey",
     "pubDate": "Tue, 03 Dec 2024 18:00:00 +0100",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQQQvCQesd25NDOJ07zSw41TMMFkdhDtSwCdYNOULp_u1JmT7hOpoJFSH04Y_-281dF31CMP9N3",
-    "news_item_snippet": "Te contamos cu\u00e1ndo se sortea la ronda dieciseisavos de la Copa del Rey 2024/25. Conoce los equipos clasificados y qu\u00e9 d\u00eda se jugar\u00e1 la siguiente fase.",
-    "news_item_url": "https://as.com/futbol/copa_del_rey/sorteo-de-dieciseisavos-de-la-copa-del-rey-equipos-clasificados-cuando-es-horario-y-que-dia-se-juegan-n/",
+    "news_item_snippet": "La Copa del Rey llega a su segunda ronda a\u00fan con la ausencia de Real Madrid, Barcelona, Athletic y Mallorca, equipos participantes de la Supercopa de Espa\u00f1a&nbsp;...",
+    "news_item_url": "https://www.marca.com/futbol/copa-rey/2024/12/04/partidos-hoy-miercoles-4-diciembre-copa-rey-horarios-ver.html",
     "picture_source": "El Mundo",
     "approx_traffic": "50,000+"
   },
@@ -623,19 +633,19 @@
     "country": "United Kingdom",
     "title": "Spotify Wrapped 2024",
     "pubDate": "Wed, 04 Dec 2024 13:00:00 +0000",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTC09WWq8MJgpeHYt74VwubGCKu6_i9M0VomD7FBmbo5fyAE9H9PriUeW9mnevFqCdGS0G7-quz",
-    "news_item_snippet": "The music streaming service is giving subscribers the chance to check out their listening habits for the past 12 months.",
-    "news_item_url": "https://www.nottinghampost.com/news/celebs-tv/spotify-wrapped-2024-list-uks-9767490",
-    "picture_source": "The Independent",
-    "approx_traffic": "200,000+"
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSvv983JX_Y433ZgNWWhhFuL9FkeW80ZERTwmmimWgNNMS36FJ0WzD5prWyUIdlRqKH9VsVOE3m",
+    "news_item_snippet": "Streaming giant unveils its hugely anticipated Wrapped event, confirming Swift as the biggest global artist for the second year running.",
+    "news_item_url": "https://www.independent.co.uk/arts-entertainment/music/news/spotify-wrapped-2024-top-artists-songs-b2658755.html",
+    "picture_source": "spotify.com",
+    "approx_traffic": "500,000+"
   },
   {
     "country": "United Kingdom",
     "title": "South Korea",
     "pubDate": "Tue, 03 Dec 2024 15:00:00 +0000",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQsBSmlocn_xBgFNXOfse2hlsGJm-svfZtKyydksyqRDCT75muDP36t-jz_FouFZQV4tbgbBgs5",
-    "news_item_snippet": "The country faces an uncertain future after its leader Yoon Suk Yeol suddenly declared and then reversed martial law.",
-    "news_item_url": "https://www.bbc.com/news/articles/c8rjd064012o",
+    "news_item_snippet": "Opposition parties submit motion to impeach Yoon after his shock bid to put South Korea under martial law for first time in over four decades.",
+    "news_item_url": "https://www.theguardian.com/world/2024/dec/04/south-korea-martial-law-president-yoon-suk-yeol-calls-to-resign-ntwnfb",
     "picture_source": "BBC News",
     "approx_traffic": "500,000+"
   },
@@ -663,9 +673,9 @@
     "country": "United Kingdom",
     "title": "Tulisa",
     "pubDate": "Tue, 03 Dec 2024 00:00:00 +0000",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRbEoISJ83aa_A6lWUB8gDl94Wk9ApoJOF_jLwrz10h7sckL5WFdTcQNYtcvG39bWIURFBy66TM",
-    "news_item_snippet": "Tulisa became the third star to be evicted from the I&#39;m A Celebrity castle after being voted off the ITV series on Monday night, but she didn&#39;t stick around&nbsp;...",
-    "news_item_url": "https://www.leeds-live.co.uk/news/celebs-tv/tulisa-rages-after-im-celebrity-30509527",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSEQHACGmhN3sklIdkWTjhdqRzmBqnuKGW0iVdrN55ZDCFC3ob8IZz4xdOcEiCKP0GyxJkQbIIp",
+    "news_item_snippet": "Mystery surrounding Tulisa Contostavlos is mounting after she was missing to greet her campmate Melvin Odoom when he returned to the hotel after becoming&nbsp;...",
+    "news_item_url": "https://www.dailymail.co.uk/tvshowbiz/article-14154897/Im-Celeb-star-Tulisa-LEFT-fly-home-fails-appear-spin-Unpacked-deleting-trace-jungle-experience-social-media.html",
     "picture_source": "News Shopper",
     "approx_traffic": "50,000+"
   },
