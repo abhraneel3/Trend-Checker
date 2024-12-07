@@ -1,11 +1,51 @@
 [
   {
     "country": "United States",
+    "title": "Liverpool",
+    "pubDate": "Sat, 07 Dec 2024 05:00:00 -0800",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQV0lvrqogjQqexG4hbYs6osraiGo1GHoMk-aVoell8EFX-G1n_a7NkwwY8GprhhxStImBY5-gW",
+    "news_item_snippet": "Dec 7 (Reuters) - The Premier League clash between Everton and Liverpool has been postponed due to adverse weather conditions, hosts Everton said on&nbsp;...",
+    "news_item_url": "https://www.reuters.com/sports/soccer/everton-v-liverpool-postponed-due-adverse-weather-conditions-2024-12-07/",
+    "picture_source": "ESPN",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Pearl Harbor",
+    "pubDate": "Sat, 07 Dec 2024 06:00:00 -0800",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTTaW8EykE-tTegbtnnr2sLbp4Tx3vXDekorslyuJaPQo7AyLR0OCQARR4RvipeWrfQ3V2LWRAv",
+    "news_item_snippet": "The American destroyer USS Shaw explodes during the Japanese attack on Pearl Harbor, home of the American Pacific Fleet during World War II, on December 7, 1941&nbsp;...",
+    "news_item_url": "https://www.cnn.com/2024/12/07/us/pearl-harbor-anniversary-survivors/index.html",
+    "picture_source": "KCTV Kansas City",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Man City",
+    "pubDate": "Sat, 07 Dec 2024 08:00:00 -0800",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSqo4xxQ9n5LM7pJSyF_y95MvJWzLS1mj8rla0487pTKXHPsbhXLg8rdSnB2oJoGjA1dodJxxVC",
+    "news_item_snippet": "The likes of Arsenal and Liverpool will be chasing Pep Guardiola&#39;s side, but just as fascinating will be the race for Champions League places, with more teams&nbsp;...",
+    "news_item_url": "https://sports.yahoo.com/crystal-palace-vs-manchester-city-130010411.html",
+    "picture_source": "ESPN",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Boise State Football",
+    "pubDate": "Fri, 06 Dec 2024 18:00:00 -0800",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQCJ2tvKPInaAqUAreqWvuO7HRpNsnKATHwpgCUS2VzdKecQ4VsYSu3ytESLzghbEBGSd-rvxev",
+    "news_item_snippet": "Boise State defeated UNLV 21-7 to win the Mountain West title and punch its ticket to the playoffs \u2014 probably straight to the quarterfinals.",
+    "news_item_url": "https://www.idahostatesman.com/sports/college/mountain-west/boise-state-university/boise-state-football/article296717774.html",
+    "picture_source": "The New York Times",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "United States",
     "title": "Daniel Penny",
     "pubDate": "Fri, 06 Dec 2024 08:00:00 -0800",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQqzaQ8imt77iQ07Cug2OIkksYLuWssXVnk4X2R6kYpAVuIiL2VWR2bY5K9FMVM4CJdEuRL3Vgu",
-    "news_item_snippet": "The judge overseeing the trial of Daniel Penny, the man accused of using a deadly chokehold on Jordan Neely last year on a New York City subway, dismissed a&nbsp;...",
-    "news_item_url": "https://www.nbcnews.com/news/us-news/jury-daniel-penny-trial-tells-judge-cant-reach-agreement-manslaughter-rcna183185",
+    "news_item_snippet": "The dismissal of the charge clears the way for the jury to decide on the lesser charge of criminally negligent homicide, which carries up to four years in&nbsp;...",
+    "news_item_url": "https://www.cbsnews.com/newyork/news/daniel-penny-trial-deliberations-fourth-day/",
     "picture_source": "ABC News",
     "approx_traffic": "200,000+"
   },
@@ -14,29 +54,19 @@
     "title": "TikTok ban",
     "pubDate": "Fri, 06 Dec 2024 12:00:00 -0800",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSvBguKcD6mv-_f552ZsFKht7xSwOp_1HcZTKUv3l4zluE8uYxlxdD-Mg595YkSpP6yGPU9_Hr4",
-    "news_item_snippet": "US TikTok users are again worried they could lose access to the app after a court upheld a law that will force TikTok to be spun-off from its Chinese parent&nbsp;...",
-    "news_item_url": "https://www.cnn.com/2024/12/07/tech/tiktok-ban-law-ruling-whats-next/index.html",
+    "news_item_snippet": "The Supreme Court, president-elect Donald Trump, or an American buyer could still intervene to save the video platform, which is used by some 170 million&nbsp;...",
+    "news_item_url": "https://www.wired.com/story/doj-tiktok-constitutional-lawsuit/",
     "picture_source": "Missouri Independent",
     "approx_traffic": "200,000+"
   },
   {
     "country": "United States",
-    "title": "UNLV vs Boise State",
-    "pubDate": "Fri, 06 Dec 2024 18:00:00 -0800",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTkKVx0kwuTL4rrnhnWkvkiqsZQce0Ftj-vYF5dRqkn0NtEdA0ZaemBugunNyE0GY_g8Sr2nYDr",
-    "news_item_snippet": "It&#39;s a rematch for the Mountain West title and a berth in the College Football Playoff. No. 10 Boise State hosts No. 20 UNLV on Friday after the Broncos won&nbsp;...",
-    "news_item_url": "https://sports.yahoo.com/live/boise-state-vs-unlv-live-updates-playoff-spot-on-the-line-in-mountain-west-championship-000337597.html",
-    "picture_source": "ESPN",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "United States",
     "title": "Army football",
     "pubDate": "Fri, 06 Dec 2024 18:00:00 -0800",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQIRBX2u2ttmCSfqMcVOdxZipDfAuiEnYng2NTXcqOn5nbmUNCqNQmFcW1X6YVC96U8tIv7q8Wn",
-    "news_item_snippet": "Army coach Jeff Monken breaks silence on the College Football Playoff, saying his American Athletic champs should get serious consideration.",
-    "news_item_url": "https://www.recordonline.com/story/sports/college/2024/12/07/army-bids-for-college-football-playoff-field/76837051007/",
-    "picture_source": "ESPN",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcR_UzfnazfxbfYbocf4jdJcqo8Ok2Y9Yu9ydApdFW5Hm4aYLf5v_fOWFHuEPDqZ5PXFy3-CK4QE",
+    "news_item_snippet": "Bryson Daily rushed for four touchdowns to tie the American Athletic Conference championship game record, and No. 24 Army completed a perfect first season&nbsp;...",
+    "news_item_url": "https://www.espn.com/college-football/story/_/id/42824521/army-wins-aac-championship-first-attempt-beating-tulane",
+    "picture_source": "Times Herald-Record",
     "approx_traffic": "100,000+"
   },
   {
@@ -54,10 +84,40 @@
     "title": "Randy Moss health",
     "pubDate": "Fri, 06 Dec 2024 12:00:00 -0800",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRvtlFGqbJXZpd9vv3HRyj_qgUqxofXSpl4PCnT9nqVl7PB2jXosvfV9_IgZ5EV9Wl5VlD1OuRZ",
-    "news_item_snippet": "Minnesota Vikings legend Randy Moss will step away from his broadcasting role at ESPN &quot;to focus on a personal health challenge,&quot; the network announced&nbsp;...",
-    "news_item_url": "https://www.cbsnews.com/minnesota/news/randy-moss-stepping-away-from-espn-health-issue/",
+    "news_item_snippet": "Hall of Fame wide receiver Randy Moss is stepping away from his ESPN analyst role for an extended time to focus on a personal health challenge,&nbsp;...",
+    "news_item_url": "https://www.nfl.com/news/hall-of-famer-randy-moss-stepping-away-espn-extended-time-health-issue",
     "picture_source": "NBC News",
     "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Jacob Trouba",
+    "pubDate": "Fri, 06 Dec 2024 13:00:00 -0800",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQw4Cwsm1kwFEGH8It2QmJnDgZyaKPzm56lw7PZdMJLAqgVeQsB7hTd3jvcjxUvo0iic1EREhL_",
+    "news_item_snippet": "Trouba served as Rangers captain the last three seasons, was named the Mark Messier NHL Leadership Award winner in 2023-24.",
+    "news_item_url": "https://www.nhl.com/ducks/news/ducks-acquire-defenseman-jacob-trouba-from-new-york-rangers",
+    "picture_source": "NHL.com",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Warriors",
+    "pubDate": "Fri, 06 Dec 2024 07:00:00 -0800",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTUCUOc7JHUCANc3OvNZ4ybKVfCHcSW8jp165-_jLZJVv5KFJLDthuM4Ceg4ljMTPQqFmUQPvkh",
+    "news_item_snippet": "The Warriors relied on the efforts of Jonathan Kuminga, who went 13 for 22 en route to 33 points plus six rebounds, and Andrew Wiggins, who almost dropped a&nbsp;...",
+    "news_item_url": "https://www.cbssports.com/nba/news/golden-state-warriors-vs-minnesota-timberwolves-how-to-watch-online-live-stream-info-start-time-tv-channel-29446435/",
+    "picture_source": "Alaska Fairbanks Athletics",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Dick Van Dyke",
+    "pubDate": "Fri, 06 Dec 2024 19:00:00 -0800",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRm_ZFfSEF6wULNpHacZclZMfMHu6dN0N_KlNcY9p10Ok3UhaRU70NSKWnxQMQHiXBB15Igkp-W",
+    "news_item_snippet": "The 98-year-old was accompanied by his wife, makeup artist Arlene Silver, and much of his extended family, including his children and grandchildren. <b>Van Dyke</b> and his wife Arlene Silver have been married for 12 years. (Monty Brinton/CBS via Getty Images).",
+    "news_item_url": "https://www.fox29.com/news/dick-van-dyke-coldplay-video",
+    "picture_source": "WLWT Cincinnati",
+    "approx_traffic": "50,000+"
   },
   {
     "country": "United States",
@@ -67,26 +127,6 @@
     "news_item_snippet": "Lionel Messi on Friday won the Landon Donovan MVP Award for the 2024 MLS season, beating out the Columbus Crew&#39;s Cucho Hern\u00e1ndez, the Portland Timbers&#39;&nbsp;...",
     "news_item_url": "https://www.espn.com/soccer/story/_/id/42796224/miami-star-lionel-messi-named-mls-mvp-sets-goalscoring-mark",
     "picture_source": "Inter Miami CF",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Jacob Trouba",
-    "pubDate": "Fri, 06 Dec 2024 13:00:00 -0800",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQXZO5GXomhS-D6FvM6aXAOfMggxRsYg_E1WvXzpy9_CitHQpXXQQP_AvC-NUSkC0tJfwlPkc8Q",
-    "news_item_snippet": "Speaking hours after he was traded to Anaheim, Jacob Trouba said his ending in New York &quot;could have been handled better&quot; and said he believes &quot;it&#39;s...",
-    "news_item_url": "https://abc30.com/post/jacob-trouba-critical-rangers-wake-trade-ducks/15626028/",
-    "picture_source": "BlueJackets.com",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Dick Van Dyke",
-    "pubDate": "Fri, 06 Dec 2024 19:00:00 -0800",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcR4rwzA-uFF6mXeUFrzSZSJWcng-4YwqwP0W_CNcjlRxve2xnmejF6jDS2CJACHQyrXdcHI_4Mo",
-    "news_item_snippet": "In the clip, which was filmed in October, Van Dyke sings, dances barefoot and offers meditations on aging, family and love.",
-    "news_item_url": "https://www.nytimes.com/2024/12/06/arts/music/dick-van-dyke-coldplay-all-my-love-video.html",
-    "picture_source": "KETV Omaha",
     "approx_traffic": "50,000+"
   },
   {
@@ -111,52 +151,72 @@
   },
   {
     "country": "India",
+    "title": "Real Betis vs Barcelona",
+    "pubDate": "Sat, 07 Dec 2024 20:30:00 +0530",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRkREVauyJG0SiHAm47G8YwaF858KIH1Y5qQ-5gOcfTTAc90TZ5qs8_lJyQLLYnROdu3BDLmaTn",
+    "news_item_snippet": "HALFTIME, Real Betis 0-1 Barcelona: After a couple of major early scares Bar\u00e7a assumed complete control of the game, playing patient, precise football in&nbsp;...",
+    "news_item_url": "https://www.barcablaugranes.com/2024/12/7/24313007/real-betis-barcelona-live-stream-lineups-kickoff-time-tv-channel-how-to-watch-la-liga-online",
+    "picture_source": "NDTVSports.com",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "India",
+    "title": "Crystal Palace vs Man City",
+    "pubDate": "Sat, 07 Dec 2024 20:30:00 +0530",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSDbepfVsvmRxkuPCfq1PaCp4nLR4QctIQxyPtdG1z-yJ-olY2dEZ89bspCIwBKfFTFriZxX9yF",
+    "news_item_snippet": "CRY vs MCI LIVE score: Catch the updates of the Crystal Palace vs Manchester City Premier League 2024-25 match being played at Selhurst Park.",
+    "news_item_url": "https://sportstar.thehindu.com/football/epl/crystal-palace-vs-manchester-city-live-score-updates-premier-league-2024-25-cry-v-mci-highlights-goals-streaming-info-news/article68958925.ece",
+    "picture_source": "Aljazeera.com",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "India",
+    "title": "Everton vs Liverpool",
+    "pubDate": "Sat, 07 Dec 2024 16:30:00 +0530",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRy-vnihjfzDezDlr33fAkycyHp05BtcjXZsYn24_HMxQZb0uRTE6QTx71gY3NL8LyqFzPDOmEI",
+    "news_item_snippet": "The Premier League match between Everton and Liverpool, which was to be the final Merseyside derby at Goodison Park, was called off due to storm.",
+    "news_item_url": "https://sportstar.thehindu.com/football/everton-vs-liverpool-merseyside-derby-premier-league-match-called-off-eve-v-liv-postponed-due-to-storm/article68958208.ece",
+    "picture_source": "ESPN India",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "India",
     "title": "India vs Australia",
     "pubDate": "Fri, 06 Dec 2024 09:30:00 +0530",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcT9PfitYeFZMgInsNPe6mJJdB3TPP9azAu_KVhcbPNlA4JYYyVrAvFqhFZtWyygAKWUbdU6uk7t",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTmOgbQJP5z5V0pk4HHjh78XS4R2hD5EYrKkcDGUhR_O-6JtGlI6GJFW3uioca9D7TgXjBbpDvx",
     "news_item_snippet": "IND vs AUS Highlights: Catch the highlights from day 1 of the India vs Australia second Test match being played at the Adelaide Oval.",
     "news_item_url": "https://sportstar.thehindu.com/cricket/india-vs-australia-live-score-2nd-test-day-1-updates-ind-vs-aus-adelaide-pink-ball-match-highlights-streaming-info/article68953554.ece",
-    "picture_source": "\u0905\u092e\u0930 \u0909\u091c\u093e\u0932\u093e",
-    "approx_traffic": "5,000,000+"
+    "picture_source": "Times of India",
+    "approx_traffic": "2,000,000+"
   },
   {
     "country": "India",
-    "title": "England vs New Zealand",
-    "pubDate": "Fri, 06 Dec 2024 04:30:00 +0530",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQKingqFaVuPD2G8V7qnuNW0XsnHgTajltU6AlFmYeRoCWGyIELGrCXIEtyg3NRBOWITW1dVQRt",
-    "news_item_snippet": "New Zealand vs England Live Score: First Innings England Score - 280/10 in 54.4 overs. England batting performance. Harry Brook 123(115) Ollie Pope 66(78)",
-    "news_item_url": "https://www.livemint.com/sports/cricket-news/new-zealand-vs-england-live-score-2nd-test-day-2-of-england-tour-of-new-zealand-2024-final-updates-today-06-dec-2024-11733520454086.html",
-    "picture_source": "ESPNcricinfo.com",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "India",
-    "title": "Ind vs aus live",
-    "pubDate": "Fri, 06 Dec 2024 11:30:00 +0530",
+    "title": "IND vs AUS",
+    "pubDate": "Fri, 06 Dec 2024 09:30:00 +0530",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRqCuqfZXz8U7brTMBM-nKMiBTsQ8fPM2ndB6Z9q6Po-Dk7chkLvfgp1QIx-3yRL9HhcVEGitjl",
-    "news_item_snippet": "India vs Australia (IND vs AUS) Day Night Test Match Day 1 Cricket Score: \u0936\u0941\u0915\u094d\u0930\u0935\u093e\u0930 \u092f\u093e\u0928\u0940 \u091b\u0939 \u0926\u093f\u0938\u0902\u092c\u0930 \u0938\u0947 \u092d\u093e\u0930\u0924 \u0914\u0930 \u0911\u0938\u094d\u091f\u094d\u0930\u0947\u0932\u093f\u092f\u093e \u0915\u0947 \u092c\u0940\u091a \u092a\u093e\u0902\u091a \u092e\u0948\u091a\u094b\u0902 \u0915\u0940&nbsp;...",
-    "news_item_url": "https://www.amarujala.com/live/cricket/cricket-news/india-vs-australia-live-cricket-score-ind-vs-aus-2nd-test-match-day-1-scorecard-pink-ball-test-adelaide-oval-2024-12-06",
+    "news_item_snippet": "Australian pacer Mitchell Starc acknowledged on Friday that things couldn&#39;t have gone better for the hosts on the opening day of the Pink-ball Test,&nbsp;...",
+    "news_item_url": "https://www.business-standard.com/cricket/news/ind-vs-aus-starc-reflects-on-good-day-after-dismissing-6-indian-batters-124120601263_1.html",
     "picture_source": "\u0906\u091c \u0924\u0915",
-    "approx_traffic": "200,000+"
+    "approx_traffic": "2,000,000+"
   },
   {
     "country": "India",
     "title": "Cricket",
     "pubDate": "Fri, 06 Dec 2024 13:30:00 +0530",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSbNSSjirXWhWKEdOEfyJDyj_iyzQCzZnl_knDVUfn1AvZMpDnxY83Z_ErF6_5ziCZX1UOYRzRl",
-    "news_item_snippet": "\u0b95\u0bc7\u0baa\u0bc6\u0bb0\u0bcd\u0bb9\u0bbe: \u0b95\u0bbf\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bcd \u0b89\u0bb2\u0b95\u0bbf\u0bb2\u0bcd \u0b87\u0bae\u0bbe\u0bb2\u0baf \u0b9a\u0bbe\u0ba4\u0ba9\u0bc8\u0baf\u0bc8 \u0baa\u0b9f\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0b87\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0bb1\u0bbe\u0bb0\u0bcd. \u0b9f\u0bc6\u0bb8\u0bcd\u0b9f\u0bcd \u0baa\u0bcb\u0b9f\u0bcd\u0b9f\u0bbf\u0b95\u0bb3\u0bbf\u0bb2\u0bcd 8000 \u0bb0\u0ba9\u0bcd\u0b95\u0bb3\u0bc8 \u0b95\u0b9f\u0ba8\u0bcd\u0ba4 \u0bae\u0bc2\u0ba9\u0bcd\u0bb1\u0bbe\u0bb5\u0ba4\u0bc1 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0bb5\u0bc0\u0bb0\u0bb0\u0bcd \u0b8e\u0ba9\u0bcd\u0bb1 \u0b9a\u0bbe\u0ba4\u0ba9\u0bc8\u0baf\u0bc8&nbsp;...",
-    "news_item_url": "https://tamil.mykhel.com/cricket/angelo-mathews-crossed-8000-test-runs-milestone-in-sa-vs-sl-second-test-match-077977.html",
+    "news_item_snippet": "Baroda Cricket Association&#39;s (BCA) Kotambi international cricket ground, set to host its first international match this month, faces water shortage. T.",
+    "news_item_url": "https://timesofindia.indiatimes.com/city/vadodara/vadodara-rs-13-crore-pipeline-for-kotambi-international-cricket-ground-running-dry/articleshow/116069055.cms",
     "picture_source": "Asianet News Telugu",
     "approx_traffic": "200,000+"
   },
   {
     "country": "India",
-    "title": "Pushpa movie Box Office Collection",
+    "title": "Pushpa movie box office collection",
     "pubDate": "Fri, 06 Dec 2024 06:30:00 +0530",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcR9Ne92IyZx_bHC6ZzeHUaJMa2KN1tSDicOUnTI7rq-bxfxxx7LtxC3ogf9RBggNIUrh_7pgF_8",
-    "news_item_snippet": "Pushpa 2 India Box Office Collection Day 3 LIVE: The movie continues to smash box office with record breaking numbers. The film&#39;s worldwide earnings has&nbsp;...",
-    "news_item_url": "https://www.livemint.com/news/trends/pushpa-2-box-office-collection-day-3-allu-arjun-rashmika-mandannas-movie-estimated-to-cross-rs-550-crore-11733531901644.html",
-    "picture_source": "Hindustan Times",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSmvfYq-kK5t7yd2gjkfWo0VHawlZ9KBfmr26Kv0fO3C0HBhgtfTmNLsiHcfmiCMWWr3RPx_Ek-",
+    "news_item_snippet": "Pushpa 2 The Rule box office collection worldwide day 2: Sukumar&#39;s Allu Arjun, Rashmika Mandanna-starrer Pushpa 2: The Rule is shattering records.",
+    "news_item_url": "https://www.hindustantimes.com/entertainment/telugu-cinema/pushpa-2-the-rule-box-office-collection-worldwide-day-2-allu-arjun-rashmika-mandanna-film-crosses-400-crore-mark-101733562252792.html",
+    "picture_source": "Livemint",
     "approx_traffic": "200,000+"
   },
   {
@@ -171,19 +231,9 @@
   },
   {
     "country": "India",
-    "title": "Rohit Sharma",
-    "pubDate": "Fri, 06 Dec 2024 12:30:00 +0530",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRpODa1xOP0dNnthFIbVp6GCCYAjJhXNgKvBxlEJ_PnLGxoe-8IWPuh09KYevfkPeY3R9Qnm2Mz",
-    "news_item_snippet": "Captain Rohit Sharma was under the pump after letting the game slip away in the morning session on Day 2 of the second Test between Australia and India.",
-    "news_item_url": "https://www.indiatoday.in/sports/story/cricket-aus-vs-ind-adelaide-test-rohit-sharma-captaincy-blunders-r-ashwin-harshit-rana-2646369-2024-12-07",
-    "picture_source": "NDTVSports.com",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "India",
     "title": "Mohammed Siraj",
     "pubDate": "Fri, 06 Dec 2024 11:30:00 +0530",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTNQkOKmeK9p9gIkcDDwQjVPqS_2EpqKTqWFEqh7BZoyt7LbNWxl7b-uSEtprOT2TzWeZFJyZsJ",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQX1xBHOMoZ7RrdUD-pKVjoCqZgtyX4e8rvsCEUvqACNf7RZcZ-m5gqcdzCYTZtvWIYsYzQhfur",
     "news_item_snippet": "Cricket News: Mohammed Siraj&#39;s fiery yorker dismissed Travis Head after a stunning 140-run knock in Adelaide. Siraj&#39;s aggressive send-off sparked a heated&nbsp;...",
     "news_item_url": "https://timesofindia.indiatimes.com/sports/cricket/india-in-australia/if-they-want-to-react-like-that-travis-head-on-mohammed-sirajs-aggressive-send-off/articleshow/116077156.cms",
     "picture_source": "ESPNcricinfo.com",
@@ -191,12 +241,22 @@
   },
   {
     "country": "India",
+    "title": "Fastest ball in cricket",
+    "pubDate": "Fri, 06 Dec 2024 23:30:00 +0530",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQFOWzBup-tRM1cEXAIhJ2K2FMtQEKZSLR21FzLR2bR6DZrHcZUWwssbK5TVGnOSErip62wTSEp",
+    "news_item_snippet": "Cricket News: During the India-Australia pink-ball Test, a technical glitch falsely recorded Mohammed Siraj&#39;s delivery at 181.6 km/h.",
+    "news_item_url": "https://timesofindia.indiatimes.com/sports/cricket/india-in-australia/fastest-deliveries-in-cricket-revisiting-records-after-mohammed-sirajs-181-6-kph-glitch/articleshow/116072444.cms",
+    "picture_source": "Livemint",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "India",
     "title": "Virat Kohli",
     "pubDate": "Fri, 06 Dec 2024 13:30:00 +0530",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSIe34Ehlh5b4l7rtJiT-2avuoVYfkpw0pDlgJHFRqCwd8odo7Kkecxak9jRiWLQcDIMsqhNS9F",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTKSnKSsdrQzKo6qZcnKBXqhqDmhW9VEnCxeO_DBsEwCVbrwtASC5F2etugxwodDTFbaQhPuOdd",
     "news_item_snippet": "The story of Virat Kohli and Rohit Sharma&#39;s selection is nothing short of fascinating, and it highlights the importance of backing instincts over statistics&nbsp;...",
     "news_item_url": "https://www.hindustantimes.com/cricket/former-india-captain-was-sacked-as-selector-for-picking-virat-kohli-over-csk-star-spotted-rohit-while-attending-wedding-101733548564853.html",
-    "picture_source": "India Today",
+    "picture_source": "Hindustan Times",
     "approx_traffic": "50,000+"
   },
   {
@@ -204,29 +264,29 @@
     "title": "Jasprit Bumrah",
     "pubDate": "Fri, 06 Dec 2024 09:30:00 +0530",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcR_etpjD1F0_icG6irOB-trG35K75Yx3Ekv4SwqnXqXBQWLtLXNY5CS2v9KavscF7ldh0extMFh",
-    "news_item_snippet": "India vs Australia 2nd Test: \u091c\u0938\u092a\u094d\u0930\u0940\u0924 \u092c\u0941\u092e\u0930\u093e\u0939 \u090f\u0921\u093f\u0932\u0947\u0921 \u091f\u0947\u0938\u094d\u091f \u0915\u0947 \u0926\u0942\u0938\u0930\u0947 \u0926\u093f\u0928 \u092a\u0948\u0930 \u092e\u0947\u0902 \u0926\u0930\u094d\u0926 \u0915\u0940 \u0935\u091c\u0939 \u0938\u0947 \u092a\u0930\u0947\u0936\u093e\u0928 \u0939\u094b \u0917\u090f. \u0905\u0917\u0930 \u0935\u0947 \u091a\u094b\u091f\u093f\u0932 \u0939\u0941\u090f \u0924\u094b \u091f\u0940\u092e&nbsp;...",
-    "news_item_url": "https://www.abplive.com/sports/cricket/jasprit-bumrah-injury-what-happened-in-adelaide-india-vs-australia-2nd-test-2838066",
+    "news_item_snippet": "Star India fast bowler Jasprit Bumrah faced an injury scare during the second session of Day 2 of the second Test against Australia in Adelaide.",
+    "news_item_url": "https://www.indiatoday.in/sports/story/cricket-jasprit-bumrah-injury-aus-vs-ind-border-gavaskar-trophy-daynight-test-2646428-2024-12-07",
     "picture_source": "Times of India",
     "approx_traffic": "50,000+"
   },
   {
     "country": "India",
-    "title": "ACC U19 Asia Cup",
-    "pubDate": "Fri, 06 Dec 2024 22:30:00 +0530",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSqKuGEeUDYSOwko_L0XpBjcXkQQL1dnyA0vF_f3FA3EO74T3OLx3u0PsmcP6Vh_5zL9ank2ZGQ",
-    "news_item_snippet": "India and Bangladesh face off in the 2024 ACC U19 Asia Cup final - live streaming, preview, date and time, venue, form guide, key players.",
-    "news_item_url": "https://sportstar.thehindu.com/cricket/ind-vs-ban-india-bangladesh-acc-u19-mens-asia-cup-final-live-streaming-preview-date-time-venue-key-players-form/article68957869.ece",
-    "picture_source": "Business Standard",
+    "title": "India vs Australia Test",
+    "pubDate": "Fri, 06 Dec 2024 12:30:00 +0530",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQ0kZF01Ofc5RSnqXbHdYaDSvzqJ9kgCJkTuHPoskkKYr0YYxGP3fwYG3JQ13FaqIxhndtIeYRz",
+    "news_item_snippet": "India vs Australia 2nd Test Day 1 Highlights: Mitchell Starc shone with a sensational six-wicket spell as Australia dominated the opening day.",
+    "news_item_url": "https://sports.ndtv.com/australia-vs-india-2024-25/india-vs-australia-live-score-2nd-test-pink-ball-match-day-1-ind-vs-aus-live-scorecard-updates-rohit-sharma-virat-kohli-jasprit-bumrah-7181842",
+    "picture_source": "Sportstar",
     "approx_traffic": "50,000+"
   },
   {
     "country": "Australia",
     "title": "Cricket scores",
     "pubDate": "Fri, 06 Dec 2024 15:00:00 +1100",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTcWdBL3zEP_QIFk6zc01BliTVodmqV3oKdIeLniX_WM35VD7_ckklZAh-WGQHtN2DeuOJ9xId1",
-    "news_item_snippet": "India on ropes in 14-wicket chaos as Head ton, brutal Aussie session swings series.",
-    "news_item_url": "https://www.foxsports.com.au/cricket/cricket-2024-australia-vs-india-2nd-test-from-adelaide-live-scores-scorecard-updates-start-time-latest-news-top-order/news-story/a3559e02a7c43dfe38c439c2dd2381e8",
-    "picture_source": "ABC News",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRhx1tV1U54ddQTCwNzWdLi91knktd9QSygOumNnwMsz7Dmkbn_k14opfuk7n58OxPXKNEqUd9a",
+    "news_item_snippet": "Travis Head&#39;s century and a sensational bowling display under lights have put Australia in a superb position on day two of the second Test at Adelaide Oval.",
+    "news_item_url": "https://www.abc.net.au/news/2024-12-07/live-updates-australia-vs-india-second-test-day-two-adelaide/104696832",
+    "picture_source": "Fox Sports",
     "approx_traffic": "100,000+"
   },
   {
@@ -243,7 +303,7 @@
     "country": "Australia",
     "title": "Maggie Tabberer",
     "pubDate": "Fri, 06 Dec 2024 14:00:00 +1100",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQUwypDg0qg3s0ufg64U9WkpNdCcFAHo8PR0h0fIYxnBVgteD6oT7wvv8kM80Jyw2Z96NVutVy7",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQfVb0AAYdvXWN-WuGwt39194K65kPPXTBwfSPEjk5aflURajHVPG9vDospQlNAMoTpf9_uk3fr",
     "news_item_snippet": "From model to television personality, Maggie Tabberer paved the way for Deborah Hutton, Jennifer Hawkins, Miranda Kerr as a multi-hyphenate in fashion.",
     "news_item_url": "https://www.smh.com.au/lifestyle/fashion/australia-s-first-supermodel-maggie-tabberer-dies-at-87-20241206-p5kwfq.html",
     "picture_source": "ABC News",
@@ -251,13 +311,43 @@
   },
   {
     "country": "Brazil",
+    "title": "Manchester City",
+    "pubDate": "Sat, 07 Dec 2024 09:00:00 -0500",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSAIgX8ZcDPrDV2IZRKstbBBJWASEIHWuGAa9acHyu1H5sSmXu0tX1WB-1HSGiv7XI_fRjmkef3",
+    "news_item_snippet": "Os Citizens chegaram a ficar duas vezes atr\u00e1s do placar, mas empataram com o Crystal Palace por 2 a 2, neste s\u00e1bado (7), fora de casa, pela 15\u00aa rodada do&nbsp;...",
+    "news_item_url": "https://www.terra.com.br/esportes/futebol/internacional/manchester-city-arranca-empate-com-crystal-palace-no-ingles,70de966d49484a33bb947ad24ff9b93ex76p1hry.html",
+    "picture_source": "ESPN.com.br",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "Brazil",
     "title": "Everton x Liverpool",
     "pubDate": "Sat, 07 Dec 2024 06:00:00 -0500",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRhgFlWs2DnMyQLpLOf1yl2w75_LALlp9stpLLBIQi_lFxFw008UUu9VIkXr_wlOEcYuSjjh1qf",
-    "news_item_snippet": "Partida ser\u00e1 neste s\u00e1bado (7), \u00e0s 9h30 (de Bras\u00edlia), pela 15\u00aa rodada do Campeonato Ingl\u00eas. O confronto acontece no Goodison Park.",
-    "news_item_url": "https://www.uol.com.br/esporte/ultimas-noticias/2024/12/07/everton-x-liverpool-onde-assistir-e-horario-do-jogo-do-campeonato-ingles.htm",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTnwpPNpmiKVgMsdco6XwpC5Y0z_ckwICMWUHTpKweaMRKqFsf4Yu2qxna5EUM4tuQY08HNtV_j",
+    "news_item_snippet": "O jogo entre Everton e Liverpool, que ocorreria na manh\u00e3 deste s\u00e1bado, no Goodison Park, \u00e0s 9h30 (de Bras\u00edlia), foi adiado. A raz\u00e3o: fortes chuvas e ventos&nbsp;...",
+    "news_item_url": "https://www.terra.com.br/esportes/futebol/internacional/everton-x-liverpool-pelo-campeonato-ingles-e-adiado,1e49d896c7eada4b45019e4520a6995asok4nhj0.html",
     "picture_source": "globoesporte.com",
     "approx_traffic": "100,000+"
+  },
+  {
+    "country": "Brazil",
+    "title": "Betis x Barcelona",
+    "pubDate": "Sat, 07 Dec 2024 10:00:00 -0500",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcT9bplfJ5cexkCJ3uu6wQKn3NydLYYZTDzO5AwFXjqLfgie_uxzsd_07bMFrhPM4mQqBsNVZU_m",
+    "news_item_snippet": "Neste s\u00e1bado (07), Betis e Barcelona se enfrentam pela 16\u00aa rodada da La Liga. Mais de 15 pontos separam as equipes na tabela. O duelo acontece no Est\u00e1dio&nbsp;...",
+    "news_item_url": "https://olhardigital.com.br/2024/12/07/internet-e-redes-sociais/betis-x-barcelona-onde-assistir-horario-e-escalacao-da-la-liga/",
+    "picture_source": "LANCE!",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "Brazil",
+    "title": "Bayern x Heidenheim",
+    "pubDate": "Sat, 07 Dec 2024 10:00:00 -0500",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQcNooj5jD1oAWYZcqmjDyyUBsn791tag2Z36Dc0zMo1qO647fOQwJt3vy6368jowjost3xu6bB",
+    "news_item_snippet": "Bayern de Munique e Heidenheim se enfrentam em 07/12, na 13\u00aa rodada da Bundesliga 2024/25. Veja o nosso palpite e escala\u00e7\u00f5es do l\u00edder da Bundesliga hoje.",
+    "news_item_url": "https://www.gazetaesportiva.com/apostas/prognosticos/futebol/bayern-de-munique-x-heidenheim-07-12-2024",
+    "picture_source": "Terra",
+    "approx_traffic": "50,000+"
   },
   {
     "country": "Brazil",
@@ -303,20 +393,20 @@
     "country": "Canada",
     "title": "Jacob Trouba",
     "pubDate": "Fri, 06 Dec 2024 11:00:00 -0500",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQaANJoQZzKIf6CYf8q8VI0A_UKbwXWYVsllIxfQeugxviVEKxac-8xF7DOzIolxN2ySAFgB_3b",
-    "news_item_snippet": "It wasn&#39;t always the smoothest relationship between the New York Rangers and captain Jacob Trouba. On Friday, it ended completely with a trade to the&nbsp;...",
-    "news_item_url": "https://www.sportsnet.ca/nhl/article/not-overly-thrilled-jacob-trouba-speaks-on-trade-to-ducks/",
-    "picture_source": "Le Journal de Qu\u00e9bec",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQw4Cwsm1kwFEGH8It2QmJnDgZyaKPzm56lw7PZdMJLAqgVeQsB7hTd3jvcjxUvo0iic1EREhL_",
+    "news_item_snippet": "On the latest episode of One-on-One with Bruce Garrioch, Bruce chats with TSN hockey analyst and former Ottawa Senators defenceman Marc Methot.",
+    "news_item_url": "https://ottawacitizen.com/ottawa-senators/ottawa-senators-had-no-serious-talks-on-jacob-trouba-as-search-for-help-continues",
+    "picture_source": "NHL.com",
     "approx_traffic": "50,000+"
   },
   {
     "country": "South Korea",
     "title": "\ud0c4\ud575",
     "pubDate": "Fri, 06 Dec 2024 11:00:00 +0900",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRBFafyiZ03Y4KbIzOnckovMieb3s_sMa-kJodmiZCkCvXR-lWR1vKZTUM-DyFyLyr4J2ARWzvtMw",
-    "news_item_snippet": "\uc724\uc11d\uc5f4 \ub300\ud1b5\ub839 \ud0c4\ud575\uc18c\ucd94\uc548\uc5d0 \ub300\ud55c \ud45c\uacb0\uc774 \uc9c4\ud589\ub418\ub294 7\uc77c \uc804\uad6d \uac01\uc9c0\uc5d0\uc11c \uc724 \ub300\ud1b5\ub839 \ud0c4\ud575\uc744 \ucd09\uad6c\ud558\ub294 \uc9d1\ud68c\uac00 \uc5f4\ub9ac\uace0 \uc788\ub2e4. \ub300\uc804 \uc11c\uad6c \ub454\uc0b0\ub3d9 \uc740\ud558\uc218\ub124\uac70\ub9ac\uc5d0\uc11c\ub294 \uc774\ub0a0&nbsp;...",
-    "news_item_url": "https://www.hani.co.kr/arti/area/capital/1171622.html",
-    "picture_source": "doctorsnews",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRdTK4h3lqFKSV6p-cmCSvZvRT-mAqm5NA68wAJpdMEvueWJe8UvQ0PvNDB8i666rsw7AuwBodp",
+    "news_item_snippet": "\ub300\ud1b5\ub839 \ud0c4\ud575\uc18c\ucd94\uc548\uc774 \uad6d\ud68c \ubcf8\ud68c\uc758\uc5d0\uc11c \ubd80\uacb0\ub41c \uac00\uc6b4\ub370, 6\uc120 \uc911\uc9c4 \uc870\uacbd\ud0dc \uad6d\ubbfc\uc758\ud798 \uc758\uc6d0\uc774 &quot;\uc815\uc0c1\uc801\uc778 \ub300\ud55c\ubbfc\uad6d \uc0ac\ud68c\uac00 \ud615\uc131\ub418\uae30 \uc704\ud574 \ub300\ud1b5\ub839\uc774 \ud558\ub8e8\ube68\ub9ac \ubb3c\ub7ec\ub098\uc57c \ud55c\ub2e4&quot;&nbsp;...",
+    "news_item_url": "https://www.bbc.com/korean/articles/cq8qqe770edo",
+    "picture_source": "\ud55c\uaca8\ub808",
     "approx_traffic": "200,000+"
   },
   {
@@ -341,23 +431,43 @@
   },
   {
     "country": "France",
+    "title": "Notre-Dame de Paris",
+    "pubDate": "Fri, 06 Dec 2024 20:00:00 +0100",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTWSKv286dUwSo7aM1fG2xnEFKrgr4bxurihT9sd-vc_tJsuBmVxRYMVzNEQPt_WkmqVeprBnFh",
+    "news_item_snippet": "Cinq ans apr\u00e8s le gigantesque incendie qui a ravag\u00e9 Notre-Dame de Paris, suivez en direct la c\u00e9r\u00e9monie de r\u00e9ouverture de la cath\u00e9drale.",
+    "news_item_url": "https://www.francebleu.fr/infos/culture-loisirs/direct-video-notre-dame-de-paris-suivez-la-ceremonie-de-reouverture-de-la-cathedrale-2045216",
+    "picture_source": "Franceinfo",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "France",
     "title": "Tempete Darragh",
     "pubDate": "Fri, 06 Dec 2024 02:00:00 +0100",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTvtm0NbLIujAs5rCKiqnEhWXwy5lbpHW4Q-xbJvfbnsV84vUTmCKeWyi6yR5LEn8RdrN6sdCOEzg",
-    "news_item_snippet": "Neuf d\u00e9partements du littoral nord-ouest et six autres dans le Sud-Ouest sont plac\u00e9s en vigilance orange pour vent ou neige-verglas par M\u00e9t\u00e9o-France pour la&nbsp;...",
-    "news_item_url": "https://www.lemonde.fr/planete/article/2024/12/07/tempete-darragh-vigilance-orange-pour-quinze-departements-du-nord-ouest-et-du-sud-est_6434906_3244.html",
-    "picture_source": "Ouest-France",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTo4baATVVLdoBbNdmQiYkHVHsaVc51we7AY2H4aIv09VFGco7R59fFdTvC9_yfCi7f3XSoOr2b",
+    "news_item_snippet": "En Normandie, la SNCF annonce l&#39;interruption des circulations ferroviaires jusqu&#39;\u00e0 dimanche sur l&#39;ensemble de la r\u00e9gion, notamment sur le r\u00e9seau ferroviaire&nbsp;...",
+    "news_item_url": "https://www.francetvinfo.fr/meteo/inondations/tempete-darragh-trains-supprimes-et-trafic-perturbe-sur-le-reseau-sncf_6941792.html",
+    "picture_source": "BFMTV",
     "approx_traffic": "50,000+"
   },
   {
     "country": "France",
     "title": "Mercosur",
     "pubDate": "Fri, 06 Dec 2024 09:00:00 +0100",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTkjj4JFgiQf2iLSjEnnW4YwuMVKgENEkXI07dx4NnOlgowPFNh4q8oeBMQ2yHPbOzbvgLohrap",
-    "news_item_snippet": "Le 6 d\u00e9cembre 2024, Ursula von der Leyen, pr\u00e9sidente de la Commission europ\u00e9enne, a annonc\u00e9 la conclusion des pourparlers entre l&#39;Union europ\u00e9enne (UE) et&nbsp;...",
-    "news_item_url": "https://www.vie-publique.fr/en-bref/296517-laccord-de-libre-echange-ue-mercosur-acte",
-    "picture_source": "TV5MONDE Info",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRJOLEGSeG0oSLDn--PEOOgysxeDuyHQAVpKJri92jhqZburEDJrdI9q0pvjhTM-QqoWbHFArui",
+    "news_item_snippet": "Trop d\u00e9pendante de la Chine et des Etats-Unis, l&#39;Allemagne cherche \u00e0 diversifier d&#39;urgence ses \u00e9changes commerciaux. L&#39;accord de libre-\u00e9change avec le&nbsp;...",
+    "news_item_url": "https://www.lesechos.fr/monde/europe/accord-ue-mercosur-pourquoi-lallemagne-soppose-a-la-france-2136479",
+    "picture_source": "Vie publique.fr",
     "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Germany",
+    "title": "Bayern \u2013 Heidenheim",
+    "pubDate": "Sat, 07 Dec 2024 16:00:00 +0100",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRGpbhuNu5qtcd0eagncXll46Qvi97UzT-IeBlfC7ZR3A63MPiNInc1dzjyio-SqKYlxvYkjuFm",
+    "news_item_snippet": "Riesige Dominanz, aber nur ein enger Sieg: Der FC Bayern M\u00fcnchen hat nach dem Aus im DFB-Pokal wieder in der Fu\u00dfball-Bundesliga jubeln d\u00fcrfen, der 1.",
+    "news_item_url": "https://www.sportschau.de/fussball/bundesliga/fc-bayern-macht-es-gegen-heidenheim-unnoetig-spannend,bundesliga-fcb-fch-100.html",
+    "picture_source": "kicker",
+    "approx_traffic": "100,000+"
   },
   {
     "country": "Germany",
@@ -368,16 +478,6 @@
     "news_item_url": "https://www.vfb.de/de/vfb/profis/saison/bundesliga/2425/stimmen/stimmen-vfb-stuttgart---union-berlin/",
     "picture_source": "VfB Stuttgart",
     "approx_traffic": "100,000+"
-  },
-  {
-    "country": "Germany",
-    "title": "VfB Stuttgart",
-    "pubDate": "Fri, 06 Dec 2024 20:00:00 +0100",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTjSSc5V72ZDrp2_dkXgZqe52W8Rp6G0CZGJ-m85ZSCjsbCSRFEowflPFbICMHq7eBmNoRoZvJr",
-    "news_item_snippet": "Nach einem Fehler von Alexander N\u00fcbel sah vieles nach der n\u00e4chsten Pleite f\u00fcr den VfB Stuttgart aus - doch dann kam Nick Woltemade und leitete die Wende&nbsp;...",
-    "news_item_url": "https://www.sportschau.de/fussball/bundesliga/joker-woltemade-kuesst-stuttgart-nach-nuebel-patzer-wach,bundesliga-vfb-fcu-100.html",
-    "picture_source": "VfB Stuttgart",
-    "approx_traffic": "50,000+"
   },
   {
     "country": "Germany",
@@ -400,83 +500,43 @@
     "approx_traffic": "200,000+"
   },
   {
-    "country": "Germany",
-    "title": "Adventskalender",
-    "pubDate": "Sun, 01 Dec 2024 20:00:00 +0100",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQBzTeP_RiPtWgQBT5JV2-sEHg8BJuacANgfeYVQgMdb0wSM5E0JCvQJWgLo95EGCQcM4LbuTHX",
-    "news_item_snippet": "Hinter dem heutigen <b>Adventskalender</b>-T\u00fcrchen versteckt sich sb L\u00dcNING in Herzebrock. ... Die L\u00dcNING-Gruppe ist ein mittelst\u00e4ndisches Familienunternehmen in sechster Generation mit Sitz in Rietberg (Nordrhein-Westfalen). Seit \u00fcber 50 Jahren betreibt L\u00dcNING&nbsp;...",
-    "news_item_url": "https://app.herzeblog.de/gewinnspiel-adventskalender-tag-02-sb-luening_VSqU/qXfI",
-    "picture_source": "Herzeblog.de",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Germany",
-    "title": "1. Advent",
-    "pubDate": "Fri, 29 Nov 2024 19:00:00 +0100",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQvoNW4jQGZDHlzwtX3kqhnrpVzTmIVOBRB6XBvW_9afSZc-MPEQO-aq3eUNgrjtfUg72f8GdXD",
-    "news_item_snippet": "Was soll denn da noch alles kommen? Noch mehr Baustellen im Leben, noch mehr Katastrophen\u2026In der Morgenfeier zum ersten Advent stellt Julia Rittner-Kopp aus&nbsp;...",
-    "news_item_url": "https://www.sonntagsblatt.de/artikel/glaube/predigt-zum-1-advent-macht-hoch-die-tuer-der-friedefuerst-kommt-endlich-bitte",
-    "picture_source": "Sonntagsblatt",
-    "approx_traffic": "50,000+"
-  },
-  {
     "country": "Italy",
-    "title": "Atalanta-Milan",
-    "pubDate": "Fri, 06 Dec 2024 00:00:00 +0100",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTs75ztVllhAf7boOu7uUPeaBsvZWMcZCEV_M4TaxQ3LvWlzgyK3NqxIPWEAkSh5cIQ3T2wScB9",
-    "news_item_snippet": "Atalanta Milan su Sky Sport: scopri tutti gli aggiornamenti sulla partita di Serie A in tempo reale.",
-    "news_item_url": "https://sport.sky.it/calcio/serie-a/partite/2024/giornata-15/atalanta-milan/risultato-gol",
-    "picture_source": "Atalanta",
-    "approx_traffic": "500,000+"
-  },
-  {
-    "country": "Italy",
-    "title": "Inter",
-    "pubDate": "Fri, 06 Dec 2024 20:00:00 +0100",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTp8Kh_DeHPPjRzEqXnM4awaRhh3UA35zDYEUQN70h8Y02Gv0ezi2KX-VGhvixhRCYXUsIUcUzt",
-    "news_item_snippet": "Nerazzurri in campo il 17, 21 e 25 giugno: il primo match al Rose Bowl Stadium contro il Monterrey, poi due partite al Lumen Field di Seattle contro Urawa Red&nbsp;...",
-    "news_item_url": "https://www.inter.it/it/notizie/inter-mondiale-per-club-2025-calendario-partite",
-    "picture_source": "Sky Sport",
-    "approx_traffic": "100,000+"
+    "title": "Juventus-Bologna",
+    "pubDate": "Sat, 07 Dec 2024 10:00:00 +0100",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSjDf8FEpOgmJGUpO_mHIirMIXD3wlV36TzdOfE4qCqpxgwk2S8rUg0ZYIUE79GBInUzn9zXGxK",
+    "news_item_snippet": "Thiago Motta contro il passato. L&#39;allenatore bianconero sfida il &quot;suo&quot; Bologna con la novit\u00e0 Fagioli a centrocampo e il recuperato Vlahovic di nuovo&nbsp;...",
+    "news_item_url": "https://sport.sky.it/calcio/serie-a/partite/2024/giornata-15/juventus-bologna/risultato-gol",
+    "picture_source": "Juventus.com",
+    "approx_traffic": "50,000+"
   },
   {
     "country": "Mexico",
-    "title": "Atalanta - Milan",
-    "pubDate": "Fri, 06 Dec 2024 14:00:00 -0600",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcScQhEeI3pqBTsaBBWv8cxx7sKQEffhhpSFVG1N162w3nK-67BKLpT2B4l_AK-SL-YCM9H0HycD",
-    "news_item_snippet": "El conjunto de Gian Piero Gasperini se midi\u00f3 con Milan, al que derrot\u00f3 por 2-1.",
-    "news_item_url": "https://www.infobae.com/noticias/2024/12/06/atalanta-vence-2-1-a-ac-milan-en-el-atleti-azzurri-ditalia/",
-    "picture_source": "MARCA",
+    "title": "Betis  Barcelona",
+    "pubDate": "Sat, 07 Dec 2024 09:00:00 -0600",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTzryKfgDarkY3V83j7_OCOkVSqmqej5pb1vP8zUEvcMq0eAaKH_aieahw_FZQWgxeGuhOMvrL8",
+    "news_item_snippet": "El argentino defini\u00f3 muy bien de penal y, aunque el arquero del Cul\u00e9 le adivin\u00f3 la punta, la pelota termin\u00f3 inflando la red.",
+    "news_item_url": "https://www.espn.com.mx/futbol/espana/nota/_/id/14537778/giovani-lo-celso-puso-1-1-para-betis-barcelona",
+    "picture_source": "RTVE",
     "approx_traffic": "50,000+"
   },
   {
     "country": "Spain",
-    "title": "Celta de Vigo  RCD Mallorca",
-    "pubDate": "Fri, 06 Dec 2024 21:00:00 +0100",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQhDDGhtTXDq6Sp9uI1ysYmsRdMYYguIG1m7Kk-_Nun2FK3DaChDnf_EGcrL4IdRudV5cvTnNJX",
-    "news_item_snippet": "Revive la cobertura minuto a minuto y el resultado del partido de f\u00fatbol de la LaLiga EA Sports que ha enfrentado a Celta de Vigo contra Mallorca.",
-    "news_item_url": "https://www.mundodeportivo.com/futbol/laliga/20241206/1002363657/celta-vigo-mallorca-directo-laliga-ea-sports.html",
-    "picture_source": "F\u00fatbol Balear",
-    "approx_traffic": "100,000+"
+    "title": "Betis  Barcelona",
+    "pubDate": "Sat, 07 Dec 2024 15:00:00 +0100",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSSF81HIFpEtQ0HRzABmOP5Y2zdMrO0Jtek0PrRJx2u1I5JEDtwsjKd0kBBxNmF8C2zmr42Gppu",
+    "news_item_snippet": "La imagen del partido. Lamine Yamal se marcha al banquillo con un cabreo monumental por el empate. Todo ello cuando \u00e9l fue el mejor de su equipo. Por.",
+    "news_item_url": "https://www.marca.com/futbol/laliga-ea-sports/betis-barcelona/2024/12/07/01_0101_20241207_185_178-directo.html",
+    "picture_source": "EL PA\u00cdS",
+    "approx_traffic": "200,000+"
   },
   {
     "country": "Spain",
-    "title": "Jose de la Torre",
-    "pubDate": "Fri, 06 Dec 2024 01:00:00 +0100",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQrfWbwutxt_scO-Q6uQQcoQdGjWx8457xtH6heY-8UZzW56suNfnh0phKFvwprAHXdYomuzXgc",
-    "news_item_snippet": "El artista disfrut\u00f3 de una mete\u00f3rica carrera desde que comenzara su aventura profesional como actor hace m\u00e1s de una d\u00e9cada.",
-    "news_item_url": "https://www.levante-emv.com/ocio/tv/2024/12/05/muere-jose-torre-actor-toy-112376353.html",
-    "picture_source": "El Mundo",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "Spain",
-    "title": "Mercadona",
-    "pubDate": "Fri, 06 Dec 2024 13:00:00 +0100",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRY-nPWI3zRyI8jHhPsTWUtvPBLZhTM6RRaSDqp2k5LhgWglcAZLzB2i--Hcn6zJPdUvYWOESYZ",
-    "news_item_snippet": "Tortitas de ma\u00edz sabor jam\u00f3n serrano. Rulo de queso de cabra con pi\u00f1a y almendras. Salsa de queso. Surimi. Ensaladas preparadas (como la C\u00e9sar).",
-    "news_item_url": "https://www.diariovasco.com/sociedad/nutricionista-analiza-productos-mercadona-descarta-ensaladas-magdalenas-20241206153053-nt.html",
-    "picture_source": "Vit\u00f3nica",
+    "title": "UD Las Palmas  Valladolid",
+    "pubDate": "Sat, 07 Dec 2024 14:00:00 +0100",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRZGAuFM_fxGvmnMnp2Lsq4T89vk7dYDKV_3jnSjURbqL1EGWsy3qMUWGOZijqvaupN8OOmYw45",
+    "news_item_snippet": "\u00daLTIMA HORA | Con estos equipos jugar\u00e1n la UD Las Palmas y el Real Valladolid en la d\u00e9cimo sexta jornada de LaLiga EA SPORTS 2024-2025. UD Las Palmas y Real&nbsp;...",
+    "news_item_url": "https://www.udlaspalmas.net/2024/12/07/alineaciones-confirmadas-ud-las-palmas-vs-valladolid/",
+    "picture_source": "AS",
     "approx_traffic": "50,000+"
   },
   {
@@ -484,10 +544,40 @@
     "title": "Everton vs Liverpool",
     "pubDate": "Sat, 07 Dec 2024 09:00:00 +0000",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQAprslUOBl--ohfQS6YDm3kTY9lG3DoHZimaxWbrHzvOCwonc0B_xxta_F1Kk_7KW4_NfhZ9Yj",
-    "news_item_snippet": "The storm had already seen the postponement of most professional sport in Wales, while Plymouth&#39;s match against Oxford was also called off. On Saturday morning,&nbsp;...",
-    "news_item_url": "https://www.tntsports.co.uk/football/premier-league/2024-2025/everton-v-liverpool-merseyside-derby-postponed-safety-concerns-weather-storm-darragh_sto20060708/story.shtml",
+    "news_item_snippet": "Liverpool&#39;s Premier League clash with Everton at Goodison Park has been postponed due to adverse weather conditions on Merseyside.",
+    "news_item_url": "https://www.espn.co.uk/football/story/_/id/42827775/everton-vs-liverpool-merseyside-derby-postponed-due-storm",
     "picture_source": "Sky Sports",
     "approx_traffic": "200,000+"
+  },
+  {
+    "country": "United Kingdom",
+    "title": "Crystal Palace vs Man City",
+    "pubDate": "Sat, 07 Dec 2024 15:00:00 +0000",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcR4HP-GjSO88vYYNrjdOa9q5R6y_csU0WuTYaUOqcQwtRghj4-eEjp6PP-oT9YjXFxPcrPLGdA7",
+    "news_item_snippet": "Follow live coverage as Crystal Palace face Manchester City today in the Premier League. Another top-flight season will be covered in full right here with&nbsp;...",
+    "news_item_url": "https://www.independent.co.uk/sport/football/crystal-palace-man-city-live-stream-score-result-b2660566.html",
+    "picture_source": "Manchester City FC",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United Kingdom",
+    "title": "Michail Antonio",
+    "pubDate": "Sat, 07 Dec 2024 17:00:00 +0000",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSxn4A2PFJqGqZ_4b_ctNfm2RTrfcK8qF6wF2jlnQAPoeexWy8w_Gs2ZHb8e7Tiqu3ePeLfRpEF",
+    "news_item_snippet": "Premier League club issue update to confirm player conscious after road traffic accident in Essex.",
+    "news_item_url": "https://www.theguardian.com/football/2024/dec/07/west-ham-michail-antonio-road-traffic-accident",
+    "picture_source": "Sky News",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United Kingdom",
+    "title": "Aston Villa vs Southampton",
+    "pubDate": "Sat, 07 Dec 2024 15:00:00 +0000",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcS5yu8RGH3KI7SiJTBCowmSrydaXvamXlAJu89nsM3Kbqci4o-SzWwnRzSveF1ckTS7nrxw4EDN",
+    "news_item_snippet": "Saints break from a Villa corner with Dibling leading the charge. He plays in Archer but Kamara has tracked ball all the way and blocks the shot from Archer.",
+    "news_item_url": "https://www.nbcsports.com/soccer/news/how-to-watch-aston-villa-vs-southampton-live-stream-link-tv-channel-team-news-prediction",
+    "picture_source": "The Independent",
+    "approx_traffic": "50,000+"
   },
   {
     "country": "United Kingdom",
