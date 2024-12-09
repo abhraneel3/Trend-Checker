@@ -3,11 +3,11 @@
     "country": "United States",
     "title": "Chiefs",
     "pubDate": "Sun, 08 Dec 2024 08:00:00 -0800",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRSZ_rsiJi40OBkBn7EiWRp8qg-DL3xB-AZYbQLDbpx8MIhsUvPmvinDWjHAHlqnfxKOTPs9Myl",
-    "news_item_snippet": "Follow live coverage of tonight&#39;s AFC West matchup between the Chargers and Chiefs on &#39;Sunday Night Football&#39;",
-    "news_item_url": "https://www.nytimes.com/athletic/live-blogs/chargers-vs-chiefs-live-score-updates-nfl-snf-result/4cgrBPfLFiYM/",
-    "picture_source": "NBC News",
-    "approx_traffic": "500,000+"
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQb61Mu8psdN373-DyFPvFzmEVN6T1WBRZsSLPk2jwMrUqjY-o2SlKFITQdWY7E6FFV4HfKWfBl",
+    "news_item_snippet": "Wide receiver Ladd McConkey, who was limited all week in practice with a knee and shoulder injury, is inactive for Week 14 in Kansas City. McConkey currently&nbsp;...",
+    "news_item_url": "https://www.chargers.com/news/ladd-mcconkey-chiefs-inactives-week-14",
+    "picture_source": "NFL.com",
+    "approx_traffic": "1,000,000+"
   },
   {
     "country": "United States",
@@ -17,16 +17,6 @@
     "news_item_snippet": "The Eagles are in the playoffs for the fourth year in the row after beating Carolina on Sunday and getting some help from around the league.",
     "news_item_url": "https://www.philadelphiaeagles.com/news/eagles-playoff-scenarios-road-to-victory-2024",
     "picture_source": "PhiladelphiaEagles.com",
-    "approx_traffic": "500,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Bears vs 49ers",
-    "pubDate": "Sun, 08 Dec 2024 11:00:00 -0800",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTDcor-FpJY4P-yVhmnwH4SVkrMJBTSfeCsrryjO2Vt6Kvoz9WW5BK9jbUOuplu2wVDzHniG5gO",
-    "news_item_snippet": "The San Francisco 49ers returned home after a couple of tough road games to host the Chicago Bears (4-8). For a third-straight week, the team was without a&nbsp;...",
-    "news_item_url": "https://www.49ers.com/news/49ers-route-the-bears-at-levis-stadium-five-takeaways-from-chivssf",
-    "picture_source": "ChicagoBears.com",
     "approx_traffic": "500,000+"
   },
   {
@@ -41,22 +31,32 @@
   },
   {
     "country": "United States",
+    "title": "Juan Soto",
+    "pubDate": "Sun, 08 Dec 2024 20:00:00 -0800",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSFttA6F7Ur9QhgVCm3jSvMRDRE9-lEfRjT9u6GWLRcBCmIs7iRrLZFrCRbNfmpXLSawmlpmkSZ",
+    "news_item_snippet": "In choosing the Mets, Soto flipped the script in New York -- and across the sport.",
+    "news_item_url": "https://www.espn.com/mlb/story/_/id/42774498/mlb-free-agency-2024-2025-juan-soto-signs-record-contract-new-york-mets-passan",
+    "picture_source": "NBC News",
+    "approx_traffic": "500,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Bears vs 49ers",
+    "pubDate": "Sun, 08 Dec 2024 12:00:00 -0800",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTDcor-FpJY4P-yVhmnwH4SVkrMJBTSfeCsrryjO2Vt6Kvoz9WW5BK9jbUOuplu2wVDzHniG5gO",
+    "news_item_snippet": "The San Francisco 49ers returned home after a couple of tough road games to host the Chicago Bears (4-8). For a third-straight week, the team was without a&nbsp;...",
+    "news_item_url": "https://www.49ers.com/news/49ers-route-the-bears-at-levis-stadium-five-takeaways-from-chivssf",
+    "picture_source": "ChicagoBears.com",
+    "approx_traffic": "500,000+"
+  },
+  {
+    "country": "United States",
     "title": "Browns vs Steelers",
     "pubDate": "Sun, 08 Dec 2024 11:00:00 -0800",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQ7V4vna7dbXoqkKSdpZkp6rQ3P9-o0o9t3GHz6xeokTZhPurGNFKpJBkD0BBHBlbmX2YWKoX3c",
     "news_item_snippet": "Cleveland Browns running back Jerome Ford returns a kick 56 yards vs. the Pittsburgh Steelers in Week 14 of the 2024 NFL season.",
     "news_item_url": "https://www.clevelandbrowns.com/video/jerome-ford-s-56-yard-kick-return-opens-second-half-of-brown-steelers-with-a-bang-browns-vs-steelers-dec-8-2024",
     "picture_source": "clevelandbrowns.com",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Jets vs Dolphins",
-    "pubDate": "Sun, 08 Dec 2024 11:00:00 -0800",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQRwSZbKtO7_BP44PbMzw3bf5bvNg_z4IqD6Wy24pZsnr5kS7iCLmEpqz7-9juoCLlof6cT-2a3",
-    "news_item_snippet": "SportsLine simulated Miami Dolphins vs. New York Jets in Week 14 of the 2024 NFL season 10000 times.",
-    "news_item_url": "https://www.cbssports.com/nfl/news/jets-vs-dolphins-odds-picks-spread-how-to-watch-live-stream-model-reveals-2024-week-14-nfl-predictions/",
-    "picture_source": "newyorkjets.com",
     "approx_traffic": "200,000+"
   },
   {
@@ -71,6 +71,26 @@
   },
   {
     "country": "United States",
+    "title": "Jets vs Dolphins",
+    "pubDate": "Sun, 08 Dec 2024 11:00:00 -0800",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQRwSZbKtO7_BP44PbMzw3bf5bvNg_z4IqD6Wy24pZsnr5kS7iCLmEpqz7-9juoCLlof6cT-2a3",
+    "news_item_snippet": "SportsLine simulated Miami Dolphins vs. New York Jets in Week 14 of the 2024 NFL season 10000 times.",
+    "news_item_url": "https://www.cbssports.com/nfl/news/jets-vs-dolphins-odds-picks-spread-how-to-watch-live-stream-model-reveals-2024-week-14-nfl-predictions/",
+    "picture_source": "newyorkjets.com",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Jay-Z",
+    "pubDate": "Sun, 08 Dec 2024 17:00:00 -0800",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQNhn7dzUVUS7UyMSV8FRmfsqSfFYwTlehbkvEQzrwb-Ov9eESj-_w2qef5F6VtLCiZqiEfonzU",
+    "news_item_snippet": "Jay-Z, the star rapper and entrepreneur, was accused in a civil lawsuit on Sunday of raping a 13-year-old girl in 2000 allegedly along with Sean \u201cDiddy\u201d&nbsp;...",
+    "news_item_url": "https://www.nbcnews.com/news/us-news/jay-z-accused-civil-lawsuit-raping-13-year-old-girl-2000-sean-diddy-co-rcna183376",
+    "picture_source": "NPR",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "United States",
     "title": "Raiders vs Buccaneers",
     "pubDate": "Sun, 08 Dec 2024 11:00:00 -0800",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcS7qOMj6gXD9QtTM8pUtj1rfKCW1w7QXytPJisxjzFnjVT6OuoTzsWpSe4iyBnsAtZRqo1nAmQk",
@@ -81,13 +101,13 @@
   },
   {
     "country": "United States",
-    "title": "Jay-Z",
+    "title": "Cruz Azul  Am\u00e9rica",
     "pubDate": "Sun, 08 Dec 2024 17:00:00 -0800",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcS1o1N6Flfzliq7twykcEKOUsTtJSJPYeOYMq6dNtpDJC77IkUb1DBvFEhCxbL915s3jUwMLivL",
-    "news_item_snippet": "Jay-Z and Diddy are accused of raping a 13-year-old girl at a VMAs after-party in 2000.",
-    "news_item_url": "https://abcnews.go.com/US/jay-diddy-accused-raping-13-year-girl-civil/story?id=116584539",
-    "picture_source": "NBC News",
-    "approx_traffic": "200,000+"
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcS1MAzhy8wOufxsCekCKtXcoRtjiQhufiuagUenV57jrVYaR7b0BoE5OfeSsrPq2wQpkM4UkPhR",
+    "news_item_snippet": "Las \u00c1guilas vencieron 4-3 a La M\u00e1quina por la vuelta de las semifinales del Apertura 2024 y jugar\u00e1n la final ante Rayados de Monterrey.",
+    "news_item_url": "https://www.sportingnews.com/us-es/futbol/news/cruz-azul-america-vivo-marcador-resumen-goles-vuelta-semifinal-liguilla-apertura-2024/3503b8028552ae6245984e3e",
+    "picture_source": "ESPN Deportes",
+    "approx_traffic": "100,000+"
   },
   {
     "country": "United States",
@@ -97,16 +117,6 @@
     "news_item_snippet": "A bright start faded away on Sunday afternoon, as we spurned an early two-goal lead to suffer defeat against Chelsea at Tottenham Hotspur Stadium.",
     "news_item_url": "https://www.tottenhamhotspur.com/news/2024/december/spurs-vs-chelsea-premier-league-match-report/",
     "picture_source": "ESPN",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Cruz Azul  Am\u00e9rica",
-    "pubDate": "Sun, 08 Dec 2024 16:00:00 -0800",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcS1MAzhy8wOufxsCekCKtXcoRtjiQhufiuagUenV57jrVYaR7b0BoE5OfeSsrPq2wQpkM4UkPhR",
-    "news_item_snippet": "Las \u00c1guilas y La M\u00e1quina se enfrentan por la vuelta de las semifinales del Apertura 2024. Comentarios, resumen y todo sobre el juego.",
-    "news_item_url": "https://www.sportingnews.com/us-es/futbol/news/cruz-azul-america-vivo-marcador-resumen-goles-vuelta-semifinal-liguilla-apertura-2024/3503b8028552ae6245984e3e",
-    "picture_source": "ESPN Deportes",
     "approx_traffic": "100,000+"
   },
   {
@@ -124,9 +134,19 @@
     "title": "Seahawks vs Cardinals",
     "pubDate": "Sun, 08 Dec 2024 14:00:00 -0800",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcS-7LAoiy-9O_IRkxTM_zGCtwsjCwX_PP1oLa44DTRO6HIpsQW3FVHrglcG3Q_4hhR8OyCUyf41",
-    "news_item_snippet": "Another weekend, another game where the Seattle Seahawks are underdogs. For the eighth-straight game in a row, the Seahawks are favored to lose to their&nbsp;...",
-    "news_item_url": "https://seahawkswire.usatoday.com/2024/12/08/prediction-and-betting-odds-for-seahawks-vs-cardinals-in-week-14/",
+    "news_item_snippet": "It&#39;s Seahawks vs Cardinals in Week 14 of the 2024 NFL season. Here&#39;s how to watch, including time, channel, TV schedule and streaming info.",
+    "news_item_url": "https://seahawkswire.usatoday.com/2024/12/08/seahawks-cardinals-channel-time-tv-streaming-nfl-week-14/",
     "picture_source": "CBSSports.com",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Giants",
+    "pubDate": "Sun, 08 Dec 2024 11:00:00 -0800",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSViBoc7s55wSkxBnWF3PdrvQDsDSAOomAhtLvHLA7qSOMs1_6kZEAC7HGquMv_uVoi_4PlhtFn",
+    "news_item_snippet": "Notes and statistics from the Giants&#39; 14-11 loss to the New Orleans Saints in MetLife Stadium.",
+    "news_item_url": "https://www.giants.com/news/malik-nabers-stats-new-orleans-saints-nfl-week-14-tyrone-tracy-jr-derek-carr",
+    "picture_source": "NewOrleansSaints.com",
     "approx_traffic": "100,000+"
   },
   {
@@ -141,42 +161,42 @@
   },
   {
     "country": "United States",
-    "title": "Giants",
-    "pubDate": "Sun, 08 Dec 2024 11:00:00 -0800",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSViBoc7s55wSkxBnWF3PdrvQDsDSAOomAhtLvHLA7qSOMs1_6kZEAC7HGquMv_uVoi_4PlhtFn",
-    "news_item_snippet": "Notes and statistics from the Giants&#39; 14-11 loss to the New Orleans Saints in MetLife Stadium.",
-    "news_item_url": "https://www.giants.com/news/malik-nabers-stats-new-orleans-saints-nfl-week-14-tyrone-tracy-jr-derek-carr",
-    "picture_source": "NewOrleansSaints.com",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
     "title": "Mizzou basketball",
     "pubDate": "Sun, 08 Dec 2024 15:00:00 -0800",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRMsGYt_VGgoaX6iYaA_TgDi7DfJLymIJAngIPy2Ei4kemc8H_QejkjgqoeGMAExkEMkLruRXGP",
-    "news_item_snippet": "Missouri fans rushed the court after the final buzzer, something Tigers coach Dennis Gates was encouraging. &quot;I just think they deserve that moment,&quot; said Gates.",
-    "news_item_url": "https://www.espn.com/mens-college-basketball/story/_/id/42858027/missouri-basketball-hands-no-1-kansas-second-straight-loss",
+    "news_item_snippet": "Tamar Bates had 29 points and five steals to help Missouri beat No. 1 Kansas 76-67 on Sunday afternoon at Mizzou Arena in Columbia, Missouri.",
+    "news_item_url": "https://kuathletics.com/news/2024/12/8/mens-basketball-kansas-falls-to-missouri-67-76.aspx",
     "picture_source": "Mizzou Athletics",
     "approx_traffic": "50,000+"
   },
   {
     "country": "United States",
-    "title": "Jaguars vs Titans",
-    "pubDate": "Sun, 08 Dec 2024 13:00:00 -0800",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQSLxKuGt7OSsOjG1PW3wBo9ZwoyUbjOlSnVPo_DVawT4wChpfPERibYkEBMFTaG0rY3qAttHZB",
-    "news_item_snippet": "The Tennessee Titans (3-9) return home this week to face the AFC South rival Jacksonville Jaguars (2-10). Kickoff at Nissan Stadium (capacity 69,143) is&nbsp;...",
-    "news_item_url": "https://www.tennesseetitans.com/news/game-inactives-week-14-titans-vs-jaguars-x5338",
-    "picture_source": "jaguars.com",
+    "title": "Bowl games",
+    "pubDate": "Sun, 08 Dec 2024 11:00:00 -0800",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRd2w0PGaAj9-ZaqZvlx0X_8MML2bCpVjyOo07wGbYVoqBiAHW5T4GYk6A-WEA3PlSOD0G291P6",
+    "news_item_snippet": "The Huskies will take on the North Carolina Tar Heels from the Atlantic Coast Conference (ACC) at historic Fenway Park in Boston. Jointly produced by Fenway&nbsp;...",
+    "news_item_url": "https://uconnhuskies.com/news/2024/12/8/football-huskies-headed-to-wasabi-fenway-bowl.aspx",
+    "picture_source": "Mizzou Athletics",
     "approx_traffic": "50,000+"
   },
   {
     "country": "United States",
-    "title": "George Pickens",
-    "pubDate": "Sun, 08 Dec 2024 09:00:00 -0800",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSBGrBZAq1JWLYzm7BAUY7LmYO7hzcxwMnJb7t7yXoGuJqTb1EXfXFd6NT81WhcnS-jPGaPIc9e",
-    "news_item_snippet": "Pittsburgh Steelers wide receiver George Pickens (hamstring) is officially inactive for Sunday&#39;s game versus the Cleveland Browns.",
-    "news_item_url": "https://www.nfl.com/news/steelers-george-pickens-hamstring-inactive-for-rivalry-showdown-with-browns-on-sunday",
-    "picture_source": "ESPN",
+    "title": "Penn State game",
+    "pubDate": "Sun, 08 Dec 2024 13:00:00 -0800",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRvppGJXx73jekQOqC55E6W3-6qA76b9b0cdIpnGnAjwEQzswpiu0ON4nb2cgjwi9QJDqPB4Ey6",
+    "news_item_snippet": "The Nittany Lions earn their first-ever College Football Playoff bid. They&#39;ll play the SMU Mustangs in Beaver Stadium the weekend before Christmas.",
+    "news_item_url": "https://www.ydr.com/story/sports/college/penn-state/football/2024/12/08/penn-state-football-cfp-bracket-live-updates-playoff-rankings/76771570007/",
+    "picture_source": "Penn State Athletics",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Nuggets",
+    "pubDate": "Sun, 08 Dec 2024 04:00:00 -0800",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcT9cJXM_hY_AbVpg4ZGtTACw4EzUTALjt-SumZ3X-8Grlzi1LTC9l0L7HPrX9gbTlh3zERmSVgk",
+    "news_item_snippet": "The Denver Nuggets listed Aaron Gordon on the injury report vs the Atlanta Hawks.",
+    "news_item_url": "https://www.si.com/nba/nuggets/news/aaron-gordon-s-injury-status-for-nuggets-vs-hawks-01jem1g1t23j",
+    "picture_source": "Sports Illustrated",
     "approx_traffic": "50,000+"
   },
   {
@@ -192,10 +212,10 @@
   {
     "country": "India",
     "title": "Bangladesh U19 vs India U19",
-    "pubDate": "Sat, 07 Dec 2024 09:30:00 +0530",
+    "pubDate": "Sat, 07 Dec 2024 11:30:00 +0530",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTW-Q474xaamuAU1_0pjIcIJiglRnJLp5GjwUc3ZRhroX3GI7JAtpFrUpYCitb_CrYJQKJ9T7AL",
-    "news_item_snippet": "India vs Bangladesh U19 Asia Cup 2024 Final Live Score:\u092d\u093e\u0930\u0924 \u0905\u0902\u0921\u0930-19 \u092c\u0928\u093e\u092e \u092c\u093e\u0902\u0917\u094d\u0932\u093e\u0926\u0947\u0936 \u0905\u0902\u0921\u0930-19 \u092e\u0948\u091a \u0932\u093e\u0907\u0935 \u0915\u094d\u0930\u093f\u0915\u0947\u091f \u0938\u094d\u0915\u094b\u0930\u0964 Go to&nbsp;...",
-    "news_item_url": "https://www.jansatta.com/khel/cricket/india-u19-vs-bangladesh-u19-live-score-ind-u19-vs-ban-u19-u19-asia-cup-2024-final-live-cricket-score-updates-dubai/3721433/",
+    "news_item_snippet": "India vs Bangladesh (IND-U19 vs BAN-U19) U19 Asia Cup 2024 Finals: India captain Mohammad Amaan won the toss and elected to field first in the final against&nbsp;...",
+    "news_item_url": "https://indianexpress.com/article/sports/cricket/india-vs-bangladesh-u19-asia-cup-2024-final-live-cricket-score-ind-u19-vs-ban-u19-today-t20-match-live-scorecard-online-9712631/",
     "picture_source": "ESPNcricinfo.com",
     "approx_traffic": "200,000+"
   },
@@ -221,23 +241,13 @@
   },
   {
     "country": "India",
-    "title": "India vs Australia",
-    "pubDate": "Fri, 06 Dec 2024 09:30:00 +0530",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQ0kZF01Ofc5RSnqXbHdYaDSvzqJ9kgCJkTuHPoskkKYr0YYxGP3fwYG3JQ13FaqIxhndtIeYRz",
-    "news_item_snippet": "Cricket News: A gripping first day of the Adelaide Test saw fiery exchanges between India and Australia, reviving the classic rivalry.",
-    "news_item_url": "https://timesofindia.indiatimes.com/sports/cricket/india-in-australia/india-vs-australia-mitchell-starcs-perfect-response-to-yashasvi-jaiswal-in-adelaide/articleshow/116061642.cms",
-    "picture_source": "Sportstar",
-    "approx_traffic": "2,000,000+"
-  },
-  {
-    "country": "India",
-    "title": "IND vs AUS 2nd Test",
-    "pubDate": "Fri, 06 Dec 2024 13:30:00 +0530",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRgJP4ZQD_hW3zo_hevJfkb-4v6GepiQfWJdNSQlar3Jflds0lvudjTY8eelOVgC5nl3Dj-s1qg",
-    "news_item_snippet": "IND vs AUS Highlights: Catch the highlights from day 1 of the India vs Australia second Test match being played at the Adelaide Oval.",
-    "news_item_url": "https://sportstar.thehindu.com/cricket/india-vs-australia-live-score-2nd-test-day-1-updates-ind-vs-aus-adelaide-pink-ball-match-highlights-streaming-info/article68953554.ece",
-    "picture_source": "The Hindu",
-    "approx_traffic": "200,000+"
+    "title": "Under-19 Asia Cup",
+    "pubDate": "Sat, 07 Dec 2024 09:30:00 +0530",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTW-Q474xaamuAU1_0pjIcIJiglRnJLp5GjwUc3ZRhroX3GI7JAtpFrUpYCitb_CrYJQKJ9T7AL",
+    "news_item_snippet": "The batters could not capitalise on the good job done by the bowlers as India suffered a massive 59-run defeat to Bangladesh in the low-scoring U19 Asia Cup&nbsp;...",
+    "news_item_url": "https://www.thehindu.com/sport/cricket/under-19-asia-cup-final-india-under-19-vs-bangladesh-under-19-in-dubai-on-december-8-2024/article68961902.ece",
+    "picture_source": "ESPNcricinfo.com",
+    "approx_traffic": "50,000+"
   },
   {
     "country": "Argentina",
@@ -253,10 +263,10 @@
     "country": "Argentina",
     "title": "Atl\u00e9tico Madrid  Sevilla",
     "pubDate": "Sun, 08 Dec 2024 17:00:00 -0300",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTfNYJzc0djgKGb5n-R_UIegpUgqPiwxwlEnwjgHkdRGLB2odUQf_fEXiyh0XZ0mznnOuJ73IDs",
-    "news_item_snippet": "El conjunto de Diego Simeone se midi\u00f3 en casa con Sevilla, al que termin\u00f3 ganando 4-3.",
-    "news_item_url": "https://www.infobae.com/noticias/2024/12/08/triunfo-de-atletico-de-madrid-ante-sevilla-4-3/",
-    "picture_source": "TyC Sports",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQugm6SLYPTrcCPRczwoDfYPtjauL8uFPQv62fAN13wyFnrjBi-yl-gsl-IQFQk5lMMgZ0nn9Yf",
+    "news_item_snippet": "Atl\u00e9tico de Madrid vs. Sevilla juegan por la fecha 16 de La Liga de Espa\u00f1a. Seguilo en vivo, minuto a minuto.",
+    "news_item_url": "https://www.tycsports.com/espana/la-liga/atletico-de-madrid-vs-sevilla-en-vivo-hora-donde-ver-y-formaciones-id623223.html",
+    "picture_source": "Infobae.com",
     "approx_traffic": "50,000+"
   },
   {
@@ -264,8 +274,8 @@
     "title": "UFC",
     "pubDate": "Sun, 08 Dec 2024 05:00:00 +1100",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSjYxb4fr2pUaK37wsA1a2K95doxJ2-Tm7gwx23D63kMKzAuyW-oPZ6fD1ZKKHmw1q_CFXYQITm",
-    "news_item_snippet": "Blockbuster world title rematch locked in for stacked Aussie card in UFC&#39;s Sydney return.",
-    "news_item_url": "https://www.foxsports.com.au/ufc/ufc-321-sydney-fight-card-main-event-dricus-du-plessis-vs-sean-strickland-rematch-zhang-weili-vs-tatiana-suarez/news-story/36e310c64257fa472e101dba101988bd",
+    "news_item_snippet": "AND STILL! UFC gun chokes out debutant in main event; fury over cards as unbeaten run over.",
+    "news_item_url": "https://www.foxsports.com.au/ufc/ufc-310-alexandre-pantoja-vs-kai-asakura-live-updates-main-event-start-time-how-to-watch-full-fight-card-results-shavkat-rakhmonov-vs-ian-machado-garry/news-story/79ae5e54d878056517189e3f78474bb0",
     "picture_source": "The Official Website of the Ultimate Fighting Championship",
     "approx_traffic": "100,000+"
   },
@@ -274,8 +284,8 @@
     "title": "Syria",
     "pubDate": "Sun, 08 Dec 2024 08:00:00 +1100",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTQfV4NXuDX9c8Bj0bYeRYMzALlFDD_Yyqb6jnrMWuy-stpZPTafSpOMeglssc2FyOoZ0TpUS-V",
-    "news_item_snippet": "As reports continued to emerge from the Syrian capital, Damascus, where opposition forces declared victory overnight on State television, the UN chief said in a&nbsp;...",
-    "news_item_url": "https://news.un.org/en/story/2024/12/1157956",
+    "news_item_snippet": "Newspapers covering the fall of Syrian president Bashar al-Assad and his subsequent flight to Moscow have reflected on the Assad family&#39;s five decades of&nbsp;...",
+    "news_item_url": "https://www.theguardian.com/media/2024/dec/09/bashar-al-assad-syria-flee-newspaper-front-page-wrap",
     "picture_source": "ABC News",
     "approx_traffic": "100,000+"
   },
@@ -284,29 +294,29 @@
     "title": "Botafogo",
     "pubDate": "Sun, 08 Dec 2024 08:00:00 -0500",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQcuxmVuB546w8dyQA6UYh0X20edDkXd5ujk6RT3M4FehSAEo5Evx7sCygnYXn9WM3Rjpu9yadn",
-    "news_item_snippet": "Saiba tudo sobre o jogo Botafogo 2 x 1 S\u00e3o Paulo (Campeonato Brasileiro, Rodada 38). Veja no ge os melhores momentos e o placar do jogo, gols e lances da&nbsp;...",
-    "news_item_url": "https://ge.globo.com/rj/futebol/brasileirao-serie-a/jogo/08-12-2024/botafogo-sao-paulo.ghtml",
+    "news_item_snippet": "Depois da conquista da Libertadores, alvinegro carioca levantou a ta\u00e7a do Campeonato Brasileiro neste domingo (8), ap\u00f3s vencer o S\u00e3o Paulo por 2 x 1 em&nbsp;...",
+    "news_item_url": "https://gshow.globo.com/cultura-pop/famosos/noticia/botafogo-e-campeao-do-brasileirao-e-famosos-comemoram.ghtml",
     "picture_source": "G1",
-    "approx_traffic": "1,000,000+"
-  },
-  {
-    "country": "Brazil",
-    "title": "Palmeiras x Fluminense",
-    "pubDate": "Sun, 08 Dec 2024 05:00:00 -0500",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQnW0Q_s5IStv325iou4EDqCVuZYbnTHrX29lLJd38cztCuazcnESICEAR2f5ZxvnqtXVLuw_05",
-    "news_item_snippet": "DUDU SE DESPEDE DO PALMEIRAS | Dudu defendeu pela \u00faltima vez o Palmeiras neste domingo. Torcedores criticaram a forma que o camisa 7 foi tratado pelo clube,&nbsp;...",
-    "news_item_url": "https://www.terra.com.br/esportes/futebol/brasileiro-serie-a/ao-vivo/palmeiras-x-fluminense/87056/",
-    "picture_source": "Olhar Digital",
     "approx_traffic": "1,000,000+"
   },
   {
     "country": "Brazil",
     "title": "Gr\u00eamio x Corinthians",
     "pubDate": "Sun, 08 Dec 2024 14:00:00 -0500",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRen2qY1HqLeVT4L8gXwSp4y6Ir4mzM2sW77dVnWL2WersHxja9GZzD0SGHBsE5R7QokQZbhRyB",
-    "news_item_snippet": "Saiba tudo sobre o jogo Gr\u00eamio 0 x 3 Corinthians (Campeonato Brasileiro, Rodada 38). Veja no ge os melhores momentos e o placar do jogo, gols e lances da&nbsp;...",
-    "news_item_url": "https://ge.globo.com/rs/futebol/brasileirao-serie-a/jogo/08-12-2024/gremio-corinthians.ghtml",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRaXVVjVobSizIONQvyf4UR1xhzOBlo8KKhkNoDNhtx3lUrCuda7mlNH0UoY1aBwRb7lXErJwfR",
+    "news_item_snippet": "Confira onde assistir, hor\u00e1rio e escala\u00e7\u00f5es de Gr\u00eamio e Corinthians; jogo \u00e9 v\u00e1lido pela 38\u00aa rodada do Campeonato Brasileiro.",
+    "news_item_url": "https://olhardigital.com.br/2024/12/08/internet-e-redes-sociais/gremio-x-corinthians-onde-assistir-e-horario-do-jogo-do-brasileirao/",
     "picture_source": "GauchaZH",
+    "approx_traffic": "1,000,000+"
+  },
+  {
+    "country": "Brazil",
+    "title": "Palmeiras x Fluminense",
+    "pubDate": "Sun, 08 Dec 2024 05:00:00 -0500",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcS-ytY2-aI5wFiMYLpP2i4NtSTz_0FtP17W4hrxTH7lSatZYSy5vDMAdV13Kw_twKzX0KGeVEZ3",
+    "news_item_snippet": "Palmeiras ainda torce para levantar a ta\u00e7a do Brasileir\u00e3o, enquanto Fluminense luta para n\u00e3o cair de divis\u00e3o.",
+    "news_item_url": "https://olhardigital.com.br/2024/12/08/internet-e-redes-sociais/palmeiras-x-fluminense-onde-assistir-horario-e-escalacao-do-brasileirao/",
+    "picture_source": "Terra",
     "approx_traffic": "1,000,000+"
   },
   {
@@ -321,9 +331,9 @@
   },
   {
     "country": "Brazil",
-    "title": "Flamengo x EC Vit\u00f3ria",
+    "title": "Flamengo x ec Vit\u00f3ria",
     "pubDate": "Sun, 08 Dec 2024 14:00:00 -0500",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRd6i-9rNeO88_uVrFhTG2YzXFfPh1_BMHcbJml6pujZSHNdfxmEBkn_0QUPT64wgF7aw8xjbq9",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQnMEkax_d2_ze6FcRDc2NGw_rEanK97r-gBinmN6meAgMglvhX-VD6BPaJLkL5ZvUmSGWqk8O4",
     "news_item_snippet": "O Vit\u00f3ria finaliza o Campeonato Brasileiro neste domingo (8) contra o Flamengo, no Maracan\u00e3 e ambas as equipes j\u00e1 foram escaladas.",
     "news_item_url": "https://www.bahianoticias.com.br/esportes/vitoria/28848-confira-as-escalacoes-oficiais-de-flamengo-x-vitoria-pela-ultima-rodada-do-brasileirao",
     "picture_source": "globoesporte.com",
@@ -333,10 +343,10 @@
     "country": "Brazil",
     "title": "Bahia x Atl\u00e9tico-GO",
     "pubDate": "Sun, 08 Dec 2024 14:00:00 -0500",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRIo-YzZTB1umtsTHoGp1xHQbJgw2dyG5xAlmH64_uhz2Lzc2i8gMZXrEdPJ3TAehfLf-Am6j6D",
-    "news_item_snippet": "Bahia e Atl\u00e9tico goianiense se enfrentaram neste domingo, \u00e0s 16h, pela 38\u00aa rodada do Campeonato Brasileiro. Em campo, o Bahia venceu e retornou \u00e0&nbsp;...",
-    "news_item_url": "https://www.bahianoticias.com.br/esportes/bahia/31416-confira-publico-e-renda-de-bahia-x-atletico-go-pela-38a-rodada-do-brasileirao-2024",
-    "picture_source": "Bahia Not\u00edcias",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTJSmAIIeUAGqJUepx_uoG0PpJV9ZCOSoLnQ08hmXFl2QRtDk4MSa73hayEQO8PQBMWRGGEFfRV",
+    "news_item_snippet": "Tricolor baiano vai disputar a fase preliminar do torneio continental, enquanto o Fortaleza est\u00e1 garantido na fase de grupos.",
+    "news_item_url": "https://ge.globo.com/ba/futebol/noticia/2024/12/08/bahia-volta-a-libertadores-apos-35-anos-e-garante-dois-nordestinos-na-competicao-pela-primeira-vez.ghtml",
+    "picture_source": "globoesporte.com",
     "approx_traffic": "200,000+"
   },
   {
@@ -383,10 +393,10 @@
     "country": "Brazil",
     "title": "The Line",
     "pubDate": "Sun, 08 Dec 2024 18:00:00 -0500",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQC7eNLEiTcEcFzfdxXvjn0c3IylC0J21WZyWYtEmf3ki1zH3kJ9dVhQmbBL5C4pLRXyXRlmts9",
-    "news_item_snippet": "Pr\u00e9dio foi tema de pergunta do &#39;Quem quer ser um milion\u00e1rio?&#39;, quadro do &#39;Doming\u00e3o com Huck&#39;. Por. Reda\u00e7\u00e3o Casa Vogue. 08/12/2024 19h30 Atualizado h\u00e1 4&nbsp;...",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQg2uv1Uomlbor43AJ4N0PYi4yuNq3CWlXhL6hm9HMLPDojz_7_THYLcDe0LvOsJvKZENjtZ4hb",
+    "news_item_snippet": "Pr\u00e9dio foi tema de pergunta do &#39;Quem quer ser um milion\u00e1rio?&#39;, quadro do &#39;Doming\u00e3o com Huck&#39;. Por. Reda\u00e7\u00e3o Casa Vogue. 08/12/2024 19h30 Atualizado h\u00e1 5&nbsp;...",
     "news_item_url": "https://casavogue.globo.com/arquitetura/edificios/noticia/2024/12/conheca-the-line-predio-na-arabia-saudita-que-vai-abrigar-9-milhoes-de-moradores.ghtml",
-    "picture_source": "Casa Vogue",
+    "picture_source": "Globo.com",
     "approx_traffic": "100,000+"
   },
   {
@@ -401,23 +411,23 @@
   },
   {
     "country": "Brazil",
-    "title": "Tottenham x Chelsea",
-    "pubDate": "Sun, 08 Dec 2024 11:00:00 -0500",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRyedSeFPGx6kWway-vmeYStYluQFMyMIP2b6Ah2aEnOWtweMZZ4fSKF-PnYL_LVVbsnYCa-8iP",
-    "news_item_snippet": "Duelo ser\u00e1 neste domingo (8), \u00e0s 13h30 (de Bras\u00edlia), pela 15\u00aa rodada do Campeonato Ingl\u00eas. O duelo ser\u00e1 no Tottenham Hotspur Stadium.",
-    "news_item_url": "https://www.uol.com.br/esporte/ultimas-noticias/2024/12/08/tottenham-x-chelsea-onde-assistir-e-horario-do-jogo-do-campeonato-ingles.htm",
-    "picture_source": "InfoMoney",
+    "title": "Artilheiro do Brasileir\u00e3o 2024",
+    "pubDate": "Sun, 08 Dec 2024 20:00:00 -0500",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTR5ggHvgJdLpEcMKldWpkZsLnsJq9_SFOzGX9lBh9B77FoWGeOY7ofJv1lTIE_DrYAmoIKo8MR",
+    "news_item_snippet": "Atacantes de Corinthians e Vit\u00f3ria finalizam a competi\u00e7\u00e3o com 15 gols marcados cada.",
+    "news_item_url": "https://www.cnnbrasil.com.br/esportes/brasileirao/yuri-alberto-e-alerrandro-sao-os-artilheiros-do-brasileirao-2024/",
+    "picture_source": "globoesporte.com",
     "approx_traffic": "100,000+"
   },
   {
     "country": "Brazil",
-    "title": "Artilheiro do Brasileir\u00e3o",
-    "pubDate": "Sun, 08 Dec 2024 19:00:00 -0500",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTR5ggHvgJdLpEcMKldWpkZsLnsJq9_SFOzGX9lBh9B77FoWGeOY7ofJv1lTIE_DrYAmoIKo8MR",
-    "news_item_snippet": "A \u00faltima rodada do Brasileir\u00e3o 2024 foi eletrizante, tamb\u00e9m, na disputa de artilheiro. A CBF anunciou um novo pr\u00eamio com quantia em dinheiro.",
-    "news_item_url": "https://www.lance.com.br/brasileirao/artilheiro-do-brasileirao-veja-o-ranking-apos-a-ultima-rodada.html",
-    "picture_source": "globoesporte.com",
-    "approx_traffic": "50,000+"
+    "title": "Tottenham x Chelsea",
+    "pubDate": "Sun, 08 Dec 2024 11:00:00 -0500",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRnYxA2v81Ybm_sFd6bOFtP117-S91gkwG9f-X1AM2EMvF0ZQTDNSUYdJXcDS1W0ayDLrwI4Qdh",
+    "news_item_snippet": "Vista detalhada da bola Nike Merlin Winter antes da partida da Premier League entre Watford FC e AFC Bournemouth em Vicarage Road em 26 de outubro de 2019&nbsp;...",
+    "news_item_url": "https://www.infomoney.com.br/consumo/tottenham-x-chelsea-que-horas-e-e-onde-assistir-ao-jogo-do-premier-league/",
+    "picture_source": "UOL",
+    "approx_traffic": "100,000+"
   },
   {
     "country": "South Korea",
@@ -427,6 +437,16 @@
     "news_item_snippet": "\ud55c\ub208\uc5d0 \ubcf4\ub294 \uc624\ub298 : \ud574\uc678\ucd95\uad6c - \ub274\uc2a4 : [\uc2a4\ud3ec\ud0c8\ucf54\ub9ac\uc544] \ubc30\uc6c5\uae30 \uae30\uc790= \uc4f0\ub808\uae30\uac00 \ub09c\ubb34\ud558\ub294 \ud658\uacbd \uc18d\uc5d0\uc11c\ub3c4 \uccbc\uc2dc\ub294 \uc8fc\ub205 \ub4e4\uc9c0 \uc54a\uc558\ub2e4. \ubc18\uba74 \ud1a0\ud2b8\ub118 \ud56b\uc2a4\ud37c\ub294 \ud3c9\uc18c\ub2e4\uc6b4&nbsp;...",
     "news_item_url": "https://sports.news.nate.com/view/20241209n01020",
     "picture_source": "YTN",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "Saudi Arabia",
+    "title": "\u0633\u0648\u0631\u064a\u0627",
+    "pubDate": "Sun, 08 Dec 2024 01:00:00 +0300",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTbgMaZroXbt3Ot702_JweZ4mDTEwxG2Tiz1-FZeRIfBhvtbeWlEMgybGg_9M8v33-IsW6Lyqar",
+    "news_item_snippet": "\u0648\u062c\u0647\u062a \u0627\u0644\u0648\u0644\u0627\u064a\u0627\u062a \u0627\u0644\u0645\u062a\u062d\u062f\u0629 \u0636\u0631\u0628\u0627\u062a \u062c\u0648\u064a\u0629 \u0627\u0633\u062a\u0647\u062f\u0641\u062a \u0639\u0646\u0627\u0635\u0631 \u0641\u064a \u062a\u0646\u0638\u064a\u0645 &quot;\u062f\u0627\u0639\u0634&quot; \u062f\u0627\u062e\u0644 \u0633\u0648\u0631\u064a\u0627\u060c \u0627\u0644\u0623\u062d\u062f\u060c \u0641\u064a \u0627\u0644\u064a\u0648\u0645 \u0630\u0627\u062a\u0647 \u0627\u0644\u0630\u064a \u0648\u0635\u0644\u062a \u0641\u064a\u0647 \u0642\u0648\u0649 \u0627\u0644\u0645\u0639\u0627\u0631\u0636\u0629 \u0627\u0644\u0639\u0627\u0635\u0645\u0629\u060c \u062f\u0645\u0634\u0642\u060c \u0648\u0633\u0642\u0648\u0637 \u0646\u0638\u0627\u0645 \u0628\u0634\u0627\u0631&nbsp;...",
+    "news_item_url": "https://www.alhurra.com/syria/2024/12/08/%D9%85%D8%B9-%D8%B3%D9%82%D9%88%D8%B7-%D8%A7%D9%84%D8%A3%D8%B3%D8%AF-%D8%B6%D8%B1%D8%A8%D8%A7%D8%AA-%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A%D8%A9-%D9%85%D9%83%D8%AB%D9%81%D8%A9-%D8%AF%D8%A7%D8%B9%D8%B4-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
+    "picture_source": "\u0627\u0644\u0639\u0631\u0628\u064a\u0629",
     "approx_traffic": "200,000+"
   },
   {
@@ -443,29 +463,29 @@
     "country": "France",
     "title": "Lens \u2013 Montpellier",
     "pubDate": "Sun, 08 Dec 2024 15:00:00 +0100",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQj2S7dXd9SQY00oRsYinOimwd8y5AvisQqo49s8TbguSx-JOJr03qNT62FDIeXc987V7k0XjFx",
-    "news_item_snippet": "Entra\u00eenants et valeureux dans les deux parties du terrain, les Lensois remportent cette rencontre de la Sainte-Barbe et encha\u00eenent un 2e succ\u00e8s de rang en&nbsp;...",
-    "news_item_url": "https://www.rclens.fr/fr/news/compte-rendu-rclens-montpellier-ligue1-mcdonalds-20241208",
-    "picture_source": "L'\u00c9quipe.fr",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRZwJY5jCW32cDGM4OZdrmnh09fYwLzmJxMY-CNRSjP7NmNtgduV8EmyXP1gElm36iKoMbRg1ud",
+    "news_item_snippet": "2e victoire de suite pour Lens (7e). Convaincant en premi\u00e8re p\u00e9riode, et r\u00e9compens\u00e9 via Labeau Lascary, Lens a eu du mal apr\u00e8s la pause, et peut remercier&nbsp;...",
+    "news_item_url": "https://www.lequipe.fr/Football/match-direct/ligue-1/2024-2025/lens-montpellier-live/655980",
+    "picture_source": "RC Lens",
     "approx_traffic": "50,000+"
   },
   {
     "country": "France",
     "title": "ASSE",
     "pubDate": "Sun, 08 Dec 2024 21:00:00 +0100",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQKUXYBacZTMdtbFITLyEQJAodB6376pffPZ53lMD5VywZwJpsAAeD1JcNWUJT-0xEO_GVxN5K1",
-    "news_item_snippet": "Environ 80% de possession de balle en premi\u00e8re p\u00e9riode et une ouverture du score logique d&#39;Adrien Rabiot le quart d&#39;heure de jeu tout juste pass\u00e9 (0/1, 18e).",
-    "news_item_url": "https://www.activradio.com/asse-0-2-om-un-monde-d-ecart",
-    "picture_source": "Le Dauphin\u00e9 Lib\u00e9r\u00e9",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTxCFsCwWOeZcyT4r5mQjbCgMhPFSOoQpBiWjIHoC6RjMP-B9C-vmlcs6AOHYDzmqPXZakalCNh",
+    "news_item_snippet": "L&#39;AS Saint-Etienne a perdu dans son Chaudron sans avoir v\u00e9ritablement combattu. Toute l&#39;\u00e9quipe a sombr\u00e9 avec un Stassin fantomatique...",
+    "news_item_url": "https://www.ledauphine.com/sport/2024/12/09/asse-larsonneur-sollicite-stassin-invisible-les-notes-de-la-defaite-face-a-l-om",
+    "picture_source": "Activ Radio",
     "approx_traffic": "50,000+"
   },
   {
     "country": "Germany",
     "title": "Assad",
     "pubDate": "Sun, 08 Dec 2024 10:00:00 +0100",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTGltO0Xq68rrwRlz04lNxbvzXRB11eyDQWOLui5GyLRNVHIn3GBITCFvGbEa89awDNCqsmAJh8",
-    "news_item_snippet": "Abu Mohammed al-Golani hat sich oft gewandelt. Der Anf\u00fchrer des Aufstandes, der der jahrzehntelangen Diktatur der Familie Assad in Syrien binnen Tagen ein&nbsp;...",
-    "news_item_url": "https://www.juedische-allgemeine.de/politik/wer-ist-der-mann-der-assad-gestuerzt-hat/",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSZPXKEs3zKK0L5iVh3MsxYMDiOO9_u0AqJCVUUYh2QcTT4X8EUr3zP9R6b6FCCYcJcte6uHzSc",
+    "news_item_snippet": "Erst hie\u00df es, Baschar al-Assad sei m\u00f6glicherweise bei einem Absturz ums Leben gekommen. Nun ist er offenbar wohlbehalten in Moskau angekommen.",
+    "news_item_url": "https://www.spiegel.de/wissenschaft/sturz-von-baschar-al-assad-so-koennte-syriens-ex-diktator-entkommen-sein-a-dd7ca4ab-c0b1-4473-85a7-2b8f3e9298e3",
     "picture_source": "tagesschau.de",
     "approx_traffic": "200,000+"
   },
@@ -524,8 +544,8 @@
     "title": "Napoli-Lazio",
     "pubDate": "Sun, 08 Dec 2024 13:00:00 +0100",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSK9KSRLNeHl8AZmMekAZdPHAnNDhUkUsicX-X0DySaXC3Jxhv6nw80f5dMilyoSh-822kGiGHc",
-    "news_item_snippet": "La Lazio sfiora il vantaggio con la traversa di Dele Bashiru, il Napoli risponde con il palo esterno di Anguissa. Poi Isaksen inventa il mancino vincente:&nbsp;...",
-    "news_item_url": "https://www.corriere.it/sport/calcio/serie-a/24_dicembre_08/napoli-lazio-risultato-ff310c03-866c-47ba-8e4b-b897d2b80xlk.shtml",
+    "news_item_snippet": "Decide il gol di Isaksen al 79&#39;. Nella ripresa Dele-Bashiru colpisce la traversa e Anguissa il palo esterno. I partenopei scavalcati in classifica&nbsp;...",
+    "news_item_url": "https://www.rainews.it/video/2024/12/calcio-serie-a-giornata-15-napoli-lazio-sintesi-partita-highlights-rai-sport-video-62e70b80-7d59-4c4d-b8b9-e3eee6a78064.html",
     "picture_source": "Sky Sport",
     "approx_traffic": "200,000+"
   },
@@ -541,6 +561,16 @@
   },
   {
     "country": "Italy",
+    "title": "F1 classifica",
+    "pubDate": "Sun, 08 Dec 2024 14:00:00 +0100",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQkMGNhUgIGk0E1vuf6Zw2xyMh7aAHR8F22Jj9ay0VPU6-k1AO7e-GSrc1HX813Yz1l-kEFWn9Y",
+    "news_item_snippet": "Norris trionfa nell&#39;ultimo Gran Premio della stagione, davanti alle Ferrari di Sainz e di uno straordinario Leclerc. Hamilton ai piedi del podio.",
+    "news_item_url": "https://www.corrieredellosport.it/news/formula-1/2024/12/08-136252840/f1_diretta_ferrari_gp_abu_dhabi_titolo_costruttori_sinner_tifoso_speciale_live",
+    "picture_source": "FormulaPassion.it",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "Italy",
     "title": "Verona-Empoli",
     "pubDate": "Sun, 08 Dec 2024 15:00:00 +0100",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTzw9wb8UxipvHdXCJP3deoeuEGDZBv4mfvZVeWjv8uy1ENCtwJtj1Zakk9SCa07iI72ANGISSc",
@@ -553,21 +583,11 @@
     "country": "Italy",
     "title": "Venezia Como",
     "pubDate": "Sun, 08 Dec 2024 18:00:00 +0100",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTywGfBQUsvA-CxiGVzEM1zhWs3yYObcIL2a8IkFyDRn1I5XwwkornyEv4NmxIDCwAccISr6ZLh",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTXof1In4Uzfcu8xFMqWZRS4S85tgVPH9ORZHSUqVxacH-nbK6s77vhv7wpRDkRKkKWNC2Qwq03",
     "news_item_snippet": "Un punto a testa nella sfida salvezza, in campo succede di tutto. All&#39;87&#39; annullato un gol fantastico a Nicolussi Caviglia per un fuorigioco di centimetri.",
     "news_item_url": "https://www.gazzetta.it/Calcio/Serie-A/Venezia/08-12-2024/venezia-como-2-2-nicolussi-caviglia-autogol-candela-belotti-e-oristanio.shtml",
     "picture_source": "Sky Sport",
     "approx_traffic": "100,000+"
-  },
-  {
-    "country": "Italy",
-    "title": "Siria",
-    "pubDate": "Sun, 08 Dec 2024 14:00:00 +0100",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSRVmrhnnPgBtEBDEHw2ZESyZVQ1vfttTWRWkp1VNeW3Ovt0BN5UFMlfoY9SD9Jm31x0QPW0mdK",
-    "news_item_snippet": "Leggi su Sky TG24 l&#39;articolo Guerra in Siria, ribelli jihadisti conquistano Damasco. Assad in Russia.",
-    "news_item_url": "https://tg24.sky.it/mondo/2024/12/08/siria-guerra-assad-diretta",
-    "picture_source": "Amnesty International",
-    "approx_traffic": "50,000+"
   },
   {
     "country": "Italy",
@@ -593,10 +613,10 @@
     "country": "Mexico",
     "title": "Fulham  Arsenal",
     "pubDate": "Sun, 08 Dec 2024 08:00:00 -0600",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRdRmDYBpxZQNkGppw_54gJH1_V9NaOpYyRYbqaus43eFGerkfCICiHt0NlHYovlTVRKvp6VaYW",
-    "news_item_snippet": "FINAL. FINAL. FINAAAAAAAAL. Amarilla para un Rice frustrado por cortar el contragolpe del Fulham. Llama Kavanagh a cap\u00edtulo a Martinelli, otra vez, po.",
-    "news_item_url": "https://www.marca.com/futbol/premier-league/fulham-arsenal/2024/12/08/01_0106_20241208_54_3-directo.html",
-    "picture_source": "TUDN",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcS8L1AsByBCpmv_7MKO6EY1OLAaHaVfp0Gh9DZmzBVb0rjGvtJoAKpcVKsE3oXeoNxjDnoUD3YD",
+    "news_item_snippet": "El delantero mexicano Ra\u00fal Jim\u00e9nez abri\u00f3 el marcador en casa y sum\u00f3 su quinto gol en la actual temporada de la Premier League. | TUDN Premier League | TUDN.",
+    "news_item_url": "https://www.tudn.com/futbol/premier-league/raul-jimenez-anota-gol-contra-arsenal-en-empate-fulham-en-premier-league",
+    "picture_source": "MARCA.com",
     "approx_traffic": "50,000+"
   },
   {
@@ -621,22 +641,12 @@
   },
   {
     "country": "Spain",
-    "title": "Siria",
-    "pubDate": "Sun, 08 Dec 2024 05:00:00 +0100",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTvphb3ruty0AC28hHnSMR-1KvIMwKEIaLXThXTwfVtcF8MeEBnzU1Ckj_wtX819GLNCrcLqA8v",
-    "news_item_snippet": "En una ofensiva rel\u00e1mpago, el grupo islamista ha puesto fin al gobierno de Bashar al Asad en solo unas semanas, tras m\u00e1s de 24 a\u00f1os en el poder, Al Asad huy\u00f3 de&nbsp;...",
-    "news_item_url": "https://www.lavanguardia.com/internacional/20241208/10180352/ultima-hora-conflicto-siria-directo-rebeldes-toman-damasco.html",
-    "picture_source": "BBC Mundo",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "Spain",
     "title": "Legan\u00e9s  Real Sociedad",
     "pubDate": "Sun, 08 Dec 2024 14:00:00 +0100",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSDayCna5N72iglSAMvo2Dx882fOTN1aSp_FVxhz4SkJB0ECE8N0wVB0DFUhgv4brwxjppe1rjZ",
-    "news_item_snippet": "Os dejo la cr\u00f3nica de \u00d3scar Badallo: La Real gana a lo grande en Legan\u00e9s La Real Sociedad ha goleado esta tarde al Legan\u00e9s en Butarque, en un partido.",
-    "news_item_url": "https://www.marca.com/futbol/laliga-ea-sports/leganes-real-sociedad/2024/12/08/01_0101_20241208_957_188-directo.html",
-    "picture_source": "AS",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTFvy5ElDCKzsCXBCjAOp9RYvdUN1w5e2FxbEiIu6GIsSXPEhfDEXCB9SifgLCn8rFJj7p5JG4d",
+    "news_item_snippet": "Sigue, en directo, el partido de la jornada 16 de LaLiga EA Sports que enfrenta al Legan\u00e9s y a la Real Sociedad en Butarque. Desde las 13:00 en AS.",
+    "news_item_url": "https://as.com/futbol/primera/leganes-real-sociedad-en-directo-laliga-ea-sports-hoy-en-vivo-n/",
+    "picture_source": "MARCA",
     "approx_traffic": "50,000+"
   },
   {
@@ -650,12 +660,22 @@
     "approx_traffic": "50,000+"
   },
   {
+    "country": "Spain",
+    "title": "Bashar al Assad",
+    "pubDate": "Sun, 08 Dec 2024 09:00:00 +0100",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRx3bHYpqHGEl7pXbwzN1uKHvAlr0EUW9HmCGqidiYefqMEKA-J1T6UvqK6nJHiyehHt0aXlBY8",
+    "news_item_snippet": "Las fuerzas rebeldes entraron en Damasco en medio de reportes de que el presidente Bashar al Assad hab\u00eda abandonado Siria. Te presentamos 4 claves para&nbsp;...",
+    "news_item_url": "https://www.bbc.com/mundo/articles/cgkxjy8kvv8o",
+    "picture_source": "euronews",
+    "approx_traffic": "50,000+"
+  },
+  {
     "country": "United Kingdom",
     "title": "Fulham vs Arsenal",
     "pubDate": "Sun, 08 Dec 2024 14:00:00 +0000",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSh90kYxopHC6FBwYLVTawWC8flXmsiDlu8GcFJxA6Eq9nvhtS-HcFiv8JLQLqSFaj-aPsHmriK",
-    "news_item_snippet": "Get the latest Football updates on Eurosport. Catch Fulham - Arsenal live on 08/12/2024. Find scores, stats and comments in real time.",
-    "news_item_url": "https://www.eurosport.com/football/premier-league/2024-2025/live-fulham-arsenal_mtc1523815/live-commentary.shtml",
+    "news_item_snippet": "They were put under pressure early in the match as the hosts released Raul Jimenez down the inside right channel and the striker slotted past David Raya with a&nbsp;...",
+    "news_item_url": "https://www.independent.co.uk/sport/football/fulham-arsenal-live-stream-score-result-b2660510.html",
     "picture_source": "Sky Sports",
     "approx_traffic": "200,000+"
   },
@@ -664,8 +684,8 @@
     "title": "Tottenham vs Chelsea",
     "pubDate": "Sun, 08 Dec 2024 16:00:00 +0000",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcS0WlbNXZscU4J6PoaWKxzFBj0Pk1jzMvp7F0PHS5KVPveL_KA7nBvsPWeM3bxk-GVHGNondsjT",
-    "news_item_snippet": "We can confirm the starting line-ups and substitutes for this afternoon&#39;s Premier League encounter with Chelsea (kick-off 4.30pm UK).",
-    "news_item_url": "https://www.tottenhamhotspur.com/news/2024/december/confirmed-line-ups-spurs-vs-chelsea/",
+    "news_item_snippet": "All the football updates as Chelsea edge Tottenham Hotspur 4-3 in the North vs West London derby in the Premier League.",
+    "news_item_url": "https://www.aljazeera.com/sports/liveblog/2024/12/8/live-tottenham-vs-chelsea-english-premier-league",
     "picture_source": "The Independent",
     "approx_traffic": "200,000+"
   },
@@ -674,8 +694,8 @@
     "title": "Who won I'm a Celeb 2024",
     "pubDate": "Sun, 08 Dec 2024 22:00:00 +0000",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTEZpZtdaQl8fEMnnAOWQqZZ9Bu4WPFToQnRXp_rOHAuI5q9kiVsHOCBaqVe9oigtmoqRl0WkEx",
-    "news_item_snippet": "I&#39;m a Celeb final results for 2024 &middot; Danny Jones - 1st place &middot; Coleen Rooney - 2nd place &middot; Richard Coles - 3rd place&nbsp;...",
-    "news_item_url": "https://www.shieldsgazette.com/whats-on/who-won-im-a-celebrity-4900545",
+    "news_item_snippet": "Over the last week and a half, celebrities have been eliminated from the jungle one by one, but it all came down to the final three.",
+    "news_item_url": "https://www.radiotimes.com/tv/entertainment/reality-tv/im-a-celebrity-2024-winner-newsupdate/",
     "picture_source": "BBC News",
     "approx_traffic": "200,000+"
   },
@@ -683,10 +703,10 @@
     "country": "United Kingdom",
     "title": "Dua Lipa",
     "pubDate": "Sun, 08 Dec 2024 21:00:00 +0000",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSyTrR-xZXr73byPBmKenMc9yg0-Hq-3WNNYguA9EH7hjRmDOuEbUW245QmgP9ik3XFxfxx_MRX",
-    "news_item_snippet": "The pop star, 29 ,attended the prestigious Sylvia Young Theatre School in the years before she found global fame and was reunited with Ray in what became one of&nbsp;...",
-    "news_item_url": "https://www.dailymail.co.uk/tvshowbiz/article-14172061/Dua-Lipa-shares-emotional-reunion-music-teacher-Sylvia-Young-Theatre-School-ITV-Christmas-special.html",
-    "picture_source": "Daily Mail",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcT5PgYlivByLCFFoCoxmQR4nsp3nCjqZ_11nVttzvAjp_EBydBQoKg_uawPUvx_fCsZ0hLoi0Ro",
+    "news_item_snippet": "Dua Lipa is set to take centre stage this evening (Sunday 8 December) during a special one-off show at the Royal Albert Hall, which will be airing on ITV1.",
+    "news_item_url": "https://www.dailyrecord.co.uk/tv/heres-you-can-watch-evening-34272423",
+    "picture_source": "Yahoo Finance UK",
     "approx_traffic": "50,000+"
   },
   {
@@ -703,7 +723,7 @@
     "country": "United Kingdom",
     "title": "Ipswich Town vs Bournemouth",
     "pubDate": "Sun, 08 Dec 2024 14:00:00 +0000",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcS-Sie5mGLvN7PxMaKsbpQQvoN124jPn-JHfG4_RHK3JcNUV5hMy7HSlJJO3c1Iyl4k_KHsLJYn",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTTYB99KNkWZXNq87c2d_UiLLtJPf8HyAB7SCGrTfQMkzndLx1Csko9SqLx1NkChZT1Ju1Gq4jd",
     "news_item_snippet": "Eurosport is your source for the latest Premier League match updates. Get the full recap of Ipswich Town - Bournemouth, complete with stats and highlights.",
     "news_item_url": "https://www.eurosport.com/football/premier-league/2024-2025/live-ipswich-town-bournemouth_mtc1523812/live.shtml",
     "picture_source": "Sky Sports",
