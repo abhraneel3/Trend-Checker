@@ -4,20 +4,10 @@
     "title": "Lions",
     "pubDate": "Sun, 15 Dec 2024 11:00:00 -0800",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRL-jTtxS0efS_mC_cLDhNNjchqVnv0_lDRHkJbRC6IoVCi6Uy84qBmBhO0ieNt8jj2fWuwSe2g",
-    "news_item_snippet": "The Lions are hosting the Buffalo Bills and MVP candidate quarterback Josh Allen in a much-anticipated interconference matchup at Ford Field. Detroit is getting&nbsp;...",
-    "news_item_url": "https://www.detroitlions.com/news/inactives-lions-vs-bills-martin-nowaske-moseley",
+    "news_item_snippet": "Tim Twentyman recaps the Detroit Lions&#39; 48-42 loss to the Buffalo Bills.",
+    "news_item_url": "https://www.detroitlions.com/news/recap-lions-vs-bills-goff-allen-stbrown",
     "picture_source": "BuffaloBills.com",
     "approx_traffic": "1,000,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Army-Navy game",
-    "pubDate": "Sun, 15 Dec 2024 10:00:00 -0800",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcR43gROZBawMg3QFp-IfdS0RQzS3crNCNc6yvVY_ZPXI-T5c4lKlOmAos_TMX7hunBDxDj1pi4S",
-    "news_item_snippet": "An expert political panel joins CNN&#39;s Manu Raju to discuss what Daniel Penny, who was acquitted earlier this week of criminally negligent homicide on a New&nbsp;...",
-    "news_item_url": "https://www.cnn.com/2024/12/15/politics/video/daniel-penny-army-navy-game-collinson-ip-digvid",
-    "picture_source": "CNN",
-    "approx_traffic": "500,000+"
   },
   {
     "country": "United States",
@@ -28,6 +18,16 @@
     "news_item_url": "https://www.statesman.com/story/sports/college/aggies/2024/12/15/dallas-cowboys-panthers-game-score-updates-tv-channel/76959299007/",
     "picture_source": "CBSSports.com",
     "approx_traffic": "500,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Packers",
+    "pubDate": "Sun, 15 Dec 2024 09:00:00 -0800",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSbbd-5M6FEvme9f7K0wMPdekBjA-66JhxJPtOxJe7XFVlvgxJkGU9grUwXpGtC7pTk3UXOwWIU",
+    "news_item_snippet": "It&#39;s the Packers vs the Seahawks on &quot;Sunday Night Football.&quot; Follow here for live game updates and all the scoring plays.",
+    "news_item_url": "https://www.jsonline.com/live-story/sports/nfl/packers/2024/12/15/packers-vs-seahawks-score-highlights-sunday-night-football-live-game-updates/77009209007/",
+    "picture_source": "NBC News",
+    "approx_traffic": "200,000+"
   },
   {
     "country": "United States",
@@ -51,9 +51,19 @@
   },
   {
     "country": "United States",
+    "title": "Steelers vs Eagles",
+    "pubDate": "Sun, 15 Dec 2024 14:00:00 -0800",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQK0RXpdNHz8TvCweMvrJmW7Sczprrgm1LRMsZr5mSfxeChgSnCAEhm7LQJnJJconzJdobe_bey",
+    "news_item_snippet": "The Eagles dominated the AFC North leaders to win a franchise-record 10th straight game win and inch closer to an NFC East Division crown.",
+    "news_item_url": "https://www.philadelphiaeagles.com/news/steelers-eagles-game-recap-spadaro-6-takeaways-from-a-statement-win-over-the-steelers",
+    "picture_source": "PhiladelphiaEagles.com",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "United States",
     "title": "Barcelona",
     "pubDate": "Sun, 15 Dec 2024 12:00:00 -0800",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQNEzR4pfdENujizEYwOMGWmGxtIVorEDATVffr3e-_GeVuQbXZzGKLObHyHg5Cv2xocYcf53L-",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcT1nAMQMVthsG12NDhuXHA5z_exB99MCZhWGtIq7ka9Dcj2m_NYeWHx2hvD4Pl2tLoOkN5ZV_y3",
     "news_item_snippet": "BARCELONA, Spain (AP) \u2014 Barcelona stayed top of the Spanish league despite a shock 1-0 home defeat on Sunday to lowly Leganes, a team that had not won away&nbsp;...",
     "news_item_url": "https://wtop.com/sports/2024/12/leader-barcelona-loses-to-leganes-as-atletico-madrid-moves-level-on-points-at-top-of-spanish-league/",
     "picture_source": "ESPN",
@@ -61,52 +71,12 @@
   },
   {
     "country": "United States",
-    "title": "Steelers vs Eagles",
-    "pubDate": "Sun, 15 Dec 2024 14:00:00 -0800",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQK0RXpdNHz8TvCweMvrJmW7Sczprrgm1LRMsZr5mSfxeChgSnCAEhm7LQJnJJconzJdobe_bey",
-    "news_item_snippet": "Reed Blankenship and Sydney Brown are back in the lineup after missing last week&#39;s game.",
-    "news_item_url": "https://www.philadelphiaeagles.com/news/steelers-vs-eagles-inactives-week-15-2024",
-    "picture_source": "PhiladelphiaEagles.com",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Bengals",
-    "pubDate": "Sun, 15 Dec 2024 11:00:00 -0800",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQeU0opb5Z8WFqFnxr9hUzhTPjJfHii--Ddn8kL69L40bjH4Zwg-hSevW4GDBUSFy_E0HPoEeZ1",
-    "news_item_snippet": "The team has won 240 games at home and 160 on the road. Joe Sets Team Record. Joe Burrow threw his 36th touchdown pass of the season when he hit Tennessee&nbsp;...",
-    "news_item_url": "https://www.bengals.com/news/bengals-take-down-titans-37-27-postgame-recap-notes-quotes",
-    "picture_source": "Titansonline.com",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Baltimore Ravens",
-    "pubDate": "Sun, 15 Dec 2024 11:00:00 -0800",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRzVRbOa7kzIvOlm0RuIMpPZ_8u0KP7zQXinA_uvadW9_oxMbDuLhaZptDY3y2C5TZUfNFmm21l",
-    "news_item_snippet": "The 2-12 New York Giants watched Lamar Jackson throw for five touchdowns. Big Blue has not prevailed at MetLife Stadium this season (0-8).",
-    "news_item_url": "https://www.northjersey.com/story/sports/nfl/giants/2024/12/15/new-york-giants-baltimore-ravens-live-score-highlights-channel/76961104007/",
-    "picture_source": "BaltimoreRavens.com",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Packers",
+    "title": "Man City vs Man United",
     "pubDate": "Sun, 15 Dec 2024 09:00:00 -0800",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSbbd-5M6FEvme9f7K0wMPdekBjA-66JhxJPtOxJe7XFVlvgxJkGU9grUwXpGtC7pTk3UXOwWIU",
-    "news_item_snippet": "Follow live coverage of tonight&#39;s game as two NFC playoff hopefuls, the Packers and Seahawks, square off on &#39;Sunday Night Football&#39;.",
-    "news_item_url": "https://www.nytimes.com/athletic/live-blogs/packers-vs-seahawks-live-score-updates-nfl-snf-result/zxc2SXivkZyX/",
-    "picture_source": "NBC News",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Chiefs vs Browns",
-    "pubDate": "Sun, 15 Dec 2024 11:00:00 -0800",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcT03RiOC1gUqep-z9A20XJhbaXfcpbD15hD-lu7pha-I3kKzvpaE8xoIWwtCKYWXJEiSaz98t1H",
-    "news_item_snippet": "Chiefs QB Patrick Mahomes is unsure about his availability for next week&#39;s game after suffering an ankle injury. Andy Reid said it wasn&#39;t broken,&nbsp;...",
-    "news_item_url": "https://www.espn.com/nfl/story/_/id/42989154/chiefs-patrick-mahomes-suffers-ankle-injury-vs-browns",
-    "picture_source": "KMBC Kansas City",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTiPk2_8eKZ9zSLX7xEbTx8StszEfRRmYcsNMG5kE_G7-rh0pnXNlv8Sc2GZ4ywOVYKoIJSKZSg",
+    "news_item_snippet": "Expert recap and game analysis of the Manchester United vs. Manchester City English Premier League game from December 15, 2024 on ESPN.",
+    "news_item_url": "https://www.espn.com/soccer/report/_/gameId/704434",
+    "picture_source": "Yahoo Sports",
     "approx_traffic": "200,000+"
   },
   {
@@ -117,56 +87,76 @@
     "news_item_snippet": "Dolphins receiver Grant DuBose will remain in a Houston hospital overnight for evaluation after suffering a head injury following a helmet-to-helme...",
     "news_item_url": "https://abc13.com/post/dolphins-grant-dubose-stretchered-off-after-hit-goes-hospital/15660142/",
     "picture_source": "CNN",
-    "approx_traffic": "100,000+"
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Baltimore Ravens",
+    "pubDate": "Sun, 15 Dec 2024 11:00:00 -0800",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTZn26bVCpMO0ARQyOPttaXRBYqFk-0kPIlFbF2_WdOG_0CWC2DhqFOt5WFnuoa50Jl-qYomCsy",
+    "news_item_snippet": "The 2-12 New York Giants watched Lamar Jackson throw for five touchdowns. Big Blue has not prevailed at MetLife Stadium this season (0-8).",
+    "news_item_url": "https://www.northjersey.com/story/sports/nfl/giants/2024/12/15/new-york-giants-baltimore-ravens-live-score-highlights-channel/76961104007/",
+    "picture_source": "BaltimoreRavens.com",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Bengals",
+    "pubDate": "Sun, 15 Dec 2024 11:00:00 -0800",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQeU0opb5Z8WFqFnxr9hUzhTPjJfHii--Ddn8kL69L40bjH4Zwg-hSevW4GDBUSFy_E0HPoEeZ1",
+    "news_item_snippet": "NASHVILLE, Tenn. -- Bengals quarterback Joe Burrow set a pair of club single-season records with his 36th touchdown pass and sixth straight game with at&nbsp;...",
+    "news_item_url": "https://www.bengals.com/news/bengals-take-down-titans-37-27-postgame-recap-notes-quotes",
+    "picture_source": "Titansonline.com",
+    "approx_traffic": "200,000+"
   },
   {
     "country": "United States",
     "title": "Patrick Mahomes",
     "pubDate": "Sun, 15 Dec 2024 13:00:00 -0800",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQzrMW9TWmoSUHTZFotqdjU90gJIwwSct4ipEjh_hIdS3AgBBAMihDoihfuvFQPmLmtXKy3jRSp",
-    "news_item_snippet": "Chiefs QB Patrick Mahomes is unsure about his availability for next week&#39;s game after suffering an ankle injury. Andy Reid said it wasn&#39;t broken,&nbsp;...",
-    "news_item_url": "https://www.espn.com/nfl/story/_/id/42989154/chiefs-patrick-mahomes-suffers-ankle-injury-vs-browns",
-    "picture_source": "Yahoo Sports",
-    "approx_traffic": "100,000+"
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQW_vVfd1pJjTQ3b9a3I22Sdq8_O4X78jHZyyWI4EB42X2YnmtawQntJ0qHIJHGIL37Nw9D7-r6",
+    "news_item_snippet": "Kansas City Chiefs quarterback Patrick Mahomes left Sunday&#39;s game against the Cleveland Browns with a right ankle injury. Mahomes suffered the injury in the&nbsp;...",
+    "news_item_url": "https://sports.yahoo.com/chiefs-qb-patrick-mahomes-replaced-by-carson-wentz-after-ankle-injury-in-win-over-browns-205705058.html",
+    "picture_source": "Yahoo Eurosport UK",
+    "approx_traffic": "200,000+"
   },
   {
     "country": "United States",
-    "title": "Manchester United",
+    "title": "Chiefs vs Browns",
     "pubDate": "Sun, 15 Dec 2024 11:00:00 -0800",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTiPk2_8eKZ9zSLX7xEbTx8StszEfRRmYcsNMG5kE_G7-rh0pnXNlv8Sc2GZ4ywOVYKoIJSKZSg",
-    "news_item_snippet": "Expert recap and game analysis of the Manchester United vs. Manchester City English Premier League game from December 15, 2024 on ESPN.",
-    "news_item_url": "https://www.espn.com/soccer/report/_/gameId/704434",
-    "picture_source": "Yahoo Sports",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Man City vs Man United",
-    "pubDate": "Sun, 15 Dec 2024 09:00:00 -0800",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTiPk2_8eKZ9zSLX7xEbTx8StszEfRRmYcsNMG5kE_G7-rh0pnXNlv8Sc2GZ4ywOVYKoIJSKZSg",
-    "news_item_snippet": "Bruno Fernandes and Amad Diallo were the (belated) stars of the Manchester derby on Sunday.",
-    "news_item_url": "https://www.nbcsports.com/soccer/news/man-city-vs-man-united-player-ratings-marks-out-of-10-analysis-of-manchester-derby",
-    "picture_source": "Yahoo Sports",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Army football",
-    "pubDate": "Sun, 15 Dec 2024 02:00:00 -0800",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSzB7ZAYjepyS1_yMeTDpa8FWCYkaUSQZkF7Yj4c8h0vv15j-Qk5AemdnQ0l4FWx9mabzrVEVug",
-    "news_item_snippet": "Army received more unfortunate news after the game had concluded, as Black Knights running back Kanye Udoh entered the transfer portal, per On3&#39;s Pete Nakos.",
-    "news_item_url": "https://athlonsports.com/college/army-west-point-black-knights/army-running-back-kanye-udoh-enters-transfer-portal-after-navy-loss",
-    "picture_source": "Times Herald-Record",
-    "approx_traffic": "100,000+"
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSYZgjgcTafB5g56hhpGVfsPhbsAIjJwbt_lPwj_-_3529k2h-tikU3opMYo_u0UgO8-IJFtoFs",
+    "news_item_snippet": "The Kansas City Chiefs improved to 13-1 this season with a 21-0 win over the Cleveland Browns on Sunday, but quarterback Patrick Mahomes left the game with&nbsp;...",
+    "news_item_url": "https://www.kmbc.com/article/chiefs-vs-browns-live-updates-nfl-week-15-scores-highlights-analysis/63194463",
+    "picture_source": "clevelandbrowns.com",
+    "approx_traffic": "200,000+"
   },
   {
     "country": "United States",
     "title": "Texans",
-    "pubDate": "Sun, 15 Dec 2024 13:00:00 -0800",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTBaSgjPQteuXWrm0Z8iubaHtbsHeNROVFz8gX7znu8ecpPjnGs2qmSV28kcE_SkiHR-Ppbhp5z",
-    "news_item_snippet": "Though they aren&#39;t technically eliminated from the AFC playoffs, it&#39;s going to take three straight wins and a lot of help in order for them to reach the&nbsp;...",
-    "news_item_url": "https://sports.yahoo.com/tua-tagovailoa-dolphins-on-brink-of-playoff-elimination-with-loss-to-texans-212224947.html",
-    "picture_source": "wflx",
+    "pubDate": "Sun, 15 Dec 2024 11:00:00 -0800",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSYTKbbGDq5n-YAoQj4jMn4rhSc5C6VxVFOLfqbiXUXyJgjPuxDK-gh0m2rmXACwDZFTL_vT5Q2",
+    "news_item_snippet": "Miami had one of its best defensive performances of the season on Sunday afternoon, holding Houston&#39;s offense to just 181 total yards, but the Dolphins were&nbsp;...",
+    "news_item_url": "https://www.miamidolphins.com/news/game-recap-defense-disrupts-texans-offense-in-20-12-loss",
+    "picture_source": "HoustonTexans.com",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Cincinnati Bengals",
+    "pubDate": "Sun, 15 Dec 2024 12:00:00 -0800",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRMpDXtNh0vimeV1r-BxcD7v0jEKsw0HdjI4s2F9WC-wWVqyb3RDzLpv7_cs33JCaMtt00HIBV8",
+    "news_item_snippet": "Late in the 2nd quarter, Higgins leaped into the air to haul in a 38-yard touchdown pass, showcasing exactly what he brings to this Bengals offense. Higgins&nbsp;...",
+    "news_item_url": "https://www.cincyjungle.com/2024/12/15/24321788/cincinnati-bengals-6-winners-4-losers-tennessee-titans-geno-stone-tee-higgins",
+    "picture_source": "Cincinnati.com",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Colts",
+    "pubDate": "Sun, 15 Dec 2024 15:00:00 -0800",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRAmbDU65XbBsuBIXY6fnCiJ9ayOc-hCFHeJS2786wNmQheAEVTFKxxsvMQaERJm1CqxW8M2voQ",
+    "news_item_snippet": "Denver will wear its Sunset Orange jerseys, white pants and navy socks for a Week 15 matchup with the Indianapolis Colts.",
+    "news_item_url": "https://www.denverbroncos.com/news/broncos-to-wear-sunset-orange-jerseys-summit-white-pants-vs-colts",
+    "picture_source": "DenverBroncos.com",
     "approx_traffic": "50,000+"
   },
   {
@@ -191,22 +181,32 @@
   },
   {
     "country": "United States",
-    "title": "Dolphins vs Texans",
-    "pubDate": "Sun, 15 Dec 2024 11:00:00 -0800",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRImmlit2-ofCl7tuCxIkyUx3LePvxmNMh8b9HgJCjfXriNqivY5Pf-PTaSX4b7W3-8D1k7Jiyh",
-    "news_item_snippet": "The Houston Texans are one step closer to securing a postseason berth. Nico Collins had two touchdown receptions while the Texans defense forced four turnovers,&nbsp;...",
-    "news_item_url": "https://texanswire.usatoday.com/lists/dolphins-vs-texans-everything-to-know-from-houstons-surefire-home-win-in-week-15/",
+    "title": "Manchester City  Manchester United",
+    "pubDate": "Sun, 15 Dec 2024 10:00:00 -0800",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTiPk2_8eKZ9zSLX7xEbTx8StszEfRRmYcsNMG5kE_G7-rh0pnXNlv8Sc2GZ4ywOVYKoIJSKZSg",
+    "news_item_snippet": "Expert recap and game analysis of the Manchester United vs. Manchester City English Premier League game from December 15, 2024 on ESPN.",
+    "news_item_url": "https://www.espn.com/soccer/report/_/gameId/704434",
     "picture_source": "Yahoo Sports",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Zakir Hussain",
+    "pubDate": "Sun, 15 Dec 2024 10:00:00 -0800",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSVy7n9oyzC0wNQspTU5VTx7GV750sHJ8BXR2Ucmnr-SZsNS6V_fSdVKW8r7kMh4_z1SlL2jwnr",
+    "news_item_snippet": "Tabla maestro Zakir Hussain died at a hospital in San Francisco, his family said on Monday (December 16, 2024). Hussain died due to complications arising&nbsp;...",
+    "news_item_url": "https://www.thehindu.com/entertainment/music/tabla-maestro-zakir-hussain-dies-at-73/article68990583.ece",
+    "picture_source": "NPR",
     "approx_traffic": "50,000+"
   },
   {
     "country": "India",
     "title": "Man City",
     "pubDate": "Mon, 16 Dec 2024 00:30:00 +0530",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSqzLSa0a2JrgGsKJgyi99MfFh3bnSj648D7OsfYu6TcApFCNVk25KJFzTavAZuI0X2oOJA0sRd",
-    "news_item_snippet": "Bruno Fernandes equalised from the penalty spot before Amad Diallo scored a 90th minute winner. WHAT HAPPENED. A high-tempo start saw City swarming all over the&nbsp;...",
-    "news_item_url": "https://www.mancity.com/news/mens/manchester-city-v-manchester-united-match-report-15-december-2024-63869874",
-    "picture_source": "Manchester City FC",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcT4hIAa7DVGvrfcyVBv9CSbE9V4VjZ_TCDKLPVTk9QU4XaGLCPqmaBIsnbFzSj9EU-GyUxUKaVr",
+    "news_item_snippet": "The first goal in Manchester derby came in the 36th minute when Josko Gvardiol scored for City while Fernandes scored the equaliser through a spot kick in&nbsp;...",
+    "news_item_url": "https://www.business-standard.com/sports/football-news/premier-league-live-score-updates-manchester-city-vs-manchester-united-online-football-score-mci-vs-mun-streaming-today-124121500500_1.html",
+    "picture_source": "ESPN India",
     "approx_traffic": "50,000+"
   },
   {
@@ -233,10 +233,20 @@
     "country": "India",
     "title": "Zakir Hussain",
     "pubDate": "Sun, 15 Dec 2024 21:30:00 +0530",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSVy7n9oyzC0wNQspTU5VTx7GV750sHJ8BXR2Ucmnr-SZsNS6V_fSdVKW8r7kMh4_z1SlL2jwnr",
-    "news_item_snippet": "Tabla maestro Zakir Hussain has been admitted to the ICU of a San Francisco hospital with heart related problems, his friend and flautist Rakesh Chaurasia&nbsp;...",
-    "news_item_url": "https://www.business-standard.com/india-news/tabla-maestro-zakir-hussain-in-san-francisco-icu-with-heart-problems-124121500547_1.html",
-    "picture_source": "NPR",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRNiztMjLXtKLbgzYtZdY76Ds5ZjD0ITMZ4E-Sc6JDuWbYzDxfymIDUaIJgmNoqmjivTQ2KL4Ic",
+    "news_item_snippet": "His fingers flew, fluttered and floated in quicksilver changes of raga and rhythm, drumming up music and magic. Zakir Hussain was the maestro of tabla,&nbsp;...",
+    "news_item_url": "https://www.business-standard.com/india-news/tabla-maestro-zakir-hussain-passes-away-at-73-fused-music-to-make-magic-124121600055_1.html",
+    "picture_source": "Business Standard",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "India",
+    "title": "Syed Mushtaq Ali Trophy",
+    "pubDate": "Sun, 15 Dec 2024 19:30:00 +0530",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRBNTZPx9i4Z3tjOHIGRD9oatxsKoz76rICmkhhfI9Zvsm3OuCY7wfL7thJzlcF-hk4lRLV1BEQ",
+    "news_item_snippet": "Suryakumar Yadav top-scored for the Mumbai cricket team while Suryansh Shedge&#39;s late blitz helped them chase down 174 in 17.5 overs with five wickets in hand. 3&nbsp;...",
+    "news_item_url": "https://olympics.com/en/news/syed-mushtaq-ali-trophy-2024-cricket-final-mum-vs-mp-match-report",
+    "picture_source": "ESPNcricinfo.com",
     "approx_traffic": "200,000+"
   },
   {
@@ -287,7 +297,7 @@
     "news_item_snippet": "Suryakumar Yadav top-scored for the Mumbai cricket team while Suryansh Shedge&#39;s late blitz helped them chase down 174 in 17.5 overs with five wickets in hand. 3&nbsp;...",
     "news_item_url": "https://olympics.com/en/news/syed-mushtaq-ali-trophy-2024-cricket-final-mum-vs-mp-match-report",
     "picture_source": "ESPNcricinfo.com",
-    "approx_traffic": "200,000+"
+    "approx_traffic": "50,000+"
   },
   {
     "country": "India",
@@ -313,10 +323,10 @@
     "country": "Argentina",
     "title": "Talleres  Newell's",
     "pubDate": "Sun, 15 Dec 2024 02:00:00 -0300",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSFicjsSXZaXYAM6fcj7oFF2KofVXppLKAVut5qLmZU-YdagCZmmWJ9DKXukxrrUUJ8vqQp1C5m",
-    "news_item_snippet": "Talleres cay\u00f3 por 3 a 1 contra Newell&#39;s en un Mario Alberto Kempes que estaba muy ilusionado con gritar campe\u00f3n de la Liga Profesional por primera vez en su&nbsp;...",
-    "news_item_url": "https://www.infobae.com/deportes/2024/12/15/talleres-recibira-a-newells-con-el-objetivo-de-ganar-y-esperar-un-empate-entre-velez-y-huracan-hora-tv-y-formaciones/",
-    "picture_source": "canchallena.com",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQQZ1LT4Gb7WleBi4YwLsGaBf4vqTTv8zLMWt1AGmSlqrmFj5M3s2BzDed7Tv0SaClOgc5zHGvD",
+    "news_item_snippet": "Talleres sali\u00f3 con el envi\u00f3n de la necesidad del triunfo para quedarse con la Liga Profesional 2024, pero la primera clara fue para Newell&#39;s. Augusto Schott&nbsp;...",
+    "news_item_url": "https://www.espn.com.pe/futbol/argentina/nota/_/id/14552431/video-talleres-perdio-ante-newells-en-cordoba-velez-salio-campeon",
+    "picture_source": "Infobae.com",
     "approx_traffic": "100,000+"
   },
   {
@@ -331,7 +341,7 @@
   },
   {
     "country": "Argentina",
-    "title": "Barcelona - Legan\u00e9s",
+    "title": "Barcelona  Legan\u00e9s",
     "pubDate": "Sun, 15 Dec 2024 17:00:00 -0300",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTeUiMWJ2iuAQTTC4QqtDRG9kC3rk8br1adH7yceAPTUYLZVMJx0ovxXQje917dW4VTU1FWGm0d",
     "news_item_snippet": "Sigue el Barcelona vs Legan\u00e9s, hoy en vivo y en directo online, partido de la jornada 17 de LaLiga EA Sports, a trav\u00e9s de AS.com.",
@@ -343,10 +353,10 @@
     "country": "Brazil",
     "title": "City x Manchester United",
     "pubDate": "Sun, 15 Dec 2024 11:00:00 -0500",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTkZHr_yv4ddzYJD9iPh0KXiZgfsXkpuW_tDH5SQDwjHkY2ja1Ualm57WeNAn096sUZ1mvAjtu8",
-    "news_item_snippet": "\u200bLocal: Etihad Stadium, em Manchester (Inglaterra). Onde assistir ao cl\u00e1ssico ingl\u00eas. O duelo ter\u00e1 transmiss\u00e3o do canal fechado ESPN e do streaming Disney+.",
-    "news_item_url": "https://olhardigital.com.br/2024/12/15/internet-e-redes-sociais/manchester-city-x-manchester-united-onde-assistir-horario-e-escalacao-da-premier-league/",
-    "picture_source": "Olhar Digital",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSrd-GWMXUZH68Dp6lk8qcvd-PYkE0XK38lHmxmXLv8c25o3wpvImZnsh1gbwyHFFe_9yDC0LVc",
+    "news_item_snippet": "A rodada deste domingo pelo Campeonato Ingl\u00eas reservou um grande cl\u00e1ssico com o d\u00e9rbi de Manchester entre o Manchester City e o Manchester United no Etihad&nbsp;...",
+    "news_item_url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2024/12/15/manchester-city-x-manchester-united-como-foi-o-jogo.htm",
+    "picture_source": "UOL",
     "approx_traffic": "200,000+"
   },
   {
@@ -370,26 +380,6 @@
     "approx_traffic": "100,000+"
   },
   {
-    "country": "Brazil",
-    "title": "Southampton x Tottenham",
-    "pubDate": "Sun, 15 Dec 2024 14:00:00 -0500",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQNuIDvQjFoKDOWXYnZXkxIfQOV4qdVOQZ_htJkg50Kw57y5CGx5sNgzgrngjQY-QCLSITBpFIe",
-    "news_item_snippet": "O Tottenham protagonizou uma vit\u00f3ria esmagadora sobre o Southampton, com um placar de 5 a 0, em partida realizada no St. Mary&#39;s Stadium.",
-    "news_item_url": "https://placar.com.br/futebol-europeu/ao-vivo-southampton-x-tottenham-pela-premier-league/",
-    "picture_source": "Terra",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Brazil",
-    "title": "Borussia",
-    "pubDate": "Sun, 15 Dec 2024 11:00:00 -0500",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSUe3b9jJGGnR6fluwNwhObSzhci6o1wottj3UBnznnLlOkepHXn2ZZXxhQXsHV00ADVTxa0Rvd",
-    "news_item_snippet": "Melhores momentos: Borussia Dortmund 1 x 1 Hoffenheim (Bundesliga). 15/12/2024 - 15h35min. Compartilhar.",
-    "news_item_url": "https://gauchazh.clicrbs.com.br/esportes/noticia/2024/12/melhores-momentos-borussia-dortmund-1-x-1-hoffenheim-bundesliga-cm4py59rb00ce01ce470nfhy3.html",
-    "picture_source": "O Liberal",
-    "approx_traffic": "50,000+"
-  },
-  {
     "country": "South Korea",
     "title": "\uc0ac\uc6b0\uc0d8\ud504\ud134 \ub300 \ud1a0\ud2b8\ub118",
     "pubDate": "Mon, 16 Dec 2024 04:00:00 +0900",
@@ -403,20 +393,30 @@
     "country": "South Korea",
     "title": "\uac00\uacb0",
     "pubDate": "Sat, 14 Dec 2024 17:00:00 +0900",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSYf5F9AR-X7S6o2F54nqO7-zHvA4E6dYWSRTY1Zf2NFnU357-XOZx-oHU2V5FkqQ11GSiHv2zO",
-    "news_item_snippet": "\uc724\uc11d\uc5f4 \ub300\ud1b5\ub839 \ud0c4\ud575\uc18c\ucd94\uc548\uc774 \uc9c0\ub09c 14\uc77c \uad6d\ud68c \ubcf8\ud68c\uc758\uc5d0\uc11c \uac00\uacb0\ub410\ub2e4. \uc724 \ub300\ud1b5\ub839\uc774 \ube44\uc0c1\uacc4\uc5c4\uc744 \uc120\ud3ec\ud55c \uc9c0\ub09c 3\uc77c \ubc24\ubd80\ud130 \uc724 \ub300\ud1b5\ub839 \uc9c1\ubb34\uc815\uc9c0\uae4c\uc9c0 12\uc77c\uac04\uc758 \uacb0\uc815\uc801 \uc21c\uac04\ub4e4\uc744&nbsp;...",
-    "news_item_url": "https://www.khan.co.kr/article/202412160600101",
-    "picture_source": "BBC News \ucf54\ub9ac\uc544",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSHtCpX1CABrkIkIN4k0XBbm3UXmW2VxavphzvOUCdkNRiRKF-nJix5MjIjopN6LAdbRTIcEzGe",
+    "news_item_snippet": "\uc774\ub0a0 \uc7ac\uc801\uc758\uc6d0 300\uba85 \uac00\uc6b4\ub370 300\uba85 \uc804\uc6d0\uc774 \ud22c\ud45c\uc5d0 \ucc38\uc5ec\ud574 \ucc2c\uc131 204\uba85, \ubc18\ub300 85\uba85, \uae30\uad8c 3\uba85, \ubb34\ud6a8 8\uba85\uc73c\ub85c \uac00\uacb0 \ucc98\ub9ac\ub410\ub2e4.",
+    "news_item_url": "https://www.bbc.com/korean/articles/c07g1mnpgv7o",
+    "picture_source": "\ubb34\ub4f1\uc77c\ubcf4",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "Saudi Arabia",
+    "title": "\u0628\u0627\u062a\u0634\u0648\u0643\u0627 \u0636\u062f \u0627\u0644\u0623\u0647\u0644\u064a",
+    "pubDate": "Sat, 14 Dec 2024 08:00:00 +0300",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSjuwKEzoFAzA490Shhv9F04ogx6WXDtTocnWMBeBb9gN2kM6SvEEPVh2tQGuR2Ah29ICT0Ghg5",
+    "news_item_snippet": "\u0648\u0627\u0646\u0637\u0644\u0642\u062a \u0645\u0628\u0627\u0631\u0627\u0629 \u0627\u0644\u0623\u0647\u0644\u064a \u0636\u062f \u0628\u0627\u062a\u0634\u0648\u0643\u0627 \u0627\u0644\u0645\u0643\u0633\u064a\u0643\u064a \u0627\u0644\u064a\u0648\u0645 \u0627\u0644\u0633\u0628\u062a \u0641\u064a \u062a\u0645\u0627\u0645 \u0627\u0644\u0633\u0627\u0639\u0629 \u0627\u0644\u0633\u0627\u0628\u0639\u0629 \u0645\u0633\u0627\u0621\u064b \u0639\u0644\u0649 \u0627\u0633\u062a\u0627\u062f 974 \u0628\u0627\u0644\u0639\u0627\u0635\u0645\u0629 \u0627\u0644\u0642\u0637\u0631\u064a\u0629 \u0627\u0644\u062f\u0648\u062d\u0629\u060c \u0641\u064a \u0645\u0628\u0627\u0631\u0627\u0629 \u062a\u0642\u0627\u0645 \u0639\u0644\u0649 \u0643\u0623\u0633 \u0627\u0644\u062a\u062d\u062f\u064a\u060c \u0648\u0627\u0644\u0645\u0642\u0627\u0645\u0629&nbsp;...",
+    "news_item_url": "https://www.almasryalyoum.com/news/details/3329351",
+    "picture_source": "\u0627\u0644\u062c\u0632\u064a\u0631\u0629 \u0646\u062a",
     "approx_traffic": "100,000+"
   },
   {
     "country": "France",
     "title": "Paris-sg \u2013 Lyon",
     "pubDate": "Sun, 15 Dec 2024 14:00:00 +0100",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQAG01WiQ2AGuwBQ0lB08IM_jaoZOBwzswz2ogkzrIM0-ezngcXkdxVrnEVHHBuG46cOM_QgisG",
-    "news_item_snippet": "Le PSG s&#39;est facilement impos\u00e9 face \u00e0 l&#39;OL (3-1), ce dimanche lors de la 15e journ\u00e9e de Ligue 1 et s&#39;envole en t\u00eate du classement. D\u00e9couvrez le r\u00e9sum\u00e9 du&nbsp;...",
-    "news_item_url": "https://www.linternaute.com/sport/foot/6874342-direct-psg-lyon-suivez-le-match/",
-    "picture_source": "Le Parisien",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSQEv-WbIuiBNn7Y2lo4JuP7ZMaK9XIhm_zKQBDIWH0giEIxT0Rk9QCDRvk1eTO7E9WehvDPYEi",
+    "news_item_snippet": "Une partie du virage Auteuil a entonn\u00e9 des chants insultants ce dimanche soir, lors de PSG-OL, ce qui a entra\u00een\u00e9 une br\u00e8ve interruption de la rencontre.",
+    "news_item_url": "https://www.lefigaro.fr/sports/football/ligue-1/psg-lyon-nouveaux-chants-insultants-entonnes-breve-interruption-du-match-20241215",
+    "picture_source": "Linternaute.com",
     "approx_traffic": "200,000+"
   },
   {
@@ -427,7 +427,7 @@
     "news_item_snippet": "Corner de la derni\u00e8re chance pour City, tr\u00e8s mal frapp\u00e9 par Jack Grealish depuis le c\u00f4t\u00e9 gauche. Le ballon ne d\u00e9colle pas et Lisandro Martinez repousse de la&nbsp;...",
     "news_item_url": "https://www.lequipe.fr/Football/match-direct/championnat-d-angleterre/2024-2025/manchester-city-manchester-united-live/654949",
     "picture_source": "BFMTV.COM",
-    "approx_traffic": "100,000+"
+    "approx_traffic": "50,000+"
   },
   {
     "country": "France",
@@ -443,10 +443,10 @@
     "country": "France",
     "title": "Pape Fran\u00e7ois",
     "pubDate": "Sun, 15 Dec 2024 10:00:00 +0100",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRzll7XEWRdEYXWDRAVhNQOCvRmU5FuuPiPimuKbz02XY0pzDL2NPPt2yvFgfmjIzUdEECJpB4P",
-    "news_item_snippet": "Des chants polyphoniques corses ont accompagn\u00e9 la messe. C&#39;\u00e9tait le but du pape : c\u00e9l\u00e9brer les traditions et la ferveur populaire. \u00c0 la tomb\u00e9e de la nuit, il a&nbsp;...",
-    "news_item_url": "https://www.francetvinfo.fr/france/corse/visite-du-pape-francois-en-corse-un-deplacement-historique-salue-par-la-ferveur-de-milliers-d-habitants_6957245.html",
-    "picture_source": "Franceinfo",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcT4KfXx89CcsFww9O5wJ8s1e49Fr7q8BY9b1cajRW_j9JCvxAxfLNqcP8f7NnEzai488sW9XP0A",
+    "news_item_snippet": "Sur l&#39;\u00eele qui l&#39;a accueilli avec enthousiasme, le souverain pontife, heureux, a c\u00e9l\u00e9br\u00e9 la \u00ab pi\u00e9t\u00e9 populaire \u00bb locale, enjoignant la soci\u00e9t\u00e9 \u00e0 \u00ab s&#39;occuper&nbsp;...",
+    "news_item_url": "https://www.lemonde.fr/societe/article/2024/12/15/a-ajaccio-le-pape-francois-heureux-d-une-journee-passee-en-plein-air-au-milieu-des-corses_6450614_3224.html",
+    "picture_source": "Le Monde",
     "approx_traffic": "50,000+"
   },
   {
@@ -473,10 +473,10 @@
     "country": "France",
     "title": "Mayotte",
     "pubDate": "Sat, 14 Dec 2024 18:00:00 +0100",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQefduZQYAQYceZZPhleD7Jp0liL3NISRBeFTvB5frpAmTCAlUFJYUNUu4h1rzQ4lMp8WviiWBu",
-    "news_item_snippet": "L&#39;archipel fran\u00e7ais a \u00e9t\u00e9 d\u00e9truit, samedi, par &quot;le cyclone le plus violent et destructeur&quot; observ\u00e9 sur place depuis 1934, selon la pr\u00e9fecture.",
-    "news_item_url": "https://www.francetvinfo.fr/meteo/cyclone-ouragan/cyclone-chido-a-mayotte/recit-l-interieur-des-chambres-a-ete-aspire-le-jour-ou-le-cyclone-chido-a-devaste-mayotte_6957011.html",
-    "picture_source": "Franceinfo",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRq_u4wNCkQnOxX3DdaLBwMX4XP23RMGjRLR_4YOKZzjeqMP0VwVzYIIZwHR__ICqa9x8HRKqo-",
+    "news_item_snippet": "Plusieurs centaines, voire des milliers de morts : les autorit\u00e9s craignent un bilan humain tr\u00e8s lourd \u00e0 Mayotte, le d\u00e9partement le plus pauvre de France&nbsp;...",
+    "news_item_url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/l-info-de-france-inter-2587227",
+    "picture_source": "France Inter",
     "approx_traffic": "200,000+"
   },
   {
@@ -488,6 +488,16 @@
     "news_item_url": "https://www.tf1.fr/tf1/star-academy/videos/star-academy-2024-le-gage-dulysse-border-tous-les-petits-17683358.html",
     "picture_source": "TF1",
     "approx_traffic": "100,000+"
+  },
+  {
+    "country": "France",
+    "title": "OM",
+    "pubDate": "Sat, 14 Dec 2024 19:00:00 +0100",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTIv5-doOu11MhKu2ocviSNSmSS4uE1CIEyNPLybeZ9N4ovgOpr_Hqq3jFCoyvpwep0UXWYVi-A",
+    "news_item_snippet": "Conseiller sportif de l&#39;OM, Medhi Benatia a relay\u00e9, sur son compte X, des messages pointant du doigt l&#39;arbitrage en marge du match de Ligue 1 face au Losc&nbsp;...",
+    "news_item_url": "https://rmcsport.bfmtv.com/football/ligue-1/om-lille-quand-benatia-relaie-des-messages-critiquant-l-arbitrage-de-willy-delajod_AV-202412150271.html",
+    "picture_source": "LOSC.fr",
+    "approx_traffic": "50,000+"
   },
   {
     "country": "Germany",
@@ -511,12 +521,12 @@
   },
   {
     "country": "Germany",
-    "title": "DFB-Pokal",
-    "pubDate": "Sun, 15 Dec 2024 16:00:00 +0100",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQLx4T651sDE45f7WLLvybglGEA5G5I66PQoSkEc6D86tCFh2jC9u8mZ23LHhK4ljWwTbHhW9Jk",
-    "news_item_snippet": "Der VfB trifft in der Runde der letzten Acht des diesj\u00e4hrigen DFB-Pokalwettbewerbs im Februar auf den FC Augsburg. Das ergab die Ziehung von Losfee Julian&nbsp;...",
-    "news_item_url": "https://www.vfb.de/de/vfb/aktuell/neues/profis/2425/auslosung-dfb-pokal-viertelfinale/",
-    "picture_source": "NDR.de",
+    "title": "Darts-WM",
+    "pubDate": "Sun, 15 Dec 2024 10:00:00 +0100",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTmcAM-4N7RXtK9RCENiFYEldgbZZf1ZXZo1gZVA_Rl5H29qcO2-agewQqphEEBzb-sGrSyRjha",
+    "news_item_snippet": "Ein tragischer Todesfall \u00fcberschattet den Auftakt der Darts-WM. Der viermalige WM-Halbfinalist Wayne Mardle trauert um seine Ehefrau.",
+    "news_item_url": "https://www.sport1.de/news/darts-sport/pdc-darts-wm/2024/12/darts-wm-2025-tragischer-todesfall-uberschattet-auftakt",
+    "picture_source": "SPORT1",
     "approx_traffic": "50,000+"
   },
   {
@@ -591,7 +601,7 @@
   },
   {
     "country": "Mexico",
-    "title": "Barcelona - Legan\u00e9s",
+    "title": "Barcelona  Legan\u00e9s",
     "pubDate": "Sun, 15 Dec 2024 13:00:00 -0600",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcR6ptdjXwnd8X75NNp8Xh4afnmmQpHoBSOxHRo1_Dlb3yoLhLWgF1Oe6Z5k-YOrV4RIdiVODolE",
     "news_item_snippet": "Sigue el Barcelona vs Legan\u00e9s, hoy en vivo y en directo online, partido de la jornada 17 de LaLiga EA Sports, a trav\u00e9s de AS.com.",
@@ -613,10 +623,10 @@
     "country": "Spain",
     "title": "Barcelona - Legan\u00e9s",
     "pubDate": "Sun, 15 Dec 2024 20:00:00 +0100",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTTLOmlLum_kBOLZ9a0U5DSl6avLBU6I6f8nQLiofdTYGf-FI9rA92fB6H2ftIeLoGCDwjMUATS",
-    "news_item_snippet": "Hansi Flick ha elegido ya el once titular para el partido que el FC Barcelona jugar\u00e1 esta noche (21.00 h./DAZN LaLiga) ante el Legan\u00e9s en el Estadi Ol\u00edmpic.",
-    "news_item_url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20241215/1002371756/solo-cambio-alineacion-barca-leganes.html",
-    "picture_source": "RTVE",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcS1D7S7eVq2a7etKX5BhipNGW3o5EWIATBcPa6X4ttX-WqKJUG2IQf-FhyId401WPGWtYuFryOH",
+    "news_item_snippet": "Sigue el Barcelona vs Legan\u00e9s, hoy en vivo y en directo online, partido de la jornada 17 de LaLiga EA Sports, a trav\u00e9s de AS.com.",
+    "news_item_url": "https://as.com/futbol/primera/barcelona-leganes-en-directo-laliga-ea-sports-en-vivo-hoy-n/",
+    "picture_source": "Mundo Deportivo",
     "approx_traffic": "500,000+"
   },
   {
@@ -631,12 +641,12 @@
   },
   {
     "country": "Spain",
-    "title": "Villarreal - Betis",
+    "title": "Villarreal  Betis",
     "pubDate": "Sun, 15 Dec 2024 18:00:00 +0100",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSJ5BY31AX2RbXSOet-SGFZapPkpQw90TVs_YbQvvvKiUVWn-TFtibERTWW2c-wyTqw6K2Ic4p7",
-    "news_item_snippet": "Sigue en vivo y en directo el Villarreal - Betis, partido de la jornada 17 de LaLiga EA Sports, que se disputa hoy, 15 de diciembre, a las 18:30h.",
-    "news_item_url": "https://as.com/futbol/primera/villarreal-betis-en-directo-laliga-ea-sports-hoy-en-vivo-n/",
-    "picture_source": "MARCA",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRxVQvjhvLYrJSFMF4i69aofDZz5tZ0-Im5mpeeEpkGhl0oPD7pQ1U4d9nWTnfuxsJRb4bkZiWm",
+    "news_item_snippet": "Los amarillos cayeron en un duelo directo por los puestos europeos, a pesar de jugar con superioridad num\u00e9rica durante buena parte del partido. Los visitantes&nbsp;...",
+    "news_item_url": "https://villarrealcf.es/frustrante-derrota-ante-el-real-betis-1-2/",
+    "picture_source": "AS",
     "approx_traffic": "100,000+"
   },
   {
@@ -671,21 +681,31 @@
   },
   {
     "country": "United Kingdom",
+    "title": "Man Utd",
+    "pubDate": "Sun, 15 Dec 2024 19:00:00 +0000",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSuNWa18bcrTnM-S_e5SuyA-01DcgQeSgtjLwNS2tYRX--jyxiLnr_30rzewuk3gWhgCoFUf4NJ",
+    "news_item_snippet": "MOTD2 pundit Danny Murphy explains how Manchester United&#39;s match-winner Amad Diallo was the only player to have freedom and fearlessness in Sunday&#39;s&nbsp;...",
+    "news_item_url": "https://www.bbc.com/sport/football/articles/clygq9q2wkqo",
+    "picture_source": "Manchester United",
+    "approx_traffic": "500,000+"
+  },
+  {
+    "country": "United Kingdom",
     "title": "Man City vs Man United",
     "pubDate": "Sun, 15 Dec 2024 16:00:00 +0000",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcS1L8xv6oeAYntEGZ2RPVEJS1oD00gLzAdSl_4t-xWqMu7GEhBtwYrZlEvAvTpeT83zaMl7THtU",
-    "news_item_snippet": "Bruno Fernandes equalised from the penalty spot before Amad Diallo scored a 90th minute winner. WHAT HAPPENED. A high-tempo start saw City swarming all over the&nbsp;...",
-    "news_item_url": "https://www.mancity.com/news/mens/manchester-city-v-manchester-united-match-report-15-december-2024-63869874",
+    "news_item_snippet": "City make two changes for today&#39;s Manchester Derby with Phil Foden and Matheus Nunes coming into the starting XI.",
+    "news_item_url": "https://www.mancity.com/news/mens/manchester-city-v-manchester-united-team-news-63869870",
     "picture_source": "The Independent",
-    "approx_traffic": "500,000+"
+    "approx_traffic": "200,000+"
   },
   {
     "country": "United Kingdom",
     "title": "Celtic vs Rangers",
     "pubDate": "Sun, 15 Dec 2024 15:00:00 +0000",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTDZNBYJnq3fQix0D8oMUiHX1LWFO_mRvwUePUHoEHoZmH3RKovsP7DZE2TXH7QvN1f4IP6mfvP",
-    "news_item_snippet": "Police Scotland are using stop and search powers around the Celtic v Rangers game at Hampden Park.",
-    "news_item_url": "https://www.bbc.com/news/articles/c62zd50e21ko",
+    "news_item_snippet": "Celtic find their way out of trouble to claim trophy as Rangers left to regret more what ifs, writes Tom English.",
+    "news_item_url": "https://www.bbc.com/sport/football/articles/c205wnd0xego",
     "picture_source": "The Independent",
     "approx_traffic": "200,000+"
   },
@@ -693,10 +713,10 @@
     "country": "United Kingdom",
     "title": "Southampton vs Tottenham",
     "pubDate": "Sun, 15 Dec 2024 19:00:00 +0000",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcT2kYIL9FEXvPKpaiX6T93li9XoSkgfEOtFjHiDas95S32sc5-vzIfY5bpdnPjtl7u0X7H84oLW",
-    "news_item_snippet": "Spurs ended their five-match winless run in style with a 5-0 thrashing that heaped pressure on Saints&#39; Russell Martin.",
-    "news_item_url": "https://www.theguardian.com/football/live/2024/dec/15/southampton-v-tottenham-premier-league-live",
-    "picture_source": "The Guardian",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQ6Rq7GABVz253um0z0Yd-CVjXoz8e2qAbuQtfig9UviL7lYzIuUR6Wbwl7AiZckhPgDV7PvLa2",
+    "news_item_snippet": "Report and free match highlights from the Premier League match between Southampton and Tottenham at St Marys on Sunday; two goals from James Maddison and&nbsp;...",
+    "news_item_url": "https://www.skysports.com/football/southampton-vs-tottenham/report/505965",
+    "picture_source": "Sky Sports",
     "approx_traffic": "100,000+"
   },
   {
@@ -712,12 +732,12 @@
   {
     "country": "United Kingdom",
     "title": "Celtic",
-    "pubDate": "Sun, 15 Dec 2024 17:00:00 +0000",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRiYQW2piYGzTHujZB4DhO6Io4tx8Tvfr_NaCLQCTARPRGz6AxpPmJUNabCbkyoHRIhZHJsWzg7",
-    "news_item_snippet": "Celtic find their way out of trouble to claim trophy as Rangers left to regret more what ifs, writes Tom English.",
-    "news_item_url": "https://www.bbc.com/sport/football/articles/c205wnd0xego",
+    "pubDate": "Sun, 15 Dec 2024 15:00:00 +0000",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQqVsWYukRSSEkClnBjl0WXKkkAeBFC14R0BAW3aVxBJlPmAxzamZPC0K4U8d1CwSgBeK5_7viw",
+    "news_item_snippet": "The Glasgow rivals battled for the first silverware of the season at Hampden Park.",
+    "news_item_url": "https://www.independent.co.uk/sport/football/celtic-rangers-live-stream-score-result-b2664425.html",
     "picture_source": "BBC News",
-    "approx_traffic": "50,000+"
+    "approx_traffic": "100,000+"
   },
   {
     "country": "United Kingdom",
