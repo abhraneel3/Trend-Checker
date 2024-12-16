@@ -47,7 +47,7 @@
     "news_item_snippet": "Denver will wear its Sunset Orange jerseys, white pants and navy socks for a Week 15 matchup with the Indianapolis Colts.",
     "news_item_url": "https://www.denverbroncos.com/news/broncos-to-wear-sunset-orange-jerseys-summit-white-pants-vs-colts",
     "picture_source": "DenverBroncos.com",
-    "approx_traffic": "500,000+"
+    "approx_traffic": "200,000+"
   },
   {
     "country": "United States",
@@ -84,8 +84,8 @@
     "title": "Patrick Mahomes",
     "pubDate": "Sun, 15 Dec 2024 13:00:00 -0800",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcR9gHaqlBhwD1oczTWLgwgeqPFcVeqOv7_tmR2qDY6WqS325GmaWCfJ1Y2WcHIoAU9g9ejEx7PG",
-    "news_item_snippet": "Kansas City Chiefs quarterback Patrick Mahomes left Sunday&#39;s game against the Cleveland Browns with a right ankle injury. Mahomes suffered the injury in the&nbsp;...",
-    "news_item_url": "https://sports.yahoo.com/chiefs-qb-patrick-mahomes-replaced-by-carson-wentz-after-ankle-injury-in-win-over-browns-205705058.html",
+    "news_item_snippet": "Kansas City Chiefs quarterback Patrick Mahomes suffered a high ankle sprain Sunday and is considered week-to-week moving forward, reports NBC Sports.",
+    "news_item_url": "https://www.nbcnews.com/sports/nfl/chiefs-patrick-mahomes-injury-ankle-rcna184306",
     "picture_source": "ESPN Australia",
     "approx_traffic": "200,000+"
   },
@@ -101,12 +101,12 @@
   },
   {
     "country": "United States",
-    "title": "Bengals",
-    "pubDate": "Sun, 15 Dec 2024 11:00:00 -0800",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcT1tAE6wigawchBALSyJjBZmSHOlbzZFQSSLuyaQ_DFCZcU49RK3RPF_P30dUdb8swDjymrVf7U",
-    "news_item_snippet": "The Titans turned the ball over six times in the contest, on four interceptions and two fumbles.",
-    "news_item_url": "https://www.tennesseetitans.com/news/game-recap-mistake-prone-titans-lose-37-21-to-bengals-drop-to-3-11",
-    "picture_source": "Bengals.com",
+    "title": "Manchester United",
+    "pubDate": "Sun, 15 Dec 2024 10:00:00 -0800",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQIV9zrGVQ5PYa0RCx683SxEI8P8AhIrHxx6mKVizK1lozUAlKMIybe29BBHAp2t-n8tqoB-K2w",
+    "news_item_snippet": "Expert recap and game analysis of the Manchester United vs. Manchester City English Premier League game from December 15, 2024 on ESPN.",
+    "news_item_url": "https://www.espn.com/soccer/report/_/gameId/704434",
+    "picture_source": "Yahoo Sports",
     "approx_traffic": "200,000+"
   },
   {
@@ -124,26 +124,16 @@
     "title": "Chiefs vs Browns",
     "pubDate": "Sun, 15 Dec 2024 11:00:00 -0800",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSYZgjgcTafB5g56hhpGVfsPhbsAIjJwbt_lPwj_-_3529k2h-tikU3opMYo_u0UgO8-IJFtoFs",
-    "news_item_snippet": "The Kansas City Chiefs improved to 13-1 this season with a 21-0 win over the Cleveland Browns on Sunday, but quarterback Patrick Mahomes left the game with&nbsp;...",
-    "news_item_url": "https://www.kmbc.com/article/chiefs-vs-browns-live-updates-nfl-week-15-scores-highlights-analysis/63194463",
+    "news_item_snippet": "The Kansas City Chiefs played the Browns in NFL Week 15. Here is the score, recap and analysis from the AFC game with KC and Cleveland.",
+    "news_item_url": "https://www.kansascity.com/sports/spt-columns-blogs/sam-mcdowell/article297111799.html",
     "picture_source": "clevelandbrowns.com",
     "approx_traffic": "200,000+"
   },
   {
     "country": "United States",
-    "title": "Man City vs Man United",
-    "pubDate": "Sun, 15 Dec 2024 09:00:00 -0800",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTiPk2_8eKZ9zSLX7xEbTx8StszEfRRmYcsNMG5kE_G7-rh0pnXNlv8Sc2GZ4ywOVYKoIJSKZSg",
-    "news_item_snippet": "Expert recap and game analysis of the Manchester United vs. Manchester City English Premier League game from December 15, 2024 on ESPN.",
-    "news_item_url": "https://www.espn.com/soccer/report/_/gameId/704434",
-    "picture_source": "Yahoo Sports",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "United States",
     "title": "Texans",
     "pubDate": "Sun, 15 Dec 2024 11:00:00 -0800",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSYTKbbGDq5n-YAoQj4jMn4rhSc5C6VxVFOLfqbiXUXyJgjPuxDK-gh0m2rmXACwDZFTL_vT5Q2",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRvCS0ZrJxBkO8ZtLaRt0cVgRXyBXfytAc_GKFbBdE8gUndJ4s6PBsHpltIh5QrkDBU-EDqFjVW",
     "news_item_snippet": "Miami had one of its best defensive performances of the season on Sunday afternoon, holding Houston&#39;s offense to just 181 total yards, but the Dolphins were&nbsp;...",
     "news_item_url": "https://www.miamidolphins.com/news/game-recap-defense-disrupts-texans-offense-in-20-12-loss",
     "picture_source": "HoustonTexans.com",
@@ -153,17 +143,37 @@
     "country": "United States",
     "title": "Dua Lipa",
     "pubDate": "Sun, 15 Dec 2024 16:00:00 -0800",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTc6CXV5UVQ2SNq027iTxdKiYEU-SlW0pNXtLXCR_tWNjEFHNW4MVVsX9mZ92c-VOxpWbiE0UAg",
-    "news_item_snippet": "&#39;A Very Carpool Karaoke Christmas&#39; has Lady Gaga, Chappell Roan and Dua Lipa joining Zane Lowe for a holiday special on Apple TV+ and Apple Music .",
-    "news_item_url": "https://variety.com/2024/music/news/lady-gaga-chappell-roan-dua-lipa-very-carpool-karaoke-christmas-zane-lowe-1236249622/",
-    "picture_source": "Billboard",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQacu_Wca87j5AqshEIOscCGTRvyDk6-hEzPZ8TzwFTLbVL2MRgyG7iBAugXfIKJJ4aWw-RJJqE",
+    "news_item_snippet": "Starring Lady Gaga, Dua Lipa, Chappell Roan, the festive installment of the Emmy-winning Carpool Karaoke: The Series dropped on Dec. 15,",
+    "news_item_url": "https://www.billboard.com/music/music-news/carpool-karaoke-christmas-trailer-lady-gaga-dua-lipa-chappell-roan-1235857463/",
+    "picture_source": "Variety",
     "approx_traffic": "100,000+"
   },
   {
     "country": "United States",
-    "title": "Manchester United",
+    "title": "Bengals",
     "pubDate": "Sun, 15 Dec 2024 11:00:00 -0800",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQIV9zrGVQ5PYa0RCx683SxEI8P8AhIrHxx6mKVizK1lozUAlKMIybe29BBHAp2t-n8tqoB-K2w",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQeU0opb5Z8WFqFnxr9hUzhTPjJfHii--Ddn8kL69L40bjH4Zwg-hSevW4GDBUSFy_E0HPoEeZ1",
+    "news_item_snippet": "NASHVILLE, Tenn. -- Bengals quarterback Joe Burrow set a pair of club single-season records with his 36th touchdown pass and sixth straight game with at&nbsp;...",
+    "news_item_url": "https://www.bengals.com/news/bengals-take-down-titans-37-27-postgame-recap-notes-quotes",
+    "picture_source": "Titansonline.com",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Colts",
+    "pubDate": "Sun, 15 Dec 2024 15:00:00 -0800",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRAmbDU65XbBsuBIXY6fnCiJ9ayOc-hCFHeJS2786wNmQheAEVTFKxxsvMQaERJm1CqxW8M2voQ",
+    "news_item_snippet": "The Denver Broncos have announced their uniform combo for Sunday&#39;s game against the Indianapolis Colts.",
+    "news_item_url": "https://broncoswire.usatoday.com/2024/12/15/broncos-news-uniform-announced-vs-colts-in-nfl-week-15/",
+    "picture_source": "DenverBroncos.com",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Man City vs Man United",
+    "pubDate": "Sun, 15 Dec 2024 09:00:00 -0800",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTiPk2_8eKZ9zSLX7xEbTx8StszEfRRmYcsNMG5kE_G7-rh0pnXNlv8Sc2GZ4ywOVYKoIJSKZSg",
     "news_item_snippet": "Expert recap and game analysis of the Manchester United vs. Manchester City English Premier League game from December 15, 2024 on ESPN.",
     "news_item_url": "https://www.espn.com/soccer/report/_/gameId/704434",
     "picture_source": "Yahoo Sports",
@@ -180,22 +190,12 @@
     "approx_traffic": "50,000+"
   },
   {
-    "country": "United States",
-    "title": "Jets vs Jaguars",
-    "pubDate": "Sun, 15 Dec 2024 12:00:00 -0800",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSjuxIzZlUikcHLShm6FiEl8Wra3aDGTGfdvzcQ9ndlFaIg0rE1gQyD-I2Ll329IuuqTyNSP072",
-    "news_item_snippet": "A quick look at the Jaguars&#39; 32-25 loss to the New York Jets in a 2024 Week 15 game at EverBank Stadium in Jacksonville Sunday.",
-    "news_item_url": "https://www.jaguars.com/news/k000060-game-report-2024-week-15-jets-32-jaguars-25",
-    "picture_source": "newyorkjets.com",
-    "approx_traffic": "50,000+"
-  },
-  {
     "country": "India",
     "title": "Virat Kohli",
     "pubDate": "Mon, 16 Dec 2024 10:30:00 +0530",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRH2mnVJrScO-XNvhNwRjsaOVfn3OkvlTkFecU57JKyOGfGIrY3kR8om9dVp0GEX--5ukHddVp6",
-    "news_item_snippet": "Cricket News: Virat Kohli&#39;s persistent struggles with deliveries outside off-stump continue, particularly in Test matches. His predictable tendency to chase&nbsp;...",
-    "news_item_url": "https://timesofindia.indiatimes.com/sports/cricket/india-in-australia/virat-kohli-and-that-corridor-of-certainty/articleshow/116356719.cms",
+    "news_item_snippet": "India struggled against Australia on Day 3 of the third Test. Kohli edged to the keeper for a low score. Starc and Hazlewood took early wickets.",
+    "news_item_url": "https://m.economictimes.com/news/sports/ind-vs-aus-test-virat-kohli-get-out-to-outside-off-stump-ball-again-triggers-meme-fest-on-social-media/articleshow/116353639.cms",
     "picture_source": "NDTVSports.com",
     "approx_traffic": "50,000+"
   },
@@ -231,6 +231,16 @@
   },
   {
     "country": "India",
+    "title": "Jasprit Bumrah",
+    "pubDate": "Sun, 15 Dec 2024 15:30:00 +0530",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcS56qk0HWhmBro6yQdZSrVeG3-gGV5ed__FCBuZWxPfZ0RWTZ7wxNB-xbToMvvKq92iuDlrOlrM",
+    "news_item_snippet": "Cricket commentator Isa Guha has apologised for calling Indian bowler Jasprit Bumrah the &quot;most valuable primate&quot; during the third Test against Australia.",
+    "news_item_url": "https://www.bbc.com/news/articles/cn9gy7938xeo",
+    "picture_source": "NDTVSports.com",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "India",
     "title": "Man City vs Man United",
     "pubDate": "Sun, 15 Dec 2024 21:30:00 +0530",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTisWEOyBZ3pKWwfdDwkYO4p36CL_mgjEMLMWK3P5YDU3I-1wBe2qQ0D4qcaUYYVv2mfvB_ySx2",
@@ -241,20 +251,10 @@
   },
   {
     "country": "India",
-    "title": "Steve Smith",
-    "pubDate": "Sun, 15 Dec 2024 12:30:00 +0530",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSuE6jS86IuzKlSQNjF_5G1T-uRd2TQA1WcrSylBLncPQunoBLmC5KJOvGbMb8uptEB-r7w8Av8",
-    "news_item_snippet": "Cricket News: Travis Head and Steve Smith hammered centuries, propelling Australia to a commanding 405/7 against India on Day 2 at the Gabba.",
-    "news_item_url": "https://timesofindia.indiatimes.com/sports/cricket/india-in-australia/ind-vs-aus-how-travis-head-steve-smith-left-india-dispirited-at-the-gabba/articleshow/116350887.cms",
-    "picture_source": "Hindustan Times",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "India",
     "title": "Syed Mushtaq Ali Trophy",
     "pubDate": "Sun, 15 Dec 2024 19:30:00 +0530",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRBNTZPx9i4Z3tjOHIGRD9oatxsKoz76rICmkhhfI9Zvsm3OuCY7wfL7thJzlcF-hk4lRLV1BEQ",
-    "news_item_snippet": "Mumbai beat Madhya Pradesh by five wickets in the final to win the Syed Mushtaq Ali Trophy 2024. Suryakumar Yadav and Suryansh Shedge starred.",
+    "news_item_snippet": "Suryakumar Yadav of India. (Getty Images). Mumbai registered a comprehensive five-wicket victory over Madhya Pradesh to win the Syed&nbsp;...",
     "news_item_url": "https://olympics.com/en/news/syed-mushtaq-ali-trophy-2024-cricket-final-mum-vs-mp-match-report",
     "picture_source": "ESPNcricinfo.com",
     "approx_traffic": "200,000+"
@@ -383,7 +383,7 @@
     "country": "France",
     "title": "PSG",
     "pubDate": "Sun, 15 Dec 2024 14:00:00 +0100",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSOTmQTpoHlIJjRFXdKlCFw-aLTOo_zU4l7tUE5BL3oQAweEoRvcRAq2HxFqvmWpyppHWy7LRli",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSDQIG8sDG1l_DUAHGPR5h4IKGIOrSQe0heviUVnJrY6I6q4K8eFbuxazBIeRW1zVDgOiaMraoO",
     "news_item_snippet": "Retrouvez toute l&#39;actualit\u00e9 du Championnat de France de football: derni\u00e8res infos, interviews, vid\u00e9os des plus beaux buts, buteurs, passeurs calendrier et&nbsp;...",
     "news_item_url": "https://rmcsport.bfmtv.com/football/ligue-1/direct-psg-ol-suivez-le-choc-de-la-15e-journee-de-ligue-1-en-live_LS-202412150052.html",
     "picture_source": "Le Figaro",
@@ -413,10 +413,10 @@
     "country": "France",
     "title": "Pape Fran\u00e7ois",
     "pubDate": "Sun, 15 Dec 2024 10:00:00 +0100",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQGqdQSx7_FXZBJqk1hm3pvWsZo6jLatP7wP_LpD7GT_YCRn1B1-E9O5YVKa5tMVpqSgQeev4vX",
-    "news_item_snippet": "Dimanche 15 d\u00e9cembre, le souverain pontife s&#39;est rendu pour la premi\u00e8re fois en Corse. Il a notamment c\u00e9l\u00e9br\u00e9 une messe en plein air \u00e0 Ajaccio devant pr\u00e8s&nbsp;...",
-    "news_item_url": "https://france3-regions.francetvinfo.fr/corse/video-retour-en-images-sur-la-visite-du-pape-francois-a-ajaccio-3077086.html",
-    "picture_source": "Le Monde",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcS-GO-f1eign74zWKo7HW08h56FfQOEgMFhiGpiu3fMRAQnbJ7VwBszS28qz4nqjI_6gRvd0K1d",
+    "news_item_snippet": "Sur l&#39;\u00eele, qui l&#39;a accueilli avec enthousiasme, le souverain pontife, heureux, a c\u00e9l\u00e9br\u00e9 la \u00ab pi\u00e9t\u00e9 populaire \u00bb locale, enjoignant \u00e0 la soci\u00e9t\u00e9 de&nbsp;...",
+    "news_item_url": "https://www.lemonde.fr/societe/article/2024/12/15/a-ajaccio-le-pape-francois-heureux-d-une-journee-passee-en-plein-air-au-milieu-des-corses_6450614_3224.html",
+    "picture_source": "Franceinfo",
     "approx_traffic": "50,000+"
   },
   {
@@ -443,10 +443,10 @@
     "country": "France",
     "title": "Mayotte",
     "pubDate": "Sat, 14 Dec 2024 18:00:00 +0100",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTI2A5lQU8ou6oczGLbarncu6f4sePopw3vRkI_vYvxRTGYysLgosFJbUl3l0zRz9fr-OND3EnJ",
-    "news_item_snippet": "Le centre hospitalier de Mayotte est &quot;tr\u00e8s endommag\u00e9&quot; et les centres m\u00e9dicaux sont &quot;inop\u00e9rants&quot;, a rapport\u00e9 la ministre d\u00e9missionnaire de la Sant\u00e9,&nbsp;...",
-    "news_item_url": "https://www.francetvinfo.fr/meteo/cyclone-ouragan/cyclone-chido-a-mayotte/direct-cyclone-chido-a-mayotte-le-ministre-demissionnaire-de-l-interieur-bruno-retailleau-attendu-sur-place-en-fin-de-matinee_6958262.html",
-    "picture_source": "Franceinfo",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTPT-chCZyJkZs5QVUYGzInC4_XBEK1HY6nZLI9_4kT6ETJ1imajUf03fD7cJzG9njx2go4tNoY",
+    "news_item_snippet": "Ce lundi, une course contre la montre s&#39;est engag\u00e9e \u00e0 Mayotte pour retrouver des survivants dans les d\u00e9combres des bidonvilles. L&#39;archipel fran\u00e7ais de&nbsp;...",
+    "news_item_url": "https://www.francebleu.fr/infos/faits-divers-justice/cyclone-chido-a-mayotte-l-archipel-devaste-certainement-plusieurs-centaines-de-morts-5050928",
+    "picture_source": "France Bleu",
     "approx_traffic": "200,000+"
   },
   {
@@ -460,16 +460,6 @@
     "approx_traffic": "100,000+"
   },
   {
-    "country": "France",
-    "title": "OM",
-    "pubDate": "Sat, 14 Dec 2024 19:00:00 +0100",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTIv5-doOu11MhKu2ocviSNSmSS4uE1CIEyNPLybeZ9N4ovgOpr_Hqq3jFCoyvpwep0UXWYVi-A",
-    "news_item_snippet": "Longtemps devant au tableau d&#39;affichage, gr\u00e2ce \u00e0 un but de Quentin Merlin, l&#39;OM s&#39;est fait rejoindre en fin de match par un but de la t\u00eate de Dia (.",
-    "news_item_url": "https://www.footmercato.net/a6677307736773452121-om-losc-larbitre-exfiltre-par-la-securite",
-    "picture_source": "LOSC.fr",
-    "approx_traffic": "50,000+"
-  },
-  {
     "country": "Germany",
     "title": "RB Leipzig \u2013 Eintracht Frankfurt",
     "pubDate": "Sun, 15 Dec 2024 19:00:00 +0100",
@@ -481,18 +471,8 @@
   },
   {
     "country": "Germany",
-    "title": "Dortmund \u2013 Hoffenheim",
-    "pubDate": "Sun, 15 Dec 2024 17:00:00 +0100",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSFt-sMMyhq-6Kbue4hBepmQBT_AdM3G2jV4mXUVQlxhMXxwPd3nxYKTL-9kDPZy5DQPbTfxdlR",
-    "news_item_snippet": "Wenige Tage vor dem Anpfiff von Borussia Dortmund - TSG Hoffenheim hat der DFB eine Entscheidung zum Spiel verk\u00fcndet.",
-    "news_item_url": "https://www.derwesten.de/sport/fussball/bvb/borussia-dortmund-tsg-hoffenheim-schiedsrichter-harm-osmers-gefallen-id301264415.html",
-    "picture_source": "Derwesten.de",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "Germany",
     "title": "BVB",
-    "pubDate": "Sun, 15 Dec 2024 21:00:00 +0100",
+    "pubDate": "Sun, 15 Dec 2024 20:00:00 +0100",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRcxI17kmFbK3TgvBi18Dnu4zoNAfxgSYhx4gB_6OWMxKh4JKHklvKcskgvjSYpWwhZGjYukbI9",
     "news_item_snippet": "N\u00e4chster R\u00fcckschlag f\u00fcr Borussia Dortmund, sp\u00e4ter Jubel bei der TSG Hoffenheim. Im letzten Heimspiel muss sich der BVB mit einem 1:1 begn\u00fcgen.",
     "news_item_url": "https://www.zdf.de/nachrichten/sport/bundesliga-borussia-dortmund-tsg-hoffenheim-100.html",
@@ -533,7 +513,7 @@
     "country": "Italy",
     "title": "Bologna-Fiorentina",
     "pubDate": "Sun, 15 Dec 2024 13:00:00 +0100",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcR-sxlF-SOwYHLwR_AIOX6FTo5jsJ3FKgKT8lzVW9_d5XJnxEcGrOfDBOSwzoEpXKZYSglTceMO",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQ17qRcOg6tVFSgL1pqXMbN2JRE6pYehqdjm03IozIuaxFh8beZbFLMVdQwqLONi5257rThNWjE",
     "news_item_snippet": "La partita tra Bologna e Fiorentina della 16^ giornata di Serie A, si gioca domenica 15 dicembre alle ore 15 e sar\u00e0 in diretta sulla app di DAZN e sul&nbsp;...",
     "news_item_url": "https://sport.sky.it/calcio/serie-a/2024/12/15/bologna-fiorentina-dove-vedere-tv-streaming",
     "picture_source": "Sky Sport",
@@ -541,7 +521,7 @@
   },
   {
     "country": "Italy",
-    "title": "Lecce Calcio",
+    "title": "Lecce calcio",
     "pubDate": "Sun, 15 Dec 2024 12:00:00 +0100",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcT5uExKtms0kUnia_nFFw8hQDzyGwoYRByyZmtx-lsasZy7D4S8UUc3juUo4a3cU2uzPxJ7RXE3",
     "news_item_snippet": "Al Via del Mare la squadra di Giampaolo ritrova il successo nello scontro salvezza contro il Monza. Dopo solo 3 minuti salentini in vantaggio con Morente,&nbsp;...",
@@ -581,16 +561,6 @@
   },
   {
     "country": "Mexico",
-    "title": "Rayados",
-    "pubDate": "Sun, 15 Dec 2024 12:00:00 -0600",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRSqXnVkeQApy9WqSjjYLEnnAMeA-BER8lLP1H9IQbC9vc_tCljGY0oPFZK5TM_Bq5T-5nNn7_2",
-    "news_item_snippet": "C\u00e9sar Arturo Ramos marca el final del juego y concluye la final, el club Am\u00e9rica consigue el tricampeonato de la Liga MX. Por primera vez en la historia de los&nbsp;...",
-    "news_item_url": "https://www.infobae.com/mexico/deportes/2024/12/16/monterrey-vs-america-en-vivo-sigue-la-final-del-apertura-2024-de-la-liga-mx/",
-    "picture_source": "Rayados",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "Mexico",
     "title": "Manchester City  Manchester United",
     "pubDate": "Sun, 15 Dec 2024 10:00:00 -0600",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRiTOeeiLVNb0Kvnisc3-YeXBLBAD3IfglD_LLPG90er1Oj4WluiXfXdmUWVGJT2B-APQACgp0u",
@@ -600,13 +570,23 @@
     "approx_traffic": "100,000+"
   },
   {
+    "country": "Mexico",
+    "title": "Marcador america vs Monterrey",
+    "pubDate": "Sun, 15 Dec 2024 20:00:00 -0600",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQQGNYI7srgqeMfCDhXmC0umY6dYZG_FsChmHC8Dqb2B5E6BUYz59dRGMrRgnZV-18kufPQ-jUQ",
+    "news_item_snippet": "Sigue en vivo la Final de vuelta del Torneo Apertura 2024 de la Liga MX que disputar\u00e1n los Rayados y las \u00c1guilas en el Estadio BBVA este domingo 15 de&nbsp;...",
+    "news_item_url": "https://www.tudn.com/futbol/liga-mx/monterrey-vs-america-final-de-liga-mx-en-vivo-apertura-2024-minuto-a-minuto-del-partido",
+    "picture_source": "infobae Am\u00e9rica",
+    "approx_traffic": "50,000+"
+  },
+  {
     "country": "Spain",
     "title": "Barcelona - Legan\u00e9s",
     "pubDate": "Sun, 15 Dec 2024 20:00:00 +0100",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTTLOmlLum_kBOLZ9a0U5DSl6avLBU6I6f8nQLiofdTYGf-FI9rA92fB6H2ftIeLoGCDwjMUATS",
-    "news_item_snippet": "Sigue el Barcelona vs Legan\u00e9s, hoy en vivo y en directo online, partido de la jornada 17 de LaLiga EA Sports, a trav\u00e9s de AS.com.",
-    "news_item_url": "https://as.com/futbol/primera/barcelona-leganes-en-directo-laliga-ea-sports-en-vivo-hoy-n/",
-    "picture_source": "RTVE",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSnoXv-CAP8Z9KqNlElBKbYFc93HK4tjbQ8ax3CfwbLEM1fPVSCAF71MkiV6ATLexRKaZ1H-Ge5",
+    "news_item_snippet": "El Legan\u00e9s se adelant\u00f3 el minuto cuatro con un gol de Sergio Gonz\u00e1lez y ya no se iba a mover el marcador; Es la tercera derrota de los catalanes en los&nbsp;...",
+    "news_item_url": "https://www.rtve.es/deportes/20241215/barcelona-leganes-directo-resumen-resultado-liga/16369344.shtml",
+    "picture_source": "AS",
     "approx_traffic": "500,000+"
   },
   {
@@ -617,7 +597,7 @@
     "news_item_snippet": "Los de Simeone vienen en gran forma, con un invicto de diez partidos en todas las competiciones y, ante los azulones, buscar\u00e1n estirar la racha para&nbsp;...",
     "news_item_url": "https://www.larazon.es/deportes/futbol/atletico-madrid-getafe-hoy-horario-donde-ver-online-laliga-sports_20241215675e8b68c2280e00010315f8.html",
     "picture_source": "RTVE",
-    "approx_traffic": "100,000+"
+    "approx_traffic": "200,000+"
   },
   {
     "country": "Spain",
@@ -673,11 +653,21 @@
     "country": "United Kingdom",
     "title": "Celtic vs Rangers",
     "pubDate": "Sun, 15 Dec 2024 15:00:00 +0000",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQB8UqTyDhmR-xGwp73V-rJyGXPBhWUSVyVL_uBwTnxDxkqsFu0H0tKnvnXxRhSEofLhdhK47C5",
-    "news_item_snippet": "Police Scotland are using stop and search powers around the Celtic v Rangers game at Hampden Park.",
-    "news_item_url": "https://www.bbc.com/news/articles/c62zd50e21ko",
-    "picture_source": "The Associated Press",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTDZNBYJnq3fQix0D8oMUiHX1LWFO_mRvwUePUHoEHoZmH3RKovsP7DZE2TXH7QvN1f4IP6mfvP",
+    "news_item_snippet": "Celtic find their way out of trouble to claim trophy as Rangers left to regret more what ifs, writes Tom English.",
+    "news_item_url": "https://www.bbc.com/sport/football/articles/c205wnd0xego",
+    "picture_source": "The Independent",
     "approx_traffic": "200,000+"
+  },
+  {
+    "country": "United Kingdom",
+    "title": "Manchester United",
+    "pubDate": "Sun, 15 Dec 2024 19:00:00 +0000",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQErl75S1jnFWgO4EmlVmhc1mMlDwL7tvnvjtWgpT1k9ZUWaPZs3VHX1DLGobRhlZSqNLLMc1F-",
+    "news_item_snippet": "It proved to be a hugely dramatic Manchester derby after having been a poor match for most of the evening as United grabbed a 2-1 victory over City.",
+    "news_item_url": "https://www.tntsports.co.uk/football/premier-league/2024-2025/manchester-city-v-manchester-united-premier-league-live_sto10418865/story.shtml",
+    "picture_source": "Manchester City FC",
+    "approx_traffic": "100,000+"
   },
   {
     "country": "United Kingdom",
@@ -694,20 +684,10 @@
     "title": "Chelsea vs Brentford",
     "pubDate": "Sun, 15 Dec 2024 19:00:00 +0000",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQLpe5QhVJtxwyaQpY4o4qfVZkAAfUQxY9UFaDf1FRxQQivYSE0V-wqwHhtVZwdKzNibvB7lXiG",
-    "news_item_snippet": "Enzo Maresca has made 10 changes to Chelsea&#39;s starting line-up for tonight&#39;s London derby with Brentford.",
-    "news_item_url": "https://www.chelseafc.com/en/news/article/confirmed-chelsea-line-up-vs-brentford-december-2024",
+    "news_item_snippet": "Despite a late goal from Bryan Mbeumo, Brentford are beaten 2-1 by Chelsea at Stamford Bridge in the Premier League; goals from Marc Cucurella - who was&nbsp;...",
+    "news_item_url": "https://www.brentfordfc.com/en/news/article/match-reports-chelsea-2-brentford-1-premier-league-15-12-2024",
     "picture_source": "Sky Sports",
     "approx_traffic": "100,000+"
-  },
-  {
-    "country": "United Kingdom",
-    "title": "Rangers",
-    "pubDate": "Sun, 15 Dec 2024 18:00:00 +0000",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQqVsWYukRSSEkClnBjl0WXKkkAeBFC14R0BAW3aVxBJlPmAxzamZPC0K4U8d1CwSgBeK5_7viw",
-    "news_item_snippet": "PHILIPPE CLEMENT has named his Rangers team for this afternoon&#39;s Old Firm Premier Sports Cup final at Hampden.",
-    "news_item_url": "https://www.rangers.co.uk/article/team-news-philippe-clement-names-side-to-face-celtic/3xXCSHlOkeMkIQzqEd3OOA",
-    "picture_source": "BBC News",
-    "approx_traffic": "50,000+"
   },
   {
     "country": "United Kingdom",
