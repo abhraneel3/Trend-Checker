@@ -1,6 +1,16 @@
 [
   {
     "country": "United States",
+    "title": "Superman",
+    "pubDate": "Thu, 19 Dec 2024 07:00:00 -0800",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcT7x7H8zUqniUDMrLNG6UXVkVmmueQ-IlLvAIMpSJhQDSCMx4SfC7aT5XyFMwk5WKXb6j-pQEh_",
+    "news_item_snippet": "The first trailer for &quot;Superman,&quot; James Gunn&#39;s highly anticipated superhero reboot, is finally here.",
+    "news_item_url": "https://www.usatoday.com/story/entertainment/movies/2024/12/19/superman-trailer-james-gunn-david-corenswet/77043259007/",
+    "picture_source": "Variety",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
     "title": "Real Madrid",
     "pubDate": "Wed, 18 Dec 2024 08:00:00 -0800",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRE2dkHUo8XBu5d7dFU1SSkK4-hiF__UOgmGps8v_bTGztmkQCKGP1zZyoeHHe1lWerxlIeTUM9",
@@ -11,11 +21,11 @@
   },
   {
     "country": "United States",
-    "title": "Stock Market Today",
+    "title": "Stock market today",
     "pubDate": "Wed, 18 Dec 2024 12:00:00 -0800",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRmweqMvJSLDTjPZrl9zUjBBt4h_hUG_OecZCPZH9zoZGszRdv1puuw0jc_nNTsvT8c4p7Rj5r8",
-    "news_item_snippet": "Follow along for live updates on stocks and other markets, including the Dow Jones Industrial Average, S&amp;P 500 and Nasdaq Composite.",
-    "news_item_url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp500-nasdaq-live-12-19-2024",
+    "news_item_snippet": "Traders work on the floor at the New York Stock Exchange on Oct. 24, 2024. Brendan McDermid | Reuters. The Dow Jones Industrial Average",
+    "news_item_url": "https://www.cnbc.com/2024/12/17/stock-market-today-live-updates.html",
     "picture_source": "CNBC",
     "approx_traffic": "200,000+"
   },
@@ -23,10 +33,10 @@
     "country": "United States",
     "title": "Bird flu",
     "pubDate": "Wed, 18 Dec 2024 14:00:00 -0800",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQOmg5Cy5zME5RHHRU7Sa1ZmrW1B0Ai9-u2i1xZuskynAFYeBiVbiPinciDAm_B8AzKVhrxDYRB",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSA87hwdtVQB2__79Etny-L5RjD92QsIoi8KUejnjS_OGgs7QFC-1WjDwmc1QuhkIhVwp2iUGBD",
     "news_item_snippet": "December 18, 2024-- A patient has been hospitalized with a severe case of avian influenza A(H5N1)",
     "news_item_url": "https://www.cdc.gov/media/releases/2024/m1218-h5n1-flu.html",
-    "picture_source": "NPR",
+    "picture_source": "Aljazeera.com",
     "approx_traffic": "200,000+"
   },
   {
@@ -43,10 +53,10 @@
     "country": "United States",
     "title": "Dennis Rodman",
     "pubDate": "Wed, 18 Dec 2024 13:00:00 -0800",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSoGMMFU506tUv4vNLiZ2vTPbny71xwvjs-mq3WrcoqoiY-40ZbUTuIosAETcKkIY-p-io7TdxJ",
-    "news_item_snippet": "Trinity Rodman, the Olympic gold medal-winning soccer player and daughter of five-time NBA champion Dennis Rodman, has criticized her father for being&nbsp;...",
-    "news_item_url": "https://www.cnn.com/2024/12/18/sport/trinity-rodman-criticizes-dennis-rodman-spt-intl/index.html",
-    "picture_source": "NBC News",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcR70RXfTHG-ac0k-wGGDFEqn7_qb0KXPkchY0B2TWhldzLmEKwf7cd6zxTSz9OMXEMWLG5qDfli",
+    "news_item_snippet": "Olympic soccer gold medalist Trinity Rodman might be the daughter of a legendary athlete, but she revealed she spent years not hearing from her father,&nbsp;...",
+    "news_item_url": "https://www.nbcnews.com/sports/soccer/trinity-rodman-dad-dennis-rodman-rcna184741",
+    "picture_source": "CNN",
     "approx_traffic": "50,000+"
   },
   {
@@ -57,6 +67,16 @@
     "news_item_snippet": "A state panel knows where a new memorial for trailblazing Washington lawmaker Cal Anderson should go on the grounds of the state Capitol.",
     "news_item_url": "https://washingtonstatestandard.com/2024/12/18/new-home-is-chosen-for-cal-anderson-memorial-on-washington-state-capitol-grounds/",
     "picture_source": "Roll Call",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Government shutdown",
+    "pubDate": "Wed, 18 Dec 2024 20:00:00 -0800",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcT_Xe3beYKS_HOgoT0IUCnBvU9gWwdTFnQHw2VtvnthLS9Pm9xS-6RPL9F0W3_J6Of3fh27fTbg",
+    "news_item_snippet": "President-elect Donald Trump opposes a short-term bill or CR to fund the government and avoid a shutdown, throwing Congress into chaos days before the&nbsp;...",
+    "news_item_url": "https://www.nbcnews.com/politics/congress/trump-opposes-funding-bill-pushing-government-closer-shutdown-rcna184745",
+    "picture_source": "NPR",
     "approx_traffic": "50,000+"
   },
   {
@@ -81,12 +101,12 @@
   },
   {
     "country": "United States",
-    "title": "Government shutdown",
-    "pubDate": "Wed, 18 Dec 2024 20:00:00 -0800",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTyc3d-9UKzCW6xOmBNvVhFnH1yG_CJFKfh0HoAjt_ASO-chx9fYqBLNiDpbnhXP7ys7Aip2w5j",
-    "news_item_snippet": "Republicans need to stop playing politics with this bipartisan agreement or they will hurt hardworking Americans and create instability across the.",
-    "news_item_url": "https://www.whitehouse.gov/briefing-room/statements-releases/2024/12/18/statement-from-press-secretary-karine-jean-pierre-on-republicans-threatening-a-government-shutdown/",
-    "picture_source": "NBC News",
+    "title": "Gisele Pelicot",
+    "pubDate": "Wed, 18 Dec 2024 09:00:00 -0800",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSxso6dZ3aPJAT_aE4cRo3vZ3xqAaYFAbt_j4GkofUxr2EmhedpB1isW-Qis60XkwesqubgICUj",
+    "news_item_snippet": "A French court found dozens of men guilty of raping Gis\u00e8le Pelicot, whose then-husband repeatedly drugged her unconscious over the course of a decade.",
+    "news_item_url": "https://www.npr.org/2024/12/19/nx-s1-5232766/france-rape-trial-verdict",
+    "picture_source": "BBC News",
     "approx_traffic": "50,000+"
   },
   {
@@ -94,8 +114,8 @@
     "title": "Liverpool",
     "pubDate": "Wed, 18 Dec 2024 14:00:00 -0800",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSmF4DGj_3gID7Ne6bZ74FA_YFk7vuTgwR7yNV735s9XwfgKa_DEEwWCYmdTqcDA0d3-2T2uaPo",
-    "news_item_snippet": "Japan midfielder Wataru Endo was voted Liverpool&#39;s man of the match after captaining the holders in a 2-1 English League Cup quarterfinal win away to&nbsp;...",
-    "news_item_url": "https://english.kyodonews.net/news/2024/12/270d9a9e2c71-football-endo-shines-as-holders-liverpool-reach-league-cup-semis.html",
+    "news_item_snippet": "Liverpool moved into the League Cup semi-finals as the holders won 2-1 against managerless Southampton, while Gabriel Jesus ended his goal drought with a&nbsp;...",
+    "news_item_url": "https://www.cbs19news.com/holders-liverpool-reach-league-cup-semis-arsenal-advance/article_771ffc5b-cbc7-56f5-8fc4-fbe8284c8ab5.html",
     "picture_source": "ESPN",
     "approx_traffic": "50,000+"
   },
@@ -133,10 +153,10 @@
     "country": "India",
     "title": "Kia Syros",
     "pubDate": "Thu, 19 Dec 2024 14:30:00 +0530",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTcieBmIYLQsdprHMEJPkG7Y5HJ5XHZAfcloCsmTOQos06DYvDdWtU9jccXlowI9-D1pREKsRB4",
-    "news_item_snippet": "The Kia Syros is offered in six broad variants: HTK, HTK (O), HTK Plus, HTX, HTX Plus, and HTX Plus (O)",
-    "news_item_url": "https://www.cardekho.com/india-car-news/kia-syros-variantwise-powertrain-and-colours-options-detailed-33693.htm",
-    "picture_source": "Business Standard",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQ57J7QE1TiHW9m_GAZBuEXhjF6hpK_bxhDBCyrO72lmExSSmeD2iAW3YW_LkFw8TP40_XY6LR0",
+    "news_item_snippet": "Kia India introduces the Syros compact SUV, targeting a premium audience with advanced features and safety technology.",
+    "news_item_url": "https://www.thehindu.com/news/national/kia-syros-sports-utility-vehicle-unveiled-in-india/article69004610.ece",
+    "picture_source": "CarDekho",
     "approx_traffic": "50,000+"
   },
   {
@@ -150,6 +170,16 @@
     "approx_traffic": "200,000+"
   },
   {
+    "country": "India",
+    "title": "Pakistan vs South Africa",
+    "pubDate": "Tue, 17 Dec 2024 23:30:00 +0530",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcS-1VClRLojWnuf24yDObTYq3gTvNIBog0kOezGVv1dpLyDrcQLR7NajGEy7Tmqn2LICnQ5W_rrQQ",
+    "news_item_snippet": "SA vs PAK Live Score Updates 2nd ODI: South Africa won the toss and opted to bowl against Pakistan in the second ODI at the Newlands in Cape Town.",
+    "news_item_url": "https://sports.ndtv.com/cricket/south-africa-vs-pakistan-live-score-updates-2nd-odi-live-scorecard-sa-vs-pak-live-7284246",
+    "picture_source": "The Indian Express",
+    "approx_traffic": "500,000+"
+  },
+  {
     "country": "Argentina",
     "title": "Real Madrid  Pachuca",
     "pubDate": "Wed, 18 Dec 2024 08:00:00 -0300",
@@ -158,6 +188,16 @@
     "news_item_url": "https://www.lanacion.com.ar/estados-unidos/real-madrid-vs-pachuca-hoy-hora-y-donde-mirar-en-vivo-desde-estados-unidos-la-final-de-la-copa-nid18122024/",
     "picture_source": "ESPN",
     "approx_traffic": "100,000+"
+  },
+  {
+    "country": "Argentina",
+    "title": "Avion San Fernando",
+    "pubDate": "Wed, 18 Dec 2024 16:00:00 -0300",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTEmoCCszG6yMTvQaW8PP2K4GJNVy87qbFlPfvfguZf15fZwUDq6YW_ckj1edhh1dBkhpXa2NhN",
+    "news_item_snippet": "La aeronave, que ven\u00eda desde Uruguay, perdi\u00f3 el control en la pista de aterrizaje y colision\u00f3 al tocar tierra; qu\u00e9 caracter\u00edsticas presenta este modelo y&nbsp;...",
+    "news_item_url": "https://www.lanacion.com.ar/sociedad/como-es-el-challenger-300-el-avion-que-choco-en-el-aeropuerto-de-san-fernando-nid18122024/",
+    "picture_source": "Infobae.com",
+    "approx_traffic": "50,000+"
   },
   {
     "country": "Brazil",
@@ -190,12 +230,22 @@
     "approx_traffic": "50,000+"
   },
   {
+    "country": "Brazil",
+    "title": "Valor do dolar",
+    "pubDate": "Wed, 18 Dec 2024 16:00:00 -0500",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQOG_L40PyudpAq_UmSfuOiFkLklmOFxtXTQxJb7W30pIh4RQ7CD3S-p7hhhbUkq7TAqe0UXDQK",
+    "news_item_snippet": "Na tentativa de conter a valoriza\u00e7\u00e3o da moeda americana, o BC realizou dois leil\u00f5es de venda de d\u00f3lares \u00e0 vista. O primeiro, de US$ 3 bilh\u00f5es, das 9h15min \u00e0s&nbsp;...",
+    "news_item_url": "https://gauchazh.clicrbs.com.br/economia/noticia/2024/12/cotacao-do-dolar-hoje-acompanhe-ao-vivo-cm4v9xq0200di015rard0kypw.html",
+    "picture_source": "Isto\u00c9 Dinheiro",
+    "approx_traffic": "50,000+"
+  },
+  {
     "country": "Canada",
     "title": "Alexandre Carrier",
     "pubDate": "Wed, 18 Dec 2024 04:00:00 -0500",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcT2xfSCVaQuuI2prUNmY6JGeL8QxJ0Wk7GqjYRKLFlSJFmCaFbTS1bt8lsNboiq83cOz0LvgXbB",
-    "news_item_snippet": "Le Canadien a acquis du renfort en d\u00e9fense, mercredi soir, en mettant la main sur Alexandre Carrier, des Predators de Nashville. En retour, le Tricolore a&nbsp;...",
-    "news_item_url": "https://www.lapresse.ca/sports/hockey/2024-12-18/le-canadien-acquiert-alexandre-carrier/du-rare-renfort-immediat-en-defense.php",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTVfs5vFY99NZNRJPEdP6Fduh2ZoI_3WXhh3nQsacTm5WlgFFjLRty4cBOzYb1gqKg7uN9Qwsbx",
+    "news_item_snippet": "Signed 3-year contract with Nashville in July, goes to Montreal in exchange of defensemen.",
+    "news_item_url": "https://www.nhl.com/news/alexandre-carrier-traded-to-montreal-canadiens-by-nashville-predators",
     "picture_source": "ICI.Radio-Canada.ca",
     "approx_traffic": "50,000+"
   },
@@ -204,8 +254,8 @@
     "title": "Real Madrid",
     "pubDate": "Wed, 18 Dec 2024 12:00:00 -0500",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQh8QDn60hrDGMss1Mlyml_PoXgTbp8hlnooG1XTMpnmkJ05_werCB36EkddW15q_LXPxVf33-W",
-    "news_item_snippet": "easyMarkets and Real Madrid have announced an extension to their alliance at an event attended by Nikos Antoniades, easyMarkets CEO, and Emilio Butrague\u00f1o,&nbsp;...",
-    "news_item_url": "https://www.realmadrid.com/en-US/news/club/sponsors/easymarkets-and-real-madrid-renew-collaboration-agreement-19-12-2024",
+    "news_item_snippet": "Los Blancos reclaim FIFA&#39;s annual global title after overcoming a determined Pachuca side. The 15-time European champions defeated the Concacaf Champions&nbsp;...",
+    "news_item_url": "https://inside.fifa.com/news/real-madrid-beat-pachuca-intercontinental-cup-mbappe-vinicius",
     "picture_source": "TSN",
     "approx_traffic": "50,000+"
   },
@@ -227,26 +277,26 @@
     "news_item_snippet": "Le verdict dans le proc\u00e8s des viols de Mazan a \u00e9t\u00e9 rendu ce jeudi matin \u00e0 Avignon. Les 51 accus\u00e9s connaissent leur peine au terme de pr\u00e8s de quatre mois&nbsp;...",
     "news_item_url": "https://www.francebleu.fr/infos/faits-divers-justice/videos-proces-des-viols-de-mazan-dominique-pelicot-declare-coupable-des-faits-de-viols-aggraves-sur-gisele-pelicot-2930283",
     "picture_source": "Le Figaro",
-    "approx_traffic": "50,000+"
+    "approx_traffic": "100,000+"
   },
   {
     "country": "France",
     "title": "Monaco \u2013 paris-sg",
     "pubDate": "Wed, 18 Dec 2024 16:00:00 +0100",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSWqsYK5QQWfiM5ZqmcIZ0pYEwDqcjPR-WYbU6A0ndOV6tLN5g2ZU2OGTRslfdLuG6SUcLyTniz",
-    "news_item_snippet": "Ce soir le Paris Saint-Germain dispute un choc au sommet pour la 16\u00e8me journ\u00e9e de Ligue 1. AS Monaco-PSG, ce choc prometteur accouchera-t-il d&#39;un &quot;flop&quot;&nbsp;...",
-    "news_item_url": "https://www.francebleu.fr/emissions/100-psg-l-actu/monaco-psg-en-ligue-1-si-paris-decide-paris-gagne-estime-l-ancien-gardien-jerome-alonzo-8588656",
-    "picture_source": "BFMTV.COM",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRQibweorxAQZs5CQeOxs_lkqYI_3BhiOz1Z9tiF-XF97CAirjxs9NflWVxE8OVkIEg-mKpM3-_",
+    "news_item_snippet": "Lucas Chevalier a partag\u00e9 son incompr\u00e9hension mercredi apr\u00e8s l&#39;absence de sanction contre Wilfried Singo malgr\u00e9 sa grosse semelle sur la figure de Gianluigi&nbsp;...",
+    "news_item_url": "https://rmcsport.bfmtv.com/football/ligue-1/monaco-psg-chevalier-monte-au-creneau-apres-l-enorme-semelle-sur-le-visage-de-donnarumma_AV-202412190168.html",
+    "picture_source": "L'\u00c9quipe.fr",
     "approx_traffic": "500,000+"
   },
   {
     "country": "France",
     "title": "Real Madrid \u2013 Pachuca",
     "pubDate": "Wed, 18 Dec 2024 18:00:00 +0100",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSgn94EDyGExgzuEX1Tp6kDKS4aZcwf6bN0YrjeyLK9EokC2KRq1j-i8Ha8DnAp8-UqJ3J9krs1",
-    "news_item_snippet": "Le Real et Pachuca s&#39;affrontaient aujourd&#39;hui en finale de la Coupe intercontinentale. Voici les notes attribu\u00e9es par notre r\u00e9daction aux Madril\u00e8nes.",
-    "news_item_url": "https://real-france.fr/notes-real-madrid-pachuca/",
-    "picture_source": "Le Parisien",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTv-Z45ywr0M2aMbx2-HI-SYzlsxCXp60C0zzE1flcc55rS3G3OZoItPr94_1fcRJR64n8edb3U",
+    "news_item_snippet": "Le club madril\u00e8ne et l&#39;\u00e9quipe mexicaine s&#39;affronteront ce mercredi 18 d\u00e9cembre au stade Lusail au Qatar pour conna\u00eetre le premier champion de la Coupe&nbsp;...",
+    "news_item_url": "https://www.leparisien.fr/sports/football/real-madrid-pachuca-a-quelle-heure-et-sur-quelle-chaine-tv-voir-la-finale-de-la-coupe-intercontinentale-18-12-2024-VUD64Z2HIFHT3HN52ZJZTKTZYA.php",
+    "picture_source": "Eurosport.fr",
     "approx_traffic": "200,000+"
   },
   {
@@ -270,13 +320,13 @@
     "approx_traffic": "50,000+"
   },
   {
-    "country": "France",
-    "title": "Donnarumma",
-    "pubDate": "Wed, 18 Dec 2024 23:00:00 +0100",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcS9s5nBRDxXW79L__7qFE5cfPrFGU2v5SmePyCpPcOuvdWfxWXLjGFeM41JDVrksZQ33X2J7BdQ",
-    "news_item_snippet": "Auteur d&#39;un geste non ma\u00eetris\u00e9 et dangereux, mercredi lors de Monaco-PSG (2-4), Wilfried Singo a s\u00e9rieusement bless\u00e9 le gardien parisien Gianluigi&nbsp;...",
-    "news_item_url": "https://www.lequipe.fr/Football/Actualites/Monaco-psg-singo-s-excuse-apres-la-grosse-blessure-infligee-a-donnarumma/1527457",
-    "picture_source": "PSG.FR",
+    "country": "Germany",
+    "title": "Pelicot",
+    "pubDate": "Thu, 19 Dec 2024 07:00:00 +0100",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRiSF5M7EU-Rzbfb61l2F_0zzOuRsRTrHRjyQWg0xN5JzetTat2yoxWEJLBESANi3VdtjpXdKz6",
+    "news_item_snippet": "Gis\u00e8le Pelicot wurde von ihrem damaligen Ehemann immer wieder bet\u00e4ubt, vergewaltigt und anderen M\u00e4nnern zur Vergewaltigung angeboten. Nun fiel das Urteil.",
+    "news_item_url": "https://www.lto.de/recht/nachrichten/n/urteil-im-vergewaltigungsprozess-gisele-pelicot-avignon",
+    "picture_source": "tagesschau.de",
     "approx_traffic": "50,000+"
   },
   {
@@ -347,17 +397,27 @@
     "news_item_snippet": "Anche Mahmood e Mara Sattei, nella scaletta del concerto di Capodanno al Circo Massimo, danno forfait dopo che il Comune di Roma ha &quot;cancellato&quot; il rapper.",
     "news_item_url": "https://www.avvenire.it/attualita/pagine/tony-effe",
     "picture_source": "Rolling Stone Italia",
-    "approx_traffic": "50,000+"
+    "approx_traffic": "100,000+"
   },
   {
     "country": "Italy",
     "title": "Donnarumma",
     "pubDate": "Wed, 18 Dec 2024 22:00:00 +0100",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQ7UAwUSO8avfzwN8lQnrzSG--jDZpRkLozOpvhbD0r-SJHJq41UNUGuPcS4pEyY6jAHjXzE9e1",
-    "news_item_snippet": "Al 18&#39; del primo tempo di Monaco-Psg Donnarumma \u00e8 stato costretto al cambio dopo un durissimo scontro con l&#39;ex Torino Wilfried Singo. Il portiere \u00e8 uscito&nbsp;...",
-    "news_item_url": "https://www.corriere.it/sport/24_dicembre_18/donnarumma-scarpa-faccia-infortunio-sangue-monaco-psg-4d17eeb4-a76a-44bd-9b01-b2fcc152axlk.shtml",
-    "picture_source": "Sky Tg24",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRsYXqZy2B9ug-eHEOKVHBOzrqygtXicVCp2Te5QH25nRIHMxVubIsEVY5kpYgyezg5PObDBlDS",
+    "news_item_snippet": "Il portiere della Nazionale italiana \u00e8 stato colpito al volto dall&#39;ex calciatore del Torino ed \u00e8 stato costretto a lasciare il campo gi\u00e0 nel primo tempo&nbsp;...",
+    "news_item_url": "https://tg24.sky.it/sport/2024/12/19/infortunio-donnarumma-monaco-psg",
+    "picture_source": "Sky Sport",
     "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Mexico",
+    "title": "Pachuca",
+    "pubDate": "Wed, 18 Dec 2024 01:00:00 -0600",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTIjk2HTmQ-2bVjpLxGLUhxLtsgMog8uv4PfCNlEgvtvSkQboGP3D--lOe-UWLesbjTAJUB58yu",
+    "news_item_snippet": "Diferentes clubes de la Liga MX han estado muy cerca de la gloria internacional y en ESPN hacemos un recuento de aquellas dolorosas derrotas.",
+    "news_item_url": "https://www.espn.com.mx/futbol/mundial-clubes/nota/_/id/14581424/pachuca-grandes-finales-perdidas-del-futbol-mexicano-america-chivas",
+    "picture_source": "ESPN",
+    "approx_traffic": "100,000+"
   },
   {
     "country": "Mexico",
@@ -368,6 +428,16 @@
     "news_item_url": "https://www.eleconomista.com.mx/capital-humano/caso-checo-perez-dejar-estrella-empresa-20241219-738964.html",
     "picture_source": "ESPN",
     "approx_traffic": "100,000+"
+  },
+  {
+    "country": "Mexico",
+    "title": "Futbol Libre",
+    "pubDate": "Wed, 18 Dec 2024 12:00:00 -0600",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTpon_kIW6q9mYa3DWTTfrZZlYEaN8uWKI2TBJdiwIQlPb4-X2Y2fGMim6TFrvWA0fEIecDFqzQ",
+    "news_item_snippet": "Miguel Portillo/CAMBIO 22. CANCUN, Q. ROO 19 de diciembre.-Guiados por su goleador, Juli\u00e1n Arturo L\u00f3pez \u00c1reas, la escuadra Delfines se agenci\u00f3 el campeonato&nbsp;...",
+    "news_item_url": "https://diariocambio22.mx/los-delfines-nadaron-hacia-el-titulo-de-futbol-libre/",
+    "picture_source": "Diario Cambio 22",
+    "approx_traffic": "50,000+"
   },
   {
     "country": "Spain",
@@ -384,8 +454,8 @@
     "title": "Villarreal - Rayo Vallecano",
     "pubDate": "Wed, 18 Dec 2024 21:00:00 +0100",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRRTqA99FkV7PeV2nqWEmwJRvM_no8diDaRpTy40XAx8OGM7yyOD8PbUJyw-w1OqnqV0zda9Avs",
-    "news_item_snippet": "El &#39;Submarino amarillo&#39; jug\u00f3 una hora con un hombre menos, pero los franjirrojos no lograron pasar del 1-1.",
-    "news_item_url": "https://www.levante-emv.com/deportes/2024/12/19/villarreal-diez-saca-empate-rayo-112746876.html",
+    "news_item_snippet": "El Villarreal sum\u00f3 un punto con sabor a victoria tras empatar este mi\u00e9rcoles en su estadio ante el Rayo Vallecano, que no supo rentabilizar en el...",
+    "news_item_url": "https://www.telemadrid.es/deportes/1-1-El-Rayo-Vallecano-empata-con-un-Villarreal-en-inferioridad-0-2735426433--20241219113000.html",
     "picture_source": "MARCA",
     "approx_traffic": "50,000+"
   },
@@ -434,8 +504,8 @@
     "title": "Gisele Pelicot",
     "pubDate": "Thu, 19 Dec 2024 10:00:00 +0000",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRV8As01cGZ3XZyi_v95xSHNzfa9UdeSbEdw4RPnxqmdg5ylZMlPihzdmSXK5EBMSNjpNG6Kz-0",
-    "news_item_snippet": "Dominique Pelicot has been found guilty of drugging his ex-wife, Gis\u00e8le, raping her and inviting dozens of men to abuse her.",
-    "news_item_url": "https://www.bbc.com/news/articles/c785nm5g5y1o",
+    "news_item_snippet": "Gis\u00e8le Pelicot thanks supporters in a speech outside court, after her ex-husband Dominique Pelicot was jailed for 20 years for drugging her and recruiting&nbsp;...",
+    "news_item_url": "https://www.bbc.com/news/live/cnv35lp14z9t",
     "picture_source": "BBC News",
     "approx_traffic": "50,000+"
   },
@@ -454,8 +524,8 @@
     "title": "Real Madrid vs Pachuca",
     "pubDate": "Wed, 18 Dec 2024 17:00:00 +0000",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTJcDGCV8eGZ9Y1VKxA3FqG2TaMCb-FObYHRy67FsAfMPnV7JquZeu5Mwa0uWMWzS4D8R_PoXtT",
-    "news_item_snippet": "Kylian Mbappe and Vinicius Jr were both on the scoresheet as Real Madrid, inspired by the excellent Jude Bellingham, beat Pachuca in the Intercontinental&nbsp;...",
-    "news_item_url": "https://www.goal.com/en/lists/real-madrid-player-ratings-vs-pachuca-jude-bellingham-vinicius-jr-kylian-mbappe/blta8517423308da636",
+    "news_item_snippet": "Get the latest Football updates on Eurosport. Catch Real Madrid - Pachuca live on 18/12/2024. Find scores, stats and comments in real time.",
+    "news_item_url": "https://www.eurosport.com/football/fifa-intercontinental-cup/2024/live-real-madrid-pachuca_mtc1573449/live-commentary.shtml",
     "picture_source": "Aljazeera.com",
     "approx_traffic": "100,000+"
   },
@@ -464,18 +534,18 @@
     "title": "Newcastle vs Brentford",
     "pubDate": "Wed, 18 Dec 2024 20:00:00 +0000",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRnUdbIL3tlJREgtyOykm6RPX-ZcsjeMtf1Eshvrf8-L71AEJrDaZTiN-u9YfFF8OmGtcdzi4ta",
-    "news_item_snippet": "Newcastle United takes on Brentford this evening in the Carabao Cup quarter-finals at St James&#39; Park, with a place in the semi-finals up for grabs.",
-    "news_item_url": "https://www.liverpool.com/premier-league/newcastle-brentford-tv-channel-stream-30610415",
+    "news_item_snippet": "Highlights from the match between Newcastle United and Brentford which took place at St James&#39; Park.",
+    "news_item_url": "https://supersport.com/rugby/general$/video/de799266-d236-4a23-a1e5-b53aa4954e84/newcastle-v-brentford-match-highlights-carabao-cup",
     "picture_source": "Brentford FC",
-    "approx_traffic": "100,000+"
+    "approx_traffic": "50,000+"
   },
   {
     "country": "United Kingdom",
     "title": "Liverpool FC",
     "pubDate": "Wed, 18 Dec 2024 21:00:00 +0000",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTfxfT3LifWB_UKv-kOVdY9HpNb1gwTFbI3MSgv2UaGslIv7fSvwzWT_3Qscno1rZzHqT1gxoRX",
-    "news_item_snippet": "The Reds vice-captain collected the prize at the AXA Melwood Training Centre today, having featured in all four games last month and scored twice at Villa Park.",
-    "news_item_url": "https://www.liverpoolfc.com/news/taylor-hinds-wins-lfc-women-player-month-award-november",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQvey3QLKbvu4x2TjvKYj1kDn46THX0-g8vIMdWKZQ9Mo_djOeMK74Jn6KiDYgvgUPR_0pDxbBd",
+    "news_item_snippet": "Watch Arne Slot&#39;s pre-Tottenham press conference live from 9.15am GMT on Friday. Liverpool&#39;s head coach will speak before Sunday&#39;s Premier League match.",
+    "news_item_url": "https://www.liverpoolfc.com/news/friday-watch-arne-slots-pre-tottenham-press-conference-live",
     "picture_source": "Liverpool FC",
     "approx_traffic": "50,000+"
   },
