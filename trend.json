@@ -1,10 +1,50 @@
 [
   {
     "country": "United States",
+    "title": "Notre Dame football",
+    "pubDate": "Fri, 20 Dec 2024 07:00:00 -0800",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSRMfPTdeWvnbzQSfmUbXRelimGveJyptiI_AxDns57Sk89DN52tzSh2dOYIbfaw9eaFbuM7v7Z",
+    "news_item_snippet": "No. 7 Notre Dame hosts No. 10 Indiana in the first round of the 2024 College Football Playoff.",
+    "news_item_url": "https://www.ncaa.com/live-updates/football/fbs/notre-dame-vs-indiana-time-tv-channel-preview-college-football-playoff",
+    "picture_source": "Spartan Nation",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Winter solstice 2024",
+    "pubDate": "Fri, 20 Dec 2024 12:00:00 -0800",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRxtOLEvVlMd6PHXIa8lCJuDo-QX3bjLpSfZ70w_sIy9MAp4XJ0lnP-VAPQEzgoiRu6GGoDvVSk",
+    "news_item_snippet": "The first day of winter is fast approaching. For people who live in the Northern Hemisphere, the winter solstice marks the beginning of astronomical winter&nbsp;...",
+    "news_item_url": "https://www.fox9.com/news/winter-solstice-2024-when-what-know",
+    "picture_source": "NPR",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
+    "title": "SZA",
+    "pubDate": "Fri, 20 Dec 2024 07:00:00 -0800",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRnW_nzWqqnlOBKlc2mB6__g1PBzZCYTRMCbiifTC1QEJEBf_TPn288fL_khoeGqwFMsWmVx9Ep",
+    "news_item_snippet": "SZA has finally dropped her long-awaited &#39;Lana&#39; album - a deluxe edition of her &#39;SOS&#39; LP - which features Kendrick Lamar on the song &#39;30 for 30.&#39;",
+    "news_item_url": "https://variety.com/2024/music/news/sza-finally-releases-lana-album-featuring-kendrick-lamar-1236256388/",
+    "picture_source": "Billboard",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Biden",
+    "pubDate": "Fri, 20 Dec 2024 07:00:00 -0800",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTJWeGSobFsgNZ6M7CSJeqhIg3Ajs_r9gdJn0CKKeEsjuKJsg1gnlIdXXv1Cfa6Wo7l30CjM0Q5",
+    "news_item_snippet": "The Biden-Harris Administration announced today the approval of $4.28 billion in additional student loan relief for 54900 borrowers across the country who&nbsp;...",
+    "news_item_url": "https://www.ed.gov/about/news/press-release/biden-harris-administration-approves-additional-428-billion-student-debt-relief-nearly-55000-public-service-workers-0",
+    "picture_source": "ABC News",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
     "title": "Broncos vs Chargers",
     "pubDate": "Thu, 19 Dec 2024 14:00:00 -0800",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRtI_4t-NSC4koM88-7mpve_zqXBXR9VHT8e4xwh2nFnCvvA0tPGLfjwf_JZqrruGMkcg1BQfVY",
-    "news_item_snippet": "The Denver Broncos raced out to an early lead, but it was the Chargers who rallied for a Thursday night victory.",
+    "news_item_snippet": "The Denver Broncos raced out to an early lead on Thursday night, but it was the Los Angeles Chargers who rallied for a 34-27 win. Eric Edholm provides five&nbsp;...",
     "news_item_url": "https://www.nfl.com/news/broncos-chargers-on-thursday-night-football-what-we-learned-from-los-angeles-34-27-win",
     "picture_source": "DenverBroncos.com",
     "approx_traffic": "1,000,000+"
@@ -13,20 +53,20 @@
     "country": "United States",
     "title": "Amazon strike",
     "pubDate": "Thu, 19 Dec 2024 06:00:00 -0800",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcS9TYs5A_F-ghzxOLGPPEPnWxjSiinVRYhvN2nKeVmqGBZPZydlkuUMASAdLLPCqQ6_lXP-e_F_",
-    "news_item_snippet": "The Teamsters union demands that Amazon recognize its unionized workers. The company refuses and says the strikes won&#39;t affect operations.",
-    "news_item_url": "https://www.npr.org/2024/12/19/nx-s1-5233832/amazon-union-teamsters-strike",
-    "picture_source": "ABC News",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQKTN5Kgljs337BHKhLzJYsWwYcbYhfAVmnSFIyMqcCRZ8JJ-gMB2V1zvL1slzThJIJrtzVevhI",
+    "news_item_snippet": "Amazon workers affiliated with the Teamsters union are holding a strike at seven of the company&#39;s delivery hubs less than a week before Christmas.",
+    "news_item_url": "https://www.pbs.org/newshour/economy/what-to-know-about-amazon-workers-strike-at-multiple-delivery-hubs",
+    "picture_source": "International Brotherhood of Teamsters",
     "approx_traffic": "200,000+"
   },
   {
     "country": "United States",
     "title": "Superman",
     "pubDate": "Thu, 19 Dec 2024 07:00:00 -0800",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRG_okyDB17qpQ-UUaYvp8JXykpNpUjNB1J9r8Ceazqqc9GN4GGpXAYnexfGWUnwnqKxrajfsMjEQ",
-    "news_item_snippet": "Every time I look at the news I&#39;m greeted by an unending clown car of bad behavior and cynicism. But, look\u2026 up in the sky.",
-    "news_item_url": "https://aftermath.site/superman-movie-james-gunn-dc-comics",
-    "picture_source": "DC Comics",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSzgXXYZcq-cyQ9BTCXJlF5Uc7-SoJoeA0leUJe0sL0HkoolY21JKHnzIEva8h06MHxQIK0Jt85",
+    "news_item_snippet": "The first teaser for James Gunn&#39;s upcoming Superman is now out, and it&#39;s a stirring glimpse of what promises to be a blockbuster that&#39;s as packed full of&nbsp;...",
+    "news_item_url": "https://www.dc.com/blog/2024/12/19/superman-a-welcome-return",
+    "picture_source": "Aftermath",
     "approx_traffic": "200,000+"
   },
   {
@@ -34,8 +74,8 @@
     "title": "Neil Cavuto",
     "pubDate": "Thu, 19 Dec 2024 14:00:00 -0800",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSMbDBhHlx8jUcCb_gWmI9kuGhgd1NXu4JVNRiEW4N3lXivQdbZjcdr6oVLzdwxVCU8GgbNELz-",
-    "news_item_snippet": "Veteran Fox News anchor Neil Cavuto, one of the network&#39;s longest-serving hosts who became a frequent target of President-elect Donald Trump, is leaving the&nbsp;...",
-    "news_item_url": "https://www.cnn.com/2024/12/19/media/neil-cavuto-leaves-fox-news/index.html",
+    "news_item_snippet": "Neil Cavuto left Fox News, where he hosted three shows, including &quot;Your World.&quot; He addressed his exit there, saying it &quot;seemed like a good time.&quot;",
+    "news_item_url": "https://www.azcentral.com/story/entertainment/media/2024/12/20/where-is-neil-cavuto-going/77102038007/",
     "picture_source": "NBC News",
     "approx_traffic": "100,000+"
   },
@@ -44,9 +84,29 @@
     "title": "Nebraska volleyball",
     "pubDate": "Thu, 19 Dec 2024 16:00:00 -0800",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcT47aS8d64Z8JgVKHsSunrMrrZj7bd3GF8TUmpyJ6ORgoaqofvlWeSXPGS1Trq366cBKv7AYYMB",
-    "news_item_snippet": "Nebraska volleyball fell in dramatic fashion to Penn State in the NCAA Final Four in Louisville, Kentucky.",
-    "news_item_url": "https://nebraskapublicmedia.org/en/news/news-articles/nebraska-drops-a-heartbreaking-match-to-penn-state-in-the-final-four/",
+    "news_item_snippet": "The Husker volleyball team huddles up during the NCAA volleyball semifinal game against Penn State at the KFC Yum! Center on Thursday, Dec. 19, 2024, in&nbsp;...",
+    "news_item_url": "https://www.dailynebraskan.com/sports/blue-despite-falling-short-nebraska-volleyball-still-has-much-to-hang-its-hat-on/article_57bcf8ee-bed6-11ef-b001-1346f3c29ab8.html",
     "picture_source": "HailVarsity.com | Husker News",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Warriors",
+    "pubDate": "Thu, 19 Dec 2024 21:00:00 -0800",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQYGX0gMWI6fXbj9zykhUHXQl4jVK4EZwnKxX-RoyXpH65jlDuDlJux57srL3jZ9KIe0nRM9YEm",
+    "news_item_snippet": "The Memphis Grizzlies set a franchise record with 27 3-pointers in a 144-93 victory over the Golden State Warriors, the biggest win in the NBA this season.",
+    "news_item_url": "https://www.foxsports.com/stories/nba/grizzlies-beat-warriors-51-points-largest-win-nba-season-so-far",
+    "picture_source": "ESPN",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Fair-catch kick",
+    "pubDate": "Thu, 19 Dec 2024 20:00:00 -0800",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcS_Py8SvoZcjewKNQuqKD6269L1m1-1b8TLku1cQuIXX4NcIFKmj0VJvITH8uGLtT2iJyc5bX_L",
+    "news_item_snippet": "Taking advantage of an obscure rule, Chargers kicker Cameron Dicker converted the longest fair catch free kick in NFL history during Los Angeles&#39; win over&nbsp;...",
+    "news_item_url": "https://www.espn.com/nfl/story/_/id/43068684/obscure-rule-leads-chargers-making-nfl-first-fair-catch-kick-1976",
+    "picture_source": "WXII The Triad",
     "approx_traffic": "100,000+"
   },
   {
@@ -54,49 +114,39 @@
     "title": "Knicks",
     "pubDate": "Thu, 19 Dec 2024 20:00:00 -0800",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRIoL1aBHGOF_UXzVhmx0JOHhCGPGdbQgs8OzYJc_xBNvN1Vlhu9eGwKzWfLDn3IT_WFuWW37VP",
-    "news_item_snippet": "Karl-Anthony Towns is a member of the New York Knicks now, but he&#39;s still got plenty of fans in Minnesota.",
-    "news_item_url": "https://sports.yahoo.com/knicks-karl-anthony-towns-receives-standing-ovation-in-minnesota-then-blows-out-timberwolves-025933852.html",
+    "news_item_snippet": "Here&#39;s everything you need to know about the Timberwolves vs. Knicks matchup on Thursday, including ticket and giveaway info, injury updates, start time,&nbsp;...",
+    "news_item_url": "https://www.nba.com/timberwolves/news/timberwolves-knicks-tickets-giveaway-injury-tv-stream-radio",
     "picture_source": "ABC7 New York",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Warriors",
-    "pubDate": "Thu, 19 Dec 2024 23:00:00 -0800",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQYGX0gMWI6fXbj9zykhUHXQl4jVK4EZwnKxX-RoyXpH65jlDuDlJux57srL3jZ9KIe0nRM9YEm",
-    "news_item_snippet": "The Memphis Grizzlies set a franchise record with 27 3-pointers in a 144-93 victory over the Golden State Warriors, the biggest win in the NBA this season.",
-    "news_item_url": "https://www.foxsports.com/stories/nba/grizzlies-beat-warriors-51-points-largest-win-nba-season-so-far",
-    "picture_source": "ESPN",
     "approx_traffic": "50,000+"
   },
   {
     "country": "United States",
-    "title": "Fair-catch kick",
-    "pubDate": "Thu, 19 Dec 2024 20:00:00 -0800",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRZTKGEUMi1ccHgx62tUsUjzWRMWenVA0xezMbHoL8rzk49IMz7k4sXFQp_wiwQwSX4kxYEM4yM",
-    "news_item_snippet": "Cameron Dicker of the Los Angeles Chargers made the first successful fair-catch kick in the NFL since 1976 on Thursday night.",
-    "news_item_url": "https://www.foxsports.com/stories/nfl/what-fair-catch-kick-jim-harbaughs-chargers-execute-first-successful-attempt-48-years",
-    "picture_source": "ESPN",
+    "title": "Bo Nix",
+    "pubDate": "Thu, 19 Dec 2024 17:00:00 -0800",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRVm-qse0rUR8Dw6tM2delQU3SFvqGy6ub4afdVpKGge1JZxbia0GC2M0cYnbolFrUYAZ3xCJWO",
+    "news_item_snippet": "Bo Nix details his frustration after another divisional loss, this time to the Chargers on &quot;Thursday Night Football.&quot;",
+    "news_item_url": "https://nypost.com/2024/12/20/sports/bo-nix-frustrated-as-broncos-fall-amid-one-odd-sean-payton-decision/",
+    "picture_source": "NFL.com",
     "approx_traffic": "50,000+"
   },
   {
     "country": "United States",
     "title": "Big Lots stores closing",
     "pubDate": "Thu, 19 Dec 2024 18:00:00 -0800",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcR3gvKaNZglMFVnGlotXgChapPoj_JkgBv5HS1Qaia6mfA5zEyTjjW4XwOmmTrPBNOuPLVsm9Pm",
-    "news_item_snippet": "The bankrupt discount retail chain plans to liquidate after a deal with a prospective buyer collapsed.",
-    "news_item_url": "https://www.cbsnews.com/news/big-lots-stores-near-me-closing/",
-    "picture_source": "USA TODAY",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQKaLZTiImDwKeUxhjwTwrFk2OsemYZGLNMxJy_ZztOTVxr47WSlaG1c8Ol0U_x6UGNNTvqezTL",
+    "news_item_snippet": "The company has already closed more than 400 stores this year after filing for Chapter 11 bankruptcy protection in September. The company plans to hold a&nbsp;...",
+    "news_item_url": "https://www.13newsnow.com/article/money/business/big-lots-stores-closing-in-virginia/291-1ea3073b-7a0c-48bf-99af-f4b479595847",
+    "picture_source": "Axios",
     "approx_traffic": "50,000+"
   },
   {
     "country": "United States",
-    "title": "Barry Manilow",
-    "pubDate": "Thu, 19 Dec 2024 20:00:00 -0800",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTWCxzZZ3nwS5heE_4_ZC_rEI36qxYtd36Tqj7NS-eMJxA4kQFNyA3i7iBZBtyn28xGIhw_BPgJ",
-    "news_item_snippet": "Barry Manilow is one of the most commercially successful recording artists of all time. He&#39;s sold over 75 million records worldwide, scored 13 No.",
-    "news_item_url": "https://parade.com/celebrities/barry-manilow-net-worth",
-    "picture_source": "Parade Magazine",
+    "title": "Virgin River",
+    "pubDate": "Thu, 19 Dec 2024 11:00:00 -0800",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTtq0TZN0nR6EGfizYUabUK4omjPWQ7VH0MY4haiJl6cf2qudgQFHI4clfVbTttJY1FvcI9Xbvt",
+    "news_item_snippet": "Virgin River showrunner Patrick Sean Smith talked with Deadline about Season 6&#39;s wedding, feuds, cliffhangers, and more and teases Season 7.",
+    "news_item_url": "https://deadline.com/2024/12/virgin-river-showrunner-season-6-recap-wedding-season-7-interview-1236235552/",
+    "picture_source": "Today.com",
     "approx_traffic": "50,000+"
   },
   {
@@ -110,64 +160,34 @@
     "approx_traffic": "50,000+"
   },
   {
-    "country": "United States",
-    "title": "Sammy Sosa",
-    "pubDate": "Thu, 19 Dec 2024 14:00:00 -0800",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTzD14-qkAqZlunIM13nSrOWtv2i09w2_u13AwjaJt3M-81524gN3XymYvy9VF-32vmcO2ErIAu",
-    "news_item_snippet": "Sammy Sosa and the Cubs reconciled Thursday afternoon, ending their 17-year estrangement after the former slugger apologized for making &quot;mistakes&quot; during&nbsp;...",
-    "news_item_url": "https://www.espn.com/mlb/story/_/id/43063443/sammy-sosa-admits-mistakes-set-reunion-cubs",
-    "picture_source": "MLB.com",
-    "approx_traffic": "50,000+"
-  },
-  {
     "country": "India",
     "title": "Mufasa",
     "pubDate": "Fri, 20 Dec 2024 08:30:00 +0530",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQ6XgSD7mvSBmyTAPtxKXhrEny9iBARhdZ8ow1jkri5IvTyFgV-lTptGGtJym-TCW9wPQHKZrEr",
-    "news_item_snippet": "\u0c28\u0c1f\u0c40\u0c28\u0c1f\u0c41\u0c32\u0c41 (\u0c21\u0c2c\u0c4d\u0c2c\u0c3f\u0c02\u0c17\u0c4d): \u0c2e\u0c39\u0c47\u0c36\u0c4d \u0c2c\u0c3e\u0c2c\u0c41, \u0c2c\u0c4d\u0c30\u0c39\u0c4d\u0c2e\u0c28\u0c02\u0c26\u0c02, \u0c06\u0c32\u0c40, \u0c06\u0c30\u0c4d\u200c\u0c38\u0c40\u0c0e\u0c02 \u0c30\u0c3e\u0c1c\u0c41 \u0c24\u0c26\u0c3f\u0c24\u0c30\u0c41\u0c32\u0c41 \u0c26\u0c30\u0c4d\u0c36\u0c15\u0c24\u0c4d\u0c35\u0c02: \u0c2c\u0c4d\u0c2f\u0c3e\u0c30\u0c40 \u0c1c\u0c46\u0c28\u0c4d\u200c\u0c15\u0c3f\u0c28\u0c4d\u0c38\u0c4d \u0c38\u0c4d\u0c15\u0c4d\u0c30\u0c40\u0c28\u0c4d \u0c2a\u0c4d\u0c32\u0c47: \u0c1c\u0c46\u0c2b\u0c4d \u0c28\u0c3e\u0c25\u0c3e\u0c28\u0c4d\u0c38\u0c28\u0c4d",
-    "news_item_url": "https://telugu.filmibeat.com/reviews/mufasa-the-lion-king-in-telugu-mahesh-babu-rocks-with-voice-for-mufasa-149739.html",
-    "picture_source": "Hindustan Times",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQA6kQvEkfUZSqFiJWoaiPGgmW0sDK_6L8n-WRrSF1LDkZ6IBQxjYIcZWsojw7nATlmJK1c2hSE",
+    "news_item_snippet": "Mufasa The Lion King Hindi movie review \u2013 Barry Jenkins tells the story of four generations, with the focus on the titular character, voiced by Shah Rukh&nbsp;...",
+    "news_item_url": "https://www.hindustantimes.com/entertainment/hollywood/mufasa-the-lion-king-hindi-movie-review-shah-rukh-khan-makes-disney-fable-his-own-barry-jenkins-layered-origin-story-101734678012362.html",
+    "picture_source": "Economic Times",
     "approx_traffic": "100,000+"
   },
   {
     "country": "India",
     "title": "Viduthalai Part 2",
     "pubDate": "Fri, 20 Dec 2024 09:30:00 +0530",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRslhoaY-nQ9rsXdgPtVL_-RZjt-rGePFpsX5SKUMoj5OY-MEa94K2RrD-vBowp7orObS3J4WDT",
-    "news_item_snippet": "\u0c35\u0c46\u0c1f\u0c4d\u0c30\u0c3f\u0c2e\u0c3e\u0c30\u0c28\u0c4d\u200c \u0c26\u0c30\u0c4d\u0c36\u0c15\u0c24\u0c4d\u0c35\u0c02\u0c32\u0c4b \u0c35\u0c1a\u0c4d\u0c1a\u0c3f\u0c28 &#39;\u0c35\u0c3f\u0c21\u0c41\u0c26\u0c32 \u0c2a\u0c3e\u0c30\u0c4d\u0c1f\u0c4d\u200c1&#39; \u0c2c\u0c3e\u0c15\u0c4d\u0c38\u0c3e\u0c2b\u0c40\u0c38\u0c4d\u200c \u0c35\u0c26\u0c4d\u0c26 \u0c2e\u0c02\u0c1a\u0c3f \u0c35\u0c3f\u0c1c\u0c2f\u0c3e\u0c28\u0c4d\u0c28\u0c3f \u0c05\u0c02\u0c26\u0c41\u0c15\u0c41\u0c02\u0c26\u0c3f. \u0c26\u0c3e\u0c28\u0c3f\u0c15\u0c3f \u0c15\u0c4a\u0c28\u0c38\u0c3e\u0c17\u0c3f\u0c02\u0c2a\u0c41\u0c17\u0c3e \u0c35\u0c1a\u0c4d\u0c1a\u0c3f\u0c28 &#39;\u0c35\u0c3f\u0c21\u0c41\u0c26\u0c322&#39; \u0c0e\u0c32\u0c3e \u0c09\u0c02\u0c26\u0c3f?",
-    "news_item_url": "https://www.eenadu.net/telugu-news/movies/viduthalai-2-review-in-telugu/0203/124228651",
-    "picture_source": "FilmiBeat Telugu",
-    "approx_traffic": "50,000+"
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRGtBfxw6_5nHvHcCyfHL8g1sWbGh35K8p121CBUb9VIlpQFt-I8ySDyWjyvyaoeBqnayscWPj9",
+    "news_item_snippet": "\u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bb2\u0bc8 \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0baa\u0bbe\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf\u0baf\u0bbe\u0b95 \u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bbe\u0bae\u0bcd \u0baa\u0bbe\u0b95\u0bae\u0bcd \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0b95\u0bbf\u0bb1\u0ba4\u0bc1. \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0baa\u0bbe\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0bb5\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bb0\u0bbe\u0b95 \u0b87\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0bb5\u0bbf\u0b9c\u0baf\u0bcd \u0b9a\u0bc7\u0ba4\u0bc1\u0baa\u0ba4\u0bbf\u0baf\u0bc8 \u0b95\u0bc8\u0ba4\u0bc1 \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0b95\u0bbf\u0bb1\u0bbe\u0bb0\u0bcd.",
+    "news_item_url": "https://www.maalaimalar.com/movie-review/viduthalai-part-2-160918",
+    "picture_source": "The Hindu",
+    "approx_traffic": "100,000+"
   },
   {
     "country": "India",
-    "title": "SA vs PAK",
-    "pubDate": "Fri, 20 Dec 2024 01:30:00 +0530",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSJcMk_N13NoADHCWWNuBskOa9uE_rrqdg8TOU1jMNR6O2A8UPMuImQRnqW_sxeeCEUGeHhc_dP",
-    "news_item_snippet": "SA vs PAK: \u0926\u0915\u094d\u0937\u093f\u0923 \u0905\u092b\u094d\u0930\u0940\u0915\u093e \u0914\u0930 \u092a\u093e\u0915\u093f\u0938\u094d\u0924\u093e\u0928 \u0915\u093e \u0924\u0940\u0938\u0930\u093e \u091f\u094020 \u092e\u0948\u091a \u092c\u093e\u0930\u093f\u0936 \u0915\u0940 \u092d\u0947\u0902\u091f \u091a\u0922\u093c \u0917\u092f\u093e \u0925\u093e. \u091f\u094020 \u0938\u0940\u0930\u0940\u091c \u0915\u094b \u0905\u092b\u094d\u0930\u0940\u0915\u093e \u0928\u0947 2-0 \u0938\u0947 \u091c\u0940\u0924\u093e \u0925\u093e.",
-    "news_item_url": "https://www.abplive.com/sports/cricket/pak-vs-sa-3rd-t20-ticket-price-refund-announcement-cricket-south-africa-vs-pakistan-2846423",
-    "picture_source": "ABP News",
+    "title": "Om Prakash Chautala",
+    "pubDate": "Fri, 20 Dec 2024 13:30:00 +0530",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTCnMlgYJUxdGdTETFm4TVOB6waJsXYZIR3IACPqp7JYQSr3idu6w9fOsdltL1KzWGKeollzH-S",
+    "news_item_snippet": "Five-time Haryana Chief Minister and veteran Indian National Lok Dal (INLD) leader Om Prakash Chautala died at the age of 89 following a cardiac arrest.",
+    "news_item_url": "https://www.ndtv.com/india-news/om-prakash-chautala-former-haryana-chief-minister-and-inld-president-dies-at-89-7291891",
+    "picture_source": "PMINDIA",
     "approx_traffic": "50,000+"
-  },
-  {
-    "country": "India",
-    "title": "Marco",
-    "pubDate": "Fri, 20 Dec 2024 09:30:00 +0530",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQnDXxqad83cD641JxWB_BqRsvfC5BPzIeRM1FAqsWzQql6ar8ajsw0a3H7RfxK4-DmWGnHDa67",
-    "news_item_snippet": "Marco Movie review : \u0d09\u0d23\u0d4d\u0d23\u0d3f \u0d2e\u0d41\u0d15\u0d41\u0d28\u0d4d\u0d26\u0d7b \u0d28\u0d3e\u0d2f\u0d15\u0d28\u0d3e\u0d2f \u0d2e\u0d3e\u0d7c\u0d15\u0d4d\u0d15\u0d4b, \u0d35\u0d2f\u0d32\u0d7b\u0d38\u0d4d \u0d28\u0d3f\u0d31\u0d1e\u0d4d\u0d1e \u0d06\u0d15\u0d4d\u0d37\u0d7b \u0d24\u0d4d\u0d30\u0d3f\u0d32\u0d4d\u0d32\u0d7c. \u0d15\u0d4d\u0d30\u0d48\u0d02 \u0d38\u0d3f\u0d7b\u0d21\u0d3f\u0d15\u0d4d\u0d15\u0d47\u0d31\u0d4d\u0d31\u0d3f\u0d32\u0d46 \u0d2a\u0d4d\u0d30\u0d24\u0d3f\u0d15\u0d3e\u0d30 \u0d15\u0d25\u0d2f\u0d41\u0d02 \u0d15\u0d41\u0d1f\u0d41\u0d02\u0d2c&nbsp;...",
-    "news_item_url": "https://www.asianetnews.com/movie-reviews/marco-movie-review-unni-mukundan-haneef-adeni-sosb3w",
-    "picture_source": "News18 Malayalam",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "India",
-    "title": "Pakistan vs South Africa",
-    "pubDate": "Thu, 19 Dec 2024 23:30:00 +0530",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRuwz-itjmryG3ZBgume_-1mdwDBiVUW4hy9qfiUXDnnEUZyJPxOX_6r8xg8UmnoQwrULUoY20i",
-    "news_item_snippet": "The visitors have gotten off to a fantastic start in the ODI series, winning the first match in Paarl a few days ago, putting the hosts in a do-or-die situation&nbsp;...",
-    "news_item_url": "https://indianexpress.com/article/sports/cricket/pak-vs-sa-pakistan-vs-south-africa-2nd-odi-live-cricket-streaming-9734303/",
-    "picture_source": "NDTVSports.com",
-    "approx_traffic": "500,000+"
   },
   {
     "country": "India",
@@ -183,29 +203,9 @@
     "country": "India",
     "title": "CAT",
     "pubDate": "Thu, 19 Dec 2024 20:30:00 +0530",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRqCzcS0XJLqqF-XrVjvDmsmw-YX5fRjWz-y0EObRFo7DTvjGGgoeXQeV_93SkzRFnJ2pjKyUph",
-    "news_item_snippet": "CAT 2024 results announced, marking end of phase one admissions process for MBA aspirants, with scorecards available online.",
-    "news_item_url": "https://www.thehindu.com/education/cat-result-2024-99th-percentile-score-will-likely-be-93-marks/article69007794.ece",
-    "picture_source": "Shiksha",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "India",
-    "title": "Real Madrid",
-    "pubDate": "Thu, 19 Dec 2024 12:30:00 +0530",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRE2dkHUo8XBu5d7dFU1SSkK4-hiF__UOgmGps8v_bTGztmkQCKGP1zZyoeHHe1lWerxlIeTUM9",
-    "news_item_snippet": "easyMarkets has renewed its partnership with Real Madrid C.F, extending its role as the club&#39;s Official Trading Partner. The collaboration began in 2020.",
-    "news_item_url": "https://www.financemagnates.com/forex/easymarkets-renews-real-madrid-cf-partnership-following-fsca-approval/",
-    "picture_source": "Real Madrid",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "India",
-    "title": "Kia Syros",
-    "pubDate": "Thu, 19 Dec 2024 14:30:00 +0530",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSnlMbpnOxKSYds6Z5yBqNMlPn2LhQFbtQaL77vKtkiZxccDpUMYRDwN2Rl2wyo9c1jcaqxBq_i",
-    "news_item_snippet": "The new Syros will be available in six broad variants: HTK, HTK (O), HTK Plus, HTX, HTX Plus, and HTX Plus (O)",
-    "news_item_url": "https://www.cardekho.com/india-car-news/new-kia-syros-variantwise-features-explained-33699.htm",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSg_4uWNenZpu2xPgV9cC7pwDJvCO64x7dCIQhOBCN2jITE7A5_yLwyPHz4P2rSox0okIUIbrqx",
+    "news_item_snippet": "Know the CAT 2024 toppers name, scores and percentiles. The CAT topper 2024 list has been released by IIM Calcutta. CAT 2024 result and scorecard can be&nbsp;...",
+    "news_item_url": "https://www.shiksha.com/mba/articles/cat-2024-toppers-list-14-candidates-score-100-percentile-check-toppers-name-score-and-percentile-blogId-184594",
     "picture_source": "The Hindu",
     "approx_traffic": "100,000+"
   },
@@ -217,26 +217,36 @@
     "news_item_snippet": "\u0c35\u0c48\u0c35\u0c3f\u0c27\u0c4d\u0c2f\u0c2e\u0c48\u0c28 \u0c15\u0c25\u0c32\u0c24\u0c4b \u0c2a\u0c4d\u0c30\u0c47\u0c15\u0c4d\u0c37\u0c15\u0c41\u0c32\u0c28\u0c41 \u0c05\u0c32\u0c30\u0c3f\u0c02\u0c1a\u0c47 \u0c15\u0c28\u0c4d\u0c28\u0c21 \u0c28\u0c1f\u0c41\u0c21\u0c41 \u0c09\u0c2a\u0c47\u0c02\u0c26\u0c4d\u0c30 \u0c2e\u0c30\u0c4b \u0c35\u0c3f\u0c28\u0c42\u0c24\u0c4d\u0c28 \u0c1a\u0c3f\u0c24\u0c4d\u0c30\u0c02 &#39;\u0c2f\u0c42\u0c10&#39;\u0c24\u0c4b \u0c2a\u0c4d\u0c30\u0c47\u0c15\u0c4d\u0c37\u0c15\u0c41\u0c32 \u0c2e\u0c41\u0c02\u0c26\u0c41\u0c15\u0c41 \u0c35\u0c1a\u0c4d\u0c1a\u0c3e\u0c30\u0c41.",
     "news_item_url": "https://www.eenadu.net/telugu-news/movies/ui-movie-review-in-telugu/0203/124228644",
     "picture_source": "News",
-    "approx_traffic": "50,000+"
+    "approx_traffic": "100,000+"
   },
   {
     "country": "India",
-    "title": "Mamata Machinery IPO GMP",
-    "pubDate": "Thu, 19 Dec 2024 13:30:00 +0530",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTaDQW-8KlzSiQFvLAfSoxIEY2gMhMC_UWvNyL0wByZM1v1nabXvZgQL_17cnzbrKLc4gRJna6-8A",
-    "news_item_snippet": "Mamata Machinery IPO Subscription Status, Day 2: Mamata Machinery shares were trading at Rs 503 apiece, reflecting a grey market premium (GMP) of Rs 260 or&nbsp;...",
-    "news_item_url": "https://www.business-standard.com/markets/news/mamata-machinery-ipo-day-2-subscription-soars-23x-gmp-zooms-107-124122000366_1.html",
-    "picture_source": "Livemint",
-    "approx_traffic": "50,000+"
+    "title": "Real Madrid",
+    "pubDate": "Thu, 19 Dec 2024 12:30:00 +0530",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRE2dkHUo8XBu5d7dFU1SSkK4-hiF__UOgmGps8v_bTGztmkQCKGP1zZyoeHHe1lWerxlIeTUM9",
+    "news_item_snippet": "easyMarkets and Real Madrid have announced an extension to their alliance at an event attended by Nikos Antoniades, easyMarkets CEO, and Emilio Butrague\u00f1o,&nbsp;...",
+    "news_item_url": "https://www.realmadrid.com/en-US/news/club/sponsors/easymarkets-and-real-madrid-renew-collaboration-agreement-19-12-2024",
+    "picture_source": "Real Madrid",
+    "approx_traffic": "100,000+"
   },
   {
-    "country": "Australia",
-    "title": "Bushfires Victoria",
-    "pubDate": "Thu, 19 Dec 2024 10:00:00 +1100",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcS7nnHpy3nZQW7A4hJeZJTrXqs6zGbopLFGAXCl-Zw4d0aKnlH-F1Mt4IPRIUmy16LQ3cU6bzKR",
-    "news_item_snippet": "An emergency warning remains in place for the Grampians region, while two other bushfires \u2013 at Bullengarook north-west of Melbourne and The Gurdies in South&nbsp;...",
-    "news_item_url": "https://www.abc.net.au/news/2024-12-20/mass-tourism-cancellations-as-fire-burns-in-grampians/104747620",
-    "picture_source": "The Age",
+    "country": "India",
+    "title": "Kia Syros",
+    "pubDate": "Thu, 19 Dec 2024 14:30:00 +0530",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcS48MBOTFLv_rE45yoeWXmAY7kgpBtrn0Atuby58dMKGVTvGcSr4ShOE1cdh-Ir6qrFRw893PCe",
+    "news_item_snippet": "The new Syros will be available in six broad variants: HTK, HTK (O), HTK Plus, HTX, HTX Plus, and HTX Plus (O)",
+    "news_item_url": "https://www.cardekho.com/india-car-news/new-kia-syros-variantwise-features-explained-33699.htm",
+    "picture_source": "The Hindu",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "Brazil",
+    "title": "Bayern x RB Leipzig",
+    "pubDate": "Fri, 20 Dec 2024 10:00:00 -0500",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQjvwZwM04nDgVmsskBnUL-ZLDDwJsb5Tpi0npOC_I72_6ez6ifSuOqDQTYorfoExgYrLqvfxK5",
+    "news_item_snippet": "L\u00edder da Bundesliga entra em campo nesta sexta-feira (20) em Munique. Confira onde assistir Bayern de Munique x RB Leipzig ao vivo.",
+    "news_item_url": "https://gizmodo.uol.com.br/onde-assistir-bayern-munique-rb-leipzig-bundesliga/",
+    "picture_source": "Gizmodo Brasil",
     "approx_traffic": "50,000+"
   },
   {
@@ -263,9 +273,9 @@
     "country": "Brazil",
     "title": "Superman",
     "pubDate": "Thu, 19 Dec 2024 11:00:00 -0500",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSDrBjvabwleYWYNADwhSbRlnKC1EUyYpSj5UHaHuQhZe2CXRTYlGwO9ZQ_on8RfyZJ16BOoUS_",
-    "news_item_snippet": "Filme dirigido por James Gunn lan\u00e7ar\u00e1 formalmente o novo universo cinematogr\u00e1fico da DC.",
-    "news_item_url": "https://g1.globo.com/pop-arte/cinema/noticia/2024/12/19/superman-ganha-trailer-com-novo-interprete-para-o-heroi-assista.ghtml",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSdiHxg0u5rNE5Nw0M5TToaSzSuX8zd6hjLS0kTKLsPR_WW88rQ8kA49oJLvXqHV-cKpDjlBvtR",
+    "news_item_snippet": "No papel do Superman, teremos David Corenswet, substituindo Henry Cavill. J\u00e1 Rachel Brosnahan interpretar\u00e1 Lois Lane. O filme promete trazer uma vis\u00e3o renovada&nbsp;...",
+    "news_item_url": "https://www.tecmundo.com.br/minha-serie/600315-veja-15-revelacoes-revelacoes-e-referencias-do-trailer-de-superman-o-novo-filme-da-dc.htm",
     "picture_source": "gshow",
     "approx_traffic": "50,000+"
   },
@@ -274,8 +284,8 @@
     "title": "Chelsea x Shamrock Rovers",
     "pubDate": "Thu, 19 Dec 2024 15:00:00 -0500",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSVqiLb2CTvrW_HDf4cn0H85ppwr6QszqCFWhMFavVQA2HcEjanQ8F_7_nZrY2PE-d-a0IztDsx",
-    "news_item_snippet": "Nesta quinta-feira, pela sexta rodada da fase de grupos da Conference League, o Chelsea recebe o Shamrock Rovers, da Irlanda, no Stamford Bridge.",
-    "news_item_url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/gazeta-esportiva/2024/12/19/chelsea-x-shamrock-rovers-veja-provaveis-escalacoes-e-onde-assistir-ao-jogo-da-conference-league.htm",
+    "news_item_snippet": "Chelsea venceu Shamrock Rovers com show de Marc Giu, que marcou tr\u00eas gols em Londres.",
+    "news_item_url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/chelsea-vence-shamrock-rovers-mantem-100-e-avanca-em-primeiro-na-liga-europa/",
     "picture_source": "Gazeta Esportiva",
     "approx_traffic": "50,000+"
   },
@@ -290,63 +300,63 @@
     "approx_traffic": "50,000+"
   },
   {
-    "country": "Saudi Arabia",
-    "title": "\u0627\u0644\u0631\u064a\u0627\u0644 \u0636\u062f \u0628\u0627\u062a\u0634\u0648\u0643\u0627",
-    "pubDate": "Wed, 18 Dec 2024 20:00:00 +0300",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcT5wNMmcsyPX72PWByoOwYB4lnvaCuzP5K6WACDFO66lKgUf5P7bIU91msCNMPRBw0ttQKH3Wby",
-    "news_item_snippet": "\u0648\u062c\u0627\u0621 \u0647\u062f\u0641 \u0641\u064a\u0646\u064a\u0633\u064a\u0648\u0633 \u062c\u0648\u0646\u064a\u0648\u0631 \u0641\u064a \u0627\u0644\u062f\u0642\u064a\u0642\u0629 84 \u0645\u0646 \u0632\u0645\u0646 \u0627\u0644\u0644\u0642\u0627\u0621 \u0645\u0646 \u0636\u0631\u0628\u0629 \u062c\u0632\u0627\u0621\u060c \u0644\u062a\u0635\u0628\u062d \u0627\u0644\u0646\u062a\u064a\u062c\u0629 \u062a\u0642\u062f\u0645 \u0631\u064a\u0627\u0644 \u0645\u062f\u0631\u064a\u062f 3 - 0. \u0647\u062f\u0641| \u0641\u064a\u0646\u0633\u064a\u0648\u0633 \u064a\u0633\u062c\u0644 \u0645\u0646 \u0631\u0643\u0644\u0629 \u062c\u0632\u0627\u0621 \u0648\u0631\u064a\u0627\u0644 \u0645\u062f\u0631\u064a\u062f \u064a\u062a\u0642\u062f\u0645 3-&nbsp;...",
-    "news_item_url": "https://www.youm7.com/story/2024/12/18/%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D9%84-%D8%B6%D8%AF-%D8%A8%D8%A7%D8%AA%D8%B4%D9%88%D9%83%D8%A7-%D9%81%D9%8A%D9%86%D9%8A%D8%B3%D9%8A%D9%88%D8%B3-%D9%8A%D8%B9%D8%B2%D8%B2-%D8%AA%D9%82%D8%AF%D9%85-%D8%A7%D9%84%D9%85%D9%84%D9%83%D9%89-%D8%A8%D8%A7%D9%84%D9%87%D8%AF%D9%81-%D8%A7%D9%84%D8%AB%D8%A7%D9%84%D8%AB-%D9%81%D9%8A%D8%AF%D9%8A%D9%88/6816568",
-    "picture_source": "\u0627\u0644\u062c\u0632\u064a\u0631\u0629 \u0646\u062a",
-    "approx_traffic": "100,000+"
+    "country": "Canada",
+    "title": "Amazon workers strike Canada",
+    "pubDate": "Thu, 19 Dec 2024 12:00:00 -0500",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTxmND78Yr0Ykg6NJOJG9WrvN1Dm-VzygzQoZAIU8qt7RSgqFYjy5gu4I9FamCM3f5zOcXQz7um",
+    "news_item_snippet": "Amazon.com workers at seven U.S. facilities walked off the job early on Thursday during the holiday shopping rush as workers protest what they say is the&nbsp;...",
+    "news_item_url": "https://www.cbc.ca/news/business/amazon-workers-strike-december-1.7415300",
+    "picture_source": "CTV News",
+    "approx_traffic": "50,000+"
   },
   {
     "country": "France",
     "title": "Mazan",
     "pubDate": "Thu, 19 Dec 2024 10:00:00 +0100",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQkZGIEg6eEqyQpFjyFqNMxhwVcn_xUnH9CWQASIpPy9-24L8XIdI6of1lZK5nATDgIr8-xYTM_",
-    "news_item_snippet": "Dominique Pelicot a \u00e9t\u00e9 condamn\u00e9 ce jeudi \u00e0 la peine maximale pour avoir fait violer sa femme, Gis\u00e8le, par des dizaines d&#39;inconnus. Les peines des \u00ab cinquante&nbsp;...",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcS9i_C8btzv4cNDiAgcfsYal8Nwg603I05-oWX6QgRW4Aau0PcVAim_n9TAdo9mecvtMYKGgmos",
+    "news_item_snippet": "L&#39;essentiel &middot; Dominique Pelicot a \u00e9t\u00e9 condamn\u00e9 ce jeudi \u00e0 la peine maximale pour avoir fait violer sa femme, Gis\u00e8le, par des dizaines d&#39;inconnus. &middot; Pour les&nbsp;...",
     "news_item_url": "https://www.20minutes.fr/justice/4130319-20241220-viols-mazan-second-proces-appel-dilemme-avocats-defense",
-    "picture_source": "France Bleu",
+    "picture_source": "BFMTV",
     "approx_traffic": "200,000+"
   },
   {
     "country": "France",
-    "title": "PSG",
-    "pubDate": "Thu, 19 Dec 2024 08:00:00 +0100",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcT3_DYS2xca0w7jXAPbiqK_xBl0XoUzZFNhKFceiJ9lkcKr2uVhmjXE6ZSXIeFQ_Lp0VLyDtTfc",
-    "news_item_snippet": "En conseiller sportif et porte parole des arbitres de Ligue 1, Micka\u00ebl Landreau a contest\u00e9 sans d\u00e9tour, sur les antennes de Canal+, ce jeudi,&nbsp;...",
-    "news_item_url": "https://rmcsport.bfmtv.com/football/ligue-1/monaco-psg-la-decision-de-letexier-va-a-l-encontre-de-la-position-de-la-direction-technique-de-l-arbitrage-conteste-mickael-landreau-porte-parole-des-arbitres-de-ligue-1_AN-202412190977.html",
-    "picture_source": "Le Parisien",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "France",
-    "title": "Monaco-PSG",
-    "pubDate": "Wed, 18 Dec 2024 16:00:00 +0100",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQw_ouXDF4wqf1DXTssKS7KRRaWLL70EAIJR4CBLebMaApykfzcGHmeaYoaqzVJ34Ng-tbR1JnR",
-    "news_item_snippet": "Wilfried Singo et Gianluigi Donnarumma se sont expliqu\u00e9s \u00e0 l&#39;issue de Monaco - Paris Saint-Germain (2-4), mercredi soir, en Ligue 1. Singo s&#39;est (.",
-    "news_item_url": "https://www.footmercato.net/a142681450831251448-monaco-psg-wilfried-singo-et-gianluigi-donnarumma-se-sont-expliques",
-    "picture_source": "BFMTV.COM",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "France",
-    "title": "Nicolas Sarkozy",
-    "pubDate": "Wed, 18 Dec 2024 15:00:00 +0100",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTxeLojgD4yWo3bNN-kIb3b4yJWmNxIVQzU0B1RNO7QLvZHzjvOKaYO6nUmhPORfUGR6rEcB4rJ",
-    "news_item_snippet": "Bient\u00f4t jug\u00e9 dans le dossier libyen et mis en examen dans celui de la fausse r\u00e9tractation de l&#39;interm\u00e9diaire Ziad Takieddine en 2020, l&#39;ancien chef de&nbsp;...",
-    "news_item_url": "https://www.lemonde.fr/societe/article/2024/12/19/l-ombre-de-le-nicolas-sarkozy-plane-sur-cinq-dossiers-judiciaires_6457262_3224.html",
-    "picture_source": "Le Club des Juristes",
+    "title": "Coupe de France",
+    "pubDate": "Thu, 19 Dec 2024 19:00:00 +0100",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRAAYo9IDJssEaHcJ7riiGMrmyAoM4U2qhNzeUggfwzGbaurRdvXocvbBRsWn5E6bw2_kXN8IiH",
+    "news_item_snippet": "Apr\u00e8s la Ligue 2, place d\u00e9sormais \u00e0 l&#39;entr\u00e9e en lice des clubs de Ligue 1 dans la prestigieuse Coupe de France au stade des 32es de finale.",
+    "news_item_url": "https://rmcsport.bfmtv.com/football/coupe-de-france/direct-coupe-de-france-suivez-les-32es-de-finale-avec-l-entree-en-lice-des-clubs-de-ligue-1_LN-202412200364.html",
+    "picture_source": "actu.fr",
     "approx_traffic": "50,000+"
   },
   {
-    "country": "France",
-    "title": "Parcoursup",
-    "pubDate": "Wed, 18 Dec 2024 11:00:00 +0100",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTB0caAZMN7cU_wbj_d8LW4JYlSwBgAxKvimXv7XKWCUvnE0PvDD2tP-tVpWyKLHIrXCI6UGlRr",
-    "news_item_snippet": "Les \u00e9coles priv\u00e9es post-bac fleurissent, en Alsace comme ailleurs. Et la tendance se confirme depuis la mise en place de Parcoursup.",
-    "news_item_url": "https://france3-regions.francetvinfo.fr/grand-est/bas-rhin/strasbourg-0/les-ecoles-privees-post-bac-se-multiplient-depuis-parcoursup-pas-toujours-facile-de-s-y-retrouver-3079180.html",
-    "picture_source": "France 3 R\u00e9gions",
+    "country": "Germany",
+    "title": "Magdeburg",
+    "pubDate": "Fri, 20 Dec 2024 20:00:00 +0100",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcR34Uu8YLGue0XcSIQRO2WiM9ubkMnn7VEJ6MSBlE772MOHz-LUR7tqqkmxLbNcwnLuqjX52dEH",
+    "news_item_snippet": "Auf den Magdeburger Weihnachtsmarkt hat es einen Anschlag gegeben. Es gibt mehrere Verletzte. Ein Gro\u00dfaufgebot an Rettungskr\u00e4ften ist im Einsatz.",
+    "news_item_url": "https://www.mdr.de/nachrichten/sachsen-anhalt/magdeburg/magdeburg/anschlag-polizei-weihnachtsmarkt-magdeburg-100.html",
+    "picture_source": "tagesschau.de",
+    "approx_traffic": "500,000+"
+  },
+  {
+    "country": "Germany",
+    "title": "Bayern \u2013 RB Leipzig",
+    "pubDate": "Fri, 20 Dec 2024 20:00:00 +0100",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRzmCW--tkm4R2eFYWa-f89XH58U1-MgWMZHcDb0ehgmPYjIXP81PzZSD4Xgn640Rn6tI7YvZES",
+    "news_item_snippet": "&quot;Wir fahren mit einem guten Gef\u00fchl dort hin&quot;, erkl\u00e4rte Marco Rose unter der Woche und k\u00fcndigte an, es den Bayern &quot;so schwer wie m\u00f6glich&quot; machen zu wollen. Dabei&nbsp;...",
+    "news_item_url": "https://www.kicker.de/bayern-gegen-leipzig-2024-bundesliga-4936913/ticker",
+    "picture_source": "RB Leipzig",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "Germany",
+    "title": "Elon Musk",
+    "pubDate": "Fri, 20 Dec 2024 14:00:00 +0100",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTB1d7GvCqE8wQIkox7DcwIOlNEEQzR5O3_2cWbFwx2blTuSBWpHLj8saaptpcdstnu09BYIfGz",
+    "news_item_snippet": "\u201eOnly the AfD can save Germany\u201c, twitterte Elon Musk am Freitagvormittag (MEZ). Dazu teilte er ein Video der deutschen Youtuberin Naomi Seibt, gerade einmal&nbsp;...",
+    "news_item_url": "https://www.cicero.de/kultur/elon-musk-afd-post-trump-wahlkampf",
+    "picture_source": "tagesschau.de",
     "approx_traffic": "50,000+"
   },
   {
@@ -390,33 +400,43 @@
     "approx_traffic": "200,000+"
   },
   {
-    "country": "Germany",
-    "title": "Assad",
-    "pubDate": "Fri, 06 Dec 2024 12:00:00 +0100",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSsNHV7PbY4cAdQygQWK_YULXpzC0iVMQMdWg7ZQ3gUZG_U03vbFvcriedrPrMAdmYHLHBDXzqD",
-    "news_item_snippet": "Syrerinnen und Syrer haben Geschichte geschrieben, Diktator Assad hat das Land verlassen. Ob die Milizen ihre Freiheitsversprechen einhalten, wei\u00df man nicht&nbsp;...",
-    "news_item_url": "https://www.spiegel.de/ausland/syrien-assad-regime-stuerzt-ein-historischer-tag-fuer-das-syrische-volk-a-9e34c279-4182-4ae3-87e4-c409eed5f4ad",
-    "picture_source": "tagesschau.de",
+    "country": "Italy",
+    "title": "Milan Verona",
+    "pubDate": "Fri, 20 Dec 2024 11:00:00 +0100",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTrBRcjkhAlo5I-56sh75Xx7fsDobfp2DVgJuVntZUbHFhlEHXxn4eJiuGwrdwHZGL_oPZa1zxJ",
+    "news_item_snippet": "Leggi su Sky Sport l&#39;articolo Verona-Milan, dove vedere la partita in tv: gli orari.",
+    "news_item_url": "https://sport.sky.it/calcio/serie-a/2024/12/20/verona-milan-dove-vedere-tv-streaming",
+    "picture_source": "Rai News",
     "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Italy",
+    "title": "Inter-Udinese",
+    "pubDate": "Thu, 19 Dec 2024 21:00:00 +0100",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQUsW7uLShNnxwXxrtDEN8FKE8f9jFl3ONi8cAtPhUS4IDk-VmoXCz4cpnmPVB_0aXEJJCsxqkt",
+    "news_item_snippet": "Decidono le reti di Arnautovi\u0107 al 30&#39; e il raddoppio di Asllani al 47&#39; con una parabola perfetta su calcio d&#39;angolo. Gli altri quarti: Milan-Roma,&nbsp;...",
+    "news_item_url": "https://www.rainews.it/maratona/2024/12/calcio-coppa-italia-ottavi-bologna-monza-milan-sassuolo-fiorentina-empoli-lazio-napoli-juventus-cagliari-atalanta-cesena-roma-sampdoria-inter-udinese-aggiornamenti-cronaca-testuale-2090a999-494a-4979-8f59-775ebdce2aee.html",
+    "picture_source": "Sky Tg24",
+    "approx_traffic": "200,000+"
   },
   {
     "country": "Italy",
     "title": "Salvini",
     "pubDate": "Thu, 19 Dec 2024 22:00:00 +0100",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRMjPgP14Px9kQDJ5zN1UhI9g6MZH6l4wMRcPLWrzhiEzcQgqwvMrRv0MOyukGKCuF5Uig4aIUe",
-    "news_item_snippet": "Si sono ritirati in camera di consiglio, dopo brevi repliche della Procura e della difesa, i giudici del tribunale di Palermo chiamati a emettere il verdetto al&nbsp;...",
-    "news_item_url": "https://www.avvenire.it/attualita/pagine/processo-open-arms-attesa-sentenza",
-    "picture_source": "Internazionale",
-    "approx_traffic": "50,000+"
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQdiVsxJyL0twgA16AetnUHQRyd7PFIH44QSLojmkoDueWn0NlYRgkTWzn16-dYPkIkqWA29EuU",
+    "news_item_snippet": "Il tribunale di Palermo ha assolto il leader della Lega, Matteo Salvini, dalle accuse di sequestro di persona e rifiuto di atti d&#39;ufficio al processo per la&nbsp;...",
+    "news_item_url": "https://tg24.sky.it/cronaca/2024/12/20/salvini-processo-open-arms-diretta",
+    "picture_source": "Rai News",
+    "approx_traffic": "200,000+"
   },
   {
-    "country": "Italy",
-    "title": "Guimar\u00e3es  Fiorentina",
-    "pubDate": "Thu, 19 Dec 2024 21:00:00 +0100",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRery0wHmkUtfgs06W-6aGieifmnOPFDWUIgmqa86j_JaBg11BPCDeLMFLMG_XlSga4Rn3AK2Wm",
-    "news_item_snippet": "Leggi su Sky TG24 l&#39;articolo Conference League, Vitoria Guimaraes-Fiorentina 1-1. Viola agli ottavi. Gol e highlights.",
-    "news_item_url": "https://tg24.sky.it/sport/2024/12/19/guimaraes-fiorentina-risultato-gol-highlights-video",
-    "picture_source": "Rai News",
+    "country": "Mexico",
+    "title": "Rey Mysterio",
+    "pubDate": "Fri, 20 Dec 2024 12:00:00 -0600",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQ-Ek4qXFVuQLfy4X23g6D_JVxrprjgQ9ZB_4SbFaiCFAWPphK7d0C8bpl6AgCSC7bvlG-HBGPZ",
+    "news_item_snippet": "Luto en la lucha libre mexicana, hoy viernes se confirm\u00f3 la muerte de Miguel \u00c1ngel L\u00f3pez D\u00edas, tambi\u00e9n conocido como Rey Misterio Sr.",
+    "news_item_url": "https://www.nmas.com.mx/deportes/muere-rey-mysterio-sr-fallece-miguel-angel-lopez-diaz-tio-rey-mysterio-jr-que-paso/",
+    "picture_source": "Infobae.com",
     "approx_traffic": "50,000+"
   },
   {
@@ -430,6 +450,26 @@
     "approx_traffic": "50,000+"
   },
   {
+    "country": "Mexico",
+    "title": "Chargers  Broncos",
+    "pubDate": "Thu, 19 Dec 2024 20:00:00 -0600",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSb-RsQiemyEP4svjnLaQMjYe4RKQRKqv5BKX7SaOBhIupba03Mxmo103s3H87kUvCQ7jNwGvjA",
+    "news_item_snippet": "Sigue el minuto a minuto del partido entre los Denver Broncos y Los Angeles Chargers de la NFL 2024, en MARCA MX.",
+    "news_item_url": "https://www.marca.com/mx/nfl/los-angeles-chargers-denver-broncos/2024/12/20/08_0801_20241220_9955_9952-directo.html",
+    "picture_source": "ESPN",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Spain",
+    "title": "Ganador gh 2024",
+    "pubDate": "Fri, 20 Dec 2024 03:00:00 +0100",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQJosx3t5vnY333wEi4xBC3N35H19Kwv-KNXCuleLt1npc09q3A2Er6R262RUCVi3ZlKkKuE9Zf",
+    "news_item_snippet": "El concursante madrile\u00f1o se proclama ganador en una re\u00f1ida final con \u00d3scar.",
+    "news_item_url": "https://www.hola.com/actualidad/20241220737138/juan-quintana-se-convierte-en-el-ganador-de-gran-hermano-2024/",
+    "picture_source": "El Mundo",
+    "approx_traffic": "50,000+"
+  },
+  {
     "country": "Spain",
     "title": "Novia de Broncano",
     "pubDate": "Thu, 19 Dec 2024 23:00:00 +0100",
@@ -440,33 +480,33 @@
     "approx_traffic": "50,000+"
   },
   {
-    "country": "Spain",
-    "title": "Betis  HJK",
-    "pubDate": "Thu, 19 Dec 2024 21:00:00 +0100",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQM7R4rDOGew-Q71Zqtekj9ixT24njJGGA33rXg1eJ3BOh1RIK3iZNqAH2uOFR128quWa2rXKWs",
-    "news_item_snippet": "Sigue en vivo y en directo el Real Betis - HJK, partido correspondiente a la 6\u00aa jornada de Conference League que se disputa hoy, 19 de diciembre.",
-    "news_item_url": "https://as.com/futbol/uefa/real-betis-hjk-en-directo-europa-league-hoy-en-vivo-n/",
-    "picture_source": "MARCA",
-    "approx_traffic": "50,000+"
-  },
-  {
     "country": "United Kingdom",
     "title": "Wind warning",
     "pubDate": "Fri, 20 Dec 2024 07:00:00 +0000",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSBFO5FJkJFxX8SGOJGrlXK15uKRJDIvhpPRA70AUGbzOJOlM5Nm1Ni7MwNGIPRbq54z2jh4nCL",
-    "news_item_snippet": "There could be &quot;significant disruption&quot; to travel networks as people head away for Christmas, with parts of the country facing wind gusts of 85mph.",
-    "news_item_url": "https://news.sky.com/story/bad-weather-could-hit-festive-getaway-as-met-office-issues-yellow-warnings-13276951",
-    "picture_source": "Bristol Live",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRzCWMHPhrImHfwiA0HKoiaoVSpIsiSmlBhn7dUL_lpVe2gumqhXAi0pv8S-1VhCfL3-b47-3uy",
+    "news_item_snippet": "The Met Office said wind gusts of 50 to 60mph (80 to 96km/h) were expected along coasts facing north west, and they could reach 70mph (112km/h) over the moors.",
+    "news_item_url": "https://www.bbc.co.uk/news/articles/cpvn1n39d27o",
+    "picture_source": "Newsroom",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United Kingdom",
+    "title": "Chelsea",
+    "pubDate": "Fri, 20 Dec 2024 19:00:00 +0000",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQRt5I6u15xV9FK0RLSGJGMvEkr7OwcNSbTT-HqcXCqv7EtI8nHahSfld9435e4Y10NtTVyXysi",
+    "news_item_snippet": "Chelsea now know we will meet one of four teams in the UEFA Conference League Round of 16 when we return to the competition in March.",
+    "news_item_url": "https://www.chelseafc.com/en/news/article/chelsea-discover-potential-uefa-conference-league-opponents",
+    "picture_source": "Chelsea FC",
     "approx_traffic": "50,000+"
   },
   {
     "country": "United Kingdom",
     "title": "Tottenham vs Man United",
-    "pubDate": "Thu, 19 Dec 2024 18:00:00 +0000",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcS_jV2PdBg8a3ViQ1ndGc5OeRKMq3gJsXrVA8F56b0ou9y1vCdvXKVZ1Zo2_8aVKwLWratt9rjb",
-    "news_item_snippet": "Tottenham 4-3 Manchester United: Catastrophic goalkeeping errors and goals direct from corners headlined a mad quarter-final that Spurs eventually edged.",
-    "news_item_url": "https://www.independent.co.uk/sport/football/tottenham-man-utd-live-stream-score-carabao-cup-b2666556.html",
-    "picture_source": "The Independent",
+    "pubDate": "Thu, 19 Dec 2024 20:00:00 +0000",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSqcIDUIIxscW6iIoInzdNzSXo1K-QyTYvnjMSdDyeTzVFceuszi0cCxrDVq63QEa-v9WzvCMXK",
+    "news_item_snippet": "United Women&#39;s game at the Tottenham Hotspur Stadium will now kick-off at 18:45 GMT on Sunday 2 February.",
+    "news_item_url": "https://www.manutd.com/en/news/detail/manchester-united-women-fixture-at-tottenham-hotspur-selected-for-live-tv",
+    "picture_source": "Manchester United",
     "approx_traffic": "200,000+"
   },
   {
@@ -481,12 +521,12 @@
   },
   {
     "country": "United Kingdom",
-    "title": "Chelsea vs Shamrock Rovers",
-    "pubDate": "Thu, 19 Dec 2024 20:00:00 +0000",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTB_7pGeEPQ1FaIZAYXNR_z1aw4eXVuiHQUVPWazlX8JaWdekunBfGhGd30LTqVg3p4rksXohrw",
-    "news_item_snippet": "as it happened: live blog, updates, highlights, lineups, comments, etc.",
-    "news_item_url": "https://weaintgotnohistory.sbnation.com/2024/12/19/24325190/chelsea-shamrock-rovers-conference-league-live-stream-time-tv-how-watch-online-live-blog-highlights",
-    "picture_source": "Chelsea FC",
-    "approx_traffic": "100,000+"
+    "title": "Carabao Cup",
+    "pubDate": "Thu, 19 Dec 2024 18:00:00 +0000",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSqp9BM8FjUl2HyE5e-iUn07lwPCvkg79grHdizjggvVGYPwkjod5vxc_1VDNxvWIWBlJEUWGNq",
+    "news_item_snippet": "Here&#39;s a reminder of the game-specific rules for tonight&#39;s Carabao Cup quarter-final tie with Manchester United.",
+    "news_item_url": "https://www.tottenhamhotspur.com/news/2024/december/carabao-cup-rules-spurs-vs-man-united/",
+    "picture_source": "Arsenal.com",
+    "approx_traffic": "50,000+"
   }
 ]
