@@ -14,7 +14,7 @@
     "title": "Vikings",
     "pubDate": "Sun, 22 Dec 2024 14:00:00 -0800",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRKtULetSOgpntX_tV0DcnvY9aKl1-vj0p_Mwseff5d1Zui9dmo2QKUSSKvjXZI9Ik-0RVdoDP5",
-    "news_item_snippet": "Running back Zach Charbonnet is also active after popping up on the injury report with an oblique injury that caused him to miss Wednesday&#39;s practice. The only&nbsp;...",
+    "news_item_snippet": "Also active, as expected, is quarterback Geno Smith, who exited last week&#39;s game with a knee injury, but he was able to practice fully this week. Running back&nbsp;...",
     "news_item_url": "https://www.seahawks.com/news/seahawks-vs-vikings-week-16-inactives",
     "picture_source": "Seahawks.com",
     "approx_traffic": "500,000+"
@@ -51,6 +51,36 @@
   },
   {
     "country": "United States",
+    "title": "Buccaneers vs Cowboys",
+    "pubDate": "Sun, 22 Dec 2024 18:00:00 -0800",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRhFeMsOgkFkRGM6GmDUG6ycDSmrlVRfMm7M_EfEPk-RtZ-mP9EgyZwJrkF2Bw3UVBHp-VulLhs",
+    "news_item_snippet": "Dallas secured a touchdown on its second drive, as Cooper Rush found Jalen Tolbert in the back of the end zone for a 10-0 lead. On the aforementioned five-play,&nbsp;...",
+    "news_item_url": "https://www.buccaneers.com/news/bucs-lose-dallas-cowboys-week-16-score-26-24",
+    "picture_source": "USA TODAY",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Falcons",
+    "pubDate": "Sun, 22 Dec 2024 09:00:00 -0800",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcT348k5dTuAEfyfJv32MNAzIenZsLGWZdNluj1Fhf3ndcNPhO6bMt4uULcL99MDCx6Vudgci6Wq",
+    "news_item_snippet": "ATLANTA \u2013 Notes and statistics from the Giants&#39; 34-7 loss to the Atlanta Falcons in Mercedes-Benz Stadium: *It took only 13 games for Malik Nabers to break&nbsp;...",
+    "news_item_url": "https://www.giants.com/news/notes-stats-giants-vs-falcons-recap-malik-nabers-stats-rookie-record",
+    "picture_source": "AtlantaFalcons.com",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "United States",
+    "title": "NFL Playoff Picture",
+    "pubDate": "Sun, 22 Dec 2024 07:00:00 -0800",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcT0FuZzvxSjaNyv8jjjo-BbicRCankippiS8oRJNdgCbY2tIGqzBAOoMmTMFwDQsHIBjxnzWO6U",
+    "news_item_snippet": "The Los Angeles Rams lead the Seattle Seahawks by a game in the NFC West and are on the verge of wrapping up the division. The Detroit Lions and Minnesota&nbsp;...",
+    "news_item_url": "https://www.cbssports.com/nfl/news/2024-nfl-playoff-picture-standings-commanders-eliminate-cowboys-lions-vikings-tied-atop-nfc-north/",
+    "picture_source": "USA TODAY",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "United States",
     "title": "Real Madrid",
     "pubDate": "Sun, 22 Dec 2024 07:00:00 -0800",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcS5ISlFKHAclXSh19suPyGShh2iF6VeXSnuWSjGmgTtjbHX921Vgz5a97qtGkoxL9ekElg9mEHM",
@@ -61,22 +91,12 @@
   },
   {
     "country": "United States",
-    "title": "NFL playoff picture",
-    "pubDate": "Sun, 22 Dec 2024 07:00:00 -0800",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcT0FuZzvxSjaNyv8jjjo-BbicRCankippiS8oRJNdgCbY2tIGqzBAOoMmTMFwDQsHIBjxnzWO6U",
-    "news_item_snippet": "With just two weeks to go, the AFC postseason field is coming into focus, while the fight for the No. 1 seed in the NFC is heating up.",
-    "news_item_url": "https://www.si.com/nfl/2024-nfl-playoff-picture-week-16-ravens-clinch-spot-eagles-falter",
-    "picture_source": "USA TODAY",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Buccaneers vs Cowboys",
-    "pubDate": "Sun, 22 Dec 2024 18:00:00 -0800",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSH4tI3eJZrAiBCKXEDHggH1JKso7b2Cv0XCLl17NusrdxQKnWyhkYD0WFpl83wQxXyEvg3ce6L",
-    "news_item_snippet": "Mayfield let it rip, hitting Evans in stride. Bucky Irving picked up gains of 15 and eight yards on the scoring drive with shifty moves post-cut to bring Tampa&nbsp;...",
-    "news_item_url": "https://www.buccaneers.com/news/bucs-lose-dallas-cowboys-week-16-score-26-24",
-    "picture_source": "USA TODAY",
+    "title": "Raiders",
+    "pubDate": "Sun, 22 Dec 2024 14:00:00 -0800",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcS7304izlY8JMzryr6XvLTgBYbiCz3hVSm0pL_r5bb5d6tph3zhQfB1p_1-mFOlX2Yvl34NKdC8",
+    "news_item_snippet": "The Raiders rallied back from a 7-0 deficit to take a 13-7 lead, the team&#39;s third halftime lead of the season and first since Week 12.",
+    "news_item_url": "https://www.raiders.com/news/halftime-report-raiders-score-13-straight-points-lead-jacksonville-jaguars-at-half-nfl-week-16-122224",
+    "picture_source": "jaguars.com",
     "approx_traffic": "200,000+"
   },
   {
@@ -91,19 +111,9 @@
   },
   {
     "country": "United States",
-    "title": "Raiders",
-    "pubDate": "Sun, 22 Dec 2024 14:00:00 -0800",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQda3WfvVuwMVqN8teGHr0riMSKQzGBX8BBBGXxGKHCymR4KAz7fePYS3Gi2J9KphblDxh1wjoj",
-    "news_item_snippet": "Jacksonville Jaguars Game Day: The official source of the latest Jaguars content and information surrounding the 2024 regular season week 16 matchup against&nbsp;...",
-    "news_item_url": "https://www.jaguars.com/game-day/2024/reg-week16/jaguars-at-raiders/live-blog",
-    "picture_source": "Raiders.com",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "United States",
     "title": "Liverpool",
     "pubDate": "Sun, 22 Dec 2024 10:00:00 -0800",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSNYk5yiIg7MlLdnuDlbDGzZLPNM-gSWnrYFVVukzawtR-H0LerUhJx8kDw1bm_URxuKBZLaXrN",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSLW-tTk4G-9I3ywQI4Ia4bnuUJY_uU_MauebZV3UhtICbM9J5-Mt0uiyoIKCBjiYAafRGlKnNJ",
     "news_item_snippet": "We can confirm the starting line-ups and substitutes for today&#39;s Premier League meeting with Liverpool (kick-off 4.30pm UK).",
     "news_item_url": "https://www.tottenhamhotspur.com/news/2024/december/confirmed-line-ups-spurs-vs-liverpool/",
     "picture_source": "ESPN",
@@ -117,7 +127,7 @@
     "news_item_snippet": "Two US Navy pilots ejected safely after their fighter jet was shot down over the Red Sea on Saturday in an apparent friendly fire incident, US Central&nbsp;...",
     "news_item_url": "https://www.cnn.com/2024/12/21/politics/us-fighter-jet-shot-down-red-sea/index.html",
     "picture_source": "OPB News",
-    "approx_traffic": "100,000+"
+    "approx_traffic": "200,000+"
   },
   {
     "country": "United States",
@@ -141,26 +151,6 @@
   },
   {
     "country": "United States",
-    "title": "Falcons",
-    "pubDate": "Sun, 22 Dec 2024 09:00:00 -0800",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcT348k5dTuAEfyfJv32MNAzIenZsLGWZdNluj1Fhf3ndcNPhO6bMt4uULcL99MDCx6Vudgci6Wq",
-    "news_item_snippet": "The Giants spent the week &quot;catching up&quot; on their film study of Falcons quarterback Michael Penix Jr., the rookie eighth overall pick who was announced as the&nbsp;...",
-    "news_item_url": "https://www.giants.com/news/instant-analysis-giants-fall-to-falcons-34-7",
-    "picture_source": "AtlantaFalcons.com",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "United States",
-    "title": "LAUREL",
-    "pubDate": "Sun, 22 Dec 2024 05:00:00 -0800",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRuioIgABTVcY72YbS5Bc0K2UjQ72wHOFs9AHo7EIrhI3983aveh_0WuRL66ul-I_es9kyXdTnP",
-    "news_item_snippet": "The building was&nbsp;...",
-    "news_item_url": "https://www.wdam.com/2024/12/23/laurel-little-theatre-fundraiser-underway-renovations/",
-    "picture_source": "WDAM",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "United States",
     "title": "Browns vs Bengals",
     "pubDate": "Sun, 22 Dec 2024 11:00:00 -0800",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRQ_dzHWfHv6RjHxblMAl7Qst7qprua1dZ0nZMDCUlnM5XYafdwD1BuRwDWQ30ZCj57JSw-ApSq",
@@ -174,8 +164,8 @@
     "title": "Penn State volleyball",
     "pubDate": "Sun, 22 Dec 2024 14:00:00 -0800",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSfAIDnGQ-TPa2jJXjEVjIcjG1Ea4hr5XP-le50QKLBlC-u8iiGr0C5IvLqQ1OjgNf4AB9ufvNT",
-    "news_item_snippet": "The 2024 NCAA DI women&#39;s volleyball championship finals are Dec. 22 at the KFC Yum! Center in Louisville, Kentucky. Get tournament information right here,&nbsp;...",
-    "news_item_url": "https://www.ncaa.com/news/volleyball-women/article/2024-12-19/penn-state-womens-volleyball-wins-2024-ncaa-di-womens-volleyball-championship",
+    "news_item_snippet": "This victory also made history: In a championship match featuring two female head coaches for the first time, Katie Schumacher-Cawley became the first woman to&nbsp;...",
+    "news_item_url": "https://www.ncaa.com/live-updates/volleyball-women/d1/penn-state-beats-louisville-wins-8th-ncaa-volleyball-title-program-history",
     "picture_source": "ESPN",
     "approx_traffic": "50,000+"
   },
@@ -183,10 +173,10 @@
     "country": "United States",
     "title": "Giants vs Falcons",
     "pubDate": "Sun, 22 Dec 2024 11:00:00 -0800",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcT348k5dTuAEfyfJv32MNAzIenZsLGWZdNluj1Fhf3ndcNPhO6bMt4uULcL99MDCx6Vudgci6Wq",
-    "news_item_snippet": "The Giants spent the week &quot;catching up&quot; on their film study of Falcons quarterback Michael Penix Jr., the rookie eighth overall pick who was announced as the&nbsp;...",
-    "news_item_url": "https://www.giants.com/news/instant-analysis-giants-fall-to-falcons-34-7",
-    "picture_source": "AtlantaFalcons.com",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRAAN20LRN5YYpKtNruMHFs2YY4IswGyKrJWI1FznZg88e8CVim8O0eO66aUe5DPcs_BTcrKkbn",
+    "news_item_snippet": "ATLANTA \u2014 For the first time this season, the Atlanta Falcons truly put a game away, defeating the New York Giants inside Mercedes-Benz Stadium to rise above .",
+    "news_item_url": "https://www.atlantafalcons.com/news/new-york-giants-game-breakdown-week-16",
+    "picture_source": "Giants.com",
     "approx_traffic": "50,000+"
   },
   {
@@ -194,26 +184,36 @@
     "title": "Kennedy Center Honors 2024",
     "pubDate": "Sun, 22 Dec 2024 18:00:00 -0800",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQAGVVmMkD_4EMTzUlhrgfz6YgLCPlIlNeLcPnJJgVi0wh1MKWQvPb-liyKlgjcoprxts3jbpAp",
-    "news_item_snippet": "The taping of the 47th annual Kennedy Center Honors will premiere on Sunday. You can watch it on TV or online.",
-    "news_item_url": "https://www.businessinsider.com/guides/streaming/how-to-watch-the-kennedy-center-honors-2024",
+    "news_item_snippet": "Whether in music, dance, theater, opera, motion pictures or television, each Kennedy Center Honoree has a unique place in the national consciousness and their&nbsp;...",
+    "news_item_url": "https://www.thewrap.com/how-to-watch-kennedy-center-honors-2024/",
     "picture_source": "WWD",
     "approx_traffic": "50,000+"
   },
   {
+    "country": "United States",
+    "title": "Jayden Daniels",
+    "pubDate": "Sun, 22 Dec 2024 14:00:00 -0800",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSAQaXV5SgfURgvAy0DKr6JnbKFhWLCEKM28PK3pvGW02xALrgo3ivJyhyrLHKF9wOXE5cR23PL",
+    "news_item_snippet": "Washington Commanders sensational QB Jayden Daniels added to his Rookie of the Year-resume on Sunday, leading his team to a wild last-second win over the&nbsp;...",
+    "news_item_url": "https://www.nfl.com/news/dan-quinn-after-jayden-daniels-rallies-commanders-to-win-over-eagles-today-he-became-a-heavy-hitter",
+    "picture_source": "WKRG News 5",
+    "approx_traffic": "50,000+"
+  },
+  {
     "country": "India",
-    "title": "Pakistan vs South Africa",
-    "pubDate": "Sun, 22 Dec 2024 18:30:00 +0530",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSBl8brt4LJpiVkDB0rWgCIzSID4y0Or9YI41uwiOVDhxDfwoM2CrPgJatnO_TlbS6adgpBzZcH",
-    "news_item_snippet": "South Africa vs Pakistan 3rd ODI Highlights: Pakistan&#39;s all-round show earned them a historic 3-0 sweep against South Africa.",
-    "news_item_url": "https://sports.ndtv.com/cricket/south-africa-vs-pakistan-3rd-odi-live-score-updates-sa-vs-pak-live-7307147",
-    "picture_source": "ESPNcricinfo.com",
-    "approx_traffic": "1,000,000+"
+    "title": "Real Madrid",
+    "pubDate": "Mon, 23 Dec 2024 07:30:00 +0530",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcS5ISlFKHAclXSh19suPyGShh2iF6VeXSnuWSjGmgTtjbHX921Vgz5a97qtGkoxL9ekElg9mEHM",
+    "news_item_snippet": "Kylian Mbapp\u00e9 scored the opener and set up another goal as Real Madrid beat Sevilla 4-2, while Atalanta went top of Serie A by beating Empoli 3-2.",
+    "news_item_url": "https://www.theguardian.com/football/2024/dec/22/european-football-mbappe-real-madrid-dybala-roma",
+    "picture_source": "Real Madrid",
+    "approx_traffic": "50,000+"
   },
   {
     "country": "India",
     "title": "India women vs West Indies women",
     "pubDate": "Sun, 22 Dec 2024 14:30:00 +0530",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTvN6NkSD5w4JfwuUuvWxMM7h_N5Rvub_2Rat9lbizw5wmTlVOjVppF3UaKdqkJTHXaSagkD1hz",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQzK88zTqosYWxwHr-7V3ZreRIiRNQago-5310rWoMBa4gCaRapYFoFLYE_iulKDq5rJ9Jz4Jhy",
     "news_item_snippet": "India 314 for 9 (Mandhana 91, Harleen 44, James 5-45) beat West Indies 103 (Fletcher 24, Renuka 5-29) by 211 runs. After a T20I series that went to the&nbsp;...",
     "news_item_url": "https://www.espncricinfo.com/series/west-indies-women-in-india-2024-25-1459886/india-women-vs-west-indies-women-1st-odi-1459894/match-report",
     "picture_source": "The Hindu",
@@ -221,12 +221,12 @@
   },
   {
     "country": "India",
-    "title": "Real Madrid vs Sevilla",
-    "pubDate": "Sun, 22 Dec 2024 20:30:00 +0530",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcR6tL2e9M585IbKHshZUh4DZmVFid0nRD-yeZ63I56oRtmQ-g2ZSPoNxxi0aCBAA3rnDSLsxzPl",
-    "news_item_snippet": "Here are the live streaming and live telecast details of Real Madrid vs Sevilla, La Liga match -",
-    "news_item_url": "https://sports.ndtv.com/football/real-madrid-vs-sevilla-live-streaming-la-liga-2024-25-live-telecast-when-and-where-to-watch-7308083",
-    "picture_source": "Forbes",
+    "title": "South Africa vs Pakistan",
+    "pubDate": "Sun, 22 Dec 2024 21:30:00 +0530",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSBl8brt4LJpiVkDB0rWgCIzSID4y0Or9YI41uwiOVDhxDfwoM2CrPgJatnO_TlbS6adgpBzZcH",
+    "news_item_snippet": "South Africa vs Pakistan 3rd ODI Highlights: Pakistan&#39;s all-round show earned them a historic 3-0 sweep against South Africa.",
+    "news_item_url": "https://sports.ndtv.com/cricket/south-africa-vs-pakistan-3rd-odi-live-score-updates-sa-vs-pak-live-7307147",
+    "picture_source": "ESPNcricinfo.com",
     "approx_traffic": "200,000+"
   },
   {
@@ -237,36 +237,6 @@
     "news_item_snippet": "Hansi Flick&#39;s team will have a short break over the festive period before returning to action for the open door training session at the Estadi Johan Cruyff.",
     "news_item_url": "https://www.fcbarcelona.com/en/news/4189660/barca-to-return-to-training-on-29-december",
     "picture_source": "FC Barcelona",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "India",
-    "title": "Rohan Mirchandani Epigamia",
-    "pubDate": "Sun, 22 Dec 2024 17:30:00 +0530",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcScHossmk5Im8GPNdHOzBgPZSMUorZm57MVDuwngaCFlfQCiJIuzlYnIF8hHHczcpriAw0xHye0",
-    "news_item_snippet": "India Business News: Rohan Mirchandani, the 42-year-old co-founder of Epigamia, passed away from a sudden cardiac arrest. He established the company in 2013&nbsp;...",
-    "news_item_url": "https://timesofindia.indiatimes.com/business/india-business/epigamia-co-founder-rohan-mirchandani-dies-at-42/articleshow/116575279.cms",
-    "picture_source": "The Indian Express",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "India",
-    "title": "Pushpa movie box office collection",
-    "pubDate": "Sat, 21 Dec 2024 19:30:00 +0530",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQjWdpB61egySoN1RNpnEhOI4zrvwpThrHVBpa41m_J6hXa7eVW0xbTUtEo_KqGt6Xrh_0Yf8ZG",
-    "news_item_snippet": "The box office run of the latest Allu Arjun movie is unfazed by the release of the musical drama Mufasa: The Lion King. Allu Arjun-led commercial actioner&nbsp;...",
-    "news_item_url": "https://www.businesstoday.in/trending/box-office/story/pushpa-2-the-rule-box-office-collection-day-18-allu-arjuns-film-unfazed-by-mufasa-the-lion-king-eyes-rs1100-crore-in-india-458214-2024-12-23",
-    "picture_source": "Livemint",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "India",
-    "title": "Om Prakash Chautala",
-    "pubDate": "Fri, 20 Dec 2024 13:30:00 +0530",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcT_aOMCm65rGjv3uxGg9NVzCtowWfOqh_J8RfvTMZtURjWVO07guGAJuN6x956OckMwFf1JwlcC",
-    "news_item_snippet": "Om Prakash Chautala Funeral News Live Update: \u092a\u0942\u0930\u094d\u0935 \u0938\u0940\u090f\u092e \u0913\u092e \u092a\u094d\u0930\u0915\u093e\u0936 \u091a\u094c\u091f\u093e\u0932\u093e \u0915\u093e \u091c\u0928\u094d\u092e 1 \u091c\u0928\u0935\u0930\u0940 1935 \u0915\u094b \u0939\u0930\u093f\u092f\u093e\u0923\u093e \u0915\u0947 \u0938\u093f\u0930\u0938\u093e \u0915\u0947 \u0921\u092c\u0935\u093e\u0932\u0940 \u0915\u0947 \u091a\u094c\u091f\u093e\u0932\u093e \u0917\u093e\u0901\u0935&nbsp;...",
-    "news_item_url": "https://hindi.news18.com/news/haryana/chandigarh-city-om-prakash-chautala-death-and-sirsa-funeral-live-updates-school-closed-in-haryana-cm-nayab-singh-saini-to-attend-last-rites-livenews-8909513.html",
-    "picture_source": "\u0926\u0948\u0928\u093f\u0915 \u092d\u093e\u0938\u094d\u0915\u0930",
     "approx_traffic": "50,000+"
   },
   {
@@ -283,9 +253,9 @@
     "country": "Argentina",
     "title": "Tottenham  Liverpool",
     "pubDate": "Sun, 22 Dec 2024 13:00:00 -0300",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRATwjqmRmYKDUHL-ZVfOYZCnQmBrSxh58dQfx04DyGd6nfXMKhNhq-WfhHAykeDGpwuBvxEiqa",
-    "news_item_snippet": "El volante argentino aprovech\u00f3 un rebote dentro del \u00e1rea y tuvo su aparici\u00f3n goleadora para colocar el 2-0 con una buena definici\u00f3n de cabeza. Puso la bola en&nbsp;...",
-    "news_item_url": "https://www.espn.com.ar/futbol/inglaterra/nota/_/id/14595914/alexis-mac-allister-video-gol-cabeza-liverpool-tottenham-premier",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRsR04Zmfc4jLzdZ8i1-CfuxKLjj96v5w9Eb0oNEVrDvxNUbpqyMgtbEI61BWaakUESJAnj-2EO",
+    "news_item_snippet": "El colombiano se encarg\u00f3 de adelantar a los Reds fuera de casa.",
+    "news_item_url": "https://www.espn.com.co/futbol/inglaterra/nota/_/id/14595816/luis-diaz-video-gol-cabeza-tottenham-vs-liverpool",
     "picture_source": "ESPN",
     "approx_traffic": "50,000+"
   },
@@ -307,7 +277,7 @@
     "news_item_snippet": "Barcelona ganaba gracias al gol de Pedri en la primera mitad y amenazaba con convertir el segundo en Montjuic. Sin embargo, De Paul cambi\u00f3 los planes del equipo&nbsp;...",
     "news_item_url": "https://www.espn.com.ar/futbol/espana/nota/_/id/14592769/rodrigo-de-paul-video-golazo-atletico-madrid-vs-barcelona",
     "picture_source": "Infobae.com",
-    "approx_traffic": "200,000+"
+    "approx_traffic": "100,000+"
   },
   {
     "country": "Australia",
@@ -433,30 +403,40 @@
     "country": "France",
     "title": "OM",
     "pubDate": "Sun, 22 Dec 2024 15:00:00 +0100",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQPBhOZgMo5uJyHZE0YmhcWpQfRdYvE94J58s1L-YMggXIf0_I2QhuKhTxk0MSp2i9oZ252NrhJ",
-    "news_item_snippet": "C&#39;\u00e9tait l&#39;un des chocs de ces 32es de finale, l&#39;affrontement entre l&#39;AS Saint-\u00c9tienne et l&#39;OM a tr\u00e8s logiquement tourn\u00e9 en faveur des Marseillais,&nbsp;...",
-    "news_item_url": "https://www.ouest-france.fr/sport/football/coupe-de-france/direct/direct-saint-etienne-marseille-suivez-le-choc-des-32es-de-finale-de-coupe-de-france-en-live-9e4b4a5f-f139-4399-880c-2ac9851d3930",
-    "picture_source": "L'\u00c9quipe.fr",
-    "approx_traffic": "100,000+"
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQ7MeILJRPqm343WLYXwwq21HMQ4xaS1DKaxNTG1uh_Tqq9ygjl2wELyK1ffMwI74ktASoAdJbp",
+    "news_item_snippet": "Apr\u00e8s avoir \u00e9limin\u00e9 le FC Rouen 1899, vendredi soir, en 32\u00e8mes de finale de Coupe de France, le LOSC attendait ce dimanche pour conna\u00eetre son adversaire en&nbsp;...",
+    "news_item_url": "https://www.losc.fr/actualites/2024-12-22/coupe-de-france-une-affiche-om-losc-en-janvier",
+    "picture_source": "Ouest-France",
+    "approx_traffic": "50,000+"
   },
   {
     "country": "France",
     "title": "Star academy",
     "pubDate": "Sun, 22 Dec 2024 11:00:00 +0100",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQMXWjPUDiYMGK3j2sQO7uROCtyCCOWRjAX12WEQhbq1FnxxaGITC4AXPxfKfTSC5q1ptrJNYkr",
-    "news_item_snippet": "[VID\u00c9O] Exclu \u25b6\ufe0f 5m00s - De retour d&#39;un prime exceptionnel, les acad\u00e9miciens d\u00e9couvrent dans leur case du calendrier de l&#39;Avent quelque chose d&#39;original&nbsp;...",
-    "news_item_url": "https://www.tf1.fr/tf1/star-academy/videos/star-academy-2024-degustation-sauce-piquante-ca-va-chauffer-91056956.html",
+    "news_item_snippet": "Lucie Bernardoni, r\u00e9p\u00e9titrice de la Star Academy sur TF1, s&#39;est confi\u00e9e \u00e0 Gala sur les f\u00eates de fin d&#39;ann\u00e9e. L&#39;occasion pour elle de d\u00e9voiler ses d\u00e9penses&nbsp;...",
+    "news_item_url": "https://www.programme.tv/news/actu/238087-la-liste-est-tres-tres-longue-lucie-bernardoni-star-academy-evoque-ses-depenses-de-noel-pour-sa-fille-de-15-ans/",
     "picture_source": "TF1",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "France",
+    "title": "Gouvernement Bayrou",
+    "pubDate": "Sun, 22 Dec 2024 17:00:00 +0100",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSpqAbdHzWeHjoXQWpjqg4JuJjBZU5bXry762Fvfn1YrI9qNh5Am7j5W2V-nFlz1TjAko_RvNTj",
+    "news_item_snippet": "Donn\u00e9e comme probable dimanche soir, la pr\u00e9sentation du gouvernement de Fran\u00e7ois Bayrou a \u00e9t\u00e9 repouss\u00e9e. Une annonce est d\u00e9sormais envisag\u00e9e lundi,&nbsp;...",
+    "news_item_url": "https://www.lefigaro.fr/politique/en-direct-gouvernement-bayrou-les-derniers-reglages-avant-l-annonce-officielle-20241223",
+    "picture_source": "Franceinfo",
     "approx_traffic": "50,000+"
   },
   {
     "country": "France",
     "title": "Maite",
     "pubDate": "Sat, 21 Dec 2024 16:00:00 +0100",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcS_aIbQz7kh5g6EjhS-LtJLalSjzaHELfw-gO_J6HYvpIY4xbF9lR_YWCnkBlD5iNR-r5YnsnFM",
-    "news_item_snippet": "VID\u00c9O - Pionni\u00e8re de la cuisine \u00e0 la t\u00e9l\u00e9vision, la cheffe Ma\u00eft\u00e9 nous a quitt\u00e9s ce samedi... La native du sud-ouest a vu les d\u00e9buts t\u00e9l\u00e9visuels d&#39;un jeune&nbsp;...",
-    "news_item_url": "https://rmc.bfmtv.com/actualites/societe/comment-maite-a-televise-la-cuisine_VN-202412230089.html",
-    "picture_source": "BFMTV.COM",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQeQQVVE3zGnG2VvAt1v3yGTXHZWD6FFTeWOyf9nJXShKl4PveEw0MHrVkSJ6onjo3XkIShzxE1",
+    "news_item_snippet": "De son vrai nom Marie-Th\u00e9r\u00e8se Ordonez, la figure t\u00e9l\u00e9visuelle est morte dans la nuit de vendredi \u00e0 ce samedi 21 d\u00e9cembre \u00e0 l&#39;\u00e2ge de 86 ans.",
+    "news_item_url": "https://www.liberation.fr/lifestyle/gastronomie/mort-de-maite-la-cuisine-rustique-servie-en-plateau-20241221_2CHIIVWNLNFCXJA5R6E7SEWE3A/",
+    "picture_source": "Lib\u00e9ration",
     "approx_traffic": "200,000+"
   },
   {
@@ -471,22 +451,12 @@
   },
   {
     "country": "France",
-    "title": "Barca",
-    "pubDate": "Sat, 21 Dec 2024 21:00:00 +0100",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTC4ulo0XgD6a5ocK_z_8fjTgwxLiOm1SSobLlFEikGn3nMU9sVAF5zyDvhpl_bGOvw7T8pybVU",
-    "news_item_snippet": "Le FC Barcelone a \u00e9t\u00e9 renvers\u00e9 (2-1) par l&#39;Atl\u00e9tico de Madrid ce samedi lors de la 18e journ\u00e9e de Liga. &quot;Touch\u00e9&quot; par cette nouvelle d\u00e9faite, Raphinha veut&nbsp;...",
-    "news_item_url": "https://rmcsport.bfmtv.com/football/liga/barca-atletico-le-gros-mea-culpa-de-raphinha-auteur-de-plusieurs-loupes_AV-202412220117.html",
-    "picture_source": "L'\u00c9quipe.fr",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "France",
-    "title": "Nouveau gouvernement Bayrou ministre",
-    "pubDate": "Sat, 21 Dec 2024 09:00:00 +0100",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSpqAbdHzWeHjoXQWpjqg4JuJjBZU5bXry762Fvfn1YrI9qNh5Am7j5W2V-nFlz1TjAko_RvNTj",
-    "news_item_snippet": "Les tractations se poursuivent autour de la composition du gouvernement de Fran\u00e7ois Bayrou, qui a \u00e9chang\u00e9 \u00e0 plusieurs reprises avec Emmanuel Macron ce dimanche.",
-    "news_item_url": "https://www.tf1info.fr/politique/en-direct-francois-bayrou-premier-ministre-un-nouveau-gouvernement-avant-le-25-decembre-les-informations-aujourd-hui-samedi-21-decembre-2024-2340842.html",
-    "picture_source": "Franceinfo",
+    "title": "Tirage Coupe de France",
+    "pubDate": "Sat, 21 Dec 2024 19:00:00 +0100",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRPvOrOljgvmR_b1wSCHK5DAEhzXFTNo_jiPXpxIFOI3Tm5TQz9tR3LEzZk0XZGCZwZ-nHzYftx",
+    "news_item_snippet": "Avant l&#39;ultime rencontre des 32es de finale de Coupe de France qui oppose le RC Lens au PSG, le tirage au sort des 16es de finale du tournoi s&#39;est d\u00e9roul\u00e9&nbsp;...",
+    "news_item_url": "https://www.francebleu.fr/sports/football/coupe-de-france-le-tirage-des-16eme-de-finale-des-clubs-du-nord-et-du-pas-de-calais-6334820",
+    "picture_source": "Ouest-France",
     "approx_traffic": "50,000+"
   },
   {
@@ -543,7 +513,7 @@
     "country": "Italy",
     "title": "Atalanta-Empoli",
     "pubDate": "Sun, 22 Dec 2024 13:00:00 +0100",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcR4o5YOCHTEYS8wBTG2NrSVv1PW5KEdjpA_TZXU-30Nx2OngvDGbaVJ4s5l-G92hIPz5gzC0XIu",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTfT4mYqGAEJCoZ4SqW---PcfMN3JVJRxPD5XEe6uHg5dKxAGfvFDn4U2dySInShwtK3CX_oQP1",
     "news_item_snippet": "Undicesima vittoria di fila in campionato per l&#39;Atalanta che vivr\u00e0 il Natale al primo posto: De Ketelaere in formato super, l&#39;Empoli cede nel finale.",
     "news_item_url": "https://www.goal.com/it/liste/atalanta-empoli-3-2-risultato-pagelle-voti-tabellino-cronaca-de-ketelaere/blt68bf374bb55607cd",
     "picture_source": "Sky Sport",
@@ -553,20 +523,20 @@
     "country": "Italy",
     "title": "Venezia-Cagliari",
     "pubDate": "Sun, 22 Dec 2024 15:00:00 +0100",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSMbQ388YlJOsfpxXYkWPGzrv_cgepXjoP4DvVpY_-4d1ZrG49mMb2IKSTTPpRCQ9bgkV20LIsv",
-    "news_item_snippet": "Per gli arancioneroverdi tre punti salvezza preziosi grazie alle reti di Zampano al 38&#39; e \u0160verko al 67&#39;. Al 76&#39; Pavoletti accorcia le distanze per i&nbsp;...",
-    "news_item_url": "https://www.rainews.it/video/2024/12/calcio-serie-a-giornata-17-venezia-cagliari-sintesi-partita-highlights-rai-sport-video-6ac846cd-6690-4a80-baf3-4fbabec7fc54.html",
-    "picture_source": "Sky Sport",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRZZTyCkmNFOd6EiMKMPElntT7HCOpBnO6sGUl_SIZmbj-hfH1K4qCqbNnhhNcqFK30E58wcuMH",
+    "news_item_snippet": "Venezia Cagliari su Sky Sport: scopri tutti gli aggiornamenti sulla partita di Serie A in tempo reale.",
+    "news_item_url": "https://sport.sky.it/calcio/serie-a/partite/2024/giornata-17/venezia-cagliari/risultato-gol",
+    "picture_source": "Rai News",
     "approx_traffic": "100,000+"
   },
   {
     "country": "Italy",
     "title": "Real Madrid  Siviglia",
     "pubDate": "Sun, 22 Dec 2024 16:00:00 +0100",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQNE3h09ZWwU3yIyTvwSWw-o2Vf7z2g01shfR9WK2RkVR27ofdevlP7CKi-daEQ4fgt1r2lweiu",
-    "news_item_snippet": "Eurosport \u00e8 la vostra fonte per gli ultimi aggiornamenti sulle partite di La Liga. Ecco cosa \u00e8 successo in Real Madrid - Siviglia, con tutte le statistiche&nbsp;...",
-    "news_item_url": "https://www.eurosport.it/calcio/la-liga/2024-2025/live-real-madrid-siviglia_mtc1524138/live-commentary.shtml",
-    "picture_source": "La Gazzetta dello Sport",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSkVqGbrKc-p7HZi5iOYJdvb6IV2wpay9CCbnh1yaIT95frqWjHVRa5znLIKMWpfCgMq2jQeBjk",
+    "news_item_snippet": "La squadra di Ancelotti vince al Bernabeu: a segno Brahim Diaz e Mbapp\u00e9. E il 3 gennaio c&#39;\u00e8 il recupero contro il Valencia...",
+    "news_item_url": "https://www.gazzetta.it/Calcio/Liga/22-12-2024/real-madrid-siviglia-4-2-ancelotti-primo-in-classifica-in-liga.shtml",
+    "picture_source": "Eurosport.it",
     "approx_traffic": "50,000+"
   },
   {
@@ -597,6 +567,16 @@
     "news_item_snippet": "Con dos goles y dos asistencias, el egipcio Mohamed Salah lider\u00f3 la goleada del Liverpool por 6-3 este domingo, en la visita al Tottenham que cerr\u00f3 la 17\u00aa&nbsp;...",
     "news_item_url": "https://www.excelsior.com.mx/adrenalina/liverpool-golea-al-tottenham-y-es-mas-lider-que-nunca/1690946",
     "picture_source": "MARCA.com",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Mexico",
+    "title": "Atl\u00e9tico Nacional  Tolima",
+    "pubDate": "Sun, 22 Dec 2024 17:00:00 -0600",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSyyj4GBY2OSYgaqW7CUbq3IcK8PvRubHeskmyd60UXdr8ycQX0gdhabilgt0FN87Jhi9YoGNIW",
+    "news_item_snippet": "Atl\u00e9tico Nacional se coron\u00f3 campe\u00f3n de la Liga Betplay 2024/II, tras vencer a Deportes Tolima 2-0 en el partido de vuelta disputado en el estadio Atanasio&nbsp;...",
+    "news_item_url": "https://www.infobae.com/colombia/deportes/2024/12/23/yeison-guzman-y-el-juego-de-tolima-los-principales-blancos-de-los-memes-tras-el-titulo-de-atletico-nacional/",
+    "picture_source": "Estadio Deportes",
     "approx_traffic": "50,000+"
   },
   {
@@ -633,10 +613,10 @@
     "country": "Spain",
     "title": "Betis  Rayo Vallecano",
     "pubDate": "Sun, 22 Dec 2024 21:00:00 +0100",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTmT98gAHlvTbY5LqfltJx_rXGcM6Ybzok0ar9OA7xZ26DjqWFEu46ANzLb5MwDriiIVLAplXZ6",
-    "news_item_snippet": "Real Betis: Fran Vieites, Sabaly (Aitor Ruibal 75&#39;), Diego Llorente, Bartra, Perraud, Johnny, Altimira (Fornals 66&#39;), Isco (Assane 66&#39;), Lo Celso, Abde (Juanmi&nbsp;...",
-    "news_item_url": "https://www.realbetisbalompie.es/noticias/actualidad/empate-contra-el-rayo-vallecano-1-1-30886",
-    "picture_source": "AS",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQ0DDjuABqDYFv6W7iAzZSOjin2N_drU6w7EdxK7dy_NIYoAGmqWp0VJU1Ts20RQHDgzWUn9I_-",
+    "news_item_snippet": "Isco volvi\u00f3 a sonre\u00edr, marcando de penalti y siendo titular siete meses despu\u00e9s. Isi empat\u00f3 con un latigazo tras el descanso. \u00c1lvaro se lesion\u00f3.",
+    "news_item_url": "https://as.com/futbol/primera/betis-rayo-en-directo-laliga-ea-sports-hoy-en-vivo-n/",
+    "picture_source": "CanalSurWeb",
     "approx_traffic": "50,000+"
   },
   {
@@ -687,15 +667,15 @@
     "news_item_snippet": "Eager to watch the Tyson Fury fight? Here are the best streams, the cheapest prices and how to watch all 12 rounds live online as The Gypsy King faces his&nbsp;...",
     "news_item_url": "https://www.techradar.com/live/news/usyk-vs-fury-2-live",
     "picture_source": "BBC News",
-    "approx_traffic": "200,000+"
+    "approx_traffic": "100,000+"
   },
   {
     "country": "United Kingdom",
     "title": "Man United vs Bournemouth",
     "pubDate": "Sun, 22 Dec 2024 14:00:00 +0000",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTqF84d7SmJjVMqjdisEIJHsVi4PC3vgiY1d1mrZZSb27kfETfQax88CfOu5qGp1xZB1xeysgCv",
-    "news_item_snippet": "Get the latest Football updates on Eurosport. Catch Manchester United - Bournemouth live on 22/12/2024. Find scores, stats and comments in real time.",
-    "news_item_url": "https://www.eurosport.com/football/premier-league/2024-2025/live-manchester-united-bournemouth_mtc1523828/live-commentary.shtml",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQgRFcOvHD1t1gmXLvUVadH2VhsxJTeXdy_X0dNfVgTtS-8neGnAsbAtJvMGTBlq4jQe7Ztfmkn",
+    "news_item_snippet": "For the second season in a row, Bournemouth secured a 3-0 win at Old Trafford. Re-live the action with the best facts and Opta data in our Man Utd vs&nbsp;...",
+    "news_item_url": "https://theanalyst.com/2024/12/man-utd-vs-bournemouth-stats",
     "picture_source": "Manchester United",
     "approx_traffic": "100,000+"
   },
@@ -721,22 +701,22 @@
   },
   {
     "country": "United Kingdom",
-    "title": "Leicester City vs Wolves",
-    "pubDate": "Sun, 22 Dec 2024 14:00:00 +0000",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcS9Mh1-6CrpmCDtxp5TI552hK1eTT55lR-Nbi13ftLzDPdkdZRi4Ayn_fLtOE057val2RlZrScH",
-    "news_item_snippet": "How we scored the players as a desperately poor first half with defensive and goalkeeper errors saw City lose to relegation rivals Wolves at the King Power&nbsp;...",
-    "news_item_url": "https://www.leicestermercury.co.uk/sport/football/match-reports/leicester-city-player-ratings-v-9812840",
-    "picture_source": "wolves.co.uk",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United Kingdom",
     "title": "Don Gilet",
     "pubDate": "Sun, 22 Dec 2024 21:00:00 +0000",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTe19XIPKYfQf4S79MK3xx5R1RTSc8XeIYFqqIt9MQD_PHoh8o2ajsUC3fehJPnuH-xEYomySxw",
     "news_item_snippet": "Don Gilet&#39;s Death in Paradise character struggled to &#39;warm to&#39; the island - and some viewers haven&#39;t warmed to him, either, after catching this evening&#39;s&nbsp;...",
     "news_item_url": "https://www.express.co.uk/showbiz/tv-radio/1992042/Death-in-Paradise-Mervin-Wilson-Don-Gilet-Ralf-Little",
     "picture_source": "The Independent",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United Kingdom",
+    "title": "Leicester City vs Wolves",
+    "pubDate": "Sun, 22 Dec 2024 14:00:00 +0000",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcS9Mh1-6CrpmCDtxp5TI552hK1eTT55lR-Nbi13ftLzDPdkdZRi4Ayn_fLtOE057val2RlZrScH",
+    "news_item_snippet": "How we scored the players as a desperately poor first half with defensive and goalkeeper errors saw City lose to relegation rivals Wolves at the King Power&nbsp;...",
+    "news_item_url": "https://www.leicestermercury.co.uk/sport/football/match-reports/leicester-city-player-ratings-v-9812840",
+    "picture_source": "wolves.co.uk",
     "approx_traffic": "50,000+"
   },
   {
