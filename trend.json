@@ -1,6 +1,26 @@
 [
   {
     "country": "United States",
+    "title": "Cowboys",
+    "pubDate": "Mon, 23 Dec 2024 12:00:00 -0800",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTOWuoA7mGFQ__0LTInjYQTopmczugyZN0Ud2UmpyPJSWSZTRPub94fkufMOOAnTdeN-ZZ-IcUT",
+    "news_item_snippet": "The Cowboys Week 17 matchup against the Philadelphia Eagles has been flexed to the Noon kickoff slot.",
+    "news_item_url": "https://www.dallascowboys.com/news/cowboys-eagles-flexed-to-noon-kickoff-for-week-17",
+    "picture_source": "PhiladelphiaEagles.com",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Dallas Cowboys",
+    "pubDate": "Mon, 23 Dec 2024 13:00:00 -0800",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRvCEhXSMQ1BeusFKaLd3PRMTo7WnNdnd33HndZmWa8jU2iMddv2K9K_-UWHK8OLc5JJKIz-Kdw",
+    "news_item_snippet": "Let&#39;s rank the top five moments from primetime games in 2024 that fans will reminisce for years to come.",
+    "news_item_url": "https://www.dallascowboys.com/news/high-5-five-primetime-moments-to-remember-from-2024",
+    "picture_source": "DallasCowboys.com",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "United States",
     "title": "Matt Gaetz",
     "pubDate": "Mon, 23 Dec 2024 06:00:00 -0800",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSwqntwy1xb0qwLllY9y0tWxxXAm0QqYPvEMt2NLR3VzA7ABKoTT-_XOBuO_jfqcN4P3FuF2WF5",
@@ -8,16 +28,6 @@
     "news_item_url": "https://www.nbcnews.com/politics/congress/matt-gaetz-report-house-ethics-committee-sexual-allegations-rcna184702",
     "picture_source": "NPR",
     "approx_traffic": "100,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Merry Christmas!",
-    "pubDate": "Mon, 23 Dec 2024 09:00:00 -0800",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSHEDSFcvixMbww6e3UVP2jW1oyPS5nM_qSknBPk2Ab-ADRfvq1tDNxXBSo-mWePH-63C_T5A71",
-    "news_item_snippet": "The start of the year brought the world premiere of the all-new electric Macan \u2013 the second fully electric Porsche model, alongside the Taycan. With the new&nbsp;...",
-    "news_item_url": "https://newsroom.porsche.com/en/2024/company/porsche-merry-christmas-2024-38166.html",
-    "picture_source": "Porsche Newsroom",
-    "approx_traffic": "50,000+"
   },
   {
     "country": "United States",
@@ -31,23 +41,13 @@
   },
   {
     "country": "United States",
-    "title": "Buccaneers vs Cowboys",
-    "pubDate": "Sun, 22 Dec 2024 18:00:00 -0800",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRwV3FeBMOWvH06ZxQBPMkzG3EQxXOWVE4Hj_X1ZQF6ruObgxDhtSx_pzSrqOfQW5CLyqmhUwFY",
-    "news_item_snippet": "Dallas wide receiver CeeDee Lamb finished the game with seven receptions and 105 yards. Quarterback Cooper Rush found rhythm early and threw 26-for-35 with 292&nbsp;...",
-    "news_item_url": "https://www.statesman.com/story/sports/nfl/2024/12/22/cowboys-buccaneers-live-score-updates-highlights-tv-channel/77103000007/",
-    "picture_source": "Buccaneers.com",
-    "approx_traffic": "500,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Eagles",
-    "pubDate": "Sun, 22 Dec 2024 13:00:00 -0800",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQYYEOwoKZpiCbPIBNk62zsYen8HBX-Ob87lUohNC1IetSLypCfgA4CzI81gA9ODoWfm6Bpo_XB",
-    "news_item_snippet": "There are plenty of reasons why the Washington Commanders could have lost their penultimate home game of the season against the Philadelphia Eagles.",
-    "news_item_url": "https://www.commanders.com/news/instant-analysis-commanders-overcome-5-tos-to-upset-eagles-36-33",
-    "picture_source": "PhiladelphiaEagles.com",
-    "approx_traffic": "500,000+"
+    "title": "NFL Draft order",
+    "pubDate": "Mon, 23 Dec 2024 08:00:00 -0800",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRCL6pqf11s-SdlyYlV5K898fSe3wtRQNnYrySFdqQehIOiDvk4_RRXkJSIoesezW-87YZXEs9H",
+    "news_item_snippet": "The projected draft order after Week 16, incorporating each team&#39;s ranks in EPA per play and EPA allowed per play to give a full picture of the current&nbsp;...",
+    "news_item_url": "https://www.pff.com/news/draft-2025-nfl-draft-order-where-the-leagues-32-teams-stand-after-week-16",
+    "picture_source": "Milwaukee Journal Sentinel",
+    "approx_traffic": "50,000+"
   },
   {
     "country": "United States",
@@ -71,12 +71,22 @@
   },
   {
     "country": "United States",
+    "title": "Buccaneers vs Cowboys",
+    "pubDate": "Sun, 22 Dec 2024 18:00:00 -0800",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRwV3FeBMOWvH06ZxQBPMkzG3EQxXOWVE4Hj_X1ZQF6ruObgxDhtSx_pzSrqOfQW5CLyqmhUwFY",
+    "news_item_snippet": "Dallas wide receiver CeeDee Lamb finished the game with seven receptions and 105 yards. Quarterback Cooper Rush found rhythm early and threw 26-for-35 with 292&nbsp;...",
+    "news_item_url": "https://www.statesman.com/story/sports/nfl/2024/12/22/cowboys-buccaneers-live-score-updates-highlights-tv-channel/77103000007/",
+    "picture_source": "Buccaneers.com",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "United States",
     "title": "Falcons",
     "pubDate": "Sun, 22 Dec 2024 09:00:00 -0800",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcS9VDOpZpdF0BfH22P2NpfLwwiei21nPozXxyCZqLAqS1R7YJv38tPb5YGzOmwesjFjMnf3yr4Y",
-    "news_item_snippet": "Penix was as advertised, and it&#39;s the reason Raheem Morris expressed gratitude after the Falcons defeated the Giants 34-7 at home Sunday.",
-    "news_item_url": "https://www.atlantafalcons.com/news/column-falcons-can-breathe-a-sigh-of-relief-with-michael-penix-jr-at-quarterback-for-now",
-    "picture_source": "FOX 5 Atlanta",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSCWqtj77EmLUGhkY1FmVyNUodRGWIQJzXSNO5yXCMmla1V-a73-tHWlM6Vrf0bsY9c9E2VZ28B",
+    "news_item_snippet": "Michael Penix Jr. felt a brief bit of apprehension as he ran down the tunnel, which was to be expected. Then, he played like a veteran for the Atlanta&nbsp;...",
+    "news_item_url": "https://www.fox5atlanta.com/sports/atlanta-falcons-ny-giants-michael-penix-jr",
+    "picture_source": "AtlantaFalcons.com",
     "approx_traffic": "200,000+"
   },
   {
@@ -84,8 +94,8 @@
     "title": "Lions vs Bears",
     "pubDate": "Sun, 22 Dec 2024 11:00:00 -0800",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSUk5usUilia73ZCP8XgTvXxwwFT4YCG3P5017-W-Qj_bdJ5W2EJ9QmyiA4DwBsVcCGF4V9b_o-",
-    "news_item_snippet": "The Lions defeated the Bears 34-17 Sunday at Soldier Field. Here&#39;s what transpired in the game.",
-    "news_item_url": "https://www.chicagobears.com/news/rapid-recap-bears-fall-to-lions-at-soldier-field-2024-week-16",
+    "news_item_snippet": "Detroit Lions linebacker Jack Campbell (46) tackles Chicago Bears wide receiver Keenan Allen (13) during the second half at Soldier Field in Chicago, Ill. on&nbsp;...",
+    "news_item_url": "https://lionswire.usatoday.com/lists/best-and-worst-pff-grades-for-lions-from-week-16-vs-bears/",
     "picture_source": "detroitlions.com",
     "approx_traffic": "200,000+"
   },
@@ -101,16 +111,6 @@
   },
   {
     "country": "United States",
-    "title": "Raiders",
-    "pubDate": "Sun, 22 Dec 2024 14:00:00 -0800",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQda3WfvVuwMVqN8teGHr0riMSKQzGBX8BBBGXxGKHCymR4KAz7fePYS3Gi2J9KphblDxh1wjoj",
-    "news_item_snippet": "A quick look at the Jaguars&#39; 19-14 loss to the Las Vegas Raiders in a 2024 Week 16 game at Allegiant Stadium in Las Vegas, Nevada, Sunday.",
-    "news_item_url": "https://www.jaguars.com/news/k000060-game-report-2024-week-16-raiders-19-jaguars-14",
-    "picture_source": "Raiders.com",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "United States",
     "title": "49ers",
     "pubDate": "Sun, 22 Dec 2024 14:00:00 -0800",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRuPMYzyW7_mV6BZubDGXL_2wHi94ViVABWC5P8agQhycizcalWHA4gUPBevjCXmfFa881x-Vl4",
@@ -121,42 +121,32 @@
   },
   {
     "country": "United States",
+    "title": "Raiders",
+    "pubDate": "Sun, 22 Dec 2024 14:00:00 -0800",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQda3WfvVuwMVqN8teGHr0riMSKQzGBX8BBBGXxGKHCymR4KAz7fePYS3Gi2J9KphblDxh1wjoj",
+    "news_item_snippet": "A quick look at the Jaguars&#39; 19-14 loss to the Las Vegas Raiders in a 2024 Week 16 game at Allegiant Stadium in Las Vegas, Nevada, Sunday.",
+    "news_item_url": "https://www.jaguars.com/news/k000060-game-report-2024-week-16-raiders-19-jaguars-14",
+    "picture_source": "Raiders.com",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "United States",
     "title": "U.S. Navy pilots shot down Red Sea",
     "pubDate": "Sun, 22 Dec 2024 05:00:00 -0800",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRX9BUZ7xy49iN6SFVOSbeGwP669GtZlY0PGVCxHhwZtgkb2HohT7o00ZQoTFmpjHeX6FDvnDIF",
-    "news_item_snippet": "The U.S. military had conducted airstrikes targeting Yemen&#39;s Houthi rebels at the time of the friendly fire incident, though the U.S. military&#39;s Central Command&nbsp;...",
-    "news_item_url": "https://apnews.com/article/mideast-wars-yemen-us-navy-pilots-houthi-95a792daae3b0120186bfc6c66e1b6fe",
-    "picture_source": "LiveNOW from FOX",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcS17OxpL4jrEzyJzvRYCblwliEwj8rxL4F6OVahKSRqAkloJ8En0C21pvRwzm0hjgqRNBvXCTgk",
+    "news_item_snippet": "Two U.S. Navy pilots were shot down Sunday over the Red Sea in the most serious accident yet since American troops began targeting Yemen&#39;s Houthi rebels.",
+    "news_item_url": "https://www.livenowfox.com/news/us-navy-pilots-shot-down-red-sea-uss-gettysburg-f18",
+    "picture_source": "The Associated Press",
     "approx_traffic": "200,000+"
   },
   {
     "country": "United States",
-    "title": "Rams",
-    "pubDate": "Sun, 22 Dec 2024 11:00:00 -0800",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTqlzqLxihw6EtJ39PPmHbg3xoUxIFyibrKpvJp9TRXqrj8r-WIpRaiNxnqRyp3HIngBMPmKOCq",
-    "news_item_snippet": "Against New York, the Rams pounded the rock, giving running back Kyren Williams more carries than quarterback Matthew Stafford had pass attempts. They also&nbsp;...",
-    "news_item_url": "https://www.therams.com/news/5-interesting-stats-from-rams-win-over-jets-in-week-16-stuffing-the-run-and-staying-ahead-of-the-sticks-in-the-cold",
-    "picture_source": "newyorkjets.com",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Real Madrid",
-    "pubDate": "Sun, 22 Dec 2024 15:00:00 -0800",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcS5ISlFKHAclXSh19suPyGShh2iF6VeXSnuWSjGmgTtjbHX921Vgz5a97qtGkoxL9ekElg9mEHM",
-    "news_item_snippet": "Expert recap and game analysis of the Real Madrid vs. Sevilla Spanish Laliga game from December 22, 2024 on ESPN.",
-    "news_item_url": "https://www.espn.com/soccer/report/_/gameId/704838",
-    "picture_source": "Real Madrid",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Liverpool",
-    "pubDate": "Sun, 22 Dec 2024 10:00:00 -0800",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSTwS7Afa496wVTuO-kx4aLoVSvrakn7Cyd_ZeVlhYz8pF0mB3evQd6lbknGzY6eh5vv3mrqucc",
-    "news_item_snippet": "Get the latest Football updates on Eurosport. Catch Tottenham Hotspur - Liverpool live on 22/12/2024. Find scores, stats and comments in real time.",
-    "news_item_url": "https://www.eurosport.com/football/premier-league/2024-2025/live-tottenham-hotspur-liverpool_mtc1523787/live-commentary.shtml",
-    "picture_source": "Yahoo Sports",
+    "title": "Abbott",
+    "pubDate": "Sun, 22 Dec 2024 04:00:00 -0800",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQrz-L-F5huxL9pggaa5ugWhTUZ5e5gQ2-A7tDMFqNpmebWeYoZfyJEKhCKCzQdTspsaefw3gMe",
+    "news_item_snippet": "ABBOTT PARK, Ill., Dec. 23, 2024 -- Abbott announced today it has reached an agreement with DexCom, Inc. to settle all outstanding patent disputes between&nbsp;...",
+    "news_item_url": "https://abbott.mediaroom.com/Abbott-Agrees-to-Global-Continuous-Glucose-Monitoring-Litigation-Settlement-with-Dexcom",
+    "picture_source": "Press Releases",
     "approx_traffic": "100,000+"
   },
   {
@@ -181,22 +171,22 @@
   },
   {
     "country": "India",
+    "title": "Shyam Benegal",
+    "pubDate": "Mon, 23 Dec 2024 21:30:00 +0530",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSZyWJ6Y8VwLgP7Y5gSMF-Sa9Gj-QOirFKa47DnDnwYkWprDG8_ucS7oUEpQEmMbaUooEfyV4ob",
+    "news_item_snippet": "Veteran filmmaker Shyam Benegal, who heralded the Indian parallel cinema movement in the 1970s and 1980s with films such as &#39;Ankur&#39;, &#39;Nishant&#39; and &#39;Manthan&#39;&nbsp;...",
+    "news_item_url": "https://www.ndtv.com/india-news/created-the-new-wave-cinema-tributes-pour-in-for-filmmaker-shyam-benegal-7316967",
+    "picture_source": "The Hindu",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "India",
     "title": "Transrail Lighting Limited IPO GMP",
     "pubDate": "Mon, 23 Dec 2024 11:30:00 +0530",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTxuOFHmADYv1TOgei8Ns-5sDPxvePDKnnoYSzZ7kdRf0F4Yk5SYw6qeQuGuU9WWNZv0MDEbuT-",
     "news_item_snippet": "The subscription window to bid for the Transrail Lighting IPO closes today; check issue details, latest subscription data, GMP, and more.",
     "news_item_url": "https://www.business-standard.com/markets/news/transrail-lighting-ipo-niis-fuel-demand-on-day-3-check-latest-gmp-124122300256_1.html",
     "picture_source": "Livemint",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "India",
-    "title": "Shyam Benegal",
-    "pubDate": "Mon, 23 Dec 2024 21:30:00 +0530",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSdw6I8eJIo5F0CNSS6Hl7nYeIJW2tG8gd8UYbieM7-OUUMjcdw4f7LJToh9MmhP0zzWbTfBIgF",
-    "news_item_snippet": "Veteran filmmaker Shyam Benegal, who heralded the Indian parallel cinema movement in the 1970s and 1980s with films such as &#39;Ankur&#39;, &#39;Nishant&#39; and &#39;Manthan&#39;&nbsp;...",
-    "news_item_url": "https://www.ndtv.com/india-news/created-the-new-wave-cinema-tributes-pour-in-for-filmmaker-shyam-benegal-7316967",
-    "picture_source": "The Hindu",
     "approx_traffic": "50,000+"
   },
   {
@@ -237,6 +227,26 @@
     "news_item_snippet": "Confira como acessar o resultado do Encceja 2024 para ver todas as duas notas e saiba o que fazer caso tenha sido aprovado ou n\u00e3o.",
     "news_item_url": "https://querobolsa.com.br/revista/resultado-do-encceja-2024",
     "picture_source": "CNN Brasil",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "Brazil",
+    "title": "Salpic\u00e3o",
+    "pubDate": "Mon, 23 Dec 2024 13:00:00 -0500",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQ5UCM16N3ZyAPps2_AyHNtC6PzlMlUrE3xTFGJKHw8mGw6tahgGPhiPHipnaRE6EUVN8tWkGfI",
+    "news_item_snippet": "Salpic\u00e3o de camar\u00e3o com cebola palha para Natal e Ano-novo: receita do chef Elia Schramm, da Babbo Osteria, premiada entre as melhores trattorias do Rio de&nbsp;...",
+    "news_item_url": "https://receitas.globo.com/tipos-de-prato/acompanhamentos/salpicao-de-camarao-com-cebola-palha.ghtml",
+    "picture_source": "GNT",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Brazil",
+    "title": "Fiorentina",
+    "pubDate": "Mon, 23 Dec 2024 10:00:00 -0500",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQeXfOEn36Kc9KToJgBhC6xIn_xGZPalkSPmljUmJvtyyXrsLqwH9LLpzcq80JaFQS3536HSUoh",
+    "news_item_snippet": "A Udinese venceu a Fiorentina fora de casa nesta segunda-feira (23) por 2 a 1 com um gol espetacular do capit\u00e3o franc\u00eas Florian Thauvin em jogo da 17\u00aa&nbsp;...",
+    "news_item_url": "https://gauchazh.clicrbs.com.br/esportes/noticia/2024/12/udinese-vence-fiorentina-2-1-de-virada-pela-17a-rodada-do-italiano-cm51k32q6006r01119q400onw.html",
+    "picture_source": "Terra",
     "approx_traffic": "50,000+"
   },
   {
@@ -248,26 +258,6 @@
     "news_item_url": "https://www.gazetaesportiva.com/apostas/prognosticos/futebol/real-madrid-x-sevilla-palpites-onde-assistir-horario-e-escalacoes-22-12-2024",
     "picture_source": "LANCE!",
     "approx_traffic": "500,000+"
-  },
-  {
-    "country": "Brazil",
-    "title": "Tottenham x Liverpool",
-    "pubDate": "Sun, 22 Dec 2024 11:00:00 -0500",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQaun80KxBKJ9oTP4EG7ZDeqU6X4JmFIxJdPwLX3S29PvQvL1-FIAEFwTTm4umEPI4PLWdRV4lu",
-    "news_item_snippet": "Tottenham e Liverpool se enfrentam neste domingo (22), \u00e0s 13h30 (de Bras\u00edlia), no Tottenham Hotspur Stadium, pela 17\u00aa rodada do Campeonato Ingl\u00eas.",
-    "news_item_url": "https://www.uol.com.br/esporte/ultimas-noticias/2024/12/22/tottenham-liverpool.htm",
-    "picture_source": "UOL",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "Brazil",
-    "title": "Luiz Claudio Salgueiro Galeazzi",
-    "pubDate": "Sun, 22 Dec 2024 11:00:00 -0500",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTWzDudyLwGQdDCaNC1F1taN2E2_plElCuyRnE2f1qoOiM4us8qSfpIh5sXIs8WE3X-9lOXz2PX",
-    "news_item_snippet": "Empres\u00e1rio Luiz Claudio Galeazzi era dono e pilotava avi\u00e3o no momento da queda em Gramado. Ele teve a m\u00e3e morta em outro acidente a\u00e9reo.",
-    "news_item_url": "https://www.metropoles.com/sao-paulo/quem-e-o-empresario-paulista-morto-em-queda-de-aviao-em-gramado",
-    "picture_source": "G1",
-    "approx_traffic": "200,000+"
   },
   {
     "country": "South Korea",
@@ -324,19 +314,29 @@
     "title": "Eric Lombard",
     "pubDate": "Mon, 23 Dec 2024 19:00:00 +0100",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTDjvMo64nxHGQB4DagV9RIzIQMdGcGEjSfxOSzXBAouLQlfny9VPk1MtU0_bJ5IDYQ1ATxnbGZ",
-    "news_item_snippet": "L&#39;actuel directeur g\u00e9n\u00e9ral de la Caisse des d\u00e9p\u00f4ts (CDC) \u00c9ric Lombard a \u00e9t\u00e9 promu lundi ministre de l&#39;\u00c9conomie et des Finances, fort d&#39;un bilan favorable \u00e0&nbsp;...",
-    "news_item_url": "https://www.la-croix.com/eric-lombard-patron-de-la-caisse-des-depots-parachute-au-ministere-de-l-economie-20241223",
+    "news_item_snippet": "Alors que les tractations se sont poursuivies jusqu&#39;\u00e0 cette matin\u00e9e du lundi 23 d\u00e9cembre, Alexis Kohler, secr\u00e9taire g\u00e9n\u00e9ral de l&#39;\u00c9lys\u00e9e, a annonc\u00e9 le nom&nbsp;...",
+    "news_item_url": "https://www.capital.fr/economie-politique/gouvernement-bayrou-qui-est-eric-lombard-le-nouvel-homme-fort-de-bercy-1507309",
     "picture_source": "BFMTV",
     "approx_traffic": "100,000+"
   },
   {
     "country": "France",
+    "title": "Catherine Vautrin",
+    "pubDate": "Mon, 23 Dec 2024 19:00:00 +0100",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRYLOnMvuXK5VNjEkhg0nMCpuQzLokkiF8hK4dQQEn14ab86M0G6nB4JsObYu2icYRvaA6tmniL",
+    "news_item_snippet": "Retour au minist\u00e8re du Travail pour Catherine Vautrin. Celle qui \u00e9tait devenue ministre du Partenariat avec les territoires et de la D\u00e9centralisation dans&nbsp;...",
+    "news_item_url": "https://www.bfmtv.com/economie/gouvernement-bayrou-catherine-vautrin-nommee-ministre-du-travail_AV-202412230535.html",
+    "picture_source": "France 3 R\u00e9gions",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "France",
     "title": "Gouvernement Bayrou",
     "pubDate": "Sun, 22 Dec 2024 17:00:00 +0100",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQWnzXS456g2xz1ALnIdBaxJ5eN8jWhdA2KkY8XXEf_QcqFMgpx_2Cu05Z2hpwDgoV9ODse49KN",
-    "news_item_snippet": "Le Palais de l&#39;\u00c9lys\u00e9e a annonc\u00e9 la nomination du gouvernement de Fran\u00e7ois Bayrou lundi 23 d\u00e9cembre 2024.",
-    "news_item_url": "https://www.info.gouv.fr/actualite/la-composition-du-gouvernement-de-francois-bayrou",
-    "picture_source": "La Cha\u00eene Parlementaire - Assembl\u00e9e Nationale",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRbUKcTlWsLfOJwObVjBElcfuU2MbIUH_PgaPak0NIoLJT1wZiKJhjJ3MaWWGde5IO3pNzR_Ys5",
+    "news_item_snippet": "Le gouvernement \u00e9labor\u00e9 par le Premier ministre, Fran\u00e7ois Bayrou, a \u00e9t\u00e9 nomm\u00e9, ce lundi 23 d\u00e9cembre, par le pr\u00e9sident de la R\u00e9publique, Emmanuel Macron.",
+    "news_item_url": "https://lcp.fr/actualites/le-gouvernement-bayrou-a-ete-nomme-decouvrez-sa-composition-335727",
+    "picture_source": "Gouvernement.fr",
     "approx_traffic": "500,000+"
   },
   {
@@ -361,16 +361,6 @@
   },
   {
     "country": "France",
-    "title": "OM",
-    "pubDate": "Sun, 22 Dec 2024 15:00:00 +0100",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQroi4VzPufurtURpmyNsU-k85qnqSao5gIvGlDZ2WFgNTgSSKMAgat4E_iMjjK53C8rYSauK7N",
-    "news_item_snippet": "L&#39;AS Saint-\u00c9tienne recevait l&#39;Olympique de Marseille ce dimanche pour le compte des 32e de finale de la Coupe de France. Rapidement r\u00e9duits \u00e0 dix,&nbsp;...",
-    "news_item_url": "https://www.francebleu.fr/sports/football/direct-coupe-de-france-l-as-saint-etienne-recoit-l-olympique-de-marseille-suivez-le-32e-de-finale-7540855",
-    "picture_source": "Foot National",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "France",
     "title": "Star academy",
     "pubDate": "Sun, 22 Dec 2024 11:00:00 +0100",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQMXWjPUDiYMGK3j2sQO7uROCtyCCOWRjAX12WEQhbq1FnxxaGITC4AXPxfKfTSC5q1ptrJNYkr",
@@ -381,12 +371,12 @@
   },
   {
     "country": "Germany",
-    "title": "Weihnachtsgr\u00fc\u00dfe",
-    "pubDate": "Mon, 23 Dec 2024 16:00:00 +0100",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSfqU0cvTWdHVXi1h9UxzjAKQ7Iy4fva4k2dgBZ0nL1J178Ffie9KMY5VT1ydMspWHgeQTWoBJe",
-    "news_item_snippet": "Seit 1953 senden Daheimgebliebene \u00fcber den NDR weihnachtliche Gr\u00fc\u00dfe an Seeleute in der ganzen Welt.",
-    "news_item_url": "https://www.ndr.de/nachrichten/info/Gruss-an-Board-Weihnachtsgruesse-an-die-Seefahrt,ndrinfo68248.html",
-    "picture_source": "NDR.de",
+    "title": "Udo J\u00fcrgens",
+    "pubDate": "Mon, 23 Dec 2024 21:00:00 +0100",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRk6q-tkizykca_J4J0G0RVUGDMR7_dTDbSRoBvzsXow_eeT6bTzXYXxO_XQokMG0A99z5TKM_d",
+    "news_item_snippet": "Zwischen Familien- und Zeitgeschichte: Die Dokumentation \u201eUdo!\u201c von David Kunac und Sebastian Dehnhardt erinnert im Ersten an den S\u00e4nger Udo J\u00fcrgens zehn&nbsp;...",
+    "news_item_url": "https://www.faz.net/aktuell/feuilleton/medien/die-fernseh-doku-udo-erinnert-im-ersten-an-udo-juergens-110190531.html",
+    "picture_source": "K\u00f6lnische Rundschau",
     "approx_traffic": "50,000+"
   },
   {
@@ -430,22 +420,12 @@
     "approx_traffic": "50,000+"
   },
   {
-    "country": "Germany",
-    "title": "Champions League",
-    "pubDate": "Mon, 09 Dec 2024 18:00:00 +0100",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcS0MerrE0-nYarjqZIYJBSRbNwcP1r335_fkNgT_BaR7XlN-eWokNF0lvxzA7LyJBm87bsihwUb",
-    "news_item_snippet": "RB Leipzig ist in der Champions League krachend gescheitert, wof\u00fcr es laut Sky Reporter Phillip Hinze einige Gr\u00fcnde gibt.",
-    "news_item_url": "https://sport.sky.de/fussball/artikel/rb-leipzig-scheidet-in-der-champions-league-in-der-vorrunde-aus/13271430/34417",
-    "picture_source": "FAZ - Frankfurter Allgemeine Zeitung",
-    "approx_traffic": "200,000+"
-  },
-  {
     "country": "Italy",
     "title": "Fiorentina-Udinese",
     "pubDate": "Mon, 23 Dec 2024 02:00:00 +0100",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcStGR6rHiAmUHBajl4gwLLVw3-ku6fO9fFD0KIYU0YeDZ4T9Y48FOpFUXC_S6xcnhMLiz9elWoj",
-    "news_item_snippet": "Finisce 1-2 per l&#39;Udinese al Franchi. I bianconeri escono vittoriosi contro una Fiorentina battuta in rimonta: in apertura Kean l&#39;ha sbloccata su rigore,&nbsp;...",
-    "news_item_url": "https://www.repubblica.it/sport/dirette/calcio/serie-a-2024/diretta-fiorentina-udinese-g2456265/",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQNaMgxNGvOLe5cEBa99rxAR6BHX1a_p-1bmRy-7xPTW283Mdffmevx62XV5dafzqoztmju5MHy",
+    "news_item_snippet": "Kean trasforma l&#39;illusorio 1-0 su calcio di rigore e taglia il traguardo della doppia cifra in campionato: nella ripresa arriva il ribaltone friulano.",
+    "news_item_url": "https://www.goal.com/it/liste/fiorentina-udinese-1-2-pagelle-e-tabellino-kean-illude-ma-lucca-e-thauvin-ribaltano-la-viola/blt5dd759f3522ebddc",
     "picture_source": "Sky Sport",
     "approx_traffic": "200,000+"
   },
@@ -454,8 +434,8 @@
     "title": "Real Madrid  Sevilla",
     "pubDate": "Sun, 22 Dec 2024 09:00:00 -0600",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQtiQ2VCUj-EvuR-3JmPp1-s40Dn7wdcltd7zFhdz0gZMRPmuVjLJpzlFIw_VjqcFYF9cwt7Jbu",
-    "news_item_snippet": "El Real Madrid honr\u00f3 la decisi\u00f3n de Jes\u00fas Navas de colgar las botas en el Santiago Bernab\u00e9u regal\u00e1ndole un homenaje precioso y un partido estupendo,&nbsp;...",
-    "news_item_url": "https://www.marca.com/mx/futbol/la-liga/cronica/2024/12/22/6768485dca474154338b457b.html",
+    "news_item_snippet": "El franc\u00e9s marca el primer gol del partido y comanda una gran primera parte de los blancos, que pr\u00e1cticamente resolvieron el encuentro en 20 minutos.",
+    "news_item_url": "https://as.com/futbol/aprobados-y-suspensos-del-real-madrid-contra-el-sevilla-mbappe-lidera-un-brillante-triunfo-coral-n/",
     "picture_source": "TUDN",
     "approx_traffic": "200,000+"
   },
@@ -484,8 +464,8 @@
     "title": "Armando Hern\u00e1ndez",
     "pubDate": "Sun, 22 Dec 2024 22:00:00 -0600",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcS4Qy27myRh4MMCxtDJDET-3mtInSpmP_qaAu5GY2iwpUjTRmNmaQHox_E1mnXgunm2wwZfq-B5",
-    "news_item_snippet": "Tras semanas de mucha diversi\u00f3n, talento y entrega, Freddie Verdury deja ver su verdadero rostro y sorprende a todos con la revelaci\u00f3n del exitoso actor&nbsp;...",
-    "news_item_url": "https://www.lasestrellas.tv/reality/quien-es-la-mascara/freddie-verdury-era-armando-hernandez-y-asi-se-convirtio-en-el-ganador-de-quien-es-la-mascara",
+    "news_item_snippet": "Armando Hern\u00e1ndez, quien ha interpretado a m\u00faltiples personajes entra\u00f1ables, fue el ganador del programa &#39;Qui\u00e9n es la m\u00e1scara&#39;",
+    "news_item_url": "https://www.infobae.com/mexico/2024/12/23/quien-es-armando-hernandez-el-actor-que-paso-de-vivir-en-la-calle-a-la-fama-como-actor/",
     "picture_source": "AS Mexico",
     "approx_traffic": "50,000+"
   },
@@ -513,10 +493,10 @@
     "country": "United Kingdom",
     "title": "Tottenham vs Liverpool",
     "pubDate": "Sun, 22 Dec 2024 16:00:00 +0000",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSGJGLCJMjHzoXfdU0Di6KaMsi9qPV9H7xLEKs2MoA38qYM-Cyhe4-UaZVs8AlhRuETl8maP28A",
-    "news_item_snippet": "Premier League match Tottenham vs Liverpool 22.12.2024. Preview and stats followed by live commentary, video highlights and match report.",
-    "news_item_url": "https://www.skysports.com/football/tottenham-hotspur-vs-liverpool/live/505975",
-    "picture_source": "Sky Sports",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTqh_g3pScP-k5GimSW41_x_vur8FMUf_DbXOis2a8uAq39FL81qwnw4qTFh3RFfz6Xj2Tr5W2m",
+    "news_item_snippet": "Tottenham vs Liverpool was a crazy, record-breaking game. We bring you the standout stats from an all-timer in the Premier League era.",
+    "news_item_url": "https://theanalyst.com/2024/12/tottenham-vs-liverpool-stats-craziest-game-premier-league-2024-25",
+    "picture_source": "The Analyst",
     "approx_traffic": "200,000+"
   },
   {
