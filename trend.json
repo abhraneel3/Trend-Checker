@@ -1,16 +1,6 @@
 [
   {
     "country": "United States",
-    "title": "Cowboys",
-    "pubDate": "Mon, 23 Dec 2024 12:00:00 -0800",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTOWuoA7mGFQ__0LTInjYQTopmczugyZN0Ud2UmpyPJSWSZTRPub94fkufMOOAnTdeN-ZZ-IcUT",
-    "news_item_snippet": "The Cowboys Week 17 matchup against the Philadelphia Eagles has been flexed to the Noon kickoff slot.",
-    "news_item_url": "https://www.dallascowboys.com/news/cowboys-eagles-flexed-to-noon-kickoff-for-week-17",
-    "picture_source": "PhiladelphiaEagles.com",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "United States",
     "title": "Dallas Cowboys",
     "pubDate": "Mon, 23 Dec 2024 13:00:00 -0800",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRvCEhXSMQ1BeusFKaLd3PRMTo7WnNdnd33HndZmWa8jU2iMddv2K9K_-UWHK8OLc5JJKIz-Kdw",
@@ -24,10 +14,30 @@
     "title": "Matt Gaetz",
     "pubDate": "Mon, 23 Dec 2024 06:00:00 -0800",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSwqntwy1xb0qwLllY9y0tWxxXAm0QqYPvEMt2NLR3VzA7ABKoTT-_XOBuO_jfqcN4P3FuF2WF5",
-    "news_item_snippet": "The report gives fresh details about the former Florida congressman&#39;s alleged payments for sex and drugs.",
+    "news_item_snippet": "From at least 2017 to 2020, the committee concluded that the former Florida congressman regularly paid women for &quot;engaging in sexual activity&quot;, had sex with a&nbsp;...",
     "news_item_url": "https://www.bbc.com/news/articles/c0mvpmnm9gno",
     "picture_source": "NPR",
     "approx_traffic": "200,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Saints vs Packers",
+    "pubDate": "Mon, 23 Dec 2024 18:00:00 -0800",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcR3O7mo1oGbNEzRA7cT1-KZ8ostrsYXeUq_e1jlNTW5o9mW96PLrpq38HbC9BDuNLZvYvQu7bk5",
+    "news_item_snippet": "SportsLine&#39;s model has simulated Green Bay vs. New Orleans on Monday Night Football 10000 times and revealed its MNF picks and NFL predictions.",
+    "news_item_url": "https://www.cbssports.com/nfl/news/saints-vs-packers-odds-spread-line-time-week-16-monday-night-football-picks-from-nfl-model-on-27-11-roll/",
+    "picture_source": "Yahoo Sports",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Santa Cruz Wharf",
+    "pubDate": "Mon, 23 Dec 2024 16:00:00 -0800",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQWfbovKoxDxuoyDTHQXc9LARdzN5rHlNuSbsjRXVs8AAuFjkS4Yc84-fJ5qPX0-TDxO3DCeKDS",
+    "news_item_snippet": "Officials said the people had minor injuries after the incident at 12:45 p.m. PT at the Santa Cruz Wharf. Two people were rescued from the water, while a third&nbsp;...",
+    "news_item_url": "https://www.nbcnews.com/news/us-news/california-wharf-collapse-sends-3-people-ocean-rcna185295",
+    "picture_source": "KSBW The Central Coast",
+    "approx_traffic": "100,000+"
   },
   {
     "country": "United States",
@@ -37,16 +47,6 @@
     "news_item_snippet": "Opinion: In this op-ed, an Army chaplain discusses how the military&#39;s commitment to religious freedom demonstrates the principles troops are sworn to&nbsp;...",
     "news_item_url": "https://www.militarytimes.com/opinion/2024/12/23/how-merry-christmas-and-happy-holidays-reflect-us-military-values/",
     "picture_source": "Porsche Newsroom",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Santa Cruz Wharf",
-    "pubDate": "Mon, 23 Dec 2024 16:00:00 -0800",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSl2_hxs9eMLBAroG1CQapcCUVuLoPnrvHap35rTf59x0krdIceiy5IxvBMSnXRpCUevaO3fd_O",
-    "news_item_snippet": "The collapse of the municipal wharf was just one of multiple impacts in the weather-battered region as high surf and flooding led to multiple road closures and&nbsp;...",
-    "news_item_url": "https://www.cbsnews.com/sanfrancisco/news/santa-cruz-wharf-collapse-high-surf-california/",
-    "picture_source": "KQED",
     "approx_traffic": "50,000+"
   },
   {
@@ -63,10 +63,20 @@
     "country": "United States",
     "title": "Greenland",
     "pubDate": "Mon, 23 Dec 2024 08:00:00 -0800",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTuGC7C0pSDoz7NNf-iK2xtskbn_XOV0oStosWVG52alcZboMO9d7jew1hOaLPRBOTxSfCYdljl",
-    "news_item_snippet": "President-elect Donald Trump appears to be entertaining an American territorial expansion that, if he&#39;s serious, would rival the Louisiana Purchase or the&nbsp;...",
-    "news_item_url": "https://www.cnn.com/2024/12/23/politics/trump-us-expansion-panama-canada-greenland/index.html",
-    "picture_source": "NBC4 Washington",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTS6MLF-MD6jf2154QS-r4cAMhfkYQBZk4l35GLa7e4pXNo3TRJxjZwxNSvbgUtE6WqKMqDzt9o",
+    "news_item_snippet": "President-elect Donald Trump is renewing unsuccessful calls he made during his first term for the U.S. to buy Greenland from Denmark.",
+    "news_item_url": "https://www.nbcwashington.com/news/politics/donald-trump-buy-greenland-denmark/3798816/",
+    "picture_source": "The New York Times",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Bill Clinton",
+    "pubDate": "Mon, 23 Dec 2024 16:00:00 -0800",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRv3mMSj6OjPgsvfXE6FPnOzw7mdCaQDItd-D-L-wTHcqUj0ibUnh_gRwKNQu9DVJviG3w5eYYR",
+    "news_item_snippet": "The 42nd president is at a Washington DC hospital, and is in &quot;good spirits&quot;, according to a spokesman.",
+    "news_item_url": "https://www.bbc.com/news/articles/c627n98pzqzo",
+    "picture_source": "NPR",
     "approx_traffic": "50,000+"
   },
   {
@@ -78,26 +88,6 @@
     "news_item_url": "https://www.pff.com/news/draft-2025-nfl-draft-order-where-the-leagues-32-teams-stand-after-week-16",
     "picture_source": "Milwaukee Journal Sentinel",
     "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Vikings",
-    "pubDate": "Sun, 22 Dec 2024 14:00:00 -0800",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQiTujidpE4EKhkcI_XIZhtCFzcUt8K1R5aq-SV1s7s5e6QWh4vukpw7II1Od4hNuSGo_Vy3Mmm",
-    "news_item_snippet": "Minnesota sits at 13-2 following Sunday&#39;s win over the Seattle Seahawks. The Packers are 10-4 entering Monday night&#39;s game against New Orleans at Lambeau Field.",
-    "news_item_url": "https://www.packers.com/news/packers-vikings-week-17-game-flexed-to-3-25-p-m-ct",
-    "picture_source": "Vikings.com",
-    "approx_traffic": "500,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Jalen Hurts",
-    "pubDate": "Sun, 22 Dec 2024 11:00:00 -0800",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRy2g5DiUfuKImJYWhrsd666tSV7dcX7AZ4i2OpjLK3pTBFT59mXV0EeQkIXPh5Cp4SDP3_x3Md",
-    "news_item_snippet": "Who&#39;s the quarterback if both Jalen Hurts, Kenny Pickett can&#39;t play against the Cowboys?",
-    "news_item_url": "https://www.delawareonline.com/story/sports/nfl/eagles/2024/12/23/jalen-hurts-concussion-update-kenny-pickett-rib-injury-philadelphia-eagles-news/77164637007/",
-    "picture_source": "PhiladelphiaEagles.com",
-    "approx_traffic": "500,000+"
   },
   {
     "country": "India",
@@ -123,7 +113,7 @@
     "country": "India",
     "title": "Shyam Benegal",
     "pubDate": "Mon, 23 Dec 2024 21:30:00 +0530",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSIbP5kyFIPaGSiSnYzIZqgybbuYy6V0ad4rNfyhYjbvPe9T3_gadX2IZrKT-Traeds8ju-swBa",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSdw6I8eJIo5F0CNSS6Hl7nYeIJW2tG8gd8UYbieM7-OUUMjcdw4f7LJToh9MmhP0zzWbTfBIgF",
     "news_item_snippet": "Veteran filmmaker Shyam Benegal, who heralded the Indian parallel cinema movement in the 1970s and 1980s with films such as &#39;Ankur&#39;, &#39;Nishant&#39; and &#39;Manthan&#39;&nbsp;...",
     "news_item_url": "https://www.ndtv.com/india-news/created-the-new-wave-cinema-tributes-pour-in-for-filmmaker-shyam-benegal-7316967",
     "picture_source": "The Hindu",
@@ -191,6 +181,16 @@
   },
   {
     "country": "Brazil",
+    "title": "Natal",
+    "pubDate": "Mon, 23 Dec 2024 09:00:00 -0500",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRLto7ltabidbCHzvGdjlQ93UEcf_7cQbUIZ69ohzIimY5JUlERYqUUelJA9m6XC4KyKUdrmt3u",
+    "news_item_snippet": "O desfile encantador foi realizado na rua ao lado do pavilh\u00e3o do Boi\u00f3dromo e contou com a presen\u00e7a de diversos personagens animados, figuras natalinas e de&nbsp;...",
+    "news_item_url": "https://cajamar.sp.gov.br/noticias/2024/12/23/a-magia-do-natal-encanta-cajamar-com-a-primeira-parada-de-natal/",
+    "picture_source": "Prefeitura de Cajamar",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Brazil",
     "title": "Fiorentina",
     "pubDate": "Mon, 23 Dec 2024 10:00:00 -0500",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQeXfOEn36Kc9KToJgBhC6xIn_xGZPalkSPmljUmJvtyyXrsLqwH9LLpzcq80JaFQS3536HSUoh",
@@ -213,10 +213,20 @@
     "country": "France",
     "title": "Eric Lombard",
     "pubDate": "Mon, 23 Dec 2024 19:00:00 +0100",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTDjvMo64nxHGQB4DagV9RIzIQMdGcGEjSfxOSzXBAouLQlfny9VPk1MtU0_bJ5IDYQ1ATxnbGZ",
-    "news_item_snippet": "Apr\u00e8s la Caisse des d\u00e9p\u00f4ts, ce sp\u00e9cialiste des finances publiques, marqu\u00e9 par la figure de Michel Rocard, est notamment \u00e0 l&#39;origine de la Banque des&nbsp;...",
-    "news_item_url": "https://www.francetvinfo.fr/politique/gouvernement-de-francois-bayrou/gouvernement-de-francois-bayrou-eric-lombard-technicien-en-phase-avec-emmanuel-macron-au-defi-immediat-d-un-budget-2025-depuis-bercy_6973181.html",
-    "picture_source": "BFMTV",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcT8tyZZg7JbyW2iWa90H97KyMaHylZcacA3bNXNGB9BNvEQWnfllogPLtBMj2WAZONYr5kJOrQV",
+    "news_item_snippet": "Alors que son nom circulait d\u00e9j\u00e0 pour prendre la t\u00eate d&#39;un gouvernement technique \u00e0 la rentr\u00e9e derni\u00e8re, le directeur g\u00e9n\u00e9ral de la Caisse des d\u00e9p\u00f4ts h\u00e9rite&nbsp;...",
+    "news_item_url": "https://www.bfmtv.com/economie/economie-social/gouvernement-bayrou-qui-est-eric-lombard-le-nouveau-ministre-de-l-economie_AV-202412230553.html",
+    "picture_source": "Franceinfo",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "France",
+    "title": "Real Madrid",
+    "pubDate": "Mon, 23 Dec 2024 00:00:00 +0100",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQz9y6U5SqtJPD-GA5J8Ams_luVHEwqr9qOZJFA5zHP7D6gHD6qNxMkm4X9A6CP1ycTP0PvRn7f",
+    "news_item_snippet": "Le Real Madrid retrouvait la Liga, ce dimanche 22 d\u00e9cembre, avec la r\u00e9ception de S\u00e9ville. Les co\u00e9quipiers de Kylian Mbapp\u00e9, buteur puis passeur,&nbsp;...",
+    "news_item_url": "https://www.ouest-france.fr/sport/football/espagne/real-madrid/direct-real-madrid-seville-suivez-le-match-de-liga-avec-kylian-mbappe-en-live-c15c90d1-57b3-4088-981a-56c54604a95f",
+    "picture_source": "BFMTV.COM",
     "approx_traffic": "100,000+"
   },
   {
@@ -288,36 +298,6 @@
     "news_item_url": "https://www.repubblica.it/sport/dirette/calcio/serie-a-2024/diretta-fiorentina-udinese-g2456265/",
     "picture_source": "Sky Sport",
     "approx_traffic": "200,000+"
-  },
-  {
-    "country": "Mexico",
-    "title": "Real Madrid  Sevilla",
-    "pubDate": "Sun, 22 Dec 2024 09:00:00 -0600",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQtiQ2VCUj-EvuR-3JmPp1-s40Dn7wdcltd7zFhdz0gZMRPmuVjLJpzlFIw_VjqcFYF9cwt7Jbu",
-    "news_item_snippet": "El Real Madrid honr\u00f3 la decisi\u00f3n de Jes\u00fas Navas de colgar las botas en el Santiago Bernab\u00e9u regal\u00e1ndole un homenaje precioso y un partido estupendo,&nbsp;...",
-    "news_item_url": "https://www.marca.com/mx/futbol/la-liga/cronica/2024/12/22/6768485dca474154338b457b.html",
-    "picture_source": "TUDN",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "Mexico",
-    "title": "PSV  Feyenoord",
-    "pubDate": "Sun, 22 Dec 2024 08:00:00 -0600",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQZBhd18LOhWoYRTtNJVGt9RiuZyGOQsUPcWOx1vP0nf6dhgt5TnElq-RY8bue4-hf8AlEgbLic",
-    "news_item_snippet": "Emotiva de Hirving Lozano con PSV Eindhoven As\u00ed fue el adi\u00f3s por parte de los jugadores y aficionados de los Granjeros hacia el Chucky Final del parti.",
-    "news_item_url": "https://www.marca.com/mx/futbol/psv-feyenoord/2024/12/22/01_0146_20241222_204_198-directo.html",
-    "picture_source": "Infobae.com",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Mexico",
-    "title": "Tottenham  Liverpool",
-    "pubDate": "Sun, 22 Dec 2024 10:00:00 -0600",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcR8mI4kjI-Zjq-DR66giObJd8pSZI_qoUhQiFXcc33c2we41iNrgaxhXhEUgoHcxbvPgW8-RLWT",
-    "news_item_snippet": "Remate parado por bajo a la izquierda. Brennan Johnson (Tottenham Hotspur) remate con la derecha desde el centro del \u00e1rea. Asistencia de Dominic Solanke.",
-    "news_item_url": "https://www.elmundo.es/deportes/futbol/premier-league/tottenham-liverpool/2024/12/22/01_0106_20241222_6_14-directo.html",
-    "picture_source": "MARCA.com",
-    "approx_traffic": "50,000+"
   },
   {
     "country": "United Kingdom",
