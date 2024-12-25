@@ -1,13 +1,33 @@
 [
   {
     "country": "United States",
+    "title": "Mega Millions",
+    "pubDate": "Tue, 24 Dec 2024 06:00:00 -0800",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSBn-Omi1S9I3WZSlZTkBKgyUvAD-zrMsLdPKEHrrUGNcEKTjm1t5lAOKrWoSZUbolm6haCj_lG",
+    "news_item_snippet": "Did you win the Mega Millions drawing on Christmas Eve? A jackpot of about $1 billion dollars is up for grabs. See the winning numbers here.",
+    "news_item_url": "https://www.usatoday.com/story/money/lottery/2024/12/24/mega-millions-winning-numbers/77203551007/",
+    "picture_source": "CBS News",
+    "approx_traffic": "500,000+"
+  },
+  {
+    "country": "United States",
     "title": "American Airlines",
     "pubDate": "Tue, 24 Dec 2024 09:00:00 -0800",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcT906UmItSBmc7A1AcJlXk51a0c8QFlawAx8Ea6ptFQxzs6S97Grdr_WYn4xTNnR9KmpczZKWtE",
-    "news_item_snippet": "American Airlines passengers across the U.S. endured a sudden disruption of service on Christmas Eve as a &quot;technical issue&quot; forced the airline to request a&nbsp;...",
-    "news_item_url": "https://www.npr.org/2024/12/24/nx-s1-5238182/american-airlines-ground-stop",
-    "picture_source": "The New York Times",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTVCQdpIoY7N9p80C-FQKNEdOfV8-w2K4ErkuUEJxtZzkOywfclW8e-Lntyw1razzsm4ZHnTqDo",
+    "news_item_snippet": "According to flight tracking service FlightAware, nearly half of American Airlines&#39; flights into and out of Atlanta experienced delays.",
+    "news_item_url": "https://www.fox5atlanta.com/news/american-airlines-flights-hartsfield-jackson-impacted-technical-issue",
+    "picture_source": "NPR",
     "approx_traffic": "200,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Home Alone",
+    "pubDate": "Tue, 24 Dec 2024 19:00:00 -0800",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQ4hfF4Pth0Zcs0dUjwFvd5lY02Idf8g8sRHt4eh9LKohc6z8bjXtQa4Rxpiy6W-dyi2aoO7rTT",
+    "news_item_snippet": "&quot;Home Alone&quot; was released in 1990 and is about bratty 8-year-old Kevin McCallister (Macaulay Culkin) who finds himself forced to sleep in the attic by his&nbsp;...",
+    "news_item_url": "https://www.azcentral.com/story/entertainment/movies/2024/12/24/where-to-stream-home-alone/76967907007/",
+    "picture_source": "Cincinnati.com",
+    "approx_traffic": "100,000+"
   },
   {
     "country": "United States",
@@ -17,26 +37,6 @@
     "news_item_snippet": "The holiday, also known as the &quot;Festival of Lights,&quot; celebrates the rededication of the Temple in Jerusalem in the 2nd century B.C. after the Jews overcame the&nbsp;...",
     "news_item_url": "https://www.cbsnews.com/news/hanukkah-christmas-december-25-2024-same-day/",
     "picture_source": "NBC New York",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Home Alone",
-    "pubDate": "Tue, 24 Dec 2024 19:00:00 -0800",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQ_GOYOwa5vAFTxzsCoM0dYFbbWElK6QgiM3DPfhMWSVaHccOklohQfiqx2aDwxHYdENoBS2Ku-",
-    "news_item_snippet": "(NEXSTAR) \u2013 Like a rusty paint can to the face, \u201cHome Alone\u201d left audiences in stitches upon its release in 1990. The film became an instant Christmas&nbsp;...",
-    "news_item_url": "https://www.abc4.com/news/national/a-future-snl-star-was-almost-cast-in-home-alone-but-he-blew-his-audition/",
-    "picture_source": "ABC 4",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Mega Millions drawing",
-    "pubDate": "Tue, 24 Dec 2024 06:00:00 -0800",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcR-CcrvMl-R3oqR28rLp0nu1RfM0Yzg9mquXK3ig3HeUNzlXLAG-yuiqZs-mPyuFbGch7IWs644",
-    "news_item_snippet": "This could be your lucky day. You could be the next Mega Millions lottery jackpot winner. This jackpot was an estimated $970 million for Tuesday night&#39;s&nbsp;...",
-    "news_item_url": "https://www.lohud.com/story/news/2024/12/24/winning-numbers-for-december-24-2024-mega-millions/77198592007/",
-    "picture_source": "USA TODAY",
     "approx_traffic": "100,000+"
   },
   {
@@ -51,22 +51,32 @@
   },
   {
     "country": "United States",
+    "title": "It's a Wonderful Life",
+    "pubDate": "Tue, 24 Dec 2024 17:00:00 -0800",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSvVeLEfLvfUNUC2UnFoTcwzkWqQqrNU1V7shqad-SBPnGHXt5TU3VdwuvC4ZO_qjnM6LJaSlgc",
+    "news_item_snippet": "When he was asked in 1984 if he thought It&#39;s a Wonderful Life contained autobiographical elements, the director of the film, Frank Capra, replied,&nbsp;...",
+    "news_item_url": "https://www.forbes.com/sites/anneeaston/2024/12/24/director-frank-capras-biography-gives-insight-into-its-a-wonderful-life-character-george-bailey/",
+    "picture_source": "Forbes",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Die Hard",
+    "pubDate": "Tue, 24 Dec 2024 20:00:00 -0800",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTA16wcLCUBHbuy9x10mHOTLhPYmW_Hy-v4rvbAkiJAfQyyxGCuLXgL1Qyv5D_J6yAokNqEv3__",
+    "news_item_snippet": "Is Die Hard a Christmas film? It&#39;s an age-old debate with only one correct answer, due to the fact that it includes two Christmas songs and the entire plot&nbsp;...",
+    "news_item_url": "https://www.thegamer.com/marvels-spider-man-miles-morales-die-hard/",
+    "picture_source": "TheGamer",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United States",
     "title": "Lakers",
     "pubDate": "Tue, 24 Dec 2024 06:00:00 -0800",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTpwim8xkI-E4klJ6hhYMm9wvc6XCN6o71Fih7mti52LUWR3eSlAYIn2kul1KxoazOj6J-RYFFY",
     "news_item_snippet": "The Los Angeles Lakers have continued to show interest in Toronto Raptors guard Bruce Brown after nearly signing him as a free agent during the 2023\u2026",
     "news_item_url": "https://bleacherreport.com/articles/10148451-nba-trade-rumors-lakers-like-bruce-brown-felt-theyd-sign-him-to-contract-in-2023",
     "picture_source": "Bleacher Report",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "United States",
-    "title": "It's a Wonderful Life",
-    "pubDate": "Tue, 24 Dec 2024 17:00:00 -0800",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSvVeLEfLvfUNUC2UnFoTcwzkWqQqrNU1V7shqad-SBPnGHXt5TU3VdwuvC4ZO_qjnM6LJaSlgc",
-    "news_item_snippet": "While the use of bells when Bevin Bells was founded in 1832 is much different today, the sixth-generation company continues to spread Christmas cheer&nbsp;...",
-    "news_item_url": "https://www.agweb.com/news/business/health/magic-behind-bell-making-famous-snl-more-cowbell-skit-iconic-bell-its-wonder",
-    "picture_source": "Forbes",
     "approx_traffic": "100,000+"
   },
   {
@@ -83,61 +93,41 @@
     "country": "United States",
     "title": "White Christmas",
     "pubDate": "Tue, 24 Dec 2024 19:00:00 -0800",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcS1JlRo_BJwwSOzmVqxz4r7V_BEStbaYcyKNxxaGAWwpTImNhWU1ojAalpsLSk3Vmb_3ktyZmOB",
-    "news_item_snippet": "SAGINAW, Mich. (WNEM)&nbsp;...",
-    "news_item_url": "https://www.wnem.com/2024/12/24/quiet-white-christmas-setting-up/",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQwFZYk9Nsm7SQqVbYuRwZHPDay_ahRiacaBlb6_VZcn7Ywh39t4EMMOt8kAfhnUqkwKdK6FA5W",
+    "news_item_snippet": "Overcast skies with seasonal temperatures expected through the day. Any leftover snow showers will be long gone by Christmas with the chance for even some&nbsp;...",
+    "news_item_url": "https://cnycentral.com/news/local/white-christmas-headed-to-central-new-york",
     "picture_source": "NBC News",
     "approx_traffic": "50,000+"
   },
   {
     "country": "United States",
-    "title": "Santa Tracker",
+    "title": "Nate Bargatze",
+    "pubDate": "Tue, 24 Dec 2024 18:00:00 -0800",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRwIoDOc8Q75D3rmEAwAt12V-SG7kew02LGu-mAq-WQ37YvAb18Cl9yTAPgqK1YGp-zgz6y7DXs",
+    "news_item_snippet": "Nate Bargatze&#39;s new Netflix special was released on Christmas Eve and he talks about his relationship with his wife throughout the hour-long set.",
+    "news_item_url": "https://www.justjared.com/2024/12/24/who-is-nate-bargatzes-wife-meet-laura-learn-about-how-they-met/",
+    "picture_source": "Just Jared",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Sophie Hediger",
+    "pubDate": "Tue, 24 Dec 2024 13:00:00 -0800",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSQkHUFwEBX1TByYjii9uuD_-jKHdnkg5iH04j9ALohwjGRdWlb4q-91QAlGWtjqG6ZIib8fTbI",
+    "news_item_snippet": "Sophie Hediger, a Swiss Olympic snowboarder, was killed Monday after she was caught in an avalanche in Arosa, Switzerland.",
+    "news_item_url": "https://www.usatoday.com/story/sports/2024/12/24/olympian-snowboarder-sophie-hediger-switzerland-death/77203719007/",
+    "picture_source": "NBC News",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
+    "title": "NORAD Santa Tracker",
     "pubDate": "Mon, 23 Dec 2024 19:00:00 -0800",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQ046R3dos2Zs22Mb46tfHAxjINI_QcrQ_Bsn2fCtrsfOS-yOB12wmOvdMbwe8YjttmHoG_0Pyh",
-    "news_item_snippet": "Each year, at least 100000 kids call into the North American Aerospace Defense Command in Colorado.",
-    "news_item_url": "https://www.cpr.org/2024/12/24/norad-santa-tracker-christmas-tradition/",
-    "picture_source": "ABC Action News",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTaZkTg96iD8ytMbAPyIKlmBdZ49ujYcS2emnVSV73DB_YsAspp8BiKzNJB2FYs_l2Q85nHj46g",
+    "news_item_snippet": "NORAD&#39;s Santa Tracker, the beloved decades-old tradition of virtually following Santa Claus as he delivers gifts to children around the world,&nbsp;...",
+    "news_item_url": "https://www.fox10phoenix.com/news/norad-santa-tracker-live-2024",
+    "picture_source": "Colorado Public Radio",
     "approx_traffic": "2,000,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Packers",
-    "pubDate": "Mon, 23 Dec 2024 18:00:00 -0800",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQwT-JaTNcjWWXtt89p1a_y9Np0ebdN3_DwqE6bCIdp4WTmKageONFbvduAfus5ybdwgkOKRrys",
-    "news_item_snippet": "Josh Jacobs gained 107&nbsp;...",
-    "news_item_url": "https://www.wlox.com/2024/12/24/packers-clinch-playoff-berth-with-1st-shutout-nfl-this-season-34-0-over-saints/",
-    "picture_source": "NewOrleansSaints.com",
-    "approx_traffic": "1,000,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Walmart Christmas Eve hours",
-    "pubDate": "Mon, 23 Dec 2024 20:00:00 -0800",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQk6y4VKH_3TQKAj1WQs56G-Qpdcugg7UNaB8G_TVF31WETmb-fpp4POJFw3HyIJBilXTzrAtEA",
-    "news_item_snippet": "Most grocery store and retail chains will be open on Christmas Eve. Here&#39;s what to know about Walmart and its store hours in California.",
-    "news_item_url": "https://www.desertsun.com/story/news/nation/california/2024/12/24/walmart-christmas-eve-hours-see-what-time-store-closes-in-california/77199701007/",
-    "picture_source": "NBC New York",
-    "approx_traffic": "500,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Santa Cruz Wharf collapse",
-    "pubDate": "Mon, 23 Dec 2024 16:00:00 -0800",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRQwxICSiPfRG4muo--sf28QLxqvJQjHaZbX4KNSSrbz4HRKUqi2yE1h-4Ock7KbzIBC4N48ulP",
-    "news_item_snippet": "(KRON) \u2014 A portion of the Santa Cruz Wharf has collapsed and is floating away Monday, according to the National Weather Service.",
-    "news_item_url": "https://www.kron4.com/news/california/santa-cruz-pier-partially-collapses-amid-heavy-waves-pounding-coast/",
-    "picture_source": "KSBW The Central Coast",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Dallas Cowboys",
-    "pubDate": "Mon, 23 Dec 2024 13:00:00 -0800",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRvCEhXSMQ1BeusFKaLd3PRMTo7WnNdnd33HndZmWa8jU2iMddv2K9K_-UWHK8OLc5JJKIz-Kdw",
-    "news_item_snippet": "Let&#39;s rank the top five moments from primetime games in 2024 that fans will reminisce for years to come.",
-    "news_item_url": "https://www.dallascowboys.com/news/high-5-five-primetime-moments-to-remember-from-2024",
-    "picture_source": "DallasCowboys.com",
-    "approx_traffic": "200,000+"
   },
   {
     "country": "India",
@@ -147,7 +137,7 @@
     "news_item_snippet": "IND-W vs WI-W: Get the highlights of the second ODI match between India and West Indies, which happened at the Vadodara International Cricket Stadium in&nbsp;...",
     "news_item_url": "https://sportstar.thehindu.com/cricket/womens-cricket/india-vs-west-indies-womens-odi-2nd-match-live-score-streaming-telecast-scorecard-playing-11/article69020504.ece",
     "picture_source": "ESPNcricinfo.com",
-    "approx_traffic": "500,000+"
+    "approx_traffic": "1,000,000+"
   },
   {
     "country": "India",
@@ -157,7 +147,17 @@
     "news_item_snippet": "Celebrate Merry Christmas 2024 with 50+ heartfelt wishes, quotes, and greeting messages to share with your friends and family. Spread love, joy, and festive&nbsp;...",
     "news_item_url": "https://www.jagranjosh.com/general-knowledge/merry-christmas-2024-top-wishes-quotes-greetings-messages-to-share-with-friends-family-whatsapp-facebook-instagram-status-and-stories-1735037721-1",
     "picture_source": "Business Standard",
-    "approx_traffic": "200,000+"
+    "approx_traffic": "500,000+"
+  },
+  {
+    "country": "India",
+    "title": "Vijay Hazare Trophy",
+    "pubDate": "Tue, 24 Dec 2024 01:30:00 +0530",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRYKYF1wdFNNsJcMSO6FYxaGWfRyJl4GXySZBP9ARFJ28ywC1XydaLI1BcxJH5_yoBXIWUoDzsu",
+    "news_item_snippet": "The Rajasthan cricket team beat Andhra Pradesh in the Vijay Hazare Trophy 2024-25 Group B match. Ram Chouhan, Mahipal Lomror scored centuries.",
+    "news_item_url": "https://www.rajasthanroyals.com/latest-news/vijay-hazare-trophy-2024-25-rajasthan-vs-andhra-pradesh-report",
+    "picture_source": "Rajasthan Royals",
+    "approx_traffic": "50,000+"
   },
   {
     "country": "India",
@@ -167,15 +167,15 @@
     "news_item_snippet": "Merry Christmas Wishes in hindi : \u0939\u0930 \u0938\u093e\u0932 \u092c\u0921\u093c\u0947 \u0927\u0942\u092e-\u0927\u093e\u092e \u0938\u0947 \u0915\u094d\u0930\u093f\u0938\u092e\u0938 \u0915\u093e \u0924\u094d\u092f\u094b\u0939\u093e\u0930 \u092e\u0928\u093e\u092f\u093e \u091c\u093e\u0924\u093e \u0939\u0948\u0964 \u0915\u094d\u0930\u093f\u0938\u092e\u0938 \u0915\u093e \u0924\u094d\u092f\u094b\u0939\u093e\u0930 \u0938\u094d\u092a\u0947\u0936\u0932 \u092c\u0928\u093e\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u092d\u0947\u091c\u0947\u0902 \u092f\u0947&nbsp;...",
     "news_item_url": "https://www.livehindustan.com/astrology/merry-christmas-wishes-share-happy-christmas-photos-wishes-messages-shayari-facebook-status-greetings-quotes-201735046958275.html",
     "picture_source": "Business Standard",
-    "approx_traffic": "500,000+"
+    "approx_traffic": "1,000,000+"
   },
   {
     "country": "India",
     "title": "Mamata Machinery IPO GMP",
     "pubDate": "Mon, 23 Dec 2024 12:30:00 +0530",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcT2mXRds2Rne3KFXGGZKwp5SA7m3U3wrsiasy8aB2sRg4J7I8AJxHsPbJ_iavERDmvRN0mfPEgQ",
-    "news_item_snippet": "Mamata Machinery sold its shares in the price band of Rs 230-243 apiece, which could be applied for a minimum of 61 shares and its multiples to raise a&nbsp;...",
-    "news_item_url": "https://www.businesstoday.in/markets/ipo-corner/story/mamata-machinery-ipo-allotment-status-check-application-latest-gmp-listing-date-458358-2024-12-24",
+    "news_item_snippet": "Mamata Machinery, established in April 1979, specialises in the manufacturing and export of machines used for producing plastic bags, pouches, packaging, and&nbsp;...",
+    "news_item_url": "https://www.livemint.com/market/stock-market-news/mamata-machinery-ipo-day-3-live-updates-mamata-machinery-ipo-gmp-today-subscription-status-price-band-review-11734925247007.html",
     "picture_source": "Business Standard",
     "approx_traffic": "100,000+"
   },
@@ -214,35 +214,15 @@
     "title": "Santa Tracker",
     "pubDate": "Tue, 24 Dec 2024 13:00:00 +1100",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQ046R3dos2Zs22Mb46tfHAxjINI_QcrQ_Bsn2fCtrsfOS-yOB12wmOvdMbwe8YjttmHoG_0Pyh",
-    "news_item_snippet": "GHENT, WV (WVNS) \u2014 As people enjoy the holiday season, one Christmas tradition that many look forward to is tracking Santa as he travels across the globe.",
-    "news_item_url": "https://www.wvnstv.com/home-for-the-holidays/how-a-wrong-number-helped-launch-the-santa-tracker/",
+    "news_item_snippet": "On Christmas Eve, U.S. Space Force Guardians of the 7th Space Warning Squadron (7 SWS) at Beale Air Force Base picked up an unusually jolly radar signature&nbsp;...",
+    "news_item_url": "https://www.beale.af.mil/News/Article-Display/Article/4016547/reindeer-on-the-radar-7-sws-continues-santa-tracker-tradition/",
     "picture_source": "ABC Action News",
     "approx_traffic": "100,000+"
   },
   {
-    "country": "Canada",
-    "title": "Santa Tracker",
-    "pubDate": "Mon, 23 Dec 2024 18:00:00 -0500",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRtit7TTX66KdhSL6_lfAuOgINS2XVFfWDvakrGGBPlZQr1VbMrDMqqB59polRKCdCHDbtUVKM2",
-    "news_item_snippet": "Each year, at least 100000 kids call into the North American Aerospace Defense Command to inquire about Santa&#39;s location, with millions more online in nine&nbsp;...",
-    "news_item_url": "https://globalnews.ca/news/10932831/santa-claus-norad-tracker-history/",
-    "picture_source": "Toronto.com",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "Saudi Arabia",
-    "title": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0636\u062f \u0627\u0644\u0643\u0648\u064a\u062a",
-    "pubDate": "Tue, 24 Dec 2024 20:00:00 +0300",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTvb-4TjcKrLqjc5MlW7jTtiWkjmuHOZtoChipGgaAKor5ANpCyrUKB1gdEFygXnNnUerOt9TSw",
-    "news_item_snippet": "\u0648\u0633\u0637 \u0627\u0644\u0645\u064a\u062f\u0627\u0646: \u0639\u0628\u062f\u0627\u0644\u0644\u0647 \u0627\u0644\u0645\u0646\u0647\u0627\u0644\u064a- \u0641\u0627\u0628\u064a\u0648 \u0644\u064a\u0645\u0627- \u0645\u0627\u0643\u064a\u0646\u0632\u064a \u0647\u0648\u0646\u062a. \u062e\u0637 \u0627\u0644\u0647\u062c\u0648\u0645: \u064a\u062d\u064a\u0649 \u0627\u0644\u063a\u0633\u0627\u0646\u064a- \u0643\u0627\u064a\u0648 \u0643\u0627\u0646\u064a\u062f\u0648- \u062d\u0627\u0631\u0628 \u0633\u0647\u064a\u0644. \u062a\u0634\u0643\u064a\u0644 \u0645\u0646\u062a\u062e\u0628 \u0627\u0644\u0643\u0648\u064a\u062a \u0636\u062f \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u064a\u0648\u0645.",
-    "news_item_url": "https://www.almasryalyoum.com/news/details/3336970",
-    "picture_source": "\u0627\u0644\u064a\u0648\u0645 \u0627\u0644\u0633\u0627\u0628\u0639",
-    "approx_traffic": "50,000+"
-  },
-  {
     "country": "Saudi Arabia",
     "title": "\u062d\u0633\u0627\u0628 \u0627\u0644\u0645\u0648\u0627\u0637\u0646",
-    "pubDate": "Mon, 23 Dec 2024 20:00:00 +0300",
+    "pubDate": "Mon, 23 Dec 2024 19:00:00 +0300",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRTwol367OUqwAV0rWRc1poyraV5qGTn37fvLJHmVatCeL6zF_aU_ofbUZOA_0UeTtvcwe2tS9R",
     "news_item_snippet": "\u0648\u0643\u0627\u0646 \u0628\u0631\u0646\u0627\u0645\u062c \u062d\u0633\u0627\u0628 \u0627\u0644\u0645\u0648\u0627\u0637\u0646 \u0642\u062f \u0623\u0648\u062f\u0639 3.4 \u0645\u0644\u064a\u0627\u0631 \u0631\u064a\u0627\u0644 \u0645\u062e\u0635\u0635 \u062f\u0639\u0645 \u0634\u0647\u0631 \u062f\u064a\u0633\u0645\u0628\u0631 \u0644\u0644\u0645\u0633\u062a\u0641\u064a\u062f\u064a\u0646 \u0627\u0644\u0645\u0643\u062a\u0645\u0644\u0629 \u0637\u0644\u0628\u0627\u062a\u0647\u0645. \u0648\u0628\u0644\u063a \u0639\u062f\u062f \u0627\u0644\u0645\u0633\u062a\u0641\u064a\u062f\u064a\u0646 \u0627\u0644\u0645\u0633\u062a\u0648\u0641\u064a\u0646 \u0644\u0645\u0639\u0627\u064a\u064a\u0631 \u0627\u0644\u0627\u0633\u062a\u062d\u0642\u0627\u0642 \u0641\u064a \u0627\u0644\u062f\u0641\u0639\u0629&nbsp;...",
     "news_item_url": "https://sabq.org/saudia/mauvl8zyf1",
@@ -257,15 +237,55 @@
     "news_item_snippet": "VID\u00c9O - Au lendemain de l&#39;annonce du gouvernement, les ministres du gouvernement de Fran\u00e7ois Bayrou ont pris leurs fonctions ce mardi 24 d\u00e9cembre,&nbsp;...",
     "news_item_url": "https://www.bfmtv.com/politique/gouvernement/gouvernement-bayrou-ce-qui-compte-c-est-qu-on-puisse-trouver-ce-compromis-affirme-pierre-yves-bournazel-horizons_VN-202412240581.html",
     "picture_source": "Lib\u00e9ration",
+    "approx_traffic": "500,000+"
+  },
+  {
+    "country": "France",
+    "title": "Eric Lombard",
+    "pubDate": "Mon, 23 Dec 2024 19:00:00 +0100",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQzdUZCr9l5pHPshmch6lgmjjCwZAEHmZkokivJH0FQAdlkdM6zqUnPHncI1rRRd2OxS19OhD6m",
+    "news_item_snippet": "Nomm\u00e9 \u00e0 Bercy, l&#39;ancien directeur g\u00e9n\u00e9ral de la Caisse des d\u00e9p\u00f4ts et consignations croit dans son profil et sa m\u00e9thode pour faire adopter un budget 2025&nbsp;...",
+    "news_item_url": "https://www.lemonde.fr/economie/article/2024/12/24/eric-lombard-un-banquier-de-gauche-a-l-economie_6464803_3234.html",
+    "picture_source": "Europe1",
     "approx_traffic": "200,000+"
+  },
+  {
+    "country": "France",
+    "title": "Manuel Valls",
+    "pubDate": "Mon, 23 Dec 2024 19:00:00 +0100",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcS0wpP5XHWdzHsppQ3Th4g5GeSBudjXpxvjmuNVwYQZHYnpwWa7WxELsAmvJ4095Mkakhluf2MR",
+    "news_item_snippet": "Au lendemain de l&#39;annonce du gouvernement, les ministres de Fran\u00e7ois Bayrou prennent leurs fonctions ce mardi 24 d\u00e9cembre, \u00e0 la veille de No\u00ebl,&nbsp;...",
+    "news_item_url": "https://www.bfmtv.com/politique/gouvernement/direct-nouveau-gouvernement-valls-borne-darmanin-les-passations-de-pouvoir-se-poursuivent-ce-matin_LN-202412240027.html",
+    "picture_source": "FRANCE 24",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "France",
+    "title": "Joyeux noel",
+    "pubDate": "Mon, 23 Dec 2024 21:00:00 +0100",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQ147-uUngUQ6cXlquuYn_1Uzei3-1TesiNQyVCiLNlqy5RjEYpZ_E5CyBIJ_KsNXtMs0lX70xoyw",
+    "news_item_snippet": "La grande famille du Red Star FC vous souhaite un joyeux No\u00ebl ! Rendez-vous sur nos r\u00e9seaux sociaux pour nous partager vos cadeaux aux couleurs de l&#39;\u00c9toile&nbsp;...",
+    "news_item_url": "https://www.redstar.fr/2024-12-25/divers/joyeux-noel-2024/",
+    "picture_source": "Red Star",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "France",
+    "title": "Catherine Vautrin",
+    "pubDate": "Mon, 23 Dec 2024 19:00:00 +0100",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTEBRIrJIeyBGF82a6qvOdrRLZuaWgyGMQktPUfgXHyQlyhpdkjCN02gmga9mYWq8QiBzmN4Uaw",
+    "news_item_snippet": "Catherine Vautrin a \u00e9t\u00e9 nomm\u00e9e ministre du travail, de la sant\u00e9, des solidarit\u00e9s et de la famille, lundi 23 d\u00e9cembre. Elle remplace Astrid Panosyan-Bouvet,&nbsp;...",
+    "news_item_url": "https://www.centre-inffo.fr/site-centre-inffo/actualites-centre-inffo/le-quotidien-de-la-formation-actualite-formation-professionnelle-apprentissage/articles-2024/catherine-vautrin-nommee-ministre-du-travail",
+    "picture_source": "Minist\u00e8re des Solidarit\u00e9s",
+    "approx_traffic": "50,000+"
   },
   {
     "country": "Germany",
     "title": "Kevin Allein zu Haus",
     "pubDate": "Tue, 24 Dec 2024 19:00:00 +0100",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTycHg53eCNt6G6rKBGEhq-n_walWWlwxwA8r0JbOZc173xChXelPwtxPbPRzmmRj4kzHIRqdqA",
-    "news_item_snippet": "Seit mehr als 20 Jahren schreibt Bj\u00f6rn Becher \u00fcber Filme und Serien. Hier bei FILMSTARTS.de k\u00fcmmert er sich um &quot;Star Wars&quot; - aber auch um alles, was gerade im&nbsp;...",
-    "news_item_url": "https://www.filmstarts.de/nachrichten/1000119916.html",
+    "news_item_snippet": "Mit \u00bbKevin \u2013 Allein zu Haus\u00ab wurde Regisseur Chris Columbus ber\u00fchmt. Die Regie f\u00fcr den Welterfolg bekam er allerdings nur, weil er bei \u00bbSch\u00f6ne Bescherung\u00ab&nbsp;...",
+    "news_item_url": "https://www.spiegel.de/kultur/kevin-allein-zu-haus-wie-regisseur-chris-columbus-den-durchbruch-schaffte-und-mit-chevy-chase-stritt-a-a9eb7891-c145-4ff6-af61-7deba59b2870",
     "picture_source": "DER SPIEGEL",
     "approx_traffic": "50,000+"
   },
@@ -274,8 +294,8 @@
     "title": "Weihnachtsgr\u00fc\u00dfe",
     "pubDate": "Mon, 23 Dec 2024 16:00:00 +0100",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTaJkkUV-dDsn053Z7sUi04zWBd6XGgZD27l9mh2EbKMgWNdmz-7MsUa21vFRD128hG3nsrQJmx",
-    "news_item_snippet": "&quot;Gru\u00df an Bord&quot; ist ein Klassiker im Radioprogramm von NDR Info. Familien und Freunde schickten auch 2024 Weihnachtsgr\u00fc\u00dfe an Seeleute.",
-    "news_item_url": "https://www.ndr.de/nachrichten/info/veranstaltungen/Gruss-an-Bord-sendet-Weihnachtsgruesse-an-Seeleute-in-aller-Welt,grussanbord690.html",
+    "news_item_snippet": "Bremen (HB) \u2013 Ein weiteres Jahr mit vielen Herausforderungen und voller Einsatzbereitschaft geht zu Ende. F\u00fcr viele von euch war es ein Jahr, das Engagement&nbsp;...",
+    "news_item_url": "https://www.feuerwehrmagazin.de/nachrichten/weihnachtsgruesse-vom-feuerwehr-magazin-133888",
     "picture_source": "Feuerwehr-Magazin",
     "approx_traffic": "200,000+"
   },
@@ -353,10 +373,10 @@
     "country": "Italy",
     "title": "Babbo Natale",
     "pubDate": "Tue, 24 Dec 2024 15:00:00 +0100",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTHTDM5fUGFFCEq4lBA-FTkBrpFU8ojkegbQ79R_-c2acs01Md7Xl_8EwYQAuiiSdmnX4U7s1nF",
-    "news_item_snippet": "Luned\u00ec 23 dicembre Babbo Natale ha bussato alle porte della Pediatria di Tolmezzo e assieme ai suoi aiutanti folletti ha distribuito doni ai piccoli&nbsp;...",
-    "news_item_url": "https://asufc.sanita.fvg.it/it/news/natale_2024_ped-tolmezzo.html",
-    "picture_source": "Sky Tg24",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcT4ytR3f95s9ZnMXRA3cW3iCTI2QL0VRgay8xB2vT5n_-g3FoBhyyBicPoBaXOAcbDfhwzJsM0b",
+    "news_item_snippet": "Babbo Natale torna protagonista con il suo magico viaggio intorno al mondo, seguito in tempo reale dal North American Aerospace Defense Command.",
+    "news_item_url": "https://tg24.sky.it/tecnologia/2024/12/24/santa-tracker-google-norad",
+    "picture_source": "Azienda sanitaria universitaria Friuli Centrale (ASU FC)",
     "approx_traffic": "50,000+"
   },
   {
@@ -378,6 +398,16 @@
     "news_item_url": "https://www.nmas.com.mx/tendencias/mejores-imagenes-navidad-2024-para-felicitar-24-de-diciembre-familia-amigos/",
     "picture_source": "euronews",
     "approx_traffic": "100,000+"
+  },
+  {
+    "country": "Mexico",
+    "title": "Santa Claus",
+    "pubDate": "Tue, 24 Dec 2024 00:00:00 -0600",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcT8nG8bZaiXIsat-E-Ncj_ZFjAUIx93ys1-2UNG6Cvavu4599Zln_-io00IAfF6Igm5LfuCWwKc",
+    "news_item_snippet": "Si deseas conocer la ruta que sigue Santa Claus mientras reparte los obsequios puedes usar esta herramienta.",
+    "news_item_url": "https://wradio.com.mx/2024/12/24/asi-puedes-seguir-la-ruta-de-santa-claus-en-tiempo-real-con-santa-tracker-de-google/",
+    "picture_source": "El Financiero",
+    "approx_traffic": "50,000+"
   },
   {
     "country": "Spain",
@@ -413,10 +443,10 @@
     "country": "United Kingdom",
     "title": "Home Alone",
     "pubDate": "Tue, 24 Dec 2024 20:00:00 +0000",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTroR_BkXoDAP6fT8IAs2mUicKXgqBvsmMNbkNcQpaj_3SZ6yzeSSI-HLn18jLpFB1OXusME4Zs",
-    "news_item_snippet": "(NEXSTAR) \u2013 Like a rusty paint can to the face, \u201cHome Alone\u201d left audiences in stitches upon its release in 1990. The film became an instant Christmas&nbsp;...",
-    "news_item_url": "https://www.abc4.com/news/national/a-future-snl-star-was-almost-cast-in-home-alone-but-he-blew-his-audition/",
-    "picture_source": "Yahoo News UK",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRjokK8QO-wNIcQ6qPCYhnT0ZHcbNt0sk5ejnNecIYqQs5uBU-r1wusZjcyks9B6lsdxy0ITTCJ",
+    "news_item_snippet": "Chris Columbus talks producing &#39;Nosferatu,&#39; in theaters for Christmas, helming &#39;Harry Potter&#39; and &#39;Home Alone&#39; Chevy Chase story on THR&#39;s Awards Chatter&nbsp;...",
+    "news_item_url": "https://www.hollywoodreporter.com/movies/movie-news/chris-columbus-nosferatu-home-alone-chevy-chase-1236093771/",
+    "picture_source": "Hollywood Reporter",
     "approx_traffic": "50,000+"
   },
   {
