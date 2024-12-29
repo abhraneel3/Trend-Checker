@@ -1,6 +1,16 @@
 [
   {
     "country": "United States",
+    "title": "Bengals",
+    "pubDate": "Sat, 28 Dec 2024 11:00:00 -0800",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcR-8R6S9KxDY4LDtNEkcmTRc8fz1W97-tjQ7ePu8eJIzQL4ytI7crQP1pQwKyWMbZtUThiqoBqz",
+    "news_item_snippet": "Denver will pair its Summit White jerseys with white pants and Midnight Navy socks for a Week 17 matchup with the Cincinnati Bengals.",
+    "news_item_url": "https://www.denverbroncos.com/news/broncos-to-wear-summit-white-jerseys-and-pants-vs-bengals",
+    "picture_source": "Bengals.com",
+    "approx_traffic": "1,000,000+"
+  },
+  {
+    "country": "United States",
     "title": "Colorado football",
     "pubDate": "Sat, 28 Dec 2024 08:00:00 -0800",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRRQhm9zY7ZnveMjnC7dnJmYzJJSfkWTnDub93MfOcqkcYYQVovKfrquy-gEWVhyGR1TRfIB8OK",
@@ -8,16 +18,6 @@
     "news_item_url": "https://www.espn.com.au/college-football/recap?gameId=401677099",
     "picture_source": "USA TODAY",
     "approx_traffic": "1,000,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Bengals",
-    "pubDate": "Sat, 28 Dec 2024 11:00:00 -0800",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcR-8R6S9KxDY4LDtNEkcmTRc8fz1W97-tjQ7ePu8eJIzQL4ytI7crQP1pQwKyWMbZtUThiqoBqz",
-    "news_item_snippet": "Denver will pair its Summit White jerseys with white pants and Midnight Navy socks for a Week 17 matchup with the Cincinnati Bengals.",
-    "news_item_url": "https://www.denverbroncos.com/news/broncos-to-wear-summit-white-jerseys-and-pants-vs-bengals",
-    "picture_source": "Bengals.com",
-    "approx_traffic": "500,000+"
   },
   {
     "country": "United States",
@@ -47,16 +47,6 @@
     "news_item_snippet": "Denver will pair its Summit White jerseys with white pants and Midnight Navy socks for a Week 17 matchup with the Cincinnati Bengals.",
     "news_item_url": "https://www.denverbroncos.com/news/broncos-to-wear-summit-white-jerseys-and-pants-vs-bengals",
     "picture_source": "DenverBroncos.com",
-    "approx_traffic": "500,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Broncos",
-    "pubDate": "Sat, 28 Dec 2024 11:00:00 -0800",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQ9nMlaDlpA7Xckewfs92hJtbre-2TSezcGD27Iqw30-453LQsC0Cbi29HVJqdMNdhzG8pggMX_",
-    "news_item_snippet": "Denver will pair its Summit White jerseys with white pants and Midnight Navy socks for a Week 17 matchup with the Cincinnati Bengals.",
-    "news_item_url": "https://www.denverbroncos.com/news/broncos-to-wear-summit-white-jerseys-and-pants-vs-bengals",
-    "picture_source": "DenverBroncos.com",
     "approx_traffic": "200,000+"
   },
   {
@@ -71,22 +61,22 @@
   },
   {
     "country": "United States",
-    "title": "NFL playoff picture",
-    "pubDate": "Sat, 28 Dec 2024 18:00:00 -0800",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSJCGYvAroXdBnCDdXJTe9xufzwMXJxqdP4MjuvTaMGBxXxSeK4IGgsh3DekCqsX7cNeDXuuYLY",
-    "news_item_snippet": "Saturday&#39;s eventful tripleheader saw one team clinch a playoff berth, another nearly do the same, and a third fumble a golden opportunity.",
-    "news_item_url": "https://www.usatoday.com/story/sports/nfl/2024/12/28/nfl-playoff-picture-week-17-afc-nfc-seeds-byes-chargers-broncos-rams/77289879007/",
-    "picture_source": "ESPN",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "United States",
     "title": "Nebraska football",
     "pubDate": "Sat, 28 Dec 2024 07:00:00 -0800",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTVrZv1ET3bsnkwdrP1VcvNKalLSOSqDl5JR9AidY9-0CBOP8PvNT_p48FyNe-69iFPxTH09UWn",
     "news_item_snippet": "NEW YORK CITY \u2014 In just his second season, head coach Matt Rhule has done something that has become foreign to thousands of Nebraska fans: Win a bowl game.",
     "news_item_url": "https://www.dailynebraskan.com/sports/four-takeaways-from-nebraska-footballs-pinstripe-bowl-victory-over-boston-college/article_8f674fac-c565-11ef-99b5-bf30bdf007f5.html",
     "picture_source": "NET Nebraska",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "United States",
+    "title": "NFL playoff picture",
+    "pubDate": "Sat, 28 Dec 2024 19:00:00 -0800",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSJCGYvAroXdBnCDdXJTe9xufzwMXJxqdP4MjuvTaMGBxXxSeK4IGgsh3DekCqsX7cNeDXuuYLY",
+    "news_item_snippet": "Saturday&#39;s eventful tripleheader saw one team clinch a playoff berth, another nearly do the same, and a third fumble a golden opportunity.",
+    "news_item_url": "https://www.usatoday.com/story/sports/nfl/2024/12/28/nfl-playoff-picture-week-17-afc-nfc-seeds-byes-chargers-broncos-rams/77289879007/",
+    "picture_source": "ESPN",
     "approx_traffic": "200,000+"
   },
   {
@@ -113,10 +103,10 @@
     "country": "United States",
     "title": "Dayle Haddon",
     "pubDate": "Sat, 28 Dec 2024 00:00:00 -0800",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSSahCyZHD0oQwxWpU0KyxLS8BVQRMGZEuNQUdKU6dLEzkvGtO7SJRYHSnTV80wFwwju3ntUJ3e",
-    "news_item_snippet": "Actress and model Dayle Haddon died from suspected carbon monoxide poisoning inside a home in Bucks County, Pennsylvania.",
-    "news_item_url": "https://www.nbcphiladelphia.com/news/local/actress-model-dayle-haddon-dies-from-suspected-carbon-monoxide-poisoning/4063600/",
-    "picture_source": "KGNS.tv",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSTcCLwLqW8ESF0OohioPnFxTZerjf_-8Tog0ZbaDZ0H9FyY_1aYqOoCkbiYBXR1998sMzR1lyK",
+    "news_item_snippet": "Dayle Haddon was an&nbsp;...",
+    "news_item_url": "https://www.kgns.tv/2024/12/28/trailblazing-model-dayle-haddon-dies-suspected-carbon-monoxide-poisoning/",
+    "picture_source": "NBC 10 Philadelphia",
     "approx_traffic": "100,000+"
   },
   {
@@ -137,6 +127,16 @@
     "news_item_snippet": "What is Wordle? Wordle is a deceptively simple daily word game that first emerged in 2021. The gist is that there is one five-letter word to deduce every day by&nbsp;...",
     "news_item_url": "https://www.yahoo.com/tech/wordle-hints-today-for-1289-clues-and-answer-for-sunday-december-29-050200548.html",
     "picture_source": "Forbes",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Broncos game",
+    "pubDate": "Sat, 28 Dec 2024 13:00:00 -0800",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcR-8R6S9KxDY4LDtNEkcmTRc8fz1W97-tjQ7ePu8eJIzQL4ytI7crQP1pQwKyWMbZtUThiqoBqz",
+    "news_item_snippet": "Facing a halftime deficit, the Broncos responded. Staring down a pair of seven-point deficits in the fourth quarter, Denver punched back. Needing a touchdown&nbsp;...",
+    "news_item_url": "https://www.denverbroncos.com/news/the-will-to-compete-and-answer-it-was-pretty-impressive-broncos-battle-in-hard-fought-game-vs-bengals-fall-30-24-in-overtime-thriller",
+    "picture_source": "Bengals.com",
     "approx_traffic": "50,000+"
   },
   {
@@ -184,7 +184,7 @@
     "title": "Knicks",
     "pubDate": "Sat, 28 Dec 2024 05:00:00 -0800",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQaXo_Zfx36vtZwVUypgXtDAN7VxbHvxd1jIv25Ca8lSw9oO00xdF1krTT0Z9oVK-4-QCia7_VQ",
-    "news_item_snippet": "What should&#39;ve been an easy evening turned into a dogfight for the Knicks, who required 55 points from Jalen Brunson to squeak out Saturday&#39;s 136-132&nbsp;...",
+    "news_item_snippet": "They allowed themselves to enter a danger zone against the tanking Wizards, the worst team in the East, and entered their first overtime of the season because&nbsp;...",
     "news_item_url": "https://nypost.com/2024/12/28/sports/jalen-brunson-pours-in-55-points-to-lead-knicks-to-win-over-wizards/",
     "picture_source": "ESPN",
     "approx_traffic": "50,000+"
@@ -211,16 +211,6 @@
   },
   {
     "country": "India",
-    "title": "Marnus Labuschagne",
-    "pubDate": "Sun, 29 Dec 2024 08:30:00 +0530",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSGRw6HL3x5aGbuCe3qU4JElHACM9YXUGNkHCo2YpRZfi9858PL7b6FQJXl6zceROER-OBzaJI_",
-    "news_item_snippet": "Australia were on the brink on the fourth morning before Marnus Labuschagne absorbed pressure and paved the way for the lower order.",
-    "news_item_url": "https://www.espncricinfo.com/story/marnus-labuschagne-digs-deep-to-handle-jasprit-bumrahs-heat-1467085",
-    "picture_source": "Times of India",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "India",
     "title": "Pat Cummins",
     "pubDate": "Sun, 29 Dec 2024 12:30:00 +0530",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcShJ35rHaphRjBbjSTLgVicEjHWaT0LhTKUJyiROtgyg2IgOyNFBE0ts6cpmPmuhVgTHPS2cdNd",
@@ -237,16 +227,6 @@
     "news_item_snippet": "Selection Committee Chairman MSK Prasad responded to Telugu boy Nitish Kumar Reddys century. He said that Nitish played very well.",
     "news_item_url": "https://telugu.mykhel.com/cricket/former-indian-player-msk-prasad-recognized-nitish-kumar-ten-years-ago-083567.html",
     "picture_source": "NDTVSports.com",
-    "approx_traffic": "500,000+"
-  },
-  {
-    "country": "India",
-    "title": "New Zealand vs Sri Lanka",
-    "pubDate": "Sat, 28 Dec 2024 12:30:00 +0530",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTArTedb1k54DOrn4q0bkd0X56n0hARUyH7Z9C2WhMtem9UpLKLY-CvztuxjG222j26FbYRAk83",
-    "news_item_snippet": "NZ vs SL 2024/25, New Zealand vs Sri Lanka Match Report: New Zealand fight back with bat and ball for eight-run win in series opener.",
-    "news_item_url": "https://www.espncricinfo.com/series/new-zealand-vs-sri-lanka-2024-25-1443537/new-zealand-vs-sri-lanka-1st-t20i-1443543/match-report",
-    "picture_source": "India Today",
     "approx_traffic": "500,000+"
   },
   {
@@ -298,16 +278,6 @@
     "news_item_url": "https://m.economictimes.com/news/international/global-trends/squid-game-season-2-lee-jung-jae-when-does-netflix-drama-release-in-us-check-update-on-season-3-how-to-watch-all-episodes-free/articleshow/116688726.cms",
     "picture_source": "BBC News",
     "approx_traffic": "200,000+"
-  },
-  {
-    "country": "India",
-    "title": "Dr. Manmohan Singh death",
-    "pubDate": "Thu, 26 Dec 2024 23:30:00 +0530",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRBX6HmpAatNByuNeeuiPdeLzC3kfmz5cl32P77Lsk60-tTajbyqb8rBPv_-7IAoc01CpWHZ9qr",
-    "news_item_snippet": "Manmohan Singh death news: India&#39;s 14th Prime Minister Manmohan Singh passes away at 92 on December 26, 2024. Stay informed with the latest updates from The&nbsp;...",
-    "news_item_url": "https://www.thehindu.com/news/national/former-prime-minsiter-manmohan-singh-passes-away-reactions-live-updates/article69030751.ece",
-    "picture_source": "Hindustan Times",
-    "approx_traffic": "100,000+"
   },
   {
     "country": "Australia",
@@ -372,11 +342,21 @@
   {
     "country": "Saudi Arabia",
     "title": "\u0627\u0644\u0628\u062d\u0631\u064a\u0646 \u0636\u062f \u0627\u0644\u064a\u0645\u0646",
-    "pubDate": "Fri, 27 Dec 2024 23:00:00 +0300",
+    "pubDate": "Fri, 27 Dec 2024 22:00:00 +0300",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTXv9MkCZvNE1tHb48THUcROq7a-ys_jlu_x3tbIbUCy0aiqxlpql0hZo-RZREUdpKzyaZgjbVi",
     "news_item_snippet": "\u0645\u0646\u064a \u0645\u0646\u062a\u062e\u0628 \u0627\u0644\u0628\u062d\u0631\u064a\u0646 \u0628\u0647\u0632\u064a\u0645\u0629 \u0642\u0627\u0633\u064a\u0629 \u0623\u0645\u0627\u0645 \u0627\u0644\u064a\u0645\u0646 \u0628\u0646\u062a\u064a\u062c\u0629 2-1 \u0641\u064a \u0627\u0644\u0645\u0628\u0627\u0631\u0627\u0629 \u0627\u0644\u062a\u064a \u0623\u0642\u064a\u0645\u062a \u0628\u064a\u0646\u0647\u0645\u0627 \u0645\u0633\u0627\u0621 \u0627\u0644\u064a\u0648\u0645 \u0627\u0644\u0633\u0628\u062a \u0639\u0644\u0649 \u0645\u0644\u0639\u0628 \u0627\u0633\u062a\u0627\u062f \u062c\u0627\u0628\u0631 \u0627\u0644\u0645\u0628\u0627\u0631\u0643\u060c \u0636\u0645\u0646 \u0645\u0646\u0627\u0641\u0633\u0627\u062a \u0627\u0644\u062c\u0648\u0644\u0629 \u0627\u0644\u062b\u0627\u0644\u062b\u0629&nbsp;...",
     "news_item_url": "https://www.youm7.com/story/2024/12/28/%D9%85%D9%86%D8%AA%D8%AE%D8%A8-%D8%A7%D9%84%D9%8A%D9%85%D9%86-%D9%8A%D9%81%D9%88%D8%B2-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D9%86-%D8%A8%D8%AB%D9%86%D8%A7%D8%A6%D9%8A%D8%A9-%D9%81%D9%89-%D8%AE%D9%84%D9%8A%D8%AC%D9%8A-26-%D9%81%D9%8A%D8%AF%D9%8A%D9%88/6827216",
     "picture_source": "\u0625\u0631\u0645 \u0646\u064a\u0648\u0632",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "France",
+    "title": "Crash avion Cor\u00e9e",
+    "pubDate": "Sat, 28 Dec 2024 10:00:00 +0100",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTubAc4SyW8M4QydGHQpqescDT-n06aijgBdGjMeZvnzdw-fH1HdCxXXA8jG8hOTkG3Wqc19lfQ",
+    "news_item_snippet": "Au total, 175 passagers et six membres d&#39;\u00e9quipage se trouvaient \u00e0 bord de l&#39;avion, un Boeing 737 appartenant \u00e0 la compagnie Jeju Airlines. L&#39;agence nationale&nbsp;...",
+    "news_item_url": "https://www.bbc.com/afrique/articles/c5y47g1l93go",
+    "picture_source": "BFMTV",
     "approx_traffic": "50,000+"
   },
   {
