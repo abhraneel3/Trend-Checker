@@ -1,11 +1,21 @@
 [
   {
     "country": "United States",
+    "title": "LeBron James",
+    "pubDate": "Mon, 30 Dec 2024 03:00:00 -0800",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQvTVxzZ6Pr8Z6fCehPciJurPSktHUtrvyKwS8GikUVQqrMNVUfinGn7FFQC9c5sZ4gkdcGFzo2",
+    "news_item_snippet": "The four-time NBA champion and all-time scoring leader has graced the cover more than 40 times, either solo or with others.",
+    "news_item_url": "https://www.si.com/nba/happy-birthday-to-the-king-sports-illustrated-covers-featuring-lebron-james",
+    "picture_source": "The Guardian",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
     "title": "Packers vs Vikings",
     "pubDate": "Sun, 29 Dec 2024 12:00:00 -0800",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSbZrreLz8OpPX8I3wlKyf1Q_tY-UQ6HFab4scTPwmN4sSotHyhIvFneylc9QUHSymyS79HKRdA",
-    "news_item_snippet": "Jordan Love and the Green Bay Packers lost for the second time this season to the Minnesota Vikings. Here are all the scoring plays and highlights from the&nbsp;...",
-    "news_item_url": "https://www.jsonline.com/live-story/sports/nfl/packers/2024/12/29/green-bay-packers-vs-minnesota-vikings-score-live-game-updates-highlights-us-bank-stadium/77276643007/",
+    "news_item_snippet": "Watch highlights from the Week 17 matchup between the Green Bay Packers and the Minnesota Vikings during the 2024 NFL season.",
+    "news_item_url": "https://sports.yahoo.com/packers-vs-vikings-highlights-week-010245707.html",
     "picture_source": "Packers.com",
     "approx_traffic": "1,000,000+"
   },
@@ -31,16 +41,6 @@
   },
   {
     "country": "United States",
-    "title": "Falcons vs Commanders",
-    "pubDate": "Sun, 29 Dec 2024 18:00:00 -0800",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQ1cXajvaYc-s_ZxzFImZhWfHAfXANnRl2k_5pieW66mqP0VaHMuVyXrFwDBXJupDKOZh1t1F6P",
-    "news_item_snippet": "The Falcons lost a frustrating game to the Commanders in overtime, 30-24. Kevin Knight and Tre&#39;Shon Diaz break down the end of Atlanta&#39;s season, a number of&nbsp;...",
-    "news_item_url": "https://www.thefalcoholic.com/2024/12/29/24331912/falcons-vs-commanders-nfl-week-17-postgame-show-mistakes-cost-falcons-a-postseason-berth-2024",
-    "picture_source": "Redskins.com",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "United States",
     "title": "Lakers",
     "pubDate": "Sun, 29 Dec 2024 10:00:00 -0800",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcS8akNM1jX1HcD9mUBHATjKWhbc-I0WWCV699SJLinqOgswDnsL-Hs46ER3R1FP8yruUH8pOkCk",
@@ -51,13 +51,23 @@
   },
   {
     "country": "United States",
-    "title": "Raiders vs Saints",
-    "pubDate": "Sun, 29 Dec 2024 11:00:00 -0800",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTbCY17VUAC1X26Mtsv2OlrJ0_IfZB91tu9rLSmCgw7qA4ft7J6VzAS0rfnpPPMw3eSVrJvjF2o",
-    "news_item_snippet": "SportsLine&#39;s model just revealed its Week 17 NFL picks, predictions, and best bets for the Las Vegas Raiders vs. New Orleans Saints game on Sunday.",
-    "news_item_url": "https://www.cbssports.com/nfl/news/raiders-vs-saints-prediction-odds-spread-start-time-2024-nfl-picks-week-17-predictions-from-proven-model/",
-    "picture_source": "NewOrleansSaints.com",
+    "title": "Falcons vs Commanders",
+    "pubDate": "Sun, 29 Dec 2024 18:00:00 -0800",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQ1cXajvaYc-s_ZxzFImZhWfHAfXANnRl2k_5pieW66mqP0VaHMuVyXrFwDBXJupDKOZh1t1F6P",
+    "news_item_snippet": "The Falcons lost a frustrating game to the Commanders in overtime, 30-24. Kevin Knight and Tre&#39;Shon Diaz break down the end of Atlanta&#39;s season,&nbsp;...",
+    "news_item_url": "https://www.thefalcoholic.com/2024/12/29/24331912/falcons-vs-commanders-nfl-week-17-postgame-show-mistakes-cost-falcons-a-postseason-berth-2024",
+    "picture_source": "Redskins.com",
     "approx_traffic": "200,000+"
+  },
+  {
+    "country": "United States",
+    "title": "NFL Draft order",
+    "pubDate": "Sun, 29 Dec 2024 12:00:00 -0800",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQRHEcvjaujvSBn7ClV2BEuPHS4j-klrlT1BmFscEQZqk6ccCtycU7ApM9wpRJwkN4AqT8c3Sj9",
+    "news_item_snippet": "With Week 17 nearly complete, CBSSports.com looks at where teams would be picking at this moment in time. Also listed is each club&#39;s pending free agents and&nbsp;...",
+    "news_item_url": "https://www.cbssports.com/nfl/draft/news/2025-nfl-draft-order-major-shakeup-at-the-top-after-giants-raiders-and-jaguars-all-win-in-week-17/",
+    "picture_source": "NFL.com",
+    "approx_traffic": "100,000+"
   },
   {
     "country": "United States",
@@ -107,36 +117,26 @@
     "news_item_snippet": "The CDC reported over double the cases of norovirus, commonly known as stomach flu, as the peak of the virus&#39; season begins.",
     "news_item_url": "https://www.usatoday.com/story/news/nation/2024/12/29/norovirus-outbreak-stomach-flu/77298826007/",
     "picture_source": "PBS NewsHour",
-    "approx_traffic": "50,000+"
+    "approx_traffic": "100,000+"
   },
   {
     "country": "United States",
     "title": "Hanukkah",
     "pubDate": "Sun, 29 Dec 2024 09:00:00 -0800",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTsiPzntInNIcUxlvy3V1IMdEmvLrkqwmvOhjYCTvhX6qb2Cq_Rtlgcz46o9yQacHWUla4lASwD",
-    "news_item_snippet": "The Alaska Jewish&nbsp;...",
-    "news_item_url": "https://www.alaskasnewssource.com/2024/12/29/hanukkah-celebration-feature-food-festivities-high-flying-fun-sunday/",
+    "news_item_snippet": "Rancho Sahuarita hosted its first Hanukkah celebration, organized by PJ Library, a nonprofit dedicated to providing free, Jewish-themed books to children.",
+    "news_item_url": "https://www.kgun9.com/news/community-inspired-journalism/sahuarita-and-green-valley-news/rancho-sahuarita-hosts-first-annual-hanukkah-celebration",
     "picture_source": "The Jerusalem Post",
     "approx_traffic": "50,000+"
   },
   {
     "country": "United States",
-    "title": "Buccaneers",
-    "pubDate": "Sun, 29 Dec 2024 12:00:00 -0800",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQ07VbyPmTtVohWqsiF4yUQPTe9GmB7IbUxbHZHThFfSR6eYxg_aMcsnCeVVIrcuU2defTYkNW0",
-    "news_item_snippet": "Per FanDuel, they are. Tampa Bay is a 13.5-point favorite at home for the final week of the regular season. Point spread: Bucs -13.5. Point total: 43.5",
-    "news_item_url": "https://www.bucsnation.com/2024/12/29/24331873/nfl-week-18-opening-odds-buccaneers-saints-nfc-south-playoffs",
-    "picture_source": "Buccaneers.com",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
-    "title": "West Ham vs Liverpool",
-    "pubDate": "Sun, 29 Dec 2024 11:00:00 -0800",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQrPJjw0QNIEiKVabc5Si0hbCBqRz4i_5a-siINPxw56M0H6OAibk3u0o6G-HF5lXifg4zfq6qf",
-    "news_item_snippet": "Liverpool extended their lead atop the Premier League table to eight points with a 5-0 victory in London.",
-    "news_item_url": "https://www.nytimes.com/athletic/live-blogs/west-ham-liverpool-live-updates-premier-league-score-result/FmhbVwpc6ssN/",
-    "picture_source": "Yahoo Sports",
+    "title": "NFL playoffs",
+    "pubDate": "Sun, 29 Dec 2024 07:00:00 -0800",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQAGZaLiNHAclsJPOaj4TAr6v5iFSgMZxFD2A7psgomzV99IKvsFZE0uu-86cSsAuTgZ117_zVL",
+    "news_item_snippet": "In this edition of The First Read, Jeffri Chadiha provides an overview of everything that&#39;s at stake in the final week of the 2024 NFL regular season.",
+    "news_item_url": "https://www.nfl.com/news/what-s-at-stake-in-the-nfl-playoff-race-in-week-18-three-division-titles-nfc-s-top-seed-and-more",
+    "picture_source": "USA TODAY",
     "approx_traffic": "50,000+"
   },
   {
@@ -144,19 +144,49 @@
     "title": "Celtics",
     "pubDate": "Sun, 29 Dec 2024 21:00:00 -0800",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQLuwbcODO6le8sp65bSBbkP6Jq_eMcLgDfn0P3-RCGPpRP-6pK6HpXu1kbcEMPvmn4ni3IPiXh",
-    "news_item_snippet": "The Celtics have lost four of the last six games. Derrick White said he hasn&#39;t been a part of anything quite like it since joining Boston.",
-    "news_item_url": "https://www.boston.com/sports/boston-celtics/2024/12/29/derrick-white-celtics-losing-streak-comments-quotes/",
+    "news_item_snippet": "Jaylen Brown and the Boston Celtics will attempt to beat the visiting Indiana Pacers at home for the second time in three nights when the teams meet Sunday.",
+    "news_item_url": "https://www.nba.com/celtics/news/12-29-game-preview-pacers-at-celtics",
     "picture_source": "Pacers.com",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Saints",
+    "pubDate": "Sun, 29 Dec 2024 13:00:00 -0800",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQk9C5xXH1vaUEkT13ws05CevHBk_Bi-fscTDYseyVWUKYFPmb9eDv8aRtjNTzF2vgq8iRe4xXC",
+    "news_item_snippet": "NEW ORLEANS (WVUE) -&nbsp;...",
+    "news_item_url": "https://www.fox8live.com/2024/12/30/fazende-five-takes-saints-loss-raiders/",
+    "picture_source": "NewOrleansSaints.com",
     "approx_traffic": "50,000+"
   },
   {
     "country": "India",
     "title": "Yashasvi Jaiswal",
     "pubDate": "Mon, 30 Dec 2024 12:30:00 +0530",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRj7h2jaBPS-YyEsMorsYCxoj-E2DMS53RYcncpZFg72_AMUDx9iXhFaSZmiCcN7_8_lkQ5Aiil",
-    "news_item_snippet": "There was no murmur on Snicko, but third umpire Sharfuddoula saw a big deflection on normal replays and made up his mind.",
-    "news_item_url": "https://www.espncricinfo.com/story/bgt-mcg-test-yashasvi-jaiswal-controversial-caught-decision-out-or-not-out-1467195",
-    "picture_source": "NDTVSports.com",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQksQb0uLO8FSIRcVsNZsZ3HVCtQeKB3U1ry6URbRzsPBf9Nfu1nc9Hl89zUtCeVi96twOStHKE",
+    "news_item_snippet": "Yashasvi Jaiswal&#39;s controversial dismissal during India&#39;s chase in the Border-Gavaskar Trophy 2024-25 has sparked heated debates. Despite Snicko showing no&nbsp;...",
+    "news_item_url": "https://m.economictimes.com/news/sports/clearly-not-out-bcci-reacts-to-yashasvi-jaiswals-controversial-dismissal-in-4th-test-at-mcg-against-australia/articleshow/116789425.cms",
+    "picture_source": "ESPNcricinfo.com",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "India",
+    "title": "Rohit Sharma",
+    "pubDate": "Mon, 30 Dec 2024 14:30:00 +0530",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSCrCt_UUj1PAXE1lIOyPCOxuN3kiQG-a2cB_z4nXUB2xYezSLm14Z26I5NDabZdCHkHvxTxXiP",
+    "news_item_snippet": "Rohit Sharma reflects on India&#39;s defeat, discusses team performance, individual players, and strategies for the upcoming Test match.",
+    "news_item_url": "https://www.thehindu.com/sport/cricket/ind-vs-aus-4th-test-a-lot-of-things-im-trying-to-do-are-not-falling-in-place-says-rohit-sharma-on-poor-batting-form/article69042918.ece",
+    "picture_source": "India Today",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "India",
+    "title": "Virat Kohli",
+    "pubDate": "Mon, 30 Dec 2024 16:30:00 +0530",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTfSlmOVRHWPgLqk3ebcf7HY5vc7K8PpfRCh6NvLpCV1OqjX0P-ezZcHq_FDLs9ZeoxZ2mnZ36-",
+    "news_item_snippet": "After a tough loss to Australia, cricket legends Virat Kohli and Rohit Sharma might need to step aside for a struggling India Test team that needs to&nbsp;...",
+    "news_item_url": "https://www.forbes.com/sites/tristanlavalette/2024/12/30/legends-virat-kohli-and-rohit-sharma-need-to-step-aside-to-transition-indias-test-team/",
+    "picture_source": "India Today",
     "approx_traffic": "100,000+"
   },
   {
@@ -171,12 +201,12 @@
   },
   {
     "country": "India",
-    "title": "Sam Konstas",
-    "pubDate": "Sun, 29 Dec 2024 13:30:00 +0530",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRO9fImdPBbtK2BwVZiB9gkmuoj27n5wTfK7AAOyxBLwQdri2nC1anrfwWtAtHuU13tSWtlo9vy",
-    "news_item_snippet": "There&#39;s something about youth that doesn&#39;t see the problem. Australian captain Pat Cummins told Sam Konstas to play his debut Test at Melbourne as if a kid&nbsp;...",
-    "news_item_url": "https://www.forbes.com/sites/timellis/2024/12/30/konstas-and-reddy-seize-the-day-in-melbourne-as-young-guns-see-no-fear/",
-    "picture_source": "Hindustan Times",
+    "title": "Squid Game",
+    "pubDate": "Sun, 29 Dec 2024 04:30:00 +0530",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTZsBZwJajg1yZCXyBOwbthLWXtfh1BF4zr18oM0odubDZidPRmguLoWE2TU9UfJPkc9sKu8JAX",
+    "news_item_snippet": "Season 2 sees the return of Season 1 champion Seong Gi-hun (Lee Jung-jae), who re-enters the deadly competition years after winning the 45.6 billion won prize.",
+    "news_item_url": "https://www.forbes.com/sites/monicamercuri/2024/12/29/when-is-squid-game-season-3-coming-out-everything-to-know-so-far/",
+    "picture_source": "Economic Times",
     "approx_traffic": "200,000+"
   },
   {
@@ -184,9 +214,19 @@
     "title": "Jasprit Bumrah",
     "pubDate": "Sun, 29 Dec 2024 09:30:00 +0530",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQ-glXDXE1yQ9TX_FtoCsmlwxsvcj2Eb9otlL4NW2oMNGoFiDmShgdS5mcYJg9OAyg7junlQyWR",
-    "news_item_snippet": "Japrit Bumrah&#39;s second innings five-fer at the MCG also brought a host of records along with it for the Indian seamer. | Crickit.",
+    "news_item_snippet": "Bumrah stands just two wickets short of becoming the leading wicket taker in any single iteration of the Border-Gavaskar Trophy, the current record held by&nbsp;...",
     "news_item_url": "https://www.hindustantimes.com/cricket/jasprit-bumrah-first-pacer-30-wickets-border-gavaskar-series-equals-wasim-akram-bedi-asian-record-ind-vs-aus-4th-test-101735520972509.html",
     "picture_source": "Times of India",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "India",
+    "title": "WTC Points Table",
+    "pubDate": "Sun, 29 Dec 2024 17:30:00 +0530",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRfDgqGrGyrEovCLa2ni44ds1zQHlkNekGGc0c3F1Dq_ZaasniDy-4k-5HvEDgug09zJGisUmAR",
+    "news_item_snippet": "India&#39;s chances of qualifying for the ICC World Test Championship 2025 final have diminished after a 184-run defeat to Australia.",
+    "news_item_url": "https://m.economictimes.com/news/sports/wtc-points-table-indias-defeat-in-ind-vs-aus-leaves-rohit-sharma-with-remote-chances-to-qualify-for-finale-at-lords-india-standing/articleshow/116790558.cms",
+    "picture_source": "Hindustan \u0939\u093f\u0902\u0926\u0940",
     "approx_traffic": "100,000+"
   },
   {
@@ -194,10 +234,20 @@
     "title": "South Korea",
     "pubDate": "Sun, 29 Dec 2024 12:30:00 +0530",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTiPXZ1BPJv9imh1mRRjAbrA-r6atdGTOzbyMX3onK_cuuNz5jrh7SK1emfaeAqPrAPefRVS61X",
-    "news_item_snippet": "Bird strikes are a common hazard for commercial flights but only rarely cause serious accidents, experts say.",
-    "news_item_url": "https://www.aljazeera.com/news/2024/12/30/south-koreas-worst-ever-plane-crash-highlights-dangers-of-bird-strikes",
+    "news_item_snippet": "The accident killed 179 of the 181 people onboard, making it the deadliest plane crash on South Korean soil. Four crew members were among the victims, while two&nbsp;...",
+    "news_item_url": "https://www.bbc.com/news/articles/c2kx2pn3x18o",
     "picture_source": "The Hindu",
     "approx_traffic": "100,000+"
+  },
+  {
+    "country": "India",
+    "title": "WTC",
+    "pubDate": "Sun, 29 Dec 2024 18:30:00 +0530",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTlK6W585vaGEK_HmPSzA_lvhQOLlC6JuDk-okv5KTuXqh9uDfeF84G6E-6nQ9TrgP494XVrrt1",
+    "news_item_snippet": "WTC Points Table \u092e\u0947\u0902 \u092e\u0947\u0932\u092c\u0930\u094d\u0928 \u091f\u0947\u0938\u094d\u091f \u0939\u093e\u0930\u0928\u0947 \u0915\u0947 \u092c\u093e\u0926 \u091f\u0940\u092e \u0907\u0902\u0921\u093f\u092f\u093e \u0924\u0940\u0938\u0930\u0947 \u0938\u094d\u0925\u093e\u0928 \u092a\u0930 \u0915\u093e\u092f\u092e \u0939\u0948\u0964 WTC Final \u0915\u093e \u091f\u093f\u0915\u091f \u0905\u092d\u0940 \u092d\u0940 \u091f\u0940\u092e \u0907\u0902\u0921\u093f\u092f\u093e \u0915\u094b \u092e\u093f\u0932 \u0938\u0915\u0924\u093e \u0939\u0948,&nbsp;...",
+    "news_item_url": "https://www.livehindustan.com/cricket/wtc-points-table-and-world-test-champions-2025-final-scenario-for-team-india-after-lost-boxing-day-test-vs-australia-201735539495913.html",
+    "picture_source": "ESPNcricinfo.com",
+    "approx_traffic": "50,000+"
   },
   {
     "country": "India",
@@ -208,26 +258,6 @@
     "news_item_url": "https://indianexpress.com/article/sports/cricket/nitish-kumar-reddy-story-9748357/",
     "picture_source": "NDTVSports.com",
     "approx_traffic": "500,000+"
-  },
-  {
-    "country": "India",
-    "title": "Virat kohli",
-    "pubDate": "Fri, 27 Dec 2024 10:30:00 +0530",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTI5cDrerscIoeUUlXbxifpSuag6-TKIyRBQtQz8hW9Cw0CCf7qRloaaJlrBsmC-2WE2ep-sUmh",
-    "news_item_snippet": "\u0c2e\u0c46\u0c32\u0c4d\u200c\u0c2c\u0c4b\u0c30\u0c4d\u0c28\u0c4d \u0c1f\u0c46\u0c38\u0c4d\u0c1f\u0c4d\u200c\u0c32\u0c4b \u0c35\u0c3f\u0c30\u0c3e\u0c1f\u0c4d \u0c15\u0c4b\u0c39\u0c4d\u0c32\u0c40 \u0c15\u0c4d\u0c30\u0c2e\u0c36\u0c3f\u0c15\u0c4d\u0c37\u0c23\u0c24\u0c4b \u0c06\u0c21\u0c3f\u0c28\u0c3e, \u0c38\u0c4d\u0c15\u0c3e\u0c1f\u0c4d \u0c2c\u0c4b\u0c32\u0c3e\u0c02\u0c21\u0c4d \u0c2c\u0c4c\u0c32\u0c3f\u0c02\u0c17\u0c4d\u200c\u0c32\u0c4b \u0c35\u0c48\u0c21\u0c4d \u0c37\u0c3e\u0c1f\u0c4d\u200c\u0c15\u0c41 \u0c32\u0c4a\u0c02\u0c17\u0c3f 36 \u0c2a\u0c30\u0c41\u0c17\u0c41\u0c32 \u0c35\u0c26\u0c4d\u0c26 \u0c05\u0c35\u0c41\u0c1f\u0c4d \u0c05\u0c2f\u0c4d\u0c2f\u0c3e\u0c21\u0c41.",
-    "news_item_url": "https://tv9telugu.com/sports/cricket-news/bgt-2024-steve-smith-stunned-by-virat-kohlis-dismissal-1432803.html",
-    "picture_source": "TV9 Telugu",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "India",
-    "title": "Delhi Weather",
-    "pubDate": "Fri, 27 Dec 2024 11:30:00 +0530",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTWgZ9QBPnPqOawEWv5t7vDnmehSBcVSDIw5kGUeuEMj8N0soAI32cO9TYFjwTayVpeYuveoPaX",
-    "news_item_snippet": "\u0936\u0941\u0915\u094d\u0930\u0935\u093e\u0930 \u0938\u0947 \u0936\u0928\u093f\u0935\u093e\u0930 \u0915\u0947 24 \u0918\u0902\u091f\u0947 \u092e\u0947\u0902 \u0926\u093f\u0932\u094d\u0932\u0940 \u092e\u0947\u0902 101 \u0938\u093e\u0932\u094b\u0902 \u0915\u0940 \u0938\u092c\u0938\u0947 \u091c\u094d\u092f\u093e\u0926\u093e \u0926\u093f\u0938\u0902\u092c\u0930 \u0915\u0940 \u092c\u093e\u0930\u093f\u0936 \u0926\u0930\u094d\u091c \u0915\u0940 \u0917\u0908, 41.2 \u090f\u092e\u090f\u092e\u0964 \u092e\u094c\u0938\u092e \u0935\u093f\u092d\u093e\u0917 \u0915\u0947 \u0905\u0928\u0941\u0938\u093e\u0930,&nbsp;...",
-    "news_item_url": "https://navbharattimes.indiatimes.com/metro/delhi/other-news/delhi-ncr-weather-forecast-rainfall-fog-smog-cold-wave-alert-today/articleshow/116755651.cms",
-    "picture_source": "ABP News",
-    "approx_traffic": "50,000+"
   },
   {
     "country": "Argentina",
@@ -244,8 +274,8 @@
     "title": "Jimmy Carter",
     "pubDate": "Mon, 30 Dec 2024 09:00:00 +1100",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSfia1Jiwu2lcgUzTgo4yG8AMXwwTOKqO7LmBVZuVnSVhCWKIoYxV7EiZMxcv_0iXwKLUCG_fDX",
-    "news_item_snippet": "From building thousands of homes to nearly eradicating a debilitating disease, Jimmy Carter&#39;s post-presidential charity work has become one of the most&nbsp;...",
-    "news_item_url": "https://www.abc.net.au/news/2024-12-30/jimmy-carters-post-presidential-legacy-charity/103612788",
+    "news_item_snippet": "A few days after losing re-election in 1980, president Jimmy Carter attended a tribute to Aaron Copland that included the composer&#39;s Fanfare for the Common&nbsp;...",
+    "news_item_url": "https://www.ussc.edu.au/jimmy-carter-a-challenged-presidency-a-life-of-moral-courage",
     "picture_source": "SBS",
     "approx_traffic": "50,000+"
   },
@@ -253,10 +283,10 @@
     "country": "Australia",
     "title": "Jeju Air",
     "pubDate": "Sun, 29 Dec 2024 14:00:00 +1100",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSpk54WLThc8Y4lTVgq_5HAOu3qm4a-TvrsRxA2c_FxjxmjubaZHDheijndYAm4CBOw36pDqZEO",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQPA6N5a7D1tAKZUHFBhTt8X6PWE7tj5lmfZef5WbEzyXjQqJKiFX10Z6_-hBhnRvWypzj1khD6",
     "news_item_snippet": "Officials are investigating the cause of the deadliest aircraft crash in South Korean history, which killed 179 people.",
     "news_item_url": "https://www.bbc.com/news/articles/ckgzprprlyeo",
-    "picture_source": "ABC News",
+    "picture_source": "The Guardian",
     "approx_traffic": "100,000+"
   },
   {
@@ -284,20 +314,10 @@
     "title": "Acidente aviao na Coreia",
     "pubDate": "Sun, 29 Dec 2024 03:00:00 -0500",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQwavZw-cOuAnfaIsptW0hffBdDDOlHBXiagtq9ppmlaHY2EmeTWY6UQX13yucRdV8Vt_7r8iX1",
-    "news_item_snippet": "Comiss\u00e1rio de bordo no voo da Jeju Air disse aos m\u00e9dicos que acordou ap\u00f3s ter sido resgatado. Mulher de 25 anos, tamb\u00e9m integrante da tripula\u00e7\u00e3o, sobreviveu ao&nbsp;...",
-    "news_item_url": "https://g1.globo.com/mundo/noticia/2024/12/29/sobrevivente-de-acidente-de-aviao-na-coreia-do-sul-esta-consciente-e-teve-multiplas-fraturas-diz-hospital.ghtml",
+    "news_item_snippet": "Maeng Gi-su, de 78 anos, diz que tr\u00eas membros de sua fam\u00edlia estavam no voo Boeing 737-800, operado pela companhia a\u00e9rea Jeju Air, que caiu e deixou 179&nbsp;...",
+    "news_item_url": "https://www.bbc.com/portuguese/articles/cwy32g664w5o",
     "picture_source": "CNN Brasil",
     "approx_traffic": "100,000+"
-  },
-  {
-    "country": "Brazil",
-    "title": "Milan",
-    "pubDate": "Sun, 29 Dec 2024 13:00:00 -0500",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRl0WawM7LZ1gowtsjxnvTOzWQoObfOb9tVItLQRjwjaI9xR94l_KD_HCqqmRoIWWooZC9AK9sD",
-    "news_item_snippet": "Treinador revelou a demiss\u00e3o na sa\u00edda do est\u00e1dio ap\u00f3s o empate com a Roma pela Serie A.",
-    "news_item_url": "https://tntsports.com.br/melhorfuteboldomundo/Paulo-Fonseca-e-demitido-do-comando-do-Milan-20241229-0021.html",
-    "picture_source": "Terra",
-    "approx_traffic": "50,000+"
   },
   {
     "country": "Brazil",
@@ -320,6 +340,16 @@
     "approx_traffic": "50,000+"
   },
   {
+    "country": "Brazil",
+    "title": "Milan x Roma",
+    "pubDate": "Sun, 29 Dec 2024 15:00:00 -0500",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRdhsYO_nWoOAO2QhfcPeCbRvkW6qrjEiRdKsgV03FswMXtfFtRhZt66HYH1LnCpkW6fuqR-lrZ",
+    "news_item_snippet": "Confira onde assistir e hor\u00e1rio de Milan e Roma; jogo \u00e9 v\u00e1lido pela 18\u2060\u00aa rodada do Campeonato Italiano.",
+    "news_item_url": "https://olhardigital.com.br/2024/12/29/internet-e-redes-sociais/milan-x-roma-onde-assistir-e-horario-do-jogo-da-serie-a/",
+    "picture_source": "Olhar Digital",
+    "approx_traffic": "50,000+"
+  },
+  {
     "country": "Canada",
     "title": "Jimmy Carter",
     "pubDate": "Sun, 29 Dec 2024 17:00:00 -0500",
@@ -333,10 +363,10 @@
     "country": "South Korea",
     "title": "\uc81c\uc8fc\ud56d\uacf5",
     "pubDate": "Sun, 29 Dec 2024 10:00:00 +0900",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcS3xrdzdONWRpvZHPL_iRk02htTOqUC_cpfdvAfWDMbCy34jvIk7D5uK25WAuFsF9Q_E9oGye67",
-    "news_item_snippet": "\ube44\uadf9\uc801\uc778 \uc81c\uc8fc\ud56d\uacf5 \uc5ec\uac1d\uae30 \ucc38\uc0ac\ub85c 179\uba85\uc774 \uc548\ud0c0\uae4c\uc6b4 \ubaa9\uc228\uc744 \uc783\uc5c8\ub2e4. BBC\uac00 \uc720\uc871\ub4e4\uc774 \uacaa\uc740 \ucc38\uc0ac \uccab\ub0a0\uc744 \ub4e4\uc5ec\ub2e4\ubd24\ub2e4.",
-    "news_item_url": "https://www.bbc.com/korean/articles/c80v99l0n44o",
-    "picture_source": "\uc870\uc120\uc77c\ubcf4",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQTjLt_SXWQjE7PoxhH42UVo9iK8jtu08S3LvHEhqxjxlolJFXlLSR2NSECE2Q6PvcR9ZyC1nwB",
+    "news_item_snippet": "\uc9c0\ub09c 29\uc77c \uc624\uc804 \uc804\ub0a8 \ubb34\uc548\uacf5\ud56d\uc5d0\uc11c \ubc1c\uc0dd\ud55c \uc81c\uc8fc\ud56d\uacf5 \uc5ec\uac1d\uae30 \uc0ac\uace0\ub85c \uc2b9\uac1d\uacfc \uc2b9\ubb34\uc6d0 179\uba85\uc774 \uc228\uc9c4 \uac00\uc6b4\ub370, \ud615\ud0dc\uac00 \uc644\uc804\ud55c \uc2dc\uc2e0\uc740 \ud55c\uad6c\ub3c4 \uc5c6\ub294 \uac83\uc73c\ub85c \uc54c\ub824\uc84c\ub2e4.",
+    "news_item_url": "https://biz.chosun.com/topics/topics_social/2024/12/30/LGC2EL2YRZG7LIT5M5MQ6JNCTU/",
+    "picture_source": "BBC News \ucf54\ub9ac\uc544",
     "approx_traffic": "500,000+"
   },
   {
@@ -348,6 +378,16 @@
     "news_item_url": "https://aawsat.com/%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9-%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9/5096009-%D8%AE%D9%84%D9%8A%D8%AC%D9%8A-26-%D9%85%D9%86%D8%AA%D8%AE%D8%A8-%D8%A7%D9%84%D9%8A%D9%85%D9%86-%D9%8A%D9%86%D9%87%D9%8A-%D9%85%D8%B4%D9%88%D8%A7%D8%B1%D9%87-%D8%A8%D8%A7%D9%86%D8%AA%D8%B5%D8%A7%D8%B1-%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%D9%8A-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D9%86",
     "picture_source": "\u0625\u0631\u0645 \u0646\u064a\u0648\u0632",
     "approx_traffic": "50,000+"
+  },
+  {
+    "country": "France",
+    "title": "Cheque energie",
+    "pubDate": "Sun, 29 Dec 2024 21:00:00 +0100",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTjR7QNZpXBPSx3nAQmP2_YxtjhQ0ELgqduD1OZWKAhoSj_dgbE6r_pdQyRpSY0CeC3VdKtLdDF",
+    "news_item_snippet": "Vers une prolongation des d\u00e9lais d&#39;obtention ? Selon le minist\u00e8re de la Transition \u00e9cologique et solidaire minist\u00e8re, les demandes affluent depuis quelques&nbsp;...",
+    "news_item_url": "https://www.tf1info.fr/conso-argent/cheque-energie-2024-les-demandes-affluent-avant-la-date-butoir-2342007.html",
+    "picture_source": "Sud Ouest",
+    "approx_traffic": "100,000+"
   },
   {
     "country": "France",
@@ -363,20 +403,10 @@
     "country": "France",
     "title": "Jimmy Carter",
     "pubDate": "Sun, 29 Dec 2024 23:00:00 +0100",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcS_568UTVGhIQwSy5mHHDvxZXKrcWk6dJrjjHfdf1b8MV4EkQoKdgs5mkbP7tc2AjcCMOn9mu-j",
-    "news_item_snippet": "Le d\u00e9mocrate, qui n&#39;a effectu\u00e9 qu&#39;un seul mandat \u00e0 la Maison Blanche, avait \u00e9t\u00e9 salu\u00e9 dans la deuxi\u00e8me moiti\u00e9 de sa vie pour ses actions en faveur de la&nbsp;...",
-    "news_item_url": "https://www.francetvinfo.fr/monde/usa/l-ancien-president-americain-jimmy-carter-est-mort-a-l-age-de-100-ans_4969044.html",
-    "picture_source": "France Bleu",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "France",
-    "title": "Cheque energie",
-    "pubDate": "Sun, 29 Dec 2024 21:00:00 +0100",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSde_fr3TFeh2uZ4gteWKnt1YFpfSTjer4gaePyv9Y5qgVR8NFfCirbHT3bJ3OATvJagHO_pAK6",
-    "news_item_snippet": "Il ne reste que deux jours aux personnes \u00e9ligibles pour faire leur demande et toucher le ch\u00e8que \u00e9nergie de l&#39;ann\u00e9e 2024. Cette aide varie entre 48 et 277&nbsp;...",
-    "news_item_url": "https://www.ladepeche.fr/2024/12/29/cheque-energie-2024-pres-de-900-000-beneficiaires-potentiels-ne-lont-pas-reclame-plus-que-quelques-heures-pour-faire-la-demande-12418463.php",
-    "picture_source": "TF1",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSWIEB4hNvcq6G-V5BrOf2_QT-c2dd8prNXbenzeEFAEodY1MK_BAdHK-bofQIbRqeQaAIBgANQ",
+    "news_item_snippet": "Jimmy Carter, ancien pr\u00e9sident am\u00e9ricain et prix Nobel de la Paix, est mort ce dimanche, a annonc\u00e9 sa fondation. Il avait 100 ans.",
+    "news_item_url": "https://www.francebleu.fr/infos/international/jimmy-carter-ancien-president-des-etats-unis-est-mort-a-l-age-de-100-ans-1961002",
+    "picture_source": "Franceinfo",
     "approx_traffic": "100,000+"
   },
   {
@@ -412,12 +442,12 @@
   {
     "country": "Germany",
     "title": "Flugzeugabsturz",
-    "pubDate": "Sun, 29 Dec 2024 08:00:00 +0100",
+    "pubDate": "Sun, 29 Dec 2024 10:00:00 +0100",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQ3gZemlv-Es3FpaQC8EK7OasyulNgEX06nctU41julGiKUVdELGpJAL9py41TrBlNM8RXn4-oL",
     "news_item_snippet": "Beim Absturz eines Flugzeugs einer s\u00fcdkoreanischen Billigairline starben 179 Menschen. Ermittler untersuchen Vogelschlag und Wetterbedingungen als m\u00f6gliche&nbsp;...",
     "news_item_url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-12/suedkorea-flugzeugabsturz-sicherheitspruefung",
     "picture_source": "tagesschau.de",
-    "approx_traffic": "100,000+"
+    "approx_traffic": "50,000+"
   },
   {
     "country": "Germany",
@@ -491,16 +521,6 @@
   },
   {
     "country": "Italy",
-    "title": "Udinese-Torino",
-    "pubDate": "Sun, 29 Dec 2024 12:00:00 +0100",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQlyp68d3HkTSu6ADB5b1fJHSlONZzyTfaQg2t-kntuiO4Xyr8HmE9zUMp_IBtZTtFtYQD3SgZY",
-    "news_item_snippet": "SERIE A - Diamo i voti al match del &quot;Friuli-Bluenergy Stadium&quot;. Un gol realizzato con caparbiet\u00e0 e uno apparecchiato per Ricci: il Toro si aggrappa a tutto.",
-    "news_item_url": "https://www.eurosport.it/calcio/serie-a/2024-2025/serie-a-le-pagelle-di-udinese-torino-2-2-adams-faro-dei-granata-gol-e-assist.-applausi-anche-per-thauvin_sto20066618/story.shtml",
-    "picture_source": "Rai News",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "Italy",
     "title": "Fonseca",
     "pubDate": "Sun, 29 Dec 2024 22:00:00 +0100",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRBPAaG0vhGSA6vvnVXJFEOcdMEucL8Ws4cIcFleHAwcNOIMvncQ90SHTFOXmF6ebSWngFY4dlG",
@@ -511,13 +531,43 @@
   },
   {
     "country": "Italy",
+    "title": "Udinese-Torino",
+    "pubDate": "Sun, 29 Dec 2024 12:00:00 +0100",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQlyp68d3HkTSu6ADB5b1fJHSlONZzyTfaQg2t-kntuiO4Xyr8HmE9zUMp_IBtZTtFtYQD3SgZY",
+    "news_item_snippet": "SERIE A - Diamo i voti al match del &quot;Friuli-Bluenergy Stadium&quot;. Un gol realizzato con caparbiet\u00e0 e uno apparecchiato per Ricci: il Toro si aggrappa a tutto.",
+    "news_item_url": "https://www.eurosport.it/calcio/serie-a/2024-2025/serie-a-le-pagelle-di-udinese-torino-2-2-adams-faro-dei-granata-gol-e-assist.-applausi-anche-per-thauvin_sto20066618/story.shtml",
+    "picture_source": "Rai News",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "Italy",
     "title": "Corea incidente aereo",
     "pubDate": "Sun, 29 Dec 2024 10:00:00 +0100",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRRy6i2dvWyEvaI_Nkj05UKx4s-Cgv_-YHJ5Wq-UZoSDpOS525f16cXJgzL7FZlIq5MT6EDMZw2",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTU8q_ysCQf-34UBc7DwmmuwgKh_dxs_kobK7y4PMAf9TszZSy-GDwpRDYOXd4FMr80b9fRIDeK",
     "news_item_snippet": "Dalla velocit\u00e0 eccessiva all&#39;assenza del carrello dispiegato per l&#39;atterraggio: sono diversi i punti da chiarire della dinamica del disastro del Boeing 737&nbsp;...",
     "news_item_url": "https://www.corriere.it/economia/trasporti/aerei/24_dicembre_30/incidente-aereo-corea-sud-463b2e54-cdae-4d9a-b84d-b81161cb1xlk.shtml",
     "picture_source": "Rai News",
     "approx_traffic": "100,000+"
+  },
+  {
+    "country": "Italy",
+    "title": "Juve",
+    "pubDate": "Sun, 29 Dec 2024 20:00:00 +0100",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQwVUZDSoTKIeGfacgUjQSeQW7It0jrtb2Dq9ycocGUfovlJj_FGZMKkxowx9fJPotMg_0fxBaU",
+    "news_item_snippet": "Leggi su Sky Sport l&#39;articolo Juve-Fiorentina, cori discriminatori verso Vlahovic: partita sospesa per due minuti.",
+    "news_item_url": "https://sport.sky.it/calcio/serie-a/2024/12/29/juventus-fiorentina-vlahovic-cori-razzisti",
+    "picture_source": "Sky Sport",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Italy",
+    "title": "Jimmy Carter",
+    "pubDate": "Sun, 29 Dec 2024 23:00:00 +0100",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcT_GvO90eP_F5_fpO8-OweC96douV1i97mkh5eLm3XYNdvZKjMumPArms7XYnUAgMCpHBz0w4lz",
+    "news_item_snippet": "Biden dichiara 9 gennaio giorno lutto nazionale. Funerali di Stato a Washington. Il 39esimo inquilino della Casa Bianca (dal 1977 al 1981) \u00e8 deceduto nella&nbsp;...",
+    "news_item_url": "https://tg24.sky.it/mondo/2024/12/29/jimmy-carter-morto",
+    "picture_source": "ISPIonline",
+    "approx_traffic": "50,000+"
   },
   {
     "country": "Mexico",
@@ -554,8 +604,8 @@
     "title": "Jimmy Carter",
     "pubDate": "Sun, 29 Dec 2024 16:00:00 -0600",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSnzD9nZ9dXrVuG3MY2JKxy1mKA4Qm2p02YoHG3NtUS-gjGioh0JC7NVgjkLwZDHPk71IIIUvVD",
-    "news_item_snippet": "El expresidente Jimmy Carter venci\u00f3 el c\u00e1ncer cerebral en 2015, pero enfrent\u00f3 una serie de problemas de salud en 2019 y, finalmente, comenz\u00f3 a recibir&nbsp;...",
-    "news_item_url": "https://cnnespanol.cnn.com/2024/12/29/jimmy-carter-de-que-murio-problemas-de-salud-trax",
+    "news_item_snippet": "El expresidente dem\u00f3crata se dec\u00eda orgulloso de haber evitado llevar a su pa\u00eds a una guerra y que gan\u00f3 el Nobel de la Paz. Ten\u00eda 100 a\u00f1os.",
+    "news_item_url": "https://www.bbc.com/mundo/articles/c9w44yryy81o",
     "picture_source": "BBC Mundo",
     "approx_traffic": "50,000+"
   },
@@ -564,8 +614,8 @@
     "title": "Leicester City  Manchester City",
     "pubDate": "Sun, 29 Dec 2024 15:00:00 +0100",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRNLyJVCEIcbQDdF3W1DnNjag13bk0qF6ezStzbxxsk-MrEgJivXx67NJsmO2Pk5L-cPfHKnDno",
-    "news_item_snippet": "Eurosport es tu fuente para las \u00faltimas actualizaciones de partidos de Premier League. Ponte al d\u00eda sobre el Leicester - Manchester City completo con&nbsp;...",
-    "news_item_url": "https://espanol.eurosport.com/futbol/premier-league/2024-2025/live-leicester-manchester-city_mtc1523805/live-commentary.shtml",
+    "news_item_snippet": "Buenas tardes y bienvenidos a la narraci\u00f3n minuto a minuto del encuentro de f\u00fatbol de la Premier League que enfrenta al Leicester City contra el Manchester&nbsp;...",
+    "news_item_url": "https://www.mundodeportivo.com/us/futbol/premier-league/20241229/711682/leicester-city-vs-manchester-city-vivo-minuto-minuto-hoy-premier-league-drca1.html",
     "picture_source": "AS",
     "approx_traffic": "50,000+"
   },
@@ -574,8 +624,8 @@
     "title": "Accidente avion",
     "pubDate": "Sun, 29 Dec 2024 11:00:00 +0100",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcT29u9vvRbmViXq-MjyZzxSg-TkJIFjB_nj6-ImInZkCsp_7nBx4_r2BK4G5oExR62DZxI29ibB",
-    "news_item_snippet": "El avi\u00f3n de Jeju Air recibi\u00f3 un aviso de impacto de ave poco antes de intentar aterrizar en Muan, mientras que el piloto declar\u00f3 &#39;mayday&#39; apenas un minuto&nbsp;...",
-    "news_item_url": "https://es.euronews.com/2024/12/29/el-accidente-aereo-en-corea-del-sur-pudo-deberse-al-impacto-de-un-pajaro-segun-un-funciona",
+    "news_item_snippet": "Al menos 179 personas han muerto en un avi\u00f3n de pasajeros surcoreano que se ha salido de la pista y ha chocado contra un muro en un aeropuerto de Muan.",
+    "news_item_url": "https://www.rtve.es/noticias/20241229/muertos-choque-avion-muro-aeropuerto-muan-corea-sur/16389385.shtml",
     "picture_source": "EL PA\u00cdS",
     "approx_traffic": "50,000+"
   },
@@ -583,11 +633,31 @@
     "country": "United Kingdom",
     "title": "West Ham vs Liverpool",
     "pubDate": "Sun, 29 Dec 2024 17:00:00 +0000",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTpC4zEy75MGDScWWedayg0p5bGYHTEa0f2tDzdXBjpcU5ATGd78GA59G4VvxlrwV9Tv5psWUnY",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSt6XeoMtMqejAYHbNi7Zk3E79xJrbZ7XQpIbCZ8OpE6hZ2h4xKd-U99_WJfirNGg6CioYGlifl",
     "news_item_snippet": "West Ham United became the latest Premier League team to find out just how good Liverpool can be as the leaders ran out 5-0 winners at London Stadium.",
     "news_item_url": "https://www.whufc.com/news/match-report-leaders-liverpool-hit-hammers-five",
     "picture_source": "The Independent",
     "approx_traffic": "200,000+"
+  },
+  {
+    "country": "United Kingdom",
+    "title": "Jimmy Carter",
+    "pubDate": "Sun, 29 Dec 2024 22:00:00 +0000",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQt78N1315DI-GoxSQf1JjUB0iBK1aNejlvWbA_3YNRr1QqYbS_T3GRAI7rhGVdPLJPy-paIsVQ",
+    "news_item_snippet": "The one-term Democratic president and Nobel Peace Prize winner died at home in Georgia aged 100.",
+    "news_item_url": "https://www.bbc.com/news/live/ce98937nrqrt",
+    "picture_source": "BBC News",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United Kingdom",
+    "title": "Michelle Keegan",
+    "pubDate": "Sun, 29 Dec 2024 20:00:00 +0000",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcS9EjsACXhf6NEqYSDvginMDSgZnU9Fp6gpbDe3RbJBdNsKRANmjAVmuI7VCuni350R_S7yo-wK",
+    "news_item_snippet": "The celebrity couple made the announcement in a post on Instagram.",
+    "news_item_url": "https://news.sky.com/story/michelle-keegan-and-mark-wright-announce-theyre-expecting-their-first-baby-13281503",
+    "picture_source": "The Independent",
+    "approx_traffic": "100,000+"
   },
   {
     "country": "United Kingdom",
@@ -597,26 +667,6 @@
     "news_item_snippet": "All our updates as the defending champions secure a second win in 14 matches and Leicester remain in relegation zone.",
     "news_item_url": "https://www.aljazeera.com/sports/liveblog/2024/12/29/live-leicester-city-vs-manchester-city-english-premier-league",
     "picture_source": "Manchester City FC",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "United Kingdom",
-    "title": "Jimmy Carter",
-    "pubDate": "Sun, 29 Dec 2024 22:00:00 +0000",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQt78N1315DI-GoxSQf1JjUB0iBK1aNejlvWbA_3YNRr1QqYbS_T3GRAI7rhGVdPLJPy-paIsVQ",
-    "news_item_snippet": "ATLANTA (Dec. 29, 2024) \u2014 Jimmy Carter, 39<sup>th</sup> president of the United States and winner of the 2002 Nobel Peace Prize, died peacefully Sunday, Dec.",
-    "news_item_url": "https://www.cartercenter.org/news/pr/2024/statement-on-president-jimmy-carter-122924.html",
-    "picture_source": "BBC News",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "United Kingdom",
-    "title": "Michelle Keegan",
-    "pubDate": "Sun, 29 Dec 2024 20:00:00 +0000",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSmCdiWeJOcrXA-RSc23T1cSUBn6KDodfF9tuZSz0nCbmtlIAXuyN9APL_aGTQaq4Fs3OPLs94j",
-    "news_item_snippet": "The former ITV Coronation Street star Michelle Keegan has announced that she is pregnant with her first child with former TOWIE star husband Mark Wright.",
-    "news_item_url": "https://www.lincolnshirelive.co.uk/news/celebs-tv/michelle-keegan-announces-shes-expecting-9824605",
-    "picture_source": "Sky News",
     "approx_traffic": "100,000+"
   },
   {
@@ -651,12 +701,12 @@
   },
   {
     "country": "United Kingdom",
-    "title": "Everton vs nottm Forest",
-    "pubDate": "Sun, 29 Dec 2024 15:00:00 +0000",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQSM-EwOPsnv_p54z3Uh4R5hHESRFtuid7kQAT7EhVNGu-CAXhfRcf6i8ypXJwzUygRQ3CsU6IX",
-    "news_item_snippet": "The win gives Forest 37 points after 19 games, five behind leaders Liverpool, who have two games in hand and who face West Ham United later on Sunday, and one&nbsp;...",
-    "news_item_url": "https://www.independent.co.uk/sport/football/everton-nottingham-forest-live-stream-premier-league-2024-b2671155.html",
-    "picture_source": "Nottingham Forest",
+    "title": "MAN CITY",
+    "pubDate": "Sun, 29 Dec 2024 18:00:00 +0000",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQe85VXLFwFfmWti7XBez_Jx2PcSOuSL0cbvPjopb6QRnzCT_POGuMgXu_fGA8qXlkALjPKgQLN",
+    "news_item_snippet": "Find out everything you need to know ahead of City&#39;s first Premier League fixture of 2025, facing West Ham United.",
+    "news_item_url": "https://www.mancity.com/news/mens/city-v-west-ham-match-preview-4-jan-63871072",
+    "picture_source": "Manchester City FC",
     "approx_traffic": "50,000+"
   },
   {
@@ -667,6 +717,16 @@
     "news_item_snippet": "Live updates as third round concludes and fourth round starts at Alexandra Palace. RESULT: Defending champion Luke Humphries knocked out with 4-1 defeat by&nbsp;...",
     "news_item_url": "https://www.bbc.co.uk/sport/darts/live/cy8y7lrm7n8t",
     "picture_source": "BBC News",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United Kingdom",
+    "title": "Everton vs nottm Forest",
+    "pubDate": "Sun, 29 Dec 2024 15:00:00 +0000",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQSM-EwOPsnv_p54z3Uh4R5hHESRFtuid7kQAT7EhVNGu-CAXhfRcf6i8ypXJwzUygRQ3CsU6IX",
+    "news_item_snippet": "The win gives Forest 37 points after 19 games, five behind leaders Liverpool, who have two games in hand and who face West Ham United later on Sunday, and one&nbsp;...",
+    "news_item_url": "https://www.independent.co.uk/sport/football/everton-nottingham-forest-live-stream-premier-league-2024-b2671155.html",
+    "picture_source": "Nottingham Forest",
     "approx_traffic": "50,000+"
   },
   {
