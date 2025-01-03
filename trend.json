@@ -1,10 +1,20 @@
 [
   {
     "country": "United States",
+    "title": "Winter storm snow forecast",
+    "pubDate": "Thu, 02 Jan 2025 06:00:00 -0800",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcReOH4nLX9SLnjGcSkrGPdPzj9UsO_lWzizK-K7fQSUqduXB_7uMf8tt0dRfGSEeledov3mE-7w",
+    "news_item_snippet": "Winter Storm Watches now cover over 11 million as a potent winter storm is expected to bring a significant swath of wintry weather across the central and&nbsp;...",
+    "news_item_url": "https://www.foxweather.com/weather-news/winter-storm-weekend-snow-ice-midwest-mid-atlantic",
+    "picture_source": "The Weather Channel",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
     "title": "Cybertruck explosion",
     "pubDate": "Wed, 01 Jan 2025 13:00:00 -0800",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRFL96QtO6Wi60pOSdacw0kC7YACw4thRMxdo9GuqsHphvCMG16-vC1eV_1lg49ed2TlHAQ3JTd",
-    "news_item_snippet": "Man who died in Cybertruck explosion outside Las Vegas Trump hotel ID&#39;d as Army special ops soldier ... The truck was rented to Matthew Alan Livelsberger, two&nbsp;...",
+    "news_item_snippet": "Authorities said Thursday that their investigation into an explosion that rattled the Trump Hotel in Las Vegas and killed one person had narrowed in on a&nbsp;...",
     "news_item_url": "https://www.nbcnews.com/news/us-news/officials-id-person-rented-cybertruck-used-explosion-las-vegas-trump-h-rcna185986",
     "picture_source": "NPR",
     "approx_traffic": "1,000,000+"
@@ -13,10 +23,10 @@
     "country": "United States",
     "title": "Skattebo",
     "pubDate": "Wed, 01 Jan 2025 11:00:00 -0800",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQHXHDhFsEh05D29N-1eNbRsbPxki9khDSbNIvagDIv38SlofxfJU2rTR8lToGDp16U9W-aC3Jd",
-    "news_item_snippet": "Arizona State Sun Devils running back Cam Skattebo&#39;s girlfriend flexed her outfit for the College Football Playoff game against Texas.",
-    "news_item_url": "https://athlonsports.com/college/arizona-state-sun-devils/cam-skattebo-girlfriend-flexes-outfit-arizona-state-texas-game",
-    "picture_source": "Yahoo Sports",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcT454WhFb03DEBCV4X9J-wO9ue-5B55yFgdoAuT7ZutsYD-PCQuX38FGH9MYxVhapco_0dvMmCT",
+    "news_item_snippet": "Cam Skattebo gave Arizona State everything he had, and nearly pulled off the College Football Playoff&#39;s greatest upset.",
+    "news_item_url": "https://sports.yahoo.com/undeniable-the-remarkable-season-of-cam-skattebo-and-arizona-state-comes-to-a-close-001840052.html",
+    "picture_source": "AZCentral.com",
     "approx_traffic": "200,000+"
   },
   {
@@ -41,16 +51,6 @@
   },
   {
     "country": "United States",
-    "title": "What's open on New Year's Day",
-    "pubDate": "Wed, 01 Jan 2025 06:00:00 -0800",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRMnny0bQJGzqjpdA277Ltri4R09KVQMOzbXRK6sWHHoBhSwE82jXNU_V8DTpyagg2PzEia4MND",
-    "news_item_snippet": "With New Year&#39;s Day being a federal holiday, which stores and businesses can you expect to be open for the start of 2025?",
-    "news_item_url": "https://www.nbcchicago.com/news/local/which-stores-are-open-on-new-years-day-what-to-know-as-chicago-area-begins-2025/3635765/",
-    "picture_source": "CBS News",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "United States",
     "title": "Jeremiah Smith",
     "pubDate": "Wed, 01 Jan 2025 15:00:00 -0800",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQZKxZuIzNQTANbrUeH8jjTA7x96DTaSfmf3hlupArI6DnOUDdqIHQLRKXtVF0kmoQuqe5tiREH",
@@ -61,12 +61,32 @@
   },
   {
     "country": "United States",
+    "title": "New York shooting",
+    "pubDate": "Wed, 01 Jan 2025 13:00:00 -0800",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQCVBYJ2MAEFy5_Xzv9V4vW0MmR_YWboZUs0xZKSMzdjAxYzGLwN4e2cba4QCHpZf2Qj3OBdqe4",
+    "news_item_snippet": "A mass shooting at the Amazura nightclub in Queens, New York left 10 people wounded, NYPD said.",
+    "news_item_url": "https://abc7ny.com/post/mass-shooting-queens-new-york-nyc-amazura/15739926/",
+    "picture_source": "The New York Times",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United States",
     "title": "Jocelyn Wildenstein",
     "pubDate": "Wed, 01 Jan 2025 13:00:00 -0800",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcS9Oe0UUB5ufI4jCn8XGFmuIwaQp5Lr0haiiXfZ6uS2p6jtPDF-vkhNMma0GziXNiLdFMm-GCoL",
-    "news_item_snippet": "Jocelyn Wildenstein, the Swiss-born socialite famous for the surgery-enhanced feline features that earned her nicknames in the American press like&nbsp;...",
-    "news_item_url": "https://www.abc-7.com/article/jocelyn-wildenstein-dies/63316863",
-    "picture_source": "USA TODAY",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTcA9yfiXBwP_i1WaoMsNZFaYd-T6vvZY9EzDZZDpIoaS2fR6ceOyWvxRrJaNqwJMEEI4FRNQlF",
+    "news_item_snippet": "Jocelyn Wildenstein, known for her extensive cosmetic surgery that gave her a cat-like appearance, died in Paris, according to reports.",
+    "news_item_url": "https://www.usatoday.com/story/entertainment/celebrities/2025/01/02/jocelyn-wildenstein-catwoman-dies/77397859007/",
+    "picture_source": "WDSU New Orleans",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Tiger Bech",
+    "pubDate": "Wed, 01 Jan 2025 14:00:00 -0800",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRoJFy0TFYXqPhGJfvSKP3w2iJW5xfpfVp2GaDNr407s-LYh0iLXok6hQz69C8_vpX3nOIhkME9",
+    "news_item_snippet": "Princeton Athletics and the Princeton football program mourn the loss of Martin &quot;Tiger&quot; Bech &#39;21, who passed away in the Bourbon Street attack in New&nbsp;...",
+    "news_item_url": "https://www.ncaa.com/news/football/article/2025-01-02/princeton-football-mourns-loss-tiger-bech",
+    "picture_source": "Princeton Athletics",
     "approx_traffic": "100,000+"
   },
   {
@@ -77,6 +97,16 @@
     "news_item_snippet": "An online car rental service is under scrutiny after it was used in two incidents Wednesday.",
     "news_item_url": "https://www.nbcnews.com/business/business-news/s-turo-airbnb-cars-was-used-new-orleans-las-vegas-incidents-rcna185972",
     "picture_source": "The New York Times",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Will Howard",
+    "pubDate": "Wed, 01 Jan 2025 16:00:00 -0800",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQdBrRKy5xVPJ5RSGjLCxA7u0Xiy5DU3m00cagYVaXiApkrJR4Z6TGHw8Aamde-SPMuPgWnFzLV",
+    "news_item_snippet": "Ohio State quarterback Will Howard will face Texas in the Cotton Bowl next week, a team that he has never defeated in his career.",
+    "news_item_url": "https://www.si.com/college/kstate/will-howard-looking-for-feat-he-couldn-t-accomplish-at-kansas-state",
+    "picture_source": "Fox News",
     "approx_traffic": "50,000+"
   },
   {
@@ -101,22 +131,12 @@
   },
   {
     "country": "United States",
-    "title": "News today",
+    "title": "News Today",
     "pubDate": "Wed, 01 Jan 2025 17:00:00 -0800",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcT2opp0iyuix_w5gkle_PxyACFvZAOaVFsGb-Njy_c-TSbZo0AQ70nunf9zdiy3r74Tw2RBRUe7",
     "news_item_snippet": "How do I apply for a parking permit? Starting December 1, 2024, Cambridge residents can renew their Resident and Visitor Parking Permits online at www.",
     "news_item_url": "https://www.cambridgema.gov/news/detail?path=%2Fsitecore%2Fcontent%2Fhome%2FDepartments%2Ftrafficparkingandtransportation%2FNews%2F2025%2F01%2Frenewresidentialparkingpermitsonlinestartingdecember1%2C2024",
     "picture_source": "siouxfalls.org",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
-    "title": "New York",
-    "pubDate": "Wed, 01 Jan 2025 13:00:00 -0800",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQX15sOdGu0tyGqQibEpqRrbPap6C80QeCNxNXEidjdJy8VTpFaOBKgpAvRN004aOtNqgQJZLUV",
-    "news_item_snippet": "Three or four people fired into a crowd in the Jamaica neighborhood, the police said.",
-    "news_item_url": "https://www.nytimes.com/2025/01/02/nyregion/queens-shooting-new-york.html",
-    "picture_source": "ABC7 New York",
     "approx_traffic": "50,000+"
   },
   {
@@ -131,63 +151,23 @@
   },
   {
     "country": "United States",
-    "title": "Aurora",
-    "pubDate": "Wed, 01 Jan 2025 07:00:00 -0800",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSEHTo1F1WM1Yo-vf8DueS8aNQRQAWrlZTUWehUCk62AFISsg7UX0PwzqKoJb2XZUEK2_HCP2uU",
-    "news_item_snippet": "Aurora will hold its first-ever Restaurant Week beginning later this month as a way to &quot;showcase Aurora&#39;s rapidly growing and diverse culinary scene,\u201d city&nbsp;...",
-    "news_item_url": "https://www.chicagotribune.com/2025/01/02/new-event-to-spotlight-auroras-restaurants/",
-    "picture_source": "Chicago Tribune",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Gypsy Rose",
-    "pubDate": "Wed, 01 Jan 2025 15:00:00 -0800",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQzYbbequG1GK3F4EaNM8d4WXuKUsDmYFXRWvOFxcRD4kGv54Wa30Q1LyAXorrmSmdBL0mRQj_d",
-    "news_item_snippet": "The photo, posted Wednesday, shows Blanchard in a hospital bed holding a newborn baby alongside Urker, who is standing next to the bed with his hand on the baby&nbsp;...",
-    "news_item_url": "https://6abc.com/post/gypsy-rose-blanchard-welcomes-1st-child/15737976/",
-    "picture_source": "Springfield News-Leader",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Rock and Roll Hall Of Fame 2024",
-    "pubDate": "Wed, 01 Jan 2025 19:00:00 -0800",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQpdg35rem-f8YtWqjA98bStWdjc0jq_qa6AywgFv70a6CXdeSrEXB-CT1DZ4Mnk6Azk4gXe1bj",
-    "news_item_snippet": "Singer-songwriter Dionne Warwick was given the Musical Excellence Award at the 2024 Rock &amp; Roll Hall of Fame.",
-    "news_item_url": "https://www.ctinsider.com/entertainment/article/dionne-warwick-hartt-school-rock-roll-hall-of-fame-20011153.php",
-    "picture_source": "CT Insider",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Arsenal",
-    "pubDate": "Wed, 01 Jan 2025 10:00:00 -0800",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQRm1O23wZiFtDmpg8Yh4bXQJ2Dg4obn5ZYM2LfsCX8CfY6QbBSc_Nfo233YPQa96_PZGqKHCrg",
-    "news_item_snippet": "Expert recap and game analysis of the Arsenal vs. Brentford English Premier League game from January 1, 2025 on ESPN.",
-    "news_item_url": "https://www.espn.com/soccer/report/_/gameId/704467",
-    "picture_source": "Arsenal.com",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Thursday Night Football",
-    "pubDate": "Wed, 01 Jan 2025 21:00:00 -0800",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQXcsDjpq1d_EssvA0MXmnVMDTN1tyaC2aNu5nO4P8_r24enTYkIzuYjxMaVcI5GUlAVUR96a8m",
-    "news_item_snippet": "There has been an NFL game every Thursday night since Week 1. But is there a &quot;Thursday Night Football&quot; game tonight?",
-    "news_item_url": "https://www.usatoday.com/story/sports/nfl/2025/01/02/thursday-night-football-tonight-game-week-18/77320905007/",
-    "picture_source": "Courier Journal",
+    "title": "What stores are open on New Year's Day",
+    "pubDate": "Wed, 01 Jan 2025 08:00:00 -0800",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcS2JUjthUOHCk94I7RwE7TXXwToH1kin3bQ78lSAl_gHnlLCoqvP6s6n3AMHYBP6o4-9fEKffkG",
+    "news_item_snippet": "Many grocery stores&nbsp;...",
+    "news_item_url": "https://www.wect.com/2025/01/01/here-is-what-is-open-closed-new-years-day/",
+    "picture_source": "NBC Chicago",
     "approx_traffic": "50,000+"
   },
   {
     "country": "India",
     "title": "Rohit Sharma",
-    "pubDate": "Thu, 02 Jan 2025 22:30:00 +0530",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcS2brVLnCTtMk10zmBnyn-G-XNJpclEWqX8icGK1_XRyjId9kxc4zoZjjA8fJXH2liT-1i8LteK",
-    "news_item_snippet": "\u092d\u093e\u0930\u0924\u0940\u092f \u091f\u0940\u092e \u0914\u0930 \u0911\u0938\u094d\u091f\u094d\u0930\u0947\u0932\u093f\u092f\u093e \u0915\u0947 \u092c\u0940\u091a \u092c\u0949\u0930\u094d\u0921\u0930-\u0917\u093e\u0935\u0938\u094d\u0915\u0930 \u091f\u094d\u0930\u0949\u092b\u0940 (BGT) \u0915\u0947 \u0924\u0939\u0924 \u0916\u0947\u0932\u0940 \u091c\u093e \u0930\u0939\u0940 \u0938\u0940\u0930\u0940\u091c \u0915\u093e \u0906\u0916\u200d\u093f\u0930\u0940 \u091f\u0947\u0938\u094d\u091f 3 \u091c\u0928\u0935\u0930\u0940 \u0938\u0947 \u0938\u200d\u093f\u0921\u0928\u0940 \u092e\u0947\u0902 \u0939\u094b\u0917\u093e.",
-    "news_item_url": "https://www.aajtak.in/sports/cricket/story/ind-vs-aus-rohit-sharma-will-play-in-sydney-test-say-sunil-gavaskar-before-india-vs-australia-5th-test-tspos-dskc-2134983-2025-01-02",
-    "picture_source": "NDTVSports.com",
-    "approx_traffic": "50,000+"
+    "pubDate": "Wed, 01 Jan 2025 13:30:00 +0530",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSGnefK3mYZMfZt0NE0_Ybs1EPNAj_LXz6Z4Meqge7Bry38-Vo1AbhqYDPytGT582oLKyCjNCSt",
+    "news_item_snippet": "Indian cricket team skipper Rohit Sharma is all set to be rested for the fifth Test encounter against Australia starting Thursday in Sydney, according to&nbsp;...",
+    "news_item_url": "https://sports.ndtv.com/australia-vs-india-2024-25/gautam-gambhir-rejected-request-to-keep-rohit-sharma-in-playing-xi-for-5th-australia-test-report-7385280",
+    "picture_source": "The Hindu",
+    "approx_traffic": "100,000+"
   },
   {
     "country": "India",
@@ -220,20 +200,10 @@
     "approx_traffic": "200,000+"
   },
   {
-    "country": "Argentina",
-    "title": "A\u00f1o Nuevo",
-    "pubDate": "Wed, 01 Jan 2025 21:00:00 -0300",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcR2r5MFRHf7IEcAQQbOE9cTsCcdNpKdrrFvlhS13shyehG7YreCbjBDo-ayPAYmY7Mhq3sLp8qL",
-    "news_item_snippet": "Tras un gran a\u00f1o para el rugby del pa\u00eds, los jugadores de los seleccionado argentino celebraron el comienzo del 2025 junto a sus familiares y amigos.",
-    "news_item_url": "https://www.espn.com.ar/rugby/nota/_/id/14621388/como-recibieron-el-ano-nuevo-los-jugadores-argentinos-los-pumas-seven-rugby",
-    "picture_source": "Infobae.com",
-    "approx_traffic": "200,000+"
-  },
-  {
     "country": "Australia",
     "title": "New Orleans",
     "pubDate": "Thu, 02 Jan 2025 00:00:00 +1100",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTz7BkcRYB0RblhjMXPCUrGvBj8gfIiGHqKfPK-rrqGngKGm7z0XkL-G4rVtaAKDq4KU8cl1vbx",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQOydHSUHlsASTZK6dMN7hID3K_yqjhAAU8vD_6Ao2EG83qninP-jx0GGWTzmrCmVUmFyKgnd18",
     "news_item_snippet": "The suspect, a 42-year-old US Army veteran, was killed in a shootout with police. The FBI said the man posted videos before the attack expressing support for&nbsp;...",
     "news_item_url": "https://www.sbs.com.au/news/article/new-orleans-attacker-acted-alone-and-proclaimed-support-for-is-authorities-say/of1oee81t",
     "picture_source": "ABC News",
@@ -254,9 +224,19 @@
     "title": "Sal\u00e1rio m\u00ednimo 2025",
     "pubDate": "Thu, 02 Jan 2025 07:00:00 -0500",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRYNXDn4MhB8prHxYHPCvkR82oiBeH0UtmS-QF359N8uSpS9VYLs23Q-5GOUlD5zFXd1D2s3q0d",
-    "news_item_snippet": "O sal\u00e1rio m\u00ednimo \u00e9 refer\u00eancia para o reajuste de benef\u00edcios sociais, como aposentadorias e o Benef\u00edcio de Presta\u00e7\u00e3o Continuada (BPC)",
-    "news_item_url": "https://exame.com/economia/valor-do-salario-minimo-em-2025-veja-reajuste-e-quando-comeca-a-ser-pago/",
+    "news_item_snippet": "O governo federal fixou o sal\u00e1rio m\u00ednimo a ser pago no pa\u00eds em 2025 em R$1.518,00, valor R$106,00 maior do que o de 2024, o que corresponde a um reajuste de&nbsp;...",
+    "news_item_url": "https://www12.senado.leg.br/radio/1/noticia/2025/01/02/governo-reajusta-salario-minimo-com-novo-limite-de-ganho-real",
     "picture_source": "G1",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "Brazil",
+    "title": "Inter x Atalanta",
+    "pubDate": "Thu, 02 Jan 2025 10:00:00 -0500",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSPSQ08MiuuWRWs392fEniXU3nSvAmlHdOa8eiF8Vz9PYW1RydP8AuBsV7NvfEE5lCrW7g_C2SF",
+    "news_item_snippet": "Nesta quarta-feira, pela semifinal da Supercopa da It\u00e1lia, Inter de Mil\u00e3o e Atalanta se enfrentam no Al -Awwal Park, na Ar\u00e1bia Saudita.",
+    "news_item_url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/gazeta-esportiva/2025/01/02/inter-x-atalanta-veja-provaveis-escalacoes-e-onde-assistir-ao-jogo-pela-semifinal-da-supercopa-da-italia.htm",
+    "picture_source": "NSC Total",
     "approx_traffic": "100,000+"
   },
   {
@@ -293,19 +273,19 @@
     "country": "France",
     "title": "Jocelyne Wildenstein",
     "pubDate": "Wed, 01 Jan 2025 17:00:00 +0100",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcR60IL1GY-eUh8Q_UFEZgStS06FGQJEVVtJw3-g_crzusQ3Kn1f2QVZdscbn2fJVMAOOwmaQ6vc",
-    "news_item_snippet": "Ses multiples recours \u00e0 la chirurgie esth\u00e9tique, en particulier sur son visage, devenu surnaturel, lui valaient son surnom de &quot;femme chat&quot; : Jocelyne&nbsp;...",
-    "news_item_url": "https://www.francetvinfo.fr/culture/arts-expos/jocelyne-wildenstein-figure-du-marche-de-l-art-et-de-la-jet-set-surnommee-la-femme-chat-est-morte_6990329.html",
-    "picture_source": "Lib\u00e9ration",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSigBT00jciChIbf86rluJk8cF9ft0RlqgPPzKvsqAuapiKhEiuCeBrlxXiemPJO0ED_-r_rwGy",
+    "news_item_snippet": "C\u00e9l\u00e8bre pour son affolant visage de f\u00e9lin obtenu \u00e0 grand renfort de chirurgie esth\u00e9tique, la jet-setteuse suisse, morte le 31 d\u00e9cembre,&nbsp;...",
+    "news_item_url": "https://www.liberation.fr/lifestyle/beaute/mort-de-la-femme-chat-jocelyne-wildenstein-derriere-le-delire-la-liberte-20250102_IFUA4PM535GDPKROS43BHZG2LI/",
+    "picture_source": "Franceinfo",
     "approx_traffic": "100,000+"
   },
   {
     "country": "France",
     "title": "Nouvelle orleans",
     "pubDate": "Wed, 01 Jan 2025 14:00:00 +0100",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcR2zSztSPasHhrqC5vkAKZNLxQQkXCYecZ4Eyphqg1rOrFaHtG4VHgelUTfNLNcNEPCYOLXsQas",
-    "news_item_snippet": "La France condamne avec la plus grande fermet\u00e9 le terrible attentat perp\u00e9tr\u00e9 dans la nuit du 1er janvier 2025 \u00e0 La Nouvelle-Orl\u00e9ans, qui a co\u00fbt\u00e9 la vie \u00e0 au&nbsp;...",
-    "news_item_url": "https://it.ambafrance.org/Etats-Unis-Attentat-a-La-Nouvelle-Orleans-2-janvier-2025",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRPpt4xpwDFQ-uqHpQq9fQYG1ntbY80oMfx6ytW-2N6GDxJILAXVmnf3wJI_y1PlgR04Rn1raIh",
+    "news_item_snippet": "Au lendemain de l&#39;attaque qui a fait 14 morts dans le Quartier fran\u00e7ais, la vie a repris dans la grande ville de Louisiane. Le FBI estime que le suspect,&nbsp;...",
+    "news_item_url": "https://www.liberation.fr/international/amerique/attaque-de-la-nouvelle-orleans-lenquete-avance-les-failles-de-la-securite-mises-en-evidence-20250102_KCAAX4O62ZBTDHEDPYF2Z4YHYA/",
     "picture_source": "Franceinfo",
     "approx_traffic": "50,000+"
   },
@@ -313,20 +293,20 @@
     "country": "France",
     "title": "Vigilance neige-verglas",
     "pubDate": "Wed, 01 Jan 2025 17:00:00 +0100",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTFmHKF_jdMcfhvORJC_CWcIBhS5NTWYeqTh4O76KfXPK1GRRws2hdsI8AYoZRP3G6Is4GtAoOF",
-    "news_item_snippet": "M\u00e9t\u00e9o-France a activ\u00e9 la vigilance jaune neige et verglas pour le Nord et le Pas-de-Calais ce vendredi. Toute la moiti\u00e9 nord et est de la France est&nbsp;...",
-    "news_item_url": "https://www.lavoixdunord.fr/1539188/article/2025-01-01/neige-verglas-et-crues-le-nord-et-le-pas-de-calais-places-en-vigilance-jaune",
-    "picture_source": "Franceinfo",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRcvs9WYVsD9vNOYE6uAcUnBOjUAgZBnkUfHCVOc777Nbt7IpXGI2PZmqDtZiI8jIim4_uJLvfa",
+    "news_item_snippet": "Le territoire&amp;nbsp;sera plac\u00e9 en vigilance jaune vendredi 3 janvier pour le ph\u00e9nom\u00e8ne neige/verglas.&amp;nbsp;M\u00e9t\u00e9o France annonce une baisse\u2026",
+    "news_item_url": "https://www.boulognebillancourt.com/information-transversale/actualites/meteo-vigilance-jaune-neige-verglas-le-3-janvier-4884",
+    "picture_source": "La Voix du Nord",
     "approx_traffic": "50,000+"
   },
   {
     "country": "Germany",
     "title": "Darts-WM",
     "pubDate": "Wed, 01 Jan 2025 22:00:00 +0100",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSMl_n8ihQc84ulBZU__ptiIqng7-lEJr5NUAuYfSOoyol0XpogWCPYHmycBsNyq2iJpe-_jdhG",
-    "news_item_snippet": "Das Aus im Viertelfinale der Darts-WM ist die Quittung f\u00fcr einen Auftritt, der an Gro\u00dfkotzigkeit nicht zu \u00fcberbieten ist. Ein Kommentar.",
-    "news_item_url": "https://www.ran.de/sports/darts/darts-wm/news/darts-wm-michael-van-gerwens-ausscheiden-ist-die-konsequenz-seiner-eigenen-arroganz-344155",
-    "picture_source": "SPORT1",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSYHLx7gOe618wVJ0qyreL_QmreUeNUukzEWwWIwIsgdpqiDH-VOUgjn_JW0xL_CA4eF8IWY13L",
+    "news_item_snippet": "Den Titel fest im Blick: Der dreimalige Champion Michael van Gerwen ist bei der Darts-WM in London ins Endspiel eingezogen und tr\u00e4umt weiter von seinem&nbsp;...",
+    "news_item_url": "https://www.sport1.de/news/darts-sport/pdc-darts-wm/2025/01/darts-wm-van-gerwen-zieht-dominant-ins-finale-ein",
+    "picture_source": "Sportschau",
     "approx_traffic": "200,000+"
   },
   {
@@ -334,30 +314,70 @@
     "title": "New Orleans",
     "pubDate": "Wed, 01 Jan 2025 14:00:00 +0100",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTDEfBJL7siMWBo5DVpceX1zyUEzg1wZQKJhTIjoIXAA7STN9XYoCjEnXU14xpHMF26kuaOTRZS",
-    "news_item_snippet": "Ermittler haben erste Erkenntnisse gewonnen, warum der Attent\u00e4ter es leicht hatte, in der Silvesternacht in die feiernden Menschen zu rasen.",
-    "news_item_url": "https://www.spiegel.de/ausland/new-orleans-polizei-raeumt-nach-todesfahrt-sicherheitsluecken-ein-a-8e84a80f-be49-4f41-9b2f-b1ef15d19135",
+    "news_item_snippet": "In New Orleans raste ein Mann an Silvester in eine Menschenmenge, er t\u00f6tete 14 Menschen. Die Ermittler gehen von einem Einzelt\u00e4ter aus. Was wir wissen \u2013 und&nbsp;...",
+    "news_item_url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2025-01/new-orleans-attentat-taeter-is-fahne",
     "picture_source": "tagesschau.de",
     "approx_traffic": "100,000+"
   },
   {
     "country": "Germany",
-    "title": "Vierschanzentournee",
-    "pubDate": "Wed, 01 Jan 2025 17:00:00 +0100",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcS7TOI5rBqTMBb7Dr5B7S8VgbmEsBiTdZww_P_ksw4o-6B2E0mQLFzNFvDR8a7n3dygS-rJijcx",
-    "news_item_snippet": "Daniel Tschofenig springt in Garmisch-Partenkirchen zu seinem dritten Saisonsieg und \u00fcbernimmt die F\u00fchrung bei der Vierschanzentournee. W\u00e4hrend Pius.",
-    "news_item_url": "https://www.skispringen.com/vierschanzentournee-daniel-tschofenig-gewinnt-neujahrsspringen-in-garmisch-partenkirchen-karl-geiger-bester-deutscher/",
-    "picture_source": "Sportschau",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Germany",
-    "title": "Kugelbombe was ist das",
+    "title": "Kugelbombe Was ist das",
     "pubDate": "Wed, 01 Jan 2025 11:00:00 +0100",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRHaSwnnptt_4XohTLr0aue6ZlFjgK_4xruISkIALtUrc9Gzdwtv9O5tqh_kvJejriXE2gjNzbJ",
     "news_item_snippet": "Bei mehreren Explosionen in der Silvesternacht in Berlin und Brandenburg sollen Kugelbomben heftige Sch\u00e4den an H\u00e4usern, schwere Verletzungen und den Tod&nbsp;...",
     "news_item_url": "https://www.rbb24.de/panorama/beitrag/2025/01/silvester-kugelbomben-erklaerung-sprengkoerper.html",
     "picture_source": "tagesschau.de",
     "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Germany",
+    "title": "Flugzeugabsturz in Kasachstan",
+    "pubDate": "Wed, 25 Dec 2024 11:00:00 +0100",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSROlz1wqjzi2Ty5k0T62cnwQPFFkAGpxlUP36OfufpeCQXJaJZadmwJN1zXBO5rWhTLPSYZx9A",
+    "news_item_snippet": "Beim Absturz eines Flugzeugs in Kasachstan sterben mindestens 38 Menschen. Die Ursache ist noch nicht final gekl\u00e4rt. Ein Zusammenhang zum Ukraine-Krieg&nbsp;...",
+    "news_item_url": "https://www.fr.de/politik/krieg-ermittlungen-ursache-flugzeugabsturz-kasachstan-aserbaidschan-russland-ukraine-93486279.html",
+    "picture_source": "tagesschau.de",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "Germany",
+    "title": "Squid Game",
+    "pubDate": "Wed, 25 Dec 2024 20:00:00 +0100",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTE_MsoQOuDytg-K27F6I_DnqSEjE0nJd0pCmWrXu75HXpRu7OdzEIi1aSVmYS2pNoDVc3a7hhf",
+    "news_item_snippet": "Google hat ein neues Easter Egg in die Suchmaschine eingebaut. Passend zur zweiten Staffel Squid Game gibt es n\u00e4mlich jetzt ein kleines Minispiel zur&nbsp;...",
+    "news_item_url": "https://t3n.de/news/squid-game-so-spielst-du-das-neue-google-easter-egg-1665632/",
+    "picture_source": "DER SPIEGEL",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Germany",
+    "title": "Nachrichten",
+    "pubDate": "Sat, 21 Dec 2024 07:00:00 +0100",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQdtncRHb2XB_Iglpdr2A1qt6wU88V9yV7klpzGS1INihYTwqJSpvg74Ul7QCoWtfGYYnRGgV-P",
+    "news_item_snippet": "Nachrichten aus Schleswig-Holstein vom 21. Dezember 2024 - kompakt im Newsblog von NDR SH: Lesen Sie hier im \u00dcberblick, was im Land passiert ist.",
+    "news_item_url": "https://www.ndr.de/nachrichten/schleswig-holstein/Schleswig-Holstein-aktuell-Wichtige-Nachrichten-im-Ueberblick,news4332.html",
+    "picture_source": "NDR.de",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "Germany",
+    "title": "Magdeburg",
+    "pubDate": "Fri, 20 Dec 2024 20:00:00 +0100",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcT-XzI4DYbgAbRqVB2Sgftcb3i5eXgnjASkff2R28_5DtLc6U8qzEeJypMyo7ecY57vON6Yh7O0",
+    "news_item_snippet": "Nach dem t\u00f6dlichen Anschlag in Magdeburg gibt es weitere Informationen \u00fcber den Tatverd\u00e4chtigen. So soll Taleb A. bereits 2013 vom Amtsgericht Rostock wegen&nbsp;...",
+    "news_item_url": "https://www.ndr.de/nachrichten/mecklenburg-vorpommern/Mutmasslicher-Taeter-von-Magdeburg-bereits-in-Rostock-verurteilt,ermittlungenmv100.html",
+    "picture_source": "tagesschau.de",
+    "approx_traffic": "2,000,000+"
+  },
+  {
+    "country": "Germany",
+    "title": "Vertrauensfrage",
+    "pubDate": "Mon, 16 Dec 2024 00:00:00 +0100",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSoclYli2d0zAyGBE-Bi5HNmlSLVnC7zyk0iwU4zNsslyIYN4iGD6rIHQ27uEqzpuhnsAsyQzus",
+    "news_item_snippet": "Nach Artikel 68 des Grundgesetzes kann der Bundeskanzler im Bundestag die sogenannte Vertrauensfrage stellen. Dies kann mit einem konkreten Gesetzesvorhaben&nbsp;...",
+    "news_item_url": "https://www.ndr.de/nachrichten/info/FAQ-zur-Vertrauensfrage-Wie-laeuft-die-Abstimmung-im-Bundestag-ab,vertrauensfragefaq100.html",
+    "picture_source": "NDR.de",
+    "approx_traffic": "100,000+"
   },
   {
     "country": "Italy",
@@ -371,11 +391,11 @@
   },
   {
     "country": "Italy",
-    "title": "Giornalista Cecilia Sala",
+    "title": "Cecilia Sala giornalista",
     "pubDate": "Thu, 02 Jan 2025 15:00:00 +0100",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRhr7IODX6LfY9SC4V1Ak8ATPs3N65vmO1V24x-zD-zhO4F1dDJZ8OcgL2uiyxmhG2m9Rlmvwu8",
-    "news_item_snippet": "Leggi su Sky TG24 l&#39;articolo Cecilia Sala, Italia a Iran: &#39;Liberazione immediata&#39;. Meloni vede madre della giornalista.",
-    "news_item_url": "https://tg24.sky.it/mondo/2025/01/02/cecilia-sala-iran-ultime-news",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTRY4MQRN7kZ7zRLzEfEUbcghuROJSjpHpxxjZ_Rg0CWDObbuJnRsnElQegsmBiEeyyfqoDOc8B",
+    "news_item_snippet": "Leggi su Sky TG24 l&#39;articolo Cecilia Sala, le telefonate dal carcere: &#39;Dormo per terra, mi hanno tolto gli occhiali&#39;",
+    "news_item_url": "https://tg24.sky.it/mondo/2025/01/02/cecilia-sala-carcere-telefonate",
     "picture_source": "Sky Tg24",
     "approx_traffic": "50,000+"
   },
@@ -391,16 +411,6 @@
   },
   {
     "country": "Italy",
-    "title": "Aldo Agroppi",
-    "pubDate": "Thu, 02 Jan 2025 10:00:00 +0100",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQS-nR4AQhBHxMGkRa948S5oZYUTWXflzoubJtbDg47SddN3UF4MlmdkPpTYkX9WIEkmaxWbYbQ",
-    "news_item_snippet": "Il calcio dice addio ad Aldo Agroppi: l&#39;ex centrocampista e allenatore aveva 80 anni. Malato da tempo, da qualche giorno era ricoverato per una polmonite&nbsp;...",
-    "news_item_url": "https://www.avvenire.it/agora/pagine/morto-aldo-agroppi",
-    "picture_source": "FIGC",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Italy",
     "title": "Agenzia delle entrate",
     "pubDate": "Thu, 02 Jan 2025 12:00:00 +0100",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSNVTIycN3D6tZWjmAm7HfvW4_avtT99FjvLGS4QGgukfTvUFu-gv_N8VD3DYC-YkfQnUy-e-Wn",
@@ -410,13 +420,23 @@
     "approx_traffic": "50,000+"
   },
   {
+    "country": "Italy",
+    "title": "Aldo Agroppi",
+    "pubDate": "Thu, 02 Jan 2025 10:00:00 +0100",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQS-nR4AQhBHxMGkRa948S5oZYUTWXflzoubJtbDg47SddN3UF4MlmdkPpTYkX9WIEkmaxWbYbQ",
+    "news_item_snippet": "Il calcio dice addio ad Aldo Agroppi: l&#39;ex centrocampista e allenatore aveva 80 anni. Malato da tempo, da qualche giorno era ricoverato per una polmonite&nbsp;...",
+    "news_item_url": "https://www.avvenire.it/agora/pagine/morto-aldo-agroppi",
+    "picture_source": "FIGC",
+    "approx_traffic": "50,000+"
+  },
+  {
     "country": "Mexico",
     "title": "A\u00f1o Nuevo",
     "pubDate": "Wed, 01 Jan 2025 23:00:00 -0600",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcR2r5MFRHf7IEcAQQbOE9cTsCcdNpKdrrFvlhS13shyehG7YreCbjBDo-ayPAYmY7Mhq3sLp8qL",
-    "news_item_snippet": "Experta de Mayo Clinic Healthcare ofrece estrategias para identificar y neutralizar una barrera com\u00fan hacia el \u00e9xito. LONDRES \u2014 Hay un culpable habitual&nbsp;...",
-    "news_item_url": "https://newsnetwork.mayoclinic.org/es/2025/01/02/el-culpable-de-las-muchas-resoluciones-de-ano-nuevo-no-cumplidas/",
-    "picture_source": "Infobae.com",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRmqgvf-waFUcf0pyou56_tTHSjcahGOMTJUYlI_gcaQc_s-guMGCd1Dr7E-cutqK5MZzgiRDjH",
+    "news_item_snippet": "La arena tibia bajo los pies descalzos, el sonido del mar acariciando la costa y un cielo que parec\u00eda rivalizar con un lienzo de Monet.",
+    "news_item_url": "https://www.infobae.com/mexico/2025/01/02/asi-se-vivio-el-ano-nuevo-2025-en-playa-del-carmen/",
+    "picture_source": "El Sol de la Laguna",
     "approx_traffic": "500,000+"
   },
   {
@@ -424,40 +444,10 @@
     "title": "Leo Dan",
     "pubDate": "Wed, 01 Jan 2025 13:00:00 -0600",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTZ3RReZkAhBkt6PEeESVZBRbsX1zTSJHi6KlneiYcYU1KhbZ2FGUd7mj9Tm5zWYE7jY1wxcsWo",
-    "news_item_snippet": "Leo Dan muri\u00f3 la ma\u00f1ana de este 1 de enero de 2025. &middot; El deceso del artista argentino ocurre en medio de la gira de despedida, llamada &#39;El adi\u00f3s a una leyenda&#39;,&nbsp;...",
-    "news_item_url": "https://www.univision.com/famosos/muere-leo-dan-deseo-concierto-argentina",
+    "news_item_snippet": "Leo Dan, el int\u00e9rprete de &#39;Como te extra\u00f1o, mi amor&#39;, comparti\u00f3 que luego de que Harrison Ford escuch\u00f3 &#39;Te he prometido&#39; se interes\u00f3 en su m\u00fasica.",
+    "news_item_url": "https://www.elfinanciero.com.mx/espectaculos/2025/01/02/harrison-ford-quedo-fascinado-tras-escuchar-cancion-de-leo-dan-en-roma-de-alfonso-cuaron/",
     "picture_source": "BBC Mundo",
     "approx_traffic": "200,000+"
-  },
-  {
-    "country": "Mexico",
-    "title": "Feliz A\u00f1o Nuevo 2025!",
-    "pubDate": "Wed, 01 Jan 2025 03:00:00 -0600",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSLOA7ip3xNsUmNtjpBbp4I1PZre-oCEL4jNsQhyPJtGJ7HB5uXlqh4Vo0B8F_s3jX1CIet04_H",
-    "news_item_snippet": "Hoy comienza un nuevo a\u00f1o, y con el deseo para todas y todos que la felicidad, el amor, la salud y la prosperidad colmen cada uno de sus hogares.",
-    "news_item_url": "https://www.debate.com.mx/opinion/feliz-ano-nuevo-2025-20250101-0006.html",
-    "picture_source": "Uniradio Noticias",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "Mexico",
-    "title": "Contingencia ambiental",
-    "pubDate": "Wed, 01 Jan 2025 13:00:00 -0600",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQxlIoh__HsKyMwhpHNKPDLrMzd1CvvI2qdZms_fiCc1ljdsYeTjt6I-bQ7gWfzIWDqUu3HufXb",
-    "news_item_snippet": "Autoridades se\u00f1alan que es muy probable que se active la Contingencia ambiental el 1 de enero de 2025. / Foto: David Deolarte, La Prensa.",
-    "news_item_url": "https://oem.com.mx/la-prensa/metropoli/valle-de-mexico-reportan-mala-calidad-del-aire-habra-contingencia-ambiental-20929817",
-    "picture_source": "El Sol de M\u00e9xico",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "Mexico",
-    "title": "Salario m\u00ednimo 2025",
-    "pubDate": "Wed, 01 Jan 2025 20:00:00 -0600",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRwJ-ulp-BC9AFn2oT_hD0G73LgPXxsuKwgedV48ESQ_F-bqAzmBxZPY5q37qpHp401rVQL8Wf-",
-    "news_item_snippet": "El salario m\u00ednimo tuvo un incremento de 12% para este a\u00f1o, para alcanzar un nivel de 278.80 pesos por jornada diaria a nivel general, y de 419.88 pesos.",
-    "news_item_url": "https://www.eleconomista.com.mx/capital-humano/entra-vigor-salario-minimo-2025-nadie-ganar-8-400-pesos-mes-20250101-740221.html",
-    "picture_source": "EL PA\u00cdS",
-    "approx_traffic": "50,000+"
   },
   {
     "country": "United Kingdom",
@@ -467,15 +457,15 @@
     "news_item_snippet": "PHILIPPE CLEMENT has named his Rangers side for this afternoon&#39;s Old Firm match at Ibrox Stadium.",
     "news_item_url": "https://www.rangers.co.uk/article/team-news-gers-side-to-face-celtic-at-ibrox/7a0HqIZ0wo0TPhZacsUARP",
     "picture_source": "The Independent",
-    "approx_traffic": "200,000+"
+    "approx_traffic": "100,000+"
   },
   {
     "country": "United Kingdom",
     "title": "Premier League",
     "pubDate": "Thu, 02 Jan 2025 08:00:00 +0000",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQjrd08keAbolULZE9Tlz3lxwpq6vPKGL24HeQ-p_PUhfq58fcB6-a81R1tkW8z-ZKAn__LJlSe",
-    "news_item_snippet": "Ticket selling details have been announced for this month&#39;s visit to the Etihad Stadium. Chelsea play our away Premier League match against Manchester City on&nbsp;...",
-    "news_item_url": "https://www.chelseafc.com/en/news/article/premier-league-ticket-news-manchester-city-away",
+    "news_item_snippet": "Latin American football expert Tim Vickery looks at players who might be heading across the Atlantic to the top flight.",
+    "news_item_url": "https://www.premierleague.com/news/4214138",
     "picture_source": "Premier League",
     "approx_traffic": "100,000+"
   },
@@ -484,9 +474,19 @@
     "title": "NS&I",
     "pubDate": "Thu, 02 Jan 2025 10:00:00 +0000",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRXRY8BkzacF11-e3MTl7x0haeh8bLqsobrLU_gJ_ChXsm3mrKTO_jTl_ezqBTmxQowNV2h11nV",
-    "news_item_snippet": "The prize fund rate for the savings scheme is falling from this month.",
+    "news_item_snippet": "NS&amp;I has announced the Premium Bonds prize winners for January 2025, with two savers winning a \u00a31million jackpot. The first millionaire of 2025 hails from&nbsp;...",
     "news_item_url": "https://www.leicestermercury.co.uk/news/cost-of-living/nsi-unveils-premium-bonds-results-9831051",
     "picture_source": "Leicestershire Live",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United Kingdom",
+    "title": "Lockerbie bombing",
+    "pubDate": "Thu, 02 Jan 2025 14:00:00 +0000",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQvYv5sq8l4kkgrstrf7yE_TFpTyVFYr_AX3DDn3_Stfp7T9Lali_uup3kWFiA7CE3oiy8qUl7G",
+    "news_item_snippet": "This dramatisation about a bereaved father&#39;s heroic hunt for truth gets far too bogged down in detail \u2013 and fails to spark any emotion at all.",
+    "news_item_url": "https://www.theguardian.com/tv-and-radio/2025/jan/02/lockerbie-a-search-for-truth-review-colin-firths-disaster-drama-is-worryingly-close-to-a-casualty-episode",
+    "picture_source": "Yahoo News UK",
     "approx_traffic": "50,000+"
   }
 ]
