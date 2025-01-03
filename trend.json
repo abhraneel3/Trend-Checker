@@ -1,7 +1,7 @@
 [
   {
     "country": "United States",
-    "title": "Notre Dame football",
+    "title": "Notre Dame Football",
     "pubDate": "Thu, 02 Jan 2025 10:00:00 -0800",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTQ6rUkcfWOjJ5cyELteL_rbptAwRxWZvzJYRVyj-afOB8Eu9Ky-o_kf2Sslpbhbcf7lMvBr9BN",
     "news_item_snippet": "The Nittany Lions and Fighting Irish will square off for the 20th time in a rivalry that dates back more than a century.",
@@ -11,12 +11,12 @@
   },
   {
     "country": "United States",
-    "title": "Celtics",
-    "pubDate": "Thu, 02 Jan 2025 19:00:00 -0800",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTl-vm8s9kTwhIdRoMx4NllDtbn-fyZsIM7MrcgNJ8JL5c_CXDwon3Ew_cq3MKoRSZh7oGS7qIQ",
-    "news_item_snippet": "The Minnesota Timberwolves will look to tip off 2025 with a home win when they host the Boston Celtics on Thursday. The Wolves are coming off a 113-105 loss&nbsp;...",
-    "news_item_url": "https://www.nba.com/timberwolves/news/timberwolves-celtics-tickets-injury-time-stream-tv-radio",
-    "picture_source": "ESPN",
+    "title": "Warriors",
+    "pubDate": "Thu, 02 Jan 2025 18:00:00 -0800",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTF9f9BSO4DuBEk4Y8WZvQza-4ZBRFNhUoj7NWYo-CYQs80Mly04GBmSSC477VTt5codK9RDW_A",
+    "news_item_snippet": "Expert recap and game analysis of the Golden State Warriors vs. Philadelphia 76ers NBA game from January 2, 2025 on ESPN.",
+    "news_item_url": "https://www.espn.com/nba/recap?gameId=401705033",
+    "picture_source": "Warriors.com",
     "approx_traffic": "100,000+"
   },
   {
@@ -31,22 +31,32 @@
   },
   {
     "country": "United States",
+    "title": "Winter storm snow forecast",
+    "pubDate": "Thu, 02 Jan 2025 06:00:00 -0800",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQBHyV56S85owugBJ2N3SGrL2HmTENX0mtT3wuzvTlboJ6sz6sskwccJroZ9dmsQzQkK51s0lJM",
+    "news_item_snippet": "A widespread winter storm will stretch from the Plains to the Midwest and mid-Atlantic in the coming days. Here&#39;s what to expect.",
+    "news_item_url": "https://weather.com/storms/winter/news/2025-01-02-winter-storm-blair-forecast-snow-ice-plains-midwest-mid-atlantic",
+    "picture_source": "USA TODAY",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Celtics",
+    "pubDate": "Thu, 02 Jan 2025 21:00:00 -0800",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTl-vm8s9kTwhIdRoMx4NllDtbn-fyZsIM7MrcgNJ8JL5c_CXDwon3Ew_cq3MKoRSZh7oGS7qIQ",
+    "news_item_snippet": "Jayson Tatum made a statement for the Boston Celtics on Thursday night against the Minnesota Timberwolves.",
+    "news_item_url": "https://www.cbsnews.com/boston/news/jayson-tatum-boston-celtics-statement-timberwolves-nba/",
+    "picture_source": "ESPN",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United States",
     "title": "Tesla stock",
     "pubDate": "Thu, 02 Jan 2025 23:00:00 -0800",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSkj5oy3hSEYXGB4Ulx6nyJn8vGCP8cu9lCWEs7vzrIXRgY7q85g24Cge7OSizEamyzV_rBYpDa",
     "news_item_snippet": "Tesla shares have fallen 18% in a five trading session losing streak, capped by a 6% decline Thursday following disappointing fourth-quarter production and&nbsp;...",
     "news_item_url": "https://www.investopedia.com/why-analysts-are-divided-on-tesla-stock-after-lackluster-q4-deliveries-data-8768650",
     "picture_source": "Barron's",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Warriors",
-    "pubDate": "Thu, 02 Jan 2025 18:00:00 -0800",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTF9f9BSO4DuBEk4Y8WZvQza-4ZBRFNhUoj7NWYo-CYQs80Mly04GBmSSC477VTt5codK9RDW_A",
-    "news_item_snippet": "Expert recap and game analysis of the Golden State Warriors vs. Philadelphia 76ers NBA game from January 2, 2025 on ESPN.",
-    "news_item_url": "https://www.espn.com/nba/recap?gameId=401705033",
-    "picture_source": "Warriors.com",
     "approx_traffic": "50,000+"
   },
   {
@@ -73,10 +83,10 @@
     "country": "United States",
     "title": "Plane crash California",
     "pubDate": "Thu, 02 Jan 2025 21:00:00 -0800",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRq9IaDR-8tWC27RifTpLmadvc-4jANxIV6d6h10RUCoI7nbGR1KKE_oLBL8rRyCQ53_JMlOxaF",
-    "news_item_snippet": "Two people died and 18 were injured Thursday when a small plane crashed through the roof of a furniture manufacturing building in Southern California,&nbsp;...",
-    "news_item_url": "https://www.npr.org/2025/01/03/g-s1-40934/southern-california-plane-crash",
-    "picture_source": "The New York Times",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcT766U-q-4Ddv_3lPRFJHDhOtDKr8uBcpEXGhzMSk99H-fD4h7z4XRYhX_aJLsCJtS4CbFaB-4I",
+    "news_item_snippet": "The single-engine aircraft barreled into a manufacturing facility just moments after taking off from a nearby airport in Fullerton, Calif., on Thursday.",
+    "news_item_url": "https://www.nytimes.com/2025/01/02/us/california-plane-crash.html",
+    "picture_source": "NPR",
     "approx_traffic": "50,000+"
   },
   {
@@ -84,8 +94,8 @@
     "title": "Notre Dame vs Georgia",
     "pubDate": "Wed, 01 Jan 2025 11:00:00 -0800",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcT6h9XBOOdlZTpGrIKVofrgqlQZktQulUpnWPChimNkr_SpATOH94bD41zHO0ihwaLJJQ4rv71Q",
-    "news_item_snippet": "Three teams have booked their tickets to the College Football Playoff semifinals. Who will be the fourth?",
-    "news_item_url": "https://sports.yahoo.com/live/college-football-playoff-scores-notre-dame-handles-georgia-in-sugar-bowl-advances-to-face-penn-state-in-semifinal-200756178.html",
+    "news_item_snippet": "Here are our takes from Notre Dame&#39;s win over Georgia to advance to the College Football Playoff semifinals.",
+    "news_item_url": "https://www.fox32chicago.com/sports/quick-takes-from-notre-dame-vs-georgia-sugar-bowl-college-football-playoff-quarterfinals",
     "picture_source": "South Bend Tribune",
     "approx_traffic": "1,000,000+"
   },
@@ -93,11 +103,11 @@
     "country": "United States",
     "title": "Matthew Livelsberger",
     "pubDate": "Wed, 01 Jan 2025 13:00:00 -0800",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSru6_wAHGDixWhIs2mz47jGREjIu7ZgKdJZreaVlh347_bxDchMCvrCTGVhrAImpk61DzF1_--",
-    "news_item_snippet": "LAS VEGAS (AP) \u2014 The highly decorated Army soldier inside a Tesla Cybertruck packed with fireworks that exploded outside Trump International Hotel in Las&nbsp;...",
-    "news_item_url": "https://apnews.com/article/trump-hotel-explosion-tesla-cybertruck-5c5a8fd13a50e2bcde46370ae926d427",
-    "picture_source": "ABC News",
-    "approx_traffic": "500,000+"
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRSiNiqqA42esgY2iXsOfeW3ymGeZGww2Gm8Am0g515rCpaSnjf70DvwKCxDyJCPcNTjJ71ANMo",
+    "news_item_snippet": "Master Sgt. Matthew Livelsberger, a U.S. Army Green Beret, is the suspect in the Cybertruck explosion on New Year&#39;s Day, authorities said.",
+    "news_item_url": "https://abcnews.go.com/Politics/cybertruck-explosion-suspect-matthew-livelsberger/story?id=117271048",
+    "picture_source": "Denver Gazette",
+    "approx_traffic": "1,000,000+"
   },
   {
     "country": "United States",
@@ -110,54 +120,34 @@
     "approx_traffic": "500,000+"
   },
   {
-    "country": "United States",
-    "title": "Skattebo",
-    "pubDate": "Wed, 01 Jan 2025 11:00:00 -0800",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQGOh0m4EgUsqphyDZCEs5hBr3Cb8YqBO61Fzv2gLNxhVLA1eUX9-dzORgRxJXqRvmE_Mo9MLM5",
-    "news_item_snippet": "Skattebo rallied Arizona State from a 16-point fourth-quarter deficit to nearly topple heavily-favored Texas in the Peach Bowl College Football Playoff&nbsp;...",
-    "news_item_url": "https://www.si.com/college/arizonastate/football/what-arizona-state-s-cam-skattebo-said-after-his-epic-peach-bowl-performance-01jgmrypz21z",
-    "picture_source": "AZCentral.com",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Rose Parade 2025",
-    "pubDate": "Wed, 01 Jan 2025 00:00:00 -0800",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcS1O2jlE-Zi-L0dh-J99ZWWfIVXpLwaxaB6W99CeEL4JohH4DWZXLoPrsiQmftq8Gk3-4rmwQzg",
-    "news_item_snippet": "More Healthy Days for More Healthy Years\u201d float is recognized for most outstanding display of floral presentation, float design and entertainment.",
-    "news_item_url": "https://about.kaiserpermanente.org/news/press-release-archive/2025-rose-parade-float-wins-wrigley-legacy-award",
-    "picture_source": "Kaiser Permanente",
-    "approx_traffic": "200,000+"
+    "country": "India",
+    "title": "India vs Australia",
+    "pubDate": "Fri, 03 Jan 2025 07:30:00 +0530",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQYDGmqqL-7KlkTj_hlQFHvdF0OkmWbh02klxCBjfx6hH4OWMKXXy4CbARI6EmE0wtQqIml6Jt8",
+    "news_item_snippet": "India vs Australia (IND vs AUS): \u092d\u093e\u0930\u0924 \u0915\u0947 \u0932\u093f\u090f \u092a\u093e\u0902\u091a\u0935\u0947\u0902 \u091f\u0947\u0938\u094d\u091f \u0915\u093e \u092a\u0939\u0932\u093e \u0926\u093f\u0928 \u0915\u0941\u091b \u0916\u093e\u0938 \u0905\u091a\u094d\u091b\u093e \u0928\u0939\u0940\u0902 \u0930\u0939\u093e \u0914\u0930 \u091f\u0940\u092e \u0915\u0940 \u092a\u0939\u0932\u0940 \u092a\u093e\u0930\u0940 185 \u0930\u0928 \u092a\u0930 \u0911\u0932\u0906\u0909\u091f \u0939\u094b&nbsp;...",
+    "news_item_url": "https://www.amarujala.com/live/cricket/cricket-news/ind-vs-aus-live-cricket-score-india-vs-australia-5th-test-day-1-bgt-2024-25-sydney-scg-stadium-news-in-hindi-2025-01-03",
+    "picture_source": "NDTVSports.com",
+    "approx_traffic": "2,000,000+"
   },
   {
     "country": "India",
     "title": "South Africa vs Pakistan",
     "pubDate": "Fri, 03 Jan 2025 14:30:00 +0530",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTpSCwkzb7l8mv-ushbRK8Sd6zuoeYYT2dNUKUZcYy_ohTp9rjdYWXkxp-FVkq3BuRJWJWPDyu-",
-    "news_item_snippet": "South Africa vs Pakistan Live Score: South Africa at 270/3 after 68 overs, Temba Bavuma at 89 runs and Ryan Rickelton at 154 runs.",
-    "news_item_url": "https://www.livemint.com/sports/cricket-news/south-africa-vs-pakistan-live-score-2nd-test-day-1-of-pakistan-tour-of-south-africa-2024-25-final-updates-today-03-jan-2025-11735889341878.html",
-    "picture_source": "Sportstar",
-    "approx_traffic": "200,000+"
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSW3ANB4vgC3gkaFRnwOhRgBFEp6ymCvQ9_6Ghfro-7b2z_YK7Z0t6ICqPHFsZGMuDqzS3qw03e",
+    "news_item_snippet": "SA vs PAK: Follow the live updates and highlights of the second Test between South Africa and Pakistan, being played at the Newlands Cricket Ground in Cape&nbsp;...",
+    "news_item_url": "https://sportstar.thehindu.com/cricket/sa-vs-pak-2nd-test-live-score-south-africa-v-pakistan-day-1-scorecard-real-time-updates-cape-town/article69056471.ece",
+    "picture_source": "Livemint",
+    "approx_traffic": "500,000+"
   },
   {
     "country": "India",
     "title": "HMPV",
     "pubDate": "Fri, 03 Jan 2025 06:30:00 +0530",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQQ7nkm0o3k2pOlC4-QjqyfydOLkfh2hkZ5JNQ0DUczQjp42cOk9Sg6KtBLt42RHlskSj7F5jQV",
-    "news_item_snippet": "HMPV virus China: China is witnessing a surge in human metapneumovirus (HMPV) cases, sparking concerns of another health crisis after COVID-19 pandemic.",
-    "news_item_url": "https://m.economictimes.com/news/international/global-trends/hmpv-virus-in-china-covid-like-scare-human-metapneumovirus-faqs-symptoms-treatment-diagnosis-and-everything-else-you-should-know/articleshow/116909996.cms",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRRCngiTRPORKUV4CtuPhom-LLQwgEKl1f5C0V4-kh21dayMyf0rwHWbOEqXrrezZDOyiX-AwUQ",
+    "news_item_snippet": "HMPV, which has been circulating in China, has seen a significant rise in cases, particularly among children under 14 in northern provinces, as reported by&nbsp;...",
+    "news_item_url": "https://www.businesstoday.in/science/story/hmpv-outbreak-in-china-could-it-become-the-next-pandemic-after-covid-19-key-updates-459553-2025-01-03",
     "picture_source": "NDTV",
     "approx_traffic": "200,000+"
-  },
-  {
-    "country": "India",
-    "title": "\u092d\u093e\u0930\u0924 \u092c\u0928\u093e\u092e \u0911\u0938\u094d\u091f\u094d\u0930\u0947\u0932\u093f\u092f\u093e",
-    "pubDate": "Fri, 03 Jan 2025 07:30:00 +0530",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcS0EfvxY5irJXvmp9jfYV7aatki4JRQJEp22UojhAv_Ywk4HcHKNbi5D1sTsC2CqXPgdiTa5J8K",
-    "news_item_snippet": "India vs Australia (IND vs AUS): \u092d\u093e\u0930\u0924 \u0915\u0947 \u0932\u093f\u090f \u092a\u093e\u0902\u091a\u0935\u0947\u0902 \u091f\u0947\u0938\u094d\u091f \u0915\u093e \u092a\u0939\u0932\u093e \u0926\u093f\u0928 \u0915\u0941\u091b \u0916\u093e\u0938 \u0905\u091a\u094d\u091b\u093e \u0928\u0939\u0940\u0902 \u0930\u0939\u093e \u0914\u0930 \u091f\u0940\u092e \u0915\u0940 \u092a\u0939\u0932\u0940 \u092a\u093e\u0930\u0940 185 \u0930\u0928 \u092a\u0930 \u0911\u0932\u0906\u0909\u091f \u0939\u094b&nbsp;...",
-    "news_item_url": "https://www.amarujala.com/live/cricket/cricket-news/ind-vs-aus-live-cricket-score-india-vs-australia-5th-test-day-1-bgt-2024-25-sydney-scg-stadium-news-in-hindi-2025-01-03",
-    "picture_source": "Jansatta",
-    "approx_traffic": "100,000+"
   },
   {
     "country": "India",
@@ -171,23 +161,13 @@
   },
   {
     "country": "India",
-    "title": "Rishabh Pant",
-    "pubDate": "Fri, 03 Jan 2025 09:30:00 +0530",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQfLm0jJFI5vAP1tqZqUUpk-XrxW1st7Ezr-eGqQ-RZMJgsKiEKuoTtvHzSK6nJB9YaBUx9DCoO",
-    "news_item_snippet": "Cricket News: Rishabh Pant suffered a painful blow on his arm and a hit on his helmet from Mitchell Starc&#39;s fiery deliveries during the fifth Test of the&nbsp;...",
-    "news_item_url": "https://timesofindia.indiatimes.com/sports/cricket/india-in-australia/brutal-rishabh-pant-bruised-by-140kmph-thunderbolts-to-arm-helmet-at-scg-watch/articleshow/116901413.cms",
-    "picture_source": "The Hindu",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "India",
-    "title": "India vs Australia",
+    "title": "Rohit Sharma",
     "pubDate": "Thu, 02 Jan 2025 22:30:00 +0530",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRkwDZ-GiY_2oRMVSXuiNuWxZ8D5zpJNoIBR--lLZbdhnzEmwF7hPNG3xsWUzDWo1-Oy0k2ZcAi",
-    "news_item_snippet": "India vs Australia Highlights: Australia reached nine for one at stumps after bowling out India for 185 on the opening day of the fifth and final Test&nbsp;...",
-    "news_item_url": "https://sports.ndtv.com/australia-vs-india-2024-25/india-vs-australia-live-score-5th-test-match-day-1-ind-vs-aus-live-scorecard-rohit-sharma-jasprit-bumrah-7385452",
-    "picture_source": "\u0905\u092e\u0930 \u0909\u091c\u093e\u0932\u093e",
-    "approx_traffic": "2,000,000+"
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcT-LMgoZx4bp9MZ_F9Mac8MV7i4wh_NDni3LkNsZTk2bhC5VAMWX_tiT3BJOStxUHc0Y_8mIm0v",
+    "news_item_snippet": "In the series of mis-steps in Australia, Rohit dropping himself, if you strip it of emotion, is among the most clear-headed decisions India have made.",
+    "news_item_url": "https://www.espncricinfo.com/story/aus-vs-ind-5th-test-bgt-sambit-bal-rohit-sharma-did-the-decent-thing-so-why-cloak-it-in-intrigue-1467578",
+    "picture_source": "NDTVSports.com",
+    "approx_traffic": "100,000+"
   },
   {
     "country": "Argentina",
@@ -200,33 +180,13 @@
     "approx_traffic": "50,000+"
   },
   {
-    "country": "Australia",
-    "title": "India vs Australia",
-    "pubDate": "Thu, 02 Jan 2025 14:00:00 +1100",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQYDGmqqL-7KlkTj_hlQFHvdF0OkmWbh02klxCBjfx6hH4OWMKXXy4CbARI6EmE0wtQqIml6Jt8",
-    "news_item_snippet": "Captain Jasprit Bumrah has given India a glimmer of hope of retaining the Border-Gavaskar Trophy following the dramatic dismissal of Australian opener Usman&nbsp;...",
-    "news_item_url": "https://www.foxsports.com.au/cricket/australia/australia-vs-india-fifth-test-at-scg-live-cricket-scores-2025-day-1-live-updates-and-blog-scorecard-teams-beau-webster-debut-latest-news/news-story/f6eed11d158ea7339e037b3158c7e6f6",
-    "picture_source": "NDTVSports.com",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "Australia",
-    "title": "New Orleans",
-    "pubDate": "Thu, 02 Jan 2025 00:00:00 +1100",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQOydHSUHlsASTZK6dMN7hID3K_yqjhAAU8vD_6Ao2EG83qninP-jx0GGWTzmrCmVUmFyKgnd18",
-    "news_item_snippet": "The suspect, a 42-year-old US Army veteran, was killed in a shootout with police. The FBI said the man posted videos before the attack expressing support for&nbsp;...",
-    "news_item_url": "https://www.sbs.com.au/news/article/new-orleans-attacker-acted-alone-and-proclaimed-support-for-is-authorities-say/of1oee81t",
-    "picture_source": "ABC News",
-    "approx_traffic": "50,000+"
-  },
-  {
     "country": "Brazil",
     "title": "Magalu",
     "pubDate": "Fri, 03 Jan 2025 00:00:00 -0500",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTbFO42r1B9NbwN5rl9F4dxuSVAA1RJNRCWP5lUgQTEVEEfZjUoy7pZXKwY6I9aUHXeG5dvcic-",
-    "news_item_snippet": "Em comemora\u00e7\u00e3o a &quot;Liquida\u00e7\u00e3o Fant\u00e1stica do Magalu&quot;, a Esfera est\u00e1 oferecendo at\u00e9 7 pontos por real gasto em todos os produtos da loja.",
-    "news_item_url": "https://pontospravoar.com/apenas-hoje-esfera-oferece-ate-7-pontos-real-gasto-toda-loja-magalu/",
-    "picture_source": "Seu Dinheiro",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcS7efawj1NK1QPWuHdITxTMgT1axZeaEhDcPpmQgqY9PeEoCid1ta25_ORw7oCEyQ3CgkGQz-px",
+    "news_item_snippet": "O Azul Fidelidade est\u00e1 oferecendo at\u00e9 10 pontos por real gasto na Magalu! A oferta \u00e9 v\u00e1lida at\u00e9 quarta-feira (8). Confira como participar.",
+    "news_item_url": "https://passageirodeprimeira.com/azul-fidelidade-oferece-ate-10-pontos-por-real-gasto-no-magalu/",
+    "picture_source": "Passageiro de Primeira",
     "approx_traffic": "50,000+"
   },
   {
@@ -253,10 +213,10 @@
     "country": "Brazil",
     "title": "Gusttavo Lima",
     "pubDate": "Thu, 02 Jan 2025 15:00:00 -0500",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQfd84AbQhlMvLhl9KV5YRkptDxkYdvZLx6HsTuzqPbj9-q6knG49mLsUC_fBuwvTwbyT9bvJ10",
-    "news_item_snippet": "Cantor sertanejo afirma, em entrevista, que pretende come\u00e7ar a conversar com partidos pol\u00edticos.",
-    "news_item_url": "https://valor.globo.com/politica/noticia/2025/01/02/gusttavo-lima-diz-ter-intencao-de-se-candidatar-a-presidencia-em-2026.ghtml",
-    "picture_source": "CNN Brasil",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTm_SrdvCWLl6km46eoYAp0-aNXOv2KwJqOpCOa6r-h59FH-UOTExRTli58qSaL9WDkIX0DdIev",
+    "news_item_snippet": "O cantor sertanejo Gusttavo Lima se colocou \u00e0 disposi\u00e7\u00e3o para concorrer ao cargo de presidente da Rep\u00fablica em 2026. \u201cO meu nome est\u00e1 \u00e0 disposi\u00e7\u00e3o,&nbsp;...",
+    "news_item_url": "https://www.cnnbrasil.com.br/politica/gusttavo-lima-poe-nome-a-disposicao-para-presidente-da-republica-em-2026/",
+    "picture_source": "G1",
     "approx_traffic": "50,000+"
   },
   {
@@ -273,10 +233,10 @@
     "country": "Canada",
     "title": "Toronto Maple Leafs",
     "pubDate": "Thu, 02 Jan 2025 23:00:00 -0500",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQPWhLSe10JpOib6AutpJjaUFZPpCfo9RtW3k1pvjyOdRs1wc4UE_o-c0u-sR3J-MYwxdNzHDiv",
-    "news_item_snippet": "Bobby McMann scored twice, including the tiebreaking goal late in the third period, and the Toronto Maple Leafs beat the New York Islanders 2-1 on Thursday&nbsp;...",
-    "news_item_url": "https://www.tsn.ca/nhl/bobby-mcmann-joseph-woll-lead-toronto-maple-leafs-to-win-over-new-york-islanders-1.2229088",
-    "picture_source": "Sportsnet.ca",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQpnDguBmydHOGYRIKI6_-RJeZc7AvXMly6KfGt44mjxft3BSebZry_YT0gmTRKJotOAeiZVjjI",
+    "news_item_snippet": "On a night where not a whole lot exciting was going on offensively and goaltender Joseph Woll was doing everything in his power to give his club a chance,&nbsp;...",
+    "news_item_url": "https://www.sportsnet.ca/nhl/article/different-calibre-of-energy-mcmann-woll-delivering-for-maple-leafs/",
+    "picture_source": "CityNews Toronto",
     "approx_traffic": "50,000+"
   },
   {
@@ -308,46 +268,6 @@
     "news_item_url": "https://information.tv5monde.com/economie/carton-daudience-pour-le-retour-du-bigdil-sur-rmc-story-2755419",
     "picture_source": "BFMTV.COM",
     "approx_traffic": "50,000+"
-  },
-  {
-    "country": "France",
-    "title": "Jour de l'an",
-    "pubDate": "Wed, 01 Jan 2025 01:00:00 +0100",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSaA4w38sP1r8w7uGmjzp8Ewsi5IT5K7k3WQUzlbh4yaoIeAKIooUtiW06kAnMyJgAMjAgLK_Pd",
-    "news_item_snippet": "Une dizaine de randonneurs cassent la cro\u00fbte. Boissons chaudes et sucreries matinales. Gilets jaunes et petits sacs \u00e0 dos \u00e0 proximit\u00e9. Ils viennent de&nbsp;...",
-    "news_item_url": "https://www.ouest-france.fr/bretagne/auray-56400/le-jour-de-lan-ils-marchent-pour-la-paix-vers-sainte-anne-dauray-4250bdf0-c846-11ef-aeb4-ddc1bf4e1b1d",
-    "picture_source": "Ouest-France",
-    "approx_traffic": "500,000+"
-  },
-  {
-    "country": "France",
-    "title": "Jocelyne Wildenstein",
-    "pubDate": "Wed, 01 Jan 2025 17:00:00 +0100",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSigBT00jciChIbf86rluJk8cF9ft0RlqgPPzKvsqAuapiKhEiuCeBrlxXiemPJO0ED_-r_rwGy",
-    "news_item_snippet": "Si le nom de Jocelyne Wildenstein est surtout connu pour ses transformations physiques en raison de ses multiples op\u00e9rations de chirurgie esth\u00e9tique,&nbsp;...",
-    "news_item_url": "https://www.capital.fr/economie-politique/jocelyne-wildenstein-la-veritable-histoire-de-la-jet-setteuse-et-de-la-fraude-fiscale-hors-norme-1507555",
-    "picture_source": "Franceinfo",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "France",
-    "title": "Nouvelle orleans",
-    "pubDate": "Wed, 01 Jan 2025 14:00:00 +0100",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTrxHdntFXlkkj7Za7Fjb8z7cLDeMOoN9iC0OFCXZRoUPiELJXpf2Y_voJh277mzsXp-DtLIspU",
-    "news_item_snippet": "Les musiciens de jazz jouent dans la rue et les serveurs de restaurant achalandent les passants, mais Samantha Petry, qui travaille elle-m\u00eame dans un bar,&nbsp;...",
-    "news_item_url": "https://information.tv5monde.com/international/la-nouvelle-orleans-le-deuil-sur-des-airs-de-jazz-apres-lattaque-du-nouvel-2755338",
-    "picture_source": "Le Monde",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Germany",
-    "title": "Darts-WM",
-    "pubDate": "Wed, 01 Jan 2025 22:00:00 +0100",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTASFbuXNtzqBD5J5BzttIEeWJu5gr6OPWRr5VnDiAv8G274B0Ek1zDhMIPL7igYTV-ckFEmFlS",
-    "news_item_snippet": "Michael van Gerwen und Luke Littler haben das Endspiel der Darts-Weltmeisterschaft erreicht. Damit kommt es im Londoner Alexandra Palace am Freitagabend zum&nbsp;...",
-    "news_item_url": "https://www.welt.de/sport/darts/article255018402/Gegen-Littler-Van-Gerwens-grosser-Trumpf-im-Traumfinale-der-Darts-WM.html",
-    "picture_source": "RP ONLINE",
-    "approx_traffic": "200,000+"
   },
   {
     "country": "Germany",
@@ -413,10 +333,10 @@
     "country": "Italy",
     "title": "SuperEnalotto",
     "pubDate": "Fri, 03 Jan 2025 07:00:00 +0100",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcR_lcsQ0r0LGvICY2pLoQf92yxK-KSbfTw8GcJQMNyp2k5jbQCwiXJ7RKK8Tab8ZkO9ENGtZWfq",
-    "news_item_snippet": "Scopri i numeri vincenti delle estrazioni del Lotto, SuperEnalotto e 10eLotto di oggi, gioved\u00ec 02 gennaio 2025.",
-    "news_item_url": "https://www.corriere.it/lotterie/25_gennaio_02/estrazioni-lotto-superenalotto-10elotto-giovedi-2-gennaio-2025-59aa7a30-1f3f-33f2-79d2-0b7f12d0e99f.shtml",
-    "picture_source": "Today",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRRqchfWWr-MSYykevA8TLSFX5E-q9kbnDqygDsAhSfHKDmfqu7KgYUEcijIICeB3t-78Tw65m3",
+    "news_item_snippet": "I risultati delle ultime estrazioni del Lotto, SuperEnalotto e 10eLotto serale di gioved\u00ec 2 gennaio 2025 con numeri vincenti e quote.",
+    "news_item_url": "https://www.fanpage.it/attualita/estrazioni-lotto-superenalotto-e-10elotto-oggi-giovedi-2-gennaio-2025-numeri-vincenti-e-quote/",
+    "picture_source": "Corriere della Sera",
     "approx_traffic": "50,000+"
   },
   {
@@ -443,7 +363,7 @@
     "country": "Italy",
     "title": "Cecilia Sala giornalista",
     "pubDate": "Thu, 02 Jan 2025 15:00:00 +0100",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQFMGAg3EU-ciFkItNgt5IvVQKIjg5KfgjjaCqYv6fnNCFxZjp0Ikt3AnPQP3BsSkv3UPtOBOgy",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTiQtKknMs2DsQ-3MsOCsg0PiGHZ8yFDWGcsuOtmziSo5wypcukhhZ2DcRiDMbvrLfU4BcfCoQ2",
     "news_item_snippet": "Si \u00e8 tenuta questo pomeriggio a Palazzo Chigi una riunione convocata dal Presidente del Consiglio, Giorgia Meloni, in relazione al trattenimento in Iran&nbsp;...",
     "news_item_url": "https://www.governo.it/it/articolo/trattenimento-iran-della-giornalista-italiana-cecilia-sala-riunione-palazzo-chigi/27399",
     "picture_source": "Amnesty International",
@@ -453,20 +373,10 @@
     "country": "Italy",
     "title": "Poste Italiane",
     "pubDate": "Thu, 02 Jan 2025 13:00:00 +0100",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRJgOIQ06B_FoiTuezipS4vc1ANMHdE0kIgwMLCFRFA0pe6ezprl8TXPrJfSkuvJKSREVwsZr5u",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQgM1WEj8DsqzhgJ6GdfhCw6c0eZXBSG6CJalIMdRAiHmhVdR1joIiwLBW2tlqDVFrN2hR9Kkp2",
     "news_item_snippet": "Scopri la nuova polizza assicurativa di Poste Italiane: un rimborso fino a 700 euro per i furti di contanti subiti dopo il prelievo.",
     "news_item_url": "https://www.monzatoday.it/economia/polizza-assicurativa-poste-italiane-rimborso.html",
-    "picture_source": "Postenews",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Italy",
-    "title": "Aldo Agroppi",
-    "pubDate": "Thu, 02 Jan 2025 10:00:00 +0100",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQS-nR4AQhBHxMGkRa948S5oZYUTWXflzoubJtbDg47SddN3UF4MlmdkPpTYkX9WIEkmaxWbYbQ",
-    "news_item_snippet": "Mai allineato, ironico e acuto fu calciatore del Torino e allenatore della &quot;Viola&quot;. A Firenze, \u00e8 ricordato per i suoi scontri con tifosi,&nbsp;...",
-    "news_item_url": "https://www.avvenire.it/agora/pagine/morto-aldo-agroppi",
-    "picture_source": "FIGC",
+    "picture_source": "Sardegna Ieri-Oggi-Domani",
     "approx_traffic": "50,000+"
   },
   {
@@ -477,6 +387,26 @@
     "news_item_snippet": "In questo articolo ti spieghiamo come il contribuente pu\u00f2 difendersi dai controlli effettuati dall&#39;Agenzia delle Entrate.",
     "news_item_url": "https://www.brocardi.it/notizie-giuridiche/agenzia-delle-entrate-ecco-tutti-trucchi-legali-difenderti-controlli/4903.html",
     "picture_source": "Brocardi.it",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Italy",
+    "title": "Ottavio Missoni",
+    "pubDate": "Thu, 02 Jan 2025 15:00:00 +0100",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSfTTktyUztbLBxsNsM5eK7jG_uSPy488_IiKe-NVn5aJ5fXA6S05bkicvmUoTWITEL6V6y879R",
+    "news_item_snippet": "I figli di Ottavio e Rosita Missoni, Luca e Angela, hanno preso in mano le redini dell&#39;azienda nel 1997. Il primogenito Vittorio \u00e8 morto nel 2013 in un&nbsp;...",
+    "news_item_url": "https://www.fanpage.it/stile-e-trend/moda/chi-sono-luca-e-angela-figli-di-rosita-e-ottavio-missoni-a-capo-dellazienda-di-famiglia/",
+    "picture_source": "Rai News",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Italy",
+    "title": "Aldo Agroppi",
+    "pubDate": "Thu, 02 Jan 2025 10:00:00 +0100",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQS-nR4AQhBHxMGkRa948S5oZYUTWXflzoubJtbDg47SddN3UF4MlmdkPpTYkX9WIEkmaxWbYbQ",
+    "news_item_snippet": "Mai allineato, ironico e acuto fu calciatore del Torino e allenatore della &quot;Viola&quot;. A Firenze, \u00e8 ricordato per i suoi scontri con tifosi,&nbsp;...",
+    "news_item_url": "https://www.avvenire.it/agora/pagine/morto-aldo-agroppi",
+    "picture_source": "FIGC",
     "approx_traffic": "50,000+"
   },
   {
@@ -494,8 +424,8 @@
     "title": "Rangers vs Celtic",
     "pubDate": "Thu, 02 Jan 2025 15:00:00 +0000",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSBvm1DpXBoeva0lBOOa1n5q9f1vKW0sknb7HTBpOBW5-nxWJ8XQd608rrC9n1g313-pM5_wUtl",
-    "news_item_snippet": "PHILIPPE CLEMENT has named his Rangers side for this afternoon&#39;s Old Firm match at Ibrox Stadium.",
-    "news_item_url": "https://www.rangers.co.uk/article/team-news-gers-side-to-face-celtic-at-ibrox/7a0HqIZ0wo0TPhZacsUARP",
+    "news_item_snippet": "The first Old Firm derby of 2025 sees Rangers trying to close a 14-point gap to their rivals at the top of the table.",
+    "news_item_url": "https://www.independent.co.uk/sport/football/rangers-celtic-live-stream-score-result-2024-b2671514.html",
     "picture_source": "Yahoo Sports",
     "approx_traffic": "100,000+"
   },
@@ -504,8 +434,8 @@
     "title": "Premier League",
     "pubDate": "Thu, 02 Jan 2025 08:00:00 +0000",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQjrd08keAbolULZE9Tlz3lxwpq6vPKGL24HeQ-p_PUhfq58fcB6-a81R1tkW8z-ZKAn__LJlSe",
-    "news_item_snippet": "Latin American football expert Tim Vickery looks at players who might be heading across the Atlantic to the top flight.",
-    "news_item_url": "https://www.premierleague.com/news/4214138",
+    "news_item_snippet": "A new assortment of very good football teams are emerging. Forest, Aston Villa, Newcastle, Bournemouth, and Brighton are showing they can mix it with the best&nbsp;...",
+    "news_item_url": "https://www.heraldscotland.com/sport/24829015.witnessing-end-premier-leagues-big-six/",
     "picture_source": "Premier League",
     "approx_traffic": "100,000+"
   },
@@ -521,22 +451,22 @@
   },
   {
     "country": "United Kingdom",
-    "title": "Cybertruck",
-    "pubDate": "Thu, 02 Jan 2025 00:00:00 +0000",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSntpPClfb_yaFnRGWPW0bmICgi3ZRam4v9vAym3G9cTnmOYna8xV-p5RfggXEDSB4xDbnqIFn_",
-    "news_item_snippet": "Elon Musk appeared Thursday to threaten the media with lawsuits if he doesn&#39;t like the way they&#39;re reporting the Cybertruck explosion outside the Trump&nbsp;...",
-    "news_item_url": "https://www.independent.co.uk/news/world/americas/musk-media-lawsuits-cybertruck-b2673048.html",
-    "picture_source": "BBC News",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United Kingdom",
     "title": "NS&I",
     "pubDate": "Thu, 02 Jan 2025 10:00:00 +0000",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRXRY8BkzacF11-e3MTl7x0haeh8bLqsobrLU_gJ_ChXsm3mrKTO_jTl_ezqBTmxQowNV2h11nV",
     "news_item_snippet": "NS&amp;I has announced the Premium Bonds prize winners for January 2025, with two savers winning a \u00a31million jackpot. The first millionaire of 2025 hails from&nbsp;...",
     "news_item_url": "https://www.leicestermercury.co.uk/news/cost-of-living/nsi-unveils-premium-bonds-results-9831051",
     "picture_source": "Leicestershire Live",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United Kingdom",
+    "title": "Cybertruck",
+    "pubDate": "Thu, 02 Jan 2025 00:00:00 +0000",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSntpPClfb_yaFnRGWPW0bmICgi3ZRam4v9vAym3G9cTnmOYna8xV-p5RfggXEDSB4xDbnqIFn_",
+    "news_item_snippet": "Elon Musk appeared Thursday to threaten the media with lawsuits if he doesn&#39;t like the way they&#39;re reporting the Cybertruck explosion outside the Trump&nbsp;...",
+    "news_item_url": "https://www.independent.co.uk/news/world/americas/musk-media-lawsuits-cybertruck-b2673048.html",
+    "picture_source": "BBC News",
     "approx_traffic": "50,000+"
   }
 ]
