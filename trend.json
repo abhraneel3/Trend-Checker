@@ -1,13 +1,13 @@
 [
   {
     "country": "United States",
-    "title": "Celtics",
-    "pubDate": "Thu, 02 Jan 2025 19:00:00 -0800",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTl-vm8s9kTwhIdRoMx4NllDtbn-fyZsIM7MrcgNJ8JL5c_CXDwon3Ew_cq3MKoRSZh7oGS7qIQ",
-    "news_item_snippet": "Jayson Tatum made a statement for the Boston Celtics on Thursday night against the Minnesota Timberwolves.",
-    "news_item_url": "https://www.cbsnews.com/boston/news/jayson-tatum-boston-celtics-statement-timberwolves-nba/",
-    "picture_source": "ESPN",
-    "approx_traffic": "100,000+"
+    "title": "Real Madrid",
+    "pubDate": "Fri, 03 Jan 2025 10:00:00 -0800",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRwPKDBCIGa6pfaO79hVowwC9IQMDdcx2MNx5mvm58uf-GzSSlVMt6GiCdG384txEZ6CU3HPm6D",
+    "news_item_snippet": "The two players spent time with members and Madridistas at the team hotel.",
+    "news_item_url": "https://www.realmadrid.com/en-US/news/football/first-team/latest-news/x-y-x-protagonistas-en-la-sesion-de-firmas-en-valencia-03-01-2025",
+    "picture_source": "Real Madrid",
+    "approx_traffic": "50,000+"
   },
   {
     "country": "United States",
@@ -21,7 +21,17 @@
   },
   {
     "country": "United States",
-    "title": "Winter Storm snow forecast",
+    "title": "Celtics",
+    "pubDate": "Thu, 02 Jan 2025 19:00:00 -0800",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQ9QgjAyd2rWPkuwJ1zKIXvFzq_MWef6Wy6TD2GvehXFo6mYd8jVTMOuz0MFud48V1-E2WryqCP",
+    "news_item_snippet": "Jayson Tatum led the Celtics to a 118-115 win to begin their tough Western Conference road trip. Check out our live blog for a recap of the game.",
+    "news_item_url": "https://www.nbcsportsboston.com/nba/boston-celtics/live-updates-highlights-score-timberwolves-analysis/678360/",
+    "picture_source": "Minnesota Public Radio News",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Winter storm snow forecast",
     "pubDate": "Thu, 02 Jan 2025 06:00:00 -0800",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQBHyV56S85owugBJ2N3SGrL2HmTENX0mtT3wuzvTlboJ6sz6sskwccJroZ9dmsQzQkK51s0lJM",
     "news_item_snippet": "A widespread winter storm will stretch from the Plains to the Midwest and mid-Atlantic in the coming days. Here&#39;s what to expect.",
@@ -31,12 +41,12 @@
   },
   {
     "country": "United States",
-    "title": "Warriors",
-    "pubDate": "Thu, 02 Jan 2025 18:00:00 -0800",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTF9f9BSO4DuBEk4Y8WZvQza-4ZBRFNhUoj7NWYo-CYQs80Mly04GBmSSC477VTt5codK9RDW_A",
-    "news_item_snippet": "Expert recap and game analysis of the Golden State Warriors vs. Philadelphia 76ers NBA game from January 2, 2025 on ESPN.",
-    "news_item_url": "https://www.espn.com/nba/recap?gameId=401705033",
-    "picture_source": "Warriors.com",
+    "title": "Duke football",
+    "pubDate": "Thu, 02 Jan 2025 17:00:00 -0800",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcS_ooDugn9mCk7Ygfnfwh6dErbGKQoqNTXH0vH7ZTZzjC0pZ2Zqp43UqnfYVKNAE-3qMrjSdDgq",
+    "news_item_snippet": "Following Duke football&#39;s Gator Bowl loss to Ole Miss, head coach Manny Diaz discussed the Blue Devils&#39; season and looked ahead to 2025.",
+    "news_item_url": "https://www.fayobserver.com/story/sports/college/acc/2025/01/03/duke-football-manny-diaz-ole-miss-2024-bowl-game-2025-season/77421186007/",
+    "picture_source": "Duke Chronicle",
     "approx_traffic": "100,000+"
   },
   {
@@ -61,81 +71,31 @@
   },
   {
     "country": "United States",
+    "title": "Warriors",
+    "pubDate": "Thu, 02 Jan 2025 22:00:00 -0800",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTF9f9BSO4DuBEk4Y8WZvQza-4ZBRFNhUoj7NWYo-CYQs80Mly04GBmSSC477VTt5codK9RDW_A",
+    "news_item_snippet": "Expert recap and game analysis of the Golden State Warriors vs. Philadelphia 76ers NBA game from January 2, 2025 on ESPN.",
+    "news_item_url": "https://www.espn.com/nba/recap?gameId=401705033",
+    "picture_source": "Warriors.com",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
     "title": "Plane crash California",
     "pubDate": "Thu, 02 Jan 2025 21:00:00 -0800",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRq9IaDR-8tWC27RifTpLmadvc-4jANxIV6d6h10RUCoI7nbGR1KKE_oLBL8rRyCQ53_JMlOxaF",
-    "news_item_snippet": "A Fullerton, California plane crash killed 2 people and injured 18 more, officials said. The small plane hit a warehouse near the municipal airport.",
-    "news_item_url": "https://abc7ny.com/post/fullerton-plane-crash-1-dead-15-injured-after-small-roof-building-california/15743486/",
+    "news_item_snippet": "Two people died and 18 were injured Thursday when a small plane crashed through the roof of a furniture manufacturing building in Southern California,&nbsp;...",
+    "news_item_url": "https://www.npr.org/2025/01/03/g-s1-40934/southern-california-plane-crash",
     "picture_source": "The New York Times",
     "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Parker Jones",
-    "pubDate": "Thu, 02 Jan 2025 17:00:00 -0800",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQTjE8ioXY-2pN9W8jD7UUmK9s5jPyiI7D5iADUUNK6kJOf_64pCUdwEzvszTP-60mhf94mF7Wi",
-    "news_item_snippet": "There are six players with the last name Jones on the Georgia football roster. Parker Jones was the least known of them until the Sugar Bowl.",
-    "news_item_url": "https://www.onlineathens.com/story/sports/college/bulldogs-extra/2025/01/02/georgia-football-parker-jones-sugar-bowl-notre-dame-kirby-smart/77237741007/",
-    "picture_source": "NBC News",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Notre Dame Football",
-    "pubDate": "Wed, 01 Jan 2025 11:00:00 -0800",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcT2ci6JDPo4lkcfS1lsVTRgzKlKpHRAnGW4Qo-St_OqEiF1lomnKImciXyupbMP6koWxY1656Ma",
-    "news_item_snippet": "Preview, how to watch and live updates from the College Football Playoff semifinal matchup between Penn State and Notre Dame in the Orange Bowl.",
-    "news_item_url": "https://www.ncaa.com/live-updates/football/fbs/penn-state-vs-notre-dame-preview-how-watch-college-football-playoff-semifinal-game",
-    "picture_source": "NBC 10 Philadelphia",
-    "approx_traffic": "2,000,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Cybertruck explosion",
-    "pubDate": "Wed, 01 Jan 2025 13:00:00 -0800",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcS1-iTzgoWYFLL7IuiPbSmTpNStuUnH4i3PBYbAoOz6c1MWIUKA0gws-SpWPJTJ6o0QrBk01rE4",
-    "news_item_snippet": "Officials said they used data from Tesla charging stations to chart the driver&#39;s dayslong journey from Colorado to the Trump Hotel in Las Vegas.",
-    "news_item_url": "https://www.nytimes.com/2025/01/02/us/las-vegas-cybertruck-explosion-details.html",
-    "picture_source": "BBC News",
-    "approx_traffic": "1,000,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Georgia vs Notre Dame",
-    "pubDate": "Wed, 01 Jan 2025 11:00:00 -0800",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRiTQHSb_V_ELmCb-muRfhJ0yCQwi07VqF2vJQsMdDoprNNBPxg90y4BgUdvdRWS_8lf52RqTE2",
-    "news_item_snippet": "Preview, how to watch and live updates from the College Football Playoff quarterfinal matchup between Georgia and Notre Dame in the Sugar Bowl.",
-    "news_item_url": "https://www.ncaa.com/live-updates/football/fbs/georgia-vs-notre-dame-time-tv-channel-preview-college-football-playoff-sugar-bowl",
-    "picture_source": "South Bend Tribune",
-    "approx_traffic": "1,000,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Sugar Bowl 2025",
-    "pubDate": "Wed, 01 Jan 2025 05:00:00 -0800",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTWJVrZ9FZ-lyBkn421HdFPBW-7YOEHPZ02xRHqcyfUmumv8zHtQ5Iep10WtrBmmk6wKUnYxAiU",
-    "news_item_snippet": "The Sugar Bowl will be played at the Caesars Superdome in New Orleans between Georgia Bulldogs and Notre Dame Fighting Irish.",
-    "news_item_url": "https://www.nbcnewyork.com/news/sports/when-is-the-sugar-bowl-2025-new-date-time-tv-and-streaming-channels-georgia-notre-dame-cfb-playoff/6091903/",
-    "picture_source": "CBS News",
-    "approx_traffic": "500,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Skattebo",
-    "pubDate": "Wed, 01 Jan 2025 11:00:00 -0800",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQGOh0m4EgUsqphyDZCEs5hBr3Cb8YqBO61Fzv2gLNxhVLA1eUX9-dzORgRxJXqRvmE_Mo9MLM5",
-    "news_item_snippet": "Skattebo rallied Arizona State from a 16-point fourth-quarter deficit to nearly topple heavily-favored Texas in the Peach Bowl College Football Playoff&nbsp;...",
-    "news_item_url": "https://www.si.com/college/arizonastate/football/what-arizona-state-s-cam-skattebo-said-after-his-epic-peach-bowl-performance-01jgmrypz21z",
-    "picture_source": "AZCentral.com",
-    "approx_traffic": "200,000+"
   },
   {
     "country": "India",
     "title": "India vs Australia",
     "pubDate": "Fri, 03 Jan 2025 07:30:00 +0530",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRkwDZ-GiY_2oRMVSXuiNuWxZ8D5zpJNoIBR--lLZbdhnzEmwF7hPNG3xsWUzDWo1-Oy0k2ZcAi",
-    "news_item_snippet": "India vs Australia 5th Test: Only two matches into Test cricket, Konstas might have bitten off more than he can chew by going up against Bumrah.",
-    "news_item_url": "https://www.business-standard.com/cricket/news/india-vs-australia-5th-test-watch-when-konstas-picks-up-fight-with-bumrah-125010300455_1.html",
+    "news_item_snippet": "India vs Australia Highlights: Australia reached nine for one at stumps after bowling out India for 185 on the opening day of the fifth and final Test&nbsp;...",
+    "news_item_url": "https://sports.ndtv.com/australia-vs-india-2024-25/india-vs-australia-live-score-5th-test-match-day-1-ind-vs-aus-live-scorecard-rohit-sharma-jasprit-bumrah-7385452",
     "picture_source": "\u0905\u092e\u0930 \u0909\u091c\u093e\u0932\u093e",
     "approx_traffic": "2,000,000+"
   },
@@ -154,10 +114,20 @@
     "title": "HMPV",
     "pubDate": "Fri, 03 Jan 2025 06:30:00 +0530",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRRCngiTRPORKUV4CtuPhom-LLQwgEKl1f5C0V4-kh21dayMyf0rwHWbOEqXrrezZDOyiX-AwUQ",
-    "news_item_snippet": "Health Ministry monitors respiratory illnesses, including HMPV outbreak in China, with no unusual spike in India.",
+    "news_item_snippet": "HMPV can cause upper and lower respiratory disease in people of all ages, especially among young children, older adults, and people with weakened immune systems.",
     "news_item_url": "https://www.thehindu.com/sci-tech/health/hmpv-alleged-outbreak-in-china-union-health-ministry-says-closely-monitoring-cases-no-cause-for-concern-right-now/article69058243.ece",
     "picture_source": "NDTV",
-    "approx_traffic": "200,000+"
+    "approx_traffic": "500,000+"
+  },
+  {
+    "country": "India",
+    "title": "Jasprit Bumrah",
+    "pubDate": "Fri, 03 Jan 2025 15:30:00 +0530",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQp5tjm7BnRx1y0_RepgGDy7M6TMyL4XvzfJJO3bBeWda-OdML_Ezi_lbY294mFO9MoMnkeBui7",
+    "news_item_snippet": "An exchange of words late on day one has added more spark to one of the series&#39; most compelling duels.",
+    "news_item_url": "https://www.espncricinfo.com/story/aus-vs-ind-bgt-2024-25-jasprit-bumrah-vs-sam-konstas-continues-to-enliven-border-gavaskar-trophy-1467598",
+    "picture_source": "Times of India",
+    "approx_traffic": "50,000+"
   },
   {
     "country": "India",
@@ -173,7 +143,7 @@
     "country": "India",
     "title": "Rishabh Pant",
     "pubDate": "Fri, 03 Jan 2025 09:30:00 +0530",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcT70ubL9hs_Kb2XQLVo_B5ehPYkCt3m54kmUmmlsQEFLEcMzcjhin9j8ddQN6WycHO6T-gZyxsk",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTGvyedU1Zmu00azgg5U5wpW2kGweieRx8TjzO9iSeNbRKWDf4-5rQXpZYK_fLThDSBy36zwyAl",
     "news_item_snippet": "Cricket News: Rishabh Pant suffered a painful blow on his arm and a hit on his helmet from Mitchell Starc&#39;s fiery deliveries during the fifth Test of the&nbsp;...",
     "news_item_url": "https://timesofindia.indiatimes.com/sports/cricket/india-in-australia/brutal-rishabh-pant-bruised-by-140kmph-thunderbolts-to-arm-helmet-at-scg-watch/articleshow/116901413.cms",
     "picture_source": "The Hindu",
@@ -193,10 +163,10 @@
     "country": "India",
     "title": "Rohit Sharma",
     "pubDate": "Thu, 02 Jan 2025 22:30:00 +0530",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcT-LMgoZx4bp9MZ_F9Mac8MV7i4wh_NDni3LkNsZTk2bhC5VAMWX_tiT3BJOStxUHc0Y_8mIm0v",
-    "news_item_snippet": "In the series of mis-steps in Australia, Rohit dropping himself, if you strip it of emotion, is among the most clear-headed decisions India have made.",
-    "news_item_url": "https://www.espncricinfo.com/story/aus-vs-ind-5th-test-bgt-sambit-bal-rohit-sharma-did-the-decent-thing-so-why-cloak-it-in-intrigue-1467578",
-    "picture_source": "NDTVSports.com",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQw8H4NqdfkgtVfkKcCA_V3bpHyjERVoXlfupstfGB4q5-Oau_739ycsb7ChqYFHzEdH-Cd46hV",
+    "news_item_snippet": "Shubman Gill all set to return to the playing 11; KL Rahul to open the innings while Prasidh Krishna to replace injured Akash Deep.",
+    "news_item_url": "https://indianexpress.com/article/sports/cricket/rohit-sharma-set-to-be-rested-for-sydney-test-jasprit-bumrah-likely-to-lead-india-in-bgt-finale-9756410/",
+    "picture_source": "ESPNcricinfo.com",
     "approx_traffic": "50,000+"
   },
   {
@@ -204,8 +174,8 @@
     "title": "ARCA",
     "pubDate": "Thu, 02 Jan 2025 17:00:00 -0300",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTyhyKTntGjrXvd3oIBGZJ8nVYo92zZSEbpjyl_VjIx0DSzc6sFPO-WloT0SjcW8t-9YheYKYTE",
-    "news_item_snippet": "\u00bfCu\u00e1l es el monto l\u00edmite para hacer transferencias sin que te investigue ARCA? Recientemente, la ARCA estableci\u00f3 que las entidades financieras y las billeteras&nbsp;...",
-    "news_item_url": "https://www.cronista.com/economia-politica/arca-vigila-tras-actualizacion-de-montos-las-4-cosas-que-hay-que-evitar-si-no-queres-queteinvestiguen/",
+    "news_item_snippet": "ARCA, ex AFIP, actualiz\u00f3 los montos a partir de los cuales las billeteras virtuales deben enviar los datos de sus usuarios. \u00bfEsto incluye a Payoneer?",
+    "news_item_url": "https://www.iproup.com/finanzas/52430-arca-ex-afip-puede-controlar-y-vigilar-las-operaciones-en-payooneer-billetera-virtual",
     "picture_source": "\u00e1mbito.com",
     "approx_traffic": "50,000+"
   },
@@ -221,6 +191,16 @@
   },
   {
     "country": "Brazil",
+    "title": "Gusttavo Lima",
+    "pubDate": "Thu, 02 Jan 2025 15:00:00 -0500",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTm_SrdvCWLl6km46eoYAp0-aNXOv2KwJqOpCOa6r-h59FH-UOTExRTli58qSaL9WDkIX0DdIev",
+    "news_item_snippet": "O an\u00fancio do cantor sertanejo Gusttavo Lima, de que tem pretens\u00e3o de ser candidato ao Pal\u00e1cio do Planalto em 2026, foi descrito por aliados do ex-presidente&nbsp;...",
+    "news_item_url": "https://www.cnnbrasil.com.br/blogs/taina-falcao/politica/bolsonaro-e-caiado-veem-traicao-de-gusttavo-lima-em-candidatura-ao-planalto/",
+    "picture_source": "G1",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "Brazil",
     "title": "Inter X Atalanta",
     "pubDate": "Thu, 02 Jan 2025 13:00:00 -0500",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRoj55V1za81X_kQ3QeXZXZrFtGp3CgES2iusVJtzUjkJcbz0L6IIdiz8k5O8YRsD0UVbePTxxe",
@@ -228,16 +208,6 @@
     "news_item_url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/gazeta-esportiva/2025/01/02/inter-x-atalanta-veja-provaveis-escalacoes-e-onde-assistir-ao-jogo-pela-semifinal-da-supercopa-da-italia.htm",
     "picture_source": "globoesporte.com",
     "approx_traffic": "100,000+"
-  },
-  {
-    "country": "Brazil",
-    "title": "Gusttavo Lima",
-    "pubDate": "Thu, 02 Jan 2025 15:00:00 -0500",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTm_SrdvCWLl6km46eoYAp0-aNXOv2KwJqOpCOa6r-h59FH-UOTExRTli58qSaL9WDkIX0DdIev",
-    "news_item_snippet": "O an\u00fancio do cantor sertanejo Gusttavo Lima, de que tem pretens\u00e3o de ser candidato ao Pal\u00e1cio do Planalto em 2026, foi descrito por aliados do ex-presidente&nbsp;...",
-    "news_item_url": "https://www.cnnbrasil.com.br/blogs/taina-falcao/politica/bolsonaro-e-caiado-veem-traicao-de-gusttavo-lima-em-candidatura-ao-planalto/",
-    "picture_source": "G1",
-    "approx_traffic": "50,000+"
   },
   {
     "country": "Canada",
@@ -253,10 +223,10 @@
     "country": "Canada",
     "title": "Toronto Maple Leafs",
     "pubDate": "Thu, 02 Jan 2025 23:00:00 -0500",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQPWhLSe10JpOib6AutpJjaUFZPpCfo9RtW3k1pvjyOdRs1wc4UE_o-c0u-sR3J-MYwxdNzHDiv",
-    "news_item_snippet": "The Toronto Maple Leafs have signed defenceman Philippe Myers to a two-year contract extension, the NHL team announced Friday.",
-    "news_item_url": "https://globalnews.ca/news/10941445/maple-leafs-sign-myers-to-two-year-extension/",
-    "picture_source": "Sportsnet.ca",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQpnDguBmydHOGYRIKI6_-RJeZc7AvXMly6KfGt44mjxft3BSebZry_YT0gmTRKJotOAeiZVjjI",
+    "news_item_snippet": "The Toronto Maple Leafs announced today the hockey club has signed defenceman Philippe Myers to a two-year contract extension. The contract carries an&nbsp;...",
+    "news_item_url": "https://www.nhl.com/mapleleafs/news/maple-leafs-sign-defenceman-philippe-myers-to-two-year-contract-extension",
+    "picture_source": "CityNews Toronto",
     "approx_traffic": "50,000+"
   },
   {
@@ -372,22 +342,12 @@
   {
     "country": "Italy",
     "title": "SuperEnalotto",
-    "pubDate": "Fri, 03 Jan 2025 07:00:00 +0100",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcT-zzoXjD0r1fiFgf5eilBiNP76q6pjpYHQIw2vykHdx4rpzUgQEJuXyGC3N5ZMOUazYbKE7g5S",
-    "news_item_snippet": "Continua la caccia alla sestina fortunata che stasera vale un montepremi di 53,7 milioni di euro. Segui la diretta a partire dalle ore 20.00 per scoprire i&nbsp;...",
-    "news_item_url": "https://www.ilgiorno.it/cronaca/lotto-superenalotto-oggi-3-gennaio-p45zpmtf",
-    "picture_source": "Today",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Italy",
-    "title": "Lotto",
     "pubDate": "Thu, 02 Jan 2025 23:00:00 +0100",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcT-zzoXjD0r1fiFgf5eilBiNP76q6pjpYHQIw2vykHdx4rpzUgQEJuXyGC3N5ZMOUazYbKE7g5S",
-    "news_item_snippet": "Continua la caccia alla sestina fortunata che stasera vale un montepremi di 53,7 milioni di euro. Segui la diretta a partire dalle ore 20.00 per scoprire i&nbsp;...",
-    "news_item_url": "https://www.ilgiorno.it/cronaca/lotto-superenalotto-oggi-3-gennaio-p45zpmtf",
-    "picture_source": "Today",
-    "approx_traffic": "100,000+"
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRwHKdRZJRe_TaPPiJsTO6s6Y5Ls0tA1QBafUs2vme_3uBBFMQsA-HquX5xK1zqXI_5P47fr82S",
+    "news_item_snippet": "Estrazioni di Lotto, SuperEnalotto e 10Lotto di oggi, venerd\u00ec 3 gennaio 2025, in diretta su Today. Controlla le quote e verifica le vincite in tempo reale.",
+    "news_item_url": "https://www.today.it/lotto-superenalotto/estrazioni-oggi-3-gennaio-2025.html",
+    "picture_source": "Calcio Fanpage",
+    "approx_traffic": "200,000+"
   },
   {
     "country": "Italy",
@@ -398,46 +358,6 @@
     "news_item_url": "https://www.tomshw.it/smartphone/google-maps-svia-turisti-errore-non-corretto-2025-01-03",
     "picture_source": "HDblog",
     "approx_traffic": "100,000+"
-  },
-  {
-    "country": "Italy",
-    "title": "Cecilia Sala giornalista",
-    "pubDate": "Thu, 02 Jan 2025 15:00:00 +0100",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQFMGAg3EU-ciFkItNgt5IvVQKIjg5KfgjjaCqYv6fnNCFxZjp0Ikt3AnPQP3BsSkv3UPtOBOgy",
-    "news_item_snippet": "Il governo prova a stringere i tempi per riportare a casa la giornalista arrestata lo scorso 19 dicembre e detenuta nel carcere di Evin.",
-    "news_item_url": "https://tg24.sky.it/mondo/2025/01/03/cecilia-sala-giornalista-iran-news",
-    "picture_source": "Amnesty International",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "Italy",
-    "title": "Poste Italiane",
-    "pubDate": "Thu, 02 Jan 2025 13:00:00 +0100",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRSKAeiCB71apgABfHc1QZKM-mmQ39ajCybjn-YpBs9RNbUzn_pKfxIvlmnkzndKJoG8P4pxECT",
-    "news_item_snippet": "Tra non molto, raccomandate e bollettini postali potrebbero diventare solo un ricordo: i servizi destinati a passare a privati o allo Stato.",
-    "news_item_url": "https://www.lagazzettadiviareggio.it/2025/01/03/poste-italiane-saluta-per-sempre-le-raccomandate-ora-per-ritirarle-e-unodissea-ecco-cosa-devi-fare/",
-    "picture_source": "Scenarieconomici",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Italy",
-    "title": "Agenzia delle Entrate",
-    "pubDate": "Thu, 02 Jan 2025 12:00:00 +0100",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTiNhx05SngerCuLzSRdYciwOobOkUr6vkoMCnKLOfLgCZNzoRxLiWQCB2vc4FYe6gOOwMy1IFu",
-    "news_item_snippet": "In questo articolo ti spieghiamo come il contribuente pu\u00f2 difendersi dai controlli effettuati dall&#39;Agenzia delle Entrate.",
-    "news_item_url": "https://www.brocardi.it/notizie-giuridiche/agenzia-delle-entrate-ecco-tutti-trucchi-legali-difenderti-controlli/4903.html",
-    "picture_source": "Brocardi.it",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Italy",
-    "title": "Ottavio Missoni",
-    "pubDate": "Thu, 02 Jan 2025 15:00:00 +0100",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSfTTktyUztbLBxsNsM5eK7jG_uSPy488_IiKe-NVn5aJ5fXA6S05bkicvmUoTWITEL6V6y879R",
-    "news_item_snippet": "I figli di Ottavio e Rosita Missoni, Luca e Angela, hanno preso in mano le redini dell&#39;azienda nel 1997. Il primogenito Vittorio \u00e8 morto nel 2013 in un&nbsp;...",
-    "news_item_url": "https://www.fanpage.it/stile-e-trend/moda/chi-sono-luca-e-angela-figli-di-rosita-e-ottavio-missoni-a-capo-dellazienda-di-famiglia/",
-    "picture_source": "Rai News",
-    "approx_traffic": "50,000+"
   },
   {
     "country": "Mexico",
@@ -454,8 +374,8 @@
     "title": "Rangers vs Celtic",
     "pubDate": "Thu, 02 Jan 2025 15:00:00 +0000",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSBvm1DpXBoeva0lBOOa1n5q9f1vKW0sknb7HTBpOBW5-nxWJ8XQd608rrC9n1g313-pM5_wUtl",
-    "news_item_snippet": "The first Old Firm derby of 2025 sees Rangers trying to close a 14-point gap to their rivals at the top of the table.",
-    "news_item_url": "https://www.independent.co.uk/sport/football/rangers-celtic-live-stream-score-result-2024-b2671514.html",
+    "news_item_snippet": "PHILIPPE CLEMENT has named his Rangers side for this afternoon&#39;s Old Firm match at Ibrox Stadium.",
+    "news_item_url": "https://www.rangers.co.uk/article/team-news-gers-side-to-face-celtic-at-ibrox/7a0HqIZ0wo0TPhZacsUARP",
     "picture_source": "Yahoo Sports",
     "approx_traffic": "100,000+"
   },
@@ -471,16 +391,6 @@
   },
   {
     "country": "United Kingdom",
-    "title": "Maps",
-    "pubDate": "Thu, 02 Jan 2025 16:00:00 +0000",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQ1jXJ7YRJLvNiM35fbXDWYpb2_z2h0QUOYaADWfGW5nQ8EBtx2AxMznKOH6E_oYLL24Ugu1HyJ",
-    "news_item_snippet": "The driving force behind this change is the Digital Markets Act (DMA), an EU regulation designed to challenge the dominance of major tech companies and foster a&nbsp;...",
-    "news_item_url": "https://jasondeegan.com/google-maps-is-over-the-tech-giant-complies-with-eu-orders-to-remove-navigation-services-from-search-results/",
-    "picture_source": "Jason Deegan",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United Kingdom",
     "title": "Cybertruck",
     "pubDate": "Thu, 02 Jan 2025 00:00:00 +0000",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSntpPClfb_yaFnRGWPW0bmICgi3ZRam4v9vAym3G9cTnmOYna8xV-p5RfggXEDSB4xDbnqIFn_",
@@ -493,20 +403,20 @@
     "country": "United Kingdom",
     "title": "Lockerbie",
     "pubDate": "Thu, 02 Jan 2025 17:00:00 +0000",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTlAxtlniHC_HbCLHwYynoPseIOm8UzEDWm8MQ9iu1_xu1BAd1V-Jg_RK8SNnFLd5g5cJgvilN2",
-    "news_item_snippet": "The new drama about Pan Am Flight 103 does not do justice to my experience of my sister&#39;s killing.",
-    "news_item_url": "https://www.telegraph.co.uk/news/2025/01/03/skys-superficial-story-of-lockerbie-and-my-family/",
-    "picture_source": "The Guardian",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQ9rviC66oY_UoxbFUGn_2Jzw-ur8e-M5IEblaEwqyWgJw3z4moVWRp-45atIlROIUaEdtZA20d",
+    "news_item_snippet": "It remains the deadliest terrorist attack in UK history. A bomb exploded on Pan Am flight 103 as it flew over the small Scottish town. All 243 passengers and 16&nbsp;...",
+    "news_item_url": "https://www.theguardian.com/tv-and-radio/2025/jan/02/lockerbie-a-search-for-truth-review-colin-firths-disaster-drama-is-worryingly-close-to-a-casualty-episode",
+    "picture_source": "Telegraph.co.uk",
     "approx_traffic": "50,000+"
   },
   {
     "country": "United Kingdom",
     "title": "Premium Bonds prize draw",
     "pubDate": "Thu, 02 Jan 2025 10:00:00 +0000",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQAj0ix21KnDlxwFx2HU-9Nuv91qvjUWNDhUyUxQ7DQGUmrGdO6My5KURCqQxg6u145f_9VW3U5",
-    "news_item_snippet": "The odds of winning in the monthly prize draw changed recently.",
-    "news_item_url": "https://www.express.co.uk/finance/personalfinance/1995663/premium-bonds-odds-of-winning-nsi",
-    "picture_source": "Daily Express",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQjLYYhCXEhc1SFXncSP8PlLzpeh9dZ7uH31oJWilTU9WHQs0hIKQR8tvNmhB5fTh5Ik-IRVxxg",
+    "news_item_snippet": "The saver from Gloucestershire purchased their winning bond in November 2024, and swiftly went on to take the top prize.",
+    "news_item_url": "https://www.thisismoney.co.uk/money/saving/article-14243473/Premium-Bonds-saver-scoops-1million-prize-draw.html",
+    "picture_source": "This is Money",
     "approx_traffic": "50,000+"
   }
 ]
