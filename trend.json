@@ -11,22 +11,22 @@
   },
   {
     "country": "United States",
-    "title": "James Woods",
-    "pubDate": "Wed, 08 Jan 2025 05:00:00 -0800",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQBTNNZAlHTtI09M12Z73UI4v9hQf_fgW9ta2pdoOlEueD_-1WfvwAvKN3pb7Gg9COiYBkcHQrA",
-    "news_item_snippet": "Actor James Woods posted a video of a fire engulfing his neighbor&#39;s home in the Pacific Palisades, an epicenter of one of three wildfires ravaging the Los&nbsp;...",
-    "news_item_url": "https://kfor.com/news/actor-james-woods-posts-video-of-fire-engulfing-neighbors-home-leaving/",
-    "picture_source": "USA TODAY",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "United States",
     "title": "Cavs",
-    "pubDate": "Wed, 08 Jan 2025 19:00:00 -0800",
+    "pubDate": "Wed, 08 Jan 2025 18:00:00 -0800",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRoAjY9G7rLH81gGX0_07oBDtdNhv53euT-6eN0IUtRA8kRcmTUYFd2nDaEeH_w76ADgpvXi5Zm",
     "news_item_snippet": "For the first time in NBA history, a team on a 15-game win streak will face a team on a 10-game win streak as conference leaders OKC and Cleveland meet for&nbsp;...",
     "news_item_url": "https://www.nba.com/news/starting-5-jan-8-tonight-cavs-thunder-a-one-of-a-kind-matchup",
     "picture_source": "ESPN",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United States",
+    "title": "James Woods",
+    "pubDate": "Wed, 08 Jan 2025 05:00:00 -0800",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQBTNNZAlHTtI09M12Z73UI4v9hQf_fgW9ta2pdoOlEueD_-1WfvwAvKN3pb7Gg9COiYBkcHQrA",
+    "news_item_snippet": "In a live interview with CNN, actor James Woods details evacuating his Pacific Palisades home and how he helped rescue an elderly neighbor.",
+    "news_item_url": "https://www.cnn.com/2025/01/08/us/video/la-wildfire-james-woods-close-call-digvid",
+    "picture_source": "USA TODAY",
     "approx_traffic": "100,000+"
   },
   {
@@ -64,8 +64,8 @@
     "title": "Shifting Gears",
     "pubDate": "Wed, 08 Jan 2025 18:00:00 -0800",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcT6_wHNMLrhziGDoVY0BV6RZEb-5XoYxnSQlQnlOywhNOsNsERfVLddGyyRYz_0p37_YoQF2R-z",
-    "news_item_snippet": "Tim Allen and Kat Dennings play an estranged father and daughter in ABC&#39;s new Wednesday night family sitcom &#39;Switching Gears.&#39;",
-    "news_item_url": "https://www.hollywoodreporter.com/tv/tv-reviews/shifting-gears-review-tim-allen-kat-dennings-abc-1236103446/",
+    "news_item_snippet": "Tim Allen (Last Man Standing) stars opposite Kat Dennings (2 Broke Girls) in the new ABC comedy Shifting Gears. Read our premiere recap and weigh in.",
+    "news_item_url": "https://tvline.com/recaps/shifting-gears-series-premiere-recap-season-1-episode-1-tim-allen-1235394082/",
     "picture_source": "USA TODAY",
     "approx_traffic": "50,000+"
   },
@@ -74,19 +74,39 @@
     "title": "Karen Bass",
     "pubDate": "Wed, 08 Jan 2025 12:00:00 -0800",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTo3M7sfW6xbMqbifX8w-K_DamxvDmInkrGO7vDIyLqYG2OdMlq66AMVeh7B8RyLwHf9B2nCIqS",
-    "news_item_snippet": "Some residents said Mayor Karen Bass should have canceled her trip to Ghana when weather warnings in Los Angeles grew increasingly dire.",
-    "news_item_url": "https://www.nytimes.com/2025/01/09/us/los-angeles-mayor-fire-response.html",
+    "news_item_snippet": "The Los Angeles mayor returned home from Ghana on Wednesday and said she was in \u201cconstant contact\u201d while abroad.",
+    "news_item_url": "https://www.politico.com/news/2025/01/08/wildfire-threatens-karen-bass-extended-honeymoon-00197228",
     "picture_source": "Fox News",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
+    "title": "LAUSD",
+    "pubDate": "Wed, 08 Jan 2025 15:00:00 -0800",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSqHs1_fnJgQ2hQw0a3KsafnZzz-iAUfNtgf2Wdm2JqWy8ta09a0NZAgvDWc8ruwHKxXEZM71Fd",
+    "news_item_snippet": "The Los Angeles Unified School District announced Wednesday that all schools and offices will be closed on Thursday, Jan. 9 due to hazardous air conditions&nbsp;...",
+    "news_item_url": "https://boyleheightsbeat.com/lausd-closes-all-schools-thursday-as-fires-spread-around-l-a-county/",
+    "picture_source": "LAist",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Studio City fire",
+    "pubDate": "Wed, 08 Jan 2025 22:00:00 -0800",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQJOHSwU9MwUfDU2p5vYe6MmJZtzdI8omT3Owup2uxtImBWCsx1B1bwDed_7zFgXS0h_DrEDwKc",
+    "news_item_snippet": "Multiple homes are engulfed in flames in Studio City, according to reports. The fire broke out at a house near the intersection of Ventura Boulevard and&nbsp;...",
+    "news_item_url": "https://spectrumnews1.com/ca/southern-california/wildfires/2025/01/09/studio-city-fire",
+    "picture_source": "KTLA",
     "approx_traffic": "50,000+"
   },
   {
     "country": "United States",
     "title": "Bucks",
     "pubDate": "Wed, 08 Jan 2025 21:00:00 -0800",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQ8MBS0Xlje8md2XP2dk0V01WZ9Kq-PgfSkEM_Wi4pf7LPn4p22gDy5TbYCwi0yHQBWFFmEPa471w",
-    "news_item_snippet": "It&#39;s Giannis Antetokounmpo and the Milwaukee Bucks vs Victor Wembanyama and the San Antonio Spurs tonight at Fiserv Forum. Follow here for live game&nbsp;...",
-    "news_item_url": "https://www.jsonline.com/story/sports/nba/bucks/2025/01/08/milwaukee-bucks-vs-san-antonio-spurs-score-injury-report-giannis-antetokounmpo-victor-wembanyama/77541363007/",
-    "picture_source": "ESPN",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcREVt9huAE7xXR4DUW8Ra3nLRuC-SQOK444Yqiw1R_Hzg-gd_ogmuNHYisPgUhTRdAN8tj6syAk",
+    "news_item_snippet": "Expert recap and game analysis of the Milwaukee Bucks vs. San Antonio Spurs NBA game from January 8, 2025 on ESPN.",
+    "news_item_url": "http://www.espn.com/nba/recap?gameId=401705082",
+    "picture_source": "Milwaukee Journal Sentinel",
     "approx_traffic": "50,000+"
   },
   {
@@ -97,16 +117,6 @@
     "news_item_snippet": "Though dressed in sequins and feathers and rhinestone headpieces that resemble unusually elegant birdcages, Shelly (Pamela Anderson) is a dinosaur.",
     "news_item_url": "https://www.seattletimes.com/entertainment/movies/the-last-showgirl-review-pamela-anderson-delivers-haunting-performance/",
     "picture_source": "WHBF - OurQuadCities.com",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Raiders",
-    "pubDate": "Wed, 08 Jan 2025 12:00:00 -0800",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcS41hYdAZBSjeGxIiA53CAz6-si0YHjwZHaRv9bl0IddqoKEQFjKvkanuaGrQbmYSMY9Jwk0bmM",
-    "news_item_snippet": "His team is moving on, but Tyler Owens&#39; rookie season with the Commanders was cut short as he was placed on the injured reserve on Jan. 4. Washington travels to&nbsp;...",
-    "news_item_url": "https://texastech.com/news/2025/1/8/football-red-raiders-in-the-nfl-week-18-24",
-    "picture_source": "NFL.com",
     "approx_traffic": "50,000+"
   },
   {
@@ -141,6 +151,16 @@
   },
   {
     "country": "India",
+    "title": "Barcelona",
+    "pubDate": "Thu, 09 Jan 2025 01:30:00 +0530",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcS5N8ukzE7eMWbt0Xg8Q4k3qmYecsKnozq4AjYlMq0DGonjOe_03a29SF_oqz305VTr3p85ALR7",
+    "news_item_snippet": "All our updates and post-match reaction and interviews from King Abdullah Sports City where Barca secure spot in final.",
+    "news_item_url": "https://www.aljazeera.com/sports/liveblog/2025/1/8/live-athletic-bilbao-vs-barcelona-saudi-arabia-spanish-supercopa",
+    "picture_source": "The Hindu",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "India",
     "title": "Earthquake",
     "pubDate": "Tue, 07 Jan 2025 07:30:00 +0530",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQt6NU7csUmkqMQu753eLidgjm3gaSuowcjfhD6p5WZiGUWiBdIP18bsK3X7c7HRMOThFA5iwnj",
@@ -154,8 +174,8 @@
     "title": "OnePlus 13",
     "pubDate": "Tue, 07 Jan 2025 21:30:00 +0530",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSuNyToeDcQqblNCogdbA48srEYiIo5iJ29ld8hDB2mamP6hFxd4SA-MKx6o1Imrw0J6opDSs7o",
-    "news_item_snippet": "After testing the OnePlus 13 phone for three weeks, I&#39;m convinced this is the best Android device on the market\u2014save for one big issue.",
-    "news_item_url": "https://www.forbes.com/sites/forbes-personal-shopper/article/oneplus-13-review/",
+    "news_item_snippet": "\u0935\u0928\u092a\u094d\u0932\u0938 \u0915\u0947 \u0928\u090f \u092b\u094d\u0932\u0948\u0917\u0936\u093f\u092a \u0938\u094d\u092e\u093e\u0930\u094d\u091f\u092b\u094b\u0928 OnePlus 13 \u092e\u0947\u0902 \u090f\u0915 \u0916\u093e\u0938 \u092b\u0940\u091a\u0930 \u0926\u093f\u092f\u093e \u0917\u092f\u093e \u0939\u0948\u0964 \u0907\u0938 \u092b\u0940\u091a\u0930 \u0915\u0947 \u0938\u093e\u0925 \u092b\u094b\u0928 \u0915\u094b \u0938\u094d\u0935\u093f\u091a \u0911\u092b \u0939\u094b\u0928\u0947 \u092a\u0930 \u092d\u0940 \u0909\u0938\u0915\u0940&nbsp;...",
+    "news_item_url": "https://www.livehindustan.com/gadgets/oneplus-13-can-be-tracked-even-if-its-switched-off-with-the-new-powered-off-findings-features-201736405606561.html",
     "picture_source": "Hindustan Times",
     "approx_traffic": "50,000+"
   },
@@ -190,12 +210,22 @@
     "approx_traffic": "50,000+"
   },
   {
+    "country": "India",
+    "title": "ITC share price",
+    "pubDate": "Mon, 06 Jan 2025 11:30:00 +0530",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSxul6NFyAbNEwACD94tiGfTVtrA0DBbqgaJ9WsRMJZbS_pqFAINHQgKL8SjNjzR3xYOoNo2nUs",
+    "news_item_snippet": "ITC share price saw a sharp drop of nearly 6% in Monday&#39;s early trading, hitting a low of Rs 455. The fall occurred during the price discovery process for&nbsp;...",
+    "news_item_url": "https://www.indiatoday.in/business/story/itc-share-price-hotel-business-demerger-special-pre-opening-session-key-details-review-stmp-2660219-2025-01-06",
+    "picture_source": "Livemint",
+    "approx_traffic": "50,000+"
+  },
+  {
     "country": "Argentina",
     "title": "Supercopa de Espa\u00f1a",
     "pubDate": "Wed, 08 Jan 2025 16:00:00 -0300",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSd5iZHUWbJ0YrnML_BboVq8HBFcos_48EKVOiB-wkK7Bwg5-nj85eA8fufMMRC0LloxGtRf53avQ",
-    "news_item_snippet": "El encuentro se llevar\u00e1 a cabo en Yeda, una de las ciudades m\u00e1s importantes de Arabia Saudita y definir\u00e1 al primer finalista del torneo que re\u00fane a los&nbsp;...",
-    "news_item_url": "https://www.infobae.com/colombia/deportes/2025/01/08/athletic-debilbao-vs-barcelona-hora-y-donde-ver-la-primera-semifinal-de-la-supercopa-de-espana-en-colombia/",
+    "news_item_snippet": "El encuentro de semifinales se disputa este mi\u00e9rcoles a las 16 (horario argentino) en el estadio King Abdullah Sports City de Jeddah, Arabia Saudita - LA&nbsp;...",
+    "news_item_url": "https://www.lanacion.com.ar/deportes/futbol/athletic-bilbao-vs-barcelona-en-vivo-como-ver-online-el-partido-por-la-supercopa-de-espana-2025-nid08012025/",
     "picture_source": "ESPN",
     "approx_traffic": "50,000+"
   },
@@ -203,20 +233,20 @@
     "country": "Australia",
     "title": "Tottenham vs Liverpool",
     "pubDate": "Thu, 09 Jan 2025 07:00:00 +1100",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRe9UxW440H06xCtoi15YtSQ1F0xQDAzpgqUarU9qg_0J_o0b2lwQyxWXABVPYwy24t5T7PcEBu",
-    "news_item_snippet": "Spurs have taken a controversial one-goal advantage after the first leg on Thursday morning (AEDT) in North London.",
-    "news_item_url": "https://www.smh.com.au/sport/tottenham-hotspur-v-liverpool-live-updates-ange-faces-his-toughest-test-20250108-p5l2va.html",
-    "picture_source": "Tottenham Hotspur",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRUAmVOgFILQzIz4H6BLf3xWQc_od6mXXFpXUP9DZYVncSu7lKFQpIn8OCuPsgI4HY7wHliCr6U",
+    "news_item_snippet": "Ange Postecoglou has made four changes to the side that started Saturday&#39;s Premier League clash with Newcastle United. There&#39;s a Spurs debutant tonight as&nbsp;...",
+    "news_item_url": "https://www.tottenhamhotspur.com/news/2025/january/confirmed-line-ups-spurs-vs-liverpool/",
+    "picture_source": "Fox Sports",
     "approx_traffic": "50,000+"
   },
   {
     "country": "Australia",
-    "title": "La fires",
+    "title": "LA fires",
     "pubDate": "Wed, 08 Jan 2025 14:00:00 +1100",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcR13kJjn-55RDUQccO80R1idpgpmA6y1wCZxbA2bLgfeTtioH_pV-PtSQKLMOu0p-i2oP8WQBSE",
-    "news_item_snippet": "Watching the Palisades fire burn a deep scar across the city I love so much is discomforting.",
-    "news_item_url": "https://www.smh.com.au/world/north-america/how-it-feels-to-watch-your-city-burn-from-the-other-side-of-the-planet-20250109-p5l35y.html",
-    "picture_source": "ABC News",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTLG-AzuAFLdOunwpEBOf7EX6Fa_cVpQ1wmqFUoWe96O-OTjCmTNiIc7uRw6jMtg7fhBPK9da2A",
+    "news_item_snippet": "Hundreds of homes have been destroyed and 100000 people have been ordered to evacuate amid some of the most catastrophic fires in the city&#39;s history.",
+    "news_item_url": "https://www.sbs.com.au/news/article/in-pictures-destruction-and-chaos-as-fires-devastate-los-angeles/1tijt9nq4",
+    "picture_source": "The Sydney Morning Herald",
     "approx_traffic": "200,000+"
   },
   {
@@ -233,7 +263,7 @@
     "country": "Brazil",
     "title": "Edital MPU",
     "pubDate": "Wed, 08 Jan 2025 06:00:00 -0500",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSu6wgu-Vnvvurp1fVydZSX2IY4_Sogu0tdQKDY-g8LPzkaISKyLHDzKgwDsVqaBGROvuoxVoAT",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQhh_DIkgAX2a99sQNStbwY1utp1cYbF0nap8ixgNjcZJlvqjLtNyRROVCTYD5xuiVJmbtYYGs3",
     "news_item_snippet": "Est\u00e3o previstas 152 vagas para os cargos de analista e t\u00e9cnico; as inscri\u00e7\u00f5es come\u00e7am em 13 de janeiro.",
     "news_item_url": "https://www.mpf.mp.br/pgr/noticias-pgr2/2025/publicado-edital-para-realizacao-do-11o-concurso-publico-do-mpu",
     "picture_source": "MPF",
@@ -261,7 +291,7 @@
   },
   {
     "country": "Brazil",
-    "title": "IPVA 2025 RJ",
+    "title": "IPVA 2025 rj",
     "pubDate": "Wed, 08 Jan 2025 12:00:00 -0500",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcS4_FjVyanOBDe8PYyeUSleVYTqHT6vpR-Xpabk8SaRz-AMtHlCC4dX-Nk0wsZ0ZdvmcgRkqQP2",
     "news_item_snippet": "Bradesco deixou de emitir a guia para quita\u00e7\u00e3o do imposto, que agora \u00e9 disponibilizada pela Sefaz-RJ.",
@@ -290,24 +320,44 @@
     "approx_traffic": "200,000+"
   },
   {
+    "country": "Saudi Arabia",
+    "title": "\u062d\u0633\u0627\u0628 \u0627\u0644\u0645\u0648\u0627\u0637\u0646",
+    "pubDate": "Thu, 09 Jan 2025 02:00:00 +0300",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcT_ajpXGKAMsp23XLxWk_tb27_EC_UgSD-mxRIjTPbb1HweSTDJMha0lPkoBzJLBMJp0eLHIJx-",
+    "news_item_snippet": "\u0627\u0639\u0644\u0646 \u062d\u0633\u0627\u0628 \u0627\u0644\u0645\u0648\u0627\u0637\u0646 \u0639\u0646 \u0625\u064a\u062f\u0627\u0639 \u0627\u0644\u062f\u0639\u0645 \u0627\u0644\u0645\u062e\u0635\u0635 \u0644\u0634\u0647\u0631 \u064a\u0646\u0627\u064a\u0631 \u201c\u0634\u0627\u0645\u0644\u0627 \u0627\u0644\u062f\u0639\u0645 \u0627\u0644\u0625\u0636\u0627\u0641\u064a\u201d \u0644\u0644\u0645\u0633\u062a\u0641\u064a\u062f\u064a\u0646 \u0627\u0644\u0645\u0643\u062a\u0645\u0644\u0629 \u0637\u0644\u0628\u0627\u062a\u0647\u0645 . \u0648\u0623\u0648\u0636\u062d \u0627\u0644\u062d\u0633\u0627\u0628 \u0641\u064a \u062a\u063a\u0631\u064a\u062f\u0629 \u0639\u0628\u0631 \u0645\u0646\u0635\u0629 X \u0623\u0646 \u0627\u0644\u062f\u0639\u0645 \u0633\u064a\u0633\u062a\u0645\u0631 \u062d\u062a\u0649&nbsp;...",
+    "news_item_url": "https://maaal.com/archives/202501/%D8%AD%D8%B3%D8%A7%D8%A8-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%B7%D9%86-%D9%8A%D8%B9%D9%84%D9%86-%D8%A8%D8%AF%D8%A1-%D8%A5%D9%8A%D8%AF%D8%A7%D8%B9-%D8%A7%D9%84%D8%AF%D8%B9%D9%85-%D8%A7%D9%84%D9%85%D8%AE-3/",
+    "picture_source": "\u0633\u0628\u0642",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Saudi Arabia",
+    "title": "\u0623\u062a\u0644\u062a\u064a\u0643 \u0628\u064a\u0644\u0628\u0627\u0648 \u0636\u062f \u0628\u0631\u0634\u0644\u0648\u0646\u0629",
+    "pubDate": "Wed, 08 Jan 2025 20:00:00 +0300",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcS1MaCDzKxpwdU6MwhY0GYg3MRQU2zLqsAJtD3jbTmnhiwUZUFWhDqJNHXXCWdfYP33xyBGyNUI",
+    "news_item_snippet": "\u064a\u0633\u062a\u0639\u062f \u0645\u0644\u0639\u0628 \u0627\u0644\u062c\u0648\u0647\u0631\u0629 \u0627\u0644\u0645\u0634\u0639\u0629 \u0641\u064a \u0627\u0644\u0645\u0645\u0644\u0643\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629 \u0644\u064a\u0643\u0648\u0646 \u0645\u0633\u0631\u062d\u064b\u0627 \u0644\u0623\u062d\u062f\u0627\u062b \u0645\u062b\u064a\u0631\u0629 \u0641\u064a \u0643\u0623\u0633 \u0627\u0644\u0633\u0648\u0628\u0631 \u0627\u0644\u0625\u0633\u0628\u0627\u0646\u064a 2024-2025\u060c \u062d\u064a\u062b \u064a\u062d\u062a\u0636\u0646 \u0627\u0644\u0645\u0628\u0627\u0631\u064a\u0627\u062a \u0628\u062f\u0621\u064b\u0627 \u0645\u0646 \u0646\u0635\u0641 \u0627\u0644\u0646\u0647\u0627\u0626\u064a \u0627\u0644\u0630\u064a&nbsp;...",
+    "news_item_url": "https://www.goal.com/ar-sa/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D8%A8%D8%AB-%D9%85%D8%A8%D8%A7%D8%B4%D8%B1-%D8%B4%D8%A7%D9%87%D8%AF-%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9-%D8%A8%D8%B1%D8%B4%D9%84%D9%88%D9%86%D8%A9-%D9%88%D8%A7%D9%94%D8%AA%D9%84%D8%AA%D9%8A%D9%83-%D8%A8%D9%8A%D9%84%D8%A8%D8%A7%D9%88-%D9%81%D9%8A-%D9%83%D8%A7%D9%94%D8%B3-%D8%A7%D9%84%D8%B3%D9%88%D8%A8%D8%B1-%D8%A7%D9%84%D8%A7%D9%95%D8%B3%D8%A8%D8%A7%D9%86%D9%8A-2025/blta63cc7f0dd4e282b",
+    "picture_source": "\u0627\u0644\u064a\u0648\u0645 \u0627\u0644\u0633\u0627\u0628\u0639",
+    "approx_traffic": "50,000+"
+  },
+  {
     "country": "France",
     "title": "Didier Deschamps",
     "pubDate": "Wed, 08 Jan 2025 01:00:00 +0100",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRJY_xejOh8aVrxcFoxLv4rPsDau4b7DPNLadyHAvoM7HzMT7aRJ7JWIl9aOhn7E3Ch1Ou6_ejE",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRoBqirFRTg_FBVdGDYZuAJRB9OFkBCwQtL8lL8ohRHBDwlXVNEF0bPgew8KCuIdQ6-pSxvlOkt",
     "news_item_snippet": "Didier Deschamps a 18 mois devant lui pour r\u00e9ussir sa sortie. Lui qui vient d&#39;annoncer son d\u00e9part en 2026 ne devra pas se laisser perturber par l&#39;agitation&nbsp;...",
     "news_item_url": "https://www.leparisien.fr/sports/football/equipe-de-france/mondial-gestion-et-succession-didier-deschamps-18-mois-pour-soigner-sa-sortie-09-01-2025-PRQQVR6K7BH55GXH3C6SNYZO64.php",
-    "picture_source": "Ouest-France",
+    "picture_source": "Franceinfo",
     "approx_traffic": "100,000+"
   },
   {
     "country": "France",
     "title": "Los Angeles",
     "pubDate": "Wed, 08 Jan 2025 10:00:00 +0100",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTOfPLMUsHzBns5qLmN3XBqDu5jNt_5e6LpMOEif8s98H2Z2yYGJsgfku7PyF81lsGWNLsKpGZA",
-    "news_item_snippet": "La Californie est ravag\u00e9e par d&#39;importants incendies. Plus de 100.000 habitants de la m\u00e9gapole am\u00e9ricaine ont \u00e9t\u00e9 forc\u00e9s de fuir face aux flammes qui ont&nbsp;...",
-    "news_item_url": "https://www.bfmtv.com/international/amerique-nord/etats-unis/c-est-une-zone-de-guerre-des-habitants-de-los-angeles-racontent-la-catastrophe-face-aux-incendies_AV-202501080992.html",
-    "picture_source": "Sciences et Avenir",
-    "approx_traffic": "50,000+"
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSe-QoO34iHUENmFDB_MZQPlTaopUiEadW5LgFW4gMgr7V8M1nu02BYfDtFfHpTJFeeJWBsHrDy",
+    "news_item_snippet": "Un nouvel incendie s&#39;est d\u00e9clar\u00e9 mercredi \u00e0 proximit\u00e9 de Hollywood. Au total depuis mardi, 100 000 habitants ont fui Los Angeles, balay\u00e9e par des vents \u00ab de&nbsp;...",
+    "news_item_url": "https://www.sudouest.fr/faits-divers/incendies/incendie-a-los-angeles-le-bilan-grimpe-a-5-morts-le-centre-de-hollywood-evacue-22762907.php",
+    "picture_source": "Franceinfo",
+    "approx_traffic": "100,000+"
   },
   {
     "country": "France",
@@ -323,11 +373,21 @@
     "country": "Germany",
     "title": "Los Angeles",
     "pubDate": "Wed, 08 Jan 2025 09:00:00 +0100",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQOesel6eL6qGJLghyrGM8JuKP_hBe8tOMPuYs-uQU34NaaMA9DCHFMGM1m_5Zcgh7RA6f4I4oX",
-    "news_item_snippet": "Mindestens f\u00fcnf Menschen sind bei den Br\u00e4nden in und um Los Angeles gestorben, immer mehr m\u00fcssen ihre H\u00e4user verlassen. Biden erkl\u00e4rte die Gegend zum&nbsp;...",
-    "news_item_url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2025-01/feuer-los-angeles-eishockey-critics-choice-awars",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcS-83y8nFIgy1qfuDYVy9eMKAdpJ7fR1TQhsLGYiVWI34dB3rV5Sq9WDaf7CGKzyMnfPBHFM1HF",
+    "news_item_snippet": "Rund um Los Angeles sind mehrere Waldbr\u00e4nde ausgebrochen. \u00dcber 100.00 Menschen fliehen, mindestens f\u00fcnf sind gestorben. Die News im Blog.",
+    "news_item_url": "https://www.morgenpost.de/panorama/article408034024/los-angeles-feuer-waldbrand-aktuell-news.html",
     "picture_source": "tagesschau.de",
     "approx_traffic": "100,000+"
+  },
+  {
+    "country": "Germany",
+    "title": "Discord",
+    "pubDate": "Wed, 08 Jan 2025 17:00:00 +0100",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQ1-rrCl3niOU_QykaMTLEp9_vL63v1RP0oeEJFik0jFZTxvRWAkzsp2H_vEgD5x73MGE9COBhe",
+    "news_item_snippet": "Viele Nutzer melden derzeit Probleme mit der Kommunikationsplattform Discord. Laut der Webseite allest\u00f6rungen.de h\u00e4ufen sich seit dem Vormittag Berichte \u00fcber&nbsp;...",
+    "news_item_url": "https://www.stuttgarter-nachrichten.de/inhalt.discord-stoerung-mhsd.b10ca874-fbba-4951-8747-17d03dcdd671.html",
+    "picture_source": "heise online",
+    "approx_traffic": "50,000+"
   },
   {
     "country": "Germany",
@@ -337,16 +397,6 @@
     "news_item_snippet": "Was hat Meta angek\u00fcndigt? Konzernchef Mark Zuckerberg hat einen Kurswechsel bei der Moderation von Inhalten auf seinen Social-Media-Plattformen in den USA&nbsp;...",
     "news_item_url": "https://www.spiegel.de/netzwelt/netzpolitik/kurswechsel-von-mark-zuckerberg-was-aendert-sich-jetzt-bei-facebook-und-instagram-a-18e36a12-8990-406d-a9aa-d59215c79ab5",
     "picture_source": "WirtschaftsWoche",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Germany",
-    "title": "Bad Friedrichshall",
-    "pubDate": "Tue, 07 Jan 2025 21:00:00 +0100",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSd5kvpUjjSxLPGJsw5_cRdwZNQcux7RRxon1EJX0zKZve8h0gSP12IKkfyFGjWEKIvH2c1LjZZ",
-    "news_item_snippet": "Bei Sch\u00fcssen in einer Maschinenbaufirma sind nach Angaben der Polizei zwei Personen get\u00f6tet worden. Tatverd\u00e4chtiger offenbar Mitarbeiter der Firma. Zwei Tote&nbsp;...",
-    "news_item_url": "https://www.swr.de/swraktuell/baden-wuerttemberg/heilbronn/grosseinsatz-polizei-bad-friedrichshall-kochendorf-100.html",
-    "picture_source": "tagesschau.de",
     "approx_traffic": "50,000+"
   },
   {
@@ -374,8 +424,8 @@
     "title": "Giornalista Cecilia Sala",
     "pubDate": "Wed, 08 Jan 2025 12:00:00 +0100",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTsibJ2jLX_EL01GSeWvAyG67dtxoUe-DIc-RcAsNGA-0kEZRwl73SJHy8NgZV6g7L18QyWM3mD",
-    "news_item_snippet": "La giornalista era detenuta in Iran dal 19 dicembre. Il pap\u00e0: &quot;\u00c8 stata una partita a scacchi affollata&quot;. Ad attenderla in aeroporto Meloni e Tajani.",
-    "news_item_url": "https://www.rainews.it/maratona/2025/01/cecilia-sala-e-libera-il-ritorno-in-italia-aggiornamenti-in-tempo-reale-bdfa5f8e-4ad9-4dba-8c03-3a7e28d3c24a.html",
+    "news_item_snippet": "\u00c8 decollato pochi minuti fa, da Teheran, l&#39;aereo che riporta a casa la giornalista Cecilia Sala. Grazie a un intenso lavoro sui canali diplomatici e di&nbsp;...",
+    "news_item_url": "https://www.governo.it/it/articolo/rilascio-di-cecilia-sala-la-nota-di-palazzo-chigi/27412",
     "picture_source": "Rai News",
     "approx_traffic": "200,000+"
   },
@@ -384,8 +434,8 @@
     "title": "Los Angeles",
     "pubDate": "Wed, 08 Jan 2025 09:00:00 +0100",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQCdUeX4slFXXdx5jgaXdzx-ezafK5x7CGeJ7mBNIqQ0qtMgvReTjcV_u03uco99DGadufSeuR4",
-    "news_item_snippet": "Almeno cinque persone sono morte, pi\u00f9 di 100mila hanno dovuto lasciare le loro case e centinaia di migliaia sono rimaste senza energia elettrica.",
-    "news_item_url": "https://www.ilpost.it/2025/01/09/incendi-los-angeles-morti-case-distrutte-evacuata-hollywood/",
+    "news_item_snippet": "L&#39;inquilino uscente della Casa Bianca ha deciso di cancellare l&#39;ultimo viaggio all&#39;estero della sua presidenza poche ore prima della partenza per Roma e il&nbsp;...",
+    "news_item_url": "https://www.ilsole24ore.com/art/incendi-los-angeles-biden-annulla-viaggio-italia-AGx7SPCC",
     "picture_source": "Rai News",
     "approx_traffic": "50,000+"
   },
@@ -393,9 +443,9 @@
     "country": "Italy",
     "title": "Tottenham-Liverpool",
     "pubDate": "Wed, 08 Jan 2025 21:00:00 +0100",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcS46vqB2VWuCgFlVRZLg-3-RZ5CnJtFMI65yGeF55_lLTvJftC1qJ4FxeL3v1MsxjZQ-LDAUfYl",
-    "news_item_snippet": "Enorme spavento per Rodrigo Bentancur, giocatore del Tottenham ex Juventus. Il centrocampista \u00e8 svenuto in campo durante la sfida tra gli Spurs e il Liverpool,&nbsp;...",
-    "news_item_url": "https://www.corriere.it/sport/calcio/25_gennaio_08/bentancur-malore-tottenham-liverpool-a1779b25-dd12-4e38-97a8-aaf905094xlk.shtml",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQXN8JnhFmjSnvCM9nz5achY7tfZdUYNqBja-kR-zYrIdUIyLrQkZHmPZdq8tgRo2t0gO5PRZgt",
+    "news_item_snippet": "L&#39;ex centrocampista della Juve \u00e8 caduto a peso morto in avanti, rimanendo a terra tra la preoccupazione di compagni e avversari.",
+    "news_item_url": "https://www.adnkronos.com/sport/bentancur-allarme-in-tottenham-liverpool-crolla-a-terra-da-solo_5I541esACNPQSYZpybtiaU",
     "picture_source": "Sky Sport",
     "approx_traffic": "50,000+"
   },
@@ -431,22 +481,32 @@
   },
   {
     "country": "Mexico",
-    "title": "Los Angeles",
+    "title": "Los angeles",
     "pubDate": "Wed, 08 Jan 2025 02:00:00 -0600",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcR63gxL34901ErnqXCKAYDahjN6PjRSJXPCdZmfgXbvAMsL7nCPH9S3NpgyuCRd0L_v69YefYc_",
-    "news_item_snippet": "M\u00e1s de 30.000 personas recibieron la orden de evacuar, ya que un incendio de r\u00e1pido crecimiento avanza a trav\u00e9s de Pacific Palisades en Los \u00c1ngeles y&nbsp;...",
-    "news_item_url": "https://cnnespanol.cnn.com/2025/01/08/noticias-incendios-los-angeles-2025-en-vivo-trax-9/",
+    "news_item_snippet": "Los incendios forestales en Los \u00c1ngeles provocaron la evacuaci\u00f3n de 30 mil personas el martes.",
+    "news_item_url": "https://www.elfinanciero.com.mx/bloomberg/2025/01/08/incendios-en-los-angeles-a-cuanto-ascienden-los-danos-por-el-siniestro/",
     "picture_source": "BBC Mundo",
     "approx_traffic": "50,000+"
   },
   {
     "country": "Spain",
     "title": "Supercopa de Espa\u00f1a",
+    "pubDate": "Thu, 09 Jan 2025 00:00:00 +0100",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSJwa00r1WdVaYTzHrCZCnpE9a10NN0Udfgw0JkCxGnGwIGfgyx-XcAfANZP_91rttHO-Kto-0K",
+    "news_item_snippet": "El FC Barcelona es el primer finalista de la Supercopa de Espa\u00f1a 2025 tras vencer al Athletic con goles de Gavi y Lamine Yamal.",
+    "news_item_url": "https://www.rtve.es/deportes/20250108/athletic-barcelona-directo-resumen-resultado-semifinal-supercopa-espana-2025/16396865.shtml",
+    "picture_source": "RTVC",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "Spain",
+    "title": "Supercopa",
     "pubDate": "Wed, 08 Jan 2025 10:00:00 +0100",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRLDUY7RkU3b6pVexxLzP6jErHTxkrmQwmOeUgTVwhpB6UUJErZT8PJZ819Yq2UEALyHdfx8SmZ",
-    "news_item_snippet": "Te contamos todos los detalles del partido de semifinales de la Supercopa de Espa\u00f1a.",
-    "news_item_url": "https://www.marca.com/futbol/supercopa-espana/2025/01/08/real-madrid-mallorca-horario-canal-ver-tv-supercopa-espana.html",
-    "picture_source": "RTVE",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSJwa00r1WdVaYTzHrCZCnpE9a10NN0Udfgw0JkCxGnGwIGfgyx-XcAfANZP_91rttHO-Kto-0K",
+    "news_item_snippet": "Quique Seti\u00e9n fue el sustituto del ahora entrenador del Athletic, que regresa a Yeda en el banquillo del equipo vizca\u00edno. Valverde gan\u00f3 el partido en esa acci\u00f3n.",
+    "news_item_url": "https://www.marca.com/futbol/supercopa-espana/2025/01/08/supercopa-mil-historias-territorio-saudi.html",
+    "picture_source": "RTVC",
     "approx_traffic": "500,000+"
   },
   {
@@ -461,21 +521,11 @@
   },
   {
     "country": "Spain",
-    "title": "BBVA",
-    "pubDate": "Wed, 08 Jan 2025 09:00:00 +0100",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQ0WaFvcId2j-E2hMEthZ-9gaGQ8eIznQB3erkZPOEh_S9ZZ9UdWJmUYAfzeeGZD9n-MQ3E0ys9",
-    "news_item_snippet": "Con el objetivo de adaptarse a las necesidades del cliente , BBVA lanza el primer QR que permitir\u00e1 a las empresas realizar cobros ilimitados.",
-    "news_item_url": "https://www.bbva.com/es/pe/innovacion/bbva-presenta-su-nuevo-qr-que-permitira-a-las-empresas-cobrar-sin-limites/",
-    "picture_source": "BBVA",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Spain",
     "title": "CaixaBank",
     "pubDate": "Wed, 08 Jan 2025 00:00:00 +0100",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcS3NAbA9DksMpz3XzhRsvulPI7ofwbJ2dB-7Iw902x_AyfcrEp3kxVBvcpzLzL2ellZhBVxq3RH",
-    "news_item_snippet": "CaixaBank prepara el lanzamiento de un portal inmobiliario para aprovechar el \u00e1lgido momento de compraventas y de precios r\u00e9cord que vive el sector&nbsp;...",
-    "news_item_url": "https://www.expansion.com/empresas/banca/2025/01/08/677d880a468aeb214c8b4570.html",
+    "news_item_snippet": "En el caso de CaixaBank, la mayor parte de los flujos netos se deben al \u00e9xito en la colocaci\u00f3n de su fondo monetario, CaixaBank Rendimiento Monetario, que ya&nbsp;...",
+    "news_item_url": "https://www.eleconomista.es/mercados-cotizaciones/noticias/13162554/01/25/caixabank-y-santander-superan-los-5000-millones-de-euros-en-captaciones-netas-en-fondos.html",
     "picture_source": "CaixaBank",
     "approx_traffic": "50,000+"
   },
@@ -504,8 +554,8 @@
     "title": "La fires",
     "pubDate": "Wed, 08 Jan 2025 09:00:00 +0000",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSwJubBdwik0SawL7zpCCLpagXlmSrLVAAvFNsjbU8h4xY6m3obqo6EtVS3D9b-8xVhnDPXO6rf",
-    "news_item_snippet": "A mandatory evacuation order has been issued in the Hollywood Hills following the spread of the wildfires raging across Los Angeles.",
-    "news_item_url": "https://www.bbc.com/news/articles/cj0r01n79lno",
+    "news_item_snippet": "Greater Los Angeles wildfires: Latest updates on fire in Palisades, Hollywood Hills; what caused the blaze and more.",
+    "news_item_url": "https://www.independent.co.uk/news/world/americas/la-california-palisades-fire-hollywood-hills-map-evacuation-live-b2676256.html",
     "picture_source": "BBC News",
     "approx_traffic": "200,000+"
   },
@@ -524,19 +574,9 @@
     "title": "Bentancur",
     "pubDate": "Wed, 08 Jan 2025 21:00:00 +0000",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQgtnb7RZhF1I8GnkOhKQ9Pmut7Qrh2nyqDSSUoIZZhAs_-ANXJiPW7RJI_5rOS63E2lEd4J22J",
-    "news_item_snippet": "The midfielder landed awkwardly on the ground attempting to turn the ball towards goal during a corner kick.",
-    "news_item_url": "https://www.independent.co.uk/sport/football/rodrigo-bentancur-carabao-cup-head-injury-b2676088.html",
+    "news_item_snippet": "The midfielder was strechered off the pitch after receiving around eight minutes of treatment at the Tottenham Hotspur Stadium.",
+    "news_item_url": "https://www.independent.co.uk/sport/football/rodrigo-bentancur-latest-head-injury-tottenham-b2676281.html",
     "picture_source": "ESPN.co.uk",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United Kingdom",
-    "title": "London Regent Street bomb threat",
-    "pubDate": "Wed, 08 Jan 2025 16:00:00 +0000",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTJ_m174cuDCD9xdCbt-pP1-KIEuFhs-qpweabptpCYOJGGnNQG3L1qyk3VPBU4lJo_k_dvxW6R",
-    "news_item_snippet": "Bomb disposal teams carried out controlled explosions in Regent Street in central London after authorities became aware of a suspicious vehicle.",
-    "news_item_url": "https://www.euronews.com/2025/01/08/controlled-explosions-in-london-after-busy-british-shopping-street-evacuated",
-    "picture_source": "Variety",
     "approx_traffic": "50,000+"
   }
 ]
