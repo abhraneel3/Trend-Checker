@@ -1,11 +1,21 @@
 [
   {
     "country": "United States",
+    "title": "Earthquake",
+    "pubDate": "Fri, 10 Jan 2025 08:00:00 -0800",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTmMfMXX77dylL2scobk-q4MnA1MJkaMhqSGu4mZyojL2kcPhWyKWWe_YvAd0xpMl7y4AX_SgRZ",
+    "news_item_snippet": "A magnitude 3.7 earthquake was recorded in the Bay Area on Friday morning, according to the United States Geological Survey.",
+    "news_item_url": "https://www.usatoday.com/story/news/nation/2025/01/10/san-francisco-earthquake-bay-area/77593270007/",
+    "picture_source": "ABC7 Bay Area",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
     "title": "Notre Dame vs Penn State",
     "pubDate": "Thu, 09 Jan 2025 00:00:00 -0800",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRGS-xNJiyxbdZ1Jy0ZrBQDUt3nQ5r4aEnBQzDjxijrycvww8gKhtMriW0ZF4PKCLhDP7Yp9Oi-",
-    "news_item_snippet": "The first College Football Playoff semifinal game of the 12-team era lived up to the hype. Here are the highlights from Notre Dame&#39;s win over Penn State!",
-    "news_item_url": "https://www.foxsports.com/live-blog/college-football/notre-dame-vs-penn-state-live-updates-score-highlights-from-cfp-semifinal",
+    "news_item_snippet": "Drew Allar was hit as he threw in a crucial spot and Notre Dame&#39;s Christian Gray comes up with one of the biggest interceptions in College Football Playoff&nbsp;...",
+    "news_item_url": "https://sports.yahoo.com/live/notre-dame-rallies-to-beat-penn-state-on-last-minute-field-goal-advances-to-college-football-playoff-national-championship-233358805.html",
     "picture_source": "ESPN",
     "approx_traffic": "2,000,000+"
   },
@@ -13,20 +23,30 @@
     "country": "United States",
     "title": "Kenneth Fire",
     "pubDate": "Thu, 09 Jan 2025 08:00:00 -0800",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTZwaD2OtDsFbIqkNSsacVdUHwfeDA-lbsAdiWLFQup3BWW4beOUMQJ3z_v9c-RphgCGchpjmmz",
-    "news_item_snippet": "The fires in Southern California have consumed 45 square miles - which equals the same size as San Francisco.",
-    "news_item_url": "https://6abc.com/post/la-fires-early-estimates-predict-57b-damages-southern-california-wildfires-national-guard-called-amid-looting/15786103/",
-    "picture_source": "CBS Los Angeles",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTBtn07wGw23URbFW7O4pHQKGwNNRAUa7mYiPLwh-74IxUcECR20LS4n3tu8YP1AflPrfeuOLcO",
+    "news_item_snippet": "The number of dead tied to the wildfires increases as local officials warn the toll will increase. About 180000 people have had to evacuate.",
+    "news_item_url": "https://www.npr.org/2025/01/10/g-s1-41873/california-fires-los-angeles-eaton-hurst-lidia-pasadena",
+    "picture_source": "WPVI-TV",
     "approx_traffic": "500,000+"
   },
   {
     "country": "United States",
     "title": "Ohio State Football",
     "pubDate": "Thu, 09 Jan 2025 18:00:00 -0800",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQqeFjkg4iqt-9RgtpMYr_gXZKEpltt4TnKGeu7LfSOjzhfzxJ6QPVB45U_A3eFiMvN-2iGMZ0G",
-    "news_item_snippet": "What you need to know as Ohio State and Texas kick off the College Football Playoff schedule for today as the Cotton Bowl semifinal game gets underway.",
-    "news_item_url": "https://www.si.com/fannation/college/cfb-hq/schedules/college-football-games-today-ohio-state-vs-texas-schedule",
-    "picture_source": "USA TODAY",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRoWa15KauKu-D8KQxQ__aXPtiMcYs5bgOtN51CL5Tumd8UG77C0T4vLsUe-dpJYm8fQDgAvpZe",
+    "news_item_snippet": "The second College Football Playoff semifinal matches Ohio State and Texas in the Cotton Bowl. Who will prevail? Our experts make their picks.",
+    "news_item_url": "https://www.usatoday.com/story/sports/ncaaf/2025/01/10/cotton-bowl-ohio-state-texas-picks-predictions/77513428007/",
+    "picture_source": "Austin American-Statesman",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Trump sentencing",
+    "pubDate": "Thu, 09 Jan 2025 22:00:00 -0800",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSJGW2dVL4i8m1obPXyiiK_Y4k_blGieS2p74pMzzFaetKQ7u1Iz4MVmX9gpbE2De4I95bvmh5x",
+    "news_item_snippet": "The US president-elect was convicted for falsifying business records relating to a payment made to adult-film star Stormy Daniels.",
+    "news_item_url": "https://www.bbc.com/news/live/cd9x99p2ek8t",
+    "picture_source": "NPR",
     "approx_traffic": "200,000+"
   },
   {
@@ -34,39 +54,29 @@
     "title": "TikTok ban",
     "pubDate": "Thu, 09 Jan 2025 17:00:00 -0800",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcT9Zi9GUZOjunha4Clalp2nqEdauojQCd0b3FDOiVB7HRu2C2GYw1k0bTVprBXxGXuZ9I8vtDyZ",
-    "news_item_snippet": "The court is hearing oral arguments on TikTok&#39;s bid to block a law that would lead to its ban in the U.S. starting Jan. 19 if it isn&#39;t sold by its Chinese&nbsp;...",
+    "news_item_snippet": "The fate of a law that would likely ban social media platform TikTok in the United States goes before the Supreme Court as the justices consider whether to&nbsp;...",
     "news_item_url": "https://www.nbcnews.com/politics/supreme-court/supreme-court-tiktok-ban-bytedance-china-biden-administration-rcna186971",
     "picture_source": "NPR",
     "approx_traffic": "200,000+"
   },
   {
     "country": "United States",
+    "title": "Anita Bryant",
+    "pubDate": "Thu, 09 Jan 2025 17:00:00 -0800",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSx6kXRdTpjEKlA3_6TW8hwJY-QTbr1ASlgcZhUr4fqBt4EcRRi4Frwu9OcrlQfU2rmuxbSDBOg",
+    "news_item_snippet": "Bryant was perhaps most well-known for her 1977 \u201cSave Our Children\u201d campaign that painted gays and lesbians as a threat to the country&#39;s youth.",
+    "news_item_url": "https://www.nbcnews.com/nbc-out/out-news/anita-bryant-former-beauty-queen-turned-anti-gay-crusader-dies-84-rcna187143",
+    "picture_source": "The New York Times",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United States",
     "title": "Celebrity homes lost in fire",
     "pubDate": "Thu, 09 Jan 2025 06:00:00 -0800",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSmtDjaeBgbDl-X07xFH_EYGTiCGMCUn4pWCKZT6QMUhK72WPf8ewqxYhn6pPt_3oGgJceLBadY",
-    "news_item_snippet": "Jeff Bridges is among the celebrities who have lost homes in the deadly wildfires raging in the Los Angeles area. The US actor, who won an Oscar for Crazy&nbsp;...",
-    "news_item_url": "https://www.bbc.com/news/articles/crmnm2g1z74o",
+    "news_item_snippet": "Celebrities&#39; homes have burned down in the LA fires, including Jeff Bridges, Miles Teller, Paris Hilton, Leighton Meester, Adam Brody and more.",
+    "news_item_url": "https://variety.com/2025/biz/news/celebrity-homes-burn-down-la-fires-jeff-bridges-miles-teller-paris-hilton-1236270254/",
     "picture_source": "USA TODAY",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Anita Bryant",
-    "pubDate": "Thu, 09 Jan 2025 17:00:00 -0800",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQntlMiVoeLVFisoC3Y4s10C0xkWJ17EOL2jH4QZ2tdSiue9f6UL0_dH25S_EXw2VHnNA8C0RSU",
-    "news_item_snippet": "The former beauty queen and spokeswoman for Florida orange juice was an all-American entertainer before she began crusading against L.G.B.T.Q. rights.",
-    "news_item_url": "https://www.nytimes.com/2025/01/09/arts/music/anita-bryant-dead.html",
-    "picture_source": "USA TODAY",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Michelle Obama",
-    "pubDate": "Thu, 09 Jan 2025 09:00:00 -0800",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQdeaVsnb6NRkFtdbSVEUBvyeoRDjg9670PTpQlqAh6aKFjBHNJYFYM43brIG0fODEA4j8tBGOj",
-    "news_item_snippet": "Former first lady Michelle Obama was noticeably absent from former President Jimmy Carter&#39;s funeral at the Washington National Cathedral on Thursday.",
-    "news_item_url": "https://www.politico.com/live-updates/2025/01/09/congress/where-is-michelle-00197298",
-    "picture_source": "FOX 5 DC",
     "approx_traffic": "100,000+"
   },
   {
@@ -81,62 +91,52 @@
   },
   {
     "country": "United States",
+    "title": "Michelle Obama",
+    "pubDate": "Thu, 09 Jan 2025 11:00:00 -0800",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRPHiqeOPCdsBP6CCg7t56E-gu1unf4qLzzw_FVpHcAR26An20KcePuX1wK7F_96KlW-l9V0NLF",
+    "news_item_snippet": "Former President Jimmy Carter is being honored with a state funeral Thursday in Washington, D.C..",
+    "news_item_url": "https://www.fox5dc.com/news/jimmy-carter-funeral-where-is-michelle-obama",
+    "picture_source": "Savannah Morning News",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United States",
     "title": "American Primeval",
     "pubDate": "Thu, 09 Jan 2025 11:00:00 -0800",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcT5hfksHUbA9wuwo6cPrQJ0YkMK8iE4ux1r8zNw5Wi32onX0r0oB6rmjTlxP5HENDsVGjNivJia",
-    "news_item_snippet": "The Western series, starring Taylor Kitsch, is a violent and thrilling portrayal of Utah&#39;s Mountain Meadows Massacre.",
-    "news_item_url": "https://www.esquire.com/entertainment/tv/a63383821/american-primeval-netflix-review/",
+    "news_item_snippet": "The new limited series, directed by Peter Berg, tells the origin story of the American West.",
+    "news_item_url": "https://www.townandcountrymag.com/leisure/arts-and-culture/a63373222/american-primeval-netflix-true-story/",
     "picture_source": "Forbes",
     "approx_traffic": "100,000+"
   },
   {
     "country": "United States",
+    "title": "Wordle hint",
+    "pubDate": "Thu, 09 Jan 2025 20:00:00 -0800",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTKOSG7skiDqqCc-Ae7UtzoxFTtHbfsiZ2PkKhKrtEMoTK7OA_0jIkkLfKen8SrkZ75JYueJfgA",
+    "news_item_snippet": "&quot;Wordle&quot; has remained a globally popular game with millions of users, and Newsweek is here with handy tips to solve it.",
+    "news_item_url": "https://www.newsweek.com/wordle-hint-answer-friday-10-january-2012260",
+    "picture_source": "Forbes",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Houston Rodeo lineup 2025",
+    "pubDate": "Thu, 09 Jan 2025 18:00:00 -0800",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQ0DhQi3YQ8VJAH-Io3Bo1zQ8O1OQULpbipvEH-GfBsXaEJXvn42d6upaX9uDA7ewSpeazDxlgs",
+    "news_item_snippet": "It&#39;s a new year, which means the Houston Livestock Show and Rodeo, is on the horizon for another amazing two and half weeks in Houston.",
+    "news_item_url": "https://www.fox26houston.com/news/houston-livestock-show-rodeo-releases-2025-entertainment-lineup",
+    "picture_source": "Houston Public Media",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
     "title": "Den of Thieves 2",
     "pubDate": "Thu, 09 Jan 2025 19:00:00 -0800",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRmecMP6oZ1iBUvnSTxV4r39OlgYuvw70Q80bUPhyzbJjzsoyUQt0OPCa35Ot4QKO9uzpw1k8Q2",
-    "news_item_snippet": "Following up his well-liked 2018 crime film, director Christian Gudegast swaps &#39;Heat&#39; for &#39;Ronin,&#39; bringing on interchangeable Euro-criminals and car&nbsp;...",
-    "news_item_url": "https://www.latimes.com/entertainment-arts/movies/story/2025-01-09/den-of-thieves-2-pantera-review-gerard-butler-oshea-jackson-jr",
-    "picture_source": "Porsche Newsroom",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Venezuela",
-    "pubDate": "Thu, 09 Jan 2025 14:00:00 -0800",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQum2ozKGENiG08AZ65vHQLfrCU6qg7coznbaXFUbVY3Qe92k0saglzBMhg8QBpZ1uRwcG7Y_5K",
-    "news_item_snippet": "As Nicol\u00e1s Maduro assumes another six-year mandate as Venezuela&#39;s president, he will solidify Venezuela&#39;s position as a regional crime hub.",
-    "news_item_url": "https://insightcrime.org/news/maduro-inauguration-consolidate-criminal-regime-venezuela/",
-    "picture_source": "Reuters",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Trump sentencing",
-    "pubDate": "Thu, 09 Jan 2025 22:00:00 -0800",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSJGW2dVL4i8m1obPXyiiK_Y4k_blGieS2p74pMzzFaetKQ7u1Iz4MVmX9gpbE2De4I95bvmh5x",
-    "news_item_snippet": "The US president-elect was convicted for falsifying business records relating to a payment made to adult-film star Stormy Daniels.",
-    "news_item_url": "https://www.bbc.com/news/live/cd9x99p2ek8t",
-    "picture_source": "NPR",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Abdul Carter",
-    "pubDate": "Thu, 09 Jan 2025 18:00:00 -0800",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRsLc56WSf9NCo1DSt0AIBak_UjlqLayCRITQEOyJYTvn98qjMsx8yBeSJeYf1QWmA6oc9BvS3M",
-    "news_item_snippet": "Both the Notre Dame Fighting Irish and Penn State Nittany Lions entered Thursday&#39;s Orange Bowl matchup \u2014 which is doubling as a College Football Playoff&nbsp;...",
-    "news_item_url": "https://www.miamiherald.com/sports/college/orange-bowl/article298150983.html",
-    "picture_source": "ESPN",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Obama",
-    "pubDate": "Thu, 09 Jan 2025 17:00:00 -0800",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTSa_MHgFsqFImk0u_mHpxMoHW-MRMwyUASU05IUQE7S1AZdqaVHKZCwmw7ohVBtuqs_t67mHmB",
-    "news_item_snippet": "President-elect Donald Trump said that he and former President Barack Obama &quot;probably do&quot; like each other following Jimmy Carter&#39;s funeral.",
-    "news_item_url": "https://www.nbcnews.com/politics/donald-trump/trump-obama-relationship-jimmy-carter-funeral-rcna187096",
-    "picture_source": "Politico",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSHMa3kZHH1REs9tEMjL7Q3dYdlYYpAMJUJE8rwNQcj3U5YGFatkei1KBiVQresqYOLNKCVcsaJ",
+    "news_item_snippet": "Big Nick O&#39;Brien and O&#39;Shea Jackson Jr. as Donnie Wilson appear cool, hard-nosed, and tough in this by-the-numbers heist movie. Butler and Jackson won&#39;t ever be&nbsp;...",
+    "news_item_url": "https://fayettevilleflyer.com/2025/01/10/review-den-of-thieves-2-just-your-average-heist-movie/",
+    "picture_source": "Variety",
     "approx_traffic": "50,000+"
   },
   {
@@ -154,8 +154,8 @@
     "title": "Game Changer rating",
     "pubDate": "Fri, 10 Jan 2025 09:30:00 +0530",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTcCaldWLOssPta_CgASyHu6N2c8itSWwnVnclwdDf6LmhcrB_J5Y1kYyKm2hi3XAYQGs89roFz",
-    "news_item_snippet": "Game Changer Movie Review: Ram Charan and Shankar&#39;s much-awaited film, Game Changer, released globally today. Early reactions from fans are positive.",
-    "news_item_url": "https://m.economictimes.com/magazines/panache/game-changer-x-reviews-internet-hails-ram-charans-performance-in-shankars-comeback-film/articleshow/117104423.cms",
+    "news_item_snippet": "Game Changer Twitter review: Fans have praised Shankar for his &#39;comeback&#39; film and hailed Ram Charan&#39;s screen presence, with some criticism for the story.",
+    "news_item_url": "https://www.hindustantimes.com/entertainment/telugu-cinema/game-changer-twitter-review-fans-hail-ram-charans-massy-presence-call-film-shankars-glorious-comeback-kiara-advani-101736478903199.html",
     "picture_source": "The Indian Express",
     "approx_traffic": "50,000+"
   },
@@ -164,8 +164,8 @@
     "title": "Game Changer",
     "pubDate": "Thu, 09 Jan 2025 20:30:00 +0530",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQb6pRtaahyy1P0pxf-yFRd-PMZ7V4HLPb-B96Lx0bnTgdtfuYn3HwjwCadEldfGnUIMNRJX67I",
-    "news_item_snippet": "&#39;Game Changer&#39; movie review: Shankar&#39;s Game Changer blends fast-paced storytelling with political drama, but falls short of his iconic past works.",
-    "news_item_url": "https://www.thehindu.com/entertainment/movies/game-changer-movie-review-the-fun-is-tailormade-for-instant-gratification/article69083917.ece",
+    "news_item_snippet": "Game Changer review: Shankar&#39;s Telugu debut starring Ram Charan-Kiara Advani is a &#39;comeback&#39; of sorts even if it lacks the magic.",
+    "news_item_url": "https://www.hindustantimes.com/entertainment/telugu-cinema/game-changer-review-ram-charan-shankar-film-is-an-expensive-masterclass-on-electoral-politics-101736482306005.html",
     "picture_source": "FilmiBeat Telugu",
     "approx_traffic": "500,000+"
   },
@@ -211,31 +211,41 @@
   },
   {
     "country": "India",
-    "title": "Vaikunta Ekadasi 2025",
-    "pubDate": "Thu, 09 Jan 2025 08:30:00 +0530",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRD0M0NHavdV0NirYDVCPtiC3899xw6QfMzeujfsJdRD0A8e0pJyn3HD4-qgq1nUCiuzUEBgcKd",
-    "news_item_snippet": "Rituals &amp; Puja News: Vaikuntha Ekadashi, one of the most significant religious observances, honors Lord Vishnu. Devotees fast and pray, believing it opens&nbsp;...",
-    "news_item_url": "https://timesofindia.indiatimes.com/religion/rituals-puja/vaikuntha-ekadashi-2025-date-parana-time-puja-rituals-and-significance/articleshow/117062119.cms",
-    "picture_source": "Moneycontrol.com",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Argentina",
-    "title": "Real Madrid,  RCD Mallorca",
-    "pubDate": "Thu, 09 Jan 2025 13:00:00 -0300",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSj8zNnc4e2pw-lj42QPhLy-euPutL3Hv-j_RMvKZ_tRlumVYv4uZsNMQBnp-vxxm3L14p9FkvX",
-    "news_item_snippet": "El Madrid consigue el pase a la final con los tantos de Bellingham, Rodrygo y Valjent en propia puerta. Hubo tangana final.",
-    "news_item_url": "https://as.com/futbol/videos/resumen-y-goles-del-real-madrid-3-mallorca-0-de-las-semifinales-de-la-supercopa-de-espana-v/",
-    "picture_source": "canchallena.com",
+    "title": "Fateh",
+    "pubDate": "Thu, 09 Jan 2025 18:30:00 +0530",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRtUACdVUgF4s76rsoJpDWw6o3YQLHJHk-khThB6Em1RGU4UXCjcVY72oLr6ObnXr5crh1HXmK0",
+    "news_item_snippet": "Fateh Movie Review: \u0925\u094b\u0921\u093c\u0947 \u0926\u093f\u0928 \u0914\u0930 \u0930\u0941\u0915 \u091c\u093e\u0924\u093e \u091c\u0940 \u0938\u094d\u091f\u0942\u0921\u093f\u092f\u094b\u091c \u0924\u094b \u0938\u094b\u0928\u0942 \u0938\u0942\u0926 \u0915\u0940 \u092c\u0924\u094c\u0930 \u0928\u093f\u0930\u094d\u0926\u0947\u0936\u0915 \u092a\u0939\u0932\u0940 \u092b\u093f\u0932\u094d\u092e &#39;\u092b\u0924\u0947\u0939&#39; \u0915\u093e \u092a\u0939\u0932\u093e \u091f\u0940\u091c\u0930 \u0906\u090f \u092a\u0942\u0930\u093e \u090f\u0915 \u0938\u093e\u0932 \u0939\u094b&nbsp;...",
+    "news_item_url": "https://www.amarujala.com/entertainment/movie-review/fateh-movie-review-in-hindi-by-pankaj-shukla-zee-studios-sonu-sood-jacqueline-fernandez-naseeruddin-shah-vijay-2025-01-10",
+    "picture_source": "The Hindu",
     "approx_traffic": "50,000+"
   },
   {
     "country": "Argentina",
     "title": "Colapinto",
     "pubDate": "Thu, 09 Jan 2025 12:00:00 -0300",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcS3l8Z1Pq05IigK1jWrFvD2wv4RYKGjkFxrFjVf-RI19xMTohzLLhPUtDRSLXuSMDnEbXwgsAbc",
-    "news_item_snippet": "El italiano, asesor ejecutivo de Alpine, potenci\u00f3 el desembarco del argentino en el equipo franc\u00e9s. Un hombre con \u00e9xitos y trampas.",
-    "news_item_url": "https://www.espn.com.ar/deporte-motor/f1/nota/_/id/14643660/f1-quien-es-flavio-briatore-el-propulsor-de-la-llegada-de-colapinto-a-alpine",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQg8o0FOL9cX8H6uuGgnX1QLwc3EiJ_9OB4ysPrLRxt1YI8LnmwMDkEm-F8nVsPnC6FAlvpYQa8",
+    "news_item_snippet": "En menos de un d\u00eda del anuncio del desembarco del piloto albiceleste, la red social de la escuder\u00eda francesa sum\u00f3 m\u00e1s de 400 mil seguidores nuevos.",
+    "news_item_url": "https://www.infobae.com/deportes/2025/01/10/el-efecto-colapinto-en-las-redes-sociales-de-alpine-tras-el-anuncio/",
+    "picture_source": "LA NACION",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Argentina",
+    "title": "Real Madrid  RCD Mallorca",
+    "pubDate": "Thu, 09 Jan 2025 13:00:00 -0300",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSj8zNnc4e2pw-lj42QPhLy-euPutL3Hv-j_RMvKZ_tRlumVYv4uZsNMQBnp-vxxm3L14p9FkvX",
+    "news_item_snippet": "El Real Madrid parte como favorito en la Supercopa de Espa\u00f1a, pero antes deber\u00e1 ganar hoy al Real Mallorca y luego medirse al FC Barcelona que se impuso&nbsp;...",
+    "news_item_url": "https://www.elmundo.es/como/2025/01/08/677e48aee4d4d846058b4585.html",
+    "picture_source": "canchallena.com",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Argentina",
+    "title": "Mauro Icardi",
+    "pubDate": "Thu, 09 Jan 2025 08:00:00 -0300",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcT777G2fdU3yXDpms9IK62boaTFCt3fuED0aNSGaIqvvIduEYVEIKWLrrUZ3Brc7IdzJH8IX8E1",
+    "news_item_snippet": "Horas despu\u00e9s de confirmar su romance, el futbolista y la actriz celebraron con familiares y amigos en un exclusivo restaurante. Los detalles de la velada.",
+    "news_item_url": "https://www.infobae.com/teleshow/2025/01/10/la-china-suarez-y-mauro-icardi-salieron-a-festejar-su-amor-cena-con-amigos-y-brindis-con-champagne/",
     "picture_source": "LA NACION",
     "approx_traffic": "50,000+"
   },
@@ -243,10 +253,10 @@
     "country": "Argentina",
     "title": "Venezuela",
     "pubDate": "Thu, 09 Jan 2025 12:00:00 -0300",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQON_alBk15EYB8Jj9trA-dPo_UGfYdPja2G1NbybQvw4OrSjupuH9Eji5aZHiAqDOwRNbQLWOH",
-    "news_item_snippet": "En Caracas hubo marchas pro y contra el gobierno. Mar\u00eda Corina Machado reapareci\u00f3 y qued\u00f3 envuelta en pol\u00e9mica: la oposici\u00f3n dice que fue secuestrada du...",
-    "news_item_url": "https://www.pagina12.com.ar/795760-marchas-denuncias-y-mucha-tension-que-esta-pasando-en-venezu",
-    "picture_source": "BBC Mundo",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTuTvXAjXwtzR98Sfrvv--B5UlEbXI_s0ugdyxjgQzLVWyfo6Rj8x7RWC0z1Dh9u6InWbFiDB6G",
+    "news_item_snippet": "En medio de una nueva ola de detenciones y de un gran despliegue militar y policial, Nicol\u00e1s Maduro inici\u00f3 este 10 de enero su tercer sexenio al frente del&nbsp;...",
+    "news_item_url": "https://www.bbc.com/mundo/articles/cj909gpevkwo",
+    "picture_source": "P\u00e1gina 12",
     "approx_traffic": "50,000+"
   },
   {
@@ -290,14 +300,34 @@
     "approx_traffic": "50,000+"
   },
   {
+    "country": "Brazil",
+    "title": "Venezuela",
+    "pubDate": "Thu, 09 Jan 2025 16:00:00 -0500",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTxsYaHYrED07Znrke3PaIE964ZMBfBvuj9sQvd2UqpbUO0Tujgrk8csCt0Pd9bxulnuXHj2CCu",
+    "news_item_snippet": "O an\u00fancio desta sexta-feira acontece horas antes da posse de Nicol\u00e1s Maduro, que assumir\u00e1 um terceiro mandato como presidente. O l\u00edder chavista deve participar&nbsp;...",
+    "news_item_url": "https://www.cnnbrasil.com.br/internacional/venezuela-fecha-parte-da-fronteira-com-a-colombia-antes-da-posse-de-maduro/",
+    "picture_source": "Brasil de Fato",
+    "approx_traffic": "50,000+"
+  },
+  {
     "country": "Canada",
     "title": "Jimmy Carter",
     "pubDate": "Thu, 09 Jan 2025 12:00:00 -0500",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSZA0IdOwcd-3Ibh9lz7KeFOTRFBuKvrAqvWe3t3CpVbwIsu4jawQmbD4Hxu97ZGKcp8Fl-ynF9",
-    "news_item_snippet": "President Joe Biden, who was the first sitting senator to endorse Carter&#39;s 1976 campaign, will eulogize his fellow Democrat 11 days before he leaves office.",
-    "news_item_url": "https://globalnews.ca/news/10950064/jimmy-carter-funeral-washington/",
-    "picture_source": "NPR",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRnA_2_OH9UpPUUA3v6C-oXiNOCOKXt3nWEATB8jyvwVL5wCjtcBmTVFbGgUyrHHyZI-1KEHuXn",
+    "news_item_snippet": "You&#39;re reading the Code Switch newsletter, written by Jasmine Romero, our outgoing interim executive producer. Subscribe here to get the newsletter&nbsp;...",
+    "news_item_url": "https://www.npr.org/2025/01/10/g-s1-41918/jimmy-carter-is-no-saint-in-my-house",
+    "picture_source": "National Catholic Reporter",
     "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Saudi Arabia",
+    "title": "\u0627\u0644\u0646\u0635\u0631 \u0636\u062f \u0627\u0644\u0623\u062e\u062f\u0648\u062f",
+    "pubDate": "Thu, 09 Jan 2025 15:00:00 +0300",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQARD0SRbhbp96gByqTYb_caljaCmswZqjaVDtd3i2pGeEh2Ygpj6hLRc5UE5WxHB9oTaQEMpXU",
+    "news_item_snippet": "\u0633\u062c\u0644 \u0627\u0644\u0628\u0631\u062a\u063a\u0627\u0644\u064a \u0643\u0631\u064a\u0633\u062a\u064a\u0627\u0646\u0648 \u0631\u0648\u0646\u0627\u0644\u062f\u0648 \u0647\u062f\u0641\u0647 \u0631\u0642\u0645 60 \u0641\u064a \u0627\u0644\u062f\u0648\u0631\u064a \u0627\u0644\u0633\u0639\u0648\u062f\u064a \u0644\u0644\u0645\u062d\u062a\u0631\u0641\u064a\u0646 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062f\u0645\u060c \u0648\u0623\u062d\u0631\u0632 \u0627\u0644\u0633\u0646\u063a\u0627\u0644\u064a \u0633\u0627\u062f\u064a\u0648 \u0645\u0627\u0646\u064a \u0647\u062f\u0641\u064a\u0646 \u0644\u064a\u0642\u0648\u062f\u0627 \u0627\u0644\u0646\u0635\u0631 \u0644\u0644\u0641\u0648\u0632 3-1 \u0639\u0644\u0649 \u0627\u0644\u0623\u062e\u062f\u0648\u062f&nbsp;...",
+    "news_item_url": "https://www.aljazeera.net/sport/liveblog/2025/1/9/alnasser-vs-al-okhdood",
+    "picture_source": "\u0635\u062d\u064a\u0641\u0629 \u0627\u0644\u0631\u064a\u0627\u0636\u064a\u0629",
+    "approx_traffic": "100,000+"
   },
   {
     "country": "Saudi Arabia",
@@ -343,10 +373,10 @@
     "country": "Germany",
     "title": "Feuer Los Angeles",
     "pubDate": "Wed, 08 Jan 2025 19:00:00 +0100",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcT4PX0PgyFZhxv2lSODFu-b1ZBL0945gQfvblt2B_WZuPJtlr8S51BsCnr5iV-2TvDsiYMcL6Ev",
-    "news_item_snippet": "Die genaue Zahl der Toten bei den Br\u00e4nden im Gro\u00dfraum Los Angeles im US-Bundesstaat Kalifornien ist weiterhin nicht ganz klar. Die Beh\u00f6rden meldeten laut US-&nbsp;...",
-    "news_item_url": "https://www.tagesschau.de/ausland/amerika/los-angeles-usa-waldbrand-evakuierung-112.html",
-    "picture_source": "DER SPIEGEL",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTPF74z1iTNm37cIxVYY9vmDmEmHke2V7vMe52W9SVjtE6wgLT6DQ3r1aCN9fgHT9PMyVLTZrys",
+    "news_item_snippet": "Ihr Jahrespraktikum hatte sich Susanne Bierler aus Stuttgart eigentlich anders vorgestellt. Nun ist alles gepr\u00e4gt von den Waldbr\u00e4nden in L.A..",
+    "news_item_url": "https://www.swr.de/swraktuell/baden-wuerttemberg/stuttgart/waldbraende-los-angeles-feuer-betroffene-aus-stuttgart-berichtet-katastrophe-braende-kalifornien-100.html",
+    "picture_source": "National Geographic Deutschland",
     "approx_traffic": "50,000+"
   },
   {
@@ -384,8 +414,8 @@
     "title": "Los Angeles incendio causa",
     "pubDate": "Thu, 09 Jan 2025 10:00:00 +0100",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcT6M_LZABPfZbfKrhMiWNiGEabMTsKHsFc38VEWtgE4PVoD7D9ArDeEnsV3Vo6XdD5nH6u9rrv6",
-    "news_item_snippet": "La\u00abstagione degli incendi\u00bb, ormai pressoch\u00e9 infinita, l&#39;assenza di acqua a Los Angeles (dove gli idranti sono a secco), la struttura stessa delle case&nbsp;...",
-    "news_item_url": "https://www.corriere.it/esteri/25_gennaio_09/difficile-fermare-incendi-los-angeles-009773da-c3f4-4a80-bda1-451ed325bxlk.shtml",
+    "news_item_snippet": "Nella notte si \u00e8 sviluppato un quinto incendio. Gi\u00e0 bruciati 117 chilometri quadrati, oltre 180 mila le persone evacuate, danni per 150 miliardi di dollari.",
+    "news_item_url": "https://www.corriere.it/esteri/25_gennaio_10/causa-incendi-los-angeles-rete-elettrica-00e76d8e-6abc-44d3-8b44-2adbf5a02xlk.shtml",
     "picture_source": "Rai News",
     "approx_traffic": "50,000+"
   },
@@ -420,6 +450,16 @@
     "approx_traffic": "100,000+"
   },
   {
+    "country": "Mexico",
+    "title": "Real Madrid",
+    "pubDate": "Thu, 09 Jan 2025 12:00:00 -0600",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQgyZImzsacivCMGPPMysvDrpFAXZ9A_4xl_1Ah0QthST7ReEh2EuYzRItTE5P6uCmy9yQsp6ok",
+    "news_item_snippet": "Con goles de Bellingham, un autogol de Valjent y Rodrygo, el Real Madrid venci\u00f3 3-0 al Mallorca y avanz\u00f3 a la final, donde se enfrentar\u00e1 al Barcelona.",
+    "news_item_url": "https://www.elfinanciero.com.mx/deportes/2025/01/09/real-madrid-avanza-a-la-final-de-la-supercopa-2025-que-paso-en-la-semifinal-vs-mallorca/",
+    "picture_source": "MARCA.com",
+    "approx_traffic": "50,000+"
+  },
+  {
     "country": "Spain",
     "title": "Real Madrid  RCD Mallorca",
     "pubDate": "Thu, 09 Jan 2025 03:00:00 +0100",
@@ -434,10 +474,20 @@
     "title": "Venezuela",
     "pubDate": "Thu, 09 Jan 2025 14:00:00 +0100",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSD5TLbdAYcwklJWIatsRyhKN3OHk11sdF9xLaSqpdKK4qvGbXWAOqjhYGMv6I_2-KQ-pUI1x_r",
-    "news_item_snippet": "Y a su vez, Edmundo Gonz\u00e1lez Urrutia, considerado como presidente electo por la oposici\u00f3n y gobiernos internacionales, afirma que regresar\u00e1 a Venezuela a&nbsp;...",
+    "news_item_snippet": "En medio de una nueva ola de detenciones y de un gran despliegue militar y policial, Nicol\u00e1s Maduro inici\u00f3 este 10 de enero su tercer sexenio al frente del&nbsp;...",
     "news_item_url": "https://www.bbc.com/mundo/articles/cj909gpevkwo",
     "picture_source": "El Mundo",
     "approx_traffic": "100,000+"
+  },
+  {
+    "country": "Spain",
+    "title": "Mar\u00eda Corina Machado Venezuela",
+    "pubDate": "Thu, 09 Jan 2025 22:00:00 +0100",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQmhZfHbJjFLuvGIdAuR0tfhDH-53Gx8gfjBZf3E3sfSjNIjmX-9yKYgALHm1W7PGc-Qgww2XC-",
+    "news_item_snippet": "Maria Corina Machado ha reaparecido p\u00fablicamente este jueves despu\u00e9s de varios meses en la clandestinidad para liderar las protestas contra la investidura&nbsp;...",
+    "news_item_url": "https://www.newtral.es/detencion-posterior-liberacion-maria-corina-machado-venezuela/20250110/",
+    "picture_source": "Europa Press",
+    "approx_traffic": "50,000+"
   },
   {
     "country": "United Kingdom",
@@ -447,7 +497,7 @@
     "news_item_snippet": "David Moyes was Everton manager between 2002 and 2013; the club sacked Sean Dyche on Thursday with Toffees a point above Premier League relegation zone;&nbsp;...",
     "news_item_url": "https://www.skysports.com/football/news/11095/13286539/david-moyes-everton-set-to-reappoint-manager-on-two-year-deal-after-sean-dyches-sacking",
     "picture_source": "BBC News",
-    "approx_traffic": "200,000+"
+    "approx_traffic": "100,000+"
   },
   {
     "country": "United Kingdom",
@@ -461,16 +511,6 @@
   },
   {
     "country": "United Kingdom",
-    "title": "Everton vs Peterborough",
-    "pubDate": "Thu, 09 Jan 2025 20:00:00 +0000",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQCQVx03L4Cfp0yUDJSqi5YoLKnyfYtgOzDjiL4H40LM62_b8N44TwJB-ouqP3BY0IF91lCdvD0",
-    "news_item_snippet": "Beto struck in the 42nd minute at Goodison Park when he latched onto a through ball from Harrison Armstrong while Ndiaye sealed victory with a goal from the&nbsp;...",
-    "news_item_url": "https://sportstar.thehindu.com/football/fa-cup-round-3-results-everton-beats-peterborough-united-2-0-fulham-wins-vs-watford/article69083443.ece",
-    "picture_source": "The Independent",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United Kingdom",
     "title": "Tyler Young",
     "pubDate": "Thu, 09 Jan 2025 13:00:00 +0000",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQseyzSpKOlrYFbldrRMAyKaZ1VJ4HJ0s2WB2FGnmKzIgpS-nNb7Bq4rJGEz_jrkpNpn0i1gMW9",
@@ -481,11 +521,31 @@
   },
   {
     "country": "United Kingdom",
+    "title": "Everton vs Peterborough",
+    "pubDate": "Thu, 09 Jan 2025 20:00:00 +0000",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQCQVx03L4Cfp0yUDJSqi5YoLKnyfYtgOzDjiL4H40LM62_b8N44TwJB-ouqP3BY0IF91lCdvD0",
+    "news_item_snippet": "Beto struck in the 42nd minute at Goodison Park when he latched onto a through ball from Harrison Armstrong while Ndiaye sealed victory with a goal from the&nbsp;...",
+    "news_item_url": "https://sportstar.thehindu.com/football/fa-cup-round-3-results-everton-beats-peterborough-united-2-0-fulham-wins-vs-watford/article69083443.ece",
+    "picture_source": "The Independent",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United Kingdom",
+    "title": "Real Madrid vs Mallorca",
+    "pubDate": "Thu, 09 Jan 2025 19:00:00 +0000",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcT1G8lKW3x3IuNb2DS7Gt3puFPZWOkg54pDeAlJAcAmlLNh0xLxlAVIbtg8lYGZVTOrm2Gbdhm8",
+    "news_item_snippet": "Vinicius Junior&#39;s suspension applies only to La Liga, meaning he takes the field in Real Madrid&#39;s Supercopa de Espana match with Mallorca.",
+    "news_item_url": "https://www.sportingnews.com/uk/football/news/real-madrid-vs-mallorca-lineups-starting-11-team-news-supercopa/d0f89189c9fd6b0fabc5711d",
+    "picture_source": "Aljazeera.com",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United Kingdom",
     "title": "Richard Hammond",
     "pubDate": "Thu, 09 Jan 2025 17:00:00 +0000",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcR-2n33ULk2xb8QF8sA02ZSiY8oj6VQSI7-AnoF8Gvf6rUY_twP9ZVhtleSuRE_c_4SHe0DTeq7",
-    "news_item_snippet": "Top Gear star Richard Hammond and his wife Amanda &#39;Mindy&#39; Hammond have announced they are divorcing after 28 years together, and a source has now claimed&nbsp;...",
-    "news_item_url": "https://www.gloucestershirelive.co.uk/news/celebs-tv/richard-hammonds-wife-mindy-demanded-9851109",
+    "news_item_snippet": "Richard Hammond and his wife, Mindy, are separating. The former Top gear presenter announced the news in a statement this week \u2013 see more about their&nbsp;...",
+    "news_item_url": "https://www.hellomagazine.com/homes/740279/richard-hammond-and-wife-mindys-sprawling-7m-castle-at-centre-of-divorce/",
     "picture_source": "Sky News",
     "approx_traffic": "50,000+"
   }
