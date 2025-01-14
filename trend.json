@@ -1,6 +1,26 @@
 [
   {
     "country": "United States",
+    "title": "Epic",
+    "pubDate": "Mon, 13 Jan 2025 08:00:00 -0800",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcR7Zg7OnfeuSToJzz7azoBDV5ThET5BvlpEEpi7q2a245UMKbxspggGirlKJNjnlbT9svXm8hM3",
+    "news_item_snippet": "The company says in a 46-page detailed argument that Epic sought to deliberately eliminate its ability to gain payer market share and &quot;brazenly doubles and&nbsp;...",
+    "news_item_url": "https://www.healthcareitnews.com/news/particle-health-responds-epics-motion-dismiss",
+    "picture_source": "ClarkNow",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "United States",
+    "title": "RedNote",
+    "pubDate": "Mon, 13 Jan 2025 09:00:00 -0800",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTsuPAHio3kHXvHhhTLPrU2nBMCrZksWDDUZz8CODzQIdjnZOrnPA2PN-_wuSEAc65GnEh278k3",
+    "news_item_snippet": "As a TikTok ban looms, Americans are starting to download RedNote. Here&#39;s what you need to know about the app.",
+    "news_item_url": "https://www.usatoday.com/story/news/nation/2025/01/13/what-is-rednote-tiktok-ban/77676421007/",
+    "picture_source": "Forbes",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United States",
     "title": "Mike McCarthy",
     "pubDate": "Mon, 13 Jan 2025 10:00:00 -0800",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRj3CLoqvC3y6SdkW8kh_ipEZNdwmGEY1Txe0lW4abcZx57ek9L2i-LUJw9jQhCMOPsOGUH_66o",
@@ -13,10 +33,10 @@
     "country": "United States",
     "title": "Neil Gaiman",
     "pubDate": "Mon, 13 Jan 2025 10:00:00 -0800",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRdOOzMBVighLf3qIUEcUSjKzEYzc4_sH5ZusZouPkwUAObfUjU9baBKeJqohBKm-RAAnYoXKzR",
-    "news_item_snippet": "Neil Gaiman is the subject of a New York Magazine cover story in which eight women accuse him of misconduct.",
-    "news_item_url": "https://www.hollywoodreporter.com/tv/tv-news/neil-gaiman-faces-sexual-assault-allegations-1236108095/",
-    "picture_source": "USA TODAY",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRFukfuVwMvEc8f_Nt8prsNu-ykFQq33h0XfhWSzcyJAt-ECI2_vMtNhpSKsQ_oselIxHRbCCq0",
+    "news_item_snippet": "New allegations of assault against &quot;The Sandman&quot; and &quot;Coraline&quot; writer Neil Gaiman have been waged, following allegations last year.",
+    "news_item_url": "https://www.usatoday.com/story/entertainment/celebrities/2025/01/13/neil-gaiman-vulture-article-sexual-assault-allegations/77672679007/",
+    "picture_source": "Hollywood Reporter",
     "approx_traffic": "100,000+"
   },
   {
@@ -41,19 +61,9 @@
   },
   {
     "country": "United States",
-    "title": "RedNote",
-    "pubDate": "Mon, 13 Jan 2025 09:00:00 -0800",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcT0MxxdWKoC9ZVhPyX3edj-Htz6J_GNF74p5tBMjfICtqI1IGLpPzrRVrXDw4FP2xeCjHRKz3sd",
-    "news_item_snippet": "In response to the TikTok ban, many users are flocking to Rednote, the popular Chinese app also known as Xiaohongshu\u2014what&#39;s driving the trend?",
-    "news_item_url": "https://www.forbes.com/sites/danidiplacido/2025/01/13/why-tiktok-users-are-turning-to-rednote-amid-the-ban-protest/",
-    "picture_source": "USA TODAY",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
     "title": "Carrie Underwood",
     "pubDate": "Mon, 13 Jan 2025 13:00:00 -0800",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRaHd0h7jDrMGw02lRxEK5TK6peBmH619_nMNYi8Eo3821Mi7LJhFko31D2cj9489RHLAQKhJhj",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSuqfMBq7AGVITnxkBZ7qBPBqg47Yl93sBzpKwbabSwDi5gXmaqRrg4Lfbk4HW88_OCYJzlhUsq",
     "news_item_snippet": "The country music star is set to perform &quot;America the Beautiful&quot; before Trump takes the oath of office.",
     "news_item_url": "https://www.cbsnews.com/news/carrie-underwood-trump-inauguration/",
     "picture_source": "NBC4 Washington",
@@ -74,8 +84,8 @@
     "title": "Tampa Bay",
     "pubDate": "Mon, 13 Jan 2025 02:00:00 -0800",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSpQBKhxtWl8xLdHuzYP6AXcP5VbFxcZg4WCpTHeJnGXRLHWrhVxwkmT4QV6V0QtObT9xCvLsfn",
-    "news_item_snippet": "Today, U.S. Rep. Kathy Castor (FL-14) sent a letter to Postmaster General Louis DeJoy urging the U.S. Postal Service (USPS) to prioritize the repair and&nbsp;...",
-    "news_item_url": "https://castor.house.gov/news/documentsingle.aspx?DocumentID=404770",
+    "news_item_snippet": "Three Tampa Bay brothers who recently won an FAA student airport design competition made a special visit to Tampa International Airport last week to meet&nbsp;...",
+    "news_item_url": "https://news.tampaairport.com/tampa-bay-brothers-visit-tpa-after-winning-faa-contest/",
     "picture_source": "Tampa International Airport",
     "approx_traffic": "50,000+"
   },
@@ -83,10 +93,10 @@
     "country": "United States",
     "title": "New Glenn launch",
     "pubDate": "Mon, 13 Jan 2025 03:00:00 -0800",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQjqetD-zDSWOznbBmSYRnKMG0CGto1mhS-TyLhAlEaeahOs-omtBkxIJhMRquL6YFl9r6RmIoz",
-    "news_item_snippet": "CAPE CANAVERAL, Florida, Jan 13 (Reuters) - Jeff Bezos&#39; Blue Origin called off the launch of its New Glenn rocket after &quot;a few anomalies&quot; during the mission&nbsp;...",
-    "news_item_url": "https://www.reuters.com/technology/space/bezos-blue-origin-prepares-debut-new-glenn-rocket-launch-2025-01-13/",
-    "picture_source": "SpaceNews",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSZgAsS72AcZVl9Cx3hhpWZR1Do6R2SiVXLgRjuE93bMmKr5sHUCEPWwyEcKmJrZeiuyuk5KJGW",
+    "news_item_snippet": "Blue Origin called off the debut launch of its powerful New Glenn rocket this morning (Jan. 13) due to a technical issue.",
+    "news_item_url": "https://www.space.com/space-exploration/launches-spacecraft/blue-origin-scrubs-1st-new-glenn-rocket-launch-due-to-technical-issue",
+    "picture_source": "GeekWire",
     "approx_traffic": "50,000+"
   },
   {
@@ -101,6 +111,16 @@
   },
   {
     "country": "United States",
+    "title": "Real Madrid",
+    "pubDate": "Sun, 12 Jan 2025 10:00:00 -0800",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQ3gqsgvw4F8HRfL0LbRhFvWjNftam21UNaqWXtNriNdS7me18d9qjDwc1uhE89eV6JmX1PeFHl",
+    "news_item_snippet": "Expert recap and game analysis of the Barcelona vs. Real Madrid Spanish Supercopa game from January 12, 2025 on ESPN.",
+    "news_item_url": "https://www.espn.com/soccer/report/_/gameId/712534",
+    "picture_source": "The Associated Press",
+    "approx_traffic": "1,000,000+"
+  },
+  {
+    "country": "United States",
     "title": "Baltimore Ravens",
     "pubDate": "Sun, 12 Jan 2025 11:00:00 -0800",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSobSq_5fwNVunsK9ip5ybbsQUlv6IBmFJTYOzSOeZeOvewmJ_RKXErYjf6QS5VTC15eOrkawHa",
@@ -111,13 +131,13 @@
   },
   {
     "country": "United States",
-    "title": "Real Madrid",
-    "pubDate": "Sun, 12 Jan 2025 10:00:00 -0800",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQ3gqsgvw4F8HRfL0LbRhFvWjNftam21UNaqWXtNriNdS7me18d9qjDwc1uhE89eV6JmX1PeFHl",
-    "news_item_snippet": "Expert recap and game analysis of the Barcelona vs. Real Madrid Spanish Supercopa game from January 12, 2025 on ESPN.",
-    "news_item_url": "https://www.espn.com/soccer/report/_/gameId/712534",
-    "picture_source": "The Associated Press",
-    "approx_traffic": "500,000+"
+    "title": "Baker Mayfield",
+    "pubDate": "Sun, 12 Jan 2025 20:00:00 -0800",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRJ0btN9gmCr2lnOaKznM7E9NppvSZzBlMi4Csnqofs2nwpz0dumvtpjmcstl9M-oouIHs_yjw0",
+    "news_item_snippet": "Baker Mayfield gave an honest assessment of his performance against the Commanders, focusing on some critical mistakes that cost Tampa Bay the game.",
+    "news_item_url": "https://www.usatoday.com/story/sports/nfl/2025/01/13/baker-mayfield-buccaneers-commanders-mistakes-loss/77666416007/",
+    "picture_source": "NFL.com",
+    "approx_traffic": "200,000+"
   },
   {
     "country": "United States",
@@ -140,33 +160,13 @@
     "approx_traffic": "100,000+"
   },
   {
-    "country": "United States",
-    "title": "Bo Nix",
-    "pubDate": "Sun, 12 Jan 2025 10:00:00 -0800",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQIcier0G3z3lHi24mz0G6beNj0RIzP-7SYACv-elLdZr_7B1snEvZ3AaMAyWpNELpuNzj52q_D",
-    "news_item_snippet": "Quarterback Bo Nix discusses his first playoff game, takeaways from his rookie season and how he will look to improve during the offseason.",
-    "news_item_url": "https://www.denverbroncos.com/video/qb-bo-nix-on-the-2024-broncos-we-ve-been-that-team-that-has-continued-to-battle",
-    "picture_source": "DenverBroncos.com",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Leslie Charleson",
-    "pubDate": "Sun, 12 Jan 2025 17:00:00 -0800",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQGR1NIouK2pULYtvFlVZFmV531tbVvy2_Y4PHbmJv1eQ-hZw6RfaSbPmt267gTvtzI3BPUlyIr",
-    "news_item_snippet": "Leslie Charleson, who played Dr. Monica Quartermaine on &quot;General Hospital,&quot; has died at the age of 79, according to the ABC daytime drama&#39;s executive&nbsp;...",
-    "news_item_url": "https://www.today.com/popculture/tv/leslie-charleson-death-general-hospital-rcna187368",
-    "picture_source": "NPR",
-    "approx_traffic": "100,000+"
-  },
-  {
     "country": "India",
     "title": "Mahakumbh",
     "pubDate": "Mon, 13 Jan 2025 11:30:00 +0530",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRgsolkBGZd8cMr-0MEtL7Y6FWlXjftOiwsj6XOnvea54ksE_U8COyJbFG3CGz_qPwrDWjtYmJc",
-    "news_item_snippet": "Mahakumbh 2025: The 45-day event is set to witness the largest human gathering, with over 40 crore attendees expected.",
-    "news_item_url": "https://www.hindustantimes.com/india-news/maha-kumbh-mela-2025-live-updates-prayagraj-up-cm-yogi-adityanath-sangam-shahi-snan-paush-purnima-holy-dip-jan-13-2025-101736725472437.html",
-    "picture_source": "NDTV",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSRM5Xt_Kcur_QV7Qb4yuYXasK1AxdiLEvNd7mGgAQM_0J6IGsuyBX6rZtmsln7QE9huLKStapd",
+    "news_item_snippet": "Maha Kumbh 2025 Snan Date and Time News Live: \u092e\u0939\u093e\u0915\u0941\u0902\u092d \u0915\u0940 \u0936\u0941\u0930\u0941\u0906&nbsp;...",
+    "news_item_url": "https://www.amarujala.com/live/uttar-pradesh/allahabad/mahakumbh-mela-prayagraj-2025-live-kumbh-amrit-snan-shubh-muhurat-time-naga-sadhu-photos-videos-news-in-hindi-2025-01-14",
+    "picture_source": "Hindustan Times",
     "approx_traffic": "500,000+"
   },
   {
@@ -191,6 +191,16 @@
   },
   {
     "country": "India",
+    "title": "Sensex, Nifty Stock market fall",
+    "pubDate": "Mon, 13 Jan 2025 16:30:00 +0530",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTh6NAXgEbnXKJdSBx85EPvA6lLRgrLwPYxegK6hkyHA8fgR7XfIRSglQ8r05_99iMKoMR3nVoK",
+    "news_item_snippet": "The recent stock market crash saw all indices suffer, with the Sensex down 1.36% and Nifty 1.47%. Deepak Shenoy suggested that such corrections could&nbsp;...",
+    "news_item_url": "https://www.livemint.com/market/stock-market-news/nithin-kamath-to-shankar-sharma-how-stock-market-mavens-reacted-to-todays-sensex-crash-11736767878525.html",
+    "picture_source": "Moneycontrol.com",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "India",
     "title": "Barcelona",
     "pubDate": "Mon, 13 Jan 2025 08:30:00 +0530",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQqPyTT88l8mxDTOrjGmr2OHL0N2z9Xu-6SPTEDGAz2aOn5A8QYQsM5pjT_UvDpEkPiONdCbbu_",
@@ -201,33 +211,23 @@
   },
   {
     "country": "India",
-    "title": "Sensex Nifty stock market fall",
-    "pubDate": "Mon, 13 Jan 2025 16:30:00 +0530",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTh6NAXgEbnXKJdSBx85EPvA6lLRgrLwPYxegK6hkyHA8fgR7XfIRSglQ8r05_99iMKoMR3nVoK",
-    "news_item_snippet": "The recent stock market crash saw all indices suffer, with the Sensex down 1.36% and Nifty 1.47%. Deepak Shenoy suggested that such corrections could&nbsp;...",
-    "news_item_url": "https://www.livemint.com/market/stock-market-news/nithin-kamath-to-shankar-sharma-how-stock-market-mavens-reacted-to-todays-sensex-crash-11736767878525.html",
-    "picture_source": "Moneycontrol.com",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "India",
     "title": "Makar Sankranti 2025",
     "pubDate": "Sun, 12 Jan 2025 23:30:00 +0530",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcS7SOdwfJ3vKGfRfglO-sSVZZ6lOw8nII0Yaj5L7ViU86vW_kReymWkUKT1zB4ySFIBEPDpic8s",
-    "news_item_snippet": "Happy Makar Sankranti 2025 Wishes, Messages,Photos Quotes and Shayari in Hindi:14 \u091c\u0928\u0935\u0930\u0940 2025 \u0915\u094b \u092e\u0915\u0930 \u0938\u0902\u0915\u094d\u0930\u093e\u0902\u0924\u093f \u0939\u0948\u0964 \u0907\u0938 \u0916\u093e\u0938 \u092e\u094c\u0915\u0947 \u092a\u0930 \u0906\u092a \u092d\u0940 \u0905\u092a\u0928\u0947&nbsp;...",
-    "news_item_url": "https://www.livehindustan.com/astrology/happy-makar-sankranti-2025-wishes-messages-shayari-in-hindi-201736780511780.html",
-    "picture_source": "\u0905\u092e\u0930 \u0909\u091c\u093e\u0932\u093e",
-    "approx_traffic": "200,000+"
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRBMuw3cWeu46LGk_RgTWlO17sYDC5QhNbwROXSODs9XNF3D9zS7-pY_JDtiUkXfFLvW7djVK2y",
+    "news_item_snippet": "Makar Sankranti Wishes 2025: \u091c\u092c \u0938\u0942\u0930\u094d\u092f \u0927\u0928\u0941 \u0938\u0947 \u0928\u093f\u0915\u0932\u0915\u0930 \u092e\u0915\u0930 \u0930\u093e\u0936\u093f \u092e\u0947\u0902 \u092a\u094d\u0930\u0935\u0947\u0936 \u0915\u0930\u0924\u0947 \u0939\u0948\u0902, \u0924\u092c \u092e\u0915\u0930 \u0938\u0902\u0915\u094d\u0930\u093e\u0902\u0924\u093f \u0915\u093e \u092a\u0930\u094d\u0935 \u092e\u0928\u093e\u092f\u093e \u091c\u093e\u0924\u093e \u0939\u0948\u0964",
+    "news_item_url": "https://www.amarujala.com/photo-gallery/spirituality/festivals/makar-sankranti-2025-wishes-messages-wallpaper-greetings-gifs-images-and-whatsapp-status-in-hindi-makar-sankra-2025-01-13",
+    "picture_source": "Hindustan \u0939\u093f\u0902\u0926\u0940",
+    "approx_traffic": "500,000+"
   },
   {
     "country": "India",
     "title": "Pongal 2025",
     "pubDate": "Sun, 12 Jan 2025 19:30:00 +0530",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRBnr3_uRA-8T6kf_-IPDDXlZMmxE9YXsoQcnJnK7fl-JUr9qjuIVGn1XZKxMMdXH5Y4FA1Irt3",
-    "news_item_snippet": "Pongal 2025, a major Hindu festival, celebrates the harvest season from January 14 to 17. Primarily observed in Tamil Nadu and Karnataka, it honors the Sun&nbsp;...",
-    "news_item_url": "https://www.livemint.com/news/trends/happy-pongal-2024-wishes-20-whatsapp-messages-images-text-and-gifs-to-share-with-friends-family-january-14-11736816057347.html",
-    "picture_source": "Hindustan Times",
-    "approx_traffic": "100,000+"
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRHGwB5UGq6Xx9W50hlPANe-FAo72UM8HpOye5ZyUnlTT7pqOx0cV2qoPohqSWKu7pSrq_Ch25R",
+    "news_item_snippet": "Pongal 2025 starts on January 14, marking the harvest festival&#39;s four joyous days. Learn about its dates, history, significance, and customs for each day.",
+    "news_item_url": "https://www.hindustantimes.com/lifestyle/festivals/pongal-2025-when-is-pongal-know-date-history-significance-and-all-about-4-days-of-the-festival-101736753124366.html",
+    "picture_source": "Jagran Josh",
+    "approx_traffic": "200,000+"
   },
   {
     "country": "India",
@@ -251,22 +251,22 @@
   },
   {
     "country": "Brazil",
+    "title": "BBB",
+    "pubDate": "Mon, 13 Jan 2025 14:00:00 -0500",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRJ04t6Z5T0maIq4fn4qODAsiq7RBN9AOOQaWZWtE1eAvpjX9cOyOI8kJMolwiMG2DGv12nPdku",
+    "news_item_snippet": "Na 25\u00aa edi\u00e7\u00e3o do &#39;Big Brother Brasil&#39;, os participantes v\u00e3o entrar em duplas na casa.",
+    "news_item_url": "https://g1.globo.com/pop-arte/noticia/2025/01/13/o-bbb-25-comecou-veja-tudo-que-voce-precisa-saber-da-nova-edicao.ghtml",
+    "picture_source": "gshow",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Brazil",
     "title": "Fies",
     "pubDate": "Mon, 13 Jan 2025 07:00:00 -0500",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQ7ENIl9i_XGAV5sESuzbYXahAObSBDs3g37Z-_eebyK2MmROkMiHybO0lI8CrmOpFUlR2W-L0eFA",
     "news_item_snippet": "Em coletiva de imprensa, o ministro da educa\u00e7\u00e3o, Camilo Santana, divulgou a previs\u00e3o dos calend\u00e1rios.",
     "news_item_url": "https://www.cnnbrasil.com.br/educacao/mec-divulga-calendario-do-prouni-e-do-fies-veja-datas/",
     "picture_source": "G1",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Brazil",
-    "title": "BBB",
-    "pubDate": "Mon, 13 Jan 2025 14:00:00 -0500",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRJ04t6Z5T0maIq4fn4qODAsiq7RBN9AOOQaWZWtE1eAvpjX9cOyOI8kJMolwiMG2DGv12nPdku",
-    "news_item_snippet": "Na 25\u00aa edi\u00e7\u00e3o do &#39;Big Brother Brasil&#39;, os participantes v\u00e3o entrar em duplas na casa.",
-    "news_item_url": "https://g1.globo.com/pop-arte/noticia/2025/01/13/bbb-25-comeca-nesta-segunda-feira-veja-tudo-que-voce-precisa-saber.ghtml",
-    "picture_source": "gshow",
     "approx_traffic": "50,000+"
   },
   {
@@ -303,10 +303,10 @@
     "country": "France",
     "title": "Vigilance grand froid",
     "pubDate": "Sun, 12 Jan 2025 08:00:00 +0100",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQxn3S4uYnhs3tBAeB0fT7AD9i7dXGqcBJDRjKSgzfzAW7W7prO7jW7a8Wl3DsMz3Rxi0cSbDcg",
-    "news_item_snippet": "Cette nuit, le ciel est bien \u00e9toil\u00e9 en d\u00e9but de nuit, mais devrait se couvrir progressivement. En fin de nuit, soyez vigilant aux brumes et brouillards qui&nbsp;...",
-    "news_item_url": "https://www.indre.gouv.fr/Actualites/Breves/VIGILANCE-JAUNE-GRAND-FROID",
-    "picture_source": "Mairie de Saffr\u00e9",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcR6DYXClWNE_kKcHlsl5GuZ9ATP4QEBtQYVBWRwyfJrhZ5K-MKsd1GinEnYjrBw1OZZ1U2NnqtB",
+    "news_item_snippet": "Aujourd&#39;hui, la Loire-Atlantique est plac\u00e9e en vigilance jaune Grand Froid \u2744\ufe0f. Des places d&#39;h\u00e9bergement d&#39;urgence \u00e0 destination des personnes les plus&nbsp;...",
+    "news_item_url": "https://www.saffre.fr/actualites/vigilance-grand-froid/",
+    "picture_source": "indre.gouv.fr",
     "approx_traffic": "50,000+"
   },
   {
@@ -353,7 +353,7 @@
     "country": "Italy",
     "title": "Monza-Fiorentina",
     "pubDate": "Mon, 13 Jan 2025 08:00:00 +0100",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQuFGqkEfPLDTWi5TUpWsr8nhotu_FlLbT0vKaWgCHIszY6MrgU4rijh1JqcBWj8d0IU5E3QOGZ",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcR8KSyrfttTyEcxlkiVdFcUU4d84QnonsvvEm-g9jq0rFuRyfS76yljZKA67iRwJmKLxvjwhTur",
     "news_item_snippet": "Torna a vincere il Monza e lo fa contro il suo ex allenatore, Palladino, battendo la Fiorentina 2-1. Meglio i viola in avvio che al 17&#39; si procurano un&nbsp;...",
     "news_item_url": "https://sport.sky.it/calcio/serie-a/partite/2024/giornata-20/monza-fiorentina/risultato-gol",
     "picture_source": "RAI - Radiotelevisione Italiana",
@@ -411,22 +411,32 @@
   },
   {
     "country": "Italy",
-    "title": "Uomini e Donne",
-    "pubDate": "Mon, 13 Jan 2025 15:00:00 +0100",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTpsTnvMNix9quS9gYoo33oxLkeYjgQIssLHspXZH83wVFz1ZBb7xPPh7cPQPlDp9uKYddG1jjW",
-    "news_item_snippet": "Per la tronista romana \u00e8 arrivato il grande giorno. Fasciata da un lungo abito nero si \u00e8 seduta a centro studio, accompagnata dalla famiglia, e ha deciso di&nbsp;...",
-    "news_item_url": "https://www.today.it/gossip/vip/uomini-donne-martina-sceglie-ciro.html",
-    "picture_source": "Witty TV",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Italy",
     "title": "Unicredit",
     "pubDate": "Mon, 13 Jan 2025 11:00:00 +0100",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQsoV1bbj9LE0494PuCMf0itNiPt_jeQIKP8WkntF0Z_xBgdhyDU8jddfK6KeRRl139FCVZKIZp",
     "news_item_snippet": "L&#39;ex falco della Bce Jens Weidmann, ora numero uno della banca tedesca Commerzbank, esce allo scoperto: Unicredit si \u00e8 mossa con poco stile, con la fusione&nbsp;...",
     "news_item_url": "https://www.milanofinanza.it/news/unicredit-il-presidente-di-commerzbank-jens-weidmann-attacca-la-scalata-di-orcel-alla-germania-servono-202501131016271764",
     "picture_source": "Milano Finanza",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Italy",
+    "title": "Uomini e Donne",
+    "pubDate": "Mon, 13 Jan 2025 15:00:00 +0100",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSkCvzC9yhEglGugGh9y2bc9csXOQpcyXUxP2NnQqFPPiPvIcmUtrPPoBC9f2UUANL8d-EuMp5l",
+    "news_item_snippet": "Nella registrazione di Uomini e Donne di oggi, Luned\u00ec 13 Gennaio, la tronista Martina ha fatto la sua scelta. Clicca QUI per scoprire chi \u00e8!",
+    "news_item_url": "https://www.wittytv.it/uomini-e-donne/martina-ha-scelto/",
+    "picture_source": "Today",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Mexico",
+    "title": "Clima Monterrey",
+    "pubDate": "Mon, 13 Jan 2025 09:00:00 -0600",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTInJrhG6v4MG0x4YsZ8StJktEgy1FARTrwkXNHpwkserjlI4n8Yw6izFH79J8XuVOqzKv8wAmp",
+    "news_item_snippet": "El clima en Monterrey para enero de 2025 muestra temperaturas variadas que van desde los -2\u00b0C hasta los 27\u00b0C. Descubre los d\u00edas m\u00e1s fr\u00edos y c\u00e1lidos.",
+    "news_item_url": "https://www.adn40.mx/mexico/2025-01-13/pronostico-monterrey-clima-a-14-dias-y-todo-enero-2025",
+    "picture_source": "INFO7 Noticias",
     "approx_traffic": "50,000+"
   },
   {
@@ -451,22 +461,22 @@
   },
   {
     "country": "Spain",
+    "title": "Real Sociedad - Villarreal",
+    "pubDate": "Mon, 13 Jan 2025 00:00:00 +0100",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQri4S41Gwwz90pVz-_9ICirLxVXzd_slMhuF2jvOz2cO4ZaBYbynB3a84T310NueArNusdPNet",
+    "news_item_snippet": "Marcelino: Siempre est\u00e1s triste despu\u00e9s de una derrota pero estoy satisfecho de c\u00f3mo ha jugado el equipo. Creo que justo se puede considerar porque en.",
+    "news_item_url": "https://www.marca.com/futbol/laliga-ea-sports/real-sociedad-villarreal/2025/01/13/01_0101_20250113_188_449-directo.html",
+    "picture_source": "Mundo Deportivo",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "Spain",
     "title": "BBVA",
     "pubDate": "Mon, 13 Jan 2025 11:00:00 +0100",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTSzlGpn0JqsOhVfKAa1KZEWD42oNdNynuE84f8T8m5olk4WcPipT-NfEWQq1vPUz8gX8HeYb0K",
     "news_item_snippet": "El presidente del BBVA, Carlos Torres, conf\u00eda \u201cplenamente\u201d en el \u00e9xito de la oferta de compra sobre Banc Sabadell y califica de \u201cin\u00e9ditos\u201d los compromisos.",
     "news_item_url": "https://www.lavanguardia.com/dinero/20250113/10278001/torres-dice-bbva-presentado-compromisos-ineditos-cnmc.html",
     "picture_source": "elEconomista",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "Spain",
-    "title": "Real Sociedad  Villarreal",
-    "pubDate": "Mon, 13 Jan 2025 21:00:00 +0100",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQri4S41Gwwz90pVz-_9ICirLxVXzd_slMhuF2jvOz2cO4ZaBYbynB3a84T310NueArNusdPNet",
-    "news_item_snippet": "Marcelino: Siempre est\u00e1s triste despu\u00e9s de una derrota pero estoy satisfecho de c\u00f3mo ha jugado el equipo. Creo que justo se puede considerar porque en.",
-    "news_item_url": "https://www.marca.com/futbol/laliga-ea-sports/real-sociedad-villarreal/2025/01/13/01_0101_20250113_188_449-directo.html",
-    "picture_source": "Mundo Deportivo",
     "approx_traffic": "100,000+"
   },
   {
@@ -506,7 +516,7 @@
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSekMwN6L8aEJJWOXWrTDCSKGMaiOByjnPxSN9j9TbKrG_9G91hNc6fTcJVFsUNHYTcafcs47YC",
     "news_item_snippet": "Former heavyweight champion Tyson Fury announced his latest retirement from boxing Monday, one month after losing a rematch with Ukrainian Oleksandr Usyk.",
     "news_item_url": "https://www.espn.co.uk/boxing/story/_/id/43396213/tyson-fury-announces-shock-retirement-boxing",
-    "picture_source": "BBC News",
+    "picture_source": "BBC Sport",
     "approx_traffic": "100,000+"
   }
 ]
