@@ -1,6 +1,16 @@
 [
   {
     "country": "United States",
+    "title": "Ipswich Town vs Man City",
+    "pubDate": "Sun, 19 Jan 2025 10:00:00 -0800",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcR6ncY8eMOrxh2p80uavN-e4vYOvKcbjEtyUtZgJu2u51JB-4OkeHg3d5ZaslZPuwq6cUg8bd2c",
+    "news_item_snippet": "Phil Foden has a goal and set up Mateo Kovacic for another as Manchester City are demolishing Ipswich Town at Portman Road.",
+    "news_item_url": "https://www.nbcsports.com/soccer/news/how-to-watch-ipswich-vs-manchester-city-live-stream-link-tv-channel-team-news-prediction",
+    "picture_source": "Yahoo Sports",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
     "title": "Commanders vs Lions",
     "pubDate": "Sat, 18 Jan 2025 12:00:00 -0800",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcS33MPrL3Rxdaz9VB4j5O58wJglHDtXILv-gmeKQjmeonnc4XiYBOkWKmmYhhbbQSSmzB9wTAan",
@@ -23,20 +33,40 @@
     "country": "United States",
     "title": "Trump coin",
     "pubDate": "Sat, 18 Jan 2025 03:00:00 -0800",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTwjgn3JbB7grYVy0CfKp6J8nkWi2MrIEIabPhrCZt8QOuWq7pMVWry0c1rD-D71r05EE_Zzgw-",
-    "news_item_snippet": "President-elect Donald Trump has launched a new cryptocurrency token that&#39;s soaring in value and potentially boosting his net worth.",
-    "news_item_url": "https://apnews.com/article/trump-crypto-meme-coin-token-75bf67ef9e6e54bf455f2f9f03470be3",
-    "picture_source": "CBS News",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQFGfiRPgxVPnvQ5PSaIQtCOQP4mvPAZ-EPz94v0UemwY4ofLOcs1SPHfzJseRRH7xWBC8WuUu6",
+    "news_item_snippet": "Donald Trump launched the $TRUMP meme coin just ahead of his presidential inauguration. The valuation has soared, and he controls 80%.",
+    "news_item_url": "https://www.investors.com/news/donald-trump-launches-trump-meme-coin-inauguration/",
+    "picture_source": "BBC News",
     "approx_traffic": "500,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Rams vs Eagles",
+    "pubDate": "Sat, 18 Jan 2025 17:00:00 -0800",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSNW_qMOKPrTsRTZGjxHFKAviTZIoyReFhVtvMSeLTVr0uPODDb7tqgMWk1mgTJH5cK-tADFv08",
+    "news_item_snippet": "The Rams are looking to knock off another NFC heavyweight while the Eagles are eyeing a second NFC title game in three years.",
+    "news_item_url": "https://sports.yahoo.com/live/rams-vs-eagles-score-live-updates-philadelphia-los-angeles-battle-in-divisional-round-after-wild-card-wins-190002771.html",
+    "picture_source": "PhiladelphiaEagles.com",
+    "approx_traffic": "200,000+"
   },
   {
     "country": "United States",
     "title": "Taylor Swift",
     "pubDate": "Sat, 18 Jan 2025 16:00:00 -0800",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSBUZ6q85YgRFPCVJh-XTo_xhbyhqJGTHHLp3tGlBZyRmEC4VaakHioxhW6pzW6Aq12i5YyPIcV",
-    "news_item_snippet": "Swift was joined by the WNBA star to root for the triumphant Kansas City Chiefs.",
-    "news_item_url": "https://www.vogue.com/article/taylor-swift-chanel-travis-kelce-chiefs-game",
-    "picture_source": "The Associated Press",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTDsAn1bfuWrwLkem8THQiDnuTMegb49Y9hXgm4gaE3GIr4ysM1rEm8DmtNNICESqmFFphGhSn0",
+    "news_item_snippet": "Pop superstar Taylor Swift spent some of the game sitting in a suite alongside Indiana Fever star Caitlin Clark, who is likewise a big Chiefs fan.",
+    "news_item_url": "https://apnews.com/article/taylor-swift-kansas-city-chiefs-houston-texans-468b074fb9dc4f03b743593670ffdf86",
+    "picture_source": "Vogue.com",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Ravens vs Bills",
+    "pubDate": "Sat, 18 Jan 2025 16:00:00 -0800",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSfWm3pktZQRng3LW9JKEVjWsxSWXvICrbYlU0LqVx59882jEk1bV9xiyZyJtYb9SFDC24ubHkW",
+    "news_item_snippet": "Follow the action live as the top two candidates for MVP battle in Buffalo with a trip to the AFC Championship Game on the line.",
+    "news_item_url": "https://www.nytimes.com/athletic/live-blogs/ravens-vs-bills-live-score-updates-nfl-afc-divisional-round-result/M6V9sze6J6fJ/",
+    "picture_source": "BuffaloBills.com",
     "approx_traffic": "200,000+"
   },
   {
@@ -53,140 +83,40 @@
     "country": "United States",
     "title": "Premier League",
     "pubDate": "Sat, 18 Jan 2025 13:00:00 -0800",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcT25stpWU-vScjTjivoQPtKhV-WQG3XNL5YcKTehMWn6YWyDBqRobriUxY3PD1xK9t0Q8UfXayH",
-    "news_item_snippet": "Ruben Amorim called his Manchester United side \u201cmaybe the worst team in the history\u201d of the club after they fell to yet another defeat in the Premier League,&nbsp;...",
-    "news_item_url": "https://www.nytimes.com/athletic/live-blogs/manchester-united-brighton-live-updates-premier-league-score-result/3es3TCNHsoPX/",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSmRj7mWZocoNmVppiNCVnpCYPdfuHRty40SGDi3OPwAXfTcwBpdkHd_ZHHRnD6XdWyEXWVpnl7",
+    "news_item_snippet": "Phil Foden made it five goals in his last three Premier League games with a brace as City put six past Ipswich Town at Portman Road.",
+    "news_item_url": "https://www.mancity.com/news/mens/ipswich-away-premier-league-match-report-63872894",
     "picture_source": "Aljazeera.com",
     "approx_traffic": "200,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Rams",
-    "pubDate": "Sat, 18 Jan 2025 17:00:00 -0800",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRQpQBFtXtS-r9gmGlaN3nclJ8mzA8r24LdWe4l_lGqnmZrZxbFfmvyPeKZs3d7nqGQWCNvgLuN",
-    "news_item_snippet": "Follow live action as Los Angeles and Philadelphia battle for the right to host next weekend&#39;s NFC Championship Game against the Commanders.",
-    "news_item_url": "https://www.nytimes.com/athletic/live-blogs/rams-vs-eagles-score-and-live-updates-nfl-nfc-divisional-round-playoffs-predictions-odds/mm7gittZ49RX/",
-    "picture_source": "The News Journal",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Barcelona",
-    "pubDate": "Sat, 18 Jan 2025 13:00:00 -0800",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTynEfLem0Aa6ex5extpnMnKQ4A_2gSMu7W-j8c8TnRWj_LfmJXh_ejMAXB0aFqZqx7nnRJxsMt",
-    "news_item_snippet": "FC Barcelona has unearthed a young talent that the Spanish media has dubbed the &quot;new Lamine Yamal&quot;, and who is currently scoring goals for fun in La Masia.",
-    "news_item_url": "https://www.forbes.com/sites/tomsanderson/2025/01/18/fc-barcelona-finds-new-lamine-yamal-with-100-goals-in-27-games/",
-    "picture_source": "FC Barcelona",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Getafe  Barcelona",
-    "pubDate": "Sat, 18 Jan 2025 12:00:00 -0800",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTdjnilxXyzKoO1Cw9sdLqg864dwNHgFf7J4RP-fJjR7fpr9TpLPtPHFtZL04ZyQfoRoaoGCuq_",
-    "news_item_snippet": "For the fifth time in a row, the Catalans fail to win in South Madrid as Saturday&#39;s game ends in a draw.",
-    "news_item_url": "https://www.fcbarcelona.com/en/football/first-team/news/4200949/getafe-1-1-fc-barcelona-the-coliseum-resists-again",
-    "picture_source": "Forbes",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Arsenal",
-    "pubDate": "Sat, 18 Jan 2025 11:00:00 -0800",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRw3qaTgcXGDpUHrlUWLCucZrXybNDHpfbklrCM004B1I4wByxkYDmHbdfcGPqdl_FvU-1A-ZPY",
-    "news_item_snippet": "Arsenal&#39;s failure to defeat Aston Villa evokes the reality of the Gunners&#39; lack of squad depth to compete for the Premier League title.",
-    "news_item_url": "https://www.espn.com/soccer/story/_/id/43468430/arsenal-lack-depth-sees-slip-title-race",
-    "picture_source": "Arsenal.com",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "United States",
-    "title": "La Liga",
-    "pubDate": "Sat, 18 Jan 2025 11:00:00 -0800",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRHvy7wbZBXXxd2OdSUSfEzTAEQMdn5VroTQIksi-r3UB0eFbySixLNL2aXgXGOQPnJw2FxY8gX",
-    "news_item_snippet": "The academy will recruit young football talent from Shanghai and China. La Liga will provide teaching, technical and other courses to help them develop&nbsp;...",
-    "news_item_url": "https://www.shine.cn/sport/2501195999/",
-    "picture_source": "SHINE",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Lakers",
-    "pubDate": "Sat, 18 Jan 2025 10:00:00 -0800",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSYvj2C1lvsEXoDk5JGxWPlbLCVcHVVyw52MyHqQSnk-yIw7D6B43ed5ZeTTvSQsmxAWuisOxNX",
-    "news_item_snippet": "Since Dec. 1, Vincent&#39;s averaged 6.9 points on 44.7% shooting, including 39.3% on 3-pointers, in his last 16 games.",
-    "news_item_url": "https://www.dailynews.com/2025/01/18/lakers-gabe-vincent-rounding-into-form-offensively/",
-    "picture_source": "LA Daily News",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Ravens vs Bills",
-    "pubDate": "Sat, 18 Jan 2025 16:00:00 -0800",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSfWm3pktZQRng3LW9JKEVjWsxSWXvICrbYlU0LqVx59882jEk1bV9xiyZyJtYb9SFDC24ubHkW",
-    "news_item_snippet": "The AFC divisional round will feature the Buffalo Bills hosting the Baltimore Ravens. Here is everything to know ahead of kickoff.",
-    "news_item_url": "https://www.usatoday.com/story/sports/nfl/2025/01/19/nfl-playoffs-predictions-odds-ravens-bills/77722437007/",
-    "picture_source": "BuffaloBills.com",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Inter Miami",
-    "pubDate": "Sat, 18 Jan 2025 16:00:00 -0800",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQVSI1hzvdCJG6d-Ihms1hnUAODAcLVLJX5bhRsgCKR9EfOZOUNLCyarGhKEQYPJs2lVe-Vbh_w",
-    "news_item_snippet": "Inter Miami CF opened its 2025 preseason tonight with a win over LIGA MX giants Club Am\u00e9rica in penalties. The match ended 2-2 in regulation before a&nbsp;...",
-    "news_item_url": "https://www.intermiamicf.com/news/academy-product-santiago-morales-match-winning-penalty-defeats-club-america-in-the-americas-preseason-tour-opener",
-    "picture_source": "MLSsoccer.com",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Teddy Bridgewater",
-    "pubDate": "Sat, 18 Jan 2025 19:00:00 -0800",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTQ3JiC820Xj3UNKsdMsgHAk3M2vEK21VNxLR5yriMNPST6CfaiZyth68xav_jp252FCBBNT6UP",
-    "news_item_snippet": "The Lions signed Teddy Bridgewater to their 53-man roster late in the regular season because they liked the idea of having a quarterback with his experience&nbsp;...",
-    "news_item_url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/teddy-bridgewater-is-active-as-lions-no-2-quarterback",
-    "picture_source": "Detroit Free Press",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Kris Boyd",
-    "pubDate": "Sat, 18 Jan 2025 15:00:00 -0800",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQrufaEvwJ3zpICXfN7W9c8PJXA58An5lGD1Qb72qOXBvwVjAWfmmSSwRy_LCSHRTtVt-hczRZm",
-    "news_item_snippet": "KANSAS CITY, Mo. (AP) \u2014 Texans cornerback Kris Boyd nearly shoved Houston special teams coach Frank Ross to the ground after the opening kickoff of their&nbsp;...",
-    "news_item_url": "https://www.kget.com/sports/ap-texans-kris-boyd-flings-helmet-gets-penalized-and-then-shoves-his-coach-on-first-play-vs-chiefs/",
-    "picture_source": "USA TODAY",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Snoop Dogg Trump",
-    "pubDate": "Sat, 18 Jan 2025 12:00:00 -0800",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQVr6WrF6TsICZxKSQgDygZMsxGgDrEbDs4qmh6Fs2xMt8QTVDso93ShNlV0wCMC2zjUW3To7RJ",
-    "news_item_snippet": "Snoop Dogg is facing criticism after performing at an event in Washington, D.C. prior to the inauguration of President-elect Donald Trump.",
-    "news_item_url": "https://www.usatoday.com/story/entertainment/music/2025/01/19/snoop-dogg-trump-inauguration-crypto-ball/77825804007/",
-    "picture_source": "Hollywood Reporter",
-    "approx_traffic": "50,000+"
   },
   {
     "country": "India",
     "title": "Man United vs Brighton",
     "pubDate": "Sun, 19 Jan 2025 19:30:00 +0530",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcT25stpWU-vScjTjivoQPtKhV-WQG3XNL5YcKTehMWn6YWyDBqRobriUxY3PD1xK9t0Q8UfXayH",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSmRj7mWZocoNmVppiNCVnpCYPdfuHRty40SGDi3OPwAXfTcwBpdkHd_ZHHRnD6XdWyEXWVpnl7",
     "news_item_snippet": "MUN vs BHA: Enjoy the highlights of the Premier League 2024-25 match between Manchester United and Brighton that was played at Old Trafford on Sunday.",
     "news_item_url": "https://sportstar.thehindu.com/football/epl/manchester-united-vs-brighton-live-score-highlights-premier-league-updates-2024-25-news-mun-v-bha-amorim/article69116298.ece",
     "picture_source": "Aljazeera.com",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "India",
+    "title": "Neeraj Chopra",
+    "pubDate": "Sun, 19 Jan 2025 22:30:00 +0530",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQR4i1S1uchXO2aW91UAEgzrKS37Hfry8XY9-ICSHhW1aOd6O6pB5aFRSAvHXlK60TQXAIHclL5",
+    "news_item_snippet": "Neeraj Chopra wife Himani: \u0921\u092c\u0932 \u0913\u0932\u0902\u092a\u093f\u0915 \u092e\u0947\u0921\u0932\u093f\u0938\u094d\u091f \u0928\u0940\u0930\u091c \u091a\u094b\u092a\u0921\u093c\u093e \u0928\u0947 \u0930\u0935\u093f\u0935\u093e\u0930 \u0915\u094b \u0939\u093f\u092e\u093e\u0928\u0940 \u092e\u094b\u0930 \u0938\u0947 \u0936\u093e\u0926\u0940 \u0915\u0940\u0964 \u0926\u094b \u092c\u093e\u0930 \u0915\u0947 \u0913\u0932\u0902\u092a\u093f\u0915 \u092e\u0947\u0921\u0932\u093f\u0938\u094d\u091f \u0914\u0930 \u092d\u093e\u0930\u0924 \u0915\u0947&nbsp;...",
+    "news_item_url": "https://navbharattimes.indiatimes.com/sports/other-sports/neeraj-chopra-gets-married-in-dreamy-ceremony-with-himani-shares-photos/articleshow/117377146.cms",
+    "picture_source": "NDTVSports.com",
     "approx_traffic": "50,000+"
   },
   {
     "country": "India",
-    "title": "La Liga",
-    "pubDate": "Sun, 19 Jan 2025 00:30:00 +0530",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRHvy7wbZBXXxd2OdSUSfEzTAEQMdn5VroTQIksi-r3UB0eFbySixLNL2aXgXGOQPnJw2FxY8gX",
-    "news_item_snippet": "The academy will recruit young football talent from Shanghai and China. La Liga will provide teaching, technical and other courses to help them develop&nbsp;...",
-    "news_item_url": "https://www.shine.cn/sport/2501195999/",
-    "picture_source": "SHINE",
+    "title": "TikTok",
+    "pubDate": "Sun, 19 Jan 2025 18:30:00 +0530",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTpsxRQDUubIZDTUORam3Dw8go0-epqcK-hCkjD5FbWmCqcIRwvME5mdbmZfq1OU7ept9Zfd8D0",
+    "news_item_snippet": "Even if temporary, the unprecedented shutdown of TikTok is set to have a wide-ranging impact on U.S.-China relations, U.S. politics, the social media&nbsp;...",
+    "news_item_url": "https://www.reuters.com/technology/tiktok-goes-dark-us-users-trump-says-save-tiktok-2025-01-19/",
+    "picture_source": "NDTV",
     "approx_traffic": "50,000+"
   },
   {
@@ -203,11 +133,11 @@
     "country": "India",
     "title": "Bigg Boss 18 winner",
     "pubDate": "Sat, 18 Jan 2025 23:30:00 +0530",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcS9QM2iD2T7XfevPv-7R82H1hoYKj9yCSABM9I_mxWSiWK-yAUK_zc07SE2tqeGPNq9fRNdhHii",
-    "news_item_snippet": "Bigg Boss Winner List Here: With each passing year, Bigg Boss has strengthened its place among viewers. Here&#39;s the complete list of Bigg Boss winners along&nbsp;...",
-    "news_item_url": "https://www.business-standard.com/entertainment/bigg-boss-winner-list-ahead-of-bigg-boss-18-finale-here-full-winners-list-from-season-1-to-17-bigg-boss-finale-time-125011900544_1.html",
-    "picture_source": "Hindustan Times",
-    "approx_traffic": "200,000+"
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQRZPMFrrMKV1KpSr4uqD9gOQ3AlJzyrQOz7R-osfNL5nPN41PmSioXmhkbek6IKSNQHNsUR9sy",
+    "news_item_snippet": "Rajat Dalal; Vivian Dsena; Karanveer Mehra; Chum Darang; Eisha Singh; Avinash Mishra. What is the cash prize the winning contestant will take home after winning&nbsp;...",
+    "news_item_url": "https://www.hindustantimes.com/entertainment/tv/bigg-boss-18-finale-live-salman-khan-show-to-end-karanveer-mehra-rajat-dalal-vivian-dsena-frontrunners-chum-darang-101737269032751.html",
+    "picture_source": "Hindustan \u0939\u093f\u0902\u0926\u0940",
+    "approx_traffic": "500,000+"
   },
   {
     "country": "India",
@@ -217,6 +147,16 @@
     "news_item_snippet": "Two-time winners India have named their 15-player squad for the upcoming ICC Men&#39;s Champions Trophy.",
     "news_item_url": "https://www.icc-cricket.com/tournaments/champions-trophy-2025/news/bumrah-s-status-confirmed-as-india-announce-icc-champions-trophy-2025-squad",
     "picture_source": "Gujarat Titans",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "India",
+    "title": "Karan Veer Mehra",
+    "pubDate": "Sat, 18 Jan 2025 20:30:00 +0530",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRFHwGTIUkXcXTDeROKCtveHDwAIFEcVVsZKS33EmoxR1QHIK1E4gmuMcztWyc2f7SKasYm0Iri",
+    "news_item_snippet": "Actor Karan Veer Mehra won Bigg Boss 18, lifted the trophy and also got a cash prize of Rs 50 lakh. Actor Vivian DSena ended up being the first runner-up of&nbsp;...",
+    "news_item_url": "https://www.indiatoday.in/television/reality-tv/story/bigg-boss-18-winner-karan-veer-mehra-lifts-the-trophy-takes-rs-50-lakh-home-breaking-news-2667067-2025-01-20",
+    "picture_source": "Hindustan Times",
     "approx_traffic": "100,000+"
   },
   {
@@ -231,22 +171,12 @@
   },
   {
     "country": "India",
-    "title": "Champions Trophy",
-    "pubDate": "Sat, 18 Jan 2025 17:30:00 +0530",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRmZ2OAJxfLIfW71wx3SYNTLDi3xbUYz5GgOSKyAFez4DHurls3gpQbsa1vjxbfcDW3JWYMvN6w",
-    "news_item_snippet": "Two-time winners India have named their 15-player squad for the upcoming ICC Men&#39;s Champions Trophy.",
-    "news_item_url": "https://www.icc-cricket.com/tournaments/champions-trophy-2025/news/bumrah-s-status-confirmed-as-india-announce-icc-champions-trophy-2025-squad",
-    "picture_source": "Gujarat Titans",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "India",
     "title": "TRUMP coin",
     "pubDate": "Sat, 18 Jan 2025 21:30:00 +0530",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTaiw7AAUfLR30LfcxMgAAhnvnxleT4zyPTWyERU7kIPRn9U2qOr1nb3uJ6zeZM6a6eViZT-S2B",
-    "news_item_snippet": "Trump plans to issue an executive order prioritising cryptocurrency, establish a Bitcoin reserve, and create a crypto advisory council to reduce regulatory&nbsp;...",
-    "news_item_url": "https://www.business-standard.com/markets/cryptocurrency/donald-trump-meme-coin-market-value-cryptocurrency-january-20-inauguration-125011900379_1.html",
-    "picture_source": "Livemint",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQiy8CY6fBKcoAq6fRE-qSWadQMej2eVmSwBATHeXbNIYYuFWRtpohyN4SNaRpbhMj-PwfXQZcH",
+    "news_item_snippet": "US President-elect Donald Trump announced his cryptocurrency \u201c$TRUMP\u201d on Saturday, January 18, ahead of his appointment as the 47th President of the United&nbsp;...",
+    "news_item_url": "https://www.livemint.com/market/cryptocurrency/trump-coin-is-donald-trumps-meme-coin-a-crypto-gimmick-or-a-hidden-gem-11737284627672.html",
+    "picture_source": "Economic Times",
     "approx_traffic": "50,000+"
   },
   {
@@ -281,7 +211,17 @@
   },
   {
     "country": "Argentina",
-    "title": "Legan\u00e9s  Atl\u00e9tico Madrid",
+    "title": "Real Madrid  UD Las Palmas",
+    "pubDate": "Sat, 18 Jan 2025 14:00:00 -0300",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTbcAIjsq-AYE-mD34ulJNJ_vuU42oT1RaUJELK0cy4tWubILRB3cSnlSqPpMaHibsfN5HFnCvf",
+    "news_item_snippet": "Mbapp\u00e9 marc\u00f3 dos goles y estuvo presente en la mayor\u00eda de acciones de peligro. El Madrid aventaja en la clasificaci\u00f3n en 2 dos puntos al Atl\u00e9tico y 7 al&nbsp;...",
+    "news_item_url": "https://www.rtve.es/deportes/20250119/real-madrid-las-palmas-directo-resumen-resultado-liga-jornada-20/16409787.shtml",
+    "picture_source": "TyC Sports",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Argentina",
+    "title": "Legan\u00e9s Atl\u00e9tico Madrid",
     "pubDate": "Sat, 18 Jan 2025 12:00:00 -0300",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQR9YYb0LK8IXDXcIW5Q778VEhlUTwKyTFubX_fbYCg94XDDG9I_BxTtVyd1hnPvnhytqW1z-n5",
     "news_item_snippet": "El Colchonero perdi\u00f3 1-0 como visitante y termin\u00f3 con un r\u00e9cord de 15 victorias consecutivas.",
@@ -294,7 +234,7 @@
     "title": "Brentford - Liverpool",
     "pubDate": "Sat, 18 Jan 2025 12:00:00 -0300",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQoGKz7wdnB2DxdWioMvHy1-lzqrZSpnLCJBe7o9cPmqrMYv9sQXBtLXKdlmqyoyUFfb-gKCF7v",
-    "news_item_snippet": "El colombiano fue titular y tuvo una situaci\u00f3n clara de gol.",
+    "news_item_snippet": "El colombiano volvi\u00f3 a ocupar la posici\u00f3n de delantero central ante las Abejas y pas\u00f3 desapercibido ante el gran trabajo defensivo del conjunto local. D\u00edaz&nbsp;...",
     "news_item_url": "https://www.espn.com.co/futbol/inglaterra/nota/_/id/14681238/como-fue-partido-luis-diaz-brentford-vs-liverpool",
     "picture_source": "Infobae.com",
     "approx_traffic": "50,000+"
@@ -314,20 +254,10 @@
     "title": "Real Madrid x Las Palmas",
     "pubDate": "Sun, 19 Jan 2025 10:00:00 -0500",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRTyka9V6CEHRUIQ_eAxmKnAG3XCnpTofeTgoNDGfEOEb08aADh0bBVx6lY8nRDbTsLrtqzyYc9",
-    "news_item_snippet": "O Real Madrid e Las Palmas se enfrentam neste domingo, 19, \u00e0s 12h15 (hor\u00e1rio de Bras\u00edlia), no Est\u00e1dio Santiago Bernab\u00e9u, em Madri, pela 21\u00aa rodada do&nbsp;...",
-    "news_item_url": "https://exame.com/esporte/real-madrid-x-las-palmas-onde-assistir-ao-vivo-e-horario-do-jogo-pelo-campeonato-espanhol/",
+    "news_item_snippet": "Campeonato Espanhol 2024/25: acompanhe ao vivo a partida entre Real Madrid x Las Palmas. Confira lance a lance, escala\u00e7\u00e3o, estat\u00edsticas e mais no Estad\u00e3o!",
+    "news_item_url": "https://www.estadao.com.br/esportes/futebol/ao-vivo-real-madrid-x-las-palmas-campeonato-espanhol-202425-futebol/",
     "picture_source": "CNN Brasil",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "Brazil",
-    "title": "Liverpool",
-    "pubDate": "Sun, 19 Jan 2025 09:00:00 -0500",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTsDUfx76s5uTpQ0Hx7-8C3th1eMjv9Vc-VujauUSU_yvN-79GnKmuT1ISNpGPforbBlwPDTdxc",
-    "news_item_snippet": "Os b\u00f4nus de boas-vindas oferecidos pelos cassinos online permitem classifica\u00e7\u00f5es dos jogadores de corinthians x liverpool f\u00fatbol club que novos jogadores&nbsp;...",
-    "news_item_url": "https://ufrj.br/classifica%C3%A7%C3%B5es+dos+jogadores+de+corinthians+x+liverpool+f%C3%BAtbol+club-6/",
-    "picture_source": "UFRJ",
-    "approx_traffic": "50,000+"
+    "approx_traffic": "500,000+"
   },
   {
     "country": "Brazil",
@@ -341,121 +271,51 @@
   },
   {
     "country": "Brazil",
+    "title": "Liverpool",
+    "pubDate": "Sun, 19 Jan 2025 09:00:00 -0500",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTsDUfx76s5uTpQ0Hx7-8C3th1eMjv9Vc-VujauUSU_yvN-79GnKmuT1ISNpGPforbBlwPDTdxc",
+    "news_item_snippet": "Os b\u00f4nus de boas-vindas oferecidos pelos cassinos online permitem classifica\u00e7\u00f5es dos jogadores de corinthians x liverpool f\u00fatbol club que novos jogadores&nbsp;...",
+    "news_item_url": "https://ufrj.br/classifica%C3%A7%C3%B5es+dos+jogadores+de+corinthians+x+liverpool+f%C3%BAtbol+club-6/",
+    "picture_source": "UFRJ",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Brazil",
+    "title": "Paulista",
+    "pubDate": "Sun, 19 Jan 2025 00:00:00 -0500",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQZ-qI2i6Kw7-x1jvpn31UK8KpYKdpFc5pBuqyof1j7CNub9AAhxXNQK5mCNi6IB9onrtyoN6iS",
+    "news_item_snippet": "Agressor desferiu golpes de faca no peito e no bra\u00e7o da v\u00edtima, que n\u00e3o teve a identidade divulgada. Suspeito responde por homic\u00eddio.",
+    "news_item_url": "https://g1.globo.com/sp/bauru-marilia/noticia/2025/01/19/homem-morre-apos-ser-esfaqueado-durante-discussao-em-lencois-paulista.ghtml",
+    "picture_source": "G1",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Brazil",
     "title": "Noroeste x Palmeiras",
     "pubDate": "Sat, 18 Jan 2025 13:00:00 -0500",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSWf02xqEY7EfimK6D-2OLCcgyDG3v4LOYMXfCXItjEf5Gm9o8GXDMmxlriXMRK_nlNR7almPMc",
     "news_item_snippet": "Os f\u00e3s ter\u00e3o diversas op\u00e7\u00f5es para acompanhar o duelo. A transmiss\u00e3o ser\u00e1 realizada pelo Paulist\u00e3o YouTube, CazeTV, UOL Play, Nosso Futebol, Zapping Sports e CNN&nbsp;...",
     "news_item_url": "https://www.cnnbrasil.com.br/esportes/futebol/campeonato-paulista/noroeste-x-palmeiras-horario-e-onde-assistir-ao-jogo-do-paulista/",
     "picture_source": "UOL",
-    "approx_traffic": "1,000,000+"
+    "approx_traffic": "500,000+"
   },
   {
     "country": "Brazil",
     "title": "Cruzeiro",
     "pubDate": "Sat, 18 Jan 2025 08:00:00 -0500",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQKLY0GeT0Q2D8h7qvb-OxDewen159TfY8c13S1vp-RZtDLGhuSl3xynYx3vOsC-xiTKdUtzOb0",
-    "news_item_snippet": "Logo depois do cl\u00e1ssico com o Atl\u00e9tico, a delega\u00e7\u00e3o do Cruzeiro deixou o est\u00e1dio e seguiu em voo fretado para Belo Horizonte. O calend\u00e1rio do futebol brasileiro&nbsp;...",
-    "news_item_url": "https://www.cnnbrasil.com.br/esportes/futebol/cruzeiro/cruzeiro-estreia-no-mineiro-ainda-em-ritmo-de-pre-temporada/",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRBCbWlrsdShesdPOb2zXSR56tOc1zJcM8MICWdPuVEYb51Y_PJtTMshUYu6x7f8eW9WziYV8w8",
+    "news_item_snippet": "Atl\u00e9tico-MG e Cruzeiro empataram em uma partida sem gols pela FC Series, no Inter&amp;Co Stadium, em Orlando, nos Estados Unidos.",
+    "news_item_url": "https://www.cnnbrasil.com.br/esportes/futebol/em-classico-quente-atletico-mg-e-cruzeiro-empatam-na-fc-series/",
     "picture_source": "CNN Brasil",
     "approx_traffic": "500,000+"
-  },
-  {
-    "country": "Brazil",
-    "title": "Sampaio Corr\u00eaa x Botafogo",
-    "pubDate": "Sat, 18 Jan 2025 14:00:00 -0500",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTm3SSK9u2Abpb_BrgkRjklegk_YlJnTDt16a1K9TwnIGMr3NrWadXwJ-R5K79m2vQ99pouqidU",
-    "news_item_snippet": "Saiba tudo sobre o jogo Sampaio Corr\u00eaa-RJ 2 x 1 Botafogo (Campeonato Carioca, Rodada 3). Veja no ge os melhores momentos e o placar do jogo, gols e lances&nbsp;...",
-    "news_item_url": "https://ge.globo.com/rj/futebol/campeonato-carioca/jogo/18-01-2025/sampaiocorreiafuteboleesporte-botafogo.ghtml",
-    "picture_source": "UOL",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "Brazil",
-    "title": "Fluminense",
-    "pubDate": "Sat, 18 Jan 2025 17:00:00 -0500",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSG0DMF02uO9Qd5wFNuddw4tqfASpbrv29X4FFzPxZsbWGyKC4ypsxifgc0OQ1Mhs-_j-2E-STv",
-    "news_item_snippet": "O Fluminense empatou em 1 a 1 com o Maric\u00e1, neste s\u00e1bado (18/01), no est\u00e1dio de Mo\u00e7a Bonita, em jogo v\u00e1lido pela terceira rodada do Campeonato Carioca. Em seu&nbsp;...",
-    "news_item_url": "https://www.fluminense.com.br/noticia/fluminense-empata-com-o-marica-pelo-carioca",
-    "picture_source": "CNN Brasil",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "Brazil",
-    "title": "Getafe x Barcelona",
-    "pubDate": "Sat, 18 Jan 2025 15:00:00 -0500",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQ3wOnTMMUKgAI12SXeK2xwu5TQ_2qB6ogq3JrVznv6wBAfSiZLzfSc0nXvKsCCiqkS3-ICaJM-",
-    "news_item_snippet": "Confira o hor\u00e1rio e transmiss\u00e3o do jogo entre Getafe e Barcelona, neste s\u00e1bado (18), pelo Campeonato Espanhol.",
-    "news_item_url": "https://www.uol.com.br/esporte/ultimas-noticias/2025/01/18/getafe-x-barcelona-onde-assistir-e-horario-do-jogo-do-espanhol.htm",
-    "picture_source": "CNN Brasil",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "Brazil",
-    "title": "Aymor\u00e9s x Atl\u00e9tico-MG",
-    "pubDate": "Sat, 18 Jan 2025 16:00:00 -0500",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQg1ZsKZbDL3qKZ6bSDIAroeSJswLqamwSnHmcNwt5gO8TtVs_g2ISHQZNehnZiXt1MQLiV2aCi",
-    "news_item_snippet": "No jornal digital GZH, voc\u00ea encontra as \u00faltimas not\u00edcias do RS e do mundo, tudo sobre o seu time e muitos outros conte\u00fados exclusivos.",
-    "news_item_url": "https://gauchazh.clicrbs.com.br/esportes/noticia/2025/01/melhores-momentos-aymores-x-atletico-mg-campeonato-mineiro-cm63udzxk01lo014f6wg6vuyd.html",
-    "picture_source": "GauchaZH",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "Brazil",
-    "title": "Arsenal x Aston Villa",
-    "pubDate": "Sat, 18 Jan 2025 12:00:00 -0500",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSbG8DEjispmCatCrLACX8Zpr3JRsrx-ug3EBpDgi14Iojs_6nSWM670q02nQw_1dCiLunY7_ZO",
-    "news_item_snippet": "A Premier League reserva um confronto interessante para este s\u00e1bado (18), quando Arsenal e Aston Villa medem for\u00e7as pela 21\u00aa rodada da competi\u00e7\u00e3o.",
-    "news_item_url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-ingles/arsenal-x-aston-villa-horario-e-onde-assistir-ao-jogo-da-premier-league/",
-    "picture_source": "CNN Brasil",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "Brazil",
-    "title": "Campeonato Ingl\u00eas",
-    "pubDate": "Sat, 18 Jan 2025 10:00:00 -0500",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcT1iny0aSwj5bawqQJ4NfFsLMZXo0SrekT0-yXAt4RGH0zTRnowl7Ke5DGpHbmvUHFTdpSoTCfd",
-    "news_item_snippet": "Depois de dois empates, o Liverpool, l\u00edder do Campeonato Ingl\u00eas, venceu o Brentford por 2 a 0 neste s\u00e1bado (18), pela 22\u00aa rodada, com dois gols de Darwin&nbsp;...",
-    "news_item_url": "https://gauchazh.clicrbs.com.br/esportes/noticia/2025/01/liverpool-desencanta-no-fim-e-vence-brentford-no-campeonato-ingles-cm62i05hv01fg017ro126bs9l.html",
-    "picture_source": "UOL",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Brazil",
-    "title": "La liga",
-    "pubDate": "Sat, 18 Jan 2025 16:00:00 -0500",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcR9JBHk4hHyEI9fNzrQcm_1Gh8LxsGMEZidmhOB6Yr4VJit9JeELHPz38pXWVvBgPDe0uawbx0w",
-    "news_item_snippet": "Na manh\u00e3 deste domingo (19), o Real Madrid, com as brasileiras Antonia e Yasmin convocadas, enfrentou o Eibar no Est\u00e1dio Alfredo di St\u00e9fano, pela 15\u00aa rodada&nbsp;...",
-    "news_item_url": "https://www.olimpiadatododia.com.br/futebol/659414-real-madrid-de-antonia-e-yasmin-e-derrotado-na-liga-espanhola/",
-    "picture_source": "Olimp\u00edada Todo Dia",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Brazil",
-    "title": "Sao Paulo",
-    "pubDate": "Sat, 18 Jan 2025 20:00:00 -0500",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTa6tIJEc0IezhiK2EpJWWeAka6j9E2QlMtZNFru2ESaxyBsSxBrGkxkQpeNMwatcGScWiignup",
-    "news_item_snippet": "O S\u00e3o Paulo e Flamengo se enfrentam neste domingo, 19, \u00e0s 17h (hor\u00e1rio de Bras\u00edlia), no Lockhart Stadium, na Fl\u00f3rida, Estados Unidos, pela FC Series.",
-    "news_item_url": "https://exame.com/esporte/sao-paulo-x-flamengo-onde-assistir-ao-vivo-e-horario-do-jogo-pela-fc-series/",
-    "picture_source": "CNN Brasil",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Brazil",
-    "title": "Portuguesa x Novorizontino",
-    "pubDate": "Sat, 18 Jan 2025 19:00:00 -0500",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSPyU4Gpj7fKJy4HbKR_hPft9oIPYqUa7Wb3ZPeIrzpu7W1h3UP5Cb1DS867ig-4DVqBcnbzRrg",
-    "news_item_snippet": "Saiba tudo sobre o jogo Portuguesa 2 x 2 Novorizontino (Campeonato Paulista, Rodada 2). Veja no ge os melhores momentos e o placar do jogo, gols e lances da&nbsp;...",
-    "news_item_url": "https://ge.globo.com/sp/tem-esporte/futebol/campeonato-paulista/jogo/18-01-2025/portuguesa-novorizontino.ghtml",
-    "picture_source": "UOL",
-    "approx_traffic": "50,000+"
   },
   {
     "country": "Canada",
     "title": "Detroit Lions",
     "pubDate": "Sat, 18 Jan 2025 17:00:00 -0500",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcS33MPrL3Rxdaz9VB4j5O58wJglHDtXILv-gmeKQjmeonnc4XiYBOkWKmmYhhbbQSSmzB9wTAan",
-    "news_item_snippet": "Expert recap and game analysis of the Washington Commanders vs. Detroit Lions NFL game from January 18, 2025 on ESPN.",
-    "news_item_url": "https://www.espn.com/nfl/recap?gameId=401671885",
+    "news_item_snippet": "A list of stats and notes from the Washington Commanders&#39; 45-31 win against Detroit presented by BDO by the Numbers, as compiled by Washington Commanders&nbsp;...",
+    "news_item_url": "https://www.commanders.com/news/commanders-lions-stats-snaps-x4449",
     "picture_source": "detroitlions.com",
     "approx_traffic": "100,000+"
   },
@@ -484,60 +344,50 @@
     "title": "Eggs recalled salmonella",
     "pubDate": "Sat, 18 Jan 2025 20:00:00 -0500",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQe-I6qM8NLbwIdtnhgdjHEe9WrcTkObnhOWOcHUqtvDEnDrEZUJEPpt3De0WRX09H5-e6OXa2t",
-    "news_item_snippet": "Burnbrae Farms is recalling eggs shell sold at Walmart, No Frills and other stores. The affected brands are Compliments, Foremost, Golden Valley Eggs, IGA,&nbsp;...",
-    "news_item_url": "https://www.thestar.com/news/canada/eggs-sold-in-ontario-and-other-provinces-are-being-recalled-due-to-salmonella-here-are/article_d737d87c-d5f2-11ef-b269-7bf3194988f0.html",
+    "news_item_snippet": "The Canadian Food Inspection Agency has issued a recall due to a possible salmonella contamination of certain brands of eggs in British Columbia, Manitoba,&nbsp;...",
+    "news_item_url": "https://www.newmarkettoday.ca/local-news/eggs-sold-in-ontario-recalled-over-salmonella-concerns-10098841",
     "picture_source": "CTV News",
     "approx_traffic": "50,000+"
   },
   {
-    "country": "France",
-    "title": "Saint-\u00c9tienne \u2013 Nantes",
-    "pubDate": "Sun, 19 Jan 2025 15:00:00 +0100",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTodOBjefMW1-rWUVa5NhZfmxa8XiUbol05kUE852w_vokvpIIa_noIhIz3jwFNa3jAu8DJjTxY",
-    "news_item_snippet": "L&#39;affiche entre clubs historiques du foot fran\u00e7ais \u00e9tait aussi un duel pour le maintien en Ligue 1. Il n&#39;a pas connu de vainqueur, apr\u00e8s un but de Moses&nbsp;...",
-    "news_item_url": "https://rmcsport.bfmtv.com/football/ligue-1/direct-saint-etienne-nantes-suivez-le-match-de-la-18e-journee-de-ligue-1-en-live_LS-202501190126.html",
-    "picture_source": "L'\u00c9quipe.fr",
+    "country": "Saudi Arabia",
+    "title": "\u0627\u0644\u0631\u064a\u0627\u0644 \u0636\u062f \u0644\u0627\u0633 \u0628\u0627\u0644\u0645\u0627\u0633",
+    "pubDate": "Sun, 19 Jan 2025 00:00:00 +0300",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRKsbxfBx16pejwg4To8ncX0Dc6VLe4i_wXb7q4_XulNgoxMiYW4KaoyEFiY9L2PJPaS4MULecA",
+    "news_item_snippet": "\u062a\u0623\u0644\u0642 \u0643\u064a\u0644\u064a\u0627\u0646 \u0645\u0628\u0627\u0628\u064a -\u0627\u0644\u064a\u0648\u0645 \u0627\u0644\u0623\u062d\u062f- \u0644\u064a\u0633\u062c\u0644 \u0647\u062f\u0641\u064a\u0646 \u0648\u064a\u0642\u0648\u062f \u0631\u064a\u0627\u0644 \u0645\u062f\u0631\u064a\u062f \u0644\u062a\u0639\u062f\u064a\u0644 \u062a\u0623\u062e\u0631\u0647 \u0628\u0647\u062f\u0641 \u0625\u0644\u0649 \u0627\u0646\u062a\u0635\u0627\u0631 \u0643\u0628\u064a\u0631 4-1 \u0639\u0644\u0649 \u0636\u064a\u0641\u0647 \u0644\u0627\u0633 \u0628\u0627\u0644\u0645\u0627\u0633 \u0648\u064a\u0631\u062a\u0642\u064a \u062d\u0627\u0645\u0644 \u0627\u0644\u0644\u0642\u0628 \u0644\u0635\u062f\u0627\u0631\u0629 \u0627\u0644\u062f\u0648\u0631\u064a&nbsp;...",
+    "news_item_url": "https://www.aljazeera.net/sport/liveblog/2025/1/19/%D9%85%D8%A8%D8%A7%D8%B4%D8%B1-%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9-%D8%B1%D9%8A%D8%A7%D9%84-%D9%85%D8%AF%D8%B1%D9%8A%D8%AF-%D8%B6%D8%AF-%D9%84%D8%A7%D8%B3-%D8%A8%D8%A7%D9%84%D9%85%D8%A7%D8%B3",
+    "picture_source": "\u0627\u0644\u064a\u0648\u0645 \u0627\u0644\u0633\u0627\u0628\u0639",
     "approx_traffic": "50,000+"
   },
   {
     "country": "France",
-    "title": "PSG",
-    "pubDate": "Sat, 18 Jan 2025 19:00:00 +0100",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQ6jihfGGuq4g8_FPnU0m2U1FhPRqxGnFvMvMj06VIGbQo-9ipEL2gu3vyeNHkXwEn5qvW5c2vf",
-    "news_item_snippet": "Battues 2-0 par l&#39;OL, les joueuses du PSG se sont retrouv\u00e9es samedi soir face aux dos et aux capuches des ultras parisiens \u00e9nerv\u00e9s, au moment de venir les&nbsp;...",
-    "news_item_url": "https://rmcsport.bfmtv.com/football/feminin/d1/psg-ol-sequence-forte-au-parc-des-princes-les-ultras-parisiens-tournent-le-dos-aux-joueuses-venues-les-saluer_AN-202501190187.html",
-    "picture_source": "PSG.FR",
+    "title": "Repousse cheveux edouard Philippe",
+    "pubDate": "Sun, 19 Jan 2025 10:00:00 +0100",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQyccgFKdUBETk9BFjC-ewU_YllEN0lTU6cHE_TQ3OXyyOrouEzYryghjXtXhljcKB2Jwor0zvI",
+    "news_item_snippet": "L&#39;ancien Premier ministre a souffert d&#39;une alop\u00e9cie qui a blanchi ses cheveux et sa barbe avant de lui faire perdre sa pilosit\u00e9. Il revient sur cet \u00e9pisode&nbsp;...",
+    "news_item_url": "https://www.bfmtv.com/politique/j-ai-l-impression-de-revivre-ma-puberte-edouard-philippe-se-confie-sur-sa-repousse-de-cheveux_AN-202501190159.html",
+    "picture_source": "Le HuffPost",
     "approx_traffic": "50,000+"
   },
   {
-    "country": "France",
-    "title": "Lens-PSG",
-    "pubDate": "Sat, 18 Jan 2025 17:00:00 +0100",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQvEthksv_BU4lSD5tCcwuMUvqkUqsTLWYJCzpv35qicUDtduJHjVz16B7GTe6L71UYqJsz-Al7",
-    "news_item_snippet": "\u00c0 l&#39;envers pendant une mi-temps, le PSG a su renverser une situation bien mal embarqu\u00e9e \u00e0 Lens ce samedi en Ligue 1 pour finalement s&#39;imposer gr\u00e2ce \u00e0 un but&nbsp;...",
-    "news_item_url": "https://www.linternaute.com/sport/foot/7109474-direct-lens-psg-suivez-le-match/",
-    "picture_source": "La Voix du Nord",
+    "country": "Germany",
+    "title": "Union Berlin \u2013 Mainz",
+    "pubDate": "Sun, 19 Jan 2025 16:00:00 +0100",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRV2Q5Da_ywhAv7bm6In5PXt9Q1pm9TdYJucRm2BHT12rmTZvoWo2FI9QNQi8zFNl3UlThjiA5q",
+    "news_item_snippet": "Mit einem 2:1-Sieg gegen Mainz belohnte sich Union Berlin f\u00fcr eine \u00fcberzeugende Leistung im Stadion An der Alten F\u00f6rsterei. Zum Auftakt in die R\u00fcckrunde trafen&nbsp;...",
+    "news_item_url": "https://www.rbb24.de/sport/beitrag/2025/01/fussball-bundesliga-union-berlin-mainz-audiostream-liveticker-spielbericht.html",
+    "picture_source": "ZDFheute",
     "approx_traffic": "50,000+"
   },
   {
-    "country": "France",
-    "title": "Rennes \u2013 Brest",
-    "pubDate": "Sat, 18 Jan 2025 19:00:00 +0100",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTgqEGYTC2fgIf9pPxFOsjw6bT0kGYcJku1B7tzu-AohaW6xm-KsdLGVClP45FAhGwIpPxHPiqo",
-    "news_item_snippet": "[VID\u00c9O] Extrait \u25b6\ufe0f 3m20s - \u00c0 l&#39;occasion du derby breton entre Rennes et Brest au Roazhon Park, Marine Marck est all\u00e9e \u00e0 la rencontre d&#39;Iris, une fervente&nbsp;...",
-    "news_item_url": "https://www.tf1.fr/tf1/telefoot/videos/rennes-brest-un-derby-crucial-pour-une-place-europeenne-39204782.html",
-    "picture_source": "Le Figaro",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "France",
-    "title": "Trump crypto",
-    "pubDate": "Sat, 18 Jan 2025 21:00:00 +0100",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTgiIghzdXbQ9omD1ST_cySUCbUOgscEcsFoqD9_4FCTsvuXKNJDxaFHsOt3BEjbtxMoEcDzKm_",
-    "news_item_snippet": "Donald Trump a annonc\u00e9, dans la nuit de vendredi \u00e0 samedi, le lancement de sa propre cryptomonnaie. Une fi\u00e8vre d&#39;achats a fait monter en quelques heures sa&nbsp;...",
-    "news_item_url": "https://www.lesechos.fr/finance-marches/marches-financiers/trump-lance-son-propre-meme-coin-et-embrase-le-marche-crypto-dans-la-surprise-et-leffroi-2143414",
-    "picture_source": "Le Monde",
-    "approx_traffic": "50,000+"
+    "country": "Germany",
+    "title": "TikTok",
+    "pubDate": "Sat, 18 Jan 2025 13:00:00 +0100",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRbeq4tHU_2gbXORvBCs4S5YfvSWK8SrV4_gN8nwFK-2OsYJbSZWazEfU2Ft6k-8ylnRtj4sUlH",
+    "news_item_snippet": "Katz-und-Maus-Spiel in den USA: Die chinesischen Betreiber hatten TikTok gesperrt, weil die App in den Staaten verboten werden sollte.",
+    "news_item_url": "https://www.spiegel.de/netzwelt/netzpolitik/tiktok-faehrt-betrieb-in-den-usa-wieder-hoch-a-e6bb31f2-e79e-450b-9e92-14b820c898f7",
+    "picture_source": "tagesschau.de",
+    "approx_traffic": "100,000+"
   },
   {
     "country": "Germany",
@@ -564,8 +414,18 @@
     "title": "Fiorentina-Torino",
     "pubDate": "Sun, 19 Jan 2025 12:00:00 +0100",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSk83rMeoH8hdHFzZ2ovMaMwssYfur2o4DkbA8D_ud0YdBN0L67IDUfGiIMmTkTR6oHDsS3y6yP",
-    "news_item_snippet": "SERIE A - Ennesimo flop della Fiorentina, che al &quot;Franchi&quot;, avanti 1-0 sul Torino con Kean al 39&#39;, si fa rimontare in superiorit\u00e0 numerica (per&nbsp;...",
-    "news_item_url": "https://www.eurosport.it/calcio/serie-a/2024-2025/serie-a-fiorentina-torino-1-1-avanti-con-kean-i-viola-si-fanno-rimontare-da-gineitis-in-superiorita-numerica_sto20072911/story.shtml",
+    "news_item_snippet": "SERIE A - Diamo i vota al match del &quot;Franchi&quot;, terminato 1-1. Con tutta la sua grinta, il giovane centrocampista lituano sovrasta Adli - dimostratosi.",
+    "news_item_url": "https://www.eurosport.it/calcio/serie-a/2024-2025/serie-a-le-pagelle-di-fiorentina-torino-1-1-pagelle-gineitis-provvidenziale-adli-disastroso_sto20072931/story.shtml",
+    "picture_source": "Sky Sport",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "Italy",
+    "title": "Verona-Lazio",
+    "pubDate": "Sun, 19 Jan 2025 16:00:00 +0100",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRKlSJIYQP3j8jzhz3EvwzvCs-Be0MNcgL_5yCRnvHXoYVRK5pkHMgzHmD_RaXSoQwItLxn9TjR",
+    "news_item_snippet": "La Lazio a Verona per tornare alla vittoria e superare la Juventus in classifica: Baroni potr\u00e0 contare nuovamente su Zaccagni.",
+    "news_item_url": "https://www.goal.com/it/liste/formazioni-verona-lazio-chi-gioca-titolare-e-le-ultime-su-belahyane-lazovic-tavares-zaccagni-e-dia/blt1bd3292c8d608648",
     "picture_source": "Sky Sport",
     "approx_traffic": "100,000+"
   },
@@ -581,9 +441,19 @@
   },
   {
     "country": "Italy",
+    "title": "Parma-Venezia",
+    "pubDate": "Sun, 19 Jan 2025 15:00:00 +0100",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRGdKZLMfXglQT1AipNu2D1Y_qZuoWCNucyXhokll1Hwp5OQQMebpoT4eDNzKCm2TKAX5kyEFYt",
+    "news_item_snippet": "Termina in parit\u00e0 la sfida tra Parma e Venezia, grazie ai 2 rigori trasformati da Pohjanpalo al 20\u00b0 e da Hernani al 56\u00b0.",
+    "news_item_url": "https://www.repubblica.it/sport/dirette/calcio/serie-a-2024/diretta-parma-venezia-g2456312/",
+    "picture_source": "Sky Sport",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Italy",
     "title": "Novak Djokovic",
     "pubDate": "Sun, 19 Jan 2025 11:00:00 +0100",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRRXCvTgSbdxFS-1PL7Eb59xZrBYd-g1N9pBOj33agaUIHRfD5U-MS3nEsXp8MpgXhG6jsDZn3h",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSVyGqQ6mKApobC6KIG_mXjIG9BCbQkewRzbWSWp_lqMvV8Il9DjC9nmnpq2ZLP5x3Bj0-ACmVl",
     "news_item_snippet": "Clamoroso episodio agli Australian Open, Nole furioso ora chiede le scuse ufficiali: tutti i dettagli.",
     "news_item_url": "https://www.tuttosport.com/news/tennis/2025/01/19-137637917/novak_un_fallito_djokovic-alcaraz_gi_un_caso_il_serbo_lascia_il_campo_",
     "picture_source": "Sky Sport",
@@ -591,12 +461,22 @@
   },
   {
     "country": "Italy",
-    "title": "Parma-Venezia",
-    "pubDate": "Sun, 19 Jan 2025 15:00:00 +0100",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRjBRI5n_nGzpnygPvZUj7YyTdUuq_7FkR1tDv7jCdtx7TZmAY2zrDPoJtNzYsI0ptjMqH0_9Iu",
-    "news_item_snippet": "Termina in parit\u00e0 la sfida tra Parma e Venezia, grazie ai 2 rigori trasformati da Pohjanpalo al 20\u00b0 e da Hernani al 56\u00b0.",
-    "news_item_url": "https://www.repubblica.it/sport/dirette/calcio/serie-a-2024/diretta-parma-venezia-g2456312/",
-    "picture_source": "Sky Sport",
+    "title": "Real Madrid-Las Palmas",
+    "pubDate": "Sun, 19 Jan 2025 16:00:00 +0100",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcS5kxq_4Vm_J0DBUKDgK0DU48m0224WRCy7VVJSMokxTgdmw5WXz2es6hkaHMyndFWaAOuO34dU",
+    "news_item_snippet": "LIGA - La squadra di Ancelotti, in svantaggio dopo 26 secondi, batte 4-1 il Las Palmas al Bernabeu e si porta da sola al comando della classifica.",
+    "news_item_url": "https://www.eurosport.it/calcio/la-liga/2024-2025/real-madrid-las-palmas-4-1-gol-di-mbappe-2-brahim-diaz-e-rodrygo.-ancelotti-in-testa-da-solo-a-2-sullatletico_sto20072988/story.shtml",
+    "picture_source": "La Gazzetta dello Sport",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Mexico",
+    "title": "Ipswich  Manchester City",
+    "pubDate": "Sun, 19 Jan 2025 10:00:00 -0600",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQwfmUGrK4ObGY_0wgXJKfAcixMBrRV2Jf2f6U1IAR0Tl2H2P1pKdH0AIfhSlzANUCR1zrFDOQ2",
+    "news_item_snippet": "Sigue el Ipswich Town - Manchester City, en vivo y en directo online, correspondiente a la jornada 22 de la Premier League, en AS.com.",
+    "news_item_url": "https://as.com/futbol/internacional/ipswich-town-manchester-city-en-vivo-premier-league-en-directo-n/",
+    "picture_source": "Infobae.com",
     "approx_traffic": "50,000+"
   },
   {
@@ -613,20 +493,10 @@
     "country": "Mexico",
     "title": "Getafe  Barcelona",
     "pubDate": "Sat, 18 Jan 2025 12:00:00 -0600",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRh5At9DMJ6qanQYfd9MhfNk3OZ_Lj3Vf5WCME2wDu-iUmqab9mLWqBIaaHF7ebe__CuY1rmpB1",
-    "news_item_snippet": "El Getafe recibe al Barcelona para disputar el partido correspondiente a la jornada 20 de La Liga. Ambos equipos conf\u00edan en aprovechar en el Coliseum la&nbsp;...",
-    "news_item_url": "https://www.elmundo.es/como/2025/01/18/678a3613fc6c832a6c8b4570.html",
-    "picture_source": "Exc\u00e9lsior",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "Mexico",
-    "title": "Atlas - Le\u00f3n",
-    "pubDate": "Sat, 18 Jan 2025 01:00:00 -0600",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSB5NeDtNNV2mGpjZTkuSJUzWatlAHiEC5hwdQsF9ZeM2whVaWwUFRoDqkF6f4EDv2yUXSxCJ5N",
-    "news_item_snippet": "El colombiano ingres\u00f3 en la segunda mitad del compromiso en el Estadio Jalisco.",
-    "news_item_url": "https://www.record.com.mx/futbol-liga-mx-atlas-leon/james-rodriguez-debuta-con-triunfo-con-voltereta-de-leon-ante-el-atlas",
-    "picture_source": "ESPN",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQaiIQI03OF8_MPx12Ke530mNFz1bx4Qtq6kdC225Mgadj8AuVpXvns9ZeRm09SKDNSC1C5XeRq",
+    "news_item_snippet": "En su visita al Coliseum, Barcelona no logr\u00f3 imponer condiciones y -a pesar de iniciar con la ventaja- Getafe les complic\u00f3 la existencia hasta el final;&nbsp;...",
+    "news_item_url": "https://www.excelsior.com.mx/adrenalina/de-vuelta-a-las-andadas-barcelona-deja-puntos-ante-getafe/1695065",
+    "picture_source": "El Mundo",
     "approx_traffic": "200,000+"
   },
   {
@@ -636,6 +506,16 @@
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQkcrKSzq1qXlTpF4wNrG3pcG0Hq1kEYLfTBZo0L7yzOLOb-Jfxo6jh_grXAADENz25k6Tkcs0v",
     "news_item_snippet": "La &#39;M\u00e1quina&#39; no registr\u00f3 diparos a puerta durante el juego y el rival mantuvo la ventaja desde temprano en el duelo.",
     "news_item_url": "https://espndeportes.espn.com/futbol/mexico/nota/_/id/14683628/fc-juarez-vs-cruz-azul-clausura-2025-resultado-goles-liga-mx",
+    "picture_source": "TUDN",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "Mexico",
+    "title": "Atlas - Le\u00f3n",
+    "pubDate": "Sat, 18 Jan 2025 01:00:00 -0600",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQ_HXB2RI-a4hfUh6y7yQGLH-ZH6OdwTbCfm_OmjFkiijVugfnT09SfaFD6o73tDdgrp--93CIj",
+    "news_item_snippet": "James Rodr\u00edguez sum\u00f3 minutos en el triunfo 2-1 de Le\u00f3n en su visita a Atlas, fue clave generando un penal y debut\u00f3 en Liga MX unos d\u00edas despu\u00e9s de haber&nbsp;...",
+    "news_item_url": "https://www.espn.com.mx/futbol/mexico/nota/_/id/14684365/como-fue-debut-james-rodriguez-liga-mx-atlas-vs-leon",
     "picture_source": "TUDN",
     "approx_traffic": "200,000+"
   },
@@ -660,54 +540,44 @@
     "approx_traffic": "100,000+"
   },
   {
-    "country": "Mexico",
-    "title": "Premier League",
-    "pubDate": "Sat, 18 Jan 2025 09:00:00 -0600",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSyl7G8nEYpiCFgBARvIXnvqUoId-friMRq42wOcByElq1W76sUBGzt_AsA0mxNUynDdthkZpAw",
-    "news_item_snippet": "Alisson; Alexander-Arnold, Konat\u00e9, van Dijk, Tsimikas; Gravenberch, Mac Allister, Szoboszlai; Salah, Gakpo y Luis D\u00edaz.",
-    "news_item_url": "https://espndeportes.espn.com/futbol/inglaterra/nota/_/id/14680702/liverpool-vs-brentford-alineaciones-fecha-22-premier-league",
-    "picture_source": "Exc\u00e9lsior",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Mexico",
-    "title": "Leicester City  Fulham",
-    "pubDate": "Sat, 18 Jan 2025 09:00:00 -0600",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSf5qbBCoB50BjcXO18ABLzEWeYFzq_e6AnBlRYhlcEFcZ3N4Jace_0LOgQmiPB3l7LdoKUtCSr",
-    "news_item_snippet": "Los Cottagers son novenos generales y cuentan con 33 puntos en la tabla de la Premier League.",
-    "news_item_url": "https://www.record.com.mx/futbol-futbol-internacional-internacionales/fulham-derrota-de-visita-al-leicester-city-raul-jimenez",
-    "picture_source": "La Jornada",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Mexico",
-    "title": "Willem II - Feyenoord",
-    "pubDate": "Sat, 18 Jan 2025 12:00:00 -0600",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcS4jLhOIsayzLi6rPXU2jEmhpVB4dByQ1wGYaC4gGYHFV0tZDc-AKdm_agF0JOfKAtTlI993Mct",
-    "news_item_snippet": "Willem II vs Feyenoord: Conoce todos los detalles para ver EN VIVO la jornada 19 de la Eredivisie 2025.",
-    "news_item_url": "https://www.milenio.com/deportes/futbol-internacional/ver-willem-ii-vs-feyenoord-partido-de-santiago-gimenez-hoy-en-vivo",
-    "picture_source": "MARCA.com",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Mexico",
-    "title": "Cruz Azul",
-    "pubDate": "Sat, 18 Jan 2025 18:00:00 -0600",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRgPSS0bJr2iQ7Nt90lF8LYKvJ3uQznJdAvKWEn30pUBq39IGxaCzB_TATLCpC67ihI-sDmyV6w",
-    "news_item_snippet": "La &#39;M\u00e1quina&#39; no registr\u00f3 diparos a puerta durante el juego y el rival mantuvo la ventaja desde temprano en el duelo.",
-    "news_item_url": "https://espndeportes.espn.com/futbol/mexico/nota/_/id/14683628/fc-juarez-vs-cruz-azul-clausura-2025-resultado-goles-liga-mx",
-    "picture_source": "ESPN",
-    "approx_traffic": "50,000+"
+    "country": "Spain",
+    "title": "Real Madrid - UD Las Palmas",
+    "pubDate": "Sun, 19 Jan 2025 00:00:00 +0100",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTcWDoAAejGvMe8dje_UQt3MOoJRLrAKJEngUbGtiEr9fVsSOLjziEHOvFeHgcGr3g9PRc92R1n",
+    "news_item_snippet": "Los de Ancelotti vuelven a conquistar el campo y aventajan en dos puntos al Atl\u00e9tico de Madrid. Escucha la narraci\u00f3n de los goles en Radioestadio,&nbsp;...",
+    "news_item_url": "https://www.ondacero.es/deportes/futbol/real-madrid-golea-palmas-santiago-bernabeu_20250119678d33e00c57370001be210f.html",
+    "picture_source": "RTVE",
+    "approx_traffic": "500,000+"
   },
   {
     "country": "Spain",
     "title": "Celta de Vigo  Athletic",
     "pubDate": "Sun, 19 Jan 2025 14:00:00 +0100",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQHiki5ZCrnUMe7u8-X9WX6QAUx7Tjdvazucmgugw5p4SCPsirL0K59G1x8jA--jJQyUyOmAY-8",
-    "news_item_snippet": "El Celta de Vigo disputa la jornada 20 de LaLiga EA Sports en Bala\u00eddos ante el Athletic Club este domingo a las 14.00 (DAZN), un enfrentamiento al que llega&nbsp;...",
-    "news_item_url": "https://www.teleprensa.com/articulo/deportes/celta-vigo-vs-athletic-club-hora-donde-ver-estadisticas-datos-previos-partido/202501190912182008677.html",
-    "picture_source": "Mundo Deportivo",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcS3xuqa8wDA9uM7GbWxd0kmdrkfnpOPdoY5oh43Kvl_PlRAK5WsQlOfqTLivClcPrJdc5UVTzZb",
+    "news_item_snippet": "Madrid, 19 de enero de 2025. El Celta de Vigo, situado en la decimotercera posici\u00f3n de la tabla se enfrenta en la jornada 20 de LaLiga EA Sports en el&nbsp;...",
+    "news_item_url": "https://www.europapress.es/deportes/noticia-celta-vigo-athletic-bilbao-directo-resumen-goles-resultado-hoy-20250119133100.html",
+    "picture_source": "Teleprensa peri\u00f3dico digital",
     "approx_traffic": "100,000+"
+  },
+  {
+    "country": "Spain",
+    "title": "Carlos Alcaraz",
+    "pubDate": "Sun, 19 Jan 2025 13:00:00 +0100",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRgQIiWZlll9S_W_kcQfNKo6dto3Q2-uaUW1vjH-iRxBPD9pzUOpFv3ThdERglA6hLYAiH59XAY",
+    "news_item_snippet": "El serbio y el espa\u00f1ol se volver\u00e1n a ver las caras en cuartos de final de Open de Australia. Sus enfrentamientos son sin\u00f3nimo de espect\u00e1culo y de buen&nbsp;...",
+    "news_item_url": "https://www.lasexta.com/noticias/deportes/tenis/duelos-carlos-alcaraz-novak-djokovic-quien-ganado-mas-vecesy-grand-slam_20250119678d30f20c57370001be1ec2.html",
+    "picture_source": "Olympics",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Spain",
+    "title": "Osasuna  Rayo Vallecano",
+    "pubDate": "Sun, 19 Jan 2025 18:00:00 +0100",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTxdJHF7ZKC6WR8NLtX5QBBnUinS5bTGFRNu-oU5xOmovSssFr2xkhwVR4BisjKrDk6ZVZBr61t",
+    "news_item_snippet": "FINAL DEL PARTIDO!! Osasuna y Rayo Vallecano han hecho del reparto de puntos su modo de vida. Instalados en la mitad de la clasificaci\u00f3n, su duelo e.",
+    "news_item_url": "https://www.marca.com/futbol/laliga-ea-sports/osasuna-rayo/2025/01/19/01_0101_20250119_450_184-directo.html",
+    "picture_source": "AS",
+    "approx_traffic": "50,000+"
   },
   {
     "country": "United Kingdom",
@@ -723,11 +593,21 @@
     "country": "United Kingdom",
     "title": "Nottm Forest vs Southampton",
     "pubDate": "Sun, 19 Jan 2025 14:00:00 +0000",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcR_AvA4yuMOmMjliHwtrb1Qd5MfjEOe5AqnX0NcWCYv-au_NHFLy4VADZ-G0AcyPCiCx3G8o8t_",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQxHyCCyPB5fXkAYA2O8mqYcCe-LbyGrJMOOo6_y2Hugi8d8aaTOY6JNB-nHTVIjrOnNlaCRYQG",
     "news_item_snippet": "Nottingham Forest will be hoping to continue their unexpected challenge for the title on Sunday as they host basement boys Southampton.",
     "news_item_url": "https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-nottingham-forest-vs-southampton-from-anywhere/",
-    "picture_source": "ProSoccerTalk",
+    "picture_source": "The Independent",
     "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United Kingdom",
+    "title": "Leeds United",
+    "pubDate": "Sun, 19 Jan 2025 12:00:00 +0000",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSfSoCXhsQntnpfX58_snwcgLMGQM07AIzcQFCZnK9L3R9EA8Z3gFZF1qI6yRktaKpLN1kJ0hCD",
+    "news_item_snippet": "An increasingly competitive second tier in English football remains an intense and exciting competition, with the prize of a place in the Premier League on&nbsp;...",
+    "news_item_url": "https://sports.yahoo.com/leeds-united-vs-sheffield-wednesday-100012897.html",
+    "picture_source": "Leeds United",
+    "approx_traffic": "50,000+"
   },
   {
     "country": "United Kingdom",
@@ -738,45 +618,5 @@
     "news_item_url": "https://www.liverpoolfc.com/news/we-met-kop-and-then-married-27-fan-stories-liverpools-6000-games",
     "picture_source": "Liverpool FC",
     "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United Kingdom",
-    "title": "Premier League",
-    "pubDate": "Sat, 18 Jan 2025 15:00:00 +0000",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcT25stpWU-vScjTjivoQPtKhV-WQG3XNL5YcKTehMWn6YWyDBqRobriUxY3PD1xK9t0Q8UfXayH",
-    "news_item_snippet": "Live audio commentary of every game on this page &middot; Foden scores twice, Haaland, McAtee, Kovacic &amp; Doku net as Man City cruise at Ipswich &middot; Brighton beat Man Utd 3&nbsp;...",
-    "news_item_url": "https://www.bbc.co.uk/sport/football/live/cj9007lgnv1t",
-    "picture_source": "Aljazeera.com",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "United Kingdom",
-    "title": "TikTok",
-    "pubDate": "Sat, 18 Jan 2025 09:00:00 +0000",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRzJbSCj6tz_yWtf-IKss__zGR5oqqoyhirjrnBQ-8OL8FjvDaTkkW9iQkbrqbklz49yt83RWlf",
-    "news_item_snippet": "Claiming a threat from a &#39;foreign adversary&#39;, the US has yet to prove China shared propaganda or collected US user data.",
-    "news_item_url": "https://www.theguardian.com/technology/2025/jan/19/tiktok-ban-culpability",
-    "picture_source": "BBC News",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "United Kingdom",
-    "title": "Arsenal",
-    "pubDate": "Sat, 18 Jan 2025 17:00:00 +0000",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRw3qaTgcXGDpUHrlUWLCucZrXybNDHpfbklrCM004B1I4wByxkYDmHbdfcGPqdl_FvU-1A-ZPY",
-    "news_item_snippet": "Aston Villa fought back from two goals down to earn a draw against Arsenal in an action-packed Premier League encounter, maintaining their unbeaten start to&nbsp;...",
-    "news_item_url": "https://www.avfc.co.uk/news/2025/january/18/Arsenal-2-2-Aston-Villa/",
-    "picture_source": "Arsenal.com",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "United Kingdom",
-    "title": "Newcastle vs Bournemouth",
-    "pubDate": "Sat, 18 Jan 2025 12:00:00 +0000",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRr1eifCLC6-DfFdZCazMrxmzjIhNluMsQp9I6iwqbez1yRMRL-whLZBTud9z-HjmScm15Z_u2l",
-    "news_item_snippet": "Minute-by-minute report: Justin Kluivert scored his second hat-trick of the season as the injury-ravaged visitors ended Newcastle&#39;s long winning streak.",
-    "news_item_url": "https://www.theguardian.com/football/live/2025/jan/18/newcastle-united-v-bournemouth-premier-league-live-score-updates",
-    "picture_source": "Sky Sports",
-    "approx_traffic": "200,000+"
   }
 ]
