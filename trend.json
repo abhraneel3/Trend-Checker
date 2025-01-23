@@ -1,33 +1,13 @@
 [
   {
     "country": "United States",
-    "title": "DEI",
-    "pubDate": "Wed, 22 Jan 2025 02:00:00 -0800",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRLzno5UZ10Ak946oCdKNYcJHDaxfgR8YzdIjZmm4pH9OVyS1kVONGDQDn2o2QklrulTOm9MITi",
-    "news_item_snippet": "Today, Federal Trade Commission Chairman Andrew N. Ferguson announced that the agency is delivering on the promise that President Trump made to the American&nbsp;...",
-    "news_item_url": "https://www.ftc.gov/news-events/news/press-releases/2025/01/ftc-chairman-ferguson-announces-dei-over-ftc",
-    "picture_source": "NPR",
-    "approx_traffic": "500,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Castaic Fire",
+    "title": "Castaic fire",
     "pubDate": "Wed, 22 Jan 2025 13:00:00 -0800",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRBRDYEbIeWEz5aMn_9fQmZsqD0_PD9UOqN9NIU_ygW8dQNBYbwDAsJ8yN6uuYN77nqAdrg7z0f",
-    "news_item_snippet": "The Hughes fire near Castaic Lake in northern Los Angeles County began Wednesday morning and now covers more than 10,000 acres or 15 square miles. It was only&nbsp;...",
-    "news_item_url": "https://www.nbcnews.com/weather/wildfires/hughes-fire-evacuation-los-angeles-rcna188834",
-    "picture_source": "NBC Southern California",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSQKGHbe-QeqBlom8vIjBRuQsAd2MN91Ysf7MUMO4SZvIGbE2r0Iq91u0945ualefUxMtsxXtM5",
+    "news_item_snippet": "The Hughes Fire in northern LA County grew with alarming speed on a day of red flag warnings in Southern California.",
+    "news_item_url": "https://www.nbclosangeles.com/news/california-wildfires/hughes-fire-castaic-la-wildfires/3612459/",
+    "picture_source": "BBC News",
     "approx_traffic": "500,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Real Madrid",
-    "pubDate": "Wed, 22 Jan 2025 12:00:00 -0800",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQQqr-Adk425K2Cc5bOlk3aX-hW3BDRPNZ1HTTPF4Ua0DTUPLxxWLFHsCUUtSDmmLFMvV1lAglr",
-    "news_item_snippet": "All our updates, including post-match reaction and interviews, as Real thump Salzburg in Madrid.",
-    "news_item_url": "https://www.aljazeera.com/sports/liveblog/2025/1/22/live-real-madrid-vs-rb-salzburg-uefa-champions-league",
-    "picture_source": "ESPN",
-    "approx_traffic": "200,000+"
   },
   {
     "country": "United States",
@@ -37,6 +17,16 @@
     "news_item_snippet": "Dr. Adrienne Battle released the following statement regarding the tragic shooting at Antioch High School this morning: \u201cThis is a heartbreaking day for the&nbsp;...",
     "news_item_url": "https://www.mnps.org/news/featured-stories/antioch_high_school_update",
     "picture_source": "WVTM13",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Real Madrid",
+    "pubDate": "Wed, 22 Jan 2025 12:00:00 -0800",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQQqr-Adk425K2Cc5bOlk3aX-hW3BDRPNZ1HTTPF4Ua0DTUPLxxWLFHsCUUtSDmmLFMvV1lAglr",
+    "news_item_snippet": "All our updates, including post-match reaction and interviews, as Real thump Salzburg in Madrid.",
+    "news_item_url": "https://www.aljazeera.com/sports/liveblog/2025/1/22/live-real-madrid-vs-rb-salzburg-uefa-champions-league",
+    "picture_source": "ESPN",
     "approx_traffic": "200,000+"
   },
   {
@@ -51,11 +41,21 @@
   },
   {
     "country": "United States",
+    "title": "Oscar nominations 2025",
+    "pubDate": "Wed, 22 Jan 2025 23:00:00 -0800",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcR7OAeGm09OS46WyX9KMmbib_uWYlJ4bnuOQPyq6ZyFLwpLHHb-dXfXsh1lBiC3S0nBqmlFeSlA",
+    "news_item_snippet": "The Academy of Motion Picture Arts and Sciences showered little-seen movies rooted in progressive politics with nominations for the 97th Oscars on Thursday.",
+    "news_item_url": "https://www.nytimes.com/2025/01/23/movies/oscar-nominations-academy-awards.html",
+    "picture_source": "NPR",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United States",
     "title": "Samsung",
     "pubDate": "Wed, 22 Jan 2025 12:00:00 -0800",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSamzvYp8OhjOhhaRpcg8gA6ikbk_oqrIJfPnV7Dw8F9-PigjrCGphWPxTUbMAi848PVW3I-Z_p",
-    "news_item_snippet": "The Samsung Galaxy S25 Edge looks like an excitingly slim phone, and it stole the show at Samsung Galaxy Unpacked. But it&#39;s not clear who the target&nbsp;...",
-    "news_item_url": "https://www.tomsguide.com/phones/samsung-phones/i-saw-the-samsung-galaxy-s25-edge-at-unpacked-and-im-super-excited-and-super-confused",
+    "news_item_snippet": "Samsung kicked off its annual Galaxy Unpacked event with a promise to set a new standard for mobile AI with the launch of the Galaxy S25 Series.",
+    "news_item_url": "https://insights.samsung.com/2025/01/22/samsung-unpacked-january-2025-full-replay-and-highlights/",
     "picture_source": "AT&T Newsroom",
     "approx_traffic": "100,000+"
   },
@@ -63,31 +63,11 @@
     "country": "United States",
     "title": "Lynn Ban",
     "pubDate": "Wed, 22 Jan 2025 11:00:00 -0800",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRKz2thDaDozFahHAhzn3zbB5ilrbHsnFUcfHuUEnHxAeHCgUOpAgpv-jYPJnuh8DKdRPkulAWw",
-    "news_item_snippet": "Netflix&#39;s &quot;Bling Empire: New York&quot; star and jewelry designer Lynn Ban has died after recently being involved in a ski accident and undergoing brain surgery.",
-    "news_item_url": "https://abcnews.go.com/GMA/Wellness/bling-empire-star-lynn-ban-dies-52-brain/story?id=118003651",
-    "picture_source": "BBC News",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Laken Riley Act",
-    "pubDate": "Wed, 22 Jan 2025 22:00:00 -0800",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRgPyn-G70aYDNjRkoXyiaHKM2ypK0sMof3Sp-4Tm_z5UBf4BPVb3BaynacluO1ZIGjqjCK3xKt",
-    "news_item_snippet": "Forty-six Democrats defy party leadership and cross the political aisle to support the Republican measure.",
-    "news_item_url": "https://www.bbc.com/news/articles/cj482l0kw7qo",
-    "picture_source": "BBC News",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Blake Lively",
-    "pubDate": "Wed, 22 Jan 2025 09:00:00 -0800",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcREeoNrFLs3vISTihb4m6DTX3pnDbA6DvPnOyteuhiX92siNKGJSAjtEGrY0KOpDX8jLsKk3l57",
-    "news_item_snippet": "Justin Baldoni says footage shows he didn&#39;t sexually harass Blake Lively, but she says the opposite.",
-    "news_item_url": "https://www.bbc.com/news/articles/clyen56dwwno",
-    "picture_source": "USA TODAY",
-    "approx_traffic": "50,000+"
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSkQ3Cxz5QGGai1u0ACoh0r6_Detzm03aj0u0EXfQSeK_5upa5-6089kVa0roG7hg-ZOJTTmEZ7",
+    "news_item_snippet": "Celebrity jewellery designer Lynn Ban has died weeks after a ski accident on Christmas Eve.",
+    "news_item_url": "https://www.bbc.com/news/articles/cr53897vn3no",
+    "picture_source": "KGET 17",
+    "approx_traffic": "100,000+"
   },
   {
     "country": "United States",
@@ -101,12 +81,32 @@
   },
   {
     "country": "United States",
-    "title": "Oscar Nominations 2025",
-    "pubDate": "Wed, 22 Jan 2025 23:00:00 -0800",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRYm89NrNUjVDErspSPJH0pEP-jS25MuO_pJBggFOzicLAbKAhH6sPHTwZ80A3_WUxBpT29ozbN",
-    "news_item_snippet": "This year&#39;s Oscars nominations will be revealed shortly, with the race for best picture wide open. Watch the nominations live above from 13:30 GMT.",
-    "news_item_url": "https://www.bbc.com/news/live/c93lyk9nl25t",
-    "picture_source": "NPR",
+    "title": "Laken Riley Act",
+    "pubDate": "Wed, 22 Jan 2025 22:00:00 -0800",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRgPyn-G70aYDNjRkoXyiaHKM2ypK0sMof3Sp-4Tm_z5UBf4BPVb3BaynacluO1ZIGjqjCK3xKt",
+    "news_item_snippet": "The US Congress has passed a bill requiring undocumented immigrants who are arrested for theft or violent crimes to be held in jail pending trial.",
+    "news_item_url": "https://www.bbc.com/news/articles/cj482l0kw7qo",
+    "picture_source": "BBC News",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Blake Lively",
+    "pubDate": "Wed, 22 Jan 2025 09:00:00 -0800",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcREeoNrFLs3vISTihb4m6DTX3pnDbA6DvPnOyteuhiX92siNKGJSAjtEGrY0KOpDX8jLsKk3l57",
+    "news_item_snippet": "Blake Lively&#39;s lawyers are accusing Justin Baldoni&#39;s attorney, Bryan Freedman, of publicly making \u201cmisleading and selective\u201d statements about Lively and her&nbsp;...",
+    "news_item_url": "https://www.cnn.com/2025/01/22/entertainment/blake-lively-justin-baldoni-letter-hearing/index.html",
+    "picture_source": "USA TODAY",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Ben Shelton",
+    "pubDate": "Wed, 22 Jan 2025 07:00:00 -0800",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTQdUmZx-vDOd1BJsVEbNgkN2BDISuvNYAoTQGxJzPl0E01Rpu76sy4Iz5Rz9S11Pj8QzHN2WON",
+    "news_item_snippet": "American player Ben Shelton has criticized some of the questions and comments made by post-match TV interviewers at the Australian Open after reaching the&nbsp;...",
+    "news_item_url": "https://apnews.com/article/shelton-tv-interviewers-australian-open-djokovic-afeabdc6a98d38b1c792a09ef9c70c49",
+    "picture_source": "The Associated Press",
     "approx_traffic": "50,000+"
   },
   {
@@ -131,13 +131,13 @@
   },
   {
     "country": "India",
-    "title": "Netaji Subhas Chandra Bose",
-    "pubDate": "Thu, 23 Jan 2025 00:30:00 +0530",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcT75xLAhNkapavBRk5HCiGZjf8Lntbven8CTAewZkM4sg3CwDH41kzev1lrq1Ep018LZo0n_Aqw",
-    "news_item_snippet": "Governor, La Ganesan with officers and staff of the Governor&#39;s Secretariat during the Netaji Subhas Chandra Bose Jayanti observed at Raj Bhavan,&nbsp;...",
-    "news_item_url": "https://ipr.nagaland.gov.in/GOVERNOR-LA-GANESAN-OBSERVES-NETAJI-SUBHAS-CHANDRA-BOSE-JAYANTI-AT-RAJ-BHAVAN%2C-KOHIMA",
-    "picture_source": "The Indian Express",
-    "approx_traffic": "50,000+"
+    "title": "Rohit Sharma",
+    "pubDate": "Thu, 23 Jan 2025 11:30:00 +0530",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSEWdOHbDnuQaYXAJsDAmw7s3VRWgRz34_OpFgOw8ZNyasUOwLVmZxtDamiwruWp_ovxJKY8lSc",
+    "news_item_snippet": "Rohit Sharma was dismissed for just three runs after facing 19 balls in Mumbai&#39;s Group A match against Jammu and Kashmir | Crickit.",
+    "news_item_url": "https://www.hindustantimes.com/cricket/rohit-sharma-hits-embarrassing-19-year-low-after-failed-ranji-trophy-return-disgruntled-fans-immediately-leave-stadium-101737625908129.html",
+    "picture_source": "ESPNcricinfo.com",
+    "approx_traffic": "100,000+"
   },
   {
     "country": "India",
@@ -147,16 +147,6 @@
     "news_item_snippet": "The club ranks first, with \u20ac1.045,5 billion, in the &#39;2025 Football Money League&#39; report.",
     "news_item_url": "https://www.realmadrid.com/en-US/news/club/latest-news/el-real-madrid-es-por-segundo-ano-consecutivo-el-club-de-futbol-con-mayores-ingresos-del-mundo-segun-deloitte-23-01-2025",
     "picture_source": "Aljazeera.com",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "India",
-    "title": "Rohit Sharma",
-    "pubDate": "Thu, 23 Jan 2025 11:30:00 +0530",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSEWdOHbDnuQaYXAJsDAmw7s3VRWgRz34_OpFgOw8ZNyasUOwLVmZxtDamiwruWp_ovxJKY8lSc",
-    "news_item_snippet": "Rohit Sharma&#39;s dismal run continued on Thursday as the Indian cricket team star batter was dismissed for just 3 during the Ranji Trophy match between Mumbai&nbsp;...",
-    "news_item_url": "https://sports.ndtv.com/ranji-trophy/rohit-sharmas-reaction-says-it-all-after-early-dismissal-on-ranji-trophy-return-watch-7538587",
-    "picture_source": "ESPNcricinfo.com",
     "approx_traffic": "50,000+"
   },
   {
@@ -191,21 +181,21 @@
   },
   {
     "country": "India",
-    "title": "PSG vs Man City",
-    "pubDate": "Wed, 22 Jan 2025 00:30:00 +0530",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRD5kPIDc7hVBi6As_N2Cs3OONTRfPmCIAjnmckNkKvCROXHjqZ6JHLIXx73OCCWjBUpfsxJgq9",
-    "news_item_snippet": "But a far tougher test awaits tonight as City simply must win in Paris to keep their European hopes alive. After eight games - which include two wins, two draws&nbsp;...",
-    "news_item_url": "https://sports.yahoo.com/man-city-xi-vs-psg-115241030.html",
-    "picture_source": "Manchester City FC",
-    "approx_traffic": "200,000+"
+    "title": "Subhash Chandra Bose",
+    "pubDate": "Wed, 22 Jan 2025 20:30:00 +0530",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQTrLl7pp2brg7Do1Av51RhOB406KjiOQyAP0gPz7ypjLHP-OHshAmEaMjzZzwK0irhCTY43Bj0jQ",
+    "news_item_snippet": "Parakram Diwas 2025: This year, the day will be observed on January 23, 2025, falling on a Thursday and marking 128th birth anniversary of Netaji Subhash&nbsp;...",
+    "news_item_url": "https://indianexpress.com/article/when-is/netaji-subhash-chandra-bose-2025-history-parakram-diwas-9788643/",
+    "picture_source": "The Hindu",
+    "approx_traffic": "100,000+"
   },
   {
     "country": "India",
     "title": "Sports",
     "pubDate": "Wed, 22 Jan 2025 21:30:00 +0530",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRZA9esai8IDILpYfv1U9v0vB97rVRLpI7KBWindWCwrFV5Jx43Kri78iOZd3FCi7EFnCAxVrpd",
-    "news_item_snippet": "The Kerala government has decided to roll back the ban on Navamukunda Higher Secondary School, Thirunavaya, Malappuram, and Mar Basil Higher Secondary&nbsp;...",
-    "news_item_url": "https://www.thehindu.com/news/national/kerala/ban-on-schools-participation-in-2025-26-sports-meet-to-be-rolled-back/article69131951.ece",
+    "news_item_snippet": "New Delhi: India is still dependent on foreign coaches to train elite athletes in almost every sport. Despite talks about the need to develop quality Indian&nbsp;...",
+    "news_item_url": "https://www.hindustantimes.com/sports/others/sports-ministry-now-plans-tops-like-scheme-for-coaches-101737569291542.html",
     "picture_source": "Hindustan Times",
     "approx_traffic": "50,000+"
   },
@@ -237,7 +227,7 @@
     "news_item_snippet": "Los dirigidos por Pep Guardiola ganaban 2-0, pero los de Luis Enrique pasaron al frente en el Parque de los Pr\u00edncipes. El resto de la pen\u00faltima jornada.",
     "news_item_url": "https://www.infobae.com/deportes/2025/01/22/jornada-definitoria-en-la-champions-league-con-un-electrizante-duelo-entre-psg-y-manchester-city-la-agenda-completa-de-partidos/",
     "picture_source": "ESPN",
-    "approx_traffic": "100,000+"
+    "approx_traffic": "50,000+"
   },
   {
     "country": "Argentina",
@@ -253,20 +243,10 @@
     "country": "Australia",
     "title": "Samsung",
     "pubDate": "Thu, 23 Jan 2025 06:00:00 +1100",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQnUiY0O4_GBnZh0EUr9XWBRTsjXvZMW9RMeRzT76WjYOezaStuOYMrxZZobLL2LuAbTfI0KOaC",
-    "news_item_snippet": "Aims to fend off Apple and Chinese rivals. Samsung Electronics has unveiled its newest Galaxy S25 smartphones, powered by Qualcomm&#39;s chips and Google&#39;s&nbsp;...",
-    "news_item_url": "https://www.itnews.com.au/news/samsung-unveils-ai-smartphones-with-qualcomm-chips-614509",
-    "picture_source": "Ausdroid",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Australia",
-    "title": "Badosa",
-    "pubDate": "Thu, 23 Jan 2025 20:00:00 +1100",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcT5lzHVGCJ0AN78FYRWoir-IJiYBxD72tSQPUVxwf6qdWhikv_u9XCekGfLh04Z-zBUj1AOz5xi",
-    "news_item_snippet": "&#39;No matter what happens we&#39;ll be friends&#39;: Hearts melt over champ&#39;s kind act after Open semi-final.",
-    "news_item_url": "https://www.foxsports.com.au/tennis/australian-open/no-matter-what-happens-well-be-friends-hearts-melt-over-champs-kind-act-after-open-semifinal/news-story/b83697e869276c0d01ee0ad356d0689d",
-    "picture_source": "Australian Open",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTFmef12xj0WAx7_dowNA0gVlGscLDso2_N6jSrrVwPzpYfEpV7KPgCF3-AA95GuMRbRSSRkOze",
+    "news_item_snippet": "The first new phone flagship of the year is landing at Telstra soon. With pre-orders opening this morning (with sweet deals thrown in) for the phones,&nbsp;...",
+    "news_item_url": "https://www.telstra.com.au/exchange/the-new-samsung-galaxy-s25--s25---s25-ultra-and-galaxy-ring--eve",
+    "picture_source": "iTnews",
     "approx_traffic": "50,000+"
   },
   {
@@ -288,6 +268,16 @@
     "news_item_url": "https://www.estadao.com.br/esportes/futebol/ao-vivo-bangu-x-flamengo-campeonato-carioca-2025-futebol/",
     "picture_source": "Clube de Regatas do Flamengo",
     "approx_traffic": "1,000,000+"
+  },
+  {
+    "country": "Brazil",
+    "title": "PSG x City",
+    "pubDate": "Wed, 22 Jan 2025 06:00:00 -0500",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSNd-2a9ieYmcuxj0_LBiy40o5gVxvjRYGpNt5U9eVe__P0hev7liEdwsBEjloRtjAOwh8rKjKC",
+    "news_item_snippet": "PSG e Manchester City entram em campo hoje (22), \u00e0s 17h (de Bras\u00edlia), no Parque dos Pr\u00edncipes, em Paris (FRA), pela 7\u00aa rodada da Liga dos Campe\u00f5es da&nbsp;...",
+    "news_item_url": "https://www.uol.com.br/esporte/ultimas-noticias/2025/01/22/onde-vai-passar-psg-x-manchester-city-como-assistir-ao-vivo-com-imagens.htm",
+    "picture_source": "CNN Brasil",
+    "approx_traffic": "200,000+"
   },
   {
     "country": "Brazil",
@@ -341,6 +331,16 @@
   },
   {
     "country": "Brazil",
+    "title": "Internacional",
+    "pubDate": "Wed, 22 Jan 2025 17:00:00 -0500",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSb7bMMMVPNSdxvcjmqDJoNDNJWyI1_veoZU2Z7H9zYiEBkx_GxoQeLpa3dIenIYHZw7KbSUeHx",
+    "news_item_snippet": "Filme concorre com &#39;Emilia P\u00e9rez&#39; (Fran\u00e7a), &#39;Flow&#39; (Let\u00f4nia), &#39;A Garota da Agulha&#39; (Dinamarca) e &#39;A Semente do Fruto Sagrado&#39; (Alemanha).",
+    "news_item_url": "https://g1.globo.com/pop-arte/cinema/noticia/2025/01/23/ainda-estou-aqui-e-indicado-ao-oscar-2025-de-melhor-filme-internacional.ghtml",
+    "picture_source": "CNN Brasil",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "Brazil",
     "title": "Atl\u00e9tico-MG x Democrata",
     "pubDate": "Wed, 22 Jan 2025 17:00:00 -0500",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSUNDWZp9_qZvnK0m_1xi5swjeZtRwEcLBadZNBBwyqBHzx4PEO7YUX5JG4mxq7PT7b6hpre7E9",
@@ -353,20 +353,10 @@
     "country": "Brazil",
     "title": "Liga dos Campe\u00f5es",
     "pubDate": "Wed, 22 Jan 2025 07:00:00 -0500",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcT79cjYD819ss8K0RxTlXxbIAXj_lKa4mNH8XcGNXcm3LHdspGBzYdLIB7403JWB-se20VFQzRE",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTzrx7S31lQP6b3wJVzI-ZlaY5nZos20SJWH4_wDBe5YObkl-t44MuVmk-3s4XTPRNwFY9eTLY6",
     "news_item_snippet": "Cinco atletas brasileiras estiveram em a\u00e7\u00e3o nesta quarta-feira (22) na \u00faltima rodada da fase de grupos da Liga dos Campe\u00f5es da Europa.",
     "news_item_url": "https://www.olimpiadatododia.com.br/volei/660003-gabi-supera-sabrina-duelo-brasileiro-liga-dos-campeoes/",
-    "picture_source": "Olimp\u00edada Todo Dia",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "Brazil",
-    "title": "Internacional",
-    "pubDate": "Wed, 22 Jan 2025 17:00:00 -0500",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSb7bMMMVPNSdxvcjmqDJoNDNJWyI1_veoZU2Z7H9zYiEBkx_GxoQeLpa3dIenIYHZw7KbSUeHx",
-    "news_item_snippet": "Times se enfrentam pela estreia do estadual do Rio Grande do Sul; time de Bag\u00e9 n\u00e3o tem partidas oficiais desde o in\u00edcio do ano passado.",
-    "news_item_url": "https://www.estadao.com.br/esportes/guarany-x-internacional-no-campeonato-gaucho-onde-assistir-ao-vivo-horario-e-escalacao/",
-    "picture_source": "CNN Brasil",
+    "picture_source": "globoesporte.com",
     "approx_traffic": "100,000+"
   },
   {
@@ -390,26 +380,6 @@
     "approx_traffic": "50,000+"
   },
   {
-    "country": "Brazil",
-    "title": "Feyenoord x Bayern",
-    "pubDate": "Wed, 22 Jan 2025 15:00:00 -0500",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRDYIOi_LyOzJTyJaX4tNycg-nUoKZy3RJXQdnrNC16v_iH-GF0__KQcyzwCJI8FjCE-5CPNJ_s",
-    "news_item_snippet": "UEFA Champions League 2024/25: acompanhe ao vivo a partida entre Feyenoord x Bayern de Munique. Confira lance a lance, escala\u00e7\u00e3o, estat\u00edsticas e mais no&nbsp;...",
-    "news_item_url": "https://www.estadao.com.br/esportes/futebol/ao-vivo-feyenoord-x-bayern-de-munique-uefa-champions-league-202425-siga-em-tempo-real/",
-    "picture_source": "CNN Brasil",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Brazil",
-    "title": "RB Leipzig x Sporting",
-    "pubDate": "Wed, 22 Jan 2025 11:00:00 -0500",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQK6jITBrDGluAzutI0eTKiHwYnHBSsZ2Mo3a5giLYLL5WSWBF0LJnZrU1IpMlhDpnKzXSNC2OS",
-    "news_item_snippet": "Fim do Jogo, RB Leipzig 2, Sporting CP 1. 2\u00ba Tempo.",
-    "news_item_url": "https://www.terra.com.br/esportes/futebol/internacional/liga-dos-campeoes/ao-vivo/rb-leipzig-x-sporting-de-lisboa/87498/",
-    "picture_source": "TNT Sports Brasil",
-    "approx_traffic": "50,000+"
-  },
-  {
     "country": "Canada",
     "title": "Samsung",
     "pubDate": "Wed, 22 Jan 2025 14:00:00 -0500",
@@ -424,8 +394,8 @@
     "title": "Amazon Quebec",
     "pubDate": "Wed, 22 Jan 2025 10:00:00 -0500",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQMwp-pnwHN1sgks2UjHlICY230baRTufJGYK_JczytbHmUZCZ-w0XloKMecRWno7I92T_pd5hJ",
-    "news_item_snippet": "\u00ab Au final, \u00e7a va \u00eatre une occasion pour la logistique au Qu\u00e9bec \u00bb, estime Martin Ball, pr\u00e9sident du sp\u00e9cialiste de la pr\u00e9paration de commandes WIPTEC, qui&nbsp;...",
-    "news_item_url": "https://www.lapresse.ca/affaires/entreprises/2025-01-23/fermeture-de-sept-sites-d-amazon/une-occasion-pour-la-logistique-au-quebec.php",
+    "news_item_snippet": "Le g\u00e9ant am\u00e9ricain l&#39;a annonc\u00e9 \u00e0 ses partenaires du service de livraison ainsi qu&#39;\u00e0 la Conf\u00e9d\u00e9ration des syndicats nationaux (CSN), mercredi matin. \u00abC&#39;est un&nbsp;...",
+    "news_item_url": "https://www.journaldemontreal.com/2025/01/22/amazon-ferme-tous-ses-entrepots-au-quebec",
     "picture_source": "ICI.Radio-Canada.ca",
     "approx_traffic": "50,000+"
   },
@@ -451,7 +421,7 @@
   },
   {
     "country": "France",
-    "title": "PSG Manchester City",
+    "title": "PSG-Manchester City",
     "pubDate": "Wed, 22 Jan 2025 00:00:00 +0100",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSgZDHincZ1v6MdvSLVB03HCt-_UXf5JB8Wu9KFELqFI4jCwktacg3QynUgJbrTKIhiYqYmZD8P",
     "news_item_snippet": "Daniel Riolo, journaliste et \u00e9ditorialiste de l&#39;After Foot, a pris un \u00e9norme plaisir devant la victoire du PSG contre Manchester City (4-2) et la prestation&nbsp;...",
@@ -493,17 +463,17 @@
     "country": "Germany",
     "title": "Aschaffenburg",
     "pubDate": "Wed, 22 Jan 2025 14:00:00 +0100",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQU2WrLlmfgwa5H6OITl-rNUrhAz1ptEbZrjpDKflz0XrdOhmt8WTUAjJkKcmDovtbiye3BevOD",
-    "news_item_snippet": "Er sieht Parallelen zwischen den Taten in Aschaffenburg, Magdeburg und Solingen, sagt J\u00fcrgen Herzing. Gleichwohl h\u00e4lt er pauschale Verurteilungen f\u00fcr&nbsp;...",
-    "news_item_url": "https://www.spiegel.de/panorama/justiz/aschaffenburg-oberbuergermeister-juergen-herzing-warnt-vor-spirale-der-gewalt-a-e8d2fd41-f97e-433c-84d5-b670a45ffb40",
-    "picture_source": "tagesschau.de",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTwWuwUodz5qdzey_IHSiqec3ilSjQKDxy2sWkdcXOknfOgoj1ud8BtYykCE5NW8XU-7-x3d2XR",
+    "news_item_snippet": "Nach dem Messerangriff in Aschaffenburg, bei dem ein Kind und ein Mann get\u00f6tet wurden, ist das Entsetzen bundesweit gro\u00df. Der festgenommene Tatverd\u00e4chtige&nbsp;...",
+    "news_item_url": "https://www.tagesschau.de/inland/gesellschaft/aschaffenburg-messerangriff-100.html",
+    "picture_source": "DER SPIEGEL",
     "approx_traffic": "500,000+"
   },
   {
     "country": "Germany",
     "title": "Samsung",
     "pubDate": "Wed, 22 Jan 2025 20:00:00 +0100",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTpYkakiJ7Cm78VclG9hm8QlDwdmuhDtRpR3szEwwZafTudYiKPSUuzYaOL2LeutYOEayGQg0uF",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRhb83k55Dc7mQUKXkRs_NJT4j7Jq4DgdufLrt0Uk-3fv0Hbj7NEilGcEvIwfIq5LhC2i6yz34H",
     "news_item_snippet": "Galaxy S25 Serie: Jetzt vorbestellen und doppelte Speichermenge erhalten! Nat\u00fcrlich w\u00e4re das Ganze kein Samsung-Launch ohne eine attraktive Launch-Aktion. Wer&nbsp;...",
     "news_item_url": "https://www.allround-pc.com/news/2025/galaxy-s25-ultra-hier-koennt-ihr-die-neuen-samsung-flaggschiffe-vorbestellen",
     "picture_source": "SmartWeb",
@@ -553,7 +523,7 @@
     "country": "Italy",
     "title": "Sinner oggi",
     "pubDate": "Wed, 22 Jan 2025 09:00:00 +0100",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRDaAe7uGoXgqwGdHsrnRaC0XKKm83BMhNbLj1tUda56kkthosYyMbUETgz_WVGN4hG4QFEnXlm",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRX0_K7ZZ72FI0JBI_VLQB5x1JkMBA7vSV8i6D67z33U1lTdkLcjHCFXa1bC2FJcbPjuEsgHUjs",
     "news_item_snippet": "Batte Alex De Minaur per la decima volta e centra la quinta semifinale Slam della carriera: \u201cMai dare nulla per scontato\u201d",
     "news_item_url": "https://www.supertennis.tv/News/Slam/sinner-de-minaur-miglior-match-australian-open-dichiarazioni",
     "picture_source": "Adnkronos",
@@ -564,40 +534,20 @@
     "title": "Milan",
     "pubDate": "Wed, 22 Jan 2025 10:00:00 +0100",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSQuldD4sV4S8ywc1kUUOjR5MalQAJr-L5qM9KONz1ewCG9fxJu52bln2MWKE1fitK161ehbbsC",
-    "news_item_snippet": "Il terzino inglese arriva ai rossoneri in prestito gratuito con diritto di riscatto: i dettagli.",
-    "news_item_url": "https://www.corrieredellosport.it/news/calcio/calcio-mercato/milan/2025/01/23-137767551/milan_walker_in_italia_a_breve_visite_e_firma",
+    "news_item_snippet": "A San Siro, i Rossoneri battono di misura la squadra spagnola e ottengono la quinta vittoria di fila nella fase campionato, restando in corsa per un posto&nbsp;...",
+    "news_item_url": "https://it.uefa.com/uefachampionsleague/news/0295-1ce0acee700e-50fd8f2307ed-1000--milan-girona-1-0-leao-porta-il-diavolo-in-paradiso/",
     "picture_source": "Sky Sport",
     "approx_traffic": "500,000+"
   },
   {
-    "country": "Italy",
-    "title": "Sparta Praga-Inter",
-    "pubDate": "Wed, 22 Jan 2025 09:00:00 +0100",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTgUzdGFsNOhL5ZQOGM2Uo9sVyIJ4csxGxt6SDAJg9kU31D4IS4WuLYa_7ZrRFPfLUyZp1lnv0_",
-    "news_item_snippet": "Gli uomini di Inzaghi battono la formazione ceca nella sfida del settimo turno della fase campionato di Champions League.",
-    "news_item_url": "https://www.corrieredellosport.it/news/calcio/champions-league/2025/01/22-137748967/sparta_praga-inter_diretta_champions_segui_la_partita_di_oggi_live",
-    "picture_source": "Sky Sport",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "Italy",
-    "title": "Sonego",
-    "pubDate": "Wed, 22 Jan 2025 10:00:00 +0100",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcShvQWhUUL-zvnFYgwbGh0li6-h2gw9kPDAEqgUz_IjsgGryDEA39XHckZKMBS9cbOlnILXoHWe",
-    "news_item_snippet": "Il tennista italiano Lorenzo Sonego ha perso ai quarti di finale degli Australian Open, uno dei quattro tornei di tennis pi\u00f9 importanti al mondo, contro lo&nbsp;...",
-    "news_item_url": "https://www.ilpost.it/2025/01/22/sonego-perso-shelton-quarti-di-finale-australian-open/",
-    "picture_source": "Rai News",
+    "country": "Mexico",
+    "title": "PSG  Manchester City",
+    "pubDate": "Wed, 22 Jan 2025 03:00:00 -0600",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSSTLS5Yv4by6akDET1dBNWLJznr8yWfUdxe_8Rhw06tExHaRK7H5RyZFaLdENydyPvlwzVAj6x",
+    "news_item_snippet": "El minuto a minuto de lo que ser\u00e1 la jornada del mi\u00e9rcoles 22 de enero, por la 7ma fecha de la Champions.",
+    "news_item_url": "https://www.espn.com.mx/futbol/champions-league/nota/_/id/14696972/en-vivo-psg-vs-manchester-city-y-los-partidos-de-hoy-real-madrid-inter-arsenal-milan",
+    "picture_source": "Informador.mx",
     "approx_traffic": "100,000+"
-  },
-  {
-    "country": "Italy",
-    "title": "Psg  Manchester City",
-    "pubDate": "Wed, 22 Jan 2025 21:00:00 +0100",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSCEn5-tPgS4v9rAZk4lmqV5j1W_jjhYtmCVAVOsuj9Un0Tt2eTtKIuESk9ZMd53greisPEDDG-",
-    "news_item_snippet": "Le due squadre si affrontano nella penultima giornata senza la certezza di qualificarsi ai playoff.",
-    "news_item_url": "https://www.adnkronos.com/sport/psg-manchester-city-champions-league-rischio-eliminazione_58JcW71WwuBgWMVeHdJAyV",
-    "picture_source": "Sky Sport",
-    "approx_traffic": "50,000+"
   },
   {
     "country": "Mexico",
@@ -621,12 +571,42 @@
   },
   {
     "country": "Spain",
+    "title": "Real Madrid  RB Salzburg",
+    "pubDate": "Wed, 22 Jan 2025 00:00:00 +0100",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQSIxuPk005OgkbsJgUesUzee5faX91CXfe7jK6766jCS5Aaop4jOJLvK43FbCNu8eQ7DORm7LB",
+    "news_item_snippet": "El Real Madrid se midi\u00f3 al RB Salzburg en la s\u00e9ptima jornada de la Fase Liga de la Champions 24-25. Carlo Ancelotti introdujo tres novedades con respecto a&nbsp;...",
+    "news_item_url": "https://www.marca.com/futbol/2025/01/22/real-madrid-rb-salzburg.html",
+    "picture_source": "ESPN Deportes",
+    "approx_traffic": "500,000+"
+  },
+  {
+    "country": "Spain",
+    "title": "Be\u015fikta\u015f  Athletic",
+    "pubDate": "Wed, 22 Jan 2025 16:00:00 +0100",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSBeFidvE9lEjfNJPXn-3crCWgKzTL6pSlAbxQtmv3nSTd_mGsFfDhKMrFywuG9SViDTOXY9rwi",
+    "news_item_snippet": "El Athletic se vuelve goleado de Estambul. Una derrota con claridad que abre la cuenta de partidos perdidos por los leones en esta Europa League despu\u00e9s de&nbsp;...",
+    "news_item_url": "https://www.marca.com/futbol/europa-league/cronica/2025/01/22/6790f3bc22601d751f8b4598.html",
+    "picture_source": "MARCA",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "Spain",
     "title": "Girona FC",
     "pubDate": "Wed, 22 Jan 2025 19:00:00 +0100",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRpecTIP46ew_TsAvdUdZR0PZ0s6rc1OYXFtepQbEuyZ3aCOu7xNthk1qL1jCJuwuWiEZF3Mux4",
     "news_item_snippet": "Un solitario gol de Le\u00e3o confirm\u00f3 que el Girona llegar\u00e1 sin opciones a la \u00faltima jornada de la Champions League, ante el Arsenal, tras la derrota en San&nbsp;...",
     "news_item_url": "https://www.rtve.es/deportes/20250122/milan-girona-directo-resumen-resultado-champions/16414447.shtml",
     "picture_source": "Girona FC",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Spain",
+    "title": "Madrid",
+    "pubDate": "Wed, 22 Jan 2025 18:00:00 +0100",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRsTlbppP3DGC2SdtpvuLWyU78u6ocsoHaWviIhM4rWlSCSnCZhyuY6B5AtdAfLIUqDG_430wP2",
+    "news_item_snippet": "La Comunidad de Madrid subvenciona actualmente el 60% del bono transportes, pero est\u00e1 trabajando en la actualizaci\u00f3n de las tarifas. Desde la Comunidad han&nbsp;...",
+    "news_item_url": "https://www.elmundo.es/como/2025/01/23/6791fb29e4d4d80c1c8b456e.html",
+    "picture_source": "La Raz\u00f3n",
     "approx_traffic": "50,000+"
   },
   {
@@ -667,16 +647,6 @@
     "news_item_snippet": "India ease to a seven-wicket win over England in the first T20 international of their five-match bilateral series in Eden Gardens, Kolkata, India. Opener&nbsp;...",
     "news_item_url": "https://www.aljazeera.com/sports/liveblog/2025/1/22/live-india-vs-england-first-t20-international-score-commentary-stream-photos",
     "picture_source": "BBC Sport",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United Kingdom",
-    "title": "Leeds United",
-    "pubDate": "Wed, 22 Jan 2025 20:00:00 +0000",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcR4FLQUlY9RJfgvlnnYMdpMbfbfnV6__ZMYKzGS5IzslEThPZm7TnQww7T6DenVe_BvA8OMCzV4",
-    "news_item_snippet": "Report and free match highlights from the Sky Bet Championship match between Leeds United and Norwich City at Elland Road on Wednesday night;&nbsp;...",
-    "news_item_url": "https://www.skysports.com/football/news/11095/13293164/leeds-united-2-0-norwich-city-dan-james-stars-as-daniel-farkes-white-again-take-championship-top-spot",
-    "picture_source": "Leeds United",
     "approx_traffic": "50,000+"
   },
   {
