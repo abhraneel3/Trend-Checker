@@ -1,6 +1,16 @@
 [
   {
     "country": "United States",
+    "title": "Lakers",
+    "pubDate": "Thu, 23 Jan 2025 21:00:00 -0800",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTl_U5aldR4t0ox052jt8lIHdGXVnxe_6DM5fwis4PbTv9zn51apqZWjCgAi1soyHK68vUfawJK",
+    "news_item_snippet": "Kristaps Porzingis was the lone bright spot for the Celtics Thursday night in LA.",
+    "news_item_url": "https://www.masslive.com/celtics/2025/01/kristaps-porzingis-disguises-grim-celtics-sign-in-lakers-rout.html",
+    "picture_source": "Celtics.com",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "United States",
     "title": "Pagan",
     "pubDate": "Thu, 23 Jan 2025 05:00:00 -0800",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQ-wc4FIjBZCXSU4-3KyMviDIwXKfs43iBWthjAlcaLfHCBj8YACv1QmCm96QYc6otqZ4lQFG-A",
@@ -8,6 +18,16 @@
     "news_item_url": "https://wildhunt.org/2025/01/pagan-community-notes-week-of-january-23-2025.html",
     "picture_source": "The Wild Hunt",
     "approx_traffic": "200,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Djokovic",
+    "pubDate": "Thu, 23 Jan 2025 22:00:00 -0800",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSsnhpc2X9Y4nx_WQhyMTD85fgNgdhCwUn0X4U01xsgat5AMR9VybSNaNkypQzRQxb99kRnyeNL",
+    "news_item_snippet": "10-time Australian Open champion Djokovic was forced to retire at the end of the first set, having just lost in a tiebreak to Alexander Zverev on Friday (24&nbsp;...",
+    "news_item_url": "https://www.olympics.com/en/news/australian-open-2025-novak-djokovic-retires-injured-zverev-semi-final",
+    "picture_source": "NBC Bay Area",
+    "approx_traffic": "100,000+"
   },
   {
     "country": "United States",
@@ -23,20 +43,10 @@
     "country": "United States",
     "title": "Billy Ray Cyrus",
     "pubDate": "Thu, 23 Jan 2025 18:00:00 -0800",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSn5ijIYzLGt50vGhD9F5OesQ2W4DQUSC6_px-P4CQApeN3yV8m0FP0mHaD0P_kMsiDzln2y6uE",
-    "news_item_snippet": "Billy Ray Cyrus&#39; son turned to social media to plead with his father to accept help after he made headlines with a performance at the Trump inauguration.",
-    "news_item_url": "https://973thedawg.com/ixp/204/p/billy-ray-cyrus-son-trace-cyrus-open-letter-donald-trump-inauguration-performance/",
-    "picture_source": "Los Angeles Times",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Djokovic",
-    "pubDate": "Thu, 23 Jan 2025 22:00:00 -0800",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSCz-Ht1TjZyYm0fwBnLO-Mfz4NemJbmBxfWRxFrFc4X2EtMsUmYl6m5N4BPfZWaRvRWBpNHrlo",
-    "news_item_snippet": "An injured Novak Djokovic retired from the Australian Open after dropping the first set of his semifinal against Alexander Zverev.",
-    "news_item_url": "https://www.nbcbayarea.com/news/sports/tennis/novak-djokovic-retires-injury-australian-open-semifinal-alexander-zverev/3770694/",
-    "picture_source": "NPR",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcR8dEU24fknuohi4fGkYSvaEEJQz0sH0iULK2zEaNrgY_6RcF6WggBC16tJ9sNVxVdHGLKmCf1m",
+    "news_item_snippet": "Billy Ray Cyrus&#39; son Trace says he and sisters Miley and Noah are &#39;genuinely worried&#39; for their country singer dad. &#39;You&#39;ve pushed all of us away,&#39; he&nbsp;...",
+    "news_item_url": "https://www.latimes.com/entertainment-arts/music/story/2025-01-23/billy-ray-cyrus-trace-seek-help",
+    "picture_source": "973thedawg.com",
     "approx_traffic": "100,000+"
   },
   {
@@ -44,8 +54,8 @@
     "title": "Anora",
     "pubDate": "Thu, 23 Jan 2025 10:00:00 -0800",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQPc3RmK7JsQuy2Qjf3OZJuDC0RCS4lDKSoEalasSgOrZVgflkM_FcbS-6dfKZmrGOYxteQCJtd",
-    "news_item_snippet": "Oscar nominee Mikey Madison compares her character Anora to Elle Woods in Legally Blonde on SiriusXM&#39;s \u201cThe Julia Cunningham Show.\u201d",
-    "news_item_url": "https://www.siriusxm.com/blog/mikey-madison-anora-legally-blonde",
+    "news_item_snippet": "Left: Oscar nominee Mikey Madison pictured with Peter Agrapides on a recent visit to Williams Candy in Coney Island. Right: Madison&#39;s co-star and Coney&nbsp;...",
+    "news_item_url": "https://www.brooklynpaper.com/coney-williams-candy-oscar-nominated-anora/",
     "picture_source": "SiriusXM Blog",
     "approx_traffic": "50,000+"
   },
@@ -53,10 +63,30 @@
     "country": "United States",
     "title": "Spurs",
     "pubDate": "Thu, 23 Jan 2025 15:00:00 -0800",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRXaYTneObqUZ6eC_fwzl6H0ETEvUFX4pao7aLGYIhkfAp0-7HvsFzJex2dy7ex2FFDo-Quwz-n",
-    "news_item_snippet": "Wembanyama gave a buoyant French crowd plenty to brag about as he re-wrote memories of a painful Olympic gold medal match loss with a definite victory over&nbsp;...",
-    "news_item_url": "https://www.olympics.com/en/news/victor-wembanyama-spurs-pacers-first-nba-paris-game-2025-result",
-    "picture_source": "ESPN",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQsBVv83NgBPxG3brYNnR6I0UZStGVQhFtmFtZ35jaQsBHe_xnX0YuXT6sRPAEY-EzePdZHGSBI",
+    "news_item_snippet": "Expert recap and game analysis of the San Antonio Spurs vs. Indiana Pacers NBA game from January 23, 2025 on ESPN.",
+    "news_item_url": "https://www.espn.com/nba/recap?gameId=401705187",
+    "picture_source": "Pacers.com",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Man United vs Rangers",
+    "pubDate": "Thu, 23 Jan 2025 13:00:00 -0800",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQlLZv0OZ1X9f8-pV93EUv5GSBmPcCDSqYFszXncNE3ABDbI_4xdXYh0NnS5e-l1ltzk_W-Wrg5",
+    "news_item_snippet": "Ruben Amorim&#39;s men moved fourth in the Europa League table with a dramatic last-gasp victory against their Scottish opponents.",
+    "news_item_url": "https://www.nytimes.com/athletic/live-blogs/manchester-united-rangers-live-updates-europa-league-score-result/3LrHKXTOEMSk/",
+    "picture_source": "Yahoo Sports",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Wordle hint",
+    "pubDate": "Thu, 23 Jan 2025 19:00:00 -0800",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTKOSG7skiDqqCc-Ae7UtzoxFTtHbfsiZ2PkKhKrtEMoTK7OA_0jIkkLfKen8SrkZ75JYueJfgA",
+    "news_item_snippet": "Stuck on today&#39;s Wordle puzzle? We&#39;re here to help you get to the finish line. Ahead of jumping into the hints and solutions for the Friday, Jan.",
+    "news_item_url": "https://www.today.com/life/today-wordle-hint-answer-january-24-2025-1315-rcna189096",
+    "picture_source": "Forbes",
     "approx_traffic": "50,000+"
   },
   {
@@ -71,22 +101,22 @@
   },
   {
     "country": "United States",
+    "title": "Ninja Gaiden 2: Black",
+    "pubDate": "Thu, 23 Jan 2025 17:00:00 -0800",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRcpyWzK9zQa0_Vp0e-dIU8DETsijfR63zMC-AM9db8j2zArhxhIjFo6dnk8ZQavF5Xd1CdY5G7",
+    "news_item_snippet": "As well as announcing Ninja Gaiden 4, Koei Tecmo has announced a remake of 2008 action game Ninja Gaiden 2 \u2014 and it&#39;s out now.",
+    "news_item_url": "https://www.ign.com/articles/ninja-gaiden-2-black-announced-and-its-out-now",
+    "picture_source": "TheGamer",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
     "title": "A Complete Unknown",
     "pubDate": "Thu, 23 Jan 2025 11:00:00 -0800",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTiZq9soAD68FTbAfwrQjBVWHjK0tq0I7DyQhSq7K6dBJ7xAz-P_i_Q4kx_xSiP2dLmz6PEu6HBww",
     "news_item_snippet": "Timothee Chalamet&#39;s Bob Dylan biopic, &#39;A Complete Unknown,&#39; made a very strong showing in this year&#39;s Oscar nominations. But &#39;Emilia P\u00e9rez&#39; is the overall&nbsp;...",
     "news_item_url": "https://www.mensjournal.com/entertainment/2025-oscar-nominations-a-complete-unknown-emilia-perez",
     "picture_source": "WCCO",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Ninja Gaiden 2 Black",
-    "pubDate": "Thu, 23 Jan 2025 17:00:00 -0800",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRcpyWzK9zQa0_Vp0e-dIU8DETsijfR63zMC-AM9db8j2zArhxhIjFo6dnk8ZQavF5Xd1CdY5G7",
-    "news_item_snippet": "As well as announcing Ninja Gaiden 4, Koei Tecmo has announced a remake of 2008 action game Ninja Gaiden 2 \u2014 and it&#39;s out now.",
-    "news_item_url": "https://www.ign.com/articles/ninja-gaiden-2-black-announced-and-its-out-now",
-    "picture_source": "TheGamer",
     "approx_traffic": "50,000+"
   },
   {
@@ -111,16 +141,6 @@
   },
   {
     "country": "India",
-    "title": "Sky Force",
-    "pubDate": "Fri, 24 Jan 2025 18:30:00 +0530",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTtdodilooc9cKwUkkYeaa5sZkZqob_CFUoQDCQtyTMNz5beFgaMkg5LfBuOst060afyKHQI9UF",
-    "news_item_snippet": "Akshay Kumar and Veer Pahariya&#39;s Sky Force arrives in theatres today. Here&#39;s what the audience thought about the film.",
-    "news_item_url": "https://www.hindustantimes.com/htcity/cinema/sky-force-twitter-reviews-akshay-kumar-and-veer-pahariya-starrer-is-best-patriotic-film-in-recent-times-say-fans-101737724420600.html",
-    "picture_source": "The Hindu",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "India",
     "title": "Virender Sehwag",
     "pubDate": "Fri, 24 Jan 2025 00:30:00 +0530",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQpQzDQqvGCLhassOhB-jj4zR2jrW9YZkwHM8bzBSZmYxbLe6Jmqqp_5Vf3HDU1M60iWzZxLO_C",
@@ -134,19 +154,19 @@
     "title": "Ranji Trophy",
     "pubDate": "Thu, 23 Jan 2025 14:30:00 +0530",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTpuMN1ihbvgpMsEnMFzq5pi83v2lR7qYNC2ElWHvCv_3SIKhsujapeFyzlb08FTL8A-CQ6rJaa",
-    "news_item_snippet": "Ranji Trophy Live Score: Check the live score and updates from Day 2 of the Round 6 fixtures of the Ranji Trophy 2024/25 season.",
-    "news_item_url": "https://sportstar.thehindu.com/cricket/domestic/ranji-trophy-2024-25-live-score-day-2-round-6-updates-highlights-streaming-info/article69134804.ece",
+    "news_item_snippet": "Ravindra Jadeja&#39;s 12-wicket haul leads Saurashtra to a dominant 10-wicket win over Delhi in the Ranji Trophy.",
+    "news_item_url": "https://www.thehindu.com/sport/cricket/ranji-trophy-jadeja-spins-delhi-out-to-earn-saurashtra-a-bonus-point-win/article69136446.ece",
     "picture_source": "Hindustan Times",
     "approx_traffic": "200,000+"
   },
   {
     "country": "India",
-    "title": "Mumbai vs Jammu and Kashmir",
-    "pubDate": "Thu, 23 Jan 2025 11:30:00 +0530",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSW3ANB4vgC3gkaFRnwOhRgBFEp6ymCvQ9_6Ghfro-7b2z_YK7Z0t6ICqPHFsZGMuDqzS3qw03e",
-    "news_item_snippet": "Mumbai vs Jammu and Kashmir Live Score: Mumbai at 274/7 after 67 overs, Tanush Kotian at 58 runs and Shardul Thakur at 113 runs | Crickit.",
-    "news_item_url": "https://www.hindustantimes.com/cricket/mumbai-vs-jammu-and-kashmir-live-score-match-97-of-ranji-trophy-2024-25-final-updates-today-23-jan-2025-101737601257777.html",
-    "picture_source": "Livemint",
+    "title": "Real Madrid",
+    "pubDate": "Thu, 23 Jan 2025 03:30:00 +0530",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQ6MJEQcpug-x3K_xLUY6_DHLgBECY-kN2ogAjTf20uKI5YBESKqONxozbVBAlBv_0MZS1zsR6D",
+    "news_item_snippet": "In a recently released exclusive Members-only podcast on Patreon, Managing Madrid&#39;s Kiyan Sobhani and Vik Sobti (a leading radiologist in the United States)&nbsp;...",
+    "news_item_url": "https://www.managingmadrid.com/2025/1/24/24350734/video-why-have-real-madrid-had-so-many-injuries",
+    "picture_source": "Managing Madrid",
     "approx_traffic": "50,000+"
   },
   {
@@ -161,22 +181,22 @@
   },
   {
     "country": "India",
-    "title": "Ravindra Jadeja",
-    "pubDate": "Thu, 23 Jan 2025 13:30:00 +0530",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRKVS4wV-2hJdSUtD3SNLA1t-kMamt0t7wUkUHLqiuDaGh16O27YRS9K04IQ9Te8vDb8K2ETi6w",
-    "news_item_snippet": "Cricket News: Ravindra Jadeja shined with a 12-wicket haul for Saurashtra, overshadowing the underwhelming performances of Rohit Sharma and Rishabh Pant in&nbsp;...",
-    "news_item_url": "https://timesofindia.indiatimes.com/sports/cricket/news/rohit-sharma-rishabh-pant-flop-again-on-day-2-of-ranji-trophy-ravindra-jadeja-shines/articleshow/117523267.cms",
-    "picture_source": "Sportstar",
+    "title": "Shardul Thakur",
+    "pubDate": "Thu, 23 Jan 2025 14:30:00 +0530",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQaPXQmuGcrd2bPOxyE20ca1hFFrIs_1rcsFHy3tn5Zchtz2pLbFUt-Z3MRF5q0mNl13ZtiZJjL",
+    "news_item_snippet": "Ranji Trophy 2024-25: Shardul Thakur hit a counter-attacking hundred, his second in first-class cricket. Shardul&#39;s 173-run partnership with Tanush Kotian&nbsp;...",
+    "news_item_url": "https://www.indiatoday.in/sports/story/cricket-ranji-trophy-shardul-thakur-mumbai-vs-jammu-and-kashmir-century-celebration-video-2669685-2025-01-24",
+    "picture_source": "Hindustan Times",
     "approx_traffic": "50,000+"
   },
   {
     "country": "India",
-    "title": "Shardul Thakur",
-    "pubDate": "Thu, 23 Jan 2025 14:30:00 +0530",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcT4uFyakleBK6Ed7ZaIO44iNWafoDP0NkKRVAuMJ6MYMgMRx5bVm7fhjeG8m6QZQvRwu2Fna2w8",
-    "news_item_snippet": "Shardul Thakur, Mumbai all-rounder, bailed his side out in the crucial Ranji Trophy match against Jammu and Kashmir as he notched up his second FC century.",
-    "news_item_url": "https://www.hindustantimes.com/cricket/shardul-thakur-thumps-his-chest-erupts-in-thunderous-celebration-on-smashing-century-off-105-balls-main-yu-yaha-pe-101737718096968.html",
-    "picture_source": "India Today",
+    "title": "Ravindra Jadeja",
+    "pubDate": "Thu, 23 Jan 2025 13:30:00 +0530",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRKVS4wV-2hJdSUtD3SNLA1t-kMamt0t7wUkUHLqiuDaGh16O27YRS9K04IQ9Te8vDb8K2ETi6w",
+    "news_item_snippet": "Ranji Trophy 2024-25: Ravindra Jadeja spun Saurashtra to a big win over Delhi in Rajkot. The left-arm spinner took 12 wickets. On the other hand,&nbsp;...",
+    "news_item_url": "https://www.indiatoday.in/sports/story/cricket-ranji-trophy-rishabh-pant-ravindra-jadeja-12-wickets-rajkot-2669578-2025-01-24",
+    "picture_source": "Sportstar",
     "approx_traffic": "50,000+"
   },
   {
@@ -207,15 +227,15 @@
     "news_item_snippet": "10-time Australian Open champion Djokovic was forced to retire at the end of the first set, having just lost in a tiebreak to Alexander Zverev on Friday (24&nbsp;...",
     "news_item_url": "https://www.olympics.com/en/news/australian-open-2025-novak-djokovic-retires-injured-zverev-semi-final",
     "picture_source": "Australian Open",
-    "approx_traffic": "100,000+"
+    "approx_traffic": "200,000+"
   },
   {
     "country": "Australia",
     "title": "Ben Shelton",
     "pubDate": "Fri, 24 Jan 2025 21:00:00 +1100",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTKiqhJR_csW37BEpfa6T6O5ZNglIFYgbEOnBqioeAFJLDzknwQH7IR9WO01vvs-SnnLdfQ_5qR",
-    "news_item_snippet": "Ben Shelton was frustrated at his inability to take his chances against Jannik Sinner but is pleased with his ongoing development following his Australian&nbsp;...",
-    "news_item_url": "https://www.atptour.com/en/news/shelton-australian-open-2025-reaction-friday",
+    "news_item_snippet": "Defending champion Jannik Sinner overcame some third-set cramping and beat Ben Shelton 7-6 (2), 6-2, 6-2 on Friday to return to the Australian Open final as&nbsp;...",
+    "news_item_url": "https://www.espn.com.au/tennis/story/_/id/43544868/jannik-sinner-tops-ben-shelton-return-australian-open-final",
     "picture_source": "The Guardian",
     "approx_traffic": "100,000+"
   },
@@ -240,16 +260,6 @@
     "approx_traffic": "50,000+"
   },
   {
-    "country": "Australia",
-    "title": "Sabalenka",
-    "pubDate": "Thu, 23 Jan 2025 07:00:00 +1100",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTEtJC_CVSs_xJgtnwbAkJa_R3W_fj7g8LuFrfJV5uFsxKRoOjebzTJ-zYoDZQ-LVkpLhLNQ4rF",
-    "news_item_snippet": "Can Madison Keys pull off another huge upset? Or will defending champ Aryna Sabalenka prove why she&#39;s ranked No. 1? Our experts make predictions.",
-    "news_item_url": "https://www.espn.com.au/tennis/story/_/id/43536582/australian-open-women-final-aryna-sabalenka-madison-keys-win",
-    "picture_source": "Australian Open",
-    "approx_traffic": "100,000+"
-  },
-  {
     "country": "Brazil",
     "title": "Vasco da Gama x Madureira",
     "pubDate": "Thu, 23 Jan 2025 15:00:00 -0500",
@@ -267,16 +277,6 @@
     "news_item_snippet": "Portuguesa-RJ e Fluminense entram em campo nesta quinta-feira (23), \u00e0s 21h30, no Luso Brasileiro, pela 4\u00aa rodada do Carioca. Onde assistir ao vivo?",
     "news_item_url": "https://www.uol.com.br/esporte/ultimas-noticias/2025/01/23/transmissao-ao-vivo-de-portuguesa-rj-x-fluminense-veja-onde-assistir.htm",
     "picture_source": "UOL",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "Brazil",
-    "title": "Fortaleza x Moto Club",
-    "pubDate": "Thu, 23 Jan 2025 17:00:00 -0500",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTge7scBKhmLsd1B-3aXtIShdXMWtUviH8944LmY1mN-Te4ihFEpVCArUK9PqUKRf3K0qBn0oZK",
-    "news_item_snippet": "O time leonino volta a campo j\u00e1 no s\u00e1bado, 25, \u00e0s 16h30min, contra o Horizonte, pelo Campeonato Cearense.",
-    "news_item_url": "https://www.opovo.com.br/esportes/futebol/times/fortaleza/2025/01/23/fortaleza-x-moto-club-vitoria-facil-do-leao-na-estreia-da-copa-do-nordeste.html",
-    "picture_source": "globoesporte.com",
     "approx_traffic": "100,000+"
   },
   {
@@ -301,12 +301,12 @@
   },
   {
     "country": "Brazil",
-    "title": "Liga Europa",
-    "pubDate": "Thu, 23 Jan 2025 13:00:00 -0500",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSHKFQyEFiIww9MXZ0KXa0CCcaUWO0hNEfJdMFgVTy7NoeUt9KgvRGvcJEFR7wHOdATjKDDs_O9",
-    "news_item_snippet": "Jogadores do Lazio comemorando. Foto: Marco Rosi - SS Lazio/Getty Images / Esporte News Mundo. A pen\u00faltima rodada da fase de&nbsp;...",
-    "news_item_url": "https://www.terra.com.br/esportes/futebol/internacional/liga-europa-lazio-mantem-invencibilidade-athletic-e-ajax-tropecam-e-ingleses-vencem,20d34d4ef489f7a1dfaff94730edefebjx5w74p4.html",
-    "picture_source": "Terra",
+    "title": "Fortaleza x Moto Club",
+    "pubDate": "Thu, 23 Jan 2025 17:00:00 -0500",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTge7scBKhmLsd1B-3aXtIShdXMWtUviH8944LmY1mN-Te4ihFEpVCArUK9PqUKRf3K0qBn0oZK",
+    "news_item_snippet": "O time leonino volta a campo j\u00e1 no s\u00e1bado, 25, \u00e0s 16h30min, contra o Horizonte, pelo Campeonato Cearense.",
+    "news_item_url": "https://www.opovo.com.br/esportes/futebol/times/fortaleza/2025/01/23/fortaleza-x-moto-club-vitoria-facil-do-leao-na-estreia-da-copa-do-nordeste.html",
+    "picture_source": "globoesporte.com",
     "approx_traffic": "50,000+"
   },
   {
@@ -317,6 +317,16 @@
     "news_item_snippet": "Saiba o que \u00e9 e como surgiu a pol\u00eamica &#39;Planilha dos Influenciadores&#39; que viralizou nas redes sociais na \u00faltima quinta-feira (22)",
     "news_item_url": "https://www.terra.com.br/diversao/gente/exposed-e-bastidores-terriveis-tudo-sobre-a-polemica-planilha-dos-influenciadores,2f7fcce96a57a2946004983f12984ad1edwde8wd.html",
     "picture_source": "gshow",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Brazil",
+    "title": "Liga Europa",
+    "pubDate": "Thu, 23 Jan 2025 13:00:00 -0500",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSHKFQyEFiIww9MXZ0KXa0CCcaUWO0hNEfJdMFgVTy7NoeUt9KgvRGvcJEFR7wHOdATjKDDs_O9",
+    "news_item_snippet": "Jogadores do Lazio comemorando. Foto: Marco Rosi - SS Lazio/Getty Images / Esporte News Mundo. A pen\u00faltima rodada da fase de&nbsp;...",
+    "news_item_url": "https://www.terra.com.br/esportes/futebol/internacional/liga-europa-lazio-mantem-invencibilidade-athletic-e-ajax-tropecam-e-ingleses-vencem,20d34d4ef489f7a1dfaff94730edefebjx5w74p4.html",
+    "picture_source": "Terra",
     "approx_traffic": "50,000+"
   },
   {
@@ -334,9 +344,19 @@
     "title": "S25",
     "pubDate": "Thu, 23 Jan 2025 04:00:00 +0900",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcT5eGQRQJ0tZE564mm8DCtTMTm9tmz6n_LeASsf76UsfbQBzYZFtLc-HTdek9DyEYbMVnpDJvnV",
-    "news_item_snippet": "SK\ud154\ub808\ucf64, KT, LG\uc720\ud50c\ub7ec\uc2a4 \ub4f1 \uc774\ub3d9\ud1b5\uc2e0 3\uc0ac\uac00 23\uc77c \uc0bc\uc131\uc804\uc790 \uac24\ub7ed\uc2dcS25 \uc2dc\ub9ac\uc988 \uc0ac\uc804\uc608\uc57d\uc744 \uc2dc\uc791\ud558\uba74\uc11c \ucd5c\ub300 24\ub9cc5\ucc9c\uc6d0\uc758 \uacf5\uc2dc\uc9c0\uc6d0\uae08\uc744 \ucc45\uc815\ud588\ub2e4.",
-    "news_item_url": "https://zdnet.co.kr/view/?no=20250124095439",
+    "news_item_snippet": "\uc0bc\uc131\uc804\uc790\ub294 \uac24\ub7ed\uc2dc S25 \uccb4\ud5d8\uacf5\uac04 &#39;\uac24\ub7ed\uc2dc \uc2a4\ud29c\ub514\uc624&#39;\ub97c \uc11c\uc6b8 \uc601\ub4f1\ud3ec \ud0c0\uc784\uc2a4\ud018\uc5b4\uc640 \ucf54\uc5d1\uc2a4, \uc0bc\uc131\uc2a4\ud1a0\uc5b4 \ud64d\ub300, \uc0bc\uc131 \uac15\ub0a8 \ub4f1 4\uacf3\uc5d0 \uc6b4\uc601\ud55c\ub2e4\uace0 24\uc77c \ubc1d\ud614\ub2e4.",
+    "news_item_url": "https://www.aitimes.com/news/articleView.html?idxno=167473",
     "picture_source": "SK\ud154\ub808\ucf64 \ub274\uc2a4\ub8f8",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Saudi Arabia",
+    "title": "\u0627\u0644\u0631\u064a\u0627\u0644 \u0636\u062f \u0631\u064a\u062f \u0628\u0648\u0644 \u0633\u0627\u0644\u0632\u0628\u0648\u0631\u063a",
+    "pubDate": "Wed, 22 Jan 2025 22:00:00 +0300",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRBfBlDBaKcLDCHyWTtuXx3aZMiBkCAhH7dE4lfHNJdetvNj32yr6Auhe4QMtuIV1U4fLBV-ofb",
+    "news_item_snippet": "\u062d\u0642\u0642 \u0631\u064a\u0627\u0644 \u0645\u062f\u0631\u064a\u062f \u0641\u0648\u0632\u064b\u0627 \u0643\u0628\u064a\u0631\u064b\u0627 \u0639\u0644\u0649 \u0641\u0631\u064a\u0642 \u0633\u0627\u0644\u0632\u0628\u0648\u0631\u063a \u0627\u0644\u0646\u0645\u0633\u0627\u0648\u064a \u0628\u0646\u062a\u064a\u062c\u0629 1/5 \u0641\u064a \u0645\u0628\u0627\u0631\u0627\u0629 \u0645\u062b\u064a\u0631\u0629 \u0636\u0645\u0646 \u0645\u0646\u0627\u0641\u0633\u0627\u062a \u062f\u0648\u0631\u064a \u0623\u0628\u0637\u0627\u0644 \u0623\u0648\u0631\u0648\u0628\u0627. \u0627\u0641\u062a\u062a\u062d \u0627\u0644\u0646\u062c\u0645 \u0627\u0644\u0628\u0631\u0627\u0632\u064a\u0644\u064a \u0631\u0648\u062f\u0631\u064a\u063a\u0648 \u0627\u0644\u062a\u0633\u062c\u064a\u0644 \u0641\u064a&nbsp;...",
+    "news_item_url": "https://www.eremnews.com/sports/lea3yh7",
+    "picture_source": "\u0627\u0644\u064a\u0648\u0645 \u0627\u0644\u0633\u0627\u0628\u0639",
     "approx_traffic": "50,000+"
   },
   {
@@ -354,8 +374,8 @@
     "title": "David Balland",
     "pubDate": "Thu, 23 Jan 2025 10:00:00 +0100",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQnUQoNZQwtHKHlbmjDaCYD-bNXyQE6T95fbAG-zJVjXcgE3byH7IxYXO44mzx9hLdax558VoWV",
-    "news_item_snippet": "L&#39;enl\u00e8vement de David Balland et de son \u00e9pouse Amandine a fait grand bruit. Le jeune millionnaire de 36 ans, cofondateur de l&#39;entreprise Ledger,&nbsp;...",
-    "news_item_url": "https://www.dna.fr/faits-divers-justice/2025/01/24/qui-est-david-balland-le-millionnaire-enleve-dans-le-cher-et-mutile",
+    "news_item_snippet": "David Balland, cofondateur de Ledger, une soci\u00e9t\u00e9 sp\u00e9cialis\u00e9e dans la s\u00e9curisation de cryptoactifs, a \u00e9t\u00e9 lib\u00e9r\u00e9 mercredi soir apr\u00e8s avoir subi un&nbsp;...",
+    "news_item_url": "https://www.ouest-france.fr/societe/faits-divers/qui-est-david-balland-le-cofondateur-dune-societe-de-cryptomonnaie-kidnappe-et-libere-a-vierzon-66087ff8-da2f-11ef-8f83-1be9a95f1bed",
     "picture_source": "Franceinfo",
     "approx_traffic": "100,000+"
   },
@@ -364,8 +384,8 @@
     "title": "Doroth\u00e9e",
     "pubDate": "Thu, 23 Jan 2025 21:00:00 +0100",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSaHC_QW_E8uh_fHH_3XJQ0zbGkfUb6IxmFTNrCsPDcQ43FxNZckGVuBWzm8YSz9MJncaSizoiw",
-    "news_item_snippet": "Rare dans les m\u00e9dias apr\u00e8s 20 ans de r\u00e8gne sur les programmes jeunesse, Doroth\u00e9e retrouve le petit \u00e9cran ce vendredi le temps d&#39;une soir\u00e9e hommage sur TF1.",
-    "news_item_url": "https://www.francebleu.fr/infos/medias-people/videos-merci-dorothee-l-ex-idole-des-enfants-celebree-vendredi-sur-tf1-une-chanson-inedite-devoilee-7099517",
+    "news_item_snippet": "L&#39;\u00e9mission consacr\u00e9e \u00e0 la pr\u00e9sentatrice star des ann\u00e9es 1990 reviendra notamment sur ses plus c\u00e9l\u00e8bres tubes musicaux.",
+    "news_item_url": "https://leclaireur.fnac.com/article/568078-merci-dorothee-quattendre-de-lemission-evenement-sur-tf1/",
     "picture_source": "RTL.fr",
     "approx_traffic": "50,000+"
   },
@@ -373,11 +393,21 @@
     "country": "Germany",
     "title": "Handball-WM",
     "pubDate": "Thu, 23 Jan 2025 22:00:00 +0100",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTzSFiOK1OfXPB1C6Nz99T0N0c58iZOjngRE7rJl4tfQVxiQTTjwpcEgFjC6_RbbX8_z3K9_yHM",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTcubT1w1ZJFsYqKUg26ldZAT8J32UFnrcZzflNJ2uj2lxuGuOqfp9biXmmglpVQEv4rBS3XsNa",
     "news_item_snippet": "Erst der Bundesliga-Aufstieg mit dem VfL Potsdam, nun die Weltmeisterschaft im eigenen Land: Kroatiens Handball-Nationalspieler Josip \u0160imi\u0107 spricht \u00fcber&nbsp;...",
     "news_item_url": "https://www.rbb24.de/sport/beitrag/2025/01/handball-wm-interview-josip-simic-kroatien-vfl-potsdam-bundesliga.html",
     "picture_source": "NDR.de",
     "approx_traffic": "200,000+"
+  },
+  {
+    "country": "Germany",
+    "title": "Rene Benko",
+    "pubDate": "Thu, 23 Jan 2025 11:00:00 +0100",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSsd-I34DVesVnM0qPbyv4V304LdPz0cJT5QnqPkBGIYC4-Q60qc5rfyhEwbtM6MIO478w1LvSg",
+    "news_item_snippet": "Laut Landgericht Wien besteht \u00bbVerdunkelungs- und Tatbegehungsgefahr\u00ab. Daher verh\u00e4ngte ein Richter Untersuchungshaft gegen den ehemaligen \u00f6sterreichischen&nbsp;...",
+    "news_item_url": "https://www.spiegel.de/wirtschaft/unternehmen/rene-benko-muss-in-untersuchungshaft-a-a47b7953-27c8-4387-809c-2ede010848a9",
+    "picture_source": "tagesschau.de",
+    "approx_traffic": "50,000+"
   },
   {
     "country": "Germany",
@@ -394,8 +424,8 @@
     "title": "Alexander Zverev",
     "pubDate": "Wed, 22 Jan 2025 18:00:00 +0100",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRj23kxGFM5w_0-SGaNZvaQ6IG4dGTnWfkepXeKi4VcIvIjwF1KcHOsgIQEuqycm35lgUdX9JHM",
-    "news_item_snippet": "Der deutsche Tennisprofi Alexander Zverev hat erstmals das Finale der Australian Open in Melbourne erreicht. Nachdem der Hamburger den ersten Satz im&nbsp;...",
-    "news_item_url": "https://www.ndr.de/sport/mehr_sport/Zverev-im-Finale-der-Australian-Open-Djokovic-gibt-auf,tennis1842.html",
+    "news_item_snippet": "Der deutsche Tennisprofi Alexander Zverev hat erstmals das Finale der Australian Open in Melbourne erreicht. Im Halbfinale gegen Novak Djokovic profitierte&nbsp;...",
+    "news_item_url": "https://www.ndr.de/sport/mehr_sport/Bin-bereit-Zverev-im-Finale-der-Australian-Open-gegen-Sinner,tennis1842.html",
     "picture_source": "RND",
     "approx_traffic": "100,000+"
   },
@@ -450,36 +480,6 @@
     "approx_traffic": "100,000+"
   },
   {
-    "country": "Italy",
-    "title": "Europa League",
-    "pubDate": "Thu, 23 Jan 2025 12:00:00 +0100",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQ-N4EODYbe3cXy0-b-hTy8uRTzXO6eani8KmB_UL-poIBGMYxC6pIiJwrIiYl64bNY8StEaf9k",
-    "news_item_snippet": "Leggi su Sky TG24 l&#39;articolo Europa League, AZ-Roma 1-0. La Lazio batte la Real Sociedad 3-1 e vola agli ottavi.",
-    "news_item_url": "https://tg24.sky.it/sport/2025/01/23/risultati-europa-league-partite-oggi-gol-highlights-video",
-    "picture_source": "Rai News",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "Italy",
-    "title": "AZ  Roma",
-    "pubDate": "Thu, 23 Jan 2025 18:00:00 +0100",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTM4Pn2Zdscf0MXxnc7PdToWtKI9SMbDRrZk-fiZM0NZTqO2IVovICCfvRTG1P-rmxRqPXMwtu8",
-    "news_item_snippet": "Finisce con una sconfitta la trasferta in Olanda della Roma, battuta dall&#39;Az Alkmaar. Il migliore nella squadra di Ranieri \u00e8 Dybala, bene anche Hummels,&nbsp;...",
-    "news_item_url": "https://sport.sky.it/calcio/europa-league/2025/01/23/az-alkmaar-roma-pagelle",
-    "picture_source": "Sky Sport",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "Italy",
-    "title": "Isabella Rossellini",
-    "pubDate": "Thu, 23 Jan 2025 16:00:00 +0100",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRrTRJ2R5Ypko0Oz1kwoBelpxFhx27Ct4coPJ87VNMbmekXyTbT6riXOXugCmTLqCLtj15GFwz4",
-    "news_item_snippet": "I pronostici la danno gi\u00e0 vincitrice Karla Sof\u00eda Gasc\u00f3n, prima attrice transgender a ottenere una nomination agli Academy Award. \u201cEmilia P\u00e9rez\u201d \u00e8 la storia di&nbsp;...",
-    "news_item_url": "https://blog.uniecampus.it/2025/01/24/annunciate-nomination-agli-oscar-2025-italia-ha-volto-di-isabella-rossellini/",
-    "picture_source": "Il Sole 24 ORE",
-    "approx_traffic": "100,000+"
-  },
-  {
     "country": "Mexico",
     "title": "Nominaciones Oscar 2025",
     "pubDate": "Thu, 23 Jan 2025 09:00:00 -0600",
@@ -511,22 +511,22 @@
   },
   {
     "country": "Spain",
+    "title": "Lazio  Real Sociedad",
+    "pubDate": "Thu, 23 Jan 2025 16:00:00 +0100",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQTvBbZP7BaOvEefOeClL11tYRqGTX4r4hujNGCIX7IysO8stvp8StWVcwxNmBF8HhoVPz6ASis",
+    "news_item_snippet": "Perdi\u00f3 la Real tras una primera media hora desastrosa. Los de Imanol, que tuvieron una buena puesta en escena, encajaron muy pronto el primer tanto, o.",
+    "news_item_url": "https://www.marca.com/futbol/europa-league/lazio-real-sociedad/2025/01/23/01_0104_20250123_129_188-directo.html",
+    "picture_source": "ABC.es",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Spain",
     "title": "Nominaciones Oscar 2025",
     "pubDate": "Thu, 23 Jan 2025 16:00:00 +0100",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRqFcDFMpd2yndOoK7g-0DDL6wA22u71zVOn1YuXPD_ubHQJXh7iKDFfYSff1TZuZ_n7m3jJ_s_",
     "news_item_snippet": "El premio al mejor actor, por su parte, depar\u00f3 su propia sorpresa: esper\u00e1bamos ver nominaciones para Adrien Brody (The Brutalist), Timoth\u00e9e Chalamet (A Complete&nbsp;...",
     "news_item_url": "https://www.revistavanityfair.es/articulos/todos-los-nominados-a-los-oscar-2025-lista-completa",
     "picture_source": "Hola",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Spain",
-    "title": "Lazio  Real Sociedad",
-    "pubDate": "Thu, 23 Jan 2025 19:00:00 +0100",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQTvBbZP7BaOvEefOeClL11tYRqGTX4r4hujNGCIX7IysO8stvp8StWVcwxNmBF8HhoVPz6ASis",
-    "news_item_snippet": "Perdi\u00f3 la Real tras una primera media hora desastrosa. Los de Imanol, que tuvieron una buena puesta en escena, encajaron muy pronto el primer tanto, o.",
-    "news_item_url": "https://www.marca.com/futbol/europa-league/lazio-real-sociedad/2025/01/23/01_0104_20250123_129_188-directo.html",
-    "picture_source": "ABC.es",
     "approx_traffic": "50,000+"
   },
   {
@@ -551,13 +551,13 @@
   },
   {
     "country": "United Kingdom",
-    "title": "Three network Down",
+    "title": "Three network. Down",
     "pubDate": "Thu, 23 Jan 2025 16:00:00 +0000",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcS_xnFUnjF6ray2izpxhMFpKteTF9jDIhw4qVHdT4K-Y7ntLFUJoL8at3N3tS02X7B2j4KBKx2aiA",
     "news_item_snippet": "Millions of mobile phone users are still experiencing issues after problems with the Three UK network. Users reported not being able to make or receive&nbsp;...",
     "news_item_url": "https://uk.news.yahoo.com/three-mobile-network-down-affecting-073858008.html",
     "picture_source": "Sky News",
-    "approx_traffic": "100,000+"
+    "approx_traffic": "200,000+"
   },
   {
     "country": "United Kingdom",
@@ -584,8 +584,8 @@
     "title": "Kyogo",
     "pubDate": "Thu, 23 Jan 2025 15:00:00 +0000",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSztA2P5J951MfX7LIkKD7inbfrdr0bMvsBhqugdE5UWOJD5xlY74UWX666YEC3OoHdUwkmbIxt",
-    "news_item_snippet": "CELTIC could turn to a big-name loan from the English Premier League as they seek their replacement for \u00a310m talisman Kyogo Furuhashi.We broke the ne.",
-    "news_item_url": "https://www.thescottishsun.co.uk/sport/14224038/celtic-kyogo-replacement-loan-signing-english-premier-league/",
+    "news_item_snippet": "BRENDAN RODGERS has vowed Celtic will emerge from the January transfer window stronger than ever before.Hoops fans are reeling ahead of Kyogo&#39;s \u00a310.",
+    "news_item_url": "https://www.thescottishsun.co.uk/sport/14224838/celtic-brendan-rodgers-kyogo-jota-transfer-asked-to-leave/",
     "picture_source": "Sky Sports",
     "approx_traffic": "50,000+"
   }
