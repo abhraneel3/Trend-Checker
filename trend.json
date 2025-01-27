@@ -404,8 +404,8 @@
     "title": "Commanders vs Eagles",
     "pubDate": "Sun, 26 Jan 2025 12:00:00 -0500",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcS5KafDQdSb0qbqIpiuU3pPvyGLN6uwX2JCRhc0d-B821YB_l30fON3sgO6fqGjViYduGPRb093",
-    "news_item_snippet": "It&#39;s Philadelphia Eagles vs. Washington Commanders in NFC Championship game. Follow for live score updates and highlights, plus how to watch.",
-    "news_item_url": "https://www.delawareonline.com/story/sports/nfl/eagles/2025/01/26/eagles-commanders-live-score-updates-highlights-tv-channel/77852850007/",
+    "news_item_snippet": "The Washington Commanders will try to punch their ticket to the Super Bowl with a road matchup against the Philadelphia Eagles in the NFC Championship.",
+    "news_item_url": "https://www.commanders.com/news/commanders-vs-eagles-how-to-watch-listen-live-stream-the-nfc-championship",
     "picture_source": "CBSSports.com",
     "approx_traffic": "100,000+"
   },
@@ -413,10 +413,10 @@
     "country": "Canada",
     "title": "Nvidia stock",
     "pubDate": "Sun, 26 Jan 2025 13:00:00 -0500",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQ7IGj_ZpbSaxAgZuXnxXNZreSbP5gqQmDxluTKah-b1TBtv2HTNbGNjoq1IoHNZ7y5Jbe1nOxW",
-    "news_item_snippet": "Nvidia Corp. and ASML Holding NV shares plunged early Monday as Chinese artificial intelligence startup DeepSeek appeared to provide comparable performance&nbsp;...",
-    "news_item_url": "https://financialpost.com/pmn/business-pmn/nvidia-asml-plunge-as-deepseek-triggers-tech-stock-selloff",
-    "picture_source": "Investor's Business Daily",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRZ2flNURCUy_VS81sB4KMbfdBsh9lJ8Sristw5cFpVD9JjQqHQ0JV_vX1gbE-ClHLX49RUVxvw",
+    "news_item_snippet": "Nvidia stock and Broadcom stock were plunging Monday after a new AI model triggered questions about the chip makers&#39; lofty valuations.",
+    "news_item_url": "https://www.barrons.com/articles/nvidia-stock-deepseek-ai-chip-selloff-9a1c1a77",
+    "picture_source": "Financial Post",
     "approx_traffic": "50,000+"
   },
   {
@@ -511,23 +511,13 @@
   },
   {
     "country": "Germany",
-    "title": "Nvidia",
+    "title": "DeepSeek",
     "pubDate": "Mon, 27 Jan 2025 10:00:00 +0100",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcR7tscuyjDyqab_8MDFuH6z8ZP1fZxA3BH5hB8ezLZ7EGpcg6Qw2qeG9pU9q-AtWYPM8eaqvKKj",
-    "news_item_snippet": "Unternehmen wie OpenAI und Anthropic investieren \u00fcber 100 Millionen Dollar allein in Rechenressourcen. Sie ben\u00f6tigen gigantische Rechenzentren mit Zehntausenden&nbsp;...",
-    "news_item_url": "https://www.ig.com/de/nachrichten-und-trading-ideen/deepseek--eine-revolution-in-der-ki--bedrohung-fuer-nvidia-und-c-250127",
-    "picture_source": "DER SPIEGEL",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "Germany",
-    "title": "Handball wm",
-    "pubDate": "Sun, 26 Jan 2025 01:00:00 +0100",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTc_6e5lz_Jo3ZhSswPl36vId2Rq684tRAVRLTIwzr51pTzBH_Tx-o9XuV77qPbAhRXYA91Yzh-",
-    "news_item_snippet": "Kristian Bj\u00f6rnsen z\u00e4hlt zu den bekanntesten Spielern im norwegischen Team. Doch in Zukunft l\u00e4uft der Rechtsau\u00dfen nicht mehr f\u00fcr die Skandinavier auf.",
-    "news_item_url": "https://www.t-online.de/sport/mehr-sport/handball/handball-wm/id_100584490/handball-wm-norwegen-star-bjoernsen-tritt-aus-nationalteam-zurueck.html",
-    "picture_source": "t-online.de",
-    "approx_traffic": "100,000+"
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSxSCaWn7D19KDNufRITMmpVMNKmpZfmw7paEnLQyzvcNCYNF-hABzQifV9ptsJbZFH_rnoYVEe",
+    "news_item_snippet": "DeepSeek gilt als KI-Anbieter der Stunde. Das chinesische Start-up f\u00fchrt die US-App-Charts an, das macht sich auch an der B\u00f6rse bemerkbar.",
+    "news_item_url": "https://www.spiegel.de/wirtschaft/unternehmen/deepseek-versus-nvidia-hype-um-chinesischen-ki-anbieter-belastet-tech-aktien-a-924b9087-4dfa-4f7f-b7a5-3876c1138879",
+    "picture_source": "manager-magazin.de",
+    "approx_traffic": "50,000+"
   },
   {
     "country": "Germany",
@@ -537,6 +527,16 @@
     "news_item_snippet": "Alexander Zverev muss sich im Finale der Australian Open Jannik Sinner geschlagen geben. Wird der Deutsche jemals einen Grand-Slam-Titel holen?",
     "news_item_url": "https://www.sport1.de/news/tennis/grand-slams/2025/01/zverev-stosst-an-sein-limit-sport1-kommentar-zur-final-niederlage-bei-australian-open",
     "picture_source": "NDR.de",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "Germany",
+    "title": "Handball wm",
+    "pubDate": "Sun, 26 Jan 2025 01:00:00 +0100",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTc_6e5lz_Jo3ZhSswPl36vId2Rq684tRAVRLTIwzr51pTzBH_Tx-o9XuV77qPbAhRXYA91Yzh-",
+    "news_item_snippet": "Kristian Bj\u00f6rnsen z\u00e4hlt zu den bekanntesten Spielern im norwegischen Team. Doch in Zukunft l\u00e4uft der Rechtsau\u00dfen nicht mehr f\u00fcr die Skandinavier auf.",
+    "news_item_url": "https://www.t-online.de/sport/mehr-sport/handball/handball-wm/id_100584490/handball-wm-norwegen-star-bjoernsen-tritt-aus-nationalteam-zurueck.html",
+    "picture_source": "t-online.de",
     "approx_traffic": "100,000+"
   },
   {
@@ -560,20 +560,10 @@
     "approx_traffic": "500,000+"
   },
   {
-    "country": "Germany",
-    "title": "Trump",
-    "pubDate": "Mon, 20 Jan 2025 00:00:00 +0100",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQKU7kNRFhZ0a5g8khVZXH0evF7UXt4ml-8Ex640HDz73JTJWV-TRgvMKWywYrLn0yTRj8p9m3l",
-    "news_item_snippet": "US-Pr\u00e4sident Trump vollzieht gleich am ersten Tag seiner Amtszeit eine innen- und au\u00dfenpolitische Kehrtwende. Was hat er per Dekret entschieden?",
-    "news_item_url": "https://www.tagesschau.de/ausland/amerika/dekrete-trump-ueberblick-100.html",
-    "picture_source": "tagesschau.de",
-    "approx_traffic": "200,000+"
-  },
-  {
     "country": "Italy",
     "title": "Nainggolan",
     "pubDate": "Mon, 27 Jan 2025 13:00:00 +0100",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTMpvo5VuWmxJg_7oo4INM35XsAOtXclJ-ob6FcdFn1Z1_C1q42MWYM7wzjtnF5vtGQgZkIXq5j",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTcZjVzct6qUtpW2Sw1BGog5FQiA-nRxN0VGEgWT-L_FtUK6EGNb9jNSpl00ZhO1b4WAMgoe5u4",
     "news_item_snippet": "L&#39;ex centrocampista di Cagliari, Roma e Inter avrebbe importato stupefacenti dal Sudamerica al porto di Anversa.",
     "news_item_url": "https://www.ilsole24ore.com/art/nainggolan-arrestato-traffico-internazionale-cocaina-AGS2tfZC",
     "picture_source": "Rai News",
