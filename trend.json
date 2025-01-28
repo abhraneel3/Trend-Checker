@@ -1,11 +1,11 @@
 [
   {
     "country": "United States",
-    "title": "Earthquake Boston",
+    "title": "Earthquake",
     "pubDate": "Mon, 27 Jan 2025 08:00:00 -0800",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSL3fjzcL9Oa69zs--Ae27rr39sH0ovEos1VIMVgn0Jlh_mKWhdXW3sZk_PfGPeBu973-SRMQ21",
-    "news_item_snippet": "A magnitude 3.8 earthquake rattled parts of New England on Monday morning, with shaking felt from Boston to Portland, Maine, the US Geological Survey said.",
-    "news_item_url": "https://www.cnn.com/2025/01/27/us/maine-earthquake/index.html",
+    "news_item_snippet": "BU earthquake expert Rachel Abercrombie on the Maine-centered, 3.8 tremor that shook Boston and New England.",
+    "news_item_url": "https://www.bu.edu/articles/2025/did-bostons-earthquake-rattle-you/",
     "picture_source": "CBS News",
     "approx_traffic": "200,000+"
   },
@@ -13,10 +13,10 @@
     "country": "United States",
     "title": "Selena Gomez",
     "pubDate": "Mon, 27 Jan 2025 11:00:00 -0800",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQG1qTyT_oDa4abUEg4bvg729g1ZZVn5PH7iwe2Awo-jkIzwkcWYZp3ieMFbkGTrF5SOFPdJ-Rp",
-    "news_item_snippet": "Selena Gomez on Monday posted \u2013 and quickly deleted \u2013 a video of herself reacting to the immigration enforcement sweeps launched by the Trump administration&nbsp;...",
-    "news_item_url": "https://www.cnn.com/2025/01/27/entertainment/selena-gomez-immigration-video/index.html",
-    "picture_source": "USA TODAY",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRJuE8mUW5R7aFcLHz5nZbZ7_y5xNEjh9xwIVcy5pShvWWAHnomWRtJL3wzGFNISLEJoxEdD-gI",
+    "news_item_snippet": "(CNN) \u2013 Selena Gomez&nbsp;...",
+    "news_item_url": "https://www.wsaz.com/2025/01/28/selena-gomez-breaks-down-social-media-response-immigration-sweeps/",
+    "picture_source": "BBC News",
     "approx_traffic": "100,000+"
   },
   {
@@ -31,32 +31,12 @@
   },
   {
     "country": "United States",
-    "title": "The Bachelor",
-    "pubDate": "Mon, 27 Jan 2025 16:00:00 -0800",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTqQneAzqnC4wNv9DDgHyWFYUPxwGcmwOQdDdtjK2q59RnzlUpHbeT0KKeH2oXB_KsuHwly-ebs",
-    "news_item_snippet": "New Jersey native Grant Ellis will kick off his quest for love on the 29th season of ABC&#39;s &quot;The Bachelor&quot; on Monday.",
-    "news_item_url": "https://www.northjersey.com/story/entertainment/tv/2025/01/27/bachelor-season-premiere-grant-ellis-nj-debut-monday/77981046007/",
-    "picture_source": "ABC7 New York",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Nfc championship game",
-    "pubDate": "Mon, 27 Jan 2025 10:00:00 -0800",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRlKMnQJ4SNe5Rl-pzZiV3mKC2YyomU1ShzaZ-R4E63CeQraZBjSjQ_3R7uFBf6qlMYuPWn_AUc",
-    "news_item_snippet": "Here&#39;s a look at all the controversial calls from the NFL&#39;s conference championship weekend.",
-    "news_item_url": "https://www.usatoday.com/story/sports/nfl/2025/01/27/nfl-controversial-calls-referee-penalties-afc-nfc-championship/77968231007/",
-    "picture_source": "USA TODAY",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "United States",
-    "title": "IRS",
-    "pubDate": "Mon, 27 Jan 2025 16:00:00 -0800",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRmy3hb7WW4esWKliZQjXGHKtxs60AMVteLqUGcWPZnz4w8n8tbfcT8Vchn74UIhboDXUM-r85h",
-    "news_item_snippet": "Eligible Illinois Taxpayers Can Use IRS&#39; Direct File Program this Year. CHICAGO - The Illinois Department of Revenue (IDOR) announced it will begin&nbsp;...",
-    "news_item_url": "https://www.illinois.gov/news/press-release.30863.html",
-    "picture_source": "CNNMoney",
+    "title": "Afc championship game",
+    "pubDate": "Mon, 27 Jan 2025 12:00:00 -0800",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSybCkNNJ1-uqCOM0tHJZkEd1ighBj-h-yXIG_dyx74Rnhe-wlKVrJYF45YKLZCtII7r-pqpawU",
+    "news_item_snippet": "KANSAS CITY - Former Edwardsville and Iowa star defensive lineman A.J. Epenesa played in another American Football Conference championship game for his team&nbsp;...",
+    "news_item_url": "https://www.riverbender.com/news/details/aj-epenesa-plays-in-afc-championship-game-for-bills-against-chiefs-79160.cfm",
+    "picture_source": "Kansas City Star",
     "approx_traffic": "100,000+"
   },
   {
@@ -71,6 +51,16 @@
   },
   {
     "country": "United States",
+    "title": "IRS",
+    "pubDate": "Mon, 27 Jan 2025 16:00:00 -0800",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRmy3hb7WW4esWKliZQjXGHKtxs60AMVteLqUGcWPZnz4w8n8tbfcT8Vchn74UIhboDXUM-r85h",
+    "news_item_snippet": "Eligible Illinois Taxpayers Can Use IRS&#39; Direct File Program this Year. CHICAGO - The Illinois Department of Revenue (IDOR) announced it will begin&nbsp;...",
+    "news_item_url": "https://www.illinois.gov/news/press-release.30863.html",
+    "picture_source": "CNNMoney",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United States",
     "title": "Social Security",
     "pubDate": "Mon, 27 Jan 2025 13:00:00 -0800",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRQkeBsCn8IKSZw9TZl_cWCs4ho2bod2b81_thzF7504DX3sZtJUioMjR2wo5kXofj_m3sR-i4p",
@@ -78,6 +68,16 @@
     "news_item_url": "https://www.ems1.com/retirement/what-you-need-to-know-about-the-social-security-fairness-act",
     "picture_source": "CBS News",
     "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United States",
+    "title": "The Bachelor",
+    "pubDate": "Mon, 27 Jan 2025 16:00:00 -0800",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTqQneAzqnC4wNv9DDgHyWFYUPxwGcmwOQdDdtjK2q59RnzlUpHbeT0KKeH2oXB_KsuHwly-ebs",
+    "news_item_snippet": "New Jersey native Grant Ellis will kick off his quest for love on the 29th season of ABC&#39;s &quot;The Bachelor&quot; on Monday.",
+    "news_item_url": "https://www.northjersey.com/story/entertainment/tv/2025/01/27/bachelor-season-premiere-grant-ellis-nj-debut-monday/77981046007/",
+    "picture_source": "ABC7 New York",
+    "approx_traffic": "50,000+"
   },
   {
     "country": "United States",
@@ -93,30 +93,20 @@
     "country": "United States",
     "title": "Games",
     "pubDate": "Mon, 27 Jan 2025 14:00:00 -0800",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSGvFsVGmNV-uxvjInPJny57sKSPGtahtYXJjMw97TgPmop8tJCRYJ9Et5p0xOP23xsdxOgUMyo",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQFiavywPTJ_4Cs5L9K68nQLavbMoH_dQK6iZCTvI1ytjN1GFrUaaCqtnuIgfJrNODfXmDMhlrs",
     "news_item_snippet": "There are all kinds of stigmas about adult gamers. Tristan Wheeler explores how games can be meaningful, even as an adult.",
     "news_item_url": "https://www.ideastream.org/community/2025-01-28/this-cleveland-man-is-out-to-prove-video-games-are-more-than-childs-play",
-    "picture_source": "ideastream",
+    "picture_source": "Nieman Journalism Lab at Harvard",
     "approx_traffic": "50,000+"
   },
   {
     "country": "United States",
     "title": "Nasdaq",
     "pubDate": "Mon, 27 Jan 2025 09:00:00 -0800",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcS50dPshNti5X6eF9ojHp-HMcTLo93tKCJWjN7d2coB9CwOvP-9Hx687qGgz0hhqRktIPvif4f8",
-    "news_item_snippet": "NEW YORK, Jan. 27, 2025 (GLOBE NEWSWIRE) -- At the end of the settlement date of January 15, 2025, short interest in 3099 Nasdaq Global MarketSM...",
-    "news_item_url": "https://www.globenewswire.com/news-release/2025/01/27/3015972/0/en/Nasdaq-Announces-Mid-Month-Open-Short-Interest-Positions-in-Nasdaq-Stocks-as-of-Settlement-Date-January-15-2025.html",
-    "picture_source": "GlobeNewswire",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
-    "title": "TGL",
-    "pubDate": "Mon, 27 Jan 2025 17:00:00 -0800",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTPaxXdVKKKfGcwZJD12wxgXK1rr6nZigZANlVRMrMSwy7U8wnPZtmjLCCZNTFvf02HGxf4g-UR",
-    "news_item_snippet": "Tiger Woods vs. Rory McIlroy. The match everyone has been waiting for is nearly here.",
-    "news_item_url": "https://www.pgatour.com/article/news/betting-dfs/2025/01/27/tgl-betting-preview-can-tiger-woods-spoil-tgl-debut-for-rory-mcilroy-and-boston-common-jupiter-links",
-    "picture_source": "ESPN",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTqfTAT2GZPeMXpQeMgFo9BhEvL35If3Qp46Av_G_Q1zS80qg5gY70b_9Ar1chs_cj4VCyRBuxB",
+    "news_item_snippet": "The S&amp;P 500 and the Nasdaq were set for a slightly higher open on Tuesday, as AI-linked shares recouped some of the previous session&#39;s sharp losses and a&nbsp;...",
+    "news_item_url": "https://finance.yahoo.com/news/p-nasdaq-futures-regain-ground-103024570.html",
+    "picture_source": "Reuters",
     "approx_traffic": "50,000+"
   },
   {
@@ -151,11 +141,21 @@
   },
   {
     "country": "India",
+    "title": "England vs India",
+    "pubDate": "Tue, 28 Jan 2025 19:30:00 +0530",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTA_EWsz9Sv0if9iXegaoV_ZeTwMzwoozIwpzIa03aChB5NZACdK2YwUtyStar6ybTB54aDQYaJ",
+    "news_item_snippet": "Follow our live build-up, including toss and teams, ahead of our full text commentary stream of the match in Rajkot.",
+    "news_item_url": "https://www.aljazeera.com/sports/liveblog/2025/1/28/live-india-vs-england-third-cricket-t20i",
+    "picture_source": "NDTVSports.com",
+    "approx_traffic": "500,000+"
+  },
+  {
+    "country": "India",
     "title": "Nvidia share price",
     "pubDate": "Mon, 27 Jan 2025 02:30:00 +0530",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcT6EM8tyr1W45LZN4DcLVV3-pZeddT0R3VAqA3UrW7nvki2ksfoCoLS0_3rd8S8I9MUiuiFvoWE",
-    "news_item_snippet": "Nvidia Corp.&#39;s plunge, fueled by investor concern about Chinese artificial-intelligence startup DeepSeek, erased a record amount of stock-market value from&nbsp;...",
-    "news_item_url": "https://www.moneycontrol.com/news/business/markets/nvidia-s-465-billion-deepseek-rout-is-largest-in-market-history-12920769.html",
+    "news_item_snippet": "Explore why NVIDIA&#39;s stock fell 17%, wiping nearly $600 billion off its value, following DeepSeek&#39;s AI breakthrough. Learn about the market impact and&nbsp;...",
+    "news_item_url": "https://www.ig.com/en/news-and-trade-ideas/why-nvidia-s-share-price-dropped-17--after-deepseek-news-250128",
     "picture_source": "Livemint",
     "approx_traffic": "500,000+"
   },
@@ -163,10 +163,10 @@
     "country": "India",
     "title": "Denta Water IPO Allotment Status",
     "pubDate": "Mon, 27 Jan 2025 10:30:00 +0530",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcT-oN8n_xUSqV8CrBsyW-SqFqSyTRoAJIVBPFWweBRpkSUOi9iRN5k4x0nVy5yXFG9q0TOSluDE",
-    "news_item_snippet": "The IPO is entirely a fresh issue of 75 lakh equity shares worth Rs 220.5 crore at the upper end of the price band.",
-    "news_item_url": "https://www.moneycontrol.com/news/business/ipo/denta-water-infra-ipo-allotment-to-be-out-shortly-says-registrar-after-delay-here-s-how-to-check-status-online-on-nse-bse-check-latest-gmp-12921405.html",
-    "picture_source": "Livemint",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQX8Jztw7rX9OPqm6nlUHVwQhdNmrAHNOkwG68Xe_b9nokLyEbBnRF-jWkjYrhPZk3HdJ4_tEy1",
+    "news_item_snippet": "Denta Water and Infra IPO allotment status online can be checked through the websites of BSE and NSE, and the official portal of IPO registrar.",
+    "news_item_url": "https://www.livemint.com/market/ipo/denta-water-and-infra-ipo-allotment-date-in-focus-gmp-steps-to-check-allotment-status-online-11737949278924.html",
+    "picture_source": "Fortune India",
     "approx_traffic": "100,000+"
   },
   {
@@ -174,7 +174,7 @@
     "title": "Guillain-Barre Syndrome",
     "pubDate": "Mon, 27 Jan 2025 10:30:00 +0530",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQGBsAC8BOgtAakSOeDAueV_V8BfMJXZuDn0AweBJbggLoXuwB68GWe_nUfvrILz2xiCgAK_XEn",
-    "news_item_snippet": "The state government has increased the outlay under the Mahatma Phule Jan Arogya Scheme for cases related to the disease, with PMC making necessary&nbsp;...",
+    "news_item_snippet": "The recent outbreak of the Guillain-Barr\u00e9 syndrome (GBS) in Pune was most likely due to contaminated water sources, said Maharashtra&#39; health minister&nbsp;...",
     "news_item_url": "https://indianexpress.com/article/cities/pune/contaminated-water-source-near-khadakwasla-likely-cause-for-guillain-barre-syndrome-says-health-minister-9802626/",
     "picture_source": "The Hindu",
     "approx_traffic": "50,000+"
@@ -190,43 +190,13 @@
     "approx_traffic": "50,000+"
   },
   {
-    "country": "India",
-    "title": "India Republic Day",
-    "pubDate": "Sat, 25 Jan 2025 12:30:00 +0530",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRvUucSW5X4F1DlEkkYxEOg3n8LoFXXoe_AIBZATRRlWFax75rW4vxNLM7unJ-MInwNu49McKHy",
-    "news_item_snippet": "President Droupadi Murmu led the nation in celebrating the momentous occasion with Indonesian President Prabowo Subianto as the chief guest.",
-    "news_item_url": "https://www.thehindu.com/news/national/in-pictures-india-celebrates-76th-republic-day/article69142907.ece",
-    "picture_source": "Livemint",
-    "approx_traffic": "2,000,000+"
-  },
-  {
-    "country": "India",
-    "title": "IND vs ENG",
-    "pubDate": "Sat, 25 Jan 2025 20:30:00 +0530",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRRrkAFZ5kQZMXmx4EjL7ZvPwnC-0WAEdCj8EdgbuNvze1XB2bty5tq1pConKsuuKrAfxAhwdyc",
-    "news_item_snippet": "\u092e\u094b\u0939\u092e\u094d\u092e\u0926 \u0936\u092e\u0940 \u0915\u094b \u0907\u0902\u0917\u094d\u0932\u0948\u0902\u0921 \u0915\u0947 \u0916\u093f\u0932\u093e\u092b \u092a\u093e\u0902\u091a \u092e\u0948\u091a\u094b\u0902 \u0915\u0940 \u091f\u094020 \u0938\u0940\u0930\u0940\u091c \u092e\u0947\u0902 \u091a\u0941\u0928\u093e \u0917\u092f\u093e \u0925\u093e\u0964 \u0907\u0938\u0940 \u0915\u0947 \u0938\u093e\u0925 \u0936\u092e\u0940 \u0928\u0947 \u0932\u0902\u092c\u0947 \u0938\u092e\u092f \u092c\u093e\u0926 \u091f\u0940\u092e \u0907\u0902\u0921\u093f\u092f\u093e \u092e\u0947\u0902 \u0935\u093e\u092a\u0938\u0940 \u0915\u0940\u0964",
-    "news_item_url": "https://www.jagran.com/cricket/headlines-ind-vs-eng-3rd-t20-probable-playing-11-at-rajkot-india-vs-england-23873655.html",
-    "picture_source": "Hindustan \u0939\u093f\u0902\u0926\u0940",
-    "approx_traffic": "1,000,000+"
-  },
-  {
-    "country": "India",
-    "title": "Cricket",
-    "pubDate": "Sat, 25 Jan 2025 22:30:00 +0530",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQP9wGYu6cayQD7PE2sjV4-yhXmFV03TnKhIU97mEjhuNfTmwUwplrotfy7dwZ9KOoYrvbwDGq8",
-    "news_item_snippet": "Of all Test bowlers with 25 wickets or more on Sri Lanka pitches, no bowler \u2013 not even local legend, and the game&#39;s all-time most successful spinner Muttiah&nbsp;...",
-    "news_item_url": "https://www.cricket.com.au/news/4204272/mitchell-starc-australia-test-tour-sri-lanka-galle-wickets-strike-rate-wasim-akram-records",
-    "picture_source": "TV9 Telugu",
-    "approx_traffic": "200,000+"
-  },
-  {
     "country": "Argentina",
     "title": "Nvidia",
     "pubDate": "Mon, 27 Jan 2025 00:00:00 -0300",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSTHVCudceho8WQw5temtXuyFNL0ixDX8ecQSb12vriJ-j4j8HwNp-Zyz3H4CmVjcRn2qqX9f8k",
-    "news_item_snippet": "Actualmente, ChatGPT, de OpenAI y el modelo m\u00e1s utilizado en todo el mundo, necesita procesadores espec\u00edficamente dise\u00f1ados para inteligencia artificial,&nbsp;...",
-    "news_item_url": "https://www.pagina12.com.ar/799868-como-fue-el-dia-negro-de-nvidia-perdidas-millonarias-y-dudas",
-    "picture_source": "FRANCE 24",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcR2ouxH2nEmVJE6uviVsnqruP6MPF2MUUdcjhk3mLf9UoF_5uHercSSJQXpGFozM42Ve0Z50DgZ",
+    "news_item_snippet": "Morgan Stanley redujo su objetivo de precio para Nvidia debido a preocupaciones a corto plazo tras el lanzamiento de DeepSeek.",
+    "news_item_url": "https://www.ambito.com/finanzas/morgan-stanley-recorta-el-objetivo-precio-las-acciones-nvidia-caida-historica-n6107407",
+    "picture_source": "LA NACION",
     "approx_traffic": "50,000+"
   },
   {
@@ -240,14 +210,14 @@
     "approx_traffic": "50,000+"
   },
   {
-    "country": "Argentina",
-    "title": "Boca",
-    "pubDate": "Sun, 26 Jan 2025 02:00:00 -0300",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRrYcY6odNgoSCoYCdzy9ORcNC80GFkt9czoqq_wz1u0K_HJe19AInBJ982vn3wxIsk-_AnBu3O",
-    "news_item_snippet": "Tras sumar sus primeros minutos ante Argentinos Juniors entrando desde el banco, en el empate 0-0 en la Bombonera, Alan Velasco fue presentado oficialmente&nbsp;...",
-    "news_item_url": "https://www.lanacion.com.ar/deportes/futbol/alan-velasco-la-segunda-compra-mas-cara-del-club-que-busca-ser-el-nuevo-rebelde-en-boca-nid27012025/",
-    "picture_source": "ESPN",
-    "approx_traffic": "200,000+"
+    "country": "Australia",
+    "title": "Chinese New Year 2025",
+    "pubDate": "Tue, 28 Jan 2025 15:00:00 +1100",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRA-zGWa5WQwkvGGnztnyyJWhUosbWzbu4_KdUAuwcxGE8OjPGT98XTeozrtEnYnD0C0BABPYpb",
+    "news_item_snippet": "Wednesday, January 29, 2025, marks the Chinese New Year, also known as the Lunar New Year or Spring Festival. Here&#39;s everything you need to know about this&nbsp;...",
+    "news_item_url": "https://euroweeklynews.com/2025/01/28/chinese-new-year-2025-year-of-the-snake/",
+    "picture_source": "Hindustan Times",
+    "approx_traffic": "50,000+"
   },
   {
     "country": "Australia",
@@ -267,7 +237,7 @@
     "news_item_snippet": "A\u00e7\u00f5es da fabricante de chips caem 15% ap\u00f3s an\u00fancio de nova ferramenta de IA chinesa, impactando seu valor de mercado e outras empresas do setor.",
     "news_item_url": "https://www.cnnbrasil.com.br/economia/negocios/efeito-deepseek-nvidia-deixa-o-posto-de-empresa-mais-valiosa-do-mundo/",
     "picture_source": "G1",
-    "approx_traffic": "200,000+"
+    "approx_traffic": "500,000+"
   },
   {
     "country": "Brazil",
@@ -311,18 +281,28 @@
   },
   {
     "country": "Saudi Arabia",
+    "title": "\u0645\u062d\u0645\u062f \u0628\u0646 \u0641\u0647\u062f",
+    "pubDate": "Tue, 28 Jan 2025 16:00:00 +0300",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRQNEmEn9tDtKOhm0KPwNdlMFXrYBro-CsdTglpv_c876Mbmp9iQP80JInTVi5EgBpt6WQSXtKn",
+    "news_item_snippet": "\u0623\u0639\u0644\u0646 \u0627\u0644\u062f\u064a\u0648\u0627\u0646 \u0627\u0644\u0645\u0644\u0643\u064a \u0627\u0644\u064a\u0648\u0645\u060c \u0639\u0646 \u0648\u0641\u0627\u0629 \u0627\u0644\u0623\u0645\u064a\u0631 \u0645\u062d\u0645\u062f \u0628\u0646 \u0641\u0647\u062f \u0628\u0646 \u0639\u0628\u062f\u0627\u0644\u0639\u0632\u064a\u0632 \u0622\u0644 \u0633\u0639\u0648\u062f\u060c \u0627\u0644\u0627\u0628\u0646 \u0627\u0644\u062b\u0627\u0646\u064a \u0644\u0644\u0645\u0644\u0643 \u0641\u0647\u062f \u0628\u0646 \u0639\u0628\u062f\u0627\u0644\u0639\u0632\u064a\u0632\u060c \u0639\u0646 \u0639\u0645\u0631\u064d \u064a\u0646\u0627\u0647\u0632 75 \u0639\u0627\u0645\u064b\u0627\u060c \u062d\u064a\u062b \u0623\u0641\u0627\u062f \u0627\u0644\u0628\u064a\u0627\u0646&nbsp;...",
+    "news_item_url": "https://sabq.org/saudia/u511omd1d5",
+    "picture_source": "\u0627\u0644\u0639\u0631\u0628\u064a\u0629",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Saudi Arabia",
     "title": "\u0627\u0644\u0647\u0644\u0627\u0644",
     "pubDate": "Mon, 27 Jan 2025 21:00:00 +0300",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSAOmAScE0laWrvuqU80YEWOHYzGutRQ6nqCGsJQu-lwS5Tj7tIv18WCQBWmcqLywX6nujMf-70",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcShIldJ14QbQ63gVqmfu86PA0GhrroGBJZn85Qj7CuDeBfjKn1WcqLfwPq85GPjvI5TnuZRNaby",
     "news_item_snippet": "\u0646\u0633\u062a\u0639\u0631\u0636 \u0645\u0648\u0639\u062f \u0645\u0628\u0627\u0631\u0627\u0629 \u0627\u0644\u0647\u0644\u0627\u0644 \u0636\u062f \u0627\u0644\u0642\u0627\u062f\u0633\u064a\u0629 \u0641\u064a \u0627\u0644\u062c\u0648\u0644\u0629 \u0627\u0644\u064017 \u0628\u0627\u0644\u062f\u0648\u0631\u064a \u0627\u0644\u0633\u0639\u0648\u062f\u064a \u0644\u0644\u0645\u062d\u062a\u0631\u0641\u064a\u0646 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062f\u0645 2024-2025\u060c \u0648\u0642\u0646\u0648\u0627\u062a \u0627\u0644\u0628\u062b \u0627\u0644\u0645\u0628\u0627\u0634\u0631. \u062a\u0642\u0627\u0645 \u0627\u0644\u0645\u0628\u0627\u0631\u0627\u0629 \u0627\u0644\u064a\u0648\u0645 \u0627\u0644\u0627\u062b\u0646\u064a\u0646 \u0639\u0644\u0649&nbsp;...",
     "news_item_url": "https://www.aljazeera.net/sport/2025/1/27/al-hilal-al-qadisiyah",
-    "picture_source": "\u0627\u0644\u062c\u0632\u064a\u0631\u0629 \u0646\u062a",
+    "picture_source": "Okaz Newspaper - \u0635\u062d\u064a\u0641\u0629 \u0639\u0643\u0627\u0638",
     "approx_traffic": "100,000+"
   },
   {
     "country": "Saudi Arabia",
     "title": "\u062a\u0631\u062a\u064a\u0628 \u0627\u0644\u062f\u0648\u0631\u064a \u0627\u0644\u0633\u0639\u0648\u062f\u064a",
-    "pubDate": "Mon, 27 Jan 2025 17:00:00 +0300",
+    "pubDate": "Mon, 27 Jan 2025 00:00:00 +0300",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcReGgYbd_b1qzAb5YKmqrAIMKee5NDLPLNQAmTV7U785g1gnAUIlNClskAQGdsDPmfyvuRBr_WJ",
     "news_item_snippet": "\u0648\u0627\u0646\u062a\u0647\u062a \u0645\u0628\u0627\u0631\u064a\u0627\u062a \u0627\u0644\u062c\u0648\u0644\u0629 \u0627\u0644\u0633\u0627\u0628\u0639\u0629 \u0639\u0634\u0631 \u0641\u064a \u0627\u0644\u062f\u0648\u0631\u064a \u0627\u0644\u0633\u0639\u0648\u062f\u064a\u060c \u0645\u0633\u0627\u0621 \u0627\u0644\u0625\u062b\u0646\u064a\u0646\u060c \u0627\u0644\u064a\u0648\u0645 \u0627\u0644\u0630\u064a \u0634\u0647\u062f \u062e\u0633\u0627\u0631\u0629 \u0627\u0644\u0627\u062a\u062d\u0627\u062f \u0648\u0627\u0644\u0647\u0644\u0627\u0644. \u0625\u0639\u0644\u0627\u0646. \u0648\u062a\u0644\u0642\u0649 \u0627\u0644\u0627\u062a\u062d\u0627\u062f \u0647\u0632\u064a\u0645\u0629 \u0623\u0645\u0627\u0645 \u0636\u0645\u0643\u060c \u0643\u0645\u0627 \u062e\u0633\u0631 \u0627\u0644\u0647\u0644\u0627\u0644&nbsp;...",
     "news_item_url": "https://www.yallakora.com/ksa-league/2911/news/497562/%D8%AA%D8%B1%D8%AA%D9%8A%D8%A8-%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D9%8A-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A-%D8%A8%D8%B9%D8%AF-%D8%AE%D8%B3%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D9%87%D9%84%D8%A7%D9%84-%D9%88%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF",
@@ -343,40 +323,50 @@
     "country": "France",
     "title": "Catherine Laborde",
     "pubDate": "Tue, 28 Jan 2025 11:00:00 +0100",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTRP_7yglZLhXsAZuBwmH0b9faPlZDd3Klhf0wLIoMl7TWcxl2CLqpyzOQ6WwZEx_UM0stmFLWD",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTCUagTRtA17ObTPx2GdEez1W6zKMHr4QqVij0l0UC5mgwyVOeVrdp-TnCZInOngR51kWDfPtRS",
     "news_item_snippet": "La journaliste \u00e9tait atteinte de d\u00e9mence \u00e0 corps de Lewy, une maladie associant les sympt\u00f4mes de Parkinson et d&#39;Alzheimer.",
     "news_item_url": "https://www.liberation.fr/economie/medias/catherine-laborde-ex-presentatrice-de-la-meteo-de-tf1-est-morte-20250128_HNB5L6L6ABFHTA5OCCG3TZRBZM/",
     "picture_source": "France Bleu",
-    "approx_traffic": "200,000+"
+    "approx_traffic": "500,000+"
   },
   {
     "country": "France",
     "title": "Nvidia",
     "pubDate": "Mon, 27 Jan 2025 09:00:00 +0100",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcR_d9J9HEaAuUDvPWpJi8AW8FxzIi3LTbZLXZdYuEL0QJkAoQhpZwfzt7_Pui5Io9VmSjex5Iiw",
-    "news_item_snippet": "Le cours du fabricant de semi-conducteurs s&#39;est effondr\u00e9, cons\u00e9quence des bons r\u00e9sultats de l&#39;application chinoise, qui a fait \u00e9clater la bulle de&nbsp;...",
-    "news_item_url": "https://www.lemonde.fr/economie/article/2025/01/28/nvidia-perd-600-milliards-et-entraine-dans-sa-chute-le-nasdaq_6519363_3234.html",
+    "news_item_snippet": "Apr\u00e8s avoir suscit\u00e9 l&#39;attention en d\u00e9cembre dernier avec l&#39;annonce de DeepSeek-V3, son mod\u00e8le open source \u00e9ponyme, la start-up chinoise DeepSeek est venue.",
+    "news_item_url": "https://www.actuia.com/actualite/deepseek-r1-le-modele-open-source-chinois-venu-destabiliser-nvidia-et-le-marche-de-lia/",
     "picture_source": "L'Usine Digitale",
     "approx_traffic": "200,000+"
   },
   {
     "country": "France",
+    "title": "Tout le bleu du ciel",
+    "pubDate": "Mon, 27 Jan 2025 22:00:00 +0100",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQSkTQWF1e4R4NS1BWlAnMS48_Ms1SuyudKYX9zmN9OBP3sEsJmaj6F0oqm_zaskwwU3XI7iy-3",
+    "news_item_snippet": "&quot;Tout le bleu du ciel&quot;, &quot;Auschwitz, des survivants racontent&quot;, &quot;L&#39;amour est dans le pr\u00e9&quot;... Les audiences de la soir\u00e9e du lundi 27 janvier 2025.",
+    "news_item_url": "https://www.ozap.com/actu/audiences/648468",
+    "picture_source": "La Voix de l'Ain",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "France",
     "title": "Chlorate",
     "pubDate": "Mon, 27 Jan 2025 19:00:00 +0100",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTFV7C8806kcYbxmdkARk8iCQrwy9FN-khJJwYOhjSKK4n5iOyq-F7cBHgPSAti7nZ5GEM9U-lJ",
-    "news_item_snippet": "Une teneur trop importante en chlorate a entra\u00een\u00e9 le rappel de canettes et de bouteilles de nombreuses marques de sodas. En France, les risques sanitaires&nbsp;...",
-    "news_item_url": "https://www.sudouest.fr/economie/rappel-de-produits-coca-cola-sprite-qu-est-ce-que-le-chlorate-et-est-il-dangereux-pour-la-sante-23022130.php",
-    "picture_source": "Franceinfo",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTBn48TnyMl6_ajI3bbpz0KFzeF9HV4DausA2toiK-1LaoUgLLYHpDuDi2adA6R8WQiaFUruor-",
+    "news_item_snippet": "Des bouteilles et canettes issues d&#39;une usine belge du groupe contiennent un niveau trop \u00e9lev\u00e9 de ce compos\u00e9 chimique, qui provient en g\u00e9n\u00e9ral de&nbsp;...",
+    "news_item_url": "https://www.francetvinfo.fr/sante/alimentation/rappel-massif-de-produits-coca-cola-en-europe-quatre-questions-sur-cette-alerte-et-sur-le-chlorate-le-produit-qui-en-est-a-l-origine_7040876.html",
+    "picture_source": "Ouest-France",
     "approx_traffic": "50,000+"
   },
   {
     "country": "France",
-    "title": "CAN 2025",
-    "pubDate": "Mon, 27 Jan 2025 18:00:00 +0100",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQFr2ov6jtpsARSxiKF3a3AjOzfYFJuU74N8OIKByOpp-fOGUxP08BVTXUdY08m_Pai-TmYl_cl",
-    "news_item_snippet": "Le tirage au sort de la CAN 2025 s&#39;est d\u00e9roul\u00e9 ce lundi 27 janvier au th\u00e9\u00e2tre national Mohammed V de Rabat au Maroc. La comp\u00e9tition est programm\u00e9e du 21&nbsp;...",
-    "news_item_url": "https://www.leparisien.fr/sports/football/coupe-d-afrique-des-nations/can-2025-le-tirage-complet-des-groupes-un-choc-cote-divoire-cameroun-en-poule-27-01-2025-LEECCFGEWRERDNB4POGV2OAGTA.php",
-    "picture_source": "RTL.fr",
+    "title": "OL",
+    "pubDate": "Mon, 27 Jan 2025 08:00:00 +0100",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTQHcKm18Vt7KFNjNrGcgQxkd1XvQtMPGH7P2u8K-41aR9MPTzn0oWisgquvyyoWqaHT5q-7KJU",
+    "news_item_snippet": "Depuis que l&#39;information des n\u00e9gociations entre John Textor et Paulo Fonseca avait fuit\u00e9 en Italie, la semaine derni\u00e8re, Pierre Sage se savait sur un fil, \u00e0&nbsp;...",
+    "news_item_url": "https://www.lequipe.fr/Football/Actualites/Pierre-sage-ecarte-de-son-poste-d-entraineur-de-l-ol/1535663",
+    "picture_source": "Foot Mercato",
     "approx_traffic": "50,000+"
   },
   {
@@ -384,10 +374,10 @@
     "title": "Nvidia-Aktie",
     "pubDate": "Mon, 27 Jan 2025 10:00:00 +0100",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRU1938ZVZstGgjyteKWlhMxl5fAc_kn0S_h8xEgTI8IRtXA7nHCqXqs20HIG1j-Z57F4dFZ58d",
-    "news_item_snippet": "Was ist geschehen? Zur Erinnerung: Am gestrigen Montag schockierte das chinesische Start-up DeepSeek mit einem angeblich relativ einfach gestrickten KI-Modell&nbsp;...",
+    "news_item_snippet": "Meiner Meinung nach hat das chinesische KI-Unternehmen wesentlich gr\u00f6\u00dfere Rechenressourcen f\u00fcr die Entwicklung seines Modells verwendet als es zugeben will. Die&nbsp;...",
     "news_item_url": "https://www.sharedeals.de/nvidia-aktie-zu-recht-so-abgestraft/",
     "picture_source": "tagesschau.de",
-    "approx_traffic": "200,000+"
+    "approx_traffic": "500,000+"
   },
   {
     "country": "Germany",
@@ -440,26 +430,6 @@
     "approx_traffic": "50,000+"
   },
   {
-    "country": "Germany",
-    "title": "Handball-WM",
-    "pubDate": "Sat, 18 Jan 2025 19:00:00 +0100",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRzTTyfUzvJbFAtve5QGNSODNIUJQKmUiZfU7Gh9q8QiLVYGBuln7ywihF1cKUFobFG6U-KXIzK",
-    "news_item_snippet": "Public Viewing im Kieler Hauptbahnhof: Gegen Tschechien gab es den dritten Sieg im dritten Spiel. Frank Goldenstein live aus Kiel.",
-    "news_item_url": "https://www.ndr.de/fernsehen/sendungen/schleswig-holstein_magazin/Handball-WM-Fans-fiebern-im-Kieler-Handball-Bahnhof-mit,shmag124270.html",
-    "picture_source": "t-online.de",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "Germany",
-    "title": "Trump Coin",
-    "pubDate": "Sat, 18 Jan 2025 12:00:00 +0100",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTvz2GvbQz2sUV-uKX3REifht6PHAZ3Cx-dYVE_gRIU2KKdbJscYPbqgN87EyZhJRTmM6l91lxr",
-    "news_item_snippet": "Von Donald Trump gibt es jetzt den \u201e$TRUMP\u201c-Coin \u2013 und von der n\u00e4chsten Pr\u00e4sidentengattin \u201e$Melania\u201c. Fans trieben die Marktwerte nach oben.",
-    "news_item_url": "https://www.wiwo.de/finanzen/geldanlage/trump-melania-donald-trump-hat-eigenen-meme-coin-melania-zieht-nach/30173898.html",
-    "picture_source": "Golem.de",
-    "approx_traffic": "100,000+"
-  },
-  {
     "country": "Mexico",
     "title": "Nvidia",
     "pubDate": "Mon, 27 Jan 2025 09:00:00 -0600",
@@ -474,8 +444,8 @@
     "title": "Nvidia",
     "pubDate": "Mon, 27 Jan 2025 10:00:00 +0100",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTz9kMJBEJ0pFy81kAmjS0XbjZwejDVOGK2eLbC0_0BLbLIGofsSv3iApcgXfVXwicXFd-IoJ7G",
-    "news_item_snippet": "Y los inversores huyen: sus acciones se derrumbaron un 16,86%, en la mayor p\u00e9rdida de capitalizaci\u00f3n burs\u00e1til o valor en Bolsa por parte de una compa\u00f1\u00eda en un&nbsp;...",
-    "news_item_url": "https://cincodias.elpais.com/mercados-financieros/2025-01-27/nvidia-pierde-mas-de-400000-millones-de-dolares-en-la-mayor-destruccion-de-valor-de-la-historia-de-la-bolsa.html",
+    "news_item_snippet": "Los inversores digieren a\u00fan los estragos que provoc\u00f3 la irrupci\u00f3n de la herramienta china de inteligencia artificial DeepSeek en Wall Street.",
+    "news_item_url": "https://www.expansion.com/mercados/2025/01/28/6798890b468aeb9c668b458e.html",
     "picture_source": "LaSexta",
     "approx_traffic": "200,000+"
   },
@@ -483,10 +453,10 @@
     "country": "Spain",
     "title": "Alav\u00e9s  Celta de Vigo",
     "pubDate": "Mon, 27 Jan 2025 20:00:00 +0100",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcT8sw1Dll3oLHzHLIC9j5MK0QjgvqxdREVN3uN_fnaTlA7lKTZRo5CyCOvMnwKwCCJoF10uqjXt",
-    "news_item_snippet": "\u00daltima hora y resultado del Alav\u00e9s - Celta de Vigo, partido que cierra la jornada 21 de Primera ... Por aqu\u00ed nada m\u00e1s, descansad bien que el mi\u00e9rcoles tenemos una&nbsp;...",
-    "news_item_url": "https://www.marca.com/futbol/laliga-ea-sports/alaves-celta/2025/01/27/01_0101_20250127_173_176-directo.html",
-    "picture_source": "RC Celta",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRbfwwDQLAC1f0acZWdUFX_gg6_aqWb7jW3MuYZNz1WDiTezHJ8mGx9p0vOSuOkiut5AbGCtjqz",
+    "news_item_snippet": "Vitoria-Gasteiz, Espa\u00f1a, 27 ene (Prensa Latina) El Alav\u00e9s y el Celta de Vigo igualaron hoy a un gol sobre la cancha del Estadio Mendizorra, en el cierre de&nbsp;...",
+    "news_item_url": "https://www.prensa-latina.cu/2025/01/27/alaves-y-celta-de-vigo-firman-empate-en-futbol-espanol/",
+    "picture_source": "MARCA",
     "approx_traffic": "100,000+"
   },
   {
@@ -494,20 +464,10 @@
     "title": "Nvidia stock",
     "pubDate": "Mon, 27 Jan 2025 08:00:00 +0000",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRpP7dyJL6-wz2yJFn20vQHIZC-kXW0rPw72tTyiQ0s9XkBki7D7tfndRQbKiOuvgveXlrDAzOc",
-    "news_item_snippet": "Share prices in US and European firms fall as the Chinese technology threatens to disrupt the AI industry.",
-    "news_item_url": "https://www.bbc.com/news/articles/c0qw7z2v1pgo",
+    "news_item_snippet": "Nvidia set a record for the biggest one-day market capitalisation wipeout as investors worried advances by Chinese artificial intelligence start-up DeepSeek&nbsp;...",
+    "news_item_url": "https://www.ft.com/content/674758d7-ffdf-4b88-bb73-f539b56ac4b1",
     "picture_source": "The Armchair Trader",
     "approx_traffic": "500,000+"
-  },
-  {
-    "country": "United Kingdom",
-    "title": "Leeds United",
-    "pubDate": "Mon, 27 Jan 2025 20:00:00 +0000",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRzf6njk60h8fbYYXOOsRJfyoTNO85ZCDpk_MSCQF9UdBp5hMTVNAl2aCCzU5Mm7JPK04HDiGq4",
-    "news_item_snippet": "A dull goalless leaves Leeds two points clear of Sheffield United at the top of the Championship, with Burnley a further point behind in third.",
-    "news_item_url": "https://www.theguardian.com/football/live/2025/jan/27/burnley-v-leeds-efl-championship-live",
-    "picture_source": "Leeds United",
-    "approx_traffic": "100,000+"
   },
   {
     "country": "United Kingdom",
@@ -517,6 +477,16 @@
     "news_item_snippet": "Wolves under-18s came up just short at home against high-flyers Manchester United under-18s in a tightly fought contest in the U18 Premier League on&nbsp;...",
     "news_item_url": "https://www.wolves.co.uk/news/academy/20250127-u18-report-wolves-0-1-man-utd/",
     "picture_source": "wolves.co.uk",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United Kingdom",
+    "title": "Leeds United",
+    "pubDate": "Mon, 27 Jan 2025 20:00:00 +0000",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRzf6njk60h8fbYYXOOsRJfyoTNO85ZCDpk_MSCQF9UdBp5hMTVNAl2aCCzU5Mm7JPK04HDiGq4",
+    "news_item_snippet": "A dull goalless leaves Leeds two points clear of Sheffield United at the top of the Championship, with Burnley a further point behind in third.",
+    "news_item_url": "https://www.theguardian.com/football/live/2025/jan/27/burnley-v-leeds-efl-championship-live",
+    "picture_source": "Leeds United",
     "approx_traffic": "100,000+"
   }
 ]
