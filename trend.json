@@ -1,11 +1,21 @@
 [
   {
     "country": "United States",
-    "title": "Rfk Jr",
+    "title": "RFK Jr",
     "pubDate": "Tue, 04 Feb 2025 05:00:00 -0800",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTlygah3ZCGOgue30pR9IHoZaAiG-AC_z-s862GOvRpf5ABLKdZclz0pmqND3q8vDqIk4sDBe4n",
-    "news_item_snippet": "Robert F. Kennedy Jr. cleared a key hurdle Tuesday after a Senate panel voted to advance his nomination to be health and human services secretary to the&nbsp;...",
-    "news_item_url": "https://www.nbcnews.com/politics/congress/senate-panel-advances-rfk-jrs-nomination-health-secretary-rcna190438",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcROKju69a7FDFdQSFbTIEn4j4ZdKO0SGjWunnil9JYTHcyZ6OWjATbwJsfmUc4_Sxg0JlyhmROl",
+    "news_item_snippet": "This morning the Finance Committee will vote on Robert F. Kennedy Jr.&#39;s nomination to serve as our nation&#39;s chief health care officer.",
+    "news_item_url": "https://www.finance.senate.gov/chairmans-news/wyden-statement-at-finance-committee-vote-on-rfk-jrs-nomination-to-be-hhs-secretary",
+    "picture_source": "NBC News",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Gaza",
+    "pubDate": "Tue, 04 Feb 2025 17:00:00 -0800",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTnIaY1bRhjZeTyk6tA_bXB31nLK3oicJR5xQA1EaGWaZYKFKgvnjAHTxU9njCz1efBb-Ry5C06",
+    "news_item_snippet": "Netanyahu&#39;s far-right allies will cheer the proposal, but Arab nations will see it as ethnic cleansing of Palestinians.",
+    "news_item_url": "https://www.bbc.com/news/articles/c9w5q8qn59yo",
     "picture_source": "NPR",
     "approx_traffic": "200,000+"
   },
@@ -21,43 +31,13 @@
   },
   {
     "country": "United States",
-    "title": "French to be",
-    "pubDate": "Tue, 04 Feb 2025 06:00:00 -0800",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcS688opj_HyGxmKzdDv4FUCPuZechSpTzlkxUXCYEKa14jYvaia8MEsgXsKB2PTWbnHutxTH2xf",
-    "news_item_snippet": "A new French- and Quebecois-inspired restaurant is opening up in Saratoga Springs on Wednesday. Familiar Creature, a sister restaurant to Hamlet &amp; Ghost,&nbsp;...",
-    "news_item_url": "https://www.news10.com/community/restaurant-rundown/hamlet-ghosts-french-inspired-sister-restaurant-to-open-in-saratoga/",
-    "picture_source": "Europol",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Caleb Martin",
-    "pubDate": "Tue, 04 Feb 2025 11:00:00 -0800",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRjV5GbXRAuCvv8hMlVJ7AK6btci-Av_E0eCQIvtcElRIls-Q-q-pKmoMYc3KX_-Xks1IRdHABD",
-    "news_item_snippet": "The Dallas Mavericks traded guard Quentin Grimes to the Philadelphia 76ers for forward Caleb Martin, it was announced on Tuesday.",
-    "news_item_url": "https://www.espn.com/nba/story/_/id/43692395/mavericks-trade-quentin-grimes-76ers-caleb-martin",
-    "picture_source": "NBA.com",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Tulsi Gabbard",
-    "pubDate": "Tue, 04 Feb 2025 13:00:00 -0800",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSVOnsyINucOHD_xjw6nhG0_aPLsOr4BAb2RUDLJ1mL4zMOj_qucrCm7oH9c5BTMnpRvAeEZM-0",
-    "news_item_snippet": "The Senate Intel panel narrowly endorsed Trump pick Tulsi Gabbard for Director of National Intelligence after skeptical Republicans got on board.",
-    "news_item_url": "https://www.usatoday.com/story/news/politics/2025/02/04/senate-intelligence-committee-tulsi-gabbard-intelligence-vote/78206910007/",
-    "picture_source": "NBC News",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
     "title": "Tiger Woods",
     "pubDate": "Tue, 04 Feb 2025 12:00:00 -0800",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRPvaUPF6a34oJ7Tt9Mjp58P7XudgG3drX8qULyXEMi3zFCey4ZacCqNbh9gk6sFJk7Ir6Zyc9R",
     "news_item_snippet": "A frequent presence in her son&#39;s public life, she stood by his side during a period of scandal that took him away from golf.",
     "news_item_url": "https://www.nytimes.com/2025/02/04/sports/kultida-woods-dead-tiger-woods-mom.html",
     "picture_source": "pgatour.com",
-    "approx_traffic": "50,000+"
+    "approx_traffic": "100,000+"
   },
   {
     "country": "United States",
@@ -65,8 +45,68 @@
     "pubDate": "Tue, 04 Feb 2025 10:00:00 -0800",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRg1f038CW0Q96gIYZP4TR0yG_32IQThWcuYSPwj1ASO7RoXToxfon5uO-kmz7-PX1D44D5YXfT",
     "news_item_snippet": "Marcus Jordan, son of&nbsp;...",
-    "news_item_url": "https://www.wsaz.com/2025/02/04/michael-jordans-son-marcus-jordan-arrested-dui-drugs/",
+    "news_item_url": "https://www.kptv.com/2025/02/04/michael-jordans-son-marcus-jordan-arrested-dui-drugs/",
     "picture_source": "NBC News",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Caleb Martin",
+    "pubDate": "Tue, 04 Feb 2025 11:00:00 -0800",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRjV5GbXRAuCvv8hMlVJ7AK6btci-Av_E0eCQIvtcElRIls-Q-q-pKmoMYc3KX_-Xks1IRdHABD",
+    "news_item_snippet": "Two people with knowledge of the deal say the Dallas Mavericks are acquiring Caleb Martin in a trade with Philadelphia that sends Quentin Grimes to the&nbsp;...",
+    "news_item_url": "https://www.nbcdfw.com/news/sports/dallas-mavericks/dallas-mavs-caleb-martin-trade-quentin-grimes-sixers/3759058/",
+    "picture_source": "NBA.com",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United States",
+    "title": "French to be",
+    "pubDate": "Tue, 04 Feb 2025 06:00:00 -0800",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcS688opj_HyGxmKzdDv4FUCPuZechSpTzlkxUXCYEKa14jYvaia8MEsgXsKB2PTWbnHutxTH2xf",
+    "news_item_snippet": "WASHINGTON \u2014 ThrustMe, a satellite propulsion company based in France, is making a strategic push into the U.S. space market, securing a roster of new&nbsp;...",
+    "news_item_url": "https://spacenews.com/french-space-propulsion-firm-thrustme-expands-u-s-footprint/",
+    "picture_source": "Europol",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Mavericks vs 76ers",
+    "pubDate": "Tue, 04 Feb 2025 17:00:00 -0800",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTRo22_C5iBmBNzwDz9URn_SbP-mfc6F-1yevFFB2YgH9F_c382PXO8a3y-1vtQjqVk4Bje21Ub",
+    "news_item_snippet": "As in flux as the Dallas Mavericks roster is at the moment, there aren&#39;t going to be a lot of solid, trendline-forming takeaways from tonight&#39;s game. That&nbsp;...",
+    "news_item_url": "https://www.mavsmoneyball.com/2025/2/4/24359115/mavericks-vs-76ers-recap-3-things-after-dallas-fades-against-philadelphia-fall-118-116",
+    "picture_source": "Sixers.com",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Tulsi Gabbard",
+    "pubDate": "Tue, 04 Feb 2025 13:00:00 -0800",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSVOnsyINucOHD_xjw6nhG0_aPLsOr4BAb2RUDLJ1mL4zMOj_qucrCm7oH9c5BTMnpRvAeEZM-0",
+    "news_item_snippet": "Tom Cotton&#39;s plan to get Tulsi Gabbard through the Senate Intelligence Committee was unconventional \u2014 Kyrsten Sinema even got involved.",
+    "news_item_url": "https://www.semafor.com/article/02/04/2025/inside-tom-cottons-unconventional-push-for-tulsi-gabbard",
+    "picture_source": "NBC News",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Pam Bondi",
+    "pubDate": "Tue, 04 Feb 2025 17:00:00 -0800",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcR42WhT9Sk0g6taylg-iNfGmdp1rscVDL0je87HvkdOnQ5KgOFtEMOArFi-tROlE6HejQQvWwrq",
+    "news_item_snippet": "WASHINGTON \u2013 Senate Judiciary Committee Chairman Chuck Grassley (R-Iowa) released the following statement regarding the Senate&#39;s confirmation of Pam Bondi&nbsp;...",
+    "news_item_url": "https://www.judiciary.senate.gov/press/rep/releases/grassley-welcomes-pam-bondis-confirmation-as-us-attorney-general",
+    "picture_source": "NPR",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Kevin Durant",
+    "pubDate": "Tue, 04 Feb 2025 07:00:00 -0800",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSqnIkX_qhNQBEFdk80SyQ5OPiAMgZL4y9i_jECb5vDBm7VxIUzaImNxdlNuMJJjZCyEz6Bjtnl",
+    "news_item_snippet": "Just two years ago, the Suns put together a godfather offer to get Kevin Durant from the Nets, sending four unprotected first-round picks along with Mikal&nbsp;...",
+    "news_item_url": "https://www.sportingnews.com/us/nba/phoenix-suns/news/kevin-durant-trade-destinations-landing-spots-warriors-mavericks/b13a12e5c396a2a05db8d37b",
+    "picture_source": "Bleacher Report",
     "approx_traffic": "50,000+"
   },
   {
@@ -74,39 +114,39 @@
     "title": "Rosa Parks",
     "pubDate": "Tue, 04 Feb 2025 07:00:00 -0800",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRS-gdc-E6TjlZWdEiq8R7ZjChMilX8COkFMBzSMCzKhnAgV0xrtVjyZKuyNJ39zYkrrEVnmqTL",
-    "news_item_snippet": "The first-of-its-kind Rosa Parks Elementary all-school assembly included a debut performance of the song, \u201cWe Ride with Rosa,\u201d by Portland-based musician&nbsp;...",
-    "news_item_url": "https://news.trimet.org/2025/02/video-students-staff-team-up-with-trimet-for-i-ride-with-rosa-assembly-on-rosa-parks-day/",
+    "news_item_snippet": "Photo by Glory Reitz Rev. Milford L. Griner speaks at the Rosa Parks Day celebration. The highlight of Griner&#39;s time as president, he said, was in 2008, when&nbsp;...",
+    "news_item_url": "https://www.mainstreetdailynews.com/news/rosa-parks-committee-presidency",
     "picture_source": "Toledo Blade",
     "approx_traffic": "50,000+"
   },
   {
     "country": "United States",
-    "title": "PLTR stock",
-    "pubDate": "Mon, 03 Feb 2025 14:00:00 -0800",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQzb-brysbkuKdEy_kde9tRbA10l3Ix1AUYikJbWdFsFzUVf52ZPTT1RAR5mrCmR5ygeSa85QOc",
-    "news_item_snippet": "Palantir Technologies posted a big beat in its fourth-quarter earnings results. The stock (ticker: PLTR) is at a new record high hoday.",
-    "news_item_url": "https://www.barrons.com/articles/palantir-earnings-stock-price-c2b6f031",
-    "picture_source": "Investor's Business Daily",
-    "approx_traffic": "200,000+"
+    "title": "Sweden",
+    "pubDate": "Tue, 04 Feb 2025 16:00:00 -0800",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRmZPiRB8sN4bkgBpf4sGHC3SqmAzsxzVNDR3WRsUHabLEHpO9MrubZzEjgwSFw2vQIJKXTWtYx",
+    "news_item_snippet": "Prime Minister Ulf Kristersson described Tuesday&#39;s attack as the &quot;worst mass shooting in Swedish history&quot;.",
+    "news_item_url": "https://www.bbc.com/news/articles/c79d52gpd02o",
+    "picture_source": "NPR",
+    "approx_traffic": "50,000+"
   },
   {
     "country": "United States",
-    "title": "Myles Garrett",
-    "pubDate": "Mon, 03 Feb 2025 09:00:00 -0800",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQdi0tYLdjke7ImSwooGoKTy6NbEamHN75zsTohG-P31WnIgNEZVoai8PAM7b46AIrhZYYRdNBu",
-    "news_item_snippet": "The Browns&#39; superstar defender has officially asked out of town. Where will Cleveland consider sending Garrett? See the odds.",
-    "news_item_url": "https://www.foxsports.com/stories/nfl/myles-garrett-next-team-odds-where-will-all-pro-defensive-end-land",
-    "picture_source": "CBSSports.com",
-    "approx_traffic": "200,000+"
+    "title": "El Salvador",
+    "pubDate": "Tue, 04 Feb 2025 03:00:00 -0800",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTBQw1N_uVYH7MfBXh5CVqPrSQ_MyQT_gch0u65ltiKNk2rqmsLw-UnZcfGO3hMLmCPRPXPZy8g",
+    "news_item_snippet": "President Nayib Bukele \u201chas agreed to the most unprecedented, extraordinary, extraordinary migratory agreement anywhere in the world,\u201d Rubio said after meeting&nbsp;...",
+    "news_item_url": "https://news.wttw.com/2025/02/04/el-salvador-offers-accept-deportees-us-any-nationality-including-american-citizens",
+    "picture_source": "BBC News",
+    "approx_traffic": "50,000+"
   },
   {
     "country": "India",
     "title": "Bryan Johnson",
     "pubDate": "Tue, 04 Feb 2025 12:30:00 +0530",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRW7PuCPOx4W0sl85bAmKpezYP80X5P_loqZsQGpQIEBfUZL1IVDPFcmnIAhy5VdhtHidomZd-e",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcT7i9lhy9rvSfiTE1svTUuYyZ7PN6rZ9vzNT3QQTTMG78nBHxC-CqAeiIxfaz4KOGo4-8yun2yA",
     "news_item_snippet": "Earlier, Biotech entrepreneur Bryan Johnson, abruptly cut the discussion on WTF Podcast short, citing India&#39;s air pollution as the reason.",
     "news_item_url": "https://www.financialexpress.com/trending/shouldnt-property-prices-be-linked-nithin-kamath-says-bryan-johnson-debunked-myth-that-only-delhi-has-air-quality-problem/3737659/",
-    "picture_source": "Hindustan Times",
+    "picture_source": "NDTV",
     "approx_traffic": "50,000+"
   },
   {
@@ -134,8 +174,8 @@
     "title": "Kanye West",
     "pubDate": "Mon, 03 Feb 2025 10:30:00 +0530",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQ32olhbhi5PWYqDvGXuUOt2KnotI6QidqSpA6fhNv8Wi-yOTFSxFBZEfVZh91auCnhGlmNAJVT",
-    "news_item_snippet": "Kanye West responded to the criticism over his controversial appearance at the Grammys with his wife, Bianca Censori.",
-    "news_item_url": "https://www.hindustantimes.com/entertainment/music/kanye-west-claps-back-at-dull-boring-grammys-defends-bianca-censoris-nude-outfit-amid-huge-outcry-101738661629934.html",
+    "news_item_snippet": "Don Lemon clapped back at Kanye West after the rapper publicly accused him of fabricating reports that he was shown the door at the Grammy Awards on Sunday.",
+    "news_item_url": "https://www.hindustantimes.com/entertainment/music/get-your-shit-straight-don-lemon-gives-savage-reaction-to-kanye-west-for-calling-him-goofball-in-brutal-post-101738666428677.html",
     "picture_source": "Livemint",
     "approx_traffic": "100,000+"
   },
@@ -164,24 +204,24 @@
     "title": "Atl\u00e9tico Madrid  Getafe",
     "pubDate": "Tue, 04 Feb 2025 16:00:00 -0300",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSppMuUQ0SoQEfHXwuYhkRecYcZz3rxQ5hTXrvZwZjQTa-jKlbn9tepjuAh04pAyGx2ouicWLua",
-    "news_item_snippet": "Los Colchoneros ganaron 5-0 en casa, en el estadio Metropolitano de la capital espa\u00f1ola, por los cuartos de final.",
-    "news_item_url": "https://www.espn.com.mx/futbol/espana/nota/_/id/14754453/atletico-de-madrid-getafe-partido-cuartos-de-final-de-la-copa-del-rey-semifinales",
+    "news_item_snippet": "El equipo del Cholo no tuvo piedad con su rival y se meti\u00f3 entre los mejores cuatro. Correa tambi\u00e9n convirti\u00f3 para el Colchonero, que llega afilado al&nbsp;...",
+    "news_item_url": "https://www.ole.com.ar/futbol-internacional/espana/atletico-madrid-getafe-cuartos-final-copa-rey-argentinos_0_ZCSIZytPp1.html",
     "picture_source": "ESPN",
     "approx_traffic": "100,000+"
   },
   {
     "country": "Argentina",
-    "title": "Godoy Cruz  Talleres",
+    "title": "Godoy Cruz - Talleres",
     "pubDate": "Tue, 04 Feb 2025 18:00:00 -0300",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTLKUrvnG3mhDtmTGF1zvPfbVtevKT5nc6MKvvjFE7kjm_ZwQQdt0yu_FjLqMAd_pegzlxZylrF",
-    "news_item_snippet": "El episodio ocurri\u00f3 antes del inicio del complemento. El asistente Diego Mart\u00edn recibi\u00f3 un proyectil en su frente y Yael Falc\u00f3n P\u00e9rez termin\u00f3 el encuentro.",
-    "news_item_url": "https://www.infobae.com/deportes/2025/02/04/godoy-cruz-talleres-y-atletico-tucuman-riestra-bajan-el-telon-de-la-fecha-3-del-torneo-apertura-hora-tv-y-formaciones/",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRnOE1C33EpQYm5OJ2zTBT3YKfbcgrJjWCZ2lsovhUIOiMJO9BIIIHI7IHKNUfuQ6CcGfZVss7W",
+    "news_item_snippet": "Los jugadores esperaban por arrancar el segundo tiempo cuando un proyectil impact\u00f3 en la cabeza de Diego Mart\u00edn.",
+    "news_item_url": "https://www.ambito.com/deportes/mendoza-se-suspendio-godoy-cruz-vs-talleres-agresion-un-juez-linea-n6110182",
     "picture_source": "ESPN",
     "approx_traffic": "50,000+"
   },
   {
     "country": "Argentina",
-    "title": "Chile sub-20  Argentina sub-20",
+    "title": "Chile sub-20  argentina sub-20",
     "pubDate": "Tue, 04 Feb 2025 17:00:00 -0300",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQ00w5A2IQNva0WfDlGDsvY0bvxHpWJKtlbHD8wgrh4hmXkRvgXfwClj-ZH608fQiP1KZ8_lier",
     "news_item_snippet": "La selecci\u00f3n argentina Sub 20 comenz\u00f3 firme el Hexagonal Final del Sudamericano al derrotar 2-1 a Chile gracias a los goles de Ian Subiabre y Agust\u00edn Ruberto,&nbsp;...",
@@ -191,31 +231,51 @@
   },
   {
     "country": "Australia",
+    "title": "Adam Hunter death",
+    "pubDate": "Wed, 05 Feb 2025 11:00:00 +1100",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRF1M19a7Q6kFU0EkOSyxXd33--MkyVJVjJX3bP0dLjb-k00A8f0NgSivSNAq_P1BapRAAwvDoc",
+    "news_item_snippet": "Former West Coast Eagles star Adam Hunter, a key member of the club&#39;s 2006 AFL premiership team, has died aged 43.",
+    "news_item_url": "https://www.espn.com.au/afl/story/_/id/43696211/afl-former-west-coast-eagles-swingman-adam-hunter-dies",
+    "picture_source": "Fox Sports",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Australia",
     "title": "Troy Selwood",
     "pubDate": "Tue, 04 Feb 2025 13:00:00 +1100",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRnwU-Bffpn0La0qanW7IDA37KOzoPLr6bWfg2ofeXzVFpHKIByOABL2A4JncKKvJwx81SE-EUq",
-    "news_item_snippet": "Tributes from a grieving footy community have flowed for former Brisbane player and Cats VFL premiership captain Troy Selwood.",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRAAB5mPqc1HMix-2v5_01CEI4ap8-oUvQBmZxMZ_kG5XmZeSV6KRqzaTbc4e0aWzlQq5bzVdPL",
+    "news_item_snippet": "An emotional Brendan Fevola has broken down during his tribute to former teammate Troy Selwood, lauding the support he provided the dual Coleman Medallist&nbsp;...",
     "news_item_url": "https://www.foxsports.com.au/afl/afl-news-2025-tributes-flow-for-troy-selwood-a-beautiful-person-who-was-loved-across-the-industry/news-story/4407c19331933892c662c63761f15a04",
-    "picture_source": "West Coast Eagles",
+    "picture_source": "Geelong Cats",
     "approx_traffic": "200,000+"
   },
   {
     "country": "Brazil",
     "title": "Atl\u00e9tico-MG x Athletic",
-    "pubDate": "Tue, 04 Feb 2025 18:00:00 -0500",
+    "pubDate": "Tue, 04 Feb 2025 19:00:00 -0500",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRZfiaeHBmp-JClzGQsjb232AF6P2Ehff09aw-HkjE5S0-Yj5nSjIgtl2i-_qhoKP4S7cdXh0BZ",
-    "news_item_snippet": "O jogo ser\u00e1 transmitido nos canais por assinatura SporTV e Premiere e, para assinantes, na plataforma de streaming Globoplay. T\u00f3picos relacionados. Esportes.",
-    "news_item_url": "https://www.infomoney.com.br/esportes/atletico-mg-x-athletic-club-no-campeonato-mineiro-que-horas-e-o-jogo-onde-assistir/",
+    "news_item_snippet": "Atl\u00e9tico-MG e Athletic se enfrentam nesta ter\u00e7a-feira, 4, \u00e0s 21h30, no Mineir\u00e3o, em Belo Horizonte. A partida \u00e9 v\u00e1lida pelo Campeonato Mineiro e ter\u00e1&nbsp;...",
+    "news_item_url": "https://exame.com/esporte/atletico-mg-x-athletic-onde-assistir-ao-vivo-e-horario-do-jogo-pelo-campeonato-mineiro/",
     "picture_source": "Exame Not\u00edcias",
-    "approx_traffic": "100,000+"
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "Brazil",
+    "title": "Sport Recife x Fortaleza",
+    "pubDate": "Tue, 04 Feb 2025 15:00:00 -0500",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTgJRs7W36-U12HvjNxv2MKXdhG4IOlKnPUgsGmFNI8OmXSoIaslmd5j1IkgaKv-ayPYKzrGfUE",
+    "news_item_snippet": "Sport e Fortaleza se enfrentam nesta ter\u00e7a-feira, 4, \u00e0s 21h30, na Ilha do Retiro, em Recife. A partida \u00e9 v\u00e1lida pela Copa do Nordeste e ter\u00e1 transmiss\u00e3o no&nbsp;...",
+    "news_item_url": "https://exame.com/esporte/sport-x-fortaleza-onde-assistir-ao-vivo-e-horario-do-jogo-pela-copa-do-nordeste/",
+    "picture_source": "globoesporte.com",
+    "approx_traffic": "200,000+"
   },
   {
     "country": "Brazil",
     "title": "Fies",
     "pubDate": "Tue, 04 Feb 2025 06:00:00 -0500",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTz89tRW3MrO7mdB36Yrt7ywZb0WPEiQPI0Ye2dZr09GcdKQii-DCU2PJlAMYKH0Cz0PYVyqLW6",
-    "news_item_snippet": "As inscri\u00e7\u00f5es para o Fies (Fundo de Financiamento Estudantil) 2025 come\u00e7am nesta ter\u00e7a-feira (4). Os candidatos que fizeram o Enem (Exame Nacional do Ensino&nbsp;...",
-    "news_item_url": "https://www.cnnbrasil.com.br/educacao/inscricoes-do-fies-2025-comecam-nesta-terca-4-veja-proximos-passos/",
+    "news_item_snippet": "As inscri\u00e7\u00f5es para o Fies (Fundo de Financiamento Estudantil) 2025 est\u00e3o abertas at\u00e9 \u00e0s 23h59 de sexta-feira (7). O programa oferece financiamento aos&nbsp;...",
+    "news_item_url": "https://www.cnnbrasil.com.br/educacao/fies-social-2025-saiba-o-que-e-e-quem-tem-direito-ao-programa/",
     "picture_source": "Governo Federal",
     "approx_traffic": "100,000+"
   },
@@ -223,21 +283,31 @@
     "country": "Brazil",
     "title": "Al Hilal",
     "pubDate": "Tue, 04 Feb 2025 13:00:00 -0500",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTnMtpH_5n0F9zOQcAmYga2Apf0eqj8HejKGoLNQVHXXGKGlXhoEI_B2R8eDItPoPWyysmqho8z",
-    "news_item_snippet": "Com destaque para o brasileiro e ex-Corinthians Malcom, o Al Hilal, da \u00c1rabia Saudita, segue em alta na Liga dos Campe\u00f5es da \u00c1sia e goleou o Persepolis,&nbsp;...",
-    "news_item_url": "https://www.dgabc.com.br/Noticia/4201322/malcom-brilha-e-al-hilal-segue-como-lider-na-liga-dos-campeoes-da-asia",
-    "picture_source": "CNN Brasil",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcT3xgYmNZJ6G4idmOjn7-qaMo0sv4dqBgQnoAwpIlMNPqwho-na5h183OM2myPZy4QYCDtWljz-",
+    "news_item_snippet": "Al Hilal e Persepolis jogam pela Champions League da \u00c1sia hoje; veja onde assistir ao vivo e forma\u00e7\u00f5es do jogo.",
+    "news_item_url": "https://www.oliberal.com/esportes/futebol/al-hilal-x-persepolis-onde-assistir-e-escalacoes-do-jogo-hoje-04-02-pela-liga-dos-campeoes-da-afc-1.914889",
+    "picture_source": "Di\u00e1rio do Grande ABC",
     "approx_traffic": "100,000+"
   },
   {
     "country": "Brazil",
-    "title": "Sport Recife x Fortaleza",
-    "pubDate": "Tue, 04 Feb 2025 17:00:00 -0500",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcS4NqpmfyC5N4LI7nJ57A0B9DDj5qAacWJlvzdFg05nyKDVTGvBzD649jiN9R0xEFKV4Y8GQhl_",
-    "news_item_snippet": "Confira todas as informa\u00e7\u00f5es e os melhores palpites para Sport Recife x Fortaleza, partida v\u00e1lida pela 2\u00aa rodada Copa do Nordeste 2025.",
-    "news_item_url": "https://www.correiobraziliense.com.br/apostas/palpites/futebol/sport-recife-x-fortaleza-04-02-2025",
-    "picture_source": "Exame Not\u00edcias",
-    "approx_traffic": "50,000+"
+    "title": "Inter de Limeira x Bragantino",
+    "pubDate": "Tue, 04 Feb 2025 18:00:00 -0500",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSWgOCSvjoPYqA0uokp1Oapz1ZPsGcn1NhsiiBjgrwE-Wa_zofU3fWesz7298xoEjSwx3wwjdV3",
+    "news_item_snippet": "A partida entre Inter de Limeira e RB Bragantino acontece nesta ter\u00e7a-feira, 4, \u00e0s 20h30, no Est\u00e1dio Major Jos\u00e9 Levy Sobrinho, em Limeira.",
+    "news_item_url": "https://exame.com/esporte/inter-de-limeira-x-rb-bragantino-onde-assistir-ao-vivo-e-horario-do-jogo-pelo-paulistao/",
+    "picture_source": "UOL",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "Brazil",
+    "title": "Atl\u00e9tico Madrid x Getafe",
+    "pubDate": "Tue, 04 Feb 2025 12:00:00 -0500",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQDrJH01gfynHz5ZlZYJ8eEjGNCROETbQD13UC0bHu_2_Pr2FPlwKYO0El-B4ThAJPekcOLqIHd",
+    "news_item_snippet": "Atl\u00e9tico de Madrid x Getafe duelam nesta ter\u00e7a (04/02) pelas quartas de final da Copa do Rei hoje! Confira nosso palpite, dicas de apostas, onde assistir,&nbsp;...",
+    "news_item_url": "https://www.gazetaesportiva.com/apostas/prognosticos/futebol/atletico-de-madrid-x-getafe-04-02-2025",
+    "picture_source": "CNN Brasil",
+    "approx_traffic": "100,000+"
   },
   {
     "country": "Brazil",
@@ -251,26 +321,6 @@
   },
   {
     "country": "Brazil",
-    "title": "Atl\u00e9tico Madrid x Getafe",
-    "pubDate": "Tue, 04 Feb 2025 16:00:00 -0500",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQDrJH01gfynHz5ZlZYJ8eEjGNCROETbQD13UC0bHu_2_Pr2FPlwKYO0El-B4ThAJPekcOLqIHd",
-    "news_item_snippet": "Atl\u00e9tico de Madrid x Getafe duelam nesta ter\u00e7a (04/02) pelas quartas de final da Copa do Rei hoje! Confira nosso palpite, dicas de apostas, onde assistir,&nbsp;...",
-    "news_item_url": "https://www.gazetaesportiva.com/apostas/prognosticos/futebol/atletico-de-madrid-x-getafe-04-02-2025",
-    "picture_source": "CNN Brasil",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Brazil",
-    "title": "Inter de Limeira x Bragantino",
-    "pubDate": "Tue, 04 Feb 2025 18:00:00 -0500",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSWgOCSvjoPYqA0uokp1Oapz1ZPsGcn1NhsiiBjgrwE-Wa_zofU3fWesz7298xoEjSwx3wwjdV3",
-    "news_item_snippet": "A partida entre Inter de Limeira e RB Bragantino acontece nesta ter\u00e7a-feira, 4, \u00e0s 20h30, no Est\u00e1dio Major Jos\u00e9 Levy Sobrinho, em Limeira.",
-    "news_item_url": "https://exame.com/esporte/inter-de-limeira-x-rb-bragantino-onde-assistir-ao-vivo-e-horario-do-jogo-pelo-paulistao/",
-    "picture_source": "UOL",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Brazil",
     "title": "Velo Clube x Portuguesa",
     "pubDate": "Tue, 04 Feb 2025 16:00:00 -0500",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSoMD9XTLDzOF0V52CuU5IssqLc_UlXejSELjh3Uk3GlNSan9mu374enGy7zkk8zpKcQ3-hKb4S",
@@ -280,13 +330,33 @@
     "approx_traffic": "50,000+"
   },
   {
+    "country": "Brazil",
+    "title": "Uruguai Sub-20 x Brasil Sub-20",
+    "pubDate": "Tue, 04 Feb 2025 17:00:00 -0500",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSP_5ZB-3jHYu3hPXdZw2k9nwxqyzBEf15yrLlbkPuhKQBEK9qboGdtoQUwTz9Az0aA5fyJSkN_",
+    "news_item_snippet": "Na noite desta ter\u00e7a-feira (4), o Brasil bateu o Uruguai por 1 a 0, em jogo v\u00e1lido pela primeira rodada do hexagonal final do Sul-Americano Sub-20.",
+    "news_item_url": "https://www.cnnbrasil.com.br/esportes/futebol/selecao-brasileira/brasil-vence-uruguai-na-estreia-do-hexagonal-final-do-sul-americano-sub-20/",
+    "picture_source": "globoesporte.com",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Canada",
+    "title": "Aga Khan",
+    "pubDate": "Tue, 04 Feb 2025 17:00:00 -0500",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRMiNhlZryXfM0A9cfYDDiQHuX_lr-zEr0A2kfppoevXsM578BSqIm6BbOYC9aqJ4fPIYHlXSjY",
+    "news_item_snippet": "Le prince Karim Aga Khan IV s&#39;est \u00e9teint paisiblement \u00e0 Lisbonne, selon un communiqu\u00e9 publi\u00e9 mardi.",
+    "news_item_url": "https://ici.radio-canada.ca/nouvelle/2138134/aga-khan-mort",
+    "picture_source": "ICI.Radio-Canada.ca",
+    "approx_traffic": "50,000+"
+  },
+  {
     "country": "South Korea",
     "title": "\uc11c\ud76c\uc6d0",
     "pubDate": "Mon, 03 Feb 2025 13:00:00 +0900",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTfVXuE800Np0zYWpLV_PwQGWb9tblx9DWMtbNM7yKE4WvVOIWxw1GgFTwiDpEvwNEf6ukVf1Q",
-    "news_item_snippet": "\ub300\ub9cc \ucd9c\uc2e0 \uc720\uba85 \uc5ec\ubc30\uc6b0\uc774\uc790 \ud55c\uad6d\uc5d0\uc120 \uad6c\uc900\uc5fd\uc758 \uc544\ub0b4\ub85c \uc720\uba85\ud55c \ubc14\ube44 \uc26c(\uc11c\ud76c\uc6d0, 48)\uac00 \uc77c\ubcf8 \uc5ec\ud589 \uc911 \ub3c5\uac10\uc73c\ub85c \uc778\ud55c \ud3d0\ub834\uc73c\ub85c \uc228\uc84c\ub2e4.",
-    "news_item_url": "https://www.bbc.com/korean/articles/cy08d8w8vr9o",
-    "picture_source": "\uc870\uc120\uc77c\ubcf4",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQ-TIDHeQ3k9UiWH_-7wILeDgzn9oIKqDQS75C2nm6EH1cjZRRDKtHMG2jAcLLJHZfj12uFmhhb",
+    "news_item_snippet": "\ub300\ub9cc \ubc30\uc6b0 \uc11c\ud76c\uc6d0(49)\uc774 \ub3c5\uac10\uc5d0 \uac78\ub9b0 \ub4a4 \ud3d0\ub834\uc73c\ub85c \uc228\uc84c\ub2e4\ub294 \uc18c\uc2dd\uc774 \uc804\ud574\uc9c0\uc790 \ud604\uc9c0\uc5d0\uc120 \ub3c5\uac10 \uc608\ubc29\uc744 \uc704\ud574 \uc758\ub8cc\uae30\uad00\uc744 \ucc3e\ub294 \uc2dc\ubbfc\ub4e4\uc774 \ub298\uace0 \uc788\ub2e4.",
+    "news_item_url": "https://www.chosun.com/international/international_general/2025/02/04/XHQY4JZWJ5DRLK4S7BCPLXIVME/",
+    "picture_source": "BBC News \ucf54\ub9ac\uc544",
     "approx_traffic": "100,000+"
   },
   {
@@ -303,10 +373,10 @@
     "country": "Saudi Arabia",
     "title": "\u0627\u0644\u0647\u0644\u0627\u0644",
     "pubDate": "Mon, 03 Feb 2025 18:00:00 +0300",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRnC5GF0Uh1MjoqhZ2J75x7vOujZUm95jp9AZPtjNuTBEIDIFnkS1OcCO5GGiZ3FZNrXxbgzy7T",
-    "news_item_snippet": "\u0648\u0627\u0641\u062a\u062a\u062d \u0627\u0644\u062c\u0646\u0627\u062d \u0627\u0644\u0628\u0631\u0627\u0632\u064a\u0644\u064a \u0645\u0627\u0644\u0643\u0648\u0645 \u0641\u064a\u0644\u064a\u0628\u064a \u0623\u0647\u062f\u0627\u0641 \u0627\u0644\u0645\u0628\u0627\u0631\u0627\u0629 \u0641\u064a \u0627\u0644\u062f\u0642\u064a\u0642\u0629 \u0627\u0644\u0639\u0627\u0634\u0631\u0629 \u0645\u0633\u062a\u063a\u0644\u064b\u0627 \u062a\u0645\u0631\u064a\u0631\u0629 \u062d\u0627\u0633\u0645\u0629 \u0645\u0646 \u0632\u0645\u064a\u0644\u0647 \u0627\u0644\u0628\u0631\u062a\u063a\u0627\u0644\u064a \u0631\u0648\u0628\u0646 \u0646\u064a\u0641\u064a\u0632\u060c \u0644\u0627\u0639\u0628 \u0627\u0644\u0648\u0633\u0637. \u0648\u0635\u0646\u0639 \u0645\u0627\u0644\u0643\u0648\u0645 \u0627\u0644\u0647\u062f\u0641\u064a\u0646&nbsp;...",
-    "news_item_url": "https://arriyadiyah.com/859558/%D8%A8%D8%B1%D8%A8%D8%A7%D8%B9%D9%8A%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9..-%D8%A7%D9%84%D9%87%D9%84%D8%A7%D9%84-%D9%8A%D9%83%D8%AA%D8%B3%D8%AD-%D8%A8%D9%8A%D8%B1%D8%B3%D8%A8%D9%88%D9%84%D9%8A%D8%B3-%D9%88%D9%8A%D8%B3%D8%AA%D8%B9%D9%8A%D8%AF-%D8%A7%D9%84%D8%B5%D8%AF%D8%A7%D8%B1%D8%A9",
-    "picture_source": "\u0633\u064a \u0627\u0646 \u0627\u0646 \u0627\u0644\u0639\u0631\u0628\u064a\u0629",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQaRzUuwO3b2-h1-8LddByp19dM5gICMSyHgrxq8FU-OjHF4GIQ-F6siiQSDqz3jEPOpBs_xwbC",
+    "news_item_snippet": "\u0623\u062d\u0631\u0632 \u0633\u0627\u0644\u0645 \u0627\u0644\u062f\u0648\u0633\u0631\u064a \u0647\u062f\u0641\u064a\u0646\u060c \u0633\u0627\u0647\u0645 \u0645\u0646 \u062e\u0644\u0627\u0644\u0647\u0645\u0627 \u0641\u064a \u0641\u0648\u0632 \u0646\u0627\u062f\u064a \u0627\u0644\u0647\u0644\u0627\u0644 \u0627\u0644\u0633\u0639\u0648\u062f\u064a \u0639\u0644\u0649 \u0645\u0646\u0627\u0641\u0633\u0647 \u0628\u0631\u0633\u0628\u0648\u0644\u064a\u0633 \u0627\u0644\u0625\u064a\u0631\u0627\u0646\u064a \u0628\u0646\u062a\u064a\u062c\u0629 1/4\u060c \u0639\u0644\u0649 \u0623\u0631\u0636 \u0645\u0644\u0639\u0628 \u0627\u0644\u0645\u0645\u0644\u0643\u0629 \u0623\u0631\u064a\u0646\u0627\u060c \u0627\u0644\u062b\u0644\u0627\u062b\u0627\u0621\u060c \u0636\u0645\u0646&nbsp;...",
+    "news_item_url": "https://arabic.cnn.com/sport/article/2025/02/05/salem-al-dawsari-al-hilal-persepolis-match",
+    "picture_source": "\u0627\u0644\u062c\u0632\u064a\u0631\u0629 \u0646\u062a",
     "approx_traffic": "200,000+"
   },
   {
@@ -331,21 +401,11 @@
   },
   {
     "country": "Germany",
-    "title": "Burn-out Altkanzler Schr\u00f6der",
+    "title": "Altkanzler Schr\u00f6der Burn-out",
     "pubDate": "Tue, 04 Feb 2025 13:00:00 +0100",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSloNBhhUZzZuHagvKLd83jgTngrSTpVUdiKCynCHy4QukXubyt05Tz9KgRzMdM_Ylo6KdtFI_f",
     "news_item_snippet": "Der ehemalige Bundeskanzler Gerhard Schr\u00f6der (SPD) leidet am Burn-out-Syndrom. Er werde derzeit in einer Klinik behandelt, teilte Schr\u00f6ders Anwalt&nbsp;...",
     "news_item_url": "https://www.ndr.de/nachrichten/niedersachsen/hannover_weser-leinegebiet/Altkanzler-Gerhard-Schroeder-wegen-Burnout-in-Klinik,schroeder2298.html",
-    "picture_source": "tagesschau.de",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Germany",
-    "title": "Schweden",
-    "pubDate": "Tue, 04 Feb 2025 17:00:00 +0100",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQreh_nZWxaT17InTLCV1k-bqUDeLaD1YW22PPEQaBLFUbidyyaOJE5LSTxxrVSnT5CtJQvNj-e",
-    "news_item_snippet": "Im schwedischen \u00d6rebro, etwa 200 Kilometer westlich von Stockholm, ist auf f\u00fcnf Menschen geschossen worden. Das Ausma\u00df ihrer Verletzungen ist noch unklar.",
-    "news_item_url": "https://www.spiegel.de/panorama/justiz/schweden-schuesse-an-bildungseinrichtung-fuenf-personen-getroffen-a-08bdc5c3-4733-469a-b165-6a6e721f32ee",
     "picture_source": "tagesschau.de",
     "approx_traffic": "50,000+"
   },
@@ -454,8 +514,8 @@
     "title": "Atalanta-Bologna",
     "pubDate": "Tue, 04 Feb 2025 14:00:00 +0100",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcR3my1qt0h_UpuEgQSprhu2Lujb6_2m4dDCfzk7KxTWISLEEU2sZ69fFisZgV8kcZNJo68dM2QJ",
-    "news_item_snippet": "Le scelte dei due allenatori per i quarti di finale &middot; Atalanta: Rui Patr\u00edcio, Toloi, Hien, Djimsiti, Bellanova, de Roon, \u00c9derson, Zappacosta, Pa\u0161ali\u0107, De&nbsp;...",
-    "news_item_url": "https://www.atalanta.it/news/coppa-italia-le-formazioni-di-atalanta-bologna",
+    "news_item_snippet": "COPPA ITALIA - L&#39;MVP \u00e8 Castro, decisivo anche Skorupski. Maldini si divora il gol vittoria, Rui Patricio e Hien sbagliano nel momento decisivo.",
+    "news_item_url": "https://www.eurosport.it/calcio/coppa-italia/2024-2025/le-pagelle-di-atalanta-bologna-0-1-skorupski-e-castro-al-top-retegui-anonimo-rui-patricio-e-hien-sbagliano_sto20078051/story.shtml",
     "picture_source": "Rai News",
     "approx_traffic": "200,000+"
   },
@@ -463,21 +523,31 @@
     "country": "Mexico",
     "title": "Atl\u00e9tico Madrid  Getafe",
     "pubDate": "Tue, 04 Feb 2025 00:00:00 -0600",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQ1mpTTU5_k4i1xVBzx0JyoFtY9RNmfOtiATFS2F7K5-DoGP-Pi5A8F1HvhP0Mm5YA7PrvwBZIb",
-    "news_item_snippet": "Atl\u00e9tico de Madrid venci\u00f3 por cinco goles a cero al Getafe en la cancha del Metropolitano en partido de cuartos de final de Copa del Rey.",
-    "news_item_url": "https://www.milenio.com/deportes/futbol-internacional/resultado-atletico-de-madrid-vs-getafe-resumen-del-partido-laliga-2025",
-    "picture_source": "RTVE",
-    "approx_traffic": "50,000+"
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQrUKcVE0LiRFokk-VhvahHmZiNaseRuLl6duOagmLa5SHUCNej0-Nasg7zD2XFJEouSzqY-9in",
+    "news_item_snippet": "El Atleti, en semis de Copa con Giuliano liderando la goleada. Lino, Correa y Sorloth marcaron. El s\u00e1bado luchar\u00e1n por el liderato de Liga en el derbi.",
+    "news_item_url": "https://as.com/futbol/copa_del_rey/atletico-getafe-en-directo-copa-del-rey-hoy-en-vivo-n/",
+    "picture_source": "Milenio.com",
+    "approx_traffic": "100,000+"
   },
   {
     "country": "Spain",
     "title": "Atl\u00e9tico Madrid  Getafe",
-    "pubDate": "Tue, 04 Feb 2025 18:00:00 +0100",
+    "pubDate": "Tue, 04 Feb 2025 21:00:00 +0100",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQ1mpTTU5_k4i1xVBzx0JyoFtY9RNmfOtiATFS2F7K5-DoGP-Pi5A8F1HvhP0Mm5YA7PrvwBZIb",
     "news_item_snippet": "El Atleti, en semis de Copa con Giuliano liderando la goleada. Lino, Correa y Sorloth marcaron. El s\u00e1bado luchar\u00e1n por el liderato de Liga en el derbi.",
     "news_item_url": "https://as.com/futbol/copa_del_rey/atletico-getafe-en-directo-copa-del-rey-hoy-en-vivo-n/",
     "picture_source": "RTVE",
     "approx_traffic": "200,000+"
+  },
+  {
+    "country": "Spain",
+    "title": "Copa del Rey",
+    "pubDate": "Tue, 04 Feb 2025 12:00:00 +0100",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcT1q9eV59tBMrDqyoTywJ-aMxLRky_cwEcuZhJC6Pz_qF7K5c_2uUNaNnxDyMmbO9_YPWnLfJfy",
+    "news_item_snippet": "Conforme avanza la temporada y los partidos cobran una mayor importancia, es m\u00e1s com\u00fan ver a los jugadores ser sancionados o expulsados.",
+    "news_item_url": "https://as.com/futbol/copa_del_rey/afectan-las-sanciones-y-expulsiones-de-la-copa-del-rey-a-laliga-esto-dice-el-reglamento-n/",
+    "picture_source": "MARCA.com",
+    "approx_traffic": "100,000+"
   },
   {
     "country": "Spain",
@@ -493,10 +563,10 @@
     "country": "United Kingdom",
     "title": "Brian Murphy",
     "pubDate": "Tue, 04 Feb 2025 08:00:00 +0000",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcT8aY0q4LwXMuigLc8c4tk730br01Fc44Ox_1kyZQFT19yCf_3Xa-3ZC7Y6ZXFYktC6EyIOvUX5",
-    "news_item_snippet": "The actor and comedian had worked closely with theatre director Joan Littlewood in his early career.",
-    "news_item_url": "https://www.bbc.com/news/articles/cdxeg4q0rddo",
-    "picture_source": "The Guardian",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQeVnLPEVPWuX0tVIpsIDtA2KfZ_D8us9ECJ7cNKWcR2COejmPJ5__EXhj2z7UNF6DNd8dtMNxr",
+    "news_item_snippet": "Actor who became a TV star in the 1970s as George Roper in Man About the House and a spin-off series, George and Mildred.",
+    "news_item_url": "https://www.theguardian.com/tv-and-radio/2025/feb/04/brian-murphy-obituary",
+    "picture_source": "BBC News",
     "approx_traffic": "100,000+"
   },
   {
@@ -513,10 +583,10 @@
     "country": "United Kingdom",
     "title": "Sweden",
     "pubDate": "Tue, 04 Feb 2025 19:00:00 +0000",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSmCiAp0SqSQl5gMLCjqggvCdqPjCTP-l2g5jyZJDeanGEmV6YDfnJlJbRysppws3cBmX8JXZDX",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSYwiApUHf8bzQysflSw1I_EQmZDzxQnEkWUriiXaQ7gF_xt2kn5qeUv82En4Cn-ZSPqZ8GUFW7",
     "news_item_snippet": "Prime Minister Ulf Kristersson described Tuesday&#39;s attack as the &quot;worst mass shooting in Swedish history&quot;.",
     "news_item_url": "https://www.bbc.com/news/articles/c79d52gpd02o",
-    "picture_source": "BBC News",
+    "picture_source": "The Independent",
     "approx_traffic": "50,000+"
   }
 ]
