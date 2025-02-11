@@ -1,12 +1,62 @@
 [
   {
     "country": "United States",
+    "title": "Winter storm warning",
+    "pubDate": "Mon, 10 Feb 2025 13:00:00 -0800",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcS_4yXmqUJDlLPK7wHvUsPLHyTu7VhmqsNpN2wXBv9bmk2LKItpFF1_A0WBbrmKD4a01IWDxF1-",
+    "news_item_snippet": "A National Weather Service advisory for Tuesday&#39;s storm in Maryland has been upgraded to a winter storm warning.",
+    "news_item_url": "https://www.wbaltv.com/article/snow-maryland-weather-february-11-2025/63725628",
+    "picture_source": "Kansas City Star",
+    "approx_traffic": "500,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Lakers",
+    "pubDate": "Mon, 10 Feb 2025 20:00:00 -0800",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRluRJpo4Asd8vY7RAKbBvSEE8MMJ1gAN9dgXQxdhETgi_0oPH83CJukVIQmeG4pd1G02BuYCSH",
+    "news_item_snippet": "Luka Doncic scored 14 points in his debut with the Lakers, joining LeBron James and getting into flow during Los Angeles&#39; win over the Utah Jazz.",
+    "news_item_url": "https://abc7.com/post/luka-doncic-could-make-lakers-debut-monday-night-game-utah-jazz/15889380/",
+    "picture_source": "ESPN",
+    "approx_traffic": "500,000+"
+  },
+  {
+    "country": "United States",
     "title": "Yeezy",
     "pubDate": "Mon, 10 Feb 2025 03:00:00 -0800",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQ47sytk2hhMyWE1LaYHjdnSb_7utjGkXlxxFUG_kC00tAVGFjxB4af8TtQVqkicJ-B6a8-Ywx2",
-    "news_item_snippet": "The website of rapper Ye, formerly known as Kanye West, used a Super Bowl commercial to send people to his website which is selling T-shirts emblazoned with&nbsp;...",
-    "news_item_url": "https://www.nbcnews.com/news/us-news/yes-website-selling-swastika-shirts-boosting-profile-super-bowl-ad-rcna191432",
+    "news_item_snippet": "Most of those ads are for local businesses like law firms and car dealerships (in LA, the ad that ran right after the Yeezy spot was for the California Lottery)&nbsp;...",
+    "news_item_url": "https://variety.com/2025/tv/news/how-kanye-west-super-bowl-ad-swastika-shirts-1236302946/",
     "picture_source": "Hollywood Reporter",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Vince Neil",
+    "pubDate": "Mon, 10 Feb 2025 19:00:00 -0800",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSfW7BsmqLYjns5gSJX16jyPahyrt8jcF-u41rZIySkbqYKQUQTCAwIzYhJTGFtl_qxBoNugRW9",
+    "news_item_snippet": "One person is dead after two mid-sized jets collided on the ground Monday afternoon at a suburban Phoenix airport.",
+    "news_item_url": "https://www.newsnationnow.com/us-news/southwest/two-jets-collide-arizona/",
+    "picture_source": "Billboard",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Barcelona",
+    "pubDate": "Mon, 10 Feb 2025 07:00:00 -0800",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSJym-KyVSxFJd1BcdMnDcZxU_Gq3n95olq7TivWjA76E9vUjnu5HK6wi9_AZpw0c-5Z6Jrz_ne",
+    "news_item_snippet": "Former Barcelona manager Pep Guardiola&#39;s Manchester City team is gearing up for a crucial tie against Real Madrid this midweek.The two teams are set to take&nbsp;...",
+    "news_item_url": "https://sports.yahoo.com/guardiola-praises-hansi-flick-barcelona-153600321.html",
+    "picture_source": "Yahoo Sports",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Lakers vs Jazz",
+    "pubDate": "Mon, 10 Feb 2025 20:00:00 -0800",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSOaAO3Qg1Rv9Lnq2yitx1Il5PkTCjDyEr216k_fs5vnp1JIgm2JKwbtwG3g35CNhuyTuFDYEuM",
+    "news_item_snippet": "The Lakers upgraded Doncic and LeBron James to probable for Monday&#39;s game.",
+    "news_item_url": "https://sports.yahoo.com/luka-doncic-upgraded-to-probable-for-lakers-debut-monday-vs-jazz-192636547.html",
+    "picture_source": "NBC Southern California",
     "approx_traffic": "100,000+"
   },
   {
@@ -14,220 +64,110 @@
     "title": "Starbucks free coffee",
     "pubDate": "Mon, 10 Feb 2025 09:00:00 -0800",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcT0FLnqpuT_oE8oqGe1m7HcPKL2WOFb0gG404KdS-GAX69LSfHT4HXVMd-wUgU5uFY9NA_VxGI0",
-    "news_item_snippet": "The Kansas City Chiefs faced off against the Philadelphia Eagles at the Caesars Superdome in New Orleans on Sunday for Super Bowl 59. The average Super Bowl&nbsp;...",
-    "news_item_url": "https://www.statesman.com/story/news/state/2025/02/10/starbucks-free-coffee-monday-super-bowl-59-2025-lix-how-rewards-members/78297425007/",
+    "news_item_snippet": "Starbucks knows you&#39;re tired after the Super Bowl. The coffee chain is offering a free tall hot or iced brewed coffee any time on what the company is&nbsp;...",
+    "news_item_url": "https://www.nbcnewyork.com/news/local/starbucks-free-coffee-today-sizes-rewards-app/6143468/",
     "picture_source": "NBC Chicago",
     "approx_traffic": "50,000+"
   },
   {
     "country": "United States",
-    "title": "Super Bowl 2025",
-    "pubDate": "Sun, 09 Feb 2025 06:00:00 -0800",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRQMGxSTEanL7gV6J_EDDgBU3MIgexqxhyujFNGEXoQUycnv9pLpQ35POO_7y2jn1hTHTT_E044",
-    "news_item_snippet": "Philadelphia bullied Kansas City in Super Bowl LIX, forcing Patrick Mahomes into one of the worst games of his career. Here&#39;s how the Eagles did it.",
-    "news_item_url": "https://6abc.com/post/super-bowl-2025-how-eagles-dominated-chiefs-patrick-mahomes/15888430/",
+    "title": "Department of Education",
+    "pubDate": "Mon, 10 Feb 2025 13:00:00 -0800",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRy-E6p5tk0-EK6Qg-678G9vJjObP4pNTxEaSs-ZNyiIpLhjnucQehQ2HSwFdTZePds4bPon1SD",
+    "news_item_snippet": "The U.S. Department of Education announced the reversal of a regulatory reporting scheme that required states and the local career and technical education&nbsp;...",
+    "news_item_url": "https://www.ed.gov/about/news/press-release/us-department-of-education-reduces-burden-career-and-technical-education-programs",
     "picture_source": "NPR",
-    "approx_traffic": "10,000,000+"
+    "approx_traffic": "50,000+"
   },
   {
     "country": "United States",
-    "title": "Eagles",
-    "pubDate": "Sun, 09 Feb 2025 11:00:00 -0800",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcS0FFqLXRdss4bAQabOBAGdlM92QTaWYJqIPoS9pfC8SaUwRtgEFubukMA-9uPafiGjTideorvx",
-    "news_item_snippet": "Cooper DeJean, Josh Sweat and the Philadelphia Eagles&#39; ferocious defense denied Patrick Mahomes, Travis Kelce and the Kansas City Chiefs a Super Bowl&nbsp;...",
-    "news_item_url": "https://apnews.com/article/super-bowl-2025-eagles-chiefs-score-e2ff209c074a00a6faff39750ff048f8",
-    "picture_source": "PhiladelphiaEagles.com",
-    "approx_traffic": "1,000,000+"
-  },
-  {
-    "country": "United States",
-    "title": "NFL",
-    "pubDate": "Sun, 09 Feb 2025 13:00:00 -0800",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQVxdjFearedBBp5E39CX5BPbtTE9WfVsTOjyxUGsNc1FQCQ5Ub40uc-Ah2WTIKHxTaYyK8y86Q",
-    "news_item_snippet": "The Super Bowl is over. Now the malaise of no football kicks off.",
-    "news_item_url": "https://www.washingtonpost.com/opinions/2025/02/10/super-bowl-nfl-season/",
-    "picture_source": "NFL.com",
-    "approx_traffic": "1,000,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Tubi",
-    "pubDate": "Sun, 09 Feb 2025 09:00:00 -0800",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQKKgPN65_YTW8K6W0Jgw6jmStD73kzXpxb8utwAxnXhLdjLCdV6H6qvZEbLHXzoL1rflblalyQ",
-    "news_item_snippet": "The 2025 Super Bowl between the Kansas City Chiefs and Philadelphia Eagles will stream for free on Tubi, which will air Fox&#39;s coverage. Here&#39;s how to watch&nbsp;...",
-    "news_item_url": "https://www.today.com/popculture/tv/how-to-watch-super-bowl-2025-for-free-tubi-rcna189455",
-    "picture_source": "Sports Video Group",
-    "approx_traffic": "1,000,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Taylor Swift",
-    "pubDate": "Sun, 09 Feb 2025 16:00:00 -0800",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcS5v2nIcGNk-SFcPBbiiRQXcKxlZDFeWeqROLqj4N40lwvKVN5S-camWkal4-cZ_lL5Kv5EdWW2",
-    "news_item_snippet": "Taylor Swift found herself booed by a pro-Eagles crowd and then had to endure their countless cheers as Philadelphia rolled to a 40-22 victory.",
-    "news_item_url": "https://www.newsnationnow.com/us-news/sports/ap-taylor-swift-makes-her-super-bowl-return-to-watch-travis-kelce-and-his-chiefs-face-the-eagles/",
-    "picture_source": "6ABC Philadelphia",
-    "approx_traffic": "1,000,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Cooper DeJean",
-    "pubDate": "Sun, 09 Feb 2025 11:00:00 -0800",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQg2MZdInQY50RYPVQx4OGm8Ypz_Yj2QCqJCfrcwuPyE8mcJPIwefe7CWuSIEP6-F9kDG_89qjR",
-    "news_item_snippet": "Before and after Sunday&#39;s game, DeJean honored his Iowa roots by paying tribute to the Iowa football program at OABCIG High School.",
-    "news_item_url": "https://www.hawkcentral.com/story/sports/college/iowa/2025/02/10/cooper-dejean-jacket-cleats-odebolt-iowa-oabcig-high-school-2025-super-bowl/78386442007/",
-    "picture_source": "PhiladelphiaEagles.com",
-    "approx_traffic": "500,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Jon Batiste",
-    "pubDate": "Sun, 09 Feb 2025 10:00:00 -0800",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRcxYwyYL4ezumiuNa7jpg3PxaE8SnvyrFNaJ006PmccEqBbgBaBpJeNLFzIFZaVSC2d6bO-vrB",
-    "news_item_snippet": "Jon Batiste&nbsp;...",
-    "news_item_url": "https://www.wsfa.com/2025/02/10/jon-batiste-kickstarts-super-bowl-2025-with-innovative-performance-national-anthem/",
-    "picture_source": "CBS News",
-    "approx_traffic": "500,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Saquon Barkley",
-    "pubDate": "Sun, 09 Feb 2025 12:00:00 -0800",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcS46MT-2-nPNbJ3o6L68RnGknmkDEco-YxfBzIX15PKetdxMqGsuwcBFubtvlV7gfwrCNT3Canf",
-    "news_item_snippet": "Saquon Barkley rushed&nbsp;...",
-    "news_item_url": "https://www.kltv.com/2025/02/10/eagles-saquon-barkley-sets-nfls-season-rushing-record-including-playoffs-his-birthday/",
-    "picture_source": "Sportico.com",
-    "approx_traffic": "500,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Travis Kelce",
-    "pubDate": "Sun, 09 Feb 2025 14:00:00 -0800",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQi9726Isxf4lZQqOtn7dcn8_FQz9V-ENnHwa-pllNtzguy_ZMXdI0BEIxyiHJSoQY0_gp4ImLb",
-    "news_item_snippet": "Amid reports that he was weighing retirement, Chiefs tight end Travis Kelce was held to four catches for 39 yards in a 40-22 blowout loss to the Eagles in&nbsp;...",
-    "news_item_url": "https://www.nfl.com/news/travis-kelce-non-factor-in-chiefs-super-bowl-lix-loss-we-haven-t-played-that-bad-all-year",
-    "picture_source": "Today.com",
-    "approx_traffic": "500,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Trump Super Bowl",
-    "pubDate": "Sun, 09 Feb 2025 15:00:00 -0800",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTRcX1fcHbHlWtPkdZFBZiSL88in0Ic9D31O6dYLlCnb7uy8F8U2AB0ulIe6zcZxL97ahnK3JIj",
-    "news_item_snippet": "President Donald Trump had high praise Kansas City Chiefs quarterback Patrick Mahomes and Philadelphia Eagles running back Saquon Barkley.",
-    "news_item_url": "https://www.nbcphiladelphia.com/super-bowl/donald-trump-super-bowl-pick-arrival/4104498/",
-    "picture_source": "NPR",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Super Bowl commercials 2025",
-    "pubDate": "Sun, 09 Feb 2025 17:00:00 -0800",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcS8gTRom4_TiIlaHlfKaNWONf6NECYWoVIp8MrgTLQ0tHv8uMAlPyhK40ZgGkwAkg2ZshikyFSP",
-    "news_item_snippet": "Fans voting in USA Today&#39;s Ad Meter helped determine the best and most well-liked 2025 Super Bowl commercial.",
-    "news_item_url": "https://www.today.com/popculture/best-super-bowl-commercials-2025-rcna191433",
-    "picture_source": "NPR",
-    "approx_traffic": "200,000+"
+    "title": "Champions League",
+    "pubDate": "Mon, 10 Feb 2025 20:00:00 -0800",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcS79xBI0xg4j1269VCJQfdRipVDyIKm1x5oSiP3IrVr0zYX-odUVzFfFDPgBXd-TZXRF54WaMIR",
+    "news_item_snippet": "Who&#39;s likely to start and who is unavailable or doubtful? UEFA.com predicts the first-leg line-ups.",
+    "news_item_url": "https://www.uefa.com/uefachampionsleague/news/0296-1d063745ec48-e74d7315ed6d-1000--champions-league-knockout-phase-play-offs-possible-first-l/",
+    "picture_source": "ESPN",
+    "approx_traffic": "50,000+"
   },
   {
     "country": "India",
     "title": "South Africa vs New Zealand",
     "pubDate": "Mon, 10 Feb 2025 09:30:00 +0530",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTsQAW5PgAU-tBaBK-ztDBJxA27BAMTjmLFoLIawf2oP3wOer1sJX6B40Wf_lxHhZSsmitzL5IV",
-    "news_item_snippet": "NZ vs SA: Catch all the updates and highlights from South Africa&#39;s match against New Zealand at the Gaddafi Stadium in Lahore on Monday.",
-    "news_item_url": "https://sportstar.thehindu.com/cricket/new-zealand-vs-south-africa-live-score-updates-highlights-odi-tri-nation-series-pak-v-nz/article69201403.ece",
+    "news_item_snippet": "New Zealand vs South Africa Live Score: First Innings South Africa Score - 304/6 in 50.0 overs. South Africa batting performance. Matthew Breetzke 150(148)",
+    "news_item_url": "https://www.hindustantimes.com/cricket/new-zealand-vs-south-africa-live-score-match-2-of-new-zealand-and-south-africa-tour-of-pakistan-2025-final-updates-today-10-feb-2025-101739158394683.html",
     "picture_source": "Business Standard",
     "approx_traffic": "1,000,000+"
   },
   {
     "country": "India",
-    "title": "Ranveer Allahbadia",
-    "pubDate": "Mon, 10 Feb 2025 12:30:00 +0530",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTV8B5Pk8GK7sVqRPwuoxg4XbcxT0YGjEeIQ2WEFoxPMneC5b-eFD_2FBE87F6oLrxL_zdc9dO9",
-    "news_item_snippet": "Ranveer Allahabadia Controversy: YouTuber Ranveer Allahbadia posted an apology video on X with the caption, \u201cI shouldn&#39;t have said what I said on India&#39;s&nbsp;...",
-    "news_item_url": "https://www.livemint.com/news/india/youtuber-ranveer-allahbadia-apologises-for-obscene-jokes-on-india-s-got-latent-comedys-not-my-forte-beer-biceps-11739179001262.html",
-    "picture_source": "NDTV",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "India",
-    "title": "Matthew Breetzke",
-    "pubDate": "Mon, 10 Feb 2025 11:30:00 +0530",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSRi-jkQ5PzrvDTKFIEo6q0qAf5sYddFwogrdgYr08zsVARGWjFb5FUETm9OYEViwGOnKl3rrz0",
-    "news_item_snippet": "Before Matthew Breetzke, the highest score on an ODI debut by a South African cricketer was Colin Ingram&#39;s 124 against Zimbabwe in 2010.",
-    "news_item_url": "https://www.livemint.com/sports/cricket-news/meet-matthew-breetzke-lsgs-south-african-ipl-star-who-became-first-batter-to-score-150-runs-on-odi-debut-sa-vs-nz-11739168622987.html",
-    "picture_source": "Sportstar",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "India",
-    "title": "SBI Clerk Admit Card 2025",
-    "pubDate": "Mon, 10 Feb 2025 11:30:00 +0530",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTBh1W1FEsStY3m7mwM8TCvu1LtLceN78bg_AXD3ApVsWh6jLF1Ih8cid_ynjKb_glYf1fXG6j6",
-    "news_item_snippet": "\u090f\u0938\u092c\u0940\u0906\u0908 \u0915\u0940 \u0913\u0930 \u0938\u0947 \u091c\u0942\u0928\u093f\u092f\u0930 \u090f\u0938\u094b\u0938\u093f\u090f\u091f (\u0915\u094d\u0932\u0930\u094d\u0915) \u092a\u0926\u094b\u0902 \u092a\u0930 \u0906\u0935\u0947\u0926\u0928 \u0915\u0930\u0928\u0947 \u0935\u093e\u0932\u0947 \u0909\u092e\u094d\u092e\u0940\u0926\u0935\u093e\u0930\u094b\u0902 \u0915\u0947 \u090f\u0921\u092e\u093f\u091f \u0915\u093e\u0930\u094d\u0921 (SBI Clerk Prelims Call Letter 2025)&nbsp;...",
-    "news_item_url": "https://www.jagran.com/news/education-sbi-clerk-prelims-admit-card-2025-sbi-clerk-admit-will-be-released-today-can-be-downloaded-in-just-4-steps-23881884.html",
+    "title": "JEE Mains Result 2025",
+    "pubDate": "Mon, 10 Feb 2025 19:30:00 +0530",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSV9Z4cv3VZzMo3TCqENM1A6dOBOtlyT-FRqKuIjtkEzM24w1Y2qItVUUI3iH83h_b8nKWovdFq",
+    "news_item_snippet": "The Joint Entrance Examination, JEE (Main) comprises of two papers. Paper 1 is conducted for admission to Undergraduate Engineering Programs (B.E. / B. Tech.)&nbsp;...",
+    "news_item_url": "https://www.livemint.com/education/jee-main-result-2025-live-nta-session-1-scorecards-final-answer-key-jeemain-nta-nic-in-toppers-list-11739236644995.html",
     "picture_source": "Hindustan Times",
-    "approx_traffic": "100,000+"
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "India",
+    "title": "JEE Mains",
+    "pubDate": "Mon, 10 Feb 2025 21:30:00 +0530",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSV9Z4cv3VZzMo3TCqENM1A6dOBOtlyT-FRqKuIjtkEzM24w1Y2qItVUUI3iH83h_b8nKWovdFq",
+    "news_item_snippet": "The Joint Entrance Examination, JEE (Main) comprises of two papers. Paper 1 is conducted for admission to Undergraduate Engineering Programs (B.E. / B. Tech.)&nbsp;...",
+    "news_item_url": "https://www.livemint.com/education/jee-main-result-2025-live-nta-session-1-scorecards-final-answer-key-jeemain-nta-nic-in-toppers-list-11739236644995.html",
+    "picture_source": "Hindustan Times",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "India",
+    "title": "Promise Day",
+    "pubDate": "Mon, 10 Feb 2025 19:30:00 +0530",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRF_aBbn3_8ZIr7uCJ9jUHILImiLVBvP2v4qxJEgkpqrgfS1pQ4C4oTiPU78NKnwHE4c0ypJ_ri",
+    "news_item_snippet": "Promise Day Messages: \u092a\u094d\u0930\u094b\u092e\u093f\u0938 \u0921\u0947 \u092f\u093e\u0928\u0940 \u0935\u093e\u0926\u0947 \u0915\u093e \u0926\u093f\u0928 \u0915\u092a\u0932\u094d\u0938 \u0915\u0947 \u092c\u0940\u091a \u0915\u093e\u092b\u0940 \u092e\u0939\u0924\u094d\u0935 \u0930\u0916\u0924\u093e \u0939\u0948. \u0907\u0938 \u0926\u093f\u0928 \u091c\u093f\u0938\u0938\u0947 \u092a\u094d\u092f\u093e\u0930 \u0915\u093f\u092f\u093e \u091c\u093e\u0924\u093e \u0939\u0948 \u0909\u0938\u0915\u093e \u0938\u093e\u0925 \u0928\u093f\u092d\u093e\u0928\u0947 \u0915\u093e&nbsp;...",
+    "news_item_url": "https://ndtv.in/lifestyle/promise-day-2025-promise-day-wishes-promise-day-messages-promise-day-quotes-promise-day-shayari-promise-day-whatsapp-status-promise-day-facebook-statu-7675819",
+    "picture_source": "Hindustan Times",
+    "approx_traffic": "50,000+"
   },
   {
     "country": "India",
     "title": "Pariksha Pe Charcha 2025",
     "pubDate": "Mon, 10 Feb 2025 11:30:00 +0530",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQER0-IenRqGX0CHrS93MmxnwgUk3zSR65Q78iPImLTSdFDH-qwcXbcuzdyBcmndpA7eZcHUHDV",
-    "news_item_snippet": "Pariksha Pe Charcha 2025: Prime Minister Narendra Modi advises students on nutrition, pressure, and leadership during the eighth &#39;Pariksha Pe Charcha&#39;&nbsp;...",
-    "news_item_url": "https://www.thehindu.com/news/national/pariksha-pe-charcha-pm-modi-tells-students-to-challenge-themselves-but-not-take-exam-pressure/article69201784.ece",
-    "picture_source": "\u0905\u092e\u0930 \u0909\u091c\u093e\u0932\u093e",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcS_EuBS1t5a4d4lJWEEt05TgQouY90Le7W1A1Ufg6MwFGSyjHevheEU6n0u7MWtMaFs_8xLkhfYMQ",
+    "news_item_snippet": "Pariksha Pe Charcha 2025: \u092a\u0930\u0940\u0915\u094d\u0937\u093e \u092a\u0947 \u091a\u0930\u094d\u091a\u093e \u0915\u093e 8\u0935\u093e\u0902 \u0938\u0902\u0938\u094d\u0915\u0930\u0923 \u092a\u0942\u0930\u093e \u0939\u094b \u0917\u092f\u093e \u0939\u0948\u0964 \u0907\u0938 \u0938\u093e\u0932 \u0915\u093e\u0930\u094d\u092f\u0915\u094d\u0930\u092e \u0915\u0947 \u092a\u094d\u0930\u093e\u0930\u0942\u092a \u092e\u0947\u0902 \u092c\u0926\u0932\u093e\u0935 \u0915\u093f\u092f\u093e \u0917\u092f\u093e\u0964 \u092a\u094d\u0930\u0927\u093e\u0928\u092e\u0902\u0924\u094d\u0930\u0940 \u092e\u094b\u0926\u0940&nbsp;...",
+    "news_item_url": "https://www.amarujala.com/photo-gallery/education/pariksha-pe-charcha-2025-updates-pm-modi-interact-with-students-for-board-exam-formula-for-success-2025-02-10",
+    "picture_source": "CMO Gujarat",
     "approx_traffic": "50,000+"
   },
   {
     "country": "India",
-    "title": "Super Bowl",
-    "pubDate": "Mon, 10 Feb 2025 01:30:00 +0530",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQ6YCeimM8VvdZJugxXa09fwfy6si4OBCLc3eFwCnQI7A-aFNxqWqp8F9WKMw_Z2xGDn7GlY94T",
-    "news_item_snippet": "The Philadelphia Eagles won the Super Bowl 2025 after a performance in a 40-22 win over Kansas City Chiefs, with the victory being the first for the&nbsp;...",
-    "news_item_url": "https://www.hindustantimes.com/world-news/us-news/super-bowl-2025-live-updates-kendrick-lamar-halftime-show-donald-trump-taylor-swift-jill-biden-latest-information-today-101739119700379.html",
-    "picture_source": "Forbes",
-    "approx_traffic": "50,000+"
+    "title": "Rohit Sharma",
+    "pubDate": "Sun, 09 Feb 2025 16:30:00 +0530",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTKi_dymGQiicRwBlm2rx0EwbDAW1dbnYBWpADwTYbdw8riV3Mmr5w2-Im-WH2msy_cD6vWeTZ5",
+    "news_item_snippet": "Rohit Sharma becomes the second-highest six-hitter in ODI cricket, surpassing Chris Gayle with 336 sixes. He is now closing in on Shahid Afridi&#39;s record of&nbsp;...",
+    "news_item_url": "https://www.jagranjosh.com/general-knowledge/rohit-sharma-becomes-the-second-most-six-hitter-in-odi-cricket-history-1739171884-1",
+    "picture_source": "Times of India",
+    "approx_traffic": "500,000+"
   },
   {
     "country": "India",
-    "title": "England vs India",
-    "pubDate": "Sun, 09 Feb 2025 13:30:00 +0530",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSdPbAfRvZyfV4s3rj3rybBHEwduCmJNCw52Li1eSFBEwpR5XIE-Cg8tY-UQnn7neCdCDAaSPj3",
-    "news_item_snippet": "India vs England 2nd ODI Highlights: Rohit Sharma shone with a sensational century as India eased past England by 4 wickets in the second ODI.",
-    "news_item_url": "https://sports.ndtv.com/india-vs-england-2025/india-vs-england-2nd-odi-live-score-england-tour-of-india-2025-ind-vs-eng-live-scorecard-updates-7668934",
-    "picture_source": "ESPNcricinfo.com",
-    "approx_traffic": "5,000,000+"
+    "title": "Ranveer Allahbadia",
+    "pubDate": "Sun, 09 Feb 2025 19:30:00 +0530",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQ5HBB9fUNaZd3V9CVf4n-bicbs0ueMjED0LdDJHCkCVKt_aukzBWKeyB8i1ETagCQbnArIrRQ-",
+    "news_item_snippet": "B Praak criticised the derogatory comments made by Ranveer Allahbadia and questioned how can this be considered as comedy.",
+    "news_item_url": "https://www.hindustantimes.com/entertainment/music/ye-humara-indian-culture-nahi-hai-b-praak-slams-ranveer-allahbadia-cancels-podcast-appearance-amid-controversy-101739237980846.html",
+    "picture_source": "NDTV",
+    "approx_traffic": "200,000+"
   },
   {
     "country": "India",
     "title": "Virat Kohli",
     "pubDate": "Sun, 09 Feb 2025 16:30:00 +0530",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSIgWHNq5ZehezgMFtULBZebxzmYh6sEPL7NLYF2AHwh5eWLsiPebVBIiOt7I6HUzRO4nnhUOOO",
-    "news_item_snippet": "Suryakumar Yadav: \u0c1f\u0c40\u0c2e\u0c3f\u0c02\u0c21\u0c3f\u0c2f\u0c3e \u0c1f\u0c3e\u0c2a\u0c4d \u0c2c\u0c4d\u0c2f\u0c3e\u0c1f\u0c30\u0c4d \u0c35\u0c3f\u0c30\u0c3e\u0c1f\u0c4d \u0c15\u0c4b\u0c39\u0c4d\u0c32\u0c40 \u0c05\u0c02\u0c26\u0c30\u0c3f\u0c24\u0c4b \u0c2b\u0c28\u0c4d\u0c28\u0c40\u0c17\u0c3e \u0c09\u0c02\u0c1f\u0c3e\u0c21\u0c41. \u0c38\u0c40\u0c28\u0c3f\u0c2f\u0c30\u0c4d\u0c32\u0c24\u0c4b \u0c2a\u0c3e\u0c1f\u0c41 \u0c1c\u0c42\u0c28\u0c3f\u0c2f\u0c30\u0c4d\u0c32\u0c28\u0c41 \u0c15\u0c42\u0c21\u0c3e \u0c15\u0c32\u0c41\u0c2a\u0c41\u0c15\u0c4a\u0c28\u0c3f \u0c35\u0c46\u0c33\u0c4d\u0c24\u0c41\u0c02\u0c1f\u0c3e\u0c21\u0c41.",
-    "news_item_url": "https://www.andhrajyothy.com/2025/sports/cricket-news/virat-kohli-imitates-suryakumar-yadav-in-2nd-odi-against-england-ndn-1369537.html",
+    "news_item_snippet": "Virat Kohli Records: \u0c05\u0c02\u0c24\u0c30\u0c4d\u0c1c\u0c3e\u0c24\u0c40\u0c2f \u0c15\u0c4d\u0c30\u0c3f\u0c15\u0c46\u0c1f\u0c4d\u200c\u0c32\u0c4b \u0c15\u0c47\u0c35\u0c32\u0c02 9 \u0c2e\u0c02\u0c26\u0c3f \u0c06\u0c1f\u0c17\u0c3e\u0c33\u0c4d\u0c32\u0c41 \u0c2e\u0c3e\u0c24\u0c4d\u0c30\u0c2e\u0c47 300 \u0c15\u0c02\u0c1f\u0c47 \u0c0e\u0c15\u0c4d\u0c15\u0c41\u0c35 \u0c15\u0c4d\u0c2f\u0c3e\u0c1a\u0c4d\u200c\u0c32\u0c41 \u0c24\u0c40\u0c38\u0c41\u0c15\u0c41\u0c28\u0c4d\u0c28\u0c3e\u0c30\u0c41. \u0c08 \u0c06\u0c1f\u0c17\u0c3e\u0c33\u0c4d\u0c32 \u0c1c\u0c3e\u0c2c\u0c3f\u0c24\u0c3e\u0c32\u0c4b \u0c35\u0c3f\u0c30\u0c3e\u0c1f\u0c4d&nbsp;...",
+    "news_item_url": "https://tv9telugu.com/sports/cricket-news/team-india-player-virat-kohli-in-6th-place-in-most-catches-in-international-cricket-1466334.html",
     "picture_source": "TV9 Telugu",
     "approx_traffic": "200,000+"
-  },
-  {
-    "country": "India",
-    "title": "Joe Root",
-    "pubDate": "Sun, 09 Feb 2025 15:30:00 +0530",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQXsjhCMiV10j2PMJkfoETJRXepVfqTcZhlAiRs9sFeRv2SVzDHxKynxfX7skOqefZASwzXH8nE",
-    "news_item_snippet": "Joe Root IPL 2025: \u0907\u0902\u0917\u094d\u0932\u0948\u0902\u0921 \u091f\u0940\u092e \u0915\u0947 \u092a\u0942\u0930\u094d\u0935 \u0915\u092a\u094d\u0924\u093e\u0928 \u091c\u094b \u0930\u0942\u091f \u091c\u093e\u0928\u093f\u090f \u0906\u0908\u092a\u0940\u090f\u0932 2025 \u092e\u0947\u0902 \u0916\u0947\u0932\u0947\u0902\u0917\u0947 \u092f\u093e \u0928\u0939\u0940\u0902? \u0909\u0928\u094d\u0939\u094b\u0902\u0928\u0947 \u092d\u093e\u0930\u0924 \u0915\u0947 \u0916\u093f\u0932\u093e\u092b \u0926\u0942\u0938\u0930\u0947 \u0935\u0928\u0921\u0947 \u092e\u0948\u091a \u092e\u0947\u0902 \u092b\u093f\u092b\u094d\u091f\u0940&nbsp;...",
-    "news_item_url": "https://www.abplive.com/sports/ipl/joe-root-ipl-2025-team-and-price-know-every-detail-amid-ind-vs-eng-odi-series-2880743",
-    "picture_source": "ABP News",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "India",
-    "title": "Ravindra Jadeja",
-    "pubDate": "Sun, 09 Feb 2025 16:30:00 +0530",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRlnr6nI-zeGEUfnqWpTRUgkOzENOi4mjpPNRr7Ddbzd3ZdM0cNf5gxk9FvJgJU-qWOlV2rZARE",
-    "news_item_snippet": "Cricket News: Ravindra Jadeja credits domestic cricket, particularly his performances in the Ranji Trophy, for maintaining his form and consistency despite&nbsp;...",
-    "news_item_url": "https://timesofindia.indiatimes.com/sports/cricket/england-tour-of-india-2025/playing-domestic-cricket-benefitted-me-ravindra-jadeja-on-his-consistency-against-england/articleshow/118109613.cms",
-    "picture_source": "The Hindu",
-    "approx_traffic": "50,000+"
   },
   {
     "country": "India",
@@ -240,64 +180,114 @@
     "approx_traffic": "50,000+"
   },
   {
+    "country": "India",
+    "title": "Delhi Election Result",
+    "pubDate": "Sat, 08 Feb 2025 08:30:00 +0530",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTAcd-uKLMo5FYOFquOKR92dg6FHSvDzq2rpSz4a_ev8xnW7tpoC1cH-zN8j0CNeTrCKd51vsaO",
+    "news_item_snippet": "Delhi Election Results: As the BJP reclaims power in Delhi after nearly three decades, here are the five pivotal reasons for AAP&#39;s defeat \u2014 from Modi&#39;s&nbsp;...",
+    "news_item_url": "https://www.livemint.com/elections/delhi-election-results-5-key-reasons-behind-aaps-capital-debacle-modis-aap-da-to-liquor-scam-11738994821061.html",
+    "picture_source": "BBC News",
+    "approx_traffic": "2,000,000+"
+  },
+  {
+    "country": "India",
+    "title": "Delhi Election Result LIVE",
+    "pubDate": "Sat, 08 Feb 2025 09:30:00 +0530",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTAcd-uKLMo5FYOFquOKR92dg6FHSvDzq2rpSz4a_ev8xnW7tpoC1cH-zN8j0CNeTrCKd51vsaO",
+    "news_item_snippet": "New Delhi election result: Parvesh Verma of BJP has defeated AAP national convenor and former Delhi chief minister Arvind Kejriwal in the New Delhi assembly&nbsp;...",
+    "news_item_url": "https://www.hindustantimes.com/india-news/new-delhi-election-2025-results-live-updates-arvind-kejriwal-parvesh-verma-sandeep-dikshit-assembly-latest-february-8-101738970249936.html",
+    "picture_source": "BBC News",
+    "approx_traffic": "1,000,000+"
+  },
+  {
+    "country": "India",
+    "title": "Rachin Ravindra",
+    "pubDate": "Sat, 08 Feb 2025 18:30:00 +0530",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRZsnif3RyW46SeZNVJiTyrklzBgAsTW2K4jNqm-zaiBaNdXR08pBXhJ80vt05YlMiWi-WkJCkE",
+    "news_item_snippet": "Earlier in the match, Haris Rauf went off the field with what was later confirmed to be a low-grade side strain.",
+    "news_item_url": "https://www.espncricinfo.com/story/pak-vs-nz-odi-tri-series-rachin-ravindra-goes-off-the-field-after-taking-blow-to-forehead-1472497",
+    "picture_source": "Hindustan Times",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "India",
+    "title": "Ccl 2025",
+    "pubDate": "Sat, 08 Feb 2025 19:30:00 +0530",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTg126zOIPh-lImXLQ4j3KINBGZ8WlkCB2c-PI8OQM4gNd9kd0IWNMQa1XsfjRpox2Fb8cdoZqa",
+    "news_item_snippet": "\u0c38\u0c46\u0c32\u0c2c\u0c4d\u0c30\u0c3f\u0c1f\u0c40 \u0c15\u0c4d\u0c30\u0c3f\u0c15\u0c46\u0c1f\u0c4d \u0c32\u0c40\u0c17\u0c4d 2025 \u0c1f\u0c4b\u0c30\u0c4d\u0c28\u0c2e\u0c46\u0c02\u0c1f\u0c4d\u200c\u0c32\u0c4b \u0c2d\u0c3e\u0c17\u0c02\u0c17\u0c3e \u0c22\u0c3f\u0c32\u0c4d\u0c32\u0c40\u0c32\u0c4b \u0c2e\u0c41\u0c02\u0c2c\u0c48 \u0c39\u0c40\u0c30\u0c4b\u0c38\u0c4d, \u0c2d\u0c4b\u0c1c\u0c4d\u200c\u0c2a\u0c41\u0c30\u0c3f \u0c26\u0c02\u0c2c\u0c17\u0c4d\u0c38\u0c4d \u0c1c\u0c1f\u0c4d\u0c32 \u0c2e\u0c27\u0c4d\u0c2f \u0c1c\u0c30\u0c3f\u0c17\u0c3f\u0c28 \u0c2e\u0c4d\u0c2f\u0c3e\u0c1a\u0c4d\u200c\u0c32\u0c4b \u0c2a\u0c30\u0c41\u0c17\u0c41\u0c32\u0c41 \u0c35\u0c30\u0c26 \u0c2a\u0c3e\u0c1f\u0c3f\u0c02\u0c26\u0c3f.",
+    "news_item_url": "https://telugu.filmibeat.com/specials/ccl-2025-bhojpuri-dabanggs-won-by-8-wickets-over-mumbai-heroes-in-delhi-152141.html",
+    "picture_source": "FilmiBeat Telugu",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "India",
+    "title": "Teddy Day",
+    "pubDate": "Sat, 08 Feb 2025 18:30:00 +0530",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQ9xaL_1AWCZRRdT8iwNE4E7rVroDQEcA7WxdGnvBX6ivseohNf1Nqq0XVrdI-Vx6akPbWJ8IpH",
+    "news_item_snippet": "This day is all about expressing love, warmth, and comfort by gifting adorable teddy bears to your partner, friends, or family. A soft, cuddly teddy bear is not&nbsp;...",
+    "news_item_url": "https://www.financialexpress.com/trending/teddy-day-2025-history-significance-wishes-best-ways-to-celebrate/3744221/",
+    "picture_source": "Hindustan Times",
+    "approx_traffic": "50,000+"
+  },
+  {
     "country": "Argentina",
-    "title": "Super Bowl",
-    "pubDate": "Sun, 09 Feb 2025 12:00:00 -0300",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSnrzTvEfKdhkWT3mB9H1f7mRjVEWFer5gbPrUsU_cIuoG1CWMeY3XasGTBbRiRJW0J9K5CiAUK",
-    "news_item_snippet": "La cantante estadounidense se vio sorprendida cuando una gran multitud se expres\u00f3 en su contra durante la final del campeonato de f\u00fatbol americano - LA&nbsp;...",
-    "news_item_url": "https://www.lanacion.com.ar/espectaculos/por-que-abuchearon-a-taylor-swift-en-el-super-bowl-2025-nid10022025/",
+    "title": "Argentina sub-20  Colombia sub-20",
+    "pubDate": "Mon, 10 Feb 2025 19:00:00 -0300",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTrsMKeDSyWnVDpyi2kDKD3JxBivBxqyRjmmH2Oh0Fgo-Jezk6kjamMgyVfZk3iaGRScqKzhHiB",
+    "news_item_snippet": "Con gol de Ian Subiabre, la Albiceleste derrot\u00f3 1-0 a Colombia y asegur\u00f3 su lugar en la Copa del Mundo.",
+    "news_item_url": "https://www.ole.com.ar/seleccion/hora-juega-seleccion-argentina-colombia-sudamericano-sub-20-hora-tv-formaciones_0_lwaEXJs84C.html",
     "picture_source": "ESPN",
     "approx_traffic": "100,000+"
-  },
-  {
-    "country": "Argentina",
-    "title": "Sevilla - Barcelona",
-    "pubDate": "Sun, 09 Feb 2025 17:00:00 -0300",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTdLNE--0gfJTDHaAn8MEYyVlBfSq1erm1T6P4YOC-vaIEobY4ebjtWx82WU8rhdQUTYC128VZ9",
-    "news_item_snippet": "El FC Barcelona ha tenido que jugar a un gran nivel para ganar al Sevilla en el S\u00e1nchez Pizju\u00e1n (1-4) y ha apretado al m\u00e1ximo la lucha por la Liga. Resumen.",
-    "news_item_url": "https://www.rtve.es/deportes/20250209/sevilla-barcelona-directo-resumen-resultado-liga-jornada-23/16438360.shtml",
-    "picture_source": "El Mundo",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "Argentina",
-    "title": "Talleres  Lan\u00fas",
-    "pubDate": "Sun, 09 Feb 2025 22:00:00 -0300",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSamHRaJ3-yXNArA2KEN8blTTgP5hO0ll7mNcNFXbXyWRSHj1eBv4c7tkaAEWLjqh_qd9ERlRHq",
-    "news_item_snippet": "En el marco de la 4\u00b0 Fecha del Torneo Betano Apertura 2025, el Matador perdi\u00f3 1 a 0 ante Lan\u00fas. Walter Bou marc\u00f3 la \u00fanica conquista del cotejo.",
-    "news_item_url": "https://www.clubtalleres.com.ar/talleres-cayo-ante-lanus/",
-    "picture_source": "TyC Sports",
-    "approx_traffic": "50,000+"
   },
   {
     "country": "Australia",
     "title": "Kendrick Lamar",
     "pubDate": "Mon, 10 Feb 2025 07:00:00 +1100",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQ6u_iX0g7-cLlXihKDV27CFR-FATx7LSfHrc9Hx5zfSq6myqTwVioib6I3dfSQrpZvyHpWvCU-",
-    "news_item_snippet": "Another individual, aged 23, was arrested for criminal trespassing during NFL game in New Orleans.",
-    "news_item_url": "https://www.theguardian.com/us-news/2025/feb/10/super-bowl-sudan-gaza-protest",
-    "picture_source": "BBC News",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQoJWXE39P_pdWzTz310785ckahq6gw6pTxv9SCkB7M64nvLl5Fy03F67F_uft9ovKGORP60nje",
+    "news_item_snippet": "After Lamar&#39;s show, a reminder of where we are now in the big rap feud, and exactly how we got here.",
+    "news_item_url": "https://www.bbc.com/news/articles/cy8xmkmg207o",
+    "picture_source": "The New Yorker",
     "approx_traffic": "200,000+"
-  },
-  {
-    "country": "Australia",
-    "title": "NFL",
-    "pubDate": "Mon, 10 Feb 2025 08:00:00 +1100",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRss3oNlMNXpTUGHT3vpJQo07DWuO0mzd56hEre-iXHsQPenzmUHxNh07FdWEDyj6Js9FBnUVFF",
-    "news_item_snippet": "The Super Bowl is over. Now the malaise of no football kicks off.",
-    "news_item_url": "https://www.washingtonpost.com/opinions/2025/02/10/super-bowl-nfl-season/",
-    "picture_source": "The Washington Post",
-    "approx_traffic": "100,000+"
   },
   {
     "country": "Australia",
     "title": "TPG",
     "pubDate": "Mon, 10 Feb 2025 18:00:00 +1100",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRt8ZtB4nSUYpb9iijRdmmGobxZzF7F2yDbsIvb6IWc3FR6gBbrbsTf1Le4T_vFql0voSv0sspK",
-    "news_item_snippet": "A major internet provider has been hit with an outage, leaving thousands of business and home customers without broadband services for several hours.",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTdbd2F2hDYtVXk69fBWNscvka8uizvtWu5SeAfMWV9bW8d6_K-tV-Gc_zFIhEc5gFb0zAtXC0F",
+    "news_item_snippet": "TPG has apologised after thousands of users lost internet access when a technical issue disrupted the provider&#39;s fixed broadband services just after 5pm on&nbsp;...",
     "news_item_url": "https://www.theaustralian.com.au/breaking-news/tpg-fixed-broadband-services-for-consumer-and-business-customers-hit-with-an-outage/news-story/c4cf5fc0932e847ca74baf38e044a6b7",
-    "picture_source": "The Guardian",
+    "picture_source": "iTnews",
     "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Australia",
+    "title": "Who won the Super Bowl 2025",
+    "pubDate": "Mon, 10 Feb 2025 11:00:00 +1100",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTfSKgDUordZigPjU2g29iEFuHRRpGliwx5US_jr-IV28dHfKRe3APPIdWUF0BKkOfwJa80iYJc",
+    "news_item_snippet": "The Eagles dominated their Super Bowl rematch against the Kansas City Chiefs, leading by more than 20 for most of the game.",
+    "news_item_url": "https://www.newscentermaine.com/article/sports/nfl/superbowl/who-won-the-super-bowl-2025/507-bfc76a51-5336-4f4c-94d5-2a52fd853b33",
+    "picture_source": "Fox Sports",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Brazil",
+    "title": "S\u00e3o Paulo x Inter de Limeira",
+    "pubDate": "Mon, 10 Feb 2025 18:00:00 -0500",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRgNw8xMcLMl1RDDFmqxrEocCpFa3a6Wk3IhMnBYUgC0Ot1-tPawHBwHhqGu4PafAwo03fYS9NO",
+    "news_item_snippet": "ACABA O JOGO! S\u00e3o Paulo n\u00e3o consegue furar a retranca da Inter de Limeira, que jogou com um homem a menos o segundo tempo inteiro, e partida termina&nbsp;...",
+    "news_item_url": "https://www.estadao.com.br/esportes/futebol/ao-vivo-sao-paulo-x-inter-de-limeira-campeonato-paulista-2025-futebol/",
+    "picture_source": "UOL",
+    "approx_traffic": "500,000+"
+  },
+  {
+    "country": "Brazil",
+    "title": "Lexa",
+    "pubDate": "Mon, 10 Feb 2025 13:00:00 -0500",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTS-jyFJKjh5n9SOjcNaA2Z6ubKJTalIBzvQyEfXcrpijlJ1SdKpKEqKZjFJJJB_fMaQVmXVe_0",
+    "news_item_snippet": "Artista, que estava gr\u00e1vida de 6 meses, ficou internada em uma Unidade Semi-Intensiva com quadro de pr\u00e9-ecl\u00e2mpsia precoce no Hospital e Maternidade Santa&nbsp;...",
+    "news_item_url": "https://g1.globo.com/sp/sao-paulo/noticia/2025/02/10/lexa-relata-nas-redes-sociais-que-filha-sofia-morreu-tres-dias-apos-o-parto-em-sp.ghtml",
+    "picture_source": "Ag\u00eancia Brasil",
+    "approx_traffic": "100,000+"
   },
   {
     "country": "Brazil",
@@ -311,12 +301,32 @@
   },
   {
     "country": "Brazil",
-    "title": "Lexa",
+    "title": "Paraguai Sub-20 x Brasil Sub-20",
+    "pubDate": "Mon, 10 Feb 2025 15:00:00 -0500",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcR9Me3qgDbfX1ON9Jc5I-BBrEsYIXZtHtNx09ak6CdxF1LpV6MYGO5OK8ABqAiMs0YnWeweEVqW",
+    "news_item_snippet": "Saiba tudo sobre o jogo Paraguai 1 x 3 Brasil (Sul-Americano Sub-20, Rodada 3). Veja no ge os melhores momentos e o placar do jogo, gols e lances da&nbsp;...",
+    "news_item_url": "https://ge.globo.com/futebol/sul-americano-sub-20/jogo/10-02-2025/paraguai-junior-brasil-junior.ghtml",
+    "picture_source": "CNN Brasil",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Brazil",
+    "title": "Lakers",
+    "pubDate": "Mon, 10 Feb 2025 21:00:00 -0500",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcT2j74losDaSqNoDXoEbscv-uJRZ0TgV5vWoOkbfuhf2ruJ7OW3U3zxIEj4prLsIlV1C3UiubqO",
+    "news_item_snippet": "O frissom aumentava a cada posse de bola. A cada a\u00e7\u00e3o de Luka na Crypto.com Arena a torcida se ouri\u00e7ava com a presen\u00e7a do novo astro em Los Angeles.",
+    "news_item_url": "https://www.espn.com.br/nba/artigo/_/id/14783267/nba-doncic-estreia-ovacionado-pela-torcida-lakers-atropelam-jazz",
+    "picture_source": "CNN Brasil",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Brazil",
+    "title": "Champions League",
     "pubDate": "Mon, 10 Feb 2025 13:00:00 -0500",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRTYZqvEzE8Lnr2u39dbI--PU1QyGJIaOu6nxiDt4_mdb3K_Uen4KLK5mfcTgSfKrBL808tExwX",
-    "news_item_snippet": "A cantora Lexa anunciou, na tarde desta segunda-feira (10), a morte de sua filha Sofia. A menina nasceu no \u00faltimo dia 2, mas faleceu no dia 5.",
-    "news_item_url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/filha-de-lexa-morre-dias-apos-o-parto/",
-    "picture_source": "G1",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQp8_5ggZgliikDSI5hzC-ZcbGStioSIPrSFdSnEpItiiKxq5XSWhkDM82RFIhwk-qEBzyhGBfv",
+    "news_item_snippet": "Nesta ter\u00e7a-feira (11), Manchester City e Real Madrid duelam \u00e0s 17h, pelo jogo de ida dos play-offs da Champions League.",
+    "news_item_url": "https://www.espn.com.br/futebol/champions-league/artigo/_/id/14780554/manchester-city-real-madrid-onde-assistir-ao-vivo-horario-palpites-provaveis-escalacoes-champions-league",
+    "picture_source": "globoesporte.com",
     "approx_traffic": "50,000+"
   },
   {
@@ -327,66 +337,6 @@
     "news_item_snippet": "Guilherme, atacante do Santos, \u00e9 o principal goleador da atual edi\u00e7\u00e3o do Campeonato Paulista.",
     "news_item_url": "https://www.cnnbrasil.com.br/esportes/futebol/campeonato-paulista/paulistao-2025-veja-a-lista-de-artilheiros-da-competicao/",
     "picture_source": "CNN Brasil",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Canada",
-    "title": "Super Bowl",
-    "pubDate": "Sun, 09 Feb 2025 09:00:00 -0500",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQ6YCeimM8VvdZJugxXa09fwfy6si4OBCLc3eFwCnQI7A-aFNxqWqp8F9WKMw_Z2xGDn7GlY94T",
-    "news_item_snippet": "Les Eagles de Philadelphie ont largement domin\u00e9 les Chiefs de Kansas City, dimanche, en route vers un triomphe sans \u00e9quivoque de 40-22 au Super Bowl LIX.",
-    "news_item_url": "https://ici.radio-canada.ca/sports/2139161/football-super-bowl-chiefs-kansas-city-eagles-philadelphie",
-    "picture_source": "Forbes",
-    "approx_traffic": "1,000,000+"
-  },
-  {
-    "country": "Canada",
-    "title": "Super Bowl 2025",
-    "pubDate": "Sun, 09 Feb 2025 10:00:00 -0500",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSwSbjuhy7IlQuUkDiMGFvK3mcgbN-DqnIe0FnrJu0TK4p47MLepJUbrDWfL3gw1uAfQyRYELUg",
-    "news_item_snippet": "Most of the commercials airing during this year&#39;s Super Bowl are going for laughs, with advertisers betting that America could use a brief diversion.",
-    "news_item_url": "https://www.ctvnews.ca/sports/article/super-bowl-commercials-rely-on-comedy-and-nostalgia-to-avoid-potential-missteps/",
-    "picture_source": "CTV News",
-    "approx_traffic": "1,000,000+"
-  },
-  {
-    "country": "Canada",
-    "title": "NFL",
-    "pubDate": "Sun, 09 Feb 2025 14:00:00 -0500",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRss3oNlMNXpTUGHT3vpJQo07DWuO0mzd56hEre-iXHsQPenzmUHxNh07FdWEDyj6Js9FBnUVFF",
-    "news_item_snippet": "The Super Bowl is over. Now the malaise of no football kicks off.",
-    "news_item_url": "https://www.washingtonpost.com/opinions/2025/02/10/super-bowl-nfl-season/",
-    "picture_source": "The Washington Post",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "Canada",
-    "title": "Taylor Swift",
-    "pubDate": "Sun, 09 Feb 2025 19:00:00 -0500",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTp1qlgrgJ7ohJw6fhRjQviMY1jDeCRfSpk5K67qiw2URE-VPdL8LMpmHge-u6k5lV5Tf76rFwk",
-    "news_item_snippet": "Le pr\u00e9sident am\u00e9ricain \u00e9tait aussi venu assister \u2014 une premi\u00e8re \u2014 \u00e0 la finale du championnat de football am\u00e9ricain.",
-    "news_item_url": "https://www.ledevoir.com/sports/840604/trump-moque-taylor-swift-huee-lors-super-bowl",
-    "picture_source": "National Post",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "Canada",
-    "title": "Travis Kelce",
-    "pubDate": "Sun, 09 Feb 2025 17:00:00 -0500",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQFqLp2B4EEGnd8hGdPOEZwo4uXK3ZdFszxV0x_XNClayP_M_NDod_Ogg5PNglT7HY1qVVW9R4c",
-    "news_item_snippet": "Kansas City Chiefs stars Travis Kelce and Patrick Mahomes are reflecting on their team&#39;s Super Bowl LIX loss and Kelce&#39;s future.",
-    "news_item_url": "https://abcnews.go.com/GMA/Culture/travis-kelce-patrick-mahomes-reflect-super-bowl-loss/story?id=118658601",
-    "picture_source": "Sportsnet.ca",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Saudi Arabia",
-    "title": "\u062d\u0633\u0627\u0628 \u0627\u0644\u0645\u0648\u0627\u0637\u0646",
-    "pubDate": "Sun, 09 Feb 2025 15:00:00 +0300",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTWWABYEVCnTCMzYWl8q1TejuMY6ztgdBS0e2CGoNAPgnkPRd6QNZzVpOWS7r8ic_0KKHs5ZCn4",
-    "news_item_snippet": "\u0623\u0639\u0644\u0646 \u062d\u0633\u0627\u0628 \u0627\u0644\u0645\u0648\u0627\u0637\u0646\u060c \u0628\u062f\u0621 \u0625\u064a\u062f\u0627\u0639 \u0627\u0644\u062f\u0639\u0645 \u0627\u0644\u0645\u062e\u0635\u0635 \u0644\u0634\u0647\u0631 \u0641\u0628\u0631\u0627\u064a\u0631 \u0634\u0627\u0645\u0644\u064b\u0627 \u0627\u0644\u062f\u0639\u0645 \u0627\u0644\u0625\u0636\u0627\u0641\u064a\u060c \u0644\u0644\u0645\u0633\u062a\u0641\u064a\u062f\u064a\u0646 \u0627\u0644\u0645\u0643\u062a\u0645\u0644\u0629 \u0637\u0644\u0628\u0627\u062a\u0647\u0645 \u0641\u064a \u0628\u0631\u0646\u0627\u0645\u062c \u062d\u0633\u0627\u0628 \u0627\u0644\u0645\u0648\u0627\u0637\u0646\u060c \u0648\u0633\u064a\u0633\u062a\u0645\u0631 \u062d\u062a\u0649 \u0646\u0647\u0627\u064a\u0629 \u0627\u0644\u064a\u0648\u0645&nbsp;...",
-    "news_item_url": "https://www.alyaum.com/articles/6578466/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D8%A7%D9%84%D9%85%D9%85%D9%84%D9%83%D8%A9-%D8%A7%D9%84%D9%8A%D9%88%D9%85/%D8%AD%D8%B3%D8%A7%D8%A8-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%B7%D9%86-%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84-%D8%A5%D9%8A%D8%AF%D8%A7%D8%B9-%D8%AF%D8%B9%D9%85-%D8%B4%D9%87%D8%B1-%D9%81%D8%A8%D8%B1%D8%A7%D9%8A%D8%B1-%D8%B4%D8%A7%D9%85%D9%84%D8%A7-%D8%A7%D9%84%D8%A5%D8%B6%D8%A7%D9%81%D9%8A",
-    "picture_source": "\u0633\u0628\u0642",
     "approx_traffic": "50,000+"
   },
   {
@@ -403,9 +353,9 @@
     "country": "France",
     "title": "Kendrick Lamar",
     "pubDate": "Mon, 10 Feb 2025 01:00:00 +0100",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQmLcjkqv7-fpT_K0uzac7MyEm0GlDqpFKbeSB5fiC983q8wNN2KTevERRJeL8GLRE59n85E1Er",
-    "news_item_snippet": "Le week-end dernier, Kendrick Lamar avait triomph\u00e9 aux Grammys, avec son titre &quot;Not Like Us&quot; dans lequel il s&#39;en prend au rappeur Drake.",
-    "news_item_url": "https://www.francetvinfo.fr/culture/musique/super-bowl-kendrick-lamar-et-le-hip-hop-a-l-honneur-taylor-swift-sifflee-et-trump-en-tribune_7066247.html",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRk4_mYg6G7nzHy8iYgMsl4-nYlxfy74Vq5oPavlw739N2sy3Y4io1N29kHEPP74tH5Mi17GwAE",
+    "news_item_snippet": "Apr\u00e8s l&#39;annonce d&#39;une tourn\u00e9e en Am\u00e9rique du Nord, le duo a ajout\u00e9 une tripot\u00e9e de nouvelles dates, dont un passage \u00e0 Paris le 15 juillet.",
+    "news_item_url": "https://www.lesinrocks.com/musique/concert/kendrick-lamar-et-sza-seront-cet-ete-en-concert-a-paris-650994-10-02-2025/",
     "picture_source": "Paris La D\u00e9fense Arena",
     "approx_traffic": "50,000+"
   },
@@ -413,41 +363,21 @@
     "country": "France",
     "title": "Super Bowl 2025",
     "pubDate": "Sun, 09 Feb 2025 09:00:00 +0100",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcS19JMqZKCgkaN7tHlpRWxxVckaSj0J6CpOa_XxoIrzh6rqEK-3T5KE0gan4IUm0fTBvHwh7T2R",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcR7kBMaquXuipXneX3flVDECP9zZ0uFh1m1zH4ow6t4UQzTwsdFBYZiePsfo6WmZquWUc-DpCGA",
     "news_item_snippet": "On vous explique le message cach\u00e9 derri\u00e8re la tenue du rappeur Kendrick Lamar qui se produisait lors de la c\u00e9l\u00e8bre mi-temps du Super Bowl.",
     "news_item_url": "https://www.gqmagazine.fr/article/kendrick-lamar-mode-homme-super-bowl-2025",
-    "picture_source": "BFMTV",
+    "picture_source": "Les Inrocks",
     "approx_traffic": "200,000+"
   },
   {
     "country": "France",
     "title": "Vendee Globe",
     "pubDate": "Sun, 09 Feb 2025 08:00:00 +0100",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcR2hIoPhAFpfA3-W5bwayOQ9wbIuCA-KrtgpQlrSstJf0HJORX5PbXA9mJBiuhvQO31zNFmWW05",
-    "news_item_snippet": "Ce dimanche 9 f\u00e9vrier a marqu\u00e9 un grand jour dans ce Vend\u00e9e Globe 2024-2025 puisque pas moins de quatre skippeurs sont arriv\u00e9s aux Sables-d&#39;Olonne.",
-    "news_item_url": "https://www.ouest-france.fr/vendee-globe/direct/direct-vendee-globe-suivez-les-arrivees-de-dorange-shiraishi-et-duc-aux-sables-dolonne-en-live-9347ca00-a69c-4c3b-be8f-6d83bffa32c1",
-    "picture_source": "Vend\u00e9e Globe",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcR0siq4WAUYd6vEcg_4fi_HSuWJlslRADjD8bXW495fZdlztBebUBXcWVAgwohPxPqOD1ABkOid",
+    "news_item_snippet": "Violette Dorange a re\u00e7u un accueil inoubliable en remontant le chenal des Sables-d&#39;Olonne, \u00e0 la hauteur de la renomm\u00e9e qu&#39;elle a gagn\u00e9e pendant tout ce&nbsp;...",
+    "news_item_url": "https://voilesetvoiliers.ouest-france.fr/course-au-large/vendee-globe/en-images-vendee-globe-phenomenal-violette-dorange-accueillie-comme-les-premiers-sur-le-chenal-d490990e-e6ed-11ef-9afb-41e1b47a1356",
+    "picture_source": "Ouest-France",
     "approx_traffic": "100,000+"
-  },
-  {
-    "country": "France",
-    "title": "Jack Lang",
-    "pubDate": "Sun, 09 Feb 2025 02:00:00 +0100",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRwxxUMd8E99HY26QbQGIA4lUHoeS65tjlKLzckbXwifkceXX-_-5-W1v6xdYK4mpCg4W918v5c",
-    "news_item_snippet": "INFO LE FIGARO - L&#39;ancien ministre de la Culture, pr\u00e9sident de l&#39;Institut du monde arabe, a \u00e9t\u00e9 jet\u00e9 au sol pr\u00e8s de l&#39;Op\u00e9ra par des militants qui hurlaient&nbsp;...",
-    "news_item_url": "https://www.lefigaro.fr/faits-divers/bouscule-lors-d-un-rassemblement-a-paris-jack-lang-transporte-a-l-hopital-20250208",
-    "picture_source": "Marianne",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "France",
-    "title": "Mistral AI",
-    "pubDate": "Sun, 09 Feb 2025 22:00:00 +0100",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSLF0RMixA3-xx_0LwsM3M0Hcpdo7Mtw8wzWXEUlRyr6uPKKTRKTAKol0iEI7YTyWddr_n0v6Tz",
-    "news_item_snippet": "Intelligence artificielle : Les abonn\u00e9s aux forfaits mobiles de Free peuvent activer une option dans leur espace client pour s&#39;abonner gratuitement au Chat&nbsp;...",
-    "news_item_url": "https://www.lemondeinformatique.fr/actualites/lire-free-mobile-accueille-chat-pro-de-mistral-ai-dans-ses-forfaits-96006.html",
-    "picture_source": "Maddyness",
-    "approx_traffic": "50,000+"
   },
   {
     "country": "Germany",
@@ -461,43 +391,23 @@
   },
   {
     "country": "Germany",
-    "title": "Super Bowl 2025",
-    "pubDate": "Sun, 09 Feb 2025 15:00:00 +0100",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSPDUo2SryLQ8gLbXHW_TKTpB0TMi5r93eACoBQXp59q8-mHuipeEURPDCuyhF_PT8dTCt4Oqv0",
-    "news_item_snippet": "Beim Super Bowl zwischen den Kansas City Chiefs und den Philadelphia Eagles (22:40) gab es auf den R\u00e4ngen ein Schaulaufen der Stars. ran zeigt,&nbsp;...",
-    "news_item_url": "https://www.ran.de/sports/american-football/nfl/galerien/super-bowl2025-nicht-nur-taylor-swift-und-donald-trump-die-stars-beim-nfl-endspiel-496381",
-    "picture_source": "RAN",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "Germany",
     "title": "TV-Duell Scholz Merz",
     "pubDate": "Sun, 09 Feb 2025 16:00:00 +0100",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTmQB-BIeM5AxZfJwyCdvJzTElUxiPSAJ-uLggsrM2JUQbZx_yAgIihydf102hBqSAoFu3ctrDi",
-    "news_item_snippet": "Das Duell zwischen Olaf Scholz und Friedrich Merz war das TV-Ereignis des Wochenendes. Mit 12,26 Millionen Zuschauenden im Ersten und im ZDF stellte es alle&nbsp;...",
-    "news_item_url": "https://meedia.de/news/beitrag/18661-mehr-als-12-millionen-sahen-tv-duell-scholz-vs-merz-mehr-als-die-trielle-2021.html",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQyNq8IR1i6sMVBjsnRtJQKWnSeMPgfmXab1zGUxmNzl2q7h0m-Ne3xlNRG6cM75p-kY9KMhZ_R",
+    "news_item_snippet": "Mehr als 40 Prozent des TV-Publikums schalteten das Duell zwischen Scholz und Merz ein, rund zw\u00f6lf Millionen Menschen. Damit war es deutlich erfolgreicher&nbsp;...",
+    "news_item_url": "https://www.spiegel.de/kultur/tv/tv-duell-zwischen-scholz-und-merz-hoehere-einschaltquoten-als-2021-und-als-das-dschungelcamp-a-9f9e485b-5da6-418d-9844-ca1ac2361ae3",
     "picture_source": "tagesschau.de",
     "approx_traffic": "200,000+"
   },
   {
     "country": "Germany",
-    "title": "Super Bowl",
-    "pubDate": "Sun, 09 Feb 2025 15:00:00 +0100",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRuM2bdrlphjS7F5ShofKss38m0xtuLQM-X6ssTdG7C8EkLPrwlcShLV8a9NqFI22PFESbSsLz4",
-    "news_item_snippet": "\u00dcber die gesamte Saison schafften es die Kansas City Chiefs ihre Probleme zu kaschieren. Nicht aber im Super Bowl. Das Debakel wirft Fragen auf.",
-    "news_item_url": "https://www.ran.de/sports/american-football/nfl/news/super-bowl2025-die-pleite-der-kansas-city-chiefs-ist-auch-in-der-hoehe-verdient-ein-kommentar-496358",
-    "picture_source": "kicker",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "Germany",
-    "title": "Kendrick Lamar",
-    "pubDate": "Sun, 09 Feb 2025 17:00:00 +0100",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQlgAQIc3D2jNLJ6rWy6QJzDY3BbbyhbqFTHCAYwVFoVdfFdc5qdUwVqkAMKWmVK8JCbKRAAdhM",
-    "news_item_snippet": "Die Halftime Show von Kendrick Lamar beim Super Bowl 59 sorgt f\u00fcr Gespr\u00e4chsstoff. Auch ein Tag danach, denn in dem Auftritt des US-Rappers steckte mehr,&nbsp;...",
-    "news_item_url": "https://www.ran.de/sports/american-football/nfl/news/super-bowl-halftime-show2025-das-steckt-hinter-kendrick-lamars-auftritt-496417",
-    "picture_source": "DER SPIEGEL",
-    "approx_traffic": "100,000+"
+    "title": "Friedrich Merz",
+    "pubDate": "Sun, 09 Feb 2025 22:00:00 +0100",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSr8d2gEKmrnn09pvHMSsS5MlWLw2k4z9MLXdcXBQB3CZPDtaCAQJ64Q3kz8kNL9vABC_PvQBog",
+    "news_item_snippet": "Uwe Kalkowski, &quot;Der Kaffeehaussitzer&quot;, kennt sich in der Buchblog-Szene aus und rezensiert selbst B\u00fccher. Eines davon hat er nun dem CDU-Kanzlerkandidaten&nbsp;...",
+    "news_item_url": "https://www.boersenblatt.net/home/ein-buch-fuer-friedrich-merz-361271",
+    "picture_source": "b\u00f6rsenblatt",
+    "approx_traffic": "50,000+"
   },
   {
     "country": "Germany",
@@ -532,16 +442,6 @@
   {
     "country": "Germany",
     "title": "Santorini",
-    "pubDate": "Mon, 03 Feb 2025 14:00:00 +0100",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQJ2XCHUjPyYvSDw59V2tiaYct_nKMDVAIiqu18KJeEqTJKpW3d-TlfruHT5cnLeJl-XUUJdVPm",
-    "news_item_snippet": "Bedrohliche Aktivit\u00e4t: Die griechische Insel Santorini wird seit zwei Wochen von tausenden dicht aufeinanderfolgenden Erdbeben ersch\u00fcttert, Menschen.",
-    "news_item_url": "https://www.scinexx.de/news/geowissen/santorini-was-steckt-hinter-den-erdbeben/",
-    "picture_source": "tagesschau.de",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "Germany",
-    "title": "Santorini",
     "pubDate": "Sun, 02 Feb 2025 19:00:00 +0100",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSKPEnwRf5DAxNxACsAA3icLkWFi38upBcT4NTdlWVmmqWxvAZ5mKf9s_fWH2ClpqkDttG1KfiS",
     "news_item_snippet": "F\u00e4hren und Fl\u00fcge sind ausgebucht, Touristen und Anwohner wollen die griechische Urlaubsinsel Santorini verlassen: Seit Samstag wurden im griechischen&nbsp;...",
@@ -550,20 +450,70 @@
     "approx_traffic": "50,000+"
   },
   {
+    "country": "Germany",
+    "title": "Horst K\u00f6hler",
+    "pubDate": "Sat, 01 Feb 2025 11:00:00 +0100",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTq9MJ_erymCkN9sKDZ3ZFR281PbYpiSrgpKHjS-Eqqg6aTy9o-u6KEjxI9Hhl9ru0QelSxpZWi",
+    "news_item_snippet": "Der fr\u00fchere Bundespr\u00e4sident Horst K\u00f6hler ist im Alter von 81 Jahren gestorben. Hessische Politiker und Vertreter der Kirchen w\u00fcrdigten ihn als &quot;vision\u00e4ren&nbsp;...",
+    "news_item_url": "https://www.hessenschau.de/politik/hessens-politiker-wuerdigen-horst-koehler-als-visionaeren-staatsmann-v1,hort-koehler-gestorben-100.html",
+    "picture_source": "tagesschau.de",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "Germany",
+    "title": "Bundestag",
+    "pubDate": "Thu, 30 Jan 2025 14:00:00 +0100",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcT08BZhu8v7eBXmulBmB9L3Sq8tBwY9iJVYqooYhTwFCVttLLJhdV09qWTJiSMRDco58sI-AdnT",
+    "news_item_snippet": "Migrationsgesetz im <b>Bundestag</b> abgelehnt Erleichterung bei SPD und Linken in Hessen. Der umstrittene Gesetzentwurf der Unionsfraktion f\u00fcr eine h\u00e4rtere Migrationspolitik hat im <b>Bundestag</b> keine Mehrheit bekommen - trotz angek\u00fcndigter Unterst\u00fctzung durch die&nbsp;...",
+    "news_item_url": "https://www.hessenschau.de/politik/migrationsgesetz-im-bundestag-abgelehnt-erleichterung-bei-spd-und-linken-in-hessen-v1,reax-migration-bundestag-100.html",
+    "picture_source": "tagesschau.de",
+    "approx_traffic": "100,000+"
+  },
+  {
     "country": "Italy",
     "title": "Alex Benedetti",
     "pubDate": "Mon, 10 Feb 2025 18:00:00 +0100",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTaKzgKK8Vco-uCGkVSUSemkv4OHTb2bQb7D2TKCVBjzU4Pnzx4YLIWrYLjKGJdTbYxtD5DMAiK",
-    "news_item_snippet": "Il mondo della musica sotto choc per la scomparsa di Alex Benedetti, direttore di Virgin Radio,, l&#39;emittente rock del Gruppo RadioMediaset, e volto noto del&nbsp;...",
-    "news_item_url": "https://tg24.sky.it/cronaca/2025/02/10/alex-benedetti-morto-virgin-radio",
-    "picture_source": "Il Sole 24 ORE",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTL10aoRz0JHHlAsfLF-4SLJCHU1PA3IyHHb-LtkTLBCkYVesSb8U9JeuTO0ajm0U6RFzLRbtAA",
+    "news_item_snippet": "Benedetti lavorava a Virgin Radio da quasi vent&#39;anni: aveva iniziato come programmatore musicale e ne era diventato direttore sei anni fa, nel 2019. Aveva&nbsp;...",
+    "news_item_url": "https://www.ilpost.it/2025/02/10/alex-benedetto-morto-virgin-radio/",
+    "picture_source": "Sky Tg24",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "Italy",
+    "title": "La bambina con la valigia",
+    "pubDate": "Mon, 10 Feb 2025 13:00:00 +0100",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcT-Fq0SF7Yg3JFocAxqXFonMu783HOaR01vc36APsLXXByru8cFGTlN21rycANxogmQt2tzKssK",
+    "news_item_snippet": "La bambina con la valigia - Un film di Gianluca Mazzella (II). LA vera storia di Egea Haffner. Con Claudia Vismara, Sara Lazzaro, Sandra Ceccarelli,&nbsp;...",
+    "news_item_url": "https://www.mymovies.it/film/2025/la-bambina-con-la-valigia/",
+    "picture_source": "La Stampa",
     "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Mexico",
+    "title": "ChatGPT",
+    "pubDate": "Mon, 10 Feb 2025 17:00:00 -0600",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcR1dZFbczhi20G_hkHsG8lDYAQ-9GS6hotYUc8JaJgzmMtbRK9viZWux9xrdNsvlq1Z2eK_NRi5",
+    "news_item_snippet": "La batalla entre Elon Musk y Sam Altman por el futuro de la empresa l\u00edder en inteligencia artificial (IA) se intensifica.",
+    "news_item_url": "https://www.bbc.com/mundo/articles/cx2qv1yzn90o",
+    "picture_source": "CNN",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "Mexico",
+    "title": "Maps",
+    "pubDate": "Mon, 10 Feb 2025 10:00:00 -0600",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQ0zogO3XgYMZcGc4W-pN7-YbU_3AD-A6D5iWDazKdFzCN5RGOC8_0sHGoKvVIEDDrEKLuDOc4U",
+    "news_item_snippet": "Un d\u00eda antes, el presidente Trump proclam\u00f3 al 9 de febrero como el D\u00eda del Golfo de Am\u00e9rica.",
+    "news_item_url": "https://www.infobae.com/mexico/2025/02/11/google-maps-ya-cambio-el-nombre-del-golfo-de-mexico-por-el-de-golfo-de-america/",
+    "picture_source": "El Economista",
+    "approx_traffic": "200,000+"
   },
   {
     "country": "Mexico",
     "title": "Gmail",
     "pubDate": "Mon, 10 Feb 2025 12:00:00 -0600",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTp5TSD_1qF-vd4PyAIpsMKI7pFTGzJbHJ3-twoAnDQ_MLXRBOGLartHUcwpcQpAgkj4XnhYWKs",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRmHkq5Vz5qgvd6LOPCo3aiu8ajhoYq5OtnK2U7omPV9DlDWXhUQeam1LbHaKwUL4H4MJFB5QB7",
     "news_item_snippet": "La empresa env\u00eda un correo de advertencia a quienes est\u00e1n en riesgo de que sus cuenta sea desactivada.",
     "news_item_url": "https://www.eltiempo.com/tecnosfera/apps/estas-son-las-cuentas-de-gmail-que-google-eliminara-en-2025-por-no-cumplir-sencillo-requisito-3425519",
     "picture_source": "ElTiempo.com",
@@ -573,20 +523,50 @@
     "country": "Mexico",
     "title": "WhatsApp",
     "pubDate": "Mon, 10 Feb 2025 12:00:00 -0600",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTQczlnEqmdiIn6n37b3Tv1KtYgfn4Fv3iJEtxV4XzDwUdNEVX1Q9421EaSK8PVqX7NNaqpd1HQ",
-    "news_item_snippet": "La app m\u00e1s instalada en Espa\u00f1a da dos formas para eliminar un mensaje cuando el usuario desea eliminarlo en un chat individual o grupal.",
-    "news_item_url": "https://www.elespanol.com/elandroidelibre/tutoriales/20250210/borra-whatsapp-mensajes-proceso-paso-recibe-orden-ejecuta/923157999_0.html",
-    "picture_source": "ElTiempo.com",
-    "approx_traffic": "100,000+"
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRXIEGl1WyJqofOpafcMCWkz6DGoI-eZc-ERgGa27V_7xzx1GFwuXeLHL0EK75J5vicueuhG16H",
+    "news_item_snippet": "La herramienta admite operaciones avanzadas, como c\u00e1lculos con par\u00e9ntesis, exponentes y porcentajes.",
+    "news_item_url": "https://www.infobae.com/tecno/2025/02/10/como-usar-la-calculadora-secreta-de-whatsapp-y-realizar-cualquier-operacion/",
+    "picture_source": "Exc\u00e9lsior",
+    "approx_traffic": "200,000+"
   },
   {
     "country": "Mexico",
     "title": "SAT",
     "pubDate": "Mon, 10 Feb 2025 12:00:00 -0600",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQDhh7vZC3M3KGrNySyXaBasEVQOX-LO9iyGWoFakGuHLDvcw2_d1pZS8UMD0OYNdQCSeVsSepR",
-    "news_item_snippet": "La empresa Protective Materials Technology, SA de CV, proveedora de la Secretar\u00eda de la Defensa Nacional (Defensa) que estuvo involucrada en la venta de un&nbsp;...",
-    "news_item_url": "https://www.eluniversal.com.mx/opinion/mario-maldonado/empresas-en-lista-negra-del-sat-hacen-negocios-con-la-defensa-y-la-4t/",
-    "picture_source": "Informador.mx",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcROTtSCvS1PaSWy37dtCDV_dVTCo3xnaUUOE9oeMuRhfBHy-OIVa6Z5Fh8RCk6x9gSebJjsxdZ7",
+    "news_item_snippet": "Este documento es esencial para diversos tr\u00e1mites y procedimientos administrativos, ya que contiene datos como el Registro Federal de Contribuyentes (RFC), el&nbsp;...",
+    "news_item_url": "https://www.miskuentas.com/noticias/uncategorized/sat-paso-a-paso-para-descargar-la-constancia-de-situacion-fiscal/",
+    "picture_source": "Infobae.com",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "Mexico",
+    "title": "Chivas vs Tijuana",
+    "pubDate": "Mon, 10 Feb 2025 19:00:00 -0600",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcThNupQ4NedxABFPU67v-1EuZUtslU-eFsEgN6bgFJ9PeBwG0yqRCLsoEgQRov8yRwzl1mndAFl",
+    "news_item_snippet": "Javier Chicharito H\u00e9rnandez no disput\u00f3 un solo minuto en la apretada victoria del Reba\u00f1o en el Estadio Akron. | TUDN Liga MX | TUDN.",
+    "news_item_url": "https://www.tudn.com/futbol/liga-mx/chicharito-y-juan-carlos-osorio-protagonizan-caluroso-saludo-en-chivas-vs-tijuana",
+    "picture_source": "TUDN",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Mexico",
+    "title": "Champions League",
+    "pubDate": "Mon, 10 Feb 2025 14:00:00 -0600",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSQz_S-G0VhgTGxUm1U98yCjn9GzQ24x6OtFW4FG0OiE0T8c9k2B9AILLGT7zNpS0trAfMh8Bop",
+    "news_item_snippet": "Brujas \u2013 Atalanta a las 14:45 (en octavos, contra el Lille o Aston Villa). Celtic \u2013 Bayern M\u00fanich a las 17:00 (en octavos, contra el Atl\u00e9tico o Bayer Leverkusen)&nbsp;...",
+    "news_item_url": "https://www.afa.com.ar/e/posts/comienzan-los-play-off-de-la-champions-league",
+    "picture_source": "La Prensa",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Spain",
+    "title": "RCD Mallorca - Osasuna",
+    "pubDate": "Mon, 10 Feb 2025 21:00:00 +0100",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRrXMGkd-csAabFqswhx2bAb4IHbYSmtqvmfyBKEFlLxuZRLsX35YZO_i3NDDlc6AFLIeGqT6wC",
+    "news_item_snippet": "Un gol de Boyomo en el tiempo de descuento le permiti\u00f3 a los rojillos empatar el encuentro.",
+    "news_item_url": "https://www.osasuna.es/news/read/36330/osasuna-tira-de-casta-y-suma-un-punto-en-su-visita-al-mallorca-1-1",
+    "picture_source": "MARCA",
     "approx_traffic": "100,000+"
   },
   {
@@ -594,8 +574,8 @@
     "title": "Bar\u00e7a",
     "pubDate": "Mon, 10 Feb 2025 16:00:00 +0100",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQaoBaIK-ga97fcMMGHdEAxnbQ3MbctkrqIaVf0qzhe1GDdfsma5uqGwJqGjjjv0fk8E_xMism8bw",
-    "news_item_snippet": "Tras dos victorias abultadas ante Maccabi y Valencia y una derrota en el \u00faltimo segundo del partido ante Olympiacos que dej\u00f3 buen sabor de boca a los&nbsp;...",
-    "news_item_url": "https://www.mundodeportivo.com/baloncesto/acb/20250210/1002405040/barca-llega-copa-mejor-momento-temporada.html",
+    "news_item_snippet": "El FC Barcelona explicar\u00e1 este martes (18 h./Bar\u00e7a One) detalles de las obras del Spotify Camp Nou de cara a su pr\u00f3xima reapertura en una sesi\u00f3n informativa&nbsp;...",
+    "news_item_url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20250210/1002405030/barca-confirma-cesped-estara-mitad-abril-cubierta-pasa-verano-2026.html",
     "picture_source": "Mundo Deportivo",
     "approx_traffic": "50,000+"
   },
@@ -611,12 +591,32 @@
   },
   {
     "country": "United Kingdom",
+    "title": "Serena Williams Drake",
+    "pubDate": "Mon, 10 Feb 2025 09:00:00 +0000",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQTlkuQaadvvg6uCegY-eZkV6fd4NHtXK8d1oy9yUnzwo-xKCJTGKVARAumKzbyorWHKEFQOScJ",
+    "news_item_snippet": "Indeed it was! Serena doing the crip walk on stage at the Super Bowl halftime show. Roc Nation/Apple Music.",
+    "news_item_url": "https://www.yahoo.com/entertainment/tell-exactly-why-serena-williams-190450933.html",
+    "picture_source": "The Independent",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United Kingdom",
+    "title": "Doncaster vs Crystal Palace",
+    "pubDate": "Mon, 10 Feb 2025 20:00:00 +0000",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQiX8j1lbWnSZseB9UsPmxzNVeNQFdL3zt6KbZDh46Qh9jB07YU-rL3vxCdrcqvsPHt99-XYn9e",
+    "news_item_snippet": "Goals from Daniel Mu\u00f1oz and Justin Devenny earned Crystal Palace a 2-0 win at Doncaster and a last-16 tie at home to Millwall.",
+    "news_item_url": "https://www.theguardian.com/football/live/2025/feb/10/doncaster-rovers-crystal-palace-fa-cup-fourth-round-live",
+    "picture_source": "The Guardian",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United Kingdom",
     "title": "Tottenham",
     "pubDate": "Mon, 10 Feb 2025 00:00:00 +0000",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQVuXe-HYubVdO6wl9B3KYL38QXny8E-punZ37a2IdbfjSFrRtB42ToAyJqver0Fe-EPwJb2NMc",
-    "news_item_snippet": "Just how bad is Tottenham&#39;s injury crisis? All 20 Premier League clubs examined. Spurs manager Ange Postecoglou has repeatedly referred to the club&#39;s injury&nbsp;...",
-    "news_item_url": "https://www.independent.co.uk/sport/football/tottenham-injury-news-premier-league-spurs-b2695247.html",
-    "picture_source": "Teamtalk.com",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTG1xKBIDCTBufYMK3Sk6kiAHRYGbbrB7dRLoo8ZbHKnshICy-IdoLTQfxekLniyciX7v2Pagfk",
+    "news_item_snippet": "An elite European manager who reached the Champions League final last season is on Tottenham&#39;s shortlist, along with two current Premier League bosses. READ&nbsp;...",
+    "news_item_url": "https://www.teamtalk.com/tottenham-hotspur/brutal-postecoglou-sack-closer-than-ever-with-tottenham-manager-shortlist-down-to-three-names",
+    "picture_source": "Sky Sports",
     "approx_traffic": "50,000+"
   }
 ]
