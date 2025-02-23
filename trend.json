@@ -1,22 +1,32 @@
 [
   {
     "country": "United States",
-    "title": "IND vs PAK",
-    "pubDate": "Sun, 23 Feb 2025 01:00:00 -0800",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTNN0WeIoMdNK6qn9iTfOS4bpqCu9QKI6Plk3DB0TM43m-yiAOmWMxkO-k8u7ithO1sKL5zbrtP",
-    "news_item_snippet": "Champions Trophy 2024/25, India vs Pakistan Match Report: He set up India for a semi-final spot and essentially crossed out Pakistan from the 2025 Champions&nbsp;...",
-    "news_item_url": "https://www.espncricinfo.com/series/icc-champions-trophy-2024-25-1459031/india-vs-pakistan-5th-match-group-a-1466418/match-report",
-    "picture_source": "Olympics",
-    "approx_traffic": "100,000+"
+    "title": "Real Madrid",
+    "pubDate": "Sun, 23 Feb 2025 07:00:00 -0800",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRnmfOkmZZYW5KPjRlRLtnk6XKDYA1QlZgM-U6-vWjPXJK08U8hnmemh7QLxuCwVWCZenteArkx",
+    "news_item_snippet": "Luka Modric hits an outstanding strike from distance to give Real Madrid the lead vs. Girona. ByReuters.",
+    "news_item_url": "https://www.espn.com/soccer/report/_/gameId/704906",
+    "picture_source": "Real Madrid",
+    "approx_traffic": "200,000+"
   },
   {
     "country": "United States",
     "title": "India vs Pakistan",
     "pubDate": "Sun, 23 Feb 2025 01:00:00 -0800",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcS12_5glqXCOzMW5szAFLJeH9NOBJkYOcgPi-3LOzeyoH-rYOf74L91l7QW3L5k-a69ktWXfD4I",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQw859pitFXQoJad5HqyyukAhmTDvp_7kv7LnTdkzll8ge-sZJBz9UBvBfv5zwr8XS6KQf1onIC",
     "news_item_snippet": "India vs Pakistan Highlights, ICC Champions Trophy 2025: Virat Kohli smashed a special 51st ODI ton, guiding India to a six-wicket victory over Pakistan in&nbsp;...",
     "news_item_url": "https://sports.ndtv.com/icc-champions-trophy-2025/india-vs-pakistan-live-score-icc-champions-trophy-2025-cricket-match-ind-vs-pak-live-scorecard-updates-7774284",
-    "picture_source": "Newsweek",
+    "picture_source": "BBC News",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Man City vs Liverpool",
+    "pubDate": "Sun, 23 Feb 2025 09:00:00 -0800",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRog682Due1pLAt8djUVbwpUGe1IBe0T6RwhVLZ7RnIC-UNOSVJKOCcdruckbUNg0T2BnafjENL",
+    "news_item_snippet": "Mohamed Salah scored a goal and set up another for Dominik Szoboszlai as the Premier League leaders increased the gap at the top of the table to 11 points.",
+    "news_item_url": "https://www.nytimes.com/athletic/live-blogs/manchester-city-liverpool-live-updates-premier-league-score-result/m4zg78TvYKJg/",
+    "picture_source": "Aljazeera.com",
     "approx_traffic": "50,000+"
   },
   {
@@ -24,19 +34,9 @@
     "title": "Joy Reid",
     "pubDate": "Sun, 23 Feb 2025 07:00:00 -0800",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTN6fc9ZX2NhV-k8POhPQktFCJSvDA4CAFTknUKkHiRE_UbeyBa1NJbWZhcg4rhIPh5DCjwHt4c",
-    "news_item_snippet": "Ms. Reid&#39;s 7 p.m. program will be replaced by a panel show co-hosted by Symone Sanders Townsend, Alicia Menendez and Michael Steele.",
-    "news_item_url": "https://www.nytimes.com/2025/02/23/business/msnbc-joy-reid.html",
+    "news_item_snippet": "ReidOut is being cancelled as part of a lineup shuffle being helmed by the network&#39;s new president, Rebecca Kutler.",
+    "news_item_url": "https://www.theguardian.com/media/2025/feb/23/msnbc-joy-reid-show",
     "picture_source": "Variety",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Man City vs Liverpool",
-    "pubDate": "Sun, 23 Feb 2025 09:00:00 -0800",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcR47qVq5fT30ZHqisnMd6VthREqdKhfPSjVeLLm0l9SeJBFNzpJvjfUCSTo3E5vvYO3A4GCjm4b",
-    "news_item_snippet": "Mohamed Salah scored a goal and set up another for Dominik Szoboszlai as the Premier League leaders increased the gap at the top of the table to 11 points.",
-    "news_item_url": "https://www.nytimes.com/athletic/live-blogs/manchester-city-liverpool-live-updates-premier-league-score-result/m4zg78TvYKJg/",
-    "picture_source": "Aljazeera.com",
     "approx_traffic": "50,000+"
   },
   {
@@ -61,16 +61,6 @@
   },
   {
     "country": "United States",
-    "title": "National Margarita Day",
-    "pubDate": "Sat, 22 Feb 2025 07:00:00 -0800",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTrnTNciIDHiPOixdxcdiiMxYMayLnAOtg-VVBaXgOE7FDxn1z06X5CQ_Drv5WAuNYAWi_E5dvG",
-    "news_item_snippet": "National Margarita Day, celebrated on Feb. 22, falls on a Saturday this year, which means there are plenty of deals to be found.",
-    "news_item_url": "https://www.desertsun.com/story/life/food/2025/02/22/national-margarita-day-2025-deals-and-california-history-of-cocktail-chilis-hooters/79600971007/",
-    "picture_source": "NBC4 Washington",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "United States",
     "title": "Bivol vs Beterbiev 2",
     "pubDate": "Sat, 22 Feb 2025 08:00:00 -0800",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTi0TFbDGmBwUXUCLS0WQfaveas53jak2REgIJ0oDNP0v6M8Dh9GpDop7biD66P6idT2B7H-sTC",
@@ -83,20 +73,10 @@
     "country": "United States",
     "title": "Germany elections",
     "pubDate": "Sat, 22 Feb 2025 16:00:00 -0800",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSPeCq69mkaTkB3GlCQQKcmeUCLcAFxykOmUJ6DUEcNzKVZqfpvLHSWot3G9z0-HRvzmNNQjpvT",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSqsm0x_vw8iGEF2Yyx1uASRHFqCVIHcNzuY7R7bNE9pbx2OqWKs-kHL7GDI82ApTgfxEDh1O18",
     "news_item_snippet": "Germans are going to the polls to vote for a new federal government after the three-party coalition fell apart at the end of last year, prompting a snap&nbsp;...",
     "news_item_url": "https://www.bbc.com/news/live/ckg82wwrwy6t",
-    "picture_source": "The New York Times",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "United States",
-    "title": "Barcelona",
-    "pubDate": "Sat, 22 Feb 2025 15:00:00 -0800",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQ_6t9MUcyE3VntSWvq8cW-wGAGUG-aEBdFBv8sdBE9xdBkTPgis58EZZGzfDGk2yIPtdBkBGrf",
-    "news_item_snippet": "Expert recap and game analysis of the Barcelona vs. Las Palmas Spanish Laliga game from 23 February 2025 on ESPN (AU).",
-    "news_item_url": "https://www.espn.com.au/football/report/_/gameId/704909",
-    "picture_source": "FC Barcelona",
+    "picture_source": "NBC News",
     "approx_traffic": "100,000+"
   },
   {
@@ -113,10 +93,10 @@
     "country": "United States",
     "title": "Henry Cejudo",
     "pubDate": "Sat, 22 Feb 2025 18:00:00 -0800",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTfErYs25gxfU2ENZWR5ScaQuJsRbqJh1fTDB9TU4Poy5L-TB32yE6uJQS08TQuQWtfdTnlcH8D",
-    "news_item_snippet": "In the aftermath of his third straight loss, Henry Cejudo is adamant that circumstances should give him another shot at Song Yadong.",
-    "news_item_url": "https://mmajunkie.usatoday.com/2025/02/ufc-seattle-henry-cejudo-grievance-eye-poke-did-not-lose-to-song-yadong",
-    "picture_source": "The Official Website of the Ultimate Fighting Championship",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSkeGeKr0i5pCSpCTLocuUli0qCMFDHfcsYD5dAbBsVczfskRXsnvNijKKTbnKIka5bZ77l69eC",
+    "news_item_snippet": "See How The Judges Scored Every Round Of UFC Fight Night: Cejudo vs Song, Live From Climate Pledge Arena In Seattle, Washington.",
+    "news_item_url": "https://www.ufc.com/news/official-judges-scorecards-ufc-fight-night-cejudo-vs-song-seattle",
+    "picture_source": "MMA Junkie",
     "approx_traffic": "50,000+"
   },
   {
@@ -133,40 +113,40 @@
     "country": "United States",
     "title": "UPMC Memorial shooting",
     "pubDate": "Sat, 22 Feb 2025 16:00:00 -0800",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQCYDD3_qUQziGfwXOgEjmVrp0UyhS9HeivYNnt7C4h4uyEVEWjBu6eWVcdMArk52sJMYAbXq-4",
-    "news_item_snippet": "York County District Attorney Timothy Barker confirmed that two other officers from York County and three UPMC staff members were shot and are all in stable&nbsp;...",
-    "news_item_url": "https://www.abc27.com/local-news/active-shooter-situation-at-upmc-memorial-in-york-county/",
-    "picture_source": "NBC 10 Philadelphia",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTPs-RpTgYrRmwxK0sDStcApo-tsKfP8mWlxjUWJRyFxHU5Rqo_53MqFrXLvM7wbwqU7zBoN4Vt",
+    "news_item_snippet": "A man armed with a gun entered a Pennsylvania hospital and took hostages before he was killed by police in a shootout that also left an officer dead.",
+    "news_item_url": "https://6abc.com/post/multiple-injuries-reported-shooting-upmc-memorial-pennsylvania-law-enforcement/15945873/",
+    "picture_source": "ABC27",
     "approx_traffic": "50,000+"
   },
   {
     "country": "India",
-    "title": "Cricket Live",
+    "title": "Virat Kohli",
     "pubDate": "Sun, 23 Feb 2025 14:30:00 +0530",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSLT1IkcxW8WdeBjbyzhboV0zdOYedIlEK61f2ZalG9bAlKMQEaGXPW0ZWu-IAvwcA8gguEelWx",
-    "news_item_snippet": "India vs Pakistan LIVE SCORE: Chasing 242, India rode on an unbeaten 100 by Virat Kohli to beat Pakistan by six wickets. Shubman Gill and Shreyas Iyer also&nbsp;...",
-    "news_item_url": "https://www.livemint.com/sports/cricket-news/india-vs-pakistan-live-score-champions-trophy-2025-ind-vs-pak-national-cricket-team-full-scorecard-dubai-rohit-rizwan-11740251161192.html",
-    "picture_source": "Hindustan Times",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTNN0WeIoMdNK6qn9iTfOS4bpqCu9QKI6Plk3DB0TM43m-yiAOmWMxkO-k8u7ithO1sKL5zbrtP",
+    "news_item_snippet": "The Indian batting talisman has become only the third batter in ODI history to score over 14000 runs.",
+    "news_item_url": "https://www.icc-cricket.com/tournaments/champions-trophy-2025/news/virat-kohli-joins-elite-odi-batting-club-with-innings-against-pakistan",
+    "picture_source": "Olympics",
     "approx_traffic": "2,000,000+"
   },
   {
     "country": "India",
-    "title": "Pakistan national cricket team vs India national cricket team match scorecard",
+    "title": "Where to watch Pakistan national cricket team vs India national cricket team",
     "pubDate": "Sun, 23 Feb 2025 07:30:00 +0530",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQ35GUshltAfZZSJscLtE5cidzcOucy7bvFokV46SkbQjT-AGuR8olyJIz0wCxPSZYcz-Yw4aKw",
-    "news_item_snippet": "India vs Pakistan Live Score, Champions Trophy 2025: Virat Kohli once again proved his supremacy against Pakistan in ICC tournaments, delivering a sc.",
-    "news_item_url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-pakistan-cricket-live-score-ind-vs-pak-champions-trophy-2025-5th-odi-match-group-a-scorecard-dubai-international-stadium/liveblog/118495594.cms",
-    "picture_source": "Livemint",
-    "approx_traffic": "500,000+"
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQIYV56Aawo0ZBzuRdNDWXHwtSmhahgkWw0BIVMUXGpD0ywuTAdxMV--KgG7VNzXZ5rifvKLqj0",
+    "news_item_snippet": "Ind vs Pak Live Score: Virat Kohli&#39;s 51st ODI century takes India to victory against Pakistan. India win by 6 wickets.",
+    "news_item_url": "https://m.economictimes.com/news/newsblogs/ind-vs-pak-live-score-champions-trophy-2025-india-pakistan-toss-time-today-match-live-scorecard-points-table-dubai-international-cricket-stadium-pitch-weather-rohit-sharma-virat-kohli-shubhman-gill-mohammad-rizwan/liveblog/118496720.cms",
+    "picture_source": "Aljazeera.com",
+    "approx_traffic": "1,000,000+"
   },
   {
     "country": "India",
     "title": "Sports",
     "pubDate": "Sun, 23 Feb 2025 17:30:00 +0530",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTopjE_gAbxmxW8ASftT0RhFLe2lZjGYbNIh7-S6Q5hyD52Gx1Rs89xov10r0cfYKB3zB7eY8dE",
-    "news_item_snippet": "\u0d26\u0d2e\u0d4d\u0d2e\u0d3e\u0d02: \u0d28\u0d35\u0d4b\u0d26\u0d2f \u0d15\u0d4b\u0d2c\u0d3e\u0d7c \u0d0f\u0d30\u0d3f\u0d2f, \u0d31\u0d3e\u0d15\u0d4d\u0d15 \u0d15\u0d41\u0d1f\u0d41\u0d02\u0d2c\u0d35\u0d47\u0d26\u0d3f\u0d2f\u0d41\u0d1f\u0d46 \u0d06\u0d2d\u0d3f\u0d2e\u0d41\u0d16\u0d4d\u0d2f\u0d24\u0d4d\u0d24\u0d3f\u0d7d \u0d0f\u0d15\u0d26\u0d3f\u0d28 \u0d38\u0d4d\u0d2a\u0d4b\u0d7c\u0d1f\u0d4d\u0d38\u0d4d \u0d2e\u0d40\u0d31\u0d4d\u0d31\u0d4d \u0d35\u0d3f\u0d1c\u0d2f\u0d15\u0d30\u0d2e\u0d3e\u0d2f\u0d3f \u0d38\u0d2e\u0d3e\u0d2a\u0d3f\u0d1a\u0d4d\u0d1a\u0d41.",
-    "news_item_url": "https://www.deshabhimani.com/pravasi/news-05312/navodaya-raka-kudumbavedi-sports-meet-concluded-42023",
-    "picture_source": "24 News",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTg5QjeviuE6NVcZNYr0yZgiLViyTiAdz4V4JOELHnjkYtJtRcwvqE2zvRxGmFvs79KGoKRVIT5",
+    "news_item_snippet": "sports \u0d38\u0d4d\u0d2a\u0d4b\u0d7c\u0d1f\u0d4d\u0d38\u0d4d \u0d2e\u0d46\u0d21\u0d3f\u0d38\u0d3f\u0d7b, \u0d38\u0d4d\u0d2a\u0d4b\u0d7c\u0d1f\u0d4d\u0d38\u0d4d \u0d38\u0d2f\u0d7b\u0d38\u0d4d \u0d0e\u0d28\u0d4d\u0d28\u0d3f\u0d35\u0d2f\u0d3f\u0d32\u0d46 \u0d06\u0d27\u0d41\u0d28\u0d3f\u0d15 \u0d2a\u0d4d\u0d30\u0d35\u0d23\u0d24\u0d15\u0d33\u0d46\u0d15\u0d4d\u0d15\u0d41\u0d31\u0d3f\u0d1a\u0d4d\u0d1a\u0d41\u0d33\u0d4d\u0d33 \u0d26\u0d47\u0d36\u0d40\u0d2f \u0d38\u0d46\u0d2e\u0d3f\u0d28\u0d3e\u0d7c \u0d06\u0d32\u0d2a\u0d4d\u0d2a\u0d41\u0d34\u0d2f\u0d3f\u0d32\u0d46 \u0d38\u0d3e\u0d2f\u0d4d \u0d28\u0d3e\u0d37\u0d23\u0d7d \u0d38\u0d46\u0d28\u0d4d\u0d31\u0d7c&nbsp;...",
+    "news_item_url": "https://www.twentyfournews.com/2025/02/23/national-seminar-highlights-progress-in-sports-sector.html",
+    "picture_source": "Deshabhimani",
     "approx_traffic": "200,000+"
   },
   {
@@ -184,8 +164,8 @@
     "title": "Shubman Gill",
     "pubDate": "Sun, 23 Feb 2025 17:30:00 +0530",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSXURV_kcaIbCi1mOGZ9bgOujofRw7X7bzt7TjKKXYRtwoIuYVuT3Tmct2v8bJ7MsMK7FL9qoIE",
-    "news_item_snippet": "India vs Pakistan, CT 2025: Abrar Ahmed bowled a perfect leg-spinner to rattle Shubman Gill&#39;s stumps. However, it was the send-off that grabbed eyeballs.",
-    "news_item_url": "https://www.hindustantimes.com/cricket/abrar-ahmed-gives-fiery-send-off-to-shubman-gill-signals-towards-dressing-room-india-opener-looks-back-in-anger-101740322097482.html",
+    "news_item_snippet": "Shubman Gill was dropped by Khushdil Shah on 35 at mid-on off the bowling of Haris Rauf during India vs Pakistan Champions Trophy 2025 clash in Dubai.",
+    "news_item_url": "https://www.livemint.com/sports/cricket-news/ind-vs-pak-shubman-gill-dropped-by-khushdil-shah-during-champions-trophy-clash-watch-how-haris-rauf-reacts-11740320152247.html",
     "picture_source": "Samayam Telugu",
     "approx_traffic": "200,000+"
   },
@@ -193,10 +173,10 @@
     "country": "India",
     "title": "Rohit Sharma",
     "pubDate": "Sun, 23 Feb 2025 17:30:00 +0530",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRvtLfMv14xCCjUHgf0GkzCKfDu9jTUY8SOqUjOydM8M42UTtQQoMnTQH0sZSeUnslbhYrz25pW",
-    "news_item_snippet": "Rohit Sharma crossed the 9000-run mark as an opener during the India vs Pakistan Champions Trophy 2025 match at the Dubai International Cricket Stadium in&nbsp;...",
-    "news_item_url": "https://sportstar.thehindu.com/cricket/champions-trophy/rohit-sharma-records-9000-runs-as-opener-odi-stats-champions-trophy-india-vs-pakistan/article69254157.ece",
-    "picture_source": "India Today",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRx0aV44Mo1_Uu4Ezru21g1FxrZQXoKEPrO7jhVNKyU1niPP4DPG1-QsqXQUm2GOIK0MZdYggCQ",
+    "news_item_snippet": "Rohit Sharma joined the likes of Sachin Tendulkar and Sourav Ganguly in an elite list as he scored 9000 runs as an opener in ODIs. Rohit got to the feat&nbsp;...",
+    "news_item_url": "https://www.indiatoday.in/sports/cricket/story/champions-trophy-india-vs-pakistan-rohit-sharma-9000-runs-opener-dubai-2684318-2025-02-23",
+    "picture_source": "Sportstar",
     "approx_traffic": "200,000+"
   },
   {
@@ -211,21 +191,11 @@
   },
   {
     "country": "India",
-    "title": "Axar Patel",
-    "pubDate": "Sun, 23 Feb 2025 15:30:00 +0530",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRYqUQ6KZlLx9nO1p8pEulhTwkn2oD-AwxiINxTFiStU51598182GVdWiCoRVPKqOd52YoO4B7k",
-    "news_item_snippet": "Axar brought out his acrobatic best to pick the bal on his run and rattle the stumps with a fantastic hit to send Imam back into the stadium.",
-    "news_item_url": "https://www.cnbctv18.com/sports/watch-axar-patel-effects-direct-hit-run-out-to-dismiss-imam-ul-haq-against-pakistan-in-champions-trophy-19563476.htm",
-    "picture_source": "Livemint",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "India",
     "title": "Mohammed Shami",
     "pubDate": "Sun, 23 Feb 2025 15:30:00 +0530",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcT4GVxd4BFSyJf4mGNak221Mytqqu0ZGO4qSRz9ank0mSPJR2Ni1Y_0W1eHlvhUTraBgdfo36X9",
-    "news_item_snippet": "It was the fifth over of the match when Shami struggled with pain in his right ankle. The physio came out in the middle and checked on him. | Crickit.",
-    "news_item_url": "https://www.hindustantimes.com/cricket/mohammed-shami-leaks-5-wides-in-11-ball-first-over-leaves-field-due-to-pain-but-thankfully-returns-after-injury-scare-101740302865821.html",
+    "news_item_snippet": "Mohammed Shami \u092d\u093e\u0930\u0924\u0940\u092f \u091f\u0940\u092e \u0915\u0947 \u0924\u0947\u091c \u0917\u0947\u0902\u0926\u092c\u093e\u091c \u092e\u094b\u0939\u092e\u094d\u092e\u0926 \u0936\u092e\u0940 \u0915\u093e \u092f\u0947 \u0913\u0935\u0930 \u091a\u0948\u0902\u092a\u093f\u092f\u0902\u0938 \u091f\u094d\u0930\u0949\u092b\u0940 \u092e\u0947\u0902 \u092d\u093e\u0930\u0924 \u0915\u0947 \u0932\u093f\u090f \u0938\u092c\u0938\u0947 \u0932\u0902\u092c\u093e \u0913\u0935\u0930 \u0925\u093e \u091c\u092c\u0915\u093f \u092a\u0942\u0930\u0947 \u091f\u0942\u0930\u094d\u0928\u093e\u092e\u0947\u0902\u091f \u0915\u093e&nbsp;...",
+    "news_item_url": "https://www.jagran.com/cricket/bouncer-mohammed-shami-surpasses-jasprit-bumrah-unwanted-record-of-bowls-longest-champions-trophy-over-ind-vs-pak-today-match-23889503.html",
     "picture_source": "NDTVSports.com",
     "approx_traffic": "100,000+"
   },
@@ -233,10 +203,40 @@
     "country": "India",
     "title": "Man City vs Liverpool",
     "pubDate": "Sun, 23 Feb 2025 21:30:00 +0530",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcR47qVq5fT30ZHqisnMd6VthREqdKhfPSjVeLLm0l9SeJBFNzpJvjfUCSTo3E5vvYO3A4GCjm4b",
-    "news_item_snippet": "Manchester City vs Liverpool live streaming and match time: City will not be easy opponents, especially if they can replicate the high level of play they&nbsp;...",
-    "news_item_url": "https://www.business-standard.com/sports/football-news/premier-league-manchester-city-vs-liverpool-live-match-time-streaming-125022200957_1.html",
-    "picture_source": "Aljazeera.com",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcReRrOj7Ay8TJh2aB8korrOebITSKfzTPtaXcyDTZDhfCu2ee0z0ooeF4zBEBdTxQLvbSQMzOGc",
+    "news_item_snippet": "Follow the build-up and live text commentary as Man City host league leaders Liverpool at the Etihad Stadium.",
+    "news_item_url": "https://www.aljazeera.com/sports/liveblog/2025/2/23/live-manchester-city-vs-liverpool-english-premier-league",
+    "picture_source": "Business Standard",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "India",
+    "title": "UGC NET",
+    "pubDate": "Sun, 23 Feb 2025 00:30:00 +0530",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRZScw7M21OKSGLZ0YnZkVgFxMWPtStdqpcPsa_xhaaJKfUue7eRxSOo3Ny99FBnsge9PwCPOQp",
+    "news_item_snippet": "UGC NET December Results 2024: \u092f\u0942\u091c\u0940\u0938\u0940 \u0928\u0947\u091f \u0926\u093f\u0938\u0902\u092c\u0930 2024 \u092a\u0930\u0940\u0915\u094d\u0937\u093e \u092e\u0947\u0902 \u0915\u0941\u0932 8,49166 \u0909\u092e\u094d\u092e\u0940\u0926\u0935\u093e\u0930\u094b\u0902 \u0928\u0947 \u0930\u091c\u093f\u0938\u094d\u091f\u094d\u0930\u0947\u0936\u0928 \u0915\u0930\u093e\u092f\u093e \u0925\u093e, \u0932\u0947\u0915\u093f\u0928 \u0907\u0928\u092e\u0947\u0902 \u0938\u0947 6,49490 \u0939\u0940&nbsp;...",
+    "news_item_url": "https://hindi.business-standard.com/other-news/learn-the-result-out-of-ugc-net-december-exam-here-and-how-to-check-the-cut-off-and-check-the-result-id-416125",
+    "picture_source": "\u0926\u0948\u0928\u093f\u0915 \u091c\u093e\u0917\u0930\u0923",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Argentina",
+    "title": "Real Madrid - Girona",
+    "pubDate": "Sun, 23 Feb 2025 12:00:00 -0300",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSP8_Bomkdvav7oIktWHI4cF-iL7P6gZi3u8MxZxHkgoeKPAwM83dEzit2J_V2xIBeSCHkM7HLF",
+    "news_item_snippet": "El Real Madrid vuelve a la competici\u00f3n dom\u00e9stica este domingo ante un Girona que no se lo pondr\u00e1 nada f\u00e1cil. El conjunto blanco necesita ganar tras las&nbsp;...",
+    "news_item_url": "https://www.elmundo.es/como/2025/02/23/67b8a2abfdddff88398b45a7.html",
+    "picture_source": "Ol\u00e9",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Argentina",
+    "title": "Manchester City  Liverpool",
+    "pubDate": "Sun, 23 Feb 2025 13:00:00 -0300",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQqhSmi82RFgu7PKVpRbCEq3VzCgnU_qBwEwhb0VpOi_84EY7qr8tdodylI2u-inkQCza_Bf9Bj",
+    "news_item_snippet": "Los Reds podr\u00edan estirar a 11 puntos su ventaja sobre Arsenal.",
+    "news_item_url": "https://www.espn.com.mx/futbol/inglaterra/nota/_/id/14833507/manchester-city-vs-liverpool-alineaciones-fecha-26-premier-league-2025",
+    "picture_source": "Infobae.com",
     "approx_traffic": "50,000+"
   },
   {
@@ -263,10 +263,10 @@
     "country": "Argentina",
     "title": "Papa Francisco",
     "pubDate": "Sat, 22 Feb 2025 19:00:00 -0300",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSWIg-tnOKMucp6reCtuC_2U508kU9aNcaSWl3gk8IKWke6Y-b-ggXmIYi3fa9UPHfS5Du5A3L_",
-    "news_item_snippet": "La Santa Sede dijo en un comunicado que la salud del pont\u00edfice, de 88 a\u00f1os, se ha deteriorado en las \u00faltimas horas, aunque permanece alerta.",
-    "news_item_url": "https://www.bbc.com/mundo/articles/cy7xdmm4y1zo",
-    "picture_source": "LA NACION",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSIgXa5CrxFBtLJsFVDBfWyA_Ybho9D2NDdjxLPTxIXvneS0IjHnQXy5z8XjWl9MaZmIA3XaLBy",
+    "news_item_snippet": "Despu\u00e9s de la alarma del s\u00e1bado, cuando dijeron que el Pont\u00edfice tuvo una crisis respiratoria y debi\u00f3 tener transfusiones, la \u00faltima informaci\u00f3n trajo&nbsp;...",
+    "news_item_url": "https://www.lanacion.com.ar/el-mundo/la-salud-del-papa-como-sigue-francisco-y-el-ultimo-parte-medico-nid22022025/",
+    "picture_source": "Clar\u00edn.com",
     "approx_traffic": "100,000+"
   },
   {
@@ -280,6 +280,26 @@
     "approx_traffic": "100,000+"
   },
   {
+    "country": "Argentina",
+    "title": "UD Las Palmas  Barcelona",
+    "pubDate": "Sat, 22 Feb 2025 17:00:00 -0300",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQArBPiUIgrznF4arxoIvSOpSz0V8oAd5uetwJnrS7_LSRqF5p7zom4T1A6AgjA6xZUcicvZo4R",
+    "news_item_snippet": "El FC Barcelona se ha impuesto por la m\u00ednima (0-1) a la UD Las Palmas este s\u00e1bado en partido de la jornada 25 de LaLiga EA Sports.",
+    "news_item_url": "https://www.rtve.es/deportes/20250222/palmas-barcelona-directo-resumen-resultado-liga-jornada-25/16458342.shtml",
+    "picture_source": "TyC Sports",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Argentina",
+    "title": "Rosario Central  Sarmiento",
+    "pubDate": "Sat, 22 Feb 2025 21:00:00 -0300",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSPaATbmnmnrLg5-JJ2-Sn0hRQboEhpoYoBGqRiTvrJXSqIDB8c-RfBdOfW5ttoR80-4PL-UZKb",
+    "news_item_snippet": "El Canalla aprovech\u00f3 el envi\u00f3n an\u00edmico del cl\u00e1sico rosarino y Agust\u00edn S\u00e1ndez marc\u00f3 apenas iniciado el partido contra el Verde para darle la victoria por la&nbsp;...",
+    "news_item_url": "https://www.tycsports.com/liga-profesional-de-futbol/rosario-central-vs-sarmiento-en-vivo-hora-donde-ver-y-formaciones-id636839.html",
+    "picture_source": "Infobae.com",
+    "approx_traffic": "50,000+"
+  },
+  {
     "country": "Australia",
     "title": "IND vs PAK",
     "pubDate": "Sun, 23 Feb 2025 04:00:00 +1100",
@@ -290,16 +310,6 @@
     "approx_traffic": "50,000+"
   },
   {
-    "country": "Australia",
-    "title": "Pakistan vs India",
-    "pubDate": "Sun, 23 Feb 2025 19:00:00 +1100",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQIYV56Aawo0ZBzuRdNDWXHwtSmhahgkWw0BIVMUXGpD0ywuTAdxMV--KgG7VNzXZ5rifvKLqj0",
-    "news_item_snippet": "Champions Trophy 2024/25, India vs Pakistan Match Report: He set up India for a semi-final spot and essentially crossed out Pakistan from the 2025 Champions&nbsp;...",
-    "news_item_url": "https://www.espncricinfo.com/series/icc-champions-trophy-2024-25-1459031/india-vs-pakistan-5th-match-group-a-1466418/match-report",
-    "picture_source": "Aljazeera.com",
-    "approx_traffic": "50,000+"
-  },
-  {
     "country": "Brazil",
     "title": "Real Madrid x Girona",
     "pubDate": "Sun, 23 Feb 2025 10:00:00 -0500",
@@ -307,17 +317,27 @@
     "news_item_snippet": "Real precisa vencer para se reaproximar do Barcelona e seguir na briga pela lideran\u00e7a do Espanhol; Acompanhe o jogo em Tempo Real no ge a partir das 12h15&nbsp;...",
     "news_item_url": "https://ge.globo.com/futebol/futebol-internacional/futebol-espanhol/noticia/2025/02/23/real-madrid-x-girona-em-la-liga-onde-assistir-ao-vivo-e-horario.ghtml",
     "picture_source": "globoesporte.com",
-    "approx_traffic": "200,000+"
+    "approx_traffic": "500,000+"
   },
   {
     "country": "Brazil",
     "title": "City x Liverpool",
     "pubDate": "Sun, 23 Feb 2025 11:00:00 -0500",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcT_qrPhESEX9bNN1VDETS-_VHMrf_iusr46gsmvg9qiqkiJ6ppNmhZYk4EzS_vS9DBuJ9bpzPRb",
-    "news_item_snippet": "O pontap\u00e9 inicial est\u00e1 marcado para \u00e0s 13h30 deste domingo. O jogo acontece no Est\u00e1dio Etihad, em Manchester (Inglaterra). Onde assistir? O jogo ser\u00e1&nbsp;...",
-    "news_item_url": "https://www.infomoney.com.br/esportes/manchester-city-x-liverpool-na-premier-league-que-horas-e-o-jogo-onde-assistir/",
+    "news_item_snippet": "Manchester City e Liverpool se enfrentam neste domingo, 25, \u00e0s 13h30 (hor\u00e1rio de Bras\u00edlia), no Etihad Stadium, em Manchester.",
+    "news_item_url": "https://exame.com/esporte/manchester-city-x-liverpool-onde-assistir-ao-vivo-e-horario-do-jogo-pelo-campeonato-ingles/",
     "picture_source": "UOL",
     "approx_traffic": "100,000+"
+  },
+  {
+    "country": "Brazil",
+    "title": "Newcastle x Nottingham Forest",
+    "pubDate": "Sun, 23 Feb 2025 09:00:00 -0500",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQADpT-0WxomjYa-npSGsnCJRSOX6nc-4kBjc8GYgyK6WqeGw9PuXrKPYX66l7vPspTvh44UNxu",
+    "news_item_snippet": "Gol! Newcastle United 2, Nottingham Forest 1. Jacob Murphy (Newcastle United) finaliza\u00e7\u00e3o de muito perto depois de um contra-ataque. Finaliza\u00e7\u00e3o defendida.",
+    "news_item_url": "https://www.terra.com.br/esportes/futebol/internacional/inglaterra/campeonato-ingles/ao-vivo/newcastle-united-x-nottingham-forest/88310/",
+    "picture_source": "Gazeta Esportiva",
+    "approx_traffic": "50,000+"
   },
   {
     "country": "Brazil",
@@ -380,22 +400,12 @@
     "approx_traffic": "100,000+"
   },
   {
-    "country": "Brazil",
-    "title": "Papa Francisco",
-    "pubDate": "Sat, 22 Feb 2025 08:00:00 -0500",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQ3DmztI5BW_7fTv-RBn2iyNsgcazzRwAh-g1_kiB1PV1_ob7tHvoa1vcsSX3jZzAreyH75RE82",
-    "news_item_snippet": "Mais cedo, o pont\u00edfice agradeceu as ora\u00e7\u00f5es pela sa\u00fade e afirmou que segue em tratamento, enquanto o Vaticano monitora seu estado cl\u00ednico.",
-    "news_item_url": "https://g1.globo.com/mundo/noticia/2025/02/23/papa-francisco-esta-usando-almofadas-nasais-para-receber-oxigenio-e-fara-novos-exames-hoje-informa-vaticano.ghtml",
-    "picture_source": "VEJA.com",
-    "approx_traffic": "100,000+"
-  },
-  {
     "country": "Canada",
     "title": "Pakistan vs India",
-    "pubDate": "Sun, 23 Feb 2025 04:00:00 -0500",
+    "pubDate": "Sun, 23 Feb 2025 02:00:00 -0500",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQIYV56Aawo0ZBzuRdNDWXHwtSmhahgkWw0BIVMUXGpD0ywuTAdxMV--KgG7VNzXZ5rifvKLqj0",
-    "news_item_snippet": "India vs Pakistan Highlights, ICC Champions Trophy 2025: Virat Kohli smashed a special 51st ODI ton, guiding India to a six-wicket victory over Pakistan in&nbsp;...",
-    "news_item_url": "https://sports.ndtv.com/icc-champions-trophy-2025/india-vs-pakistan-live-score-icc-champions-trophy-2025-cricket-match-ind-vs-pak-live-scorecard-updates-7774284",
+    "news_item_snippet": "Virat Kohli hits an unbeaten century as India beat Pakistan by five wickets in the Champions Trophy.",
+    "news_item_url": "https://www.bbc.com/sport/cricket/articles/c99nr9nmlxjo",
     "picture_source": "Aljazeera.com",
     "approx_traffic": "50,000+"
   },
@@ -413,10 +423,10 @@
     "country": "Canada",
     "title": "Pope Francis",
     "pubDate": "Sat, 22 Feb 2025 15:00:00 -0500",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSlyylViqsQ3Kpit8QMhG9rpBBDk2Df6WdNbuby23HELHOJ2jgxq7v71MqPT7_4q5BG5tB81-J7",
-    "news_item_snippet": "On Sunday morning, the Holy See Press Office said Pope Francis had a peaceful ninth night in Rome&#39;s Gemelli hospital where he is being treated for ...",
-    "news_item_url": "https://www.vaticannews.va/en/pope/news/2025-02/pope-francis-morning-23-february-2025-health-gemelli-hospital.html",
-    "picture_source": "National Post",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRLZ9obFMrOKo1_53sPgUvPBzrZaumhWmq7TjJwRzdVkAS9ZRJHGpBzJ_B-B3GRBz51z9k-UOyK",
+    "news_item_snippet": "The morning after a respiratory crisis and blood transfusions, the Vatican said Pope Francis is conscious but still in critical condition.",
+    "news_item_url": "https://nationalpost.com/news/world/pope-francis-conscious-critical",
+    "picture_source": "Globalnews.ca",
     "approx_traffic": "50,000+"
   },
   {
@@ -443,10 +453,10 @@
     "country": "France",
     "title": "Mulhouse",
     "pubDate": "Sat, 22 Feb 2025 18:00:00 +0100",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSVWnxpDONo4f5xPtBGDa3eCLYCI9Gm3Iuo3JcwcEq70OFUgI8eN0Ue1o1zVIeDs9enlu7z95TW",
-    "news_item_snippet": "Les habitants de Mulhouse sont sous le choc apr\u00e8s l&#39;attaque du samedi 22 f\u00e9vrier, qui a eu lieu en plein centre-ville. France T\u00e9l\u00e9visions est all\u00e9 \u00e0 leur&nbsp;...",
-    "news_item_url": "https://www.francetvinfo.fr/faits-divers/attaque-a-mulhouse-l-emotion-et-la-sideration-des-habitants_7092048.html",
-    "picture_source": "France 3 R\u00e9gions",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSfjfIb7x0_wHWeVzSejCLsKXxbuRRG0tjBDpdWmGWEVzRtOIaJ1erRzSesiKv7OW6_jlgVr_UM",
+    "news_item_snippet": "Au lendemain de l&#39;attentat mortel survenu \u00e0 Mulhouse, le Parquet national antiterroriste annonce que quatre personnes, dont l&#39;assaillant pr\u00e9sum\u00e9,&nbsp;...",
+    "news_item_url": "https://france3-regions.francetvinfo.fr/grand-est/haut-rhin/mulhouse/attentat-a-mulhouse-trois-personnes-en-garde-a-vue-3112297.html",
+    "picture_source": "haut-rhin.gouv.fr",
     "approx_traffic": "100,000+"
   },
   {
@@ -454,30 +464,80 @@
     "title": "Pape Fran\u00e7ois",
     "pubDate": "Sat, 22 Feb 2025 22:00:00 +0100",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcShnNOIXRI3jK1pBScLkXgr_UQDRo37cf-cT4ar-XmzW1WT2noHG8MdmjUvbYmk7WzlOxrK1tTM",
-    "news_item_snippet": "Le souverain pontife, \u00e2g\u00e9 de 88 ans, a subi une crise respiratoire asthmatique prolong\u00e9e n\u00e9cessitant de l&#39;oxyg\u00e8ne \u00e0 haut d\u00e9bit. \u00ab Le pronostic [m\u00e9dical] est&nbsp;...",
-    "news_item_url": "https://www.lemonde.fr/international/article/2025/02/22/le-pape-francois-est-dans-un-etat-qui-reste-critique-et-n-est-pas-hors-de-danger-selon-le-vatican_6559495_3210.html",
+    "news_item_snippet": "L&#39;\u00e9tat de sant\u00e9 du Pape Fran\u00e7ois demeure pr\u00e9occupant, selon le Vatican. Le Souverain pontife, \u00e2g\u00e9 de 88 ans, est hospitalis\u00e9 depuis plus d&#39;une semaine pour&nbsp;...",
+    "news_item_url": "https://france3-regions.francetvinfo.fr/bretagne/ille-et-vilaine/rennes/s-il-partait-une-page-se-tournerait-dans-ma-vie-sante-du-pape-francois-a-rennes-des-fideles-entre-inquietude-et-fatalisme-3112357.html",
     "picture_source": "Lib\u00e9ration",
     "approx_traffic": "100,000+"
   },
   {
     "country": "France",
-    "title": "OM Auxerre",
-    "pubDate": "Sat, 22 Feb 2025 22:00:00 +0100",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRjB3QR6x7pHDO1GluPxr2I7DYu5bUPzmaBbXW_aUVy60dDWl5pijv98De-jSdXrqkwhBh8Q2wK",
-    "news_item_snippet": "Depuis des mois, la direction de l&#39;Olympique de Marseille allume les arbitres \u00e0 la moindre d\u00e9cision d\u00e9favorable. L&#39;occasion de souder la communaut\u00e9 des&nbsp;...",
-    "news_item_url": "https://www.liberation.fr/sports/football/om-auxerre-la-corruption-presumee-et-la-strategie-de-la-persecution-20250223_5L5ZMNE2BNHQTGMGMHYNHJSDUE/",
-    "picture_source": "France 3 R\u00e9gions",
+    "title": "Lille \u2013 Monaco",
+    "pubDate": "Sat, 22 Feb 2025 17:00:00 +0100",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTCh2Jn880opv3ADlbRHy7qSvBbBG3_l8aFVuLrkamczcdHHVg4HFsx0Q62k-lXIFUQinkjrQHG",
+    "news_item_snippet": "Gr\u00e2ce \u00e0 un doubl\u00e9 d&#39;Hakon Haraldsson, Lille a battu Monaco, ce samedi (2-1) et pris la troisi\u00e8me place du Championnat, en attendant Nice-Montpellier,&nbsp;...",
+    "news_item_url": "https://www.lequipe.fr/Football/Actualites/Lille-bat-monaco-et-monte-provisoirement-sur-le-podium-de-la-ligue-1/1541975",
+    "picture_source": "Le Figaro",
     "approx_traffic": "50,000+"
   },
   {
     "country": "France",
-    "title": "Saint-\u00c9tienne \u2013 Angers",
-    "pubDate": "Sat, 22 Feb 2025 19:00:00 +0100",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTJ8wJPNBRf52RvjhTe9dR7cX1zy9RBNwzFGixD5klDLEEE3W3Pok2JzNgSt2aXVra8HM3vt1Hf",
-    "news_item_snippet": "Une altercation a \u00e9clat\u00e9 entre plusieurs joueurs et des membres du staff, notamment les deux entra\u00eeneurs, \u00e0 la fin du match entre l&#39;AS Saint-\u00c9tienne et&nbsp;...",
-    "news_item_url": "https://rmcsport.bfmtv.com/football/ligue-1/saint-etienne-angers-tension-entre-dujeux-et-horneland-et-grosse-embrouille-general-au-coup-de-sifflet-final_AV-202502220385.html",
-    "picture_source": "Le Figaro",
+    "title": "OM Auxerre",
+    "pubDate": "Sat, 22 Feb 2025 22:00:00 +0100",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcR2RtQZmMeXkL5hsRCA5nKVV3CvCt0gsruwoSqynVXaEbtnBucqdm81dO1gOmdjLhotH74eiCfW",
+    "news_item_snippet": "L&#39;AJ Auxerre affrontait au stade de l&#39;Abb\u00e9-Deschamps l&#39;Olympique de Marseille, samedi 22 f\u00e9vrier. Des \u00e9chauffour\u00e9es entre supporters se sont produites avant&nbsp;...",
+    "news_item_url": "https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/yonne/auxerre/une-quinzaine-de-blesses-apres-des-affrontements-entre-supporters-en-marge-du-match-aj-auxerre-olympique-de-marseille-3112228.html",
+    "picture_source": "L'\u00c9quipe.fr",
     "approx_traffic": "50,000+"
+  },
+  {
+    "country": "France",
+    "title": "Manchester City \u2013 Liverpool",
+    "pubDate": "Sat, 22 Feb 2025 02:00:00 +0100",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTLANxhRICRclr2BQ4HnAabwflj_-Uh24v0vGshM224PWXToBz20nABha8bPkkrXv2dPM55-h70",
+    "news_item_snippet": "Manchester City, 4e et \u00e9limin\u00e9 de la Ligue des champions cette semaine, joue gros face \u00e0 Liverpool, 1er et qui pourrait faire un grand pas vers le titre en&nbsp;...",
+    "news_item_url": "https://rmcsport.bfmtv.com/football/premier-league/direct-man-city-liverpool-suivez-le-choc-de-la-26e-journee-de-premier-league_LS-202502230296.html",
+    "picture_source": "L'\u00c9quipe.fr",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "France",
+    "title": "AfD",
+    "pubDate": "Sat, 22 Feb 2025 12:00:00 +0100",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcROEtXF-ACnFYcZQXEN-Q2RhRrVU3tBQhCy23WipUDcq6GfPcCooGY8qljONsJIdNzak7rtZXdD",
+    "news_item_snippet": "L&#39;actuel chancelier, le social-d\u00e9mocrate Olaf Scholz, subit une s\u00e9v\u00e8re d\u00e9faite tandis que le parti d&#39;extr\u00eame droite AfD r\u00e9alise une perc\u00e9e. Alain Guillemoles (&nbsp;...",
+    "news_item_url": "https://www.la-croix.com/international/resultats-des-elections-allemandes-2025-les-chretiens-democrates-l-emportent-percee-de-lafd-20250223",
+    "picture_source": "FRANCE 24",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "France",
+    "title": "France Italie Rugby",
+    "pubDate": "Fri, 21 Feb 2025 20:00:00 +0100",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQxIjDxgxlRAuUxGNRuv50H8cS4X2woYMmRpEYRM8NvbxiBjXBUVbSGDhNdIdGuLWjAUVBeuNpc",
+    "news_item_snippet": "Merci d&#39;avoir suivi en direct la rencontre de rugby ayant oppos\u00e9 Italie et France, et se terminant sur une victoire de France 24-73.",
+    "news_item_url": "https://www.lequipe.fr/Rugby/match-direct/tournoi-des-6-nations/2025/italie-france-live/37584",
+    "picture_source": "Rugbyrama.fr",
+    "approx_traffic": "500,000+"
+  },
+  {
+    "country": "Germany",
+    "title": "Bayern \u2013 Eintracht Frankfurt",
+    "pubDate": "Sun, 23 Feb 2025 15:00:00 +0100",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcS9nSsl5JRTYVwN3vNl668UPfvl8-_ZTqsTm2jN7MtX-ALICdkA5mgEWJLC9sfWwaYwMDGoKvjR",
+    "news_item_snippet": "Der FC Bayern hat seine Spitzenstellung in der Bundesliga auch im Topspiel untermauert. Gegen die Tabellen-Dritten aus Frankfurt gab es einen ungef\u00e4hrdeten&nbsp;...",
+    "news_item_url": "https://www.spiegel.de/sport/fussball/bundesliga-fc-bayern-muenchen-siegt-gegen-eintracht-frankfurt-a-298ce34c-dd8c-4115-9085-0f5468e97020",
+    "picture_source": "hessenschau.de",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "Germany",
+    "title": "Die Linke",
+    "pubDate": "Sun, 23 Feb 2025 14:00:00 +0100",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRkarvfnXv7gXVdUf9Z2vgWtvtc8eY8uoovrmHIBYGBaDOdsBFpGcZ0C1F2b3ux_Au42B7J5qwe",
+    "news_item_snippet": "Der Linken gelingt am Wahlabend gelingt ein Triumph, den vor wenigen Wochen noch niemand kommen sah. Wie haben sie das geschafft?",
+    "news_item_url": "https://www.morgenpost.de/politik/article408347818/die-linke-lebt-wie-eine-partei-von-den-toten-auferstand.html",
+    "picture_source": "taz.de",
+    "approx_traffic": "100,000+"
   },
   {
     "country": "Germany",
@@ -491,23 +551,63 @@
   },
   {
     "country": "Germany",
+    "title": "Friedrich Merz",
+    "pubDate": "Sun, 23 Feb 2025 13:00:00 +0100",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTQg25OhPnFaG8U4Qf-f8YEpwZc3TAEm9UYSBG5EVyFUD0MPvQKX56MOGNOvPyAye7TGiAWCL54",
+    "news_item_snippet": "Unionskanzlerkandidat Friedrich Merz kann der n\u00e4chste Bundeskanzler werden. Auf wen es jetzt ankommt \u2013 und warum es schiefgehen kann.",
+    "news_item_url": "https://www.morgenpost.de/politik/article408378971/bundestagswahl-2025-friedrich-merz-cdu-csu-union-wahlsieger.html",
+    "picture_source": "Capital - Wirtschaft ist Gesellschaft",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Germany",
     "title": "RB Leipzig \u2013 Heidenheim",
     "pubDate": "Sun, 23 Feb 2025 15:00:00 +0100",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRcTpv74uRK0sKkFyhN3u30Z78wHQ0sBNGxpiXffBkRojf3TY-C6U76uyW6FzQzpd91vvGxRVC9",
-    "news_item_snippet": "RB Leipzig muss den n\u00e4chsten D\u00e4mpfer verkraften. Gegen Abstiegskandidat 1. FC Heidenheim kam die Mannschaft von Trainer Marco Rose nicht \u00fcber ein Remis&nbsp;...",
-    "news_item_url": "https://www.sportschau.de/fussball/bundesliga/leipzig-stottert-sich-gegen-heidenheim-zum-remis,bundesliga-rbl-fch-100.html",
-    "picture_source": "kicker",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSk9nPbgujLAWqu19bTkOH1j-vJ73KHfHNBIazXr_6RD9tYL9JVjpsL5mEl3NhadXmWGymzJMFW",
+    "news_item_snippet": "Liveticker mit allen Spielereignissen, Toren und Statistiken zum Spiel RB Leipzig - 1. FC Heidenheim.",
+    "news_item_url": "https://www.kicker.de/leipzig-gegen-heidenheim-2025-bundesliga-4936984/ticker",
+    "picture_source": "Sportschau",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Germany",
+    "title": "K\u00f6ln \u2013 D\u00fcsseldorf",
+    "pubDate": "Sun, 23 Feb 2025 14:00:00 +0100",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQzx_LnEKU9Ni2Niz_MZNuiNdCMvwVYvMviKplUHWaTSvERLrLLn7WO3RkveTo-LQ3Gl94gNsTU",
+    "news_item_snippet": "90&#39; Das Rheinische Derby endet ohne Sieger. Der 1. FC K\u00f6ln und Fortuna D\u00fcsseldorf trennen sich unentschieden. W\u00e4hrend der Effzeh gerne gewonnen h\u00e4tte, kann F95&nbsp;...",
+    "news_item_url": "https://www.kicker.de/koeln-gegen-duesseldorf-2025-bundesliga-4937280/ticker",
+    "picture_source": "Sportschau",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Germany",
+    "title": "Wahlbeteiligung",
+    "pubDate": "Sun, 23 Feb 2025 13:00:00 +0100",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRwknXOi9KdhlX3LYc04h-SetW4Jk9snyJf5BgVP8FZeOLIrJbPM1bnLTm3g06O9b1KAhthSLOn",
+    "news_item_snippet": "H\u00f6here Wahlbeteiligung bei der Bundestagswahl 2025 als 2021: Laut Prognose der Forschungsgruppe Wahlen stimmten 83 Prozent der W\u00e4hler ab.",
+    "news_item_url": "https://www.zdf.de/nachrichten/politik/deutschland/wahlbeteiligung-bundestagswahl-2025-bundeswahlleiterin-100.html",
+    "picture_source": "NDR.de",
     "approx_traffic": "50,000+"
   },
   {
     "country": "Germany",
     "title": "Bundestagswahl 2025",
-    "pubDate": "Sat, 22 Feb 2025 23:00:00 +0100",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSCzqlyX3gMeUrprdGgQpOjQNQNBjo88kDBRHWehKJy5cbz8Yxon8fnJn_WgW9ZP0rciUEFJsw0",
-    "news_item_snippet": "Die Union mit Kanzlerkandidat Merz geht als st\u00e4rkste Kraft aus der vorgezogenen Bundestagswahl hervor. Die AfD kommt laut ARD-Hochrechnung mit hohen&nbsp;...",
-    "news_item_url": "https://www.tagesschau.de/inland/bundestagswahl/bundestagswahl-ergebnisse-100.html",
-    "picture_source": "hessenschau.de",
-    "approx_traffic": "2,000,000+"
+    "pubDate": "Sat, 22 Feb 2025 16:00:00 +0100",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQ21urv0wPE8x5AmoKH_xC1Dj0oM58Mjft7IyhFDSYY4IzYS8o9fb49iiMwVEaavnJyLwltZGqg",
+    "news_item_snippet": "Die Union wird bei der Bundestagswahl laut Prognose st\u00e4rkste Kraft, auch die AfD legt deutlich zu und landet auf Platz zwei. Die SPD rutscht ab.",
+    "news_item_url": "https://www.hessenschau.de/politik/bundestagswahl/prognose-zur-bundestagswahl-2025-union-gewinnt-die-wahl-afd-auf-platz-zwei-v2,bundestagswahl-2025-hessen-100.html",
+    "picture_source": "tagesschau.de",
+    "approx_traffic": "5,000,000+"
+  },
+  {
+    "country": "Germany",
+    "title": "Tagesschau",
+    "pubDate": "Sat, 22 Feb 2025 14:00:00 +0100",
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRv57b3p8UEgUsONCPEJa7LdiFvOzUTvYPhoN4hAJ0KCd02NrTF5TTn9s5aM5I4edVVih3CY1_ZbA",
+    "news_item_snippet": "Welche W\u00e4hlergruppen stimmten f\u00fcr welche Partei? Bei wem machten M\u00e4nner und Frauen ihr Kreuz? Wer lag bei jungen Menschen vorn und wer bei \u00e4lteren?",
+    "news_item_url": "https://www.tagesschau.de/inland/bundestagswahl/wahlverhalten-bevoelkerungsgruppen-umfragen-bundestagswahl-2025-100.html",
+    "picture_source": "tagesschau.de",
+    "approx_traffic": "100,000+"
   },
   {
     "country": "Germany",
@@ -520,26 +620,6 @@
     "approx_traffic": "100,000+"
   },
   {
-    "country": "Germany",
-    "title": "Augsburg \u2013 RB Leipzig",
-    "pubDate": "Fri, 14 Feb 2025 20:00:00 +0100",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTEum8SsrhUOBXPlhqY1jZw7WZx0Zfs7mzw4JVZ1wYDxtU1nrPqkQVXMAtkQcCySaFlFLveg4kR",
-    "news_item_snippet": "Hier findet ihr die Stimmen von David Raum, Peter Gulacsi und Marco Rose nach dem 0:0-Unentschieden gegen den FC Augsburg.",
-    "news_item_url": "https://rbleipzig.com/de/news/stimmen-fc-augsburg-vs-rb-leipzig-bundesliga-am-14-februar-2025",
-    "picture_source": "RB Leipzig",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Germany",
-    "title": "M\u00fcnchen",
-    "pubDate": "Thu, 13 Feb 2025 12:00:00 +0100",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcS9asgYGXlbs8N5Vc8zuoK_I0dPk-jt7I9jnIdmYTn2b-1D96bdAnVq97VboMNz2L-MwxFHWJHB",
-    "news_item_snippet": "Aktuellen Zahlen vom Freitag zufolge wurden bei der Fahrt eines 24-J\u00e4hrigen mit einem Auto in eine Menschengruppe am Donnerstag 39 Menschen verletzt, zwei von&nbsp;...",
-    "news_item_url": "https://www.swr.de/swraktuell/rheinland-pfalz/reaktionen-auf-mutmasslichen-anschlag-in-muenchen-100.html",
-    "picture_source": "tagesschau.de",
-    "approx_traffic": "500,000+"
-  },
-  {
     "country": "Italy",
     "title": "Verona-Fiorentina",
     "pubDate": "Sun, 23 Feb 2025 15:00:00 +0100",
@@ -550,14 +630,34 @@
     "approx_traffic": "100,000+"
   },
   {
+    "country": "Italy",
+    "title": "Empoli-Atalanta",
+    "pubDate": "Sun, 23 Feb 2025 17:00:00 +0100",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcS4WN_-48kq9-r_hGj2oQjvCmR_3X-4Yt2lfJoYnukC9BjgiKVXDqxSHattD0k934L7-cF3mj2F",
+    "news_item_snippet": "La partita Empoli-Atalanta della 26^ giornata di Serie A si gioca oggi, domenica 23 febbraio, alle ore 18.00 in diretta su Sky Sport Calcio, Sky Sport 251 e&nbsp;...",
+    "news_item_url": "https://sport.sky.it/calcio/serie-a/2025/02/23/empoli-atalanta-dove-vedere-tv-streaming",
+    "picture_source": "Atalanta",
+    "approx_traffic": "50,000+"
+  },
+  {
     "country": "Mexico",
     "title": "Real Madrid - Girona",
     "pubDate": "Sun, 23 Feb 2025 09:00:00 -0600",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSzCHmklImWZdGXVOHHKl9nGrOIo6YgTzH9QgNED7GMCdAbHt3yE6chO5Cug5gBQ2CgytQddOgx",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTsi1xwtKluJjdz_iXkQtQY7Imy9ZFp8qFwd__u3hNUo0DtD1vdOm1Vp2Bjg6kBC-EzUegEB18k",
     "news_item_snippet": "Modric anot\u00f3 en la primera parte un golazo de volea | Vinicius sentenci\u00f3 el partido en la segunda tras una buena combinaci\u00f3n con Mbapp\u00e9.",
     "news_item_url": "https://elpais.com/deportes/futbol/2025-02-23/real-madrid-girona-en-directo-el-partido-de-laliga-en-vivo.html",
-    "picture_source": "MARCA.com",
-    "approx_traffic": "100,000+"
+    "picture_source": "EL PA\u00cdS",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "Mexico",
+    "title": "Manchester City - Liverpool",
+    "pubDate": "Sun, 23 Feb 2025 09:00:00 -0600",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRWfi6Ms2DEhpw0cX1cgTn2os2Vh_xM_hI2ajvLeUzsgSHVU_AFhCjnL9d-fMOVTVZy9YGxpipZ",
+    "news_item_snippet": "Remate rechazado de Phil Foden (Manchester City) remate con la izquierda desde fuera del \u00e1rea. J\u00e9r\u00e9my Doku (Manchester City) ha recibido una falta en.",
+    "news_item_url": "https://www.marca.com/mx/futbol/m-city-liverpool/2025/02/23/01_0106_20250223_43_14-directo.html",
+    "picture_source": "ESPN",
+    "approx_traffic": "50,000+"
   },
   {
     "country": "Mexico",
@@ -567,16 +667,6 @@
     "news_item_snippet": "Sigue el marcador Chivas - Pachuca En Vivo por internet. Minuto a minuto del partido del Guadalajara: hora, canal, alineaciones y m\u00e1s, desde el Estadio&nbsp;...",
     "news_item_url": "https://www.marca.com/mx/futbol/liga-mx/guadalajara-pachuca/2025/02/23/01_0168_20250223_1283_1295-directo.html",
     "picture_source": "Infobae.com",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "Mexico",
-    "title": "UD Las Palmas  Barcelona",
-    "pubDate": "Sat, 22 Feb 2025 14:00:00 -0600",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQGk1cIBTfk6N1MDD0zShWp8iAbV86Kciwf6sP7PxmzP2qB4rrgA4oqUOJUnejCOJdDf3D6cM24",
-    "news_item_snippet": "El FC Barcelona se ha impuesto por la m\u00ednima (0-1) a la UD Las Palmas este s\u00e1bado en partido de la jornada 25 de LaLiga EA Sports.",
-    "news_item_url": "https://www.rtve.es/deportes/20250222/palmas-barcelona-directo-resumen-resultado-liga-jornada-25/16458342.shtml",
-    "picture_source": "MARCA.com",
     "approx_traffic": "200,000+"
   },
   {
@@ -591,12 +681,22 @@
   },
   {
     "country": "Mexico",
+    "title": "UD Las Palmas  Barcelona",
+    "pubDate": "Sat, 22 Feb 2025 14:00:00 -0600",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQGk1cIBTfk6N1MDD0zShWp8iAbV86Kciwf6sP7PxmzP2qB4rrgA4oqUOJUnejCOJdDf3D6cM24",
+    "news_item_snippet": "El FC Barcelona se ha impuesto por la m\u00ednima (0-1) a la UD Las Palmas este s\u00e1bado en partido de la jornada 25 de LaLiga EA Sports.",
+    "news_item_url": "https://www.rtve.es/deportes/20250222/palmas-barcelona-directo-resumen-resultado-liga-jornada-25/16458342.shtml",
+    "picture_source": "MARCA.com",
+    "approx_traffic": "200,000+"
+  },
+  {
+    "country": "Mexico",
     "title": "Torino  Milan",
     "pubDate": "Sat, 22 Feb 2025 11:00:00 -0600",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRFGaJZ2u466uSzPSkgATGPxa5iR9MfiEwXIOE-rKMuhua_rPFT3Xywwp7NTHGUXxFXYaxpxpbn",
-    "news_item_snippet": "Sigue todos los detalles del Torino vs Milan, partido de la Jornada 26 de la Serie A, as\u00ed como tambi\u00e9n el canal y horario para ver el juego EN VIVO.",
-    "news_item_url": "https://www.foxsports.com.mx/2025/02/22/va-por-tv-abierta-torino-vs-milan-en-vivo-donde-ver-hoy-a-santiago-gimenez-y-hora-serie-a-italia-2024-25/",
-    "picture_source": "Fox Sports",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTnMeYeuSE_i80-mJIwS-7m6mRQ_L0xO8zDJC9gC7oeROhDnIrYqpU_A0xEmcppHatp6ycKNtGl",
+    "news_item_snippet": "Sigue en vivo el minuto a minuto del Torino vs Milan, por la jornada 26 del Serie A, este s\u00e1bado 22 de febrero a las 11:00 hrs.",
+    "news_item_url": "https://mexico.as.com/mexico/torino-vs-milan-en-vivo-santiago-gimenez-en-la-serie-a-hoy-en-directo-n/",
+    "picture_source": "AS Mexico",
     "approx_traffic": "200,000+"
   },
   {
@@ -610,44 +710,44 @@
     "approx_traffic": "100,000+"
   },
   {
-    "country": "Mexico",
-    "title": "Inter Miami  NYC FC",
-    "pubDate": "Sat, 22 Feb 2025 15:00:00 -0600",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSeCStcEKzJS19-aoDlxZrlDyUNQwwF24m1oZ226e07F89EMngixrG9YF7zzgCsk5EOsNQJw5jg",
-    "news_item_snippet": "Leo dio dos asistencias de gol en el empate de Inter Miami ante NYC por 2-2, en el debut de la franquicia de Florida en la MLS.",
-    "news_item_url": "https://messi.com/doble-asistencia-de-leo-en-el-empate-de-inter-miami-ante-nycfc/",
-    "picture_source": "AS",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Mexico",
-    "title": "Aston Villa - Chelsea",
-    "pubDate": "Sat, 22 Feb 2025 11:00:00 -0600",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRE5CbEOCijo1F-fOgevy2UuOEQi_WG-HNeJh_z8HrAtcm9bSFCp4NwDTIm_x34S63XMtzWj7Jy",
-    "news_item_snippet": "Duelo directo en la busca de puestos de competencias europeas. La jornada 26 de la Premier League no se detiene y en esta oportunidad, se enfrentan Aston Villa&nbsp;...",
-    "news_item_url": "https://www.goal.com/es-mx/noticias/en-mexico-que-canal-transmite-aston-villa-vs-chelsea-premier-league-2024-2025-hora/bltbaf1870bb81e4e43",
-    "picture_source": "AS",
-    "approx_traffic": "50,000+"
-  },
-  {
     "country": "Spain",
     "title": "Real Madrid - Girona",
     "pubDate": "Sun, 23 Feb 2025 15:00:00 +0100",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRFoYutMgMZybcIX-NpohzUWDp1G0UpO47coYxt1Kycb09kwA8PU7k7a8FdIkPgKE1_BbJQXp4J",
-    "news_item_snippet": "Modric anot\u00f3 en la primera parte un golazo de volea | Vinicius sentenci\u00f3 el partido en la segunda tras una buena combinaci\u00f3n con Mbapp\u00e9.",
-    "news_item_url": "https://elpais.com/deportes/futbol/2025-02-23/real-madrid-girona-en-directo-el-partido-de-laliga-en-vivo.html",
-    "picture_source": "RTVE",
-    "approx_traffic": "200,000+"
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTsi1xwtKluJjdz_iXkQtQY7Imy9ZFp8qFwd__u3hNUo0DtD1vdOm1Vp2Bjg6kBC-EzUegEB18k",
+    "news_item_snippet": "El Real Madrid vence 2-0 al Girona gracias a los goles de Modric y Vinicius. Los blancos se reencuentran con la victoria y empatan con 54 puntos con el&nbsp;...",
+    "news_item_url": "https://www.rtve.es/deportes/20250223/real-madrid-girona-directo-partido-jornada-25-laliga/16458394.shtml",
+    "picture_source": "EL PA\u00cdS",
+    "approx_traffic": "500,000+"
   },
   {
     "country": "Spain",
-    "title": "Athletic - Valladolid",
+    "title": "Athletic  Valladolid",
     "pubDate": "Sun, 23 Feb 2025 14:00:00 +0100",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRRaOAal2jDY4VSXkJ-g9K2mLkGnNh4nWDilQ-elmhwGSwz5uizFQm_iboQV99Sy2HGDt5GRSYZ",
-    "news_item_snippet": "Sigue en vivo y en directo el Athletic Club - Real Valladolid, partido correspondiente a la 25\u00aa jornada de LaLiga EA Sports que se disputa hoy.",
-    "news_item_url": "https://as.com/futbol/primera/athletic-club-real-valladolid-en-directo-laliga-ea-sports-hoy-en-vivo-n/",
+    "news_item_snippet": "Nico Williams (2), Maroan, Jauregizar, Sancet, Guruzeta e I\u00f1aki Williams fueron los goleadores. El el marcador m\u00e1s abultado de la historia del nuevo San&nbsp;...",
+    "news_item_url": "https://www.rtve.es/deportes/20250223/athletic-insaciable-asesta-goelada7-1-valladolid-colista/16462648.shtml",
     "picture_source": "MARCA",
     "approx_traffic": "100,000+"
+  },
+  {
+    "country": "Spain",
+    "title": "Manchester City  Liverpool",
+    "pubDate": "Sun, 23 Feb 2025 17:00:00 +0100",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTYWRtziKkOQyffE6CSSSqJlZl4AgNZGxNJ923IZDIFgIrVMRkJ1YXSwgfZiw_POrOePMBneH07",
+    "news_item_snippet": "Los Reds podr\u00edan estirar a 11 puntos su ventaja sobre Arsenal.",
+    "news_item_url": "https://espndeportes.espn.com/futbol/inglaterra/nota/_/id/14833507/manchester-city-vs-liverpool-alineaciones-fecha-26-premier-league-2025",
+    "picture_source": "MARCA.com",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United Kingdom",
+    "title": "Man City vs Liverpool",
+    "pubDate": "Sun, 23 Feb 2025 16:00:00 +0000",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcShBw0xANcTL7WIQnXEqOdrY2pIMAOQUwyKEkXrnkzsKaf9sQf0jmktpDSN1UOv5-_T2ppDr3G_",
+    "news_item_snippet": "Follow the build-up and live text commentary as Man City host league leaders Liverpool at the Etihad Stadium.",
+    "news_item_url": "https://www.aljazeera.com/sports/liveblog/2025/2/23/live-manchester-city-vs-liverpool-english-premier-league",
+    "picture_source": "Manchester City FC",
+    "approx_traffic": "200,000+"
   },
   {
     "country": "United Kingdom",
@@ -663,20 +763,10 @@
     "country": "United Kingdom",
     "title": "Pakistan vs India",
     "pubDate": "Sun, 23 Feb 2025 09:00:00 +0000",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQo_D8dmQ8edWDqqa6fQ4uE6c0jUmG40zJ1I0SlFtN0JqyUZJ4pgDAtnlUZ8FkNTWOFqPGpUPwt",
-    "news_item_snippet": "Virat Kohli hits an unbeaten century as India beat Pakistan by five wickets in the Champions Trophy.",
-    "news_item_url": "https://www.bbc.com/sport/cricket/articles/c99nr9nmlxjo",
-    "picture_source": "BBC Sport",
-    "approx_traffic": "100,000+"
-  },
-  {
-    "country": "United Kingdom",
-    "title": "Man City vs Liverpool",
-    "pubDate": "Sun, 23 Feb 2025 16:00:00 +0000",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSbaPHS1nBWt9sAQ3hhdiwXY3CnlTj6kKmOCGmC9YlznxYa-qyUFVMgDopXTS2HVK_D9SwwKgqO",
-    "news_item_snippet": "Follow the build-up and live text commentary as Man City host league leaders Liverpool at the Etihad Stadium.",
-    "news_item_url": "https://www.aljazeera.com/sports/liveblog/2025/2/23/live-manchester-city-vs-liverpool-english-premier-league",
-    "picture_source": "Manchester City FC",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQw859pitFXQoJad5HqyyukAhmTDvp_7kv7LnTdkzll8ge-sZJBz9UBvBfv5zwr8XS6KQf1onIC",
+    "news_item_snippet": "Pakistan face India in the Champions in Dubai - follow live cricket scores, text updates, in-play video clips and radio commentary.",
+    "news_item_url": "https://www.bbc.co.uk/sport/cricket/live/cwyw2wjz3y2t",
+    "picture_source": "BBC News",
     "approx_traffic": "100,000+"
   },
   {
@@ -684,9 +774,19 @@
     "title": "India vs Pakistan",
     "pubDate": "Sun, 23 Feb 2025 09:00:00 +0000",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQw859pitFXQoJad5HqyyukAhmTDvp_7kv7LnTdkzll8ge-sZJBz9UBvBfv5zwr8XS6KQf1onIC",
-    "news_item_snippet": "India vs Pakistan Highlights, ICC Champions Trophy 2025: Virat Kohli smashed a special 51st ODI ton, guiding India to a six-wicket victory over Pakistan in&nbsp;...",
-    "news_item_url": "https://sports.ndtv.com/icc-champions-trophy-2025/india-vs-pakistan-live-score-icc-champions-trophy-2025-cricket-match-ind-vs-pak-live-scorecard-updates-7774284",
+    "news_item_snippet": "Champions Trophy 2024/25, India vs Pakistan Match Report: He set up India for a semi-final spot and essentially crossed out Pakistan from the 2025 Champions&nbsp;...",
+    "news_item_url": "https://www.espncricinfo.com/series/icc-champions-trophy-2024-25-1459031/india-vs-pakistan-5th-match-group-a-1466418/match-report",
     "picture_source": "BBC News",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United Kingdom",
+    "title": "German elections",
+    "pubDate": "Sun, 23 Feb 2025 11:00:00 +0000",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcS-p50lm-1FYjLNcGBTIH8CtNRiKQAB18rEqVJmu7UyWEpqozUpfZvShqqsZ36A4wWzUc0MrqGf",
+    "news_item_snippet": "Germans are going to the polls to vote for a new federal government after the three-party coalition fell apart at the end of last year, prompting a snap&nbsp;...",
+    "news_item_url": "https://www.bbc.com/news/live/ckg82wwrwy6t",
+    "picture_source": "The Guardian",
     "approx_traffic": "50,000+"
   },
   {
@@ -781,11 +881,11 @@
   },
   {
     "country": "United Kingdom",
-    "title": "P&O cruises norovirus",
+    "title": "P&O Cruises norovirus",
     "pubDate": "Sat, 22 Feb 2025 11:00:00 +0000",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSejI6rg82fBf4UVROVOJ3oIBucrDRlERXPyqVEM74QsUhT_YQ6O3XzYw1ARl9p2kG2Pxrd5b3H",
-    "news_item_snippet": "EXCLUSIVE: Passengers on board a stunning cruise ship have complained after their cruise turned into a nightmare.",
-    "news_item_url": "https://www.express.co.uk/news/world/2018125/p-o-cruise-norovirus-outbreak-latest",
+    "news_item_snippet": "A cruise ship passenger has described &#39;nightmare&#39; scenes after a suspected outbreak of norovirus left passengers and crew ill - reportedly vomiting in&nbsp;...",
+    "news_item_url": "https://uk.news.yahoo.com/passenger-describes-nightmare-norovirus-outbreak-112453968.html",
     "picture_source": "Cornwall Live",
     "approx_traffic": "50,000+"
   }
