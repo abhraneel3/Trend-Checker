@@ -1,16 +1,6 @@
 [
   {
     "country": "United States",
-    "title": "SAG Awards 2025",
-    "pubDate": "Sun, 23 Feb 2025 11:00:00 -0800",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTSaBzEMrhYneoZTj3rZT7y37Ec-s-DlPQolo-uhbnobSCP1cSBTmNOPahPCmXX3fJYw4YI-A0O",
-    "news_item_snippet": "The 31st annual Screen Actors Guild Awards were handed out Sunday night. In the film categories, Conclave won the award for best performance by a cast. Timoth\u00e9e&nbsp;...",
-    "news_item_url": "https://www.hollywoodreporter.com/lists/sag-awards-2025-winners-list/",
-    "picture_source": "Forbes",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "United States",
     "title": "Joy Reid cancelled",
     "pubDate": "Sun, 23 Feb 2025 07:00:00 -0800",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQMFjZtZ4Gz8G5nDaJpkaA_msLvTkaWDfgJhP3uOtlnCUKKmH6YThQbK-KCj0Cjmt4kbnn3cfP3",
@@ -21,22 +11,12 @@
   },
   {
     "country": "United States",
-    "title": "Real Madrid",
-    "pubDate": "Sun, 23 Feb 2025 07:00:00 -0800",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRNCP7HH53J8xEPG6HzkqRt3QYrZrwvyrG9QWjEgSW2vCYXrggL0TL5naF_4-oX4NMPGGUrRPNF",
-    "news_item_snippet": "Luka Modric has scored a beautiful long-range goal in Real Madrid&#39;s 2-0 home win against Girona that moved the defending champion level on points in the&nbsp;...",
-    "news_item_url": "https://apnews.com/article/real-madrid-luka-modric-spanish-league-91f1257c0ad6da5fef12b82b86d01ca5",
-    "picture_source": "Real Madrid",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "United States",
-    "title": "India vs Pakistan",
-    "pubDate": "Sun, 23 Feb 2025 01:00:00 -0800",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTNN0WeIoMdNK6qn9iTfOS4bpqCu9QKI6Plk3DB0TM43m-yiAOmWMxkO-k8u7ithO1sKL5zbrtP",
-    "news_item_snippet": "Virat Kohli hits an unbeaten century as India beat Pakistan by five wickets in the Champions Trophy.",
-    "news_item_url": "https://www.bbc.com/sport/cricket/articles/c99nr9nmlxjo",
-    "picture_source": "Olympics",
+    "title": "SAG Awards 2025",
+    "pubDate": "Sun, 23 Feb 2025 11:00:00 -0800",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTSaBzEMrhYneoZTj3rZT7y37Ec-s-DlPQolo-uhbnobSCP1cSBTmNOPahPCmXX3fJYw4YI-A0O",
+    "news_item_snippet": "The 31st annual Screen Actors Guild Awards were handed out Sunday night. In the film categories, Conclave won the award for best performance by a cast. Timoth\u00e9e&nbsp;...",
+    "news_item_url": "https://www.hollywoodreporter.com/lists/sag-awards-2025-winners-list/",
+    "picture_source": "Forbes",
     "approx_traffic": "200,000+"
   },
   {
@@ -48,6 +28,16 @@
     "news_item_url": "https://www.espn.com/soccer/story/_/id/43983462/man-city-vs-liverpool-arne-slot-plays-title-talk-win",
     "picture_source": "Aljazeera.com",
     "approx_traffic": "200,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Real Madrid",
+    "pubDate": "Sun, 23 Feb 2025 10:00:00 -0800",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRNCP7HH53J8xEPG6HzkqRt3QYrZrwvyrG9QWjEgSW2vCYXrggL0TL5naF_4-oX4NMPGGUrRPNF",
+    "news_item_snippet": "Luka Modric has scored a beautiful long-range goal in Real Madrid&#39;s 2-0 home win against Girona that moved the defending champion level on points in the&nbsp;...",
+    "news_item_url": "https://apnews.com/article/real-madrid-luka-modric-spanish-league-91f1257c0ad6da5fef12b82b86d01ca5",
+    "picture_source": "Real Madrid",
+    "approx_traffic": "100,000+"
   },
   {
     "country": "United States",
@@ -67,6 +57,16 @@
     "news_item_snippet": "Here&#39;s everything you need to remember about Yellowstone prequel &#39;1923&#39; season 1 before watching Season 2. The show stars Harrison Ford, Helen Mirren,&nbsp;...",
     "news_item_url": "https://www.menshealth.com/entertainment/a63855554/1923-season-1-recap/",
     "picture_source": "973thedawg.com",
+    "approx_traffic": "100,000+"
+  },
+  {
+    "country": "United States",
+    "title": "Pakistan vs India",
+    "pubDate": "Sun, 23 Feb 2025 05:00:00 -0800",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTNN0WeIoMdNK6qn9iTfOS4bpqCu9QKI6Plk3DB0TM43m-yiAOmWMxkO-k8u7ithO1sKL5zbrtP",
+    "news_item_snippet": "Virat Kohli hits an unbeaten century as India beat Pakistan by five wickets in the Champions Trophy.",
+    "news_item_url": "https://www.bbc.com/sport/cricket/articles/c99nr9nmlxjo",
+    "picture_source": "Olympics",
     "approx_traffic": "100,000+"
   },
   {
@@ -111,6 +111,16 @@
   },
   {
     "country": "United States",
+    "title": "Jane Fonda",
+    "pubDate": "Sun, 23 Feb 2025 19:00:00 -0800",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcR8mPi2EavwzdI_xS5GzB1e1N1bff04j11t9OrsoaZEvNd8NaW0bojkpjNNz6lUDjPU0S4-98cc",
+    "news_item_snippet": "Fonda joins an impressive list of artists awarded the Life Achievement Award from the Screen Actors Guild. Last year&#39;s recipient was \u201cFunny Girl\u201d Oscar winner&nbsp;...",
+    "news_item_url": "https://wwd.com/pop-culture/celebrity-news/jane-fonda-armani-dress-sag-awards-1236971344/",
+    "picture_source": "CNN",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "United States",
     "title": "Knicks",
     "pubDate": "Sun, 23 Feb 2025 19:00:00 -0800",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQaO7_Dq51GmlL1VOwk0omMMdhYcTxm6uwHIfzUlYXwh92fdxxs2fPg9zclGn1csJVhFPdd-yK4",
@@ -141,32 +151,42 @@
   },
   {
     "country": "India",
-    "title": "La Liga",
-    "pubDate": "Mon, 24 Feb 2025 02:30:00 +0530",
-    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSNehcxFFwDK7fHknJx9nbtvj2bKlTmHIwBJiUTo2V6Z28IW-ZaTyJll3mKVynVVV3OSxU0gkQN",
-    "news_item_snippet": "Luka Modric draws the plaudits for a man of the match performance in midfield.",
-    "news_item_url": "https://www.managingmadrid.com/2025/2/24/24371404/player-ratings-real-madrid-2-0-girona-2025-la-liga",
-    "picture_source": "Sportstar",
-    "approx_traffic": "100,000+"
+    "title": "Real Madrid",
+    "pubDate": "Mon, 24 Feb 2025 06:30:00 +0530",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRNCP7HH53J8xEPG6HzkqRt3QYrZrwvyrG9QWjEgSW2vCYXrggL0TL5naF_4-oX4NMPGGUrRPNF",
+    "news_item_snippet": "Luka Modric scored a brilliant goal from long range to help Real Madrid secure a 2-0 win against Girona on Sunday.",
+    "news_item_url": "https://sports.ndtv.com/football/la-liga-luka-modric-stunner-maintains-real-madrid-title-charge-7780793",
+    "picture_source": "Real Madrid",
+    "approx_traffic": "50,000+"
   },
   {
     "country": "India",
-    "title": "Pakistan vs India",
-    "pubDate": "Sun, 23 Feb 2025 03:30:00 +0530",
+    "title": "ICC Champions Trophy",
+    "pubDate": "Sun, 23 Feb 2025 13:30:00 +0530",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcTNN0WeIoMdNK6qn9iTfOS4bpqCu9QKI6Plk3DB0TM43m-yiAOmWMxkO-k8u7ithO1sKL5zbrtP",
-    "news_item_snippet": "Champions Trophy 2024/25, India vs Pakistan Match Report: Kohli set up India for a semi-final spot and all but crossed out Pakistan from the 2025 Champions&nbsp;...",
-    "news_item_url": "https://www.espncricinfo.com/series/icc-champions-trophy-2024-25-1459031/india-vs-pakistan-5th-match-group-a-1466418/match-report",
+    "news_item_snippet": "Bangladesh and New Zealand will square off in the sixth match of the ICC Champions Trophy 2024 on February 24 at Rawalpindi Cricket Stadium.",
+    "news_item_url": "https://www.business-standard.com/cricket/champions-trophy/bangladesh-vs-new-zealand-head-to-head-stats-in-icc-champions-trophy-125022300332_1.html",
     "picture_source": "Olympics",
-    "approx_traffic": "5,000,000+"
+    "approx_traffic": "2,000,000+"
+  },
+  {
+    "country": "India",
+    "title": "Live Score",
+    "pubDate": "Sun, 23 Feb 2025 14:30:00 +0530",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTab9UmdqqhNE21DghEw0WLO8ebFprrvalC0hmgnGsvd90YGNBhlSuONdm76UZIU9y2E85u0xxl",
+    "news_item_snippet": "BAN vs NZ Champions Trophy Live: New Zealand captain Mitchell Santner won the toss and opted to bowl against Bangladesh in their Champions Trophy Group A&nbsp;...",
+    "news_item_url": "https://sports.ndtv.com/icc-champions-trophy-2025/bangladesh-vs-new-zealand-live-score-updates-champions-trophy-live-streaming-live-scorecard-7781612",
+    "picture_source": "Livemint",
+    "approx_traffic": "500,000+"
   },
   {
     "country": "India",
     "title": "Sports",
     "pubDate": "Sun, 23 Feb 2025 17:30:00 +0530",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTg5QjeviuE6NVcZNYr0yZgiLViyTiAdz4V4JOELHnjkYtJtRcwvqE2zvRxGmFvs79KGoKRVIT5",
-    "news_item_snippet": "sports \u0d38\u0d4d\u0d2a\u0d4b\u0d7c\u0d1f\u0d4d\u0d38\u0d4d \u0d2e\u0d46\u0d21\u0d3f\u0d38\u0d3f\u0d7b, \u0d38\u0d4d\u0d2a\u0d4b\u0d7c\u0d1f\u0d4d\u0d38\u0d4d \u0d38\u0d2f\u0d7b\u0d38\u0d4d \u0d0e\u0d28\u0d4d\u0d28\u0d3f\u0d35\u0d2f\u0d3f\u0d32\u0d46 \u0d06\u0d27\u0d41\u0d28\u0d3f\u0d15 \u0d2a\u0d4d\u0d30\u0d35\u0d23\u0d24\u0d15\u0d33\u0d46\u0d15\u0d4d\u0d15\u0d41\u0d31\u0d3f\u0d1a\u0d4d\u0d1a\u0d41\u0d33\u0d4d\u0d33 \u0d26\u0d47\u0d36\u0d40\u0d2f \u0d38\u0d46\u0d2e\u0d3f\u0d28\u0d3e\u0d7c \u0d06\u0d32\u0d2a\u0d4d\u0d2a\u0d41\u0d34\u0d2f\u0d3f\u0d32\u0d46 \u0d38\u0d3e\u0d2f\u0d4d \u0d28\u0d3e\u0d37\u0d23\u0d7d \u0d38\u0d46\u0d28\u0d4d\u0d31\u0d7c&nbsp;...",
-    "news_item_url": "https://www.twentyfournews.com/2025/02/23/national-seminar-highlights-progress-in-sports-sector.html",
-    "picture_source": "Deshabhimani",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQsDPpM8hzfWdKeM-4v-FOTN1KiueeWQqINyA34-RGuY2aTIESMMqk1AY_WYm9g-UIg1woJVswc",
+    "news_item_snippet": "\u0d26\u0d2e\u0d4d\u0d2e\u0d3e\u0d02: \u0d28\u0d35\u0d4b\u0d26\u0d2f \u0d15\u0d4b\u0d2c\u0d3e\u0d7c \u0d0f\u0d30\u0d3f\u0d2f, \u0d31\u0d3e\u0d15\u0d4d\u0d15 \u0d15\u0d41\u0d1f\u0d41\u0d02\u0d2c\u0d35\u0d47\u0d26\u0d3f\u0d2f\u0d41\u0d1f\u0d46 \u0d06\u0d2d\u0d3f\u0d2e\u0d41\u0d16\u0d4d\u0d2f\u0d24\u0d4d\u0d24\u0d3f\u0d7d \u0d0f\u0d15\u0d26\u0d3f\u0d28 \u0d38\u0d4d\u0d2a\u0d4b\u0d7c\u0d1f\u0d4d\u0d38\u0d4d \u0d2e\u0d40\u0d31\u0d4d\u0d31\u0d4d \u0d35\u0d3f\u0d1c\u0d2f\u0d15\u0d30\u0d2e\u0d3e\u0d2f\u0d3f \u0d38\u0d2e\u0d3e\u0d2a\u0d3f\u0d1a\u0d4d\u0d1a\u0d41.",
+    "news_item_url": "https://www.deshabhimani.com/pravasi/news-05312/navodaya-raka-kudumbavedi-sports-meet-concluded-42023",
+    "picture_source": "Livemint",
     "approx_traffic": "200,000+"
   },
   {
@@ -174,8 +194,8 @@
     "title": "Babar Azam",
     "pubDate": "Sun, 23 Feb 2025 13:30:00 +0530",
     "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQHoGj9q4yIvKJIQ0XS1AZGdZRj2nTi1NX7ExrN1wv7Y8Q30Ooh0gZQA_63U2LJSoTvBkNlPiNs",
-    "news_item_snippet": "Babar Azam&#39;s promising start with five boundaries ended abruptly when he was dismissed by Hardik Pandya, caught by KL Rahul. Pandya celebrated with a&nbsp;...",
-    "news_item_url": "https://m.economictimes.com/news/new-updates/king-kar-lega-disappoint-babar-azams-early-wicket-by-hardik-pandya-leads-to-meme-fest-on-social-media/articleshow/118502977.cms",
+    "news_item_snippet": "Hardik Pandya Ind vs Pak: In the ICC Champions Trophy 2025 match between India and Pakistan, Hardik Pandya secured a crucial wicket by dismissing Babar Azam&nbsp;...",
+    "news_item_url": "https://m.economictimes.com/news/sports/india-vs-pakistan-champions-trophy-2025-hardik-pandyas-cheeky-send-off-to-babar-azam-goes-viral/articleshow/118503013.cms",
     "picture_source": "Sportstar",
     "approx_traffic": "200,000+"
   },
@@ -191,22 +211,12 @@
   },
   {
     "country": "India",
-    "title": "Man City vs Liverpool",
-    "pubDate": "Sun, 23 Feb 2025 21:30:00 +0530",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRvQCEFSO3Ojvaqn3SNRkhazjT9OZOy84cigGmsJhgisFGu1-F76kkyfusEp8zXyqL81FVvAfy_",
-    "news_item_snippet": "City missed the chance to move up to third in the Premier League after losing 2-0 to Liverpool at the Etihad Stadium.",
-    "news_item_url": "https://www.mancity.com/news/mens/city-v-liverpool-premier-league-match-report-23-february-2025-63875923",
-    "picture_source": "Aljazeera.com",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "India",
     "title": "Mohammad Rizwan",
     "pubDate": "Sun, 23 Feb 2025 08:30:00 +0530",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcR_3EdyqvIRfW9VcdC2VM4Z9M2UzT3nEV9qgtN4Mm9QsOZcJ62Olv4eLLtaqPYyX8XbJDIZh-yk",
-    "news_item_snippet": "Pakistan captain admits the Champions Trophy&#39;s defending champions are all but out of the race, with their hopes now lying in many other results going their&nbsp;...",
-    "news_item_url": "https://www.espncricinfo.com/story/ind-vs-pak-mohammad-rizwan-after-india-loss-we-can-say-for-now-that-it-is-over-1474574",
-    "picture_source": "ICC Cricket",
+    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcS_9BLixHg6EMtYMNnAA_sYSTeR7uNYLmOPte3uoLzxX5swKyIRfSIqPo_r82UlYWjWNJbMcV3B",
+    "news_item_snippet": "Pakistan skipper Mohammad Rizwan will lament &#39;mistakes&#39;, as his side reflects on their heart-breaking ICC Champions Trophy defeat to rivals India.",
+    "news_item_url": "https://www.icc-cricket.com/tournaments/champions-trophy-2025/news/mohammad-rizwan-breaks-down-where-it-went-wrong-for-pakistan-against-india",
+    "picture_source": "ESPNcricinfo.com",
     "approx_traffic": "100,000+"
   },
   {
@@ -221,12 +231,12 @@
   },
   {
     "country": "India",
-    "title": "UGC NET",
-    "pubDate": "Sun, 23 Feb 2025 00:30:00 +0530",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcRZScw7M21OKSGLZ0YnZkVgFxMWPtStdqpcPsa_xhaaJKfUue7eRxSOo3Ny99FBnsge9PwCPOQp",
-    "news_item_snippet": "UGC NET 2025 Result: \u0932\u093e\u0916\u094b\u0902 \u0909\u092e\u094d\u092e\u0940\u0926\u0935\u093e\u0930\u094b\u0902 \u0915\u0947 \u0907\u0902\u0924\u091c\u093e\u0930 \u0915\u094b \u0916\u0924\u094d\u092e \u0915\u0930\u0924\u0947 \u0939\u0941\u090f \u090f\u0928\u091f\u0940\u090f \u0928\u0947 \u0926\u093f\u0938\u0902\u092c\u0930 \u0938\u0924\u094d\u0930 \u0915\u0947 \u092f\u0942\u091c\u0940\u0938\u0940 \u0928\u0947\u091f 2024 \u0930\u093f\u091c\u0932\u094d\u091f \u0918\u094b\u0937\u093f\u0924 \u0915\u0930 \u0926\u093f\u092f\u093e \u0939\u0948.",
-    "news_item_url": "https://ndtv.in/career/ugc-net-december-2024-exam-results-declared-5158-for-jrf-and-assistant-professor-while-more-than-one-lakh-candidates-passed-for-phd-admission-alone-di-7780628",
-    "picture_source": "\u0926\u0948\u0928\u093f\u0915 \u091c\u093e\u0917\u0930\u0923",
+    "title": "Pope Francis",
+    "pubDate": "Sun, 23 Feb 2025 16:30:00 +0530",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSeSJo5Pej_keiLNw89Age0bENPchPWDI4-unmHT-YZt6Qmq-AEqdhBmFWGfIJdHBlI96UqLJvo",
+    "news_item_snippet": "Pope Francis, battling double pneumonia, remains in a critical condition for a second day running and has shown an &quot;initial, slight insufficiency&quot; in his&nbsp;...",
+    "news_item_url": "https://www.ndtv.com/world-news/pope-francis-remains-critical-has-developed-slight-kidney-issue-7780052",
+    "picture_source": "Vatican News",
     "approx_traffic": "50,000+"
   },
   {
@@ -237,16 +247,6 @@
     "news_item_snippet": "The conservative CDU has won the most votes, with party leader Merz signalling he hopes to form a government quickly.",
     "news_item_url": "https://www.aljazeera.com/news/2025/2/23/german-election-2025-live-results-by-the-numbers",
     "picture_source": "BBC News",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "India",
-    "title": "Pope Francis",
-    "pubDate": "Sun, 23 Feb 2025 16:30:00 +0530",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQZ2ZbaLLKqBoTtdyIc7xTMNSZJG4CcMUoj9wLmzom5qJipjiaCGq0V7FbKndPRqeIfYvkQuqrj",
-    "news_item_snippet": "Pope Francis is alert and oxygen is still being administered. His blood values are improving thanks to transfusions. There is an initial slight renal ...",
-    "news_item_url": "https://www.vaticannews.va/en/pope/news/2025-02/pope-condition-critical-but-no-new-respiratory-crisis.html",
-    "picture_source": "NDTV",
     "approx_traffic": "50,000+"
   },
   {
@@ -280,26 +280,6 @@
     "approx_traffic": "50,000+"
   },
   {
-    "country": "Argentina",
-    "title": "Atilio Veronelli de que murio",
-    "pubDate": "Sun, 23 Feb 2025 14:00:00 -0300",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcT4F8JLWekXsntc-GoiS8YBsuI0p5UZYkSrna0XWmIIebK6Y_3IBq83MPt8noFIBOsZWjs3zuGx",
-    "news_item_snippet": "Tuvo una larga trayectoria en el \u00e1mbito art\u00edstico, en el que tambi\u00e9n se desempe\u00f1\u00f3 como director y productor. La noticia fue confirmada por la Asociaci\u00f3n de&nbsp;...",
-    "news_item_url": "https://www.infobae.com/teleshow/2025/02/23/murio-el-actor-atilio-veronelli-a-los-65-anos/",
-    "picture_source": "LA NACION",
-    "approx_traffic": "50,000+"
-  },
-  {
-    "country": "Brazil",
-    "title": "Corinthians",
-    "pubDate": "Sun, 23 Feb 2025 11:00:00 -0500",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQ9BXNuqg2ivBzg9PitAAzw5ENF5S3JRF6PjzVGr-ccPKcUTJHCSMDajhrakhk3HP1gz0DORLnl",
-    "news_item_snippet": "Corinthians e Guarani empataram em 2 a 2 em jogo v\u00e1lido pela 12\u00aa rodada do Campeonato Paulista 2025. A partida ocorreu neste domingo (23) na Neo Qu\u00edmica&nbsp;...",
-    "news_item_url": "https://www.cnnbrasil.com.br/esportes/futebol/corinthians/corinthians-empata-com-o-guarani-e-confirma-lideranca-geral-do-paulista/",
-    "picture_source": "globoesporte.com",
-    "approx_traffic": "1,000,000+"
-  },
-  {
     "country": "Brazil",
     "title": "Mirassol x Palmeiras",
     "pubDate": "Sun, 23 Feb 2025 13:00:00 -0500",
@@ -321,6 +301,16 @@
   },
   {
     "country": "Brazil",
+    "title": "Corinthians x Guarani",
+    "pubDate": "Sun, 23 Feb 2025 11:00:00 -0500",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcR0kNskWOaV4yNz8nQKjBY-3b7xlubDiNSGSj2-aWMi7wQeyKCBB_KJV0ZnK18i0SqK4OOc8Be_",
+    "news_item_snippet": "O Corinthians recebe o Guarani hoje (23), \u00e0s 18h30 (de Bras\u00edlia), na Neo Qu\u00edmica Arena, em S\u00e3o Paulo, pela 12\u00aa rodada da fase de grupos do Campeonato&nbsp;...",
+    "news_item_url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2025/02/23/corinthians-x-guarani-ao-vivo-e-com-imagens-horario-e-como-assistir.htm",
+    "picture_source": "CNN Brasil",
+    "approx_traffic": "500,000+"
+  },
+  {
+    "country": "Brazil",
     "title": "Ponte Preta",
     "pubDate": "Sun, 23 Feb 2025 00:00:00 -0500",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTCWvznxJSemJK2W6qalL8FTsqi-_5jHicoZvWI9UD7St3N3VtgnV3folIBZBDEa1_eRu6eEvvi",
@@ -331,7 +321,7 @@
   },
   {
     "country": "Brazil",
-    "title": "Inter de Limeira x Santos",
+    "title": "Inter de Limeira X Santos",
     "pubDate": "Sun, 23 Feb 2025 15:00:00 -0500",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcR7LyUNePlvr6bAfNMQ5zzhhIO4sQJM_QMCr4okmuaYEtfQEpduTBmlJb_mXs-UGi5hQKa8Zydk",
     "news_item_snippet": "A partida est\u00e1 marcada para as 18h30 (hor\u00e1rio de Bras\u00edlia) e ser\u00e1 realizada no Est\u00e1dio Major Jos\u00e9 Levy Sobrinho, em Limeira, S\u00e3o Paulo.",
@@ -383,10 +373,10 @@
     "country": "Saudi Arabia",
     "title": "\u0627\u0644\u0647\u0644\u0627\u0644",
     "pubDate": "Sat, 22 Feb 2025 22:00:00 +0300",
-    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRicsyeEM9HF_urLpE74SU-kaiMqJrLeSEqX6qBHwU4YT5Hj9I9XpYGUNUQy4dd3tt6XYYLMUwp",
-    "news_item_snippet": "\u0642\u0627\u062f \u0627\u0644\u0646\u062c\u0645 \u0627\u0644\u0641\u0631\u0646\u0633\u064a \u0643\u0631\u064a\u0645 \u0628\u0646\u0632\u064a\u0645\u0627\u060c \u0646\u0627\u062f\u064a \u0627\u0644\u0627\u062a\u062d\u0627\u062f \u0627\u0644\u0633\u0639\u0648\u062f\u064a\u060c \u064a\u0648\u0645 \u0623\u0645\u0633 \u0627\u0644\u0633\u0628\u062a\u060c \u0625\u0644\u0649 \u0641\u0648\u0632 \u0643\u0628\u064a\u0631 \u0639\u0644\u0649 \u0627\u0644\u0647\u0644\u0627\u0644 \u062d\u0627\u0645\u0644 \u0627\u0644\u0644\u0642\u0628 \u0628\u0646\u062a\u064a\u062c\u0629 4-1\u060c \u0644\u064a\u0639\u0632\u0632 \u0635\u062f\u0627\u0631\u062a\u0647 \u0644\u0644\u062f\u0648\u0631\u064a \u0627\u0644\u0633\u0639\u0648\u062f\u064a \u0644\u0644\u0645\u062d\u062a\u0631\u0641\u064a\u0646&nbsp;...",
-    "news_item_url": "https://www.alaraby.com/news/%D9%84%D9%8A%D9%84%D8%A9-%D8%B3%D9%82%D9%88%D8%B7-%D8%A7%D9%84%D8%B2%D8%B9%D9%8A%D9%85-%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A-%D8%A8%D9%82%D9%8A%D8%A7%D8%AF%D8%A9-%D8%A8%D9%86%D8%B2%D9%8A%D9%85%D8%A7-%D9%8A%D8%B3%D8%AD%D9%82-%D8%A7%D9%84%D9%87%D9%84%D8%A7%D9%84-%D8%AD%D8%A7%D9%85%D9%84-%D8%A7%D9%84%D9%84%D9%82%D8%A8",
-    "picture_source": "\u0643\u0648\u0648\u0648\u0631\u0629",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcROTuvTSjUXajU9TiF7uKnRDMQ4zMSzvSNUhaB4Vg_v2oiWsQr4uQ2cNxDKm6Y128_H4WMNHJxL",
+    "news_item_snippet": "\u0639\u0627\u0644\u0645 \u0643\u0631\u0629 \u0627\u0644\u0642\u062f\u0645\u060c \u0645\u0643\u0627\u0646 \u0644\u0644\u0639\u0648\u0627\u0637\u0641 \u0639\u0646\u062f\u0645\u0627 \u064a\u062a\u0639\u0644\u0642 \u0627\u0644\u0623\u0645\u0631 \u0628\u0627\u0644\u0646\u062a\u0627\u0626\u062c\u060c \u062e\u0627\u0635\u0629 \u0646\u0627\u062f\u064d \u0643\u0628\u064a\u0631 \u0645\u062b\u0644 \u0627\u0644\u0647\u0644\u0627\u0644 \u062d\u0627\u0645\u0644 \u0644\u0642\u0628 \u0627\u0644\u062f\u0648\u0631\u064a \u0627\u0644\u0633\u0639\u0648\u062f\u064a \u0644\u0644\u0645\u062d\u062a\u0631\u0641\u064a\u0646\u060c \u0627\u0644\u0630\u064a \u064a\u0642\u0648\u062f\u0647 \u0641\u0646\u064a\u0627 \u0627\u0644\u0628\u0631\u062a\u063a\u0627\u0644\u064a \u062c\u0648\u0631\u062c\u064a \u062c\u064a\u0633\u0648\u0633.",
+    "news_item_url": "https://www.kooora.com/?n=1391079",
+    "picture_source": "Okaz Newspaper - \u0635\u062d\u064a\u0641\u0629 \u0639\u0643\u0627\u0638",
     "approx_traffic": "200,000+"
   },
   {
@@ -501,16 +491,6 @@
   },
   {
     "country": "Germany",
-    "title": "Tagesschau",
-    "pubDate": "Sun, 23 Feb 2025 19:00:00 +0100",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTTFaCK0tMUvhbyfnMICEtPlQyMW7x1Y4cQD_G0cCPF3bRRmWDD2FK-AUNHxsd8M1FKjZTepV6_",
-    "news_item_snippet": "Die Koalitionsverhandlungen d\u00fcrften eine Weile dauern, die Wahl des neuen Bundeskanzlers damit auch. Die Regeln f\u00fcr diese \u00dcbergangszeit stehen im&nbsp;...",
-    "news_item_url": "https://www.tagesschau.de/inland/bundestagswahl/wahlsystem/uebergangszeit-regierungsbildung-100.html",
-    "picture_source": "tagesschau.de",
-    "approx_traffic": "200,000+"
-  },
-  {
-    "country": "Germany",
     "title": "Christian Lindner",
     "pubDate": "Sun, 23 Feb 2025 20:00:00 +0100",
     "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSGJYJ_Zc_7ixj25gm0jQkW1rn5q5c7FRQIn7DODoAqDV3OAbgGzqrKprN6nqc5wgSEvkX7BYWn",
@@ -521,23 +501,23 @@
   },
   {
     "country": "Germany",
-    "title": "Sahra Wagenknecht",
+    "title": "Hoffenheim \u2013 VfB Stuttgart",
     "pubDate": "Sun, 23 Feb 2025 19:00:00 +0100",
-    "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQyTUZhx6AQvC0vsR2t18hoMBk0LcdKTpFA4SpGG_qh_kCbPCdCf_TPBrpbp0qnaz3q_lHzCBxu",
-    "news_item_snippet": "Das BSW steht am Tiefpunkt. Den Einzug in den Bundestag hat die Wagenknecht-Partei krachend verpasst. Tritt die Spitzenkandidatin zur\u00fcck?",
-    "news_item_url": "https://www.derwesten.de/politik/wagenknecht-bsw-bundestagswahl-ergebnis-id301432390.html",
-    "picture_source": "Freitag - Das Meinungsmedium",
-    "approx_traffic": "50,000+"
+    "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRZ3EQ9Fv95t_091vqbZuufyCdAVnGmo9JxjXSjr3gFCLFpZWh9mAyLPK5440thW8LYB8rViP9s",
+    "news_item_snippet": "In der Fu\u00dfball-Bundesliga kam der VfB Stuttgart bei der TSG Hoffenheim trotz fr\u00fcher F\u00fchrung nicht \u00fcber ein Unentschieden hinaus.",
+    "news_item_url": "https://www.sportschau.de/regional/swr/swr-orban-kontert-woltemade-hoffenheim-bestraft-chancenwucher-des-vfb-stuttgart-100.html",
+    "picture_source": "kicker",
+    "approx_traffic": "100,000+"
   },
   {
     "country": "Germany",
-    "title": "Olaf Scholz",
-    "pubDate": "Sun, 23 Feb 2025 14:00:00 +0100",
-    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcS9nQNG9j1u2XS2_ZGsVy9TcO1IXPzImmi_etqQDytgpHzr9O-iWgIhRFj7TzSZpNP9lwag_KCM",
-    "news_item_snippet": "Die Koalitionsverhandlungen d\u00fcrften eine Weile dauern, die Wahl des neuen Bundeskanzlers damit auch. Die Regeln f\u00fcr diese \u00dcbergangszeit stehen im&nbsp;...",
-    "news_item_url": "https://www.tagesschau.de/inland/bundestagswahl/wahlsystem/uebergangszeit-regierungsbildung-100.html",
-    "picture_source": "tagesschau.de",
-    "approx_traffic": "50,000+"
+    "title": "Sahra Wagenknecht",
+    "pubDate": "Sun, 23 Feb 2025 19:00:00 +0100",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcRfHPcX9QsUyHm2wH_gr22X_NmjNMjoRi25DtJRxbbKZGu3IqNpdVE1tytAm0IMhckVPDtP4S5u",
+    "news_item_snippet": "Es wurde ganz knapp f\u00fcr das BSW mit dem Bundestagseinzug \u2013 Hochrechnungen sahen Sahra Wagenknechts Partei zuletzt bei f\u00fcnf und 4,9 Prozent der Stimmen.",
+    "news_item_url": "https://www.freitag.de/autoren/dorian-baganz/buendnis-sahra-wagenknecht-warum-das-bsw-um-die-fuenf-prozent-huerde-zittern-muss",
+    "picture_source": "Berliner Morgenpost",
+    "approx_traffic": "100,000+"
   },
   {
     "country": "Germany",
@@ -547,6 +527,16 @@
     "news_item_snippet": "Der h\u00f6chste je erreichte Wert von 91,1 Prozent wurde 1972 erreicht. Damaliger Wahlsieger war Bundeskanzler Willy Brandt (SPD). 1976 wurden noch einmal 90,7&nbsp;...",
     "news_item_url": "https://www.morgenpost.de/politik/article408382178/bundestagswahl-2025-wahlbeteiligung.html",
     "picture_source": "NDR.de",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Germany",
+    "title": "Olaf Scholz",
+    "pubDate": "Sun, 23 Feb 2025 14:00:00 +0100",
+    "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTTFaCK0tMUvhbyfnMICEtPlQyMW7x1Y4cQD_G0cCPF3bRRmWDD2FK-AUNHxsd8M1FKjZTepV6_",
+    "news_item_snippet": "Die Koalitionsverhandlungen d\u00fcrften eine Weile dauern, die Wahl des neuen Bundeskanzlers damit auch. Die Regeln f\u00fcr diese \u00dcbergangszeit stehen im&nbsp;...",
+    "news_item_url": "https://www.tagesschau.de/inland/bundestagswahl/wahlsystem/uebergangszeit-regierungsbildung-100.html",
+    "picture_source": "tagesschau.de",
     "approx_traffic": "50,000+"
   },
   {
@@ -562,7 +552,7 @@
   {
     "country": "Germany",
     "title": "Bundestagswahl 2025",
-    "pubDate": "Sat, 22 Feb 2025 16:00:00 +0100",
+    "pubDate": "Sat, 22 Feb 2025 23:00:00 +0100",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcT6IqRHHNw8wGv5ZwJCVhgBC0SxHWJ9mZea7u_56kjgcpXhkAXeHmEjqDwFyDUMzP4anPsg3b37",
     "news_item_snippet": "Wie lauten die aktuellen Ergebnisse zur Bundestagswahl in den Wahlkreisen? Die Wahlergebnisse in Deutschland live in interaktiven Karten.",
     "news_item_url": "https://www.zdf.de/nachrichten/politik/deutschland/bundestagswahl-2025-ergebnis-deutschland-100.html",
@@ -577,7 +567,7 @@
     "news_item_snippet": "Manita dell&#39;Atalanta ai danni di un Empoli che ci ha provato la prima mezz&#39;ora, ma \u00e8 poi crollato in pochi minuti dopo l&#39;autorete di Gyasi,&nbsp;...",
     "news_item_url": "https://www.repubblica.it/sport/dirette/calcio/serie-a-2024/diretta-empoli-atalanta-g2456356/",
     "picture_source": "Sky Sport",
-    "approx_traffic": "100,000+"
+    "approx_traffic": "200,000+"
   },
   {
     "country": "Italy",
@@ -594,8 +584,8 @@
     "title": "Sciopero 24 febbraio 2025",
     "pubDate": "Sun, 23 Feb 2025 17:00:00 +0100",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRKi59Pb0sPuD1VFymYrjv6bX84l-Rlq0yq_4dnvLiBEsqAPr0pf_mD2xkA8q8594xupNic0he3",
-    "news_item_snippet": "La mobilitazione coinvolger\u00e0 l&#39;intera rete Atac e Cotral. I dettagli e gli orari.",
-    "news_item_url": "https://www.romatoday.it/attualita/sciopero-roma-oggi-24-febbraio-2025.html",
+    "news_item_snippet": "Luned\u00ec 24 febbraio 2025 \u00e8 sciopero nazionale del trasporto pubblico locale per tutta la giornata. L&#39;agitazione, che coinvolge anche Avm/Actv,&nbsp;...",
+    "news_item_url": "https://www.veneziatoday.it/cronaca/sciopero-actv-oggi-24-febbraio-2025.html",
     "picture_source": "Corriere della Sera",
     "approx_traffic": "100,000+"
   },
@@ -607,6 +597,16 @@
     "news_item_snippet": "La vittoria in Champions League contro il Manchester City ha cancellato tutto. Il Real Madrid torna a sorridere anche in campionato: 2-0 al Girona,&nbsp;...",
     "news_item_url": "https://www.tuttomercatoweb.com/calcio-estero/il-real-madrid-non-sbaglia-2-0-al-girona-barcellona-agganciato-al-primo-posto-2073057",
     "picture_source": "Eurosport.it",
+    "approx_traffic": "50,000+"
+  },
+  {
+    "country": "Italy",
+    "title": "Kean",
+    "pubDate": "Sun, 23 Feb 2025 17:00:00 +0100",
+    "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTV9gdJ9GQKs9hMJG6UG1-LFltRa2AODp0jxIfJ1WftOGNFwix97uiQFlEoBzR5QlItizK_ARWh",
+    "news_item_snippet": "Leggi su Sky TG24 l&#39;articolo Fiorentina, l&#39;attaccante Moise Kean dimesso dall&#39;ospedale di Verona: test negativi.",
+    "news_item_url": "https://tg24.sky.it/sport/2025/02/24/moise-kean-dimesso-ospedale-fiorentina",
+    "picture_source": "Rai News",
     "approx_traffic": "50,000+"
   },
   {
@@ -664,8 +664,8 @@
     "title": "Elecciones Alemania",
     "pubDate": "Sun, 23 Feb 2025 09:00:00 +0100",
     "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSYbYceDk8tKPtkLVEiZaP_-CtcB235-0OCOBReHxLuXv_jbZHxermZ8amqjZ9gPoqpTcZNKwBm",
-    "news_item_snippet": "Las proyecciones provisionales sobre voto real publicadas tras las elecciones legislativas celebradas este...",
-    "news_item_url": "https://www.europapress.es/internacional/noticia-elecciones-alemania-2025-resultados-graficos-datos-clave-20250223203607.html",
+    "news_item_snippet": "Un an\u00e1lisis con los datos clave, desde las posibles coaliciones al perfil del votante de extrema derecha.",
+    "news_item_url": "https://elpais.com/internacional/2025-02-24/que-ha-pasado-en-alemania-las-elecciones-en-nueve-graficos-esenciales.html",
     "picture_source": "BBC Mundo",
     "approx_traffic": "200,000+"
   },
@@ -744,10 +744,10 @@
     "title": "German elections",
     "pubDate": "Sun, 23 Feb 2025 11:00:00 +0000",
     "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRNIRc-KHMQZyHbaT6Dwazn6URAkRCzG0e9gfbMpu2hXU2II7eaN5ncPLnhXyhHpyIkYhaWjX7l",
-    "news_item_snippet": "The Christian Democrats won with 28.6% of the vote while the far-right Alternative for Germany came second with 20.8%.",
-    "news_item_url": "https://www.bbc.co.uk/news/live/ckg82wwrwy6t",
+    "news_item_snippet": "The four parties of the political centre, CDU/CSU, SPD, Greens and FDP received almost 90% of the votes in 2002; today it was slightly more than 60%. The German&nbsp;...",
+    "news_item_url": "https://think.ing.com/snaps/coalition-options-down-to-one-after-a-long-german-election-night/",
     "picture_source": "BBC News",
-    "approx_traffic": "100,000+"
+    "approx_traffic": "200,000+"
   },
   {
     "country": "United Kingdom",
